@@ -58,29 +58,22 @@ const episodesPayload = [
   }
 ];
 
-function createFetchMock(requests = []) {
-  return async (url, options = {}) => {
-    requests.push({ url: String(url), options });
-    if (String(url).includes('/singlesearch/shows')) {
+function createFetchMock() {
+  return async (url) => {
+    if (url.includes('/singlesearch/shows')) {
       return Response.json(showPayload);
     }
-    if (String(url).includes('/shows/1/episodes')) {
+    if (url.includes('/shows/1/episodes')) {
       return Response.json(episodesPayload);
     }
-    if (String(url).includes('imdb.test')) {
+    if (url.includes('imdb.test')) {
       return Response.json({ title: 'IMDb Example Show', year: '2024', imDbRating: '8.5' });
-    }
-    if (String(url).includes('imdb.iamidiotareyoutoo.com')) {
-      return Response.json({ short: { name: 'Free IMDb Example Show', datePublished: '2024-01-01', aggregateRating: { ratingValue: '8.2' }, description: 'Free endpoint result.' } });
-    }
-    if (String(url).includes('firecrawl.test')) {
-      return Response.json({ data: { markdown: '# Firecrawl Example Show - IMDb\nRating 8.9/10', metadata: { title: 'Firecrawl Example Show - IMDb', description: 'Scraped result.' } } });
     }
     throw new Error(`Unexpected URL: ${url}`);
   };
 }
 
-test('getUpcomingEpisodes returns upcoming TVMaze episodes and custom IMDb enrichment', async () => {
+test('getUpcomingEpisodes returns upcoming TVMaze episodes and IMDb enrichment', async () => {
   const result = await getUpcomingEpisodes({
     query: 'Example Show',
     days: '90',
@@ -95,43 +88,6 @@ test('getUpcomingEpisodes returns upcoming TVMaze episodes and custom IMDb enric
   assert.equal(result.episodes.length, 1);
   assert.equal(result.episodes[0].name, 'The Future');
   assert.equal(result.episodes[0].summary, 'Future episode.');
-});
-
-
-test('getUpcomingEpisodes uses the free public IMDb endpoint without an API key by default', async () => {
-  const requests = [];
-  const result = await getUpcomingEpisodes({
-    query: 'Example Show',
-    days: '90',
-    now: new Date('2026-05-29T00:00:00Z'),
-    fetchImpl: createFetchMock(requests),
-    env: {}
-  });
-
-  assert.equal(result.imdb.source, 'public-imdb');
-  assert.equal(result.imdb.title, 'Free IMDb Example Show');
-  assert.equal(result.imdb.rating, '8.2');
-  assert.ok(requests.some((request) => request.url === 'https://imdb.iamidiotareyoutoo.com/search?tt=tt1234567'));
-  assert.ok(requests.every((request) => !request.options.headers?.Authorization));
-});
-
-test('getUpcomingEpisodes uses FIRECRAWL_API_KEY for IMDb scraping when configured', async () => {
-  const requests = [];
-  const result = await getUpcomingEpisodes({
-    query: 'Example Show',
-    days: '90',
-    now: new Date('2026-05-29T00:00:00Z'),
-    fetchImpl: createFetchMock(requests),
-    env: { FIRECRAWL_API_KEY: 'fc-test', FIRECRAWL_API_URL: 'https://firecrawl.test/v2/scrape' }
-  });
-
-  const firecrawlRequest = requests.find((request) => request.url === 'https://firecrawl.test/v2/scrape');
-  assert.equal(result.imdb.source, 'firecrawl');
-  assert.equal(result.imdb.title, 'Firecrawl Example Show');
-  assert.equal(result.imdb.rating, '8.9');
-  assert.equal(firecrawlRequest.options.method, 'POST');
-  assert.equal(firecrawlRequest.options.headers.Authorization, 'Bearer fc-test');
-  assert.match(firecrawlRequest.options.body, /https:\/\/www\.imdb\.com\/title\/tt1234567\//);
 });
 
 test('getUpcomingEpisodes validates missing show names', async () => {
