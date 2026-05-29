@@ -1,0 +1,23 @@
+{
+  "name": "makeics-tv-episodes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetch upcoming TV show episodes from TVMaze with public IMDb enrichment and optional Firecrawl scraping, with local and Vercel support.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "tvmaze",
+    "imdb",
+    "episodes",
+    "ics",
+    "vercel"
+  ],
+  "license": "MIT"
+}

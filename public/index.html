@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MakeICS TV Upcoming Episodes</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <p class="eyebrow">TVMaze + optional IMDb enrichment</p>
+        <h1>Find upcoming TV episodes and export them to calendar.</h1>
+        <p class="subtitle">
+          Search a show, see its next air dates, and download an ICS file that works with Google Calendar,
+          Apple Calendar, Outlook, and other calendar apps.
+        </p>
+      </section>
+
+      <form id="search-form" class="search-card">
+        <label for="show-input">TV show</label>
+        <div class="input-row">
+          <input id="show-input" name="show" type="search" placeholder="e.g. The Last of Us" required />
+          <select id="days-input" name="days" aria-label="Lookahead window">
+            <option value="30">Next 30 days</option>
+            <option value="90" selected>Next 90 days</option>
+            <option value="180">Next 180 days</option>
+            <option value="365">Next year</option>
+          </select>
+          <button type="submit">Fetch episodes</button>
+        </div>
+        <p class="hint">
+          The app uses TVMaze for show and episode schedules. It uses the free public IMDb endpoint by default, or <code>FIRECRAWL_API_KEY</code>
+          for Firecrawl-powered IMDb page scraping when configured.
+        </p>
+      </form>
+
+      <section id="status" class="status" role="status" aria-live="polite"></section>
+      <section id="result" class="result" hidden></section>
+    </main>
+
+    <template id="episode-template">
+      <article class="episode-card">
+        <div>
+          <p class="episode-date"></p>
+          <h3></h3>
+          <p class="episode-meta"></p>
+          <p class="episode-summary"></p>
+        </div>
+        <a target="_blank" rel="noopener">TVMaze</a>
+      </article>
+    </template>
+
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>
