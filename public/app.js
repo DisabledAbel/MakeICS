@@ -33,19 +33,63 @@ function renderResults(payload, days) {
 
   const header = document.createElement('div');
   header.className = 'show-header';
-  header.innerHTML = `
-    ${show.image ? `<img src="${show.image}" alt="${show.name} poster" />` : ''}
-    <div>
-      <p class="eyebrow">${show.status || 'Status unknown'}${show.network ? ` · ${show.network}` : ''}</p>
-      <h2>${show.name}</h2>
-      <p>${show.summary || 'No show summary is available.'}</p>
-      <div class="actions">
-        <a href="${show.tvmazeUrl}" target="_blank" rel="noopener">Open TVMaze</a>
-        ${show.imdbId ? `<a href="https://www.imdb.com/title/${show.imdbId}/" target="_blank" rel="noopener">Open IMDb</a>` : ''}
-        <a href="/api/episodes?show=${encodeURIComponent(show.name)}&days=${encodeURIComponent(days)}&format=ics">Download ICS</a>
-      </div>
-    </div>
-  `;
+
+  // Conditionally add poster image
+  if (show.image) {
+    const img = document.createElement('img');
+    img.src = show.image;
+    img.alt = `${show.name} poster`;
+    header.append(img);
+  }
+
+  const contentDiv = document.createElement('div');
+
+  // Eyebrow (status and network)
+  const eyebrow = document.createElement('p');
+  eyebrow.className = 'eyebrow';
+  eyebrow.textContent = `${show.status || 'Status unknown'}${show.network ? ` · ${show.network}` : ''}`;
+  contentDiv.append(eyebrow);
+
+  // Title
+  const title = document.createElement('h2');
+  title.textContent = show.name;
+  contentDiv.append(title);
+
+  // Summary
+  const summary = document.createElement('p');
+  summary.textContent = show.summary || 'No show summary is available.';
+  contentDiv.append(summary);
+
+  // Actions container
+  const actions = document.createElement('div');
+  actions.className = 'actions';
+
+  // TVMaze link
+  const tvmazeLink = document.createElement('a');
+  tvmazeLink.href = show.tvmazeUrl;
+  tvmazeLink.target = '_blank';
+  tvmazeLink.rel = 'noopener';
+  tvmazeLink.textContent = 'Open TVMaze';
+  actions.append(tvmazeLink);
+
+  // IMDb link (conditional)
+  if (show.imdbId) {
+    const imdbLink = document.createElement('a');
+    imdbLink.href = `https://www.imdb.com/title/${show.imdbId}/`;
+    imdbLink.target = '_blank';
+    imdbLink.rel = 'noopener';
+    imdbLink.textContent = 'Open IMDb';
+    actions.append(imdbLink);
+  }
+
+  // ICS download link
+  const icsLink = document.createElement('a');
+  icsLink.href = `/api/episodes?show=${encodeURIComponent(show.name)}&days=${encodeURIComponent(days)}&format=ics`;
+  icsLink.textContent = 'Download ICS';
+  actions.append(icsLink);
+
+  contentDiv.append(actions);
+  header.append(contentDiv);
   resultEl.append(header);
 
   if (imdb?.sourceConfigured) {
