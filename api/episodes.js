@@ -14,11 +14,15 @@ export default async function handler(req, res) {
   }
 
   const requestUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
+  const showId = requestUrl.searchParams.get('showId') || requestUrl.searchParams.get('id');
   const query = requestUrl.searchParams.get('show') || requestUrl.searchParams.get('q');
   const format = requestUrl.searchParams.get('format');
 
   try {
-    const result = await getUpcomingEpisodes({ query });
+    // Prefer showId for stable, deterministic lookups; fall back to fuzzy query
+    const result = showId
+      ? await getUpcomingEpisodes({ showId })
+      : await getUpcomingEpisodes({ query });
 
     if (format === 'ics') {
       res.statusCode = 200;

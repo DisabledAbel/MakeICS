@@ -26,8 +26,8 @@ function formatAirDate(episode) {
   }).format(date);
 }
 
-function icsUrlForShow(showName) {
-  const path = `/api/episodes?show=${encodeURIComponent(showName)}&format=ics`;
+function icsUrlForShow(showId) {
+  const path = `/api/episodes?showId=${encodeURIComponent(showId)}&format=ics`;
   return new URL(path, window.location.origin).href;
 }
 
@@ -50,7 +50,7 @@ async function copyText(value) {
 
 function renderResults(payload) {
   const { show, imdb, episodes, window: resultWindow } = payload;
-  const icsUrl = icsUrlForShow(show.name);
+  const icsUrl = icsUrlForShow(show.id);
   resultEl.hidden = false;
   resultEl.innerHTML = '';
 
