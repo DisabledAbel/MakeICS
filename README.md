@@ -1,5 +1,7 @@
 # MakeICS TV Upcoming Episodes
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2FMakeICS)
+
 A small Vercel-ready web application that searches for TV shows, fetches all known upcoming episode air dates from the [TVMaze API](https://www.tvmaze.com/api), enriches the show from a public/free IMDb endpoint or optional Firecrawl scraping, and provides an `.ics` calendar URL you can copy into calendar apps.
 
 ## Features
@@ -12,8 +14,21 @@ A small Vercel-ready web application that searches for TV shows, fetches all kno
 
 ## Run locally
 
+Clone the repository, move into the project directory, install dependencies, and start the local server:
+
+```bash
+git clone https://github.com/your-username/MakeICS.git
+```
+
+```bash
+cd MakeICS
+```
+
 ```bash
 npm install
+```
+
+```bash
 npm run dev
 ```
 
@@ -21,7 +36,9 @@ Open <http://localhost:3000>, start typing to pick a suggested show, search, and
 
 ## Vercel deployment
 
-This repository includes `vercel.json`, a `public/` static frontend, and `api/episodes.js` for the serverless function. Deploy with:
+Click **Deploy with Vercel** above to create a new Vercel project from this repository in one click. If you fork or rename the repository, update the badge URL so the `repository-url` points to your GitHub repository.
+
+This repository includes `vercel.json`, a `public/` static frontend, and `api/episodes.js` for the serverless function. You can also deploy from the command line with:
 
 ```bash
 vercel
