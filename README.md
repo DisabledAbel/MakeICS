@@ -116,11 +116,3 @@ Example local usage with a custom free IMDb-compatible endpoint:
 ```bash
 IMDB_API_URL='https://example-imdb-api.test/title/{imdbId}' npm run dev
 ```
-
-Configure the same variables in Vercel Project Settings for production.
-
-## Tests
-
-```bash
-npm test
-```
