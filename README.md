@@ -1,34 +1,66 @@
-# MakeICS TV Upcoming Episodes
+# MakeICS
 
-A small Vercel-ready web application that searches for TV shows, fetches all known upcoming episode air dates from the [TVMaze API](https://www.tvmaze.com/api), enriches the show from a public/free IMDb endpoint or optional Firecrawl scraping, and provides an `.ics` calendar URL you can copy into calendar apps.
+> Generate dynamic `.ics` calendar feeds from schedules, APIs, websites, and custom event data
 
-## Features
+---
 
-- Search for a TV show by name with Google-style suggestions while typing.
-- Fetch every known upcoming episode from TVMaze without next-week/month/year feed limits.
-- IMDb enrichment through the public/free FM-DB endpoint, with optional Firecrawl scraping through `FIRECRAWL_API_KEY`.
-- Copy one all-time ICS calendar URL that asks calendar apps and Vercel to refresh once per day.
-- Runs locally with Node.js and deploys to Vercel as static assets plus a serverless API route.
+## ✨ Features
 
-## Run locally
+* 📅 Generate valid `.ics` calendar feeds
+* 🌐 Create calendars from websites or APIs
+* ⚡ Auto-update schedules dynamically
+* 🏀 Perfect for sports schedules, TV listings, events, and reminders
+* 🔄 Export recurring or one-time events
+* ☁️ Easy deployment on Vercel, GitHub Pages, or your own server
+* 🛠 Simple and developer-friendly setup
 
-Clone the repository, move into the project directory, install dependencies, and start the local server:
+---
+
+## 🚀 Use Cases
+
+MakeICS can be used for:
+
+* Sports schedules
+* TV show calendars
+* School schedules
+* Event tracking
+* Reminder systems
+* Community calendars
+* Streaming schedules
+* Custom automation workflows
+
+---
+
+## ▶️ Running Locally
+
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/MakeICS.git
+git clone https://github.com/DisabledAbel/MakeICS.git
 ```
-then:
+
+### 2. Enter the project folder
 
 ```bash
 cd MakeICS
 ```
 
+### 3. Install dependencies
+
 ```bash
 npm install
 ```
 
+### 4. Start the development server
+
 ```bash
 npm run dev
+```
+
+Or run directly with Node.js:
+
+```bash
+node index.js
 ```
 
 Open <http://localhost:3000>, start typing to pick a suggested show, search, and click **Copy ICS URL** to copy the all-time calendar feed URL. The ICS feed includes daily refresh metadata and the API cache revalidates daily so newly published episodes can appear without changing the URL.
