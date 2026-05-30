@@ -1,13 +1,13 @@
 # MakeICS TV Upcoming Episodes
 
-A small Vercel-ready web application that searches for TV shows, fetches upcoming episode air dates from the [TVMaze API](https://www.tvmaze.com/api), enriches the show from a public/free IMDb endpoint or optional Firecrawl scraping, and provides an `.ics` calendar URL you can copy into calendar apps.
+A small Vercel-ready web application that searches for TV shows, fetches all known upcoming episode air dates from the [TVMaze API](https://www.tvmaze.com/api), enriches the show from a public/free IMDb endpoint or optional Firecrawl scraping, and provides an `.ics` calendar URL you can copy into calendar apps.
 
 ## Features
 
 - Search for a TV show by name.
-- Fetch upcoming episodes from TVMaze for the next 30, 90, 180, or 365 days.
+- Fetch every known upcoming episode from TVMaze without next-week/month/year feed limits.
 - IMDb enrichment through the public/free FM-DB endpoint, with optional Firecrawl scraping through `FIRECRAWL_API_KEY`.
-- Copy an ICS calendar URL for upcoming episodes.
+- Copy one all-time ICS calendar URL that asks calendar apps and Vercel to refresh once per day.
 - Runs locally with Node.js and deploys to Vercel as static assets plus a serverless API route.
 
 ## Run locally
@@ -17,7 +17,7 @@ npm install
 npm run dev
 ```
 
-Open <http://localhost:3000>, search for a show, and click **Copy ICS URL** to copy the calendar feed URL.
+Open <http://localhost:3000>, search for a show, and click **Copy ICS URL** to copy the all-time calendar feed URL. The ICS feed includes daily refresh metadata and the API cache revalidates daily so newly published episodes can appear without changing the URL.
 
 ## Vercel deployment
 
@@ -32,8 +32,8 @@ or import the repository in the Vercel dashboard. No build step is required.
 ## API
 
 ```http
-GET /api/episodes?show=The%20Last%20of%20Us&days=90
-GET /api/episodes?show=The%20Last%20of%20Us&days=90&format=ics
+GET /api/episodes?show=The%20Last%20of%20Us
+GET /api/episodes?show=The%20Last%20of%20Us&format=ics
 ```
 
 ### JSON response shape

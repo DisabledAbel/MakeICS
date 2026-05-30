@@ -26,8 +26,8 @@ function formatAirDate(episode) {
   }).format(date);
 }
 
-function icsUrlForShow(showName, days) {
-  const path = `/api/episodes?show=${encodeURIComponent(showName)}&days=${encodeURIComponent(days)}&format=ics`;
+function icsUrlForShow(showName) {
+  const path = `/api/episodes?show=${encodeURIComponent(showName)}&format=ics`;
   return new URL(path, window.location.origin).href;
 }
 
@@ -48,9 +48,9 @@ async function copyText(value) {
   textarea.remove();
 }
 
-function renderResults(payload, days) {
+function renderResults(payload) {
   const { show, imdb, episodes, window: resultWindow } = payload;
-  const icsUrl = icsUrlForShow(show.name, days);
+  const icsUrl = icsUrlForShow(show.name);
   resultEl.hidden = false;
   resultEl.innerHTML = '';
 
@@ -83,8 +83,8 @@ function renderResults(payload, days) {
   const count = document.createElement('p');
   count.className = 'count';
   count.textContent = episodes.length
-    ? `${episodes.length} upcoming episode${episodes.length === 1 ? '' : 's'} between ${resultWindow.from} and ${resultWindow.to}.`
-    : `No upcoming episodes found between ${resultWindow.from} and ${resultWindow.to}.`;
+    ? `${episodes.length} known upcoming episode${episodes.length === 1 ? '' : 's'} from ${resultWindow.from} onward.`
+    : `No upcoming episodes found from ${resultWindow.from} onward.`;
   resultEl.append(count);
 
   const list = document.createElement('div');
@@ -108,19 +108,18 @@ form.addEventListener('submit', async (event) => {
   event.preventDefault();
   const data = new FormData(form);
   const show = data.get('show');
-  const days = data.get('days');
 
   resultEl.hidden = true;
   setStatus(`Fetching upcoming episodes for ${show}...`);
 
   try {
-    const response = await fetch(`/api/episodes?show=${encodeURIComponent(show)}&days=${encodeURIComponent(days)}`);
+    const response = await fetch(`/api/episodes?show=${encodeURIComponent(show)}`);
     const payload = await response.json();
     if (!response.ok) {
       throw new Error(payload.error || 'The episode lookup failed.');
     }
     setStatus('');
-    renderResults(payload, days);
+    renderResults(payload);
   } catch (error) {
     setStatus(error.message, true);
   }

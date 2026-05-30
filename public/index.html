@@ -12,7 +12,7 @@
         <p class="eyebrow">TVMaze + optional IMDb enrichment</p>
         <h1>Find upcoming TV episodes and export them to calendar.</h1>
         <p class="subtitle">
-          Search a show, see its next air dates, and copy an ICS calendar URL for Google Calendar,
+          Search a show, see every known upcoming episode, and copy an ICS calendar URL that refreshes daily in Google Calendar,
           Apple Calendar, Outlook, and other calendar apps.
         </p>
       </section>
@@ -21,16 +21,10 @@
         <label for="show-input">TV show</label>
         <div class="input-row">
           <input id="show-input" name="show" type="search" placeholder="e.g. The Last of Us" required />
-          <select id="days-input" name="days" aria-label="Lookahead window">
-            <option value="30">Next 30 days</option>
-            <option value="90" selected>Next 90 days</option>
-            <option value="180">Next 180 days</option>
-            <option value="365">Next year</option>
-          </select>
           <button type="submit">Fetch episodes</button>
         </div>
         <p class="hint">
-          The app uses TVMaze for show and episode schedules. It uses the free public IMDb endpoint by default, or <code>FIRECRAWL_API_KEY</code>
+          The all-time feed uses TVMaze for show and episode schedules and asks calendar apps to refresh every day. It uses the free public IMDb endpoint by default, or <code>FIRECRAWL_API_KEY</code>
           for Firecrawl-powered IMDb page scraping when configured.
         </p>
       </form>

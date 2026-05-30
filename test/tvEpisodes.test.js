@@ -84,7 +84,6 @@ function createFetchMock(requests = []) {
 test('getUpcomingEpisodes returns upcoming TVMaze episodes and custom IMDb enrichment', async () => {
   const result = await getUpcomingEpisodes({
     query: 'Example Show',
-    days: '90',
     now: new Date('2026-05-29T00:00:00Z'),
     fetchImpl: createFetchMock(),
     env: { IMDB_API_URL: 'https://imdb.test/title/{imdbId}' }
@@ -93,8 +92,9 @@ test('getUpcomingEpisodes returns upcoming TVMaze episodes and custom IMDb enric
   assert.equal(result.show.name, 'Example Show');
   assert.equal(result.show.imdbId, 'tt1234567');
   assert.equal(result.imdb.title, 'IMDb Example Show');
-  assert.equal(result.episodes.length, 1);
-  assert.equal(result.episodes[0].name, 'The Future');
+  assert.equal(result.window.mode, 'all-time');
+  assert.equal(result.episodes.length, 2);
+  assert.deepEqual(result.episodes.map((episode) => episode.name), ['The Future', 'Too Far Away']);
   assert.equal(result.episodes[0].summary, 'Future episode.');
 });
 
@@ -103,7 +103,6 @@ test('getUpcomingEpisodes uses the free public IMDb endpoint without an API key 
   const requests = [];
   const result = await getUpcomingEpisodes({
     query: 'Example Show',
-    days: '90',
     now: new Date('2026-05-29T00:00:00Z'),
     fetchImpl: createFetchMock(requests),
     env: {}
@@ -120,7 +119,6 @@ test('getUpcomingEpisodes uses FIRECRAWL_API_KEY for IMDb scraping when configur
   const requests = [];
   const result = await getUpcomingEpisodes({
     query: 'Example Show',
-    days: '90',
     now: new Date('2026-05-29T00:00:00Z'),
     fetchImpl: createFetchMock(requests),
     env: { FIRECRAWL_API_KEY: 'fc-test', FIRECRAWL_API_URL: 'https://firecrawl.test/v2/scrape' }
@@ -142,7 +140,7 @@ test('getUpcomingEpisodes validates missing show names', async () => {
   );
 });
 
-test('toIcs creates a calendar event for each upcoming episode', async () => {
+test('toIcs creates a daily-refreshing calendar event feed for each upcoming episode', async () => {
   const result = await getUpcomingEpisodes({
     query: 'Example Show',
     now: new Date('2026-05-29T00:00:00Z'),
@@ -152,16 +150,24 @@ test('toIcs creates a calendar event for each upcoming episode', async () => {
 
   const ics = toIcs(result);
   assert.match(ics, /BEGIN:VCALENDAR/);
+  assert.match(ics, /X-PUBLISHED-TTL:PT24H/);
+  assert.match(ics, /REFRESH-INTERVAL;VALUE=DURATION:PT24H/);
   assert.match(ics, /SUMMARY:Example Show S02E03 The Future/);
+  assert.match(ics, /SUMMARY:Example Show S02E04 Too Far Away/);
   assert.match(ics, /END:VCALENDAR/);
 });
 
-test('frontend offers copying the ICS URL instead of a direct download link', async () => {
+test('frontend offers one all-time copied ICS URL instead of dated feeds', async () => {
   const appScript = await readFile(new URL('../public/app.js', import.meta.url), 'utf8');
+  const indexPage = await readFile(new URL('../public/index.html', import.meta.url), 'utf8');
   const apiHandler = await readFile(new URL('../api/episodes.js', import.meta.url), 'utf8');
 
   assert.match(appScript, /Copy ICS URL/);
   assert.match(appScript, /navigator\.clipboard/);
+  assert.match(appScript, /format=ics/);
+  assert.doesNotMatch(appScript, /days=/);
+  assert.doesNotMatch(indexPage, /Next 30 days|Next 90 days|Next year|select id="days-input"/);
   assert.doesNotMatch(appScript, /Download ICS/);
   assert.doesNotMatch(apiHandler, /Content-Disposition/);
+  assert.match(apiHandler, /s-maxage=86400/);
 });

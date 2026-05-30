@@ -3,7 +3,7 @@ import { getUpcomingEpisodes, toIcs } from '../lib/tvEpisodes.js';
 function sendJson(res, statusCode, payload) {
   res.statusCode = statusCode;
   res.setHeader('Content-Type', 'application/json; charset=utf-8');
-  res.setHeader('Cache-Control', 's-maxage=300, stale-while-revalidate=600');
+  res.setHeader('Cache-Control', 's-maxage=86400, stale-while-revalidate=3600');
   res.end(JSON.stringify(payload));
 }
 
@@ -15,16 +15,15 @@ export default async function handler(req, res) {
 
   const requestUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
   const query = requestUrl.searchParams.get('show') || requestUrl.searchParams.get('q');
-  const days = requestUrl.searchParams.get('days');
   const format = requestUrl.searchParams.get('format');
 
   try {
-    const result = await getUpcomingEpisodes({ query, days });
+    const result = await getUpcomingEpisodes({ query });
 
     if (format === 'ics') {
       res.statusCode = 200;
       res.setHeader('Content-Type', 'text/calendar; charset=utf-8');
-      res.setHeader('Cache-Control', 's-maxage=300, stale-while-revalidate=600');
+      res.setHeader('Cache-Control', 's-maxage=86400, stale-while-revalidate=3600');
       return res.end(toIcs(result));
     }
 
