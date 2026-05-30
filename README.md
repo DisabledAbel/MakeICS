@@ -17,6 +17,7 @@ Clone the repository, move into the project directory, install dependencies, and
 ```bash
 git clone https://github.com/your-username/MakeICS.git
 ```
+then:
 
 ```bash
 cd MakeICS
