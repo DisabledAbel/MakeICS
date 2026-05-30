@@ -18,8 +18,17 @@ Clone the repository, move into the project directory, install dependencies, and
 
 ```bash
 git clone https://github.com/your-username/MakeICS.git
+```
+
+```bash
 cd MakeICS
+```
+
+```bash
 npm install
+```
+
+```bash
 npm run dev
 ```
 
