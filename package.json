@@ -2,7 +2,7 @@
   "name": "makeics-tv-episodes",
   "version": "1.0.0",
   "private": true,
-  "description": "Fetch upcoming TV show episodes from TVMaze and an optional IMDb API endpoint, with local and Vercel support.",
+  "description": "Fetch upcoming TV show episodes from TVMaze with public IMDb enrichment and optional Firecrawl scraping, with local and Vercel support.",
   "type": "module",
   "scripts": {
     "dev": "node server.js",

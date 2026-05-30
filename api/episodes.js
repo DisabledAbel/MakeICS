@@ -3,7 +3,7 @@ import { getUpcomingEpisodes, toIcs } from '../lib/tvEpisodes.js';
 function sendJson(res, statusCode, payload) {
   res.statusCode = statusCode;
   res.setHeader('Content-Type', 'application/json; charset=utf-8');
-  res.setHeader('Cache-Control', 's-maxage=300, stale-while-revalidate=600');
+  res.setHeader('Cache-Control', 's-maxage=86400, stale-while-revalidate=3600');
   res.end(JSON.stringify(payload));
 }
 
@@ -14,19 +14,20 @@ export default async function handler(req, res) {
   }
 
   const requestUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
+  const showId = requestUrl.searchParams.get('showId') || requestUrl.searchParams.get('id');
   const query = requestUrl.searchParams.get('show') || requestUrl.searchParams.get('q');
-  const days = requestUrl.searchParams.get('days');
   const format = requestUrl.searchParams.get('format');
 
   try {
-    const result = await getUpcomingEpisodes({ query, days });
+    // Prefer showId for stable, deterministic lookups; fall back to fuzzy query
+    const result = showId
+      ? await getUpcomingEpisodes({ showId })
+      : await getUpcomingEpisodes({ query });
 
     if (format === 'ics') {
-      const filename = `${result.show.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') || 'episodes'}.ics`;
       res.statusCode = 200;
       res.setHeader('Content-Type', 'text/calendar; charset=utf-8');
-      res.setHeader('Content-Disposition', `attachment; filename="${filename}"`);
-      res.setHeader('Cache-Control', 's-maxage=300, stale-while-revalidate=600');
+      res.setHeader('Cache-Control', 's-maxage=86400, stale-while-revalidate=3600');
       return res.end(toIcs(result));
     }
 

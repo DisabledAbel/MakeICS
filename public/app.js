@@ -26,70 +26,49 @@ function formatAirDate(episode) {
   }).format(date);
 }
 
-function renderResults(payload, days) {
+function icsUrlForShow(showId) {
+  const path = `/api/episodes?showId=${encodeURIComponent(showId)}&format=ics`;
+  return new URL(path, window.location.origin).href;
+}
+
+async function copyText(value) {
+  if (navigator.clipboard?.writeText) {
+    await navigator.clipboard.writeText(value);
+    return;
+  }
+
+  const textarea = document.createElement('textarea');
+  textarea.value = value;
+  textarea.setAttribute('readonly', '');
+  textarea.style.position = 'fixed';
+  textarea.style.opacity = '0';
+  document.body.append(textarea);
+  textarea.select();
+  document.execCommand('copy');
+  textarea.remove();
+}
+
+function renderResults(payload) {
   const { show, imdb, episodes, window: resultWindow } = payload;
+  const icsUrl = icsUrlForShow(show.id);
   resultEl.hidden = false;
   resultEl.innerHTML = '';
 
   const header = document.createElement('div');
   header.className = 'show-header';
-
-  // Conditionally add poster image
-  if (show.image) {
-    const img = document.createElement('img');
-    img.src = show.image;
-    img.alt = `${show.name} poster`;
-    header.append(img);
-  }
-
-  const contentDiv = document.createElement('div');
-
-  // Eyebrow (status and network)
-  const eyebrow = document.createElement('p');
-  eyebrow.className = 'eyebrow';
-  eyebrow.textContent = `${show.status || 'Status unknown'}${show.network ? ` · ${show.network}` : ''}`;
-  contentDiv.append(eyebrow);
-
-  // Title
-  const title = document.createElement('h2');
-  title.textContent = show.name;
-  contentDiv.append(title);
-
-  // Summary
-  const summary = document.createElement('p');
-  summary.textContent = show.summary || 'No show summary is available.';
-  contentDiv.append(summary);
-
-  // Actions container
-  const actions = document.createElement('div');
-  actions.className = 'actions';
-
-  // TVMaze link
-  const tvmazeLink = document.createElement('a');
-  tvmazeLink.href = show.tvmazeUrl;
-  tvmazeLink.target = '_blank';
-  tvmazeLink.rel = 'noopener';
-  tvmazeLink.textContent = 'Open TVMaze';
-  actions.append(tvmazeLink);
-
-  // IMDb link (conditional)
-  if (show.imdbId) {
-    const imdbLink = document.createElement('a');
-    imdbLink.href = `https://www.imdb.com/title/${show.imdbId}/`;
-    imdbLink.target = '_blank';
-    imdbLink.rel = 'noopener';
-    imdbLink.textContent = 'Open IMDb';
-    actions.append(imdbLink);
-  }
-
-  // ICS download link
-  const icsLink = document.createElement('a');
-  icsLink.href = `/api/episodes?show=${encodeURIComponent(show.name)}&days=${encodeURIComponent(days)}&format=ics`;
-  icsLink.textContent = 'Download ICS';
-  actions.append(icsLink);
-
-  contentDiv.append(actions);
-  header.append(contentDiv);
+  header.innerHTML = `
+    ${show.image ? `<img src="${show.image}" alt="${show.name} poster" />` : ''}
+    <div>
+      <p class="eyebrow">${show.status || 'Status unknown'}${show.network ? ` · ${show.network}` : ''}</p>
+      <h2>${show.name}</h2>
+      <p>${show.summary || 'No show summary is available.'}</p>
+      <div class="actions">
+        <a href="${show.tvmazeUrl}" target="_blank" rel="noopener">Open TVMaze</a>
+        ${show.imdbId ? `<a href="https://www.imdb.com/title/${show.imdbId}/" target="_blank" rel="noopener">Open IMDb</a>` : ''}
+        <button type="button" class="copy-ics-url" data-ics-url="${icsUrl}">Copy ICS URL</button>
+      </div>
+    </div>
+  `;
   resultEl.append(header);
 
   if (imdb?.sourceConfigured) {
@@ -97,15 +76,15 @@ function renderResults(payload, days) {
     imdbPanel.className = 'imdb-panel';
     imdbPanel.textContent = imdb.error
       ? `IMDb enrichment was configured but failed: ${imdb.error}`
-      : `IMDb enrichment: ${[imdb.title, imdb.year, imdb.rating ? `Rating ${imdb.rating}` : ''].filter(Boolean).join(' · ')}`;
+      : `IMDb enrichment (${imdb.source || 'IMDb'}): ${[imdb.title, imdb.year, imdb.rating ? `Rating ${imdb.rating}` : '', imdb.warning].filter(Boolean).join(' · ')}`;
     resultEl.append(imdbPanel);
   }
 
   const count = document.createElement('p');
   count.className = 'count';
   count.textContent = episodes.length
-    ? `${episodes.length} upcoming episode${episodes.length === 1 ? '' : 's'} between ${resultWindow.from} and ${resultWindow.to}.`
-    : `No upcoming episodes found between ${resultWindow.from} and ${resultWindow.to}.`;
+    ? `${episodes.length} known upcoming episode${episodes.length === 1 ? '' : 's'} from ${resultWindow.from} onward.`
+    : `No upcoming episodes found from ${resultWindow.from} onward.`;
   resultEl.append(count);
 
   const list = document.createElement('div');
@@ -129,20 +108,41 @@ form.addEventListener('submit', async (event) => {
   event.preventDefault();
   const data = new FormData(form);
   const show = data.get('show');
-  const days = data.get('days');
 
   resultEl.hidden = true;
   setStatus(`Fetching upcoming episodes for ${show}...`);
 
   try {
-    const response = await fetch(`/api/episodes?show=${encodeURIComponent(show)}&days=${encodeURIComponent(days)}`);
+    const response = await fetch(`/api/episodes?show=${encodeURIComponent(show)}`);
     const payload = await response.json();
     if (!response.ok) {
       throw new Error(payload.error || 'The episode lookup failed.');
     }
     setStatus('');
-    renderResults(payload, days);
+    renderResults(payload);
   } catch (error) {
     setStatus(error.message, true);
   }
+});
+
+resultEl.addEventListener('click', async (event) => {
+  const button = event.target.closest('.copy-ics-url');
+  if (!button) {
+    return;
+  }
+
+  const originalText = button.textContent;
+  try {
+    await copyText(button.dataset.icsUrl);
+    button.textContent = 'Copied ICS URL';
+    setStatus('ICS calendar URL copied to your clipboard.');
+  } catch (error) {
+    button.textContent = originalText;
+    setStatus(`Unable to copy ICS URL: ${error.message}`, true);
+    return;
+  }
+
+  setTimeout(() => {
+    button.textContent = originalText;
+  }, 2000);
 });
