@@ -3,6 +3,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import episodesHandler from './api/episodes.js';
+import searchHandler from './api/search.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const publicDir = path.join(__dirname, 'public');
@@ -42,6 +43,11 @@ async function serveStatic(req, res) {
 const server = http.createServer((req, res) => {
   if (req.url?.startsWith('/api/episodes')) {
     episodesHandler(req, res);
+    return;
+  }
+
+  if (req.url?.startsWith('/api/search')) {
+    searchHandler(req, res);
     return;
   }
 

@@ -4,7 +4,7 @@ A small Vercel-ready web application that searches for TV shows, fetches all kno
 
 ## Features
 
-- Search for a TV show by name.
+- Search for a TV show by name with Google-style suggestions while typing.
 - Fetch every known upcoming episode from TVMaze without next-week/month/year feed limits.
 - IMDb enrichment through the public/free FM-DB endpoint, with optional Firecrawl scraping through `FIRECRAWL_API_KEY`.
 - Copy one all-time ICS calendar URL that asks calendar apps and Vercel to refresh once per day.
@@ -17,7 +17,7 @@ npm install
 npm run dev
 ```
 
-Open <http://localhost:3000>, search for a show, and click **Copy ICS URL** to copy the all-time calendar feed URL. The ICS feed includes daily refresh metadata and the API cache revalidates daily so newly published episodes can appear without changing the URL.
+Open <http://localhost:3000>, start typing to pick a suggested show, search, and click **Copy ICS URL** to copy the all-time calendar feed URL. The ICS feed includes daily refresh metadata and the API cache revalidates daily so newly published episodes can appear without changing the URL.
 
 ## Vercel deployment
 

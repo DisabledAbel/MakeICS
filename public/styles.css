@@ -107,6 +107,64 @@ button,
   cursor: pointer;
 }
 
+.search-field {
+  position: relative;
+  min-width: 0;
+}
+
+.search-suggestions {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 8px);
+  right: 0;
+  left: 0;
+  max-height: 360px;
+  overflow-y: auto;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 18px;
+  background: #101d31;
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.36);
+  padding: 8px;
+}
+
+.suggestion-option {
+  display: grid;
+  width: 100%;
+  min-height: auto;
+  justify-content: start;
+  gap: 4px;
+  padding: 12px 14px;
+  border-radius: 12px;
+  color: #eef4ff;
+  background: transparent;
+  text-align: left;
+}
+
+.suggestion-option:hover,
+.suggestion-option.active {
+  color: #06101c;
+  background: linear-gradient(135deg, #93f5d2, #a7c6ff);
+}
+
+.suggestion-title {
+  font-weight: 900;
+}
+
+.suggestion-meta,
+.suggestion-empty {
+  color: #b8c4d9;
+  font-size: 0.9rem;
+}
+
+.suggestion-option:hover .suggestion-meta,
+.suggestion-option.active .suggestion-meta {
+  color: #13243b;
+}
+
+.suggestion-empty {
+  padding: 12px 14px;
+}
+
 .hint,
 .count,
 .episode-meta,

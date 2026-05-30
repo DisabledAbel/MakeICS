@@ -4,6 +4,10 @@
     {
       "source": "/api/episodes",
       "destination": "/api/episodes.js"
+    },
+    {
+      "source": "/api/search",
+      "destination": "/api/search.js"
     }
   ]
 }

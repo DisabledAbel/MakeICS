@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { getUpcomingEpisodes, toIcs } from '../lib/tvEpisodes.js';
+import { getUpcomingEpisodes, searchShowSuggestions, toIcs } from '../lib/tvEpisodes.js';
 
 const showPayload = {
   id: 1,
@@ -19,6 +19,37 @@ const showPayload = {
   runtime: 60,
   network: { name: 'Test Network', country: { name: 'United States' } }
 };
+
+const searchPayload = [
+  {
+    score: 0.91,
+    show: {
+      id: 101,
+      name: 'Example Show',
+      status: 'Running',
+      premiered: '2024-01-01',
+      ended: null,
+      url: 'https://www.tvmaze.com/shows/101/example-show',
+      image: { medium: 'https://example.test/example.jpg' },
+      summary: '<p>Suggested show.</p>',
+      network: { name: 'Suggestion Network', country: { name: 'United States' } }
+    }
+  },
+  {
+    score: 0.72,
+    show: {
+      id: 102,
+      name: 'Example Show UK',
+      status: 'Ended',
+      premiered: '2020-01-01',
+      ended: '2021-01-01',
+      url: 'https://www.tvmaze.com/shows/102/example-show-uk',
+      image: null,
+      summary: '<p>Another suggestion.</p>',
+      webChannel: { name: 'Streamer', country: { name: 'United Kingdom' } }
+    }
+  }
+];
 
 const episodesPayload = [
   {
@@ -62,6 +93,9 @@ const episodesPayload = [
 function createFetchMock(requests = []) {
   return async (url, options = {}) => {
     requests.push({ url: String(url), options });
+    if (String(url).includes('/search/shows')) {
+      return Response.json(searchPayload);
+    }
     if (String(url).includes('/singlesearch/shows')) {
       return Response.json(showPayload);
     }
@@ -81,6 +115,20 @@ function createFetchMock(requests = []) {
   };
 }
 
+test('searchShowSuggestions returns Google-style typeahead TV show results', async () => {
+  const requests = [];
+  const suggestions = await searchShowSuggestions({
+    query: 'exa',
+    fetchImpl: createFetchMock(requests)
+  });
+
+  assert.equal(suggestions.length, 2);
+  assert.equal(suggestions[0].name, 'Example Show');
+  assert.equal(suggestions[0].network, 'Suggestion Network');
+  assert.equal(suggestions[0].summary, 'Suggested show.');
+  assert.ok(requests.some((request) => request.url === 'https://api.tvmaze.com/search/shows?q=exa'));
+});
+
 test('getUpcomingEpisodes returns upcoming TVMaze episodes and custom IMDb enrichment', async () => {
   const result = await getUpcomingEpisodes({
     query: 'Example Show',
@@ -97,7 +145,6 @@ test('getUpcomingEpisodes returns upcoming TVMaze episodes and custom IMDb enric
   assert.deepEqual(result.episodes.map((episode) => episode.name), ['The Future', 'Too Far Away']);
   assert.equal(result.episodes[0].summary, 'Future episode.');
 });
-
 
 test('getUpcomingEpisodes uses the free public IMDb endpoint without an API key by default', async () => {
   const requests = [];
@@ -133,7 +180,6 @@ test('getUpcomingEpisodes uses FIRECRAWL_API_KEY for IMDb scraping when configur
   assert.match(firecrawlRequest.options.body, /https:\/\/www\.imdb\.com\/title\/tt1234567\//);
 });
 
-
 test('getUpcomingEpisodes validates missing show names', async () => {
   await assert.rejects(
     () => getUpcomingEpisodes({ query: ' ', fetchImpl: createFetchMock() }),
@@ -162,8 +208,13 @@ test('frontend offers one all-time copied ICS URL instead of dated feeds', async
   const appScript = await readFile(new URL('../public/app.js', import.meta.url), 'utf8');
   const indexPage = await readFile(new URL('../public/index.html', import.meta.url), 'utf8');
   const apiHandler = await readFile(new URL('../api/episodes.js', import.meta.url), 'utf8');
+  const searchApiHandler = await readFile(new URL('../api/search.js', import.meta.url), 'utf8');
+  const server = await readFile(new URL('../server.js', import.meta.url), 'utf8');
+  const vercelConfig = await readFile(new URL('../vercel.json', import.meta.url), 'utf8');
 
   assert.match(appScript, /Copy ICS URL/);
+  assert.match(appScript, /api\/search/);
+  assert.match(indexPage, /search-suggestions/);
   assert.match(appScript, /navigator\.clipboard/);
   assert.match(appScript, /format=ics/);
   assert.doesNotMatch(appScript, /days=/);
@@ -171,4 +222,7 @@ test('frontend offers one all-time copied ICS URL instead of dated feeds', async
   assert.doesNotMatch(appScript, /Download ICS/);
   assert.doesNotMatch(apiHandler, /Content-Disposition/);
   assert.match(apiHandler, /s-maxage=86400/);
+  assert.match(searchApiHandler, /searchShowSuggestions/);
+  assert.match(server, /api\/search/);
+  assert.match(vercelConfig, /\"source\": \"\/api\/search\"/);
 });

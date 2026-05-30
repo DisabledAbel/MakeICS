@@ -1,7 +1,111 @@
 const form = document.querySelector('#search-form');
+const showInput = document.querySelector('#show-input');
 const statusEl = document.querySelector('#status');
 const resultEl = document.querySelector('#result');
+const suggestionsEl = document.querySelector('#search-suggestions');
 const template = document.querySelector('#episode-template');
+
+let suggestionDebounce;
+let suggestionAbortController;
+let activeSuggestionIndex = -1;
+
+function hideSuggestions() {
+  suggestionsEl.hidden = true;
+  suggestionsEl.innerHTML = '';
+  activeSuggestionIndex = -1;
+  showInput.setAttribute('aria-expanded', 'false');
+}
+
+function showSuggestions() {
+  suggestionsEl.hidden = false;
+  showInput.setAttribute('aria-expanded', 'true');
+}
+
+function suggestionMeta(suggestion) {
+  return [suggestion.premiered?.slice(0, 4), suggestion.status, suggestion.network].filter(Boolean).join(' · ');
+}
+
+function renderSuggestions(suggestions) {
+  suggestionsEl.innerHTML = '';
+  activeSuggestionIndex = -1;
+
+  if (!suggestions.length) {
+    const empty = document.createElement('div');
+    empty.className = 'suggestion-empty';
+    empty.textContent = 'No matching shows found.';
+    suggestionsEl.append(empty);
+    showSuggestions();
+    return;
+  }
+
+  for (const suggestion of suggestions) {
+    const option = document.createElement('button');
+    option.type = 'button';
+    option.className = 'suggestion-option';
+    option.setAttribute('role', 'option');
+    option.dataset.showName = suggestion.name;
+
+    const title = document.createElement('span');
+    title.className = 'suggestion-title';
+    title.textContent = suggestion.name;
+    option.append(title);
+
+    const meta = suggestionMeta(suggestion);
+    if (meta) {
+      const details = document.createElement('span');
+      details.className = 'suggestion-meta';
+      details.textContent = meta;
+      option.append(details);
+    }
+
+    suggestionsEl.append(option);
+  }
+
+  showSuggestions();
+}
+
+function setActiveSuggestion(nextIndex) {
+  const options = [...suggestionsEl.querySelectorAll('.suggestion-option')];
+  if (!options.length) {
+    return;
+  }
+
+  if (activeSuggestionIndex >= 0) {
+    options[activeSuggestionIndex]?.classList.remove('active');
+    options[activeSuggestionIndex]?.setAttribute('aria-selected', 'false');
+  }
+
+  activeSuggestionIndex = (nextIndex + options.length) % options.length;
+  options[activeSuggestionIndex].classList.add('active');
+  options[activeSuggestionIndex].setAttribute('aria-selected', 'true');
+  options[activeSuggestionIndex].scrollIntoView({ block: 'nearest' });
+}
+
+function selectSuggestion(option) {
+  if (!option) {
+    return;
+  }
+
+  showInput.value = option.dataset.showName;
+  hideSuggestions();
+  form.requestSubmit();
+}
+
+async function fetchSuggestions(query) {
+  suggestionAbortController?.abort();
+  suggestionAbortController = new AbortController();
+
+  const response = await fetch(`/api/search?q=${encodeURIComponent(query)}`, {
+    signal: suggestionAbortController.signal
+  });
+  const payload = await response.json();
+
+  if (!response.ok) {
+    throw new Error(payload.error || 'Unable to load show suggestions.');
+  }
+
+  renderSuggestions(payload.suggestions || []);
+}
 
 function setStatus(message, isError = false) {
   statusEl.textContent = message;
@@ -26,8 +130,8 @@ function formatAirDate(episode) {
   }).format(date);
 }
 
-function icsUrlForShow(showId) {
-  const path = `/api/episodes?showId=${encodeURIComponent(showId)}&format=ics`;
+function icsUrlForShow(showName) {
+  const path = `/api/episodes?show=${encodeURIComponent(showName)}&format=ics`;
   return new URL(path, window.location.origin).href;
 }
 
@@ -50,7 +154,7 @@ async function copyText(value) {
 
 function renderResults(payload) {
   const { show, imdb, episodes, window: resultWindow } = payload;
-  const icsUrl = icsUrlForShow(show.id);
+  const icsUrl = icsUrlForShow(show.name);
   resultEl.hidden = false;
   resultEl.innerHTML = '';
 
@@ -104,11 +208,68 @@ function renderResults(payload) {
   resultEl.append(list);
 }
 
+showInput.addEventListener('input', () => {
+  const query = showInput.value.trim();
+  window.clearTimeout(suggestionDebounce);
+
+  if (query.length < 2) {
+    suggestionAbortController?.abort();
+    hideSuggestions();
+    return;
+  }
+
+  suggestionDebounce = window.setTimeout(async () => {
+    try {
+      await fetchSuggestions(query);
+    } catch (error) {
+      if (error.name !== 'AbortError') {
+        hideSuggestions();
+      }
+    }
+  }, 250);
+});
+
+showInput.addEventListener('keydown', (event) => {
+  if (suggestionsEl.hidden) {
+    return;
+  }
+
+  if (event.key === 'ArrowDown') {
+    event.preventDefault();
+    setActiveSuggestion(activeSuggestionIndex + 1);
+  }
+
+  if (event.key === 'ArrowUp') {
+    event.preventDefault();
+    setActiveSuggestion(activeSuggestionIndex - 1);
+  }
+
+  if (event.key === 'Enter' && activeSuggestionIndex >= 0) {
+    event.preventDefault();
+    selectSuggestion(suggestionsEl.querySelectorAll('.suggestion-option')[activeSuggestionIndex]);
+  }
+
+  if (event.key === 'Escape') {
+    hideSuggestions();
+  }
+});
+
+suggestionsEl.addEventListener('click', (event) => {
+  selectSuggestion(event.target.closest('.suggestion-option'));
+});
+
+document.addEventListener('click', (event) => {
+  if (!form.contains(event.target)) {
+    hideSuggestions();
+  }
+});
+
 form.addEventListener('submit', async (event) => {
   event.preventDefault();
   const data = new FormData(form);
   const show = data.get('show');
 
+  hideSuggestions();
   resultEl.hidden = true;
   setStatus(`Fetching upcoming episodes for ${show}...`);
 

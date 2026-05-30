@@ -20,11 +20,24 @@
       <form id="search-form" class="search-card">
         <label for="show-input">TV show</label>
         <div class="input-row">
-          <input id="show-input" name="show" type="search" placeholder="e.g. The Last of Us" required />
+          <div class="search-field">
+            <input
+              id="show-input"
+              name="show"
+              type="search"
+              placeholder="e.g. The Last of Us"
+              autocomplete="off"
+              aria-autocomplete="list"
+              aria-controls="search-suggestions"
+              aria-expanded="false"
+              required
+            />
+            <div id="search-suggestions" class="search-suggestions" role="listbox" hidden></div>
+          </div>
           <button type="submit">Fetch episodes</button>
         </div>
         <p class="hint">
-          The all-time feed uses TVMaze for show and episode schedules and asks calendar apps to refresh every day. It uses the free public IMDb endpoint by default, or <code>FIRECRAWL_API_KEY</code>
+          Start typing to see TV show suggestions below the search bar. The all-time feed uses TVMaze for show and episode schedules and asks calendar apps to refresh every day. It uses the free public IMDb endpoint by default, or <code>FIRECRAWL_API_KEY</code>
           for Firecrawl-powered IMDb page scraping when configured.
         </p>
       </form>
