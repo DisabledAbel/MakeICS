@@ -133,6 +133,7 @@ test('getUpcomingEpisodes uses FIRECRAWL_API_KEY for IMDb scraping when configur
   assert.match(firecrawlRequest.options.body, /https:\/\/www\.imdb\.com\/title\/tt1234567\//);
 });
 
+
 test('getUpcomingEpisodes validates missing show names', async () => {
   await assert.rejects(
     () => getUpcomingEpisodes({ query: ' ', fetchImpl: createFetchMock() }),
