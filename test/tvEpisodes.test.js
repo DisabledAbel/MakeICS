@@ -162,6 +162,64 @@ test('getUpcomingEpisodes uses the free public IMDb endpoint without an API key 
   assert.ok(requests.every((request) => !request.options.headers?.Authorization));
 });
 
+test('getUpcomingEpisodes quietly skips unavailable default IMDb enrichment', async () => {
+  const requests = [];
+  const fetchImpl = async (url, options = {}) => {
+    requests.push({ url: String(url), options });
+    if (String(url).includes('/singlesearch/shows')) {
+      return Response.json(showPayload);
+    }
+    if (String(url).includes('/shows/1/episodes')) {
+      return Response.json(episodesPayload);
+    }
+    if (String(url).includes('imdb.iamidiotareyoutoo.com')) {
+      return new Response('Temporary upstream failure', { status: 500 });
+    }
+    throw new Error(`Unexpected URL: ${url}`);
+  };
+
+  const result = await getUpcomingEpisodes({
+    query: 'Example Show',
+    now: new Date('2026-05-29T00:00:00Z'),
+    fetchImpl,
+    env: {}
+  });
+
+  assert.equal(result.imdb.source, 'public-imdb');
+  assert.equal(result.imdb.sourceConfigured, false);
+  assert.equal(result.imdb.error, undefined);
+  assert.match(result.imdb.warning, /HTTP 500/);
+  assert.equal(result.episodes.length, 2);
+  assert.ok(requests.some((request) => request.url === 'https://imdb.iamidiotareyoutoo.com/search?tt=tt1234567'));
+});
+
+test('getUpcomingEpisodes quietly skips default IMDb network failures', async () => {
+  const fetchImpl = async (url) => {
+    if (String(url).includes('/singlesearch/shows')) {
+      return Response.json(showPayload);
+    }
+    if (String(url).includes('/shows/1/episodes')) {
+      return Response.json(episodesPayload);
+    }
+    if (String(url).includes('imdb.iamidiotareyoutoo.com')) {
+      throw new Error('getaddrinfo EAI_AGAIN imdb.iamidiotareyoutoo.com');
+    }
+    throw new Error(`Unexpected URL: ${url}`);
+  };
+
+  const result = await getUpcomingEpisodes({
+    query: 'Example Show',
+    now: new Date('2026-05-29T00:00:00Z'),
+    fetchImpl,
+    env: {}
+  });
+
+  assert.equal(result.imdb.sourceConfigured, false);
+  assert.equal(result.imdb.error, undefined);
+  assert.match(result.imdb.warning, /request failed/);
+  assert.equal(result.episodes.length, 2);
+});
+
 test('getUpcomingEpisodes uses FIRECRAWL_API_KEY for IMDb scraping when configured', async () => {
   const requests = [];
   const result = await getUpcomingEpisodes({
