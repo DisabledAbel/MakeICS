@@ -130,6 +130,17 @@ function formatAirDate(episode) {
   }).format(date);
 }
 
+function formatEpisodeAbout(episode) {
+  const details = [];
+
+  if (episode.network) {
+    details.push(`Airs on ${episode.network}.`);
+  }
+
+  details.push(episode.summary || 'No episode summary is available yet.');
+  return details.join(' ');
+}
+
 function icsUrlForShow(showName) {
   const path = `/api/episodes?show=${encodeURIComponent(showName)}&format=ics`;
   return new URL(path, window.location.origin).href;
@@ -199,7 +210,7 @@ function renderResults(payload) {
     card.querySelector('.episode-date').textContent = formatAirDate(episode);
     card.querySelector('h3').textContent = episode.name;
     card.querySelector('.episode-meta').textContent = [formatEpisodeCode(episode), episode.runtime ? `${episode.runtime} min` : '', episode.network].filter(Boolean).join(' · ');
-    card.querySelector('.episode-summary').textContent = episode.summary || 'No episode summary is available yet.';
+    card.querySelector('.episode-summary').textContent = formatEpisodeAbout(episode);
     const link = card.querySelector('a');
     link.href = episode.url || show.tvmazeUrl;
     list.append(card);
