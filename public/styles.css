@@ -69,7 +69,8 @@ label {
 
 .input-row {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-columns: minmax(0, 1fr) minmax(160px, 220px) auto;
+  align-items: end;
   gap: 12px;
 }
 
@@ -107,7 +108,8 @@ button,
   cursor: pointer;
 }
 
-.search-field {
+.search-field,
+.timezone-field {
   position: relative;
   min-width: 0;
 }

@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { getUpcomingEpisodes, searchShowSuggestions, toIcs } from '../lib/tvEpisodes.js';
+import { getUpcomingEpisodes, normalizeFeedTimezone, searchShowSuggestions, toIcs } from '../lib/tvEpisodes.js';
 
 const showPayload = {
   id: 1,
@@ -144,6 +144,7 @@ test('getUpcomingEpisodes returns upcoming TVMaze episodes and custom IMDb enric
   assert.equal(result.episodes.length, 2);
   assert.deepEqual(result.episodes.map((episode) => episode.name), ['The Future', 'Too Far Away']);
   assert.equal(result.episodes[0].summary, 'Future episode.');
+  assert.equal(result.episodes[0].network, 'Test Network');
 });
 
 test('getUpcomingEpisodes uses the free public IMDb endpoint without an API key by default', async () => {
@@ -245,6 +246,12 @@ test('getUpcomingEpisodes validates missing show names', async () => {
   );
 });
 
+test('normalizeFeedTimezone supports EST and PST feed choices', () => {
+  assert.equal(normalizeFeedTimezone('est'), 'est');
+  assert.equal(normalizeFeedTimezone('PST'), 'pst');
+  assert.equal(normalizeFeedTimezone('unknown'), 'est');
+});
+
 test('toIcs creates a daily-refreshing calendar event feed for each upcoming episode', async () => {
   const result = await getUpcomingEpisodes({
     query: 'Example Show',
@@ -253,13 +260,32 @@ test('toIcs creates a daily-refreshing calendar event feed for each upcoming epi
     env: {}
   });
 
-  const ics = toIcs(result);
+  const ics = toIcs(result, { timezone: 'pst' });
   assert.match(ics, /BEGIN:VCALENDAR/);
   assert.match(ics, /X-PUBLISHED-TTL:PT24H/);
   assert.match(ics, /REFRESH-INTERVAL;VALUE=DURATION:PT24H/);
+  assert.match(ics, /X-WR-TIMEZONE:America\/Los_Angeles/);
+  assert.match(ics, /BEGIN:VTIMEZONE/);
+  assert.match(ics, /TZID:America\/Los_Angeles/);
+  assert.match(ics, /DTSTART;TZID=America\/Los_Angeles:20260610T180000/);
+  assert.match(ics, /DTEND;TZID=America\/Los_Angeles:20260610T190000/);
   assert.match(ics, /SUMMARY:Example Show S02E03 The Future/);
   assert.match(ics, /SUMMARY:Example Show S02E04 Too Far Away/);
+  assert.match(ics, /DESCRIPTION:Airs on Test Network\. Future episode\./);
   assert.match(ics, /END:VCALENDAR/);
+});
+
+test('toIcs defaults calendar event feeds to EST', async () => {
+  const result = await getUpcomingEpisodes({
+    query: 'Example Show',
+    now: new Date('2026-05-29T00:00:00Z'),
+    fetchImpl: createFetchMock(),
+    env: {}
+  });
+
+  const ics = toIcs(result);
+  assert.match(ics, /X-WR-TIMEZONE:America\/New_York/);
+  assert.match(ics, /DTSTART;TZID=America\/New_York:20260610T210000/);
 });
 
 test('frontend offers one all-time copied ICS URL instead of dated feeds', async () => {
@@ -270,7 +296,15 @@ test('frontend offers one all-time copied ICS URL instead of dated feeds', async
   const server = await readFile(new URL('../server.js', import.meta.url), 'utf8');
   const vercelConfig = await readFile(new URL('../vercel.json', import.meta.url), 'utf8');
 
-  assert.match(appScript, /Copy ICS URL/);
+  assert.match(appScript, /Copy \${timezoneLabel\(feedTimezone\)} ICS URL/);
+  assert.match(appScript, /tz=\${encodeURIComponent\(timezone\)}/);
+  assert.match(indexPage, /Feed time zone/);
+  assert.match(indexPage, /EST \/ Eastern/);
+  assert.match(indexPage, /PST \/ Pacific/);
+  assert.match(apiHandler, /normalizeFeedTimezone/);
+  assert.match(apiHandler, /searchParams\.get\('tz'\)/);
+  assert.match(appScript, /Airs on/);
+  assert.match(appScript, /formatEpisodeAbout/);
   assert.match(appScript, /api\/search/);
   assert.match(indexPage, /search-suggestions/);
   assert.match(appScript, /navigator\.clipboard/);

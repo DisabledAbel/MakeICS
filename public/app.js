@@ -1,5 +1,6 @@
 const form = document.querySelector('#search-form');
 const showInput = document.querySelector('#show-input');
+const timezoneInput = document.querySelector('#timezone-input');
 const statusEl = document.querySelector('#status');
 const resultEl = document.querySelector('#result');
 const suggestionsEl = document.querySelector('#search-suggestions');
@@ -130,9 +131,36 @@ function formatAirDate(episode) {
   }).format(date);
 }
 
-function icsUrlForShow(showName) {
-  const path = `/api/episodes?show=${encodeURIComponent(showName)}&format=ics`;
+function formatEpisodeAbout(episode) {
+  const details = [];
+
+  if (episode.network) {
+    details.push(`Airs on ${episode.network}.`);
+  }
+
+  details.push(episode.summary || 'No episode summary is available yet.');
+  return details.join(' ');
+}
+
+function selectedTimezone() {
+  return timezoneInput.value === 'pst' ? 'pst' : 'est';
+}
+
+function timezoneLabel(timezone = selectedTimezone()) {
+  return timezone === 'pst' ? 'PST' : 'EST';
+}
+
+function icsUrlForShow(showName, timezone = selectedTimezone()) {
+  const path = `/api/episodes?show=${encodeURIComponent(showName)}&format=ics&tz=${encodeURIComponent(timezone)}`;
   return new URL(path, window.location.origin).href;
+}
+
+function updateFeedButtons(showName, timezone = selectedTimezone()) {
+  for (const button of resultEl.querySelectorAll('.copy-ics-url')) {
+    button.dataset.icsUrl = icsUrlForShow(showName || button.dataset.showName, timezone);
+    button.dataset.showName = showName || button.dataset.showName;
+    button.textContent = `Copy ${timezoneLabel(timezone)} ICS URL`;
+  }
 }
 
 async function copyText(value) {
@@ -152,9 +180,9 @@ async function copyText(value) {
   textarea.remove();
 }
 
-function renderResults(payload) {
+function renderResults(payload, feedTimezone = selectedTimezone()) {
   const { show, imdb, episodes, window: resultWindow } = payload;
-  const icsUrl = icsUrlForShow(show.name);
+  const icsUrl = icsUrlForShow(show.name, feedTimezone);
   resultEl.hidden = false;
   resultEl.innerHTML = '';
 
@@ -169,7 +197,7 @@ function renderResults(payload) {
       <div class="actions">
         <a href="${show.tvmazeUrl}" target="_blank" rel="noopener">Open TVMaze</a>
         ${show.imdbId ? `<a href="https://www.imdb.com/title/${show.imdbId}/" target="_blank" rel="noopener">Open IMDb</a>` : ''}
-        <button type="button" class="copy-ics-url" data-ics-url="${icsUrl}">Copy ICS URL</button>
+        <button type="button" class="copy-ics-url" data-show-name="${show.name}" data-ics-url="${icsUrl}">Copy ${timezoneLabel(feedTimezone)} ICS URL</button>
       </div>
     </div>
   `;
@@ -199,7 +227,7 @@ function renderResults(payload) {
     card.querySelector('.episode-date').textContent = formatAirDate(episode);
     card.querySelector('h3').textContent = episode.name;
     card.querySelector('.episode-meta').textContent = [formatEpisodeCode(episode), episode.runtime ? `${episode.runtime} min` : '', episode.network].filter(Boolean).join(' · ');
-    card.querySelector('.episode-summary').textContent = episode.summary || 'No episode summary is available yet.';
+    card.querySelector('.episode-summary').textContent = formatEpisodeAbout(episode);
     const link = card.querySelector('a');
     link.href = episode.url || show.tvmazeUrl;
     list.append(card);
@@ -264,10 +292,18 @@ document.addEventListener('click', (event) => {
   }
 });
 
+timezoneInput.addEventListener('change', () => {
+  const button = resultEl.querySelector('.copy-ics-url');
+  if (button?.dataset.showName) {
+    updateFeedButtons(button.dataset.showName);
+  }
+});
+
 form.addEventListener('submit', async (event) => {
   event.preventDefault();
   const data = new FormData(form);
   const show = data.get('show');
+  const feedTimezone = selectedTimezone();
 
   hideSuggestions();
   resultEl.hidden = true;
@@ -280,7 +316,7 @@ form.addEventListener('submit', async (event) => {
       throw new Error(payload.error || 'The episode lookup failed.');
     }
     setStatus('');
-    renderResults(payload);
+    renderResults(payload, feedTimezone);
   } catch (error) {
     setStatus(error.message, true);
   }
@@ -295,8 +331,8 @@ resultEl.addEventListener('click', async (event) => {
   const originalText = button.textContent;
   try {
     await copyText(button.dataset.icsUrl);
-    button.textContent = 'Copied ICS URL';
-    setStatus('ICS calendar URL copied to your clipboard.');
+    button.textContent = `Copied ${timezoneLabel(selectedTimezone())} ICS URL`;
+    setStatus(`${timezoneLabel(selectedTimezone())} ICS calendar URL copied to your clipboard.`);
   } catch (error) {
     button.textContent = originalText;
     setStatus(`Unable to copy ICS URL: ${error.message}`, true);
