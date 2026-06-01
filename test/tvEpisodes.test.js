@@ -144,6 +144,7 @@ test('getUpcomingEpisodes returns upcoming TVMaze episodes and custom IMDb enric
   assert.equal(result.episodes.length, 2);
   assert.deepEqual(result.episodes.map((episode) => episode.name), ['The Future', 'Too Far Away']);
   assert.equal(result.episodes[0].summary, 'Future episode.');
+  assert.equal(result.episodes[0].network, 'Test Network');
 });
 
 test('getUpcomingEpisodes uses the free public IMDb endpoint without an API key by default', async () => {
@@ -259,6 +260,7 @@ test('toIcs creates a daily-refreshing calendar event feed for each upcoming epi
   assert.match(ics, /REFRESH-INTERVAL;VALUE=DURATION:PT24H/);
   assert.match(ics, /SUMMARY:Example Show S02E03 The Future/);
   assert.match(ics, /SUMMARY:Example Show S02E04 Too Far Away/);
+  assert.match(ics, /DESCRIPTION:Airs on Test Network\. Future episode\./);
   assert.match(ics, /END:VCALENDAR/);
 });
 
@@ -271,6 +273,8 @@ test('frontend offers one all-time copied ICS URL instead of dated feeds', async
   const vercelConfig = await readFile(new URL('../vercel.json', import.meta.url), 'utf8');
 
   assert.match(appScript, /Copy ICS URL/);
+  assert.match(appScript, /Airs on/);
+  assert.match(appScript, /formatEpisodeAbout/);
   assert.match(appScript, /api\/search/);
   assert.match(indexPage, /search-suggestions/);
   assert.match(appScript, /navigator\.clipboard/);
