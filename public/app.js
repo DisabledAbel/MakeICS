@@ -142,16 +142,8 @@ function formatEpisodeAbout(episode) {
   return details.join(' ');
 }
 
-function selectedTimezone() {
-  return timezoneInput.value === 'pst' ? 'pst' : 'est';
-}
-
-function timezoneLabel(timezone = selectedTimezone()) {
-  return timezone === 'pst' ? 'PST' : 'EST';
-}
-
-function icsUrlForShow(showName, timezone = selectedTimezone()) {
-  const path = `/api/episodes?show=${encodeURIComponent(showName)}&format=ics&tz=${encodeURIComponent(timezone)}`;
+function icsUrlForShow(showName) {
+  const path = `/api/episodes?show=${encodeURIComponent(showName)}&format=ics`;
   return new URL(path, window.location.origin).href;
 }
 

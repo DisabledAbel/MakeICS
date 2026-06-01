@@ -296,13 +296,7 @@ test('frontend offers one all-time copied ICS URL instead of dated feeds', async
   const server = await readFile(new URL('../server.js', import.meta.url), 'utf8');
   const vercelConfig = await readFile(new URL('../vercel.json', import.meta.url), 'utf8');
 
-  assert.match(appScript, /Copy \${timezoneLabel\(feedTimezone\)} ICS URL/);
-  assert.match(appScript, /tz=\${encodeURIComponent\(timezone\)}/);
-  assert.match(indexPage, /Feed time zone/);
-  assert.match(indexPage, /EST \/ Eastern/);
-  assert.match(indexPage, /PST \/ Pacific/);
-  assert.match(apiHandler, /normalizeFeedTimezone/);
-  assert.match(apiHandler, /searchParams\.get\('tz'\)/);
+  assert.match(appScript, /Copy ICS URL/);
   assert.match(appScript, /Airs on/);
   assert.match(appScript, /formatEpisodeAbout/);
   assert.match(appScript, /api\/search/);
