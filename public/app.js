@@ -30,8 +30,12 @@ tabs.forEach(tab => {
 
     categoryFields.forEach(field => {
       field.classList.remove('active');
+      const input = field.querySelector('input');
       if (field.classList.contains(`${currentCategory}-only`)) {
         field.classList.add('active');
+        if (input) input.required = true;
+      } else {
+        if (input) input.required = false;
       }
     });
 
@@ -192,7 +196,8 @@ function icsUrlForCurrent() {
   if (currentCategory === 'tv') {
     path = `/api/episodes?show=${encodeURIComponent(showInput.value)}&format=ics`;
   } else if (currentCategory === 'sports') {
-    path = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}&format=ics`;
+    const tz = document.querySelector('#timezone-input')?.value || 'UTC';
+    path = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}&format=ics&tz=${encodeURIComponent(tz)}`;
   }
   return new URL(path, window.location.origin).href;
 }
@@ -263,11 +268,11 @@ function renderResults(payload, type) {
       </div>
     `;
     resultEl.append(header);
-    renderList(events, 'sports');
+    renderList(events, 'sports', null, payload.timezone);
   }
 }
 
-function renderList(items, type, context) {
+function renderList(items, type, context, timezone = 'UTC') {
   const count = document.createElement('p');
   count.className = 'count';
   count.textContent = items.length
@@ -297,7 +302,18 @@ function renderList(items, type, context) {
       summaryEl.textContent = item.summary || 'No summary available.';
       link.href = item.url || context.tvmazeUrl;
     } else if (type === 'sports') {
-      dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp, true);
+      const date = item.timestamp ? new Date(item.timestamp + (item.timestamp.includes('Z') ? '' : 'Z')) : new Date(`${item.date}T${item.time || '00:00:00'}Z`);
+      const local = new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short' }).format(date);
+      const userTime = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit', timeZoneName: 'short', timeZone: timezone }).format(date);
+      const et = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit', timeZoneName: 'short', timeZone: 'America/New_York' }).format(date);
+      const pt = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit', timeZoneName: 'short', timeZone: 'America/Los_Angeles' }).format(date);
+
+      let timesString = `${et} / ${pt}`;
+      if (timezone !== 'America/New_York' && timezone !== 'America/Los_Angeles' && timezone !== 'UTC') {
+        timesString = `${userTime} (${timesString})`;
+      }
+
+      dateEl.textContent = `${local} (${timesString})`;
       titleEl.textContent = item.name;
       metaEl.textContent = [item.league, item.venue].filter(Boolean).join(' · ');
       summaryEl.textContent = item.status || '';
@@ -390,6 +406,9 @@ form.addEventListener('submit', async (event) => {
     const payload = await response.json();
     if (!response.ok) throw new Error(payload.error || 'The lookup failed.');
     setStatus('');
+    if (currentCategory === 'sports') {
+      payload.timezone = document.querySelector('#timezone-input')?.value || 'UTC';
+    }
     renderResults(payload, currentCategory);
   } catch (error) {
     setStatus(error.message, true);

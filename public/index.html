@@ -36,6 +36,7 @@
                   aria-autocomplete="list"
                   aria-controls="search-suggestions"
                   aria-expanded="false"
+                  required
                 />
                 <div id="search-suggestions" class="search-suggestions" role="listbox" hidden></div>
               </div>
@@ -56,9 +57,17 @@
                   aria-autocomplete="list"
                   aria-controls="sports-suggestions"
                   aria-expanded="false"
+                  required
                 />
                 <div id="sports-suggestions" class="search-suggestions" role="listbox" hidden></div>
               </div>
+              <select id="timezone-input" name="timezone" class="timezone-select" title="Timezone">
+                <option value="America/New_York">EST (Eastern)</option>
+                <option value="America/Chicago">CST (Central)</option>
+                <option value="America/Denver">MST (Mountain)</option>
+                <option value="America/Los_Angeles" selected>PST (Pacific)</option>
+                <option value="UTC">UTC</option>
+              </select>
               <button type="submit">Fetch events</button>
             </div>
           </div>
