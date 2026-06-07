@@ -168,15 +168,23 @@ function setStatus(message, isError = false) {
   statusEl.className = `status ${isError ? 'error' : ''}`;
 }
 
-function formatAirDate(dateStr, timeStr, timestamp) {
+function formatAirDate(dateStr, timeStr, timestamp, includeZones = false) {
   const date = timestamp ? new Date(timestamp) : new Date(`${dateStr}T${timeStr || '00:00'}`);
   if (Number.isNaN(date.getTime())) {
     return dateStr || 'Date TBA';
   }
-  return new Intl.DateTimeFormat(undefined, {
+  const local = new Intl.DateTimeFormat(undefined, {
     dateStyle: 'medium',
     timeStyle: (timeStr || timestamp) ? 'short' : undefined
   }).format(date);
+
+  if (includeZones && (timeStr || timestamp)) {
+    const et = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' }).format(date);
+    const pt = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Los_Angeles', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' }).format(date);
+    return `${local} (${et} / ${pt})`;
+  }
+
+  return local;
 }
 
 function icsUrlForCurrent() {
@@ -289,7 +297,7 @@ function renderList(items, type, context) {
       summaryEl.textContent = item.summary || 'No summary available.';
       link.href = item.url || context.tvmazeUrl;
     } else if (type === 'sports') {
-      dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp);
+      dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp, true);
       titleEl.textContent = item.name;
       metaEl.textContent = [item.league, item.venue].filter(Boolean).join(' · ');
       summaryEl.textContent = item.status || '';
@@ -306,6 +314,10 @@ function renderList(items, type, context) {
   input.addEventListener('input', () => {
     const query = input.value.trim();
     window.clearTimeout(suggestionDebounce);
+
+    if (input === sportsInput) {
+      delete sportsInput.dataset.teamId;
+    }
 
     if (query.length < 2) {
       suggestionAbortController?.abort();
