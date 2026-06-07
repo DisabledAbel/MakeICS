@@ -172,6 +172,15 @@ function setStatus(message, isError = false) {
   statusEl.className = `status ${isError ? 'error' : ''}`;
 }
 
+function safeHttpUrl(url) {
+  try {
+    const parsed = new URL(url, window.location.origin);
+    return (parsed.protocol === 'http:' || parsed.protocol === 'https:') ? parsed.href : null;
+  } catch {
+    return null;
+  }
+}
+
 function formatAirDate(dateStr, timeStr, timestamp, includeZones = false) {
   const date = timestamp ? new Date(timestamp) : new Date(`${dateStr}T${timeStr || '00:00'}`);
   if (Number.isNaN(date.getTime())) {
@@ -228,19 +237,63 @@ function renderResults(payload, type) {
 
   if (type === 'tv') {
     const { show, imdb, episodes } = payload;
-    header.innerHTML = `
-      ${show.image ? `<img src="${show.image}" alt="${show.name} poster" />` : ''}
-      <div>
-        <p class="eyebrow">${show.status || 'Status unknown'}${show.network ? ` · ${show.network}` : ''}</p>
-        <h2>${show.name}</h2>
-        <p>${show.summary || 'No show summary is available.'}</p>
-        <div class="actions">
-          <a href="${show.tvmazeUrl}" target="_blank" rel="noopener">Open TVMaze</a>
-          ${show.imdbId ? `<a href="https://www.imdb.com/title/${show.imdbId}/" target="_blank" rel="noopener">Open IMDb</a>` : ''}
-          <button type="button" class="copy-ics-url" data-ics-url="${icsUrl}">Copy ICS URL</button>
-        </div>
-      </div>
-    `;
+
+    if (show.image) {
+      const validImg = safeHttpUrl(show.image);
+      if (validImg) {
+        const img = document.createElement('img');
+        img.src = validImg;
+        img.alt = `${show.name} poster`;
+        header.append(img);
+      }
+    }
+
+    const info = document.createElement('div');
+    const eyebrow = document.createElement('p');
+    eyebrow.className = 'eyebrow';
+    eyebrow.textContent = `${show.status || 'Status unknown'}${show.network ? ` · ${show.network}` : ''}`;
+    info.append(eyebrow);
+
+    const title = document.createElement('h2');
+    title.textContent = show.name;
+    info.append(title);
+
+    const summary = document.createElement('p');
+    summary.textContent = (show.summary || 'No show summary is available.').replace(/<[^>]*>/g, '');
+    info.append(summary);
+
+    const actions = document.createElement('div');
+    actions.className = 'actions';
+
+    const tvmazeLink = document.createElement('a');
+    tvmazeLink.href = safeHttpUrl(show.tvmazeUrl) || '#';
+    tvmazeLink.target = '_blank';
+    tvmazeLink.rel = 'noopener';
+    tvmazeLink.textContent = 'Open TVMaze';
+    actions.append(tvmazeLink);
+
+    if (show.imdbId) {
+      const validImdb = safeHttpUrl(`https://www.imdb.com/title/${show.imdbId}/`);
+      if (validImdb) {
+        const imdbLink = document.createElement('a');
+        imdbLink.href = validImdb;
+        imdbLink.target = '_blank';
+        imdbLink.rel = 'noopener';
+        imdbLink.textContent = 'Open IMDb';
+        actions.append(imdbLink);
+      }
+    }
+
+    const copyBtn = document.createElement('button');
+    copyBtn.type = 'button';
+    copyBtn.className = 'copy-ics-url';
+    const validIcs = safeHttpUrl(icsUrl);
+    if (validIcs) copyBtn.setAttribute('data-ics-url', validIcs);
+    copyBtn.textContent = 'Copy ICS URL';
+    actions.append(copyBtn);
+
+    info.append(actions);
+    header.append(info);
     resultEl.append(header);
 
     if (imdb?.sourceConfigured) {
@@ -255,18 +308,56 @@ function renderResults(payload, type) {
     renderList(episodes, 'tv', show);
   } else if (type === 'sports') {
     const { team, events } = payload;
-    header.innerHTML = `
-      ${team.image ? `<img src="${team.image}" alt="${team.name} badge" />` : ''}
-      <div>
-        <p class="eyebrow">${team.sport} · ${team.league}</p>
-        <h2>${team.name}</h2>
-        <p>${team.summary || ''}</p>
-        <div class="actions">
-          ${team.website ? `<a href="https://${team.website}" target="_blank" rel="noopener">Website</a>` : ''}
-          <button type="button" class="copy-ics-url" data-ics-url="${icsUrl}">Copy ICS URL</button>
-        </div>
-      </div>
-    `;
+
+    if (team.image) {
+      const validImg = safeHttpUrl(team.image);
+      if (validImg) {
+        const img = document.createElement('img');
+        img.src = validImg;
+        img.alt = `${team.name} badge`;
+        header.append(img);
+      }
+    }
+
+    const info = document.createElement('div');
+    const eyebrow = document.createElement('p');
+    eyebrow.className = 'eyebrow';
+    eyebrow.textContent = `${team.sport} · ${team.league}`;
+    info.append(eyebrow);
+
+    const title = document.createElement('h2');
+    title.textContent = team.name;
+    info.append(title);
+
+    const summary = document.createElement('p');
+    summary.textContent = team.summary || '';
+    info.append(summary);
+
+    const actions = document.createElement('div');
+    actions.className = 'actions';
+
+    if (team.website) {
+      const validWeb = safeHttpUrl(`https://${team.website}`);
+      if (validWeb) {
+        const webLink = document.createElement('a');
+        webLink.href = validWeb;
+        webLink.target = '_blank';
+        webLink.rel = 'noopener';
+        webLink.textContent = 'Website';
+        actions.append(webLink);
+      }
+    }
+
+    const copyBtn = document.createElement('button');
+    copyBtn.type = 'button';
+    copyBtn.className = 'copy-ics-url';
+    const validIcs = safeHttpUrl(icsUrl);
+    if (validIcs) copyBtn.setAttribute('data-ics-url', validIcs);
+    copyBtn.textContent = 'Copy ICS URL';
+    actions.append(copyBtn);
+
+    info.append(actions);
+    header.append(info);
     resultEl.append(header);
     renderList(events, 'sports', null, payload.timezone);
   }
@@ -302,7 +393,13 @@ function renderList(items, type, context, timezone = 'UTC') {
       summaryEl.textContent = item.summary || 'No summary available.';
       link.href = item.url || context.tvmazeUrl;
     } else if (type === 'sports') {
-      const date = item.timestamp ? new Date(item.timestamp + (item.timestamp.includes('Z') ? '' : 'Z')) : new Date(`${item.date}T${item.time || '00:00:00'}Z`);
+      let date;
+      if (item.timestamp) {
+        const needsZ = !item.timestamp.includes('Z') && !/[+-]\d{2}:\d{2}$/.test(item.timestamp);
+        date = new Date(item.timestamp + (needsZ ? 'Z' : ''));
+      } else {
+        date = new Date(`${item.date}T${item.time || '00:00:00'}Z`);
+      }
       const local = new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short' }).format(date);
       const userTime = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit', timeZoneName: 'short', timeZone: timezone }).format(date);
       const et = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit', timeZoneName: 'short', timeZone: 'America/New_York' }).format(date);
@@ -395,8 +492,13 @@ form.addEventListener('submit', async (event) => {
     label = showInput.value;
     url = `/api/episodes?show=${encodeURIComponent(label)}`;
   } else if (currentCategory === 'sports') {
+    const teamId = sportsInput.dataset.teamId;
+    if (!teamId || teamId === 'undefined') {
+      setStatus('Please select a team from the suggestions.', true);
+      return;
+    }
     label = sportsInput.value;
-    url = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}`;
+    url = `/api/sports-events?teamId=${encodeURIComponent(teamId)}`;
   }
 
   setStatus(`Fetching for ${label}...`);

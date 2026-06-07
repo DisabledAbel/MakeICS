@@ -82,3 +82,39 @@ test('toIcs creates ICS for sports events', async () => {
   assert.match(ics, /SUMMARY:Arsenal vs Everton/);
   assert.match(ics, /LOCATION:Emirates Stadium/);
 });
+
+test('getUpcomingEvents handles strTimestamp with offset correctly', async () => {
+  const customEventsPayload = {
+    events: [
+      {
+        idEvent: '2',
+        strEvent: 'Arsenal vs Brighton',
+        strHomeTeam: 'Arsenal',
+        strAwayTeam: 'Brighton',
+        dateEvent: '2026-08-10',
+        strTime: '15:00:00',
+        strTimestamp: '2026-08-10T15:00:00+01:00',
+        strLeague: 'English Premier League',
+        strVenue: 'Emirates Stadium',
+        strStatus: 'NS'
+      }
+    ]
+  };
+
+  const fetchImpl = async (url) => {
+    if (url.includes('lookupteam.php')) return Response.json(teamPayload);
+    if (url.includes('eventsnext.php')) return Response.json(customEventsPayload);
+    return Response.json({});
+  };
+
+  const result = await getUpcomingEvents({
+    teamId: '133604',
+    fetchImpl
+  });
+
+  assert.equal(result.events[0].timestamp, '2026-08-10T15:00:00+01:00');
+
+  const ics = toIcs(result);
+  // 15:00+01:00 is 14:00 UTC
+  assert.match(ics, /DTSTART:20260810T140000Z/);
+});
