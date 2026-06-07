@@ -8,6 +8,14 @@
     {
       "source": "/api/search",
       "destination": "/api/search.js"
+    },
+    {
+      "source": "/api/sports-search",
+      "destination": "/api/sports-search.js"
+    },
+    {
+      "source": "/api/sports-events",
+      "destination": "/api/sports-events.js"
     }
   ]
 }

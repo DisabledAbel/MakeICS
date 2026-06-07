@@ -41,16 +41,23 @@ async function serveStatic(req, res) {
 }
 
 const server = http.createServer((req, res) => {
-  if (req.url?.startsWith('/api/episodes')) {
+  const url = req.url || '';
+  if (url.startsWith('/api/episodes')) {
     episodesHandler(req, res);
     return;
   }
-
-  if (req.url?.startsWith('/api/search')) {
+  if (url.startsWith('/api/search')) {
     searchHandler(req, res);
     return;
   }
-
+  if (url.startsWith('/api/sports-search')) {
+    import('./api/sports-search.js').then((m) => m.default(req, res));
+    return;
+  }
+  if (url.startsWith('/api/sports-events')) {
+    import('./api/sports-events.js').then((m) => m.default(req, res));
+    return;
+  }
   serveStatic(req, res);
 });
 
