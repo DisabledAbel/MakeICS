@@ -11,7 +11,7 @@
 * ⚡ Auto-update schedules dynamically
 * 🏀 Perfect for sports schedules, TV listings, events, and reminders
 * 🔄 Export recurring or one-time events
-* ☁️ Easy deployment on Vercel, GitHub Pages, or your own server
+* ☁️ Easy deployment on Vercel, or your own server
 * 🛠 Simple and developer-friendly setup
 
 ---
