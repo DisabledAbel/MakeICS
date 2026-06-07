@@ -281,5 +281,10 @@ test('frontend offers one all-time copied ICS URL instead of dated feeds', async
   assert.match(apiHandler, /s-maxage=86400/);
   assert.match(searchApiHandler, /searchShowSuggestions/);
   assert.match(server, /api\/search/);
+  assert.match(server, /api\/sports-search/);
   assert.match(vercelConfig, /\"source\": \"\/api\/search\"/);
+  assert.match(vercelConfig, /\"source\": \"\/api\/sports-search\"/);
+  assert.match(vercelConfig, /\"source\": \"\/api\/sports-events\"/);
+  assert.match(appScript, /dataset\.category/);
+  assert.match(indexPage, /tab-btn/);
 });
