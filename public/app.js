@@ -9,8 +9,6 @@ const template = document.querySelector('#episode-template');
 const tabs = document.querySelectorAll('.tab-btn');
 const categoryFields = document.querySelectorAll('.category-field');
 const categoryHint = document.querySelector('#category-hint');
-const countrySelect = document.querySelector('#country-select');
-const subdivisionSelect = document.querySelector('#subdivision-select');
 
 let currentCategory = 'tv';
 let suggestionDebounce;
@@ -19,8 +17,7 @@ let activeSuggestionIndex = -1;
 
 const CATEGORY_HINTS = {
   tv: 'Start typing to see TV show suggestions below the search bar. The all-time feed uses TVMaze for show and episode schedules.',
-  sports: 'Search for sports teams from TheSportsDB. Copy the ICS URL to track upcoming matches.',
-  school: 'Select a country and region to get school holiday dates from OpenHolidays.'
+  sports: 'Search for sports teams from TheSportsDB. Copy the ICS URL to track upcoming matches.'
 };
 
 // --- Tab Logic ---
@@ -42,10 +39,6 @@ tabs.forEach(tab => {
     resultEl.hidden = true;
     setStatus('');
     hideSuggestions();
-
-    if (currentCategory === 'school' && countrySelect.options.length <= 1) {
-      loadCountries();
-    }
   });
 });
 
@@ -168,52 +161,6 @@ async function fetchSuggestions(query, type) {
   renderSuggestions(payload.suggestions || [], type);
 }
 
-// --- School Logic ---
-
-async function loadCountries() {
-  try {
-    const response = await fetch('/api/school-search');
-    const data = await response.json();
-    if (!response.ok) throw new Error(data.error);
-
-    countrySelect.innerHTML = '<option value="">Select Country</option>';
-    data.countries.forEach(c => {
-      const opt = document.createElement('option');
-      opt.value = c.code;
-      opt.textContent = c.name[0]?.text || c.code;
-      countrySelect.appendChild(opt);
-    });
-  } catch (error) {
-    setStatus(`Failed to load countries: ${error.message}`, true);
-  }
-}
-
-countrySelect.addEventListener('change', async () => {
-  const countryCode = countrySelect.value;
-  subdivisionSelect.innerHTML = '<option value="">Select Region (Optional)</option>';
-  subdivisionSelect.disabled = true;
-
-  if (!countryCode) return;
-
-  try {
-    const response = await fetch(`/api/school-search?countryCode=${countryCode}`);
-    const data = await response.json();
-    if (!response.ok) throw new Error(data.error);
-
-    if (data.subdivisions && data.subdivisions.length > 0) {
-      data.subdivisions.forEach(s => {
-        const opt = document.createElement('option');
-        opt.value = s.code;
-        opt.textContent = s.shortName || s.name[0]?.text || s.code;
-        subdivisionSelect.appendChild(opt);
-      });
-      subdivisionSelect.disabled = false;
-    }
-  } catch (error) {
-    console.error('Failed to load regions', error);
-  }
-});
-
 // --- UI Helpers ---
 
 function setStatus(message, isError = false) {
@@ -221,14 +168,14 @@ function setStatus(message, isError = false) {
   statusEl.className = `status ${isError ? 'error' : ''}`;
 }
 
-function formatAirDate(dateStr, timeStr, timestamp, type) {
+function formatAirDate(dateStr, timeStr, timestamp) {
   const date = timestamp ? new Date(timestamp) : new Date(`${dateStr}T${timeStr || '00:00'}`);
   if (Number.isNaN(date.getTime())) {
     return dateStr || 'Date TBA';
   }
   return new Intl.DateTimeFormat(undefined, {
     dateStyle: 'medium',
-    timeStyle: (timeStr || timestamp) && type !== 'school' ? 'short' : undefined
+    timeStyle: (timeStr || timestamp) ? 'short' : undefined
   }).format(date);
 }
 
@@ -238,12 +185,6 @@ function icsUrlForCurrent() {
     path = `/api/episodes?show=${encodeURIComponent(showInput.value)}&format=ics`;
   } else if (currentCategory === 'sports') {
     path = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}&format=ics`;
-  } else if (currentCategory === 'school') {
-    path = `/api/school-holidays?countryCode=${encodeURIComponent(countrySelect.value)}`;
-    if (subdivisionSelect.value) {
-      path += `&subdivisionCode=${encodeURIComponent(subdivisionSelect.value)}`;
-    }
-    path += '&format=ics';
   }
   return new URL(path, window.location.origin).href;
 }
@@ -315,19 +256,6 @@ function renderResults(payload, type) {
     `;
     resultEl.append(header);
     renderList(events, 'sports');
-  } else if (type === 'school') {
-    const { holidays, countryCode, subdivisionCode } = payload;
-    header.innerHTML = `
-      <div>
-        <p class="eyebrow">School Holidays</p>
-        <h2>${subdivisionCode ? `${subdivisionCode}, ` : ''}${countryCode}</h2>
-        <div class="actions">
-          <button type="button" class="copy-ics-url" data-ics-url="${icsUrl}">Copy ICS URL</button>
-        </div>
-      </div>
-    `;
-    resultEl.append(header);
-    renderList(holidays, 'school');
   }
 }
 
@@ -351,7 +279,7 @@ function renderList(items, type, context) {
     const link = card.querySelector('a');
 
     if (type === 'tv') {
-      dateEl.textContent = formatAirDate(item.airdate, item.airtime, item.airstamp, 'tv');
+      dateEl.textContent = formatAirDate(item.airdate, item.airtime, item.airstamp);
       titleEl.textContent = item.name;
       metaEl.textContent = [
         item.season && item.number ? `S${String(item.season).padStart(2, '0')}E${String(item.number).padStart(2, '0')}` : '',
@@ -361,16 +289,10 @@ function renderList(items, type, context) {
       summaryEl.textContent = item.summary || 'No summary available.';
       link.href = item.url || context.tvmazeUrl;
     } else if (type === 'sports') {
-      dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp, 'sports');
+      dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp);
       titleEl.textContent = item.name;
       metaEl.textContent = [item.league, item.venue].filter(Boolean).join(' · ');
       summaryEl.textContent = item.status || '';
-      link.remove();
-    } else if (type === 'school') {
-      dateEl.textContent = `${item.startDate} to ${item.endDate}`;
-      titleEl.textContent = item.name;
-      metaEl.textContent = item.type;
-      summaryEl.textContent = '';
       link.remove();
     }
     list.append(card);
@@ -447,13 +369,6 @@ form.addEventListener('submit', async (event) => {
   } else if (currentCategory === 'sports') {
     label = sportsInput.value;
     url = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}`;
-  } else if (currentCategory === 'school') {
-    label = countrySelect.value;
-    if (!label) return setStatus('Please select a country.', true);
-    url = `/api/school-holidays?countryCode=${encodeURIComponent(label)}`;
-    if (subdivisionSelect.value) {
-      url += `&subdivisionCode=${encodeURIComponent(subdivisionSelect.value)}`;
-    }
   }
 
   setStatus(`Fetching for ${label}...`);

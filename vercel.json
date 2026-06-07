@@ -16,14 +16,6 @@
     {
       "source": "/api/sports-events",
       "destination": "/api/sports-events.js"
-    },
-    {
-      "source": "/api/school-search",
-      "destination": "/api/school-search.js"
-    },
-    {
-      "source": "/api/school-holidays",
-      "destination": "/api/school-holidays.js"
     }
   ]
 }
