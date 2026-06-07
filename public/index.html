@@ -3,42 +3,82 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>MakeICS TV Upcoming Episodes</title>
+    <title>MakeICS - Dynamic Calendars</title>
     <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>
     <main class="shell">
       <section class="hero">
-        <p class="eyebrow">TVMaze + optional IMDb enrichment</p>
-        <h1>Find upcoming TV episodes and export them to calendar.</h1>
+        <p class="eyebrow">Schedules from TVMaze, TheSportsDB, and OpenHolidays</p>
+        <h1>Find upcoming events and export them to calendar.</h1>
         <p class="subtitle">
-          Search a show, see every known upcoming episode, and copy an ICS calendar URL that refreshes daily in Google Calendar,
-          Apple Calendar, Outlook, and other calendar apps.
+          Search for TV shows, sports teams, or school holidays and copy an ICS calendar URL that refreshes daily in your favorite calendar app.
         </p>
       </section>
 
+      <div class="tabs">
+        <button type="button" class="tab-btn active" data-category="tv">TV Shows</button>
+        <button type="button" class="tab-btn" data-category="sports">Sports Teams</button>
+        <button type="button" class="tab-btn" data-category="school">School Holidays</button>
+      </div>
+
       <form id="search-form" class="search-card">
-        <label for="show-input">TV show</label>
-        <div class="input-row">
-          <div class="search-field">
-            <input
-              id="show-input"
-              name="show"
-              type="search"
-              placeholder="e.g. The Last of Us"
-              autocomplete="off"
-              aria-autocomplete="list"
-              aria-controls="search-suggestions"
-              aria-expanded="false"
-              required
-            />
-            <div id="search-suggestions" class="search-suggestions" role="listbox" hidden></div>
+        <div id="search-inputs-container">
+          <div class="category-field tv-only active">
+            <label for="show-input">TV show</label>
+            <div class="input-row">
+              <div class="search-field">
+                <input
+                  id="show-input"
+                  name="show"
+                  type="search"
+                  placeholder="e.g. The Last of Us"
+                  autocomplete="off"
+                  aria-autocomplete="list"
+                  aria-controls="search-suggestions"
+                  aria-expanded="false"
+                />
+                <div id="search-suggestions" class="search-suggestions" role="listbox" hidden></div>
+              </div>
+              <button type="submit">Fetch episodes</button>
+            </div>
           </div>
-          <button type="submit">Fetch episodes</button>
+
+          <div class="category-field sports-only">
+            <label for="sports-input">Sports Team</label>
+            <div class="input-row">
+              <div class="search-field">
+                <input
+                  id="sports-input"
+                  name="team"
+                  type="search"
+                  placeholder="e.g. Arsenal"
+                  autocomplete="off"
+                  aria-autocomplete="list"
+                  aria-controls="sports-suggestions"
+                  aria-expanded="false"
+                />
+                <div id="sports-suggestions" class="search-suggestions" role="listbox" hidden></div>
+              </div>
+              <button type="submit">Fetch events</button>
+            </div>
+          </div>
+
+          <div class="category-field school-only">
+            <label>School Region</label>
+            <div class="input-row">
+              <select id="country-select" name="country">
+                <option value="">Select Country</option>
+              </select>
+              <select id="subdivision-select" name="subdivision" disabled>
+                <option value="">Select Region (Optional)</option>
+              </select>
+              <button type="submit">Fetch holidays</button>
+            </div>
+          </div>
         </div>
-        <p class="hint">
-          Start typing to see TV show suggestions below the search bar. The all-time feed uses TVMaze for show and episode schedules and asks calendar apps to refresh every day. It uses the free public IMDb endpoint by default, or <code>FIRECRAWL_API_KEY</code>
-          for Firecrawl-powered IMDb page scraping when configured.
+        <p class="hint" id="category-hint">
+          Start typing to see TV show suggestions below the search bar. The all-time feed uses TVMaze for show and episode schedules.
         </p>
       </form>
 

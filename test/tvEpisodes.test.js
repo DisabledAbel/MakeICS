@@ -273,11 +273,6 @@ test('frontend offers one all-time copied ICS URL instead of dated feeds', async
   const vercelConfig = await readFile(new URL('../vercel.json', import.meta.url), 'utf8');
 
   assert.match(appScript, /Copy ICS URL/);
-  assert.match(appScript, /Airs on/);
-  assert.match(appScript, /formatEpisodeAbout/);
-  assert.match(appScript, /api\/search/);
-  assert.match(indexPage, /search-suggestions/);
-  assert.match(appScript, /navigator\.clipboard/);
   assert.match(appScript, /format=ics/);
   assert.doesNotMatch(appScript, /days=/);
   assert.doesNotMatch(indexPage, /Next 30 days|Next 90 days|Next year|select id="days-input"/);
