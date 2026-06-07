@@ -52,19 +52,6 @@ body {
   display: block;
 }
 
-.input-row select {
-  flex: 1;
-  padding: 0.75rem;
-  border: 1px solid #e2e8f0;
-  border-radius: 0.5rem;
-  font-size: 1rem;
-}
-
-.input-row select:disabled {
-  background-color: #f8fafc;
-  cursor: not-allowed;
-}
-
 .hero h1 {
   max-width: 820px;
   margin: 8px 0 16px;
@@ -118,7 +105,6 @@ label {
 }
 
 input,
-select,
 button,
 .actions a,
 .episode-card a {
@@ -128,8 +114,7 @@ button,
   font: inherit;
 }
 
-input,
-select {
+input {
   width: 100%;
   padding: 0 16px;
   background: #101d31;

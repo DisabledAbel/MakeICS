@@ -9,17 +9,16 @@
   <body>
     <main class="shell">
       <section class="hero">
-        <p class="eyebrow">Schedules from TVMaze, TheSportsDB, and OpenHolidays</p>
+        <p class="eyebrow">Schedules from TVMaze and TheSportsDB</p>
         <h1>Find upcoming events and export them to calendar.</h1>
         <p class="subtitle">
-          Search for TV shows, sports teams, or school holidays and copy an ICS calendar URL that refreshes daily in your favorite calendar app.
+          Search for TV shows or sports teams and copy an ICS calendar URL that refreshes daily in your favorite calendar app.
         </p>
       </section>
 
       <div class="tabs">
         <button type="button" class="tab-btn active" data-category="tv">TV Shows</button>
         <button type="button" class="tab-btn" data-category="sports">Sports Teams</button>
-        <button type="button" class="tab-btn" data-category="school">School Holidays</button>
       </div>
 
       <form id="search-form" class="search-card">
@@ -61,19 +60,6 @@
                 <div id="sports-suggestions" class="search-suggestions" role="listbox" hidden></div>
               </div>
               <button type="submit">Fetch events</button>
-            </div>
-          </div>
-
-          <div class="category-field school-only">
-            <label>School Region</label>
-            <div class="input-row">
-              <select id="country-select" name="country">
-                <option value="">Select Country</option>
-              </select>
-              <select id="subdivision-select" name="subdivision" disabled>
-                <option value="">Select Region (Optional)</option>
-              </select>
-              <button type="submit">Fetch holidays</button>
             </div>
           </div>
         </div>
