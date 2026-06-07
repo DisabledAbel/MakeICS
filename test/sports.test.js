@@ -39,7 +39,7 @@ function createFetchMock() {
     if (url.includes('searchteams.php')) {
       return Response.json(teamPayload);
     }
-    if (url.includes('lookatteam.php')) {
+    if (url.includes('lookupteam.php')) {
       return Response.json(teamPayload);
     }
     if (url.includes('eventsnext.php')) {
