@@ -9,6 +9,7 @@ const teamPayload = {
       strTeam: 'Arsenal',
       strSport: 'Soccer',
       strLeague: 'English Premier League',
+      idLeague: '4328',
       strCountry: 'England',
       strBadge: 'https://example.test/badge.png',
       strWebsite: 'www.arsenal.com',
@@ -17,10 +18,53 @@ const teamPayload = {
   ]
 };
 
-const eventsPayload = {
+const leaguePayload = {
+  leagues: [
+    {
+      idLeague: '4328',
+      strLeague: 'English Premier League',
+      strCurrentSeason: '2024-2025'
+    }
+  ]
+};
+
+const seasonEventsPayload = {
   events: [
     {
       idEvent: '1',
+      strEvent: 'Arsenal vs Everton',
+      idHomeTeam: '133604',
+      idAwayTeam: '133615',
+      strHomeTeam: 'Arsenal',
+      strAwayTeam: 'Everton',
+      dateEvent: '2026-08-05',
+      strTime: '18:30:00',
+      strTimestamp: '2026-08-05T18:30:00Z',
+      strLeague: 'English Premier League',
+      strVenue: 'Emirates Stadium',
+      strStatus: 'NS'
+    },
+    {
+      idEvent: '3',
+      strEvent: 'Chelsea vs Arsenal',
+      idHomeTeam: '133610',
+      idAwayTeam: '133604',
+      strHomeTeam: 'Chelsea',
+      strAwayTeam: 'Arsenal',
+      dateEvent: '2026-08-12',
+      strTime: '20:00:00',
+      strTimestamp: '2026-08-12T20:00:00Z',
+      strLeague: 'English Premier League',
+      strVenue: 'Stamford Bridge',
+      strStatus: 'NS'
+    }
+  ]
+};
+
+const nextEventsPayload = {
+  events: [
+    {
+      idEvent: '1', // Duplicate of season event
       strEvent: 'Arsenal vs Everton',
       strHomeTeam: 'Arsenal',
       strAwayTeam: 'Everton',
@@ -29,6 +73,18 @@ const eventsPayload = {
       strTimestamp: '2026-08-05T18:30:00Z',
       strLeague: 'English Premier League',
       strVenue: 'Emirates Stadium',
+      strStatus: 'NS'
+    },
+    {
+      idEvent: '4', // Non-league event (e.g. Friendly)
+      strEvent: 'Arsenal vs Real Betis',
+      strHomeTeam: 'Arsenal',
+      strAwayTeam: 'Real Betis',
+      dateEvent: '2026-07-31',
+      strTime: '23:30:00',
+      strTimestamp: '2026-07-31T23:30:00Z',
+      strLeague: 'Club Friendlies',
+      strVenue: 'TBA',
       strStatus: 'NS'
     }
   ]
@@ -42,8 +98,14 @@ function createFetchMock() {
     if (url.includes('lookupteam.php')) {
       return Response.json(teamPayload);
     }
+    if (url.includes('lookupleague.php')) {
+      return Response.json(leaguePayload);
+    }
+    if (url.includes('eventsseason.php')) {
+      return Response.json(seasonEventsPayload);
+    }
     if (url.includes('eventsnext.php')) {
-      return Response.json(eventsPayload);
+      return Response.json(nextEventsPayload);
     }
     throw new Error(`Unexpected URL: ${url}`);
   };
@@ -59,15 +121,19 @@ test('searchTeamSuggestions returns team results', async () => {
   assert.equal(suggestions[0].name, 'Arsenal');
 });
 
-test('getUpcomingEvents returns events for a team', async () => {
+test('getUpcomingEvents returns merged and deduplicated events for a team', async () => {
   const result = await getUpcomingEvents({
     teamId: '133604',
     fetchImpl: createFetchMock()
   });
 
   assert.equal(result.team.name, 'Arsenal');
-  assert.equal(result.events.length, 1);
-  assert.equal(result.events[0].name, 'Arsenal vs Everton');
+  // Should have: Arsenal vs Real Betis (4), Arsenal vs Everton (1), Chelsea vs Arsenal (3)
+  // Deduplicated and sorted by date
+  assert.equal(result.events.length, 3);
+  assert.equal(result.events[0].id, '4');
+  assert.equal(result.events[1].id, '1');
+  assert.equal(result.events[2].id, '3');
 });
 
 test('toIcs creates ICS for sports events', async () => {
@@ -80,6 +146,7 @@ test('toIcs creates ICS for sports events', async () => {
   const ics = toIcs(result);
   assert.match(ics, /BEGIN:VCALENDAR/);
   assert.match(ics, /SUMMARY:Arsenal vs Everton/);
+  assert.match(ics, /SUMMARY:Arsenal vs Real Betis/);
   assert.match(ics, /LOCATION:Emirates Stadium/);
 });
 
@@ -104,6 +171,8 @@ test('getUpcomingEvents handles strTimestamp with offset correctly', async () =>
   const fetchImpl = async (url) => {
     if (url.includes('lookupteam.php')) return Response.json(teamPayload);
     if (url.includes('eventsnext.php')) return Response.json(customEventsPayload);
+    // Return empty for other calls to avoid errors in getUpcomingEvents
+    if (url.includes('lookupleague.php')) return Response.json({ leagues: [] });
     return Response.json({});
   };
 
