@@ -121,7 +121,9 @@ test('searchTeamSuggestions returns team results', async () => {
   assert.equal(suggestions[0].name, 'Arsenal');
 });
 
-test('getUpcomingEvents returns merged and deduplicated events for a team', async () => {
+test('getUpcomingEvents returns merged and deduplicated events for a team', async (t) => {
+  t.mock.timers.enable({ apis: ['Date'], now: new Date('2026-07-01T00:00:00Z') });
+
   const result = await getUpcomingEvents({
     teamId: '133604',
     fetchImpl: createFetchMock()
@@ -134,9 +136,13 @@ test('getUpcomingEvents returns merged and deduplicated events for a team', asyn
   assert.equal(result.events[0].id, '4');
   assert.equal(result.events[1].id, '1');
   assert.equal(result.events[2].id, '3');
+
+  t.mock.timers.reset();
 });
 
-test('toIcs creates ICS for sports events', async () => {
+test('toIcs creates ICS for sports events', async (t) => {
+  t.mock.timers.enable({ apis: ['Date'], now: new Date('2026-07-01T00:00:00Z') });
+
   const result = await getUpcomingEvents({
     teamId: '133604',
     fetchImpl: createFetchMock()
@@ -148,9 +154,13 @@ test('toIcs creates ICS for sports events', async () => {
   assert.match(ics, /SUMMARY:Arsenal vs Everton/);
   assert.match(ics, /SUMMARY:Arsenal vs Real Betis/);
   assert.match(ics, /LOCATION:Emirates Stadium/);
+
+  t.mock.timers.reset();
 });
 
-test('getUpcomingEvents handles strTimestamp with offset correctly', async () => {
+test('getUpcomingEvents handles strTimestamp with offset correctly', async (t) => {
+  t.mock.timers.enable({ apis: ['Date'], now: new Date('2026-07-01T00:00:00Z') });
+
   const customEventsPayload = {
     events: [
       {
@@ -186,4 +196,6 @@ test('getUpcomingEvents handles strTimestamp with offset correctly', async () =>
   const ics = toIcs(result);
   // 15:00+01:00 is 14:00 UTC
   assert.match(ics, /DTSTART:20260810T140000Z/);
+
+  t.mock.timers.reset();
 });
