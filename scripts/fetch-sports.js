@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, '../lib/data/sports');
 const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/3';
+const FETCH_TIMEOUT_MS = 10000;
 
 // Major leagues to track
 const LEAGUES = [
@@ -29,18 +30,31 @@ const LEAGUES = [
 ];
 
 async function fetchJson(url) {
-  const response = await fetch(url, {
-    headers: {
-      Accept: 'application/json',
-      'User-Agent': 'MakeICS-Data-Fetcher/1.0'
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+
+  try {
+    const response = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        Accept: 'application/json',
+        'User-Agent': 'MakeICS-Data-Fetcher/1.0'
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error(`Request failed (${response.status}) for ${url}`);
     }
-  });
 
-  if (!response.ok) {
-    throw new Error(`Request failed (${response.status}) for ${url}`);
+    return await response.json();
+  } catch (error) {
+    if (error.name === 'AbortError') {
+      throw new Error(`Request timed out for ${url}`);
+    }
+    throw error;
+  } finally {
+    clearTimeout(timeout);
   }
-
-  return response.json();
 }
 
 async function fetchLeagueEvents(leagueId) {
@@ -59,6 +73,8 @@ async function fetchLeagueEvents(leagueId) {
   console.log(`Current season for ${leagueId}: ${season}`);
 
   const allEvents = [];
+  let emptyRoundCount = 0;
+  const EMPTY_ROUND_THRESHOLD = 3;
 
   // 2. Fetch by rounds (since eventsseason.php is limited)
   // Most leagues don't have more than 50 rounds/weeks
@@ -67,12 +83,15 @@ async function fetchLeagueEvents(leagueId) {
     const roundData = await fetchJson(roundUrl);
 
     if (!roundData.events || roundData.events.length === 0) {
-      // If we get an empty round, it might be the end or just a gap (unlikely in major leagues)
-      // We'll check one more round just in case, then break
-      if (r > 38) break; // Most soccer leagues are 38 rounds
+      emptyRoundCount++;
+      if (emptyRoundCount >= EMPTY_ROUND_THRESHOLD) {
+        console.log(`  Stopping after ${emptyRoundCount} consecutive empty rounds at round ${r}`);
+        break;
+      }
       continue;
     }
 
+    emptyRoundCount = 0;
     allEvents.push(...roundData.events);
     console.log(`  Round ${r}: ${roundData.events.length} events`);
 
