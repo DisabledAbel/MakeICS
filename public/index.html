@@ -60,16 +60,19 @@
                 />
                 <div id="sports-suggestions" class="search-suggestions" role="listbox" hidden></div>
               </div>
-              <select id="timezone-input" name="timezone" class="timezone-select" title="Timezone">
-                <option value="America/New_York">EST (Eastern)</option>
-                <option value="America/Chicago">CST (Central)</option>
-                <option value="America/Denver">MST (Mountain)</option>
-                <option value="America/Los_Angeles" selected>PST (Pacific)</option>
-                <option value="UTC">UTC</option>
-              </select>
               <button type="submit">Fetch events</button>
             </div>
           </div>
+        </div>
+        <div class="common-fields">
+          <label for="timezone-input">Timezone</label>
+          <select id="timezone-input" name="timezone" class="timezone-select" title="Timezone">
+            <option value="America/New_York">EST (Eastern)</option>
+            <option value="America/Chicago">CST (Central)</option>
+            <option value="America/Denver">MST (Mountain)</option>
+            <option value="America/Los_Angeles" selected>PST (Pacific)</option>
+            <option value="UTC">UTC</option>
+          </select>
         </div>
         <p class="hint" id="category-hint">
           Start typing to see TV show suggestions below the search bar. The all-time feed uses TVMaze for show and episode schedules.
