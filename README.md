@@ -22,13 +22,9 @@ MakeICS can be used for:
 
 * Sports schedules
 * TV show calendars
-* School schedules
 * Event tracking
 * Reminder systems
-* Community calendars
 * Streaming schedules
-* Custom automation workflows
-
 ---
 
 ## ▶️ Running Locally
