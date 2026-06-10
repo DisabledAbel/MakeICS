@@ -16,6 +16,7 @@ export default async function handler(req, res) {
   const requestUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
   const query = requestUrl.searchParams.get('show') || requestUrl.searchParams.get('q');
   const format = requestUrl.searchParams.get('format');
+  const timezone = requestUrl.searchParams.get('tz') || 'UTC';
 
   try {
     const result = await getUpcomingEpisodes({ query });
@@ -24,7 +25,7 @@ export default async function handler(req, res) {
       res.statusCode = 200;
       res.setHeader('Content-Type', 'text/calendar; charset=utf-8');
       res.setHeader('Cache-Control', 's-maxage=86400, stale-while-revalidate=3600');
-      return res.end(toIcs(result));
+      return res.end(toIcs(result, { timezone }));
     }
 
     return sendJson(res, 200, result);

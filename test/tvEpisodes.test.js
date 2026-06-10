@@ -254,13 +254,13 @@ test('toIcs creates a daily-refreshing calendar event feed for each upcoming epi
     env: {}
   });
 
-  const ics = toIcs(result);
+  const ics = toIcs(result, { timezone: 'America/New_York' });
   assert.match(ics, /BEGIN:VCALENDAR/);
   assert.match(ics, /X-PUBLISHED-TTL:PT24H/);
   assert.match(ics, /REFRESH-INTERVAL;VALUE=DURATION:PT24H/);
   assert.match(ics, /SUMMARY:Example Show S02E03 The Future/);
   assert.match(ics, /SUMMARY:Example Show S02E04 Too Far Away/);
-  assert.match(ics, /DESCRIPTION:Airs on Test Network\. Future episode\./);
+  assert.match(ics, /DESCRIPTION:.*Time: 9:00 PM EDT \/ 6:00 PM PDT.*/);
   assert.match(ics, /END:VCALENDAR/);
 });
 

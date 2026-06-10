@@ -9,6 +9,7 @@ const template = document.querySelector('#episode-template');
 const tabs = document.querySelectorAll('.tab-btn');
 const categoryFields = document.querySelectorAll('.category-field');
 const categoryHint = document.querySelector('#category-hint');
+const timezoneInput = document.querySelector('#timezone-input');
 
 let currentCategory = 'tv';
 let suggestionDebounce;
@@ -181,7 +182,7 @@ function safeHttpUrl(url) {
   }
 }
 
-function formatAirDate(dateStr, timeStr, timestamp, includeZones = false) {
+function formatAirDate(dateStr, timeStr, timestamp, includeZones = true, timezone = 'UTC') {
   const date = timestamp ? new Date(timestamp) : new Date(`${dateStr}T${timeStr || '00:00'}`);
   if (Number.isNaN(date.getTime())) {
     return dateStr || 'Date TBA';
@@ -192,9 +193,18 @@ function formatAirDate(dateStr, timeStr, timestamp, includeZones = false) {
   }).format(date);
 
   if (includeZones && (timeStr || timestamp)) {
+    const userTime = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit', timeZoneName: 'short', timeZone: timezone }).format(date);
     const et = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' }).format(date);
     const pt = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Los_Angeles', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' }).format(date);
-    return `${local} (${et} / ${pt})`;
+
+    let timesString = `${et} / ${pt}`;
+    if (timezone !== 'America/New_York' && timezone !== 'America/Los_Angeles' && timezone !== 'UTC') {
+      timesString = `${userTime} (${timesString})`;
+    } else if (timezone === 'UTC') {
+      timesString = `${date.toISOString().slice(11, 16)} UTC (${timesString})`;
+    }
+
+    return `${local} (${timesString})`;
   }
 
   return local;
@@ -202,10 +212,10 @@ function formatAirDate(dateStr, timeStr, timestamp, includeZones = false) {
 
 function icsUrlForCurrent() {
   let path = '';
+  const tz = timezoneInput?.value || 'UTC';
   if (currentCategory === 'tv') {
-    path = `/api/episodes?show=${encodeURIComponent(showInput.value)}&format=ics`;
+    path = `/api/episodes?show=${encodeURIComponent(showInput.value)}&format=ics&tz=${encodeURIComponent(tz)}`;
   } else if (currentCategory === 'sports') {
-    const tz = document.querySelector('#timezone-input')?.value || 'UTC';
     path = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}&format=ics&tz=${encodeURIComponent(tz)}`;
   }
   return new URL(path, window.location.origin).href;
@@ -305,7 +315,7 @@ function renderResults(payload, type) {
       resultEl.append(imdbPanel);
     }
 
-    renderList(episodes, 'tv', show);
+    renderList(episodes, 'tv', show, payload.timezone);
   } else if (type === 'sports') {
     const { team, events } = payload;
 
@@ -383,7 +393,7 @@ function renderList(items, type, context, timezone = 'UTC') {
     const link = card.querySelector('a');
 
     if (type === 'tv') {
-      dateEl.textContent = formatAirDate(item.airdate, item.airtime, item.airstamp);
+      dateEl.textContent = formatAirDate(item.airdate, item.airtime, item.airstamp, true, timezone);
       titleEl.textContent = item.name;
       metaEl.textContent = [
         item.season && item.number ? `S${String(item.season).padStart(2, '0')}E${String(item.number).padStart(2, '0')}` : '',
@@ -408,6 +418,8 @@ function renderList(items, type, context, timezone = 'UTC') {
       let timesString = `${et} / ${pt}`;
       if (timezone !== 'America/New_York' && timezone !== 'America/Los_Angeles' && timezone !== 'UTC') {
         timesString = `${userTime} (${timesString})`;
+      } else if (timezone === 'UTC') {
+        timesString = `${date.toISOString().slice(11, 16)} UTC (${timesString})`;
       }
 
       dateEl.textContent = `${local} (${timesString})`;
@@ -487,10 +499,11 @@ form.addEventListener('submit', async (event) => {
 
   let url = '';
   let label = '';
+  const tz = timezoneInput?.value || 'UTC';
 
   if (currentCategory === 'tv') {
     label = showInput.value;
-    url = `/api/episodes?show=${encodeURIComponent(label)}`;
+    url = `/api/episodes?show=${encodeURIComponent(label)}&tz=${encodeURIComponent(tz)}`;
   } else if (currentCategory === 'sports') {
     const teamId = sportsInput.dataset.teamId;
     if (!teamId || teamId === 'undefined') {
@@ -498,7 +511,7 @@ form.addEventListener('submit', async (event) => {
       return;
     }
     label = sportsInput.value;
-    url = `/api/sports-events?teamId=${encodeURIComponent(teamId)}`;
+    url = `/api/sports-events?teamId=${encodeURIComponent(teamId)}&tz=${encodeURIComponent(tz)}`;
   }
 
   setStatus(`Fetching for ${label}...`);
@@ -508,9 +521,7 @@ form.addEventListener('submit', async (event) => {
     const payload = await response.json();
     if (!response.ok) throw new Error(payload.error || 'The lookup failed.');
     setStatus('');
-    if (currentCategory === 'sports') {
-      payload.timezone = document.querySelector('#timezone-input')?.value || 'UTC';
-    }
+    payload.timezone = tz;
     renderResults(payload, currentCategory);
   } catch (error) {
     setStatus(error.message, true);

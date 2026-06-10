@@ -1,0 +1,37 @@
+name: Fetch Sports Schedules
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Every 12 hours
+  workflow_dispatch:
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@1d0ff469b7ec7b3cb9d8673fde0c81c44821de2a # v4.2.0
+        with:
+          node-version: 20
+
+      - name: Fetch Schedules
+        run: node scripts/fetch-sports.js
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ls lib/data/sports/*.json >/dev/null 2>&1; then
+            git add lib/data/sports/*.json
+            git commit -m "📅 Update sports schedules" || echo "No changes to commit"
+            git push --force-with-lease
+          else
+            echo "No sports schedules found to commit."
+          fi
