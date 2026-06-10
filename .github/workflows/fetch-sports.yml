@@ -5,6 +5,10 @@ on:
     - cron: '0 */12 * * *' # Every 12 hours
   workflow_dispatch:
 
+concurrency:
+  group: fetch-sports
+  cancel-in-progress: false
+
 jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest

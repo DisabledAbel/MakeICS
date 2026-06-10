@@ -66,7 +66,9 @@ async function fetchJson(url, retryCount = 0) {
   } catch (error) {
     if (error.name === 'AbortError') {
       if (retryCount < MAX_RETRIES) {
-        console.warn(`Timeout for ${url}. Retrying...`);
+        const backoff = INITIAL_BACKOFF_MS * Math.pow(2, retryCount);
+        console.warn(`Timeout for ${url}. Retrying in ${backoff}ms...`);
+        await sleep(backoff);
         return await fetchJson(url, retryCount + 1);
       }
       throw new Error(`Request timed out for ${url} after ${MAX_RETRIES} retries.`);

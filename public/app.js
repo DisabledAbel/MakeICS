@@ -182,20 +182,32 @@ function safeHttpUrl(url) {
   }
 }
 
-function formatAirDate(dateStr, timeStr, timestamp, includeZones = true, timezone = 'UTC') {
-  const date = timestamp ? new Date(timestamp) : new Date(`${dateStr}T${timeStr || '00:00'}`);
+/**
+ * Formats a date for display in the UI with localized time information.
+ * @param {string} dateStr - YYYY-MM-DD date string
+ * @param {string} timeStr - HH:mm:ss time string
+ * @param {string} timestamp - ISO timestamp
+ * @param {boolean} includeZones - Whether to include localized ET/PT times (default: false)
+ * @param {string} timezone - Selected IANA timezone identifier (default: 'UTC')
+ * @returns {string}
+ */
+function formatAirDate(dateStr, timeStr, timestamp, includeZones = false, timezone = 'UTC') {
+  const date = timestamp ? new Date(timestamp + (!timestamp.includes('Z') && !/[-+]\d{2}:?\d{2}$/.test(timestamp) ? 'Z' : '')) : new Date(`${dateStr}T${timeStr || '00:00:00'}Z`);
+
   if (Number.isNaN(date.getTime())) {
     return dateStr || 'Date TBA';
   }
+
   const local = new Intl.DateTimeFormat(undefined, {
     dateStyle: 'medium',
     timeStyle: (timeStr || timestamp) ? 'short' : undefined
   }).format(date);
 
   if (includeZones && (timeStr || timestamp)) {
-    const userTime = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit', timeZoneName: 'short', timeZone: timezone }).format(date);
-    const et = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' }).format(date);
-    const pt = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Los_Angeles', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' }).format(date);
+    const timeOptions = { hour: 'numeric', minute: '2-digit', timeZoneName: 'short' };
+    const userTime = new Intl.DateTimeFormat('en-US', { ...timeOptions, timeZone: timezone }).format(date);
+    const et = new Intl.DateTimeFormat('en-US', { ...timeOptions, timeZone: 'America/New_York' }).format(date);
+    const pt = new Intl.DateTimeFormat('en-US', { ...timeOptions, timeZone: 'America/Los_Angeles' }).format(date);
 
     let timesString = `${et} / ${pt}`;
     if (timezone !== 'America/New_York' && timezone !== 'America/Los_Angeles' && timezone !== 'UTC') {
@@ -403,26 +415,7 @@ function renderList(items, type, context, timezone = 'UTC') {
       summaryEl.textContent = item.summary || 'No summary available.';
       link.href = item.url || context.tvmazeUrl;
     } else if (type === 'sports') {
-      let date;
-      if (item.timestamp) {
-        const needsZ = !item.timestamp.includes('Z') && !/[+-]\d{2}:\d{2}$/.test(item.timestamp);
-        date = new Date(item.timestamp + (needsZ ? 'Z' : ''));
-      } else {
-        date = new Date(`${item.date}T${item.time || '00:00:00'}Z`);
-      }
-      const local = new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short' }).format(date);
-      const userTime = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit', timeZoneName: 'short', timeZone: timezone }).format(date);
-      const et = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit', timeZoneName: 'short', timeZone: 'America/New_York' }).format(date);
-      const pt = new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit', timeZoneName: 'short', timeZone: 'America/Los_Angeles' }).format(date);
-
-      let timesString = `${et} / ${pt}`;
-      if (timezone !== 'America/New_York' && timezone !== 'America/Los_Angeles' && timezone !== 'UTC') {
-        timesString = `${userTime} (${timesString})`;
-      } else if (timezone === 'UTC') {
-        timesString = `${date.toISOString().slice(11, 16)} UTC (${timesString})`;
-      }
-
-      dateEl.textContent = `${local} (${timesString})`;
+      dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp, true, timezone);
       titleEl.textContent = item.name;
       metaEl.textContent = [item.league, item.venue].filter(Boolean).join(' · ');
       summaryEl.textContent = item.status || '';
