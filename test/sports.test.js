@@ -96,8 +96,9 @@ const nextEventsPayload = {
   ]
 };
 
-function createFetchMock() {
+function createFetchMock(onCall) {
   return async (url) => {
+    if (onCall) onCall(url);
     if (url.includes('searchteams.php')) {
       return Response.json(teamPayload);
     }
@@ -127,22 +128,27 @@ test('searchTeamSuggestions returns team results', async () => {
   assert.equal(suggestions[0].name, 'Arsenal');
 });
 
-test('getUpcomingEvents returns merged and deduplicated events for a team', async () => {
-  const result = await getUpcomingEvents({
-    teamId: '133604',
-    fetchImpl: createFetchMock()
-  });
+test('getUpcomingEvents returns merged and deduplicated events for a team', (t) => {
+  const clock = t.mock.timers;
+  clock.enable({ names: ['Date'], now: new Date('2026-01-01T00:00:00Z') });
 
-  assert.equal(result.team.name, 'Arsenal');
-  // Should have: Arsenal vs Real Betis (4), Arsenal vs Everton (1), Chelsea vs Arsenal (3)
-  // Deduplicated and sorted by date
-  assert.equal(result.events.length, 3);
-  assert.equal(result.events[0].id, '4');
-  assert.equal(result.events[1].id, '1');
-  assert.equal(result.events[2].id, '3');
+  return t.test('merging logic', async () => {
+    const result = await getUpcomingEvents({
+      teamId: '133604',
+      fetchImpl: createFetchMock()
+    });
+
+    assert.equal(result.team.name, 'Arsenal');
+    // Should have: Arsenal vs Real Betis (4), Arsenal vs Everton (1), Chelsea vs Arsenal (3)
+    // Deduplicated and sorted by date
+    assert.equal(result.events.length, 3);
+    assert.equal(result.events[0].id, '4');
+    assert.equal(result.events[1].id, '1');
+    assert.equal(result.events[2].id, '3');
+  });
 });
 
-test('getUpcomingEvents utilizes local cache if available', async () => {
+test('getUpcomingEvents utilizes local cache if available', async (t) => {
   const leagueId = '4328';
   const cacheFilePath = path.join(CACHE_DIR, `${leagueId}.json`);
   const cachedData = {
@@ -170,22 +176,31 @@ test('getUpcomingEvents utilizes local cache if available', async () => {
   await fs.mkdir(CACHE_DIR, { recursive: true });
   await fs.writeFile(cacheFilePath, JSON.stringify(cachedData));
 
+  const calls = [];
+  const onCall = (url) => calls.push(url);
+
   try {
     const result = await getUpcomingEvents({
       teamId: '133604',
-      fetchImpl: createFetchMock()
+      fetchImpl: createFetchMock(onCall)
     });
 
     // Should include cached event (999) + next events (4, 1)
-    // 3 next events: 4 (July), 1 (Aug). Cached is Dec.
     assert.ok(result.events.some(e => e.id === '999'));
     assert.equal(result.events.find(e => e.id === '999').name, 'Arsenal vs Cached');
+
+    // Assert that lookupleague.php and eventsseason.php were NOT called
+    const hasNetworkFallback = calls.some(url => url.includes('lookupleague.php') || url.includes('eventsseason.php'));
+    assert.strictEqual(hasNetworkFallback, false, 'Should not hit network when cache is available');
   } finally {
     await fs.unlink(cacheFilePath).catch(() => {});
   }
 });
 
-test('toIcs creates ICS for sports events', async () => {
+test('toIcs creates ICS for sports events', async (t) => {
+  const clock = t.mock.timers;
+  clock.enable({ names: ['Date'], now: new Date('2026-01-01T00:00:00Z') });
+
   const result = await getUpcomingEvents({
     teamId: '133604',
     fetchImpl: createFetchMock()
@@ -199,7 +214,10 @@ test('toIcs creates ICS for sports events', async () => {
   assert.match(ics, /LOCATION:Emirates Stadium/);
 });
 
-test('getUpcomingEvents handles strTimestamp with offset correctly', async () => {
+test('getUpcomingEvents handles strTimestamp with offset correctly', async (t) => {
+  const clock = t.mock.timers;
+  clock.enable({ names: ['Date'], now: new Date('2026-01-01T00:00:00Z') });
+
   const customEventsPayload = {
     events: [
       {
