@@ -5,7 +5,9 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, '../lib/data/sports');
 const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/3';
-const FETCH_TIMEOUT_MS = 10000;
+const FETCH_TIMEOUT_MS = 15000;
+const MAX_RETRIES = 5;
+const INITIAL_BACKOFF_MS = 2000;
 
 // Major leagues to track
 const LEAGUES = [
@@ -29,7 +31,11 @@ const LEAGUES = [
   { id: '4482', name: 'FA Cup' }
 ];
 
-async function fetchJson(url) {
+async function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function fetchJson(url, retryCount = 0) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
 
@@ -42,6 +48,16 @@ async function fetchJson(url) {
       }
     });
 
+    if (response.status === 429) {
+      if (retryCount < MAX_RETRIES) {
+        const backoff = INITIAL_BACKOFF_MS * Math.pow(2, retryCount);
+        console.warn(`Rate limited (429) for ${url}. Retrying in ${backoff}ms...`);
+        await sleep(backoff);
+        return await fetchJson(url, retryCount + 1);
+      }
+      throw new Error(`Rate limit exceeded for ${url} after ${MAX_RETRIES} retries.`);
+    }
+
     if (!response.ok) {
       throw new Error(`Request failed (${response.status}) for ${url}`);
     }
@@ -49,7 +65,13 @@ async function fetchJson(url) {
     return await response.json();
   } catch (error) {
     if (error.name === 'AbortError') {
-      throw new Error(`Request timed out for ${url}`);
+      if (retryCount < MAX_RETRIES) {
+        const backoff = INITIAL_BACKOFF_MS * Math.pow(2, retryCount);
+        console.warn(`Timeout for ${url}. Retrying in ${backoff}ms...`);
+        await sleep(backoff);
+        return await fetchJson(url, retryCount + 1);
+      }
+      throw new Error(`Request timed out for ${url} after ${MAX_RETRIES} retries.`);
     }
     throw error;
   } finally {
@@ -95,8 +117,8 @@ async function fetchLeagueEvents(leagueId) {
     allEvents.push(...roundData.events);
     console.log(`  Round ${r}: ${roundData.events.length} events`);
 
-    // Throttle slightly to be nice to the API
-    await new Promise(resolve => setTimeout(resolve, 100));
+    // Increased throttle to be more respectful of the free API key limit (~30 req/min)
+    await sleep(2500);
   }
 
   return allEvents;
@@ -121,8 +143,8 @@ async function main() {
     } catch (error) {
       console.error(`Error fetching ${league.name}:`, error.message);
     }
-    // Inter-league delay
-    await new Promise(resolve => setTimeout(resolve, 500));
+    // Significant inter-league delay
+    await sleep(5000);
   }
 }
 
