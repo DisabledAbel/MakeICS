@@ -3,8 +3,9 @@ name: Auto Fix Conflicts
 on:
   pull_request:
     types: [opened, synchronize, reopened]
-    branches-ignore:
+    branches:
       - main
+
   workflow_dispatch:
     inputs:
       branch:
@@ -15,7 +16,7 @@ on:
 jobs:
   auto-fix:
     runs-on: ubuntu-latest
-    if: contains(github.head_ref, 'codex') || contains(github.event.inputs.branch, 'codex') || contains(github.ref_name, 'codex')
+
     permissions:
       contents: write
       pull-requests: write
@@ -42,7 +43,7 @@ jobs:
       - name: Detect conflicts
         id: conflicts
         run: |
-          files=$(git diff --name-only --diff-filter=U)
+          files=$(git diff --name-only --diff-filter=U | tr '\n' ' ')
           echo "files=$files" >> $GITHUB_OUTPUT
 
       - name: Auto resolve conflicts (fallback)
@@ -50,12 +51,13 @@ jobs:
         run: |
           for file in ${{ steps.conflicts.outputs.files }}; do
             echo "Resolving $file"
-            git checkout --theirs $file
-            git add $file
+            git checkout --theirs "$file"
+            git add "$file"
           done
 
       - name: Commit & push changes
         run: |
           git add .
-          git commit -m "🤖 Auto-resolved merge conflicts" || echo "No changes"
+          git diff --cached --quiet && exit 0
+          git commit -m "🤖 Auto-resolved merge conflicts"
           git push
