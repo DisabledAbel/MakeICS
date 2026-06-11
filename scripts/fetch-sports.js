@@ -134,13 +134,16 @@ async function fetchLeagueEvents(leagueId) {
 async function isSupplementalStale(teamId) {
   try {
     const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${teamId}.json`);
-    const stats = await fs.stat(filePath);
-    const lastModified = stats.mtime.getTime();
+    const content = await fs.readFile(filePath, 'utf8');
+    const data = JSON.parse(content);
+    if (!data.updatedAt) return true;
+
+    const lastUpdated = new Date(data.updatedAt).getTime();
     const now = Date.now();
     const twentyFourHoursMs = 24 * 60 * 60 * 1000;
-    return now - lastModified > twentyFourHoursMs;
+    return now - lastUpdated > twentyFourHoursMs;
   } catch (error) {
-    return true; // File doesn't exist
+    return true; // File doesn't exist or is invalid
   }
 }
 
@@ -177,22 +180,17 @@ async function main() {
             if (isStale) {
               console.log(`  Scraping ${team.strTeam} website: ${team.strWebsite}...`);
               try {
-                // Use the exported function from lib/sports.js
-                // I need to ensure it's exported and that I import the normalization logic too
                 const games = await fetchScheduleFromWebsite(team.strWebsite);
-                if (games && games.length > 0) {
-                  const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
+                const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
+                const normalizedEvents = games && games.length ? games.map(g => normalizeScrapedEvent(g, team.strTeam)) : [];
 
-                  const normalizedEvents = games.map(g => normalizeScrapedEvent(g, team.strTeam));
-
-                  await fs.writeFile(filePath, JSON.stringify({
-                    teamId: team.idTeam,
-                    teamName: team.strTeam,
-                    updatedAt: new Date().toISOString(),
-                    events: normalizedEvents
-                  }, null, 2));
-                  console.log(`    Saved ${normalizedEvents.length} scraped events for ${team.strTeam}`);
-                }
+                await fs.writeFile(filePath, JSON.stringify({
+                  teamId: team.idTeam,
+                  teamName: team.strTeam,
+                  updatedAt: new Date().toISOString(),
+                  events: normalizedEvents
+                }, null, 2));
+                console.log(`    Saved ${normalizedEvents.length} scraped events for ${team.strTeam}`);
                 // Rate limit for Firecrawl
                 await sleep(5000);
               } catch (error) {
