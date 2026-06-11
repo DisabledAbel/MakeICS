@@ -198,6 +198,9 @@ test('getUpcomingEvents utilizes local cache if available', async (t) => {
 });
 
 test('getUpcomingEvents merges supplemental (scraped) data', async (t) => {
+  const clock = t.mock.timers;
+  clock.enable({ names: ['Date'], now: new Date('2026-01-01T00:00:00Z') });
+
   const teamId = '133604';
   const supplementalDir = path.join(CACHE_DIR, 'supplemental');
   const supplementalFilePath = path.join(supplementalDir, `${teamId}.json`);
