@@ -18,7 +18,7 @@ const LEAGUES = [
   { id: '4387', name: 'NBA' },
   { id: '4424', name: 'MLB' },
   { id: '4380', name: 'NHL' },
-  { id: '4427', name: 'WNBA' },
+  { id: '4516', name: 'WNBA' },
   { id: '4335', name: 'La Liga' },
   { id: '4332', name: 'Serie A' },
   { id: '4331', name: 'Bundesliga' },
@@ -83,6 +83,111 @@ async function fetchJson(url, retryCount = 0) {
     throw error;
   } finally {
     clearTimeout(timeout);
+  }
+}
+
+async function fetchWNBASupplemental(teams) {
+  console.log('Fetching WNBA supplemental data from SportsDataverse...');
+  const url = 'https://github.com/sportsdataverse/sportsdataverse-data/releases/download/espn_wnba_schedules/wnba_schedule_2026.csv';
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) throw new Error(`Failed to fetch WNBA CSV: ${response.status}`);
+    const csvText = await response.text();
+
+    const teamSupplemental = new Map(); // teamName -> events[]
+    const rows = [];
+    let currentRow = [];
+    let currentField = '';
+    let inQuotes = false;
+
+    for (let j = 0; j < csvText.length; j++) {
+      const char = csvText[j];
+      const nextChar = csvText[j + 1];
+
+      if (char === '"') {
+        if (inQuotes && nextChar === '"') {
+          currentField += '"';
+          j++;
+        } else {
+          inQuotes = !inQuotes;
+        }
+      } else if (char === ',' && !inQuotes) {
+        currentRow.push(currentField);
+        currentField = '';
+      } else if ((char === '\r' || char === '\n') && !inQuotes) {
+        if (currentField || currentRow.length > 0) {
+          currentRow.push(currentField);
+          rows.push(currentRow);
+          currentField = '';
+          currentRow = [];
+        }
+        if (char === '\r' && nextChar === '\n') j++;
+      } else {
+        currentField += char;
+      }
+    }
+
+    const header = rows[0];
+    const dateIdx = header.indexOf('date');
+    const homeNameIdx = header.indexOf('home_display_name');
+    const awayNameIdx = header.indexOf('away_display_name');
+    const venueIdx = header.indexOf('venue_full_name');
+    const idIdx = header.indexOf('id');
+
+    if (dateIdx === -1 || homeNameIdx === -1 || awayNameIdx === -1) {
+      throw new Error('Malformed WNBA CSV header');
+    }
+
+    for (let i = 1; i < rows.length; i++) {
+      const parts = rows[i];
+      const date = parts[dateIdx];
+      const homeName = parts[homeNameIdx];
+      const awayName = parts[awayNameIdx];
+      const venue = parts[venueIdx];
+      const eventId = parts[idIdx];
+
+      if (!date || !homeName || !awayName) continue;
+
+      const event = {
+        idEvent: `wnba-sdv-${eventId}`,
+        strEvent: `${homeName} vs ${awayName}`,
+        strHomeTeam: homeName,
+        strAwayTeam: awayName,
+        dateEvent: date.split('T')[0],
+        strTime: date.split('T')[1]?.replace('Z', '') || '00:00:00',
+        strTimestamp: date,
+        strLeague: 'WNBA',
+        strVenue: venue,
+        strStatus: 'NS',
+        source: 'wehoop'
+      };
+
+      if (!teamSupplemental.has(homeName)) teamSupplemental.set(homeName, []);
+      if (!teamSupplemental.has(awayName)) teamSupplemental.set(awayName, []);
+
+      teamSupplemental.get(homeName).push(event);
+      teamSupplemental.get(awayName).push(event);
+    }
+
+    // Save for each team
+    for (const team of teams) {
+      const teamEvents = teamSupplemental.get(team.strTeam);
+      if (teamEvents) {
+        const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
+        // Merge with existing if any? For WNBA we'll just overwrite or append.
+        // Given the requirement "add every game up to 200", this covers it.
+        await fs.writeFile(filePath, JSON.stringify({
+          teamId: team.idTeam,
+          teamName: team.strTeam,
+          updatedAt: new Date().toISOString(),
+          events: teamEvents
+        }, null, 2));
+        console.log(`    Saved ${teamEvents.length} WNBA supplemental events for ${team.strTeam}`);
+      }
+    }
+  } catch (error) {
+    console.error('  Error fetching WNBA supplemental data:', error.message);
   }
 }
 
@@ -168,12 +273,16 @@ async function main() {
       }
 
       // 2. Discover Teams and Scrape (New)
-      if (process.env.FIRECRAWL_API_KEY) {
-        console.log(`Discovering teams for ${league.name}...`);
-        const teamsUrl = `${SPORTSDB_BASE_URL}/lookup_all_teams.php?id=${league.id}`;
-        const teamsData = await fetchJson(teamsUrl);
-        const teams = teamsData.teams || [];
+      console.log(`Discovering teams for ${league.name}...`);
+      const teamsUrl = `${SPORTSDB_BASE_URL}/lookup_all_teams.php?id=${league.id}`;
+      const teamsData = await fetchJson(teamsUrl);
+      const teams = teamsData.teams || [];
 
+      if (league.id === '4516') {
+        await fetchWNBASupplemental(teams);
+      }
+
+      if (process.env.FIRECRAWL_API_KEY) {
         for (const team of teams) {
           if (team.strWebsite) {
             const isStale = await isSupplementalStale(team.idTeam);
