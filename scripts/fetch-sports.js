@@ -1,9 +1,11 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { fetchScheduleFromWebsite, normalizeScrapedEvent } from '../lib/sports.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, '../lib/data/sports');
+const SUPPLEMENTAL_DATA_DIR = path.join(DATA_DIR, 'supplemental');
 const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/3';
 const FETCH_TIMEOUT_MS = 15000;
 const MAX_RETRIES = 5;
@@ -129,11 +131,27 @@ async function fetchLeagueEvents(leagueId) {
   return allEvents;
 }
 
+async function isSupplementalStale(teamId) {
+  try {
+    const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${teamId}.json`);
+    const stats = await fs.stat(filePath);
+    const lastModified = stats.mtime.getTime();
+    const now = Date.now();
+    const twentyFourHoursMs = 24 * 60 * 60 * 1000;
+    return now - lastModified > twentyFourHoursMs;
+  } catch (error) {
+    return true; // File doesn't exist
+  }
+}
+
+
 async function main() {
   await fs.mkdir(DATA_DIR, { recursive: true });
+  await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });
 
   for (const league of LEAGUES) {
     try {
+      // 1. Fetch League Events (Legacy)
       const events = await fetchLeagueEvents(league.id);
       if (events.length > 0) {
         const filePath = path.join(DATA_DIR, `${league.id}.json`);
@@ -144,6 +162,47 @@ async function main() {
           events
         }, null, 2));
         console.log(`Saved ${events.length} events for ${league.name} to ${filePath}`);
+      }
+
+      // 2. Discover Teams and Scrape (New)
+      if (process.env.FIRECRAWL_API_KEY) {
+        console.log(`Discovering teams for ${league.name}...`);
+        const teamsUrl = `${SPORTSDB_BASE_URL}/lookup_all_teams.php?id=${league.id}`;
+        const teamsData = await fetchJson(teamsUrl);
+        const teams = teamsData.teams || [];
+
+        for (const team of teams) {
+          if (team.strWebsite) {
+            const isStale = await isSupplementalStale(team.idTeam);
+            if (isStale) {
+              console.log(`  Scraping ${team.strTeam} website: ${team.strWebsite}...`);
+              try {
+                // Use the exported function from lib/sports.js
+                // I need to ensure it's exported and that I import the normalization logic too
+                const games = await fetchScheduleFromWebsite(team.strWebsite);
+                if (games && games.length > 0) {
+                  const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
+
+                  const normalizedEvents = games.map(g => normalizeScrapedEvent(g, team.strTeam));
+
+                  await fs.writeFile(filePath, JSON.stringify({
+                    teamId: team.idTeam,
+                    teamName: team.strTeam,
+                    updatedAt: new Date().toISOString(),
+                    events: normalizedEvents
+                  }, null, 2));
+                  console.log(`    Saved ${normalizedEvents.length} scraped events for ${team.strTeam}`);
+                }
+                // Rate limit for Firecrawl
+                await sleep(5000);
+              } catch (error) {
+                console.error(`    Error scraping ${team.strTeam}:`, error.message);
+              }
+            } else {
+              console.log(`  Supplemental data for ${team.strTeam} is fresh.`);
+            }
+          }
+        }
       }
     } catch (error) {
       console.error(`Error fetching ${league.name}:`, error.message);
