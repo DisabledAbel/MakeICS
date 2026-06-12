@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { searchTeamSuggestions, getUpcomingEvents, toIcs } from '../lib/sports.js';
+import { searchTeamSuggestions, getEvents, toIcs } from '../lib/sports.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE_DIR = path.join(__dirname, '../lib/data/sports');
@@ -128,19 +128,19 @@ test('searchTeamSuggestions returns team results', async () => {
   assert.equal(suggestions[0].name, 'Arsenal');
 });
 
-test('getUpcomingEvents returns merged and deduplicated events for a team', (t) => {
+test('getEvents returns merged and deduplicated events for a team, including past ones', (t) => {
   const clock = t.mock.timers;
-  clock.enable({ names: ['Date'], now: new Date('2026-01-01T00:00:00Z') });
+  clock.enable({ names: ['Date'], now: new Date('2027-01-01T00:00:00Z') });
 
   return t.test('merging logic', async () => {
-    const result = await getUpcomingEvents({
+    const result = await getEvents({
       teamId: '133604',
       fetchImpl: createFetchMock()
     });
 
     assert.equal(result.team.name, 'Arsenal');
     // Should have: Arsenal vs Real Betis (4), Arsenal vs Everton (1), Chelsea vs Arsenal (3)
-    // Deduplicated and sorted by date
+    // Deduplicated and sorted by date, all are in the past now but should be included
     assert.equal(result.events.length, 3);
     assert.equal(result.events[0].id, '4');
     assert.equal(result.events[1].id, '1');
@@ -148,7 +148,7 @@ test('getUpcomingEvents returns merged and deduplicated events for a team', (t) 
   });
 });
 
-test('getUpcomingEvents utilizes local cache if available', async (t) => {
+test('getEvents utilizes local cache if available', async (t) => {
   const leagueId = '4328';
   const cacheFilePath = path.join(CACHE_DIR, `${leagueId}.json`);
   const cachedData = {
@@ -180,7 +180,7 @@ test('getUpcomingEvents utilizes local cache if available', async (t) => {
   const onCall = (url) => calls.push(url);
 
   try {
-    const result = await getUpcomingEvents({
+    const result = await getEvents({
       teamId: '133604',
       fetchImpl: createFetchMock(onCall)
     });
@@ -197,7 +197,7 @@ test('getUpcomingEvents utilizes local cache if available', async (t) => {
   }
 });
 
-test('getUpcomingEvents merges supplemental (scraped) data', async (t) => {
+test('getEvents merges supplemental (scraped) data', async (t) => {
   const clock = t.mock.timers;
   clock.enable({ names: ['Date'], now: new Date('2026-01-01T00:00:00Z') });
 
@@ -229,7 +229,7 @@ test('getUpcomingEvents merges supplemental (scraped) data', async (t) => {
   await fs.writeFile(supplementalFilePath, JSON.stringify(scrapedData));
 
   try {
-    const result = await getUpcomingEvents({
+    const result = await getEvents({
       teamId,
       fetchImpl: createFetchMock()
     });
@@ -247,7 +247,7 @@ test('toIcs creates ICS for sports events', async (t) => {
   const clock = t.mock.timers;
   clock.enable({ names: ['Date'], now: new Date('2026-01-01T00:00:00Z') });
 
-  const result = await getUpcomingEvents({
+  const result = await getEvents({
     teamId: '133604',
     fetchImpl: createFetchMock()
   });
@@ -260,7 +260,7 @@ test('toIcs creates ICS for sports events', async (t) => {
   assert.match(ics, /LOCATION:Emirates Stadium/);
 });
 
-test('getUpcomingEvents handles strTimestamp with offset correctly', async (t) => {
+test('getEvents handles strTimestamp with offset correctly', async (t) => {
   const clock = t.mock.timers;
   clock.enable({ names: ['Date'], now: new Date('2026-01-01T00:00:00Z') });
 
@@ -284,12 +284,12 @@ test('getUpcomingEvents handles strTimestamp with offset correctly', async (t) =
   const fetchImpl = async (url) => {
     if (url.includes('lookupteam.php')) return Response.json(teamPayload);
     if (url.includes('eventsnext.php')) return Response.json(customEventsPayload);
-    // Return empty for other calls to avoid errors in getUpcomingEvents
+    // Return empty for other calls to avoid errors in getEvents
     if (url.includes('lookupleague.php')) return Response.json({ leagues: [] });
     return Response.json({});
   };
 
-  const result = await getUpcomingEvents({
+  const result = await getEvents({
     teamId: '133604',
     fetchImpl
   });

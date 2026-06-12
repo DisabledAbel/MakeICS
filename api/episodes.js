@@ -1,4 +1,4 @@
-import { getUpcomingEpisodes, toIcs } from '../lib/tvEpisodes.js';
+import { getEpisodes, toIcs } from '../lib/tvEpisodes.js';
 
 function sendJson(res, statusCode, payload) {
   res.statusCode = statusCode;
@@ -19,7 +19,7 @@ export default async function handler(req, res) {
   const timezone = requestUrl.searchParams.get('tz') || 'UTC';
 
   try {
-    const result = await getUpcomingEpisodes({ query });
+    const result = await getEpisodes({ query });
 
     if (format === 'ics') {
       res.statusCode = 200;
@@ -32,7 +32,7 @@ export default async function handler(req, res) {
   } catch (error) {
     const statusCode = error.statusCode || (error.message?.includes('404') ? 404 : 500);
     return sendJson(res, statusCode, {
-      error: statusCode === 404 ? 'Show not found.' : error.message || 'Unable to fetch upcoming episodes.'
+      error: statusCode === 404 ? 'Show not found.' : error.message || 'Unable to fetch episodes.'
     });
   }
 }

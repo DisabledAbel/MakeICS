@@ -18,7 +18,7 @@ let activeSuggestionIndex = -1;
 
 const CATEGORY_HINTS = {
   tv: 'Start typing to see TV show suggestions below the search bar. The all-time feed uses TVMaze for show and episode schedules.',
-  sports: 'Search for sports teams from TheSportsDB. Copy the ICS URL to track upcoming matches.'
+  sports: 'Search for sports teams from TheSportsDB. Copy the ICS URL to track matches.'
 };
 
 // --- Tab Logic ---
@@ -389,8 +389,8 @@ function renderList(items, type, context, timezone = 'UTC') {
   const count = document.createElement('p');
   count.className = 'count';
   count.textContent = items.length
-    ? `${items.length} upcoming event${items.length === 1 ? '' : 's'} found.`
-    : `No upcoming events found.`;
+    ? `${items.length} event${items.length === 1 ? '' : 's'} found.`
+    : `No events found.`;
   resultEl.append(count);
 
   const list = document.createElement('div');

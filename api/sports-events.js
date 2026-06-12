@@ -1,4 +1,4 @@
-import { getUpcomingEvents, toIcs } from '../lib/sports.js';
+import { getEvents, toIcs } from '../lib/sports.js';
 
 function sendJson(res, statusCode, payload) {
   res.statusCode = statusCode;
@@ -23,7 +23,7 @@ export default async function handler(req, res) {
   }
 
   try {
-    const result = await getUpcomingEvents({ teamId });
+    const result = await getEvents({ teamId });
 
     if (format === 'ics') {
       res.statusCode = 200;

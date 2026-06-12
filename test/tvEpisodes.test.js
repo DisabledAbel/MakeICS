@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { getUpcomingEpisodes, searchShowSuggestions, toIcs } from '../lib/tvEpisodes.js';
+import { getEpisodes, searchShowSuggestions, toIcs } from '../lib/tvEpisodes.js';
 
 const showPayload = {
   id: 1,
@@ -129,10 +129,9 @@ test('searchShowSuggestions returns Google-style typeahead TV show results', asy
   assert.ok(requests.some((request) => request.url === 'https://api.tvmaze.com/search/shows?q=exa'));
 });
 
-test('getUpcomingEpisodes returns upcoming TVMaze episodes and custom IMDb enrichment', async () => {
-  const result = await getUpcomingEpisodes({
+test('getEpisodes returns TVMaze episodes and custom IMDb enrichment', async () => {
+  const result = await getEpisodes({
     query: 'Example Show',
-    now: new Date('2026-05-29T00:00:00Z'),
     fetchImpl: createFetchMock(),
     env: { IMDB_API_URL: 'https://imdb.test/title/{imdbId}' }
   });
@@ -141,17 +140,16 @@ test('getUpcomingEpisodes returns upcoming TVMaze episodes and custom IMDb enric
   assert.equal(result.show.imdbId, 'tt1234567');
   assert.equal(result.imdb.title, 'IMDb Example Show');
   assert.equal(result.window.mode, 'all-time');
-  assert.equal(result.episodes.length, 2);
-  assert.deepEqual(result.episodes.map((episode) => episode.name), ['The Future', 'Too Far Away']);
-  assert.equal(result.episodes[0].summary, 'Future episode.');
+  assert.equal(result.episodes.length, 3);
+  assert.deepEqual(result.episodes.map((episode) => episode.name), ['Already Aired', 'The Future', 'Too Far Away']);
+  assert.equal(result.episodes[1].summary, 'Future episode.');
   assert.equal(result.episodes[0].network, 'Test Network');
 });
 
-test('getUpcomingEpisodes uses the free public IMDb endpoint without an API key by default', async () => {
+test('getEpisodes uses the free public IMDb endpoint without an API key by default', async () => {
   const requests = [];
-  const result = await getUpcomingEpisodes({
+  const result = await getEpisodes({
     query: 'Example Show',
-    now: new Date('2026-05-29T00:00:00Z'),
     fetchImpl: createFetchMock(requests),
     env: {}
   });
@@ -163,7 +161,7 @@ test('getUpcomingEpisodes uses the free public IMDb endpoint without an API key 
   assert.ok(requests.every((request) => !request.options.headers?.Authorization));
 });
 
-test('getUpcomingEpisodes quietly skips unavailable default IMDb enrichment', async () => {
+test('getEpisodes quietly skips unavailable default IMDb enrichment', async () => {
   const requests = [];
   const fetchImpl = async (url, options = {}) => {
     requests.push({ url: String(url), options });
@@ -179,9 +177,8 @@ test('getUpcomingEpisodes quietly skips unavailable default IMDb enrichment', as
     throw new Error(`Unexpected URL: ${url}`);
   };
 
-  const result = await getUpcomingEpisodes({
+  const result = await getEpisodes({
     query: 'Example Show',
-    now: new Date('2026-05-29T00:00:00Z'),
     fetchImpl,
     env: {}
   });
@@ -190,11 +187,11 @@ test('getUpcomingEpisodes quietly skips unavailable default IMDb enrichment', as
   assert.equal(result.imdb.sourceConfigured, false);
   assert.equal(result.imdb.error, undefined);
   assert.match(result.imdb.warning, /HTTP 500/);
-  assert.equal(result.episodes.length, 2);
+  assert.equal(result.episodes.length, 3);
   assert.ok(requests.some((request) => request.url === 'https://imdb.iamidiotareyoutoo.com/search?tt=tt1234567'));
 });
 
-test('getUpcomingEpisodes quietly skips default IMDb network failures', async () => {
+test('getEpisodes quietly skips default IMDb network failures', async () => {
   const fetchImpl = async (url) => {
     if (String(url).includes('/singlesearch/shows')) {
       return Response.json(showPayload);
@@ -208,9 +205,8 @@ test('getUpcomingEpisodes quietly skips default IMDb network failures', async ()
     throw new Error(`Unexpected URL: ${url}`);
   };
 
-  const result = await getUpcomingEpisodes({
+  const result = await getEpisodes({
     query: 'Example Show',
-    now: new Date('2026-05-29T00:00:00Z'),
     fetchImpl,
     env: {}
   });
@@ -218,14 +214,13 @@ test('getUpcomingEpisodes quietly skips default IMDb network failures', async ()
   assert.equal(result.imdb.sourceConfigured, false);
   assert.equal(result.imdb.error, undefined);
   assert.match(result.imdb.warning, /request failed/);
-  assert.equal(result.episodes.length, 2);
+  assert.equal(result.episodes.length, 3);
 });
 
-test('getUpcomingEpisodes uses FIRECRAWL_API_KEY for IMDb scraping when configured', async () => {
+test('getEpisodes uses FIRECRAWL_API_KEY for IMDb scraping when configured', async () => {
   const requests = [];
-  const result = await getUpcomingEpisodes({
+  const result = await getEpisodes({
     query: 'Example Show',
-    now: new Date('2026-05-29T00:00:00Z'),
     fetchImpl: createFetchMock(requests),
     env: { FIRECRAWL_API_KEY: 'fc-test', FIRECRAWL_API_URL: 'https://firecrawl.test/v2/scrape' }
   });
@@ -239,17 +234,16 @@ test('getUpcomingEpisodes uses FIRECRAWL_API_KEY for IMDb scraping when configur
   assert.match(firecrawlRequest.options.body, /https:\/\/www\.imdb\.com\/title\/tt1234567\//);
 });
 
-test('getUpcomingEpisodes validates missing show names', async () => {
+test('getEpisodes validates missing show names', async () => {
   await assert.rejects(
-    () => getUpcomingEpisodes({ query: ' ', fetchImpl: createFetchMock() }),
+    () => getEpisodes({ query: ' ', fetchImpl: createFetchMock() }),
     /show name is required/
   );
 });
 
-test('toIcs creates a daily-refreshing calendar event feed for each upcoming episode', async () => {
-  const result = await getUpcomingEpisodes({
+test('toIcs creates a daily-refreshing calendar event feed for episodes', async () => {
+  const result = await getEpisodes({
     query: 'Example Show',
-    now: new Date('2026-05-29T00:00:00Z'),
     fetchImpl: createFetchMock(),
     env: {}
   });
@@ -258,6 +252,7 @@ test('toIcs creates a daily-refreshing calendar event feed for each upcoming epi
   assert.match(ics, /BEGIN:VCALENDAR/);
   assert.match(ics, /X-PUBLISHED-TTL:PT24H/);
   assert.match(ics, /REFRESH-INTERVAL;VALUE=DURATION:PT24H/);
+  assert.match(ics, /SUMMARY:Example Show S01E01 Already Aired/);
   assert.match(ics, /SUMMARY:Example Show S02E03 The Future/);
   assert.match(ics, /SUMMARY:Example Show S02E04 Too Far Away/);
   assert.match(ics, /DESCRIPTION:.*Time: 9:00 PM EDT \/ 6:00 PM PDT.*/);
