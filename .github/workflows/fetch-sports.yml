@@ -2,7 +2,7 @@ name: Fetch Sports Schedules
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Every 12 hours
+    - cron: '0 */6 * * *' # Every 6 hours
   workflow_dispatch:
 
 concurrency:
@@ -32,8 +32,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if ls lib/data/sports/*.json >/dev/null 2>&1; then
-            git add lib/data/sports/*.json
+          if ls lib/data/sports/*.json >/dev/null 2>&1 || ls lib/data/sports/supplemental/*.json >/dev/null 2>&1; then
+            git add lib/data/sports/*.json lib/data/sports/supplemental/*.json 2>/dev/null || true
             git commit -m "📅 Update sports schedules" || echo "No changes to commit"
             git push --force-with-lease
           else

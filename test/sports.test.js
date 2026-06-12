@@ -197,6 +197,52 @@ test('getUpcomingEvents utilizes local cache if available', async (t) => {
   }
 });
 
+test('getUpcomingEvents merges supplemental (scraped) data', async (t) => {
+  const clock = t.mock.timers;
+  clock.enable({ names: ['Date'], now: new Date('2026-01-01T00:00:00Z') });
+
+  const teamId = '133604';
+  const supplementalDir = path.join(CACHE_DIR, 'supplemental');
+  const supplementalFilePath = path.join(supplementalDir, `${teamId}.json`);
+  const scrapedData = {
+    teamId,
+    teamName: 'Arsenal',
+    updatedAt: new Date().toISOString(),
+    events: [
+      {
+        idEvent: 'scraped-2026-12-31-arsenal-vs-scraped',
+        strEvent: 'Arsenal vs Scraped',
+        strHomeTeam: 'Arsenal',
+        strAwayTeam: 'Scraped',
+        dateEvent: '2026-12-31',
+        strTime: '15:00:00',
+        strTimestamp: '2026-12-31T15:00:00Z',
+        strLeague: 'Premier League',
+        strVenue: 'Scraped Stadium',
+        strStatus: 'NS',
+        source: 'scraped'
+      }
+    ]
+  };
+
+  await fs.mkdir(supplementalDir, { recursive: true });
+  await fs.writeFile(supplementalFilePath, JSON.stringify(scrapedData));
+
+  try {
+    const result = await getUpcomingEvents({
+      teamId,
+      fetchImpl: createFetchMock()
+    });
+
+    // Should include TSDB events (1, 3, 4) AND scraped event (scraped-...)
+    assert.equal(result.events.length, 4);
+    assert.ok(result.events.some(e => e.id === 'scraped-2026-12-31-arsenal-vs-scraped'));
+    assert.equal(result.events.find(e => e.id.includes('scraped')).name, 'Arsenal vs Scraped');
+  } finally {
+    await fs.unlink(supplementalFilePath).catch(() => {});
+  }
+});
+
 test('toIcs creates ICS for sports events', async (t) => {
   const clock = t.mock.timers;
   clock.enable({ names: ['Date'], now: new Date('2026-01-01T00:00:00Z') });
