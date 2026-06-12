@@ -183,18 +183,31 @@ async function fetchWNBASupplemental(teams) {
 
     // Save for each team
     for (const team of teams) {
-      const teamEvents = teamSupplemental.get(team.strTeam);
+      let teamEvents = teamSupplemental.get(team.strTeam);
+
+      if (!teamEvents) {
+        // Fallback: lowercase/trimmed match
+        const normalizedTarget = team.strTeam.toLowerCase().trim();
+        for (const [name, events] of teamSupplemental.entries()) {
+          if (name.toLowerCase().trim() === normalizedTarget) {
+            teamEvents = events;
+            console.log(`    Found tolerant match for WNBA team: "${name}" -> "${team.strTeam}"`);
+            break;
+          }
+        }
+      }
+
       if (teamEvents) {
         const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
-        // Merge with existing if any? For WNBA we'll just overwrite or append.
-        // Given the requirement "add every game up to 200", this covers it.
         await fs.writeFile(filePath, JSON.stringify({
           teamId: team.idTeam,
           teamName: team.strTeam,
           updatedAt: new Date().toISOString(),
           events: teamEvents
         }, null, 2));
-        console.log(`    Saved ${teamEvents.length} WNBA supplemental events for ${team.strTeam}`);
+        console.log(`    Saved ${teamEvents.length} WNBA supplemental events for ${team.strTeam} (${team.idTeam})`);
+      } else {
+        console.warn(`    No WNBA supplemental events found for ${team.strTeam} (${team.idTeam})`);
       }
     }
   } catch (error) {
