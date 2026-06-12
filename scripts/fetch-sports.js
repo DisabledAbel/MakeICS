@@ -89,9 +89,11 @@ async function fetchJson(url, retryCount = 0) {
 async function fetchWNBASupplemental(teams) {
   console.log('Fetching WNBA supplemental data from SportsDataverse...');
   const url = 'https://github.com/sportsdataverse/sportsdataverse-data/releases/download/espn_wnba_schedules/wnba_schedule_2026.csv';
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
 
   try {
-    const response = await fetch(url);
+    const response = await fetch(url, { signal: controller.signal });
     if (!response.ok) throw new Error(`Failed to fetch WNBA CSV: ${response.status}`);
     const csvText = await response.text();
 
@@ -116,7 +118,7 @@ async function fetchWNBASupplemental(teams) {
         currentRow.push(currentField);
         currentField = '';
       } else if ((char === '\r' || char === '\n') && !inQuotes) {
-        if (currentField || currentRow.length > 0) {
+        if (currentField !== '' || currentRow.length > 0) {
           currentRow.push(currentField);
           rows.push(currentRow);
           currentField = '';
@@ -126,6 +128,12 @@ async function fetchWNBASupplemental(teams) {
       } else {
         currentField += char;
       }
+    }
+
+    // Handle last row if no trailing newline
+    if (currentField !== '' || currentRow.length > 0) {
+      currentRow.push(currentField);
+      rows.push(currentRow);
     }
 
     const header = rows[0];
@@ -149,13 +157,16 @@ async function fetchWNBASupplemental(teams) {
 
       if (!date || !homeName || !awayName) continue;
 
+      let strTime = date.split('T')[1]?.replace('Z', '') || '00:00:00';
+      if (strTime.length === 5) strTime += ':00'; // HH:mm -> HH:mm:ss
+
       const event = {
         idEvent: `wnba-sdv-${eventId}`,
         strEvent: `${homeName} vs ${awayName}`,
         strHomeTeam: homeName,
         strAwayTeam: awayName,
         dateEvent: date.split('T')[0],
-        strTime: date.split('T')[1]?.replace('Z', '') || '00:00:00',
+        strTime,
         strTimestamp: date,
         strLeague: 'WNBA',
         strVenue: venue,
@@ -187,7 +198,13 @@ async function fetchWNBASupplemental(teams) {
       }
     }
   } catch (error) {
-    console.error('  Error fetching WNBA supplemental data:', error.message);
+    if (error.name === 'AbortError') {
+      console.error(`  WNBA CSV request timed out after ${FETCH_TIMEOUT_MS}ms`);
+    } else {
+      console.error('  Error fetching WNBA supplemental data:', error.message);
+    }
+  } finally {
+    clearTimeout(timeout);
   }
 }
 
@@ -244,6 +261,8 @@ async function isSupplementalStale(teamId) {
     if (!data.updatedAt) return true;
 
     const lastUpdated = new Date(data.updatedAt).getTime();
+    if (Number.isNaN(lastUpdated)) return true;
+
     const now = Date.now();
     const twentyFourHoursMs = 24 * 60 * 60 * 1000;
     return now - lastUpdated > twentyFourHoursMs;
