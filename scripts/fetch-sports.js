@@ -201,7 +201,6 @@ async function fetchLeagueSupplementalCSV(league, teams) {
       }
     }
 
-    // Handle last row if no trailing newline
     if (currentField !== '' || currentRow.length > 0) {
       currentRow.push(currentField);
       rows.push(currentRow);
@@ -216,7 +215,6 @@ async function fetchLeagueSupplementalCSV(league, teams) {
 
     if (indices.date === -1 || indices.home === -1 || indices.away === -1) {
       throw new Error(`Malformed ${league.name} CSV header (missing required fields)`);
-
     }
 
     for (let i = 1; i < rows.length; i++) {
@@ -238,13 +236,26 @@ async function fetchLeagueSupplementalCSV(league, teams) {
         [dateEvent, strTime] = dateRaw.split('T');
         strTime = strTime.replace('Z', '');
         strTimestamp = dateRaw;
-      } else if (timeRaw) {
-        strTime = timeRaw;
+      } else {
+        if (timeRaw) strTime = timeRaw;
+
+        // Validate date format YYYY-MM-DD
+        if (!/^\d{4}-\d{2}-\d{2}$/.test(dateEvent)) {
+          const parsed = new Date(dateRaw);
+          if (!Number.isNaN(parsed.getTime())) {
+            dateEvent = parsed.toISOString().split('T')[0];
+          } else {
+            console.warn(`    Invalid date format for ${league.name}: "${dateRaw}"`);
+          }
+        }
       }
 
       if (strTime.length === 5) strTime += ':00'; // HH:mm -> HH:mm:ss
+
       if (!strTimestamp) {
-        strTimestamp = `${dateEvent}T${strTime}Z`;
+        if (/^\d{4}-\d{2}-\d{2}$/.test(dateEvent)) {
+          strTimestamp = `${dateEvent}T${strTime}Z`;
+        }
       } else if (!strTimestamp.endsWith('Z') && !/[-+]\d{2}:?\d{2}$/.test(strTimestamp)) {
         strTimestamp += 'Z';
       }
@@ -365,7 +376,6 @@ function getESPNTeamSlug(team) {
   return team.strTeamShort?.toLowerCase() || team.strTeam?.toLowerCase().replace(/\s+/g, '-');
 }
 
-
 async function isSupplementalStale(teamId) {
   try {
     const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${teamId}.json`);
@@ -454,21 +464,23 @@ async function main() {
             }
           }
 
-          // 2c. Save Merged Results
+          // 2c. Save Merged Results (Always write to mark as fresh)
+          const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
+          const normalizedEvents = allScrapedGames.map(g => normalizeScrapedEvent(g, team.strTeam));
+
+          await fs.writeFile(filePath, JSON.stringify({
+            teamId: team.idTeam,
+            teamName: team.strTeam,
+            updatedAt: new Date().toISOString(),
+            events: normalizedEvents
+          }, null, 2));
+
           if (allScrapedGames.length > 0) {
-            const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
-            const normalizedEvents = allScrapedGames.map(g => normalizeScrapedEvent(g, team.strTeam));
-
-            await fs.writeFile(filePath, JSON.stringify({
-              teamId: team.idTeam,
-              teamName: team.strTeam,
-              updatedAt: new Date().toISOString(),
-              events: normalizedEvents
-            }, null, 2));
             console.log(`    Saved ${normalizedEvents.length} total supplemental events for ${team.strTeam}`);
-
-            // Significant throttle for Firecrawl
+            // Significant throttle for Firecrawl only if we actually did work
             await sleep(8000);
+          } else {
+            console.log(`    No supplemental games found for ${team.strTeam}.`);
           }
         }
       }
