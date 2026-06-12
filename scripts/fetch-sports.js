@@ -201,6 +201,7 @@ async function fetchLeagueSupplementalCSV(league, teams) {
       }
     }
 
+    // Handle last row if no trailing newline
     if (currentField !== '' || currentRow.length > 0) {
       currentRow.push(currentField);
       rows.push(currentRow);
@@ -215,6 +216,7 @@ async function fetchLeagueSupplementalCSV(league, teams) {
 
     if (indices.date === -1 || indices.home === -1 || indices.away === -1) {
       throw new Error(`Malformed ${league.name} CSV header (missing required fields)`);
+
     }
 
     for (let i = 1; i < rows.length; i++) {
@@ -362,6 +364,7 @@ function getESPNTeamSlug(team) {
   }
   return team.strTeamShort?.toLowerCase() || team.strTeam?.toLowerCase().replace(/\s+/g, '-');
 }
+
 
 async function isSupplementalStale(teamId) {
   try {
