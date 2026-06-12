@@ -17,8 +17,8 @@ let suggestionAbortController;
 let activeSuggestionIndex = -1;
 
 const CATEGORY_HINTS = {
-  tv: 'Start typing to see TV show suggestions below the search bar. The all-time feed uses TVMaze for show and episode schedules.',
-  sports: 'Search for sports teams from TheSportsDB. Copy the ICS URL to track matches.'
+  tv: 'Start typing to see TV show suggestions below the search bar. The feed includes all episodes from today onwards once added.',
+  sports: 'Search for sports teams from TheSportsDB. Copy the ICS URL to track matches from today onwards once added.'
 };
 
 // --- Tab Logic ---
@@ -225,10 +225,11 @@ function formatAirDate(dateStr, timeStr, timestamp, includeZones = false, timezo
 function icsUrlForCurrent() {
   let path = '';
   const tz = timezoneInput?.value || 'UTC';
+  const since = new Date().toISOString().split('T')[0];
   if (currentCategory === 'tv') {
-    path = `/api/episodes?show=${encodeURIComponent(showInput.value)}&format=ics&tz=${encodeURIComponent(tz)}`;
+    path = `/api/episodes?show=${encodeURIComponent(showInput.value)}&format=ics&tz=${encodeURIComponent(tz)}&since=${since}`;
   } else if (currentCategory === 'sports') {
-    path = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}&format=ics&tz=${encodeURIComponent(tz)}`;
+    path = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}&format=ics&tz=${encodeURIComponent(tz)}&since=${since}`;
   }
   return new URL(path, window.location.origin).href;
 }
@@ -494,9 +495,10 @@ form.addEventListener('submit', async (event) => {
   let label = '';
   const tz = timezoneInput?.value || 'UTC';
 
+  const since = new Date().toISOString().split('T')[0];
   if (currentCategory === 'tv') {
     label = showInput.value;
-    url = `/api/episodes?show=${encodeURIComponent(label)}&tz=${encodeURIComponent(tz)}`;
+    url = `/api/episodes?show=${encodeURIComponent(label)}&tz=${encodeURIComponent(tz)}&since=${since}`;
   } else if (currentCategory === 'sports') {
     const teamId = sportsInput.dataset.teamId;
     if (!teamId || teamId === 'undefined') {
@@ -504,7 +506,7 @@ form.addEventListener('submit', async (event) => {
       return;
     }
     label = sportsInput.value;
-    url = `/api/sports-events?teamId=${encodeURIComponent(teamId)}&tz=${encodeURIComponent(tz)}`;
+    url = `/api/sports-events?teamId=${encodeURIComponent(teamId)}&tz=${encodeURIComponent(tz)}&since=${since}`;
   }
 
   setStatus(`Fetching for ${label}...`);

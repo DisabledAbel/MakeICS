@@ -17,13 +17,14 @@ export default async function handler(req, res) {
   const teamId = requestUrl.searchParams.get('teamId');
   const format = requestUrl.searchParams.get('format');
   const timezone = requestUrl.searchParams.get('tz') || 'UTC';
+  const since = requestUrl.searchParams.get('since');
 
   if (!teamId) {
     return sendJson(res, 400, { error: 'teamId is required.' });
   }
 
   try {
-    const result = await getEvents({ teamId });
+    const result = await getEvents({ teamId, since });
 
     if (format === 'ics') {
       res.statusCode = 200;
