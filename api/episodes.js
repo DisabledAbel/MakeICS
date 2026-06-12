@@ -17,9 +17,10 @@ export default async function handler(req, res) {
   const query = requestUrl.searchParams.get('show') || requestUrl.searchParams.get('q');
   const format = requestUrl.searchParams.get('format');
   const timezone = requestUrl.searchParams.get('tz') || 'UTC';
+  const since = requestUrl.searchParams.get('since');
 
   try {
-    const result = await getEpisodes({ query });
+    const result = await getEpisodes({ query, since });
 
     if (format === 'ics') {
       res.statusCode = 200;
