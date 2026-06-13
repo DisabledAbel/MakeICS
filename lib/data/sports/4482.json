@@ -1,7 +1,7 @@
 {
   "leagueId": "4482",
   "leagueName": "FA Cup",
-  "updatedAt": "2026-06-11T07:08:20.192Z",
+  "updatedAt": "2026-06-13T02:35:43.716Z",
   "events": [
     {
       "idEvent": "2371352",
@@ -3852,7 +3852,7 @@
       "strTimeLocal": "15:00:00",
       "strGroup": "",
       "idHomeTeam": "133837",
-      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/lonnw91601721029.png",
+      "strHomeTeamBadge": "https://www.thesportsdb.com/images/media/team/badge/m3km7p1781284189.png",
       "idAwayTeam": "134355",
       "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
       "intScore": null,
