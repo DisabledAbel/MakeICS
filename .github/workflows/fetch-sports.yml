@@ -1,62 +1,59 @@
 name: Fetch Sports Schedules
 
 on:
-schedule:
-- cron: '0 */6 * * *'
-workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 concurrency:
-group: fetch-sports
-cancel-in-progress: false
+  group: fetch-sports
+  cancel-in-progress: false
 
 jobs:
-fetch-and-commit:
-runs-on: ubuntu-latest
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          persist-credentials: true
+          fetch-depth: 0
 
-```
-steps:
-  - name: Checkout
-    uses: actions/checkout@v4
-    with:
-      token: ${{ secrets.PAT_TOKEN }}
-      persist-credentials: true
-      fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
 
-  - name: Setup Node.js
-    uses: actions/setup-node@v4
-    with:
-      node-version: 20
-      cache: npm
+      - name: Install Dependencies
+        run: npm install
 
-  - name: Install Dependencies
-    run: npm install
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-
 
-  - name: Cache Playwright browsers
-    uses: actions/cache@v4
-    with:
-      path: ~/.cache/ms-playwright
-      key: ${{ runner.os }}-playwright-${{ hashFiles('**/package-lock.json') }}
-      restore-keys: |
-        ${{ runner.os }}-playwright-
+      - name: Install Playwright Browsers
+        run: npx playwright install chromium --with-deps
 
-  - name: Install Playwright Browsers
-    run: npx playwright install chromium --with-deps
+      - name: Fetch Schedules
+        run: node scripts/fetch-sports.js
 
-  - name: Fetch Schedules
-    run: node scripts/fetch-sports.js
+      - name: Commit and Push
+        run: |
+          git config --global user.name "DisabledAbel"
+          git config --global user.email "196466003+DisabledAbel@users.noreply.github.com"
 
-  - name: Commit and Push
-    run: |
-      git config --global user.name "DisabledAbel"
-      git config --global user.email "196466003+DisabledAbel@users.noreply.github.com"
+          git add lib/data/sports/*.json lib/data/sports/supplemental/*.json 2>/dev/null || true
 
-      git add lib/data/sports/*.json lib/data/sports/supplemental/*.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
-      if git diff --cached --quiet; then
-        echo "No changes to commit."
-        exit 0
-      fi
-
-      git commit -m "📅 Update sports schedules"
-      git push origin HEAD:${{ github.ref_name }}
-```
+          git commit -m "📅 Update sports schedules"
+          git push origin HEAD:${{ github.ref_name }}
