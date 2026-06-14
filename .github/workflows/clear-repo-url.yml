@@ -1,0 +1,25 @@
+name: Clear Repo URL
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  clear-url:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      administration: write
+    steps:
+      - name: Clear Website URL
+        env:
+          GH_TOKEN: ${{ secrets.GH_ADMIN_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          for i in {1..30}
+          do
+            echo "Iteration $i: Clearing repository homepage URL..."
+            gh repo edit ${{ github.repository }} --homepage "" || echo "Warning: Could not update homepage. Ensure GH_ADMIN_TOKEN is configured with administration scopes."
+            if [ $i -lt 30 ]; then
+              sleep 10
+            fi
+          done
