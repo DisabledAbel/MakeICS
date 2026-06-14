@@ -1,64 +1,67 @@
 name: Fetch Sports Schedules
 
 on:
-  schedule:
-    - cron: '0 */6 * * *' # Every 6 hours
-  workflow_dispatch:
+schedule:
+- cron: '0 */6 * * *' # Every 6 hours
+workflow_dispatch:
 
 concurrency:
-  group: fetch-sports
-  cancel-in-progress: false
+group: fetch-sports
+cancel-in-progress: false
 
 jobs:
-  fetch-and-commit:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-        with:
-          persist-credentials: true
+fetch-and-commit:
+runs-on: ubuntu-latest
+permissions:
+contents: write
 
-      - name: Setup Node.js
-        uses: actions/setup-node@1d0ff469b7ec7b3cb9d8673fde0c81c44821de2a # v4.2.0
-        with:
-          node-version: 20
+```
+steps:
+  - name: Checkout
+    uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+    with:
+      persist-credentials: true
 
-      - name: Install Dependencies
-        run: npm install
+  - name: Setup Node.js
+    uses: actions/setup-node@1d0ff469b7ec7b3cb9d8673fde0c81c44821de2a # v4.2.0
+    with:
+      node-version: 20
 
-      - name: Cache npm dependencies
-        uses: actions/cache@v4
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
+  - name: Install Dependencies
+    run: npm install
 
-      - name: Cache Playwright browsers
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/ms-playwright
-          key: ${{ runner.os }}-playwright-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-playwright-
+  - name: Cache npm dependencies
+    uses: actions/cache@v4
+    with:
+      path: ~/.npm
+      key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+      restore-keys: |
+        ${{ runner.os }}-node-
 
-      - name: Install Playwright Browsers
-        run: npx playwright install chromium --with-deps
+  - name: Cache Playwright browsers
+    uses: actions/cache@v4
+    with:
+      path: ~/.cache/ms-playwright
+      key: ${{ runner.os }}-playwright-${{ hashFiles('**/package-lock.json') }}
+      restore-keys: |
+        ${{ runner.os }}-playwright-
 
-      - name: Fetch Schedules
-        run: node scripts/fetch-sports.js
+  - name: Install Playwright Browsers
+    run: npx playwright install chromium --with-deps
 
-      - name: Commit and Push
-  run: |
-    git config user.name "DisabledAbel"
-    git config user.email "196466003+DisabledAbel@users.noreply.github.com"
+  - name: Fetch Schedules
+    run: node scripts/fetch-sports.js
 
-    if ls lib/data/sports/*.json >/dev/null 2>&1 || ls lib/data/sports/supplemental/*.json >/dev/null 2>&1; then
-      git add lib/data/sports/*.json lib/data/sports/supplemental/*.json 2>/dev/null || true
-      git commit -m "📅 Update sports schedules" || echo "No changes to commit"
-      git push --force-with-lease
-    else
-      echo "No sports schedules found to commit."
-    fi
+  - name: Commit and Push
+    run: |
+      git config user.name "DisabledAbel"
+      git config user.email "196466003+DisabledAbel@users.noreply.github.com"
+
+      if ls lib/data/sports/*.json >/dev/null 2>&1 || ls lib/data/sports/supplemental/*.json >/dev/null 2>&1; then
+        git add lib/data/sports/*.json lib/data/sports/supplemental/*.json 2>/dev/null || true
+        git commit -m "📅 Update sports schedules" || echo "No changes to commit"
+        git push --force-with-lease
+      else
+        echo "No sports schedules found to commit."
+      fi
+```
