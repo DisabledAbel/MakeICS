@@ -25,6 +25,12 @@ jobs:
         with:
           node-version: 20
 
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Install Playwright Browsers
+        run: npx playwright install chromium --with-deps
+
       - name: Fetch Schedules
         run: node scripts/fetch-sports.js
 

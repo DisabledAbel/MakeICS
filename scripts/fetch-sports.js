@@ -104,7 +104,9 @@ const LEAGUES = [
   { id: '4408', name: 'NCAA Basketball' },
   { id: '4480', name: 'UEFA Champions League' },
   { id: '4481', name: 'UEFA Europa League' },
-  { id: '4482', name: 'FA Cup' }
+  { id: '4443', name: 'IPL' },
+  { id: '4470', name: 'Arena Football League' },
+  { id: '4627', name: 'UFL' }
 ];
 
 async function sleep(ms) {
