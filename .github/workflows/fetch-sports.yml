@@ -12,31 +12,27 @@ cancel-in-progress: false
 jobs:
 fetch-and-commit:
 runs-on: ubuntu-latest
-permissions:
-contents: write
 
 ```
+permissions:
+  contents: write
+
 steps:
   - name: Checkout
     uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
     with:
+      token: ${{ secrets.PAT_TOKEN }}
       persist-credentials: true
+      fetch-depth: 0
 
   - name: Setup Node.js
     uses: actions/setup-node@1d0ff469b7ec7b3cb9d8673fde0c81c44821de2a # v4.2.0
     with:
       node-version: 20
+      cache: npm
 
   - name: Install Dependencies
     run: npm install
-
-  - name: Cache npm dependencies
-    uses: actions/cache@v4
-    with:
-      path: ~/.npm
-      key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-      restore-keys: |
-        ${{ runner.os }}-node-
 
   - name: Cache Playwright browsers
     uses: actions/cache@v4
@@ -54,14 +50,16 @@ steps:
 
   - name: Commit and Push
     run: |
-      git config user.name "DisabledAbel"
-      git config user.email "196466003+DisabledAbel@users.noreply.github.com"
+      git config --global user.name "DisabledAbel"
+      git config --global user.email "196466003+DisabledAbel@users.noreply.github.com"
 
-      if ls lib/data/sports/*.json >/dev/null 2>&1 || ls lib/data/sports/supplemental/*.json >/dev/null 2>&1; then
-        git add lib/data/sports/*.json lib/data/sports/supplemental/*.json 2>/dev/null || true
-        git commit -m "📅 Update sports schedules" || echo "No changes to commit"
-        git push --force-with-lease
-      else
-        echo "No sports schedules found to commit."
+      git add lib/data/sports/*.json lib/data/sports/supplemental/*.json 2>/dev/null || true
+
+      if git diff --cached --quiet; then
+        echo "No changes to commit."
+        exit 0
       fi
+
+      git commit -m "📅 Update sports schedules"
+      git push origin HEAD:${{ github.ref_name }}
 ```
