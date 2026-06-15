@@ -1,7 +1,7 @@
 {
   "leagueId": "4481",
   "leagueName": "UEFA Europa League",
-  "updatedAt": "2026-06-15T13:04:47.004Z",
+  "updatedAt": "2026-06-15T21:42:56.636Z",
   "events": [
     {
       "idEvent": "2327866",
@@ -863,7 +863,7 @@
       "strTimeLocal": "17:00:00",
       "strGroup": "",
       "idHomeTeam": "133970",
-      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/kif2321779342435.png",
+      "strHomeTeamBadge": "https://www.thesportsdb.com/images/media/team/badge/nc2cua1781541639.png",
       "idAwayTeam": "134304",
       "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/3hq2cy1685597026.png",
       "intScore": null,
