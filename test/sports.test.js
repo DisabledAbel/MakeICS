@@ -15,7 +15,7 @@ const teamPayload = {
       strTeam: 'Arsenal',
       strSport: 'Soccer',
       strLeague: 'English Premier League',
-      idLeague: '4328',
+      idLeague: '9999',
       strCountry: 'England',
       strBadge: 'https://example.test/badge.png',
       strWebsite: 'www.arsenal.com',
@@ -27,7 +27,7 @@ const teamPayload = {
 const leaguePayload = {
   leagues: [
     {
-      idLeague: '4328',
+      idLeague: '9999',
       strLeague: 'English Premier League',
       strCurrentSeason: '2024-2025'
     }
@@ -149,7 +149,7 @@ test('getEvents returns merged and deduplicated events for a team, including pas
 });
 
 test('getEvents utilizes local cache if available', async (t) => {
-  const leagueId = '4328';
+  const leagueId = '9999';
   const cacheFilePath = path.join(CACHE_DIR, `${leagueId}.json`);
   const cachedData = {
     leagueId,
