@@ -1,7 +1,7 @@
 {
   "leagueId": "4346",
   "leagueName": "MLS",
-  "updatedAt": "2026-06-16T11:46:31.694Z",
+  "updatedAt": "2026-06-16T17:31:33.096Z",
   "events": [
     {
       "idEvent": "2406707",
@@ -4220,7 +4220,7 @@
     {
       "idEvent": "2406992",
       "idAPIfootball": "1490390",
-      "strTimestamp": "2026-08-17T01:00:00",
+      "strTimestamp": "2026-08-17T02:30:00",
       "strEvent": "Seattle Sounders vs Vancouver Whitecaps",
       "strEventAlternate": "Vancouver Whitecaps @ Seattle Sounders",
       "strFilename": "American Major League Soccer 2026-08-17 Seattle Sounders vs Vancouver Whitecaps",
@@ -4240,7 +4240,7 @@
       "strWeather": null,
       "dateEvent": "2026-08-17",
       "dateEventLocal": null,
-      "strTime": "01:00:00",
+      "strTime": "02:30:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "134149",
