@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: fetch-sports
+  group: data-updates
   cancel-in-progress: false
 
 jobs:
@@ -58,4 +58,5 @@ jobs:
           fi
 
           git commit -m "📅 Update sports schedules"
+          git pull --rebase origin "$REF_NAME"
           git push origin HEAD:"$REF_NAME"
