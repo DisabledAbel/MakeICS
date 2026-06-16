@@ -9,16 +9,30 @@ const SUPPLEMENTAL_DATA_DIR = path.join(__dirname, '../lib/data/sports/supplemen
 const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/3';
 const WNBA_LEAGUE_ID = '4516';
 const WNBA_SCHEDULE_URL = 'https://www.wnba.com/schedule?season=2026&month=all';
+const FETCH_TIMEOUT_MS = 15000;
 
 async function fetchJson(url) {
-  const response = await fetch(url, {
-    headers: {
-      Accept: 'application/json',
-      'User-Agent': 'MakeICS-WNBA-Fetcher/1.0'
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+
+  try {
+    const response = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        Accept: 'application/json',
+        'User-Agent': 'MakeICS-WNBA-Fetcher/1.0'
+      }
+    });
+    if (!response.ok) throw new Error(`HTTP ${response.status} for ${url}`);
+    return await response.json();
+  } catch (error) {
+    if (error.name === 'AbortError') {
+      throw new Error(`Request timed out for ${url} after ${FETCH_TIMEOUT_MS}ms`);
     }
-  });
-  if (!response.ok) throw new Error(`HTTP ${response.status} for ${url}`);
-  return response.json();
+    throw error;
+  } finally {
+    clearTimeout(timeout);
+  }
 }
 
 async function main() {
