@@ -4,16 +4,13 @@ on:
   push:
   workflow_dispatch:
 
-permissions:
-  administration: write
-
 jobs:
   clear-url:
     runs-on: ubuntu-latest
     steps:
       - name: Clear Website URL
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           for i in {1..30}; do
             echo "Iteration $i: Clearing homepage URL..."
