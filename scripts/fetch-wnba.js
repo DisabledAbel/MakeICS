@@ -230,6 +230,7 @@ async function main() {
 
   } catch (error) {
     console.error('Error in WNBA fetch script:', error);
+    process.exitCode = 1;
   } finally {
     await closeBrowser();
   }
