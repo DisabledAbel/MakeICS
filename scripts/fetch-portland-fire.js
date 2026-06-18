@@ -23,7 +23,11 @@ async function main() {
     }
 
     console.log(`  Found ${games.length} games. Normalizing...`);
-    const normalizedEvents = games.map(g => normalizeScrapedEvent(g, TEAM_NAME));
+    const normalizedEvents = games.map(g => {
+      const event = normalizeScrapedEvent(g, TEAM_NAME);
+      event.strLeague = 'WNBA';
+      return event;
+    });
 
     // Deduplicate by generated ID
     const seenIds = new Set();
