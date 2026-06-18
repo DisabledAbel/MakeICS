@@ -418,7 +418,9 @@ async function main() {
 
       // 2. Discover Teams and Scrape (New)
       console.log(`Discovering teams for ${league.name}...`);
-      const teamsUrl = `${SPORTSDB_BASE_URL}/lookup_all_teams.php?id=${league.id}`;
+      const teamsUrl = league.id === '4516'
+        ? `${SPORTSDB_BASE_URL}/search_all_teams.php?l=WNBA`
+        : `${SPORTSDB_BASE_URL}/lookup_all_teams.php?id=${league.id}`;
       const teamsData = await fetchJson(teamsUrl);
       const teams = teamsData.teams || [];
 

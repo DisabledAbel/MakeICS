@@ -1,14 +1,13 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { fetchWNBASchedule, fetchScheduleFromWebsite, closeBrowser } from '../lib/scraper.js';
+import { fetchScheduleFromWebsite, closeBrowser } from '../lib/scraper.js';
 import { normalizeScrapedEvent } from '../lib/sports.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SUPPLEMENTAL_DATA_DIR = path.join(__dirname, '../lib/data/sports/supplemental');
 const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/3';
-const WNBA_LEAGUE_ID = '4516';
-const WNBA_SCHEDULE_URL = 'https://www.wnba.com/schedule?season=2026&month=all';
+const WNBA_SCHEDULE_CSV_URL = 'https://github.com/sportsdataverse/sportsdataverse-data/releases/download/espn_wnba_schedules/wnba_schedule_2026.csv';
 const FETCH_TIMEOUT_MS = 15000;
 
 async function fetchJson(url) {
@@ -35,21 +34,124 @@ async function fetchJson(url) {
   }
 }
 
+async function fetchWNBACSV() {
+  console.log(`Fetching WNBA supplemental data from SportsDataverse: ${WNBA_SCHEDULE_CSV_URL}`);
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+
+  try {
+    const response = await fetch(WNBA_SCHEDULE_CSV_URL, { signal: controller.signal });
+    if (!response.ok) throw new Error(`Failed to fetch WNBA CSV: ${response.status}`);
+    const csvText = await response.text();
+
+    const games = [];
+    const rows = [];
+    let currentRow = [];
+    let currentField = '';
+    let inQuotes = false;
+
+    for (let j = 0; j < csvText.length; j++) {
+      const char = csvText[j];
+      const nextChar = csvText[j + 1];
+
+      if (char === '"') {
+        if (inQuotes && nextChar === '"') {
+          currentField += '"';
+          j++;
+        } else {
+          inQuotes = !inQuotes;
+        }
+      } else if (char === ',' && !inQuotes) {
+        currentRow.push(currentField);
+        currentField = '';
+      } else if ((char === '\r' || char === '\n') && !inQuotes) {
+        if (currentField !== '' || currentRow.length > 0) {
+          currentRow.push(currentField);
+          rows.push(currentRow);
+          currentField = '';
+          currentRow = [];
+        }
+        if (char === '\r' && nextChar === '\n') j++;
+      } else {
+        currentField += char;
+      }
+    }
+
+    if (currentField !== '' || currentRow.length > 0) {
+      currentRow.push(currentField);
+      rows.push(currentRow);
+    }
+
+    if (rows.length < 2) return [];
+
+    const header = rows[0];
+    const mapping = {
+      date: 'date',
+      home: 'home_display_name',
+      away: 'away_display_name',
+      venue: 'venue_full_name',
+      id: 'id'
+    };
+    const indices = {};
+    for (const [key, field] of Object.entries(mapping)) {
+      indices[key] = header.indexOf(field);
+    }
+
+    if (indices.date === -1 || indices.home === -1 || indices.away === -1) {
+      throw new Error('Malformed WNBA CSV header (missing required fields)');
+    }
+
+    for (let i = 1; i < rows.length; i++) {
+      const parts = rows[i];
+      const dateRaw = parts[indices.date];
+      const homeRaw = parts[indices.home];
+      const awayRaw = parts[indices.away];
+      const venue = indices.venue !== -1 ? parts[indices.venue] : null;
+
+      if (!dateRaw || !homeRaw || !awayRaw) continue;
+
+      let dateEvent = dateRaw;
+      let strTime = '00:00:00';
+
+      if (dateRaw.includes('T')) {
+        [dateEvent, strTime] = dateRaw.split('T');
+        strTime = strTime.replace('Z', '');
+      }
+
+      games.push({
+        date: dateEvent,
+        time: strTime,
+        name: `${homeRaw} vs ${awayRaw}`,
+        homeTeam: homeRaw,
+        awayTeam: awayRaw,
+        venue: venue,
+        league: 'WNBA'
+      });
+    }
+
+    return games;
+  } catch (error) {
+    console.error('Error fetching/parsing WNBA CSV:', error.message);
+    return [];
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 async function main() {
   console.log('Starting WNBA schedule fetch...');
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });
 
   try {
     // 1. Fetch WNBA teams from TheSportsDB
-    console.log(`Fetching WNBA teams (League ID: ${WNBA_LEAGUE_ID})...`);
-    const teamsData = await fetchJson(`${SPORTSDB_BASE_URL}/lookup_all_teams.php?id=${WNBA_LEAGUE_ID}`);
+    console.log('Fetching WNBA teams...');
+    const teamsData = await fetchJson(`${SPORTSDB_BASE_URL}/search_all_teams.php?l=WNBA`);
     const teams = teamsData.teams || [];
     console.log(`Found ${teams.length} WNBA teams.`);
 
-    // 2. Scrape main WNBA schedule
-    console.log(`Scraping main WNBA schedule: ${WNBA_SCHEDULE_URL}`);
-    const globalGames = await fetchWNBASchedule(WNBA_SCHEDULE_URL);
-    console.log(`Found ${globalGames.length} games on main WNBA schedule.`);
+    // 2. Fetch CSV schedule
+    const globalGames = await fetchWNBACSV();
+    console.log(`Found ${globalGames.length} games in WNBA CSV.`);
 
     // 3. Process each team
     for (const team of teams) {
@@ -57,20 +159,29 @@ async function main() {
       let teamGames = [];
 
       // Filter global games for this team
-      const filteredGlobal = globalGames.filter(g =>
-        g.homeTeam?.toLowerCase().includes(team.strTeam.toLowerCase()) ||
-        g.awayTeam?.toLowerCase().includes(team.strTeam.toLowerCase()) ||
-        (team.strTeamShort && (g.homeTeam?.toLowerCase().includes(team.strTeamShort.toLowerCase()) || g.awayTeam?.toLowerCase().includes(team.strTeamShort.toLowerCase())))
-      );
+      const filteredGlobal = globalGames.filter(g => {
+        const home = g.homeTeam?.toLowerCase().trim() || '';
+        const away = g.awayTeam?.toLowerCase().trim() || '';
+        const target = team.strTeam.toLowerCase().trim();
+        const shortTarget = team.strTeamShort?.toLowerCase().trim();
+
+        // Use exact match or word boundaries for shortTarget to avoid "LA" matching "Dallas"
+        const matchesTarget = home === target || away === target;
+        const matchesShort = shortTarget && (home === shortTarget || away === shortTarget);
+
+        // Also allow matching if the full team name is a substring, but be more careful
+        // Most CSVs have the full name, so exact match is safest
+        return matchesTarget || matchesShort;
+      });
 
       if (filteredGlobal.length > 0) {
-        console.log(`  Found ${filteredGlobal.length} games from global schedule.`);
+        console.log(`  Found ${filteredGlobal.length} games from CSV.`);
         teamGames.push(...filteredGlobal);
       }
 
-      // 4. Try to scrape team's official website if available
-      if (team.strWebsite) {
-        console.log(`  Scraping team website: ${team.strWebsite}`);
+      // 4. Try to scrape team's official website as fallback if CSV failed for this team
+      if (teamGames.length === 0 && team.strWebsite) {
+        console.log(`  Scraping team website fallback: ${team.strWebsite}`);
         try {
           const websiteGames = await fetchScheduleFromWebsite(team.strWebsite);
           if (websiteGames.length > 0) {
@@ -107,9 +218,6 @@ async function main() {
       } else {
         console.log(`  No events found for ${team.strTeam}.`);
       }
-
-      // Delay to be polite
-      await new Promise(resolve => setTimeout(resolve, 2000));
     }
 
   } catch (error) {
