@@ -1,11 +1,11 @@
 {
   "teamId": "152565",
   "teamName": "Portland Fire",
-  "updatedAt": "2026-06-18T21:36:54.430Z",
+  "updatedAt": "2026-06-18T22:22:28.976Z",
   "events": [
     {
-      "idEvent": "scraped-2026-05-10t01-00z-vs-chicago-sky",
-      "strEvent": "vs Chicago Sky",
+      "idEvent": "scraped-2026-05-10t01-00z-portland-fire-vs-chicago-sky",
+      "strEvent": "Portland Fire vs Chicago Sky",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Chicago Sky",
       "dateEvent": "2026-05-10T01:00Z",
@@ -17,8 +17,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-13t02-00z-vs-new-york-liberty",
-      "strEvent": "vs New York Liberty",
+      "idEvent": "scraped-2026-05-13t02-00z-portland-fire-vs-new-york-liberty",
+      "strEvent": "Portland Fire vs New York Liberty",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "New York Liberty",
       "dateEvent": "2026-05-13T02:00Z",
@@ -30,8 +30,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-15t02-00z-vs-new-york-liberty",
-      "strEvent": "vs New York Liberty",
+      "idEvent": "scraped-2026-05-15t02-00z-portland-fire-vs-new-york-liberty",
+      "strEvent": "Portland Fire vs New York Liberty",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "New York Liberty",
       "dateEvent": "2026-05-15T02:00Z",
@@ -43,8 +43,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-19t02-00z-vs-connecticut-sun",
-      "strEvent": "vs Connecticut Sun",
+      "idEvent": "scraped-2026-05-19t02-00z-portland-fire-vs-connecticut-sun",
+      "strEvent": "Portland Fire vs Connecticut Sun",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Connecticut Sun",
       "dateEvent": "2026-05-19T02:00Z",
@@ -56,8 +56,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-20t23-00z-at-indiana-fever",
-      "strEvent": "at Indiana Fever",
+      "idEvent": "scraped-2026-05-20t23-00z-indiana-fever-vs-portland-fire",
+      "strEvent": "Indiana Fever vs Portland Fire",
       "strHomeTeam": "Indiana Fever",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-05-20T23:00Z",
@@ -69,8 +69,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23t22-00z-at-toronto-tempo",
-      "strEvent": "at Toronto Tempo",
+      "idEvent": "scraped-2026-05-23t22-00z-toronto-tempo-vs-portland-fire",
+      "strEvent": "Toronto Tempo vs Portland Fire",
       "strHomeTeam": "Toronto Tempo",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-05-23T22:00Z",
@@ -82,8 +82,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-26t00-00z-at-new-york-liberty",
-      "strEvent": "at New York Liberty",
+      "idEvent": "scraped-2026-05-26t00-00z-new-york-liberty-vs-portland-fire",
+      "strEvent": "New York Liberty vs Portland Fire",
       "strHomeTeam": "New York Liberty",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-05-26T00:00Z",
@@ -95,8 +95,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-28t02-00z-vs-connecticut-sun",
-      "strEvent": "vs Connecticut Sun",
+      "idEvent": "scraped-2026-05-28t02-00z-portland-fire-vs-connecticut-sun",
+      "strEvent": "Portland Fire vs Connecticut Sun",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Connecticut Sun",
       "dateEvent": "2026-05-28T02:00Z",
@@ -108,8 +108,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-30t02-00z-vs-atlanta-dream",
-      "strEvent": "vs Atlanta Dream",
+      "idEvent": "scraped-2026-05-30t02-00z-portland-fire-vs-atlanta-dream",
+      "strEvent": "Portland Fire vs Atlanta Dream",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Atlanta Dream",
       "dateEvent": "2026-05-30T02:00Z",
@@ -121,8 +121,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-31t00-00z-vs-indiana-fever",
-      "strEvent": "vs Indiana Fever",
+      "idEvent": "scraped-2026-05-31t00-00z-portland-fire-vs-indiana-fever",
+      "strEvent": "Portland Fire vs Indiana Fever",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Indiana Fever",
       "dateEvent": "2026-05-31T00:00Z",
@@ -134,8 +134,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-03t02-00z-at-golden-state-valkyries",
-      "strEvent": "at Golden State Valkyries",
+      "idEvent": "scraped-2026-06-03t02-00z-golden-state-valkyries-vs-portland-fire",
+      "strEvent": "Golden State Valkyries vs Portland Fire",
       "strHomeTeam": "Golden State Valkyries",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-06-03T02:00Z",
@@ -147,8 +147,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-06t02-00z-vs-phoenix-mercury",
-      "strEvent": "vs Phoenix Mercury",
+      "idEvent": "scraped-2026-06-06t02-00z-portland-fire-vs-phoenix-mercury",
+      "strEvent": "Portland Fire vs Phoenix Mercury",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Phoenix Mercury",
       "dateEvent": "2026-06-06T02:00Z",
@@ -160,8 +160,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-07t23-00z-at-los-angeles-sparks",
-      "strEvent": "at Los Angeles Sparks",
+      "idEvent": "scraped-2026-06-07t23-00z-los-angeles-sparks-vs-portland-fire",
+      "strEvent": "Los Angeles Sparks vs Portland Fire",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-06-07T23:00Z",
@@ -173,8 +173,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-12t02-00z-vs-las-vegas-aces",
-      "strEvent": "vs Las Vegas Aces",
+      "idEvent": "scraped-2026-06-12t02-00z-portland-fire-vs-las-vegas-aces",
+      "strEvent": "Portland Fire vs Las Vegas Aces",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Las Vegas Aces",
       "dateEvent": "2026-06-12T02:00Z",
@@ -186,8 +186,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-14t00-30z-vs-dallas-wings",
-      "strEvent": "vs Dallas Wings",
+      "idEvent": "scraped-2026-06-14t00-30z-portland-fire-vs-dallas-wings",
+      "strEvent": "Portland Fire vs Dallas Wings",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Dallas Wings",
       "dateEvent": "2026-06-14T00:30Z",
@@ -199,8 +199,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-16t00-00z-at-minnesota-lynx",
-      "strEvent": "at Minnesota Lynx",
+      "idEvent": "scraped-2026-06-16t00-00z-minnesota-lynx-vs-portland-fire",
+      "strEvent": "Minnesota Lynx vs Portland Fire",
       "strHomeTeam": "Minnesota Lynx",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-06-16T00:00Z",
@@ -212,8 +212,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-18t02-00z-vs-seattle-storm",
-      "strEvent": "vs Seattle Storm",
+      "idEvent": "scraped-2026-06-18t02-00z-portland-fire-vs-seattle-storm",
+      "strEvent": "Portland Fire vs Seattle Storm",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Seattle Storm",
       "dateEvent": "2026-06-18T02:00Z",
@@ -225,8 +225,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25t00-00z-at-chicago-sky",
-      "strEvent": "at Chicago Sky",
+      "idEvent": "scraped-2026-06-25t00-00z-chicago-sky-vs-portland-fire",
+      "strEvent": "Chicago Sky vs Portland Fire",
       "strHomeTeam": "Chicago Sky",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-06-25T00:00Z",
@@ -238,8 +238,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-26t23-30z-at-chicago-sky",
-      "strEvent": "at Chicago Sky",
+      "idEvent": "scraped-2026-06-26t23-30z-chicago-sky-vs-portland-fire",
+      "strEvent": "Chicago Sky vs Portland Fire",
       "strHomeTeam": "Chicago Sky",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-06-26T23:30Z",
@@ -251,8 +251,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-28t19-00z-at-washington-mystics",
-      "strEvent": "at Washington Mystics",
+      "idEvent": "scraped-2026-06-28t19-00z-washington-mystics-vs-portland-fire",
+      "strEvent": "Washington Mystics vs Portland Fire",
       "strHomeTeam": "Washington Mystics",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-06-28T19:00Z",
@@ -264,8 +264,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-05t01-00z-at-seattle-storm",
-      "strEvent": "at Seattle Storm",
+      "idEvent": "scraped-2026-07-05t01-00z-seattle-storm-vs-portland-fire",
+      "strEvent": "Seattle Storm vs Portland Fire",
       "strHomeTeam": "Seattle Storm",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-07-05T01:00Z",
@@ -277,8 +277,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-10t02-00z-vs-las-vegas-aces",
-      "strEvent": "vs Las Vegas Aces",
+      "idEvent": "scraped-2026-07-10t02-00z-portland-fire-vs-las-vegas-aces",
+      "strEvent": "Portland Fire vs Las Vegas Aces",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Las Vegas Aces",
       "dateEvent": "2026-07-10T02:00Z",
@@ -290,8 +290,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-11t20-00z-at-atlanta-dream",
-      "strEvent": "at Atlanta Dream",
+      "idEvent": "scraped-2026-07-11t20-00z-atlanta-dream-vs-portland-fire",
+      "strEvent": "Atlanta Dream vs Portland Fire",
       "strHomeTeam": "Atlanta Dream",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-07-11T20:00Z",
@@ -303,8 +303,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-14t15-00z-at-connecticut-sun",
-      "strEvent": "at Connecticut Sun",
+      "idEvent": "scraped-2026-07-14t15-00z-connecticut-sun-vs-portland-fire",
+      "strEvent": "Connecticut Sun vs Portland Fire",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-07-14T15:00Z",
@@ -316,8 +316,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-16t23-00z-at-washington-mystics",
-      "strEvent": "at Washington Mystics",
+      "idEvent": "scraped-2026-07-16t23-00z-washington-mystics-vs-portland-fire",
+      "strEvent": "Washington Mystics vs Portland Fire",
       "strHomeTeam": "Washington Mystics",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-07-16T23:00Z",
@@ -329,8 +329,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-19t00-00z-at-minnesota-lynx",
-      "strEvent": "at Minnesota Lynx",
+      "idEvent": "scraped-2026-07-19t00-00z-minnesota-lynx-vs-portland-fire",
+      "strEvent": "Minnesota Lynx vs Portland Fire",
       "strHomeTeam": "Minnesota Lynx",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-07-19T00:00Z",
@@ -342,8 +342,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-23t02-00z-vs-dallas-wings",
-      "strEvent": "vs Dallas Wings",
+      "idEvent": "scraped-2026-07-23t02-00z-portland-fire-vs-dallas-wings",
+      "strEvent": "Portland Fire vs Dallas Wings",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Dallas Wings",
       "dateEvent": "2026-07-23T02:00Z",
@@ -355,8 +355,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-29t02-00z-at-las-vegas-aces",
-      "strEvent": "at Las Vegas Aces",
+      "idEvent": "scraped-2026-07-29t02-00z-las-vegas-aces-vs-portland-fire",
+      "strEvent": "Las Vegas Aces vs Portland Fire",
       "strHomeTeam": "Las Vegas Aces",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-07-29T02:00Z",
@@ -368,8 +368,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-01t02-00z-vs-indiana-fever",
-      "strEvent": "vs Indiana Fever",
+      "idEvent": "scraped-2026-08-01t02-00z-portland-fire-vs-indiana-fever",
+      "strEvent": "Portland Fire vs Indiana Fever",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Indiana Fever",
       "dateEvent": "2026-08-01T02:00Z",
@@ -381,8 +381,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-02t19-30z-vs-los-angeles-sparks",
-      "strEvent": "vs Los Angeles Sparks",
+      "idEvent": "scraped-2026-08-02t19-30z-portland-fire-vs-los-angeles-sparks",
+      "strEvent": "Portland Fire vs Los Angeles Sparks",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Los Angeles Sparks",
       "dateEvent": "2026-08-02T19:30Z",
@@ -394,8 +394,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-07t02-00z-vs-toronto-tempo",
-      "strEvent": "vs Toronto Tempo",
+      "idEvent": "scraped-2026-08-07t02-00z-portland-fire-vs-toronto-tempo",
+      "strEvent": "Portland Fire vs Toronto Tempo",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Toronto Tempo",
       "dateEvent": "2026-08-07T02:00Z",
@@ -407,8 +407,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-09t00-30z-vs-seattle-storm",
-      "strEvent": "vs Seattle Storm",
+      "idEvent": "scraped-2026-08-09t00-30z-portland-fire-vs-seattle-storm",
+      "strEvent": "Portland Fire vs Seattle Storm",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Seattle Storm",
       "dateEvent": "2026-08-09T00:30Z",
@@ -420,8 +420,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-13t02-00z-vs-minnesota-lynx",
-      "strEvent": "vs Minnesota Lynx",
+      "idEvent": "scraped-2026-08-13t02-00z-portland-fire-vs-minnesota-lynx",
+      "strEvent": "Portland Fire vs Minnesota Lynx",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Minnesota Lynx",
       "dateEvent": "2026-08-13T02:00Z",
@@ -433,8 +433,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-15t02-00z-at-seattle-storm",
-      "strEvent": "at Seattle Storm",
+      "idEvent": "scraped-2026-08-15t02-00z-seattle-storm-vs-portland-fire",
+      "strEvent": "Seattle Storm vs Portland Fire",
       "strHomeTeam": "Seattle Storm",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-08-15T02:00Z",
@@ -446,8 +446,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-16t23-00z-at-phoenix-mercury",
-      "strEvent": "at Phoenix Mercury",
+      "idEvent": "scraped-2026-08-16t23-00z-phoenix-mercury-vs-portland-fire",
+      "strEvent": "Phoenix Mercury vs Portland Fire",
       "strHomeTeam": "Phoenix Mercury",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-08-16T23:00Z",
@@ -459,8 +459,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-22t02-00z-at-toronto-tempo",
-      "strEvent": "at Toronto Tempo",
+      "idEvent": "scraped-2026-08-22t02-00z-toronto-tempo-vs-portland-fire",
+      "strEvent": "Toronto Tempo vs Portland Fire",
       "strHomeTeam": "Toronto Tempo",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-08-22T02:00Z",
@@ -472,8 +472,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-23t23-00z-vs-washington-mystics",
-      "strEvent": "vs Washington Mystics",
+      "idEvent": "scraped-2026-08-23t23-00z-portland-fire-vs-washington-mystics",
+      "strEvent": "Portland Fire vs Washington Mystics",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Washington Mystics",
       "dateEvent": "2026-08-23T23:00Z",
@@ -485,8 +485,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-26t00-00z-at-dallas-wings",
-      "strEvent": "at Dallas Wings",
+      "idEvent": "scraped-2026-08-26t00-00z-dallas-wings-vs-portland-fire",
+      "strEvent": "Dallas Wings vs Portland Fire",
       "strHomeTeam": "Dallas Wings",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-08-26T00:00Z",
@@ -498,8 +498,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-28t23-30z-at-atlanta-dream",
-      "strEvent": "at Atlanta Dream",
+      "idEvent": "scraped-2026-08-28t23-30z-atlanta-dream-vs-portland-fire",
+      "strEvent": "Atlanta Dream vs Portland Fire",
       "strHomeTeam": "Atlanta Dream",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-08-28T23:30Z",
@@ -511,8 +511,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-30t23-00z-vs-golden-state-valkyries",
-      "strEvent": "vs Golden State Valkyries",
+      "idEvent": "scraped-2026-08-30t23-00z-portland-fire-vs-golden-state-valkyries",
+      "strEvent": "Portland Fire vs Golden State Valkyries",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Golden State Valkyries",
       "dateEvent": "2026-08-30T23:00Z",
@@ -524,8 +524,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-18t02-00z-vs-phoenix-mercury",
-      "strEvent": "vs Phoenix Mercury",
+      "idEvent": "scraped-2026-09-18t02-00z-portland-fire-vs-phoenix-mercury",
+      "strEvent": "Portland Fire vs Phoenix Mercury",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Phoenix Mercury",
       "dateEvent": "2026-09-18T02:00Z",
@@ -537,8 +537,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-19t02-00z-at-golden-state-valkyries",
-      "strEvent": "at Golden State Valkyries",
+      "idEvent": "scraped-2026-09-19t02-00z-golden-state-valkyries-vs-portland-fire",
+      "strEvent": "Golden State Valkyries vs Portland Fire",
       "strHomeTeam": "Golden State Valkyries",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-09-19T02:00Z",
@@ -550,8 +550,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-20t23-00z-at-los-angeles-sparks",
-      "strEvent": "at Los Angeles Sparks",
+      "idEvent": "scraped-2026-09-20t23-00z-los-angeles-sparks-vs-portland-fire",
+      "strEvent": "Los Angeles Sparks vs Portland Fire",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-09-20T23:00Z",
@@ -563,8 +563,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-23t02-00z-vs-golden-state-valkyries",
-      "strEvent": "vs Golden State Valkyries",
+      "idEvent": "scraped-2026-09-23t02-00z-portland-fire-vs-golden-state-valkyries",
+      "strEvent": "Portland Fire vs Golden State Valkyries",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Golden State Valkyries",
       "dateEvent": "2026-09-23T02:00Z",
@@ -576,8 +576,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-30t02-00z-at-seattle-storm",
-      "strEvent": "at Seattle Storm",
+      "idEvent": "scraped-2026-04-30t02-00z-seattle-storm-vs-portland-fire",
+      "strEvent": "Seattle Storm vs Portland Fire",
       "strHomeTeam": "Seattle Storm",
       "strAwayTeam": "Portland Fire",
       "dateEvent": "2026-04-30T02:00Z",
@@ -589,8 +589,8 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-03t23-00z-vs-los-angeles-sparks",
-      "strEvent": "vs Los Angeles Sparks",
+      "idEvent": "scraped-2026-05-03t23-00z-portland-fire-vs-los-angeles-sparks",
+      "strEvent": "Portland Fire vs Los Angeles Sparks",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Los Angeles Sparks",
       "dateEvent": "2026-05-03T23:00Z",
