@@ -1,7 +1,7 @@
 {
   "teamId": "152565",
   "teamName": "Portland Fire",
-  "updatedAt": "2026-06-18T21:19:39.047Z",
+  "updatedAt": "2026-06-18T21:36:54.430Z",
   "events": [
     {
       "idEvent": "scraped-2026-05-10t01-00z-vs-chicago-sky",
@@ -11,7 +11,7 @@
       "dateEvent": "2026-05-10T01:00Z",
       "strTime": "01:00:00",
       "strTimestamp": "2026-05-10T01:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -24,7 +24,7 @@
       "dateEvent": "2026-05-13T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-05-13T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -37,7 +37,7 @@
       "dateEvent": "2026-05-15T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-05-15T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -50,7 +50,7 @@
       "dateEvent": "2026-05-19T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-05-19T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -63,7 +63,7 @@
       "dateEvent": "2026-05-20T23:00Z",
       "strTime": "23:00:00",
       "strTimestamp": "2026-05-20T23:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -76,7 +76,7 @@
       "dateEvent": "2026-05-23T22:00Z",
       "strTime": "22:00:00",
       "strTimestamp": "2026-05-23T22:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -89,7 +89,7 @@
       "dateEvent": "2026-05-26T00:00Z",
       "strTime": "00:00:00",
       "strTimestamp": "2026-05-26T00:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -102,7 +102,7 @@
       "dateEvent": "2026-05-28T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-05-28T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -115,7 +115,7 @@
       "dateEvent": "2026-05-30T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-05-30T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -128,7 +128,7 @@
       "dateEvent": "2026-05-31T00:00Z",
       "strTime": "00:00:00",
       "strTimestamp": "2026-05-31T00:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -141,7 +141,7 @@
       "dateEvent": "2026-06-03T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-06-03T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -154,7 +154,7 @@
       "dateEvent": "2026-06-06T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-06-06T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -167,7 +167,7 @@
       "dateEvent": "2026-06-07T23:00Z",
       "strTime": "23:00:00",
       "strTimestamp": "2026-06-07T23:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -180,7 +180,7 @@
       "dateEvent": "2026-06-12T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-06-12T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -193,7 +193,7 @@
       "dateEvent": "2026-06-14T00:30Z",
       "strTime": "00:30:00",
       "strTimestamp": "2026-06-14T00:30Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -206,7 +206,7 @@
       "dateEvent": "2026-06-16T00:00Z",
       "strTime": "00:00:00",
       "strTimestamp": "2026-06-16T00:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -219,7 +219,7 @@
       "dateEvent": "2026-06-18T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-06-18T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -232,7 +232,7 @@
       "dateEvent": "2026-06-25T00:00Z",
       "strTime": "00:00:00",
       "strTimestamp": "2026-06-25T00:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -245,7 +245,7 @@
       "dateEvent": "2026-06-26T23:30Z",
       "strTime": "23:30:00",
       "strTimestamp": "2026-06-26T23:30Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -258,7 +258,7 @@
       "dateEvent": "2026-06-28T19:00Z",
       "strTime": "19:00:00",
       "strTimestamp": "2026-06-28T19:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -271,7 +271,7 @@
       "dateEvent": "2026-07-05T01:00Z",
       "strTime": "01:00:00",
       "strTimestamp": "2026-07-05T01:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -284,7 +284,7 @@
       "dateEvent": "2026-07-10T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-07-10T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -297,7 +297,7 @@
       "dateEvent": "2026-07-11T20:00Z",
       "strTime": "20:00:00",
       "strTimestamp": "2026-07-11T20:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -310,7 +310,7 @@
       "dateEvent": "2026-07-14T15:00Z",
       "strTime": "15:00:00",
       "strTimestamp": "2026-07-14T15:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -323,7 +323,7 @@
       "dateEvent": "2026-07-16T23:00Z",
       "strTime": "23:00:00",
       "strTimestamp": "2026-07-16T23:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -336,7 +336,7 @@
       "dateEvent": "2026-07-19T00:00Z",
       "strTime": "00:00:00",
       "strTimestamp": "2026-07-19T00:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -349,7 +349,7 @@
       "dateEvent": "2026-07-23T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-07-23T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -362,7 +362,7 @@
       "dateEvent": "2026-07-29T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-07-29T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -375,7 +375,7 @@
       "dateEvent": "2026-08-01T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-08-01T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -388,7 +388,7 @@
       "dateEvent": "2026-08-02T19:30Z",
       "strTime": "19:30:00",
       "strTimestamp": "2026-08-02T19:30Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -401,7 +401,7 @@
       "dateEvent": "2026-08-07T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-08-07T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -414,7 +414,7 @@
       "dateEvent": "2026-08-09T00:30Z",
       "strTime": "00:30:00",
       "strTimestamp": "2026-08-09T00:30Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -427,7 +427,7 @@
       "dateEvent": "2026-08-13T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-08-13T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -440,7 +440,7 @@
       "dateEvent": "2026-08-15T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-08-15T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -453,7 +453,7 @@
       "dateEvent": "2026-08-16T23:00Z",
       "strTime": "23:00:00",
       "strTimestamp": "2026-08-16T23:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -466,7 +466,7 @@
       "dateEvent": "2026-08-22T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-08-22T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -479,7 +479,7 @@
       "dateEvent": "2026-08-23T23:00Z",
       "strTime": "23:00:00",
       "strTimestamp": "2026-08-23T23:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -492,7 +492,7 @@
       "dateEvent": "2026-08-26T00:00Z",
       "strTime": "00:00:00",
       "strTimestamp": "2026-08-26T00:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -505,7 +505,7 @@
       "dateEvent": "2026-08-28T23:30Z",
       "strTime": "23:30:00",
       "strTimestamp": "2026-08-28T23:30Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -518,7 +518,7 @@
       "dateEvent": "2026-08-30T23:00Z",
       "strTime": "23:00:00",
       "strTimestamp": "2026-08-30T23:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -531,7 +531,7 @@
       "dateEvent": "2026-09-18T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-09-18T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -544,7 +544,7 @@
       "dateEvent": "2026-09-19T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-09-19T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -557,7 +557,7 @@
       "dateEvent": "2026-09-20T23:00Z",
       "strTime": "23:00:00",
       "strTimestamp": "2026-09-20T23:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -570,7 +570,7 @@
       "dateEvent": "2026-09-23T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-09-23T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -583,7 +583,7 @@
       "dateEvent": "2026-04-30T02:00Z",
       "strTime": "02:00:00",
       "strTimestamp": "2026-04-30T02:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
@@ -596,7 +596,7 @@
       "dateEvent": "2026-05-03T23:00Z",
       "strTime": "23:00:00",
       "strTimestamp": "2026-05-03T23:00Z",
-      "strLeague": null,
+      "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
       "source": "scraped"
