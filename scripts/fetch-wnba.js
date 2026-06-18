@@ -7,7 +7,8 @@ import { normalizeScrapedEvent } from '../lib/sports.js';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SUPPLEMENTAL_DATA_DIR = path.join(__dirname, '../lib/data/sports/supplemental');
 const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/3';
-const WNBA_SCHEDULE_CSV_URL = 'https://github.com/sportsdataverse/sportsdataverse-data/releases/download/espn_wnba_schedules/wnba_schedule_2026.csv';
+const CURRENT_YEAR = new Date().getFullYear();
+const WNBA_SCHEDULE_CSV_URL = `https://github.com/sportsdataverse/sportsdataverse-data/releases/download/espn_wnba_schedules/wnba_schedule_${CURRENT_YEAR}.csv`;
 const FETCH_TIMEOUT_MS = 15000;
 
 async function fetchJson(url) {
@@ -153,6 +154,10 @@ async function main() {
     const globalGames = await fetchWNBACSV();
     console.log(`Found ${globalGames.length} games in WNBA CSV.`);
 
+    if (globalGames.length === 0) {
+      throw new Error('No games found in WNBA CSV. Failing fast to prevent incomplete data.');
+    }
+
     // 3. Process each team
     for (const team of teams) {
       console.log(`Processing team: ${team.strTeam} (${team.idTeam})`);
@@ -218,6 +223,9 @@ async function main() {
       } else {
         console.log(`  No events found for ${team.strTeam}.`);
       }
+
+      // Delay to be polite and avoid rate limiting
+      await new Promise(resolve => setTimeout(resolve, 2000));
     }
 
   } catch (error) {

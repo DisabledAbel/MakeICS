@@ -418,6 +418,8 @@ async function main() {
 
       // 2. Discover Teams and Scrape (New)
       console.log(`Discovering teams for ${league.name}...`);
+      // Note: lookup_all_teams.php?id=4516 incorrectly returns English soccer teams on TSDB.
+      // We use search_all_teams.php?l=WNBA as a reliable alternative for this league.
       const teamsUrl = league.id === '4516'
         ? `${SPORTSDB_BASE_URL}/search_all_teams.php?l=WNBA`
         : `${SPORTSDB_BASE_URL}/lookup_all_teams.php?id=${league.id}`;
