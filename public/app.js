@@ -195,7 +195,7 @@ function formatAirDate(dateStr, timeStr, timestamp, includeZones = false, timezo
   const date = timestamp ? new Date(timestamp + (!timestamp.includes('Z') && !/[-+]\d{2}:?\d{2}$/.test(timestamp) ? 'Z' : '')) : new Date(`${dateStr}T${timeStr || '00:00:00'}Z`);
 
   if (Number.isNaN(date.getTime())) {
-    return dateStr || 'Date TBA';
+    return dateStr || 'Date TBD';
   }
 
   const local = new Intl.DateTimeFormat(undefined, {
@@ -418,7 +418,7 @@ function renderList(items, type, context, timezone = 'UTC') {
     } else if (type === 'sports') {
       dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp, true, timezone);
       titleEl.textContent = item.name;
-      metaEl.textContent = [item.league, item.venue].filter(Boolean).join(' · ');
+      metaEl.textContent = [item.league, item.venue || 'TBD'].filter(Boolean).join(' · ');
       summaryEl.textContent = item.status || '';
       link.remove();
     }
