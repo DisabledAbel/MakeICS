@@ -183,13 +183,9 @@ function safeHttpUrl(url) {
 }
 
 /**
- * Formats a date for display in the UI with localized time information.
- * @param {string} dateStr - YYYY-MM-DD date string
- * @param {string} timeStr - HH:mm:ss time string
- * @param {string} timestamp - ISO timestamp
- * @param {boolean} includeZones - Whether to include localized ET/PT times (default: false)
- * @param {string} timezone - Selected IANA timezone identifier (default: 'UTC')
- * @returns {string}
+ * Formats a date for display with optional timezone information.
+ * @param {string} timezone - IANA timezone identifier.
+ * @returns {string} The formatted date, or 'Date TBD' if the date is invalid.
  */
 function formatAirDate(dateStr, timeStr, timestamp, includeZones = false, timezone = 'UTC') {
   const date = timestamp ? new Date(timestamp + (!timestamp.includes('Z') && !/[-+]\d{2}:?\d{2}$/.test(timestamp) ? 'Z' : '')) : new Date(`${dateStr}T${timeStr || '00:00:00'}Z`);
@@ -386,6 +382,15 @@ function renderResults(payload, type) {
   }
 }
 
+/**
+ * Renders a list of episodes or sports events into the results panel.
+ * 
+ * For TV episodes, displays the season and episode number, runtime, network, and a link to TVMaze.
+ * For sports events, displays the league and venue information without an external link.
+ * 
+ * @param {string} type - The item type: 'tv' for episodes, 'sports' for events.
+ * @param {Object} context - For TV items, an object with a tvmazeUrl property used as a link fallback.
+ */
 function renderList(items, type, context, timezone = 'UTC') {
   const count = document.createElement('p');
   count.className = 'count';
