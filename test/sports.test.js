@@ -124,8 +124,10 @@ test('searchTeamSuggestions returns team results', async () => {
     fetchImpl: createFetchMock()
   });
 
-  assert.equal(suggestions.length, 1);
-  assert.equal(suggestions[0].name, 'Arsenal');
+  // Should find Michigan Arsenal (AF1) and Arsenal (TSDB)
+  assert.equal(suggestions.length, 2);
+  assert.ok(suggestions.some(s => s.name === 'Arsenal'));
+  assert.ok(suggestions.some(s => s.name === 'Michigan Arsenal'));
 });
 
 test('getEvents returns merged and deduplicated events for a team, including past ones', (t) => {

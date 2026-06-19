@@ -1,0 +1,59 @@
+{
+  "teamId": "af1-minnesota",
+  "teamName": "Minnesota Monsters",
+  "updatedAt": "2026-06-19T20:15:49.982Z",
+  "events": [
+    {
+      "idEvent": "af1-2026-06-22-minnesota-monsters-michigan-arsenal",
+      "strEvent": "Minnesota Monsters vs Michigan Arsenal",
+      "strHomeTeam": "Minnesota Monsters",
+      "strAwayTeam": "Michigan Arsenal",
+      "dateEvent": "2026-06-22",
+      "strTime": "23:00:00",
+      "strTimestamp": "2026-06-22T23:00:00.000Z",
+      "strLeague": "Arena Football One",
+      "strVenue": "Amsoil Arena",
+      "strStatus": "NS",
+      "source": "af1-scrape"
+    },
+    {
+      "idEvent": "af1-2026-07-05-minnesota-monsters-kentucky-barrels",
+      "strEvent": "Minnesota Monsters vs Kentucky Barrels",
+      "strHomeTeam": "Minnesota Monsters",
+      "strAwayTeam": "Kentucky Barrels",
+      "dateEvent": "2026-07-05",
+      "strTime": "23:00:00",
+      "strTimestamp": "2026-07-05T23:00:00.000Z",
+      "strLeague": "Arena Football One",
+      "strVenue": "Amsoil Arena",
+      "strStatus": "NS",
+      "source": "af1-scrape"
+    },
+    {
+      "idEvent": "af1-2026-07-11-minnesota-monsters-washington-wolfpack",
+      "strEvent": "Minnesota Monsters vs Washington Wolfpack",
+      "strHomeTeam": "Minnesota Monsters",
+      "strAwayTeam": "Washington Wolfpack",
+      "dateEvent": "2026-07-11",
+      "strTime": "23:00:00",
+      "strTimestamp": "2026-07-11T23:00:00.000Z",
+      "strLeague": "Arena Football One",
+      "strVenue": "Amsoil Arena",
+      "strStatus": "NS",
+      "source": "af1-scrape"
+    },
+    {
+      "idEvent": "af1-2026-07-18-minnesota-monsters-beaumont-renegades",
+      "strEvent": "Minnesota Monsters vs Beaumont Renegades",
+      "strHomeTeam": "Minnesota Monsters",
+      "strAwayTeam": "Beaumont Renegades",
+      "dateEvent": "2026-07-18",
+      "strTime": "23:00:00",
+      "strTimestamp": "2026-07-18T23:00:00.000Z",
+      "strLeague": "Arena Football One",
+      "strVenue": "Amsoil Arena",
+      "strStatus": "NS",
+      "source": "af1-scrape"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "teamId": "af1-kentucky",
+  "teamName": "Kentucky Barrels",
+  "updatedAt": "2026-06-19T20:15:49.982Z",
+  "events": [
+    {
+      "idEvent": "af1-2026-06-21-washington-wolfpack-kentucky-barrels",
+      "strEvent": "Washington Wolfpack vs Kentucky Barrels",
+      "strHomeTeam": "Washington Wolfpack",
+      "strAwayTeam": "Kentucky Barrels",
+      "dateEvent": "2026-06-21",
+      "strTime": "01:00:00",
+      "strTimestamp": "2026-06-21T01:00:00.000Z",
+      "strLeague": "Arena Football One",
+      "strVenue": "Angel of the Winds Arena",
+      "strStatus": "NS",
+      "source": "af1-scrape"
+    },
+    {
+      "idEvent": "af1-2026-07-05-minnesota-monsters-kentucky-barrels",
+      "strEvent": "Minnesota Monsters vs Kentucky Barrels",
+      "strHomeTeam": "Minnesota Monsters",
+      "strAwayTeam": "Kentucky Barrels",
+      "dateEvent": "2026-07-05",
+      "strTime": "23:00:00",
+      "strTimestamp": "2026-07-05T23:00:00.000Z",
+      "strLeague": "Arena Football One",
+      "strVenue": "Amsoil Arena",
+      "strStatus": "NS",
+      "source": "af1-scrape"
+    },
+    {
+      "idEvent": "af1-2026-07-12-beaumont-renegades-kentucky-barrels",
+      "strEvent": "Beaumont Renegades vs Kentucky Barrels",
+      "strHomeTeam": "Beaumont Renegades",
+      "strAwayTeam": "Kentucky Barrels",
+      "dateEvent": "2026-07-12",
+      "strTime": "01:00:00",
+      "strTimestamp": "2026-07-12T01:00:00.000Z",
+      "strLeague": "Arena Football One",
+      "strVenue": null,
+      "strStatus": "NS",
+      "source": "af1-scrape"
+    }
+  ]
+}
