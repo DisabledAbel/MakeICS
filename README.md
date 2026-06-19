@@ -89,10 +89,6 @@ GET /api/episodes?show=The%20Last%20of%20Us&format=ics
 
 The app tries a public/free IMDb-compatible endpoint by default, but treats it as optional so temporary endpoint outages do not interrupt TV show searches:
 
-```text
-https://imdb.iamidiotareyoutoo.com/search?tt=<imdbId>
-```
-
 That endpoint does **not** require an API key. If the public endpoint is unavailable, MakeICS still returns TVMaze episodes and the direct IMDb link without showing a blocking enrichment failure. If you configure Firecrawl, the app uses Firecrawl first to scrape the public IMDb title page and falls back to the free endpoint if Firecrawl fails.
 
 | Variable | Purpose |
