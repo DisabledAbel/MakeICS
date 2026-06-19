@@ -338,7 +338,7 @@ test('getEvents falls back to team stadium if event venue is missing', async (t)
     fetchImpl
   });
 
-  const event = result.events[0];
-  // This is expected to fail initially as the logic is not yet implemented
+  const event = result.events.find(e => e.id === '100');
+  assert.ok(event, 'Test event should be present');
   assert.equal(event.venue, 'The Fortress', 'Should fall back to team stadium when venue is empty');
 });
