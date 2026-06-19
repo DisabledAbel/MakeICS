@@ -1,0 +1,59 @@
+{
+  "teamId": "148353",
+  "teamName": "Washington Wolfpack",
+  "updatedAt": "2026-06-19T20:15:49.980Z",
+  "events": [
+    {
+      "idEvent": "af1-2026-06-21-washington-wolfpack-kentucky-barrels",
+      "strEvent": "Washington Wolfpack vs Kentucky Barrels",
+      "strHomeTeam": "Washington Wolfpack",
+      "strAwayTeam": "Kentucky Barrels",
+      "dateEvent": "2026-06-21",
+      "strTime": "01:00:00",
+      "strTimestamp": "2026-06-21T01:00:00.000Z",
+      "strLeague": "Arena Football One",
+      "strVenue": "Angel of the Winds Arena",
+      "strStatus": "NS",
+      "source": "af1-scrape"
+    },
+    {
+      "idEvent": "af1-2026-06-28-washington-wolfpack-michigan-arsenal",
+      "strEvent": "Washington Wolfpack vs Michigan Arsenal",
+      "strHomeTeam": "Washington Wolfpack",
+      "strAwayTeam": "Michigan Arsenal",
+      "dateEvent": "2026-06-28",
+      "strTime": "01:00:00",
+      "strTimestamp": "2026-06-28T01:00:00.000Z",
+      "strLeague": "Arena Football One",
+      "strVenue": "Angel of the Winds Arena",
+      "strStatus": "NS",
+      "source": "af1-scrape"
+    },
+    {
+      "idEvent": "af1-2026-07-04-washington-wolfpack-nashville-kats",
+      "strEvent": "Washington Wolfpack vs Nashville Kats",
+      "strHomeTeam": "Washington Wolfpack",
+      "strAwayTeam": "Nashville Kats",
+      "dateEvent": "2026-07-04",
+      "strTime": "02:00:00",
+      "strTimestamp": "2026-07-04T02:00:00.000Z",
+      "strLeague": "Arena Football One",
+      "strVenue": "Angel of the Winds Arena",
+      "strStatus": "NS",
+      "source": "af1-scrape"
+    },
+    {
+      "idEvent": "af1-2026-07-11-minnesota-monsters-washington-wolfpack",
+      "strEvent": "Minnesota Monsters vs Washington Wolfpack",
+      "strHomeTeam": "Minnesota Monsters",
+      "strAwayTeam": "Washington Wolfpack",
+      "dateEvent": "2026-07-11",
+      "strTime": "23:00:00",
+      "strTimestamp": "2026-07-11T23:00:00.000Z",
+      "strLeague": "Arena Football One",
+      "strVenue": "Amsoil Arena",
+      "strStatus": "NS",
+      "source": "af1-scrape"
+    }
+  ]
+}
