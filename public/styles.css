@@ -9,10 +9,13 @@
   box-sizing: border-box;
 }
 
+html,
 body {
   margin: 0;
   min-height: 100vh;
   background: radial-gradient(circle at top left, rgba(82, 120, 255, 0.32), transparent 32rem), #07111f;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 .shell {
@@ -78,13 +81,19 @@ body {
 
 .search-card,
 .show-header,
-.episode-card,
 .imdb-panel {
   border: 1px solid rgba(255, 255, 255, 0.13);
   border-radius: 28px;
   background: rgba(12, 26, 48, 0.78);
   box-shadow: 0 24px 80px rgba(0, 0, 0, 0.22);
   backdrop-filter: blur(18px);
+}
+
+.episode-card {
+  border: 1px solid rgba(255, 255, 255, 0.13);
+  border-radius: 28px;
+  background: rgba(12, 26, 48, 0.78);
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.22);
 }
 
 .search-card {
@@ -167,6 +176,7 @@ button,
   left: 0;
   max-height: 360px;
   overflow-y: auto;
+  overscroll-behavior: contain;
   border: 1px solid rgba(255, 255, 255, 0.14);
   border-radius: 18px;
   background: #101d31;
