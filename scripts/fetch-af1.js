@@ -7,59 +7,77 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SUPPLEMENTAL_DATA_DIR = path.join(__dirname, '../lib/data/sports/supplemental');
 
 const TEAM_NAME_TO_ID = {
-  'Albany Firebirds': '148343',
-  'Beaumont Renegades': 'af1-beaumont',
-  'Kentucky Barrels': 'af1-kentucky',
-  'Michigan Arsenal': 'af1-michigan',
-  'Minnesota Monsters': 'af1-minnesota',
-  'Nashville Kats': '148348',
-  'Oceanside Bombers': 'af1-oceanside',
-  'Washington Wolfpack': '148353'
+  'albany firebirds': '148343',
+  'beaumont renegades': 'af1-beaumont',
+  'kentucky barrels': 'af1-kentucky',
+  'michigan arsenal': 'af1-michigan',
+  'minnesota monsters': 'af1-minnesota',
+  'nashville kats': '148348',
+  'oceanside bombers': 'af1-oceanside',
+  'washington wolfpack': '148353'
 };
+
+const AF1_TEAM_CANONICAL_NAMES = {
+  '148343': 'Albany Firebirds',
+  'af1-beaumont': 'Beaumont Renegades',
+  'af1-kentucky': 'Kentucky Barrels',
+  'af1-michigan': 'Michigan Arsenal',
+  'af1-minnesota': 'Minnesota Monsters',
+  '148348': 'Nashville Kats',
+  'af1-oceanside': 'Oceanside Bombers',
+  '148353': 'Washington Wolfpack'
+};
+
+function normalizeTeamName(name) {
+  return name.toLowerCase().trim().replace(/\s+/g, ' ');
+}
 
 async function scrapeSchedule() {
   const browser = await chromium.launch();
-  const page = await browser.newPage();
-  console.log('Navigating to AF1 schedule...');
+  try {
+    const page = await browser.newPage();
+    console.log('Navigating to AF1 schedule...');
 
-  // Use a long timeout and wait for network idle as the page is SPA-ish
-  await page.goto('https://www.theaf1.com/stats#/1999/schedule?season_id=9418', {
-    waitUntil: 'networkidle',
-    timeout: 60000
-  });
+    // Use a long timeout and wait for network idle as the page is SPA-ish
+    await page.goto('https://www.theaf1.com/stats#/1999/schedule?season_id=9418', {
+      waitUntil: 'networkidle',
+      timeout: 60000
+    });
 
-  // Extra wait for dynamic data to populate the table
-  await page.waitForTimeout(5000);
+    // Extra wait for dynamic data to populate the table
+    await page.waitForTimeout(5000);
 
-  const games = await page.evaluate(() => {
-    const rows = Array.from(document.querySelectorAll('tr'));
-    return rows.map(row => {
-      const cells = Array.from(row.querySelectorAll('td'));
-      if (cells.length < 8) return null;
+    const games = await page.evaluate(() => {
+      const rows = Array.from(document.querySelectorAll('tr'));
+      return rows.map(row => {
+        const cells = Array.from(row.querySelectorAll('td'));
+        if (cells.length < 8) return null;
 
-      // The away/home team names might be inside complex elements,
-      // but based on previous test run, we can extract them.
-      // cells[1] is Away, cells[3] is Home
-      const awayTeam = cells[1]?.innerText.trim().split('\n').pop();
-      const homeTeam = cells[3]?.innerText.trim().split('\n').pop();
-      const dateStr = cells[6]?.innerText.trim(); // e.g. "Sat Jun 20"
-      const timeStr = cells[7]?.innerText.trim(); // e.g. "4:00PM EDT"
-      const venue = cells[9]?.innerText.trim();
+        // The away/home team names might be inside complex elements,
+        // but based on previous test run, we can extract them.
+        // cells[1] is Away, cells[3] is Home
+        const awayTeam = cells[1]?.innerText.trim().split('\n').pop();
+        const homeTeam = cells[3]?.innerText.trim().split('\n').pop();
+        const dateStr = cells[6]?.innerText.trim(); // e.g. "Sat Jun 20"
+        const timeStr = cells[7]?.innerText.trim(); // e.g. "4:00PM EDT"
+        const venue = cells[9]?.innerText.trim();
 
-      if (!awayTeam || !homeTeam || !dateStr) return null;
+        if (!awayTeam || !homeTeam || !dateStr) return null;
 
-      return {
-        awayTeam,
-        homeTeam,
-        dateStr,
-        timeStr,
-        venue
-      };
-    }).filter(Boolean);
-  });
+        return {
+          awayTeam,
+          homeTeam,
+          dateStr,
+          timeStr,
+          venue
+        };
+      }).filter(Boolean);
+    });
 
-  await browser.close();
-  return games;
+    return games;
+  } finally {
+    await browser.close();
+  }
 }
 
 function parseDate(dateStr, timeStr) {
@@ -98,8 +116,8 @@ async function main() {
     const teamEvents = {}; // teamId -> events[]
 
     for (const game of rawGames) {
-      const homeId = TEAM_NAME_TO_ID[game.homeTeam];
-      const awayId = TEAM_NAME_TO_ID[game.awayTeam];
+      const homeId = TEAM_NAME_TO_ID[normalizeTeamName(game.homeTeam)];
+      const awayId = TEAM_NAME_TO_ID[normalizeTeamName(game.awayTeam)];
 
       if (!homeId || !awayId) {
         console.warn(`Could not resolve IDs for ${game.homeTeam} vs ${game.awayTeam}`);
@@ -107,6 +125,9 @@ async function main() {
       }
 
       const gameDate = parseDate(game.dateStr, game.timeStr);
+      if (isNaN(gameDate.getTime())) {
+        continue;
+      }
       const isoTimestamp = gameDate.toISOString();
       const dateEvent = isoTimestamp.split('T')[0];
       const strTime = isoTimestamp.split('T')[1].split('.')[0];
@@ -138,7 +159,7 @@ async function main() {
       // Load existing if any to potentially merge or just overwrite (since this is the source of truth for AF1)
       // For now, we overwrite to ensure freshness
 
-      const teamName = Object.keys(TEAM_NAME_TO_ID).find(name => TEAM_NAME_TO_ID[name] === teamId);
+      const teamName = AF1_TEAM_CANONICAL_NAMES[teamId] || teamId;
 
       await fs.writeFile(filePath, JSON.stringify({
         teamId,
