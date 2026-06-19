@@ -300,3 +300,45 @@ test('getEvents handles strTimestamp with offset correctly', async (t) => {
   // 15:00+01:00 is 14:00 UTC
   assert.match(ics, /DTSTART:20260810T140000Z/);
 });
+
+test('getEvents falls back to team stadium if event venue is missing', async (t) => {
+  const teamWithStadium = {
+    teams: [{
+      ...teamPayload.teams[0],
+      strStadium: 'The Fortress'
+    }]
+  };
+
+  const eventsWithoutVenue = {
+    events: [{
+      idEvent: '100',
+      strEvent: 'Arsenal vs Empty Venue',
+      idHomeTeam: '133604',
+      idAwayTeam: '999',
+      strHomeTeam: 'Arsenal',
+      strAwayTeam: 'Empty Venue',
+      dateEvent: '2026-09-01',
+      strTime: '20:00:00',
+      strTimestamp: '2026-09-01T20:00:00Z',
+      strLeague: 'Premier League',
+      strVenue: '',
+      strStatus: 'NS'
+    }]
+  };
+
+  const fetchImpl = async (url) => {
+    if (url.includes('lookupteam.php')) return Response.json(teamWithStadium);
+    if (url.includes('eventsnext.php')) return Response.json(eventsWithoutVenue);
+    if (url.includes('lookupleague.php')) return Response.json({ leagues: [] });
+    return Response.json({});
+  };
+
+  const result = await getEvents({
+    teamId: '133604',
+    fetchImpl
+  });
+
+  const event = result.events[0];
+  // This is expected to fail initially as the logic is not yet implemented
+  assert.equal(event.venue, 'The Fortress', 'Should fall back to team stadium when venue is empty');
+});
