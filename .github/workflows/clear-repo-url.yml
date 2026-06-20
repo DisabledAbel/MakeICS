@@ -8,14 +8,20 @@ jobs:
   clear-url:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Clear Website URL
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           for i in {1..30}; do
-            HOMEPAGE=$(gh repo view ${{ github.repository }} --json homepage --jq .homepage 2>/dev/null)
+            # Use '|| echo "null"' to prevent script exit if 'gh' command fails
+            HOMEPAGE=$(gh repo view ${{ github.repository }} --json homepage --jq .homepage 2>/dev/null || echo "null")
+
             if [ -n "$HOMEPAGE" ] && [ "$HOMEPAGE" != "null" ]; then
-              gh repo edit ${{ github.repository }} --homepage "" > /dev/null
+              # Redirecting to /dev/null to hide URL in logs
+              gh repo edit ${{ github.repository }} --homepage "" > /dev/null 2>&1 || true
               echo "Iteration $i: URL was removed."
             else
               echo "Iteration $i: No URL was removed."
