@@ -1,21 +1,8 @@
 {
   "teamId": "148343",
   "teamName": "Albany Firebirds",
-  "updatedAt": "2026-06-20T14:11:19.142Z",
+  "updatedAt": "2026-06-21T04:42:59.445Z",
   "events": [
-    {
-      "idEvent": "af1-2026-06-20-nashville-kats-albany-firebirds",
-      "strEvent": "Nashville Kats vs Albany Firebirds",
-      "strHomeTeam": "Nashville Kats",
-      "strAwayTeam": "Albany Firebirds",
-      "dateEvent": "2026-06-20",
-      "strTime": "21:00:00",
-      "strTimestamp": "2026-06-20T21:00:00.000Z",
-      "strLeague": "Arena Football One",
-      "strVenue": "F&M Bank Arena",
-      "strStatus": "NS",
-      "source": "af1-scrape"
-    },
     {
       "idEvent": "af1-2026-07-05-beaumont-renegades-albany-firebirds",
       "strEvent": "Beaumont Renegades vs Albany Firebirds",

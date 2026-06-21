@@ -1,21 +1,8 @@
 {
   "teamId": "af1-beaumont",
   "teamName": "Beaumont Renegades",
-  "updatedAt": "2026-06-20T14:11:19.144Z",
+  "updatedAt": "2026-06-21T04:42:59.447Z",
   "events": [
-    {
-      "idEvent": "af1-2026-06-20-beaumont-renegades-oceanside-bombers",
-      "strEvent": "Beaumont Renegades vs Oceanside Bombers",
-      "strHomeTeam": "Beaumont Renegades",
-      "strAwayTeam": "Oceanside Bombers",
-      "dateEvent": "2026-06-20",
-      "strTime": "20:00:00",
-      "strTimestamp": "2026-06-20T20:00:00.000Z",
-      "strLeague": "Arena Football One",
-      "strVenue": "Ford Arena",
-      "strStatus": "NS",
-      "source": "af1-scrape"
-    },
     {
       "idEvent": "af1-2026-06-27-nashville-kats-beaumont-renegades",
       "strEvent": "Nashville Kats vs Beaumont Renegades",
