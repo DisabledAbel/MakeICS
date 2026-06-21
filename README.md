@@ -59,7 +59,7 @@ Or run directly with Node.js:
 node index.js
 ```
 
-Open <http://localhost:3000>, start typing to pick a suggested show, search, and click **Copy ICS URL** to copy the all-time calendar feed URL. The ICS feed includes daily refresh metadata and the API cache revalidates daily so newly published episodes can appear without changing the URL.
+Open <http://localhost:3000>, start typing to pick a suggested show, sports team, search, and click **Copy ICS URL** to copy the all-time calendar feed URL. The ICS feed includes daily refresh metadata and the API cache revalidates daily so newly published episodes/games can appear without changing the URL.
 
 ## Vercel deployment
 
