@@ -1,7 +1,7 @@
 {
   "teamId": "150722",
   "teamName": "Golden State Valkyries",
-  "updatedAt": "2026-06-22T05:04:00.767Z",
+  "updatedAt": "2026-06-22T17:07:06.552Z",
   "events": [
     {
       "idEvent": "scraped-2026-09-25-los-angeles-sparks-vs-golden-state-valkyries",
@@ -37,19 +37,6 @@
       "dateEvent": "2026-09-20",
       "strTime": "01:00:00",
       "strTimestamp": "2026-09-20T01:00:00Z",
-      "strLeague": "WNBA",
-      "strVenue": "Chase Center",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-09-19-golden-state-valkyries-vs-portland-fire",
-      "strEvent": "Golden State Valkyries vs Portland Fire",
-      "strHomeTeam": "Golden State Valkyries",
-      "strAwayTeam": "Portland Fire",
-      "dateEvent": "2026-09-19",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-09-19T02:00:00Z",
       "strLeague": "WNBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
