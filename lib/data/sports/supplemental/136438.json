@@ -1,7 +1,7 @@
 {
   "teamId": "136438",
   "teamName": "New York Liberty",
-  "updatedAt": "2026-06-23T04:03:33.830Z",
+  "updatedAt": "2026-06-23T15:14:22.140Z",
   "events": [
     {
       "idEvent": "scraped-2026-09-24-new-york-liberty-vs-atlanta-dream",
@@ -546,19 +546,6 @@
       "strTimestamp": "2026-05-13T02:00:00Z",
       "strLeague": "WNBA",
       "strVenue": "Moda Center",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-10-washington-mystics-vs-new-york-liberty",
-      "strEvent": "Washington Mystics vs New York Liberty",
-      "strHomeTeam": "Washington Mystics",
-      "strAwayTeam": "New York Liberty",
-      "dateEvent": "2026-05-10",
-      "strTime": "19:00:00",
-      "strTimestamp": "2026-05-10T19:00:00Z",
-      "strLeague": "WNBA",
-      "strVenue": "CareFirst Arena",
       "strStatus": "NS",
       "source": "scraped"
     },

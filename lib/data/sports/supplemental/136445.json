@@ -1,7 +1,7 @@
 {
   "teamId": "136445",
   "teamName": "Connecticut Sun",
-  "updatedAt": "2026-06-23T04:03:19.753Z",
+  "updatedAt": "2026-06-23T15:14:08.118Z",
   "events": [
     {
       "idEvent": "scraped-2026-09-24-connecticut-sun-vs-toronto-tempo",
@@ -544,19 +544,6 @@
       "dateEvent": "2026-05-14",
       "strTime": "00:00:00",
       "strTimestamp": "2026-05-14T00:00:00Z",
-      "strLeague": "WNBA",
-      "strVenue": "Mohegan Sun Arena",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-10-connecticut-sun-vs-seattle-storm",
-      "strEvent": "Connecticut Sun vs Seattle Storm",
-      "strHomeTeam": "Connecticut Sun",
-      "strAwayTeam": "Seattle Storm",
-      "dateEvent": "2026-05-10",
-      "strTime": "17:00:00",
-      "strTimestamp": "2026-05-10T17:00:00Z",
       "strLeague": "WNBA",
       "strVenue": "Mohegan Sun Arena",
       "strStatus": "NS",
