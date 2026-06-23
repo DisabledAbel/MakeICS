@@ -128,6 +128,13 @@ test('searchTeamSuggestions returns team results', async () => {
   assert.equal(suggestions.length, 2);
   assert.ok(suggestions.some(s => s.name === 'Arsenal'));
   assert.ok(suggestions.some(s => s.name === 'Michigan Arsenal'));
+
+  const lightningSuggestions = await searchTeamSuggestions({
+    query: 'Lightning',
+    fetchImpl: createFetchMock()
+  });
+  assert.ok(lightningSuggestions.some(s => s.name === 'Oregon Lightning'));
+  assert.equal(lightningSuggestions.find(s => s.name === 'Oregon Lightning').stadium, 'First Interstate Bank Center');
 });
 
 test('getEvents returns merged and deduplicated events for a team, including past ones', (t) => {
@@ -301,6 +308,138 @@ test('getEvents handles strTimestamp with offset correctly', async (t) => {
   const ics = toIcs(result);
   // 15:00+01:00 is 14:00 UTC
   assert.match(ics, /DTSTART:20260810T140000Z/);
+});
+
+test('searchTeamSuggestions finds Oregon Lightning by partial name "Oregon"', async () => {
+  const suggestions = await searchTeamSuggestions({
+    query: 'Oregon',
+    fetchImpl: createFetchMock()
+  });
+  assert.ok(suggestions.some(s => s.name === 'Oregon Lightning'), 'Should find Oregon Lightning by partial name');
+});
+
+test('searchTeamSuggestions returns Oregon Lightning with correct team properties', async () => {
+  const suggestions = await searchTeamSuggestions({
+    query: 'Oregon Lightning',
+    fetchImpl: createFetchMock()
+  });
+  const team = suggestions.find(s => s.name === 'Oregon Lightning');
+  assert.ok(team, 'Oregon Lightning should be in results');
+  assert.equal(team.id, 'af1-oregon');
+  assert.equal(team.sport, 'American Football');
+  assert.equal(team.league, 'Arena Football One');
+  assert.equal(team.country, 'United States');
+  assert.equal(team.stadium, 'First Interstate Bank Center');
+  assert.equal(team.website, 'www.theoregonlightning.com');
+  assert.ok(team.image, 'Oregon Lightning should have a badge image URL');
+});
+
+test('searchTeamSuggestions with "af1" query includes Oregon Lightning', async () => {
+  const suggestions = await searchTeamSuggestions({
+    query: 'af1',
+    fetchImpl: createFetchMock()
+  });
+  assert.ok(suggestions.some(s => s.name === 'Oregon Lightning'), 'Oregon Lightning should appear in af1 query results');
+});
+
+test('getEvents for af1-oregon does not call TSDB lookupteam.php (pure AF1 team)', async () => {
+  const calls = [];
+  const onCall = (url) => calls.push(url);
+
+  const fetchImplTracked = async (url) => {
+    onCall(url);
+    if (url.includes('eventsnext.php')) return Response.json({ events: [] });
+    throw new Error(`Unexpected URL for af1-oregon: ${url}`);
+  };
+
+  const result = await getEvents({ teamId: 'af1-oregon', fetchImpl: fetchImplTracked });
+
+  const lookupCalls = calls.filter(url => url.includes('lookupteam.php'));
+  assert.equal(lookupCalls.length, 0, 'Should not call lookupteam.php for a pure af1- team');
+  assert.equal(result.team.name, 'Oregon Lightning');
+  assert.equal(result.team.stadium, 'First Interstate Bank Center');
+});
+
+test('getEvents for af1-oregon loads and merges supplemental data', async () => {
+  const supplementalDir = path.join(CACHE_DIR, 'supplemental');
+  const supplementalFilePath = path.join(supplementalDir, 'af1-oregon.json');
+  const oregonSupplemental = {
+    teamId: 'af1-oregon',
+    teamName: 'Oregon Lightning',
+    updatedAt: new Date().toISOString(),
+    events: [
+      {
+        idEvent: 'af1-2026-07-19-oregon-lightning-vs-beaumont-renegades',
+        strEvent: 'Oregon Lightning vs Beaumont Renegades',
+        strHomeTeam: 'Oregon Lightning',
+        strAwayTeam: 'Beaumont Renegades',
+        dateEvent: '2026-07-19',
+        strTime: '20:00:00',
+        strTimestamp: '2026-07-19T20:00:00Z',
+        strLeague: 'Arena Football One',
+        strVenue: 'First Interstate Bank Center',
+        strStatus: 'NS',
+        source: 'af1-scrape'
+      }
+    ]
+  };
+
+  await fs.mkdir(supplementalDir, { recursive: true });
+  await fs.writeFile(supplementalFilePath, JSON.stringify(oregonSupplemental));
+
+  try {
+    const result = await getEvents({
+      teamId: 'af1-oregon',
+      fetchImpl: async (url) => {
+        if (url.includes('eventsnext.php')) return Response.json({ events: [] });
+        throw new Error(`Unexpected URL: ${url}`);
+      }
+    });
+
+    assert.ok(
+      result.events.some(e => e.id === 'af1-2026-07-19-oregon-lightning-vs-beaumont-renegades'),
+      'Should include event from supplemental af1-oregon.json'
+    );
+    assert.equal(
+      result.events.find(e => e.id === 'af1-2026-07-19-oregon-lightning-vs-beaumont-renegades').venue,
+      'First Interstate Bank Center'
+    );
+  } finally {
+    await fs.unlink(supplementalFilePath).catch(() => {});
+  }
+});
+
+test('getEvents for af1-oregon falls back to First Interstate Bank Center for home games with missing venue', async () => {
+  const result = await getEvents({
+    teamId: 'af1-oregon',
+    fetchImpl: async (url) => {
+      if (url.includes('eventsnext.php')) {
+        return Response.json({
+          events: [
+            {
+              idEvent: 'af1-test-home-venue',
+              strEvent: 'Oregon Lightning vs Nashville Kats',
+              idHomeTeam: 'af1-oregon',
+              idAwayTeam: '148348',
+              strHomeTeam: 'Oregon Lightning',
+              strAwayTeam: 'Nashville Kats',
+              dateEvent: '2026-08-01',
+              strTime: '20:00:00',
+              strTimestamp: '2026-08-01T20:00:00Z',
+              strLeague: 'Arena Football One',
+              strVenue: '',
+              strStatus: 'NS'
+            }
+          ]
+        });
+      }
+      throw new Error(`Unexpected URL: ${url}`);
+    }
+  });
+
+  const event = result.events.find(e => e.id === 'af1-test-home-venue');
+  assert.ok(event, 'Home game event should be present');
+  assert.equal(event.venue, 'First Interstate Bank Center', 'Should fall back to First Interstate Bank Center for home games');
 });
 
 test('getEvents falls back to team stadium if event venue is missing', async (t) => {
