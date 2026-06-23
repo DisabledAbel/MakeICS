@@ -59,11 +59,12 @@ async function main() {
       if (teams.length === 0) continue;
 
       // Fetch global schedule for this level if not already fetched
-      if (!levelSchedules.has(league.sportId)) {
+      const cacheKey = `${league.sportId}-${league.id}`;
+      if (!levelSchedules.has(cacheKey)) {
         const startDate = `${CURRENT_YEAR}-01-01`;
         const endDate = `${CURRENT_YEAR}-12-31`;
         const scheduleUrl = `${MLB_API_BASE_URL}/schedule?sportId=${league.sportId}&season=${CURRENT_YEAR}&startDate=${startDate}&endDate=${endDate}`;
-        console.log(`  Fetching level ${league.sportId} schedule from MLB API...`);
+        console.log(`  Fetching level ${league.sportId} schedule for ${league.name} from MLB API...`);
         const scheduleData = await fetchJson(scheduleUrl);
 
         const games = [];
@@ -83,13 +84,18 @@ async function main() {
             }
           }
         }
-        levelSchedules.set(league.sportId, games);
-        console.log(`  Found ${games.length} games in MLB API for level ${league.sportId}.`);
+        levelSchedules.set(cacheKey, games);
+        console.log(`  Found ${games.length} games in MLB API for ${league.name} (level ${league.sportId}).`);
       }
 
-      const allGames = levelSchedules.get(league.sportId);
+      const allGames = levelSchedules.get(cacheKey);
 
       for (const team of teams) {
+        if (!team.idTeam || !/^[a-z0-9-]+$/i.test(team.idTeam)) {
+          console.warn(`  Skipping team with invalid ID: ${team.strTeam} (${team.idTeam})`);
+          continue;
+        }
+
         console.log(`  Processing team: ${team.strTeam} (${team.idTeam})`);
 
         const teamGames = allGames.filter(g =>
