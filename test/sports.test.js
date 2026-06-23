@@ -128,6 +128,13 @@ test('searchTeamSuggestions returns team results', async () => {
   assert.equal(suggestions.length, 2);
   assert.ok(suggestions.some(s => s.name === 'Arsenal'));
   assert.ok(suggestions.some(s => s.name === 'Michigan Arsenal'));
+
+  const lightningSuggestions = await searchTeamSuggestions({
+    query: 'Lightning',
+    fetchImpl: createFetchMock()
+  });
+  assert.ok(lightningSuggestions.some(s => s.name === 'Oregon Lightning'));
+  assert.equal(lightningSuggestions.find(s => s.name === 'Oregon Lightning').stadium, 'First Interstate Bank Center');
 });
 
 test('getEvents returns merged and deduplicated events for a team, including past ones', (t) => {

@@ -14,6 +14,7 @@ const TEAM_NAME_TO_ID = {
   'minnesota monsters': 'af1-minnesota',
   'nashville kats': '148348',
   'oceanside bombers': 'af1-oceanside',
+  'oregon lightning': 'af1-oregon',
   'washington wolfpack': '148353'
 };
 
@@ -25,6 +26,7 @@ const AF1_TEAM_CANONICAL_NAMES = {
   'af1-minnesota': 'Minnesota Monsters',
   '148348': 'Nashville Kats',
   'af1-oceanside': 'Oceanside Bombers',
+  'af1-oregon': 'Oregon Lightning',
   '148353': 'Washington Wolfpack'
 };
 
