@@ -1,21 +1,8 @@
 {
   "teamId": "af1-minnesota",
   "teamName": "Minnesota Monsters",
-  "updatedAt": "2026-06-23T03:53:11.976Z",
+  "updatedAt": "2026-06-23T14:56:31.811Z",
   "events": [
-    {
-      "idEvent": "af1-2026-06-22-minnesota-monsters-michigan-arsenal",
-      "strEvent": "Minnesota Monsters vs Michigan Arsenal",
-      "strHomeTeam": "Minnesota Monsters",
-      "strAwayTeam": "Michigan Arsenal",
-      "dateEvent": "2026-06-22",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-06-22T23:00:00.000Z",
-      "strLeague": "Arena Football One",
-      "strVenue": "Amsoil Arena",
-      "strStatus": "NS",
-      "source": "af1-scrape"
-    },
     {
       "idEvent": "af1-2026-07-05-minnesota-monsters-kentucky-barrels",
       "strEvent": "Minnesota Monsters vs Kentucky Barrels",
