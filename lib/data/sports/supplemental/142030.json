@@ -1,7 +1,7 @@
 {
   "teamId": "142030",
   "teamName": "Durham Bulls",
-  "updatedAt": "2026-06-23T15:52:10.037Z",
+  "updatedAt": "2026-06-24T04:47:30.270Z",
   "events": [
     {
       "idEvent": "scraped-2026-03-27-charlotte-knights-vs-durham-bulls",
@@ -1031,13 +1031,13 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-23-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-2026-06-24-norfolk-tides-vs-durham-bulls",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
-      "dateEvent": "2026-06-23",
+      "dateEvent": "2026-06-24",
       "strTime": "22:35:00",
-      "strTimestamp": "2026-06-23T22:35:00Z",
+      "strTimestamp": "2026-06-24T22:35:00Z",
       "strLeague": "International League",
       "strVenue": "Harbor Park",
       "strStatus": "NS",
@@ -1049,8 +1049,21 @@
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
       "dateEvent": "2026-06-24",
-      "strTime": "22:35:00",
-      "strTimestamp": "2026-06-24T22:35:00Z",
+      "strTime": "22:05:00",
+      "strTimestamp": "2026-06-24T22:05:00Z",
+      "strLeague": "International League",
+      "strVenue": "Harbor Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-2026-06-24-norfolk-tides-vs-durham-bulls",
+      "strEvent": "Norfolk Tides vs Durham Bulls",
+      "strHomeTeam": "Norfolk Tides",
+      "strAwayTeam": "Durham Bulls",
+      "dateEvent": "2026-06-24",
+      "strTime": "22:10:00",
+      "strTimestamp": "2026-06-24T22:10:00Z",
       "strLeague": "International League",
       "strVenue": "Harbor Park",
       "strStatus": "NS",
