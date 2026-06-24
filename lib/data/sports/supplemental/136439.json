@@ -1,7 +1,7 @@
 {
   "teamId": "136439",
   "teamName": "Indiana Fever",
-  "updatedAt": "2026-06-24T04:06:06.861Z",
+  "updatedAt": "2026-06-24T14:44:10.281Z",
   "events": [
     {
       "idEvent": "scraped-2026-09-25-minnesota-lynx-vs-indiana-fever",
@@ -39,6 +39,19 @@
       "strTimestamp": "2026-09-20T20:00:00Z",
       "strLeague": "WNBA",
       "strVenue": "Gainbridge Fieldhouse",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-2026-09-18-toronto-tempo-vs-indiana-fever",
+      "strEvent": "Toronto Tempo vs Indiana Fever",
+      "strHomeTeam": "Toronto Tempo",
+      "strAwayTeam": "Indiana Fever",
+      "dateEvent": "2026-09-18",
+      "strTime": "23:30:00",
+      "strTimestamp": "2026-09-18T23:30:00Z",
+      "strLeague": "WNBA",
+      "strVenue": "Coca-Cola Coliseum",
       "strStatus": "NS",
       "source": "scraped"
     },

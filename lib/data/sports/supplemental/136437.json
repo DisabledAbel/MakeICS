@@ -1,7 +1,7 @@
 {
   "teamId": "136437",
   "teamName": "Las Vegas Aces",
-  "updatedAt": "2026-06-24T04:06:08.865Z",
+  "updatedAt": "2026-06-24T14:44:12.284Z",
   "events": [
     {
       "idEvent": "scraped-2026-09-25-phoenix-mercury-vs-las-vegas-aces",
@@ -559,6 +559,19 @@
       "strTimestamp": "2026-05-14T00:00:00Z",
       "strLeague": "WNBA",
       "strVenue": "Mohegan Sun Arena",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-2026-05-10-los-angeles-sparks-vs-las-vegas-aces",
+      "strEvent": "Los Angeles Sparks vs Las Vegas Aces",
+      "strHomeTeam": "Los Angeles Sparks",
+      "strAwayTeam": "Las Vegas Aces",
+      "dateEvent": "2026-05-10",
+      "strTime": "22:00:00",
+      "strTimestamp": "2026-05-10T22:00:00Z",
+      "strLeague": "WNBA",
+      "strVenue": "crypto.com Arena",
       "strStatus": "NS",
       "source": "scraped"
     },
