@@ -1,8 +1,8 @@
-name: Fetch WNBA Schedule
+name: Fetch WNBA Schedules
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 concurrency:
@@ -43,6 +43,9 @@ jobs:
       - name: Fetch WNBA Schedules
         run: node scripts/fetch-wnba.js
 
+      - name: Fetch Portland Fire Schedule
+        run: node scripts/fetch-portland-fire.js
+
       - name: Commit and Push
         env:
           REF_NAME: ${{ github.ref_name }}
@@ -57,6 +60,6 @@ jobs:
             exit 0
           fi
 
-          git commit -m "📅 Update WNBA schedules"
+          git commit -m "📅 Update WNBA & Portland Fire schedules"
           git pull --rebase origin "$REF_NAME"
           git push origin HEAD:"$REF_NAME"
