@@ -1,7 +1,7 @@
 {
   "teamId": "af1-kentucky",
   "teamName": "Kentucky Barrels",
-  "updatedAt": "2026-06-24T14:38:52.715Z",
+  "updatedAt": "2026-06-25T03:55:24.438Z",
   "events": [
     {
       "idEvent": "af1-2026-07-05-minnesota-monsters-kentucky-barrels",
@@ -17,13 +17,13 @@
       "source": "af1-scrape"
     },
     {
-      "idEvent": "af1-2026-07-12-beaumont-renegades-kentucky-barrels",
+      "idEvent": "af1-2026-07-11-beaumont-renegades-kentucky-barrels",
       "strEvent": "Beaumont Renegades vs Kentucky Barrels",
       "strHomeTeam": "Beaumont Renegades",
       "strAwayTeam": "Kentucky Barrels",
-      "dateEvent": "2026-07-12",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-07-12T01:00:00.000Z",
+      "dateEvent": "2026-07-11",
+      "strTime": "23:00:00",
+      "strTimestamp": "2026-07-11T23:00:00.000Z",
       "strLeague": "Arena Football One",
       "strVenue": null,
       "strStatus": "NS",
