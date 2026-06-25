@@ -1,23 +1,23 @@
 {
   "teamId": "142016",
   "teamName": "Columbus Clippers",
-  "updatedAt": "2026-06-24T15:23:51.068Z",
+  "updatedAt": "2026-06-25T01:19:11.410Z",
   "events": [
     {
-      "idEvent": "scraped-2026-03-27-iowa-cubs-vs-columbus-clippers",
+      "idEvent": "scraped-816521",
       "strEvent": "Iowa Cubs vs Columbus Clippers",
       "strHomeTeam": "Iowa Cubs",
       "strAwayTeam": "Columbus Clippers",
       "dateEvent": "2026-03-27",
       "strTime": "00:08:00",
-      "strTimestamp": "2026-03-27T00:08:00Z",
+      "strTimestamp": "2026-03-28T00:08:00Z",
       "strLeague": "International League",
       "strVenue": "Principal Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-28-iowa-cubs-vs-columbus-clippers",
+      "idEvent": "scraped-816523",
       "strEvent": "Iowa Cubs vs Columbus Clippers",
       "strHomeTeam": "Iowa Cubs",
       "strAwayTeam": "Columbus Clippers",
@@ -30,7 +30,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-29-iowa-cubs-vs-columbus-clippers",
+      "idEvent": "scraped-816525",
       "strEvent": "Iowa Cubs vs Columbus Clippers",
       "strHomeTeam": "Iowa Cubs",
       "strAwayTeam": "Columbus Clippers",
@@ -43,7 +43,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-31-columbus-clippers-vs-indianapolis-indians",
+      "idEvent": "scraped-816830",
       "strEvent": "Columbus Clippers vs Indianapolis Indians",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Indianapolis Indians",
@@ -56,7 +56,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-01-columbus-clippers-vs-indianapolis-indians",
+      "idEvent": "scraped-816827",
       "strEvent": "Columbus Clippers vs Indianapolis Indians",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Indianapolis Indians",
@@ -69,7 +69,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-02-columbus-clippers-vs-indianapolis-indians",
+      "idEvent": "scraped-816826",
       "strEvent": "Columbus Clippers vs Indianapolis Indians",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Indianapolis Indians",
@@ -82,7 +82,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-03-columbus-clippers-vs-indianapolis-indians",
+      "idEvent": "scraped-816829",
       "strEvent": "Columbus Clippers vs Indianapolis Indians",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Indianapolis Indians",
@@ -95,7 +95,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-04-columbus-clippers-vs-indianapolis-indians",
+      "idEvent": "scraped-816821",
       "strEvent": "Columbus Clippers vs Indianapolis Indians",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Indianapolis Indians",
@@ -108,7 +108,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-05-columbus-clippers-vs-indianapolis-indians",
+      "idEvent": "scraped-816822",
       "strEvent": "Columbus Clippers vs Indianapolis Indians",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Indianapolis Indians",
@@ -121,7 +121,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-07-worcester-red-sox-vs-columbus-clippers",
+      "idEvent": "scraped-815547",
       "strEvent": "Worcester Red Sox vs Columbus Clippers",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Columbus Clippers",
@@ -134,7 +134,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-08-worcester-red-sox-vs-columbus-clippers",
+      "idEvent": "scraped-815548",
       "strEvent": "Worcester Red Sox vs Columbus Clippers",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Columbus Clippers",
@@ -147,7 +147,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-09-worcester-red-sox-vs-columbus-clippers",
+      "idEvent": "scraped-815546",
       "strEvent": "Worcester Red Sox vs Columbus Clippers",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Columbus Clippers",
@@ -160,7 +160,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-10-worcester-red-sox-vs-columbus-clippers",
+      "idEvent": "scraped-815549",
       "strEvent": "Worcester Red Sox vs Columbus Clippers",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Columbus Clippers",
@@ -173,7 +173,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-11-worcester-red-sox-vs-columbus-clippers",
+      "idEvent": "scraped-815544",
       "strEvent": "Worcester Red Sox vs Columbus Clippers",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Columbus Clippers",
@@ -186,7 +186,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-12-worcester-red-sox-vs-columbus-clippers",
+      "idEvent": "scraped-815543",
       "strEvent": "Worcester Red Sox vs Columbus Clippers",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Columbus Clippers",
@@ -199,7 +199,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-14-columbus-clippers-vs-iowa-cubs",
+      "idEvent": "scraped-816819",
       "strEvent": "Columbus Clippers vs Iowa Cubs",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Iowa Cubs",
@@ -212,7 +212,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-15-columbus-clippers-vs-iowa-cubs",
+      "idEvent": "scraped-816820",
       "strEvent": "Columbus Clippers vs Iowa Cubs",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Iowa Cubs",
@@ -225,7 +225,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-16-columbus-clippers-vs-iowa-cubs",
+      "idEvent": "scraped-816816",
       "strEvent": "Columbus Clippers vs Iowa Cubs",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Iowa Cubs",
@@ -238,7 +238,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-17-columbus-clippers-vs-iowa-cubs",
+      "idEvent": "scraped-816817",
       "strEvent": "Columbus Clippers vs Iowa Cubs",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Iowa Cubs",
@@ -251,7 +251,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-18-columbus-clippers-vs-iowa-cubs",
+      "idEvent": "scraped-816815",
       "strEvent": "Columbus Clippers vs Iowa Cubs",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Iowa Cubs",
@@ -264,7 +264,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-19-columbus-clippers-vs-iowa-cubs",
+      "idEvent": "scraped-816818",
       "strEvent": "Columbus Clippers vs Iowa Cubs",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Iowa Cubs",
@@ -277,7 +277,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-21-buffalo-bisons-vs-columbus-clippers",
+      "idEvent": "scraped-816968",
       "strEvent": "Buffalo Bisons vs Columbus Clippers",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Columbus Clippers",
@@ -290,7 +290,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-22-buffalo-bisons-vs-columbus-clippers",
+      "idEvent": "scraped-816967",
       "strEvent": "Buffalo Bisons vs Columbus Clippers",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Columbus Clippers",
@@ -303,7 +303,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-23-buffalo-bisons-vs-columbus-clippers",
+      "idEvent": "scraped-816965",
       "strEvent": "Buffalo Bisons vs Columbus Clippers",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Columbus Clippers",
@@ -316,7 +316,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-24-buffalo-bisons-vs-columbus-clippers",
+      "idEvent": "scraped-816962",
       "strEvent": "Buffalo Bisons vs Columbus Clippers",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Columbus Clippers",
@@ -329,20 +329,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-buffalo-bisons-vs-columbus-clippers",
+      "idEvent": "scraped-816964",
       "strEvent": "Buffalo Bisons vs Columbus Clippers",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Columbus Clippers",
       "dateEvent": "2026-04-26",
       "strTime": "17:05:00",
-      "strTimestamp": "2026-04-26T17:05:00Z",
+      "strTimestamp": "2026-04-25T17:05:00Z",
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-buffalo-bisons-vs-columbus-clippers",
+      "idEvent": "scraped-816963",
       "strEvent": "Buffalo Bisons vs Columbus Clippers",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Columbus Clippers",
@@ -355,7 +355,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-buffalo-bisons-vs-columbus-clippers",
+      "idEvent": "scraped-816964",
       "strEvent": "Buffalo Bisons vs Columbus Clippers",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Columbus Clippers",
@@ -368,7 +368,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-28-columbus-clippers-vs-toledo-mud-hens",
+      "idEvent": "scraped-816808",
       "strEvent": "Columbus Clippers vs Toledo Mud Hens",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Toledo Mud Hens",
@@ -381,7 +381,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-29-columbus-clippers-vs-toledo-mud-hens",
+      "idEvent": "scraped-816809",
       "strEvent": "Columbus Clippers vs Toledo Mud Hens",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Toledo Mud Hens",
@@ -394,7 +394,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-30-columbus-clippers-vs-toledo-mud-hens",
+      "idEvent": "scraped-816811",
       "strEvent": "Columbus Clippers vs Toledo Mud Hens",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Toledo Mud Hens",
@@ -407,7 +407,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-01-columbus-clippers-vs-toledo-mud-hens",
+      "idEvent": "scraped-816812",
       "strEvent": "Columbus Clippers vs Toledo Mud Hens",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Toledo Mud Hens",
@@ -420,7 +420,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-02-columbus-clippers-vs-toledo-mud-hens",
+      "idEvent": "scraped-816814",
       "strEvent": "Columbus Clippers vs Toledo Mud Hens",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Toledo Mud Hens",
@@ -433,7 +433,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-03-columbus-clippers-vs-toledo-mud-hens",
+      "idEvent": "scraped-816807",
       "strEvent": "Columbus Clippers vs Toledo Mud Hens",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Toledo Mud Hens",
@@ -446,7 +446,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-05-iowa-cubs-vs-columbus-clippers",
+      "idEvent": "scraped-816508",
       "strEvent": "Iowa Cubs vs Columbus Clippers",
       "strHomeTeam": "Iowa Cubs",
       "strAwayTeam": "Columbus Clippers",
@@ -459,7 +459,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-06-iowa-cubs-vs-columbus-clippers",
+      "idEvent": "scraped-816511",
       "strEvent": "Iowa Cubs vs Columbus Clippers",
       "strHomeTeam": "Iowa Cubs",
       "strAwayTeam": "Columbus Clippers",
@@ -472,7 +472,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-07-iowa-cubs-vs-columbus-clippers",
+      "idEvent": "scraped-816510",
       "strEvent": "Iowa Cubs vs Columbus Clippers",
       "strHomeTeam": "Iowa Cubs",
       "strAwayTeam": "Columbus Clippers",
@@ -485,20 +485,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-08-iowa-cubs-vs-columbus-clippers",
+      "idEvent": "scraped-816505",
       "strEvent": "Iowa Cubs vs Columbus Clippers",
       "strHomeTeam": "Iowa Cubs",
       "strAwayTeam": "Columbus Clippers",
       "dateEvent": "2026-05-08",
       "strTime": "00:08:00",
-      "strTimestamp": "2026-05-08T00:08:00Z",
+      "strTimestamp": "2026-05-09T00:08:00Z",
       "strLeague": "International League",
       "strVenue": "Principal Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-09-iowa-cubs-vs-columbus-clippers",
+      "idEvent": "scraped-816506",
       "strEvent": "Iowa Cubs vs Columbus Clippers",
       "strHomeTeam": "Iowa Cubs",
       "strAwayTeam": "Columbus Clippers",
@@ -511,7 +511,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-10-iowa-cubs-vs-columbus-clippers",
+      "idEvent": "scraped-816509",
       "strEvent": "Iowa Cubs vs Columbus Clippers",
       "strHomeTeam": "Iowa Cubs",
       "strAwayTeam": "Columbus Clippers",
@@ -524,7 +524,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-12-st--paul-saints-vs-columbus-clippers",
+      "idEvent": "scraped-815756",
       "strEvent": "St. Paul Saints vs Columbus Clippers",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Columbus Clippers",
@@ -537,7 +537,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-13-st--paul-saints-vs-columbus-clippers",
+      "idEvent": "scraped-815759",
       "strEvent": "St. Paul Saints vs Columbus Clippers",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Columbus Clippers",
@@ -550,20 +550,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-15-st--paul-saints-vs-columbus-clippers",
+      "idEvent": "scraped-815757",
       "strEvent": "St. Paul Saints vs Columbus Clippers",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Columbus Clippers",
       "dateEvent": "2026-05-15",
       "strTime": "23:37:00",
-      "strTimestamp": "2026-05-15T23:37:00Z",
+      "strTimestamp": "2026-05-14T23:37:00Z",
       "strLeague": "International League",
       "strVenue": "CHS Field",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-15-st--paul-saints-vs-columbus-clippers",
+      "idEvent": "scraped-815760",
       "strEvent": "St. Paul Saints vs Columbus Clippers",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Columbus Clippers",
@@ -576,7 +576,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-15-st--paul-saints-vs-columbus-clippers",
+      "idEvent": "scraped-815757",
       "strEvent": "St. Paul Saints vs Columbus Clippers",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Columbus Clippers",
@@ -589,7 +589,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-16-st--paul-saints-vs-columbus-clippers",
+      "idEvent": "scraped-815755",
       "strEvent": "St. Paul Saints vs Columbus Clippers",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Columbus Clippers",
@@ -602,7 +602,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-17-st--paul-saints-vs-columbus-clippers",
+      "idEvent": "scraped-815752",
       "strEvent": "St. Paul Saints vs Columbus Clippers",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Columbus Clippers",
@@ -615,7 +615,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-19-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816810",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
@@ -628,20 +628,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-19-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816810",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
       "dateEvent": "2026-05-19",
       "strTime": "16:05:00",
-      "strTimestamp": "2026-05-19T16:05:00Z",
+      "strTimestamp": "2026-05-20T16:05:00Z",
       "strLeague": "International League",
       "strVenue": "Huntington Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-20-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816813",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
@@ -654,7 +654,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-21-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816800",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
@@ -667,20 +667,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816802",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
       "dateEvent": "2026-05-23",
       "strTime": "23:05:00",
-      "strTimestamp": "2026-05-23T23:05:00Z",
+      "strTimestamp": "2026-05-22T23:05:00Z",
       "strLeague": "International League",
       "strVenue": "Huntington Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816805",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
@@ -693,7 +693,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816802",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
@@ -706,7 +706,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-24-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816806",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
@@ -719,7 +719,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-25-toledo-mud-hens-vs-columbus-clippers",
+      "idEvent": "scraped-815605",
       "strEvent": "Toledo Mud Hens vs Columbus Clippers",
       "strHomeTeam": "Toledo Mud Hens",
       "strAwayTeam": "Columbus Clippers",
@@ -732,7 +732,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-27-toledo-mud-hens-vs-columbus-clippers",
+      "idEvent": "scraped-815596",
       "strEvent": "Toledo Mud Hens vs Columbus Clippers",
       "strHomeTeam": "Toledo Mud Hens",
       "strAwayTeam": "Columbus Clippers",
@@ -745,7 +745,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-28-toledo-mud-hens-vs-columbus-clippers",
+      "idEvent": "scraped-815599",
       "strEvent": "Toledo Mud Hens vs Columbus Clippers",
       "strHomeTeam": "Toledo Mud Hens",
       "strAwayTeam": "Columbus Clippers",
@@ -758,7 +758,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-29-toledo-mud-hens-vs-columbus-clippers",
+      "idEvent": "scraped-815600",
       "strEvent": "Toledo Mud Hens vs Columbus Clippers",
       "strHomeTeam": "Toledo Mud Hens",
       "strAwayTeam": "Columbus Clippers",
@@ -771,7 +771,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-30-toledo-mud-hens-vs-columbus-clippers",
+      "idEvent": "scraped-815597",
       "strEvent": "Toledo Mud Hens vs Columbus Clippers",
       "strHomeTeam": "Toledo Mud Hens",
       "strAwayTeam": "Columbus Clippers",
@@ -784,7 +784,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-31-toledo-mud-hens-vs-columbus-clippers",
+      "idEvent": "scraped-815595",
       "strEvent": "Toledo Mud Hens vs Columbus Clippers",
       "strHomeTeam": "Toledo Mud Hens",
       "strAwayTeam": "Columbus Clippers",
@@ -797,7 +797,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-02-columbus-clippers-vs-omaha-storm-chasers",
+      "idEvent": "scraped-816803",
       "strEvent": "Columbus Clippers vs Omaha Storm Chasers",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Omaha Storm Chasers",
@@ -810,7 +810,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-03-columbus-clippers-vs-omaha-storm-chasers",
+      "idEvent": "scraped-816799",
       "strEvent": "Columbus Clippers vs Omaha Storm Chasers",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Omaha Storm Chasers",
@@ -823,7 +823,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-04-columbus-clippers-vs-omaha-storm-chasers",
+      "idEvent": "scraped-816804",
       "strEvent": "Columbus Clippers vs Omaha Storm Chasers",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Omaha Storm Chasers",
@@ -836,7 +836,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-05-columbus-clippers-vs-omaha-storm-chasers",
+      "idEvent": "scraped-816801",
       "strEvent": "Columbus Clippers vs Omaha Storm Chasers",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Omaha Storm Chasers",
@@ -849,7 +849,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-06-columbus-clippers-vs-omaha-storm-chasers",
+      "idEvent": "scraped-816793",
       "strEvent": "Columbus Clippers vs Omaha Storm Chasers",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Omaha Storm Chasers",
@@ -862,7 +862,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-07-columbus-clippers-vs-omaha-storm-chasers",
+      "idEvent": "scraped-816794",
       "strEvent": "Columbus Clippers vs Omaha Storm Chasers",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Omaha Storm Chasers",
@@ -875,7 +875,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-09-indianapolis-indians-vs-columbus-clippers",
+      "idEvent": "scraped-816574",
       "strEvent": "Indianapolis Indians vs Columbus Clippers",
       "strHomeTeam": "Indianapolis Indians",
       "strAwayTeam": "Columbus Clippers",
@@ -888,7 +888,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-10-indianapolis-indians-vs-columbus-clippers",
+      "idEvent": "scraped-816575",
       "strEvent": "Indianapolis Indians vs Columbus Clippers",
       "strHomeTeam": "Indianapolis Indians",
       "strAwayTeam": "Columbus Clippers",
@@ -901,7 +901,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-11-indianapolis-indians-vs-columbus-clippers",
+      "idEvent": "scraped-816568",
       "strEvent": "Indianapolis Indians vs Columbus Clippers",
       "strHomeTeam": "Indianapolis Indians",
       "strAwayTeam": "Columbus Clippers",
@@ -914,7 +914,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-12-indianapolis-indians-vs-columbus-clippers",
+      "idEvent": "scraped-816573",
       "strEvent": "Indianapolis Indians vs Columbus Clippers",
       "strHomeTeam": "Indianapolis Indians",
       "strAwayTeam": "Columbus Clippers",
@@ -927,7 +927,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-13-indianapolis-indians-vs-columbus-clippers",
+      "idEvent": "scraped-816571",
       "strEvent": "Indianapolis Indians vs Columbus Clippers",
       "strHomeTeam": "Indianapolis Indians",
       "strAwayTeam": "Columbus Clippers",
@@ -940,7 +940,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-14-indianapolis-indians-vs-columbus-clippers",
+      "idEvent": "scraped-816576",
       "strEvent": "Indianapolis Indians vs Columbus Clippers",
       "strHomeTeam": "Indianapolis Indians",
       "strAwayTeam": "Columbus Clippers",
@@ -953,7 +953,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-16-columbus-clippers-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-816798",
       "strEvent": "Columbus Clippers vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -966,20 +966,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-19-columbus-clippers-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-816791",
       "strEvent": "Columbus Clippers vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
       "dateEvent": "2026-06-19",
       "strTime": "23:05:00",
-      "strTimestamp": "2026-06-19T23:05:00Z",
+      "strTimestamp": "2026-06-17T23:05:00Z",
       "strLeague": "International League",
       "strVenue": "Huntington Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-18-columbus-clippers-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-816792",
       "strEvent": "Columbus Clippers vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -992,7 +992,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-19-columbus-clippers-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-816795",
       "strEvent": "Columbus Clippers vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -1005,7 +1005,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-19-columbus-clippers-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-816791",
       "strEvent": "Columbus Clippers vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -1018,7 +1018,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-20-columbus-clippers-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-816796",
       "strEvent": "Columbus Clippers vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -1031,7 +1031,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-21-columbus-clippers-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-816797",
       "strEvent": "Columbus Clippers vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -1044,24 +1044,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-23-omaha-storm-chasers-vs-columbus-clippers",
+      "idEvent": "scraped-815968",
       "strEvent": "Omaha Storm Chasers vs Columbus Clippers",
       "strHomeTeam": "Omaha Storm Chasers",
       "strAwayTeam": "Columbus Clippers",
       "dateEvent": "2026-06-23",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-06-23T00:05:00Z",
-      "strLeague": "International League",
-      "strVenue": "Werner Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-24-omaha-storm-chasers-vs-columbus-clippers",
-      "strEvent": "Omaha Storm Chasers vs Columbus Clippers",
-      "strHomeTeam": "Omaha Storm Chasers",
-      "strAwayTeam": "Columbus Clippers",
-      "dateEvent": "2026-06-24",
       "strTime": "00:05:00",
       "strTimestamp": "2026-06-24T00:05:00Z",
       "strLeague": "International League",
@@ -1070,11 +1057,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25-omaha-storm-chasers-vs-columbus-clippers",
+      "idEvent": "scraped-815970",
       "strEvent": "Omaha Storm Chasers vs Columbus Clippers",
       "strHomeTeam": "Omaha Storm Chasers",
       "strAwayTeam": "Columbus Clippers",
-      "dateEvent": "2026-06-25",
+      "dateEvent": "2026-06-24",
       "strTime": "00:05:00",
       "strTimestamp": "2026-06-25T00:05:00Z",
       "strLeague": "International League",
@@ -1083,11 +1070,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-26-omaha-storm-chasers-vs-columbus-clippers",
+      "idEvent": "scraped-815957",
       "strEvent": "Omaha Storm Chasers vs Columbus Clippers",
       "strHomeTeam": "Omaha Storm Chasers",
       "strAwayTeam": "Columbus Clippers",
-      "dateEvent": "2026-06-26",
+      "dateEvent": "2026-06-25",
       "strTime": "00:05:00",
       "strTimestamp": "2026-06-26T00:05:00Z",
       "strLeague": "International League",
@@ -1096,7 +1083,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-27-omaha-storm-chasers-vs-columbus-clippers",
+      "idEvent": "scraped-815959",
+      "strEvent": "Omaha Storm Chasers vs Columbus Clippers",
+      "strHomeTeam": "Omaha Storm Chasers",
+      "strAwayTeam": "Columbus Clippers",
+      "dateEvent": "2026-06-26",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-06-27T00:05:00Z",
+      "strLeague": "International League",
+      "strVenue": "Werner Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-815958",
       "strEvent": "Omaha Storm Chasers vs Columbus Clippers",
       "strHomeTeam": "Omaha Storm Chasers",
       "strAwayTeam": "Columbus Clippers",
@@ -1109,7 +1109,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-28-omaha-storm-chasers-vs-columbus-clippers",
+      "idEvent": "scraped-815963",
       "strEvent": "Omaha Storm Chasers vs Columbus Clippers",
       "strHomeTeam": "Omaha Storm Chasers",
       "strAwayTeam": "Columbus Clippers",
@@ -1122,7 +1122,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-30-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816790",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
@@ -1135,7 +1135,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-01-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816785",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
@@ -1148,7 +1148,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-02-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816786",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
@@ -1161,7 +1161,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-03-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816788",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
@@ -1174,7 +1174,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-04-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816789",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
@@ -1187,7 +1187,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-05-columbus-clippers-vs-louisville-bats",
+      "idEvent": "scraped-816787",
       "strEvent": "Columbus Clippers vs Louisville Bats",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Louisville Bats",
@@ -1200,7 +1200,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-07-lehigh-valley-ironpigs-vs-columbus-clippers",
+      "idEvent": "scraped-816331",
       "strEvent": "Lehigh Valley IronPigs vs Columbus Clippers",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Columbus Clippers",
@@ -1213,7 +1213,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-08-lehigh-valley-ironpigs-vs-columbus-clippers",
+      "idEvent": "scraped-816330",
       "strEvent": "Lehigh Valley IronPigs vs Columbus Clippers",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Columbus Clippers",
@@ -1226,7 +1226,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-09-lehigh-valley-ironpigs-vs-columbus-clippers",
+      "idEvent": "scraped-816325",
       "strEvent": "Lehigh Valley IronPigs vs Columbus Clippers",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Columbus Clippers",
@@ -1239,7 +1239,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-10-lehigh-valley-ironpigs-vs-columbus-clippers",
+      "idEvent": "scraped-816327",
       "strEvent": "Lehigh Valley IronPigs vs Columbus Clippers",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Columbus Clippers",
@@ -1252,7 +1252,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-11-lehigh-valley-ironpigs-vs-columbus-clippers",
+      "idEvent": "scraped-816326",
       "strEvent": "Lehigh Valley IronPigs vs Columbus Clippers",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Columbus Clippers",
@@ -1265,7 +1265,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-12-lehigh-valley-ironpigs-vs-columbus-clippers",
+      "idEvent": "scraped-816329",
       "strEvent": "Lehigh Valley IronPigs vs Columbus Clippers",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Columbus Clippers",
@@ -1278,7 +1278,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-17-columbus-clippers-vs-indianapolis-indians",
+      "idEvent": "scraped-816784",
       "strEvent": "Columbus Clippers vs Indianapolis Indians",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Indianapolis Indians",
@@ -1291,7 +1291,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-18-columbus-clippers-vs-indianapolis-indians",
+      "idEvent": "scraped-816782",
       "strEvent": "Columbus Clippers vs Indianapolis Indians",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Indianapolis Indians",
@@ -1304,7 +1304,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-19-columbus-clippers-vs-indianapolis-indians",
+      "idEvent": "scraped-816783",
       "strEvent": "Columbus Clippers vs Indianapolis Indians",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Indianapolis Indians",
@@ -1317,20 +1317,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-21-st--paul-saints-vs-columbus-clippers",
+      "idEvent": "scraped-815724",
       "strEvent": "St. Paul Saints vs Columbus Clippers",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Columbus Clippers",
       "dateEvent": "2026-07-21",
       "strTime": "00:07:00",
-      "strTimestamp": "2026-07-21T00:07:00Z",
+      "strTimestamp": "2026-07-22T00:07:00Z",
       "strLeague": "International League",
       "strVenue": "CHS Field",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-22-st--paul-saints-vs-columbus-clippers",
+      "idEvent": "scraped-815729",
       "strEvent": "St. Paul Saints vs Columbus Clippers",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Columbus Clippers",
@@ -1343,24 +1343,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-23-st--paul-saints-vs-columbus-clippers",
+      "idEvent": "scraped-815721",
       "strEvent": "St. Paul Saints vs Columbus Clippers",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Columbus Clippers",
       "dateEvent": "2026-07-23",
-      "strTime": "00:07:00",
-      "strTimestamp": "2026-07-23T00:07:00Z",
-      "strLeague": "International League",
-      "strVenue": "CHS Field",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-24-st--paul-saints-vs-columbus-clippers",
-      "strEvent": "St. Paul Saints vs Columbus Clippers",
-      "strHomeTeam": "St. Paul Saints",
-      "strAwayTeam": "Columbus Clippers",
-      "dateEvent": "2026-07-24",
       "strTime": "00:07:00",
       "strTimestamp": "2026-07-24T00:07:00Z",
       "strLeague": "International League",
@@ -1369,7 +1356,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-25-st--paul-saints-vs-columbus-clippers",
+      "idEvent": "scraped-815723",
+      "strEvent": "St. Paul Saints vs Columbus Clippers",
+      "strHomeTeam": "St. Paul Saints",
+      "strAwayTeam": "Columbus Clippers",
+      "dateEvent": "2026-07-24",
+      "strTime": "00:07:00",
+      "strTimestamp": "2026-07-25T00:07:00Z",
+      "strLeague": "International League",
+      "strVenue": "CHS Field",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-815722",
       "strEvent": "St. Paul Saints vs Columbus Clippers",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Columbus Clippers",
@@ -1382,7 +1382,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-26-st--paul-saints-vs-columbus-clippers",
+      "idEvent": "scraped-815720",
       "strEvent": "St. Paul Saints vs Columbus Clippers",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Columbus Clippers",
@@ -1395,7 +1395,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-28-columbus-clippers-vs-toledo-mud-hens",
+      "idEvent": "scraped-816778",
       "strEvent": "Columbus Clippers vs Toledo Mud Hens",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Toledo Mud Hens",
@@ -1408,7 +1408,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-29-columbus-clippers-vs-toledo-mud-hens",
+      "idEvent": "scraped-816779",
       "strEvent": "Columbus Clippers vs Toledo Mud Hens",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Toledo Mud Hens",
@@ -1421,7 +1421,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-30-columbus-clippers-vs-toledo-mud-hens",
+      "idEvent": "scraped-816777",
       "strEvent": "Columbus Clippers vs Toledo Mud Hens",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Toledo Mud Hens",
@@ -1434,7 +1434,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-31-columbus-clippers-vs-toledo-mud-hens",
+      "idEvent": "scraped-816781",
       "strEvent": "Columbus Clippers vs Toledo Mud Hens",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Toledo Mud Hens",
@@ -1447,7 +1447,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-01-columbus-clippers-vs-toledo-mud-hens",
+      "idEvent": "scraped-816780",
       "strEvent": "Columbus Clippers vs Toledo Mud Hens",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Toledo Mud Hens",
@@ -1460,7 +1460,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-02-columbus-clippers-vs-toledo-mud-hens",
+      "idEvent": "scraped-816774",
       "strEvent": "Columbus Clippers vs Toledo Mud Hens",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Toledo Mud Hens",
@@ -1473,7 +1473,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-04-syracuse-mets-vs-columbus-clippers",
+      "idEvent": "scraped-815647",
       "strEvent": "Syracuse Mets vs Columbus Clippers",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Columbus Clippers",
@@ -1486,7 +1486,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-05-syracuse-mets-vs-columbus-clippers",
+      "idEvent": "scraped-815649",
       "strEvent": "Syracuse Mets vs Columbus Clippers",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Columbus Clippers",
@@ -1499,7 +1499,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-06-syracuse-mets-vs-columbus-clippers",
+      "idEvent": "scraped-815646",
       "strEvent": "Syracuse Mets vs Columbus Clippers",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Columbus Clippers",
@@ -1512,7 +1512,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-07-syracuse-mets-vs-columbus-clippers",
+      "idEvent": "scraped-815648",
       "strEvent": "Syracuse Mets vs Columbus Clippers",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Columbus Clippers",
@@ -1525,7 +1525,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-08-syracuse-mets-vs-columbus-clippers",
+      "idEvent": "scraped-815645",
       "strEvent": "Syracuse Mets vs Columbus Clippers",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Columbus Clippers",
@@ -1538,7 +1538,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-09-syracuse-mets-vs-columbus-clippers",
+      "idEvent": "scraped-815651",
       "strEvent": "Syracuse Mets vs Columbus Clippers",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Columbus Clippers",
@@ -1551,7 +1551,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-11-columbus-clippers-vs-omaha-storm-chasers",
+      "idEvent": "scraped-816776",
       "strEvent": "Columbus Clippers vs Omaha Storm Chasers",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Omaha Storm Chasers",
@@ -1564,7 +1564,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-12-columbus-clippers-vs-omaha-storm-chasers",
+      "idEvent": "scraped-816775",
       "strEvent": "Columbus Clippers vs Omaha Storm Chasers",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Omaha Storm Chasers",
@@ -1577,7 +1577,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-13-columbus-clippers-vs-omaha-storm-chasers",
+      "idEvent": "scraped-816772",
       "strEvent": "Columbus Clippers vs Omaha Storm Chasers",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Omaha Storm Chasers",
@@ -1590,7 +1590,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-14-columbus-clippers-vs-omaha-storm-chasers",
+      "idEvent": "scraped-816771",
       "strEvent": "Columbus Clippers vs Omaha Storm Chasers",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Omaha Storm Chasers",
@@ -1603,7 +1603,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-15-columbus-clippers-vs-omaha-storm-chasers",
+      "idEvent": "scraped-816769",
       "strEvent": "Columbus Clippers vs Omaha Storm Chasers",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Omaha Storm Chasers",
@@ -1616,7 +1616,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-16-columbus-clippers-vs-omaha-storm-chasers",
+      "idEvent": "scraped-816770",
       "strEvent": "Columbus Clippers vs Omaha Storm Chasers",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Omaha Storm Chasers",
@@ -1629,7 +1629,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-18-columbus-clippers-vs-st--paul-saints",
+      "idEvent": "scraped-816773",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "St. Paul Saints",
@@ -1642,7 +1642,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-19-columbus-clippers-vs-st--paul-saints",
+      "idEvent": "scraped-816768",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "St. Paul Saints",
@@ -1655,7 +1655,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-20-columbus-clippers-vs-st--paul-saints",
+      "idEvent": "scraped-816767",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "St. Paul Saints",
@@ -1668,7 +1668,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-21-columbus-clippers-vs-st--paul-saints",
+      "idEvent": "scraped-816766",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "St. Paul Saints",
@@ -1681,7 +1681,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-22-columbus-clippers-vs-st--paul-saints",
+      "idEvent": "scraped-816765",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "St. Paul Saints",
@@ -1694,7 +1694,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-23-columbus-clippers-vs-st--paul-saints",
+      "idEvent": "scraped-816764",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "St. Paul Saints",
@@ -1707,7 +1707,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-25-indianapolis-indians-vs-columbus-clippers",
+      "idEvent": "scraped-816542",
       "strEvent": "Indianapolis Indians vs Columbus Clippers",
       "strHomeTeam": "Indianapolis Indians",
       "strAwayTeam": "Columbus Clippers",
@@ -1720,7 +1720,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-26-indianapolis-indians-vs-columbus-clippers",
+      "idEvent": "scraped-816544",
       "strEvent": "Indianapolis Indians vs Columbus Clippers",
       "strHomeTeam": "Indianapolis Indians",
       "strAwayTeam": "Columbus Clippers",
@@ -1733,7 +1733,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-27-indianapolis-indians-vs-columbus-clippers",
+      "idEvent": "scraped-816529",
       "strEvent": "Indianapolis Indians vs Columbus Clippers",
       "strHomeTeam": "Indianapolis Indians",
       "strAwayTeam": "Columbus Clippers",
@@ -1746,7 +1746,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-28-indianapolis-indians-vs-columbus-clippers",
+      "idEvent": "scraped-816532",
       "strEvent": "Indianapolis Indians vs Columbus Clippers",
       "strHomeTeam": "Indianapolis Indians",
       "strAwayTeam": "Columbus Clippers",
@@ -1759,7 +1759,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-29-indianapolis-indians-vs-columbus-clippers",
+      "idEvent": "scraped-816533",
       "strEvent": "Indianapolis Indians vs Columbus Clippers",
       "strHomeTeam": "Indianapolis Indians",
       "strAwayTeam": "Columbus Clippers",
@@ -1772,7 +1772,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-30-indianapolis-indians-vs-columbus-clippers",
+      "idEvent": "scraped-816536",
       "strEvent": "Indianapolis Indians vs Columbus Clippers",
       "strHomeTeam": "Indianapolis Indians",
       "strAwayTeam": "Columbus Clippers",
@@ -1785,7 +1785,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-01-columbus-clippers-vs-iowa-cubs",
+      "idEvent": "scraped-816763",
       "strEvent": "Columbus Clippers vs Iowa Cubs",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Iowa Cubs",
@@ -1798,7 +1798,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-02-columbus-clippers-vs-iowa-cubs",
+      "idEvent": "scraped-816760",
       "strEvent": "Columbus Clippers vs Iowa Cubs",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Iowa Cubs",
@@ -1811,7 +1811,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-03-columbus-clippers-vs-iowa-cubs",
+      "idEvent": "scraped-816759",
       "strEvent": "Columbus Clippers vs Iowa Cubs",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Iowa Cubs",
@@ -1824,7 +1824,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-04-columbus-clippers-vs-iowa-cubs",
+      "idEvent": "scraped-816757",
       "strEvent": "Columbus Clippers vs Iowa Cubs",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Iowa Cubs",
@@ -1837,7 +1837,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-05-columbus-clippers-vs-iowa-cubs",
+      "idEvent": "scraped-816758",
       "strEvent": "Columbus Clippers vs Iowa Cubs",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Iowa Cubs",
@@ -1850,7 +1850,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-06-columbus-clippers-vs-iowa-cubs",
+      "idEvent": "scraped-816762",
       "strEvent": "Columbus Clippers vs Iowa Cubs",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "Iowa Cubs",
@@ -1863,7 +1863,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-08-louisville-bats-vs-columbus-clippers",
+      "idEvent": "scraped-816238",
       "strEvent": "Louisville Bats vs Columbus Clippers",
       "strHomeTeam": "Louisville Bats",
       "strAwayTeam": "Columbus Clippers",
@@ -1876,7 +1876,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-09-louisville-bats-vs-columbus-clippers",
+      "idEvent": "scraped-816235",
       "strEvent": "Louisville Bats vs Columbus Clippers",
       "strHomeTeam": "Louisville Bats",
       "strAwayTeam": "Columbus Clippers",
@@ -1889,7 +1889,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-10-louisville-bats-vs-columbus-clippers",
+      "idEvent": "scraped-816230",
       "strEvent": "Louisville Bats vs Columbus Clippers",
       "strHomeTeam": "Louisville Bats",
       "strAwayTeam": "Columbus Clippers",
@@ -1902,7 +1902,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-11-louisville-bats-vs-columbus-clippers",
+      "idEvent": "scraped-816229",
       "strEvent": "Louisville Bats vs Columbus Clippers",
       "strHomeTeam": "Louisville Bats",
       "strAwayTeam": "Columbus Clippers",
@@ -1915,7 +1915,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-12-louisville-bats-vs-columbus-clippers",
+      "idEvent": "scraped-816224",
       "strEvent": "Louisville Bats vs Columbus Clippers",
       "strHomeTeam": "Louisville Bats",
       "strAwayTeam": "Columbus Clippers",
@@ -1928,7 +1928,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-13-louisville-bats-vs-columbus-clippers",
+      "idEvent": "scraped-816223",
       "strEvent": "Louisville Bats vs Columbus Clippers",
       "strHomeTeam": "Louisville Bats",
       "strAwayTeam": "Columbus Clippers",
@@ -1941,7 +1941,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-15-columbus-clippers-vs-st--paul-saints",
+      "idEvent": "scraped-816755",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "St. Paul Saints",
@@ -1954,7 +1954,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-16-columbus-clippers-vs-st--paul-saints",
+      "idEvent": "scraped-816756",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "St. Paul Saints",
@@ -1967,7 +1967,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-17-columbus-clippers-vs-st--paul-saints",
+      "idEvent": "scraped-816761",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "St. Paul Saints",
@@ -1980,7 +1980,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-18-columbus-clippers-vs-st--paul-saints",
+      "idEvent": "scraped-816753",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "St. Paul Saints",
@@ -1993,7 +1993,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-19-columbus-clippers-vs-st--paul-saints",
+      "idEvent": "scraped-816748",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "St. Paul Saints",
@@ -2006,7 +2006,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-20-columbus-clippers-vs-st--paul-saints",
+      "idEvent": "scraped-816749",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
       "strAwayTeam": "St. Paul Saints",

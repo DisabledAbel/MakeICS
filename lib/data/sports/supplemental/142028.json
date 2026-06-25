@@ -1,10 +1,10 @@
 {
   "teamId": "142028",
   "teamName": "Worcester Red Sox",
-  "updatedAt": "2026-06-24T15:23:51.077Z",
+  "updatedAt": "2026-06-25T01:19:11.434Z",
   "events": [
     {
-      "idEvent": "scraped-2026-03-27-worcester-red-sox-vs-syracuse-mets",
+      "idEvent": "scraped-815556",
       "strEvent": "Worcester Red Sox vs Syracuse Mets",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Syracuse Mets",
@@ -17,7 +17,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-28-worcester-red-sox-vs-syracuse-mets",
+      "idEvent": "scraped-815555",
       "strEvent": "Worcester Red Sox vs Syracuse Mets",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Syracuse Mets",
@@ -30,7 +30,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-29-worcester-red-sox-vs-syracuse-mets",
+      "idEvent": "scraped-815545",
       "strEvent": "Worcester Red Sox vs Syracuse Mets",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Syracuse Mets",
@@ -43,7 +43,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-31-st--paul-saints-vs-worcester-red-sox",
+      "idEvent": "scraped-815775",
       "strEvent": "St. Paul Saints vs Worcester Red Sox",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Worcester Red Sox",
@@ -56,7 +56,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-01-st--paul-saints-vs-worcester-red-sox",
+      "idEvent": "scraped-815774",
       "strEvent": "St. Paul Saints vs Worcester Red Sox",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Worcester Red Sox",
@@ -69,20 +69,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-05-st--paul-saints-vs-worcester-red-sox",
+      "idEvent": "scraped-815776",
       "strEvent": "St. Paul Saints vs Worcester Red Sox",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Worcester Red Sox",
       "dateEvent": "2026-04-05",
       "strTime": "23:37:00",
-      "strTimestamp": "2026-04-05T23:37:00Z",
+      "strTimestamp": "2026-04-02T23:37:00Z",
       "strLeague": "International League",
       "strVenue": "CHS Field",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-03-st--paul-saints-vs-worcester-red-sox",
+      "idEvent": "scraped-815769",
       "strEvent": "St. Paul Saints vs Worcester Red Sox",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Worcester Red Sox",
@@ -95,7 +95,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-04-st--paul-saints-vs-worcester-red-sox",
+      "idEvent": "scraped-815771",
       "strEvent": "St. Paul Saints vs Worcester Red Sox",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Worcester Red Sox",
@@ -108,7 +108,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-05-st--paul-saints-vs-worcester-red-sox",
+      "idEvent": "scraped-815772",
       "strEvent": "St. Paul Saints vs Worcester Red Sox",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Worcester Red Sox",
@@ -121,7 +121,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-05-st--paul-saints-vs-worcester-red-sox",
+      "idEvent": "scraped-815776",
       "strEvent": "St. Paul Saints vs Worcester Red Sox",
       "strHomeTeam": "St. Paul Saints",
       "strAwayTeam": "Worcester Red Sox",
@@ -134,7 +134,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-07-worcester-red-sox-vs-columbus-clippers",
+      "idEvent": "scraped-815547",
       "strEvent": "Worcester Red Sox vs Columbus Clippers",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Columbus Clippers",
@@ -147,7 +147,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-08-worcester-red-sox-vs-columbus-clippers",
+      "idEvent": "scraped-815548",
       "strEvent": "Worcester Red Sox vs Columbus Clippers",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Columbus Clippers",
@@ -160,7 +160,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-09-worcester-red-sox-vs-columbus-clippers",
+      "idEvent": "scraped-815546",
       "strEvent": "Worcester Red Sox vs Columbus Clippers",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Columbus Clippers",
@@ -173,7 +173,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-10-worcester-red-sox-vs-columbus-clippers",
+      "idEvent": "scraped-815549",
       "strEvent": "Worcester Red Sox vs Columbus Clippers",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Columbus Clippers",
@@ -186,7 +186,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-11-worcester-red-sox-vs-columbus-clippers",
+      "idEvent": "scraped-815544",
       "strEvent": "Worcester Red Sox vs Columbus Clippers",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Columbus Clippers",
@@ -199,7 +199,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-12-worcester-red-sox-vs-columbus-clippers",
+      "idEvent": "scraped-815543",
       "strEvent": "Worcester Red Sox vs Columbus Clippers",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Columbus Clippers",
@@ -212,7 +212,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-14-nashville-sounds-vs-worcester-red-sox",
+      "idEvent": "scraped-816142",
       "strEvent": "Nashville Sounds vs Worcester Red Sox",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Worcester Red Sox",
@@ -225,7 +225,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-15-nashville-sounds-vs-worcester-red-sox",
+      "idEvent": "scraped-816143",
       "strEvent": "Nashville Sounds vs Worcester Red Sox",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Worcester Red Sox",
@@ -238,7 +238,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-16-nashville-sounds-vs-worcester-red-sox",
+      "idEvent": "scraped-816146",
       "strEvent": "Nashville Sounds vs Worcester Red Sox",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Worcester Red Sox",
@@ -251,33 +251,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-16-nashville-sounds-vs-worcester-red-sox",
+      "idEvent": "scraped-816146",
       "strEvent": "Nashville Sounds vs Worcester Red Sox",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Worcester Red Sox",
       "dateEvent": "2026-04-16",
       "strTime": "23:05:00",
-      "strTimestamp": "2026-04-16T23:05:00Z",
+      "strTimestamp": "2026-04-17T23:05:00Z",
       "strLeague": "International League",
       "strVenue": "First Horizon Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-17-nashville-sounds-vs-worcester-red-sox",
+      "idEvent": "scraped-816147",
       "strEvent": "Nashville Sounds vs Worcester Red Sox",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Worcester Red Sox",
       "dateEvent": "2026-04-17",
       "strTime": "00:16:00",
-      "strTimestamp": "2026-04-17T00:16:00Z",
+      "strTimestamp": "2026-04-18T00:16:00Z",
       "strLeague": "International League",
       "strVenue": "First Horizon Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-18-nashville-sounds-vs-worcester-red-sox",
+      "idEvent": "scraped-816137",
       "strEvent": "Nashville Sounds vs Worcester Red Sox",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Worcester Red Sox",
@@ -290,7 +290,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-19-nashville-sounds-vs-worcester-red-sox",
+      "idEvent": "scraped-816139",
       "strEvent": "Nashville Sounds vs Worcester Red Sox",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Worcester Red Sox",
@@ -303,7 +303,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-21-worcester-red-sox-vs-syracuse-mets",
+      "idEvent": "scraped-815538",
       "strEvent": "Worcester Red Sox vs Syracuse Mets",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Syracuse Mets",
@@ -316,7 +316,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-22-worcester-red-sox-vs-syracuse-mets",
+      "idEvent": "scraped-815540",
       "strEvent": "Worcester Red Sox vs Syracuse Mets",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Syracuse Mets",
@@ -329,7 +329,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-23-worcester-red-sox-vs-syracuse-mets",
+      "idEvent": "scraped-815535",
       "strEvent": "Worcester Red Sox vs Syracuse Mets",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Syracuse Mets",
@@ -342,7 +342,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-24-worcester-red-sox-vs-syracuse-mets",
+      "idEvent": "scraped-815537",
       "strEvent": "Worcester Red Sox vs Syracuse Mets",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Syracuse Mets",
@@ -355,7 +355,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-25-worcester-red-sox-vs-syracuse-mets",
+      "idEvent": "scraped-815541",
       "strEvent": "Worcester Red Sox vs Syracuse Mets",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Syracuse Mets",
@@ -368,7 +368,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-worcester-red-sox-vs-syracuse-mets",
+      "idEvent": "scraped-815536",
       "strEvent": "Worcester Red Sox vs Syracuse Mets",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Syracuse Mets",
@@ -381,7 +381,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-28-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815918",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
@@ -394,20 +394,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-30-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815911",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
       "dateEvent": "2026-04-30",
       "strTime": "22:05:00",
-      "strTimestamp": "2026-04-30T22:05:00Z",
+      "strTimestamp": "2026-04-29T22:05:00Z",
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-30-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815913",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
@@ -420,7 +420,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-30-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815911",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
@@ -433,7 +433,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-01-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815916",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
@@ -446,7 +446,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-02-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815909",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
@@ -459,7 +459,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-03-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815910",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
@@ -472,7 +472,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-05-worcester-red-sox-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-815539",
       "strEvent": "Worcester Red Sox vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -485,7 +485,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-06-worcester-red-sox-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-815542",
       "strEvent": "Worcester Red Sox vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -498,7 +498,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-07-worcester-red-sox-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-815528",
       "strEvent": "Worcester Red Sox vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -511,7 +511,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-08-worcester-red-sox-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-815530",
       "strEvent": "Worcester Red Sox vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -524,7 +524,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-09-worcester-red-sox-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-815531",
       "strEvent": "Worcester Red Sox vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -537,7 +537,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-10-worcester-red-sox-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-815534",
       "strEvent": "Worcester Red Sox vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -550,7 +550,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-12-buffalo-bisons-vs-worcester-red-sox",
+      "idEvent": "scraped-816958",
       "strEvent": "Buffalo Bisons vs Worcester Red Sox",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Worcester Red Sox",
@@ -563,7 +563,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-13-buffalo-bisons-vs-worcester-red-sox",
+      "idEvent": "scraped-816961",
       "strEvent": "Buffalo Bisons vs Worcester Red Sox",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Worcester Red Sox",
@@ -576,7 +576,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-14-buffalo-bisons-vs-worcester-red-sox",
+      "idEvent": "scraped-816960",
       "strEvent": "Buffalo Bisons vs Worcester Red Sox",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Worcester Red Sox",
@@ -589,7 +589,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-15-buffalo-bisons-vs-worcester-red-sox",
+      "idEvent": "scraped-816959",
       "strEvent": "Buffalo Bisons vs Worcester Red Sox",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Worcester Red Sox",
@@ -602,7 +602,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-16-buffalo-bisons-vs-worcester-red-sox",
+      "idEvent": "scraped-816955",
       "strEvent": "Buffalo Bisons vs Worcester Red Sox",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Worcester Red Sox",
@@ -615,7 +615,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-17-buffalo-bisons-vs-worcester-red-sox",
+      "idEvent": "scraped-816957",
       "strEvent": "Buffalo Bisons vs Worcester Red Sox",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Worcester Red Sox",
@@ -628,7 +628,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-19-worcester-red-sox-vs-rochester-red-wings",
+      "idEvent": "scraped-815532",
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
@@ -641,7 +641,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-20-worcester-red-sox-vs-rochester-red-wings",
+      "idEvent": "scraped-815533",
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
@@ -654,7 +654,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-21-worcester-red-sox-vs-rochester-red-wings",
+      "idEvent": "scraped-815529",
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
@@ -667,7 +667,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-22-worcester-red-sox-vs-rochester-red-wings",
+      "idEvent": "scraped-815524",
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
@@ -680,7 +680,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23-worcester-red-sox-vs-rochester-red-wings",
+      "idEvent": "scraped-815520",
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
@@ -693,7 +693,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-26-scranton-wilkes-barre-railriders-vs-worcester-red-sox",
+      "idEvent": "scraped-815827",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Worcester Red Sox",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Worcester Red Sox",
@@ -706,7 +706,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-27-scranton-wilkes-barre-railriders-vs-worcester-red-sox",
+      "idEvent": "scraped-815819",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Worcester Red Sox",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Worcester Red Sox",
@@ -719,7 +719,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-28-scranton-wilkes-barre-railriders-vs-worcester-red-sox",
+      "idEvent": "scraped-815823",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Worcester Red Sox",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Worcester Red Sox",
@@ -732,7 +732,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-29-scranton-wilkes-barre-railriders-vs-worcester-red-sox",
+      "idEvent": "scraped-815821",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Worcester Red Sox",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Worcester Red Sox",
@@ -745,7 +745,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-30-scranton-wilkes-barre-railriders-vs-worcester-red-sox",
+      "idEvent": "scraped-815824",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Worcester Red Sox",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Worcester Red Sox",
@@ -758,7 +758,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-31-scranton-wilkes-barre-railriders-vs-worcester-red-sox",
+      "idEvent": "scraped-815826",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Worcester Red Sox",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Worcester Red Sox",
@@ -771,7 +771,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-02-worcester-red-sox-vs-buffalo-bisons",
+      "idEvent": "scraped-815523",
       "strEvent": "Worcester Red Sox vs Buffalo Bisons",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Buffalo Bisons",
@@ -784,7 +784,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-03-worcester-red-sox-vs-buffalo-bisons",
+      "idEvent": "scraped-815525",
       "strEvent": "Worcester Red Sox vs Buffalo Bisons",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Buffalo Bisons",
@@ -797,7 +797,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-04-worcester-red-sox-vs-buffalo-bisons",
+      "idEvent": "scraped-815527",
       "strEvent": "Worcester Red Sox vs Buffalo Bisons",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Buffalo Bisons",
@@ -810,7 +810,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-05-worcester-red-sox-vs-buffalo-bisons",
+      "idEvent": "scraped-815526",
       "strEvent": "Worcester Red Sox vs Buffalo Bisons",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Buffalo Bisons",
@@ -823,7 +823,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-06-worcester-red-sox-vs-buffalo-bisons",
+      "idEvent": "scraped-815522",
       "strEvent": "Worcester Red Sox vs Buffalo Bisons",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Buffalo Bisons",
@@ -836,7 +836,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-07-worcester-red-sox-vs-buffalo-bisons",
+      "idEvent": "scraped-815514",
       "strEvent": "Worcester Red Sox vs Buffalo Bisons",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Buffalo Bisons",
@@ -849,7 +849,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-09-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815896",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
@@ -862,7 +862,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-10-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815892",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
@@ -875,7 +875,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-11-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815893",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
@@ -888,7 +888,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-11-worcester-red-sox-vs-rochester-red-wings",
+      "idEvent": "scraped-815521",
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
@@ -901,7 +901,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-12-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815894",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
@@ -914,7 +914,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-13-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815890",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
@@ -927,7 +927,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-14-rochester-red-wings-vs-worcester-red-sox",
+      "idEvent": "scraped-815891",
       "strEvent": "Rochester Red Wings vs Worcester Red Sox",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Worcester Red Sox",
@@ -940,7 +940,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-16-lehigh-valley-ironpigs-vs-worcester-red-sox",
+      "idEvent": "scraped-816345",
       "strEvent": "Lehigh Valley IronPigs vs Worcester Red Sox",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Worcester Red Sox",
@@ -953,7 +953,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-17-lehigh-valley-ironpigs-vs-worcester-red-sox",
+      "idEvent": "scraped-816338",
       "strEvent": "Lehigh Valley IronPigs vs Worcester Red Sox",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Worcester Red Sox",
@@ -966,7 +966,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-18-lehigh-valley-ironpigs-vs-worcester-red-sox",
+      "idEvent": "scraped-816340",
       "strEvent": "Lehigh Valley IronPigs vs Worcester Red Sox",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Worcester Red Sox",
@@ -979,7 +979,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-19-lehigh-valley-ironpigs-vs-worcester-red-sox",
+      "idEvent": "scraped-816341",
       "strEvent": "Lehigh Valley IronPigs vs Worcester Red Sox",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Worcester Red Sox",
@@ -992,7 +992,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-20-lehigh-valley-ironpigs-vs-worcester-red-sox",
+      "idEvent": "scraped-816342",
       "strEvent": "Lehigh Valley IronPigs vs Worcester Red Sox",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Worcester Red Sox",
@@ -1005,7 +1005,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-21-lehigh-valley-ironpigs-vs-worcester-red-sox",
+      "idEvent": "scraped-816343",
       "strEvent": "Lehigh Valley IronPigs vs Worcester Red Sox",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Worcester Red Sox",
@@ -1018,7 +1018,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-23-worcester-red-sox-vs-toledo-mud-hens",
+      "idEvent": "scraped-815515",
       "strEvent": "Worcester Red Sox vs Toledo Mud Hens",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Toledo Mud Hens",
@@ -1031,7 +1031,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-24-worcester-red-sox-vs-toledo-mud-hens",
+      "idEvent": "scraped-815517",
       "strEvent": "Worcester Red Sox vs Toledo Mud Hens",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Toledo Mud Hens",
@@ -1044,7 +1044,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25-worcester-red-sox-vs-toledo-mud-hens",
+      "idEvent": "scraped-815518",
       "strEvent": "Worcester Red Sox vs Toledo Mud Hens",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Toledo Mud Hens",
@@ -1057,7 +1057,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-26-worcester-red-sox-vs-toledo-mud-hens",
+      "idEvent": "scraped-815516",
       "strEvent": "Worcester Red Sox vs Toledo Mud Hens",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Toledo Mud Hens",
@@ -1070,7 +1070,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-27-worcester-red-sox-vs-toledo-mud-hens",
+      "idEvent": "scraped-815519",
       "strEvent": "Worcester Red Sox vs Toledo Mud Hens",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Toledo Mud Hens",
@@ -1083,7 +1083,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-28-worcester-red-sox-vs-toledo-mud-hens",
+      "idEvent": "scraped-815513",
       "strEvent": "Worcester Red Sox vs Toledo Mud Hens",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Toledo Mud Hens",
@@ -1096,7 +1096,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-30-syracuse-mets-vs-worcester-red-sox",
+      "idEvent": "scraped-815657",
       "strEvent": "Syracuse Mets vs Worcester Red Sox",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Worcester Red Sox",
@@ -1109,7 +1109,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-01-syracuse-mets-vs-worcester-red-sox",
+      "idEvent": "scraped-815655",
       "strEvent": "Syracuse Mets vs Worcester Red Sox",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Worcester Red Sox",
@@ -1122,7 +1122,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-02-syracuse-mets-vs-worcester-red-sox",
+      "idEvent": "scraped-815659",
       "strEvent": "Syracuse Mets vs Worcester Red Sox",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Worcester Red Sox",
@@ -1135,7 +1135,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-03-syracuse-mets-vs-worcester-red-sox",
+      "idEvent": "scraped-815653",
       "strEvent": "Syracuse Mets vs Worcester Red Sox",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Worcester Red Sox",
@@ -1148,7 +1148,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-04-syracuse-mets-vs-worcester-red-sox",
+      "idEvent": "scraped-815658",
       "strEvent": "Syracuse Mets vs Worcester Red Sox",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Worcester Red Sox",
@@ -1161,7 +1161,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-05-syracuse-mets-vs-worcester-red-sox",
+      "idEvent": "scraped-815654",
       "strEvent": "Syracuse Mets vs Worcester Red Sox",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Worcester Red Sox",
@@ -1174,7 +1174,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-07-worcester-red-sox-vs-rochester-red-wings",
+      "idEvent": "scraped-815508",
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
@@ -1187,7 +1187,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-08-worcester-red-sox-vs-rochester-red-wings",
+      "idEvent": "scraped-815511",
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
@@ -1200,7 +1200,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-09-worcester-red-sox-vs-rochester-red-wings",
+      "idEvent": "scraped-815507",
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
@@ -1213,7 +1213,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-10-worcester-red-sox-vs-rochester-red-wings",
+      "idEvent": "scraped-815506",
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
@@ -1226,7 +1226,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-11-worcester-red-sox-vs-rochester-red-wings",
+      "idEvent": "scraped-815512",
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
@@ -1239,7 +1239,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-12-worcester-red-sox-vs-rochester-red-wings",
+      "idEvent": "scraped-815509",
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
@@ -1252,7 +1252,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-17-scranton-wilkes-barre-railriders-vs-worcester-red-sox",
+      "idEvent": "scraped-815808",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Worcester Red Sox",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Worcester Red Sox",
@@ -1265,7 +1265,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-18-scranton-wilkes-barre-railriders-vs-worcester-red-sox",
+      "idEvent": "scraped-815809",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Worcester Red Sox",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Worcester Red Sox",
@@ -1278,7 +1278,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-19-scranton-wilkes-barre-railriders-vs-worcester-red-sox",
+      "idEvent": "scraped-815804",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Worcester Red Sox",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Worcester Red Sox",
@@ -1291,7 +1291,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-21-worcester-red-sox-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815510",
       "strEvent": "Worcester Red Sox vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1304,7 +1304,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-22-worcester-red-sox-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815504",
       "strEvent": "Worcester Red Sox vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1317,7 +1317,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-23-worcester-red-sox-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815505",
       "strEvent": "Worcester Red Sox vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1330,7 +1330,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-24-worcester-red-sox-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815503",
       "strEvent": "Worcester Red Sox vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1343,7 +1343,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-25-worcester-red-sox-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815501",
       "strEvent": "Worcester Red Sox vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1356,7 +1356,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-26-worcester-red-sox-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815499",
       "strEvent": "Worcester Red Sox vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1369,7 +1369,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-28-norfolk-tides-vs-worcester-red-sox",
+      "idEvent": "scraped-816028",
       "strEvent": "Norfolk Tides vs Worcester Red Sox",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Worcester Red Sox",
@@ -1382,7 +1382,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-29-norfolk-tides-vs-worcester-red-sox",
+      "idEvent": "scraped-816027",
       "strEvent": "Norfolk Tides vs Worcester Red Sox",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Worcester Red Sox",
@@ -1395,7 +1395,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-30-norfolk-tides-vs-worcester-red-sox",
+      "idEvent": "scraped-816030",
       "strEvent": "Norfolk Tides vs Worcester Red Sox",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Worcester Red Sox",
@@ -1408,7 +1408,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-31-norfolk-tides-vs-worcester-red-sox",
+      "idEvent": "scraped-816033",
       "strEvent": "Norfolk Tides vs Worcester Red Sox",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Worcester Red Sox",
@@ -1421,7 +1421,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-01-norfolk-tides-vs-worcester-red-sox",
+      "idEvent": "scraped-816032",
       "strEvent": "Norfolk Tides vs Worcester Red Sox",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Worcester Red Sox",
@@ -1434,7 +1434,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-02-norfolk-tides-vs-worcester-red-sox",
+      "idEvent": "scraped-816029",
       "strEvent": "Norfolk Tides vs Worcester Red Sox",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Worcester Red Sox",
@@ -1447,7 +1447,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-04-worcester-red-sox-vs-lehigh-valley-ironpigs",
+      "idEvent": "scraped-815500",
       "strEvent": "Worcester Red Sox vs Lehigh Valley IronPigs",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Lehigh Valley IronPigs",
@@ -1460,7 +1460,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-05-worcester-red-sox-vs-lehigh-valley-ironpigs",
+      "idEvent": "scraped-815502",
       "strEvent": "Worcester Red Sox vs Lehigh Valley IronPigs",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Lehigh Valley IronPigs",
@@ -1473,7 +1473,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-06-worcester-red-sox-vs-lehigh-valley-ironpigs",
+      "idEvent": "scraped-815498",
       "strEvent": "Worcester Red Sox vs Lehigh Valley IronPigs",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Lehigh Valley IronPigs",
@@ -1486,7 +1486,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-07-worcester-red-sox-vs-lehigh-valley-ironpigs",
+      "idEvent": "scraped-815492",
       "strEvent": "Worcester Red Sox vs Lehigh Valley IronPigs",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Lehigh Valley IronPigs",
@@ -1499,7 +1499,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-08-worcester-red-sox-vs-lehigh-valley-ironpigs",
+      "idEvent": "scraped-815494",
       "strEvent": "Worcester Red Sox vs Lehigh Valley IronPigs",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Lehigh Valley IronPigs",
@@ -1512,7 +1512,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-09-worcester-red-sox-vs-lehigh-valley-ironpigs",
+      "idEvent": "scraped-815496",
       "strEvent": "Worcester Red Sox vs Lehigh Valley IronPigs",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Lehigh Valley IronPigs",
@@ -1525,7 +1525,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-11-worcester-red-sox-vs-buffalo-bisons",
+      "idEvent": "scraped-815493",
       "strEvent": "Worcester Red Sox vs Buffalo Bisons",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Buffalo Bisons",
@@ -1538,7 +1538,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-12-worcester-red-sox-vs-buffalo-bisons",
+      "idEvent": "scraped-815497",
       "strEvent": "Worcester Red Sox vs Buffalo Bisons",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Buffalo Bisons",
@@ -1551,7 +1551,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-13-worcester-red-sox-vs-buffalo-bisons",
+      "idEvent": "scraped-815495",
       "strEvent": "Worcester Red Sox vs Buffalo Bisons",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Buffalo Bisons",
@@ -1564,7 +1564,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-14-worcester-red-sox-vs-buffalo-bisons",
+      "idEvent": "scraped-815491",
       "strEvent": "Worcester Red Sox vs Buffalo Bisons",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Buffalo Bisons",
@@ -1577,7 +1577,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-15-worcester-red-sox-vs-buffalo-bisons",
+      "idEvent": "scraped-815486",
       "strEvent": "Worcester Red Sox vs Buffalo Bisons",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Buffalo Bisons",
@@ -1590,7 +1590,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-16-worcester-red-sox-vs-buffalo-bisons",
+      "idEvent": "scraped-815490",
       "strEvent": "Worcester Red Sox vs Buffalo Bisons",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Buffalo Bisons",
@@ -1603,7 +1603,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-18-syracuse-mets-vs-worcester-red-sox",
+      "idEvent": "scraped-815638",
       "strEvent": "Syracuse Mets vs Worcester Red Sox",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Worcester Red Sox",
@@ -1616,7 +1616,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-19-syracuse-mets-vs-worcester-red-sox",
+      "idEvent": "scraped-815643",
       "strEvent": "Syracuse Mets vs Worcester Red Sox",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Worcester Red Sox",
@@ -1629,7 +1629,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-20-syracuse-mets-vs-worcester-red-sox",
+      "idEvent": "scraped-815637",
       "strEvent": "Syracuse Mets vs Worcester Red Sox",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Worcester Red Sox",
@@ -1642,7 +1642,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-21-syracuse-mets-vs-worcester-red-sox",
+      "idEvent": "scraped-815640",
       "strEvent": "Syracuse Mets vs Worcester Red Sox",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Worcester Red Sox",
@@ -1655,7 +1655,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-22-syracuse-mets-vs-worcester-red-sox",
+      "idEvent": "scraped-815644",
       "strEvent": "Syracuse Mets vs Worcester Red Sox",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Worcester Red Sox",
@@ -1668,7 +1668,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-23-syracuse-mets-vs-worcester-red-sox",
+      "idEvent": "scraped-815639",
       "strEvent": "Syracuse Mets vs Worcester Red Sox",
       "strHomeTeam": "Syracuse Mets",
       "strAwayTeam": "Worcester Red Sox",
@@ -1681,7 +1681,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-25-worcester-red-sox-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-815485",
       "strEvent": "Worcester Red Sox vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -1694,7 +1694,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-26-worcester-red-sox-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-815484",
       "strEvent": "Worcester Red Sox vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -1707,7 +1707,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-27-worcester-red-sox-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-815487",
       "strEvent": "Worcester Red Sox vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -1720,7 +1720,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-28-worcester-red-sox-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-815488",
       "strEvent": "Worcester Red Sox vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -1733,7 +1733,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-29-worcester-red-sox-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-815489",
       "strEvent": "Worcester Red Sox vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -1746,7 +1746,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-30-worcester-red-sox-vs-scranton-wilkes-barre-railriders",
+      "idEvent": "scraped-815477",
       "strEvent": "Worcester Red Sox vs Scranton/Wilkes-Barre RailRiders",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -1759,7 +1759,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-01-buffalo-bisons-vs-worcester-red-sox",
+      "idEvent": "scraped-816912",
       "strEvent": "Buffalo Bisons vs Worcester Red Sox",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Worcester Red Sox",
@@ -1772,7 +1772,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-02-buffalo-bisons-vs-worcester-red-sox",
+      "idEvent": "scraped-816913",
       "strEvent": "Buffalo Bisons vs Worcester Red Sox",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Worcester Red Sox",
@@ -1785,7 +1785,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-03-buffalo-bisons-vs-worcester-red-sox",
+      "idEvent": "scraped-816911",
       "strEvent": "Buffalo Bisons vs Worcester Red Sox",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Worcester Red Sox",
@@ -1798,7 +1798,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-04-buffalo-bisons-vs-worcester-red-sox",
+      "idEvent": "scraped-816910",
       "strEvent": "Buffalo Bisons vs Worcester Red Sox",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Worcester Red Sox",
@@ -1811,7 +1811,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-05-buffalo-bisons-vs-worcester-red-sox",
+      "idEvent": "scraped-816909",
       "strEvent": "Buffalo Bisons vs Worcester Red Sox",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Worcester Red Sox",
@@ -1824,7 +1824,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-06-buffalo-bisons-vs-worcester-red-sox",
+      "idEvent": "scraped-816908",
       "strEvent": "Buffalo Bisons vs Worcester Red Sox",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Worcester Red Sox",
@@ -1837,7 +1837,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-08-lehigh-valley-ironpigs-vs-worcester-red-sox",
+      "idEvent": "scraped-816306",
       "strEvent": "Lehigh Valley IronPigs vs Worcester Red Sox",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Worcester Red Sox",
@@ -1850,7 +1850,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-09-lehigh-valley-ironpigs-vs-worcester-red-sox",
+      "idEvent": "scraped-816312",
       "strEvent": "Lehigh Valley IronPigs vs Worcester Red Sox",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Worcester Red Sox",
@@ -1863,7 +1863,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-10-lehigh-valley-ironpigs-vs-worcester-red-sox",
+      "idEvent": "scraped-816299",
       "strEvent": "Lehigh Valley IronPigs vs Worcester Red Sox",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Worcester Red Sox",
@@ -1876,7 +1876,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-11-lehigh-valley-ironpigs-vs-worcester-red-sox",
+      "idEvent": "scraped-816300",
       "strEvent": "Lehigh Valley IronPigs vs Worcester Red Sox",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Worcester Red Sox",
@@ -1889,7 +1889,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-12-lehigh-valley-ironpigs-vs-worcester-red-sox",
+      "idEvent": "scraped-816304",
       "strEvent": "Lehigh Valley IronPigs vs Worcester Red Sox",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Worcester Red Sox",
@@ -1902,7 +1902,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-13-lehigh-valley-ironpigs-vs-worcester-red-sox",
+      "idEvent": "scraped-816302",
       "strEvent": "Lehigh Valley IronPigs vs Worcester Red Sox",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Worcester Red Sox",
@@ -1915,7 +1915,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-15-worcester-red-sox-vs-durham-bulls",
+      "idEvent": "scraped-815482",
       "strEvent": "Worcester Red Sox vs Durham Bulls",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Durham Bulls",
@@ -1928,7 +1928,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-16-worcester-red-sox-vs-durham-bulls",
+      "idEvent": "scraped-815480",
       "strEvent": "Worcester Red Sox vs Durham Bulls",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Durham Bulls",
@@ -1941,7 +1941,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-17-worcester-red-sox-vs-durham-bulls",
+      "idEvent": "scraped-815481",
       "strEvent": "Worcester Red Sox vs Durham Bulls",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Durham Bulls",
@@ -1954,7 +1954,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-18-worcester-red-sox-vs-durham-bulls",
+      "idEvent": "scraped-815479",
       "strEvent": "Worcester Red Sox vs Durham Bulls",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Durham Bulls",
@@ -1967,7 +1967,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-19-worcester-red-sox-vs-durham-bulls",
+      "idEvent": "scraped-815483",
       "strEvent": "Worcester Red Sox vs Durham Bulls",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Durham Bulls",
@@ -1980,7 +1980,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-20-worcester-red-sox-vs-durham-bulls",
+      "idEvent": "scraped-815478",
       "strEvent": "Worcester Red Sox vs Durham Bulls",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Durham Bulls",

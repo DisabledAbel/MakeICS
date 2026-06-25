@@ -1,36 +1,36 @@
 {
   "teamId": "153991",
   "teamName": "Everett AquaSox",
-  "updatedAt": "2026-06-24T15:23:51.816Z",
+  "updatedAt": "2026-06-25T01:19:12.299Z",
   "events": [
     {
-      "idEvent": "scraped-2026-04-03-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819239",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-04-03",
       "strTime": "01:35:00",
-      "strTimestamp": "2026-04-03T01:35:00Z",
+      "strTimestamp": "2026-04-04T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Avista Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-04-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819242",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-04-04",
       "strTime": "00:09:00",
-      "strTimestamp": "2026-04-04T00:09:00Z",
+      "strTimestamp": "2026-04-05T00:09:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Avista Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-05-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819243",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
@@ -43,24 +43,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-07-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819381",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
       "dateEvent": "2026-04-07",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-04-07T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-08-everett-aquasox-vs-tri-city-dust-devils",
-      "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-04-08",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-08T02:05:00Z",
       "strLeague": "Northwest League",
@@ -69,11 +56,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-09-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819373",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-04-09",
+      "dateEvent": "2026-04-08",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-09T02:05:00Z",
       "strLeague": "Northwest League",
@@ -82,11 +69,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-10-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819374",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-04-10",
+      "dateEvent": "2026-04-09",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-10T02:05:00Z",
       "strLeague": "Northwest League",
@@ -95,11 +82,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-11-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819372",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-04-11",
+      "dateEvent": "2026-04-10",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-11T02:05:00Z",
       "strLeague": "Northwest League",
@@ -108,7 +95,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-12-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819369",
+      "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Tri-City Dust Devils",
+      "dateEvent": "2026-04-11",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-04-12T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819370",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -121,24 +121,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-14-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819436",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-04-14",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-04-14T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-15-eugene-emeralds-vs-everett-aquasox",
-      "strEvent": "Eugene Emeralds vs Everett AquaSox",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-04-15",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-15T01:35:00Z",
       "strLeague": "Northwest League",
@@ -147,11 +134,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-16-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819433",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-04-16",
+      "dateEvent": "2026-04-15",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-16T01:35:00Z",
       "strLeague": "Northwest League",
@@ -160,11 +147,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-17-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819434",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-04-17",
+      "dateEvent": "2026-04-16",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-17T01:35:00Z",
       "strLeague": "Northwest League",
@@ -173,20 +160,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-18-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819439",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-04-18",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-04-18T00:05:00Z",
+      "dateEvent": "2026-04-17",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-04-18T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-19-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819437",
+      "strEvent": "Eugene Emeralds vs Everett AquaSox",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-04-18",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-04-19T00:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819435",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
@@ -199,24 +199,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-21-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819375",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-04-21",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-04-21T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-22-everett-aquasox-vs-spokane-indians",
-      "strEvent": "Everett AquaSox vs Spokane Indians",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-04-22",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-22T02:05:00Z",
       "strLeague": "Northwest League",
@@ -225,7 +212,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-23-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819371",
+      "strEvent": "Everett AquaSox vs Spokane Indians",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-04-22",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-04-23T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819368",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
@@ -238,24 +238,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-24-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819361",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-04-24",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-04-24T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-25-everett-aquasox-vs-spokane-indians",
-      "strEvent": "Everett AquaSox vs Spokane Indians",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-04-25",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-25T02:05:00Z",
       "strLeague": "Northwest League",
@@ -264,7 +251,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819360",
+      "strEvent": "Everett AquaSox vs Spokane Indians",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-04-25",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-04-26T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819365",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
@@ -277,24 +277,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-28-tri-city-dust-devils-vs-everett-aquasox",
+      "idEvent": "scraped-819168",
       "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-04-28",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-04-28T01:30:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Gesa Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-29-tri-city-dust-devils-vs-everett-aquasox",
-      "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
-      "strHomeTeam": "Tri-City Dust Devils",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-04-29",
       "strTime": "01:30:00",
       "strTimestamp": "2026-04-29T01:30:00Z",
       "strLeague": "Northwest League",
@@ -303,11 +290,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-30-tri-city-dust-devils-vs-everett-aquasox",
+      "idEvent": "scraped-819171",
       "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-04-30",
+      "dateEvent": "2026-04-29",
       "strTime": "01:30:00",
       "strTimestamp": "2026-04-30T01:30:00Z",
       "strLeague": "Northwest League",
@@ -316,11 +303,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-01-tri-city-dust-devils-vs-everett-aquasox",
+      "idEvent": "scraped-819174",
       "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-05-01",
+      "dateEvent": "2026-04-30",
       "strTime": "01:30:00",
       "strTimestamp": "2026-05-01T01:30:00Z",
       "strLeague": "Northwest League",
@@ -329,11 +316,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-02-tri-city-dust-devils-vs-everett-aquasox",
+      "idEvent": "scraped-819161",
       "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-05-02",
+      "dateEvent": "2026-05-01",
       "strTime": "01:30:00",
       "strTimestamp": "2026-05-02T01:30:00Z",
       "strLeague": "Northwest League",
@@ -342,7 +329,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-03-tri-city-dust-devils-vs-everett-aquasox",
+      "idEvent": "scraped-819159",
+      "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
+      "strHomeTeam": "Tri-City Dust Devils",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-05-02",
+      "strTime": "01:30:00",
+      "strTimestamp": "2026-05-03T01:30:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Gesa Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819160",
       "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Everett AquaSox",
@@ -355,24 +355,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-05-everett-aquasox-vs-hillsboro-hops",
+      "idEvent": "scraped-819366",
       "strEvent": "Everett AquaSox vs Hillsboro Hops",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-05-05",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-05-05T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-06-everett-aquasox-vs-hillsboro-hops",
-      "strEvent": "Everett AquaSox vs Hillsboro Hops",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-05-06",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-06T02:05:00Z",
       "strLeague": "Northwest League",
@@ -381,11 +368,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-07-everett-aquasox-vs-hillsboro-hops",
+      "idEvent": "scraped-819367",
       "strEvent": "Everett AquaSox vs Hillsboro Hops",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-05-07",
+      "dateEvent": "2026-05-06",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-07T02:05:00Z",
       "strLeague": "Northwest League",
@@ -394,7 +381,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-08-everett-aquasox-vs-hillsboro-hops",
+      "idEvent": "scraped-819363",
+      "strEvent": "Everett AquaSox vs Hillsboro Hops",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Hillsboro Hops",
+      "dateEvent": "2026-05-07",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-05-08T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819364",
       "strEvent": "Everett AquaSox vs Hillsboro Hops",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Hillsboro Hops",
@@ -407,20 +407,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-09-everett-aquasox-vs-hillsboro-hops",
+      "idEvent": "scraped-819362",
       "strEvent": "Everett AquaSox vs Hillsboro Hops",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-05-09",
       "strTime": "02:05:00",
-      "strTimestamp": "2026-05-09T02:05:00Z",
+      "strTimestamp": "2026-05-10T02:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Everett Memorial Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-10-everett-aquasox-vs-hillsboro-hops",
+      "idEvent": "scraped-819352",
       "strEvent": "Everett AquaSox vs Hillsboro Hops",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Hillsboro Hops",
@@ -433,24 +433,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-12-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819097",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-05-12",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-05-12T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-13-vancouver-canadians-vs-everett-aquasox",
-      "strEvent": "Vancouver Canadians vs Everett AquaSox",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-05-13",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-13T02:05:00Z",
       "strLeague": "Northwest League",
@@ -459,11 +446,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-14-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819092",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-05-14",
+      "dateEvent": "2026-05-13",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-14T02:05:00Z",
       "strLeague": "Northwest League",
@@ -472,7 +459,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-16-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819093",
+      "strEvent": "Vancouver Canadians vs Everett AquaSox",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-05-14",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-05-15T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819098",
+      "strEvent": "Vancouver Canadians vs Everett AquaSox",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-05-16",
+      "strTime": "20:05:00",
+      "strTimestamp": "2026-05-15T20:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819087",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -485,20 +498,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-16-vancouver-canadians-vs-everett-aquasox",
-      "strEvent": "Vancouver Canadians vs Everett AquaSox",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-05-16",
-      "strTime": "20:05:00",
-      "strTimestamp": "2026-05-16T20:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-16-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819098",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -511,7 +511,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-17-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819090",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -524,24 +524,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-19-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819354",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
       "dateEvent": "2026-05-19",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-05-19T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-20-everett-aquasox-vs-tri-city-dust-devils",
-      "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-05-20",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-20T02:05:00Z",
       "strLeague": "Northwest League",
@@ -550,11 +537,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-21-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819351",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-05-21",
+      "dateEvent": "2026-05-20",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-21T02:05:00Z",
       "strLeague": "Northwest League",
@@ -563,11 +550,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-22-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819358",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-05-22",
+      "dateEvent": "2026-05-21",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-22T02:05:00Z",
       "strLeague": "Northwest League",
@@ -576,11 +563,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819356",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-05-23",
+      "dateEvent": "2026-05-22",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-23T02:05:00Z",
       "strLeague": "Northwest League",
@@ -589,7 +576,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-24-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819357",
+      "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Tri-City Dust Devils",
+      "dateEvent": "2026-05-23",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-05-24T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819359",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -602,24 +602,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-26-hillsboro-hops-vs-everett-aquasox",
+      "idEvent": "scraped-819288",
       "strEvent": "Hillsboro Hops vs Everett AquaSox",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-05-26",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-05-26T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Hops Ballpark",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-27-hillsboro-hops-vs-everett-aquasox",
-      "strEvent": "Hillsboro Hops vs Everett AquaSox",
-      "strHomeTeam": "Hillsboro Hops",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-05-27",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-27T01:35:00Z",
       "strLeague": "Northwest League",
@@ -628,11 +615,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-28-hillsboro-hops-vs-everett-aquasox",
+      "idEvent": "scraped-819290",
       "strEvent": "Hillsboro Hops vs Everett AquaSox",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-05-28",
+      "dateEvent": "2026-05-27",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-28T01:35:00Z",
       "strLeague": "Northwest League",
@@ -641,11 +628,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-29-hillsboro-hops-vs-everett-aquasox",
+      "idEvent": "scraped-819293",
       "strEvent": "Hillsboro Hops vs Everett AquaSox",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-05-29",
+      "dateEvent": "2026-05-28",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-29T01:35:00Z",
       "strLeague": "Northwest League",
@@ -654,20 +641,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-30-hillsboro-hops-vs-everett-aquasox",
+      "idEvent": "scraped-819286",
       "strEvent": "Hillsboro Hops vs Everett AquaSox",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-05-30",
-      "strTime": "00:03:00",
-      "strTimestamp": "2026-05-30T00:03:00Z",
+      "dateEvent": "2026-05-29",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-05-30T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-31-hillsboro-hops-vs-everett-aquasox",
+      "idEvent": "scraped-819291",
+      "strEvent": "Hillsboro Hops vs Everett AquaSox",
+      "strHomeTeam": "Hillsboro Hops",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-05-30",
+      "strTime": "00:03:00",
+      "strTimestamp": "2026-05-31T00:03:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Hops Ballpark",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819287",
       "strEvent": "Hillsboro Hops vs Everett AquaSox",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Everett AquaSox",
@@ -680,24 +680,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-02-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819355",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-06-02",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-06-02T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-03-everett-aquasox-vs-eugene-emeralds",
-      "strEvent": "Everett AquaSox vs Eugene Emeralds",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-03",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-03T02:05:00Z",
       "strLeague": "Northwest League",
@@ -706,11 +693,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-04-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819353",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-04",
+      "dateEvent": "2026-06-03",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-04T02:05:00Z",
       "strLeague": "Northwest League",
@@ -719,11 +706,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-05-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819343",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-05",
+      "dateEvent": "2026-06-04",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-05T02:05:00Z",
       "strLeague": "Northwest League",
@@ -732,11 +719,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-06-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819344",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-06",
+      "dateEvent": "2026-06-05",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-06T02:05:00Z",
       "strLeague": "Northwest League",
@@ -745,7 +732,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-07-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819350",
+      "strEvent": "Everett AquaSox vs Eugene Emeralds",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-06-06",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-06-07T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819347",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
@@ -758,24 +758,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-09-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819075",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-06-09",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-06-09T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-10-vancouver-canadians-vs-everett-aquasox",
-      "strEvent": "Vancouver Canadians vs Everett AquaSox",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-06-10",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-10T02:05:00Z",
       "strLeague": "Northwest League",
@@ -784,11 +771,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-11-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819077",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-06-11",
+      "dateEvent": "2026-06-10",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-11T02:05:00Z",
       "strLeague": "Northwest League",
@@ -797,7 +784,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-12-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819082",
+      "strEvent": "Vancouver Canadians vs Everett AquaSox",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-06-11",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-06-12T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819078",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -810,7 +810,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-13-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819079",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -823,7 +823,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-14-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819080",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -836,24 +836,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-16-everett-aquasox-vs-hillsboro-hops",
+      "idEvent": "scraped-819349",
       "strEvent": "Everett AquaSox vs Hillsboro Hops",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-06-16",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-06-16T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-17-everett-aquasox-vs-hillsboro-hops",
-      "strEvent": "Everett AquaSox vs Hillsboro Hops",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-06-17",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-17T02:05:00Z",
       "strLeague": "Northwest League",
@@ -862,11 +849,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-18-everett-aquasox-vs-hillsboro-hops",
+      "idEvent": "scraped-819345",
       "strEvent": "Everett AquaSox vs Hillsboro Hops",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-06-18",
+      "dateEvent": "2026-06-17",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-18T02:05:00Z",
       "strLeague": "Northwest League",
@@ -875,11 +862,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-19-everett-aquasox-vs-hillsboro-hops",
+      "idEvent": "scraped-819348",
       "strEvent": "Everett AquaSox vs Hillsboro Hops",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-06-19",
+      "dateEvent": "2026-06-18",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-19T02:05:00Z",
       "strLeague": "Northwest League",
@@ -888,11 +875,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-20-everett-aquasox-vs-hillsboro-hops",
+      "idEvent": "scraped-819346",
       "strEvent": "Everett AquaSox vs Hillsboro Hops",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-06-20",
+      "dateEvent": "2026-06-19",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-20T02:05:00Z",
       "strLeague": "Northwest League",
@@ -901,7 +888,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-21-everett-aquasox-vs-hillsboro-hops",
+      "idEvent": "scraped-819340",
+      "strEvent": "Everett AquaSox vs Hillsboro Hops",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Hillsboro Hops",
+      "dateEvent": "2026-06-20",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-06-21T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819335",
       "strEvent": "Everett AquaSox vs Hillsboro Hops",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Hillsboro Hops",
@@ -914,24 +914,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-23-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819412",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-06-23",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-06-23T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-24-eugene-emeralds-vs-everett-aquasox",
-      "strEvent": "Eugene Emeralds vs Everett AquaSox",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-06-24",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-24T01:35:00Z",
       "strLeague": "Northwest League",
@@ -940,76 +927,76 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819408",
+      "strEvent": "Eugene Emeralds vs Everett AquaSox",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-06-24",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-06-25T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819402",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-06-25",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-06-25T00:05:00Z",
+      "strTimestamp": "2026-06-26T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819400",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-06-25",
       "strTime": "00:10:00",
-      "strTimestamp": "2026-06-25T00:10:00Z",
+      "strTimestamp": "2026-06-26T00:10:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-26-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819406",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-06-26",
       "strTime": "01:35:00",
-      "strTimestamp": "2026-06-26T01:35:00Z",
+      "strTimestamp": "2026-06-27T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-28-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819403",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-06-28",
       "strTime": "01:05:00",
-      "strTimestamp": "2026-06-28T01:05:00Z",
+      "strTimestamp": "2026-06-29T01:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-30-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819336",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
       "dateEvent": "2026-06-30",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-06-30T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-01-everett-aquasox-vs-tri-city-dust-devils",
-      "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-07-01",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-01T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1018,11 +1005,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-02-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819341",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-07-02",
+      "dateEvent": "2026-07-01",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-02T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1031,11 +1018,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-03-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819338",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-07-03",
+      "dateEvent": "2026-07-02",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-03T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1044,11 +1031,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-04-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819342",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-07-04",
+      "dateEvent": "2026-07-03",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-04T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1057,7 +1044,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-05-everett-aquasox-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819339",
+      "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Tri-City Dust Devils",
+      "dateEvent": "2026-07-04",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-05T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819337",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -1070,24 +1070,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-07-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819067",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-07-07",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-07-07T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-08-vancouver-canadians-vs-everett-aquasox",
-      "strEvent": "Vancouver Canadians vs Everett AquaSox",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-07-08",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-08T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1096,11 +1083,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-09-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819072",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-07-09",
+      "dateEvent": "2026-07-08",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-09T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1109,7 +1096,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-10-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819073",
+      "strEvent": "Vancouver Canadians vs Everett AquaSox",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-07-09",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-10T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819070",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -1122,20 +1122,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-11-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819068",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-07-11",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-07-11T00:05:00Z",
+      "strTimestamp": "2026-07-12T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Rogers Field at Nat Bailey Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-12-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819058",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -1148,24 +1148,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-17-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819205",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-07-17",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-07-17T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-18-spokane-indians-vs-everett-aquasox",
-      "strEvent": "Spokane Indians vs Everett AquaSox",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-07-18",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-18T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1174,7 +1161,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-19-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819202",
+      "strEvent": "Spokane Indians vs Everett AquaSox",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-07-18",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-07-19T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819204",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
@@ -1187,24 +1187,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-21-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819326",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-07-21",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-07-21T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-22-everett-aquasox-vs-eugene-emeralds",
-      "strEvent": "Everett AquaSox vs Eugene Emeralds",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-07-22",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-22T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1213,7 +1200,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-23-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819333",
+      "strEvent": "Everett AquaSox vs Eugene Emeralds",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-07-22",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-23T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819328",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
@@ -1226,24 +1226,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-24-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819332",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-07-24",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-07-24T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-25-everett-aquasox-vs-eugene-emeralds",
-      "strEvent": "Everett AquaSox vs Eugene Emeralds",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-07-25",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-25T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1252,7 +1239,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-26-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819327",
+      "strEvent": "Everett AquaSox vs Eugene Emeralds",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-07-25",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-26T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819330",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
@@ -1265,24 +1265,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-28-hillsboro-hops-vs-everett-aquasox",
+      "idEvent": "scraped-819264",
       "strEvent": "Hillsboro Hops vs Everett AquaSox",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-07-28",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-07-28T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Hops Ballpark",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-29-hillsboro-hops-vs-everett-aquasox",
-      "strEvent": "Hillsboro Hops vs Everett AquaSox",
-      "strHomeTeam": "Hillsboro Hops",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-07-29",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-29T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1291,11 +1278,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-30-hillsboro-hops-vs-everett-aquasox",
+      "idEvent": "scraped-819254",
       "strEvent": "Hillsboro Hops vs Everett AquaSox",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-07-30",
+      "dateEvent": "2026-07-29",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-30T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1304,11 +1291,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-31-hillsboro-hops-vs-everett-aquasox",
+      "idEvent": "scraped-819256",
       "strEvent": "Hillsboro Hops vs Everett AquaSox",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-07-31",
+      "dateEvent": "2026-07-30",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-31T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1317,20 +1304,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-01-hillsboro-hops-vs-everett-aquasox",
+      "idEvent": "scraped-819260",
       "strEvent": "Hillsboro Hops vs Everett AquaSox",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-08-01",
-      "strTime": "00:03:00",
-      "strTimestamp": "2026-08-01T00:03:00Z",
+      "dateEvent": "2026-07-31",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-08-01T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-02-hillsboro-hops-vs-everett-aquasox",
+      "idEvent": "scraped-819255",
+      "strEvent": "Hillsboro Hops vs Everett AquaSox",
+      "strHomeTeam": "Hillsboro Hops",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-08-01",
+      "strTime": "00:03:00",
+      "strTimestamp": "2026-08-02T00:03:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Hops Ballpark",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819261",
       "strEvent": "Hillsboro Hops vs Everett AquaSox",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Everett AquaSox",
@@ -1343,24 +1343,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-04-everett-aquasox-vs-vancouver-canadians",
+      "idEvent": "scraped-819329",
       "strEvent": "Everett AquaSox vs Vancouver Canadians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-08-04",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-08-04T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-05-everett-aquasox-vs-vancouver-canadians",
-      "strEvent": "Everett AquaSox vs Vancouver Canadians",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-05",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-05T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1369,11 +1356,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-06-everett-aquasox-vs-vancouver-canadians",
+      "idEvent": "scraped-819331",
       "strEvent": "Everett AquaSox vs Vancouver Canadians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-06",
+      "dateEvent": "2026-08-05",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-06T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1382,11 +1369,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-07-everett-aquasox-vs-vancouver-canadians",
+      "idEvent": "scraped-819334",
       "strEvent": "Everett AquaSox vs Vancouver Canadians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-07",
+      "dateEvent": "2026-08-06",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-07T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1395,11 +1382,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-08-everett-aquasox-vs-vancouver-canadians",
+      "idEvent": "scraped-819322",
       "strEvent": "Everett AquaSox vs Vancouver Canadians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-08",
+      "dateEvent": "2026-08-07",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-08T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1408,7 +1395,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-09-everett-aquasox-vs-vancouver-canadians",
+      "idEvent": "scraped-819323",
+      "strEvent": "Everett AquaSox vs Vancouver Canadians",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-08-08",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-08-09T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819321",
       "strEvent": "Everett AquaSox vs Vancouver Canadians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Vancouver Canadians",
@@ -1421,24 +1421,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-11-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819324",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-08-11",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-08-11T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-12-everett-aquasox-vs-spokane-indians",
-      "strEvent": "Everett AquaSox vs Spokane Indians",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-08-12",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-12T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1447,7 +1434,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-13-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819325",
+      "strEvent": "Everett AquaSox vs Spokane Indians",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-08-12",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-08-13T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819319",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
@@ -1460,24 +1460,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-14-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819320",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-08-14",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-08-14T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-15-everett-aquasox-vs-spokane-indians",
-      "strEvent": "Everett AquaSox vs Spokane Indians",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-08-15",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-15T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1486,7 +1473,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-16-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819318",
+      "strEvent": "Everett AquaSox vs Spokane Indians",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-08-15",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-08-16T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819310",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
@@ -1499,24 +1499,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-18-tri-city-dust-devils-vs-everett-aquasox",
+      "idEvent": "scraped-819125",
       "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-08-18",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-08-18T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Gesa Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-19-tri-city-dust-devils-vs-everett-aquasox",
-      "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
-      "strHomeTeam": "Tri-City Dust Devils",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-08-19",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-19T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1525,11 +1512,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-20-tri-city-dust-devils-vs-everett-aquasox",
+      "idEvent": "scraped-819117",
       "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-08-20",
+      "dateEvent": "2026-08-19",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-20T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1538,11 +1525,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-21-tri-city-dust-devils-vs-everett-aquasox",
+      "idEvent": "scraped-819123",
       "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-08-21",
+      "dateEvent": "2026-08-20",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-21T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1551,11 +1538,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-22-tri-city-dust-devils-vs-everett-aquasox",
+      "idEvent": "scraped-819122",
       "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-08-22",
+      "dateEvent": "2026-08-21",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-22T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1564,11 +1551,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-23-tri-city-dust-devils-vs-everett-aquasox",
+      "idEvent": "scraped-819119",
       "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-08-23",
+      "dateEvent": "2026-08-22",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-23T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1577,24 +1564,24 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-25-everett-aquasox-vs-eugene-emeralds",
-      "strEvent": "Everett AquaSox vs Eugene Emeralds",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-25",
+      "idEvent": "scraped-819118",
+      "strEvent": "Tri-City Dust Devils vs Everett AquaSox",
+      "strHomeTeam": "Tri-City Dust Devils",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-08-23",
       "strTime": "02:05:00",
-      "strTimestamp": "2026-08-25T02:05:00Z",
+      "strTimestamp": "2026-08-24T02:05:00Z",
       "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
+      "strVenue": "Gesa Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-26-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819316",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-26",
+      "dateEvent": "2026-08-25",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-26T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1603,11 +1590,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-27-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819317",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-27",
+      "dateEvent": "2026-08-26",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-27T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1616,11 +1603,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-28-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819315",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-28",
+      "dateEvent": "2026-08-27",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-28T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1629,11 +1616,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-29-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819313",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-29",
+      "dateEvent": "2026-08-28",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-29T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1642,7 +1629,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-30-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819312",
+      "strEvent": "Everett AquaSox vs Eugene Emeralds",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-08-29",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-08-30T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819311",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
@@ -1655,24 +1655,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-01-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819189",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-09-01",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-09-01T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-09-02-spokane-indians-vs-everett-aquasox",
-      "strEvent": "Spokane Indians vs Everett AquaSox",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-09-02",
       "strTime": "01:35:00",
       "strTimestamp": "2026-09-02T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1681,11 +1668,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-03-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819185",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-09-03",
+      "dateEvent": "2026-09-02",
       "strTime": "01:35:00",
       "strTimestamp": "2026-09-03T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1694,11 +1681,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-04-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819179",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-09-04",
+      "dateEvent": "2026-09-03",
       "strTime": "01:35:00",
       "strTimestamp": "2026-09-04T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1707,11 +1694,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-05-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819176",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-09-05",
+      "dateEvent": "2026-09-04",
       "strTime": "01:35:00",
       "strTimestamp": "2026-09-05T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1720,7 +1707,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-06-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819175",
+      "strEvent": "Spokane Indians vs Everett AquaSox",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-09-05",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-09-06T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819177",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",

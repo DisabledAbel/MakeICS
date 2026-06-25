@@ -1,10 +1,10 @@
 {
   "teamId": "142029",
   "teamName": "Charlotte Knights",
-  "updatedAt": "2026-06-24T15:23:51.062Z",
+  "updatedAt": "2026-06-25T01:19:11.399Z",
   "events": [
     {
-      "idEvent": "scraped-2026-03-27-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816902",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -17,7 +17,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-28-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816900",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -30,7 +30,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-29-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816899",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -43,7 +43,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-31-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816151",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
@@ -56,7 +56,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-01-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816154",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
@@ -69,7 +69,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-02-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816148",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
@@ -82,7 +82,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-03-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816149",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
@@ -95,20 +95,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-25-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816145",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
       "dateEvent": "2026-04-25",
       "strTime": "23:35:00",
-      "strTimestamp": "2026-04-25T23:35:00Z",
+      "strTimestamp": "2026-04-04T23:35:00Z",
       "strLeague": "International League",
       "strVenue": "First Horizon Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-05-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816144",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
@@ -121,7 +121,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-07-charlotte-knights-vs-memphis-redbirds",
+      "idEvent": "scraped-816898",
       "strEvent": "Charlotte Knights vs Memphis Redbirds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Memphis Redbirds",
@@ -134,7 +134,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-08-charlotte-knights-vs-memphis-redbirds",
+      "idEvent": "scraped-816897",
       "strEvent": "Charlotte Knights vs Memphis Redbirds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Memphis Redbirds",
@@ -147,7 +147,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-09-charlotte-knights-vs-memphis-redbirds",
+      "idEvent": "scraped-816896",
       "strEvent": "Charlotte Knights vs Memphis Redbirds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Memphis Redbirds",
@@ -160,7 +160,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-10-charlotte-knights-vs-memphis-redbirds",
+      "idEvent": "scraped-816894",
       "strEvent": "Charlotte Knights vs Memphis Redbirds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Memphis Redbirds",
@@ -173,7 +173,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-11-charlotte-knights-vs-memphis-redbirds",
+      "idEvent": "scraped-816895",
       "strEvent": "Charlotte Knights vs Memphis Redbirds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Memphis Redbirds",
@@ -186,7 +186,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-12-charlotte-knights-vs-memphis-redbirds",
+      "idEvent": "scraped-816892",
       "strEvent": "Charlotte Knights vs Memphis Redbirds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Memphis Redbirds",
@@ -199,7 +199,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-14-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816444",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -212,7 +212,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-15-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816437",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -225,7 +225,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-16-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816434",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -238,7 +238,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-17-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816438",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -251,7 +251,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-18-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816435",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -264,7 +264,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-19-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816440",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -277,7 +277,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-21-charlotte-knights-vs-nashville-sounds",
+      "idEvent": "scraped-816891",
       "strEvent": "Charlotte Knights vs Nashville Sounds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Nashville Sounds",
@@ -290,7 +290,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-22-charlotte-knights-vs-nashville-sounds",
+      "idEvent": "scraped-816889",
       "strEvent": "Charlotte Knights vs Nashville Sounds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Nashville Sounds",
@@ -303,7 +303,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-23-charlotte-knights-vs-nashville-sounds",
+      "idEvent": "scraped-816890",
       "strEvent": "Charlotte Knights vs Nashville Sounds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Nashville Sounds",
@@ -316,7 +316,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-24-charlotte-knights-vs-nashville-sounds",
+      "idEvent": "scraped-816893",
       "strEvent": "Charlotte Knights vs Nashville Sounds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Nashville Sounds",
@@ -329,7 +329,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-25-charlotte-knights-vs-nashville-sounds",
+      "idEvent": "scraped-816888",
       "strEvent": "Charlotte Knights vs Nashville Sounds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Nashville Sounds",
@@ -342,7 +342,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-25-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816145",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
@@ -355,7 +355,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-charlotte-knights-vs-nashville-sounds",
+      "idEvent": "scraped-816887",
       "strEvent": "Charlotte Knights vs Nashville Sounds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Nashville Sounds",
@@ -368,7 +368,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-28-charlotte-knights-vs-gwinnett-stripers",
+      "idEvent": "scraped-816883",
       "strEvent": "Charlotte Knights vs Gwinnett Stripers",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Gwinnett Stripers",
@@ -381,7 +381,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-29-charlotte-knights-vs-gwinnett-stripers",
+      "idEvent": "scraped-816886",
       "strEvent": "Charlotte Knights vs Gwinnett Stripers",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Gwinnett Stripers",
@@ -394,7 +394,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-30-charlotte-knights-vs-gwinnett-stripers",
+      "idEvent": "scraped-816885",
       "strEvent": "Charlotte Knights vs Gwinnett Stripers",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Gwinnett Stripers",
@@ -407,7 +407,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-01-charlotte-knights-vs-gwinnett-stripers",
+      "idEvent": "scraped-816884",
       "strEvent": "Charlotte Knights vs Gwinnett Stripers",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Gwinnett Stripers",
@@ -420,7 +420,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-02-charlotte-knights-vs-gwinnett-stripers",
+      "idEvent": "scraped-816882",
       "strEvent": "Charlotte Knights vs Gwinnett Stripers",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Gwinnett Stripers",
@@ -433,7 +433,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-03-charlotte-knights-vs-gwinnett-stripers",
+      "idEvent": "scraped-816879",
       "strEvent": "Charlotte Knights vs Gwinnett Stripers",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Gwinnett Stripers",
@@ -446,7 +446,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-05-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816436",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -459,7 +459,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-06-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816439",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -472,7 +472,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-07-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816441",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -485,7 +485,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-08-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816428",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -498,7 +498,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-09-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816433",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -511,7 +511,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-10-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816431",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -524,7 +524,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-12-charlotte-knights-vs-norfolk-tides",
+      "idEvent": "scraped-816880",
       "strEvent": "Charlotte Knights vs Norfolk Tides",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Norfolk Tides",
@@ -537,7 +537,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-13-charlotte-knights-vs-norfolk-tides",
+      "idEvent": "scraped-816881",
       "strEvent": "Charlotte Knights vs Norfolk Tides",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Norfolk Tides",
@@ -550,7 +550,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-14-charlotte-knights-vs-norfolk-tides",
+      "idEvent": "scraped-816877",
       "strEvent": "Charlotte Knights vs Norfolk Tides",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Norfolk Tides",
@@ -563,7 +563,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-15-charlotte-knights-vs-norfolk-tides",
+      "idEvent": "scraped-816878",
       "strEvent": "Charlotte Knights vs Norfolk Tides",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Norfolk Tides",
@@ -576,7 +576,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-16-charlotte-knights-vs-norfolk-tides",
+      "idEvent": "scraped-816876",
       "strEvent": "Charlotte Knights vs Norfolk Tides",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Norfolk Tides",
@@ -589,7 +589,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-17-charlotte-knights-vs-norfolk-tides",
+      "idEvent": "scraped-816875",
       "strEvent": "Charlotte Knights vs Norfolk Tides",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Norfolk Tides",
@@ -602,7 +602,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-19-gwinnett-stripers-vs-charlotte-knights",
+      "idEvent": "scraped-816657",
       "strEvent": "Gwinnett Stripers vs Charlotte Knights",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Charlotte Knights",
@@ -615,7 +615,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-20-gwinnett-stripers-vs-charlotte-knights",
+      "idEvent": "scraped-816655",
       "strEvent": "Gwinnett Stripers vs Charlotte Knights",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Charlotte Knights",
@@ -628,7 +628,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-21-gwinnett-stripers-vs-charlotte-knights",
+      "idEvent": "scraped-816647",
       "strEvent": "Gwinnett Stripers vs Charlotte Knights",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Charlotte Knights",
@@ -641,7 +641,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-22-gwinnett-stripers-vs-charlotte-knights",
+      "idEvent": "scraped-816646",
       "strEvent": "Gwinnett Stripers vs Charlotte Knights",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Charlotte Knights",
@@ -654,7 +654,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23-gwinnett-stripers-vs-charlotte-knights",
+      "idEvent": "scraped-816648",
       "strEvent": "Gwinnett Stripers vs Charlotte Knights",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Charlotte Knights",
@@ -667,7 +667,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-24-gwinnett-stripers-vs-charlotte-knights",
+      "idEvent": "scraped-816650",
       "strEvent": "Gwinnett Stripers vs Charlotte Knights",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Charlotte Knights",
@@ -680,7 +680,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-26-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816873",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -693,7 +693,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-27-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816872",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -706,20 +706,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-27-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816872",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
       "dateEvent": "2026-05-27",
       "strTime": "20:30:00",
-      "strTimestamp": "2026-05-27T20:30:00Z",
+      "strTimestamp": "2026-05-28T20:30:00Z",
       "strLeague": "International League",
       "strVenue": "Truist Field",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-28-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816871",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -732,7 +732,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-29-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816870",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -745,7 +745,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-30-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816874",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -758,7 +758,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-31-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816866",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -771,7 +771,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-02-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816725",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -784,7 +784,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-03-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816715",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -797,7 +797,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-04-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816718",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -810,7 +810,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-05-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816717",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -823,7 +823,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-06-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816716",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -836,7 +836,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-07-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816720",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -849,7 +849,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-09-charlotte-knights-vs-oklahoma-city-comets",
+      "idEvent": "scraped-816867",
       "strEvent": "Charlotte Knights vs Oklahoma City Comets",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Oklahoma City Comets",
@@ -862,7 +862,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-10-charlotte-knights-vs-oklahoma-city-comets",
+      "idEvent": "scraped-816865",
       "strEvent": "Charlotte Knights vs Oklahoma City Comets",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Oklahoma City Comets",
@@ -875,7 +875,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-11-charlotte-knights-vs-oklahoma-city-comets",
+      "idEvent": "scraped-816862",
       "strEvent": "Charlotte Knights vs Oklahoma City Comets",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Oklahoma City Comets",
@@ -888,7 +888,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-12-charlotte-knights-vs-oklahoma-city-comets",
+      "idEvent": "scraped-816868",
       "strEvent": "Charlotte Knights vs Oklahoma City Comets",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Oklahoma City Comets",
@@ -901,7 +901,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-13-charlotte-knights-vs-oklahoma-city-comets",
+      "idEvent": "scraped-816869",
       "strEvent": "Charlotte Knights vs Oklahoma City Comets",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Oklahoma City Comets",
@@ -914,7 +914,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-14-charlotte-knights-vs-oklahoma-city-comets",
+      "idEvent": "scraped-816864",
       "strEvent": "Charlotte Knights vs Oklahoma City Comets",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Oklahoma City Comets",
@@ -927,7 +927,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-16-buffalo-bisons-vs-charlotte-knights",
+      "idEvent": "scraped-816945",
       "strEvent": "Buffalo Bisons vs Charlotte Knights",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Charlotte Knights",
@@ -940,7 +940,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-17-buffalo-bisons-vs-charlotte-knights",
+      "idEvent": "scraped-816942",
       "strEvent": "Buffalo Bisons vs Charlotte Knights",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Charlotte Knights",
@@ -953,7 +953,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-18-buffalo-bisons-vs-charlotte-knights",
+      "idEvent": "scraped-816940",
       "strEvent": "Buffalo Bisons vs Charlotte Knights",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Charlotte Knights",
@@ -966,7 +966,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-19-buffalo-bisons-vs-charlotte-knights",
+      "idEvent": "scraped-816939",
       "strEvent": "Buffalo Bisons vs Charlotte Knights",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Charlotte Knights",
@@ -979,7 +979,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-20-buffalo-bisons-vs-charlotte-knights",
+      "idEvent": "scraped-816941",
       "strEvent": "Buffalo Bisons vs Charlotte Knights",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Charlotte Knights",
@@ -992,7 +992,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-21-buffalo-bisons-vs-charlotte-knights",
+      "idEvent": "scraped-816938",
       "strEvent": "Buffalo Bisons vs Charlotte Knights",
       "strHomeTeam": "Buffalo Bisons",
       "strAwayTeam": "Charlotte Knights",
@@ -1005,7 +1005,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-23-charlotte-knights-vs-rochester-red-wings",
+      "idEvent": "scraped-816863",
       "strEvent": "Charlotte Knights vs Rochester Red Wings",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Rochester Red Wings",
@@ -1018,7 +1018,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-24-charlotte-knights-vs-rochester-red-wings",
+      "idEvent": "scraped-816856",
       "strEvent": "Charlotte Knights vs Rochester Red Wings",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Rochester Red Wings",
@@ -1031,7 +1031,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25-charlotte-knights-vs-rochester-red-wings",
+      "idEvent": "scraped-816858",
       "strEvent": "Charlotte Knights vs Rochester Red Wings",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Rochester Red Wings",
@@ -1044,7 +1044,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-26-charlotte-knights-vs-rochester-red-wings",
+      "idEvent": "scraped-816857",
       "strEvent": "Charlotte Knights vs Rochester Red Wings",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Rochester Red Wings",
@@ -1057,7 +1057,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-27-charlotte-knights-vs-rochester-red-wings",
+      "idEvent": "scraped-816861",
       "strEvent": "Charlotte Knights vs Rochester Red Wings",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Rochester Red Wings",
@@ -1070,7 +1070,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-28-charlotte-knights-vs-rochester-red-wings",
+      "idEvent": "scraped-816855",
       "strEvent": "Charlotte Knights vs Rochester Red Wings",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Rochester Red Wings",
@@ -1083,24 +1083,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-30-memphis-redbirds-vs-charlotte-knights",
+      "idEvent": "scraped-816188",
       "strEvent": "Memphis Redbirds vs Charlotte Knights",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Charlotte Knights",
       "dateEvent": "2026-06-30",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-06-30T00:05:00Z",
-      "strLeague": "International League",
-      "strVenue": "AutoZone Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-01-memphis-redbirds-vs-charlotte-knights",
-      "strEvent": "Memphis Redbirds vs Charlotte Knights",
-      "strHomeTeam": "Memphis Redbirds",
-      "strAwayTeam": "Charlotte Knights",
-      "dateEvent": "2026-07-01",
       "strTime": "00:05:00",
       "strTimestamp": "2026-07-01T00:05:00Z",
       "strLeague": "International League",
@@ -1109,11 +1096,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-02-memphis-redbirds-vs-charlotte-knights",
+      "idEvent": "scraped-816183",
       "strEvent": "Memphis Redbirds vs Charlotte Knights",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Charlotte Knights",
-      "dateEvent": "2026-07-02",
+      "dateEvent": "2026-07-01",
       "strTime": "00:05:00",
       "strTimestamp": "2026-07-02T00:05:00Z",
       "strLeague": "International League",
@@ -1122,11 +1109,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-03-memphis-redbirds-vs-charlotte-knights",
+      "idEvent": "scraped-816189",
       "strEvent": "Memphis Redbirds vs Charlotte Knights",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Charlotte Knights",
-      "dateEvent": "2026-07-03",
+      "dateEvent": "2026-07-02",
       "strTime": "00:05:00",
       "strTimestamp": "2026-07-03T00:05:00Z",
       "strLeague": "International League",
@@ -1135,20 +1122,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-04-memphis-redbirds-vs-charlotte-knights",
+      "idEvent": "scraped-816184",
       "strEvent": "Memphis Redbirds vs Charlotte Knights",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Charlotte Knights",
-      "dateEvent": "2026-07-04",
-      "strTime": "00:04:00",
-      "strTimestamp": "2026-07-04T00:04:00Z",
+      "dateEvent": "2026-07-03",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-07-04T00:05:00Z",
       "strLeague": "International League",
       "strVenue": "AutoZone Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-05-memphis-redbirds-vs-charlotte-knights",
+      "idEvent": "scraped-816186",
+      "strEvent": "Memphis Redbirds vs Charlotte Knights",
+      "strHomeTeam": "Memphis Redbirds",
+      "strAwayTeam": "Charlotte Knights",
+      "dateEvent": "2026-07-04",
+      "strTime": "00:04:00",
+      "strTimestamp": "2026-07-05T00:04:00Z",
+      "strLeague": "International League",
+      "strVenue": "AutoZone Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-816190",
       "strEvent": "Memphis Redbirds vs Charlotte Knights",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Charlotte Knights",
@@ -1161,7 +1161,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-07-charlotte-knights-vs-nashville-sounds",
+      "idEvent": "scraped-816859",
       "strEvent": "Charlotte Knights vs Nashville Sounds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Nashville Sounds",
@@ -1174,7 +1174,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-08-charlotte-knights-vs-nashville-sounds",
+      "idEvent": "scraped-816854",
       "strEvent": "Charlotte Knights vs Nashville Sounds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Nashville Sounds",
@@ -1187,7 +1187,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-09-charlotte-knights-vs-nashville-sounds",
+      "idEvent": "scraped-816860",
       "strEvent": "Charlotte Knights vs Nashville Sounds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Nashville Sounds",
@@ -1200,7 +1200,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-10-charlotte-knights-vs-nashville-sounds",
+      "idEvent": "scraped-816850",
       "strEvent": "Charlotte Knights vs Nashville Sounds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Nashville Sounds",
@@ -1213,7 +1213,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-11-charlotte-knights-vs-nashville-sounds",
+      "idEvent": "scraped-816851",
       "strEvent": "Charlotte Knights vs Nashville Sounds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Nashville Sounds",
@@ -1226,7 +1226,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-12-charlotte-knights-vs-nashville-sounds",
+      "idEvent": "scraped-816852",
       "strEvent": "Charlotte Knights vs Nashville Sounds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Nashville Sounds",
@@ -1239,7 +1239,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-17-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816701",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -1252,7 +1252,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-18-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816700",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -1265,7 +1265,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-19-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816702",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -1278,7 +1278,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-21-charlotte-knights-vs-norfolk-tides",
+      "idEvent": "scraped-816848",
       "strEvent": "Charlotte Knights vs Norfolk Tides",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Norfolk Tides",
@@ -1291,7 +1291,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-22-charlotte-knights-vs-norfolk-tides",
+      "idEvent": "scraped-816847",
       "strEvent": "Charlotte Knights vs Norfolk Tides",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Norfolk Tides",
@@ -1304,7 +1304,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-23-charlotte-knights-vs-norfolk-tides",
+      "idEvent": "scraped-816853",
       "strEvent": "Charlotte Knights vs Norfolk Tides",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Norfolk Tides",
@@ -1317,7 +1317,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-24-charlotte-knights-vs-norfolk-tides",
+      "idEvent": "scraped-816849",
       "strEvent": "Charlotte Knights vs Norfolk Tides",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Norfolk Tides",
@@ -1330,7 +1330,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-25-charlotte-knights-vs-norfolk-tides",
+      "idEvent": "scraped-816840",
       "strEvent": "Charlotte Knights vs Norfolk Tides",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Norfolk Tides",
@@ -1343,7 +1343,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-26-charlotte-knights-vs-norfolk-tides",
+      "idEvent": "scraped-816843",
       "strEvent": "Charlotte Knights vs Norfolk Tides",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Norfolk Tides",
@@ -1356,7 +1356,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-28-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816105",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
@@ -1369,7 +1369,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-29-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816099",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
@@ -1382,7 +1382,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-30-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816098",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
@@ -1395,7 +1395,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-31-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816095",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
@@ -1408,7 +1408,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-01-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816094",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
@@ -1421,7 +1421,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-02-nashville-sounds-vs-charlotte-knights",
+      "idEvent": "scraped-816093",
       "strEvent": "Nashville Sounds vs Charlotte Knights",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Charlotte Knights",
@@ -1434,7 +1434,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-04-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816845",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -1447,7 +1447,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-05-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816846",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -1460,7 +1460,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-06-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816842",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -1473,7 +1473,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-07-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816841",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -1486,7 +1486,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-08-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816839",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -1499,7 +1499,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-09-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816844",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -1512,7 +1512,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-11-rochester-red-wings-vs-charlotte-knights",
+      "idEvent": "scraped-815864",
       "strEvent": "Rochester Red Wings vs Charlotte Knights",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Charlotte Knights",
@@ -1525,7 +1525,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-12-rochester-red-wings-vs-charlotte-knights",
+      "idEvent": "scraped-815868",
       "strEvent": "Rochester Red Wings vs Charlotte Knights",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Charlotte Knights",
@@ -1538,7 +1538,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-13-rochester-red-wings-vs-charlotte-knights",
+      "idEvent": "scraped-815867",
       "strEvent": "Rochester Red Wings vs Charlotte Knights",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Charlotte Knights",
@@ -1551,7 +1551,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-14-rochester-red-wings-vs-charlotte-knights",
+      "idEvent": "scraped-815866",
       "strEvent": "Rochester Red Wings vs Charlotte Knights",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Charlotte Knights",
@@ -1564,7 +1564,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-15-rochester-red-wings-vs-charlotte-knights",
+      "idEvent": "scraped-815870",
       "strEvent": "Rochester Red Wings vs Charlotte Knights",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Charlotte Knights",
@@ -1577,7 +1577,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-16-rochester-red-wings-vs-charlotte-knights",
+      "idEvent": "scraped-815865",
       "strEvent": "Rochester Red Wings vs Charlotte Knights",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Charlotte Knights",
@@ -1590,7 +1590,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-18-scranton-wilkes-barre-railriders-vs-charlotte-knights",
+      "idEvent": "scraped-815794",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Charlotte Knights",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Charlotte Knights",
@@ -1603,7 +1603,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-19-scranton-wilkes-barre-railriders-vs-charlotte-knights",
+      "idEvent": "scraped-815789",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Charlotte Knights",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Charlotte Knights",
@@ -1616,7 +1616,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-20-scranton-wilkes-barre-railriders-vs-charlotte-knights",
+      "idEvent": "scraped-815792",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Charlotte Knights",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Charlotte Knights",
@@ -1629,7 +1629,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-21-scranton-wilkes-barre-railriders-vs-charlotte-knights",
+      "idEvent": "scraped-815790",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Charlotte Knights",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Charlotte Knights",
@@ -1642,7 +1642,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-22-scranton-wilkes-barre-railriders-vs-charlotte-knights",
+      "idEvent": "scraped-815791",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Charlotte Knights",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Charlotte Knights",
@@ -1655,7 +1655,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-23-scranton-wilkes-barre-railriders-vs-charlotte-knights",
+      "idEvent": "scraped-815793",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Charlotte Knights",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Charlotte Knights",
@@ -1668,7 +1668,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-25-charlotte-knights-vs-memphis-redbirds",
+      "idEvent": "scraped-816837",
       "strEvent": "Charlotte Knights vs Memphis Redbirds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Memphis Redbirds",
@@ -1681,7 +1681,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-26-charlotte-knights-vs-memphis-redbirds",
+      "idEvent": "scraped-816835",
       "strEvent": "Charlotte Knights vs Memphis Redbirds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Memphis Redbirds",
@@ -1694,7 +1694,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-27-charlotte-knights-vs-memphis-redbirds",
+      "idEvent": "scraped-816832",
       "strEvent": "Charlotte Knights vs Memphis Redbirds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Memphis Redbirds",
@@ -1707,7 +1707,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-28-charlotte-knights-vs-memphis-redbirds",
+      "idEvent": "scraped-816831",
       "strEvent": "Charlotte Knights vs Memphis Redbirds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Memphis Redbirds",
@@ -1720,7 +1720,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-29-charlotte-knights-vs-memphis-redbirds",
+      "idEvent": "scraped-816838",
       "strEvent": "Charlotte Knights vs Memphis Redbirds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Memphis Redbirds",
@@ -1733,7 +1733,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-30-charlotte-knights-vs-memphis-redbirds",
+      "idEvent": "scraped-816836",
       "strEvent": "Charlotte Knights vs Memphis Redbirds",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Memphis Redbirds",
@@ -1746,7 +1746,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-01-gwinnett-stripers-vs-charlotte-knights",
+      "idEvent": "scraped-816619",
       "strEvent": "Gwinnett Stripers vs Charlotte Knights",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Charlotte Knights",
@@ -1759,7 +1759,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-02-gwinnett-stripers-vs-charlotte-knights",
+      "idEvent": "scraped-816608",
       "strEvent": "Gwinnett Stripers vs Charlotte Knights",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Charlotte Knights",
@@ -1772,7 +1772,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-03-gwinnett-stripers-vs-charlotte-knights",
+      "idEvent": "scraped-816609",
       "strEvent": "Gwinnett Stripers vs Charlotte Knights",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Charlotte Knights",
@@ -1785,7 +1785,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-04-gwinnett-stripers-vs-charlotte-knights",
+      "idEvent": "scraped-816612",
       "strEvent": "Gwinnett Stripers vs Charlotte Knights",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Charlotte Knights",
@@ -1798,7 +1798,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-05-gwinnett-stripers-vs-charlotte-knights",
+      "idEvent": "scraped-816611",
       "strEvent": "Gwinnett Stripers vs Charlotte Knights",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Charlotte Knights",
@@ -1811,7 +1811,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-06-gwinnett-stripers-vs-charlotte-knights",
+      "idEvent": "scraped-816606",
       "strEvent": "Gwinnett Stripers vs Charlotte Knights",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Charlotte Knights",
@@ -1824,7 +1824,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-08-charlotte-knights-vs-buffalo-bisons",
+      "idEvent": "scraped-816834",
       "strEvent": "Charlotte Knights vs Buffalo Bisons",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Buffalo Bisons",
@@ -1837,7 +1837,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-09-charlotte-knights-vs-buffalo-bisons",
+      "idEvent": "scraped-816833",
       "strEvent": "Charlotte Knights vs Buffalo Bisons",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Buffalo Bisons",
@@ -1850,7 +1850,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-10-charlotte-knights-vs-buffalo-bisons",
+      "idEvent": "scraped-816823",
       "strEvent": "Charlotte Knights vs Buffalo Bisons",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Buffalo Bisons",
@@ -1863,7 +1863,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-11-charlotte-knights-vs-buffalo-bisons",
+      "idEvent": "scraped-816828",
       "strEvent": "Charlotte Knights vs Buffalo Bisons",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Buffalo Bisons",
@@ -1876,7 +1876,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-12-charlotte-knights-vs-buffalo-bisons",
+      "idEvent": "scraped-816825",
       "strEvent": "Charlotte Knights vs Buffalo Bisons",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Buffalo Bisons",
@@ -1889,7 +1889,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-12-charlotte-knights-vs-buffalo-bisons",
+      "idEvent": "scraped-816824",
       "strEvent": "Charlotte Knights vs Buffalo Bisons",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Buffalo Bisons",
@@ -1902,7 +1902,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-15-norfolk-tides-vs-charlotte-knights",
+      "idEvent": "scraped-816008",
       "strEvent": "Norfolk Tides vs Charlotte Knights",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Charlotte Knights",
@@ -1915,7 +1915,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-16-norfolk-tides-vs-charlotte-knights",
+      "idEvent": "scraped-816004",
       "strEvent": "Norfolk Tides vs Charlotte Knights",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Charlotte Knights",
@@ -1928,7 +1928,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-17-norfolk-tides-vs-charlotte-knights",
+      "idEvent": "scraped-816005",
       "strEvent": "Norfolk Tides vs Charlotte Knights",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Charlotte Knights",
@@ -1941,7 +1941,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-18-norfolk-tides-vs-charlotte-knights",
+      "idEvent": "scraped-816010",
       "strEvent": "Norfolk Tides vs Charlotte Knights",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Charlotte Knights",
@@ -1954,7 +1954,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-19-norfolk-tides-vs-charlotte-knights",
+      "idEvent": "scraped-816009",
       "strEvent": "Norfolk Tides vs Charlotte Knights",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Charlotte Knights",
@@ -1967,7 +1967,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-20-norfolk-tides-vs-charlotte-knights",
+      "idEvent": "scraped-815997",
       "strEvent": "Norfolk Tides vs Charlotte Knights",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Charlotte Knights",

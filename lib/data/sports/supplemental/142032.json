@@ -1,10 +1,10 @@
 {
   "teamId": "142032",
   "teamName": "Jacksonville Jumbo Shrimp",
-  "updatedAt": "2026-06-24T15:23:51.076Z",
+  "updatedAt": "2026-06-25T01:19:11.426Z",
   "events": [
     {
-      "idEvent": "scraped-2026-03-27-jacksonville-jumbo-shrimp-vs-rochester-red-wings",
+      "idEvent": "scraped-816453",
       "strEvent": "Jacksonville Jumbo Shrimp vs Rochester Red Wings",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Rochester Red Wings",
@@ -17,7 +17,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-28-jacksonville-jumbo-shrimp-vs-rochester-red-wings",
+      "idEvent": "scraped-816455",
       "strEvent": "Jacksonville Jumbo Shrimp vs Rochester Red Wings",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Rochester Red Wings",
@@ -30,7 +30,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-29-jacksonville-jumbo-shrimp-vs-rochester-red-wings",
+      "idEvent": "scraped-816446",
       "strEvent": "Jacksonville Jumbo Shrimp vs Rochester Red Wings",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Rochester Red Wings",
@@ -43,7 +43,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-31-jacksonville-jumbo-shrimp-vs-sugar-land-space-cowboys",
+      "idEvent": "scraped-816447",
       "strEvent": "Jacksonville Jumbo Shrimp vs Sugar Land Space Cowboys",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Sugar Land Space Cowboys",
@@ -56,7 +56,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-01-jacksonville-jumbo-shrimp-vs-sugar-land-space-cowboys",
+      "idEvent": "scraped-816448",
       "strEvent": "Jacksonville Jumbo Shrimp vs Sugar Land Space Cowboys",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Sugar Land Space Cowboys",
@@ -69,7 +69,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-02-jacksonville-jumbo-shrimp-vs-sugar-land-space-cowboys",
+      "idEvent": "scraped-816443",
       "strEvent": "Jacksonville Jumbo Shrimp vs Sugar Land Space Cowboys",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Sugar Land Space Cowboys",
@@ -82,7 +82,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-03-jacksonville-jumbo-shrimp-vs-sugar-land-space-cowboys",
+      "idEvent": "scraped-816442",
       "strEvent": "Jacksonville Jumbo Shrimp vs Sugar Land Space Cowboys",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Sugar Land Space Cowboys",
@@ -95,7 +95,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-04-jacksonville-jumbo-shrimp-vs-sugar-land-space-cowboys",
+      "idEvent": "scraped-816449",
       "strEvent": "Jacksonville Jumbo Shrimp vs Sugar Land Space Cowboys",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Sugar Land Space Cowboys",
@@ -108,7 +108,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-05-jacksonville-jumbo-shrimp-vs-sugar-land-space-cowboys",
+      "idEvent": "scraped-816445",
       "strEvent": "Jacksonville Jumbo Shrimp vs Sugar Land Space Cowboys",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Sugar Land Space Cowboys",
@@ -121,7 +121,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-07-norfolk-tides-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816073",
       "strEvent": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -134,7 +134,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-08-norfolk-tides-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816071",
       "strEvent": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -147,7 +147,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-09-norfolk-tides-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816070",
       "strEvent": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -160,7 +160,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-10-norfolk-tides-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816069",
       "strEvent": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -173,7 +173,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-11-norfolk-tides-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816067",
       "strEvent": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -186,7 +186,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-12-norfolk-tides-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816074",
       "strEvent": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -199,7 +199,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-14-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816444",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -212,7 +212,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-15-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816437",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -225,7 +225,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-16-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816434",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -238,7 +238,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-17-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816438",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -251,7 +251,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-18-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816435",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -264,7 +264,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-19-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816440",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -277,7 +277,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-21-gwinnett-stripers-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816662",
       "strEvent": "Gwinnett Stripers vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -290,7 +290,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-22-gwinnett-stripers-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816668",
       "strEvent": "Gwinnett Stripers vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -303,7 +303,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-23-gwinnett-stripers-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816667",
       "strEvent": "Gwinnett Stripers vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -316,7 +316,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-24-gwinnett-stripers-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816666",
       "strEvent": "Gwinnett Stripers vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -329,7 +329,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-25-gwinnett-stripers-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816665",
       "strEvent": "Gwinnett Stripers vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -342,7 +342,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-gwinnett-stripers-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816664",
       "strEvent": "Gwinnett Stripers vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -355,7 +355,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-28-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816735",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -368,7 +368,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-29-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816737",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -381,7 +381,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-30-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816734",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -394,7 +394,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-01-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816736",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -407,7 +407,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-02-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816738",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -420,7 +420,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-03-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816733",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -433,7 +433,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-05-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816436",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -446,7 +446,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-06-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816439",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -459,7 +459,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-07-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816441",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -472,7 +472,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-08-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816428",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -485,7 +485,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-09-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816433",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -498,7 +498,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-10-jacksonville-jumbo-shrimp-vs-charlotte-knights",
+      "idEvent": "scraped-816431",
       "strEvent": "Jacksonville Jumbo Shrimp vs Charlotte Knights",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Charlotte Knights",
@@ -511,7 +511,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-12-memphis-redbirds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816212",
       "strEvent": "Memphis Redbirds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -524,7 +524,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-13-memphis-redbirds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816209",
       "strEvent": "Memphis Redbirds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -537,7 +537,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-14-memphis-redbirds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816202",
       "strEvent": "Memphis Redbirds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -550,20 +550,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-15-memphis-redbirds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816204",
       "strEvent": "Memphis Redbirds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
       "dateEvent": "2026-05-15",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-05-15T00:05:00Z",
+      "strTimestamp": "2026-05-16T00:05:00Z",
       "strLeague": "International League",
       "strVenue": "AutoZone Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-16-memphis-redbirds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816203",
       "strEvent": "Memphis Redbirds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -576,7 +576,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-17-memphis-redbirds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816205",
       "strEvent": "Memphis Redbirds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -589,7 +589,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-19-jacksonville-jumbo-shrimp-vs-norfolk-tides",
+      "idEvent": "scraped-816427",
       "strEvent": "Jacksonville Jumbo Shrimp vs Norfolk Tides",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Norfolk Tides",
@@ -602,7 +602,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-20-jacksonville-jumbo-shrimp-vs-norfolk-tides",
+      "idEvent": "scraped-816429",
       "strEvent": "Jacksonville Jumbo Shrimp vs Norfolk Tides",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Norfolk Tides",
@@ -615,7 +615,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-21-jacksonville-jumbo-shrimp-vs-norfolk-tides",
+      "idEvent": "scraped-816426",
       "strEvent": "Jacksonville Jumbo Shrimp vs Norfolk Tides",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Norfolk Tides",
@@ -628,7 +628,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-22-jacksonville-jumbo-shrimp-vs-norfolk-tides",
+      "idEvent": "scraped-816430",
       "strEvent": "Jacksonville Jumbo Shrimp vs Norfolk Tides",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Norfolk Tides",
@@ -641,7 +641,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23-jacksonville-jumbo-shrimp-vs-norfolk-tides",
+      "idEvent": "scraped-816432",
       "strEvent": "Jacksonville Jumbo Shrimp vs Norfolk Tides",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Norfolk Tides",
@@ -654,7 +654,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-24-jacksonville-jumbo-shrimp-vs-norfolk-tides",
+      "idEvent": "scraped-816422",
       "strEvent": "Jacksonville Jumbo Shrimp vs Norfolk Tides",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Norfolk Tides",
@@ -667,7 +667,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-26-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816873",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -680,7 +680,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-27-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816872",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -693,20 +693,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-27-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816872",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
       "dateEvent": "2026-05-27",
       "strTime": "20:30:00",
-      "strTimestamp": "2026-05-27T20:30:00Z",
+      "strTimestamp": "2026-05-28T20:30:00Z",
       "strLeague": "International League",
       "strVenue": "Truist Field",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-28-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816871",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -719,7 +719,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-29-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816870",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -732,7 +732,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-30-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816874",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -745,7 +745,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-31-charlotte-knights-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816866",
       "strEvent": "Charlotte Knights vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -758,7 +758,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-02-jacksonville-jumbo-shrimp-vs-nashville-sounds",
+      "idEvent": "scraped-816418",
       "strEvent": "Jacksonville Jumbo Shrimp vs Nashville Sounds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Nashville Sounds",
@@ -771,7 +771,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-03-jacksonville-jumbo-shrimp-vs-nashville-sounds",
+      "idEvent": "scraped-816424",
       "strEvent": "Jacksonville Jumbo Shrimp vs Nashville Sounds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Nashville Sounds",
@@ -784,7 +784,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-04-jacksonville-jumbo-shrimp-vs-nashville-sounds",
+      "idEvent": "scraped-816423",
       "strEvent": "Jacksonville Jumbo Shrimp vs Nashville Sounds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Nashville Sounds",
@@ -797,7 +797,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-05-jacksonville-jumbo-shrimp-vs-nashville-sounds",
+      "idEvent": "scraped-816425",
       "strEvent": "Jacksonville Jumbo Shrimp vs Nashville Sounds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Nashville Sounds",
@@ -810,7 +810,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-06-jacksonville-jumbo-shrimp-vs-nashville-sounds",
+      "idEvent": "scraped-816421",
       "strEvent": "Jacksonville Jumbo Shrimp vs Nashville Sounds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Nashville Sounds",
@@ -823,7 +823,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-07-jacksonville-jumbo-shrimp-vs-nashville-sounds",
+      "idEvent": "scraped-816419",
       "strEvent": "Jacksonville Jumbo Shrimp vs Nashville Sounds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Nashville Sounds",
@@ -836,7 +836,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-09-jacksonville-jumbo-shrimp-vs-gwinnett-stripers",
+      "idEvent": "scraped-816420",
       "strEvent": "Jacksonville Jumbo Shrimp vs Gwinnett Stripers",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Gwinnett Stripers",
@@ -849,7 +849,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-10-jacksonville-jumbo-shrimp-vs-gwinnett-stripers",
+      "idEvent": "scraped-816412",
       "strEvent": "Jacksonville Jumbo Shrimp vs Gwinnett Stripers",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Gwinnett Stripers",
@@ -862,7 +862,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-11-jacksonville-jumbo-shrimp-vs-gwinnett-stripers",
+      "idEvent": "scraped-816416",
       "strEvent": "Jacksonville Jumbo Shrimp vs Gwinnett Stripers",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Gwinnett Stripers",
@@ -875,7 +875,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-12-jacksonville-jumbo-shrimp-vs-gwinnett-stripers",
+      "idEvent": "scraped-816411",
       "strEvent": "Jacksonville Jumbo Shrimp vs Gwinnett Stripers",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Gwinnett Stripers",
@@ -888,7 +888,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-13-jacksonville-jumbo-shrimp-vs-gwinnett-stripers",
+      "idEvent": "scraped-816414",
       "strEvent": "Jacksonville Jumbo Shrimp vs Gwinnett Stripers",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Gwinnett Stripers",
@@ -901,7 +901,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-14-jacksonville-jumbo-shrimp-vs-gwinnett-stripers",
+      "idEvent": "scraped-816417",
       "strEvent": "Jacksonville Jumbo Shrimp vs Gwinnett Stripers",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Gwinnett Stripers",
@@ -914,7 +914,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-16-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816719",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -927,7 +927,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-17-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816714",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -940,7 +940,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-18-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816712",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -953,7 +953,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-19-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816713",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -966,7 +966,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-20-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816711",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -979,7 +979,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-21-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816709",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -992,7 +992,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-23-jacksonville-jumbo-shrimp-vs-memphis-redbirds",
+      "idEvent": "scraped-816415",
       "strEvent": "Jacksonville Jumbo Shrimp vs Memphis Redbirds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Memphis Redbirds",
@@ -1005,7 +1005,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-24-jacksonville-jumbo-shrimp-vs-memphis-redbirds",
+      "idEvent": "scraped-816413",
       "strEvent": "Jacksonville Jumbo Shrimp vs Memphis Redbirds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Memphis Redbirds",
@@ -1018,7 +1018,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25-jacksonville-jumbo-shrimp-vs-memphis-redbirds",
+      "idEvent": "scraped-816410",
       "strEvent": "Jacksonville Jumbo Shrimp vs Memphis Redbirds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Memphis Redbirds",
@@ -1031,7 +1031,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-26-jacksonville-jumbo-shrimp-vs-memphis-redbirds",
+      "idEvent": "scraped-816403",
       "strEvent": "Jacksonville Jumbo Shrimp vs Memphis Redbirds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Memphis Redbirds",
@@ -1044,7 +1044,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-27-jacksonville-jumbo-shrimp-vs-memphis-redbirds",
+      "idEvent": "scraped-816409",
       "strEvent": "Jacksonville Jumbo Shrimp vs Memphis Redbirds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Memphis Redbirds",
@@ -1057,7 +1057,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-28-jacksonville-jumbo-shrimp-vs-memphis-redbirds",
+      "idEvent": "scraped-816407",
       "strEvent": "Jacksonville Jumbo Shrimp vs Memphis Redbirds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Memphis Redbirds",
@@ -1070,7 +1070,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-30-nashville-sounds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816112",
       "strEvent": "Nashville Sounds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1083,7 +1083,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-01-nashville-sounds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816113",
       "strEvent": "Nashville Sounds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1096,7 +1096,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-02-nashville-sounds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816104",
       "strEvent": "Nashville Sounds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1109,7 +1109,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-03-nashville-sounds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816107",
       "strEvent": "Nashville Sounds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1122,7 +1122,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-04-nashville-sounds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816106",
       "strEvent": "Nashville Sounds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1135,7 +1135,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-05-nashville-sounds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816103",
       "strEvent": "Nashville Sounds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1148,7 +1148,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-07-jacksonville-jumbo-shrimp-vs-durham-bulls",
+      "idEvent": "scraped-816406",
       "strEvent": "Jacksonville Jumbo Shrimp vs Durham Bulls",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Durham Bulls",
@@ -1161,7 +1161,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-08-jacksonville-jumbo-shrimp-vs-durham-bulls",
+      "idEvent": "scraped-816405",
       "strEvent": "Jacksonville Jumbo Shrimp vs Durham Bulls",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Durham Bulls",
@@ -1174,7 +1174,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-09-jacksonville-jumbo-shrimp-vs-durham-bulls",
+      "idEvent": "scraped-816408",
       "strEvent": "Jacksonville Jumbo Shrimp vs Durham Bulls",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Durham Bulls",
@@ -1187,7 +1187,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-10-jacksonville-jumbo-shrimp-vs-durham-bulls",
+      "idEvent": "scraped-816404",
       "strEvent": "Jacksonville Jumbo Shrimp vs Durham Bulls",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Durham Bulls",
@@ -1200,7 +1200,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-11-jacksonville-jumbo-shrimp-vs-durham-bulls",
+      "idEvent": "scraped-816398",
       "strEvent": "Jacksonville Jumbo Shrimp vs Durham Bulls",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Durham Bulls",
@@ -1213,7 +1213,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-12-jacksonville-jumbo-shrimp-vs-durham-bulls",
+      "idEvent": "scraped-816397",
       "strEvent": "Jacksonville Jumbo Shrimp vs Durham Bulls",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Durham Bulls",
@@ -1226,7 +1226,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-17-rochester-red-wings-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815877",
       "strEvent": "Rochester Red Wings vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1239,7 +1239,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-18-rochester-red-wings-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815878",
       "strEvent": "Rochester Red Wings vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1252,7 +1252,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-19-rochester-red-wings-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815875",
       "strEvent": "Rochester Red Wings vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Rochester Red Wings",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1265,7 +1265,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-21-worcester-red-sox-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815510",
       "strEvent": "Worcester Red Sox vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1278,7 +1278,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-22-worcester-red-sox-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815504",
       "strEvent": "Worcester Red Sox vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1291,7 +1291,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-23-worcester-red-sox-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815505",
       "strEvent": "Worcester Red Sox vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1304,7 +1304,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-24-worcester-red-sox-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815503",
       "strEvent": "Worcester Red Sox vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1317,7 +1317,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-25-worcester-red-sox-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815501",
       "strEvent": "Worcester Red Sox vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1330,7 +1330,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-26-worcester-red-sox-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815499",
       "strEvent": "Worcester Red Sox vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1343,7 +1343,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-28-jacksonville-jumbo-shrimp-vs-memphis-redbirds",
+      "idEvent": "scraped-816399",
       "strEvent": "Jacksonville Jumbo Shrimp vs Memphis Redbirds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Memphis Redbirds",
@@ -1356,7 +1356,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-29-jacksonville-jumbo-shrimp-vs-memphis-redbirds",
+      "idEvent": "scraped-816401",
       "strEvent": "Jacksonville Jumbo Shrimp vs Memphis Redbirds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Memphis Redbirds",
@@ -1369,7 +1369,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-30-jacksonville-jumbo-shrimp-vs-memphis-redbirds",
+      "idEvent": "scraped-816394",
       "strEvent": "Jacksonville Jumbo Shrimp vs Memphis Redbirds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Memphis Redbirds",
@@ -1382,7 +1382,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-31-jacksonville-jumbo-shrimp-vs-memphis-redbirds",
+      "idEvent": "scraped-816396",
       "strEvent": "Jacksonville Jumbo Shrimp vs Memphis Redbirds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Memphis Redbirds",
@@ -1395,7 +1395,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-01-jacksonville-jumbo-shrimp-vs-memphis-redbirds",
+      "idEvent": "scraped-816402",
       "strEvent": "Jacksonville Jumbo Shrimp vs Memphis Redbirds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Memphis Redbirds",
@@ -1408,7 +1408,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-02-jacksonville-jumbo-shrimp-vs-memphis-redbirds",
+      "idEvent": "scraped-816400",
       "strEvent": "Jacksonville Jumbo Shrimp vs Memphis Redbirds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Memphis Redbirds",
@@ -1421,7 +1421,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-04-gwinnett-stripers-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816626",
       "strEvent": "Gwinnett Stripers vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1434,7 +1434,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-05-gwinnett-stripers-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816628",
       "strEvent": "Gwinnett Stripers vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1447,7 +1447,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-06-gwinnett-stripers-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816622",
       "strEvent": "Gwinnett Stripers vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1460,7 +1460,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-07-gwinnett-stripers-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816623",
       "strEvent": "Gwinnett Stripers vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1473,7 +1473,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-08-gwinnett-stripers-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816621",
       "strEvent": "Gwinnett Stripers vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1486,7 +1486,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-09-gwinnett-stripers-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816613",
       "strEvent": "Gwinnett Stripers vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1499,7 +1499,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-11-jacksonville-jumbo-shrimp-vs-syracuse-mets",
+      "idEvent": "scraped-816395",
       "strEvent": "Jacksonville Jumbo Shrimp vs Syracuse Mets",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Syracuse Mets",
@@ -1512,7 +1512,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-12-jacksonville-jumbo-shrimp-vs-syracuse-mets",
+      "idEvent": "scraped-816388",
       "strEvent": "Jacksonville Jumbo Shrimp vs Syracuse Mets",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Syracuse Mets",
@@ -1525,7 +1525,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-13-jacksonville-jumbo-shrimp-vs-syracuse-mets",
+      "idEvent": "scraped-816386",
       "strEvent": "Jacksonville Jumbo Shrimp vs Syracuse Mets",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Syracuse Mets",
@@ -1538,7 +1538,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-14-jacksonville-jumbo-shrimp-vs-syracuse-mets",
+      "idEvent": "scraped-816393",
       "strEvent": "Jacksonville Jumbo Shrimp vs Syracuse Mets",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Syracuse Mets",
@@ -1551,7 +1551,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-15-jacksonville-jumbo-shrimp-vs-syracuse-mets",
+      "idEvent": "scraped-816389",
       "strEvent": "Jacksonville Jumbo Shrimp vs Syracuse Mets",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Syracuse Mets",
@@ -1564,7 +1564,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-16-jacksonville-jumbo-shrimp-vs-syracuse-mets",
+      "idEvent": "scraped-816392",
       "strEvent": "Jacksonville Jumbo Shrimp vs Syracuse Mets",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Syracuse Mets",
@@ -1577,7 +1577,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-18-memphis-redbirds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816173",
       "strEvent": "Memphis Redbirds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1590,7 +1590,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-19-memphis-redbirds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816174",
       "strEvent": "Memphis Redbirds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1603,7 +1603,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-20-memphis-redbirds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816169",
       "strEvent": "Memphis Redbirds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1616,20 +1616,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-21-memphis-redbirds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816172",
       "strEvent": "Memphis Redbirds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
       "dateEvent": "2026-08-21",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-08-21T00:05:00Z",
+      "strTimestamp": "2026-08-22T00:05:00Z",
       "strLeague": "International League",
       "strVenue": "AutoZone Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-22-memphis-redbirds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816161",
       "strEvent": "Memphis Redbirds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1642,7 +1642,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-23-memphis-redbirds-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816163",
       "strEvent": "Memphis Redbirds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1655,7 +1655,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-25-jacksonville-jumbo-shrimp-vs-nashville-sounds",
+      "idEvent": "scraped-816391",
       "strEvent": "Jacksonville Jumbo Shrimp vs Nashville Sounds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Nashville Sounds",
@@ -1668,7 +1668,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-26-jacksonville-jumbo-shrimp-vs-nashville-sounds",
+      "idEvent": "scraped-816390",
       "strEvent": "Jacksonville Jumbo Shrimp vs Nashville Sounds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Nashville Sounds",
@@ -1681,7 +1681,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-27-jacksonville-jumbo-shrimp-vs-nashville-sounds",
+      "idEvent": "scraped-816387",
       "strEvent": "Jacksonville Jumbo Shrimp vs Nashville Sounds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Nashville Sounds",
@@ -1694,7 +1694,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-28-jacksonville-jumbo-shrimp-vs-nashville-sounds",
+      "idEvent": "scraped-816384",
       "strEvent": "Jacksonville Jumbo Shrimp vs Nashville Sounds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Nashville Sounds",
@@ -1707,7 +1707,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-29-jacksonville-jumbo-shrimp-vs-nashville-sounds",
+      "idEvent": "scraped-816383",
       "strEvent": "Jacksonville Jumbo Shrimp vs Nashville Sounds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Nashville Sounds",
@@ -1720,7 +1720,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-30-jacksonville-jumbo-shrimp-vs-nashville-sounds",
+      "idEvent": "scraped-816378",
       "strEvent": "Jacksonville Jumbo Shrimp vs Nashville Sounds",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Nashville Sounds",
@@ -1733,7 +1733,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-01-norfolk-tides-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816013",
       "strEvent": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1746,7 +1746,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-02-norfolk-tides-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816016",
       "strEvent": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1759,7 +1759,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-03-norfolk-tides-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816017",
       "strEvent": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1772,7 +1772,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-04-norfolk-tides-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816006",
       "strEvent": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1785,7 +1785,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-05-norfolk-tides-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816007",
       "strEvent": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1798,7 +1798,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-06-norfolk-tides-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816003",
       "strEvent": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1811,7 +1811,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-08-jacksonville-jumbo-shrimp-vs-gwinnett-stripers",
+      "idEvent": "scraped-816380",
       "strEvent": "Jacksonville Jumbo Shrimp vs Gwinnett Stripers",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1824,7 +1824,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-08-jacksonville-jumbo-shrimp-vs-gwinnett-stripers",
+      "idEvent": "scraped-816377",
       "strEvent": "Jacksonville Jumbo Shrimp vs Gwinnett Stripers",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1837,7 +1837,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-09-jacksonville-jumbo-shrimp-vs-gwinnett-stripers",
+      "idEvent": "scraped-816379",
       "strEvent": "Jacksonville Jumbo Shrimp vs Gwinnett Stripers",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1850,7 +1850,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-10-jacksonville-jumbo-shrimp-vs-gwinnett-stripers",
+      "idEvent": "scraped-816385",
       "strEvent": "Jacksonville Jumbo Shrimp vs Gwinnett Stripers",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1863,7 +1863,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-11-jacksonville-jumbo-shrimp-vs-gwinnett-stripers",
+      "idEvent": "scraped-816382",
       "strEvent": "Jacksonville Jumbo Shrimp vs Gwinnett Stripers",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1876,7 +1876,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-12-jacksonville-jumbo-shrimp-vs-gwinnett-stripers",
+      "idEvent": "scraped-816381",
       "strEvent": "Jacksonville Jumbo Shrimp vs Gwinnett Stripers",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1889,7 +1889,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-15-scranton-wilkes-barre-railriders-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815784",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1902,7 +1902,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-16-scranton-wilkes-barre-railriders-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815786",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1915,7 +1915,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-17-scranton-wilkes-barre-railriders-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815777",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1928,7 +1928,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-18-scranton-wilkes-barre-railriders-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815780",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1941,7 +1941,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-19-scranton-wilkes-barre-railriders-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815779",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1954,7 +1954,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-20-scranton-wilkes-barre-railriders-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-815778",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",

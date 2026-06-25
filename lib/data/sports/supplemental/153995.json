@@ -1,27 +1,14 @@
 {
   "teamId": "153995",
   "teamName": "Vancouver Canadians",
-  "updatedAt": "2026-06-24T15:23:51.823Z",
+  "updatedAt": "2026-06-25T01:19:12.313Z",
   "events": [
     {
-      "idEvent": "scraped-2026-04-03-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819180",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-04-03",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-04-03T01:30:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Gesa Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-04-tri-city-dust-devils-vs-vancouver-canadians",
-      "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
-      "strHomeTeam": "Tri-City Dust Devils",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-04-04",
       "strTime": "01:30:00",
       "strTimestamp": "2026-04-04T01:30:00Z",
       "strLeague": "Northwest League",
@@ -30,7 +17,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-05-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819181",
+      "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
+      "strHomeTeam": "Tri-City Dust Devils",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-04-04",
+      "strTime": "01:30:00",
+      "strTimestamp": "2026-04-05T01:30:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Gesa Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819182",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
@@ -43,24 +43,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-07-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819113",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-04-07",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-04-07T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-08-vancouver-canadians-vs-eugene-emeralds",
-      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-04-08",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-08T02:05:00Z",
       "strLeague": "Northwest League",
@@ -69,11 +56,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-09-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819111",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-04-09",
+      "dateEvent": "2026-04-08",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-09T02:05:00Z",
       "strLeague": "Northwest League",
@@ -82,7 +69,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-10-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819109",
+      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-04-09",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-04-10T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819114",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -95,7 +95,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-11-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819108",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -108,7 +108,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-12-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819100",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -121,7 +121,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-14-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819241",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
@@ -134,24 +134,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-15-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819236",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-04-15",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-04-15T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-16-spokane-indians-vs-vancouver-canadians",
-      "strEvent": "Spokane Indians vs Vancouver Canadians",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-04-16",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-16T01:35:00Z",
       "strLeague": "Northwest League",
@@ -160,11 +147,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-17-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819238",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-04-17",
+      "dateEvent": "2026-04-16",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-17T01:35:00Z",
       "strLeague": "Northwest League",
@@ -173,20 +160,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-18-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819240",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-04-18",
-      "strTime": "00:09:00",
-      "strTimestamp": "2026-04-18T00:09:00Z",
+      "dateEvent": "2026-04-17",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-04-18T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Avista Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-19-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819244",
+      "strEvent": "Spokane Indians vs Vancouver Canadians",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-04-18",
+      "strTime": "00:09:00",
+      "strTimestamp": "2026-04-19T00:09:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819237",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
@@ -199,24 +199,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-21-vancouver-canadians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819105",
       "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Tri-City Dust Devils",
       "dateEvent": "2026-04-21",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-04-21T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-22-vancouver-canadians-vs-tri-city-dust-devils",
-      "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-04-22",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-22T02:05:00Z",
       "strLeague": "Northwest League",
@@ -225,11 +212,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-23-vancouver-canadians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819102",
       "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-04-23",
+      "dateEvent": "2026-04-22",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-23T02:05:00Z",
       "strLeague": "Northwest League",
@@ -238,7 +225,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-24-vancouver-canadians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819101",
+      "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Tri-City Dust Devils",
+      "dateEvent": "2026-04-23",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-04-24T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819107",
       "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -251,7 +251,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-25-vancouver-canadians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819106",
       "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -264,7 +264,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-vancouver-canadians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819104",
       "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -277,24 +277,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-28-vancouver-canadians-vs-hillsboro-hops",
+      "idEvent": "scraped-819099",
       "strEvent": "Vancouver Canadians vs Hillsboro Hops",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-04-28",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-04-28T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-29-vancouver-canadians-vs-hillsboro-hops",
-      "strEvent": "Vancouver Canadians vs Hillsboro Hops",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-04-29",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-29T02:05:00Z",
       "strLeague": "Northwest League",
@@ -303,11 +290,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-30-vancouver-canadians-vs-hillsboro-hops",
+      "idEvent": "scraped-819103",
       "strEvent": "Vancouver Canadians vs Hillsboro Hops",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-04-30",
+      "dateEvent": "2026-04-29",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-30T02:05:00Z",
       "strLeague": "Northwest League",
@@ -316,7 +303,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-01-vancouver-canadians-vs-hillsboro-hops",
+      "idEvent": "scraped-819095",
+      "strEvent": "Vancouver Canadians vs Hillsboro Hops",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Hillsboro Hops",
+      "dateEvent": "2026-04-30",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-05-01T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819096",
       "strEvent": "Vancouver Canadians vs Hillsboro Hops",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Hillsboro Hops",
@@ -329,7 +329,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-02-vancouver-canadians-vs-hillsboro-hops",
+      "idEvent": "scraped-819091",
       "strEvent": "Vancouver Canadians vs Hillsboro Hops",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Hillsboro Hops",
@@ -342,7 +342,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-03-vancouver-canadians-vs-hillsboro-hops",
+      "idEvent": "scraped-819094",
       "strEvent": "Vancouver Canadians vs Hillsboro Hops",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Hillsboro Hops",
@@ -355,37 +355,24 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-04-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819432",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-05-04",
       "strTime": "01:35:00",
-      "strTimestamp": "2026-05-04T01:35:00Z",
+      "strTimestamp": "2026-05-05T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-07-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819431",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-05-07",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-05-07T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-08-eugene-emeralds-vs-vancouver-canadians",
-      "strEvent": "Eugene Emeralds vs Vancouver Canadians",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-05-08",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-08T01:35:00Z",
       "strLeague": "Northwest League",
@@ -394,33 +381,46 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-09-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819424",
+      "strEvent": "Eugene Emeralds vs Vancouver Canadians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-05-08",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-05-09T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819417",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-05-09",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-05-09T00:05:00Z",
+      "strTimestamp": "2026-05-10T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-09-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819428",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-05-09",
       "strTime": "00:10:00",
-      "strTimestamp": "2026-05-09T00:10:00Z",
+      "strTimestamp": "2026-05-10T00:10:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-10-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819422",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
@@ -433,24 +433,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-12-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819097",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-05-12",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-05-12T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-13-vancouver-canadians-vs-everett-aquasox",
-      "strEvent": "Vancouver Canadians vs Everett AquaSox",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-05-13",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-13T02:05:00Z",
       "strLeague": "Northwest League",
@@ -459,11 +446,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-14-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819092",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-05-14",
+      "dateEvent": "2026-05-13",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-14T02:05:00Z",
       "strLeague": "Northwest League",
@@ -472,7 +459,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-16-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819093",
+      "strEvent": "Vancouver Canadians vs Everett AquaSox",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-05-14",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-05-15T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819098",
+      "strEvent": "Vancouver Canadians vs Everett AquaSox",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-05-16",
+      "strTime": "20:05:00",
+      "strTimestamp": "2026-05-15T20:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819087",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -485,20 +498,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-16-vancouver-canadians-vs-everett-aquasox",
-      "strEvent": "Vancouver Canadians vs Everett AquaSox",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-05-16",
-      "strTime": "20:05:00",
-      "strTimestamp": "2026-05-16T20:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-16-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819098",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -511,7 +511,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-17-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819090",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -524,24 +524,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-19-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819235",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-05-19",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-05-19T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-20-spokane-indians-vs-vancouver-canadians",
-      "strEvent": "Spokane Indians vs Vancouver Canadians",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-05-20",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-20T01:35:00Z",
       "strLeague": "Northwest League",
@@ -550,11 +537,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-21-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819232",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-05-21",
+      "dateEvent": "2026-05-20",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-21T01:35:00Z",
       "strLeague": "Northwest League",
@@ -563,11 +550,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-22-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819223",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-05-22",
+      "dateEvent": "2026-05-21",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-22T01:35:00Z",
       "strLeague": "Northwest League",
@@ -576,20 +563,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819224",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-05-23",
-      "strTime": "00:09:00",
-      "strTimestamp": "2026-05-23T00:09:00Z",
+      "dateEvent": "2026-05-22",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-05-23T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Avista Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-24-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819226",
+      "strEvent": "Spokane Indians vs Vancouver Canadians",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-05-23",
+      "strTime": "00:09:00",
+      "strTimestamp": "2026-05-24T00:09:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819227",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
@@ -602,24 +602,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-26-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819088",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-05-26",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-05-26T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-27-vancouver-canadians-vs-eugene-emeralds",
-      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-05-27",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-27T02:05:00Z",
       "strLeague": "Northwest League",
@@ -628,11 +615,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-28-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819083",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-05-28",
+      "dateEvent": "2026-05-27",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-28T02:05:00Z",
       "strLeague": "Northwest League",
@@ -641,7 +628,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-29-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819084",
+      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-05-28",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-05-29T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819089",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -654,7 +654,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-30-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819086",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -667,7 +667,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-31-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819085",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -680,24 +680,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-02-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819156",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-06-02",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-06-02T01:30:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Gesa Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-03-tri-city-dust-devils-vs-vancouver-canadians",
-      "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
-      "strHomeTeam": "Tri-City Dust Devils",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-03",
       "strTime": "01:30:00",
       "strTimestamp": "2026-06-03T01:30:00Z",
       "strLeague": "Northwest League",
@@ -706,11 +693,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-04-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819157",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-04",
+      "dateEvent": "2026-06-03",
       "strTime": "01:30:00",
       "strTimestamp": "2026-06-04T01:30:00Z",
       "strLeague": "Northwest League",
@@ -719,11 +706,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-05-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819144",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-05",
+      "dateEvent": "2026-06-04",
       "strTime": "01:30:00",
       "strTimestamp": "2026-06-05T01:30:00Z",
       "strLeague": "Northwest League",
@@ -732,11 +719,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-06-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819141",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-06",
+      "dateEvent": "2026-06-05",
       "strTime": "01:30:00",
       "strTimestamp": "2026-06-06T01:30:00Z",
       "strLeague": "Northwest League",
@@ -745,7 +732,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-07-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819143",
+      "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
+      "strHomeTeam": "Tri-City Dust Devils",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-06-06",
+      "strTime": "01:30:00",
+      "strTimestamp": "2026-06-07T01:30:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Gesa Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819147",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
@@ -758,24 +758,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-09-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819075",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-06-09",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-06-09T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-10-vancouver-canadians-vs-everett-aquasox",
-      "strEvent": "Vancouver Canadians vs Everett AquaSox",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-06-10",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-10T02:05:00Z",
       "strLeague": "Northwest League",
@@ -784,11 +771,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-11-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819077",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-06-11",
+      "dateEvent": "2026-06-10",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-11T02:05:00Z",
       "strLeague": "Northwest League",
@@ -797,7 +784,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-12-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819082",
+      "strEvent": "Vancouver Canadians vs Everett AquaSox",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-06-11",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-06-12T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819078",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -810,7 +810,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-13-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819079",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -823,7 +823,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-14-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819080",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -836,24 +836,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-16-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819216",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-06-16",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-06-16T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-17-spokane-indians-vs-vancouver-canadians",
-      "strEvent": "Spokane Indians vs Vancouver Canadians",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-17",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-17T01:35:00Z",
       "strLeague": "Northwest League",
@@ -862,11 +849,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-18-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819217",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-18",
+      "dateEvent": "2026-06-17",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-18T01:35:00Z",
       "strLeague": "Northwest League",
@@ -875,24 +862,24 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-19-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819213",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-19",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-06-19T02:05:00Z",
+      "dateEvent": "2026-06-18",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-06-19T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Avista Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-20-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819214",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-20",
+      "dateEvent": "2026-06-19",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-20T02:05:00Z",
       "strLeague": "Northwest League",
@@ -901,7 +888,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-21-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819212",
+      "strEvent": "Spokane Indians vs Vancouver Canadians",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-06-20",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-06-21T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819219",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
@@ -914,24 +914,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-23-hillsboro-hops-vs-vancouver-canadians",
+      "idEvent": "scraped-819285",
       "strEvent": "Hillsboro Hops vs Vancouver Canadians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-06-23",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-06-23T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Hops Ballpark",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-24-hillsboro-hops-vs-vancouver-canadians",
-      "strEvent": "Hillsboro Hops vs Vancouver Canadians",
-      "strHomeTeam": "Hillsboro Hops",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-24",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-24T01:35:00Z",
       "strLeague": "Northwest League",
@@ -940,11 +927,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25-hillsboro-hops-vs-vancouver-canadians",
+      "idEvent": "scraped-819278",
       "strEvent": "Hillsboro Hops vs Vancouver Canadians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-25",
+      "dateEvent": "2026-06-24",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-25T01:35:00Z",
       "strLeague": "Northwest League",
@@ -953,11 +940,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-26-hillsboro-hops-vs-vancouver-canadians",
+      "idEvent": "scraped-819279",
       "strEvent": "Hillsboro Hops vs Vancouver Canadians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-26",
+      "dateEvent": "2026-06-25",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-26T01:35:00Z",
       "strLeague": "Northwest League",
@@ -966,20 +953,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-27-hillsboro-hops-vs-vancouver-canadians",
+      "idEvent": "scraped-819275",
       "strEvent": "Hillsboro Hops vs Vancouver Canadians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-27",
-      "strTime": "00:03:00",
-      "strTimestamp": "2026-06-27T00:03:00Z",
+      "dateEvent": "2026-06-26",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-06-27T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-28-hillsboro-hops-vs-vancouver-canadians",
+      "idEvent": "scraped-819273",
+      "strEvent": "Hillsboro Hops vs Vancouver Canadians",
+      "strHomeTeam": "Hillsboro Hops",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-06-27",
+      "strTime": "00:03:00",
+      "strTimestamp": "2026-06-28T00:03:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Hops Ballpark",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819270",
       "strEvent": "Hillsboro Hops vs Vancouver Canadians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Vancouver Canadians",
@@ -992,24 +992,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-30-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819081",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-06-30",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-06-30T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-01-vancouver-canadians-vs-eugene-emeralds",
-      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-07-01",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-01T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1018,11 +1005,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-02-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819076",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-07-02",
+      "dateEvent": "2026-07-01",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-02T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1031,7 +1018,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-03-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819074",
+      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-07-02",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-03T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819069",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -1044,20 +1044,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-04-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819066",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-07-04",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-07-04T00:05:00Z",
+      "strTimestamp": "2026-07-05T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Rogers Field at Nat Bailey Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-05-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819071",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -1070,24 +1070,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-07-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819067",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-07-07",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-07-07T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-08-vancouver-canadians-vs-everett-aquasox",
-      "strEvent": "Vancouver Canadians vs Everett AquaSox",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-07-08",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-08T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1096,11 +1083,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-09-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819072",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-07-09",
+      "dateEvent": "2026-07-08",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-09T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1109,7 +1096,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-10-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819073",
+      "strEvent": "Vancouver Canadians vs Everett AquaSox",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-07-09",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-10T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819070",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -1122,20 +1122,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-11-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819068",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-07-11",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-07-11T00:05:00Z",
+      "strTimestamp": "2026-07-12T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Rogers Field at Nat Bailey Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-12-vancouver-canadians-vs-everett-aquasox",
+      "idEvent": "scraped-819058",
       "strEvent": "Vancouver Canadians vs Everett AquaSox",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Everett AquaSox",
@@ -1148,24 +1148,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-17-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819134",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-07-17",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-07-17T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Gesa Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-18-tri-city-dust-devils-vs-vancouver-canadians",
-      "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
-      "strHomeTeam": "Tri-City Dust Devils",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-07-18",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-18T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1174,11 +1161,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-19-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819131",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-07-19",
+      "dateEvent": "2026-07-18",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-19T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1187,24 +1174,24 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-21-hillsboro-hops-vs-vancouver-canadians",
-      "strEvent": "Hillsboro Hops vs Vancouver Canadians",
-      "strHomeTeam": "Hillsboro Hops",
+      "idEvent": "scraped-819130",
+      "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
+      "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-07-21",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-07-21T01:35:00Z",
+      "dateEvent": "2026-07-19",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-20T02:05:00Z",
       "strLeague": "Northwest League",
-      "strVenue": "Hops Ballpark",
+      "strVenue": "Gesa Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-22-hillsboro-hops-vs-vancouver-canadians",
+      "idEvent": "scraped-819269",
       "strEvent": "Hillsboro Hops vs Vancouver Canadians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-07-22",
+      "dateEvent": "2026-07-21",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-22T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1213,11 +1200,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-23-hillsboro-hops-vs-vancouver-canadians",
+      "idEvent": "scraped-819267",
       "strEvent": "Hillsboro Hops vs Vancouver Canadians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-07-23",
+      "dateEvent": "2026-07-22",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-23T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1226,11 +1213,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-24-hillsboro-hops-vs-vancouver-canadians",
+      "idEvent": "scraped-819265",
       "strEvent": "Hillsboro Hops vs Vancouver Canadians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-07-24",
+      "dateEvent": "2026-07-23",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-24T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1239,20 +1226,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-25-hillsboro-hops-vs-vancouver-canadians",
+      "idEvent": "scraped-819268",
       "strEvent": "Hillsboro Hops vs Vancouver Canadians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-07-25",
-      "strTime": "00:03:00",
-      "strTimestamp": "2026-07-25T00:03:00Z",
+      "dateEvent": "2026-07-24",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-07-25T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-26-hillsboro-hops-vs-vancouver-canadians",
+      "idEvent": "scraped-819262",
+      "strEvent": "Hillsboro Hops vs Vancouver Canadians",
+      "strHomeTeam": "Hillsboro Hops",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-07-25",
+      "strTime": "00:03:00",
+      "strTimestamp": "2026-07-26T00:03:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Hops Ballpark",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819263",
       "strEvent": "Hillsboro Hops vs Vancouver Canadians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Vancouver Canadians",
@@ -1265,24 +1265,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-28-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819061",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-07-28",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-07-28T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-29-vancouver-canadians-vs-spokane-indians",
-      "strEvent": "Vancouver Canadians vs Spokane Indians",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-29",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-29T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1291,11 +1278,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-30-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819062",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-30",
+      "dateEvent": "2026-07-29",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-30T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1304,7 +1291,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-31-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819060",
+      "strEvent": "Vancouver Canadians vs Spokane Indians",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-07-30",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-31T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819064",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
@@ -1317,20 +1317,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-01-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819065",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-08-01",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-08-01T00:05:00Z",
+      "strTimestamp": "2026-08-02T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Rogers Field at Nat Bailey Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-02-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819057",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
@@ -1343,24 +1343,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-04-everett-aquasox-vs-vancouver-canadians",
+      "idEvent": "scraped-819329",
       "strEvent": "Everett AquaSox vs Vancouver Canadians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-08-04",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-08-04T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-05-everett-aquasox-vs-vancouver-canadians",
-      "strEvent": "Everett AquaSox vs Vancouver Canadians",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-05",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-05T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1369,11 +1356,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-06-everett-aquasox-vs-vancouver-canadians",
+      "idEvent": "scraped-819331",
       "strEvent": "Everett AquaSox vs Vancouver Canadians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-06",
+      "dateEvent": "2026-08-05",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-06T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1382,11 +1369,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-07-everett-aquasox-vs-vancouver-canadians",
+      "idEvent": "scraped-819334",
       "strEvent": "Everett AquaSox vs Vancouver Canadians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-07",
+      "dateEvent": "2026-08-06",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-07T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1395,11 +1382,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-08-everett-aquasox-vs-vancouver-canadians",
+      "idEvent": "scraped-819322",
       "strEvent": "Everett AquaSox vs Vancouver Canadians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-08",
+      "dateEvent": "2026-08-07",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-08T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1408,7 +1395,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-09-everett-aquasox-vs-vancouver-canadians",
+      "idEvent": "scraped-819323",
+      "strEvent": "Everett AquaSox vs Vancouver Canadians",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-08-08",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-08-09T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819321",
       "strEvent": "Everett AquaSox vs Vancouver Canadians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Vancouver Canadians",
@@ -1421,24 +1421,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-11-vancouver-canadians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819063",
       "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Tri-City Dust Devils",
       "dateEvent": "2026-08-11",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-08-11T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-12-vancouver-canadians-vs-tri-city-dust-devils",
-      "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-08-12",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-12T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1447,11 +1434,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-13-vancouver-canadians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819059",
       "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-08-13",
+      "dateEvent": "2026-08-12",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-13T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1460,7 +1447,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-14-vancouver-canadians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819056",
+      "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Tri-City Dust Devils",
+      "dateEvent": "2026-08-13",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-08-14T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819053",
       "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -1473,20 +1473,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-15-vancouver-canadians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819055",
       "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Tri-City Dust Devils",
       "dateEvent": "2026-08-15",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-08-15T00:05:00Z",
+      "strTimestamp": "2026-08-16T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Rogers Field at Nat Bailey Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-16-vancouver-canadians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819054",
       "strEvent": "Vancouver Canadians vs Tri-City Dust Devils",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -1499,24 +1499,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-18-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819389",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-08-18",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-08-18T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-19-eugene-emeralds-vs-vancouver-canadians",
-      "strEvent": "Eugene Emeralds vs Vancouver Canadians",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-19",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-19T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1525,11 +1512,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-20-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819385",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-20",
+      "dateEvent": "2026-08-19",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-20T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1538,11 +1525,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-21-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819386",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-21",
+      "dateEvent": "2026-08-20",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-21T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1551,20 +1538,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-22-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819377",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-22",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-08-22T00:05:00Z",
+      "dateEvent": "2026-08-21",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-08-22T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-23-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819382",
+      "strEvent": "Eugene Emeralds vs Vancouver Canadians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-08-22",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-08-23T00:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819378",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
@@ -1577,24 +1577,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-25-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819050",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-08-25",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-08-25T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-26-vancouver-canadians-vs-spokane-indians",
-      "strEvent": "Vancouver Canadians vs Spokane Indians",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-08-26",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-26T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1603,11 +1590,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-27-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819052",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-08-27",
+      "dateEvent": "2026-08-26",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-27T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1616,7 +1603,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-28-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819051",
+      "strEvent": "Vancouver Canadians vs Spokane Indians",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-08-27",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-08-28T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819048",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
@@ -1629,20 +1629,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-29-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819049",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-08-29",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-08-29T00:05:00Z",
+      "strTimestamp": "2026-08-30T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Rogers Field at Nat Bailey Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-30-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819047",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
@@ -1655,24 +1655,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-01-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819121",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-09-01",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-09-01T01:30:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Gesa Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-09-02-tri-city-dust-devils-vs-vancouver-canadians",
-      "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
-      "strHomeTeam": "Tri-City Dust Devils",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-09-02",
       "strTime": "01:30:00",
       "strTimestamp": "2026-09-02T01:30:00Z",
       "strLeague": "Northwest League",
@@ -1681,11 +1668,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-03-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819120",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-09-03",
+      "dateEvent": "2026-09-02",
       "strTime": "01:30:00",
       "strTimestamp": "2026-09-03T01:30:00Z",
       "strLeague": "Northwest League",
@@ -1694,11 +1681,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-04-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819116",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-09-04",
+      "dateEvent": "2026-09-03",
       "strTime": "01:30:00",
       "strTimestamp": "2026-09-04T01:30:00Z",
       "strLeague": "Northwest League",
@@ -1707,11 +1694,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-05-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819110",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-09-05",
+      "dateEvent": "2026-09-04",
       "strTime": "01:30:00",
       "strTimestamp": "2026-09-05T01:30:00Z",
       "strLeague": "Northwest League",
@@ -1720,7 +1707,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-06-tri-city-dust-devils-vs-vancouver-canadians",
+      "idEvent": "scraped-819115",
+      "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
+      "strHomeTeam": "Tri-City Dust Devils",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-09-05",
+      "strTime": "01:30:00",
+      "strTimestamp": "2026-09-06T01:30:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Gesa Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819112",
       "strEvent": "Tri-City Dust Devils vs Vancouver Canadians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Vancouver Canadians",

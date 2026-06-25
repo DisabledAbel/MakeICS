@@ -1,10 +1,10 @@
 {
   "teamId": "142030",
   "teamName": "Durham Bulls",
-  "updatedAt": "2026-06-24T15:23:51.074Z",
+  "updatedAt": "2026-06-25T01:19:11.418Z",
   "events": [
     {
-      "idEvent": "scraped-2026-03-27-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816902",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -17,7 +17,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-28-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816900",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -30,7 +30,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-29-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816899",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -43,7 +43,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-03-31-durham-bulls-vs-lehigh-valley-ironpigs",
+      "idEvent": "scraped-816751",
       "strEvent": "Durham Bulls vs Lehigh Valley IronPigs",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Lehigh Valley IronPigs",
@@ -56,7 +56,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-01-durham-bulls-vs-lehigh-valley-ironpigs",
+      "idEvent": "scraped-816752",
       "strEvent": "Durham Bulls vs Lehigh Valley IronPigs",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Lehigh Valley IronPigs",
@@ -69,7 +69,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-02-durham-bulls-vs-lehigh-valley-ironpigs",
+      "idEvent": "scraped-816750",
       "strEvent": "Durham Bulls vs Lehigh Valley IronPigs",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Lehigh Valley IronPigs",
@@ -82,7 +82,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-03-durham-bulls-vs-lehigh-valley-ironpigs",
+      "idEvent": "scraped-816754",
       "strEvent": "Durham Bulls vs Lehigh Valley IronPigs",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Lehigh Valley IronPigs",
@@ -95,7 +95,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-04-durham-bulls-vs-lehigh-valley-ironpigs",
+      "idEvent": "scraped-816740",
       "strEvent": "Durham Bulls vs Lehigh Valley IronPigs",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Lehigh Valley IronPigs",
@@ -108,7 +108,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-05-durham-bulls-vs-lehigh-valley-ironpigs",
+      "idEvent": "scraped-816744",
       "strEvent": "Durham Bulls vs Lehigh Valley IronPigs",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Lehigh Valley IronPigs",
@@ -121,20 +121,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-11-scranton-wilkes-barre-railriders-vs-durham-bulls",
+      "idEvent": "scraped-815849",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Durham Bulls",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Durham Bulls",
       "dateEvent": "2026-04-11",
       "strTime": "22:35:00",
-      "strTimestamp": "2026-04-11T22:35:00Z",
+      "strTimestamp": "2026-04-07T22:35:00Z",
       "strLeague": "International League",
       "strVenue": "PNC Field",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-08-scranton-wilkes-barre-railriders-vs-durham-bulls",
+      "idEvent": "scraped-815856",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Durham Bulls",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Durham Bulls",
@@ -147,7 +147,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-09-scranton-wilkes-barre-railriders-vs-durham-bulls",
+      "idEvent": "scraped-815855",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Durham Bulls",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Durham Bulls",
@@ -160,7 +160,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-10-scranton-wilkes-barre-railriders-vs-durham-bulls",
+      "idEvent": "scraped-815845",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Durham Bulls",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Durham Bulls",
@@ -173,20 +173,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-11-scranton-wilkes-barre-railriders-vs-durham-bulls",
+      "idEvent": "scraped-815849",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Durham Bulls",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Durham Bulls",
       "dateEvent": "2026-04-11",
       "strTime": "20:40:00",
-      "strTimestamp": "2026-04-11T20:40:00Z",
+      "strTimestamp": "2026-04-10T20:40:00Z",
       "strLeague": "International League",
       "strVenue": "PNC Field",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-11-scranton-wilkes-barre-railriders-vs-durham-bulls",
+      "idEvent": "scraped-815847",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Durham Bulls",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Durham Bulls",
@@ -199,7 +199,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-11-scranton-wilkes-barre-railriders-vs-durham-bulls",
+      "idEvent": "scraped-815849",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Durham Bulls",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Durham Bulls",
@@ -212,7 +212,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-12-scranton-wilkes-barre-railriders-vs-durham-bulls",
+      "idEvent": "scraped-815848",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Durham Bulls",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
       "strAwayTeam": "Durham Bulls",
@@ -225,7 +225,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-14-durham-bulls-vs-norfolk-tides",
+      "idEvent": "scraped-816743",
       "strEvent": "Durham Bulls vs Norfolk Tides",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Norfolk Tides",
@@ -238,7 +238,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-15-durham-bulls-vs-norfolk-tides",
+      "idEvent": "scraped-816747",
       "strEvent": "Durham Bulls vs Norfolk Tides",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Norfolk Tides",
@@ -251,7 +251,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-16-durham-bulls-vs-norfolk-tides",
+      "idEvent": "scraped-816745",
       "strEvent": "Durham Bulls vs Norfolk Tides",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Norfolk Tides",
@@ -264,7 +264,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-17-durham-bulls-vs-norfolk-tides",
+      "idEvent": "scraped-816742",
       "strEvent": "Durham Bulls vs Norfolk Tides",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Norfolk Tides",
@@ -277,7 +277,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-18-durham-bulls-vs-norfolk-tides",
+      "idEvent": "scraped-816746",
       "strEvent": "Durham Bulls vs Norfolk Tides",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Norfolk Tides",
@@ -290,7 +290,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-19-durham-bulls-vs-norfolk-tides",
+      "idEvent": "scraped-816741",
       "strEvent": "Durham Bulls vs Norfolk Tides",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Norfolk Tides",
@@ -303,7 +303,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-21-lehigh-valley-ironpigs-vs-durham-bulls",
+      "idEvent": "scraped-816366",
       "strEvent": "Lehigh Valley IronPigs vs Durham Bulls",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Durham Bulls",
@@ -316,7 +316,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-22-lehigh-valley-ironpigs-vs-durham-bulls",
+      "idEvent": "scraped-816369",
       "strEvent": "Lehigh Valley IronPigs vs Durham Bulls",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Durham Bulls",
@@ -329,7 +329,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-23-lehigh-valley-ironpigs-vs-durham-bulls",
+      "idEvent": "scraped-816362",
       "strEvent": "Lehigh Valley IronPigs vs Durham Bulls",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Durham Bulls",
@@ -342,7 +342,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-24-lehigh-valley-ironpigs-vs-durham-bulls",
+      "idEvent": "scraped-816367",
       "strEvent": "Lehigh Valley IronPigs vs Durham Bulls",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Durham Bulls",
@@ -355,20 +355,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-lehigh-valley-ironpigs-vs-durham-bulls",
+      "idEvent": "scraped-816368",
       "strEvent": "Lehigh Valley IronPigs vs Durham Bulls",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Durham Bulls",
       "dateEvent": "2026-04-26",
       "strTime": "22:35:00",
-      "strTimestamp": "2026-04-26T22:35:00Z",
+      "strTimestamp": "2026-04-25T22:35:00Z",
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-lehigh-valley-ironpigs-vs-durham-bulls",
+      "idEvent": "scraped-816364",
       "strEvent": "Lehigh Valley IronPigs vs Durham Bulls",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Durham Bulls",
@@ -381,7 +381,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-lehigh-valley-ironpigs-vs-durham-bulls",
+      "idEvent": "scraped-816368",
       "strEvent": "Lehigh Valley IronPigs vs Durham Bulls",
       "strHomeTeam": "Lehigh Valley IronPigs",
       "strAwayTeam": "Durham Bulls",
@@ -394,7 +394,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-28-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816735",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -407,7 +407,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-29-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816737",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -420,7 +420,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-30-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816734",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -433,7 +433,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-01-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816736",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -446,7 +446,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-02-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816738",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -459,7 +459,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-03-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816733",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -472,7 +472,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-05-durham-bulls-vs-round-rock-express",
+      "idEvent": "scraped-816739",
       "strEvent": "Durham Bulls vs Round Rock Express",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Round Rock Express",
@@ -485,7 +485,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-06-durham-bulls-vs-round-rock-express",
+      "idEvent": "scraped-816728",
       "strEvent": "Durham Bulls vs Round Rock Express",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Round Rock Express",
@@ -498,7 +498,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-07-durham-bulls-vs-round-rock-express",
+      "idEvent": "scraped-816732",
       "strEvent": "Durham Bulls vs Round Rock Express",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Round Rock Express",
@@ -511,7 +511,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-08-durham-bulls-vs-round-rock-express",
+      "idEvent": "scraped-816730",
       "strEvent": "Durham Bulls vs Round Rock Express",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Round Rock Express",
@@ -524,7 +524,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-09-durham-bulls-vs-round-rock-express",
+      "idEvent": "scraped-816731",
       "strEvent": "Durham Bulls vs Round Rock Express",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Round Rock Express",
@@ -537,7 +537,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-10-durham-bulls-vs-round-rock-express",
+      "idEvent": "scraped-816729",
       "strEvent": "Durham Bulls vs Round Rock Express",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Round Rock Express",
@@ -550,7 +550,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-12-gwinnett-stripers-vs-durham-bulls",
+      "idEvent": "scraped-816656",
       "strEvent": "Gwinnett Stripers vs Durham Bulls",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Durham Bulls",
@@ -563,7 +563,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-13-gwinnett-stripers-vs-durham-bulls",
+      "idEvent": "scraped-816654",
       "strEvent": "Gwinnett Stripers vs Durham Bulls",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Durham Bulls",
@@ -576,7 +576,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-14-gwinnett-stripers-vs-durham-bulls",
+      "idEvent": "scraped-816661",
       "strEvent": "Gwinnett Stripers vs Durham Bulls",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Durham Bulls",
@@ -589,7 +589,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-15-gwinnett-stripers-vs-durham-bulls",
+      "idEvent": "scraped-816660",
       "strEvent": "Gwinnett Stripers vs Durham Bulls",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Durham Bulls",
@@ -602,7 +602,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-16-gwinnett-stripers-vs-durham-bulls",
+      "idEvent": "scraped-816659",
       "strEvent": "Gwinnett Stripers vs Durham Bulls",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Durham Bulls",
@@ -615,7 +615,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-17-gwinnett-stripers-vs-durham-bulls",
+      "idEvent": "scraped-816658",
       "strEvent": "Gwinnett Stripers vs Durham Bulls",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Durham Bulls",
@@ -628,7 +628,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-19-durham-bulls-vs-nashville-sounds",
+      "idEvent": "scraped-816723",
       "strEvent": "Durham Bulls vs Nashville Sounds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Nashville Sounds",
@@ -641,7 +641,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-20-durham-bulls-vs-nashville-sounds",
+      "idEvent": "scraped-816726",
       "strEvent": "Durham Bulls vs Nashville Sounds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Nashville Sounds",
@@ -654,7 +654,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-21-durham-bulls-vs-nashville-sounds",
+      "idEvent": "scraped-816721",
       "strEvent": "Durham Bulls vs Nashville Sounds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Nashville Sounds",
@@ -667,7 +667,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-22-durham-bulls-vs-nashville-sounds",
+      "idEvent": "scraped-816727",
       "strEvent": "Durham Bulls vs Nashville Sounds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Nashville Sounds",
@@ -680,7 +680,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23-durham-bulls-vs-nashville-sounds",
+      "idEvent": "scraped-816724",
       "strEvent": "Durham Bulls vs Nashville Sounds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Nashville Sounds",
@@ -693,7 +693,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-24-durham-bulls-vs-nashville-sounds",
+      "idEvent": "scraped-816722",
       "strEvent": "Durham Bulls vs Nashville Sounds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Nashville Sounds",
@@ -706,7 +706,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-26-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816051",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
@@ -719,7 +719,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-27-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816053",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
@@ -732,20 +732,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-27-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816053",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
       "dateEvent": "2026-05-27",
       "strTime": "16:05:00",
-      "strTimestamp": "2026-05-27T16:05:00Z",
+      "strTimestamp": "2026-05-28T16:05:00Z",
       "strLeague": "International League",
       "strVenue": "Harbor Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-28-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816055",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
@@ -758,7 +758,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-29-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816056",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
@@ -771,7 +771,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-30-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816054",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
@@ -784,7 +784,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-31-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816042",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
@@ -797,7 +797,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-02-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816725",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -810,7 +810,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-03-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816715",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -823,7 +823,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-04-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816718",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -836,7 +836,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-05-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816717",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -849,7 +849,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-06-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816716",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -862,7 +862,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-07-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816720",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -875,7 +875,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-09-nashville-sounds-vs-durham-bulls",
+      "idEvent": "scraped-816124",
       "strEvent": "Nashville Sounds vs Durham Bulls",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Durham Bulls",
@@ -888,7 +888,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-10-nashville-sounds-vs-durham-bulls",
+      "idEvent": "scraped-816122",
       "strEvent": "Nashville Sounds vs Durham Bulls",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Durham Bulls",
@@ -901,7 +901,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-11-nashville-sounds-vs-durham-bulls",
+      "idEvent": "scraped-816118",
       "strEvent": "Nashville Sounds vs Durham Bulls",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Durham Bulls",
@@ -914,7 +914,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-12-nashville-sounds-vs-durham-bulls",
+      "idEvent": "scraped-816117",
       "strEvent": "Nashville Sounds vs Durham Bulls",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Durham Bulls",
@@ -927,7 +927,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-13-nashville-sounds-vs-durham-bulls",
+      "idEvent": "scraped-816119",
       "strEvent": "Nashville Sounds vs Durham Bulls",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Durham Bulls",
@@ -940,7 +940,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-14-nashville-sounds-vs-durham-bulls",
+      "idEvent": "scraped-816111",
       "strEvent": "Nashville Sounds vs Durham Bulls",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Durham Bulls",
@@ -953,7 +953,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-16-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816719",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -966,7 +966,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-17-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816714",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -979,7 +979,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-18-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816712",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -992,7 +992,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-19-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816713",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1005,7 +1005,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-20-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816711",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1018,7 +1018,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-21-durham-bulls-vs-jacksonville-jumbo-shrimp",
+      "idEvent": "scraped-816709",
       "strEvent": "Durham Bulls vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
@@ -1031,20 +1031,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-24-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816049",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
       "dateEvent": "2026-06-24",
       "strTime": "22:35:00",
-      "strTimestamp": "2026-06-24T22:35:00Z",
+      "strTimestamp": "2026-06-23T22:35:00Z",
       "strLeague": "International League",
       "strVenue": "Harbor Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-24-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816047",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
@@ -1057,7 +1057,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-24-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816049",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
@@ -1070,7 +1070,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816034",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
@@ -1083,7 +1083,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-26-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816036",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
@@ -1096,7 +1096,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-27-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816037",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
@@ -1109,7 +1109,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-28-norfolk-tides-vs-durham-bulls",
+      "idEvent": "scraped-816041",
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
@@ -1122,7 +1122,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-30-durham-bulls-vs-gwinnett-stripers",
+      "idEvent": "scraped-816710",
       "strEvent": "Durham Bulls vs Gwinnett Stripers",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1135,7 +1135,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-01-durham-bulls-vs-gwinnett-stripers",
+      "idEvent": "scraped-816705",
       "strEvent": "Durham Bulls vs Gwinnett Stripers",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1148,7 +1148,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-02-durham-bulls-vs-gwinnett-stripers",
+      "idEvent": "scraped-816708",
       "strEvent": "Durham Bulls vs Gwinnett Stripers",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1161,7 +1161,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-03-durham-bulls-vs-gwinnett-stripers",
+      "idEvent": "scraped-816706",
       "strEvent": "Durham Bulls vs Gwinnett Stripers",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1174,7 +1174,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-04-durham-bulls-vs-gwinnett-stripers",
+      "idEvent": "scraped-816707",
       "strEvent": "Durham Bulls vs Gwinnett Stripers",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1187,7 +1187,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-05-durham-bulls-vs-gwinnett-stripers",
+      "idEvent": "scraped-816704",
       "strEvent": "Durham Bulls vs Gwinnett Stripers",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1200,7 +1200,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-07-jacksonville-jumbo-shrimp-vs-durham-bulls",
+      "idEvent": "scraped-816406",
       "strEvent": "Jacksonville Jumbo Shrimp vs Durham Bulls",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Durham Bulls",
@@ -1213,7 +1213,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-08-jacksonville-jumbo-shrimp-vs-durham-bulls",
+      "idEvent": "scraped-816405",
       "strEvent": "Jacksonville Jumbo Shrimp vs Durham Bulls",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Durham Bulls",
@@ -1226,7 +1226,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-09-jacksonville-jumbo-shrimp-vs-durham-bulls",
+      "idEvent": "scraped-816408",
       "strEvent": "Jacksonville Jumbo Shrimp vs Durham Bulls",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Durham Bulls",
@@ -1239,7 +1239,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-10-jacksonville-jumbo-shrimp-vs-durham-bulls",
+      "idEvent": "scraped-816404",
       "strEvent": "Jacksonville Jumbo Shrimp vs Durham Bulls",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Durham Bulls",
@@ -1252,7 +1252,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-11-jacksonville-jumbo-shrimp-vs-durham-bulls",
+      "idEvent": "scraped-816398",
       "strEvent": "Jacksonville Jumbo Shrimp vs Durham Bulls",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Durham Bulls",
@@ -1265,7 +1265,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-12-jacksonville-jumbo-shrimp-vs-durham-bulls",
+      "idEvent": "scraped-816397",
       "strEvent": "Jacksonville Jumbo Shrimp vs Durham Bulls",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
       "strAwayTeam": "Durham Bulls",
@@ -1278,7 +1278,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-17-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816701",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -1291,7 +1291,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-18-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816700",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -1304,7 +1304,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-19-durham-bulls-vs-charlotte-knights",
+      "idEvent": "scraped-816702",
       "strEvent": "Durham Bulls vs Charlotte Knights",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Charlotte Knights",
@@ -1317,24 +1317,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-21-memphis-redbirds-vs-durham-bulls",
+      "idEvent": "scraped-816178",
       "strEvent": "Memphis Redbirds vs Durham Bulls",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Durham Bulls",
       "dateEvent": "2026-07-21",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-07-21T00:05:00Z",
-      "strLeague": "International League",
-      "strVenue": "AutoZone Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-22-memphis-redbirds-vs-durham-bulls",
-      "strEvent": "Memphis Redbirds vs Durham Bulls",
-      "strHomeTeam": "Memphis Redbirds",
-      "strAwayTeam": "Durham Bulls",
-      "dateEvent": "2026-07-22",
       "strTime": "00:05:00",
       "strTimestamp": "2026-07-22T00:05:00Z",
       "strLeague": "International League",
@@ -1343,11 +1330,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-23-memphis-redbirds-vs-durham-bulls",
+      "idEvent": "scraped-816181",
       "strEvent": "Memphis Redbirds vs Durham Bulls",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Durham Bulls",
-      "dateEvent": "2026-07-23",
+      "dateEvent": "2026-07-22",
       "strTime": "00:05:00",
       "strTimestamp": "2026-07-23T00:05:00Z",
       "strLeague": "International League",
@@ -1356,11 +1343,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-24-memphis-redbirds-vs-durham-bulls",
+      "idEvent": "scraped-816177",
       "strEvent": "Memphis Redbirds vs Durham Bulls",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Durham Bulls",
-      "dateEvent": "2026-07-24",
+      "dateEvent": "2026-07-23",
       "strTime": "00:05:00",
       "strTimestamp": "2026-07-24T00:05:00Z",
       "strLeague": "International League",
@@ -1369,7 +1356,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-25-memphis-redbirds-vs-durham-bulls",
+      "idEvent": "scraped-816179",
+      "strEvent": "Memphis Redbirds vs Durham Bulls",
+      "strHomeTeam": "Memphis Redbirds",
+      "strAwayTeam": "Durham Bulls",
+      "dateEvent": "2026-07-24",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-07-25T00:05:00Z",
+      "strLeague": "International League",
+      "strVenue": "AutoZone Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-816180",
       "strEvent": "Memphis Redbirds vs Durham Bulls",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Durham Bulls",
@@ -1382,7 +1382,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-26-memphis-redbirds-vs-durham-bulls",
+      "idEvent": "scraped-816176",
       "strEvent": "Memphis Redbirds vs Durham Bulls",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Durham Bulls",
@@ -1395,7 +1395,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-28-durham-bulls-vs-gwinnett-stripers",
+      "idEvent": "scraped-816698",
       "strEvent": "Durham Bulls vs Gwinnett Stripers",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1408,7 +1408,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-29-durham-bulls-vs-gwinnett-stripers",
+      "idEvent": "scraped-816699",
       "strEvent": "Durham Bulls vs Gwinnett Stripers",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1421,7 +1421,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-30-durham-bulls-vs-gwinnett-stripers",
+      "idEvent": "scraped-816703",
       "strEvent": "Durham Bulls vs Gwinnett Stripers",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1434,7 +1434,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-31-durham-bulls-vs-gwinnett-stripers",
+      "idEvent": "scraped-816694",
       "strEvent": "Durham Bulls vs Gwinnett Stripers",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1447,7 +1447,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-01-durham-bulls-vs-gwinnett-stripers",
+      "idEvent": "scraped-816697",
       "strEvent": "Durham Bulls vs Gwinnett Stripers",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1460,7 +1460,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-02-durham-bulls-vs-gwinnett-stripers",
+      "idEvent": "scraped-816693",
       "strEvent": "Durham Bulls vs Gwinnett Stripers",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Gwinnett Stripers",
@@ -1473,7 +1473,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-04-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816845",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -1486,7 +1486,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-05-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816846",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -1499,7 +1499,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-06-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816842",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -1512,7 +1512,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-07-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816841",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -1525,7 +1525,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-08-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816839",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -1538,7 +1538,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-09-charlotte-knights-vs-durham-bulls",
+      "idEvent": "scraped-816844",
       "strEvent": "Charlotte Knights vs Durham Bulls",
       "strHomeTeam": "Charlotte Knights",
       "strAwayTeam": "Durham Bulls",
@@ -1551,7 +1551,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-11-durham-bulls-vs-memphis-redbirds",
+      "idEvent": "scraped-816696",
       "strEvent": "Durham Bulls vs Memphis Redbirds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Memphis Redbirds",
@@ -1564,7 +1564,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-12-durham-bulls-vs-memphis-redbirds",
+      "idEvent": "scraped-816692",
       "strEvent": "Durham Bulls vs Memphis Redbirds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Memphis Redbirds",
@@ -1577,7 +1577,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-13-durham-bulls-vs-memphis-redbirds",
+      "idEvent": "scraped-816695",
       "strEvent": "Durham Bulls vs Memphis Redbirds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Memphis Redbirds",
@@ -1590,7 +1590,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-14-durham-bulls-vs-memphis-redbirds",
+      "idEvent": "scraped-816688",
       "strEvent": "Durham Bulls vs Memphis Redbirds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Memphis Redbirds",
@@ -1603,7 +1603,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-15-durham-bulls-vs-memphis-redbirds",
+      "idEvent": "scraped-816686",
       "strEvent": "Durham Bulls vs Memphis Redbirds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Memphis Redbirds",
@@ -1616,7 +1616,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-16-durham-bulls-vs-memphis-redbirds",
+      "idEvent": "scraped-816684",
       "strEvent": "Durham Bulls vs Memphis Redbirds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Memphis Redbirds",
@@ -1629,7 +1629,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-18-gwinnett-stripers-vs-durham-bulls",
+      "idEvent": "scraped-816616",
       "strEvent": "Gwinnett Stripers vs Durham Bulls",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Durham Bulls",
@@ -1642,7 +1642,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-19-gwinnett-stripers-vs-durham-bulls",
+      "idEvent": "scraped-816618",
       "strEvent": "Gwinnett Stripers vs Durham Bulls",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Durham Bulls",
@@ -1655,7 +1655,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-20-gwinnett-stripers-vs-durham-bulls",
+      "idEvent": "scraped-816620",
       "strEvent": "Gwinnett Stripers vs Durham Bulls",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Durham Bulls",
@@ -1668,7 +1668,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-21-gwinnett-stripers-vs-durham-bulls",
+      "idEvent": "scraped-816617",
       "strEvent": "Gwinnett Stripers vs Durham Bulls",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Durham Bulls",
@@ -1681,7 +1681,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-22-gwinnett-stripers-vs-durham-bulls",
+      "idEvent": "scraped-816614",
       "strEvent": "Gwinnett Stripers vs Durham Bulls",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Durham Bulls",
@@ -1694,7 +1694,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-23-gwinnett-stripers-vs-durham-bulls",
+      "idEvent": "scraped-816615",
       "strEvent": "Gwinnett Stripers vs Durham Bulls",
       "strHomeTeam": "Gwinnett Stripers",
       "strAwayTeam": "Durham Bulls",
@@ -1707,7 +1707,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-25-durham-bulls-vs-norfolk-tides",
+      "idEvent": "scraped-816687",
       "strEvent": "Durham Bulls vs Norfolk Tides",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Norfolk Tides",
@@ -1720,7 +1720,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-26-durham-bulls-vs-norfolk-tides",
+      "idEvent": "scraped-816690",
       "strEvent": "Durham Bulls vs Norfolk Tides",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Norfolk Tides",
@@ -1733,7 +1733,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-27-durham-bulls-vs-norfolk-tides",
+      "idEvent": "scraped-816689",
       "strEvent": "Durham Bulls vs Norfolk Tides",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Norfolk Tides",
@@ -1746,7 +1746,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-28-durham-bulls-vs-norfolk-tides",
+      "idEvent": "scraped-816685",
       "strEvent": "Durham Bulls vs Norfolk Tides",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Norfolk Tides",
@@ -1759,7 +1759,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-29-durham-bulls-vs-norfolk-tides",
+      "idEvent": "scraped-816691",
       "strEvent": "Durham Bulls vs Norfolk Tides",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Norfolk Tides",
@@ -1772,7 +1772,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-30-durham-bulls-vs-norfolk-tides",
+      "idEvent": "scraped-816682",
       "strEvent": "Durham Bulls vs Norfolk Tides",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Norfolk Tides",
@@ -1785,7 +1785,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-01-memphis-redbirds-vs-durham-bulls",
+      "idEvent": "scraped-816158",
       "strEvent": "Memphis Redbirds vs Durham Bulls",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Durham Bulls",
@@ -1798,7 +1798,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-02-memphis-redbirds-vs-durham-bulls",
+      "idEvent": "scraped-816160",
       "strEvent": "Memphis Redbirds vs Durham Bulls",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Durham Bulls",
@@ -1811,7 +1811,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-03-memphis-redbirds-vs-durham-bulls",
+      "idEvent": "scraped-816159",
       "strEvent": "Memphis Redbirds vs Durham Bulls",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Durham Bulls",
@@ -1824,20 +1824,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-04-memphis-redbirds-vs-durham-bulls",
+      "idEvent": "scraped-816164",
       "strEvent": "Memphis Redbirds vs Durham Bulls",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Durham Bulls",
       "dateEvent": "2026-09-04",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-09-04T00:05:00Z",
+      "strTimestamp": "2026-09-05T00:05:00Z",
       "strLeague": "International League",
       "strVenue": "AutoZone Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-05-memphis-redbirds-vs-durham-bulls",
+      "idEvent": "scraped-816165",
       "strEvent": "Memphis Redbirds vs Durham Bulls",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Durham Bulls",
@@ -1850,7 +1850,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-06-memphis-redbirds-vs-durham-bulls",
+      "idEvent": "scraped-816162",
       "strEvent": "Memphis Redbirds vs Durham Bulls",
       "strHomeTeam": "Memphis Redbirds",
       "strAwayTeam": "Durham Bulls",
@@ -1863,7 +1863,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-07-durham-bulls-vs-nashville-sounds",
+      "idEvent": "scraped-816678",
       "strEvent": "Durham Bulls vs Nashville Sounds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Nashville Sounds",
@@ -1876,7 +1876,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-09-durham-bulls-vs-nashville-sounds",
+      "idEvent": "scraped-816683",
       "strEvent": "Durham Bulls vs Nashville Sounds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Nashville Sounds",
@@ -1889,7 +1889,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-10-durham-bulls-vs-nashville-sounds",
+      "idEvent": "scraped-816680",
       "strEvent": "Durham Bulls vs Nashville Sounds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Nashville Sounds",
@@ -1902,7 +1902,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-11-durham-bulls-vs-nashville-sounds",
+      "idEvent": "scraped-816677",
       "strEvent": "Durham Bulls vs Nashville Sounds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Nashville Sounds",
@@ -1915,7 +1915,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-12-durham-bulls-vs-nashville-sounds",
+      "idEvent": "scraped-816679",
       "strEvent": "Durham Bulls vs Nashville Sounds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Nashville Sounds",
@@ -1928,7 +1928,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-13-durham-bulls-vs-nashville-sounds",
+      "idEvent": "scraped-816681",
       "strEvent": "Durham Bulls vs Nashville Sounds",
       "strHomeTeam": "Durham Bulls",
       "strAwayTeam": "Nashville Sounds",
@@ -1941,7 +1941,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-15-worcester-red-sox-vs-durham-bulls",
+      "idEvent": "scraped-815482",
       "strEvent": "Worcester Red Sox vs Durham Bulls",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Durham Bulls",
@@ -1954,7 +1954,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-16-worcester-red-sox-vs-durham-bulls",
+      "idEvent": "scraped-815480",
       "strEvent": "Worcester Red Sox vs Durham Bulls",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Durham Bulls",
@@ -1967,7 +1967,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-17-worcester-red-sox-vs-durham-bulls",
+      "idEvent": "scraped-815481",
       "strEvent": "Worcester Red Sox vs Durham Bulls",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Durham Bulls",
@@ -1980,7 +1980,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-18-worcester-red-sox-vs-durham-bulls",
+      "idEvent": "scraped-815479",
       "strEvent": "Worcester Red Sox vs Durham Bulls",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Durham Bulls",
@@ -1993,7 +1993,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-19-worcester-red-sox-vs-durham-bulls",
+      "idEvent": "scraped-815483",
       "strEvent": "Worcester Red Sox vs Durham Bulls",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Durham Bulls",
@@ -2006,7 +2006,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-20-worcester-red-sox-vs-durham-bulls",
+      "idEvent": "scraped-815478",
       "strEvent": "Worcester Red Sox vs Durham Bulls",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Durham Bulls",

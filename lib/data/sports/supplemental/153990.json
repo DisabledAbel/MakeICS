@@ -1,36 +1,36 @@
 {
   "teamId": "153990",
   "teamName": "Eugene Emeralds",
-  "updatedAt": "2026-06-24T15:23:51.814Z",
+  "updatedAt": "2026-06-25T01:19:12.296Z",
   "events": [
     {
-      "idEvent": "scraped-2026-04-03-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819444",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-04-03",
       "strTime": "01:35:00",
-      "strTimestamp": "2026-04-03T01:35:00Z",
+      "strTimestamp": "2026-04-04T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-04-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819446",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-04-04",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-04-04T00:05:00Z",
+      "strTimestamp": "2026-04-05T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-05-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819438",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
@@ -43,24 +43,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-07-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819113",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-04-07",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-04-07T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-08-vancouver-canadians-vs-eugene-emeralds",
-      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-04-08",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-08T02:05:00Z",
       "strLeague": "Northwest League",
@@ -69,11 +56,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-09-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819111",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-04-09",
+      "dateEvent": "2026-04-08",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-09T02:05:00Z",
       "strLeague": "Northwest League",
@@ -82,7 +69,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-10-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819109",
+      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-04-09",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-04-10T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819114",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -95,7 +95,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-11-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819108",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -108,7 +108,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-12-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819100",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -121,24 +121,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-14-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819436",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-04-14",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-04-14T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-15-eugene-emeralds-vs-everett-aquasox",
-      "strEvent": "Eugene Emeralds vs Everett AquaSox",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-04-15",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-15T01:35:00Z",
       "strLeague": "Northwest League",
@@ -147,11 +134,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-16-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819433",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-04-16",
+      "dateEvent": "2026-04-15",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-16T01:35:00Z",
       "strLeague": "Northwest League",
@@ -160,11 +147,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-17-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819434",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-04-17",
+      "dateEvent": "2026-04-16",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-17T01:35:00Z",
       "strLeague": "Northwest League",
@@ -173,20 +160,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-18-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819439",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-04-18",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-04-18T00:05:00Z",
+      "dateEvent": "2026-04-17",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-04-18T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-19-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819437",
+      "strEvent": "Eugene Emeralds vs Everett AquaSox",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-04-18",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-04-19T00:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819435",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
@@ -199,33 +199,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-21-hillsboro-hops-vs-eugene-emeralds",
+      "idEvent": "scraped-819306",
       "strEvent": "Hillsboro Hops vs Eugene Emeralds",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-04-21",
       "strTime": "01:35:00",
-      "strTimestamp": "2026-04-21T01:35:00Z",
+      "strTimestamp": "2026-04-22T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-22-hillsboro-hops-vs-eugene-emeralds",
+      "idEvent": "scraped-819307",
       "strEvent": "Hillsboro Hops vs Eugene Emeralds",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-04-22",
       "strTime": "01:05:00",
-      "strTimestamp": "2026-04-22T01:05:00Z",
+      "strTimestamp": "2026-04-23T01:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-23-hillsboro-hops-vs-eugene-emeralds",
+      "idEvent": "scraped-819298",
       "strEvent": "Hillsboro Hops vs Eugene Emeralds",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Eugene Emeralds",
@@ -238,33 +238,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-24-hillsboro-hops-vs-eugene-emeralds",
+      "idEvent": "scraped-819295",
       "strEvent": "Hillsboro Hops vs Eugene Emeralds",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-04-24",
       "strTime": "01:35:00",
-      "strTimestamp": "2026-04-24T01:35:00Z",
+      "strTimestamp": "2026-04-25T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-25-hillsboro-hops-vs-eugene-emeralds",
+      "idEvent": "scraped-819300",
       "strEvent": "Hillsboro Hops vs Eugene Emeralds",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-04-25",
       "strTime": "00:03:00",
-      "strTimestamp": "2026-04-25T00:03:00Z",
+      "strTimestamp": "2026-04-26T00:03:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-hillsboro-hops-vs-eugene-emeralds",
+      "idEvent": "scraped-819299",
       "strEvent": "Hillsboro Hops vs Eugene Emeralds",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Eugene Emeralds",
@@ -277,7 +277,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-29-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819427",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
@@ -290,24 +290,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-30-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819426",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-04-30",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-04-30T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-01-eugene-emeralds-vs-spokane-indians",
-      "strEvent": "Eugene Emeralds vs Spokane Indians",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-05-01",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-01T01:35:00Z",
       "strLeague": "Northwest League",
@@ -316,33 +303,46 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-02-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819425",
+      "strEvent": "Eugene Emeralds vs Spokane Indians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-05-01",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-05-02T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819430",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-05-02",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-05-02T00:05:00Z",
+      "strTimestamp": "2026-05-03T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-02-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819440",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-05-02",
       "strTime": "00:10:00",
-      "strTimestamp": "2026-05-02T00:10:00Z",
+      "strTimestamp": "2026-05-03T00:10:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-03-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819429",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
@@ -355,37 +355,24 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-04-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819432",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-05-04",
       "strTime": "01:35:00",
-      "strTimestamp": "2026-05-04T01:35:00Z",
+      "strTimestamp": "2026-05-05T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-07-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819431",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-05-07",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-05-07T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-08-eugene-emeralds-vs-vancouver-canadians",
-      "strEvent": "Eugene Emeralds vs Vancouver Canadians",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-05-08",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-08T01:35:00Z",
       "strLeague": "Northwest League",
@@ -394,33 +381,46 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-09-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819424",
+      "strEvent": "Eugene Emeralds vs Vancouver Canadians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-05-08",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-05-09T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819417",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-05-09",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-05-09T00:05:00Z",
+      "strTimestamp": "2026-05-10T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-09-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819428",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-05-09",
       "strTime": "00:10:00",
-      "strTimestamp": "2026-05-09T00:10:00Z",
+      "strTimestamp": "2026-05-10T00:10:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-10-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819422",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
@@ -433,24 +433,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-12-tri-city-dust-devils-vs-eugene-emeralds",
+      "idEvent": "scraped-819158",
       "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-05-12",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-05-12T01:30:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Gesa Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-13-tri-city-dust-devils-vs-eugene-emeralds",
-      "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
-      "strHomeTeam": "Tri-City Dust Devils",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-05-13",
       "strTime": "01:30:00",
       "strTimestamp": "2026-05-13T01:30:00Z",
       "strLeague": "Northwest League",
@@ -459,11 +446,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-14-tri-city-dust-devils-vs-eugene-emeralds",
+      "idEvent": "scraped-819166",
       "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-05-14",
+      "dateEvent": "2026-05-13",
       "strTime": "01:30:00",
       "strTimestamp": "2026-05-14T01:30:00Z",
       "strLeague": "Northwest League",
@@ -472,11 +459,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-15-tri-city-dust-devils-vs-eugene-emeralds",
+      "idEvent": "scraped-819163",
       "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-05-15",
+      "dateEvent": "2026-05-14",
       "strTime": "01:30:00",
       "strTimestamp": "2026-05-15T01:30:00Z",
       "strLeague": "Northwest League",
@@ -485,11 +472,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-16-tri-city-dust-devils-vs-eugene-emeralds",
+      "idEvent": "scraped-819164",
       "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-05-16",
+      "dateEvent": "2026-05-15",
       "strTime": "01:30:00",
       "strTimestamp": "2026-05-16T01:30:00Z",
       "strLeague": "Northwest League",
@@ -498,7 +485,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-17-tri-city-dust-devils-vs-eugene-emeralds",
+      "idEvent": "scraped-819162",
+      "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
+      "strHomeTeam": "Tri-City Dust Devils",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-05-16",
+      "strTime": "01:30:00",
+      "strTimestamp": "2026-05-17T01:30:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Gesa Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819165",
       "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Eugene Emeralds",
@@ -511,24 +511,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-19-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819421",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-05-19",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-05-19T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-20-eugene-emeralds-vs-hillsboro-hops",
-      "strEvent": "Eugene Emeralds vs Hillsboro Hops",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-05-20",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-20T01:35:00Z",
       "strLeague": "Northwest League",
@@ -537,11 +524,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-21-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819419",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-05-21",
+      "dateEvent": "2026-05-20",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-21T01:35:00Z",
       "strLeague": "Northwest League",
@@ -550,11 +537,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-22-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819416",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-05-22",
+      "dateEvent": "2026-05-21",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-22T01:35:00Z",
       "strLeague": "Northwest League",
@@ -563,20 +550,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819423",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-05-23",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-05-23T00:05:00Z",
+      "dateEvent": "2026-05-22",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-05-23T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-24-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819418",
+      "strEvent": "Eugene Emeralds vs Hillsboro Hops",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Hillsboro Hops",
+      "dateEvent": "2026-05-23",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-05-24T00:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819420",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
@@ -589,24 +589,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-26-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819088",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-05-26",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-05-26T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-27-vancouver-canadians-vs-eugene-emeralds",
-      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-05-27",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-27T02:05:00Z",
       "strLeague": "Northwest League",
@@ -615,11 +602,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-28-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819083",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-05-28",
+      "dateEvent": "2026-05-27",
       "strTime": "02:05:00",
       "strTimestamp": "2026-05-28T02:05:00Z",
       "strLeague": "Northwest League",
@@ -628,7 +615,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-29-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819084",
+      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-05-28",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-05-29T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819089",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -641,7 +641,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-30-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819086",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -654,7 +654,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-31-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819085",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -667,24 +667,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-02-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819355",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-06-02",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-06-02T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-03-everett-aquasox-vs-eugene-emeralds",
-      "strEvent": "Everett AquaSox vs Eugene Emeralds",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-03",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-03T02:05:00Z",
       "strLeague": "Northwest League",
@@ -693,11 +680,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-04-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819353",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-04",
+      "dateEvent": "2026-06-03",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-04T02:05:00Z",
       "strLeague": "Northwest League",
@@ -706,11 +693,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-05-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819343",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-05",
+      "dateEvent": "2026-06-04",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-05T02:05:00Z",
       "strLeague": "Northwest League",
@@ -719,11 +706,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-06-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819344",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-06",
+      "dateEvent": "2026-06-05",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-06T02:05:00Z",
       "strLeague": "Northwest League",
@@ -732,7 +719,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-07-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819350",
+      "strEvent": "Everett AquaSox vs Eugene Emeralds",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-06-06",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-06-07T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819347",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
@@ -745,24 +745,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-09-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819413",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-06-09",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-06-09T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-10-eugene-emeralds-vs-spokane-indians",
-      "strEvent": "Eugene Emeralds vs Spokane Indians",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-06-10",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-10T01:35:00Z",
       "strLeague": "Northwest League",
@@ -771,11 +758,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-11-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819410",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-06-11",
+      "dateEvent": "2026-06-10",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-11T01:35:00Z",
       "strLeague": "Northwest League",
@@ -784,11 +771,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-12-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819414",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-06-12",
+      "dateEvent": "2026-06-11",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-12T01:35:00Z",
       "strLeague": "Northwest League",
@@ -797,20 +784,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-13-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819409",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-06-13",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-06-13T00:05:00Z",
+      "dateEvent": "2026-06-12",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-06-13T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-14-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819411",
+      "strEvent": "Eugene Emeralds vs Spokane Indians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-06-13",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-06-14T00:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819415",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
@@ -823,24 +823,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-16-tri-city-dust-devils-vs-eugene-emeralds",
+      "idEvent": "scraped-819146",
       "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-06-16",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-06-16T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Gesa Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-17-tri-city-dust-devils-vs-eugene-emeralds",
-      "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
-      "strHomeTeam": "Tri-City Dust Devils",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-17",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-17T02:05:00Z",
       "strLeague": "Northwest League",
@@ -849,11 +836,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-18-tri-city-dust-devils-vs-eugene-emeralds",
+      "idEvent": "scraped-819149",
       "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-18",
+      "dateEvent": "2026-06-17",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-18T02:05:00Z",
       "strLeague": "Northwest League",
@@ -862,11 +849,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-19-tri-city-dust-devils-vs-eugene-emeralds",
+      "idEvent": "scraped-819142",
       "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-19",
+      "dateEvent": "2026-06-18",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-19T02:05:00Z",
       "strLeague": "Northwest League",
@@ -875,11 +862,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-20-tri-city-dust-devils-vs-eugene-emeralds",
+      "idEvent": "scraped-819148",
       "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-20",
+      "dateEvent": "2026-06-19",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-20T02:05:00Z",
       "strLeague": "Northwest League",
@@ -888,11 +875,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-21-tri-city-dust-devils-vs-eugene-emeralds",
+      "idEvent": "scraped-819145",
       "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-06-21",
+      "dateEvent": "2026-06-20",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-21T02:05:00Z",
       "strLeague": "Northwest League",
@@ -901,24 +888,24 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-23-eugene-emeralds-vs-everett-aquasox",
-      "strEvent": "Eugene Emeralds vs Everett AquaSox",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-06-23",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-06-23T01:35:00Z",
+      "idEvent": "scraped-819139",
+      "strEvent": "Tri-City Dust Devils vs Eugene Emeralds",
+      "strHomeTeam": "Tri-City Dust Devils",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-06-21",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-06-22T02:05:00Z",
       "strLeague": "Northwest League",
-      "strVenue": "PK Park",
+      "strVenue": "Gesa Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-24-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819412",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-06-24",
+      "dateEvent": "2026-06-23",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-24T01:35:00Z",
       "strLeague": "Northwest League",
@@ -927,76 +914,76 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819408",
+      "strEvent": "Eugene Emeralds vs Everett AquaSox",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-06-24",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-06-25T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819402",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-06-25",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-06-25T00:05:00Z",
+      "strTimestamp": "2026-06-26T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819400",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-06-25",
       "strTime": "00:10:00",
-      "strTimestamp": "2026-06-25T00:10:00Z",
+      "strTimestamp": "2026-06-26T00:10:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-26-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819406",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-06-26",
       "strTime": "01:35:00",
-      "strTimestamp": "2026-06-26T01:35:00Z",
+      "strTimestamp": "2026-06-27T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-28-eugene-emeralds-vs-everett-aquasox",
+      "idEvent": "scraped-819403",
       "strEvent": "Eugene Emeralds vs Everett AquaSox",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-06-28",
       "strTime": "01:05:00",
-      "strTimestamp": "2026-06-28T01:05:00Z",
+      "strTimestamp": "2026-06-29T01:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-30-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819081",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-06-30",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-06-30T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-01-vancouver-canadians-vs-eugene-emeralds",
-      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-07-01",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-01T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1005,11 +992,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-02-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819076",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-07-02",
+      "dateEvent": "2026-07-01",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-02T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1018,7 +1005,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-03-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819074",
+      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-07-02",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-03T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819069",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -1031,20 +1031,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-04-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819066",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-07-04",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-07-04T00:05:00Z",
+      "strTimestamp": "2026-07-05T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Rogers Field at Nat Bailey Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-05-vancouver-canadians-vs-eugene-emeralds",
+      "idEvent": "scraped-819071",
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
@@ -1057,24 +1057,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-07-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819401",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-07-07",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-07-07T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-08-eugene-emeralds-vs-spokane-indians",
-      "strEvent": "Eugene Emeralds vs Spokane Indians",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-08",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-08T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1083,11 +1070,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-09-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819405",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-09",
+      "dateEvent": "2026-07-08",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-09T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1096,11 +1083,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-10-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819407",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-10",
+      "dateEvent": "2026-07-09",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-10T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1109,20 +1096,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-11-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819404",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-11",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-07-11T00:05:00Z",
+      "dateEvent": "2026-07-10",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-07-11T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-12-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819397",
+      "strEvent": "Eugene Emeralds vs Spokane Indians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-07-11",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-07-12T00:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819393",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
@@ -1135,33 +1135,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-17-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819399",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-07-17",
       "strTime": "01:35:00",
-      "strTimestamp": "2026-07-17T01:35:00Z",
+      "strTimestamp": "2026-07-18T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-18-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819398",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-07-18",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-07-18T00:05:00Z",
+      "strTimestamp": "2026-07-19T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-19-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819391",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
@@ -1174,24 +1174,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-21-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819326",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-07-21",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-07-21T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-22-everett-aquasox-vs-eugene-emeralds",
-      "strEvent": "Everett AquaSox vs Eugene Emeralds",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-07-22",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-22T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1200,7 +1187,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-23-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819333",
+      "strEvent": "Everett AquaSox vs Eugene Emeralds",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-07-22",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-23T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819328",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
@@ -1213,24 +1213,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-24-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819332",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-07-24",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-07-24T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-25-everett-aquasox-vs-eugene-emeralds",
-      "strEvent": "Everett AquaSox vs Eugene Emeralds",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-07-25",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-25T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1239,7 +1226,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-26-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819327",
+      "strEvent": "Everett AquaSox vs Eugene Emeralds",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-07-25",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-26T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819330",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
@@ -1252,24 +1252,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-28-eugene-emeralds-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819394",
       "strEvent": "Eugene Emeralds vs Tri-City Dust Devils",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Tri-City Dust Devils",
       "dateEvent": "2026-07-28",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-07-28T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-29-eugene-emeralds-vs-tri-city-dust-devils",
-      "strEvent": "Eugene Emeralds vs Tri-City Dust Devils",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-07-29",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-29T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1278,11 +1265,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-30-eugene-emeralds-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819395",
       "strEvent": "Eugene Emeralds vs Tri-City Dust Devils",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-07-30",
+      "dateEvent": "2026-07-29",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-30T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1291,11 +1278,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-31-eugene-emeralds-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819396",
       "strEvent": "Eugene Emeralds vs Tri-City Dust Devils",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-07-31",
+      "dateEvent": "2026-07-30",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-31T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1304,20 +1291,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-01-eugene-emeralds-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819392",
       "strEvent": "Eugene Emeralds vs Tri-City Dust Devils",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-08-01",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-08-01T00:05:00Z",
+      "dateEvent": "2026-07-31",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-08-01T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-02-eugene-emeralds-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819388",
+      "strEvent": "Eugene Emeralds vs Tri-City Dust Devils",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Tri-City Dust Devils",
+      "dateEvent": "2026-08-01",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-08-02T00:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819383",
       "strEvent": "Eugene Emeralds vs Tri-City Dust Devils",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -1330,24 +1330,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-04-spokane-indians-vs-eugene-emeralds",
+      "idEvent": "scraped-819191",
       "strEvent": "Spokane Indians vs Eugene Emeralds",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-08-04",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-08-04T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-05-spokane-indians-vs-eugene-emeralds",
-      "strEvent": "Spokane Indians vs Eugene Emeralds",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-05",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-05T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1356,11 +1343,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-06-spokane-indians-vs-eugene-emeralds",
+      "idEvent": "scraped-819194",
       "strEvent": "Spokane Indians vs Eugene Emeralds",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-06",
+      "dateEvent": "2026-08-05",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-06T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1369,11 +1356,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-07-spokane-indians-vs-eugene-emeralds",
+      "idEvent": "scraped-819196",
       "strEvent": "Spokane Indians vs Eugene Emeralds",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-07",
+      "dateEvent": "2026-08-06",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-07T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1382,11 +1369,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-08-spokane-indians-vs-eugene-emeralds",
+      "idEvent": "scraped-819197",
       "strEvent": "Spokane Indians vs Eugene Emeralds",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-08",
+      "dateEvent": "2026-08-07",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-08T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1395,7 +1382,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-09-spokane-indians-vs-eugene-emeralds",
+      "idEvent": "scraped-819192",
+      "strEvent": "Spokane Indians vs Eugene Emeralds",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-08-08",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-08-09T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819190",
       "strEvent": "Spokane Indians vs Eugene Emeralds",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Eugene Emeralds",
@@ -1408,24 +1408,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-11-hillsboro-hops-vs-eugene-emeralds",
+      "idEvent": "scraped-819253",
       "strEvent": "Hillsboro Hops vs Eugene Emeralds",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-08-11",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-08-11T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Hops Ballpark",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-12-hillsboro-hops-vs-eugene-emeralds",
-      "strEvent": "Hillsboro Hops vs Eugene Emeralds",
-      "strHomeTeam": "Hillsboro Hops",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-12",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-12T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1434,11 +1421,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-13-hillsboro-hops-vs-eugene-emeralds",
+      "idEvent": "scraped-819258",
       "strEvent": "Hillsboro Hops vs Eugene Emeralds",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-13",
+      "dateEvent": "2026-08-12",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-13T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1447,33 +1434,46 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-14-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819257",
+      "strEvent": "Hillsboro Hops vs Eugene Emeralds",
+      "strHomeTeam": "Hillsboro Hops",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-08-13",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-08-14T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Hops Ballpark",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819384",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-08-14",
       "strTime": "01:35:00",
-      "strTimestamp": "2026-08-14T01:35:00Z",
+      "strTimestamp": "2026-08-15T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-15-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819387",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-08-15",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-08-15T00:05:00Z",
+      "strTimestamp": "2026-08-16T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-16-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819390",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
@@ -1486,24 +1486,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-18-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819389",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-08-18",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-08-18T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-19-eugene-emeralds-vs-vancouver-canadians",
-      "strEvent": "Eugene Emeralds vs Vancouver Canadians",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-19",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-19T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1512,11 +1499,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-20-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819385",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-20",
+      "dateEvent": "2026-08-19",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-20T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1525,11 +1512,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-21-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819386",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-21",
+      "dateEvent": "2026-08-20",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-21T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1538,20 +1525,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-22-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819377",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-08-22",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-08-22T00:05:00Z",
+      "dateEvent": "2026-08-21",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-08-22T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-23-eugene-emeralds-vs-vancouver-canadians",
+      "idEvent": "scraped-819382",
+      "strEvent": "Eugene Emeralds vs Vancouver Canadians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-08-22",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-08-23T00:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819378",
       "strEvent": "Eugene Emeralds vs Vancouver Canadians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Vancouver Canadians",
@@ -1564,24 +1564,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-25-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819316",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-08-25",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-08-25T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-26-everett-aquasox-vs-eugene-emeralds",
-      "strEvent": "Everett AquaSox vs Eugene Emeralds",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-26",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-26T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1590,11 +1577,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-27-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819317",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-27",
+      "dateEvent": "2026-08-26",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-27T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1603,11 +1590,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-28-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819315",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-28",
+      "dateEvent": "2026-08-27",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-28T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1616,11 +1603,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-29-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819313",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-29",
+      "dateEvent": "2026-08-28",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-29T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1629,7 +1616,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-30-everett-aquasox-vs-eugene-emeralds",
+      "idEvent": "scraped-819312",
+      "strEvent": "Everett AquaSox vs Eugene Emeralds",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-08-29",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-08-30T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819311",
       "strEvent": "Everett AquaSox vs Eugene Emeralds",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Eugene Emeralds",
@@ -1642,24 +1642,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-01-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819376",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-09-01",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-09-01T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-09-02-eugene-emeralds-vs-hillsboro-hops",
-      "strEvent": "Eugene Emeralds vs Hillsboro Hops",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-09-02",
       "strTime": "01:35:00",
       "strTimestamp": "2026-09-02T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1668,11 +1655,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-03-eugene-emeralds-vs-hillsboro-hops",
+      "idEvent": "scraped-819379",
       "strEvent": "Eugene Emeralds vs Hillsboro Hops",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-09-03",
+      "dateEvent": "2026-09-02",
       "strTime": "01:35:00",
       "strTimestamp": "2026-09-03T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1681,33 +1668,46 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-04-hillsboro-hops-vs-eugene-emeralds",
+      "idEvent": "scraped-819380",
+      "strEvent": "Eugene Emeralds vs Hillsboro Hops",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Hillsboro Hops",
+      "dateEvent": "2026-09-03",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-09-04T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819248",
       "strEvent": "Hillsboro Hops vs Eugene Emeralds",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-09-04",
       "strTime": "01:35:00",
-      "strTimestamp": "2026-09-04T01:35:00Z",
+      "strTimestamp": "2026-09-05T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-05-hillsboro-hops-vs-eugene-emeralds",
+      "idEvent": "scraped-819247",
       "strEvent": "Hillsboro Hops vs Eugene Emeralds",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-09-05",
       "strTime": "00:03:00",
-      "strTimestamp": "2026-09-05T00:03:00Z",
+      "strTimestamp": "2026-09-06T00:03:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-06-hillsboro-hops-vs-eugene-emeralds",
+      "idEvent": "scraped-819251",
       "strEvent": "Hillsboro Hops vs Eugene Emeralds",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Eugene Emeralds",
@@ -1720,7 +1720,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-08-to-be-determined-vs-eugene-emeralds",
+      "idEvent": "scraped-850974",
       "strEvent": "To Be Determined vs Eugene Emeralds",
       "strHomeTeam": "To Be Determined",
       "strAwayTeam": "Eugene Emeralds",
@@ -1733,7 +1733,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-09-to-be-determined-vs-eugene-emeralds",
+      "idEvent": "scraped-850975",
       "strEvent": "To Be Determined vs Eugene Emeralds",
       "strHomeTeam": "To Be Determined",
       "strAwayTeam": "Eugene Emeralds",
@@ -1746,7 +1746,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-11-eugene-emeralds-vs-to-be-determined",
+      "idEvent": "scraped-850967",
       "strEvent": "Eugene Emeralds vs To Be Determined",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "To Be Determined",
@@ -1759,7 +1759,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-12-eugene-emeralds-vs-to-be-determined",
+      "idEvent": "scraped-850968",
       "strEvent": "Eugene Emeralds vs To Be Determined",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "To Be Determined",
@@ -1772,7 +1772,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-13-eugene-emeralds-vs-to-be-determined",
+      "idEvent": "scraped-850969",
       "strEvent": "Eugene Emeralds vs To Be Determined",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "To Be Determined",
