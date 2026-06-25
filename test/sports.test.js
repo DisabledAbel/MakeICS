@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { searchTeamSuggestions, getEvents, toIcs } from '../lib/sports.js';
+import { searchTeamSuggestions, getEvents, toIcs, normalizeScrapedEvent } from '../lib/sports.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE_DIR = path.join(__dirname, '../lib/data/sports');
@@ -350,4 +350,38 @@ test('getEvents falls back to team stadium if event venue is missing', async (t)
   const event = result.events.find(e => e.id === '100');
   assert.ok(event, 'Test event should be present');
   assert.equal(event.venue, 'The Fortress', 'Should fall back to team stadium when venue is empty');
+});
+
+test('normalizeScrapedEvent handles MiLB-style data crossing UTC boundary', () => {
+  const milbGame = {
+    date: '2025-04-02T01:35:00Z',
+    officialDate: '2025-04-01',
+    name: 'Sacramento River Cats vs Las Vegas Aviators',
+    homeTeam: 'Las Vegas Aviators',
+    awayTeam: 'Sacramento River Cats',
+    venue: 'Las Vegas Ballpark',
+    league: 'Pacific Coast League',
+    id: 12345
+  };
+
+  const normalized = normalizeScrapedEvent(milbGame, 'Las Vegas Aviators');
+
+  assert.equal(normalized.idEvent, 'scraped-12345');
+  assert.equal(normalized.dateEvent, '2025-04-01', 'dateEvent should match officialDate, not UTC date');
+  assert.equal(normalized.strTimestamp, '2025-04-02T01:35:00Z');
+  assert.equal(normalized.strTime, '01:35:00');
+});
+
+test('normalizeScrapedEvent handles ISO time with offset', () => {
+  const game = {
+    date: '2025-04-01',
+    time: '2025-04-01T20:00:00-04:00',
+    name: 'Team A vs Team B',
+    homeTeam: 'Team A',
+    awayTeam: 'Team B'
+  };
+
+  const normalized = normalizeScrapedEvent(game, 'Team A');
+  assert.equal(normalized.strTimestamp, '2025-04-01T20:00:00-04:00');
+  assert.equal(normalized.strTime, '20:00:00');
 });

@@ -1,36 +1,36 @@
 {
   "teamId": "153993",
   "teamName": "Spokane Indians",
-  "updatedAt": "2026-06-24T15:23:51.818Z",
+  "updatedAt": "2026-06-25T01:19:12.306Z",
   "events": [
     {
-      "idEvent": "scraped-2026-04-03-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819239",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-04-03",
       "strTime": "01:35:00",
-      "strTimestamp": "2026-04-03T01:35:00Z",
+      "strTimestamp": "2026-04-04T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Avista Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-04-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819242",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-04-04",
       "strTime": "00:09:00",
-      "strTimestamp": "2026-04-04T00:09:00Z",
+      "strTimestamp": "2026-04-05T00:09:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Avista Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-05-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819243",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
@@ -43,24 +43,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-07-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819314",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-04-07",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-04-07T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Hops Ballpark",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-08-hillsboro-hops-vs-spokane-indians",
-      "strEvent": "Hillsboro Hops vs Spokane Indians",
-      "strHomeTeam": "Hillsboro Hops",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-04-08",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-08T01:35:00Z",
       "strLeague": "Northwest League",
@@ -69,11 +56,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-09-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819309",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-04-09",
+      "dateEvent": "2026-04-08",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-09T01:35:00Z",
       "strLeague": "Northwest League",
@@ -82,11 +69,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-10-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819305",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-04-10",
+      "dateEvent": "2026-04-09",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-10T01:35:00Z",
       "strLeague": "Northwest League",
@@ -95,20 +82,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-11-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819308",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-04-11",
-      "strTime": "00:03:00",
-      "strTimestamp": "2026-04-11T00:03:00Z",
+      "dateEvent": "2026-04-10",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-04-11T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-12-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819304",
+      "strEvent": "Hillsboro Hops vs Spokane Indians",
+      "strHomeTeam": "Hillsboro Hops",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-04-11",
+      "strTime": "00:03:00",
+      "strTimestamp": "2026-04-12T00:03:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Hops Ballpark",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819303",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
@@ -121,7 +121,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-14-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819241",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
@@ -134,24 +134,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-15-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819236",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-04-15",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-04-15T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-16-spokane-indians-vs-vancouver-canadians",
-      "strEvent": "Spokane Indians vs Vancouver Canadians",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-04-16",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-16T01:35:00Z",
       "strLeague": "Northwest League",
@@ -160,11 +147,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-17-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819238",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-04-17",
+      "dateEvent": "2026-04-16",
       "strTime": "01:35:00",
       "strTimestamp": "2026-04-17T01:35:00Z",
       "strLeague": "Northwest League",
@@ -173,20 +160,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-18-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819240",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-04-18",
-      "strTime": "00:09:00",
-      "strTimestamp": "2026-04-18T00:09:00Z",
+      "dateEvent": "2026-04-17",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-04-18T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Avista Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-19-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819244",
+      "strEvent": "Spokane Indians vs Vancouver Canadians",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-04-18",
+      "strTime": "00:09:00",
+      "strTimestamp": "2026-04-19T00:09:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819237",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
@@ -199,24 +199,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-21-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819375",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-04-21",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-04-21T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-22-everett-aquasox-vs-spokane-indians",
-      "strEvent": "Everett AquaSox vs Spokane Indians",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-04-22",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-22T02:05:00Z",
       "strLeague": "Northwest League",
@@ -225,7 +212,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-23-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819371",
+      "strEvent": "Everett AquaSox vs Spokane Indians",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-04-22",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-04-23T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819368",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
@@ -238,24 +238,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-24-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819361",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-04-24",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-04-24T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-04-25-everett-aquasox-vs-spokane-indians",
-      "strEvent": "Everett AquaSox vs Spokane Indians",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-04-25",
       "strTime": "02:05:00",
       "strTimestamp": "2026-04-25T02:05:00Z",
       "strLeague": "Northwest League",
@@ -264,7 +251,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-26-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819360",
+      "strEvent": "Everett AquaSox vs Spokane Indians",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-04-25",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-04-26T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819365",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
@@ -277,7 +277,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-29-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819427",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
@@ -290,24 +290,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-04-30-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819426",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-04-30",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-04-30T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-01-eugene-emeralds-vs-spokane-indians",
-      "strEvent": "Eugene Emeralds vs Spokane Indians",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-05-01",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-01T01:35:00Z",
       "strLeague": "Northwest League",
@@ -316,33 +303,46 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-02-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819425",
+      "strEvent": "Eugene Emeralds vs Spokane Indians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-05-01",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-05-02T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819430",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-05-02",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-05-02T00:05:00Z",
+      "strTimestamp": "2026-05-03T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-02-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819440",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-05-02",
       "strTime": "00:10:00",
-      "strTimestamp": "2026-05-02T00:10:00Z",
+      "strTimestamp": "2026-05-03T00:10:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-03-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819429",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
@@ -355,7 +355,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-05-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819228",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -368,24 +368,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-06-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819231",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
       "dateEvent": "2026-05-06",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-05-06T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-07-spokane-indians-vs-tri-city-dust-devils",
-      "strEvent": "Spokane Indians vs Tri-City Dust Devils",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-05-07",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-07T01:35:00Z",
       "strLeague": "Northwest League",
@@ -394,11 +381,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-08-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819233",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-05-08",
+      "dateEvent": "2026-05-07",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-08T01:35:00Z",
       "strLeague": "Northwest League",
@@ -407,11 +394,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-09-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819234",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-05-09",
+      "dateEvent": "2026-05-08",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-09T01:35:00Z",
       "strLeague": "Northwest League",
@@ -420,7 +407,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-10-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819229",
+      "strEvent": "Spokane Indians vs Tri-City Dust Devils",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Tri-City Dust Devils",
+      "dateEvent": "2026-05-09",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-05-10T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819230",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -433,24 +433,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-12-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819294",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-05-12",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-05-12T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Hops Ballpark",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-13-hillsboro-hops-vs-spokane-indians",
-      "strEvent": "Hillsboro Hops vs Spokane Indians",
-      "strHomeTeam": "Hillsboro Hops",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-05-13",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-13T01:35:00Z",
       "strLeague": "Northwest League",
@@ -459,11 +446,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-14-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819297",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-05-14",
+      "dateEvent": "2026-05-13",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-14T01:35:00Z",
       "strLeague": "Northwest League",
@@ -472,11 +459,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-15-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819302",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-05-15",
+      "dateEvent": "2026-05-14",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-15T01:35:00Z",
       "strLeague": "Northwest League",
@@ -485,20 +472,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-16-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819301",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-05-16",
-      "strTime": "00:03:00",
-      "strTimestamp": "2026-05-16T00:03:00Z",
+      "dateEvent": "2026-05-15",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-05-16T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-17-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819296",
+      "strEvent": "Hillsboro Hops vs Spokane Indians",
+      "strHomeTeam": "Hillsboro Hops",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-05-16",
+      "strTime": "00:03:00",
+      "strTimestamp": "2026-05-17T00:03:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Hops Ballpark",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819289",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
@@ -511,24 +511,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-19-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819235",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-05-19",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-05-19T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-20-spokane-indians-vs-vancouver-canadians",
-      "strEvent": "Spokane Indians vs Vancouver Canadians",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-05-20",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-20T01:35:00Z",
       "strLeague": "Northwest League",
@@ -537,11 +524,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-21-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819232",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-05-21",
+      "dateEvent": "2026-05-20",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-21T01:35:00Z",
       "strLeague": "Northwest League",
@@ -550,11 +537,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-22-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819223",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-05-22",
+      "dateEvent": "2026-05-21",
       "strTime": "01:35:00",
       "strTimestamp": "2026-05-22T01:35:00Z",
       "strLeague": "Northwest League",
@@ -563,20 +550,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819224",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-05-23",
-      "strTime": "00:09:00",
-      "strTimestamp": "2026-05-23T00:09:00Z",
+      "dateEvent": "2026-05-22",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-05-23T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Avista Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-24-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819226",
+      "strEvent": "Spokane Indians vs Vancouver Canadians",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-05-23",
+      "strTime": "00:09:00",
+      "strTimestamp": "2026-05-24T00:09:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819227",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
@@ -589,24 +589,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-26-tri-city-dust-devils-vs-spokane-indians",
+      "idEvent": "scraped-819151",
       "strEvent": "Tri-City Dust Devils vs Spokane Indians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-05-26",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-05-26T01:30:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Gesa Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-05-27-tri-city-dust-devils-vs-spokane-indians",
-      "strEvent": "Tri-City Dust Devils vs Spokane Indians",
-      "strHomeTeam": "Tri-City Dust Devils",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-05-27",
       "strTime": "01:30:00",
       "strTimestamp": "2026-05-27T01:30:00Z",
       "strLeague": "Northwest League",
@@ -615,11 +602,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-28-tri-city-dust-devils-vs-spokane-indians",
+      "idEvent": "scraped-819153",
       "strEvent": "Tri-City Dust Devils vs Spokane Indians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-05-28",
+      "dateEvent": "2026-05-27",
       "strTime": "01:30:00",
       "strTimestamp": "2026-05-28T01:30:00Z",
       "strLeague": "Northwest League",
@@ -628,11 +615,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-29-tri-city-dust-devils-vs-spokane-indians",
+      "idEvent": "scraped-819152",
       "strEvent": "Tri-City Dust Devils vs Spokane Indians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-05-29",
+      "dateEvent": "2026-05-28",
       "strTime": "01:30:00",
       "strTimestamp": "2026-05-29T01:30:00Z",
       "strLeague": "Northwest League",
@@ -641,11 +628,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-30-tri-city-dust-devils-vs-spokane-indians",
+      "idEvent": "scraped-819154",
       "strEvent": "Tri-City Dust Devils vs Spokane Indians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-05-30",
+      "dateEvent": "2026-05-29",
       "strTime": "01:30:00",
       "strTimestamp": "2026-05-30T01:30:00Z",
       "strLeague": "Northwest League",
@@ -654,7 +641,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-31-tri-city-dust-devils-vs-spokane-indians",
+      "idEvent": "scraped-819155",
+      "strEvent": "Tri-City Dust Devils vs Spokane Indians",
+      "strHomeTeam": "Tri-City Dust Devils",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-05-30",
+      "strTime": "01:30:00",
+      "strTimestamp": "2026-05-31T01:30:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Gesa Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819150",
       "strEvent": "Tri-City Dust Devils vs Spokane Indians",
       "strHomeTeam": "Tri-City Dust Devils",
       "strAwayTeam": "Spokane Indians",
@@ -667,24 +667,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-02-spokane-indians-vs-hillsboro-hops",
+      "idEvent": "scraped-819225",
       "strEvent": "Spokane Indians vs Hillsboro Hops",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-06-02",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-06-02T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-03-spokane-indians-vs-hillsboro-hops",
-      "strEvent": "Spokane Indians vs Hillsboro Hops",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-06-03",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-03T01:35:00Z",
       "strLeague": "Northwest League",
@@ -693,11 +680,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-04-spokane-indians-vs-hillsboro-hops",
+      "idEvent": "scraped-819220",
       "strEvent": "Spokane Indians vs Hillsboro Hops",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-06-04",
+      "dateEvent": "2026-06-03",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-04T01:35:00Z",
       "strLeague": "Northwest League",
@@ -706,11 +693,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-05-spokane-indians-vs-hillsboro-hops",
+      "idEvent": "scraped-819221",
       "strEvent": "Spokane Indians vs Hillsboro Hops",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-06-05",
+      "dateEvent": "2026-06-04",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-05T01:35:00Z",
       "strLeague": "Northwest League",
@@ -719,11 +706,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-06-spokane-indians-vs-hillsboro-hops",
+      "idEvent": "scraped-819222",
       "strEvent": "Spokane Indians vs Hillsboro Hops",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-06-06",
+      "dateEvent": "2026-06-05",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-06T01:35:00Z",
       "strLeague": "Northwest League",
@@ -732,7 +719,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-07-spokane-indians-vs-hillsboro-hops",
+      "idEvent": "scraped-819218",
+      "strEvent": "Spokane Indians vs Hillsboro Hops",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Hillsboro Hops",
+      "dateEvent": "2026-06-06",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-06-07T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819215",
       "strEvent": "Spokane Indians vs Hillsboro Hops",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Hillsboro Hops",
@@ -745,24 +745,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-09-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819413",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-06-09",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-06-09T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-10-eugene-emeralds-vs-spokane-indians",
-      "strEvent": "Eugene Emeralds vs Spokane Indians",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-06-10",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-10T01:35:00Z",
       "strLeague": "Northwest League",
@@ -771,11 +758,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-11-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819410",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-06-11",
+      "dateEvent": "2026-06-10",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-11T01:35:00Z",
       "strLeague": "Northwest League",
@@ -784,11 +771,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-12-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819414",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-06-12",
+      "dateEvent": "2026-06-11",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-12T01:35:00Z",
       "strLeague": "Northwest League",
@@ -797,20 +784,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-13-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819409",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-06-13",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-06-13T00:05:00Z",
+      "dateEvent": "2026-06-12",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-06-13T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-14-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819411",
+      "strEvent": "Eugene Emeralds vs Spokane Indians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-06-13",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-06-14T00:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819415",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
@@ -823,24 +823,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-16-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819216",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
       "dateEvent": "2026-06-16",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-06-16T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-17-spokane-indians-vs-vancouver-canadians",
-      "strEvent": "Spokane Indians vs Vancouver Canadians",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-17",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-17T01:35:00Z",
       "strLeague": "Northwest League",
@@ -849,11 +836,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-18-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819217",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-18",
+      "dateEvent": "2026-06-17",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-18T01:35:00Z",
       "strLeague": "Northwest League",
@@ -862,24 +849,24 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-19-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819213",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-19",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-06-19T02:05:00Z",
+      "dateEvent": "2026-06-18",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-06-19T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Avista Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-20-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819214",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
-      "dateEvent": "2026-06-20",
+      "dateEvent": "2026-06-19",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-20T02:05:00Z",
       "strLeague": "Northwest League",
@@ -888,7 +875,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-21-spokane-indians-vs-vancouver-canadians",
+      "idEvent": "scraped-819212",
+      "strEvent": "Spokane Indians vs Vancouver Canadians",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-06-20",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-06-21T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819219",
       "strEvent": "Spokane Indians vs Vancouver Canadians",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Vancouver Canadians",
@@ -901,24 +901,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-23-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819207",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
       "dateEvent": "2026-06-23",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-06-23T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-06-24-spokane-indians-vs-tri-city-dust-devils",
-      "strEvent": "Spokane Indians vs Tri-City Dust Devils",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-06-24",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-24T01:35:00Z",
       "strLeague": "Northwest League",
@@ -927,11 +914,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819208",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-06-25",
+      "dateEvent": "2026-06-24",
       "strTime": "01:35:00",
       "strTimestamp": "2026-06-25T01:35:00Z",
       "strLeague": "Northwest League",
@@ -940,24 +927,24 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-26-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819209",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-06-26",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-06-26T02:05:00Z",
+      "dateEvent": "2026-06-25",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-06-26T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Avista Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-27-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819210",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-06-27",
+      "dateEvent": "2026-06-26",
       "strTime": "02:05:00",
       "strTimestamp": "2026-06-27T02:05:00Z",
       "strLeague": "Northwest League",
@@ -966,7 +953,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-28-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819206",
+      "strEvent": "Spokane Indians vs Tri-City Dust Devils",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Tri-City Dust Devils",
+      "dateEvent": "2026-06-27",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-06-28T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819211",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -979,24 +979,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-30-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819277",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-06-30",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-06-30T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Hops Ballpark",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-01-hillsboro-hops-vs-spokane-indians",
-      "strEvent": "Hillsboro Hops vs Spokane Indians",
-      "strHomeTeam": "Hillsboro Hops",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-01",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-01T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1005,11 +992,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-02-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819274",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-02",
+      "dateEvent": "2026-07-01",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-02T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1018,24 +1005,24 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-03-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819276",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-03",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-07-03T02:05:00Z",
+      "dateEvent": "2026-07-02",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-07-03T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Hops Ballpark",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-04-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819271",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-04",
+      "dateEvent": "2026-07-03",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-04T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1044,7 +1031,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-05-hillsboro-hops-vs-spokane-indians",
+      "idEvent": "scraped-819272",
+      "strEvent": "Hillsboro Hops vs Spokane Indians",
+      "strHomeTeam": "Hillsboro Hops",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-07-04",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-05T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Hops Ballpark",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819266",
       "strEvent": "Hillsboro Hops vs Spokane Indians",
       "strHomeTeam": "Hillsboro Hops",
       "strAwayTeam": "Spokane Indians",
@@ -1057,24 +1057,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-07-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819401",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-07-07",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-07-07T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "PK Park",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-08-eugene-emeralds-vs-spokane-indians",
-      "strEvent": "Eugene Emeralds vs Spokane Indians",
-      "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-08",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-08T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1083,11 +1070,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-09-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819405",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-09",
+      "dateEvent": "2026-07-08",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-09T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1096,11 +1083,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-10-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819407",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-10",
+      "dateEvent": "2026-07-09",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-10T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1109,20 +1096,33 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-11-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819404",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-11",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-07-11T00:05:00Z",
+      "dateEvent": "2026-07-10",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-07-11T01:35:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-12-eugene-emeralds-vs-spokane-indians",
+      "idEvent": "scraped-819397",
+      "strEvent": "Eugene Emeralds vs Spokane Indians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-07-11",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-07-12T00:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819393",
       "strEvent": "Eugene Emeralds vs Spokane Indians",
       "strHomeTeam": "Eugene Emeralds",
       "strAwayTeam": "Spokane Indians",
@@ -1135,24 +1135,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-17-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819205",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-07-17",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-07-17T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-18-spokane-indians-vs-everett-aquasox",
-      "strEvent": "Spokane Indians vs Everett AquaSox",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-07-18",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-18T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1161,7 +1148,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-19-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819202",
+      "strEvent": "Spokane Indians vs Everett AquaSox",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-07-18",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-07-19T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819204",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
@@ -1174,24 +1174,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-21-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819200",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
       "dateEvent": "2026-07-21",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-07-21T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-22-spokane-indians-vs-tri-city-dust-devils",
-      "strEvent": "Spokane Indians vs Tri-City Dust Devils",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-07-22",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-22T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1200,11 +1187,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-23-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819201",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-07-23",
+      "dateEvent": "2026-07-22",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-23T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1213,11 +1200,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-24-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819199",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-07-24",
+      "dateEvent": "2026-07-23",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-24T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1226,11 +1213,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-25-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819203",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
-      "dateEvent": "2026-07-25",
+      "dateEvent": "2026-07-24",
       "strTime": "01:35:00",
       "strTimestamp": "2026-07-25T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1239,7 +1226,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-26-spokane-indians-vs-tri-city-dust-devils",
+      "idEvent": "scraped-819198",
+      "strEvent": "Spokane Indians vs Tri-City Dust Devils",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Tri-City Dust Devils",
+      "dateEvent": "2026-07-25",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-07-26T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819195",
       "strEvent": "Spokane Indians vs Tri-City Dust Devils",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Tri-City Dust Devils",
@@ -1252,24 +1252,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-28-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819061",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-07-28",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-07-28T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-07-29-vancouver-canadians-vs-spokane-indians",
-      "strEvent": "Vancouver Canadians vs Spokane Indians",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-29",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-29T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1278,11 +1265,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-30-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819062",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-07-30",
+      "dateEvent": "2026-07-29",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-30T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1291,7 +1278,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-31-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819060",
+      "strEvent": "Vancouver Canadians vs Spokane Indians",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-07-30",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-07-31T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819064",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
@@ -1304,20 +1304,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-01-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819065",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-08-01",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-08-01T00:05:00Z",
+      "strTimestamp": "2026-08-02T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Rogers Field at Nat Bailey Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-02-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819057",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
@@ -1330,24 +1330,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-04-spokane-indians-vs-eugene-emeralds",
+      "idEvent": "scraped-819191",
       "strEvent": "Spokane Indians vs Eugene Emeralds",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-08-04",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-08-04T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-05-spokane-indians-vs-eugene-emeralds",
-      "strEvent": "Spokane Indians vs Eugene Emeralds",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-05",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-05T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1356,11 +1343,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-06-spokane-indians-vs-eugene-emeralds",
+      "idEvent": "scraped-819194",
       "strEvent": "Spokane Indians vs Eugene Emeralds",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-06",
+      "dateEvent": "2026-08-05",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-06T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1369,11 +1356,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-07-spokane-indians-vs-eugene-emeralds",
+      "idEvent": "scraped-819196",
       "strEvent": "Spokane Indians vs Eugene Emeralds",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-07",
+      "dateEvent": "2026-08-06",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-07T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1382,11 +1369,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-08-spokane-indians-vs-eugene-emeralds",
+      "idEvent": "scraped-819197",
       "strEvent": "Spokane Indians vs Eugene Emeralds",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-08-08",
+      "dateEvent": "2026-08-07",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-08T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1395,7 +1382,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-09-spokane-indians-vs-eugene-emeralds",
+      "idEvent": "scraped-819192",
+      "strEvent": "Spokane Indians vs Eugene Emeralds",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-08-08",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-08-09T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819190",
       "strEvent": "Spokane Indians vs Eugene Emeralds",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Eugene Emeralds",
@@ -1408,24 +1408,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-11-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819324",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-08-11",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-08-11T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-12-everett-aquasox-vs-spokane-indians",
-      "strEvent": "Everett AquaSox vs Spokane Indians",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-08-12",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-12T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1434,7 +1421,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-13-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819325",
+      "strEvent": "Everett AquaSox vs Spokane Indians",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-08-12",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-08-13T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819319",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
@@ -1447,24 +1447,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-14-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819320",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-08-14",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-08-14T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Everett Memorial Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-15-everett-aquasox-vs-spokane-indians",
-      "strEvent": "Everett AquaSox vs Spokane Indians",
-      "strHomeTeam": "Everett AquaSox",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-08-15",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-15T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1473,7 +1460,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-16-everett-aquasox-vs-spokane-indians",
+      "idEvent": "scraped-819318",
+      "strEvent": "Everett AquaSox vs Spokane Indians",
+      "strHomeTeam": "Everett AquaSox",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-08-15",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-08-16T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Everett Memorial Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819310",
       "strEvent": "Everett AquaSox vs Spokane Indians",
       "strHomeTeam": "Everett AquaSox",
       "strAwayTeam": "Spokane Indians",
@@ -1486,24 +1486,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-18-spokane-indians-vs-hillsboro-hops",
+      "idEvent": "scraped-819193",
       "strEvent": "Spokane Indians vs Hillsboro Hops",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Hillsboro Hops",
       "dateEvent": "2026-08-18",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-08-18T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-19-spokane-indians-vs-hillsboro-hops",
-      "strEvent": "Spokane Indians vs Hillsboro Hops",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-08-19",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-19T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1512,11 +1499,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-20-spokane-indians-vs-hillsboro-hops",
+      "idEvent": "scraped-819187",
       "strEvent": "Spokane Indians vs Hillsboro Hops",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-08-20",
+      "dateEvent": "2026-08-19",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-20T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1525,11 +1512,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-21-spokane-indians-vs-hillsboro-hops",
+      "idEvent": "scraped-819186",
       "strEvent": "Spokane Indians vs Hillsboro Hops",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-08-21",
+      "dateEvent": "2026-08-20",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-21T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1538,11 +1525,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-22-spokane-indians-vs-hillsboro-hops",
+      "idEvent": "scraped-819183",
       "strEvent": "Spokane Indians vs Hillsboro Hops",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Hillsboro Hops",
-      "dateEvent": "2026-08-22",
+      "dateEvent": "2026-08-21",
       "strTime": "01:35:00",
       "strTimestamp": "2026-08-22T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1551,7 +1538,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-23-spokane-indians-vs-hillsboro-hops",
+      "idEvent": "scraped-819184",
+      "strEvent": "Spokane Indians vs Hillsboro Hops",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Hillsboro Hops",
+      "dateEvent": "2026-08-22",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-08-23T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819188",
       "strEvent": "Spokane Indians vs Hillsboro Hops",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Hillsboro Hops",
@@ -1564,24 +1564,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-25-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819050",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-08-25",
-      "strTime": "02:05:00",
-      "strTimestamp": "2026-08-25T02:05:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Rogers Field at Nat Bailey Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-26-vancouver-canadians-vs-spokane-indians",
-      "strEvent": "Vancouver Canadians vs Spokane Indians",
-      "strHomeTeam": "Vancouver Canadians",
-      "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-08-26",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-26T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1590,11 +1577,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-27-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819052",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
-      "dateEvent": "2026-08-27",
+      "dateEvent": "2026-08-26",
       "strTime": "02:05:00",
       "strTimestamp": "2026-08-27T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1603,7 +1590,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-28-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819051",
+      "strEvent": "Vancouver Canadians vs Spokane Indians",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Spokane Indians",
+      "dateEvent": "2026-08-27",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-08-28T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819048",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
@@ -1616,20 +1616,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-29-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819049",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
       "dateEvent": "2026-08-29",
       "strTime": "00:05:00",
-      "strTimestamp": "2026-08-29T00:05:00Z",
+      "strTimestamp": "2026-08-30T00:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Rogers Field at Nat Bailey Stadium",
       "strStatus": "NS",
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-30-vancouver-canadians-vs-spokane-indians",
+      "idEvent": "scraped-819047",
       "strEvent": "Vancouver Canadians vs Spokane Indians",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Spokane Indians",
@@ -1642,24 +1642,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-01-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819189",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
       "dateEvent": "2026-09-01",
-      "strTime": "01:35:00",
-      "strTimestamp": "2026-09-01T01:35:00Z",
-      "strLeague": "Northwest League",
-      "strVenue": "Avista Stadium",
-      "strStatus": "NS",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-09-02-spokane-indians-vs-everett-aquasox",
-      "strEvent": "Spokane Indians vs Everett AquaSox",
-      "strHomeTeam": "Spokane Indians",
-      "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-09-02",
       "strTime": "01:35:00",
       "strTimestamp": "2026-09-02T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1668,11 +1655,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-03-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819185",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-09-03",
+      "dateEvent": "2026-09-02",
       "strTime": "01:35:00",
       "strTimestamp": "2026-09-03T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1681,11 +1668,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-04-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819179",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-09-04",
+      "dateEvent": "2026-09-03",
       "strTime": "01:35:00",
       "strTimestamp": "2026-09-04T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1694,11 +1681,11 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-05-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819176",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",
-      "dateEvent": "2026-09-05",
+      "dateEvent": "2026-09-04",
       "strTime": "01:35:00",
       "strTimestamp": "2026-09-05T01:35:00Z",
       "strLeague": "Northwest League",
@@ -1707,7 +1694,20 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-06-spokane-indians-vs-everett-aquasox",
+      "idEvent": "scraped-819175",
+      "strEvent": "Spokane Indians vs Everett AquaSox",
+      "strHomeTeam": "Spokane Indians",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-09-05",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-09-06T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Avista Stadium",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819177",
       "strEvent": "Spokane Indians vs Everett AquaSox",
       "strHomeTeam": "Spokane Indians",
       "strAwayTeam": "Everett AquaSox",

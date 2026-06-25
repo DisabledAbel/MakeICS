@@ -72,8 +72,8 @@ async function main() {
           for (const date of scheduleData.dates) {
             for (const game of date.games) {
               games.push({
-                date: game.officialDate,
-                time: game.gameDate.includes('T') ? game.gameDate.split('T')[1].replace('Z', '') : null,
+                date: game.gameDate,
+                officialDate: game.officialDate,
                 name: `${game.teams.home.team.name} vs ${game.teams.away.team.name}`,
                 homeTeam: game.teams.home.team.name,
                 awayTeam: game.teams.away.team.name,
