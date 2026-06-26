@@ -1,7 +1,7 @@
 {
   "teamId": "153990",
   "teamName": "Eugene Emeralds",
-  "updatedAt": "2026-06-25T15:23:10.154Z",
+  "updatedAt": "2026-06-26T04:55:44.033Z",
   "events": [
     {
       "idEvent": "scraped-819444",
@@ -947,6 +947,19 @@
       "dateEvent": "2026-06-25",
       "strTime": "00:10:00",
       "strTimestamp": "2026-06-26T00:10:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819400",
+      "strEvent": "Eugene Emeralds vs Everett AquaSox",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Everett AquaSox",
+      "dateEvent": "2026-06-25",
+      "strTime": "23:05:00",
+      "strTimestamp": "2026-06-26T23:05:00Z",
       "strLeague": "Northwest League",
       "strVenue": "PK Park",
       "strStatus": "NS",
