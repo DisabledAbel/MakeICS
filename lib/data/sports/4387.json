@@ -1,7 +1,7 @@
 {
   "leagueId": "4387",
   "leagueName": "NBA",
-  "updatedAt": "2026-06-26T09:47:47.710Z",
+  "updatedAt": "2026-06-26T14:44:21.642Z",
   "events": [
     {
       "idEvent": "2357365",
@@ -5183,7 +5183,7 @@
       "strTimeLocal": "18:00:00",
       "strGroup": "",
       "idHomeTeam": "134879",
-      "strHomeTeamBadge": "https://www.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png",
+      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png",
       "idAwayTeam": "134876",
       "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/azoktf1780729261.png",
       "intScore": null,
