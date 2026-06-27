@@ -19,16 +19,62 @@ async function processFile(filePath) {
 
     let modified = false;
     const TBD_VARIANTS = ['', 'TBA', 'TO BE DETERMINED'];
+    const COMPLETED_STATUSES = ['FT', 'AET', 'PEN', 'AOT'];
+    const now = new Date();
 
     for (const event of data.events) {
-      for (const field of FIELDS_TO_CHECK) {
-        const value = event[field];
-        const normalizedValue = typeof value === 'string' ? value.trim() : value;
+      // 1. Check for strVenue specifically to handle fallback and completed games
+      const status = event.strStatus?.toUpperCase();
+      const isCompleted = COMPLETED_STATUSES.includes(status);
 
+      for (const field of FIELDS_TO_CHECK) {
+        let value = event[field];
+
+        // Special handling for strEvent to replace variants inline
+        if (field === 'strEvent' && typeof value === 'string') {
+          const originalValue = value;
+          for (const variant of TBD_VARIANTS) {
+            if (variant === '') continue;
+            const regex = new RegExp(`\\b${variant}\\b`, 'gi');
+            value = value.replace(regex, 'TBD');
+          }
+          if (value !== originalValue) {
+            event[field] = value;
+            modified = true;
+          }
+        }
+
+        const normalizedValue = typeof value === 'string' ? value.trim() : value;
         const isMissing = value === null || value === undefined || normalizedValue === '';
         const isTbaVariant = typeof normalizedValue === 'string' && TBD_VARIANTS.includes(normalizedValue.toUpperCase());
 
-        if ((isMissing || isTbaVariant) && value !== 'TBD') {
+        if (isMissing || isTbaVariant) {
+          if (value === 'TBD') continue;
+
+          // Skip setting TBD for venue if game is completed or if it's potentially a home game fallback candidate
+          if (field === 'strVenue') {
+            if (isCompleted) continue;
+
+            // If game is in the past and venue is still TBD/TBA/Missing, it shouldn't be TBD if we don't want it to show up as upcoming
+            const eventDate = new Date(event.strTimestamp || `${event.dateEvent}T${event.strTime || '00:00:00'}Z`);
+            if (!isNaN(eventDate.getTime()) && eventDate < now) {
+              // For past games with missing venue, leave it empty or null to avoid "TBD" which looks like an upcoming game
+              if (value !== null && value !== '') {
+                event[field] = '';
+                modified = true;
+              }
+              continue;
+            }
+
+            // If it's a home game and strVenue is missing, leave it empty to allow fallback in lib/sports.js
+            if (isMissing) continue;
+            if (isTbaVariant) {
+              event[field] = '';
+              modified = true;
+              continue;
+            }
+          }
+
           event[field] = 'TBD';
           modified = true;
         }
