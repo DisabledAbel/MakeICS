@@ -18,23 +18,31 @@ async function processFile(filePath) {
     }
 
     let modified = false;
-    const TBD_VARIANTS = ['', 'TBA', 'TO BE DETERMINED'];
+    const isSupplemental = !!data.teamId;
+    const trackedTeamId = data.teamId;
+    const trackedTeamName = (data.teamName || '').toLowerCase().trim();
     const COMPLETED_STATUSES = ['FT', 'AET', 'PEN', 'AOT'];
     const now = new Date();
 
     for (const event of data.events) {
-      // 1. Check for strVenue specifically to handle fallback and completed games
       const status = event.strStatus?.toUpperCase();
       const isCompleted = COMPLETED_STATUSES.includes(status);
+
+      // Determine if it's a home game for the tracked team (if in a supplemental file)
+      // For league-wide files, we skip TBD enforcement for missing venues to allow fallback logic in lib/sports.js
+      const isHomeGame = isSupplemental && (
+        (trackedTeamId && event.idHomeTeam === trackedTeamId) ||
+        (trackedTeamName && event.strHomeTeam?.toLowerCase().trim() === trackedTeamName)
+      );
 
       for (const field of FIELDS_TO_CHECK) {
         let value = event[field];
 
-        // Special handling for strEvent to replace variants inline
+        // 1. Special handling for strEvent to replace variants inline
         if (field === 'strEvent' && typeof value === 'string') {
           const originalValue = value;
-          for (const variant of TBD_VARIANTS) {
-            if (variant === '') continue;
+          const TO_REPLACE = ['TBA', 'To Be Determined'];
+          for (const variant of TO_REPLACE) {
             const regex = new RegExp(`\\b${variant}\\b`, 'gi');
             value = value.replace(regex, 'TBD');
           }
@@ -46,37 +54,37 @@ async function processFile(filePath) {
 
         const normalizedValue = typeof value === 'string' ? value.trim() : value;
         const isMissing = value === null || value === undefined || normalizedValue === '';
-        const isTbaVariant = typeof normalizedValue === 'string' && TBD_VARIANTS.includes(normalizedValue.toUpperCase());
+        const isTbaVariant = typeof normalizedValue === 'string' && ['TBA', 'TBD', 'TO BE DETERMINED'].includes(normalizedValue.toUpperCase());
 
         if (isMissing || isTbaVariant) {
-          if (value === 'TBD') continue;
-
-          // Skip setting TBD for venue if game is completed or if it's potentially a home game fallback candidate
+          // 2. Special handling for strVenue
           if (field === 'strVenue') {
             if (isCompleted) continue;
 
-            // If game is in the past and venue is still TBD/TBA/Missing, it shouldn't be TBD if we don't want it to show up as upcoming
             const eventDate = new Date(event.strTimestamp || `${event.dateEvent}T${event.strTime || '00:00:00'}Z`);
             if (!isNaN(eventDate.getTime()) && eventDate < now) {
-              // For past games with missing venue, leave it empty or null to avoid "TBD" which looks like an upcoming game
-              if (value !== null && value !== '') {
+              if (value !== '' && value !== null) {
                 event[field] = '';
                 modified = true;
               }
               continue;
             }
 
-            // If it's a home game and strVenue is missing, leave it empty to allow fallback in lib/sports.js
-            if (isMissing) continue;
-            if (isTbaVariant) {
-              event[field] = '';
-              modified = true;
+            // Leave blank for home games (supplemental) or ANY game in league files to allow fallback to home stadium
+            if (isHomeGame || !isSupplemental) {
+              if (value !== '' && value !== null) {
+                event[field] = '';
+                modified = true;
+              }
               continue;
             }
           }
 
-          event[field] = 'TBD';
-          modified = true;
+          // 3. Default: ensure "TBD"
+          if (value !== 'TBD') {
+            event[field] = 'TBD';
+            modified = true;
+          }
         }
       }
     }

@@ -259,7 +259,7 @@
       "strTime": "19:00:00",
       "strTimestamp": "2026-06-28T19:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -272,7 +272,7 @@
       "strTime": "01:00:00",
       "strTimestamp": "2026-07-05T01:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -298,7 +298,7 @@
       "strTime": "20:00:00",
       "strTimestamp": "2026-07-11T20:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -311,7 +311,7 @@
       "strTime": "15:00:00",
       "strTimestamp": "2026-07-14T15:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -324,7 +324,7 @@
       "strTime": "23:00:00",
       "strTimestamp": "2026-07-16T23:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -337,7 +337,7 @@
       "strTime": "00:00:00",
       "strTimestamp": "2026-07-19T00:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -363,7 +363,7 @@
       "strTime": "02:00:00",
       "strTimestamp": "2026-07-29T02:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -441,7 +441,7 @@
       "strTime": "02:00:00",
       "strTimestamp": "2026-08-15T02:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -454,7 +454,7 @@
       "strTime": "23:00:00",
       "strTimestamp": "2026-08-16T23:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -467,7 +467,7 @@
       "strTime": "02:00:00",
       "strTimestamp": "2026-08-22T02:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -493,7 +493,7 @@
       "strTime": "00:00:00",
       "strTimestamp": "2026-08-26T00:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -506,7 +506,7 @@
       "strTime": "23:30:00",
       "strTimestamp": "2026-08-28T23:30Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -545,7 +545,7 @@
       "strTime": "02:00:00",
       "strTimestamp": "2026-09-19T02:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
@@ -558,7 +558,7 @@
       "strTime": "23:00:00",
       "strTimestamp": "2026-09-20T23:00Z",
       "strLeague": "WNBA",
-      "strVenue": null,
+      "strVenue": "TBD",
       "strStatus": "NS",
       "source": "scraped"
     },
