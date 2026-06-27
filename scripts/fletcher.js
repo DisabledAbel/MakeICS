@@ -63,7 +63,7 @@ async function processFile(filePath) {
 
             const eventDate = new Date(event.strTimestamp || `${event.dateEvent}T${event.strTime || '00:00:00'}Z`);
             if (!isNaN(eventDate.getTime()) && eventDate < now) {
-              if (value !== '' && value !== null) {
+              if (value !== '') {
                 event[field] = '';
                 modified = true;
               }
@@ -72,7 +72,7 @@ async function processFile(filePath) {
 
             // Leave blank for home games (supplemental) or ANY game in league files to allow fallback to home stadium
             if (isHomeGame || !isSupplemental) {
-              if (value !== '' && value !== null) {
+              if (value !== '') {
                 event[field] = '';
                 modified = true;
               }
