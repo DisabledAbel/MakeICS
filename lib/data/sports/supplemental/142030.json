@@ -1,7 +1,7 @@
 {
   "teamId": "142030",
   "teamName": "Durham Bulls",
-  "updatedAt": "2026-06-27T14:34:13.596Z",
+  "updatedAt": "2026-06-28T05:16:08.713Z",
   "events": [
     {
       "idEvent": "scraped-816902",
@@ -1100,7 +1100,7 @@
       "strEvent": "Norfolk Tides vs Durham Bulls",
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
-      "dateEvent": "2026-06-27",
+      "dateEvent": "2026-06-28",
       "strTime": "22:35:00",
       "strTimestamp": "2026-06-27T22:35:00Z",
       "strLeague": "International League",
@@ -1114,8 +1114,21 @@
       "strHomeTeam": "Norfolk Tides",
       "strAwayTeam": "Durham Bulls",
       "dateEvent": "2026-06-28",
-      "strTime": "17:05:00",
-      "strTimestamp": "2026-06-28T17:05:00Z",
+      "strTime": "16:05:00",
+      "strTimestamp": "2026-06-28T16:05:00Z",
+      "strLeague": "International League",
+      "strVenue": "Harbor Park",
+      "strStatus": "NS",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-816037",
+      "strEvent": "Norfolk Tides vs Durham Bulls",
+      "strHomeTeam": "Norfolk Tides",
+      "strAwayTeam": "Durham Bulls",
+      "dateEvent": "2026-06-28",
+      "strTime": "16:10:00",
+      "strTimestamp": "2026-06-28T16:10:00Z",
       "strLeague": "International League",
       "strVenue": "Harbor Park",
       "strStatus": "NS",
