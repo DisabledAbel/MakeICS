@@ -1,7 +1,7 @@
 {
   "teamId": "af1-kentucky",
   "teamName": "Kentucky Barrels",
-  "updatedAt": "2026-06-28T04:09:22.652Z",
+  "updatedAt": "2026-06-28T13:54:25.228Z",
   "events": [
     {
       "idEvent": "af1-2026-07-05-minnesota-monsters-kentucky-barrels",
@@ -25,7 +25,7 @@
       "strTime": "23:00:00",
       "strTimestamp": "2026-07-11T23:00:00.000Z",
       "strLeague": "Arena Football One",
-      "strVenue": "TBD",
+      "strVenue": null,
       "strStatus": "NS",
       "source": "af1-scrape"
     }
