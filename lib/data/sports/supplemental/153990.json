@@ -1,7 +1,7 @@
 {
   "teamId": "153990",
   "teamName": "Eugene Emeralds",
-  "updatedAt": "2026-06-30T04:50:47.575Z",
+  "updatedAt": "2026-06-30T15:09:12.959Z",
   "events": [
     {
       "idEvent": "scraped-819444",
@@ -1734,8 +1734,8 @@
     },
     {
       "idEvent": "scraped-850974",
-      "strEvent": "TBD vs Eugene Emeralds",
-      "strHomeTeam": "TBD",
+      "strEvent": "To Be Determined vs Eugene Emeralds",
+      "strHomeTeam": "To Be Determined",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-09-08",
       "strTime": "10:33:00",
@@ -1747,8 +1747,8 @@
     },
     {
       "idEvent": "scraped-850975",
-      "strEvent": "TBD vs Eugene Emeralds",
-      "strHomeTeam": "TBD",
+      "strEvent": "To Be Determined vs Eugene Emeralds",
+      "strHomeTeam": "To Be Determined",
       "strAwayTeam": "Eugene Emeralds",
       "dateEvent": "2026-09-09",
       "strTime": "10:33:00",
@@ -1760,9 +1760,9 @@
     },
     {
       "idEvent": "scraped-850967",
-      "strEvent": "Eugene Emeralds vs TBD",
+      "strEvent": "Eugene Emeralds vs To Be Determined",
       "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "TBD",
+      "strAwayTeam": "To Be Determined",
       "dateEvent": "2026-09-11",
       "strTime": "10:33:00",
       "strTimestamp": "2026-09-11T10:33:00Z",
@@ -1773,9 +1773,9 @@
     },
     {
       "idEvent": "scraped-850968",
-      "strEvent": "Eugene Emeralds vs TBD",
+      "strEvent": "Eugene Emeralds vs To Be Determined",
       "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "TBD",
+      "strAwayTeam": "To Be Determined",
       "dateEvent": "2026-09-12",
       "strTime": "10:33:00",
       "strTimestamp": "2026-09-12T10:33:00Z",
@@ -1786,9 +1786,9 @@
     },
     {
       "idEvent": "scraped-850969",
-      "strEvent": "Eugene Emeralds vs TBD",
+      "strEvent": "Eugene Emeralds vs To Be Determined",
       "strHomeTeam": "Eugene Emeralds",
-      "strAwayTeam": "TBD",
+      "strAwayTeam": "To Be Determined",
       "dateEvent": "2026-09-13",
       "strTime": "10:33:00",
       "strTimestamp": "2026-09-13T10:33:00Z",
