@@ -1,7 +1,7 @@
 {
   "teamId": "136440",
   "teamName": "Chicago Sky",
-  "updatedAt": "2026-07-01T02:15:13.186Z",
+  "updatedAt": "2026-07-01T09:27:42.654Z",
   "events": [
     {
       "idEvent": "scraped-2026-09-24-washington-mystics-vs-chicago-sky",
@@ -14,6 +14,7 @@
       "strLeague": "WNBA",
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -27,6 +28,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -40,6 +42,7 @@
       "strLeague": "WNBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
+      "strTVStation": "Prime Video",
       "source": "scraped"
     },
     {
@@ -53,6 +56,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -66,6 +70,7 @@
       "strLeague": "WNBA",
       "strVenue": "Barclays Center",
       "strStatus": "NS",
+      "strTVStation": "CBS/Paramount+",
       "source": "scraped"
     },
     {
@@ -79,6 +84,7 @@
       "strLeague": "WNBA",
       "strVenue": "Mohegan Sun Arena",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -92,6 +98,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "NBC/Peacock",
       "source": "scraped"
     },
     {
@@ -105,6 +112,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "ION",
       "source": "scraped"
     },
     {
@@ -118,6 +126,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "ESPN",
       "source": "scraped"
     },
     {
@@ -131,6 +140,7 @@
       "strLeague": "WNBA",
       "strVenue": "Climate Pledge Arena",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -144,6 +154,7 @@
       "strLeague": "WNBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
+      "strTVStation": "USA Net/CNBC",
       "source": "scraped"
     },
     {
@@ -157,6 +168,7 @@
       "strLeague": "WNBA",
       "strVenue": "Climate Pledge Arena",
       "strStatus": "NS",
+      "strTVStation": "USA Net",
       "source": "scraped"
     },
     {
@@ -170,6 +182,7 @@
       "strLeague": "WNBA",
       "strVenue": "United Center",
       "strStatus": "NS",
+      "strTVStation": "ABC",
       "source": "scraped"
     },
     {
@@ -183,6 +196,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "USA Net/CNBC",
       "source": "scraped"
     },
     {
@@ -196,6 +210,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "USA Net",
       "source": "scraped"
     },
     {
@@ -209,6 +224,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "CBS/Paramount+",
       "source": "scraped"
     },
     {
@@ -222,6 +238,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "Prime Video",
       "source": "scraped"
     },
     {
@@ -235,6 +252,7 @@
       "strLeague": "WNBA",
       "strVenue": "Barclays Center",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -248,6 +266,7 @@
       "strLeague": "WNBA",
       "strVenue": "Gateway Center",
       "strStatus": "NS",
+      "strTVStation": "CBS/Paramount+",
       "source": "scraped"
     },
     {
@@ -261,6 +280,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "ION",
       "source": "scraped"
     },
     {
@@ -274,6 +294,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -287,6 +308,7 @@
       "strLeague": "WNBA",
       "strVenue": "American Airlines Center",
       "strStatus": "NS",
+      "strTVStation": "ESPN/Disney+",
       "source": "scraped"
     },
     {
@@ -300,6 +322,7 @@
       "strLeague": "WNBA",
       "strVenue": "crypto.com Arena",
       "strStatus": "NS",
+      "strTVStation": "ION",
       "source": "scraped"
     },
     {
@@ -313,6 +336,7 @@
       "strLeague": "WNBA",
       "strVenue": "Mortgage Matchup Center",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -326,6 +350,7 @@
       "strLeague": "WNBA",
       "strVenue": "T-Mobile Arena",
       "strStatus": "NS",
+      "strTVStation": "ION",
       "source": "scraped"
     },
     {
@@ -339,6 +364,7 @@
       "strLeague": "WNBA",
       "strVenue": "United Center",
       "strStatus": "NS",
+      "strTVStation": "CBS/Paramount+",
       "source": "scraped"
     },
     {
@@ -352,6 +378,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "ION",
       "source": "scraped"
     },
     {
@@ -365,6 +392,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -378,6 +406,7 @@
       "strLeague": "WNBA",
       "strVenue": "Mohegan Sun Arena",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -391,6 +420,7 @@
       "strLeague": "WNBA",
       "strVenue": "College Park Center",
       "strStatus": "NS",
+      "strTVStation": "CBS/Paramount+",
       "source": "scraped"
     },
     {
@@ -404,6 +434,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "USA Net",
       "source": "scraped"
     },
     {
@@ -417,6 +448,7 @@
       "strLeague": "WNBA",
       "strVenue": "Gainbridge Fieldhouse",
       "strStatus": "NS",
+      "strTVStation": "Prime Video",
       "source": "scraped"
     },
     {
@@ -430,6 +462,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "ESPN",
       "source": "scraped"
     },
     {
@@ -443,6 +476,7 @@
       "strLeague": "WNBA",
       "strVenue": "Coca-Cola Coliseum",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -456,6 +490,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "ION",
       "source": "scraped"
     },
     {
@@ -469,6 +504,7 @@
       "strLeague": "WNBA",
       "strVenue": "CareFirst Arena",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -482,6 +518,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "ION",
       "source": "scraped"
     },
     {
@@ -495,6 +532,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -508,6 +546,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "CBS/Paramount+",
       "source": "scraped"
     },
     {
@@ -521,6 +560,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
+      "strTVStation": "USA Net",
       "source": "scraped"
     },
     {
@@ -534,6 +574,7 @@
       "strLeague": "WNBA",
       "strVenue": "Target Center",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -547,6 +588,7 @@
       "strLeague": "WNBA",
       "strVenue": "Mortgage Matchup Center",
       "strStatus": "NS",
+      "strTVStation": "ION",
       "source": "scraped"
     },
     {
@@ -560,6 +602,7 @@
       "strLeague": "WNBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -573,6 +616,7 @@
       "strLeague": "WNBA",
       "strVenue": "Moda Center",
       "strStatus": "NS",
+      "strTVStation": "NBA TV",
       "source": "scraped"
     }
   ]
