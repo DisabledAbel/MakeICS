@@ -58,6 +58,14 @@ const server = http.createServer((req, res) => {
     import('./api/sports-events.js').then((m) => m.default(req, res));
     return;
   }
+  if (url.startsWith('/api/movies-search')) {
+    import('./api/movies-search.js').then((m) => m.default(req, res));
+    return;
+  }
+  if (url.startsWith('/api/movies')) {
+    import('./api/movies.js').then((m) => m.default(req, res));
+    return;
+  }
   serveStatic(req, res);
 });
 

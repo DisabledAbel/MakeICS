@@ -1,0 +1,49 @@
+name: Fetch Movie Release Calendar
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # Daily at 5:00 AM
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-movies:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: data-updates
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright Browsers
+        run: npx playwright install chromium --with-deps
+
+      - name: Fetch Movies
+        run: node scripts/fetch-movies.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "DisabledAbel"
+          git config --global user.email "196466003+DisabledAbel@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain lib/data/movies/)" ]]; then
+            git add lib/data/movies/
+            git commit -m "Update movie release calendar [skip ci]"
+            git pull --rebase
+            git push
+          else
+            echo "No changes to commit"
+          fi

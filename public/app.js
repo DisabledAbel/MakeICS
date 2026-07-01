@@ -1,10 +1,13 @@
 const form = document.querySelector('#search-form');
 const showInput = document.querySelector('#show-input');
 const sportsInput = document.querySelector('#sports-input');
+const moviesInput = document.querySelector('#movies-input');
+const movieTypeInput = document.querySelector('#movie-type-input');
 const statusEl = document.querySelector('#status');
 const resultEl = document.querySelector('#result');
 const suggestionsEl = document.querySelector('#search-suggestions');
 const sportsSuggestionsEl = document.querySelector('#sports-suggestions');
+const moviesSuggestionsEl = document.querySelector('#movies-suggestions');
 const template = document.querySelector('#episode-template');
 const tabs = document.querySelectorAll('.tab-btn');
 const categoryFields = document.querySelectorAll('.category-field');
@@ -18,7 +21,8 @@ let activeSuggestionIndex = -1;
 
 const CATEGORY_HINTS = {
   tv: 'Start typing to see TV show suggestions below the search bar. The feed includes all episodes from today onwards once added.',
-  sports: 'Search for sports teams from TheSportsDB. Copy the ICS URL to track matches from today onwards once added.'
+  sports: 'Search for sports teams from TheSportsDB. Copy the ICS URL to track matches from today onwards once added.',
+  movies: 'Search for movies, studios, genres, or characters. Copy the ICS URL to track release dates.'
 };
 
 // --- Tab Logic ---
@@ -54,9 +58,12 @@ function hideSuggestions() {
   suggestionsEl.innerHTML = '';
   sportsSuggestionsEl.hidden = true;
   sportsSuggestionsEl.innerHTML = '';
+  moviesSuggestionsEl.hidden = true;
+  moviesSuggestionsEl.innerHTML = '';
   activeSuggestionIndex = -1;
   showInput.setAttribute('aria-expanded', 'false');
   sportsInput.setAttribute('aria-expanded', 'false');
+  moviesInput.setAttribute('aria-expanded', 'false');
 }
 
 function showSuggestions(el, input) {
@@ -69,13 +76,24 @@ function suggestionMeta(suggestion, type) {
     return [suggestion.premiered?.slice(0, 4), suggestion.status, suggestion.network].filter(Boolean).join(' · ');
   } else if (type === 'sports') {
     return [suggestion.sport, suggestion.league, suggestion.country].filter(Boolean).join(' · ');
+  } else if (type === 'movies') {
+    return [suggestion.releaseDate, suggestion.category].filter(Boolean).join(' · ');
   }
   return '';
 }
 
 function renderSuggestions(suggestions, type) {
-  const el = type === 'tv' ? suggestionsEl : sportsSuggestionsEl;
-  const input = type === 'tv' ? showInput : sportsInput;
+  let el, input;
+  if (type === 'tv') {
+    el = suggestionsEl;
+    input = showInput;
+  } else if (type === 'sports') {
+    el = sportsSuggestionsEl;
+    input = sportsInput;
+  } else if (type === 'movies') {
+    el = moviesSuggestionsEl;
+    input = moviesInput;
+  }
 
   el.innerHTML = '';
   activeSuggestionIndex = -1;
@@ -143,6 +161,8 @@ function selectSuggestion(option) {
   } else if (currentCategory === 'sports') {
     sportsInput.value = option.dataset.name;
     sportsInput.dataset.teamId = option.dataset.id;
+  } else if (currentCategory === 'movies') {
+    moviesInput.value = option.dataset.name;
   }
 
   hideSuggestions();
@@ -153,8 +173,16 @@ async function fetchSuggestions(query, type) {
   suggestionAbortController?.abort();
   suggestionAbortController = new AbortController();
 
-  const endpoint = type === 'tv' ? '/api/search' : '/api/sports-search';
-  const response = await fetch(`${endpoint}?q=${encodeURIComponent(query)}`, {
+  let endpoint = '';
+  if (type === 'tv') endpoint = '/api/search';
+  else if (type === 'sports') endpoint = '/api/sports-search';
+  else if (type === 'movies') {
+    const movieType = movieTypeInput.value;
+    endpoint = `/api/movies-search?type=${encodeURIComponent(movieType)}`;
+  }
+
+  const separator = endpoint.includes('?') ? '&' : '?';
+  const response = await fetch(`${endpoint}${separator}q=${encodeURIComponent(query)}`, {
     signal: suggestionAbortController.signal
   });
   const payload = await response.json();
@@ -230,6 +258,9 @@ function icsUrlForCurrent() {
     path = `/api/episodes?show=${encodeURIComponent(showInput.value)}&format=ics&tz=${encodeURIComponent(tz)}&since=${since}`;
   } else if (currentCategory === 'sports') {
     path = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}&format=ics&tz=${encodeURIComponent(tz)}&since=${since}`;
+  } else if (currentCategory === 'movies') {
+    const movieType = movieTypeInput.value;
+    path = `/api/movies?q=${encodeURIComponent(moviesInput.value)}&type=${encodeURIComponent(movieType)}&format=ics&since=${since}`;
   }
   return new URL(path, window.location.origin).href;
 }
@@ -383,6 +414,34 @@ function renderResults(payload, type) {
     header.append(info);
     resultEl.append(header);
     renderList(events, 'sports', null, payload.timezone);
+  } else if (type === 'movies') {
+    const { query, movies } = payload;
+
+    const info = document.createElement('div');
+    const eyebrow = document.createElement('p');
+    eyebrow.className = 'eyebrow';
+    eyebrow.textContent = 'Upcoming Movie Releases';
+    info.append(eyebrow);
+
+    const title = document.createElement('h2');
+    title.textContent = query || 'All Upcoming Movies';
+    info.append(title);
+
+    const actions = document.createElement('div');
+    actions.className = 'actions';
+
+    const copyBtn = document.createElement('button');
+    copyBtn.type = 'button';
+    copyBtn.className = 'copy-ics-url';
+    const validIcs = safeHttpUrl(icsUrl);
+    if (validIcs) copyBtn.setAttribute('data-ics-url', validIcs);
+    copyBtn.textContent = 'Copy ICS URL';
+    actions.append(copyBtn);
+
+    info.append(actions);
+    header.append(info);
+    resultEl.append(header);
+    renderList(movies, 'movies', null, payload.timezone);
   }
 }
 
@@ -421,6 +480,31 @@ function renderList(items, type, context, timezone = 'UTC') {
       metaEl.textContent = [item.league, item.venue || 'TBD', item.tvStation ? `Watch on ${item.tvStation}` : ''].filter(Boolean).join(' · ');
       summaryEl.textContent = item.status || '';
       link.remove();
+    } else if (type === 'movies') {
+      dateEl.textContent = formatAirDate(item.date, null, null, false, timezone);
+      titleEl.textContent = item.title;
+      metaEl.textContent = [item.genres.join(', '), item.label].filter(Boolean).join(' · ');
+      summaryEl.textContent = item.people.join(', ');
+
+      const linkContainer = link.parentElement;
+      link.href = `https://www.imdb.com/title/${item.id}/`;
+      link.textContent = 'IMDb';
+
+      const trailerLink = document.createElement('a');
+      trailerLink.href = `https://www.youtube.com/results?search_query=${encodeURIComponent(item.title + ' trailer')}`;
+      trailerLink.target = '_blank';
+      trailerLink.rel = 'noopener';
+      trailerLink.textContent = 'Trailer';
+      trailerLink.style.marginLeft = '8px';
+      linkContainer.append(trailerLink);
+
+      const ticketsLink = document.createElement('a');
+      ticketsLink.href = `https://www.google.com/search?q=${encodeURIComponent(item.title + ' tickets')}`;
+      ticketsLink.target = '_blank';
+      ticketsLink.rel = 'noopener';
+      ticketsLink.textContent = 'Tickets';
+      ticketsLink.style.marginLeft = '8px';
+      linkContainer.append(ticketsLink);
     }
     list.append(card);
   }
@@ -429,7 +513,7 @@ function renderList(items, type, context, timezone = 'UTC') {
 
 // --- Event Listeners ---
 
-[showInput, sportsInput].forEach(input => {
+[showInput, sportsInput, moviesInput].forEach(input => {
   input.addEventListener('input', () => {
     const query = input.value.trim();
     window.clearTimeout(suggestionDebounce);
@@ -456,7 +540,11 @@ function renderList(items, type, context, timezone = 'UTC') {
   });
 
   input.addEventListener('keydown', (event) => {
-    const el = currentCategory === 'tv' ? suggestionsEl : sportsSuggestionsEl;
+    let el;
+    if (currentCategory === 'tv') el = suggestionsEl;
+    else if (currentCategory === 'sports') el = sportsSuggestionsEl;
+    else if (currentCategory === 'movies') el = moviesSuggestionsEl;
+
     if (el.hidden) return;
 
     if (event.key === 'ArrowDown') {
@@ -474,7 +562,7 @@ function renderList(items, type, context, timezone = 'UTC') {
   });
 });
 
-[suggestionsEl, sportsSuggestionsEl].forEach(el => {
+[suggestionsEl, sportsSuggestionsEl, moviesSuggestionsEl].forEach(el => {
   el.addEventListener('click', (event) => {
     selectSuggestion(event.target.closest('.suggestion-option'));
   });
@@ -507,6 +595,10 @@ form.addEventListener('submit', async (event) => {
     }
     label = sportsInput.value;
     url = `/api/sports-events?teamId=${encodeURIComponent(teamId)}&tz=${encodeURIComponent(tz)}&since=${since}`;
+  } else if (currentCategory === 'movies') {
+    label = moviesInput.value || 'All Movies';
+    const movieType = movieTypeInput.value;
+    url = `/api/movies?q=${encodeURIComponent(moviesInput.value)}&type=${encodeURIComponent(movieType)}&since=${since}`;
   }
 
   setStatus(`Fetching for ${label}...`);

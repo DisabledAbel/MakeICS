@@ -1,0 +1,3186 @@
+{
+  "generatedAt": "2026-07-01T22:29:06.608Z",
+  "movies": [
+    {
+      "id": "tt32890033",
+      "title": "Minions & Monsters",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 01 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Pierre Coffin",
+        "Trey Parker",
+        "Allison Janney",
+        "George Lucas"
+      ],
+      "label": "Jul 01, 2026"
+    },
+    {
+      "id": "tt32104007",
+      "title": "Young Washington",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTE3NDY5OWUtZmM5Ny00NDJiLTlkZDQtN2E5MWFjZWUyMDZkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 03 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Biography"
+      ],
+      "people": [
+        "Andy Serkis",
+        "Ben Kingsley",
+        "Mary-Louise Parker",
+        "Kelsey Grammer"
+      ],
+      "label": "Jul 03, 2026"
+    },
+    {
+      "id": "tt28363783",
+      "title": "Alpha",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 03 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "people": [
+        "Alia Bhatt",
+        "Sharvari",
+        "Anil Kapoor",
+        "Bobby Deol"
+      ],
+      "label": "Jul 03, 2026"
+    },
+    {
+      "id": "tt32065777",
+      "title": "Nagabandham - The Secret Treasure",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjUzNTY0ZjItMDFiNC00NGQxLTkyZTAtMzdiM2Y1NzNkZmFiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 03 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "people": [
+        "Virat Karrna",
+        "Nabha Natesh",
+        "Iswarya Menon",
+        "John Kokken"
+      ],
+      "label": "Jul 03, 2026"
+    },
+    {
+      "id": "tt14173636",
+      "title": "The Invite",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        "Seth Rogen",
+        "Olivia Wilde",
+        "Penélope Cruz",
+        "Edward Norton"
+      ],
+      "label": "Jul 10, 2026"
+    },
+    {
+      "id": "tt27419466",
+      "title": "Moana",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Catherine Laga'aia",
+        "Dwayne Johnson",
+        "John Tui",
+        "Frankie Adams"
+      ],
+      "label": "Jul 10, 2026"
+    },
+    {
+      "id": "tt31170389",
+      "title": "Evil Dead Burn",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "people": [
+        "Hunter Doohan",
+        "Luciane Buchanan",
+        "Souheila Yacoub",
+        "Erroll Shand"
+      ],
+      "label": "Jul 10, 2026"
+    },
+    {
+      "id": "tt36834010",
+      "title": "Gail Daughtry and the Celebrity Sex Pass",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [
+        "Zoey Deutch",
+        "Jon Hamm",
+        "Kerri Kenney",
+        "Richard Kind"
+      ],
+      "label": "Jul 10, 2026"
+    },
+    {
+      "id": "tt38906892",
+      "title": "Night Nurse",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU4ZWQyYzctMDc5OC00N2M1LTgwYzEtZWM5N2QyZDZhNDBiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Thriller"
+      ],
+      "people": [
+        "Cemre Paksoy",
+        "Bruce McKenzie",
+        "Eleonore Hendricks",
+        "Colleen Rose Trundy"
+      ],
+      "label": "Jul 10, 2026"
+    },
+    {
+      "id": "tt34923417",
+      "title": "Baby Doe",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmQ2MDcwZDEtYzA3Zi00ZjY3LTljNzYtOGEzNDY1OWVjMjJmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary"
+      ],
+      "people": [
+        "Gail Eastwood-Ritchey"
+      ],
+      "label": "Jul 10, 2026"
+    },
+    {
+      "id": "tt27679443",
+      "title": "Reading Lolita in Tehran",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTMwYjAwZDQtNGMyNC00MTA4LWE5Y2YtMzU4MzA2YWVmOGM1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "people": [
+        "Golshifteh Farahani",
+        "Zar Amir Ebrahimi",
+        "Mina Kavani",
+        "Reza Diako"
+      ],
+      "label": "Jul 10, 2026"
+    },
+    {
+      "id": "tt39276601",
+      "title": "Crossing",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2FjMTg0ODYtZGE4My00YWE1LTllOTEtNzg1YTdhMjU2YzFjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "History",
+        "War"
+      ],
+      "people": [
+        "Ye Liu",
+        "Lei Wang",
+        "Bingkun Cao",
+        "Dong Jin"
+      ],
+      "label": "Jul 10, 2026"
+    },
+    {
+      "id": "tt33764258",
+      "title": "The Odyssey",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDY2NTkxMWQtMmNkMC00NmNjLWIzMmItNmEyMmRmMDk2YmY2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 17 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "people": [
+        "Matt Damon",
+        "Tom Holland",
+        "Anne Hathaway",
+        "Robert Pattinson"
+      ],
+      "label": "Jul 17, 2026"
+    },
+    {
+      "id": "tt13652006",
+      "title": "Horsegirls",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGJhMGIyYzEtMTg2Ni00ZjI5LTk5ZGMtMWEwZWM5Yjc4ZWI1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 17 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "people": [
+        "Gretchen Mol",
+        "Iqbal Theba",
+        "Lillian Carrier",
+        "Jerod Haynes"
+      ],
+      "label": "Jul 17, 2026"
+    },
+    {
+      "id": "tt43438442",
+      "title": "Diamond Made Man Part 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDRlYWZkZDYtYmI1NC00YWJmLTgxZTItOTQ4ZDVmYzBhOWE2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 17 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Sci-Fi"
+      ],
+      "people": [
+        "Sreehari"
+      ],
+      "label": "Jul 17, 2026"
+    },
+    {
+      "id": "tt6633934",
+      "title": "Bad Counselors",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzllZGZjMTAtNjJlZS00YmI5LTg0NjctOTA2MDA1MjI1YzU5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "people": [
+        "Matt Cornett",
+        "Missi Pyle",
+        "Chris Klein",
+        "Richard T. Jones"
+      ],
+      "label": "Jul 23, 2026"
+    },
+    {
+      "id": "tt43465871",
+      "title": "Sia: Nostalgic for The Present",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjk1NTA0ZTAtNThiMS00MjM4LWE4MWItMTQ1YmM2YTkxMzY5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Music"
+      ],
+      "people": [
+        "Paul Dano",
+        "Gaby Hoffmann",
+        "Ben Mendelsohn",
+        "Tig Notaro"
+      ],
+      "label": "Jul 23, 2026"
+    },
+    {
+      "id": "tt2012616",
+      "title": "Motor City",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGFmNTJkNzctNDc2Zi00ZWMxLWIzNzktNDQxMzU3ZGVkZTRjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 24 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "people": [
+        "Alan Ritchson",
+        "Ben Foster",
+        "Shailene Woodley",
+        "Lionel Boyce"
+      ],
+      "label": "Jul 24, 2026"
+    },
+    {
+      "id": "tt30887701",
+      "title": "Pinocchio: Unstrung",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGVmODI1N2YtMjBjMC00YmMyLTg1MDYtNDViNTgxMzVhMDU2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 24 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        "Richard Brake",
+        "Robert Englund",
+        "Cameron Bell",
+        "Jessica Balmer"
+      ],
+      "label": "Jul 24, 2026"
+    },
+    {
+      "id": "tt36629665",
+      "title": "Her Private Hell",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDZmZTZlZDAtN2JlYy00NzBlLTgxYWYtZjQyOGVhYjBjY2IyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 24 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror"
+      ],
+      "people": [
+        "Havana Rose Liu",
+        "Sophie Thatcher",
+        "Charles Melton",
+        "Dougray Scott"
+      ],
+      "label": "Jul 24, 2026"
+    },
+    {
+      "id": "tt31116756",
+      "title": "Cruel Hands",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTI2NWQyZjQtMDBjNy00NWE2LThkOGItZTRmN2I5ZjgwNWE4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 24 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        "Mavournee Hazel",
+        "Iolanthe",
+        "Glenda Kalyk",
+        "Ana Benham"
+      ],
+      "label": "Jul 24, 2026"
+    },
+    {
+      "id": "tt36307021",
+      "title": "Hadestown: The Musical",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFjMDFlNDMtMjBhNy00MjJkLWE5ZjktOWVmMTIyY2Q3YTM1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 24 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Music",
+        "Musical"
+      ],
+      "people": [
+        "Reeve Carney",
+        "Eva Noblezada",
+        "Patrick Page",
+        "André De Shields"
+      ],
+      "label": "Jul 24, 2026"
+    },
+    {
+      "id": "tt37107071",
+      "title": "Brunello: The Gracious Visionary",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTEzY2MxMjYtYmFlYi00OTJlLTk1ZjMtMzYxYTFhMjhhZTgwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 24 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Biography",
+        "History"
+      ],
+      "people": [
+        "Marta Aguilar",
+        "Ramin Arani",
+        "Lorenzo Bachiorri",
+        "Cardinale Gualtiero Bassetti"
+      ],
+      "label": "Jul 24, 2026"
+    },
+    {
+      "id": "tt43492793",
+      "title": "WHAM! 10 Days in China",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmNhMWRiMGUtM2QwMC00ZjZiLTk3MWUtOWIwNWEzNTJmOWU2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Tue, 28 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary"
+      ],
+      "people": [
+        "George Michael",
+        "Andrew Ridgeley"
+      ],
+      "label": "Jul 28, 2026"
+    },
+    {
+      "id": "tt22084616",
+      "title": "Spider-Man: Brand New Day",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 31 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "people": [
+        "Tom Holland",
+        "Zendaya",
+        "Sadie Sink",
+        "Jacob Batalon"
+      ],
+      "label": "Jul 31, 2026"
+    },
+    {
+      "id": "tt32332915",
+      "title": "I Want Your Sex",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM4YmE0NDQtM2I4ZS00YTcyLTk5ZjEtMjdmOTYzYTYxY2RjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 31 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        "Olivia Wilde",
+        "Johnny Knoxville",
+        "Daveed Diggs",
+        "Cooper Hoffman"
+      ],
+      "label": "Jul 31, 2026"
+    },
+    {
+      "id": "tt14541160",
+      "title": "DEVOUR",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQ5NmVlZTMtYTVhOC00NDdmLTk3NWItYjNiZGNiY2YzMGM4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 01 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        "KateLynn E. Newberry",
+        "Andrew Pierson",
+        "Coby Connell",
+        "John Potash"
+      ],
+      "label": "Aug 01, 2026"
+    },
+    {
+      "id": "tt43619348",
+      "title": "ATEEZ: LIGHt the WAy in CINEMAS",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDFkMjcyMjQtN2E4NC00ZTQwLThiODMtYzg5MjkyMzJiMWRjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "people": [
+        "Ateez"
+      ],
+      "label": "Aug 06, 2026"
+    },
+    {
+      "id": "tt37853455",
+      "title": "One Night Only",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQ5MmMxMjItNWQ5NC00OGI1LWFjNTYtYjA3NjNmM2EzNmIyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 07 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        "Callum Turner",
+        "Monica Barbaro",
+        "Maya Hawke",
+        "Molly Ringwald"
+      ],
+      "label": "Aug 07, 2026"
+    },
+    {
+      "id": "tt36893729",
+      "title": "Ice Cream Man",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWMxMzRhY2YtYzNlNC00OTdjLWFmODgtMTU0ODc0NmQ1OWI3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 07 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        "Eli Roth",
+        "Darrin Baker",
+        "Ari Millen",
+        "Benjamin Byron Davis"
+      ],
+      "label": "Aug 07, 2026"
+    },
+    {
+      "id": "tt8820258",
+      "title": "Super Troopers 3",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzY3MmJlZGYtNTk1OS00NTE5LWEzOGYtMjIzODU5MWNhYWFjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 07 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "people": [
+        "Brian Cox",
+        "Lisa Gilroy",
+        "Chace Crawford",
+        "Hannah Simone"
+      ],
+      "label": "Aug 07, 2026"
+    },
+    {
+      "id": "tt32298494",
+      "title": "Late Fame",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2VlZDk4Y2MtYzVlNC00NTY5LWI4YWEtOTBiMDZmYTQwZDRjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 07 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "people": [
+        "Greta Lee",
+        "Willem Dafoe",
+        "Jake Lacy",
+        "Clark Johnson"
+      ],
+      "label": "Aug 07, 2026"
+    },
+    {
+      "id": "tt13597298",
+      "title": "Julian",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGQ3MTlmZTAtYjg2ZC00Zjc1LTgwMTctZjJjN2MwZTZiN2Y5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 07 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        "Nina Meurisse",
+        "Laurence Roothooft",
+        "Rosalia Cuevas",
+        "Peter Seynaeve"
+      ],
+      "label": "Aug 07, 2026"
+    },
+    {
+      "id": "tt30441926",
+      "title": "Olmo",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ2NmEyZDktMzFjNC00NjBkLThjN2EtYjBhNzMxMDgwMDUzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 07 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "people": [
+        "Aivan Uttapa",
+        "Melanie Frometa",
+        "Rosa Armendariz",
+        "Gustavo Sánchez Parra"
+      ],
+      "label": "Aug 07, 2026"
+    },
+    {
+      "id": "tt27165187",
+      "title": "The End of Oak Street",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "people": [
+        "Anne Hathaway",
+        "Ewan McGregor",
+        "Pilot Bunch",
+        "Maisy Stella"
+      ],
+      "label": "Aug 14, 2026"
+    },
+    {
+      "id": "tt29356163",
+      "title": "PAW Patrol: The Dino Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2E2Y2Q0Y2ItZTUyZS00MzllLTkwYmQtYjdmNzM3NGRiYjFmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "people": [
+        "Mckenna Grace",
+        "Terry Crews",
+        "Fortune Feimster",
+        "Jameela Jamil"
+      ],
+      "label": "Aug 14, 2026"
+    },
+    {
+      "id": "tt33070884",
+      "title": "The Brink of War",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTBkODU5YmEtZTgzYy00ZTc3LWI1OGYtNzVkZjNhZDYzMDMxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "people": [
+        "Jeff Daniels",
+        "Jared Harris",
+        "J.K. Simmons",
+        "Jón Jónsson"
+      ],
+      "label": "Aug 14, 2026"
+    },
+    {
+      "id": "tt34895535",
+      "title": "Nimrods",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWJmNDdlMTktNGFkMi00MDk3LTkxMjAtNGViMGFiNjZjYjkxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "people": [
+        "Mckenna Grace",
+        "Mason Thames",
+        "Angela Kinsey",
+        "Jenna Fischer"
+      ],
+      "label": "Aug 14, 2026"
+    },
+    {
+      "id": "tt35391146",
+      "title": "Six: The Musical Live!",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDM2NmIwMjctYmNjNi00YjFhLTg0OGEtZWZkYjkzNWEyYzMwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Musical"
+      ],
+      "people": [
+        "Aimie Atkinson",
+        "Alexia McIntosh",
+        "Millie O’Connell",
+        "Natalie Paris"
+      ],
+      "label": "Aug 14, 2026"
+    },
+    {
+      "id": "tt36981462",
+      "title": "Union County",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTdiYTIwMGEtMzYwOC00NzlhLTk2NTQtMDdlYTBjYjhhMzRjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        "Will Poulter",
+        "Kevin P. Braig",
+        "Annette Deao",
+        "Danny Wolohan"
+      ],
+      "label": "Aug 14, 2026"
+    },
+    {
+      "id": "tt36300841",
+      "title": "Awarapan 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjdlNTAxMTUtMzg4Mi00MmNkLTgyYzktMjk0NjcwN2JhODk1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        "Emraan Hashmi",
+        "Salil Acharya",
+        "Shabana Azmi",
+        "Vijayant Kohli"
+      ],
+      "label": "Aug 14, 2026"
+    },
+    {
+      "id": "tt37670940",
+      "title": "Memory of Princess Mumbi",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTkwYWZlMjAtYTgwZS00NDUwLTlmMGYtYTI1NmI0NzExYWJjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "people": [
+        "Shandra Apondi",
+        "Abraham Joseph",
+        "Ibrahim Joseph",
+        "Samson Waithaka"
+      ],
+      "label": "Aug 14, 2026"
+    },
+    {
+      "id": "tt7734244",
+      "title": "The Magic Faraway Tree",
+      "image": "https://m.media-amazon.com/images/M/MV5BZThiYWI3ZTYtMjZmYy00Njc5LWE4OGYtNTlmNTQyYWZmYjQ0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "people": [
+        "Nonso Anozie",
+        "Sonny Meo",
+        "Andrew Garfield",
+        "Claire Foy"
+      ],
+      "label": "Aug 21, 2026"
+    },
+    {
+      "id": "tt32338669",
+      "title": "Mutiny",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTVjMjVlZjktZTg1Zi00ZDdmLTk1ODItNDE1Y2I4MTg1MDQ0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "people": [
+        "Jason Statham",
+        "Annabelle Wallis",
+        "Adrian Lester",
+        "Arnas Fedaravicius"
+      ],
+      "label": "Aug 21, 2026"
+    },
+    {
+      "id": "tt32393988",
+      "title": "Insidious: Out of the Further",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "people": [
+        "Lin Shaye",
+        "Sam Spruell",
+        "Brandon Perea",
+        "Maisie Richardson-Sellers"
+      ],
+      "label": "Aug 21, 2026"
+    },
+    {
+      "id": "tt14119302",
+      "title": "Hot Spot",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWI3NzdmNmYtYjJiNS00NjA4LThiNjktNWU1ZmZjZWJiMGQwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "people": [
+        "Andrzej Konopka",
+        "Noomi Rapace",
+        "Reika Kirishima",
+        "George Aurimas Cris"
+      ],
+      "label": "Aug 21, 2026"
+    },
+    {
+      "id": "tt33305867",
+      "title": "Spa Weekend",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTcwYjQwMzEtMTAwMS00MjQxLTg5NTEtNzExNzI1ODQzNmQ4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [
+        "Anna Faris",
+        "Isla Fisher",
+        "Leslie Mann",
+        "Adam Demos"
+      ],
+      "label": "Aug 21, 2026"
+    },
+    {
+      "id": "tt35519455",
+      "title": "It Ends",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTFlYjUzMTktM2ZiOC00NmUyLWI2ZWUtN2Y4MmJmNDc5NmJjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "people": [
+        "Mitchell Cole",
+        "Akira Jackson",
+        "Noah Toth",
+        "Phinehas Yoon"
+      ],
+      "label": "Aug 21, 2026"
+    },
+    {
+      "id": "tt30327451",
+      "title": "The Marching Band",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjYyZjI2ZDgtN2YxOS00NGVlLTkwNTEtODY4MTJiMmFjNDc3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "people": [
+        "Benjamin Lavernhe",
+        "Pierre Lottin",
+        "Sarah Suco",
+        "Jacques Bonnaffé"
+      ],
+      "label": "Aug 21, 2026"
+    },
+    {
+      "id": "tt43596451",
+      "title": "Never Stop Chasing",
+      "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Action",
+        "Biography"
+      ],
+      "people": [
+        "Reed Timmer",
+        "Edgar O'Neal",
+        "Connor McCrorey",
+        "Mike Scantlin"
+      ],
+      "label": "Aug 21, 2026"
+    },
+    {
+      "id": "tt27530512",
+      "title": "Toxic",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjY4NTA2ZDYtZjkzMi00ZGEyLTgyMTUtOWVlNDgyMGNiYmEyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "people": [
+        "Yash",
+        "Nayanthara",
+        "Kiara Advani",
+        "Huma Qureshi"
+      ],
+      "label": "Aug 26, 2026"
+    },
+    {
+      "id": "tt21285562",
+      "title": "The Dog Stars",
+      "image": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "people": [
+        "Margaret Qualley",
+        "Jacob Elordi",
+        "Josh Brolin",
+        "Allison Janney"
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
+      "id": "tt1756855",
+      "title": "Coyote vs. Acme",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "John Cena",
+        "Lana Condor",
+        "Will Forte",
+        "P.J. Byrne"
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
+      "id": "tt1441251",
+      "title": "Cliffhanger",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTNlOGUxYjAtMTZhNi00Yjg1LWI0ZGYtY2Q0ZmI4OGQ3ZjAxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "people": [
+        "Pierce Brosnan",
+        "Lily James",
+        "Nell Tiger Free",
+        "Franz Rogowski"
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
+      "id": "tt6628920",
+      "title": "Idiots",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTQzNmNkMWMtZDM2NS00YTM1LWFkZTItNWY4ODU5ODEwNGZiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "people": [
+        "Dave Franco",
+        "O'Shea Jackson Jr.",
+        "Mason Thames",
+        "Killer Mike"
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
+      "id": "tt12446086",
+      "title": "Legend of the White Dragon",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwMzU5MjQtYTU5OS00ZWQ1LTgyZDMtNjQ3ODZkZWYwNTdmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "people": [
+        "Jason David Frank",
+        "Aaron Schoenke",
+        "Orion Acaba",
+        "John Jeffrey Arias"
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
+      "id": "tt37281055",
+      "title": "Buddy",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "people": [
+        "Cristin Milioti",
+        "Delaney Quinn",
+        "Topher Grace",
+        "Caleb Williams"
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
+      "id": "tt34470118",
+      "title": "Rise of the Footsoldier: Retribution",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjBjOTc1YjQtMzE3Yi00MDJhLThjZGYtNzFjZWI2YjMzZjE0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "people": [
+        "Craig Fairbrass",
+        "Ross McCall",
+        "Vanessa Bauer",
+        "Gabriela Ferreira"
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
+      "id": "tt31192372",
+      "title": "Fall 2: Deadpoint",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4MDQzYWItNjNjYy00ZTBjLWJiYzItMjliZGFlNzcyMzA1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 02 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        "Virginia Gardner",
+        "Grace Caroline Currey",
+        "Tom Brittney",
+        "Adam Rose"
+      ],
+      "label": "Sep 02, 2026"
+    },
+    {
+      "id": "tt35866986",
+      "title": "How to Rob a Bank",
+      "image": "https://m.media-amazon.com/images/M/MV5BODY5YWIzZTAtMzA5OC00MDgwLTgxZjQtZGIwZTg2YTk3YWE1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "people": [
+        "Nicholas Hoult",
+        "Christian Slater",
+        "Zoë Kravitz",
+        "Tati Gabrielle"
+      ],
+      "label": "Sep 04, 2026"
+    },
+    {
+      "id": "tt34379051",
+      "title": "By Any Means",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTUwODQ5N2QtMGM3Ny00YTk1LWJlZTctMTE5ZTAzNTMwOGQxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "people": [
+        "Yahya Abdul-Mateen II",
+        "Mark Wahlberg",
+        "Nicole Beharie",
+        "Josh Lucas"
+      ],
+      "label": "Sep 04, 2026"
+    },
+    {
+      "id": "tt32268691",
+      "title": "Onslaught",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTNkNGZjOWItNTQ1Yy00ZGE4LWFhOTUtNmQyNDk1OTNkMTljXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        "Adria Arjona",
+        "Dan Stevens",
+        "Rebecca Hall",
+        "Michael Biehn"
+      ],
+      "label": "Sep 04, 2026"
+    },
+    {
+      "id": "tt4519000",
+      "title": "Jessica Frost",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmE4NzBiMzMtNTA4Ni00NWY3LThlNzUtYWY1NmExMGUwNGZlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "people": [],
+      "label": "Sep 04, 2026"
+    },
+    {
+      "id": "tt3842436",
+      "title": "P31",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWFjMGYzYzEtOTI4Yi00MWI4LWI4NmUtYWFlNzExYWVmYjYwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Musical"
+      ],
+      "people": [
+        "Alexis 'Lexi' Andrews"
+      ],
+      "label": "Sep 04, 2026"
+    },
+    {
+      "id": "tt27369017",
+      "title": "Hope",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQwNzI5OTUtZjEzOS00ODI0LTk1MTEtNTNjNTdmYjFmNGQwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 09 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror"
+      ],
+      "people": [
+        "Hwang Jung-min",
+        "Zo In-sung",
+        "Hoyeon",
+        "Michael Fassbender"
+      ],
+      "label": "Sep 09, 2026"
+    },
+    {
+      "id": "tt37185884",
+      "title": "Tom and Jerry: Forbidden Compass",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWQ3OTU0ZWYtYWE5OS00Zjc4LTg4ZTctMzcyZDQ2YjU1Yjk4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 09 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Li Baixin",
+        "Mino Eek",
+        "Zhang Gang",
+        "Jiang Wen Jin"
+      ],
+      "label": "Sep 09, 2026"
+    },
+    {
+      "id": "tt32588798",
+      "title": "Practical Magic 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2U2NDgxYzItOWExYS00NzVlLTkwOTMtMzQ1ZWM0ZWMyMjg1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "people": [
+        "Cassie Bradley",
+        "Nicole Kidman",
+        "Sandra Bullock",
+        "Joey King"
+      ],
+      "label": "Sep 11, 2026"
+    },
+    {
+      "id": "tt37542993",
+      "title": "Daniel",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzExMDZkNWItMTI2NS00YjI1LTk0MmMtOWQ5YmFmYzBlYjA1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        "Mena Massoud",
+        "Elijah Alexander",
+        "Zaki Ali",
+        "Vladimir Angelove"
+      ],
+      "label": "Sep 11, 2026"
+    },
+    {
+      "id": "tt31349844",
+      "title": "Runner",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmZhZjFmNTMtODgxZC00MWE3LTkwMTYtOWEyN2I2ODc2YTM2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "people": [
+        "Alan Ritchson",
+        "Owen Wilson",
+        "Leila George",
+        "Rodrigo Santoro"
+      ],
+      "label": "Sep 11, 2026"
+    },
+    {
+      "id": "tt29630464",
+      "title": "Don't Move",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDg4NTdjYmYtN2ZiNi00YWUwLWE4MzItMWU3ZTM3NTNiZTY5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Thriller"
+      ],
+      "people": [
+        "Lyndsy Fonseca",
+        "Russ",
+        "Tom Cavanagh",
+        "Hunter King"
+      ],
+      "label": "Sep 11, 2026"
+    },
+    {
+      "id": "tt36983905",
+      "title": "The Uprising",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk3MTMyZmMtOTZmMy00OTBkLWE0MWItZjgwZTE0MGFhNDg2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "people": [
+        "Andrew Garfield",
+        "Jamie Bell",
+        "Stephen Dillane",
+        "Tom Hollander"
+      ],
+      "label": "Sep 11, 2026"
+    },
+    {
+      "id": "tt9601292",
+      "title": "The Fix",
+      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "people": [
+        "Liam Neeson",
+        "Titus Welliver",
+        "Zachary Levi",
+        "Wes Chatham"
+      ],
+      "label": "Sep 11, 2026"
+    },
+    {
+      "id": "tt10794054",
+      "title": "The Weight",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTdkMDQyYjMtOGRhZC00YWUyLTgwZjctZDZjNjZlNWU4ZGU5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "people": [
+        "Ethan Hawke",
+        "Russell Crowe",
+        "Julia Jones",
+        "Austin Amelio"
+      ],
+      "label": "Sep 18, 2026"
+    },
+    {
+      "id": "tt35538033",
+      "title": "Resident Evil",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDlmNzVjOWQtZDNkMy00MTIxLWJkYWMtNmI3ZDQxZTJhZmE3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "people": [
+        "Austin Abrams",
+        "Paul Walter Hauser",
+        "Zach Cherry",
+        "Kali Reis"
+      ],
+      "label": "Sep 18, 2026"
+    },
+    {
+      "id": "tt36841161",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDViZGRhOWQtY2IxOS00NTYyLTk5YzAtOTRlZGQ4NTU1OWVjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "people": [
+        "Justin Fletcher",
+        "John Sparkes",
+        "Kate Harbour"
+      ],
+      "label": "Sep 18, 2026"
+    },
+    {
+      "id": "tt26443624",
+      "title": "Untitled Disney",
+      "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
+      "genres": [],
+      "people": [],
+      "label": "Sep 18, 2026"
+    },
+    {
+      "id": "tt33184695",
+      "title": "Rolling Loud",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWJlZDBmMGQtNjFiYy00ZGUwLTk5ZjMtNzYzNDU5MWIyY2I1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [
+        "Christine Ko",
+        "Marcus Lewis",
+        "Owen Wilson",
+        "Jolene"
+      ],
+      "label": "Sep 18, 2026"
+    },
+    {
+      "id": "tt35504660",
+      "title": "Bedford Park",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGNkNGI4OTMtNjRmOS00OGY5LWFlMjMtNmM1N2E3MDBhYzE2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        "Joohong Jung",
+        "Ferin Bergen",
+        "Will Cobbs",
+        "Paco Lozano"
+      ],
+      "label": "Sep 22, 2026"
+    },
+    {
+      "id": "tt7526136",
+      "title": "Heart of the Beast",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "people": [
+        "Brad Pitt",
+        "J.K. Simmons",
+        "Anna Lambe"
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
+      "id": "tt27739255",
+      "title": "Charlie Harper",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTgyMjFkMmYtYzNmZS00NTMyLWE2NDktNmRjYmRhNDIxZDExXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "people": [
+        "Nick Robinson",
+        "Emilia Jones",
+        "Nicholas Cirillo",
+        "Jessica Blackmore"
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
+      "id": "tt36583977",
+      "title": "Forgotten Island",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWJlY2JiNTMtYTAwYy00NGFiLTkwYTEtM2VmNDc4MzM5YmJiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "people": [
+        "Dave Franco",
+        "Jenny Slate",
+        "Dolly De Leon",
+        "Manny Jacinto"
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
+      "id": "tt38589433",
+      "title": "Never After Dark",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTVhZmNiNjktMzJkYS00ZGZmLTgxZjYtZDU0NTIwOGZlNzkyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Fantasy",
+        "Horror"
+      ],
+      "people": [
+        "Moeka Hoshi",
+        "Kurumi Inagaki",
+        "Kento Kaku",
+        "Tae Kimura"
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
+      "id": "tt36590599",
+      "title": "The Scout",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWZmZjdjNzQtZGFjNi00MjNhLTkwZmQtZmFhMzFmMWE4MjhiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "people": [
+        "Rutanya Alda",
+        "Matt Barats",
+        "Mimi Davila",
+        "Jackson Devereux"
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
+      "id": "tt9135246",
+      "title": "The Flood: End of Mankind",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTQ4NTJkNzMtN2JiNi00MTVkLWJlZGQtN2UwZGY5NTA0YTY5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 01 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "History",
+        "Thriller"
+      ],
+      "people": [
+        "Kevin Sorbo",
+        "Sam Sorbo",
+        "Danny Fehsenfeld",
+        "Aaron Groben"
+      ],
+      "label": "Oct 01, 2026"
+    },
+    {
+      "id": "tt33457310",
+      "title": "Terrifier 4",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGU0NGVlMTctODlmMS00MjdhLWFhOTgtNjkyNDkwMmQ1YzFjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 01 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        "Lauren LaVera",
+        "David Howard Thornton",
+        "Elliott Fullam"
+      ],
+      "label": "Oct 01, 2026"
+    },
+    {
+      "id": "tt31450459",
+      "title": "Digger",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWNiMjI1MzItMDkwNy00YzNjLWIwYjUtZTM5ZGIyYTVkZDhiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "people": [
+        "Tom Cruise",
+        "Riz Ahmed",
+        "Aetheria Angel",
+        "Robert John Burke"
+      ],
+      "label": "Oct 02, 2026"
+    },
+    {
+      "id": "tt32261958",
+      "title": "Verity",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzUyODgxN2YtNWQ2MC00ZTQxLWJkYjMtYzYwM2RmOTcxNzFhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "people": [
+        "Anne Hathaway",
+        "Dakota Johnson",
+        "Josh Hartnett",
+        "Ismael Cruz Cordova"
+      ],
+      "label": "Oct 02, 2026"
+    },
+    {
+      "id": "tt32329539",
+      "title": "Crawlers",
+      "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        "Matilda Lutz",
+        "Gregg Sulkin",
+        "William Miller",
+        "Melina Matthews"
+      ],
+      "label": "Oct 02, 2026"
+    },
+    {
+      "id": "tt10377864",
+      "title": "Beware Boiúna",
+      "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        "Logan Marshall-Green",
+        "Jessica Rothe",
+        "Kiana Madeira",
+        "Jackson Bews"
+      ],
+      "label": "Oct 02, 2026"
+    },
+    {
+      "id": "tt35856037",
+      "title": "Your Mother Your Mother Your Mother",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmEzMThlY2QtMDY1Zi00OTNmLWIxMWUtYzczYzBmZjI4YmRlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "people": [
+        "Giancarlo Esposito",
+        "Mahershala Ali",
+        "Tramell Tillman",
+        "John Cho"
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt18259538",
+      "title": "The Legend of Aang: The Last Airbender",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTNhN2Y5NTEtNzEyMy00NWQ0LTg4OTMtNzEwM2M1ZGYzYzA4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "people": [
+        "Eric Nam",
+        "Dave Bautista",
+        "Jessica Matten",
+        "Román Zaragoza"
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt37510326",
+      "title": "The Social Reckoning",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc3ODAyY2ItY2FjZi00ZTM2LTgxNGQtODk2OGZkMWQ3MzhmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        "Betty Gilpin",
+        "Jeremy Allen White",
+        "Portia Doubleday",
+        "Mikey Madison"
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt35410859",
+      "title": "Fjord",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWYwMDA1N2QtNDBmNi00YjNmLWI4MjktNmM0OTIxNWMzMTdlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        "Renate Reinsve",
+        "Sebastian Stan",
+        "Lisa Loven Kongsli",
+        "Thorbjørn Harr"
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt39850240",
+      "title": "Angel and the Badman",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWNlMGE1YTEtZjRjYy00ZDdmLWI5MDAtNGY2YTliYTg1N2JlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Western"
+      ],
+      "people": [
+        "Zachary Levi",
+        "Neal McDonough",
+        "Tommy Lee Jones",
+        "Meg Fraser"
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt36586020",
+      "title": "Other Mommy",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        "Jessica Chastain",
+        "Jay Duplass",
+        "Arabella Olivia Clark",
+        "Alejandro Nieves"
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt13609648",
+      "title": "Sense and Sensibility",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTMxYzgzYzktODYyYS00MDk4LWE0NmYtZjI4NjBkYTk5YzJlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        "Daisy Edgar-Jones",
+        "Bodhi Rae Breathnach",
+        "George MacKay",
+        "Esmé Creed-Miles"
+      ],
+      "label": "Oct 16, 2026"
+    },
+    {
+      "id": "tt27419420",
+      "title": "Street Fighter",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "people": [
+        "Jason Momoa",
+        "Eric André",
+        "David Dastmalchian",
+        "Noah Centineo"
+      ],
+      "label": "Oct 16, 2026"
+    },
+    {
+      "id": "tt32063220",
+      "title": "Poetic License",
+      "image": "https://m.media-amazon.com/images/M/MV5BODEzYTk1NjQtY2I4My00ZDZmLWFkMjAtZmZiYjNiMWQwZTNiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [
+        "Leslie Mann",
+        "Cooper Hoffman",
+        "Andrew Barth Feldman",
+        "Nico Parker"
+      ],
+      "label": "Oct 16, 2026"
+    },
+    {
+      "id": "tt29549490",
+      "title": "California Schemin'",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTViMmQ2ZjQtZGZjYy00OThlLTgzYzEtNTQxMTg1YWViZGNkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "people": [
+        "James McAvoy",
+        "Lucy Halliday",
+        "James Corden",
+        "Amber Anderson"
+      ],
+      "label": "Oct 16, 2026"
+    },
+    {
+      "id": "tt42004484",
+      "title": "Flywheel: Ignition of the Soul",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjhmODI4ZDItYzQ5NC00YjE2LTg1YzktYTMwYTExZjcwNTc2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        "Mario Bregieira",
+        "Adriano Canindé",
+        "Pérola Faria",
+        "Felipe Folgosi"
+      ],
+      "label": "Oct 16, 2026"
+    },
+    {
+      "id": "tt14371256",
+      "title": "Klara and the Sun",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQ1YzgwMTMtZDRhNC00MDE0LWFmODctM2ZlNjg5MmNiMDI1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "people": [
+        "Jenna Ortega",
+        "Amy Adams",
+        "Mia Tharia",
+        "Aran Murphy"
+      ],
+      "label": "Oct 23, 2026"
+    },
+    {
+      "id": "tt34890576",
+      "title": "Clayface",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTAyMjgxZjctMjRjNC00Zjg1LWJiNzctMDkxYzk0NWVmODMwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "people": [
+        "Naomi Ackie",
+        "Tom Rhys Harries",
+        "Eddie Marsan",
+        "Max Minghella"
+      ],
+      "label": "Oct 23, 2026"
+    },
+    {
+      "id": "tt2056785",
+      "title": "Wildwood",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmVhMWViOWUtMTE1YS00NjcwLThiNTctZDQ2MTBmM2ZjYzk3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "people": [
+        "Peyton Elizabeth Lee",
+        "Jacob Tremblay",
+        "Carey Mulligan",
+        "Mahershala Ali"
+      ],
+      "label": "Oct 23, 2026"
+    },
+    {
+      "id": "tt36482679",
+      "title": "The Only Living Pickpocket in New York",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGM4MWFmNjMtZTFkZC00ZmQ5LWFkM2MtNjgxNTE2NTE0YWMxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "people": [
+        "John Turturro",
+        "Giancarlo Esposito",
+        "Will Price",
+        "Tatiana Maslany"
+      ],
+      "label": "Oct 23, 2026"
+    },
+    {
+      "id": "tt32359344",
+      "title": "Wife and Dog",
+      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Thriller"
+      ],
+      "people": [
+        "Tomás Paredes",
+        "James Norton",
+        "Rosamund Pike",
+        "Benedict Cumberbatch"
+      ],
+      "label": "Oct 23, 2026"
+    },
+    {
+      "id": "tt29611136",
+      "title": "Wicker",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk2MzQ3MGYtMTU1Zi00OGE3LWFmZmUtZmM1MmY3NmRhOTRjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "people": [
+        "Alexander Skarsgård",
+        "Ella Bruccoleri",
+        "Olivia Colman",
+        "Peter Dinklage"
+      ],
+      "label": "Oct 30, 2026"
+    },
+    {
+      "id": "tt42588704",
+      "title": "Christmas at the Kringles",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjk4ZTkyNTktMzRmOC00MDMzLTk4N2YtN2VlZTYyMmJjNzVlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "people": [
+        "Ron Livingston",
+        "Rachel Bilson",
+        "Rob Riggle",
+        "Thomas Lennon"
+      ],
+      "label": "Oct 30, 2026"
+    },
+    {
+      "id": "tt13611778",
+      "title": "The Mongoose",
+      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "people": [
+        "Liam Neeson",
+        "Marisa Tomei",
+        "Ving Rhames",
+        "Michael Chiklis"
+      ],
+      "label": "Oct 30, 2026"
+    },
+    {
+      "id": "tt15799564",
+      "title": "Wild Horse Nine",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDc5ZDAzNmEtNTI2OS00YWI0LWE5MTYtZTJiN2RkNzRmMjA0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "people": [
+        "Sam Rockwell",
+        "John Malkovich",
+        "Steve Buscemi",
+        "Parker Posey"
+      ],
+      "label": "Nov 06, 2026"
+    },
+    {
+      "id": "tt34384661",
+      "title": "Godzilla Minus Zero",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWUyMDY0NWQtMjI2Zi00YjMwLTkwYmItZDk1MGI5MjEzODQxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "people": [
+        "Ryûnosuke Kamiki",
+        "Minami Hamabe",
+        "Miou Tanaka",
+        "Sakura Andō"
+      ],
+      "label": "Nov 06, 2026"
+    },
+    {
+      "id": "tt2321555",
+      "title": "The Cat in the Hat",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmJhNzk4OGMtOTlmNC00ODAxLWFkYjYtY2RhYWVmNDg5YmViXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Bill Hader",
+        "Xochitl Gomez",
+        "Tiago Martinez",
+        "Quinta Brunson"
+      ],
+      "label": "Nov 06, 2026"
+    },
+    {
+      "id": "tt31179962",
+      "title": "Jimmy",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmJmZTZjZDktYzJlYi00OGNkLWJhMmQtNWUwODkzMTA5YmQzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "people": [
+        "KJ Apa",
+        "Max Casella",
+        "Kara Killmer",
+        "Neal McDonough"
+      ],
+      "label": "Nov 06, 2026"
+    },
+    {
+      "id": "tt38686316",
+      "title": "Archangel",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWQxMmNkZWQtNjQyNi00YTgyLTkzMjktMzY1MWJlOTAyN2MyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "people": [
+        "Alexej Manvelov",
+        "Jim Caviezel",
+        "Shea Whigham",
+        "Garret Dillahunt"
+      ],
+      "label": "Nov 06, 2026"
+    },
+    {
+      "id": "tt27988879",
+      "title": "Ramayana",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzljMTFkYTktMjQ0MC00NjFhLWFmOTEtOTMyZmVhNTBmYTMzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sun, 08 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravi Dubey"
+      ],
+      "label": "Nov 08, 2026"
+    },
+    {
+      "id": "tt33075482",
+      "title": "The Great Beyond",
+      "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "people": [
+        "Glen Powell",
+        "Jenna Ortega",
+        "Samuel L. Jackson",
+        "Merritt Wever"
+      ],
+      "label": "Nov 13, 2026"
+    },
+    {
+      "id": "tt38773219",
+      "title": "Ebenezer: A Christmas Carol",
+      "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "people": [
+        "Johnny Depp",
+        "Sam Claflin",
+        "Daisy Ridley",
+        "Ian McKellen"
+      ],
+      "label": "Nov 13, 2026"
+    },
+    {
+      "id": "tt32558705",
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGRkYmM2MjUtZTY4Yi00YTNhLTk1MDEtYTQ3YjFiOTljM2Y1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "people": [
+        "Joseph Zada",
+        "Mckenna Grace",
+        "Elle Fanning",
+        "Jesse Plemons"
+      ],
+      "label": "Nov 20, 2026"
+    },
+    {
+      "id": "tt34385689",
+      "title": "Paper Tiger",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM0NWMzM2MtNzYwMy00OTMzLTg4M2EtMTViMTFkMWE5OTE4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        "Adam Driver",
+        "Scarlett Johansson",
+        "Miles Teller",
+        "Gavin Goudey"
+      ],
+      "label": "Nov 20, 2026"
+    },
+    {
+      "id": "tt11995650",
+      "title": "I Play Rocky",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDZlN2IyYjUtM2FhMi00OTQ0LTk5YjktNTdiZGM1ZDg3NzIxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "people": [
+        "AnnaSophia Robb",
+        "Matt Dillon",
+        "Toby Kebbell",
+        "Erik Palladino"
+      ],
+      "label": "Nov 20, 2026"
+    },
+    {
+      "id": "tt37118301",
+      "title": "Minotaur",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjEwOWY3YTAtYzVlYS00YTdlLWJkMGQtMjkwM2M3NTMxZTY1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        "Dmitriy Mazurov",
+        "Iris Lebedeva",
+        "Boris Kudrin",
+        "Yuriy Zavalnyouk"
+      ],
+      "label": "Nov 20, 2026"
+    },
+    {
+      "id": "tt38077943",
+      "title": "Hexed",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQ4NDg5Y2YtZmQ3Ny00N2FjLWIyMGMtYzU1YzEyZTgyZjIwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Alan Tudyk",
+        "Hailee Steinfeld",
+        "Rashida Jones",
+        "Stephen Fry"
+      ],
+      "label": "Nov 25, 2026"
+    },
+    {
+      "id": "tt34966140",
+      "title": "Focker-in-Law",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGI0NjhmMmEtNDAxZC00MDFjLThlNzUtYTUwMDkzMjMxNGIzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [
+        "Robert De Niro",
+        "Ben Stiller",
+        "Ariana Grande",
+        "Skyler Gisondo"
+      ],
+      "label": "Nov 25, 2026"
+    },
+    {
+      "id": "tt17055444",
+      "title": "Hershey",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjNlOGQ4NmEtNjRjNi00OWY3LWFhMDktMmRhMjExN2U3Mjc0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "people": [
+        "Finn Wittrock",
+        "Alexandra Daddario",
+        "Francesca Faridany",
+        "Dina Spybey-Waters"
+      ],
+      "label": "Nov 25, 2026"
+    },
+    {
+      "id": "tt27983468",
+      "title": "Home",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWIzZGIzNzAtYjRjZS00MWQ4LWJlMmItYWI0ZTQ0MzRkNjU0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        "Mike Vogel",
+        "Alexa PenaVega",
+        "Dennis Haysbert",
+        "DeVon Franklin"
+      ],
+      "label": "Nov 26, 2026"
+    },
+    {
+      "id": "tt3195548",
+      "title": "Game of Power",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGMzMWU4MjYtMzIyOS00YzI2LWJkZTQtZmRjNjE3MjcxMTc2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 02 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "people": [
+        "Tobin Bell",
+        "Bruce Davison",
+        "Evelyn Claire",
+        "Erin Wu"
+      ],
+      "label": "Dec 02, 2026"
+    },
+    {
+      "id": "tt32432428",
+      "title": "Violent Night 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ0ZjI1Y2MtMDZmNC00Y2JlLTg3ZjAtYWQ0MTVmMGQ5MjRkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "people": [
+        "David Harbour",
+        "Maggie Nicole Robertson",
+        "Kristen Bell",
+        "Jared Harris"
+      ],
+      "label": "Dec 04, 2026"
+    },
+    {
+      "id": "tt34491649",
+      "title": "Zero A.D.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjU2ZGE2MjktZjZhNC00ZWZiLWI2MTYtMThhZDJkZDQ3YTE2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "people": [
+        "Deva Cassel",
+        "Sam Worthington",
+        "Ben Mendelsohn",
+        "Gael García Bernal"
+      ],
+      "label": "Dec 11, 2026"
+    },
+    {
+      "id": "tt21357150",
+      "title": "Avengers: Doomsday",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2E1ZTJiZTgtZGI2Zi00MzAxLThhZjktMmU3M2E3Yzk3NjUxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 18 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "people": [
+        "Robert Downey Jr.",
+        "Pedro Pascal",
+        "Chris Hemsworth",
+        "Vanessa Kirby"
+      ],
+      "label": "Dec 18, 2026"
+    },
+    {
+      "id": "tt31378509",
+      "title": "Dune: Part Three",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDA2MDVmNWItODA3My00Mzc2LThmODMtMThhYTVlMGJkYjA4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 18 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "people": [
+        "Zendaya",
+        "Javier Bardem",
+        "Timothée Chalamet",
+        "Jason Momoa"
+      ],
+      "label": "Dec 18, 2026"
+    },
+    {
+      "id": "tt32557122",
+      "title": "The Angry Birds Movie 3",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjk4N2IwMzUtZDI2Ny00NTE2LTk4ZTMtODVhYjU2YjUwZDM5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 23 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "people": [
+        "Emma Myers",
+        "Keke Palmer",
+        "Lily James",
+        "Jason Sudeikis"
+      ],
+      "label": "Dec 23, 2026"
+    },
+    {
+      "id": "tt28228084",
+      "title": "King",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDI0NDI1ZGUtNDI4MS00OWQxLWE0ZDgtYTViYmIwODdmZTdiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 24 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Romance",
+        "Thriller"
+      ],
+      "people": [
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "Abhishek Bachchan",
+        "Jackie Shroff"
+      ],
+      "label": "Dec 24, 2026"
+    },
+    {
+      "id": "tt35257441",
+      "title": "Shakti Shalini",
+      "releaseDate": "Thu, 24 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        "Aneet Padda",
+        "Nana Patekar",
+        "Vineet Kumar Singh",
+        "Vishal Jethwa"
+      ],
+      "label": "Dec 24, 2026"
+    },
+    {
+      "id": "tt35514120",
+      "title": "Werwulf",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTA5YjA5NTAtMjJlOS00ZTVkLWE0MDgtNDY0ZjVhOTE5NTg3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        "Bodhi Rae Breathnach",
+        "Aaron Taylor-Johnson",
+        "Willem Dafoe",
+        "Ralph Ineson"
+      ],
+      "label": "Dec 25, 2026"
+    },
+    {
+      "id": "tt26735127",
+      "title": "Jumanji: Open World",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjgxZmExZDYtNDhkZS00YWI0LTlmOWQtZWRhYzY0ZWY4ODljXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Rhys Darby",
+        "Dwayne Johnson",
+        "Karen Gillan",
+        "Jack Black"
+      ],
+      "label": "Dec 25, 2026"
+    },
+    {
+      "id": "tt30093348",
+      "title": "Mr. Irrelevant: The John Tuggle Story",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjllOWE3OWQtNmVhYS00MzM0LTk2NTEtZjQzNTEzNTc2MTc3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "people": [
+        "David Corenswet",
+        "Isabel May",
+        "David Krumholtz",
+        "Michael Shannon"
+      ],
+      "label": "Dec 25, 2026"
+    },
+    {
+      "id": "tt36931184",
+      "title": "A Place in Hell",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGExZDE3NWItZmY0Ni00ZjE1LThlZWUtNTJjN2VjYmMzM2NjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        "Michelle Williams",
+        "Daisy Edgar-Jones",
+        "José Báez",
+        "Michael Benz"
+      ],
+      "label": "Dec 25, 2026"
+    },
+    {
+      "id": "tt39328391",
+      "title": "Coward",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWI4MjlhNWMtNDQ1NS00NzFlLTljZTktNTkxNjMwMmNkMWJlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "people": [
+        "Valentin Campagne",
+        "Emmanuel Macchia",
+        "Willem De Schryver",
+        "Boris Bouchat"
+      ],
+      "label": "Dec 25, 2026"
+    },
+    {
+      "id": "tt39822622",
+      "title": "Nutmeg & Mistletoe",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWYwOGJkYTktODlkMC00ZTBkLTlkYTktYWU0NDBhMTY0ZTc0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [
+        "Madeleine Arthur",
+        "Sarah Jeffery",
+        "Maia Kealoha",
+        "Barney Burman"
+      ],
+      "label": "Dec 25, 2026"
+    },
+    {
+      "id": "tt9810236",
+      "title": "Apophis 2029",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA3NGE5MTctYjljZi00ZjkyLWI0ZWMtZjYzODRkZDc1NTVlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 30 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        "Nick Dent",
+        "Jeffrey Schneider",
+        "Roman P. Martinez",
+        "Abel Martinez Jr."
+      ],
+      "label": "Dec 30, 2026"
+    },
+    {
+      "id": "tt41151310",
+      "title": "Untitled Shudder Horror Film",
+      "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [],
+      "label": "Jan 08, 2027"
+    },
+    {
+      "id": "tt35935357",
+      "title": "The Beekeeper 2",
+      "releaseDate": "Fri, 15 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "people": [
+        "Jason Statham",
+        "Jeremy Irons",
+        "Pom Klementieff",
+        "Jemma Redgrave"
+      ],
+      "label": "Jan 15, 2027"
+    },
+    {
+      "id": "tt31888498",
+      "title": "Fing!",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjYxYWFmOTUtMWVlYi00MGVjLTlhODctOTFiNzkwZDE0Yzk1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 15 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "people": [
+        "Taika Waititi",
+        "Mia Wasikowska",
+        "Richard Roxburgh",
+        "Penelope Wilton"
+      ],
+      "label": "Jan 15, 2027"
+    },
+    {
+      "id": "tt8702454",
+      "title": "The Third Parent",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmRlNWRkNGMtNDZkMi00Mjg3LWI1YTMtMTIxZTQ5N2NmOWE0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 20 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "people": [
+        "Rob Lowe",
+        "Crispin Glover",
+        "Roselyn Sanchez",
+        "Bethany Milner"
+      ],
+      "label": "Jan 20, 2027"
+    },
+    {
+      "id": "tt16911616",
+      "title": "Animal Friends",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQ4NjkxZDUtN2EyMC00ODAyLWFiY2MtYmU1YTI2Yzg4ZGFmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 22 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Jakey Schiff",
+        "Emilio Iannucci",
+        "Kexin Wang",
+        "Jason Momoa"
+      ],
+      "label": "Jan 22, 2027"
+    },
+    {
+      "id": "tt37676881",
+      "title": "Air Bud Returns",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIzM2Q3NzEtN2E3MS00ZTkyLWFmOTUtMGRjNjdmZTdjYTJmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 22 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Sport"
+      ],
+      "people": [
+        "Tyler Labine",
+        "Tracy Ifeachor",
+        "Edwin Lee Gibson",
+        "Kingston Goodjohn"
+      ],
+      "label": "Jan 22, 2027"
+    },
+    {
+      "id": "tt35893068",
+      "title": "Drag",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDcxNDZmMTUtZjE1Ni00NmNkLWFjNmUtMTU2NDIzYjY4NTA0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        "Lizzy Caplan",
+        "John Stamos",
+        "Lucy DeVito",
+        "Christine Ko"
+      ],
+      "label": "Jan 29, 2027"
+    },
+    {
+      "id": "tt35606013",
+      "title": "The Rescue",
+      "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        "Brandon Sklenar",
+        "Josh Lucas",
+        "Josh Duhamel",
+        "Hassie Harrison"
+      ],
+      "label": "Jan 29, 2027"
+    },
+    {
+      "id": "tt33295857",
+      "title": "Karoshi",
+      "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "people": [
+        "Isabel May",
+        "Giancarlo Esposito",
+        "Cynthia Erivo",
+        "Bill Camp"
+      ],
+      "label": "Jan 29, 2027"
+    },
+    {
+      "id": "tt34512981",
+      "title": "Ice Age: Boiling Point",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWUyNWFhZDctMTlmNy00ZDFhLWE4NDEtMWQzZGQxM2ZmM2NiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 05 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Denis Leary",
+        "John Leguizamo",
+        "Simon Pegg",
+        "Queen Latifah"
+      ],
+      "label": "Feb 05, 2027"
+    },
+    {
+      "id": "tt36593129",
+      "title": "The Comeback King",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTE0ZGRiNTQtOTc5OC00YmZmLTk4ZDYtZGNlOWNiZTQ4OWZlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 05 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [
+        "Glen Powell",
+        "Cristin Milioti",
+        "Madelyn Cline",
+        "Stavros Halkias"
+      ],
+      "label": "Feb 05, 2027"
+    },
+    {
+      "id": "tt35621542",
+      "title": "Remain",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIwMTdhY2YtZGNiMC00MDg5LWFkY2EtZjY5MTllNDc0OWEzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 05 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "people": [
+        "Jake Gyllenhaal",
+        "M. Night Shyamalan",
+        "Phoebe Dynevor",
+        "Julie Hagerty"
+      ],
+      "label": "Feb 05, 2027"
+    },
+    {
+      "id": "tt9077514",
+      "title": "Narnia: The Magician's Nephew",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmJiNzIxNDQtNzhhMC00NGNmLWJkY2MtOWI1MDdmNzFmZTE3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 12 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "people": [
+        "Beatrice Campbell",
+        "Meryl Streep",
+        "Daniel Craig",
+        "Carey Mulligan"
+      ],
+      "label": "Feb 12, 2027"
+    },
+    {
+      "id": "tt4540534",
+      "title": "The Nightingale",
+      "releaseDate": "Fri, 12 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "people": [
+        "Elle Fanning",
+        "Dakota Fanning",
+        "Douglas Hodge",
+        "Mark Rylance"
+      ],
+      "label": "Feb 12, 2027"
+    },
+    {
+      "id": "tt37599264",
+      "title": "Wishful Thinking",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzgyYTExODEtM2E0Yi00Zjk3LThiNWEtNTVjYjNiN2NiZWFmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 12 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "people": [
+        "Lowell Deo",
+        "Lewis Pullman",
+        "Kerri Kenney",
+        "Randall Park"
+      ],
+      "label": "Feb 12, 2027"
+    },
+    {
+      "id": "tt26443623",
+      "title": "Untitled Disney",
+      "releaseDate": "Fri, 12 Feb 2027 00:00:00 GMT",
+      "genres": [],
+      "people": [],
+      "label": "Feb 12, 2027"
+    },
+    {
+      "id": "tt31339071",
+      "title": "Cocomelon: The Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDRiMTFkYzktMWZjYy00OTQ0LTljODItYWZmMmZjMTIwZWMyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 19 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Rhys Darby",
+        "Nicholas Hoult",
+        "Ego Nwodim",
+        "Ike Barinholtz"
+      ],
+      "label": "Feb 19, 2027"
+    },
+    {
+      "id": "tt38593232",
+      "title": "Live Like That",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Y2ZDUxNWQtZjMxZi00M2Q0LWIwZGYtMTE1MzY0YWE5M2ExXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 26 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "people": [
+        "Roselyn Sanchez",
+        "Esai Morales",
+        "Richard Cabral",
+        "Jobie James"
+      ],
+      "label": "Feb 26, 2027"
+    },
+    {
+      "id": "tt26443610",
+      "title": "Gatto",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU4ZTMxNmUtYzQxNS00YzdlLTllOWItNGZkOWFjMWZkMTA4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 05 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Enrico Casarosa",
+        "Ismail Elsene",
+        "Laurence Fishburne",
+        "Mark Ruffalo"
+      ],
+      "label": "Mar 05, 2027"
+    },
+    {
+      "id": "tt5500064",
+      "title": "The Thomas Crown Affair",
+      "releaseDate": "Fri, 05 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Aubrey Plaza",
+        "Michael B. Jordan",
+        "Adria Arjona",
+        "Kenneth Branagh"
+      ],
+      "label": "Mar 05, 2027"
+    },
+    {
+      "id": "tt32492552",
+      "title": "The Exorcist",
+      "releaseDate": "Fri, 12 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        "Hamish Linklater",
+        "Scarlett Johansson",
+        "Gil Bellows",
+        "Chiwetel Ejiofor"
+      ],
+      "label": "Mar 12, 2027"
+    },
+    {
+      "id": "tt16744566",
+      "title": "Sonic the Hedgehog 4",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmIxMTdiNDctMDcyYi00N2RmLTk5Y2EtMWE5N2YzOTEyYjdlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 19 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "people": [
+        "Keanu Reeves",
+        "Nick Offerman",
+        "James Marsden",
+        "Jim Carrey"
+      ],
+      "label": "Mar 19, 2027"
+    },
+    {
+      "id": "tt4776944",
+      "title": "Wolf Creek: Legacy",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTE1YWRmOTEtOTQ1Ni00MmI2LWIyZDEtNDM5OTliODFkODRiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 19 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        "John Jarratt",
+        "Stacy Clausen",
+        "Laura Gordon",
+        "Meg Fraser"
+      ],
+      "label": "Mar 19, 2027"
+    },
+    {
+      "id": "tt32561550",
+      "title": "Godzilla x Kong: Supernova",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjFiMmEwNjktYjMzYi00MTAxLTkzMjQtYmM0YWQxZGIzODM0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 26 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "people": [
+        "Ryan Panizza",
+        "Danny Kim",
+        "Bronte Pearce",
+        "Jack O'Connell"
+      ],
+      "label": "Mar 26, 2027"
+    },
+    {
+      "id": "tt18795088",
+      "title": "Day Drinker",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGJkYWM5ZDgtNmUyNS00ZDdiLTliODMtNDhmNzYyMTEzMzM0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 26 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "people": [
+        "Johnny Depp",
+        "Penélope Cruz",
+        "Madelyn Cline",
+        "Marc Webb"
+      ],
+      "label": "Mar 26, 2027"
+    },
+    {
+      "id": "tt26443622",
+      "title": "Untitled Disney",
+      "releaseDate": "Fri, 02 Apr 2027 00:00:00 GMT",
+      "genres": [],
+      "people": [],
+      "label": "Apr 02, 2027"
+    },
+    {
+      "id": "tt37897207",
+      "title": "The Revenge of La Llorona",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjZlZThhY2EtNGRkMC00YWJlLTgwN2YtODExZWVlYjYwOGFiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        "Jay Hernandez",
+        "Raymond Cruz",
+        "Monica Raymund",
+        "Edy Ganem"
+      ],
+      "label": "Apr 09, 2027"
+    },
+    {
+      "id": "tt13655056",
+      "title": "Get Lite",
+      "releaseDate": "Fri, 09 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "people": [
+        "Storm Reid"
+      ],
+      "label": "Apr 09, 2027"
+    },
+    {
+      "id": "tt43609247",
+      "title": "Not Alone",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmI1YTBhNjgtMmQxZC00YzE1LTkwODgtYWVmOTA2YTk1ZmFmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Timothée Chalamet",
+        "Selena Gomez",
+        "Brett Goldstein",
+        "Rob Brydon"
+      ],
+      "label": "Apr 16, 2027"
+    },
+    {
+      "id": "tt32659463",
+      "title": "Spaceballs: The New One",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmU1YWJjMTItYTdmYS00YzQ0LTlkZGQtMzhhMGNhYTk5Mjg5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "people": [
+        "Mel Brooks",
+        "Lewis Pullman",
+        "Bill Pullman",
+        "Keke Palmer"
+      ],
+      "label": "Apr 23, 2027"
+    },
+    {
+      "id": "tt9198366",
+      "title": "F.A.S.T.",
+      "releaseDate": "Fri, 23 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "people": [
+        "Brandon Sklenar",
+        "Sam Claflin",
+        "Wilson Bethel",
+        "LaKeith Stanfield"
+      ],
+      "label": "Apr 23, 2027"
+    },
+    {
+      "id": "tt29873948",
+      "title": "The Legend of Zelda",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzE1MGE3ZGEtNDg1Yi00MDE1LTgxYzEtZmEyMGQzNGE1OWJkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 30 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "people": [
+        "Benjamin Evan Ainsworth",
+        "Bo Bragason",
+        "Graeme Gilby"
+      ],
+      "label": "Apr 30, 2027"
+    },
+    {
+      "id": "tt34383418",
+      "title": "Monitor",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc0ZTFiOWYtMTQ5Mi00Nzg1LTgzYmMtN2NjNzFjN2ViZjk5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 30 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "people": [
+        "Brittany O'Grady",
+        "Taz Skylar",
+        "Ines Høysæter Asserson",
+        "Sara Alexander"
+      ],
+      "label": "Apr 30, 2027"
+    },
+    {
+      "id": "tt5795232",
+      "title": "The Resurrection of the Christ: Part One",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDIyYmEyZTctYWUzMi00NjZlLTk4OTMtNWMwMjllNjllYTE5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 06 May 2027 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "people": [
+        "Gabriele Rollo",
+        "Mario Sagone",
+        "Rupert Everett",
+        "Riccardo Scamarcio"
+      ],
+      "label": "May 06, 2027"
+    },
+    {
+      "id": "tt27435653",
+      "title": "Beach Read",
+      "releaseDate": "Fri, 07 May 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "people": [
+        "Kevin Bacon",
+        "Andie MacDowell",
+        "Phoebe Dynevor",
+        "Patrick Schwarzenegger"
+      ],
+      "label": "May 07, 2027"
+    },
+    {
+      "id": "tt21879688",
+      "title": "A Guardian's Heart",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTE2MWIxZWEtNzYwMS00MTBlLWFkYWUtNDdjNjM2YmNhOTg5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 15 May 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "people": [],
+      "label": "May 15, 2027"
+    },
+    {
+      "id": "tt32102935",
+      "title": "The Catch",
+      "releaseDate": "Fri, 21 May 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "people": [
+        "Emma Stone",
+        "Chris Pine",
+        "Tim Robbins",
+        "Sissy Spacek"
+      ],
+      "label": "May 21, 2027"
+    },
+    {
+      "id": "tt39104938",
+      "title": "Paranormal Activity 8",
+      "releaseDate": "Fri, 21 May 2027 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        "Maya da Costa",
+        "Sonia Mena",
+        "Chase Yi"
+      ],
+      "label": "May 21, 2027"
+    },
+    {
+      "id": "tt28018076",
+      "title": "Bad Fairies",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmU3NzA0ZjUtNjQxMy00MjMyLWE2NjItNjlmYjk1M2FiNjMzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 21 May 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Cynthia Erivo",
+        "Dee Bradley Baker",
+        "Ncuti Gatwa",
+        "James Acaster"
+      ],
+      "label": "May 21, 2027"
+    },
+    {
+      "id": "tt28069611",
+      "title": "Star Wars: Starfighter",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWFkM2JmMDktNWEyNS00NGRkLTk3NDMtMzA5YjQyMTM0NWI5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 May 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "people": [
+        "Ryan Gosling",
+        "Amy Adams",
+        "Matt Smith",
+        "Mia Goth"
+      ],
+      "label": "May 28, 2027"
+    },
+    {
+      "id": "tt26443617",
+      "title": "Untitled Disney",
+      "releaseDate": "Fri, 28 May 2027 00:00:00 GMT",
+      "genres": [],
+      "people": [],
+      "label": "May 28, 2027"
+    },
+    {
+      "id": "tt13499272",
+      "title": "From the Ashes",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzg2Mzc2OTEtZGNlZS00NTk5LThlMjYtZjM5MDZiOWZiM2RiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Tue, 01 Jun 2027 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "people": [
+        "Jeanne Neilson",
+        "Paul du Toit",
+        "Syreeta Banks",
+        "Jeremy John Wells"
+      ],
+      "label": "Jun 01, 2027"
+    },
+    {
+      "id": "tt36963968",
+      "title": "John Rambo",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTJhMDkzY2YtMTU0NC00NWFlLTllMDAtNThjYjNmNjQ3YzExXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Jun 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "people": [
+        "James Franco",
+        "David Harbour",
+        "Noah Centineo",
+        "Jefferson White"
+      ],
+      "label": "Jun 04, 2027"
+    },
+    {
+      "id": "tt36416299",
+      "title": "How to Train Your Dragon 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGQ2OTQ0YjItZjFhNS00NWM1LTk0ZGYtZmQzN2NjODczMGYyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Jun 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Gerard Butler",
+        "Cate Blanchett",
+        "Mason Thames",
+        "Phil Dunster"
+      ],
+      "label": "Jun 11, 2027"
+    },
+    {
+      "id": "tt7406252",
+      "title": "Bury This",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjliOGE4ZWItODAwMy00MGEzLWFhYzYtOGQ4NTEwYmY0MTU2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Tue, 15 Jun 2027 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "people": [],
+      "label": "Jun 15, 2027"
+    },
+    {
+      "id": "tt16360004",
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjkwOWViYzYtMDQzNi00N2U0LWIxYTktNWE2ZDYyM2FhN2M5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sun, 20 Jun 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "people": [
+        "Shameik Moore",
+        "Hailee Steinfeld",
+        "Brian Tyree Henry",
+        "Nicolas Cage"
+      ],
+      "label": "Jun 20, 2027"
+    },
+    {
+      "id": "tt20374502",
+      "title": "Untitled Ocean's Prequel",
+      "releaseDate": "Fri, 25 Jun 2027 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "people": [
+        "Monica Barbaro",
+        "Margot Robbie",
+        "Bradley Cooper",
+        "Wagner Moura"
+      ],
+      "label": "Jun 25, 2027"
+    },
+    {
+      "id": "tt7890826",
+      "title": "Naya Legend of the Golden Dolphin",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTU2Mjc5YzMtZjk2ZC00MTkwLWEwYzItMzA0MWMxZWRkOTY3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Mon, 28 Jun 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "people": [
+        "Elliot Page"
+      ],
+      "label": "Jun 28, 2027"
+    },
+    {
+      "id": "tt6113186",
+      "title": "Shrek 5",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmNkNmRkNDAtOTMzNC00MWYzLWJhNjMtYjNkZTNjODVhOTg2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 30 Jun 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        "Mike Myers",
+        "Cameron Diaz",
+        "Eddie Murphy",
+        "Skyler Gisondo"
+      ],
+      "label": "Jun 30, 2027"
+    }
+  ]
+}
