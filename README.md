@@ -22,6 +22,7 @@ MakeICS can be used for:
 
 * Sports schedules
 * TV show calendars
+* Movie release calendars
 * Event tracking
 * Reminder systems
 * Streaming schedules
@@ -59,7 +60,7 @@ Or run directly with Node.js:
 node index.js
 ```
 
-Open <http://localhost:3000>, start typing to pick a suggested show, sports team, search, and click **Copy ICS URL** to copy the all-time calendar feed URL. The ICS feed includes daily refresh metadata and the API cache revalidates daily so newly published episodes/games can appear without changing the URL.
+Open <http://localhost:3000>, start typing to pick a suggested show, sports team, or upcoming movie, and click **Copy ICS URL** to copy the all-time calendar feed URL. The ICS feed includes daily refresh metadata and the API cache revalidates daily so newly published episodes/games/movies can appear without changing the URL.
 
 ## Vercel deployment
 
@@ -70,6 +71,9 @@ Open <http://localhost:3000>, start typing to pick a suggested show, sports team
 ```http
 GET /api/episodes?show=The%20Last%20of%20Us
 GET /api/episodes?show=The%20Last%20of%20Us&format=ics
+
+GET /api/movies?q=Spider-Man&type=all
+GET /api/movies?q=Animation&type=genre&format=ics
 ```
 
 ### JSON response shape
