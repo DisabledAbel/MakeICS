@@ -1,7 +1,7 @@
 {
   "teamId": "af1-oceanside",
   "teamName": "Oceanside Bombers",
-  "updatedAt": "2026-06-30T14:26:28.473Z",
+  "updatedAt": "2026-07-01T04:12:39.508Z",
   "events": [
     {
       "idEvent": "af1-2026-07-11-oceanside-bombers-michigan-arsenal",
@@ -13,6 +13,7 @@
       "strTimestamp": "2026-07-11T02:00:00.000Z",
       "strLeague": "Arena Football One",
       "strVenue": "Frontwave Arena",
+      "strTVStation": "RS",
       "strStatus": "NS",
       "source": "af1-scrape"
     },
@@ -26,6 +27,7 @@
       "strTimestamp": "2026-07-18T21:00:00.000Z",
       "strLeague": "Arena Football One",
       "strVenue": "The Dow Event Center",
+      "strTVStation": "RS",
       "strStatus": "NS",
       "source": "af1-scrape"
     }
