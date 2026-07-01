@@ -63,6 +63,7 @@ async function scrapeSchedule() {
         const dateStr = cells[6]?.innerText.trim(); // e.g. "Sat Jun 20"
         const timeStr = cells[7]?.innerText.trim(); // e.g. "4:00PM EDT"
         const venue = cells[9]?.innerText.trim();
+        const broadcast = cells[11]?.innerText.trim();
 
         if (!awayTeam || !homeTeam || !dateStr) return null;
 
@@ -71,7 +72,8 @@ async function scrapeSchedule() {
           homeTeam,
           dateStr,
           timeStr,
-          venue
+          venue,
+          broadcast
         };
       }).filter(Boolean);
     });
@@ -144,6 +146,7 @@ async function main() {
         strTimestamp: isoTimestamp,
         strLeague: 'Arena Football One',
         strVenue: game.venue || null,
+        strTVStation: game.broadcast || null,
         strStatus: 'NS',
         source: 'af1-scrape'
       };

@@ -78,6 +78,7 @@ async function main() {
                 homeTeam: game.teams.home.team.name,
                 awayTeam: game.teams.away.team.name,
                 venue: game.venue?.name || null,
+                broadcast: game.broadcasts?.[0]?.name || null,
                 league: league.name,
                 id: game.gamePk
               });

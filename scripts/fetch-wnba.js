@@ -91,7 +91,8 @@ async function fetchWNBACSV() {
       home: 'home_display_name',
       away: 'away_display_name',
       venue: 'venue_full_name',
-      id: 'id'
+      id: 'id',
+      broadcast: 'broadcast'
     };
     const indices = {};
     for (const [key, field] of Object.entries(mapping)) {
@@ -108,6 +109,7 @@ async function fetchWNBACSV() {
       const homeRaw = parts[indices.home];
       const awayRaw = parts[indices.away];
       const venue = indices.venue !== -1 ? parts[indices.venue] : null;
+      const broadcast = indices.broadcast !== -1 ? parts[indices.broadcast] : null;
 
       if (!dateRaw || !homeRaw || !awayRaw) continue;
 
@@ -126,6 +128,7 @@ async function fetchWNBACSV() {
         homeTeam: homeRaw,
         awayTeam: awayRaw,
         venue: venue,
+        broadcast: broadcast,
         league: 'WNBA'
       });
     }
