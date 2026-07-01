@@ -59,11 +59,21 @@ const server = http.createServer((req, res) => {
     return;
   }
   if (url.startsWith('/api/movies-search')) {
-    import('./api/movies-search.js').then((m) => m.default(req, res));
+    import('./api/movies-search.js')
+      .then((m) => m.default(req, res))
+      .catch((err) => {
+        res.statusCode = 500;
+        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
+      });
     return;
   }
   if (url.startsWith('/api/movies')) {
-    import('./api/movies.js').then((m) => m.default(req, res));
+    import('./api/movies.js')
+      .then((m) => m.default(req, res))
+      .catch((err) => {
+        res.statusCode = 500;
+        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
+      });
     return;
   }
   serveStatic(req, res);
