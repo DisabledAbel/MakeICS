@@ -1,38 +1,60 @@
 import test from 'node:test';
 import assert from 'node:assert';
-import fs from 'node:fs/promises';
-import path from 'node:path';
-import { fileURLToPath } from 'node:url';
 import { getMovies, searchMovieSuggestions, toIcs } from '../lib/movies.js';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const MOVIES_DATA_FILE = path.join(__dirname, '../lib/data/movies/upcoming.json');
+const mockMovieData = {
+  generatedAt: "2026-07-01T22:29:06.608Z",
+  movies: [
+    {
+      id: "tt123",
+      title: "Test Spider Movie",
+      releaseDate: "2026-07-10",
+      label: "Jul 10, 2026",
+      genres: ["Action", "Animation"],
+      people: ["Director Name", "Actor Name"],
+      image: "http://example.com/img.jpg"
+    },
+    {
+      id: "tt456",
+      title: "Another Movie",
+      releaseDate: "2026-08-15",
+      label: "Aug 15, 2026",
+      genres: ["Drama"],
+      people: ["Some Director"],
+      image: "http://example.com/img2.jpg"
+    }
+  ]
+};
 
-test('searchMovieSuggestions returns movie results', async () => {
+const mockFs = {
+  readFile: async () => JSON.stringify(mockMovieData)
+};
+
+test('searchMovieSuggestions returns movie results from fixture', async () => {
   const query = 'Spider';
-  const results = await searchMovieSuggestions({ query });
+  const results = await searchMovieSuggestions({ query, fsImpl: mockFs });
 
   assert.ok(Array.isArray(results));
-  assert.ok(results.length > 0);
-  assert.ok(results.every(r => r.name.toLowerCase().includes('spider') || r.genres.some(g => g.toLowerCase().includes('spider')) || r.people.some(p => p.toLowerCase().includes('spider'))));
+  assert.strictEqual(results.length, 1);
+  assert.strictEqual(results[0].name, "Test Spider Movie");
 });
 
-test('getMovies returns filtered results', async () => {
+test('getMovies returns filtered results from fixture', async () => {
   const query = 'Animation';
-  const result = await getMovies({ type: 'genre', query });
+  const result = await getMovies({ type: 'genre', query, fsImpl: mockFs });
 
   assert.strictEqual(result.query, 'Animation');
   assert.strictEqual(result.type, 'genre');
-  assert.ok(result.movies.length > 0);
-  assert.ok(result.movies.every(m => m.genres.some(g => g.toLowerCase().includes('animation'))));
+  assert.strictEqual(result.movies.length, 1);
+  assert.strictEqual(result.movies[0].title, "Test Spider Movie");
 });
 
-test('toIcs creates ICS for movies', async () => {
-  const result = await getMovies({ query: 'Spider' });
+test('toIcs creates ICS for movies from fixture', async () => {
+  const result = await getMovies({ query: 'Spider', fsImpl: mockFs });
   const ics = toIcs(result);
 
   assert.ok(ics.includes('BEGIN:VCALENDAR'));
   assert.ok(ics.includes('BEGIN:VEVENT'));
-  assert.ok(ics.includes('SUMMARY:'));
-  assert.ok(ics.includes('(Movie Release)'));
+  assert.ok(ics.includes('SUMMARY:Test Spider Movie (Movie Release)'));
+  assert.ok(ics.includes('DESCRIPTION:Movie: Test Spider Movie'));
 });

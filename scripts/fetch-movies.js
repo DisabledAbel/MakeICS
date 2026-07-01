@@ -26,7 +26,9 @@ async function main() {
     };
 
     await fs.mkdir(MOVIES_DATA_DIR, { recursive: true });
-    await fs.writeFile(OUTPUT_FILE, JSON.stringify(payload, null, 2));
+    const tempFile = `${OUTPUT_FILE}.tmp`;
+    await fs.writeFile(tempFile, JSON.stringify(payload, null, 2));
+    await fs.rename(tempFile, OUTPUT_FILE);
     console.log(`Saved movie data to ${OUTPUT_FILE}`);
 
   } catch (error) {

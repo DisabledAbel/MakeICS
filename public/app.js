@@ -101,7 +101,11 @@ function renderSuggestions(suggestions, type) {
   if (!suggestions.length) {
     const empty = document.createElement('div');
     empty.className = 'suggestion-empty';
-    empty.textContent = `No matching ${type === 'tv' ? 'shows' : 'teams'} found.`;
+    let label = 'results';
+    if (type === 'tv') label = 'shows';
+    else if (type === 'sports') label = 'teams';
+    else if (type === 'movies') label = 'movies';
+    empty.textContent = `No matching ${label} found.`;
     el.append(empty);
     showSuggestions(el, input);
     return;
