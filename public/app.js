@@ -411,14 +411,14 @@ function renderList(items, type, context, timezone = 'UTC') {
       metaEl.textContent = [
         item.season && item.number ? `S${String(item.season).padStart(2, '0')}E${String(item.number).padStart(2, '0')}` : '',
         item.runtime ? `${item.runtime} min` : '',
-        item.network
+        item.network ? `Watch on ${item.network}` : ''
       ].filter(Boolean).join(' · ');
       summaryEl.textContent = item.summary || 'No summary available.';
       link.href = item.url || context.tvmazeUrl;
     } else if (type === 'sports') {
       dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp, true, timezone);
       titleEl.textContent = item.name;
-      metaEl.textContent = [item.league, item.venue || 'TBD'].filter(Boolean).join(' · ');
+      metaEl.textContent = [item.league, item.venue || 'TBD', item.tvStation ? `Watch on ${item.tvStation}` : ''].filter(Boolean).join(' · ');
       summaryEl.textContent = item.status || '';
       link.remove();
     }

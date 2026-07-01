@@ -40,7 +40,8 @@ const SUPPLEMENTAL_CONFIGS = {
       home: 'home_display_name',
       away: 'away_display_name',
       venue: 'venue_full_name',
-      id: 'id'
+      id: 'id',
+      broadcast: 'broadcast'
     }
   },
   // NBA
@@ -51,7 +52,8 @@ const SUPPLEMENTAL_CONFIGS = {
       home: 'home_display_name',
       away: 'away_display_name',
       venue: 'venue_full_name',
-      id: 'id'
+      id: 'id',
+      broadcast: 'broadcast'
     }
   },
   // NFL
@@ -63,7 +65,8 @@ const SUPPLEMENTAL_CONFIGS = {
       home: 'home_team',
       away: 'away_team',
       venue: 'stadium',
-      id: 'game_id'
+      id: 'game_id',
+      broadcast: 'network'
     }
   },
   // NHL
@@ -75,7 +78,8 @@ const SUPPLEMENTAL_CONFIGS = {
       home: 'home_team_name',
       away: 'away_team_name',
       venue: 'venue',
-      id: 'game_id'
+      id: 'game_id',
+      broadcast: 'broadcast'
     }
   }
 };
@@ -225,6 +229,7 @@ async function fetchLeagueSupplementalCSV(league, teams) {
       const homeRaw = parts[indices.home];
       const awayRaw = parts[indices.away];
       const venue = indices.venue !== -1 ? parts[indices.venue] : null;
+      const broadcast = indices.broadcast !== -1 ? parts[indices.broadcast] : null;
       const eventId = indices.id !== -1 ? parts[indices.id] : `${i}`;
       const timeRaw = indices.time !== -1 ? parts[indices.time] : null;
 
@@ -272,6 +277,7 @@ async function fetchLeagueSupplementalCSV(league, teams) {
         strTimestamp,
         strLeague: league.name,
         strVenue: venue,
+        strTVStation: broadcast,
         strStatus: 'NS',
         source: 'sportsdataverse'
       };
