@@ -1,7 +1,7 @@
 {
   "teamId": "142028",
   "teamName": "Worcester Red Sox",
-  "updatedAt": "2026-06-30T15:09:12.113Z",
+  "updatedAt": "2026-07-01T05:19:39.605Z",
   "events": [
     {
       "idEvent": "scraped-815556",
@@ -14,6 +14,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -27,6 +28,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -40,6 +42,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -53,6 +56,7 @@
       "strLeague": "International League",
       "strVenue": "CHS Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -66,6 +70,7 @@
       "strLeague": "International League",
       "strVenue": "CHS Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -79,6 +84,7 @@
       "strLeague": "International League",
       "strVenue": "CHS Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -92,6 +98,7 @@
       "strLeague": "International League",
       "strVenue": "CHS Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -105,6 +112,7 @@
       "strLeague": "International League",
       "strVenue": "CHS Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -118,6 +126,7 @@
       "strLeague": "International League",
       "strVenue": "CHS Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -131,6 +140,7 @@
       "strLeague": "International League",
       "strVenue": "CHS Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -144,6 +154,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -157,6 +168,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -170,6 +182,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -183,6 +196,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -196,6 +210,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -209,6 +224,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -222,6 +238,7 @@
       "strLeague": "International League",
       "strVenue": "First Horizon Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -235,6 +252,7 @@
       "strLeague": "International League",
       "strVenue": "First Horizon Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -248,6 +266,7 @@
       "strLeague": "International League",
       "strVenue": "First Horizon Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -261,6 +280,7 @@
       "strLeague": "International League",
       "strVenue": "First Horizon Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -274,6 +294,7 @@
       "strLeague": "International League",
       "strVenue": "First Horizon Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -287,6 +308,7 @@
       "strLeague": "International League",
       "strVenue": "First Horizon Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -300,6 +322,7 @@
       "strLeague": "International League",
       "strVenue": "First Horizon Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -313,6 +336,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -326,6 +350,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -339,6 +364,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -352,6 +378,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -365,6 +392,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -378,6 +406,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -391,6 +420,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -404,6 +434,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -417,6 +448,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -430,6 +462,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -443,6 +476,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -456,6 +490,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -469,6 +504,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -482,6 +518,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -495,6 +532,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -508,6 +546,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -521,6 +560,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -534,6 +574,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -547,6 +588,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -560,6 +602,7 @@
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -573,6 +616,7 @@
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -586,6 +630,7 @@
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -599,6 +644,7 @@
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -612,6 +658,7 @@
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -625,6 +672,7 @@
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -638,6 +686,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -651,6 +700,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -664,6 +714,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -677,6 +728,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -690,6 +742,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -703,6 +756,7 @@
       "strLeague": "International League",
       "strVenue": "PNC Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -716,6 +770,7 @@
       "strLeague": "International League",
       "strVenue": "PNC Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -729,6 +784,7 @@
       "strLeague": "International League",
       "strVenue": "PNC Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -742,6 +798,7 @@
       "strLeague": "International League",
       "strVenue": "PNC Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -755,6 +812,7 @@
       "strLeague": "International League",
       "strVenue": "PNC Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -768,6 +826,7 @@
       "strLeague": "International League",
       "strVenue": "PNC Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -781,6 +840,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -794,6 +854,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -807,6 +868,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -820,6 +882,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -833,6 +896,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -846,6 +910,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -859,6 +924,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -872,6 +938,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -885,6 +952,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -898,6 +966,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -911,6 +980,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -924,6 +994,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -937,6 +1008,7 @@
       "strLeague": "International League",
       "strVenue": "ESL Ballpark",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -950,6 +1022,7 @@
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -963,6 +1036,7 @@
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -976,6 +1050,7 @@
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -989,6 +1064,7 @@
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1002,6 +1078,7 @@
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1015,6 +1092,7 @@
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1028,6 +1106,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1041,6 +1120,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1054,6 +1134,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1067,6 +1148,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1080,6 +1162,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1093,6 +1176,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1106,6 +1190,7 @@
       "strLeague": "International League",
       "strVenue": "NBT Bank Stadium",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1119,6 +1204,7 @@
       "strLeague": "International League",
       "strVenue": "NBT Bank Stadium",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1132,6 +1218,7 @@
       "strLeague": "International League",
       "strVenue": "NBT Bank Stadium",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1145,6 +1232,7 @@
       "strLeague": "International League",
       "strVenue": "NBT Bank Stadium",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1158,6 +1246,7 @@
       "strLeague": "International League",
       "strVenue": "NBT Bank Stadium",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1171,6 +1260,7 @@
       "strLeague": "International League",
       "strVenue": "NBT Bank Stadium",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1184,6 +1274,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1197,6 +1288,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1210,6 +1302,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1223,6 +1316,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1236,6 +1330,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1249,6 +1344,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1262,6 +1358,7 @@
       "strLeague": "International League",
       "strVenue": "PNC Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1275,6 +1372,7 @@
       "strLeague": "International League",
       "strVenue": "PNC Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1288,6 +1386,7 @@
       "strLeague": "International League",
       "strVenue": "PNC Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1301,6 +1400,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1314,6 +1414,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1327,6 +1428,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1340,6 +1442,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1353,6 +1456,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1366,6 +1470,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1379,6 +1484,7 @@
       "strLeague": "International League",
       "strVenue": "Harbor Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1392,6 +1498,7 @@
       "strLeague": "International League",
       "strVenue": "Harbor Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1405,6 +1512,7 @@
       "strLeague": "International League",
       "strVenue": "Harbor Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1418,6 +1526,7 @@
       "strLeague": "International League",
       "strVenue": "Harbor Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1431,6 +1540,7 @@
       "strLeague": "International League",
       "strVenue": "Harbor Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1444,6 +1554,7 @@
       "strLeague": "International League",
       "strVenue": "Harbor Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1457,6 +1568,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1470,6 +1582,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1483,6 +1596,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1496,6 +1610,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1509,6 +1624,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1522,6 +1638,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1535,6 +1652,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1548,6 +1666,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1561,6 +1680,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1574,6 +1694,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1587,6 +1708,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1600,6 +1722,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1613,6 +1736,7 @@
       "strLeague": "International League",
       "strVenue": "NBT Bank Stadium",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1626,6 +1750,7 @@
       "strLeague": "International League",
       "strVenue": "NBT Bank Stadium",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1639,6 +1764,7 @@
       "strLeague": "International League",
       "strVenue": "NBT Bank Stadium",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1652,6 +1778,7 @@
       "strLeague": "International League",
       "strVenue": "NBT Bank Stadium",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1665,6 +1792,7 @@
       "strLeague": "International League",
       "strVenue": "NBT Bank Stadium",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1678,6 +1806,7 @@
       "strLeague": "International League",
       "strVenue": "NBT Bank Stadium",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1691,6 +1820,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1704,6 +1834,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1717,6 +1848,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1730,6 +1862,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1743,6 +1876,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1756,6 +1890,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1769,6 +1904,7 @@
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1782,6 +1918,7 @@
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1795,6 +1932,7 @@
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1808,6 +1946,7 @@
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1821,6 +1960,7 @@
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1834,6 +1974,7 @@
       "strLeague": "International League",
       "strVenue": "Sahlen Field",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1847,6 +1988,7 @@
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1860,6 +2002,7 @@
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1873,6 +2016,7 @@
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1886,6 +2030,7 @@
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1899,6 +2044,7 @@
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1912,6 +2058,7 @@
       "strLeague": "International League",
       "strVenue": "Coca-Cola Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1925,6 +2072,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1938,6 +2086,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1951,6 +2100,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1964,6 +2114,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1977,6 +2128,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -1990,6 +2142,7 @@
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     }
   ]
