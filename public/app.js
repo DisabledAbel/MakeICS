@@ -38,7 +38,8 @@ tabs.forEach(tab => {
       const input = field.querySelector('input');
       if (field.classList.contains(`${currentCategory}-only`)) {
         field.classList.add('active');
-        if (input) input.required = true;
+        // Movies can be fetched without a query to see all upcoming releases
+        if (input) input.required = (currentCategory !== 'movies');
       } else {
         if (input) input.required = false;
       }
