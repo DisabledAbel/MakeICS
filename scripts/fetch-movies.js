@@ -35,8 +35,15 @@ async function main() {
     console.error('Error fetching movies:', error);
     process.exitCode = 1;
   } finally {
-    await closeBrowser();
+    try {
+      await closeBrowser();
+    } catch (err) {
+      console.error('Error closing browser:', err);
+    }
   }
 }
 
-main();
+main().catch(err => {
+  console.error('Unhandled error in main:', err);
+  process.exit(1);
+});

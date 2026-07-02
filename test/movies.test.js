@@ -58,3 +58,44 @@ test('toIcs creates ICS for movies from fixture', async () => {
   assert.ok(ics.includes('SUMMARY:Test Spider Movie (Movie Release)'));
   assert.ok(ics.includes('DESCRIPTION:Movie: Test Spider Movie'));
 });
+
+test('getMovies handles people/character search', async () => {
+  const query = 'Actor Name';
+  const result = await getMovies({ type: 'people', query, fsImpl: mockFs });
+
+  assert.strictEqual(result.movies.length, 1);
+  assert.strictEqual(result.movies[0].title, "Test Spider Movie");
+});
+
+test('getMovies handles studio (keyword) search', async () => {
+  const query = 'Spider';
+  const result = await getMovies({ type: 'studio', query, fsImpl: mockFs });
+
+  assert.strictEqual(result.movies.length, 1);
+  assert.strictEqual(result.movies[0].title, "Test Spider Movie");
+});
+
+test('getMovies filters by since date', async () => {
+  const result = await getMovies({ since: '2026-08-01', fsImpl: mockFs });
+
+  assert.strictEqual(result.movies.length, 1);
+  assert.strictEqual(result.movies[0].title, "Another Movie");
+});
+
+test('searchMovieSuggestions returns unique genres when type is genre', async () => {
+  const results = await searchMovieSuggestions({ type: 'genre', query: 'Act', fsImpl: mockFs });
+
+  assert.strictEqual(results.length, 1);
+  assert.strictEqual(results[0].name, "Action");
+  assert.strictEqual(results[0].category, "Genre");
+});
+
+test('searchMovieSuggestions returns unique people when type is people', async () => {
+  const results = await searchMovieSuggestions({ type: 'people', query: 'Direct', fsImpl: mockFs });
+
+  // Both "Director Name" and "Some Director" match "Direct"
+  assert.strictEqual(results.length, 2);
+  assert.strictEqual(results[0].name, "Director Name");
+  assert.strictEqual(results[0].category, "Person");
+  assert.strictEqual(results[1].name, "Some Director");
+});
