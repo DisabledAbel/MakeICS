@@ -11,7 +11,7 @@ const mockMovieData = {
       releaseDate: "2026-07-10",
       label: "Jul 10, 2026",
       genres: ["Action", "Animation"],
-      people: ["Director Name", "Actor Name"],
+      people: [{ id: "nm1", name: "Director Name" }, { id: "nm2", name: "Actor Name" }],
       image: "http://example.com/img.jpg"
     },
     {
@@ -20,7 +20,7 @@ const mockMovieData = {
       releaseDate: "2026-08-15",
       label: "Aug 15, 2026",
       genres: ["Drama"],
-      people: ["Some Director"],
+      people: [{ id: "nm3", name: "Some Director" }],
       image: "http://example.com/img2.jpg"
     }
   ]

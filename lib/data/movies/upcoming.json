@@ -1,24 +1,6 @@
 {
-  "generatedAt": "2026-07-01T22:29:06.608Z",
+  "generatedAt": "2026-07-02T01:12:19.127Z",
   "movies": [
-    {
-      "id": "tt32890033",
-      "title": "Minions & Monsters",
-      "image": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Wed, 01 Jul 2026 00:00:00 GMT",
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-      ],
-      "people": [
-        "Pierre Coffin",
-        "Trey Parker",
-        "Allison Janney",
-        "George Lucas"
-      ],
-      "label": "Jul 01, 2026"
-    },
     {
       "id": "tt32104007",
       "title": "Young Washington",
@@ -30,10 +12,22 @@
         "Biography"
       ],
       "people": [
-        "Andy Serkis",
-        "Ben Kingsley",
-        "Mary-Louise Parker",
-        "Kelsey Grammer"
+        {
+          "id": "nm0785227",
+          "name": "Andy Serkis"
+        },
+        {
+          "id": "nm0001426",
+          "name": "Ben Kingsley"
+        },
+        {
+          "id": "nm0000571",
+          "name": "Mary-Louise Parker"
+        },
+        {
+          "id": "nm0001288",
+          "name": "Kelsey Grammer"
+        }
       ],
       "label": "Jul 03, 2026"
     },
@@ -48,10 +42,22 @@
         "Thriller"
       ],
       "people": [
-        "Alia Bhatt",
-        "Sharvari",
-        "Anil Kapoor",
-        "Bobby Deol"
+        {
+          "id": "nm1017633",
+          "name": "Alia Bhatt"
+        },
+        {
+          "id": "nm10806242",
+          "name": "Sharvari"
+        },
+        {
+          "id": "nm0438463",
+          "name": "Anil Kapoor"
+        },
+        {
+          "id": "nm0219967",
+          "name": "Bobby Deol"
+        }
       ],
       "label": "Jul 03, 2026"
     },
@@ -66,10 +72,22 @@
         "Drama"
       ],
       "people": [
-        "Virat Karrna",
-        "Nabha Natesh",
-        "Iswarya Menon",
-        "John Kokken"
+        {
+          "id": "nm14913536",
+          "name": "Virat Karrna"
+        },
+        {
+          "id": "nm7387710",
+          "name": "Nabha Natesh"
+        },
+        {
+          "id": "nm5719512",
+          "name": "Iswarya Menon"
+        },
+        {
+          "id": "nm4071279",
+          "name": "John Kokken"
+        }
       ],
       "label": "Jul 03, 2026"
     },
@@ -84,10 +102,22 @@
         "Romance"
       ],
       "people": [
-        "Seth Rogen",
-        "Olivia Wilde",
-        "Penélope Cruz",
-        "Edward Norton"
+        {
+          "id": "nm0736622",
+          "name": "Seth Rogen"
+        },
+        {
+          "id": "nm1312575",
+          "name": "Olivia Wilde"
+        },
+        {
+          "id": "nm0004851",
+          "name": "Penélope Cruz"
+        },
+        {
+          "id": "nm0001570",
+          "name": "Edward Norton"
+        }
       ],
       "label": "Jul 10, 2026"
     },
@@ -102,10 +132,22 @@
         "Comedy"
       ],
       "people": [
-        "Catherine Laga'aia",
-        "Dwayne Johnson",
-        "John Tui",
-        "Frankie Adams"
+        {
+          "id": "nm15077498",
+          "name": "Catherine Laga'aia"
+        },
+        {
+          "id": "nm0425005",
+          "name": "Dwayne Johnson"
+        },
+        {
+          "id": "nm1732270",
+          "name": "John Tui"
+        },
+        {
+          "id": "nm4213877",
+          "name": "Frankie Adams"
+        }
       ],
       "label": "Jul 10, 2026"
     },
@@ -120,10 +162,22 @@
         "Mystery"
       ],
       "people": [
-        "Hunter Doohan",
-        "Luciane Buchanan",
-        "Souheila Yacoub",
-        "Erroll Shand"
+        {
+          "id": "nm5547023",
+          "name": "Hunter Doohan"
+        },
+        {
+          "id": "nm4578161",
+          "name": "Luciane Buchanan"
+        },
+        {
+          "id": "nm9113893",
+          "name": "Souheila Yacoub"
+        },
+        {
+          "id": "nm1478922",
+          "name": "Erroll Shand"
+        }
       ],
       "label": "Jul 10, 2026"
     },
@@ -136,10 +190,22 @@
         "Comedy"
       ],
       "people": [
-        "Zoey Deutch",
-        "Jon Hamm",
-        "Kerri Kenney",
-        "Richard Kind"
+        {
+          "id": "nm3614913",
+          "name": "Zoey Deutch"
+        },
+        {
+          "id": "nm0358316",
+          "name": "Jon Hamm"
+        },
+        {
+          "id": "nm0448486",
+          "name": "Kerri Kenney"
+        },
+        {
+          "id": "nm0454236",
+          "name": "Richard Kind"
+        }
       ],
       "label": "Jul 10, 2026"
     },
@@ -152,10 +218,22 @@
         "Thriller"
       ],
       "people": [
-        "Cemre Paksoy",
-        "Bruce McKenzie",
-        "Eleonore Hendricks",
-        "Colleen Rose Trundy"
+        {
+          "id": "nm9738414",
+          "name": "Cemre Paksoy"
+        },
+        {
+          "id": "nm0571492",
+          "name": "Bruce McKenzie"
+        },
+        {
+          "id": "nm0376720",
+          "name": "Eleonore Hendricks"
+        },
+        {
+          "id": "nm15563412",
+          "name": "Colleen Rose Trundy"
+        }
       ],
       "label": "Jul 10, 2026"
     },
@@ -168,7 +246,10 @@
         "Documentary"
       ],
       "people": [
-        "Gail Eastwood-Ritchey"
+        {
+          "id": "nm15119429",
+          "name": "Gail Eastwood-Ritchey"
+        }
       ],
       "label": "Jul 10, 2026"
     },
@@ -182,10 +263,22 @@
         "Drama"
       ],
       "people": [
-        "Golshifteh Farahani",
-        "Zar Amir Ebrahimi",
-        "Mina Kavani",
-        "Reza Diako"
+        {
+          "id": "nm0267042",
+          "name": "Golshifteh Farahani"
+        },
+        {
+          "id": "nm4399355",
+          "name": "Zar Amir Ebrahimi"
+        },
+        {
+          "id": "nm6877833",
+          "name": "Mina Kavani"
+        },
+        {
+          "id": "nm8509566",
+          "name": "Reza Diako"
+        }
       ],
       "label": "Jul 10, 2026"
     },
@@ -200,10 +293,22 @@
         "War"
       ],
       "people": [
-        "Ye Liu",
-        "Lei Wang",
-        "Bingkun Cao",
-        "Dong Jin"
+        {
+          "id": "nm1091782",
+          "name": "Ye Liu"
+        },
+        {
+          "id": "nm6875561",
+          "name": "Lei Wang"
+        },
+        {
+          "id": "nm3447142",
+          "name": "Bingkun Cao"
+        },
+        {
+          "id": "nm3288625",
+          "name": "Dong Jin"
+        }
       ],
       "label": "Jul 10, 2026"
     },
@@ -218,10 +323,22 @@
         "Fantasy"
       ],
       "people": [
-        "Matt Damon",
-        "Tom Holland",
-        "Anne Hathaway",
-        "Robert Pattinson"
+        {
+          "id": "nm0000354",
+          "name": "Matt Damon"
+        },
+        {
+          "id": "nm4043618",
+          "name": "Tom Holland"
+        },
+        {
+          "id": "nm0004266",
+          "name": "Anne Hathaway"
+        },
+        {
+          "id": "nm1500155",
+          "name": "Robert Pattinson"
+        }
       ],
       "label": "Jul 17, 2026"
     },
@@ -235,10 +352,22 @@
         "Drama"
       ],
       "people": [
-        "Gretchen Mol",
-        "Iqbal Theba",
-        "Lillian Carrier",
-        "Jerod Haynes"
+        {
+          "id": "nm0001543",
+          "name": "Gretchen Mol"
+        },
+        {
+          "id": "nm0857290",
+          "name": "Iqbal Theba"
+        },
+        {
+          "id": "nm10863258",
+          "name": "Lillian Carrier"
+        },
+        {
+          "id": "nm5452659",
+          "name": "Jerod Haynes"
+        }
       ],
       "label": "Jul 17, 2026"
     },
@@ -251,7 +380,10 @@
         "Sci-Fi"
       ],
       "people": [
-        "Sreehari"
+        {
+          "id": "nm3440681",
+          "name": "Sreehari"
+        }
       ],
       "label": "Jul 17, 2026"
     },
@@ -265,10 +397,22 @@
         "Family"
       ],
       "people": [
-        "Matt Cornett",
-        "Missi Pyle",
-        "Chris Klein",
-        "Richard T. Jones"
+        {
+          "id": "nm5486990",
+          "name": "Matt Cornett"
+        },
+        {
+          "id": "nm0701512",
+          "name": "Missi Pyle"
+        },
+        {
+          "id": "nm0005098",
+          "name": "Chris Klein"
+        },
+        {
+          "id": "nm0429114",
+          "name": "Richard T. Jones"
+        }
       ],
       "label": "Jul 23, 2026"
     },
@@ -281,10 +425,22 @@
         "Music"
       ],
       "people": [
-        "Paul Dano",
-        "Gaby Hoffmann",
-        "Ben Mendelsohn",
-        "Tig Notaro"
+        {
+          "id": "nm0200452",
+          "name": "Paul Dano"
+        },
+        {
+          "id": "nm0000451",
+          "name": "Gaby Hoffmann"
+        },
+        {
+          "id": "nm0578853",
+          "name": "Ben Mendelsohn"
+        },
+        {
+          "id": "nm0449299",
+          "name": "Tig Notaro"
+        }
       ],
       "label": "Jul 23, 2026"
     },
@@ -299,10 +455,22 @@
         "Drama"
       ],
       "people": [
-        "Alan Ritchson",
-        "Ben Foster",
-        "Shailene Woodley",
-        "Lionel Boyce"
+        {
+          "id": "nm2024927",
+          "name": "Alan Ritchson"
+        },
+        {
+          "id": "nm0004936",
+          "name": "Ben Foster"
+        },
+        {
+          "id": "nm0940362",
+          "name": "Shailene Woodley"
+        },
+        {
+          "id": "nm5152633",
+          "name": "Lionel Boyce"
+        }
       ],
       "label": "Jul 24, 2026"
     },
@@ -317,10 +485,22 @@
         "Thriller"
       ],
       "people": [
-        "Richard Brake",
-        "Robert Englund",
-        "Cameron Bell",
-        "Jessica Balmer"
+        {
+          "id": "nm0104114",
+          "name": "Richard Brake"
+        },
+        {
+          "id": "nm0000387",
+          "name": "Robert Englund"
+        },
+        {
+          "id": "nm13591091",
+          "name": "Cameron Bell"
+        },
+        {
+          "id": "nm8588724",
+          "name": "Jessica Balmer"
+        }
       ],
       "label": "Jul 24, 2026"
     },
@@ -335,10 +515,22 @@
         "Horror"
       ],
       "people": [
-        "Havana Rose Liu",
-        "Sophie Thatcher",
-        "Charles Melton",
-        "Dougray Scott"
+        {
+          "id": "nm10023988",
+          "name": "Havana Rose Liu"
+        },
+        {
+          "id": "nm7393303",
+          "name": "Sophie Thatcher"
+        },
+        {
+          "id": "nm6217576",
+          "name": "Charles Melton"
+        },
+        {
+          "id": "nm0779084",
+          "name": "Dougray Scott"
+        }
       ],
       "label": "Jul 24, 2026"
     },
@@ -352,10 +544,22 @@
         "Thriller"
       ],
       "people": [
-        "Mavournee Hazel",
-        "Iolanthe",
-        "Glenda Kalyk",
-        "Ana Benham"
+        {
+          "id": "nm6619957",
+          "name": "Mavournee Hazel"
+        },
+        {
+          "id": "nm16550964",
+          "name": "Iolanthe"
+        },
+        {
+          "id": "nm16544569",
+          "name": "Glenda Kalyk"
+        },
+        {
+          "id": "nm15127109",
+          "name": "Ana Benham"
+        }
       ],
       "label": "Jul 24, 2026"
     },
@@ -369,10 +573,22 @@
         "Musical"
       ],
       "people": [
-        "Reeve Carney",
-        "Eva Noblezada",
-        "Patrick Page",
-        "André De Shields"
+        {
+          "id": "nm0138840",
+          "name": "Reeve Carney"
+        },
+        {
+          "id": "nm8405300",
+          "name": "Eva Noblezada"
+        },
+        {
+          "id": "nm0656300",
+          "name": "Patrick Page"
+        },
+        {
+          "id": "nm0211559",
+          "name": "André De Shields"
+        }
       ],
       "label": "Jul 24, 2026"
     },
@@ -387,10 +603,52 @@
         "History"
       ],
       "people": [
-        "Marta Aguilar",
-        "Ramin Arani",
-        "Lorenzo Bachiorri",
-        "Cardinale Gualtiero Bassetti"
+        {
+          "id": "nm8094855",
+          "name": "Marta Aguilar"
+        },
+        {
+          "id": "nm17870945",
+          "name": "Ramin Arani"
+        },
+        {
+          "id": "nm17862898",
+          "name": "Lorenzo Bachiorri"
+        },
+        {
+          "id": "nm17870891",
+          "name": "Cardinale Gualtiero Bassetti"
+        }
+      ],
+      "label": "Jul 24, 2026"
+    },
+    {
+      "id": "tt34890565",
+      "title": "Haunted Heist",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjgyNzFjODEtYTE0MC00ZWQ0LTg4NWMtZTU3Nzc2MWY5YWFhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 24 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Mystery"
+      ],
+      "people": [
+        {
+          "id": "nm12466313",
+          "name": "Stephen Blackwell"
+        },
+        {
+          "id": "nm1840504",
+          "name": "Tiffany Haddish"
+        },
+        {
+          "id": "nm1443368",
+          "name": "Brett Gelman"
+        },
+        {
+          "id": "nm2577076",
+          "name": "Lil Rel Howery"
+        }
       ],
       "label": "Jul 24, 2026"
     },
@@ -403,8 +661,14 @@
         "Documentary"
       ],
       "people": [
-        "George Michael",
-        "Andrew Ridgeley"
+        {
+          "id": "nm0584117",
+          "name": "George Michael"
+        },
+        {
+          "id": "nm1001770",
+          "name": "Andrew Ridgeley"
+        }
       ],
       "label": "Jul 28, 2026"
     },
@@ -419,10 +683,22 @@
         "Fantasy"
       ],
       "people": [
-        "Tom Holland",
-        "Zendaya",
-        "Sadie Sink",
-        "Jacob Batalon"
+        {
+          "id": "nm4043618",
+          "name": "Tom Holland"
+        },
+        {
+          "id": "nm3918035",
+          "name": "Zendaya"
+        },
+        {
+          "id": "nm5584750",
+          "name": "Sadie Sink"
+        },
+        {
+          "id": "nm8188622",
+          "name": "Jacob Batalon"
+        }
       ],
       "label": "Jul 31, 2026"
     },
@@ -437,10 +713,22 @@
         "Romance"
       ],
       "people": [
-        "Olivia Wilde",
-        "Johnny Knoxville",
-        "Daveed Diggs",
-        "Cooper Hoffman"
+        {
+          "id": "nm1312575",
+          "name": "Olivia Wilde"
+        },
+        {
+          "id": "nm0424216",
+          "name": "Johnny Knoxville"
+        },
+        {
+          "id": "nm4377526",
+          "name": "Daveed Diggs"
+        },
+        {
+          "id": "nm11866274",
+          "name": "Cooper Hoffman"
+        }
       ],
       "label": "Jul 31, 2026"
     },
@@ -453,10 +741,22 @@
         "Horror"
       ],
       "people": [
-        "KateLynn E. Newberry",
-        "Andrew Pierson",
-        "Coby Connell",
-        "John Potash"
+        {
+          "id": "nm6399460",
+          "name": "KateLynn E. Newberry"
+        },
+        {
+          "id": "nm16222350",
+          "name": "Andrew Pierson"
+        },
+        {
+          "id": "nm3295544",
+          "name": "Coby Connell"
+        },
+        {
+          "id": "nm9727235",
+          "name": "John Potash"
+        }
       ],
       "label": "Aug 01, 2026"
     },
@@ -470,7 +770,10 @@
         "Music"
       ],
       "people": [
-        "Ateez"
+        {
+          "id": "nm10974246",
+          "name": "Ateez"
+        }
       ],
       "label": "Aug 06, 2026"
     },
@@ -485,10 +788,22 @@
         "Romance"
       ],
       "people": [
-        "Callum Turner",
-        "Monica Barbaro",
-        "Maya Hawke",
-        "Molly Ringwald"
+        {
+          "id": "nm4360085",
+          "name": "Callum Turner"
+        },
+        {
+          "id": "nm4834815",
+          "name": "Monica Barbaro"
+        },
+        {
+          "id": "nm1638321",
+          "name": "Maya Hawke"
+        },
+        {
+          "id": "nm0000208",
+          "name": "Molly Ringwald"
+        }
       ],
       "label": "Aug 07, 2026"
     },
@@ -502,10 +817,22 @@
         "Thriller"
       ],
       "people": [
-        "Eli Roth",
-        "Darrin Baker",
-        "Ari Millen",
-        "Benjamin Byron Davis"
+        {
+          "id": "nm0744834",
+          "name": "Eli Roth"
+        },
+        {
+          "id": "nm0048370",
+          "name": "Darrin Baker"
+        },
+        {
+          "id": "nm2826395",
+          "name": "Ari Millen"
+        },
+        {
+          "id": "nm1177880",
+          "name": "Benjamin Byron Davis"
+        }
       ],
       "label": "Aug 07, 2026"
     },
@@ -520,10 +847,22 @@
         "Mystery"
       ],
       "people": [
-        "Brian Cox",
-        "Lisa Gilroy",
-        "Chace Crawford",
-        "Hannah Simone"
+        {
+          "id": "nm0004051",
+          "name": "Brian Cox"
+        },
+        {
+          "id": "nm7060757",
+          "name": "Lisa Gilroy"
+        },
+        {
+          "id": "nm2003700",
+          "name": "Chace Crawford"
+        },
+        {
+          "id": "nm1924196",
+          "name": "Hannah Simone"
+        }
       ],
       "label": "Aug 07, 2026"
     },
@@ -537,10 +876,22 @@
         "Drama"
       ],
       "people": [
-        "Greta Lee",
-        "Willem Dafoe",
-        "Jake Lacy",
-        "Clark Johnson"
+        {
+          "id": "nm2336966",
+          "name": "Greta Lee"
+        },
+        {
+          "id": "nm0000353",
+          "name": "Willem Dafoe"
+        },
+        {
+          "id": "nm3821405",
+          "name": "Jake Lacy"
+        },
+        {
+          "id": "nm0424800",
+          "name": "Clark Johnson"
+        }
       ],
       "label": "Aug 07, 2026"
     },
@@ -555,10 +906,22 @@
         "Romance"
       ],
       "people": [
-        "Nina Meurisse",
-        "Laurence Roothooft",
-        "Rosalia Cuevas",
-        "Peter Seynaeve"
+        {
+          "id": "nm0582889",
+          "name": "Nina Meurisse"
+        },
+        {
+          "id": "nm4262803",
+          "name": "Laurence Roothooft"
+        },
+        {
+          "id": "nm1943625",
+          "name": "Rosalia Cuevas"
+        },
+        {
+          "id": "nm0786742",
+          "name": "Peter Seynaeve"
+        }
       ],
       "label": "Aug 07, 2026"
     },
@@ -572,10 +935,22 @@
         "Drama"
       ],
       "people": [
-        "Aivan Uttapa",
-        "Melanie Frometa",
-        "Rosa Armendariz",
-        "Gustavo Sánchez Parra"
+        {
+          "id": "nm12777793",
+          "name": "Aivan Uttapa"
+        },
+        {
+          "id": "nm10831551",
+          "name": "Melanie Frometa"
+        },
+        {
+          "id": "nm6907992",
+          "name": "Rosa Armendariz"
+        },
+        {
+          "id": "nm0844761",
+          "name": "Gustavo Sánchez Parra"
+        }
       ],
       "label": "Aug 07, 2026"
     },
@@ -590,10 +965,22 @@
         "Mystery"
       ],
       "people": [
-        "Anne Hathaway",
-        "Ewan McGregor",
-        "Pilot Bunch",
-        "Maisy Stella"
+        {
+          "id": "nm0004266",
+          "name": "Anne Hathaway"
+        },
+        {
+          "id": "nm0000191",
+          "name": "Ewan McGregor"
+        },
+        {
+          "id": "nm11070581",
+          "name": "Pilot Bunch"
+        },
+        {
+          "id": "nm5204873",
+          "name": "Maisy Stella"
+        }
       ],
       "label": "Aug 14, 2026"
     },
@@ -608,10 +995,22 @@
         "Adventure"
       ],
       "people": [
-        "Mckenna Grace",
-        "Terry Crews",
-        "Fortune Feimster",
-        "Jameela Jamil"
+        {
+          "id": "nm5085683",
+          "name": "Mckenna Grace"
+        },
+        {
+          "id": "nm0187719",
+          "name": "Terry Crews"
+        },
+        {
+          "id": "nm3833084",
+          "name": "Fortune Feimster"
+        },
+        {
+          "id": "nm3553139",
+          "name": "Jameela Jamil"
+        }
       ],
       "label": "Aug 14, 2026"
     },
@@ -626,10 +1025,22 @@
         "Thriller"
       ],
       "people": [
-        "Jeff Daniels",
-        "Jared Harris",
-        "J.K. Simmons",
-        "Jón Jónsson"
+        {
+          "id": "nm0001099",
+          "name": "Jeff Daniels"
+        },
+        {
+          "id": "nm0364813",
+          "name": "Jared Harris"
+        },
+        {
+          "id": "nm0799777",
+          "name": "J.K. Simmons"
+        },
+        {
+          "id": "nm13187224",
+          "name": "Jón Jónsson"
+        }
       ],
       "label": "Aug 14, 2026"
     },
@@ -644,10 +1055,22 @@
         "Music"
       ],
       "people": [
-        "Mckenna Grace",
-        "Mason Thames",
-        "Angela Kinsey",
-        "Jenna Fischer"
+        {
+          "id": "nm5085683",
+          "name": "Mckenna Grace"
+        },
+        {
+          "id": "nm9296746",
+          "name": "Mason Thames"
+        },
+        {
+          "id": "nm1526554",
+          "name": "Angela Kinsey"
+        },
+        {
+          "id": "nm0278979",
+          "name": "Jenna Fischer"
+        }
       ],
       "label": "Aug 14, 2026"
     },
@@ -660,10 +1083,22 @@
         "Musical"
       ],
       "people": [
-        "Aimie Atkinson",
-        "Alexia McIntosh",
-        "Millie O’Connell",
-        "Natalie Paris"
+        {
+          "id": "nm16085081",
+          "name": "Aimie Atkinson"
+        },
+        {
+          "id": "nm10828545",
+          "name": "Alexia McIntosh"
+        },
+        {
+          "id": "nm15569215",
+          "name": "Millie O’Connell"
+        },
+        {
+          "id": "nm10828544",
+          "name": "Natalie Paris"
+        }
       ],
       "label": "Aug 14, 2026"
     },
@@ -676,10 +1111,22 @@
         "Drama"
       ],
       "people": [
-        "Will Poulter",
-        "Kevin P. Braig",
-        "Annette Deao",
-        "Danny Wolohan"
+        {
+          "id": "nm2401020",
+          "name": "Will Poulter"
+        },
+        {
+          "id": "nm18150141",
+          "name": "Kevin P. Braig"
+        },
+        {
+          "id": "nm11368380",
+          "name": "Annette Deao"
+        },
+        {
+          "id": "nm1689159",
+          "name": "Danny Wolohan"
+        }
       ],
       "label": "Aug 14, 2026"
     },
@@ -694,10 +1141,22 @@
         "Romance"
       ],
       "people": [
-        "Emraan Hashmi",
-        "Salil Acharya",
-        "Shabana Azmi",
-        "Vijayant Kohli"
+        {
+          "id": "nm1431656",
+          "name": "Emraan Hashmi"
+        },
+        {
+          "id": "nm3269803",
+          "name": "Salil Acharya"
+        },
+        {
+          "id": "nm0000818",
+          "name": "Shabana Azmi"
+        },
+        {
+          "id": "nm5719506",
+          "name": "Vijayant Kohli"
+        }
       ],
       "label": "Aug 14, 2026"
     },
@@ -712,10 +1171,22 @@
         "Drama"
       ],
       "people": [
-        "Shandra Apondi",
-        "Abraham Joseph",
-        "Ibrahim Joseph",
-        "Samson Waithaka"
+        {
+          "id": "nm14651572",
+          "name": "Shandra Apondi"
+        },
+        {
+          "id": "nm17516361",
+          "name": "Abraham Joseph"
+        },
+        {
+          "id": "nm17657626",
+          "name": "Ibrahim Joseph"
+        },
+        {
+          "id": "nm17516360",
+          "name": "Samson Waithaka"
+        }
       ],
       "label": "Aug 14, 2026"
     },
@@ -730,10 +1201,22 @@
         "Fantasy"
       ],
       "people": [
-        "Nonso Anozie",
-        "Sonny Meo",
-        "Andrew Garfield",
-        "Claire Foy"
+        {
+          "id": "nm1996829",
+          "name": "Nonso Anozie"
+        },
+        {
+          "id": "nm13069458",
+          "name": "Sonny Meo"
+        },
+        {
+          "id": "nm1940449",
+          "name": "Andrew Garfield"
+        },
+        {
+          "id": "nm2946516",
+          "name": "Claire Foy"
+        }
       ],
       "label": "Aug 21, 2026"
     },
@@ -748,10 +1231,22 @@
         "Thriller"
       ],
       "people": [
-        "Jason Statham",
-        "Annabelle Wallis",
-        "Adrian Lester",
-        "Arnas Fedaravicius"
+        {
+          "id": "nm0005458",
+          "name": "Jason Statham"
+        },
+        {
+          "id": "nm1834115",
+          "name": "Annabelle Wallis"
+        },
+        {
+          "id": "nm0504412",
+          "name": "Adrian Lester"
+        },
+        {
+          "id": "nm4538500",
+          "name": "Arnas Fedaravicius"
+        }
       ],
       "label": "Aug 21, 2026"
     },
@@ -766,10 +1261,22 @@
         "Thriller"
       ],
       "people": [
-        "Lin Shaye",
-        "Sam Spruell",
-        "Brandon Perea",
-        "Maisie Richardson-Sellers"
+        {
+          "id": "nm0005417",
+          "name": "Lin Shaye"
+        },
+        {
+          "id": "nm0819874",
+          "name": "Sam Spruell"
+        },
+        {
+          "id": "nm5155952",
+          "name": "Brandon Perea"
+        },
+        {
+          "id": "nm5114966",
+          "name": "Maisie Richardson-Sellers"
+        }
       ],
       "label": "Aug 21, 2026"
     },
@@ -784,10 +1291,22 @@
         "Fantasy"
       ],
       "people": [
-        "Andrzej Konopka",
-        "Noomi Rapace",
-        "Reika Kirishima",
-        "George Aurimas Cris"
+        {
+          "id": "nm1293137",
+          "name": "Andrzej Konopka"
+        },
+        {
+          "id": "nm0636426",
+          "name": "Noomi Rapace"
+        },
+        {
+          "id": "nm1929776",
+          "name": "Reika Kirishima"
+        },
+        {
+          "id": "nm17718889",
+          "name": "George Aurimas Cris"
+        }
       ],
       "label": "Aug 21, 2026"
     },
@@ -800,10 +1319,22 @@
         "Comedy"
       ],
       "people": [
-        "Anna Faris",
-        "Isla Fisher",
-        "Leslie Mann",
-        "Adam Demos"
+        {
+          "id": "nm0267506",
+          "name": "Anna Faris"
+        },
+        {
+          "id": "nm0279545",
+          "name": "Isla Fisher"
+        },
+        {
+          "id": "nm0005182",
+          "name": "Leslie Mann"
+        },
+        {
+          "id": "nm3699960",
+          "name": "Adam Demos"
+        }
       ],
       "label": "Aug 21, 2026"
     },
@@ -818,10 +1349,22 @@
         "Horror"
       ],
       "people": [
-        "Mitchell Cole",
-        "Akira Jackson",
-        "Noah Toth",
-        "Phinehas Yoon"
+        {
+          "id": "nm10619411",
+          "name": "Mitchell Cole"
+        },
+        {
+          "id": "nm7834988",
+          "name": "Akira Jackson"
+        },
+        {
+          "id": "nm9888013",
+          "name": "Noah Toth"
+        },
+        {
+          "id": "nm6494938",
+          "name": "Phinehas Yoon"
+        }
       ],
       "label": "Aug 21, 2026"
     },
@@ -836,10 +1379,22 @@
         "Music"
       ],
       "people": [
-        "Benjamin Lavernhe",
-        "Pierre Lottin",
-        "Sarah Suco",
-        "Jacques Bonnaffé"
+        {
+          "id": "nm3118835",
+          "name": "Benjamin Lavernhe"
+        },
+        {
+          "id": "nm4544506",
+          "name": "Pierre Lottin"
+        },
+        {
+          "id": "nm3939436",
+          "name": "Sarah Suco"
+        },
+        {
+          "id": "nm0094782",
+          "name": "Jacques Bonnaffé"
+        }
       ],
       "label": "Aug 21, 2026"
     },
@@ -853,10 +1408,22 @@
         "Biography"
       ],
       "people": [
-        "Reed Timmer",
-        "Edgar O'Neal",
-        "Connor McCrorey",
-        "Mike Scantlin"
+        {
+          "id": "nm1665478",
+          "name": "Reed Timmer"
+        },
+        {
+          "id": "nm16818162",
+          "name": "Edgar O'Neal"
+        },
+        {
+          "id": "nm6477017",
+          "name": "Connor McCrorey"
+        },
+        {
+          "id": "nm5704035",
+          "name": "Mike Scantlin"
+        }
       ],
       "label": "Aug 21, 2026"
     },
@@ -871,10 +1438,22 @@
         "Drama"
       ],
       "people": [
-        "Yash",
-        "Nayanthara",
-        "Kiara Advani",
-        "Huma Qureshi"
+        {
+          "id": "nm5232139",
+          "name": "Yash"
+        },
+        {
+          "id": "nm1521381",
+          "name": "Nayanthara"
+        },
+        {
+          "id": "nm6442009",
+          "name": "Kiara Advani"
+        },
+        {
+          "id": "nm4806622",
+          "name": "Huma Qureshi"
+        }
       ],
       "label": "Aug 26, 2026"
     },
@@ -889,10 +1468,22 @@
         "Drama"
       ],
       "people": [
-        "Margaret Qualley",
-        "Jacob Elordi",
-        "Josh Brolin",
-        "Allison Janney"
+        {
+          "id": "nm4960279",
+          "name": "Margaret Qualley"
+        },
+        {
+          "id": "nm8624059",
+          "name": "Jacob Elordi"
+        },
+        {
+          "id": "nm0000982",
+          "name": "Josh Brolin"
+        },
+        {
+          "id": "nm0005049",
+          "name": "Allison Janney"
+        }
       ],
       "label": "Aug 28, 2026"
     },
@@ -907,10 +1498,22 @@
         "Comedy"
       ],
       "people": [
-        "John Cena",
-        "Lana Condor",
-        "Will Forte",
-        "P.J. Byrne"
+        {
+          "id": "nm1078479",
+          "name": "John Cena"
+        },
+        {
+          "id": "nm7093076",
+          "name": "Lana Condor"
+        },
+        {
+          "id": "nm0287182",
+          "name": "Will Forte"
+        },
+        {
+          "id": "nm0126260",
+          "name": "P.J. Byrne"
+        }
       ],
       "label": "Aug 28, 2026"
     },
@@ -925,10 +1528,22 @@
         "Thriller"
       ],
       "people": [
-        "Pierce Brosnan",
-        "Lily James",
-        "Nell Tiger Free",
-        "Franz Rogowski"
+        {
+          "id": "nm0000112",
+          "name": "Pierce Brosnan"
+        },
+        {
+          "id": "nm4141252",
+          "name": "Lily James"
+        },
+        {
+          "id": "nm4836100",
+          "name": "Nell Tiger Free"
+        },
+        {
+          "id": "nm4453291",
+          "name": "Franz Rogowski"
+        }
       ],
       "label": "Aug 28, 2026"
     },
@@ -942,10 +1557,22 @@
         "Crime"
       ],
       "people": [
-        "Dave Franco",
-        "O'Shea Jackson Jr.",
-        "Mason Thames",
-        "Killer Mike"
+        {
+          "id": "nm2002649",
+          "name": "Dave Franco"
+        },
+        {
+          "id": "nm6578009",
+          "name": "O'Shea Jackson Jr."
+        },
+        {
+          "id": "nm9296746",
+          "name": "Mason Thames"
+        },
+        {
+          "id": "nm1966128",
+          "name": "Killer Mike"
+        }
       ],
       "label": "Aug 28, 2026"
     },
@@ -960,10 +1587,22 @@
         "Fantasy"
       ],
       "people": [
-        "Jason David Frank",
-        "Aaron Schoenke",
-        "Orion Acaba",
-        "John Jeffrey Arias"
+        {
+          "id": "nm0290969",
+          "name": "Jason David Frank"
+        },
+        {
+          "id": "nm1575624",
+          "name": "Aaron Schoenke"
+        },
+        {
+          "id": "nm1039206",
+          "name": "Orion Acaba"
+        },
+        {
+          "id": "nm6975398",
+          "name": "John Jeffrey Arias"
+        }
       ],
       "label": "Aug 28, 2026"
     },
@@ -977,10 +1616,22 @@
         "Sci-Fi"
       ],
       "people": [
-        "Cristin Milioti",
-        "Delaney Quinn",
-        "Topher Grace",
-        "Caleb Williams"
+        {
+          "id": "nm2129662",
+          "name": "Cristin Milioti"
+        },
+        {
+          "id": "nm10334528",
+          "name": "Delaney Quinn"
+        },
+        {
+          "id": "nm0333410",
+          "name": "Topher Grace"
+        },
+        {
+          "id": "nm9712592",
+          "name": "Caleb Williams"
+        }
       ],
       "label": "Aug 28, 2026"
     },
@@ -995,10 +1646,22 @@
         "Thriller"
       ],
       "people": [
-        "Craig Fairbrass",
-        "Ross McCall",
-        "Vanessa Bauer",
-        "Gabriela Ferreira"
+        {
+          "id": "nm0265492",
+          "name": "Craig Fairbrass"
+        },
+        {
+          "id": "nm0564680",
+          "name": "Ross McCall"
+        },
+        {
+          "id": "nm9600310",
+          "name": "Vanessa Bauer"
+        },
+        {
+          "id": "nm16610307",
+          "name": "Gabriela Ferreira"
+        }
       ],
       "label": "Aug 28, 2026"
     },
@@ -1013,10 +1676,22 @@
         "Thriller"
       ],
       "people": [
-        "Virginia Gardner",
-        "Grace Caroline Currey",
-        "Tom Brittney",
-        "Adam Rose"
+        {
+          "id": "nm4722966",
+          "name": "Virginia Gardner"
+        },
+        {
+          "id": "nm1534201",
+          "name": "Grace Caroline Currey"
+        },
+        {
+          "id": "nm5938631",
+          "name": "Tom Brittney"
+        },
+        {
+          "id": "nm0741219",
+          "name": "Adam Rose"
+        }
       ],
       "label": "Sep 02, 2026"
     },
@@ -1031,10 +1706,22 @@
         "Crime"
       ],
       "people": [
-        "Nicholas Hoult",
-        "Christian Slater",
-        "Zoë Kravitz",
-        "Tati Gabrielle"
+        {
+          "id": "nm0396558",
+          "name": "Nicholas Hoult"
+        },
+        {
+          "id": "nm0000225",
+          "name": "Christian Slater"
+        },
+        {
+          "id": "nm2368789",
+          "name": "Zoë Kravitz"
+        },
+        {
+          "id": "nm6616259",
+          "name": "Tati Gabrielle"
+        }
       ],
       "label": "Sep 04, 2026"
     },
@@ -1049,10 +1736,22 @@
         "Thriller"
       ],
       "people": [
-        "Yahya Abdul-Mateen II",
-        "Mark Wahlberg",
-        "Nicole Beharie",
-        "Josh Lucas"
+        {
+          "id": "nm5584344",
+          "name": "Yahya Abdul-Mateen II"
+        },
+        {
+          "id": "nm0000242",
+          "name": "Mark Wahlberg"
+        },
+        {
+          "id": "nm2718512",
+          "name": "Nicole Beharie"
+        },
+        {
+          "id": "nm0524197",
+          "name": "Josh Lucas"
+        }
       ],
       "label": "Sep 04, 2026"
     },
@@ -1067,10 +1766,22 @@
         "Thriller"
       ],
       "people": [
-        "Adria Arjona",
-        "Dan Stevens",
-        "Rebecca Hall",
-        "Michael Biehn"
+        {
+          "id": "nm5245722",
+          "name": "Adria Arjona"
+        },
+        {
+          "id": "nm1405398",
+          "name": "Dan Stevens"
+        },
+        {
+          "id": "nm0356017",
+          "name": "Rebecca Hall"
+        },
+        {
+          "id": "nm0000299",
+          "name": "Michael Biehn"
+        }
       ],
       "label": "Sep 04, 2026"
     },
@@ -1098,7 +1809,10 @@
         "Musical"
       ],
       "people": [
-        "Alexis 'Lexi' Andrews"
+        {
+          "id": "nm12745128",
+          "name": "Alexis 'Lexi' Andrews"
+        }
       ],
       "label": "Sep 04, 2026"
     },
@@ -1113,10 +1827,22 @@
         "Horror"
       ],
       "people": [
-        "Hwang Jung-min",
-        "Zo In-sung",
-        "Hoyeon",
-        "Michael Fassbender"
+        {
+          "id": "nm1058565",
+          "name": "Hwang Jung-min"
+        },
+        {
+          "id": "nm1251770",
+          "name": "Zo In-sung"
+        },
+        {
+          "id": "nm9475707",
+          "name": "Hoyeon"
+        },
+        {
+          "id": "nm1055413",
+          "name": "Michael Fassbender"
+        }
       ],
       "label": "Sep 09, 2026"
     },
@@ -1131,10 +1857,22 @@
         "Comedy"
       ],
       "people": [
-        "Li Baixin",
-        "Mino Eek",
-        "Zhang Gang",
-        "Jiang Wen Jin"
+        {
+          "id": "nm17767428",
+          "name": "Li Baixin"
+        },
+        {
+          "id": "nm17997297",
+          "name": "Mino Eek"
+        },
+        {
+          "id": "nm17767427",
+          "name": "Zhang Gang"
+        },
+        {
+          "id": "nm17767429",
+          "name": "Jiang Wen Jin"
+        }
       ],
       "label": "Sep 09, 2026"
     },
@@ -1149,10 +1887,22 @@
         "Fantasy"
       ],
       "people": [
-        "Cassie Bradley",
-        "Nicole Kidman",
-        "Sandra Bullock",
-        "Joey King"
+        {
+          "id": "nm6467481",
+          "name": "Cassie Bradley"
+        },
+        {
+          "id": "nm0000173",
+          "name": "Nicole Kidman"
+        },
+        {
+          "id": "nm0000113",
+          "name": "Sandra Bullock"
+        },
+        {
+          "id": "nm1428821",
+          "name": "Joey King"
+        }
       ],
       "label": "Sep 11, 2026"
     },
@@ -1165,10 +1915,22 @@
         "Drama"
       ],
       "people": [
-        "Mena Massoud",
-        "Elijah Alexander",
-        "Zaki Ali",
-        "Vladimir Angelove"
+        {
+          "id": "nm4565815",
+          "name": "Mena Massoud"
+        },
+        {
+          "id": "nm1616334",
+          "name": "Elijah Alexander"
+        },
+        {
+          "id": "nm15334431",
+          "name": "Zaki Ali"
+        },
+        {
+          "id": "nm3176834",
+          "name": "Vladimir Angelove"
+        }
       ],
       "label": "Sep 11, 2026"
     },
@@ -1182,10 +1944,22 @@
         "Thriller"
       ],
       "people": [
-        "Alan Ritchson",
-        "Owen Wilson",
-        "Leila George",
-        "Rodrigo Santoro"
+        {
+          "id": "nm2024927",
+          "name": "Alan Ritchson"
+        },
+        {
+          "id": "nm0005562",
+          "name": "Owen Wilson"
+        },
+        {
+          "id": "nm5772354",
+          "name": "Leila George"
+        },
+        {
+          "id": "nm0763928",
+          "name": "Rodrigo Santoro"
+        }
       ],
       "label": "Sep 11, 2026"
     },
@@ -1198,10 +1972,22 @@
         "Thriller"
       ],
       "people": [
-        "Lyndsy Fonseca",
-        "Russ",
-        "Tom Cavanagh",
-        "Hunter King"
+        {
+          "id": "nm0960912",
+          "name": "Lyndsy Fonseca"
+        },
+        {
+          "id": "nm8552008",
+          "name": "Russ"
+        },
+        {
+          "id": "nm0146915",
+          "name": "Tom Cavanagh"
+        },
+        {
+          "id": "nm1051295",
+          "name": "Hunter King"
+        }
       ],
       "label": "Sep 11, 2026"
     },
@@ -1216,10 +2002,22 @@
         "History"
       ],
       "people": [
-        "Andrew Garfield",
-        "Jamie Bell",
-        "Stephen Dillane",
-        "Tom Hollander"
+        {
+          "id": "nm1940449",
+          "name": "Andrew Garfield"
+        },
+        {
+          "id": "nm0068260",
+          "name": "Jamie Bell"
+        },
+        {
+          "id": "nm0226820",
+          "name": "Stephen Dillane"
+        },
+        {
+          "id": "nm0390903",
+          "name": "Tom Hollander"
+        }
       ],
       "label": "Sep 11, 2026"
     },
@@ -1232,10 +2030,22 @@
         "Thriller"
       ],
       "people": [
-        "Liam Neeson",
-        "Titus Welliver",
-        "Zachary Levi",
-        "Wes Chatham"
+        {
+          "id": "nm0000553",
+          "name": "Liam Neeson"
+        },
+        {
+          "id": "nm0920038",
+          "name": "Titus Welliver"
+        },
+        {
+          "id": "nm1157048",
+          "name": "Zachary Levi"
+        },
+        {
+          "id": "nm1434871",
+          "name": "Wes Chatham"
+        }
       ],
       "label": "Sep 11, 2026"
     },
@@ -1250,10 +2060,22 @@
         "Crime"
       ],
       "people": [
-        "Ethan Hawke",
-        "Russell Crowe",
-        "Julia Jones",
-        "Austin Amelio"
+        {
+          "id": "nm0000160",
+          "name": "Ethan Hawke"
+        },
+        {
+          "id": "nm0000128",
+          "name": "Russell Crowe"
+        },
+        {
+          "id": "nm1247407",
+          "name": "Julia Jones"
+        },
+        {
+          "id": "nm3994184",
+          "name": "Austin Amelio"
+        }
       ],
       "label": "Sep 18, 2026"
     },
@@ -1268,10 +2090,22 @@
         "Sci-Fi"
       ],
       "people": [
-        "Austin Abrams",
-        "Paul Walter Hauser",
-        "Zach Cherry",
-        "Kali Reis"
+        {
+          "id": "nm3641002",
+          "name": "Austin Abrams"
+        },
+        {
+          "id": "nm3236159",
+          "name": "Paul Walter Hauser"
+        },
+        {
+          "id": "nm7100086",
+          "name": "Zach Cherry"
+        },
+        {
+          "id": "nm11140905",
+          "name": "Kali Reis"
+        }
       ],
       "label": "Sep 18, 2026"
     },
@@ -1286,9 +2120,18 @@
         "Family"
       ],
       "people": [
-        "Justin Fletcher",
-        "John Sparkes",
-        "Kate Harbour"
+        {
+          "id": "nm1017994",
+          "name": "Justin Fletcher"
+        },
+        {
+          "id": "nm0816950",
+          "name": "John Sparkes"
+        },
+        {
+          "id": "nm0361957",
+          "name": "Kate Harbour"
+        }
       ],
       "label": "Sep 18, 2026"
     },
@@ -1309,10 +2152,22 @@
         "Comedy"
       ],
       "people": [
-        "Christine Ko",
-        "Marcus Lewis",
-        "Owen Wilson",
-        "Jolene"
+        {
+          "id": "nm5153701",
+          "name": "Christine Ko"
+        },
+        {
+          "id": "nm5216434",
+          "name": "Marcus Lewis"
+        },
+        {
+          "id": "nm0005562",
+          "name": "Owen Wilson"
+        },
+        {
+          "id": "nm0086883",
+          "name": "Jolene"
+        }
       ],
       "label": "Sep 18, 2026"
     },
@@ -1326,10 +2181,22 @@
         "Romance"
       ],
       "people": [
-        "Joohong Jung",
-        "Ferin Bergen",
-        "Will Cobbs",
-        "Paco Lozano"
+        {
+          "id": "nm10851449",
+          "name": "Joohong Jung"
+        },
+        {
+          "id": "nm15842016",
+          "name": "Ferin Bergen"
+        },
+        {
+          "id": "nm3498379",
+          "name": "Will Cobbs"
+        },
+        {
+          "id": "nm6341651",
+          "name": "Paco Lozano"
+        }
       ],
       "label": "Sep 22, 2026"
     },
@@ -1344,9 +2211,18 @@
         "Drama"
       ],
       "people": [
-        "Brad Pitt",
-        "J.K. Simmons",
-        "Anna Lambe"
+        {
+          "id": "nm0000093",
+          "name": "Brad Pitt"
+        },
+        {
+          "id": "nm0799777",
+          "name": "J.K. Simmons"
+        },
+        {
+          "id": "nm9268179",
+          "name": "Anna Lambe"
+        }
       ],
       "label": "Sep 25, 2026"
     },
@@ -1360,10 +2236,22 @@
         "Romance"
       ],
       "people": [
-        "Nick Robinson",
-        "Emilia Jones",
-        "Nicholas Cirillo",
-        "Jessica Blackmore"
+        {
+          "id": "nm3538718",
+          "name": "Nick Robinson"
+        },
+        {
+          "id": "nm4454223",
+          "name": "Emilia Jones"
+        },
+        {
+          "id": "nm10057569",
+          "name": "Nicholas Cirillo"
+        },
+        {
+          "id": "nm2971402",
+          "name": "Jessica Blackmore"
+        }
       ],
       "label": "Sep 25, 2026"
     },
@@ -1378,10 +2266,22 @@
         "Adventure"
       ],
       "people": [
-        "Dave Franco",
-        "Jenny Slate",
-        "Dolly De Leon",
-        "Manny Jacinto"
+        {
+          "id": "nm2002649",
+          "name": "Dave Franco"
+        },
+        {
+          "id": "nm2809577",
+          "name": "Jenny Slate"
+        },
+        {
+          "id": "nm2976018",
+          "name": "Dolly De Leon"
+        },
+        {
+          "id": "nm3254274",
+          "name": "Manny Jacinto"
+        }
       ],
       "label": "Sep 25, 2026"
     },
@@ -1396,10 +2296,22 @@
         "Horror"
       ],
       "people": [
-        "Moeka Hoshi",
-        "Kurumi Inagaki",
-        "Kento Kaku",
-        "Tae Kimura"
+        {
+          "id": "nm8972774",
+          "name": "Moeka Hoshi"
+        },
+        {
+          "id": "nm8529641",
+          "name": "Kurumi Inagaki"
+        },
+        {
+          "id": "nm3002430",
+          "name": "Kento Kaku"
+        },
+        {
+          "id": "nm0454117",
+          "name": "Tae Kimura"
+        }
       ],
       "label": "Sep 25, 2026"
     },
@@ -1413,10 +2325,22 @@
         "Drama"
       ],
       "people": [
-        "Rutanya Alda",
-        "Matt Barats",
-        "Mimi Davila",
-        "Jackson Devereux"
+        {
+          "id": "nm0017377",
+          "name": "Rutanya Alda"
+        },
+        {
+          "id": "nm3300710",
+          "name": "Matt Barats"
+        },
+        {
+          "id": "nm6378156",
+          "name": "Mimi Davila"
+        },
+        {
+          "id": "nm18621543",
+          "name": "Jackson Devereux"
+        }
       ],
       "label": "Sep 25, 2026"
     },
@@ -1431,10 +2355,22 @@
         "Thriller"
       ],
       "people": [
-        "Kevin Sorbo",
-        "Sam Sorbo",
-        "Danny Fehsenfeld",
-        "Aaron Groben"
+        {
+          "id": "nm0001757",
+          "name": "Kevin Sorbo"
+        },
+        {
+          "id": "nm0420966",
+          "name": "Sam Sorbo"
+        },
+        {
+          "id": "nm0270480",
+          "name": "Danny Fehsenfeld"
+        },
+        {
+          "id": "nm1941140",
+          "name": "Aaron Groben"
+        }
       ],
       "label": "Oct 01, 2026"
     },
@@ -1447,9 +2383,18 @@
         "Horror"
       ],
       "people": [
-        "Lauren LaVera",
-        "David Howard Thornton",
-        "Elliott Fullam"
+        {
+          "id": "nm8367841",
+          "name": "Lauren LaVera"
+        },
+        {
+          "id": "nm7476686",
+          "name": "David Howard Thornton"
+        },
+        {
+          "id": "nm9869437",
+          "name": "Elliott Fullam"
+        }
       ],
       "label": "Oct 01, 2026"
     },
@@ -1463,10 +2408,22 @@
         "Drama"
       ],
       "people": [
-        "Tom Cruise",
-        "Riz Ahmed",
-        "Aetheria Angel",
-        "Robert John Burke"
+        {
+          "id": "nm0000129",
+          "name": "Tom Cruise"
+        },
+        {
+          "id": "nm1981893",
+          "name": "Riz Ahmed"
+        },
+        {
+          "id": "nm7328091",
+          "name": "Aetheria Angel"
+        },
+        {
+          "id": "nm0121559",
+          "name": "Robert John Burke"
+        }
       ],
       "label": "Oct 02, 2026"
     },
@@ -1481,10 +2438,22 @@
         "Mystery"
       ],
       "people": [
-        "Anne Hathaway",
-        "Dakota Johnson",
-        "Josh Hartnett",
-        "Ismael Cruz Cordova"
+        {
+          "id": "nm0004266",
+          "name": "Anne Hathaway"
+        },
+        {
+          "id": "nm0424848",
+          "name": "Dakota Johnson"
+        },
+        {
+          "id": "nm0001326",
+          "name": "Josh Hartnett"
+        },
+        {
+          "id": "nm3033454",
+          "name": "Ismael Cruz Cordova"
+        }
       ],
       "label": "Oct 02, 2026"
     },
@@ -1497,10 +2466,22 @@
         "Thriller"
       ],
       "people": [
-        "Matilda Lutz",
-        "Gregg Sulkin",
-        "William Miller",
-        "Melina Matthews"
+        {
+          "id": "nm4436761",
+          "name": "Matilda Lutz"
+        },
+        {
+          "id": "nm2116419",
+          "name": "Gregg Sulkin"
+        },
+        {
+          "id": "nm1188016",
+          "name": "William Miller"
+        },
+        {
+          "id": "nm3172796",
+          "name": "Melina Matthews"
+        }
       ],
       "label": "Oct 02, 2026"
     },
@@ -1514,10 +2495,22 @@
         "Thriller"
       ],
       "people": [
-        "Logan Marshall-Green",
-        "Jessica Rothe",
-        "Kiana Madeira",
-        "Jackson Bews"
+        {
+          "id": "nm1334869",
+          "name": "Logan Marshall-Green"
+        },
+        {
+          "id": "nm1557329",
+          "name": "Jessica Rothe"
+        },
+        {
+          "id": "nm2854112",
+          "name": "Kiana Madeira"
+        },
+        {
+          "id": "nm4797104",
+          "name": "Jackson Bews"
+        }
       ],
       "label": "Oct 02, 2026"
     },
@@ -1532,10 +2525,22 @@
         "Drama"
       ],
       "people": [
-        "Giancarlo Esposito",
-        "Mahershala Ali",
-        "Tramell Tillman",
-        "John Cho"
+        {
+          "id": "nm0002064",
+          "name": "Giancarlo Esposito"
+        },
+        {
+          "id": "nm0991810",
+          "name": "Mahershala Ali"
+        },
+        {
+          "id": "nm7436993",
+          "name": "Tramell Tillman"
+        },
+        {
+          "id": "nm0158626",
+          "name": "John Cho"
+        }
       ],
       "label": "Oct 09, 2026"
     },
@@ -1550,10 +2555,22 @@
         "Adventure"
       ],
       "people": [
-        "Eric Nam",
-        "Dave Bautista",
-        "Jessica Matten",
-        "Román Zaragoza"
+        {
+          "id": "nm7175730",
+          "name": "Eric Nam"
+        },
+        {
+          "id": "nm1176985",
+          "name": "Dave Bautista"
+        },
+        {
+          "id": "nm3906656",
+          "name": "Jessica Matten"
+        },
+        {
+          "id": "nm3928092",
+          "name": "Román Zaragoza"
+        }
       ],
       "label": "Oct 09, 2026"
     },
@@ -1568,10 +2585,22 @@
         "Thriller"
       ],
       "people": [
-        "Betty Gilpin",
-        "Jeremy Allen White",
-        "Portia Doubleday",
-        "Mikey Madison"
+        {
+          "id": "nm2365811",
+          "name": "Betty Gilpin"
+        },
+        {
+          "id": "nm2087739",
+          "name": "Jeremy Allen White"
+        },
+        {
+          "id": "nm0234668",
+          "name": "Portia Doubleday"
+        },
+        {
+          "id": "nm5700898",
+          "name": "Mikey Madison"
+        }
       ],
       "label": "Oct 09, 2026"
     },
@@ -1585,10 +2614,22 @@
         "Thriller"
       ],
       "people": [
-        "Renate Reinsve",
-        "Sebastian Stan",
-        "Lisa Loven Kongsli",
-        "Thorbjørn Harr"
+        {
+          "id": "nm4561559",
+          "name": "Renate Reinsve"
+        },
+        {
+          "id": "nm1659221",
+          "name": "Sebastian Stan"
+        },
+        {
+          "id": "nm2966840",
+          "name": "Lisa Loven Kongsli"
+        },
+        {
+          "id": "nm0364028",
+          "name": "Thorbjørn Harr"
+        }
       ],
       "label": "Oct 09, 2026"
     },
@@ -1601,10 +2642,22 @@
         "Western"
       ],
       "people": [
-        "Zachary Levi",
-        "Neal McDonough",
-        "Tommy Lee Jones",
-        "Meg Fraser"
+        {
+          "id": "nm1157048",
+          "name": "Zachary Levi"
+        },
+        {
+          "id": "nm0568180",
+          "name": "Neal McDonough"
+        },
+        {
+          "id": "nm0000169",
+          "name": "Tommy Lee Jones"
+        },
+        {
+          "id": "nm10056998",
+          "name": "Meg Fraser"
+        }
       ],
       "label": "Oct 09, 2026"
     },
@@ -1616,10 +2669,22 @@
         "Horror"
       ],
       "people": [
-        "Jessica Chastain",
-        "Jay Duplass",
-        "Arabella Olivia Clark",
-        "Alejandro Nieves"
+        {
+          "id": "nm1567113",
+          "name": "Jessica Chastain"
+        },
+        {
+          "id": "nm0243231",
+          "name": "Jay Duplass"
+        },
+        {
+          "id": "nm10995094",
+          "name": "Arabella Olivia Clark"
+        },
+        {
+          "id": "nm4363958",
+          "name": "Alejandro Nieves"
+        }
       ],
       "label": "Oct 09, 2026"
     },
@@ -1633,10 +2698,22 @@
         "Romance"
       ],
       "people": [
-        "Daisy Edgar-Jones",
-        "Bodhi Rae Breathnach",
-        "George MacKay",
-        "Esmé Creed-Miles"
+        {
+          "id": "nm8402992",
+          "name": "Daisy Edgar-Jones"
+        },
+        {
+          "id": "nm11417004",
+          "name": "Bodhi Rae Breathnach"
+        },
+        {
+          "id": "nm1126657",
+          "name": "George MacKay"
+        },
+        {
+          "id": "nm2962727",
+          "name": "Esmé Creed-Miles"
+        }
       ],
       "label": "Oct 16, 2026"
     },
@@ -1650,10 +2727,22 @@
         "Drama"
       ],
       "people": [
-        "Jason Momoa",
-        "Eric André",
-        "David Dastmalchian",
-        "Noah Centineo"
+        {
+          "id": "nm0597388",
+          "name": "Jason Momoa"
+        },
+        {
+          "id": "nm2765191",
+          "name": "Eric André"
+        },
+        {
+          "id": "nm2810287",
+          "name": "David Dastmalchian"
+        },
+        {
+          "id": "nm3170207",
+          "name": "Noah Centineo"
+        }
       ],
       "label": "Oct 16, 2026"
     },
@@ -1666,10 +2755,22 @@
         "Comedy"
       ],
       "people": [
-        "Leslie Mann",
-        "Cooper Hoffman",
-        "Andrew Barth Feldman",
-        "Nico Parker"
+        {
+          "id": "nm0005182",
+          "name": "Leslie Mann"
+        },
+        {
+          "id": "nm11866274",
+          "name": "Cooper Hoffman"
+        },
+        {
+          "id": "nm10574081",
+          "name": "Andrew Barth Feldman"
+        },
+        {
+          "id": "nm9135274",
+          "name": "Nico Parker"
+        }
       ],
       "label": "Oct 16, 2026"
     },
@@ -1684,10 +2785,22 @@
         "History"
       ],
       "people": [
-        "James McAvoy",
-        "Lucy Halliday",
-        "James Corden",
-        "Amber Anderson"
+        {
+          "id": "nm0564215",
+          "name": "James McAvoy"
+        },
+        {
+          "id": "nm13633111",
+          "name": "Lucy Halliday"
+        },
+        {
+          "id": "nm0179479",
+          "name": "James Corden"
+        },
+        {
+          "id": "nm3806097",
+          "name": "Amber Anderson"
+        }
       ],
       "label": "Oct 16, 2026"
     },
@@ -1700,10 +2813,22 @@
         "Drama"
       ],
       "people": [
-        "Mario Bregieira",
-        "Adriano Canindé",
-        "Pérola Faria",
-        "Felipe Folgosi"
+        {
+          "id": "nm4160751",
+          "name": "Mario Bregieira"
+        },
+        {
+          "id": "nm14479119",
+          "name": "Adriano Canindé"
+        },
+        {
+          "id": "nm2360352",
+          "name": "Pérola Faria"
+        },
+        {
+          "id": "nm0284259",
+          "name": "Felipe Folgosi"
+        }
       ],
       "label": "Oct 16, 2026"
     },
@@ -1717,10 +2842,22 @@
         "Sci-Fi"
       ],
       "people": [
-        "Jenna Ortega",
-        "Amy Adams",
-        "Mia Tharia",
-        "Aran Murphy"
+        {
+          "id": "nm4911194",
+          "name": "Jenna Ortega"
+        },
+        {
+          "id": "nm0010736",
+          "name": "Amy Adams"
+        },
+        {
+          "id": "nm9894699",
+          "name": "Mia Tharia"
+        },
+        {
+          "id": "nm15588612",
+          "name": "Aran Murphy"
+        }
       ],
       "label": "Oct 23, 2026"
     },
@@ -1735,10 +2872,22 @@
         "Thriller"
       ],
       "people": [
-        "Naomi Ackie",
-        "Tom Rhys Harries",
-        "Eddie Marsan",
-        "Max Minghella"
+        {
+          "id": "nm7609875",
+          "name": "Naomi Ackie"
+        },
+        {
+          "id": "nm4151189",
+          "name": "Tom Rhys Harries"
+        },
+        {
+          "id": "nm0550371",
+          "name": "Eddie Marsan"
+        },
+        {
+          "id": "nm1540404",
+          "name": "Max Minghella"
+        }
       ],
       "label": "Oct 23, 2026"
     },
@@ -1753,10 +2902,22 @@
         "Drama"
       ],
       "people": [
-        "Peyton Elizabeth Lee",
-        "Jacob Tremblay",
-        "Carey Mulligan",
-        "Mahershala Ali"
+        {
+          "id": "nm7213696",
+          "name": "Peyton Elizabeth Lee"
+        },
+        {
+          "id": "nm5016878",
+          "name": "Jacob Tremblay"
+        },
+        {
+          "id": "nm1659547",
+          "name": "Carey Mulligan"
+        },
+        {
+          "id": "nm0991810",
+          "name": "Mahershala Ali"
+        }
       ],
       "label": "Oct 23, 2026"
     },
@@ -1770,10 +2931,22 @@
         "Thriller"
       ],
       "people": [
-        "John Turturro",
-        "Giancarlo Esposito",
-        "Will Price",
-        "Tatiana Maslany"
+        {
+          "id": "nm0001806",
+          "name": "John Turturro"
+        },
+        {
+          "id": "nm0002064",
+          "name": "Giancarlo Esposito"
+        },
+        {
+          "id": "nm11153903",
+          "name": "Will Price"
+        },
+        {
+          "id": "nm1137209",
+          "name": "Tatiana Maslany"
+        }
       ],
       "label": "Oct 23, 2026"
     },
@@ -1785,10 +2958,22 @@
         "Thriller"
       ],
       "people": [
-        "Tomás Paredes",
-        "James Norton",
-        "Rosamund Pike",
-        "Benedict Cumberbatch"
+        {
+          "id": "nm7003974",
+          "name": "Tomás Paredes"
+        },
+        {
+          "id": "nm3584268",
+          "name": "James Norton"
+        },
+        {
+          "id": "nm0683253",
+          "name": "Rosamund Pike"
+        },
+        {
+          "id": "nm1212722",
+          "name": "Benedict Cumberbatch"
+        }
       ],
       "label": "Oct 23, 2026"
     },
@@ -1803,10 +2988,22 @@
         "Romance"
       ],
       "people": [
-        "Alexander Skarsgård",
-        "Ella Bruccoleri",
-        "Olivia Colman",
-        "Peter Dinklage"
+        {
+          "id": "nm0002907",
+          "name": "Alexander Skarsgård"
+        },
+        {
+          "id": "nm9702409",
+          "name": "Ella Bruccoleri"
+        },
+        {
+          "id": "nm1469236",
+          "name": "Olivia Colman"
+        },
+        {
+          "id": "nm0227759",
+          "name": "Peter Dinklage"
+        }
       ],
       "label": "Oct 30, 2026"
     },
@@ -1821,10 +3018,22 @@
         "Horror"
       ],
       "people": [
-        "Ron Livingston",
-        "Rachel Bilson",
-        "Rob Riggle",
-        "Thomas Lennon"
+        {
+          "id": "nm0515296",
+          "name": "Ron Livingston"
+        },
+        {
+          "id": "nm1377375",
+          "name": "Rachel Bilson"
+        },
+        {
+          "id": "nm1443527",
+          "name": "Rob Riggle"
+        },
+        {
+          "id": "nm0502073",
+          "name": "Thomas Lennon"
+        }
       ],
       "label": "Oct 30, 2026"
     },
@@ -1837,10 +3046,22 @@
         "Thriller"
       ],
       "people": [
-        "Liam Neeson",
-        "Marisa Tomei",
-        "Ving Rhames",
-        "Michael Chiklis"
+        {
+          "id": "nm0000553",
+          "name": "Liam Neeson"
+        },
+        {
+          "id": "nm0000673",
+          "name": "Marisa Tomei"
+        },
+        {
+          "id": "nm0000609",
+          "name": "Ving Rhames"
+        },
+        {
+          "id": "nm0004821",
+          "name": "Michael Chiklis"
+        }
       ],
       "label": "Oct 30, 2026"
     },
@@ -1855,10 +3076,22 @@
         "Drama"
       ],
       "people": [
-        "Sam Rockwell",
-        "John Malkovich",
-        "Steve Buscemi",
-        "Parker Posey"
+        {
+          "id": "nm0005377",
+          "name": "Sam Rockwell"
+        },
+        {
+          "id": "nm0000518",
+          "name": "John Malkovich"
+        },
+        {
+          "id": "nm0000114",
+          "name": "Steve Buscemi"
+        },
+        {
+          "id": "nm0000205",
+          "name": "Parker Posey"
+        }
       ],
       "label": "Nov 06, 2026"
     },
@@ -1873,10 +3106,22 @@
         "Drama"
       ],
       "people": [
-        "Ryûnosuke Kamiki",
-        "Minami Hamabe",
-        "Miou Tanaka",
-        "Sakura Andō"
+        {
+          "id": "nm1126340",
+          "name": "Ryûnosuke Kamiki"
+        },
+        {
+          "id": "nm4947538",
+          "name": "Minami Hamabe"
+        },
+        {
+          "id": "nm7918123",
+          "name": "Miou Tanaka"
+        },
+        {
+          "id": "nm2747232",
+          "name": "Sakura Andō"
+        }
       ],
       "label": "Nov 06, 2026"
     },
@@ -1891,10 +3136,22 @@
         "Comedy"
       ],
       "people": [
-        "Bill Hader",
-        "Xochitl Gomez",
-        "Tiago Martinez",
-        "Quinta Brunson"
+        {
+          "id": "nm0352778",
+          "name": "Bill Hader"
+        },
+        {
+          "id": "nm7961780",
+          "name": "Xochitl Gomez"
+        },
+        {
+          "id": "nm12327048",
+          "name": "Tiago Martinez"
+        },
+        {
+          "id": "nm6708435",
+          "name": "Quinta Brunson"
+        }
       ],
       "label": "Nov 06, 2026"
     },
@@ -1908,10 +3165,22 @@
         "Drama"
       ],
       "people": [
-        "KJ Apa",
-        "Max Casella",
-        "Kara Killmer",
-        "Neal McDonough"
+        {
+          "id": "nm6216001",
+          "name": "KJ Apa"
+        },
+        {
+          "id": "nm0143295",
+          "name": "Max Casella"
+        },
+        {
+          "id": "nm3951257",
+          "name": "Kara Killmer"
+        },
+        {
+          "id": "nm0568180",
+          "name": "Neal McDonough"
+        }
       ],
       "label": "Nov 06, 2026"
     },
@@ -1925,10 +3194,22 @@
         "Drama"
       ],
       "people": [
-        "Alexej Manvelov",
-        "Jim Caviezel",
-        "Shea Whigham",
-        "Garret Dillahunt"
+        {
+          "id": "nm3160438",
+          "name": "Alexej Manvelov"
+        },
+        {
+          "id": "nm0001029",
+          "name": "Jim Caviezel"
+        },
+        {
+          "id": "nm0924154",
+          "name": "Shea Whigham"
+        },
+        {
+          "id": "nm0226813",
+          "name": "Garret Dillahunt"
+        }
       ],
       "label": "Nov 06, 2026"
     },
@@ -1943,10 +3224,22 @@
         "Drama"
       ],
       "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi",
-        "Ravi Dubey"
+        {
+          "id": "nm1633541",
+          "name": "Ranbir Kapoor"
+        },
+        {
+          "id": "nm5232139",
+          "name": "Yash"
+        },
+        {
+          "id": "nm7367695",
+          "name": "Sai Pallavi"
+        },
+        {
+          "id": "nm7129302",
+          "name": "Ravi Dubey"
+        }
       ],
       "label": "Nov 08, 2026"
     },
@@ -1960,10 +3253,22 @@
         "Mystery"
       ],
       "people": [
-        "Glen Powell",
-        "Jenna Ortega",
-        "Samuel L. Jackson",
-        "Merritt Wever"
+        {
+          "id": "nm1412974",
+          "name": "Glen Powell"
+        },
+        {
+          "id": "nm4911194",
+          "name": "Jenna Ortega"
+        },
+        {
+          "id": "nm0000168",
+          "name": "Samuel L. Jackson"
+        },
+        {
+          "id": "nm0923266",
+          "name": "Merritt Wever"
+        }
       ],
       "label": "Nov 13, 2026"
     },
@@ -1976,10 +3281,22 @@
         "Fantasy"
       ],
       "people": [
-        "Johnny Depp",
-        "Sam Claflin",
-        "Daisy Ridley",
-        "Ian McKellen"
+        {
+          "id": "nm0000136",
+          "name": "Johnny Depp"
+        },
+        {
+          "id": "nm3510471",
+          "name": "Sam Claflin"
+        },
+        {
+          "id": "nm5397459",
+          "name": "Daisy Ridley"
+        },
+        {
+          "id": "nm0005212",
+          "name": "Ian McKellen"
+        }
       ],
       "label": "Nov 13, 2026"
     },
@@ -1994,10 +3311,22 @@
         "Drama"
       ],
       "people": [
-        "Joseph Zada",
-        "Mckenna Grace",
-        "Elle Fanning",
-        "Jesse Plemons"
+        {
+          "id": "nm10511461",
+          "name": "Joseph Zada"
+        },
+        {
+          "id": "nm5085683",
+          "name": "Mckenna Grace"
+        },
+        {
+          "id": "nm1102577",
+          "name": "Elle Fanning"
+        },
+        {
+          "id": "nm0687146",
+          "name": "Jesse Plemons"
+        }
       ],
       "label": "Nov 20, 2026"
     },
@@ -2012,10 +3341,22 @@
         "Thriller"
       ],
       "people": [
-        "Adam Driver",
-        "Scarlett Johansson",
-        "Miles Teller",
-        "Gavin Goudey"
+        {
+          "id": "nm3485845",
+          "name": "Adam Driver"
+        },
+        {
+          "id": "nm0424060",
+          "name": "Scarlett Johansson"
+        },
+        {
+          "id": "nm1886602",
+          "name": "Miles Teller"
+        },
+        {
+          "id": "nm16547608",
+          "name": "Gavin Goudey"
+        }
       ],
       "label": "Nov 20, 2026"
     },
@@ -2029,10 +3370,22 @@
         "Drama"
       ],
       "people": [
-        "AnnaSophia Robb",
-        "Matt Dillon",
-        "Toby Kebbell",
-        "Erik Palladino"
+        {
+          "id": "nm1455681",
+          "name": "AnnaSophia Robb"
+        },
+        {
+          "id": "nm0000369",
+          "name": "Matt Dillon"
+        },
+        {
+          "id": "nm1527905",
+          "name": "Toby Kebbell"
+        },
+        {
+          "id": "nm0005292",
+          "name": "Erik Palladino"
+        }
       ],
       "label": "Nov 20, 2026"
     },
@@ -2047,10 +3400,22 @@
         "Thriller"
       ],
       "people": [
-        "Dmitriy Mazurov",
-        "Iris Lebedeva",
-        "Boris Kudrin",
-        "Yuriy Zavalnyouk"
+        {
+          "id": "nm3050380",
+          "name": "Dmitriy Mazurov"
+        },
+        {
+          "id": "nm5531598",
+          "name": "Iris Lebedeva"
+        },
+        {
+          "id": "nm18522373",
+          "name": "Boris Kudrin"
+        },
+        {
+          "id": "nm10782669",
+          "name": "Yuriy Zavalnyouk"
+        }
       ],
       "label": "Nov 20, 2026"
     },
@@ -2065,10 +3430,22 @@
         "Comedy"
       ],
       "people": [
-        "Alan Tudyk",
-        "Hailee Steinfeld",
-        "Rashida Jones",
-        "Stephen Fry"
+        {
+          "id": "nm0876138",
+          "name": "Alan Tudyk"
+        },
+        {
+          "id": "nm2794962",
+          "name": "Hailee Steinfeld"
+        },
+        {
+          "id": "nm0429069",
+          "name": "Rashida Jones"
+        },
+        {
+          "id": "nm0000410",
+          "name": "Stephen Fry"
+        }
       ],
       "label": "Nov 25, 2026"
     },
@@ -2081,10 +3458,22 @@
         "Comedy"
       ],
       "people": [
-        "Robert De Niro",
-        "Ben Stiller",
-        "Ariana Grande",
-        "Skyler Gisondo"
+        {
+          "id": "nm0000134",
+          "name": "Robert De Niro"
+        },
+        {
+          "id": "nm0001774",
+          "name": "Ben Stiller"
+        },
+        {
+          "id": "nm3812858",
+          "name": "Ariana Grande"
+        },
+        {
+          "id": "nm1711114",
+          "name": "Skyler Gisondo"
+        }
       ],
       "label": "Nov 25, 2026"
     },
@@ -2099,10 +3488,22 @@
         "Family"
       ],
       "people": [
-        "Finn Wittrock",
-        "Alexandra Daddario",
-        "Francesca Faridany",
-        "Dina Spybey-Waters"
+        {
+          "id": "nm1587729",
+          "name": "Finn Wittrock"
+        },
+        {
+          "id": "nm1275259",
+          "name": "Alexandra Daddario"
+        },
+        {
+          "id": "nm0267432",
+          "name": "Francesca Faridany"
+        },
+        {
+          "id": "nm0005457",
+          "name": "Dina Spybey-Waters"
+        }
       ],
       "label": "Nov 25, 2026"
     },
@@ -2115,10 +3516,22 @@
         "Drama"
       ],
       "people": [
-        "Mike Vogel",
-        "Alexa PenaVega",
-        "Dennis Haysbert",
-        "DeVon Franklin"
+        {
+          "id": "nm1036181",
+          "name": "Mike Vogel"
+        },
+        {
+          "id": "nm0891786",
+          "name": "Alexa PenaVega"
+        },
+        {
+          "id": "nm0371660",
+          "name": "Dennis Haysbert"
+        },
+        {
+          "id": "nm2035952",
+          "name": "DeVon Franklin"
+        }
       ],
       "label": "Nov 26, 2026"
     },
@@ -2133,10 +3546,22 @@
         "Mystery"
       ],
       "people": [
-        "Tobin Bell",
-        "Bruce Davison",
-        "Evelyn Claire",
-        "Erin Wu"
+        {
+          "id": "nm0068551",
+          "name": "Tobin Bell"
+        },
+        {
+          "id": "nm0001117",
+          "name": "Bruce Davison"
+        },
+        {
+          "id": "nm8923002",
+          "name": "Evelyn Claire"
+        },
+        {
+          "id": "nm6260654",
+          "name": "Erin Wu"
+        }
       ],
       "label": "Dec 02, 2026"
     },
@@ -2150,10 +3575,22 @@
         "Comedy"
       ],
       "people": [
-        "David Harbour",
-        "Maggie Nicole Robertson",
-        "Kristen Bell",
-        "Jared Harris"
+        {
+          "id": "nm1092086",
+          "name": "David Harbour"
+        },
+        {
+          "id": "nm15757860",
+          "name": "Maggie Nicole Robertson"
+        },
+        {
+          "id": "nm0068338",
+          "name": "Kristen Bell"
+        },
+        {
+          "id": "nm0364813",
+          "name": "Jared Harris"
+        }
       ],
       "label": "Dec 04, 2026"
     },
@@ -2168,10 +3605,22 @@
         "Thriller"
       ],
       "people": [
-        "Deva Cassel",
-        "Sam Worthington",
-        "Ben Mendelsohn",
-        "Gael García Bernal"
+        {
+          "id": "nm12937054",
+          "name": "Deva Cassel"
+        },
+        {
+          "id": "nm0941777",
+          "name": "Sam Worthington"
+        },
+        {
+          "id": "nm0578853",
+          "name": "Ben Mendelsohn"
+        },
+        {
+          "id": "nm0305558",
+          "name": "Gael García Bernal"
+        }
       ],
       "label": "Dec 11, 2026"
     },
@@ -2186,10 +3635,22 @@
         "Sci-Fi"
       ],
       "people": [
-        "Robert Downey Jr.",
-        "Pedro Pascal",
-        "Chris Hemsworth",
-        "Vanessa Kirby"
+        {
+          "id": "nm0000375",
+          "name": "Robert Downey Jr."
+        },
+        {
+          "id": "nm0050959",
+          "name": "Pedro Pascal"
+        },
+        {
+          "id": "nm1165110",
+          "name": "Chris Hemsworth"
+        },
+        {
+          "id": "nm3948952",
+          "name": "Vanessa Kirby"
+        }
       ],
       "label": "Dec 18, 2026"
     },
@@ -2204,10 +3665,22 @@
         "Drama"
       ],
       "people": [
-        "Zendaya",
-        "Javier Bardem",
-        "Timothée Chalamet",
-        "Jason Momoa"
+        {
+          "id": "nm3918035",
+          "name": "Zendaya"
+        },
+        {
+          "id": "nm0000849",
+          "name": "Javier Bardem"
+        },
+        {
+          "id": "nm3154303",
+          "name": "Timothée Chalamet"
+        },
+        {
+          "id": "nm0597388",
+          "name": "Jason Momoa"
+        }
       ],
       "label": "Dec 18, 2026"
     },
@@ -2222,10 +3695,22 @@
         "Adventure"
       ],
       "people": [
-        "Emma Myers",
-        "Keke Palmer",
-        "Lily James",
-        "Jason Sudeikis"
+        {
+          "id": "nm3528821",
+          "name": "Emma Myers"
+        },
+        {
+          "id": "nm1551130",
+          "name": "Keke Palmer"
+        },
+        {
+          "id": "nm4141252",
+          "name": "Lily James"
+        },
+        {
+          "id": "nm0837177",
+          "name": "Jason Sudeikis"
+        }
       ],
       "label": "Dec 23, 2026"
     },
@@ -2240,10 +3725,22 @@
         "Thriller"
       ],
       "people": [
-        "Shah Rukh Khan",
-        "Deepika Padukone",
-        "Abhishek Bachchan",
-        "Jackie Shroff"
+        {
+          "id": "nm0451321",
+          "name": "Shah Rukh Khan"
+        },
+        {
+          "id": "nm2138653",
+          "name": "Deepika Padukone"
+        },
+        {
+          "id": "nm0045393",
+          "name": "Abhishek Bachchan"
+        },
+        {
+          "id": "nm0006763",
+          "name": "Jackie Shroff"
+        }
       ],
       "label": "Dec 24, 2026"
     },
@@ -2257,10 +3754,22 @@
         "Thriller"
       ],
       "people": [
-        "Aneet Padda",
-        "Nana Patekar",
-        "Vineet Kumar Singh",
-        "Vishal Jethwa"
+        {
+          "id": "nm14242752",
+          "name": "Aneet Padda"
+        },
+        {
+          "id": "nm0007113",
+          "name": "Nana Patekar"
+        },
+        {
+          "id": "nm1277547",
+          "name": "Vineet Kumar Singh"
+        },
+        {
+          "id": "nm6946196",
+          "name": "Vishal Jethwa"
+        }
       ],
       "label": "Dec 24, 2026"
     },
@@ -2273,10 +3782,22 @@
         "Horror"
       ],
       "people": [
-        "Bodhi Rae Breathnach",
-        "Aaron Taylor-Johnson",
-        "Willem Dafoe",
-        "Ralph Ineson"
+        {
+          "id": "nm11417004",
+          "name": "Bodhi Rae Breathnach"
+        },
+        {
+          "id": "nm1093951",
+          "name": "Aaron Taylor-Johnson"
+        },
+        {
+          "id": "nm0000353",
+          "name": "Willem Dafoe"
+        },
+        {
+          "id": "nm0408591",
+          "name": "Ralph Ineson"
+        }
       ],
       "label": "Dec 25, 2026"
     },
@@ -2291,10 +3812,22 @@
         "Comedy"
       ],
       "people": [
-        "Rhys Darby",
-        "Dwayne Johnson",
-        "Karen Gillan",
-        "Jack Black"
+        {
+          "id": "nm1055302",
+          "name": "Rhys Darby"
+        },
+        {
+          "id": "nm0425005",
+          "name": "Dwayne Johnson"
+        },
+        {
+          "id": "nm2394794",
+          "name": "Karen Gillan"
+        },
+        {
+          "id": "nm0085312",
+          "name": "Jack Black"
+        }
       ],
       "label": "Dec 25, 2026"
     },
@@ -2309,10 +3842,22 @@
         "Sport"
       ],
       "people": [
-        "David Corenswet",
-        "Isabel May",
-        "David Krumholtz",
-        "Michael Shannon"
+        {
+          "id": "nm4825178",
+          "name": "David Corenswet"
+        },
+        {
+          "id": "nm8908475",
+          "name": "Isabel May"
+        },
+        {
+          "id": "nm0472710",
+          "name": "David Krumholtz"
+        },
+        {
+          "id": "nm0788335",
+          "name": "Michael Shannon"
+        }
       ],
       "label": "Dec 25, 2026"
     },
@@ -2326,10 +3871,22 @@
         "Thriller"
       ],
       "people": [
-        "Michelle Williams",
-        "Daisy Edgar-Jones",
-        "José Báez",
-        "Michael Benz"
+        {
+          "id": "nm0931329",
+          "name": "Michelle Williams"
+        },
+        {
+          "id": "nm8402992",
+          "name": "Daisy Edgar-Jones"
+        },
+        {
+          "id": "nm5682728",
+          "name": "José Báez"
+        },
+        {
+          "id": "nm0073121",
+          "name": "Michael Benz"
+        }
       ],
       "label": "Dec 25, 2026"
     },
@@ -2344,10 +3901,22 @@
         "War"
       ],
       "people": [
-        "Valentin Campagne",
-        "Emmanuel Macchia",
-        "Willem De Schryver",
-        "Boris Bouchat"
+        {
+          "id": "nm16457133",
+          "name": "Valentin Campagne"
+        },
+        {
+          "id": "nm18390589",
+          "name": "Emmanuel Macchia"
+        },
+        {
+          "id": "nm11130157",
+          "name": "Willem De Schryver"
+        },
+        {
+          "id": "nm14148731",
+          "name": "Boris Bouchat"
+        }
       ],
       "label": "Dec 25, 2026"
     },
@@ -2360,10 +3929,22 @@
         "Comedy"
       ],
       "people": [
-        "Madeleine Arthur",
-        "Sarah Jeffery",
-        "Maia Kealoha",
-        "Barney Burman"
+        {
+          "id": "nm4699715",
+          "name": "Madeleine Arthur"
+        },
+        {
+          "id": "nm5152585",
+          "name": "Sarah Jeffery"
+        },
+        {
+          "id": "nm14712180",
+          "name": "Maia Kealoha"
+        },
+        {
+          "id": "nm0122178",
+          "name": "Barney Burman"
+        }
       ],
       "label": "Dec 25, 2026"
     },
@@ -2376,10 +3957,22 @@
         "Drama"
       ],
       "people": [
-        "Nick Dent",
-        "Jeffrey Schneider",
-        "Roman P. Martinez",
-        "Abel Martinez Jr."
+        {
+          "id": "nm3782241",
+          "name": "Nick Dent"
+        },
+        {
+          "id": "nm3550868",
+          "name": "Jeffrey Schneider"
+        },
+        {
+          "id": "nm12876490",
+          "name": "Roman P. Martinez"
+        },
+        {
+          "id": "nm3507715",
+          "name": "Abel Martinez Jr."
+        }
       ],
       "label": "Dec 30, 2026"
     },
@@ -2403,10 +3996,22 @@
         "Thriller"
       ],
       "people": [
-        "Jason Statham",
-        "Jeremy Irons",
-        "Pom Klementieff",
-        "Jemma Redgrave"
+        {
+          "id": "nm0005458",
+          "name": "Jason Statham"
+        },
+        {
+          "id": "nm0000460",
+          "name": "Jeremy Irons"
+        },
+        {
+          "id": "nm2962353",
+          "name": "Pom Klementieff"
+        },
+        {
+          "id": "nm0714876",
+          "name": "Jemma Redgrave"
+        }
       ],
       "label": "Jan 15, 2027"
     },
@@ -2421,10 +4026,22 @@
         "Fantasy"
       ],
       "people": [
-        "Taika Waititi",
-        "Mia Wasikowska",
-        "Richard Roxburgh",
-        "Penelope Wilton"
+        {
+          "id": "nm0169806",
+          "name": "Taika Waititi"
+        },
+        {
+          "id": "nm1985859",
+          "name": "Mia Wasikowska"
+        },
+        {
+          "id": "nm0746896",
+          "name": "Richard Roxburgh"
+        },
+        {
+          "id": "nm0934362",
+          "name": "Penelope Wilton"
+        }
       ],
       "label": "Jan 15, 2027"
     },
@@ -2439,10 +4056,22 @@
         "Thriller"
       ],
       "people": [
-        "Rob Lowe",
-        "Crispin Glover",
-        "Roselyn Sanchez",
-        "Bethany Milner"
+        {
+          "id": "nm0000507",
+          "name": "Rob Lowe"
+        },
+        {
+          "id": "nm0000417",
+          "name": "Crispin Glover"
+        },
+        {
+          "id": "nm0761052",
+          "name": "Roselyn Sanchez"
+        },
+        {
+          "id": "nm11528499",
+          "name": "Bethany Milner"
+        }
       ],
       "label": "Jan 20, 2027"
     },
@@ -2457,10 +4086,22 @@
         "Comedy"
       ],
       "people": [
-        "Jakey Schiff",
-        "Emilio Iannucci",
-        "Kexin Wang",
-        "Jason Momoa"
+        {
+          "id": "nm14611402",
+          "name": "Jakey Schiff"
+        },
+        {
+          "id": "nm8918169",
+          "name": "Emilio Iannucci"
+        },
+        {
+          "id": "nm4800168",
+          "name": "Kexin Wang"
+        },
+        {
+          "id": "nm0597388",
+          "name": "Jason Momoa"
+        }
       ],
       "label": "Jan 22, 2027"
     },
@@ -2475,10 +4116,22 @@
         "Sport"
       ],
       "people": [
-        "Tyler Labine",
-        "Tracy Ifeachor",
-        "Edwin Lee Gibson",
-        "Kingston Goodjohn"
+        {
+          "id": "nm0479527",
+          "name": "Tyler Labine"
+        },
+        {
+          "id": "nm3287940",
+          "name": "Tracy Ifeachor"
+        },
+        {
+          "id": "nm3958148",
+          "name": "Edwin Lee Gibson"
+        },
+        {
+          "id": "nm17091543",
+          "name": "Kingston Goodjohn"
+        }
       ],
       "label": "Jan 22, 2027"
     },
@@ -2493,10 +4146,22 @@
         "Thriller"
       ],
       "people": [
-        "Lizzy Caplan",
-        "John Stamos",
-        "Lucy DeVito",
-        "Christine Ko"
+        {
+          "id": "nm0135221",
+          "name": "Lizzy Caplan"
+        },
+        {
+          "id": "nm0001764",
+          "name": "John Stamos"
+        },
+        {
+          "id": "nm2192439",
+          "name": "Lucy DeVito"
+        },
+        {
+          "id": "nm5153701",
+          "name": "Christine Ko"
+        }
       ],
       "label": "Jan 29, 2027"
     },
@@ -2510,10 +4175,22 @@
         "Thriller"
       ],
       "people": [
-        "Brandon Sklenar",
-        "Josh Lucas",
-        "Josh Duhamel",
-        "Hassie Harrison"
+        {
+          "id": "nm3996999",
+          "name": "Brandon Sklenar"
+        },
+        {
+          "id": "nm0524197",
+          "name": "Josh Lucas"
+        },
+        {
+          "id": "nm0241049",
+          "name": "Josh Duhamel"
+        },
+        {
+          "id": "nm6076950",
+          "name": "Hassie Harrison"
+        }
       ],
       "label": "Jan 29, 2027"
     },
@@ -2526,10 +4203,22 @@
         "Thriller"
       ],
       "people": [
-        "Isabel May",
-        "Giancarlo Esposito",
-        "Cynthia Erivo",
-        "Bill Camp"
+        {
+          "id": "nm8908475",
+          "name": "Isabel May"
+        },
+        {
+          "id": "nm0002064",
+          "name": "Giancarlo Esposito"
+        },
+        {
+          "id": "nm7248827",
+          "name": "Cynthia Erivo"
+        },
+        {
+          "id": "nm0131966",
+          "name": "Bill Camp"
+        }
       ],
       "label": "Jan 29, 2027"
     },
@@ -2544,10 +4233,22 @@
         "Comedy"
       ],
       "people": [
-        "Denis Leary",
-        "John Leguizamo",
-        "Simon Pegg",
-        "Queen Latifah"
+        {
+          "id": "nm0001459",
+          "name": "Denis Leary"
+        },
+        {
+          "id": "nm0000491",
+          "name": "John Leguizamo"
+        },
+        {
+          "id": "nm0670408",
+          "name": "Simon Pegg"
+        },
+        {
+          "id": "nm0001451",
+          "name": "Queen Latifah"
+        }
       ],
       "label": "Feb 05, 2027"
     },
@@ -2560,10 +4261,22 @@
         "Comedy"
       ],
       "people": [
-        "Glen Powell",
-        "Cristin Milioti",
-        "Madelyn Cline",
-        "Stavros Halkias"
+        {
+          "id": "nm1412974",
+          "name": "Glen Powell"
+        },
+        {
+          "id": "nm2129662",
+          "name": "Cristin Milioti"
+        },
+        {
+          "id": "nm3218692",
+          "name": "Madelyn Cline"
+        },
+        {
+          "id": "nm6254064",
+          "name": "Stavros Halkias"
+        }
       ],
       "label": "Feb 05, 2027"
     },
@@ -2578,10 +4291,22 @@
         "Mystery"
       ],
       "people": [
-        "Jake Gyllenhaal",
-        "M. Night Shyamalan",
-        "Phoebe Dynevor",
-        "Julie Hagerty"
+        {
+          "id": "nm0350453",
+          "name": "Jake Gyllenhaal"
+        },
+        {
+          "id": "nm0796117",
+          "name": "M. Night Shyamalan"
+        },
+        {
+          "id": "nm3697443",
+          "name": "Phoebe Dynevor"
+        },
+        {
+          "id": "nm0353546",
+          "name": "Julie Hagerty"
+        }
       ],
       "label": "Feb 05, 2027"
     },
@@ -2596,10 +4321,22 @@
         "Fantasy"
       ],
       "people": [
-        "Beatrice Campbell",
-        "Meryl Streep",
-        "Daniel Craig",
-        "Carey Mulligan"
+        {
+          "id": "nm17215119",
+          "name": "Beatrice Campbell"
+        },
+        {
+          "id": "nm0000658",
+          "name": "Meryl Streep"
+        },
+        {
+          "id": "nm0185819",
+          "name": "Daniel Craig"
+        },
+        {
+          "id": "nm1659547",
+          "name": "Carey Mulligan"
+        }
       ],
       "label": "Feb 12, 2027"
     },
@@ -2613,10 +4350,22 @@
         "War"
       ],
       "people": [
-        "Elle Fanning",
-        "Dakota Fanning",
-        "Douglas Hodge",
-        "Mark Rylance"
+        {
+          "id": "nm1102577",
+          "name": "Elle Fanning"
+        },
+        {
+          "id": "nm0266824",
+          "name": "Dakota Fanning"
+        },
+        {
+          "id": "nm0388061",
+          "name": "Douglas Hodge"
+        },
+        {
+          "id": "nm0753314",
+          "name": "Mark Rylance"
+        }
       ],
       "label": "Feb 12, 2027"
     },
@@ -2631,10 +4380,22 @@
         "Fantasy"
       ],
       "people": [
-        "Lowell Deo",
-        "Lewis Pullman",
-        "Kerri Kenney",
-        "Randall Park"
+        {
+          "id": "nm1078521",
+          "name": "Lowell Deo"
+        },
+        {
+          "id": "nm5730649",
+          "name": "Lewis Pullman"
+        },
+        {
+          "id": "nm0448486",
+          "name": "Kerri Kenney"
+        },
+        {
+          "id": "nm1320827",
+          "name": "Randall Park"
+        }
       ],
       "label": "Feb 12, 2027"
     },
@@ -2657,10 +4418,22 @@
         "Comedy"
       ],
       "people": [
-        "Rhys Darby",
-        "Nicholas Hoult",
-        "Ego Nwodim",
-        "Ike Barinholtz"
+        {
+          "id": "nm1055302",
+          "name": "Rhys Darby"
+        },
+        {
+          "id": "nm0396558",
+          "name": "Nicholas Hoult"
+        },
+        {
+          "id": "nm4945455",
+          "name": "Ego Nwodim"
+        },
+        {
+          "id": "nm0054697",
+          "name": "Ike Barinholtz"
+        }
       ],
       "label": "Feb 19, 2027"
     },
@@ -2675,10 +4448,22 @@
         "Drama"
       ],
       "people": [
-        "Roselyn Sanchez",
-        "Esai Morales",
-        "Richard Cabral",
-        "Jobie James"
+        {
+          "id": "nm0761052",
+          "name": "Roselyn Sanchez"
+        },
+        {
+          "id": "nm0005246",
+          "name": "Esai Morales"
+        },
+        {
+          "id": "nm3450051",
+          "name": "Richard Cabral"
+        },
+        {
+          "id": "nm13169955",
+          "name": "Jobie James"
+        }
       ],
       "label": "Feb 26, 2027"
     },
@@ -2693,10 +4478,22 @@
         "Comedy"
       ],
       "people": [
-        "Enrico Casarosa",
-        "Ismail Elsene",
-        "Laurence Fishburne",
-        "Mark Ruffalo"
+        {
+          "id": "nm1154836",
+          "name": "Enrico Casarosa"
+        },
+        {
+          "id": "nm17845870",
+          "name": "Ismail Elsene"
+        },
+        {
+          "id": "nm0000401",
+          "name": "Laurence Fishburne"
+        },
+        {
+          "id": "nm0749263",
+          "name": "Mark Ruffalo"
+        }
       ],
       "label": "Mar 05, 2027"
     },
@@ -2710,10 +4507,22 @@
         "Comedy"
       ],
       "people": [
-        "Aubrey Plaza",
-        "Michael B. Jordan",
-        "Adria Arjona",
-        "Kenneth Branagh"
+        {
+          "id": "nm2201555",
+          "name": "Aubrey Plaza"
+        },
+        {
+          "id": "nm0430107",
+          "name": "Michael B. Jordan"
+        },
+        {
+          "id": "nm5245722",
+          "name": "Adria Arjona"
+        },
+        {
+          "id": "nm0000110",
+          "name": "Kenneth Branagh"
+        }
       ],
       "label": "Mar 05, 2027"
     },
@@ -2727,10 +4536,22 @@
         "Thriller"
       ],
       "people": [
-        "Hamish Linklater",
-        "Scarlett Johansson",
-        "Gil Bellows",
-        "Chiwetel Ejiofor"
+        {
+          "id": "nm0512934",
+          "name": "Hamish Linklater"
+        },
+        {
+          "id": "nm0424060",
+          "name": "Scarlett Johansson"
+        },
+        {
+          "id": "nm0004743",
+          "name": "Gil Bellows"
+        },
+        {
+          "id": "nm0252230",
+          "name": "Chiwetel Ejiofor"
+        }
       ],
       "label": "Mar 12, 2027"
     },
@@ -2745,10 +4566,22 @@
         "Adventure"
       ],
       "people": [
-        "Keanu Reeves",
-        "Nick Offerman",
-        "James Marsden",
-        "Jim Carrey"
+        {
+          "id": "nm0000206",
+          "name": "Keanu Reeves"
+        },
+        {
+          "id": "nm0644406",
+          "name": "Nick Offerman"
+        },
+        {
+          "id": "nm0005188",
+          "name": "James Marsden"
+        },
+        {
+          "id": "nm0000120",
+          "name": "Jim Carrey"
+        }
       ],
       "label": "Mar 19, 2027"
     },
@@ -2763,10 +4596,22 @@
         "Thriller"
       ],
       "people": [
-        "John Jarratt",
-        "Stacy Clausen",
-        "Laura Gordon",
-        "Meg Fraser"
+        {
+          "id": "nm0418877",
+          "name": "John Jarratt"
+        },
+        {
+          "id": "nm10988681",
+          "name": "Stacy Clausen"
+        },
+        {
+          "id": "nm1916003",
+          "name": "Laura Gordon"
+        },
+        {
+          "id": "nm10056998",
+          "name": "Meg Fraser"
+        }
       ],
       "label": "Mar 19, 2027"
     },
@@ -2781,10 +4626,22 @@
         "Sci-Fi"
       ],
       "people": [
-        "Ryan Panizza",
-        "Danny Kim",
-        "Bronte Pearce",
-        "Jack O'Connell"
+        {
+          "id": "nm6232759",
+          "name": "Ryan Panizza"
+        },
+        {
+          "id": "nm5003429",
+          "name": "Danny Kim"
+        },
+        {
+          "id": "nm6145170",
+          "name": "Bronte Pearce"
+        },
+        {
+          "id": "nm1925239",
+          "name": "Jack O'Connell"
+        }
       ],
       "label": "Mar 26, 2027"
     },
@@ -2798,10 +4655,22 @@
         "Thriller"
       ],
       "people": [
-        "Johnny Depp",
-        "Penélope Cruz",
-        "Madelyn Cline",
-        "Marc Webb"
+        {
+          "id": "nm0000136",
+          "name": "Johnny Depp"
+        },
+        {
+          "id": "nm0004851",
+          "name": "Penélope Cruz"
+        },
+        {
+          "id": "nm3218692",
+          "name": "Madelyn Cline"
+        },
+        {
+          "id": "nm1989536",
+          "name": "Marc Webb"
+        }
       ],
       "label": "Mar 26, 2027"
     },
@@ -2822,10 +4691,22 @@
         "Horror"
       ],
       "people": [
-        "Jay Hernandez",
-        "Raymond Cruz",
-        "Monica Raymund",
-        "Edy Ganem"
+        {
+          "id": "nm0379596",
+          "name": "Jay Hernandez"
+        },
+        {
+          "id": "nm0190441",
+          "name": "Raymond Cruz"
+        },
+        {
+          "id": "nm2834669",
+          "name": "Monica Raymund"
+        },
+        {
+          "id": "nm2963874",
+          "name": "Edy Ganem"
+        }
       ],
       "label": "Apr 09, 2027"
     },
@@ -2838,7 +4719,10 @@
         "Music"
       ],
       "people": [
-        "Storm Reid"
+        {
+          "id": "nm4977564",
+          "name": "Storm Reid"
+        }
       ],
       "label": "Apr 09, 2027"
     },
@@ -2853,10 +4737,22 @@
         "Comedy"
       ],
       "people": [
-        "Timothée Chalamet",
-        "Selena Gomez",
-        "Brett Goldstein",
-        "Rob Brydon"
+        {
+          "id": "nm3154303",
+          "name": "Timothée Chalamet"
+        },
+        {
+          "id": "nm1411125",
+          "name": "Selena Gomez"
+        },
+        {
+          "id": "nm2073429",
+          "name": "Brett Goldstein"
+        },
+        {
+          "id": "nm0117339",
+          "name": "Rob Brydon"
+        }
       ],
       "label": "Apr 16, 2027"
     },
@@ -2870,10 +4766,22 @@
         "Sci-Fi"
       ],
       "people": [
-        "Mel Brooks",
-        "Lewis Pullman",
-        "Bill Pullman",
-        "Keke Palmer"
+        {
+          "id": "nm0000316",
+          "name": "Mel Brooks"
+        },
+        {
+          "id": "nm5730649",
+          "name": "Lewis Pullman"
+        },
+        {
+          "id": "nm0000597",
+          "name": "Bill Pullman"
+        },
+        {
+          "id": "nm1551130",
+          "name": "Keke Palmer"
+        }
       ],
       "label": "Apr 23, 2027"
     },
@@ -2887,10 +4795,22 @@
         "Drama"
       ],
       "people": [
-        "Brandon Sklenar",
-        "Sam Claflin",
-        "Wilson Bethel",
-        "LaKeith Stanfield"
+        {
+          "id": "nm3996999",
+          "name": "Brandon Sklenar"
+        },
+        {
+          "id": "nm3510471",
+          "name": "Sam Claflin"
+        },
+        {
+          "id": "nm1569067",
+          "name": "Wilson Bethel"
+        },
+        {
+          "id": "nm3147751",
+          "name": "LaKeith Stanfield"
+        }
       ],
       "label": "Apr 23, 2027"
     },
@@ -2905,9 +4825,18 @@
         "Fantasy"
       ],
       "people": [
-        "Benjamin Evan Ainsworth",
-        "Bo Bragason",
-        "Graeme Gilby"
+        {
+          "id": "nm9974256",
+          "name": "Benjamin Evan Ainsworth"
+        },
+        {
+          "id": "nm8400601",
+          "name": "Bo Bragason"
+        },
+        {
+          "id": "nm4108800",
+          "name": "Graeme Gilby"
+        }
       ],
       "label": "Apr 30, 2027"
     },
@@ -2921,10 +4850,22 @@
         "Mystery"
       ],
       "people": [
-        "Brittany O'Grady",
-        "Taz Skylar",
-        "Ines Høysæter Asserson",
-        "Sara Alexander"
+        {
+          "id": "nm6239256",
+          "name": "Brittany O'Grady"
+        },
+        {
+          "id": "nm7501381",
+          "name": "Taz Skylar"
+        },
+        {
+          "id": "nm8175959",
+          "name": "Ines Høysæter Asserson"
+        },
+        {
+          "id": "nm1604904",
+          "name": "Sara Alexander"
+        }
       ],
       "label": "Apr 30, 2027"
     },
@@ -2939,10 +4880,22 @@
         "History"
       ],
       "people": [
-        "Gabriele Rollo",
-        "Mario Sagone",
-        "Rupert Everett",
-        "Riccardo Scamarcio"
+        {
+          "id": "nm13433405",
+          "name": "Gabriele Rollo"
+        },
+        {
+          "id": "nm17105632",
+          "name": "Mario Sagone"
+        },
+        {
+          "id": "nm0000391",
+          "name": "Rupert Everett"
+        },
+        {
+          "id": "nm1249052",
+          "name": "Riccardo Scamarcio"
+        }
       ],
       "label": "May 06, 2027"
     },
@@ -2955,10 +4908,22 @@
         "Romance"
       ],
       "people": [
-        "Kevin Bacon",
-        "Andie MacDowell",
-        "Phoebe Dynevor",
-        "Patrick Schwarzenegger"
+        {
+          "id": "nm0000102",
+          "name": "Kevin Bacon"
+        },
+        {
+          "id": "nm0000510",
+          "name": "Andie MacDowell"
+        },
+        {
+          "id": "nm3697443",
+          "name": "Phoebe Dynevor"
+        },
+        {
+          "id": "nm2200639",
+          "name": "Patrick Schwarzenegger"
+        }
       ],
       "label": "May 07, 2027"
     },
@@ -2983,10 +4948,22 @@
         "Romance"
       ],
       "people": [
-        "Emma Stone",
-        "Chris Pine",
-        "Tim Robbins",
-        "Sissy Spacek"
+        {
+          "id": "nm1297015",
+          "name": "Emma Stone"
+        },
+        {
+          "id": "nm1517976",
+          "name": "Chris Pine"
+        },
+        {
+          "id": "nm0000209",
+          "name": "Tim Robbins"
+        },
+        {
+          "id": "nm0000651",
+          "name": "Sissy Spacek"
+        }
       ],
       "label": "May 21, 2027"
     },
@@ -2998,9 +4975,18 @@
         "Horror"
       ],
       "people": [
-        "Maya da Costa",
-        "Sonia Mena",
-        "Chase Yi"
+        {
+          "id": "nm11273433",
+          "name": "Maya da Costa"
+        },
+        {
+          "id": "nm9989632",
+          "name": "Sonia Mena"
+        },
+        {
+          "id": "nm3524780",
+          "name": "Chase Yi"
+        }
       ],
       "label": "May 21, 2027"
     },
@@ -3015,10 +5001,22 @@
         "Comedy"
       ],
       "people": [
-        "Cynthia Erivo",
-        "Dee Bradley Baker",
-        "Ncuti Gatwa",
-        "James Acaster"
+        {
+          "id": "nm7248827",
+          "name": "Cynthia Erivo"
+        },
+        {
+          "id": "nm0048389",
+          "name": "Dee Bradley Baker"
+        },
+        {
+          "id": "nm6967441",
+          "name": "Ncuti Gatwa"
+        },
+        {
+          "id": "nm4735423",
+          "name": "James Acaster"
+        }
       ],
       "label": "May 21, 2027"
     },
@@ -3033,10 +5031,22 @@
         "Fantasy"
       ],
       "people": [
-        "Ryan Gosling",
-        "Amy Adams",
-        "Matt Smith",
-        "Mia Goth"
+        {
+          "id": "nm0331516",
+          "name": "Ryan Gosling"
+        },
+        {
+          "id": "nm0010736",
+          "name": "Amy Adams"
+        },
+        {
+          "id": "nm1741002",
+          "name": "Matt Smith"
+        },
+        {
+          "id": "nm5301405",
+          "name": "Mia Goth"
+        }
       ],
       "label": "May 28, 2027"
     },
@@ -3059,10 +5069,22 @@
         "Mystery"
       ],
       "people": [
-        "Jeanne Neilson",
-        "Paul du Toit",
-        "Syreeta Banks",
-        "Jeremy John Wells"
+        {
+          "id": "nm2371795",
+          "name": "Jeanne Neilson"
+        },
+        {
+          "id": "nm1957436",
+          "name": "Paul du Toit"
+        },
+        {
+          "id": "nm12081588",
+          "name": "Syreeta Banks"
+        },
+        {
+          "id": "nm2090153",
+          "name": "Jeremy John Wells"
+        }
       ],
       "label": "Jun 01, 2027"
     },
@@ -3077,10 +5099,22 @@
         "Thriller"
       ],
       "people": [
-        "James Franco",
-        "David Harbour",
-        "Noah Centineo",
-        "Jefferson White"
+        {
+          "id": "nm0290556",
+          "name": "James Franco"
+        },
+        {
+          "id": "nm1092086",
+          "name": "David Harbour"
+        },
+        {
+          "id": "nm3170207",
+          "name": "Noah Centineo"
+        },
+        {
+          "id": "nm6366417",
+          "name": "Jefferson White"
+        }
       ],
       "label": "Jun 04, 2027"
     },
@@ -3095,10 +5129,22 @@
         "Comedy"
       ],
       "people": [
-        "Gerard Butler",
-        "Cate Blanchett",
-        "Mason Thames",
-        "Phil Dunster"
+        {
+          "id": "nm0124930",
+          "name": "Gerard Butler"
+        },
+        {
+          "id": "nm0000949",
+          "name": "Cate Blanchett"
+        },
+        {
+          "id": "nm9296746",
+          "name": "Mason Thames"
+        },
+        {
+          "id": "nm4651633",
+          "name": "Phil Dunster"
+        }
       ],
       "label": "Jun 11, 2027"
     },
@@ -3126,10 +5172,22 @@
         "Adventure"
       ],
       "people": [
-        "Shameik Moore",
-        "Hailee Steinfeld",
-        "Brian Tyree Henry",
-        "Nicolas Cage"
+        {
+          "id": "nm4271336",
+          "name": "Shameik Moore"
+        },
+        {
+          "id": "nm2794962",
+          "name": "Hailee Steinfeld"
+        },
+        {
+          "id": "nm3109964",
+          "name": "Brian Tyree Henry"
+        },
+        {
+          "id": "nm0000115",
+          "name": "Nicolas Cage"
+        }
       ],
       "label": "Jun 20, 2027"
     },
@@ -3142,10 +5200,22 @@
         "Thriller"
       ],
       "people": [
-        "Monica Barbaro",
-        "Margot Robbie",
-        "Bradley Cooper",
-        "Wagner Moura"
+        {
+          "id": "nm4834815",
+          "name": "Monica Barbaro"
+        },
+        {
+          "id": "nm3053338",
+          "name": "Margot Robbie"
+        },
+        {
+          "id": "nm0177896",
+          "name": "Bradley Cooper"
+        },
+        {
+          "id": "nm0609944",
+          "name": "Wagner Moura"
+        }
       ],
       "label": "Jun 25, 2027"
     },
@@ -3160,7 +5230,10 @@
         "Adventure"
       ],
       "people": [
-        "Elliot Page"
+        {
+          "id": "nm0680983",
+          "name": "Elliot Page"
+        }
       ],
       "label": "Jun 28, 2027"
     },
@@ -3175,10 +5248,22 @@
         "Comedy"
       ],
       "people": [
-        "Mike Myers",
-        "Cameron Diaz",
-        "Eddie Murphy",
-        "Skyler Gisondo"
+        {
+          "id": "nm0000196",
+          "name": "Mike Myers"
+        },
+        {
+          "id": "nm0000139",
+          "name": "Cameron Diaz"
+        },
+        {
+          "id": "nm0000552",
+          "name": "Eddie Murphy"
+        },
+        {
+          "id": "nm1711114",
+          "name": "Skyler Gisondo"
+        }
       ],
       "label": "Jun 30, 2027"
     }

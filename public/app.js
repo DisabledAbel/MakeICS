@@ -420,7 +420,17 @@ function renderResults(payload, type) {
     resultEl.append(header);
     renderList(events, 'sports', null, payload.timezone);
   } else if (type === 'movies') {
-    const { query, movies } = payload;
+    const { query, movies, personMetadata } = payload;
+
+    if (personMetadata && personMetadata.image) {
+      const validImg = safeHttpUrl(personMetadata.image);
+      if (validImg) {
+        const img = document.createElement('img');
+        img.src = validImg;
+        img.alt = `${personMetadata.name} photo`;
+        header.append(img);
+      }
+    }
 
     const info = document.createElement('div');
     const eyebrow = document.createElement('p');
@@ -429,8 +439,14 @@ function renderResults(payload, type) {
     info.append(eyebrow);
 
     const title = document.createElement('h2');
-    title.textContent = query || 'All Upcoming Movies';
+    title.textContent = personMetadata ? personMetadata.name : (query || 'All Upcoming Movies');
     info.append(title);
+
+    if (personMetadata && personMetadata.description) {
+      const summary = document.createElement('p');
+      summary.textContent = personMetadata.description;
+      info.append(summary);
+    }
 
     const actions = document.createElement('div');
     actions.className = 'actions';
