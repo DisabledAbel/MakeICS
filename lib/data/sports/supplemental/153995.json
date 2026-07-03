@@ -1,7 +1,7 @@
 {
   "teamId": "153995",
   "teamName": "Vancouver Canadians",
-  "updatedAt": "2026-07-02T14:53:54.456Z",
+  "updatedAt": "2026-07-03T04:31:18.737Z",
   "events": [
     {
       "idEvent": "scraped-819180",
@@ -1100,7 +1100,7 @@
       "strEvent": "Vancouver Canadians vs Eugene Emeralds",
       "strHomeTeam": "Vancouver Canadians",
       "strAwayTeam": "Eugene Emeralds",
-      "dateEvent": "2026-07-02",
+      "dateEvent": "2026-07-03",
       "strTime": "02:05:00",
       "strTimestamp": "2026-07-03T02:05:00Z",
       "strLeague": "Northwest League",
@@ -1117,6 +1117,20 @@
       "dateEvent": "2026-07-03",
       "strTime": "20:05:00",
       "strTimestamp": "2026-07-03T20:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-819074",
+      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-07-03",
+      "strTime": "20:10:00",
+      "strTimestamp": "2026-07-03T20:10:00Z",
       "strLeague": "Northwest League",
       "strVenue": "Rogers Field at Nat Bailey Stadium",
       "strStatus": "NS",
