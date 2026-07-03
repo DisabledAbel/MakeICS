@@ -4,21 +4,23 @@ import json
 import urllib.request
 import urllib.error
 
-def is_another_workflow_waiting(repo, token, current_run_id):
+def is_another_workflow_waiting(repo, token, current_run_id, current_workflow_name):
     headers = {
         "Authorization": f"Bearer {token}",
         "Accept": "application/vnd.github.v3+json",
         "User-Agent": "Python-urllib"
     }
 
-    for status in ["queued", "waiting"]:
+    # Only exit if another instance of this SAME workflow is already active or waiting.
+    # We check queued, waiting, and in_progress to avoid race conditions and double-execution.
+    for status in ["queued", "waiting", "in_progress"]:
         url = f"https://api.github.com/repos/{repo}/actions/runs?status={status}"
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req) as response:
             data = json.loads(response.read().decode())
             runs = data.get("workflow_runs", [])
             for run in runs:
-                if str(run.get("id")) != str(current_run_id):
+                if str(run.get("id")) != str(current_run_id) and run.get("name") == current_workflow_name:
                     return True
     return False
 
@@ -26,9 +28,10 @@ def clear_homepage():
     token = os.environ.get("GH_TOKEN")
     repo = os.environ.get("GITHUB_REPOSITORY")
     current_run_id = os.environ.get("GITHUB_RUN_ID")
+    current_workflow_name = os.environ.get("GITHUB_WORKFLOW")
 
-    if not token or not repo:
-        print("Missing GH_TOKEN or GITHUB_REPOSITORY environment variable")
+    if not token or not repo or not current_workflow_name or not current_run_id:
+        print("Missing GH_TOKEN, GITHUB_REPOSITORY, GITHUB_WORKFLOW, or GITHUB_RUN_ID environment variable")
         return
 
     url = f"https://api.github.com/repos/{repo}"
@@ -41,12 +44,17 @@ def clear_homepage():
 
     iteration = 0
     consecutive_failures = 0
+    max_iterations = 180 # Approx 30 minutes at 10s intervals
     while True:
         iteration += 1
+        if iteration > max_iterations:
+            print(f"Iteration {iteration}: Reached maximum iterations ({max_iterations}). Exiting.")
+            break
+
         try:
-            # 1. Check if another workflow is waiting
-            if is_another_workflow_waiting(repo, token, current_run_id):
-                print(f"Iteration {iteration}: Another workflow is waiting. Exiting.")
+            # 1. Check if another instance of this workflow is waiting
+            if is_another_workflow_waiting(repo, token, current_run_id, current_workflow_name):
+                print(f"Iteration {iteration}: Another instance of '{current_workflow_name}' is active. Exiting.")
                 break
 
             # 2. Get current homepage

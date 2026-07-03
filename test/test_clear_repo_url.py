@@ -26,33 +26,27 @@ class TestClearHomepageMissingEnvVars(unittest.TestCase):
 
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
-    def test_missing_both_env_vars(self, mock_sleep, mock_urlopen):
-        with patch.dict(os.environ, {}, clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                clear_homepage()
-            output = mock_stdout.getvalue()
-
-        mock_urlopen.assert_not_called()
-        mock_sleep.assert_not_called()
-        self.assertIn("Missing GH_TOKEN or GITHUB_REPOSITORY", output)
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    def test_missing_gh_token(self, mock_sleep, mock_urlopen):
-        env = {"GITHUB_REPOSITORY": "owner/repo"}
+    def test_missing_env_vars(self, mock_sleep, mock_urlopen):
+        # Test missing GITHUB_WORKFLOW
+        env = {"GITHUB_REPOSITORY": "owner/repo", "GH_TOKEN": "token", "GITHUB_RUN_ID": "100"}
         with patch.dict(os.environ, env, clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
                 clear_homepage()
             output = mock_stdout.getvalue()
+        self.assertIn("Missing GH_TOKEN, GITHUB_REPOSITORY, GITHUB_WORKFLOW, or GITHUB_RUN_ID", output)
 
-        mock_urlopen.assert_not_called()
-        mock_sleep.assert_not_called()
-        self.assertIn("Missing GH_TOKEN or GITHUB_REPOSITORY", output)
+        # Test missing GH_TOKEN
+        env = {"GITHUB_REPOSITORY": "owner/repo", "GITHUB_WORKFLOW": "Clear Repo URL", "GITHUB_RUN_ID": "100"}
+        with patch.dict(os.environ, env, clear=True):
+            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
+                clear_homepage()
+            output = mock_stdout.getvalue()
+        self.assertIn("Missing GH_TOKEN, GITHUB_REPOSITORY, GITHUB_WORKFLOW, or GITHUB_RUN_ID", output)
 
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
     def test_missing_github_repository(self, mock_sleep, mock_urlopen):
-        env = {"GH_TOKEN": "mytoken"}
+        env = {"GH_TOKEN": "mytoken", "GITHUB_WORKFLOW": "Clear Repo URL", "GITHUB_RUN_ID": "100"}
         with patch.dict(os.environ, env, clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
                 clear_homepage()
@@ -60,20 +54,26 @@ class TestClearHomepageMissingEnvVars(unittest.TestCase):
 
         mock_urlopen.assert_not_called()
         mock_sleep.assert_not_called()
-        self.assertIn("Missing GH_TOKEN or GITHUB_REPOSITORY", output)
+        self.assertIn("Missing GH_TOKEN, GITHUB_REPOSITORY, GITHUB_WORKFLOW, or GITHUB_RUN_ID", output)
 
 
 class TestClearHomepageExits(unittest.TestCase):
     """clear_homepage() exits when another workflow is waiting or URL is removed."""
 
     def _env(self):
-        return {"GH_TOKEN": "tok123", "GITHUB_REPOSITORY": "owner/repo", "GITHUB_RUN_ID": "100"}
+        return {
+            "GH_TOKEN": "tok123",
+            "GITHUB_REPOSITORY": "owner/repo",
+            "GITHUB_RUN_ID": "100",
+            "GITHUB_WORKFLOW": "Clear Repo URL"
+        }
 
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
     def test_exits_when_another_workflow_queued(self, mock_sleep, mock_urlopen):
-        """Should exit immediately if another queued workflow is found."""
-        queued_resp = _make_response({"workflow_runs": [{"id": "101"}]})
+        """Should exit immediately if another queued instance of the SAME workflow is found."""
+        # Another instance with same name
+        queued_resp = _make_response({"workflow_runs": [{"id": "101", "name": "Clear Repo URL"}]})
         mock_urlopen.side_effect = [queued_resp]
 
         with patch.dict(os.environ, self._env(), clear=True):
@@ -81,15 +81,45 @@ class TestClearHomepageExits(unittest.TestCase):
                 clear_homepage()
             output = mock_stdout.getvalue()
 
-        self.assertIn("Another workflow is waiting. Exiting.", output)
+        self.assertIn("Another instance of 'Clear Repo URL' is active. Exiting.", output)
+
+    @patch("urllib.request.urlopen")
+    @patch("time.sleep")
+    def test_continues_when_different_workflow_queued(self, mock_sleep, mock_urlopen):
+        """Should NOT exit if another queued workflow has a different name."""
+        different_workflow_resp = _make_response({"workflow_runs": [{"id": "101", "name": "Other Workflow"}]})
+        empty_runs_resp = _make_response({"workflow_runs": []})
+        mock_urlopen.side_effect = [
+            # Iteration 1
+            different_workflow_resp, # queued check (finds other)
+            empty_runs_resp, # waiting check
+            empty_runs_resp, # in_progress check
+            _make_response({"homepage": ""}), # homepage check
+            # Iteration 2
+            empty_runs_resp, # queued check
+            empty_runs_resp, # waiting check
+            empty_runs_resp, # in_progress check
+            _make_response({"homepage": "https://example.com"}), # found it
+            _make_response({}, status=200) # cleared it
+        ]
+
+        with patch.dict(os.environ, self._env(), clear=True):
+            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
+                clear_homepage()
+            output = mock_stdout.getvalue()
+
+        self.assertIn("Iteration 1: No URL set, waiting...", output)
+        self.assertIn("Iteration 2: URL found. Clearing...", output)
 
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
     def test_exits_when_url_removed(self, mock_sleep, mock_urlopen):
         """Should exit after successfully clearing the homepage."""
+        empty_runs_resp = _make_response({"workflow_runs": []})
         mock_urlopen.side_effect = [
-            _make_response({"workflow_runs": []}), # queued
-            _make_response({"workflow_runs": []}), # waiting
+            empty_runs_resp, # queued
+            empty_runs_resp, # waiting
+            empty_runs_resp, # in_progress
             _make_response({"homepage": "https://example.com"}),
             _make_response({}, status=200)
         ]
@@ -120,7 +150,17 @@ class TestClearHomepageExits(unittest.TestCase):
     @patch("time.sleep")
     def test_exits_on_consecutive_failures(self, mock_sleep, mock_urlopen):
         """Should exit after 10 consecutive failures."""
-        mock_urlopen.side_effect = Exception("error")
+        empty_runs_resp = _make_response({"workflow_runs": []})
+        # Mock responses to fail 10 times in a row
+        side_effects = []
+        for _ in range(10):
+            side_effects.extend([
+                empty_runs_resp, # queued
+                empty_runs_resp, # waiting
+                empty_runs_resp, # in_progress
+                Exception("error") # homepage check fails
+            ])
+        mock_urlopen.side_effect = side_effects
 
         with patch.dict(os.environ, self._env(), clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
@@ -130,20 +170,47 @@ class TestClearHomepageExits(unittest.TestCase):
         self.assertIn("Too many consecutive failures (10). Exiting.", output)
         self.assertEqual(mock_sleep.call_count, 9)
 
+    @patch("urllib.request.urlopen")
+    @patch("time.sleep")
+    def test_exits_on_max_iterations(self, mock_sleep, mock_urlopen):
+        """Should exit after reaching max_iterations."""
+        empty_runs_resp = _make_response({"workflow_runs": []})
+        # Mock responses to keep it waiting
+        mock_urlopen.side_effect = [
+            empty_runs_resp, # queued
+            empty_runs_resp, # waiting
+            empty_runs_resp, # in_progress
+            _make_response({"homepage": ""}), # homepage is empty
+        ] * 200 # more than max_iterations
+
+        with patch.dict(os.environ, self._env(), clear=True):
+            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
+                clear_homepage()
+            output = mock_stdout.getvalue()
+
+        self.assertIn("Reached maximum iterations (180). Exiting.", output)
+
 
 class TestClearHomepagePrivacyAndHeaders(unittest.TestCase):
     """Checks headers and that secret URL is not logged."""
 
     def _env(self):
-        return {"GH_TOKEN": "tok123", "GITHUB_REPOSITORY": "owner/repo", "GITHUB_RUN_ID": "100"}
+        return {
+            "GH_TOKEN": "tok123",
+            "GITHUB_REPOSITORY": "owner/repo",
+            "GITHUB_RUN_ID": "100",
+            "GITHUB_WORKFLOW": "Clear Repo URL"
+        }
 
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
     def test_homepage_url_not_printed_to_logs(self, mock_sleep, mock_urlopen):
         secret_url = "https://super-secret-url.example.com"
+        empty_runs_resp = _make_response({"workflow_runs": []})
         mock_urlopen.side_effect = [
-            _make_response({"workflow_runs": []}),
-            _make_response({"workflow_runs": []}),
+            empty_runs_resp,
+            empty_runs_resp,
+            empty_runs_resp,
             _make_response({"homepage": secret_url}),
             _make_response({}, status=200)
         ]
