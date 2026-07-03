@@ -21,6 +21,15 @@ def _make_response(body: dict, status: int = 200):
     return mock_resp
 
 
+def _env():
+    return {
+        "GH_TOKEN": "tok123",
+        "GITHUB_REPOSITORY": "owner/repo",
+        "GITHUB_RUN_ID": "100",
+        "GITHUB_WORKFLOW": "Clear Repo URL"
+    }
+
+
 class TestClearHomepageMissingEnvVars(unittest.TestCase):
     """clear_homepage() returns early when required env vars are absent."""
 
@@ -60,14 +69,6 @@ class TestClearHomepageMissingEnvVars(unittest.TestCase):
 class TestClearHomepageExits(unittest.TestCase):
     """clear_homepage() exits when another workflow is waiting or URL is removed."""
 
-    def _env(self):
-        return {
-            "GH_TOKEN": "tok123",
-            "GITHUB_REPOSITORY": "owner/repo",
-            "GITHUB_RUN_ID": "100",
-            "GITHUB_WORKFLOW": "Clear Repo URL"
-        }
-
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
     def test_exits_when_another_workflow_queued(self, mock_sleep, mock_urlopen):
@@ -76,7 +77,7 @@ class TestClearHomepageExits(unittest.TestCase):
         queued_resp = _make_response({"workflow_runs": [{"id": "101", "name": "Clear Repo URL"}]})
         mock_urlopen.side_effect = [queued_resp]
 
-        with patch.dict(os.environ, self._env(), clear=True):
+        with patch.dict(os.environ, _env(), clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
                 clear_homepage()
             output = mock_stdout.getvalue()
@@ -103,7 +104,7 @@ class TestClearHomepageExits(unittest.TestCase):
             _make_response({}, status=200) # cleared it
         ]
 
-        with patch.dict(os.environ, self._env(), clear=True):
+        with patch.dict(os.environ, _env(), clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
                 clear_homepage()
             output = mock_stdout.getvalue()
@@ -124,7 +125,7 @@ class TestClearHomepageExits(unittest.TestCase):
             _make_response({}, status=200)
         ]
 
-        with patch.dict(os.environ, self._env(), clear=True):
+        with patch.dict(os.environ, _env(), clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
                 clear_homepage()
             output = mock_stdout.getvalue()
@@ -138,7 +139,7 @@ class TestClearHomepageExits(unittest.TestCase):
         """Should exit immediately on 401 or 403 errors."""
         mock_urlopen.side_effect = urllib.error.HTTPError("url", 401, "Unauthorized", {}, None)
 
-        with patch.dict(os.environ, self._env(), clear=True):
+        with patch.dict(os.environ, _env(), clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
                 clear_homepage()
             output = mock_stdout.getvalue()
@@ -162,7 +163,7 @@ class TestClearHomepageExits(unittest.TestCase):
             ])
         mock_urlopen.side_effect = side_effects
 
-        with patch.dict(os.environ, self._env(), clear=True):
+        with patch.dict(os.environ, _env(), clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
                 clear_homepage()
             output = mock_stdout.getvalue()
@@ -183,7 +184,7 @@ class TestClearHomepageExits(unittest.TestCase):
             _make_response({"homepage": ""}), # homepage is empty
         ] * 200 # more than max_iterations
 
-        with patch.dict(os.environ, self._env(), clear=True):
+        with patch.dict(os.environ, _env(), clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
                 clear_homepage()
             output = mock_stdout.getvalue()
@@ -193,14 +194,6 @@ class TestClearHomepageExits(unittest.TestCase):
 
 class TestClearHomepagePrivacyAndHeaders(unittest.TestCase):
     """Checks headers and that secret URL is not logged."""
-
-    def _env(self):
-        return {
-            "GH_TOKEN": "tok123",
-            "GITHUB_REPOSITORY": "owner/repo",
-            "GITHUB_RUN_ID": "100",
-            "GITHUB_WORKFLOW": "Clear Repo URL"
-        }
 
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
@@ -215,7 +208,7 @@ class TestClearHomepagePrivacyAndHeaders(unittest.TestCase):
             _make_response({}, status=200)
         ]
 
-        with patch.dict(os.environ, self._env(), clear=True):
+        with patch.dict(os.environ, _env(), clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
                 clear_homepage()
             output = mock_stdout.getvalue()
