@@ -18,7 +18,7 @@ def is_another_workflow_waiting(repo, token, current_run_id, current_workflow_na
         while True:
             url = f"https://api.github.com/repos/{repo}/actions/runs?status={status}&per_page=100&page={page}"
             req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req) as response:
+            with urllib.request.urlopen(req, timeout=15) as response:
                 data = json.loads(response.read().decode())
                 runs = data.get("workflow_runs", [])
                 if not runs:
@@ -66,7 +66,7 @@ def clear_homepage():
 
             # 2. Get current homepage
             req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req) as response:
+            with urllib.request.urlopen(req, timeout=15) as response:
                 data = json.loads(response.read().decode())
                 homepage = data.get("homepage")
 
@@ -78,7 +78,7 @@ def clear_homepage():
                 patch_headers = headers.copy()
                 patch_headers["Content-Type"] = "application/json"
                 patch_req = urllib.request.Request(url, data=patch_data, headers=patch_headers, method="PATCH")
-                with urllib.request.urlopen(patch_req) as patch_response:
+                with urllib.request.urlopen(patch_req, timeout=15) as patch_response:
                     if patch_response.getcode() == 200:
                         print(f"Iteration {iteration}: URL was removed. Exiting.")
                         return # Successfully removed, so we end
