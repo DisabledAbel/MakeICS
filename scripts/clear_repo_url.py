@@ -91,11 +91,23 @@ def clear_homepage():
                     print(f"Iteration {iteration}: No URL set, waiting...")
 
         except urllib.error.HTTPError as e:
-            if e.code in [401, 403]:
-                print(f"Iteration {iteration}: Unrecoverable authentication error {e.code}. Exiting.")
+            if e.code == 401:
+                print(f"Iteration {iteration}: Unrecoverable authentication error 401. Exiting.")
                 break
-            print(f"Iteration {iteration}: HTTP Error: {e.code}")
-            consecutive_failures += 1
+
+            if e.code == 403:
+                # Check for rate limiting or abuse detection
+                retry_after = e.headers.get("Retry-After")
+                remaining = e.headers.get("X-RateLimit-Remaining")
+                if retry_after or (remaining and int(remaining) == 0):
+                    print(f"Iteration {iteration}: Rate limited (403). Retrying...")
+                    consecutive_failures += 1
+                else:
+                    print(f"Iteration {iteration}: Unrecoverable authentication/permission error 403. Exiting.")
+                    break
+            else:
+                print(f"Iteration {iteration}: HTTP Error: {e.code}")
+                consecutive_failures += 1
         except Exception as e:
             print(f"Iteration {iteration}: Error: {e}")
             consecutive_failures += 1

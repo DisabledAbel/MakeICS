@@ -135,8 +135,8 @@ class TestClearHomepageExits(unittest.TestCase):
 
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
-    def test_exits_on_auth_error(self, mock_sleep, mock_urlopen):
-        """Should exit immediately on 401 or 403 errors."""
+    def test_exits_on_auth_error_401(self, mock_sleep, mock_urlopen):
+        """Should exit immediately on 401 errors."""
         mock_urlopen.side_effect = urllib.error.HTTPError("url", 401, "Unauthorized", {}, None)
 
         with patch.dict(os.environ, _env(), clear=True):
@@ -146,6 +146,47 @@ class TestClearHomepageExits(unittest.TestCase):
 
         self.assertIn("Unrecoverable authentication error 401. Exiting.", output)
         mock_sleep.assert_not_called()
+
+    @patch("urllib.request.urlopen")
+    @patch("time.sleep")
+    def test_exits_on_auth_error_403(self, mock_sleep, mock_urlopen):
+        """Should exit immediately on 403 errors that are NOT rate limits."""
+        mock_urlopen.side_effect = urllib.error.HTTPError("url", 403, "Forbidden", {}, None)
+
+        with patch.dict(os.environ, _env(), clear=True):
+            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
+                clear_homepage()
+            output = mock_stdout.getvalue()
+
+        self.assertIn("Unrecoverable authentication/permission error 403. Exiting.", output)
+        mock_sleep.assert_not_called()
+
+    @patch("urllib.request.urlopen")
+    @patch("time.sleep")
+    def test_retries_on_rate_limit_403(self, mock_sleep, mock_urlopen):
+        """Should retry on 403 errors that include Retry-After."""
+        empty_runs_resp = _make_response({"workflow_runs": []})
+        rate_limit_err = urllib.error.HTTPError("url", 403, "Rate Limit", {"Retry-After": "60"}, None)
+
+        mock_urlopen.side_effect = [
+            empty_runs_resp, # iteration 1 queued
+            empty_runs_resp, # iteration 1 waiting
+            empty_runs_resp, # iteration 1 in_progress
+            rate_limit_err,  # iteration 1 homepage check fails with rate limit
+            empty_runs_resp, # iteration 2 queued
+            empty_runs_resp, # iteration 2 waiting
+            empty_runs_resp, # iteration 2 in_progress
+            _make_response({"homepage": "https://example.com"}), # iteration 2 success
+            _make_response({}, status=200)
+        ]
+
+        with patch.dict(os.environ, _env(), clear=True):
+            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
+                clear_homepage()
+            output = mock_stdout.getvalue()
+
+        self.assertIn("Iteration 1: Rate limited (403). Retrying...", output)
+        self.assertIn("Iteration 2: URL found. Clearing...", output)
 
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
