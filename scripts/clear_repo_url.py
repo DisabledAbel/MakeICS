@@ -14,14 +14,21 @@ def is_another_workflow_waiting(repo, token, current_run_id, current_workflow_na
     # Only exit if another instance of this SAME workflow is already active or waiting.
     # We check queued, waiting, and in_progress to avoid race conditions and double-execution.
     for status in ["queued", "waiting", "in_progress"]:
-        url = f"https://api.github.com/repos/{repo}/actions/runs?status={status}"
-        req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req) as response:
-            data = json.loads(response.read().decode())
-            runs = data.get("workflow_runs", [])
-            for run in runs:
-                if str(run.get("id")) != str(current_run_id) and run.get("name") == current_workflow_name:
-                    return True
+        page = 1
+        while True:
+            url = f"https://api.github.com/repos/{repo}/actions/runs?status={status}&per_page=100&page={page}"
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req) as response:
+                data = json.loads(response.read().decode())
+                runs = data.get("workflow_runs", [])
+                if not runs:
+                    break
+                for run in runs:
+                    if str(run.get("id")) != str(current_run_id) and run.get("name") == current_workflow_name:
+                        return True
+                if len(runs) < 100:
+                    break
+                page += 1
     return False
 
 def clear_homepage():
