@@ -2,35 +2,24 @@ import os
 import time
 import json
 import urllib.request
+import urllib.error
 
 def is_another_workflow_waiting(repo, token, current_run_id):
-    url = f"https://api.github.com/repos/{repo}/actions/runs?status=queued"
     headers = {
         "Authorization": f"Bearer {token}",
         "Accept": "application/vnd.github.v3+json",
         "User-Agent": "Python-urllib"
     }
-    try:
+
+    for status in ["queued", "waiting"]:
+        url = f"https://api.github.com/repos/{repo}/actions/runs?status={status}"
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req) as response:
             data = json.loads(response.read().decode())
             runs = data.get("workflow_runs", [])
-            # Check if there are any queued runs that are NOT this one
             for run in runs:
                 if str(run.get("id")) != str(current_run_id):
                     return True
-
-            # Also check for 'waiting' status which might happen for environments/approvals
-            url_waiting = f"https://api.github.com/repos/{repo}/actions/runs?status=waiting"
-            req_waiting = urllib.request.Request(url_waiting, headers=headers)
-            with urllib.request.urlopen(req_waiting) as response_waiting:
-                data_waiting = json.loads(response_waiting.read().decode())
-                runs_waiting = data_waiting.get("workflow_runs", [])
-                for run in runs_waiting:
-                    if str(run.get("id")) != str(current_run_id):
-                        return True
-    except Exception as e:
-        print(f"Error checking for waiting workflows: {e}")
     return False
 
 def clear_homepage():
@@ -51,6 +40,7 @@ def clear_homepage():
     }
 
     iteration = 0
+    consecutive_failures = 0
     while True:
         iteration += 1
         try:
@@ -79,12 +69,25 @@ def clear_homepage():
                         return # Successfully removed, so we end
                     else:
                         print(f"Iteration {iteration}: Failed to remove URL. Status: {patch_response.getcode()}")
+                        consecutive_failures += 1
             else:
+                consecutive_failures = 0 # Success (even if no URL removed)
                 if iteration % 6 == 1: # Log roughly every minute (10s intervals)
                     print(f"Iteration {iteration}: No URL set, waiting...")
 
+        except urllib.error.HTTPError as e:
+            if e.code in [401, 403]:
+                print(f"Iteration {iteration}: Unrecoverable authentication error {e.code}. Exiting.")
+                break
+            print(f"Iteration {iteration}: HTTP Error: {e.code}")
+            consecutive_failures += 1
         except Exception as e:
             print(f"Iteration {iteration}: Error: {e}")
+            consecutive_failures += 1
+
+        if consecutive_failures >= 10:
+            print(f"Iteration {iteration}: Too many consecutive failures ({consecutive_failures}). Exiting.")
+            break
 
         time.sleep(10)
 
