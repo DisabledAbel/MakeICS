@@ -40,8 +40,11 @@ async function main() {
     const mergedMovies = Array.from(movieMap.values()).sort((a, b) => {
       const dateA = new Date(a.releaseDate);
       const dateB = new Date(b.releaseDate);
-      if (isNaN(dateA.getTime())) return 1;
-      if (isNaN(dateB.getTime())) return -1;
+      const isInvalidA = isNaN(dateA.getTime());
+      const isInvalidB = isNaN(dateB.getTime());
+      if (isInvalidA && isInvalidB) return 0;
+      if (isInvalidA) return 1;
+      if (isInvalidB) return -1;
       return dateA - dateB;
     });
 
