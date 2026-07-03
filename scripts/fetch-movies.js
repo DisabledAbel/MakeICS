@@ -20,9 +20,34 @@ async function main() {
 
     console.log(`Found ${movies.length} upcoming movies.`);
 
+    let existingMovies = [];
+    try {
+      const content = await fs.readFile(OUTPUT_FILE, 'utf8');
+      const existingData = JSON.parse(content);
+      existingMovies = existingData.movies || [];
+      console.log(`Loaded ${existingMovies.length} existing movies.`);
+    } catch (err) {
+      if (err.code !== 'ENOENT') {
+        console.warn('Error reading existing movie data:', err.message);
+      }
+    }
+
+    // Merge logic: use Map for unique IDs, new data overwrites old data
+    const movieMap = new Map();
+    existingMovies.forEach(m => movieMap.set(m.id, m));
+    movies.forEach(m => movieMap.set(m.id, m));
+
+    const mergedMovies = Array.from(movieMap.values()).sort((a, b) => {
+      const dateA = new Date(a.releaseDate);
+      const dateB = new Date(b.releaseDate);
+      if (isNaN(dateA.getTime())) return 1;
+      if (isNaN(dateB.getTime())) return -1;
+      return dateA - dateB;
+    });
+
     const payload = {
       generatedAt: new Date().toISOString(),
-      movies
+      movies: mergedMovies
     };
 
     await fs.mkdir(MOVIES_DATA_DIR, { recursive: true });

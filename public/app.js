@@ -265,7 +265,7 @@ function icsUrlForCurrent() {
     path = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}&format=ics&tz=${encodeURIComponent(tz)}&since=${since}`;
   } else if (currentCategory === 'movies') {
     const movieType = movieTypeInput.value;
-    path = `/api/movies?q=${encodeURIComponent(moviesInput.value)}&type=${encodeURIComponent(movieType)}&format=ics&since=${since}`;
+    path = `/api/movies?q=${encodeURIComponent(moviesInput.value)}&type=${encodeURIComponent(movieType)}&format=ics`;
   }
   return new URL(path, window.location.origin).href;
 }
@@ -619,7 +619,7 @@ form.addEventListener('submit', async (event) => {
   } else if (currentCategory === 'movies') {
     label = moviesInput.value || 'All Movies';
     const movieType = movieTypeInput.value;
-    url = `/api/movies?q=${encodeURIComponent(moviesInput.value)}&type=${encodeURIComponent(movieType)}&since=${since}`;
+    url = `/api/movies?q=${encodeURIComponent(moviesInput.value)}&type=${encodeURIComponent(movieType)}`;
   }
 
   setStatus(`Fetching for ${label}...`);
