@@ -149,7 +149,7 @@ class TestClearHomepageExits(unittest.TestCase):
                     clear_homepage()
             output = mock_stdout.getvalue()
 
-        self.assertIn("URL found (Auth: True, Anon: True). Clearing...", output)
+        self.assertIn("URL found (Auth: 19 chars, Anon: 19 chars). Clearing...", output)
         self.assertIn("URL was removed. Continuing monitoring...", output)
 
     @patch("urllib.request.urlopen")
@@ -191,7 +191,7 @@ class TestClearHomepageExits(unittest.TestCase):
                     clear_homepage()
             output = mock_stdout.getvalue()
 
-        self.assertIn("URL found (Auth: True, Anon: False). Clearing...", output)
+        self.assertIn("URL found (Auth: 19 chars, Anon: 0 chars). Clearing...", output)
         self.assertIn("URL was removed. Continuing monitoring...", output)
         self.assertIn("Iteration 7: No URL set, waiting...", output)
 
@@ -361,6 +361,38 @@ class TestClearHomepagePrivacyAndHeaders(unittest.TestCase):
             output = mock_stdout.getvalue()
 
         self.assertNotIn(secret_url, output)
+        self.assertIn(f"URL found (Auth: {len(secret_url)} chars", output)
+
+    @patch("urllib.request.urlopen")
+    @patch("time.sleep")
+    @patch("time.time")
+    def test_patch_payload_and_headers(self, mock_time, mock_sleep, mock_urlopen):
+        """Verify the PATCH request sends 'homepage': null and correct headers."""
+        mock_time.side_effect = [0, 301, 301]
+        empty_runs_resp = _make_response({"workflow_runs": []})
+
+        # Iteration 1 finds and clears
+        mock_urlopen.side_effect = [
+            empty_runs_resp, empty_runs_resp, empty_runs_resp,
+            _make_response({"homepage": "https://example.com"}),
+            _make_response({"homepage": ""}),
+            _make_response({}, status=200)
+        ]
+
+        with patch.dict(os.environ, _env(), clear=True):
+            with patch("clear_repo_url.MAX_ITERATIONS", 1):
+                clear_homepage()
+
+        # Last call should be the PATCH request
+        patch_req = mock_urlopen.call_args_list[-1][0][0]
+        self.assertEqual(patch_req.get_method(), "PATCH")
+
+        payload = json.loads(patch_req.data.decode("utf-8"))
+        self.assertIn("homepage", payload)
+        self.assertIsNone(payload["homepage"])
+
+        self.assertEqual(patch_req.get_header("Accept"), "application/vnd.github+json")
+        self.assertEqual(patch_req.get_header("X-github-api-version"), "2022-11-28")
 
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
