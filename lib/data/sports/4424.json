@@ -1,7 +1,7 @@
 {
   "leagueId": "4424",
   "leagueName": "MLB",
-  "updatedAt": "2026-07-04T03:57:07.742Z",
+  "updatedAt": "2026-07-04T08:53:11.702Z",
   "events": [
     {
       "idEvent": "2386876",
@@ -6170,7 +6170,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -6221,7 +6221,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -6272,7 +6272,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -6323,7 +6323,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -6374,7 +6374,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     }
