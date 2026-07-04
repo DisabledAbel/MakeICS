@@ -1,7 +1,7 @@
 {
   "teamId": "142032",
   "teamName": "Jacksonville Jumbo Shrimp",
-  "updatedAt": "2026-07-03T15:00:12.950Z",
+  "updatedAt": "2026-07-04T04:20:56.171Z",
   "events": [
     {
       "idEvent": "scraped-816453",
@@ -1198,7 +1198,7 @@
       "strEvent": "Nashville Sounds vs Jacksonville Jumbo Shrimp",
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
-      "dateEvent": "2026-07-03",
+      "dateEvent": "2026-07-04",
       "strTime": "23:35:00",
       "strTimestamp": "2026-07-03T23:35:00Z",
       "strLeague": "International League",
@@ -1213,8 +1213,22 @@
       "strHomeTeam": "Nashville Sounds",
       "strAwayTeam": "Jacksonville Jumbo Shrimp",
       "dateEvent": "2026-07-04",
-      "strTime": "23:05:00",
-      "strTimestamp": "2026-07-04T23:05:00Z",
+      "strTime": "21:05:00",
+      "strTimestamp": "2026-07-04T21:05:00Z",
+      "strLeague": "International League",
+      "strVenue": "First Horizon Park",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-816107",
+      "strEvent": "Nashville Sounds vs Jacksonville Jumbo Shrimp",
+      "strHomeTeam": "Nashville Sounds",
+      "strAwayTeam": "Jacksonville Jumbo Shrimp",
+      "dateEvent": "2026-07-04",
+      "strTime": "21:10:00",
+      "strTimestamp": "2026-07-04T21:10:00Z",
       "strLeague": "International League",
       "strVenue": "First Horizon Park",
       "strStatus": "NS",
