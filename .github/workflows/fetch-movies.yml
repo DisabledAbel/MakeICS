@@ -41,7 +41,7 @@ jobs:
           git config --global user.email "196466003+DisabledAbel@users.noreply.github.com"
           if [[ -n "$(git status --porcelain lib/data/movies/)" ]]; then
             git add lib/data/movies/
-            git commit -m "Update movie release calendar 🎞"
+            git commit -m "🎞 Update movie release calendar 🎞"
             git pull --rebase
             git push
           else
