@@ -11,7 +11,8 @@ MIN_DURATION = 300 # 5 minutes
 def is_another_workflow_waiting(repo, token, current_run_id, current_workflow_name):
     headers = {
         "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github.v3+json",
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
         "User-Agent": "Python-urllib"
     }
 
@@ -49,12 +50,14 @@ def clear_homepage():
 
     headers = {
         "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github.v3+json",
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
         "User-Agent": "Python-urllib"
     }
 
     anon_headers = {
-        "Accept": "application/vnd.github.v3+json",
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
         "User-Agent": "Python-urllib"
     }
 
@@ -98,10 +101,12 @@ def clear_homepage():
                         print(f"Iteration {iteration}: Anon check Error: {e}")
 
             if homepage_auth or homepage_anon:
-                print(f"Iteration {iteration}: URL found (Auth: {bool(homepage_auth)}, Anon: {bool(homepage_anon)}). Clearing...")
+                auth_len = len(homepage_auth) if homepage_auth else 0
+                anon_len = len(homepage_anon) if homepage_anon else 0
+                print(f"Iteration {iteration}: URL found (Auth: {auth_len} chars, Anon: {anon_len} chars). Clearing...")
 
                 # Clear homepage
-                patch_data = json.dumps({"homepage": ""}).encode("utf-8")
+                patch_data = json.dumps({"homepage": None}).encode("utf-8")
                 patch_headers = headers.copy()
                 patch_headers["Content-Type"] = "application/json"
                 patch_req = urllib.request.Request(url, data=patch_data, headers=patch_headers, method="PATCH")
