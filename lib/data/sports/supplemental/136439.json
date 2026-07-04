@@ -1,7 +1,7 @@
 {
   "teamId": "136439",
   "teamName": "Indiana Fever",
-  "updatedAt": "2026-07-04T08:22:09.290Z",
+  "updatedAt": "2026-07-04T12:57:34.227Z",
   "events": [
     {
       "idEvent": "scraped-2026-09-25-minnesota-lynx-vs-indiana-fever",
@@ -71,20 +71,6 @@
       "strVenue": "Gainbridge Fieldhouse",
       "strStatus": "NS",
       "strTVStation": "ION",
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-2026-08-23-chicago-sky-vs-indiana-fever",
-      "strEvent": "Chicago Sky vs Indiana Fever",
-      "strHomeTeam": "Chicago Sky",
-      "strAwayTeam": "Indiana Fever",
-      "dateEvent": "2026-08-23",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-08-23T23:00:00Z",
-      "strLeague": "WNBA",
-      "strVenue": "Wintrust Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBC/Peacock",
       "source": "scraped"
     },
     {
