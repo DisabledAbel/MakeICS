@@ -8,13 +8,19 @@ import urllib.error
 MAX_ITERATIONS = 180 # Approx 30 minutes at 10s intervals
 MIN_DURATION = 300 # 5 minutes
 
-def is_another_workflow_waiting(repo, token, current_run_id, current_workflow_name):
+def get_github_headers(token=None):
+    """Constructs shared headers for GitHub API requests."""
     headers = {
-        "Authorization": f"Bearer {token}",
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28",
         "User-Agent": "Python-urllib"
     }
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    return headers
+
+def is_another_workflow_waiting(repo, token, current_run_id, current_workflow_name):
+    headers = get_github_headers(token)
 
     # Only exit if another instance of this SAME workflow is already active or waiting.
     # We check queued, waiting, and in_progress to avoid race conditions and double-execution.
@@ -48,18 +54,8 @@ def clear_homepage():
 
     url = f"https://api.github.com/repos/{repo}"
 
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2022-11-28",
-        "User-Agent": "Python-urllib"
-    }
-
-    anon_headers = {
-        "Accept": "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2022-11-28",
-        "User-Agent": "Python-urllib"
-    }
+    headers = get_github_headers(token)
+    anon_headers = get_github_headers()
 
     iteration = 0
     consecutive_failures = 0
