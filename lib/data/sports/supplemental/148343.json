@@ -1,7 +1,7 @@
 {
   "teamId": "148343",
   "teamName": "Albany Firebirds",
-  "updatedAt": "2026-07-04T03:27:57.600Z",
+  "updatedAt": "2026-07-04T13:40:22.481Z",
   "events": [
     {
       "idEvent": "af1-2026-07-05-beaumont-renegades-albany-firebirds",
@@ -12,7 +12,7 @@
       "strTime": "22:00:00",
       "strTimestamp": "2026-07-05T22:00:00.000Z",
       "strLeague": "Arena Football One",
-      "strVenue": "TBD",
+      "strVenue": null,
       "strTVStation": "RS",
       "strStatus": "NS",
       "source": "af1-scrape"
