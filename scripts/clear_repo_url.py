@@ -4,6 +4,10 @@ import json
 import urllib.request
 import urllib.error
 
+# Configurable constants (can be overridden in tests)
+MAX_ITERATIONS = 180 # Approx 30 minutes at 10s intervals
+MIN_DURATION = 300 # 5 minutes
+
 def is_another_workflow_waiting(repo, token, current_run_id, current_workflow_name):
     headers = {
         "Authorization": f"Bearer {token}",
@@ -49,13 +53,21 @@ def clear_homepage():
         "User-Agent": "Python-urllib"
     }
 
+    anon_headers = {
+        "Accept": "application/vnd.github.v3+json",
+        "User-Agent": "Python-urllib"
+    }
+
     iteration = 0
     consecutive_failures = 0
-    max_iterations = 180 # Approx 30 minutes at 10s intervals
+    start_time = time.time()
+
     while True:
         iteration += 1
-        if iteration > max_iterations:
-            print(f"Iteration {iteration}: Reached maximum iterations ({max_iterations}). Exiting.")
+        elapsed = time.time() - start_time
+
+        if iteration > MAX_ITERATIONS and elapsed >= MIN_DURATION:
+            print(f"Iteration {iteration}: Reached maximum iterations ({MAX_ITERATIONS}) and minimum duration. Exiting.")
             break
 
         try:
@@ -64,14 +76,28 @@ def clear_homepage():
                 print(f"Iteration {iteration}: Another instance of '{current_workflow_name}' is active. Exiting.")
                 break
 
-            # 2. Get current homepage
-            req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req, timeout=15) as response:
-                data = json.loads(response.read().decode())
-                homepage = data.get("homepage")
+            # 2. Get current homepage (Logged in check)
+            homepage_auth = None
+            req_auth = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req_auth, timeout=15) as response:
+                homepage_auth = json.loads(response.read().decode()).get("homepage")
 
-            if homepage:
-                print(f"Iteration {iteration}: URL found. Clearing...")
+            # 3. Get current homepage (Logged out check)
+            homepage_anon = None
+            try:
+                req_anon = urllib.request.Request(url, headers=anon_headers)
+                with urllib.request.urlopen(req_anon, timeout=15) as response:
+                    homepage_anon = json.loads(response.read().decode()).get("homepage")
+            except urllib.error.HTTPError as e:
+                # Logged out check might hit rate limits sooner; we don't want to fail the whole script for this
+                if e.code == 403:
+                    if iteration % 6 == 1:
+                        print(f"Iteration {iteration}: Anon check rate limited (403).")
+                else:
+                    print(f"Iteration {iteration}: Anon check HTTP Error: {e.code}")
+
+            if homepage_auth or homepage_anon:
+                print(f"Iteration {iteration}: URL found (Auth: {bool(homepage_auth)}, Anon: {bool(homepage_anon)}). Clearing...")
 
                 # Clear homepage
                 patch_data = json.dumps({"homepage": ""}).encode("utf-8")
@@ -80,15 +106,15 @@ def clear_homepage():
                 patch_req = urllib.request.Request(url, data=patch_data, headers=patch_headers, method="PATCH")
                 with urllib.request.urlopen(patch_req, timeout=15) as patch_response:
                     if patch_response.getcode() == 200:
-                        print(f"Iteration {iteration}: URL was removed. Exiting.")
-                        return # Successfully removed, so we end
+                        print(f"Iteration {iteration}: URL was removed. Continuing monitoring...")
+                        consecutive_failures = 0
                     else:
                         print(f"Iteration {iteration}: Failed to remove URL. Status: {patch_response.getcode()}")
                         consecutive_failures += 1
             else:
                 consecutive_failures = 0 # Success (even if no URL removed)
                 if iteration % 6 == 1: # Log roughly every minute (10s intervals)
-                    print(f"Iteration {iteration}: No URL set, waiting...")
+                    print(f"Iteration {iteration}: No URL set, waiting... (Elapsed: {int(elapsed)}s)")
 
         except urllib.error.HTTPError as e:
             if e.code == 401:
