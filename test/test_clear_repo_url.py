@@ -9,7 +9,7 @@ from unittest.mock import MagicMock, call, patch
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
 
-from clear_repo_url import clear_homepage
+from clear_repo_url import clear_homepage, get_github_headers, is_another_workflow_waiting
 
 
 def _make_response(body: dict, status: int = 200):
@@ -417,6 +417,142 @@ class TestClearHomepagePrivacyAndHeaders(unittest.TestCase):
 
         self.assertIn("Anon check HTTP Error: 403", output)
         self.assertIn("Reached maximum iterations", output)
+
+
+class TestGetGithubHeaders(unittest.TestCase):
+    """Direct unit tests for the shared get_github_headers() helper."""
+
+    def test_headers_with_token_include_authorization(self):
+        headers = get_github_headers("mytoken")
+        self.assertEqual(headers["Authorization"], "Bearer mytoken")
+        self.assertEqual(headers["Accept"], "application/vnd.github+json")
+        self.assertEqual(headers["X-GitHub-Api-Version"], "2022-11-28")
+        self.assertEqual(headers["User-Agent"], "Python-urllib")
+
+    def test_headers_without_token_omit_authorization(self):
+        headers = get_github_headers()
+        self.assertNotIn("Authorization", headers)
+        self.assertEqual(headers["Accept"], "application/vnd.github+json")
+        self.assertEqual(headers["X-GitHub-Api-Version"], "2022-11-28")
+        self.assertEqual(headers["User-Agent"], "Python-urllib")
+
+    def test_headers_with_explicit_none_token_omit_authorization(self):
+        headers = get_github_headers(None)
+        self.assertNotIn("Authorization", headers)
+
+    def test_headers_with_falsy_empty_string_token_omit_authorization(self):
+        """An empty-string token is falsy and must not produce an Authorization header."""
+        headers = get_github_headers("")
+        self.assertNotIn("Authorization", headers)
+
+    def test_headers_are_independent_dicts_across_calls(self):
+        """Each call must return a fresh dict; mutating one must not leak into another."""
+        auth_headers = get_github_headers("tok")
+        anon_headers = get_github_headers()
+
+        auth_headers["Content-Type"] = "application/json"
+
+        self.assertNotIn("Content-Type", anon_headers)
+        self.assertNotIn("Authorization", anon_headers)
+        self.assertIn("Authorization", auth_headers)
+
+
+class TestIsAnotherWorkflowWaitingHeaders(unittest.TestCase):
+    """Verifies is_another_workflow_waiting() builds requests via get_github_headers()."""
+
+    def test_sends_updated_accept_and_api_version_headers_with_token(self):
+        empty_resp = _make_response({"workflow_runs": []})
+        with patch("urllib.request.urlopen", return_value=empty_resp) as mock_urlopen:
+            result = is_another_workflow_waiting("owner/repo", "sometoken", "1", "My Workflow")
+
+        self.assertFalse(result)
+        self.assertTrue(mock_urlopen.called)
+        req = mock_urlopen.call_args_list[0][0][0]
+        self.assertEqual(req.get_header("Authorization"), "Bearer sometoken")
+        self.assertEqual(req.get_header("Accept"), "application/vnd.github+json")
+        self.assertEqual(req.get_header("X-github-api-version"), "2022-11-28")
+        self.assertEqual(req.get_header("User-agent"), "Python-urllib")
+
+
+class TestClearHomepageAdditionalEdgeCases(unittest.TestCase):
+    """Additional edge cases for the logging/payload changes introduced in this PR."""
+
+    @patch("urllib.request.urlopen")
+    @patch("time.sleep")
+    @patch("time.time")
+    def test_url_found_only_via_anon_check_logs_zero_auth_chars(self, mock_time, mock_sleep, mock_urlopen):
+        """When the auth check returns no homepage but the anon check does, Auth should log 0 chars."""
+        mock_time.side_effect = [0, 301, 301]
+        empty_runs_resp = _make_response({"workflow_runs": []})
+
+        mock_urlopen.side_effect = [
+            empty_runs_resp, empty_runs_resp, empty_runs_resp,
+            _make_response({"homepage": None}),  # auth check: no homepage key value
+            _make_response({"homepage": "https://example.com"}),  # anon check finds it
+            _make_response({}, status=200),  # PATCH clear
+        ]
+
+        with patch.dict(os.environ, _env(), clear=True):
+            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
+                with patch("clear_repo_url.MAX_ITERATIONS", 1):
+                    clear_homepage()
+            output = mock_stdout.getvalue()
+
+        self.assertIn("URL found (Auth: 0 chars, Anon: 19 chars). Clearing...", output)
+
+    @patch("urllib.request.urlopen")
+    @patch("time.sleep")
+    @patch("time.time")
+    def test_patch_payload_does_not_send_empty_string(self, mock_time, mock_sleep, mock_urlopen):
+        """Regression: the PATCH payload must use null, not an empty string, to clear homepage."""
+        mock_time.side_effect = [0, 301, 301]
+        empty_runs_resp = _make_response({"workflow_runs": []})
+
+        mock_urlopen.side_effect = [
+            empty_runs_resp, empty_runs_resp, empty_runs_resp,
+            _make_response({"homepage": "https://example.com"}),
+            _make_response({"homepage": ""}),
+            _make_response({}, status=200),
+        ]
+
+        with patch.dict(os.environ, _env(), clear=True):
+            with patch("clear_repo_url.MAX_ITERATIONS", 1):
+                clear_homepage()
+
+        patch_req = mock_urlopen.call_args_list[-1][0][0]
+        raw_body = patch_req.data.decode("utf-8")
+        self.assertNotIn('""', raw_body)
+        self.assertIn("null", raw_body)
+
+    @patch("urllib.request.urlopen")
+    @patch("time.sleep")
+    @patch("time.time")
+    def test_auth_request_has_authorization_anon_request_does_not(self, mock_time, mock_sleep, mock_urlopen):
+        """The authenticated GET must carry a Bearer token; the anonymous GET must not."""
+        mock_time.side_effect = [0, 301, 301]
+        empty_runs_resp = _make_response({"workflow_runs": []})
+
+        mock_urlopen.side_effect = [
+            empty_runs_resp, empty_runs_resp, empty_runs_resp,
+            _make_response({"homepage": ""}),  # auth check
+            _make_response({"homepage": ""}),  # anon check
+        ]
+
+        with patch.dict(os.environ, _env(), clear=True):
+            with patch("clear_repo_url.MAX_ITERATIONS", 1):
+                clear_homepage()
+
+        # Calls: 3 workflow-status checks, then auth GET, then anon GET.
+        auth_req = mock_urlopen.call_args_list[3][0][0]
+        anon_req = mock_urlopen.call_args_list[4][0][0]
+
+        self.assertEqual(auth_req.get_header("Authorization"), "Bearer tok123")
+        self.assertIsNone(anon_req.get_header("Authorization"))
+
+        self.assertEqual(auth_req.get_header("Accept"), "application/vnd.github+json")
+        self.assertEqual(anon_req.get_header("Accept"), "application/vnd.github+json")
+        self.assertEqual(auth_req.get_header("X-github-api-version"), "2022-11-28")
+        self.assertEqual(anon_req.get_header("X-github-api-version"), "2022-11-28")
 
 
 if __name__ == "__main__":
