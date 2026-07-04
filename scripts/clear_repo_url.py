@@ -88,13 +88,14 @@ def clear_homepage():
                 req_anon = urllib.request.Request(url, headers=anon_headers)
                 with urllib.request.urlopen(req_anon, timeout=15) as response:
                     homepage_anon = json.loads(response.read().decode()).get("homepage")
-            except urllib.error.HTTPError as e:
-                # Logged out check might hit rate limits sooner; we don't want to fail the whole script for this
-                if e.code == 403:
-                    if iteration % 6 == 1:
-                        print(f"Iteration {iteration}: Anon check rate limited (403).")
-                else:
-                    print(f"Iteration {iteration}: Anon check HTTP Error: {e.code}")
+            except Exception as e:
+                # Logged out check might fail (private repo, rate limit, timeout).
+                # We catch all exceptions here so they don't interrupt the main loop.
+                if iteration % 6 == 1:
+                    if isinstance(e, urllib.error.HTTPError):
+                        print(f"Iteration {iteration}: Anon check HTTP Error: {e.code}")
+                    else:
+                        print(f"Iteration {iteration}: Anon check Error: {e}")
 
             if homepage_auth or homepage_anon:
                 print(f"Iteration {iteration}: URL found (Auth: {bool(homepage_auth)}, Anon: {bool(homepage_anon)}). Clearing...")

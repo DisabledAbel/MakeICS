@@ -158,7 +158,9 @@ class TestClearHomepageExits(unittest.TestCase):
     def test_continues_monitoring_after_clear_v2(self, mock_time, mock_sleep, mock_urlopen):
         """Should NOT exit after successfully clearing the homepage and log subsequent checks."""
         # Start at 0, iterations 1-7, then 301 to exit
-        mock_time.side_effect = [0] + [i*10 for i in range(0, 8)] + [301, 301]
+        # We need 1 call for start_time, and then 1 per iteration (7 total).
+        # At start of iteration 8, we want it to exit.
+        mock_time.side_effect = [0] + [i*10 for i in range(1, 8)] + [301]
 
         empty_runs_resp = _make_response({"workflow_runs": []})
         side_effects = []
@@ -381,7 +383,7 @@ class TestClearHomepagePrivacyAndHeaders(unittest.TestCase):
                     clear_homepage()
             output = mock_stdout.getvalue()
 
-        self.assertIn("Anon check rate limited (403)", output)
+        self.assertIn("Anon check HTTP Error: 403", output)
         self.assertIn("Reached maximum iterations", output)
 
 
