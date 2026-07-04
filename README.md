@@ -9,23 +9,35 @@
 * 📅 Generate valid `.ics` calendar feeds
 * 🌐 Create calendars from websites or APIs
 * ⚡ Auto-update schedules dynamically
-* 🏀 Perfect for sports schedules, TV listings, events, and reminders
+* 🏀 Perfect for sports schedules, TV listings, movies, and events
 * 🔄 Export recurring or one-time events
 * ☁️ Easy deployment on Vercel, or your own server
 * 🛠 Simple and developer-friendly setup
 
 ---
 
-## 🚀 Use Cases
+## 🚀 Categories
 
-MakeICS can be used for:
+### 📺 TV Shows
+Feeds generated using [TVMaze](https://www.tvmaze.com/api) and enriched with IMDb metadata.
+- **Search**: `/api/search?q={query}`
+- **ICS Feed**: `/api/episodes?show={showName}&format=ics`
 
-* Sports schedules
-* TV show calendars
-* Movie release calendars
-* Event tracking
-* Reminder systems
-* Streaming schedules
+### 🏀 Sports
+Comprehensive sports coverage using [TheSportsDB](https://www.thesportsdb.com/), ESPN scraping, and specialized data for:
+- **Major Leagues**: NBA, NFL, MLB, NHL, MLS, etc.
+- **WNBA**: Enhanced support via SportsDataverse and ESPN.
+- **MiLB**: Minor League Baseball schedules.
+- **AF1**: Arena Football One official schedules.
+- **Search**: `/api/sports-search?q={query}`
+- **ICS Feed**: `/api/sports-events?teamId={teamId}&format=ics`
+
+### 🎬 Movies
+Upcoming movie releases scraped from the [IMDb US Release Calendar](https://www.imdb.com/calendar/?region=US).
+- **Search Types**: `movie`, `genre`, `character`, `people`, `studio`.
+- **Search**: `/api/movies-search?q={query}&type={type}`
+- **ICS Feed**: `/api/movies?q={query}&type={type}&format=ics`
+
 ---
 
 ## ▶️ Running Locally
@@ -68,15 +80,28 @@ Open <http://localhost:3000>, start typing to pick a suggested show, sports team
 
 ## API
 
+### TV Shows
 ```http
+GET /api/search?q=The%20Last%20of%20Us
 GET /api/episodes?show=The%20Last%20of%20Us
 GET /api/episodes?show=The%20Last%20of%20Us&format=ics
+```
 
-GET /api/movies?q=Spider-Man&type=all
+### Sports
+```http
+GET /api/sports-search?q=Portland%20Thorns
+GET /api/sports-events?teamId=136450
+GET /api/sports-events?teamId=136450&format=ics
+```
+
+### Movies
+```http
+GET /api/movies-search?q=Spider-Man&type=movie
+GET /api/movies?q=Spider-Man&type=movie
 GET /api/movies?q=Animation&type=genre&format=ics
 ```
 
-### JSON response shape
+### JSON response shape (TV)
 
 ```json
 {
