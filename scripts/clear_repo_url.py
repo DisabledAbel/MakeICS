@@ -3,6 +3,7 @@ import time
 import json
 import urllib.request
 import urllib.error
+from playwright.sync_api import sync_playwright
 
 # Configurable constants (can be overridden in tests)
 MAX_ITERATIONS = 180 # Approx 30 minutes at 10s intervals
@@ -81,38 +82,51 @@ def clear_homepage():
             with urllib.request.urlopen(req_auth, timeout=15) as response:
                 homepage_auth = json.loads(response.read().decode()).get("homepage")
 
-            # 3. Get current homepage (Logged out check)
+            # 3. Get current homepage (Logged out check) using Playwright
             homepage_anon = None
             try:
-                req_anon = urllib.request.Request(url, headers=anon_headers)
-                with urllib.request.urlopen(req_anon, timeout=15) as response:
-                    homepage_anon = json.loads(response.read().decode()).get("homepage")
+                with sync_playwright() as p:
+                    browser = p.chromium.launch(headless=True)
+                    page = browser.new_page()
+                    # We visit the public repo page
+                    repo_page_url = f"https://github.com/{repo}"
+                    page.goto(repo_page_url, wait_until="domcontentloaded", timeout=30000)
+                    # Check for homepage URL in "About" section
+                    homepage_link = page.query_selector('a[data-test-selector="repo-website-url"]')
+                    if homepage_link:
+                        homepage_anon = homepage_link.get_attribute("href")
+                    browser.close()
             except Exception as e:
-                # Logged out check might fail (private repo, rate limit, timeout).
-                # We catch all exceptions here so they don't interrupt the main loop.
                 if iteration % 6 == 1:
-                    if isinstance(e, urllib.error.HTTPError):
-                        print(f"Iteration {iteration}: Anon check HTTP Error: {e.code}")
-                    else:
-                        print(f"Iteration {iteration}: Anon check Error: {e}")
+                    print(f"Iteration {iteration}: Playwright anon check Error: {e}")
 
             if homepage_auth or homepage_anon:
                 auth_len = len(homepage_auth) if homepage_auth else 0
                 anon_len = len(homepage_anon) if homepage_anon else 0
                 print(f"Iteration {iteration}: URL found (Auth: {auth_len} chars, Anon: {anon_len} chars). Clearing...")
 
-                # Clear homepage
-                patch_data = json.dumps({"homepage": None}).encode("utf-8")
-                patch_headers = headers.copy()
-                patch_headers["Content-Type"] = "application/json"
-                patch_req = urllib.request.Request(url, data=patch_data, headers=patch_headers, method="PATCH")
-                with urllib.request.urlopen(patch_req, timeout=15) as patch_response:
-                    if patch_response.getcode() == 200:
-                        print(f"Iteration {iteration}: URL was removed. Continuing monitoring...")
-                        consecutive_failures = 0
-                    else:
-                        print(f"Iteration {iteration}: Failed to remove URL. Status: {patch_response.getcode()}")
-                        consecutive_failures += 1
+                # Clear homepage using Playwright's API context
+                removed = False
+                try:
+                    with sync_playwright() as p:
+                        api_context = p.request.new_context(
+                            base_url="https://api.github.com",
+                            extra_http_headers=headers
+                        )
+                        patch_response = api_context.patch(
+                            f"/repos/{repo}",
+                            data={"homepage": None}
+                        )
+                        if patch_response.ok:
+                            print(f"Iteration {iteration}: URL was removed via Playwright. Continuing monitoring...")
+                            removed = True
+                            consecutive_failures = 0
+                        else:
+                            print(f"Iteration {iteration}: Failed to remove URL via Playwright. Status: {patch_response.status}")
+                            consecutive_failures += 1
+                except Exception as e:
+                    print(f"Iteration {iteration}: Playwright removal Error: {e}")
+                    consecutive_failures += 1
             else:
                 consecutive_failures = 0 # Success (even if no URL removed)
                 if iteration % 6 == 1: # Log roughly every minute (10s intervals)
