@@ -16,6 +16,11 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install dependencies
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+
       - name: Clear Website URL
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
