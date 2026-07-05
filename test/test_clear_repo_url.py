@@ -72,9 +72,13 @@ class TestClearHomepageExits(unittest.TestCase):
 
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
-    def test_exits_when_another_workflow_queued(self, mock_sleep, mock_urlopen):
-        """Should exit immediately if another queued instance of the SAME workflow is found."""
-        # Another instance with same name
+    @patch("time.time")
+    def test_exits_when_another_workflow_queued(self, mock_time, mock_sleep, mock_urlopen):
+        """Should exit if another queued instance of the SAME workflow with a NEWER ID is found after MIN_DURATION."""
+        # start_time = 0, elapsed = 121
+        # Need: 1 for start_time, 1 for elapsed check, 1 for elapsed in try block
+        mock_time.side_effect = [0, 121, 121]
+        # Another instance with same name and HIGHER ID (101 > 100)
         queued_resp = _make_response({"workflow_runs": [{"id": "101", "name": "Clear Repo URL"}]})
         mock_urlopen.side_effect = [queued_resp]
 
@@ -91,7 +95,8 @@ class TestClearHomepageExits(unittest.TestCase):
     def test_continues_when_different_workflow_queued(self, mock_time, mock_sleep, mock_urlopen):
         """Should NOT exit if another queued workflow has a different name."""
         # Mock time to exceed duration and iterations quickly
-        mock_time.side_effect = [0, 301, 301]
+        # Need: 1 for start_time, 1 for elapsed check, 1 for elapsed in try block, 1 for exit check next loop
+        mock_time.side_effect = [0, 121, 121, 121]
 
         different_workflow_resp = _make_response({"workflow_runs": [{"id": "101", "name": "Other Workflow"}]})
         empty_runs_resp = _make_response({"workflow_runs": []})
@@ -121,10 +126,10 @@ class TestClearHomepageExits(unittest.TestCase):
         """Should NOT exit after successfully clearing the homepage."""
         # time.time() calls:
         # 1. start_time = time.time() -> 0
-        # 2. iteration 1: elapsed = time.time() - start_time -> 0 - 0 = 0
-        # 3. iteration 2: elapsed = time.time() - start_time -> 10 - 0 = 10
-        # 4. iteration 3: elapsed = time.time() - start_time -> 301 - 0 = 301
-        mock_time.side_effect = [0, 0, 10, 301, 301]
+        # 2. iteration 1: elapsed = time.time() - start_time -> 121 - 0 = 121
+        # 3. iteration 2: elapsed = time.time() - start_time -> 121 - 0 = 121
+        # 4. iteration 3: elapsed = time.time() - start_time -> 121 - 0 = 121
+        mock_time.side_effect = [0, 121, 121, 121, 121, 121, 121]
 
         empty_runs_resp = _make_response({"workflow_runs": []})
         mock_urlopen.side_effect = [
@@ -157,10 +162,10 @@ class TestClearHomepageExits(unittest.TestCase):
     @patch("time.time")
     def test_continues_monitoring_after_clear_v2(self, mock_time, mock_sleep, mock_urlopen):
         """Should NOT exit after successfully clearing the homepage and log subsequent checks."""
-        # Start at 0, iterations 1-7, then 301 to exit
-        # We need 1 call for start_time, and then 1 per iteration (7 total).
-        # At start of iteration 8, we want it to exit.
-        mock_time.side_effect = [0] + [i*10 for i in range(1, 8)] + [301]
+        # Start at 0, iterations 1-7, then 121 to exit.
+        # Each iteration calls time.time() twice (one for loop check, one for try block).
+        # Plus 1 for start_time.
+        mock_time.side_effect = [0] + [121] * 20
 
         empty_runs_resp = _make_response({"workflow_runs": []})
         side_effects = []
@@ -228,7 +233,8 @@ class TestClearHomepageExits(unittest.TestCase):
     @patch("time.time")
     def test_retries_on_rate_limit_403(self, mock_time, mock_sleep, mock_urlopen):
         """Should retry on 403 errors that include Retry-After."""
-        mock_time.side_effect = [0, 0, 10, 301, 301]
+        # Need more time calls.
+        mock_time.side_effect = [0, 121, 121, 121, 121, 121, 121]
         empty_runs_resp = _make_response({"workflow_runs": []})
         rate_limit_err = urllib.error.HTTPError("url", 403, "Rate Limit", {"Retry-After": "60"}, None)
 
@@ -284,7 +290,8 @@ class TestClearHomepageExits(unittest.TestCase):
     @patch("time.time")
     def test_exits_on_max_iterations_and_duration(self, mock_time, mock_sleep, mock_urlopen):
         """Should exit after reaching MAX_ITERATIONS AND minimum duration."""
-        mock_time.side_effect = [0, 301, 301]
+        # Need: 1 for start, 1 for loop check, 1 for try check, 1 for next loop exit check
+        mock_time.side_effect = [0, 121, 121, 121]
         empty_runs_resp = _make_response({"workflow_runs": []})
 
         mock_urlopen.side_effect = [
@@ -310,9 +317,10 @@ class TestClearHomepageExits(unittest.TestCase):
         """Should NOT exit if MAX_ITERATIONS is reached but NOT minimum duration."""
         # start_time = 0
         # iteration 1: elapsed = 0 -> logs "Iteration 1: No URL set"
-        # iteration 2: elapsed = 10 -> doesn't exit because 10 < 300
-        # iteration 3: elapsed = 301 -> exits
-        mock_time.side_effect = [0, 0, 10, 301, 301]
+        # iteration 2: elapsed = 10 -> doesn't exit because 10 < 120
+        # iteration 3: elapsed = 121 -> exits
+        # Calls: start_time, loop1, loop2, loop3, plus try block checks for loop1 and 2.
+        mock_time.side_effect = [0, 0, 0, 10, 10, 121, 121]
         empty_runs_resp = _make_response({"workflow_runs": []})
 
         mock_urlopen.side_effect = [
@@ -342,7 +350,7 @@ class TestClearHomepagePrivacyAndHeaders(unittest.TestCase):
     @patch("time.sleep")
     @patch("time.time")
     def test_homepage_url_not_printed_to_logs(self, mock_time, mock_sleep, mock_urlopen):
-        mock_time.side_effect = [0, 301, 301]
+        mock_time.side_effect = [0, 121, 121, 121]
         secret_url = "https://super-secret-url.example.com"
         empty_runs_resp = _make_response({"workflow_runs": []})
         mock_urlopen.side_effect = [
@@ -368,7 +376,7 @@ class TestClearHomepagePrivacyAndHeaders(unittest.TestCase):
     @patch("time.time")
     def test_patch_payload_and_headers(self, mock_time, mock_sleep, mock_urlopen):
         """Verify the PATCH request sends 'homepage': null and correct headers."""
-        mock_time.side_effect = [0, 301, 301]
+        mock_time.side_effect = [0, 121, 121, 121]
         empty_runs_resp = _make_response({"workflow_runs": []})
 
         # Iteration 1 finds and clears
@@ -399,7 +407,7 @@ class TestClearHomepagePrivacyAndHeaders(unittest.TestCase):
     @patch("time.time")
     def test_anon_check_fails_gracefully(self, mock_time, mock_sleep, mock_urlopen):
         """Should continue if anon check fails with 403."""
-        mock_time.side_effect = [0, 301, 301]
+        mock_time.side_effect = [0, 121, 121, 121]
         empty_runs_resp = _make_response({"workflow_runs": []})
 
         mock_urlopen.side_effect = [
@@ -482,7 +490,7 @@ class TestClearHomepageAdditionalEdgeCases(unittest.TestCase):
     @patch("time.time")
     def test_url_found_only_via_anon_check_logs_zero_auth_chars(self, mock_time, mock_sleep, mock_urlopen):
         """When the auth check returns no homepage but the anon check does, Auth should log 0 chars."""
-        mock_time.side_effect = [0, 301, 301]
+        mock_time.side_effect = [0, 121, 121, 121]
         empty_runs_resp = _make_response({"workflow_runs": []})
 
         mock_urlopen.side_effect = [
@@ -505,7 +513,7 @@ class TestClearHomepageAdditionalEdgeCases(unittest.TestCase):
     @patch("time.time")
     def test_patch_payload_does_not_send_empty_string(self, mock_time, mock_sleep, mock_urlopen):
         """Regression: the PATCH payload must use null, not an empty string, to clear homepage."""
-        mock_time.side_effect = [0, 301, 301]
+        mock_time.side_effect = [0, 121, 121, 121]
         empty_runs_resp = _make_response({"workflow_runs": []})
 
         mock_urlopen.side_effect = [
@@ -529,7 +537,7 @@ class TestClearHomepageAdditionalEdgeCases(unittest.TestCase):
     @patch("time.time")
     def test_auth_request_has_authorization_anon_request_does_not(self, mock_time, mock_sleep, mock_urlopen):
         """The authenticated GET must carry a Bearer token; the anonymous GET must not."""
-        mock_time.side_effect = [0, 301, 301]
+        mock_time.side_effect = [0, 121, 121, 121]
         empty_runs_resp = _make_response({"workflow_runs": []})
 
         mock_urlopen.side_effect = [
@@ -553,6 +561,71 @@ class TestClearHomepageAdditionalEdgeCases(unittest.TestCase):
         self.assertEqual(anon_req.get_header("Accept"), "application/vnd.github+json")
         self.assertEqual(auth_req.get_header("X-github-api-version"), "2022-11-28")
         self.assertEqual(anon_req.get_header("X-github-api-version"), "2022-11-28")
+
+    @patch("urllib.request.urlopen")
+    @patch("time.sleep")
+    @patch("time.time")
+    def test_ignores_older_workflow_runs(self, mock_time, mock_sleep, mock_urlopen):
+        """Should NOT exit if an active workflow has an OLDER ID (99 < 100)."""
+        mock_time.side_effect = [0, 121, 121, 121]
+        # Run 99 is older than our current 100
+        older_run_resp = _make_response({"workflow_runs": [{"id": "99", "name": "Clear Repo URL"}]})
+        empty_runs_resp = _make_response({"workflow_runs": []})
+
+        mock_urlopen.side_effect = [
+            older_run_resp, # queued
+            empty_runs_resp, # waiting
+            empty_runs_resp, # in_progress
+            _make_response({"homepage": ""}), # auth
+            _make_response({"homepage": ""}), # anon
+        ]
+
+        with patch.dict(os.environ, _env(), clear=True):
+            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
+                with patch("clear_repo_url.MAX_ITERATIONS", 1):
+                    clear_homepage()
+            output = mock_stdout.getvalue()
+
+        self.assertNotIn("Another instance of 'Clear Repo URL' is active. Exiting.", output)
+        self.assertIn("Iteration 1: No URL set, waiting...", output)
+
+    @patch("urllib.request.urlopen")
+    @patch("time.sleep")
+    @patch("time.time")
+    def test_no_exit_before_min_duration(self, mock_time, mock_sleep, mock_urlopen):
+        """Should NOT check for other workflows or exit before MIN_DURATION is reached."""
+        # start_time = 0, elapsed = 60
+        # Need:
+        # 1 for start_time = time.time()
+        # 1 for while loop iteration 1: elapsed = time.time() - start_time
+        # 1 for while loop iteration 2: elapsed = time.time() - start_time (to exit)
+        mock_time.side_effect = [0, 60, 121]
+
+        # Even if a newer run exists, we shouldn't be calling urlopen for it yet
+        mock_urlopen.side_effect = [
+            _make_response({"homepage": ""}), # auth check
+            _make_response({"homepage": ""}), # anon check
+        ]
+
+        with patch.dict(os.environ, _env(), clear=True):
+            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
+                # MAX_ITERATIONS 1, so it does one loop and exits due to it
+                with patch("clear_repo_url.MAX_ITERATIONS", 1):
+                    # Set MIN_DURATION to 120 so 60 is definitely before it
+                    with patch("clear_repo_url.MIN_DURATION", 120):
+                        clear_homepage()
+            output = mock_stdout.getvalue()
+
+        # Should NOT have exit message
+        self.assertNotIn("Another instance of 'Clear Repo URL' is active. Exiting.", output)
+        # Should have normal log
+        self.assertIn("Iteration 1: No URL set, waiting... (Elapsed: 60s)", output)
+
+        # Verify is_another_workflow_waiting was NOT called (which would have been the first 3 urlopen calls)
+        # Instead, it should have gone straight to homepage checks
+        req = mock_urlopen.call_args_list[0][0][0]
+        self.assertIn("/repos/owner/repo", req.full_url)
+        self.assertNotIn("status=", req.full_url)
 
 
 if __name__ == "__main__":

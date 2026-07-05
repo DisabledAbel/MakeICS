@@ -6,7 +6,7 @@ import urllib.error
 
 # Configurable constants (can be overridden in tests)
 MAX_ITERATIONS = 180 # Approx 30 minutes at 10s intervals
-MIN_DURATION = 300 # 5 minutes
+MIN_DURATION = 120 # 2 minutes
 
 def get_github_headers(token=None):
     """Constructs shared headers for GitHub API requests."""
@@ -35,7 +35,7 @@ def is_another_workflow_waiting(repo, token, current_run_id, current_workflow_na
                 if not runs:
                     break
                 for run in runs:
-                    if str(run.get("id")) != str(current_run_id) and run.get("name") == current_workflow_name:
+                    if int(run.get("id")) > int(current_run_id) and run.get("name") == current_workflow_name:
                         return True
                 if len(runs) < 100:
                     break
@@ -71,7 +71,7 @@ def clear_homepage():
 
         try:
             # 1. Check if another instance of this workflow is waiting
-            if is_another_workflow_waiting(repo, token, current_run_id, current_workflow_name):
+            if elapsed >= MIN_DURATION and is_another_workflow_waiting(repo, token, current_run_id, current_workflow_name):
                 print(f"Iteration {iteration}: Another instance of '{current_workflow_name}' is active. Exiting.")
                 break
 
