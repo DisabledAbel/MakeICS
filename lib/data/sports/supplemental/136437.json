@@ -1,7 +1,7 @@
 {
   "teamId": "136437",
   "teamName": "Las Vegas Aces",
-  "updatedAt": "2026-07-05T08:39:20.428Z",
+  "updatedAt": "2026-07-05T13:05:36.008Z",
   "events": [
     {
       "idEvent": "scraped-2026-09-25-phoenix-mercury-vs-las-vegas-aces",
@@ -71,6 +71,20 @@
       "strVenue": "Michelob ULTRA Arena",
       "strStatus": "NS",
       "strTVStation": "ION",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-2026-08-23-toronto-tempo-vs-las-vegas-aces",
+      "strEvent": "Toronto Tempo vs Las Vegas Aces",
+      "strHomeTeam": "Toronto Tempo",
+      "strAwayTeam": "Las Vegas Aces",
+      "dateEvent": "2026-08-23",
+      "strTime": "23:00:00",
+      "strTimestamp": "2026-08-23T23:00:00Z",
+      "strLeague": "WNBA",
+      "strVenue": "Rogers Arena",
+      "strStatus": "NS",
+      "strTVStation": null,
       "source": "scraped"
     },
     {

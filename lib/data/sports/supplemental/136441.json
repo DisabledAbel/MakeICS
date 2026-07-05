@@ -1,7 +1,7 @@
 {
   "teamId": "136441",
   "teamName": "Dallas Wings",
-  "updatedAt": "2026-07-05T08:39:14.414Z",
+  "updatedAt": "2026-07-05T13:05:29.999Z",
   "events": [
     {
       "idEvent": "scraped-2026-09-24-seattle-storm-vs-dallas-wings",
@@ -81,6 +81,20 @@
       "dateEvent": "2026-08-26",
       "strTime": "00:00:00",
       "strTimestamp": "2026-08-26T00:00:00Z",
+      "strLeague": "WNBA",
+      "strVenue": "College Park Center",
+      "strStatus": "NS",
+      "strTVStation": "NBA TV",
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-2026-08-23-dallas-wings-vs-seattle-storm",
+      "strEvent": "Dallas Wings vs Seattle Storm",
+      "strHomeTeam": "Dallas Wings",
+      "strAwayTeam": "Seattle Storm",
+      "dateEvent": "2026-08-23",
+      "strTime": "20:00:00",
+      "strTimestamp": "2026-08-23T20:00:00Z",
       "strLeague": "WNBA",
       "strVenue": "College Park Center",
       "strStatus": "NS",

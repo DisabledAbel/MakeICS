@@ -1,7 +1,7 @@
 {
   "teamId": "136440",
   "teamName": "Chicago Sky",
-  "updatedAt": "2026-07-05T08:39:10.409Z",
+  "updatedAt": "2026-07-05T13:05:25.993Z",
   "events": [
     {
       "idEvent": "scraped-2026-09-24-washington-mystics-vs-chicago-sky",
@@ -85,6 +85,20 @@
       "strVenue": "Mohegan Sun Arena",
       "strStatus": "NS",
       "strTVStation": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-2026-08-23-chicago-sky-vs-indiana-fever",
+      "strEvent": "Chicago Sky vs Indiana Fever",
+      "strHomeTeam": "Chicago Sky",
+      "strAwayTeam": "Indiana Fever",
+      "dateEvent": "2026-08-23",
+      "strTime": "23:00:00",
+      "strTimestamp": "2026-08-23T23:00:00Z",
+      "strLeague": "WNBA",
+      "strVenue": "Wintrust Arena",
+      "strStatus": "NS",
+      "strTVStation": "NBC/Peacock",
       "source": "scraped"
     },
     {
