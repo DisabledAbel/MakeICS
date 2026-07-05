@@ -1,7 +1,7 @@
 {
   "leagueId": "4350",
   "leagueName": "Liga MX",
-  "updatedAt": "2026-07-04T19:44:46.977Z",
+  "updatedAt": "2026-07-05T04:30:16.059Z",
   "events": [
     {
       "idEvent": "2487452",
@@ -1128,7 +1128,7 @@
     {
       "idEvent": "2487490",
       "idAPIfootball": "1550932",
-      "strTimestamp": "2026-08-22T23:00:00",
+      "strTimestamp": "2026-08-22T23:07:00",
       "strEvent": "CD Guadalajara vs Tijuana",
       "strEventAlternate": "Tijuana @ CD Guadalajara",
       "strFilename": "Mexican Primera League 2026-08-22 CD Guadalajara vs Tijuana",
@@ -1150,7 +1150,7 @@
       "strWeather": null,
       "dateEvent": "2026-08-22",
       "dateEventLocal": null,
-      "strTime": "23:00:00",
+      "strTime": "23:07:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "134206",
@@ -2403,7 +2403,7 @@
     {
       "idEvent": "2487535",
       "idAPIfootball": "1550977",
-      "strTimestamp": "2026-09-26T23:00:00",
+      "strTimestamp": "2026-09-26T23:07:00",
       "strEvent": "CD Guadalajara vs Querétaro",
       "strEventAlternate": "Querétaro @ CD Guadalajara",
       "strFilename": "Mexican Primera League 2026-09-26 CD Guadalajara vs Querétaro",
@@ -2425,7 +2425,7 @@
       "strWeather": null,
       "dateEvent": "2026-09-26",
       "dateEventLocal": null,
-      "strTime": "23:00:00",
+      "strTime": "23:07:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "134206",
@@ -2964,7 +2964,7 @@
     {
       "idEvent": "2487554",
       "idAPIfootball": "1550996",
-      "strTimestamp": "2026-10-17T23:00:00",
+      "strTimestamp": "2026-10-17T23:07:00",
       "strEvent": "CD Guadalajara vs Tigres UANL",
       "strEventAlternate": "Tigres UANL @ CD Guadalajara",
       "strFilename": "Mexican Primera League 2026-10-17 CD Guadalajara vs Tigres UANL",
@@ -2986,7 +2986,7 @@
       "strWeather": null,
       "dateEvent": "2026-10-17",
       "dateEventLocal": null,
-      "strTime": "23:00:00",
+      "strTime": "23:07:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "134206",
@@ -3168,7 +3168,7 @@
     {
       "idEvent": "2487562",
       "idAPIfootball": "1551004",
-      "strTimestamp": "2026-10-21T03:00:00",
+      "strTimestamp": "2026-10-21T03:07:00",
       "strEvent": "CD Guadalajara vs Necaxa",
       "strEventAlternate": "Necaxa @ CD Guadalajara",
       "strFilename": "Mexican Primera League 2026-10-21 CD Guadalajara vs Necaxa",
@@ -3190,7 +3190,7 @@
       "strWeather": null,
       "dateEvent": "2026-10-21",
       "dateEventLocal": null,
-      "strTime": "03:00:00",
+      "strTime": "03:07:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "134206",
@@ -3780,7 +3780,7 @@
     {
       "idEvent": "2487582",
       "idAPIfootball": "1551024",
-      "strTimestamp": "2026-11-01T01:00:00",
+      "strTimestamp": "2026-11-01T01:07:00",
       "strEvent": "CD Guadalajara vs Atlante",
       "strEventAlternate": "Atlante @ CD Guadalajara",
       "strFilename": "Mexican Primera League 2026-11-01 CD Guadalajara vs Atlante",
@@ -3802,7 +3802,7 @@
       "strWeather": null,
       "dateEvent": "2026-11-01",
       "dateEventLocal": null,
-      "strTime": "01:00:00",
+      "strTime": "01:07:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "134206",
