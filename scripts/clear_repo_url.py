@@ -24,7 +24,6 @@ def is_another_workflow_waiting(repo, token, current_run_id, current_workflow_na
     headers = get_github_headers(token)
 
     # Only exit if another instance of this SAME workflow is already active or waiting.
-    # We check queued, waiting, and in_progress to avoid race conditions and double-execution.
     for status in ["queued", "waiting", "in_progress"]:
         page = 1
         while True:
@@ -54,111 +53,99 @@ def clear_homepage():
         return
 
     url = f"https://api.github.com/repos/{repo}"
-
     headers = get_github_headers(token)
-    anon_headers = get_github_headers()
 
     iteration = 0
     consecutive_failures = 0
     start_time = time.time()
 
-    while True:
-        iteration += 1
-        elapsed = time.time() - start_time
+    try:
+        with sync_playwright() as p:
+            # Launch browser once
+            browser = p.chromium.launch(headless=True)
+            # Create persistent API context
+            api_context = p.request.new_context(
+                base_url="https://api.github.com",
+                extra_http_headers=headers
+            )
 
-        if iteration > MAX_ITERATIONS and elapsed >= MIN_DURATION:
-            print(f"Iteration {iteration}: Reached maximum iterations ({MAX_ITERATIONS}) and minimum duration. Exiting.")
-            break
+            while True:
+                iteration += 1
+                elapsed = time.time() - start_time
 
-        try:
-            # 1. Check if another instance of this workflow is waiting
-            if elapsed >= MIN_DURATION and is_another_workflow_waiting(repo, token, current_run_id, current_workflow_name):
-                print(f"Iteration {iteration}: Another instance of '{current_workflow_name}' is active. Exiting.")
-                break
-
-            # 2. Get current homepage (Logged in check)
-            homepage_auth = None
-            req_auth = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req_auth, timeout=15) as response:
-                homepage_auth = json.loads(response.read().decode()).get("homepage")
-
-            # 3. Get current homepage (Logged out check) using Playwright
-            homepage_anon = None
-            try:
-                with sync_playwright() as p:
-                    browser = p.chromium.launch(headless=True)
-                    page = browser.new_page()
-                    # We visit the public repo page
-                    repo_page_url = f"https://github.com/{repo}"
-                    page.goto(repo_page_url, wait_until="domcontentloaded", timeout=30000)
-                    # Check for homepage URL in "About" section
-                    homepage_link = page.query_selector('a[data-test-selector="repo-website-url"]')
-                    if homepage_link:
-                        homepage_anon = homepage_link.get_attribute("href")
-                    browser.close()
-            except Exception as e:
-                if iteration % 6 == 1:
-                    print(f"Iteration {iteration}: Playwright anon check Error: {e}")
-
-            if homepage_auth or homepage_anon:
-                auth_len = len(homepage_auth) if homepage_auth else 0
-                anon_len = len(homepage_anon) if homepage_anon else 0
-                print(f"Iteration {iteration}: URL found (Auth: {auth_len} chars, Anon: {anon_len} chars). Clearing...")
-
-                # Clear homepage using Playwright's API context
-                removed = False
-                try:
-                    with sync_playwright() as p:
-                        api_context = p.request.new_context(
-                            base_url="https://api.github.com",
-                            extra_http_headers=headers
-                        )
-                        patch_response = api_context.patch(
-                            f"/repos/{repo}",
-                            data={"homepage": None}
-                        )
-                        if patch_response.ok:
-                            print(f"Iteration {iteration}: URL was removed via Playwright. Continuing monitoring...")
-                            removed = True
-                            consecutive_failures = 0
-                        else:
-                            print(f"Iteration {iteration}: Failed to remove URL via Playwright. Status: {patch_response.status}")
-                            consecutive_failures += 1
-                except Exception as e:
-                    print(f"Iteration {iteration}: Playwright removal Error: {e}")
-                    consecutive_failures += 1
-            else:
-                consecutive_failures = 0 # Success (even if no URL removed)
-                if iteration % 6 == 1: # Log roughly every minute (10s intervals)
-                    print(f"Iteration {iteration}: No URL set, waiting... (Elapsed: {int(elapsed)}s)")
-
-        except urllib.error.HTTPError as e:
-            if e.code == 401:
-                print(f"Iteration {iteration}: Unrecoverable authentication error 401. Exiting.")
-                break
-
-            if e.code == 403:
-                # Check for rate limiting or abuse detection
-                retry_after = e.headers.get("Retry-After")
-                remaining = e.headers.get("X-RateLimit-Remaining")
-                if retry_after or (remaining and int(remaining) == 0):
-                    print(f"Iteration {iteration}: Rate limited (403). Retrying...")
-                    consecutive_failures += 1
-                else:
-                    print(f"Iteration {iteration}: Unrecoverable authentication/permission error 403. Exiting.")
+                if iteration > MAX_ITERATIONS and elapsed >= MIN_DURATION:
+                    print(f"Iteration {iteration}: Reached maximum iterations ({MAX_ITERATIONS}) and minimum duration. Exiting.")
                     break
-            else:
-                print(f"Iteration {iteration}: HTTP Error: {e.code}")
-                consecutive_failures += 1
-        except Exception as e:
-            print(f"Iteration {iteration}: Error: {e}")
-            consecutive_failures += 1
 
-        if consecutive_failures >= 10:
-            print(f"Iteration {iteration}: Too many consecutive failures ({consecutive_failures}). Exiting.")
-            break
+                try:
+                    # 1. Check if another instance of this workflow is active (API)
+                    if elapsed >= MIN_DURATION and is_another_workflow_waiting(repo, token, current_run_id, current_workflow_name):
+                        print(f"Iteration {iteration}: Another instance of '{current_workflow_name}' is active. Exiting.")
+                        break
 
-        time.sleep(10)
+                    # 2. Get current homepage (Logged in check via API)
+                    homepage_auth = None
+                    req_auth = urllib.request.Request(url, headers=headers)
+                    with urllib.request.urlopen(req_auth, timeout=15) as response:
+                        homepage_auth = json.loads(response.read().decode()).get("homepage")
+
+                    # 3. Get current homepage (Logged out check via Playwright Browser)
+                    homepage_anon = None
+                    try:
+                        page = browser.new_page()
+                        # Check the public repo page
+                        repo_url = f"https://github.com/{repo}"
+                        page.goto(repo_url, wait_until="domcontentloaded", timeout=30000)
+                        # The homepage URL link has data-test-selector="repo-website-url"
+                        link = page.query_selector('a[data-test-selector="repo-website-url"]')
+                        if link:
+                            homepage_anon = link.get_attribute("href")
+                        page.close()
+                    except Exception as e:
+                        if iteration % 6 == 1:
+                            print(f"Iteration {iteration}: Playwright anon check Error: {e}")
+
+                    if homepage_auth or homepage_anon:
+                        auth_len = len(homepage_auth) if homepage_auth else 0
+                        anon_len = len(homepage_anon) if homepage_anon else 0
+                        print(f"Iteration {iteration}: URL found (Auth: {auth_len} chars, Anon: {anon_len} chars). Clearing...")
+
+                        # 4. Clear homepage (via Playwright API context)
+                        try:
+                            patch_response = api_context.patch(
+                                f"/repos/{repo}",
+                                data={"homepage": None}
+                            )
+                            if patch_response.ok:
+                                print(f"Iteration {iteration}: URL was removed via Playwright. Continuing monitoring...")
+                                consecutive_failures = 0
+                            else:
+                                print(f"Iteration {iteration}: Failed to remove URL via Playwright. Status: {patch_response.status}")
+                                consecutive_failures += 1
+                        except Exception as e:
+                            print(f"Iteration {iteration}: Playwright removal Error: {e}")
+                            consecutive_failures += 1
+                    else:
+                        consecutive_failures = 0
+                        if iteration % 6 == 1:
+                            print(f"Iteration {iteration}: No URL set, waiting... (Elapsed: {int(elapsed)}s)")
+
+                except Exception as e:
+                    if isinstance(e, urllib.error.HTTPError) and e.code == 401:
+                        print(f"Iteration {iteration}: Unrecoverable authentication error 401. Exiting.")
+                        break
+                    print(f"Iteration {iteration}: Error: {e}")
+                    consecutive_failures += 1
+
+                if consecutive_failures >= 10:
+                    print(f"Iteration {iteration}: Too many consecutive failures ({consecutive_failures}). Exiting.")
+                    break
+
+                time.sleep(10)
+
+            browser.close()
+    except Exception as e:
+        print(f"Global Playwright Error: {e}")
 
 if __name__ == "__main__":
     clear_homepage()

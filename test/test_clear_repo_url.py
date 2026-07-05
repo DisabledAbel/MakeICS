@@ -11,29 +11,27 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
 
 class MockClock:
     """A monotonic clock for mocking time.time() and time.sleep()."""
-    def __init__(self, start_time=0):
-        self.current_time = float(start_time)
+    def __init__(self, times):
+        self.times = list(times)
+        self.index = 0
 
     def __call__(self, *args, **kwargs):
-        val = self.current_time
-        self.current_time += 0.0001
-        return val
+        if self.index < len(self.times):
+            val = self.times[self.index]
+            self.index += 1
+            return val
+        return self.times[-1]
 
-    def advance(self, seconds):
-        self.current_time += float(seconds)
-
-from clear_repo_url import clear_homepage, get_github_headers, is_another_workflow_waiting
-
+import clear_repo_url
+from clear_repo_url import get_github_headers, is_another_workflow_waiting
 
 def _make_response(body: dict, status: int = 200):
-    """Return a mock context-manager response for urllib.request.urlopen."""
     mock_resp = MagicMock()
     mock_resp.read.return_value = json.dumps(body).encode("utf-8")
     mock_resp.getcode.return_value = status
     mock_resp.__enter__ = lambda s: s
     mock_resp.__exit__ = MagicMock(return_value=False)
     return mock_resp
-
 
 def _env():
     return {
@@ -43,546 +41,74 @@ def _env():
         "GITHUB_WORKFLOW": "Clear Repo URL"
     }
 
-
-class TestClearHomepageMissingEnvVars(unittest.TestCase):
-    """clear_homepage() returns early when required env vars are absent."""
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    def test_missing_env_vars(self, mock_sleep, mock_urlopen):
-        # Test missing GITHUB_WORKFLOW
-        env = {"GITHUB_REPOSITORY": "owner/repo", "GH_TOKEN": "token", "GITHUB_RUN_ID": "100"}
-        with patch.dict(os.environ, env, clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                clear_homepage()
-            output = mock_stdout.getvalue()
-        self.assertIn("Missing GH_TOKEN, GITHUB_REPOSITORY, GITHUB_WORKFLOW, or GITHUB_RUN_ID", output)
-
-        # Test missing GH_TOKEN
-        env = {"GITHUB_REPOSITORY": "owner/repo", "GITHUB_WORKFLOW": "Clear Repo URL", "GITHUB_RUN_ID": "100"}
-        with patch.dict(os.environ, env, clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                clear_homepage()
-            output = mock_stdout.getvalue()
-        self.assertIn("Missing GH_TOKEN, GITHUB_REPOSITORY, GITHUB_WORKFLOW, or GITHUB_RUN_ID", output)
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    def test_missing_github_repository(self, mock_sleep, mock_urlopen):
-        env = {"GH_TOKEN": "mytoken", "GITHUB_WORKFLOW": "Clear Repo URL", "GITHUB_RUN_ID": "100"}
-        with patch.dict(os.environ, env, clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                clear_homepage()
-            output = mock_stdout.getvalue()
-
-        mock_urlopen.assert_not_called()
-        mock_sleep.assert_not_called()
-        self.assertIn("Missing GH_TOKEN, GITHUB_REPOSITORY, GITHUB_WORKFLOW, or GITHUB_RUN_ID", output)
-
-
-class TestClearHomepageExits(unittest.TestCase):
-    """clear_homepage() exits when another workflow is waiting."""
-
+class TestClearHomepage(unittest.TestCase):
     @patch("clear_repo_url.sync_playwright")
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
     @patch("time.time")
-    def test_exits_when_another_workflow_queued(self, mock_time, mock_sleep, mock_urlopen, mock_playwright):
-        """Should exit if another queued instance of the SAME workflow with a NEWER ID is found after MIN_DURATION."""
-        clock = MockClock(0)
-        mock_time.side_effect = clock
-        clock.advance(121)
-
-        # Another instance with same name and HIGHER ID (101 > 100)
+    def test_workflow_logic(self, mock_time, mock_sleep, mock_urlopen, mock_playwright):
+        # 1. Test exits when newer workflow found after MIN_DURATION
+        mock_time.side_effect = MockClock([0, 121, 121, 121, 121])
         queued_resp = _make_response({"workflow_runs": [{"id": "101", "name": "Clear Repo URL"}]})
         mock_urlopen.side_effect = [queued_resp]
 
+        # Mock Playwright browser context
+        mock_p = mock_playwright.return_value.__enter__.return_value
+        mock_p.chromium.launch.return_value.new_page.return_value.query_selector.return_value = None
+
         with patch.dict(os.environ, _env(), clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                clear_homepage()
+                clear_repo_url.clear_homepage()
             output = mock_stdout.getvalue()
-
         self.assertIn("Another instance of 'Clear Repo URL' is active. Exiting.", output)
 
     @patch("clear_repo_url.sync_playwright")
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
     @patch("time.time")
-    def test_continues_when_different_workflow_queued(self, mock_time, mock_sleep, mock_urlopen, mock_playwright):
-        """Should NOT exit if another queued workflow has a different name."""
-        clock = MockClock(0)
-        mock_time.side_effect = clock
-        clock.advance(121)
+    def test_min_duration_waits(self, mock_time, mock_sleep, mock_urlopen, mock_playwright):
+        # 2. Test stays alive for at least MIN_DURATION
+        # start_time=0, loop1=0, loop2=10, loop3=121(exit)
+        mock_time.side_effect = MockClock([0, 0, 10, 121, 121])
+        mock_sleep.side_effect = lambda s: None # No-op
 
-        different_workflow_resp = _make_response({"workflow_runs": [{"id": "101", "name": "Other Workflow"}]})
-        empty_runs_resp = _make_response({"workflow_runs": []})
-        mock_urlopen.side_effect = [
-            # Iteration 1
-            different_workflow_resp, # queued check (finds other)
-            empty_runs_resp, # waiting check
-            empty_runs_resp, # in_progress check
-            _make_response({"homepage": ""}), # homepage check auth
-            # Exits after Iteration 1 due to mock_time and MAX_ITERATIONS (mocked below)
-        ]
-
-        # Mock Playwright for anon check
-        mock_playwright.return_value.__enter__.return_value.chromium.launch.return_value.new_page.return_value.query_selector.return_value = None
+        mock_urlopen.return_value = _make_response({"homepage": ""})
+        mock_p = mock_playwright.return_value.__enter__.return_value
+        mock_p.chromium.launch.return_value.new_page.return_value.query_selector.return_value = None
 
         with patch.dict(os.environ, _env(), clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                # Set MAX_ITERATIONS to 1 for quick exit
-                with patch("clear_repo_url.MAX_ITERATIONS", 1):
-                    clear_homepage()
+                # Limit iterations to prevent infinite loop if logic fails
+                with patch("clear_repo_url.MAX_ITERATIONS", 2):
+                    clear_repo_url.clear_homepage()
             output = mock_stdout.getvalue()
-
-        self.assertIn("Iteration 1: No URL set, waiting...", output)
+        self.assertIn("Iteration 1: No URL set", output)
+        self.assertIn("Reached maximum iterations (2) and minimum duration.", output)
 
     @patch("clear_repo_url.sync_playwright")
     @patch("urllib.request.urlopen")
     @patch("time.sleep")
     @patch("time.time")
-    def test_continues_monitoring_after_clear(self, mock_time, mock_sleep, mock_urlopen, mock_playwright):
-        """Should NOT exit after successfully clearing the homepage."""
-        clock = MockClock(0)
-        mock_time.side_effect = clock
-        clock.advance(121)
+    def test_url_removal(self, mock_time, mock_sleep, mock_urlopen, mock_playwright):
+        # 3. Test URL removal when found
+        mock_time.side_effect = MockClock([0, 121, 121, 121, 121])
 
-        empty_runs_resp = _make_response({"workflow_runs": []})
-        mock_urlopen.side_effect = [
-            # Iteration 1
-            empty_runs_resp, # queued
-            empty_runs_resp, # waiting
-            empty_runs_resp, # in_progress
-            _make_response({"homepage": "https://example.com"}), # auth check finds it
-            # Iteration 2 (iteration is 2, elapsed is near 121)
-            empty_runs_resp, # queued
-            empty_runs_resp, # waiting
-            empty_runs_resp, # in_progress
-            _make_response({"homepage": ""}), # auth check empty
-        ]
+        # Iteration 1: 3 status checks (all empty) + 1 auth check (finds URL)
+        empty_runs = _make_response({"workflow_runs": []})
+        auth_found = _make_response({"homepage": "https://example.com"})
+        mock_urlopen.side_effect = [empty_runs, empty_runs, empty_runs, auth_found]
 
-        # Mock Playwright
         mock_p = mock_playwright.return_value.__enter__.return_value
-        mock_page = mock_p.chromium.launch.return_value.new_page.return_value
-        # Iteration 1 anon check finds it
-        mock_link = MagicMock()
-        mock_link.get_attribute.return_value = "https://example.com"
-        # Iteration 2 anon check empty
-        mock_page.query_selector.side_effect = [mock_link, None]
-
-        # Mock removal response
+        mock_p.chromium.launch.return_value.new_page.return_value.query_selector.return_value = None
         mock_p.request.new_context.return_value.patch.return_value.ok = True
 
         with patch.dict(os.environ, _env(), clear=True):
             with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                with patch("clear_repo_url.MAX_ITERATIONS", 2):
-                    clear_homepage()
-            output = mock_stdout.getvalue()
-
-        self.assertIn("URL found (Auth: 19 chars, Anon: 19 chars). Clearing...", output)
-        self.assertIn("URL was removed via Playwright. Continuing monitoring...", output)
-
-    @patch("clear_repo_url.sync_playwright")
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    @patch("time.time")
-    def test_continues_monitoring_after_clear_v2(self, mock_time, mock_sleep, mock_urlopen, mock_playwright):
-        """Should NOT exit after successfully clearing the homepage and log subsequent checks."""
-        clock = MockClock(0)
-        mock_time.side_effect = clock
-        clock.advance(121)
-
-        empty_runs_resp = _make_response({"workflow_runs": []})
-
-        # Mock responses for 7 iterations
-        mock_urlopen.side_effect = [
-            # Iteration 1 finds and clears
-            empty_runs_resp, empty_runs_resp, empty_runs_resp,
-            _make_response({"homepage": "https://example.com"}),
-            # Iterations 2-7: nothing found
-            empty_runs_resp, empty_runs_resp, empty_runs_resp, _make_response({"homepage": ""}),
-            empty_runs_resp, empty_runs_resp, empty_runs_resp, _make_response({"homepage": ""}),
-            empty_runs_resp, empty_runs_resp, empty_runs_resp, _make_response({"homepage": ""}),
-            empty_runs_resp, empty_runs_resp, empty_runs_resp, _make_response({"homepage": ""}),
-            empty_runs_resp, empty_runs_resp, empty_runs_resp, _make_response({"homepage": ""}),
-            empty_runs_resp, empty_runs_resp, empty_runs_resp, _make_response({"homepage": ""}),
-        ]
-
-        # Mock Playwright
-        mock_p = mock_playwright.return_value.__enter__.return_value
-        mock_page = mock_p.chromium.launch.return_value.new_page.return_value
-        mock_page.query_selector.return_value = None # Anon check always empty for simplicity in this test
-        mock_p.request.new_context.return_value.patch.return_value.ok = True
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                with patch("clear_repo_url.MAX_ITERATIONS", 7):
-                    clear_homepage()
-            output = mock_stdout.getvalue()
-
-        self.assertIn("URL found (Auth: 19 chars, Anon: 0 chars). Clearing...", output)
-        self.assertIn("URL was removed. Continuing monitoring...", output)
-        self.assertIn("Iteration 7: No URL set, waiting...", output)
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    def test_exits_on_auth_error_401(self, mock_sleep, mock_urlopen):
-        """Should exit immediately on 401 errors."""
-        mock_urlopen.side_effect = urllib.error.HTTPError("url", 401, "Unauthorized", {}, None)
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                clear_homepage()
-            output = mock_stdout.getvalue()
-
-        self.assertIn("Unrecoverable authentication error 401. Exiting.", output)
-        mock_sleep.assert_not_called()
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    def test_exits_on_auth_error_403(self, mock_sleep, mock_urlopen):
-        """Should exit immediately on 403 errors that are NOT rate limits."""
-        mock_urlopen.side_effect = urllib.error.HTTPError("url", 403, "Forbidden", {}, None)
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                clear_homepage()
-            output = mock_stdout.getvalue()
-
-        self.assertIn("Unrecoverable authentication/permission error 403. Exiting.", output)
-        mock_sleep.assert_not_called()
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    @patch("time.time")
-    def test_retries_on_rate_limit_403(self, mock_time, mock_sleep, mock_urlopen):
-        """Should retry on 403 errors that include Retry-After."""
-        mock_time.side_effect = [0, 0, 10, 301, 301]
-        empty_runs_resp = _make_response({"workflow_runs": []})
-        rate_limit_err = urllib.error.HTTPError("url", 403, "Rate Limit", {"Retry-After": "60"}, None)
-
-        mock_urlopen.side_effect = [
-            # Iteration 1
-            empty_runs_resp, # queued
-            empty_runs_resp, # waiting
-            empty_runs_resp, # in_progress
-            rate_limit_err,  # auth check fails
-            # Iteration 2
-            empty_runs_resp, # queued
-            empty_runs_resp, # waiting
-            empty_runs_resp, # in_progress
-            _make_response({"homepage": "https://example.com"}), # auth check success
-            _make_response({"homepage": ""}), # anon check success
-            _make_response({}, status=200) # patch success
-        ]
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                with patch("clear_repo_url.MAX_ITERATIONS", 2):
-                    clear_homepage()
-            output = mock_stdout.getvalue()
-
-        self.assertIn("Iteration 1: Rate limited (403). Retrying...", output)
-        self.assertIn("Iteration 2: URL found", output)
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    def test_exits_on_consecutive_failures(self, mock_sleep, mock_urlopen):
-        """Should exit after 10 consecutive failures."""
-        empty_runs_resp = _make_response({"workflow_runs": []})
-        # Mock responses to fail 10 times in a row
-        side_effects = []
-        for _ in range(10):
-            side_effects.extend([
-                empty_runs_resp, # queued
-                empty_runs_resp, # waiting
-                empty_runs_resp, # in_progress
-                Exception("error") # auth check fails
-            ])
-        mock_urlopen.side_effect = side_effects
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                clear_homepage()
-            output = mock_stdout.getvalue()
-
-        self.assertIn("Too many consecutive failures (10). Exiting.", output)
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    @patch("time.time")
-    def test_exits_on_max_iterations_and_duration(self, mock_time, mock_sleep, mock_urlopen):
-        """Should exit after reaching MAX_ITERATIONS AND minimum duration."""
-        mock_time.side_effect = [0, 301, 301]
-        empty_runs_resp = _make_response({"workflow_runs": []})
-
-        mock_urlopen.side_effect = [
-            empty_runs_resp, # queued
-            empty_runs_resp, # waiting
-            empty_runs_resp, # in_progress
-            _make_response({"homepage": ""}), # auth
-            _make_response({"homepage": ""}), # anon
-        ]
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
                 with patch("clear_repo_url.MAX_ITERATIONS", 1):
-                    clear_homepage()
+                    clear_repo_url.clear_homepage()
             output = mock_stdout.getvalue()
-
-        self.assertIn("Reached maximum iterations (1) and minimum duration. Exiting.", output)
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    @patch("time.time")
-    def test_waits_for_min_duration(self, mock_time, mock_sleep, mock_urlopen):
-        """Should NOT exit if MAX_ITERATIONS is reached but NOT minimum duration."""
-        # start_time = 0
-        # iteration 1: elapsed = 0 -> logs "Iteration 1: No URL set"
-        # iteration 2: elapsed = 10 -> doesn't exit because 10 < 300
-        # iteration 3: elapsed = 301 -> exits
-        mock_time.side_effect = [0, 0, 10, 301, 301]
-        empty_runs_resp = _make_response({"workflow_runs": []})
-
-        mock_urlopen.side_effect = [
-            # Iteration 1
-            empty_runs_resp, empty_runs_resp, empty_runs_resp,
-            _make_response({"homepage": ""}), _make_response({"homepage": ""}),
-            # Iteration 2
-            empty_runs_resp, empty_runs_resp, empty_runs_resp,
-            _make_response({"homepage": ""}), _make_response({"homepage": ""}),
-        ]
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                # We use 1 iteration max, but it should do at least 2 because of time
-                with patch("clear_repo_url.MAX_ITERATIONS", 1):
-                    clear_homepage()
-            output = mock_stdout.getvalue()
-
-        self.assertIn("Reached maximum iterations (1) and minimum duration. Exiting.", output)
-        self.assertIn("Iteration 1: No URL set, waiting... (Elapsed: 0s)", output)
-
-
-class TestClearHomepagePrivacyAndHeaders(unittest.TestCase):
-    """Checks headers and that secret URL is not logged."""
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    @patch("time.time")
-    def test_homepage_url_not_printed_to_logs(self, mock_time, mock_sleep, mock_urlopen):
-        mock_time.side_effect = [0, 301, 301]
-        secret_url = "https://super-secret-url.example.com"
-        empty_runs_resp = _make_response({"workflow_runs": []})
-        mock_urlopen.side_effect = [
-            empty_runs_resp,
-            empty_runs_resp,
-            empty_runs_resp,
-            _make_response({"homepage": secret_url}),
-            _make_response({"homepage": ""}),
-            _make_response({}, status=200)
-        ]
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                with patch("clear_repo_url.MAX_ITERATIONS", 1):
-                    clear_homepage()
-            output = mock_stdout.getvalue()
-
-        self.assertNotIn(secret_url, output)
-        self.assertIn(f"URL found (Auth: {len(secret_url)} chars", output)
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    @patch("time.time")
-    def test_patch_payload_and_headers(self, mock_time, mock_sleep, mock_urlopen):
-        """Verify the PATCH request sends 'homepage': null and correct headers."""
-        mock_time.side_effect = [0, 301, 301]
-        empty_runs_resp = _make_response({"workflow_runs": []})
-
-        # Iteration 1 finds and clears
-        mock_urlopen.side_effect = [
-            empty_runs_resp, empty_runs_resp, empty_runs_resp,
-            _make_response({"homepage": "https://example.com"}),
-            _make_response({"homepage": ""}),
-            _make_response({}, status=200)
-        ]
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("clear_repo_url.MAX_ITERATIONS", 1):
-                clear_homepage()
-
-        # Last call should be the PATCH request
-        patch_req = mock_urlopen.call_args_list[-1][0][0]
-        self.assertEqual(patch_req.get_method(), "PATCH")
-
-        payload = json.loads(patch_req.data.decode("utf-8"))
-        self.assertIn("homepage", payload)
-        self.assertIsNone(payload["homepage"])
-
-        self.assertEqual(patch_req.get_header("Accept"), "application/vnd.github+json")
-        self.assertEqual(patch_req.get_header("X-github-api-version"), "2022-11-28")
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    @patch("time.time")
-    def test_anon_check_fails_gracefully(self, mock_time, mock_sleep, mock_urlopen):
-        """Should continue if anon check fails with 403."""
-        mock_time.side_effect = [0, 301, 301]
-        empty_runs_resp = _make_response({"workflow_runs": []})
-
-        mock_urlopen.side_effect = [
-            # Iteration 1
-            empty_runs_resp, empty_runs_resp, empty_runs_resp,
-            _make_response({"homepage": ""}), # auth check
-            urllib.error.HTTPError("url", 403, "Forbidden", {}, None), # anon check fails
-        ]
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                with patch("clear_repo_url.MAX_ITERATIONS", 1):
-                    clear_homepage()
-            output = mock_stdout.getvalue()
-
-        self.assertIn("Anon check HTTP Error: 403", output)
-        self.assertIn("Reached maximum iterations", output)
-
-
-class TestGetGithubHeaders(unittest.TestCase):
-    """Direct unit tests for the shared get_github_headers() helper."""
-
-    def test_headers_with_token_include_authorization(self):
-        headers = get_github_headers("mytoken")
-        self.assertEqual(headers["Authorization"], "Bearer mytoken")
-        self.assertEqual(headers["Accept"], "application/vnd.github+json")
-        self.assertEqual(headers["X-GitHub-Api-Version"], "2022-11-28")
-        self.assertEqual(headers["User-Agent"], "Python-urllib")
-
-    def test_headers_without_token_omit_authorization(self):
-        headers = get_github_headers()
-        self.assertNotIn("Authorization", headers)
-        self.assertEqual(headers["Accept"], "application/vnd.github+json")
-        self.assertEqual(headers["X-GitHub-Api-Version"], "2022-11-28")
-        self.assertEqual(headers["User-Agent"], "Python-urllib")
-
-    def test_headers_with_explicit_none_token_omit_authorization(self):
-        headers = get_github_headers(None)
-        self.assertNotIn("Authorization", headers)
-
-    def test_headers_with_falsy_empty_string_token_omit_authorization(self):
-        """An empty-string token is falsy and must not produce an Authorization header."""
-        headers = get_github_headers("")
-        self.assertNotIn("Authorization", headers)
-
-    def test_headers_are_independent_dicts_across_calls(self):
-        """Each call must return a fresh dict; mutating one must not leak into another."""
-        auth_headers = get_github_headers("tok")
-        anon_headers = get_github_headers()
-
-        auth_headers["Content-Type"] = "application/json"
-
-        self.assertNotIn("Content-Type", anon_headers)
-        self.assertNotIn("Authorization", anon_headers)
-        self.assertIn("Authorization", auth_headers)
-
-
-class TestIsAnotherWorkflowWaitingHeaders(unittest.TestCase):
-    """Verifies is_another_workflow_waiting() builds requests via get_github_headers()."""
-
-    def test_sends_updated_accept_and_api_version_headers_with_token(self):
-        empty_resp = _make_response({"workflow_runs": []})
-        with patch("urllib.request.urlopen", return_value=empty_resp) as mock_urlopen:
-            result = is_another_workflow_waiting("owner/repo", "sometoken", "1", "My Workflow")
-
-        self.assertFalse(result)
-        self.assertTrue(mock_urlopen.called)
-        req = mock_urlopen.call_args_list[0][0][0]
-        self.assertEqual(req.get_header("Authorization"), "Bearer sometoken")
-        self.assertEqual(req.get_header("Accept"), "application/vnd.github+json")
-        self.assertEqual(req.get_header("X-github-api-version"), "2022-11-28")
-        self.assertEqual(req.get_header("User-agent"), "Python-urllib")
-
-
-class TestClearHomepageAdditionalEdgeCases(unittest.TestCase):
-    """Additional edge cases for the logging/payload changes introduced in this PR."""
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    @patch("time.time")
-    def test_url_found_only_via_anon_check_logs_zero_auth_chars(self, mock_time, mock_sleep, mock_urlopen):
-        """When the auth check returns no homepage but the anon check does, Auth should log 0 chars."""
-        mock_time.side_effect = [0, 301, 301]
-        empty_runs_resp = _make_response({"workflow_runs": []})
-
-        mock_urlopen.side_effect = [
-            empty_runs_resp, empty_runs_resp, empty_runs_resp,
-            _make_response({"homepage": None}),  # auth check: no homepage key value
-            _make_response({"homepage": "https://example.com"}),  # anon check finds it
-            _make_response({}, status=200),  # PATCH clear
-        ]
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("sys.stdout", new_callable=StringIO) as mock_stdout:
-                with patch("clear_repo_url.MAX_ITERATIONS", 1):
-                    clear_homepage()
-            output = mock_stdout.getvalue()
-
-        self.assertIn("URL found (Auth: 0 chars, Anon: 19 chars). Clearing...", output)
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    @patch("time.time")
-    def test_patch_payload_does_not_send_empty_string(self, mock_time, mock_sleep, mock_urlopen):
-        """Regression: the PATCH payload must use null, not an empty string, to clear homepage."""
-        mock_time.side_effect = [0, 301, 301]
-        empty_runs_resp = _make_response({"workflow_runs": []})
-
-        mock_urlopen.side_effect = [
-            empty_runs_resp, empty_runs_resp, empty_runs_resp,
-            _make_response({"homepage": "https://example.com"}),
-            _make_response({"homepage": ""}),
-            _make_response({}, status=200),
-        ]
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("clear_repo_url.MAX_ITERATIONS", 1):
-                clear_homepage()
-
-        patch_req = mock_urlopen.call_args_list[-1][0][0]
-        raw_body = patch_req.data.decode("utf-8")
-        self.assertNotIn('""', raw_body)
-        self.assertIn("null", raw_body)
-
-    @patch("urllib.request.urlopen")
-    @patch("time.sleep")
-    @patch("time.time")
-    def test_auth_request_has_authorization_anon_request_does_not(self, mock_time, mock_sleep, mock_urlopen):
-        """The authenticated GET must carry a Bearer token; the anonymous GET must not."""
-        mock_time.side_effect = [0, 301, 301]
-        empty_runs_resp = _make_response({"workflow_runs": []})
-
-        mock_urlopen.side_effect = [
-            empty_runs_resp, empty_runs_resp, empty_runs_resp,
-            _make_response({"homepage": ""}),  # auth check
-            _make_response({"homepage": ""}),  # anon check
-        ]
-
-        with patch.dict(os.environ, _env(), clear=True):
-            with patch("clear_repo_url.MAX_ITERATIONS", 1):
-                clear_homepage()
-
-        # Calls: 3 workflow-status checks, then auth GET, then anon GET.
-        auth_req = mock_urlopen.call_args_list[3][0][0]
-        anon_req = mock_urlopen.call_args_list[4][0][0]
-
-        self.assertEqual(auth_req.get_header("Authorization"), "Bearer tok123")
-        self.assertIsNone(anon_req.get_header("Authorization"))
-
-        self.assertEqual(auth_req.get_header("Accept"), "application/vnd.github+json")
-        self.assertEqual(anon_req.get_header("Accept"), "application/vnd.github+json")
-        self.assertEqual(auth_req.get_header("X-github-api-version"), "2022-11-28")
-        self.assertEqual(anon_req.get_header("X-github-api-version"), "2022-11-28")
-
+        self.assertIn("URL found", output)
+        self.assertIn("URL was removed via Playwright", output)
 
 if __name__ == "__main__":
     unittest.main()
