@@ -1,7 +1,7 @@
 {
   "leagueId": "4424",
   "leagueName": "MLB",
-  "updatedAt": "2026-07-06T04:23:32.439Z",
+  "updatedAt": "2026-07-06T10:59:42.919Z",
   "events": [
     {
       "idEvent": "2386876",
@@ -3843,11 +3843,11 @@
       "strDescriptionEN": "",
       "strHomeTeam": "Los Angeles Angels",
       "strAwayTeam": "Boston Red Sox",
-      "intHomeScore": "3",
+      "intHomeScore": "5",
       "intHomeScoreExtra": null,
       "intAwayScoreExtra": null,
       "intRound": "16",
-      "intAwayScore": "5",
+      "intAwayScore": "7",
       "intSpectators": null,
       "strOfficial": "",
       "strWeather": "",
@@ -3862,7 +3862,7 @@
       "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
       "intScore": null,
       "intScoreVotes": null,
-      "strResult": " Los Angeles Angels Innings:<br>2 1 0 0 0     <br>Hits: 6 - Errors: 1<br><br>Boston Red Sox Innings:<br>0 2 3 0 0     <br>Hits: 6 - Errors: 0",
+      "strResult": " Los Angeles Angels Innings:<br>2 1 0 0 0 0 0 1 1 <br>Hits: 9 - Errors: 2<br><br>Boston Red Sox Innings:<br>0 2 3 0 0 0 2 0 0 <br>Hits: 10 - Errors: 0",
       "idVenue": "23214",
       "strVenue": "Angel Stadium",
       "strCountry": "United States",
@@ -3874,8 +3874,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "IN5",
+      "strVideo": "https://www.youtube.com/watch?v=0e_ql06DyAY",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
