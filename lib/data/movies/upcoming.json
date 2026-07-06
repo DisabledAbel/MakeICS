@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T07:58:09.839Z",
+  "generatedAt": "2026-07-06T09:01:28.281Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -434,12 +434,12 @@
           "name": "Gaby Hoffmann"
         },
         {
-          "id": "nm0578853",
-          "name": "Ben Mendelsohn"
+          "id": "nm16532278",
+          "name": "Nicholas Lanziesera"
         },
         {
-          "id": "nm0449299",
-          "name": "Tig Notaro"
+          "id": "nm0578853",
+          "name": "Ben Mendelsohn"
         }
       ],
       "label": "Jul 23, 2026"
@@ -1244,8 +1244,8 @@
           "name": "Adrian Lester"
         },
         {
-          "id": "nm4538500",
-          "name": "Arnas Fedaravicius"
+          "id": "nm0863130",
+          "name": "Ramon Tikaram"
         }
       ],
       "label": "Aug 21, 2026"
@@ -1711,16 +1711,16 @@
           "name": "Nicholas Hoult"
         },
         {
-          "id": "nm0000225",
-          "name": "Christian Slater"
-        },
-        {
           "id": "nm2368789",
           "name": "Zoë Kravitz"
         },
         {
-          "id": "nm6616259",
-          "name": "Tati Gabrielle"
+          "id": "nm0000225",
+          "name": "Christian Slater"
+        },
+        {
+          "id": "nm0000604",
+          "name": "John C. Reilly"
         }
       ],
       "label": "Sep 04, 2026"
@@ -1771,12 +1771,12 @@
           "name": "Adria Arjona"
         },
         {
-          "id": "nm1405398",
-          "name": "Dan Stevens"
-        },
-        {
           "id": "nm0356017",
           "name": "Rebecca Hall"
+        },
+        {
+          "id": "nm1405398",
+          "name": "Dan Stevens"
         },
         {
           "id": "nm0000299",
@@ -2728,12 +2728,12 @@
       ],
       "people": [
         {
-          "id": "nm0597388",
-          "name": "Jason Momoa"
-        },
-        {
           "id": "nm2765191",
           "name": "Eric André"
+        },
+        {
+          "id": "nm0597388",
+          "name": "Jason Momoa"
         },
         {
           "id": "nm2810287",
@@ -3566,6 +3566,35 @@
       "label": "Dec 02, 2026"
     },
     {
+      "id": "tt34718200",
+      "title": "The Debut",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2Q5ZTdmN2UtYzJjZi00ZjZjLWJmMWMtMjFjMmM5M2VmOWY4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 03 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Musical"
+      ],
+      "people": [
+        {
+          "id": "nm0000194",
+          "name": "Julianne Moore"
+        },
+        {
+          "id": "nm0316079",
+          "name": "Paul Giamatti"
+        },
+        {
+          "id": "nm1782991",
+          "name": "Halle Bailey"
+        },
+        {
+          "id": "nm0251986",
+          "name": "Jesse Eisenberg"
+        }
+      ],
+      "label": "Dec 03, 2026"
+    },
+    {
       "id": "tt32432428",
       "title": "Violent Night 2",
       "image": "https://m.media-amazon.com/images/M/MV5BYTQ0ZjI1Y2MtMDZmNC00Y2JlLTg3ZjAtYWQ0MTVmMGQ5MjRkXkEyXkFqcGc@._V1_.jpg",
@@ -3791,12 +3820,12 @@
           "name": "Aaron Taylor-Johnson"
         },
         {
-          "id": "nm0000353",
-          "name": "Willem Dafoe"
+          "id": "nm6675440",
+          "name": "Lily-Rose Depp"
         },
         {
-          "id": "nm0408591",
-          "name": "Ralph Ineson"
+          "id": "nm0000353",
+          "name": "Willem Dafoe"
         }
       ],
       "label": "Dec 25, 2026"
@@ -4771,12 +4800,12 @@
           "name": "Mel Brooks"
         },
         {
-          "id": "nm5730649",
-          "name": "Lewis Pullman"
-        },
-        {
           "id": "nm0000597",
           "name": "Bill Pullman"
+        },
+        {
+          "id": "nm5730649",
+          "name": "Lewis Pullman"
         },
         {
           "id": "nm1551130",
