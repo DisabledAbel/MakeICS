@@ -12,7 +12,7 @@
       "strTime": "22:00:00",
       "strTimestamp": "2026-07-05T22:00:00.000Z",
       "strLeague": "Arena Football One",
-      "strVenue": null,
+      "strVenue": "",
       "strTVStation": "RS",
       "strStatus": "NS",
       "source": "af1-scrape"
