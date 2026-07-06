@@ -1,7 +1,7 @@
 {
   "leagueId": "4424",
   "leagueName": "MLB",
-  "updatedAt": "2026-07-06T15:55:56.983Z",
+  "updatedAt": "2026-07-06T20:13:27.948Z",
   "events": [
     {
       "idEvent": "2386876",
@@ -4047,11 +4047,11 @@
       "strDescriptionEN": "",
       "strHomeTeam": "Kansas City Royals",
       "strAwayTeam": "Philadelphia Phillies",
-      "intHomeScore": null,
+      "intHomeScore": "10",
       "intHomeScoreExtra": null,
       "intAwayScoreExtra": null,
       "intRound": "16",
-      "intAwayScore": null,
+      "intAwayScore": "1",
       "intSpectators": null,
       "strOfficial": "",
       "strWeather": "",
@@ -4066,7 +4066,7 @@
       "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png",
       "intScore": null,
       "intScoreVotes": null,
-      "strResult": " Kansas City Royals Innings:<br>         <br>Hits:  - Errors: <br><br>Philadelphia Phillies Innings:<br>         <br>Hits:  - Errors: ",
+      "strResult": " Kansas City Royals Innings:<br>6 1 1 1      <br>Hits: 10 - Errors: 0<br><br>Philadelphia Phillies Innings:<br>1 0 0 0      <br>Hits: 6 - Errors: 1",
       "idVenue": "30848",
       "strVenue": "Kauffman Stadium",
       "strCountry": "United States",
@@ -4079,7 +4079,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "IN5",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
