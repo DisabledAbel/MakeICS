@@ -1,7 +1,7 @@
 {
   "teamId": "142028",
   "teamName": "Worcester Red Sox",
-  "updatedAt": "2026-07-07T15:28:50.323Z",
+  "updatedAt": "2026-07-08T15:05:45.164Z",
   "events": [
     {
       "idEvent": "scraped-815556",
@@ -1268,7 +1268,7 @@
       "strEvent": "Worcester Red Sox vs Rochester Red Wings",
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
-      "dateEvent": "2026-07-07",
+      "dateEvent": "2026-07-08",
       "strTime": "22:45:00",
       "strTimestamp": "2026-07-07T22:45:00Z",
       "strLeague": "International League",
@@ -1283,8 +1283,22 @@
       "strHomeTeam": "Worcester Red Sox",
       "strAwayTeam": "Rochester Red Wings",
       "dateEvent": "2026-07-08",
-      "strTime": "22:45:00",
-      "strTimestamp": "2026-07-08T22:45:00Z",
+      "strTime": "20:05:00",
+      "strTimestamp": "2026-07-08T20:05:00Z",
+      "strLeague": "International League",
+      "strVenue": "Polar Park",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-815508",
+      "strEvent": "Worcester Red Sox vs Rochester Red Wings",
+      "strHomeTeam": "Worcester Red Sox",
+      "strAwayTeam": "Rochester Red Wings",
+      "dateEvent": "2026-07-08",
+      "strTime": "20:10:00",
+      "strTimestamp": "2026-07-08T20:10:00Z",
       "strLeague": "International League",
       "strVenue": "Polar Park",
       "strStatus": "NS",
