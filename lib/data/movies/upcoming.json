@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T07:30:16.457Z",
+  "generatedAt": "2026-07-09T08:44:01.765Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -653,6 +653,34 @@
       "label": "Jul 24, 2026"
     },
     {
+      "id": "tt28512342",
+      "title": "Swallowtail & Dragonfly",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGQzNzEzNzctZGM5NC00NWQyLThjYTUtOTNjZGVjMmIyZTVkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 24 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm2561732",
+          "name": "Vanessa Yao"
+        },
+        {
+          "id": "nm5190329",
+          "name": "Vivian Dawson"
+        },
+        {
+          "id": "nm0005568",
+          "name": "Russell Wong"
+        },
+        {
+          "id": "nm3152363",
+          "name": "Richard Ouyang"
+        }
+      ],
+      "label": "Jul 24, 2026"
+    },
+    {
       "id": "tt43492793",
       "title": "WHAM! 10 Days in China",
       "image": "https://m.media-amazon.com/images/M/MV5BYmNhMWRiMGUtM2QwMC00ZjZiLTk3MWUtOWIwNWEzNTJmOWU2XkEyXkFqcGc@._V1_.jpg",
@@ -1221,6 +1249,35 @@
       "label": "Aug 14, 2026"
     },
     {
+      "id": "tt36870725",
+      "title": "Terrestrial",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGZkNzViZTktZTI2NC00ZWExLWE0MGYtOGY2OGRjZDI4ZGFlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm1854664",
+          "name": "Jermaine Fowler"
+        },
+        {
+          "id": "nm3837694",
+          "name": "James Morosini"
+        },
+        {
+          "id": "nm6955492",
+          "name": "Pauline Chalamet"
+        },
+        {
+          "id": "nm7254946",
+          "name": "Edy Modica"
+        }
+      ],
+      "label": "Aug 14, 2026"
+    },
+    {
       "id": "tt7734244",
       "title": "The Magic Faraway Tree",
       "image": "https://m.media-amazon.com/images/M/MV5BZThiYWI3ZTYtMjZmYy00Njc5LWE4OGYtNTlmNTQyYWZmYjQ0XkEyXkFqcGc@._V1_.jpg",
@@ -1371,7 +1428,7 @@
     {
       "id": "tt35519455",
       "title": "It Ends",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTFlYjUzMTktM2ZiOC00NmUyLWI2ZWUtN2Y4MmJmNDc5NmJjXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWE2ZGYyMzMtYjQ2OS00Y2ZhLWE2MzktMDY1YzM3MjUxZTM4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -1637,35 +1694,6 @@
       "label": "Aug 28, 2026"
     },
     {
-      "id": "tt37281055",
-      "title": "Buddy",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
-      "genres": [
-        "Horror",
-        "Sci-Fi"
-      ],
-      "people": [
-        {
-          "id": "nm2129662",
-          "name": "Cristin Milioti"
-        },
-        {
-          "id": "nm10334528",
-          "name": "Delaney Quinn"
-        },
-        {
-          "id": "nm0333410",
-          "name": "Topher Grace"
-        },
-        {
-          "id": "nm9712592",
-          "name": "Caleb Williams"
-        }
-      ],
-      "label": "Aug 28, 2026"
-    },
-    {
       "id": "tt34470118",
       "title": "Rise of the Footsoldier: Retribution",
       "image": "https://m.media-amazon.com/images/M/MV5BNWRjMmY5YTYtYWYwZi00NzVkLTlmMmMtMjExYWRjZWY3MTVmXkEyXkFqcGc@._V1_.jpg",
@@ -1691,6 +1719,36 @@
         {
           "id": "nm0286044",
           "name": "Jamie Foreman"
+        }
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
+      "id": "tt37598347",
+      "title": "Nika & Madison",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjhlYjAyYmMtZTMxNS00NzQ4LTkzZTEtYTMyZWFhY2EyNTVjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm8438955",
+          "name": "Ellyn Jade"
+        },
+        {
+          "id": "nm9007701",
+          "name": "Star Slade"
+        },
+        {
+          "id": "nm0236495",
+          "name": "Shawn Doyle"
+        },
+        {
+          "id": "nm8663682",
+          "name": "Kip Brown"
         }
       ],
       "label": "Aug 28, 2026"
@@ -1724,6 +1782,35 @@
         }
       ],
       "label": "Sep 02, 2026"
+    },
+    {
+      "id": "tt37281055",
+      "title": "Buddy",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "people": [
+        {
+          "id": "nm2129662",
+          "name": "Cristin Milioti"
+        },
+        {
+          "id": "nm10334528",
+          "name": "Delaney Quinn"
+        },
+        {
+          "id": "nm0333410",
+          "name": "Topher Grace"
+        },
+        {
+          "id": "nm9712592",
+          "name": "Caleb Williams"
+        }
+      ],
+      "label": "Sep 04, 2026"
     },
     {
       "id": "tt35866986",
@@ -2080,6 +2167,31 @@
       "label": "Sep 11, 2026"
     },
     {
+      "id": "tt36152310",
+      "title": "Don't Look Back in Anger",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmNlOTJmNGUtMjhiNS00Y2NkLWE1OWEtYzA1Y2U1ODI4N2Q2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm2089687",
+          "name": "Oasis"
+        },
+        {
+          "id": "nm0302427",
+          "name": "Liam Gallagher"
+        },
+        {
+          "id": "nm0302462",
+          "name": "Noel Gallagher"
+        }
+      ],
+      "label": "Sep 11, 2026"
+    },
+    {
       "id": "tt10794054",
       "title": "The Weight",
       "image": "https://m.media-amazon.com/images/M/MV5BOTdkMDQyYjMtOGRhZC00YWUyLTgwZjctZDZjNjZlNWU4ZGU5XkEyXkFqcGc@._V1_.jpg",
@@ -2171,34 +2283,6 @@
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [],
       "people": [],
-      "label": "Sep 18, 2026"
-    },
-    {
-      "id": "tt33184695",
-      "title": "Rolling Loud",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWJlZDBmMGQtNjFiYy00ZGUwLTk5ZjMtNzYzNDU5MWIyY2I1XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
-      "genres": [
-        "Comedy"
-      ],
-      "people": [
-        {
-          "id": "nm5153701",
-          "name": "Christine Ko"
-        },
-        {
-          "id": "nm5216434",
-          "name": "Marcus Lewis"
-        },
-        {
-          "id": "nm0005562",
-          "name": "Owen Wilson"
-        },
-        {
-          "id": "nm0086883",
-          "name": "Jolene"
-        }
-      ],
       "label": "Sep 18, 2026"
     },
     {
@@ -2454,6 +2538,34 @@
         }
       ],
       "label": "Oct 01, 2026"
+    },
+    {
+      "id": "tt33184695",
+      "title": "Rolling Loud",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWJlZDBmMGQtNjFiYy00ZGUwLTk5ZjMtNzYzNDU5MWIyY2I1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm5153701",
+          "name": "Christine Ko"
+        },
+        {
+          "id": "nm5216434",
+          "name": "Marcus Lewis"
+        },
+        {
+          "id": "nm0005562",
+          "name": "Owen Wilson"
+        },
+        {
+          "id": "nm0086883",
+          "name": "Jolene"
+        }
+      ],
+      "label": "Oct 02, 2026"
     },
     {
       "id": "tt31450459",
@@ -3773,7 +3885,7 @@
     {
       "id": "tt31378509",
       "title": "Dune: Part Three",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDA2MDVmNWItODA3My00Mzc2LThmODMtMThhYTVlMGJkYjA4XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjk1NjgwZDMtYzI5OS00Y2Q4LWI1NmItNTE5OGU2NDVmMTAxXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Dec 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -4607,8 +4719,8 @@
           "name": "Laurence Fishburne"
         },
         {
-          "id": "nm0749263",
-          "name": "Mark Ruffalo"
+          "id": "nm17478972",
+          "name": "Everly Laing"
         }
       ],
       "label": "Mar 05, 2027"
@@ -5411,6 +5523,35 @@
         }
       ],
       "label": "Jul 04, 2027"
+    },
+    {
+      "id": "tt37833661",
+      "title": "Man of Tomorrow",
+      "releaseDate": "Fri, 09 Jul 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "people": [
+        {
+          "id": "nm6854116",
+          "name": "Milly Alcock"
+        },
+        {
+          "id": "nm4825178",
+          "name": "David Corenswet"
+        },
+        {
+          "id": "nm5097044",
+          "name": "Isabela Merced"
+        },
+        {
+          "id": "nm0396558",
+          "name": "Nicholas Hoult"
+        }
+      ],
+      "label": "Jul 09, 2027"
     }
   ]
 }
