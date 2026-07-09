@@ -1,7 +1,7 @@
 {
   "leagueId": "4346",
   "leagueName": "MLS",
-  "updatedAt": "2026-07-08T20:05:32.936Z",
+  "updatedAt": "2026-07-09T04:25:24.183Z",
   "events": [
     {
       "idEvent": "2406707",
@@ -3576,7 +3576,7 @@
     {
       "idEvent": "2406931",
       "idAPIfootball": "1490329",
-      "strTimestamp": "2026-07-18T00:00:00",
+      "strTimestamp": "2026-07-18T00:10:00",
       "strEvent": "Nashville SC vs Atlanta United",
       "strEventAlternate": "Atlanta United @ Nashville SC",
       "strFilename": "American Major League Soccer 2026-07-18 Nashville SC vs Atlanta United",
@@ -3598,7 +3598,7 @@
       "strWeather": null,
       "dateEvent": "2026-07-18",
       "dateEventLocal": null,
-      "strTime": "00:00:00",
+      "strTime": "00:10:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "137700",
@@ -6993,7 +6993,7 @@
     {
       "idEvent": "2407201",
       "idAPIfootball": "1490599",
-      "strTimestamp": "2026-11-02T02:15:00",
+      "strTimestamp": "2026-11-02T02:00:00",
       "strEvent": "Portland Timbers vs Houston Dynamo",
       "strEventAlternate": "Houston Dynamo @ Portland Timbers",
       "strFilename": "American Major League Soccer 2026-11-02 Portland Timbers vs Houston Dynamo",
@@ -7015,7 +7015,7 @@
       "strWeather": null,
       "dateEvent": "2026-11-02",
       "dateEventLocal": null,
-      "strTime": "02:15:00",
+      "strTime": "02:00:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "134155",
