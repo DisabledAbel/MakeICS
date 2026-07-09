@@ -1,7 +1,7 @@
 {
   "teamId": "af1-beaumont",
   "teamName": "Beaumont Renegades",
-  "updatedAt": "2026-07-09T03:36:14.296Z",
+  "updatedAt": "2026-07-09T15:17:13.398Z",
   "events": [
     {
       "idEvent": "af1-2026-07-11-beaumont-renegades-kentucky-barrels",
@@ -12,7 +12,7 @@
       "strTime": "23:00:00",
       "strTimestamp": "2026-07-11T23:00:00.000Z",
       "strLeague": "Arena Football One",
-      "strVenue": "",
+      "strVenue": null,
       "strTVStation": "RS",
       "strStatus": "NS",
       "source": "af1-scrape"
