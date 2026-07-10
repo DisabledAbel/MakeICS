@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T08:44:01.765Z",
+  "generatedAt": "2026-07-10T08:24:26.827Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -1221,7 +1221,7 @@
     {
       "id": "tt35060353",
       "title": "The Wrong Girls",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDliNzEyNGYtZDY2Ni00Nzk3LTllMDctZTY1ZjczNDhjOWZiXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDc5ZTZiMmQtMDRjYi00NDAzLWEyMTQtYWIxNTFkMmE5ZWZkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -1666,7 +1666,7 @@
     {
       "id": "tt12446086",
       "title": "Legend of the White Dragon",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTUwMzU5MjQtYTU5OS00ZWQ1LTgyZDMtNjQ3ODZkZWYwNTdmXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -1754,6 +1754,35 @@
       "label": "Aug 28, 2026"
     },
     {
+      "id": "tt37281055",
+      "title": "Buddy",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "people": [
+        {
+          "id": "nm2129662",
+          "name": "Cristin Milioti"
+        },
+        {
+          "id": "nm10334528",
+          "name": "Delaney Quinn"
+        },
+        {
+          "id": "nm0333410",
+          "name": "Topher Grace"
+        },
+        {
+          "id": "nm9712592",
+          "name": "Caleb Williams"
+        }
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
       "id": "tt31192372",
       "title": "Fall 2: Deadpoint",
       "image": "https://m.media-amazon.com/images/M/MV5BMTY4MDQzYWItNjNjYy00ZTBjLWJiYzItMjliZGFlNzcyMzA1XkEyXkFqcGc@._V1_.jpg",
@@ -1784,33 +1813,33 @@
       "label": "Sep 02, 2026"
     },
     {
-      "id": "tt37281055",
-      "title": "Buddy",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "id": "tt39087873",
+      "title": "Silenced",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQxZWI5NGYtMTY3Ni00NmJlLWFmYTYtNjk5OTBlYzU2NmUwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 03 Sep 2026 00:00:00 GMT",
       "genres": [
-        "Horror",
-        "Sci-Fi"
+        "Documentary",
+        "Biography"
       ],
       "people": [
         {
-          "id": "nm2129662",
-          "name": "Cristin Milioti"
+          "id": "nm4239238",
+          "name": "Jennifer Robinson"
         },
         {
-          "id": "nm10334528",
-          "name": "Delaney Quinn"
+          "id": "nm1720028",
+          "name": "Amber Heard"
         },
         {
-          "id": "nm0333410",
-          "name": "Topher Grace"
+          "id": "nm15521985",
+          "name": "Brittany Higgins"
         },
         {
-          "id": "nm9712592",
-          "name": "Caleb Williams"
+          "id": "nm18150976",
+          "name": "Catalina Ruiz Navarro"
         }
       ],
-      "label": "Sep 04, 2026"
+      "label": "Sep 03, 2026"
     },
     {
       "id": "tt35866986",
@@ -3297,7 +3326,7 @@
     {
       "id": "tt34384661",
       "title": "Godzilla Minus Zero",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWUyMDY0NWQtMjI2Zi00YjMwLTkwYmItZDk1MGI5MjEzODQxXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzY2OWFhMTgtODJhMi00NDIyLWIzNTQtYjc4MjE4YTBjYzllXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3894,20 +3923,20 @@
       ],
       "people": [
         {
-          "id": "nm0000849",
-          "name": "Javier Bardem"
+          "id": "nm3154303",
+          "name": "Timothée Chalamet"
         },
         {
           "id": "nm3918035",
           "name": "Zendaya"
         },
         {
-          "id": "nm0272581",
-          "name": "Rebecca Ferguson"
+          "id": "nm0597388",
+          "name": "Jason Momoa"
         },
         {
-          "id": "nm5896355",
-          "name": "Anya Taylor-Joy"
+          "id": "nm0000849",
+          "name": "Javier Bardem"
         }
       ],
       "label": "Dec 18, 2026"
