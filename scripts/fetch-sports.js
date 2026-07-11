@@ -110,7 +110,8 @@ const LEAGUES = [
   { id: '4481', name: 'UEFA Europa League' },
   { id: '4460', name: 'IPL' },
   { id: '4470', name: 'Arena Football League' },
-  { id: '5434', name: 'UFL' }
+  { id: '5434', name: 'UFL' },
+  { id: '4738', name: 'American AHL' }
 ];
 
 async function sleep(ms) {
@@ -428,6 +429,8 @@ async function main() {
       // We use search_all_teams.php?l=WNBA as a reliable alternative for this league.
       const teamsUrl = league.id === '4516'
         ? `${SPORTSDB_BASE_URL}/search_all_teams.php?l=WNBA`
+        : league.id === '4738'
+        ? `${SPORTSDB_BASE_URL}/search_all_teams.php?l=American%20AHL`
         : `${SPORTSDB_BASE_URL}/lookup_all_teams.php?id=${league.id}`;
       const teamsData = await fetchJson(teamsUrl);
       const teams = teamsData.teams || [];

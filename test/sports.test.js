@@ -96,9 +96,39 @@ const nextEventsPayload = {
   ]
 };
 
+const ahlTeamsPayload = {
+  teams: [
+    {
+      idTeam: '139122',
+      strTeam: 'Hershey Bears',
+      strSport: 'Ice Hockey',
+      strLeague: 'American AHL',
+      idLeague: '4738',
+      strCountry: 'United States',
+      strBadge: 'https://example.test/hershey.png',
+      strWebsite: 'www.hersheybears.com',
+      strDescriptionEN: 'Hershey Bears...'
+    },
+    {
+      idTeam: '146713',
+      strTeam: 'Coachella Valley Firebirds',
+      strSport: 'Ice Hockey',
+      strLeague: 'American AHL',
+      idLeague: '4738',
+      strCountry: 'United States',
+      strBadge: 'https://example.test/cv.png',
+      strWebsite: 'www.cvfirebirds.com',
+      strDescriptionEN: 'Coachella Valley Firebirds...'
+    }
+  ]
+};
+
 function createFetchMock(onCall) {
   return async (url) => {
     if (onCall) onCall(url);
+    if (url.includes('search_all_teams.php?l=American%20AHL') || url.includes('search_all_teams.php?l=American%2520AHL')) {
+      return Response.json(ahlTeamsPayload);
+    }
     if (url.includes('searchteams.php')) {
       return Response.json(teamPayload);
     }
@@ -135,6 +165,19 @@ test('searchTeamSuggestions returns team results', async () => {
   });
   assert.ok(lightningSuggestions.some(s => s.name === 'Oregon Lightning'));
   assert.equal(lightningSuggestions.find(s => s.name === 'Oregon Lightning').stadium, 'First Interstate Bank Center');
+});
+
+test('searchTeamSuggestions handles AHL queries and returns AHL teams', async () => {
+  const suggestions = await searchTeamSuggestions({
+    query: 'AHL',
+    fetchImpl: createFetchMock()
+  });
+
+  // Should find Hershey Bears and Coachella Valley Firebirds, plus Arsenal from fallback searchteams mock
+  assert.equal(suggestions.length, 3);
+  assert.ok(suggestions.some(s => s.name === 'Hershey Bears'));
+  assert.ok(suggestions.some(s => s.name === 'Coachella Valley Firebirds'));
+  assert.equal(suggestions.find(s => s.name === 'Hershey Bears').league, 'American AHL');
 });
 
 test('getEvents returns merged and deduplicated events for a team, including past ones', (t) => {
