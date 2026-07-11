@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T08:24:26.827Z",
+  "generatedAt": "2026-07-11T07:12:08.412Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -983,6 +983,35 @@
       "label": "Aug 07, 2026"
     },
     {
+      "id": "tt12759038",
+      "title": "Ambleside",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDg4YmVhMmUtNzc3ZS00MWEzLWJlYWYtYWEzZTIzNDAwZTY5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Mon, 10 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        {
+          "id": "nm5166444",
+          "name": "Ellie Bamber"
+        },
+        {
+          "id": "nm1304635",
+          "name": "Mehdi Dehbi"
+        },
+        {
+          "id": "nm0672303",
+          "name": "Rupert Penry-Jones"
+        },
+        {
+          "id": "nm0593961",
+          "name": "Rhona Mitra"
+        }
+      ],
+      "label": "Aug 10, 2026"
+    },
+    {
       "id": "tt27165187",
       "title": "The End of Oak Street",
       "image": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_.jpg",
@@ -1783,6 +1812,36 @@
       "label": "Aug 28, 2026"
     },
     {
+      "id": "tt38063160",
+      "title": "The Cycle of Love",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzEzOTRlMmEtOWQ0My00ZjgwLTkzMmMtMjQzN2M3MGRkNjI3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Action",
+        "Adventure"
+      ],
+      "people": [
+        {
+          "id": "nm10309575",
+          "name": "Mina Dale"
+        },
+        {
+          "id": "nm5805021",
+          "name": "Chirag Lobo"
+        },
+        {
+          "id": "nm17636906",
+          "name": "PK Mahanandia"
+        },
+        {
+          "id": "nm18192685",
+          "name": "Lotta von Schedvin"
+        }
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
       "id": "tt31192372",
       "title": "Fall 2: Deadpoint",
       "image": "https://m.media-amazon.com/images/M/MV5BMTY4MDQzYWItNjNjYy00ZTBjLWJiYzItMjliZGFlNzcyMzA1XkEyXkFqcGc@._V1_.jpg",
@@ -1840,36 +1899,6 @@
         }
       ],
       "label": "Sep 03, 2026"
-    },
-    {
-      "id": "tt35866986",
-      "title": "How to Rob a Bank",
-      "image": "https://m.media-amazon.com/images/M/MV5BODY5YWIzZTAtMzA5OC00MDgwLTgxZjQtZGIwZTg2YTk3YWE1XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Crime"
-      ],
-      "people": [
-        {
-          "id": "nm0396558",
-          "name": "Nicholas Hoult"
-        },
-        {
-          "id": "nm2368789",
-          "name": "Zoë Kravitz"
-        },
-        {
-          "id": "nm0000225",
-          "name": "Christian Slater"
-        },
-        {
-          "id": "nm0000604",
-          "name": "John C. Reilly"
-        }
-      ],
-      "label": "Sep 04, 2026"
     },
     {
       "id": "tt34379051",
@@ -2170,6 +2199,7 @@
     {
       "id": "tt9601292",
       "title": "The Fix",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDBmZGQ3ZWUtYzQzZC00Yjg1LTkzMGQtYmI4MmNkNjFiNDZhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3179,33 +3209,6 @@
       "label": "Oct 23, 2026"
     },
     {
-      "id": "tt32359344",
-      "title": "Wife and Dog",
-      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
-      "genres": [
-        "Thriller"
-      ],
-      "people": [
-        {
-          "id": "nm7003974",
-          "name": "Tomás Paredes"
-        },
-        {
-          "id": "nm3584268",
-          "name": "James Norton"
-        },
-        {
-          "id": "nm0683253",
-          "name": "Rosamund Pike"
-        },
-        {
-          "id": "nm1212722",
-          "name": "Benedict Cumberbatch"
-        }
-      ],
-      "label": "Oct 23, 2026"
-    },
-    {
       "id": "tt29611136",
       "title": "Wicker",
       "image": "https://m.media-amazon.com/images/M/MV5BMTk2MzQ3MGYtMTU1Zi00OGE3LWFmZmUtZmM1MmY3NmRhOTRjXkEyXkFqcGc@._V1_.jpg",
@@ -3470,6 +3473,36 @@
         }
       ],
       "label": "Nov 08, 2026"
+    },
+    {
+      "id": "tt35866986",
+      "title": "How to Rob a Bank",
+      "image": "https://m.media-amazon.com/images/M/MV5BODY5YWIzZTAtMzA5OC00MDgwLTgxZjQtZGIwZTg2YTk3YWE1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "people": [
+        {
+          "id": "nm0396558",
+          "name": "Nicholas Hoult"
+        },
+        {
+          "id": "nm2368789",
+          "name": "Zoë Kravitz"
+        },
+        {
+          "id": "nm0000225",
+          "name": "Christian Slater"
+        },
+        {
+          "id": "nm0000604",
+          "name": "John C. Reilly"
+        }
+      ],
+      "label": "Nov 13, 2026"
     },
     {
       "id": "tt33075482",
@@ -4598,35 +4631,6 @@
       "label": "Feb 12, 2027"
     },
     {
-      "id": "tt4540534",
-      "title": "The Nightingale",
-      "releaseDate": "Fri, 12 Feb 2027 00:00:00 GMT",
-      "genres": [
-        "Drama",
-        "History",
-        "War"
-      ],
-      "people": [
-        {
-          "id": "nm1102577",
-          "name": "Elle Fanning"
-        },
-        {
-          "id": "nm0266824",
-          "name": "Dakota Fanning"
-        },
-        {
-          "id": "nm0388061",
-          "name": "Douglas Hodge"
-        },
-        {
-          "id": "nm0753314",
-          "name": "Mark Rylance"
-        }
-      ],
-      "label": "Feb 12, 2027"
-    },
-    {
       "id": "tt37599264",
       "title": "Wishful Thinking",
       "image": "https://m.media-amazon.com/images/M/MV5BNzgyYTExODEtM2E0Yi00Zjk3LThiNWEtNTVjYjNiN2NiZWFmXkEyXkFqcGc@._V1_.jpg",
@@ -4663,6 +4667,33 @@
       "genres": [],
       "people": [],
       "label": "Feb 12, 2027"
+    },
+    {
+      "id": "tt32359344",
+      "title": "Wife and Dog",
+      "releaseDate": "Fri, 19 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm7003974",
+          "name": "Tomás Paredes"
+        },
+        {
+          "id": "nm3584268",
+          "name": "James Norton"
+        },
+        {
+          "id": "nm0683253",
+          "name": "Rosamund Pike"
+        },
+        {
+          "id": "nm1212722",
+          "name": "Benedict Cumberbatch"
+        }
+      ],
+      "label": "Feb 19, 2027"
     },
     {
       "id": "tt31339071",
@@ -4811,6 +4842,35 @@
         }
       ],
       "label": "Mar 12, 2027"
+    },
+    {
+      "id": "tt4540534",
+      "title": "The Nightingale",
+      "releaseDate": "Fri, 19 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "people": [
+        {
+          "id": "nm1102577",
+          "name": "Elle Fanning"
+        },
+        {
+          "id": "nm0266824",
+          "name": "Dakota Fanning"
+        },
+        {
+          "id": "nm0388061",
+          "name": "Douglas Hodge"
+        },
+        {
+          "id": "nm0753314",
+          "name": "Mark Rylance"
+        }
+      ],
+      "label": "Mar 19, 2027"
     },
     {
       "id": "tt16744566",
