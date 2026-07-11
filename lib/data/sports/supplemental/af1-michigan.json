@@ -1,22 +1,8 @@
 {
   "teamId": "af1-michigan",
   "teamName": "Michigan Arsenal",
-  "updatedAt": "2026-07-11T02:52:53.052Z",
+  "updatedAt": "2026-07-11T13:26:26.914Z",
   "events": [
-    {
-      "idEvent": "af1-2026-07-11-oceanside-bombers-michigan-arsenal",
-      "strEvent": "Oceanside Bombers vs Michigan Arsenal",
-      "strHomeTeam": "Oceanside Bombers",
-      "strAwayTeam": "Michigan Arsenal",
-      "dateEvent": "2026-07-11",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-07-11T02:00:00.000Z",
-      "strLeague": "Arena Football One",
-      "strVenue": "Frontwave Arena",
-      "strTVStation": "RS",
-      "strStatus": "NS",
-      "source": "af1-scrape"
-    },
     {
       "idEvent": "af1-2026-07-18-michigan-arsenal-oceanside-bombers",
       "strEvent": "Michigan Arsenal vs Oceanside Bombers",
