@@ -27,6 +27,7 @@ Feeds generated using [TVMaze](https://www.tvmaze.com/api) and enriched with IMD
 Comprehensive sports coverage using [TheSportsDB](https://www.thesportsdb.com/), ESPN scraping, and specialized data for:
 - **Major Leagues**: NBA, NFL, MLB, NHL, MLS, etc.
 - **WNBA**: Enhanced support via SportsDataverse and ESPN.
+- **AHL**: American Hockey League schedules.
 - **MiLB**: Minor League Baseball schedules.
 - **AF1**: Arena Football One official schedules.
 - **Search**: `/api/sports-search?q={query}`
