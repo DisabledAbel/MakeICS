@@ -1,22 +1,8 @@
 {
   "teamId": "af1-minnesota",
   "teamName": "Minnesota Monsters",
-  "updatedAt": "2026-07-12T03:17:56.562Z",
+  "updatedAt": "2026-07-12T13:27:22.488Z",
   "events": [
-    {
-      "idEvent": "af1-2026-07-11-minnesota-monsters-washington-wolfpack",
-      "strEvent": "Minnesota Monsters vs Washington Wolfpack",
-      "strHomeTeam": "Minnesota Monsters",
-      "strAwayTeam": "Washington Wolfpack",
-      "dateEvent": "2026-07-11",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-07-11T23:00:00.000Z",
-      "strLeague": "Arena Football One",
-      "strVenue": "Amsoil Arena",
-      "strTVStation": "RS",
-      "strStatus": "NS",
-      "source": "af1-scrape"
-    },
     {
       "idEvent": "af1-2026-07-18-minnesota-monsters-beaumont-renegades",
       "strEvent": "Minnesota Monsters vs Beaumont Renegades",
