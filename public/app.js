@@ -343,6 +343,18 @@ function renderResults(payload, type) {
       }
     }
 
+    if (payload.rt?.url) {
+      const validRt = safeHttpUrl(payload.rt.url);
+      if (validRt) {
+        const rtLink = document.createElement('a');
+        rtLink.href = validRt;
+        rtLink.target = '_blank';
+        rtLink.rel = 'noopener';
+        rtLink.textContent = 'Open Rotten Tomatoes';
+        actions.append(rtLink);
+      }
+    }
+
     const copyBtn = document.createElement('button');
     copyBtn.type = 'button';
     copyBtn.className = 'copy-ics-url';
@@ -362,6 +374,24 @@ function renderResults(payload, type) {
         ? `IMDb enrichment was configured but failed: ${imdb.error}`
         : `IMDb enrichment (${imdb.source || 'IMDb'}): ${[imdb.title, imdb.year, imdb.rating ? `Rating ${imdb.rating}` : '', imdb.warning].filter(Boolean).join(' · ')}`;
       resultEl.append(imdbPanel);
+    }
+
+    if (payload.rt?.sourceConfigured) {
+      const rtPanel = document.createElement('aside');
+      rtPanel.className = 'imdb-panel';
+      rtPanel.style.marginTop = '8px';
+      const rtDetails = [];
+      if (payload.rt.meterScore !== null) {
+        rtDetails.push(`Tomatometer: ${payload.rt.meterScore}%`);
+      }
+      if (payload.rt.meterClass) {
+        rtDetails.push(`Class: ${payload.rt.meterClass.replace(/_/g, ' ').toUpperCase()}`);
+      }
+      if (payload.rt.startYear) {
+        rtDetails.push(`Year: ${payload.rt.startYear}`);
+      }
+      rtPanel.textContent = `Rotten Tomatoes Enrichment: ${rtDetails.length ? rtDetails.join(' · ') : 'Enriched successfully'}`;
+      resultEl.append(rtPanel);
     }
 
     renderList(episodes, 'tv', show, payload.timezone);
@@ -495,6 +525,17 @@ function renderList(items, type, context, timezone = 'UTC') {
       ].filter(Boolean).join(' · ');
       summaryEl.textContent = item.summary || 'No summary available.';
       link.href = item.url || context.tvmazeUrl;
+
+      if (item.rtUrl) {
+        const linkContainer = link.parentElement;
+        const rtEpLink = document.createElement('a');
+        rtEpLink.href = safeHttpUrl(item.rtUrl) || item.rtUrl;
+        rtEpLink.target = '_blank';
+        rtEpLink.rel = 'noopener';
+        rtEpLink.textContent = 'Rotten Tomatoes';
+        rtEpLink.style.marginLeft = '8px';
+        linkContainer.append(rtEpLink);
+      }
     } else if (type === 'sports') {
       dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp, true, timezone);
       titleEl.textContent = item.name;
