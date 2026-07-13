@@ -19,7 +19,7 @@
 ## 🚀 Categories
 
 ### 📺 TV Shows
-Feeds generated using [TVMaze](https://www.tvmaze.com/api) and enriched with IMDb metadata.
+Feeds generated using [TVMaze](https://www.tvmaze.com/api) and enriched with IMDb metadata. The show schedules are also seamlessly merged and supplemented with [Rotten Tomatoes](https://www.rottentomatoes.com) ratings, summaries, and upcoming episode links using robust canonical name matching.
 - **Search**: `/api/search?q={query}`
 - **ICS Feed**: `/api/episodes?show={showName}&format=ics`
 
