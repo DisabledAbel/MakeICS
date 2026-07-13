@@ -6,18 +6,6 @@ import { getEpisodes, toIcs } from '../lib/tvEpisodes.js';
 // Define the environment variable to mock the browser page in scraper.js
 process.env.NODE_ENV = 'test';
 
-const mockSearchResponse = {
-  tvSeries: [
-    {
-      title: 'Example Show',
-      url: '/tv/example_show',
-      meterScore: 95,
-      meterClass: 'certified_fresh',
-      image: 'https://example.test/rt-poster.jpg',
-      year: 2024
-    }
-  ]
-};
 
 const mockTvmazeShowPayload = {
   id: 1,
@@ -78,8 +66,17 @@ function createFetchMock(requests = []) {
     if (String(url).includes('imdb.iamidiotareyoutoo.com')) {
       return Response.json({ short: { name: 'Free IMDb Example Show', datePublished: '2024-01-01', aggregateRating: { ratingValue: '8.2' }, description: 'Free endpoint result.' } });
     }
-    if (String(url).includes('rottentomatoes.com/api/private')) {
-      return Response.json(mockSearchResponse);
+    if (String(url).includes('rottentomatoes.com/search')) {
+      const html = `
+        <html>
+          <body>
+            <search-page-media-row cast="" data-qa="data-row" endyear="" releaseyear="" startyear="2024" tomatometeriscertified="true" tomatometerscore="95" tomatometersentiment="POSITIVE">
+              <a href="/tv/example_show" slot="title">Example Show</a>
+            </search-page-media-row>
+          </body>
+        </html>
+      `;
+      return new Response(html, { status: 200, headers: { 'Content-Type': 'text/html' } });
     }
     throw new Error(`Unexpected URL: ${url}`);
   };
@@ -121,6 +118,29 @@ test('searchRtShow resolves titles, scores, and slugs correctly', async () => {
   assert.equal(result.url, 'https://www.rottentomatoes.com/tv/example_show');
   assert.equal(result.meterScore, 95);
   assert.equal(result.meterClass, 'certified_fresh');
+});
+
+test('searchRtShow handles query variants like extra spaces and colons with normalized matching', async () => {
+  const requests = [];
+  const fetchMockWithCustomHtml = async (url) => {
+    requests.push(url);
+    const html = `
+      <html>
+        <body>
+          <search-page-media-row cast="" data-qa="data-row" endyear="" releaseyear="" startyear="2026" tomatometeriscertified="false" tomatometerscore="" tomatometersentiment="">
+            <a href="/tv/sofia_the_first_royal_magic" slot="title">Sofia the First: Royal Magic</a>
+          </search-page-media-row>
+        </body>
+      </html>
+    `;
+    return new Response(html, { status: 200, headers: { 'Content-Type': 'text/html' } });
+  };
+
+  const result = await searchRtShow('Sofia the First : royal magic', fetchMockWithCustomHtml);
+  assert.ok(result);
+  assert.equal(result.title, 'Sofia the First: Royal Magic');
+  assert.equal(result.slug, 'sofia_the_first_royal_magic');
+  assert.equal(result.url, 'https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic');
 });
 
 test('parseRtEpisodesFromHtml extracts episode schemas from JSON-LD tags', () => {
