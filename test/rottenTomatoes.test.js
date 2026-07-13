@@ -85,6 +85,8 @@ function createFetchMock(requests = []) {
 import { parseRtDate } from '../lib/rottenTomatoes.js';
 
 test('parseRtDate correctly handles ISO dates, localized dates, and fallbacks', () => {
+  const currentYear = new Date().getFullYear();
+
   // ISO and YYYY-MM-DD
   assert.equal(parseRtDate('2024-01-22'), '2024-01-22');
   assert.equal(parseRtDate('2024-11-05T12:00:00Z'), '2024-11-05');
@@ -97,6 +99,14 @@ test('parseRtDate correctly handles ISO dates, localized dates, and fallbacks', 
   // Localized English Day Month Year
   assert.equal(parseRtDate('22 Jan 2024'), '2024-01-22');
   assert.equal(parseRtDate('5 December 2025'), '2025-12-05');
+
+  // Stripping prefixes like "Airs", "Aired"
+  assert.equal(parseRtDate('Airs Jul 20'), `${currentYear}-07-20`);
+  assert.equal(parseRtDate('Aired May 25, 2026'), '2026-05-25');
+
+  // Localized English Month Day without year
+  assert.equal(parseRtDate('Jul 20'), `${currentYear}-07-20`);
+  assert.equal(parseRtDate('August 3'), `${currentYear}-08-03`);
 
   // Fallback / standard Date.parse
   // Timezone-explicit vs local
