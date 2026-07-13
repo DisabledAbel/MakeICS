@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T07:29:57.421Z",
+  "generatedAt": "2026-07-13T08:18:25.015Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -1012,6 +1012,35 @@
       "label": "Aug 10, 2026"
     },
     {
+      "id": "tt43657324",
+      "title": "Katseye: Wild Hearts",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzM5MjlhODYtYzhlNC00MTVlLTk3MGItZDQ2ZjM4OTAzOTUzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 12 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm13177727",
+          "name": "Daniela Avanzini"
+        },
+        {
+          "id": "nm15203311",
+          "name": "Manon Bannerman"
+        },
+        {
+          "id": "nm16314184",
+          "name": "Katseye"
+        },
+        {
+          "id": "nm13660490",
+          "name": "Sophia Laforteza"
+        }
+      ],
+      "label": "Aug 12, 2026"
+    },
+    {
       "id": "tt27165187",
       "title": "The End of Oak Street",
       "image": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_.jpg",
@@ -1031,12 +1060,12 @@
           "name": "Ewan McGregor"
         },
         {
-          "id": "nm11070581",
-          "name": "Pilot Bunch"
+          "id": "nm0126260",
+          "name": "P.J. Byrne"
         },
         {
-          "id": "nm5204873",
-          "name": "Maisy Stella"
+          "id": "nm11070581",
+          "name": "Pilot Bunch"
         }
       ],
       "label": "Aug 14, 2026"
@@ -1436,12 +1465,12 @@
       ],
       "people": [
         {
-          "id": "nm0267506",
-          "name": "Anna Faris"
-        },
-        {
           "id": "nm0279545",
           "name": "Isla Fisher"
+        },
+        {
+          "id": "nm0267506",
+          "name": "Anna Faris"
         },
         {
           "id": "nm0005182",
@@ -2144,6 +2173,7 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNDg4NTdjYmYtN2ZiNi00YWUwLWE4MzItMWU3ZTM3NTNiZTY5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
       "genres": [
+        "Horror",
         "Thriller"
       ],
       "people": [
@@ -2728,12 +2758,12 @@
           "name": "Logan Marshall-Green"
         },
         {
-          "id": "nm2854112",
-          "name": "Kiana Madeira"
-        },
-        {
           "id": "nm1557329",
           "name": "Jessica Rothe"
+        },
+        {
+          "id": "nm2854112",
+          "name": "Kiana Madeira"
         },
         {
           "id": "nm4797104",
@@ -2927,6 +2957,10 @@
       ],
       "people": [
         {
+          "id": "nm0789716",
+          "name": "Fiona Shaw"
+        },
+        {
           "id": "nm11417004",
           "name": "Bodhi Rae Breathnach"
         },
@@ -2937,10 +2971,6 @@
         {
           "id": "nm1126657",
           "name": "George MacKay"
-        },
-        {
-          "id": "nm0789716",
-          "name": "Fiona Shaw"
         }
       ],
       "label": "Oct 16, 2026"
@@ -3139,12 +3169,12 @@
           "name": "Eddie Marsan"
         },
         {
-          "id": "nm4151189",
-          "name": "Tom Rhys Harries"
-        },
-        {
           "id": "nm1540404",
           "name": "Max Minghella"
+        },
+        {
+          "id": "nm4151189",
+          "name": "Tom Rhys Harries"
         }
       ],
       "label": "Oct 23, 2026"
@@ -3990,12 +4020,12 @@
           "name": "Keke Palmer"
         },
         {
-          "id": "nm3528821",
-          "name": "Emma Myers"
+          "id": "nm1104131",
+          "name": "Danny McBride"
         },
         {
-          "id": "nm0837177",
-          "name": "Jason Sudeikis"
+          "id": "nm3528821",
+          "name": "Emma Myers"
         },
         {
           "id": "nm4141252",
@@ -4299,8 +4329,8 @@
           "name": "Pom Klementieff"
         },
         {
-          "id": "nm0714876",
-          "name": "Jemma Redgrave"
+          "id": "nm8287501",
+          "name": "Emmy Raver-Lampman"
         }
       ],
       "label": "Jan 15, 2027"
@@ -4620,12 +4650,12 @@
           "name": "Meryl Streep"
         },
         {
-          "id": "nm0185819",
-          "name": "Daniel Craig"
-        },
-        {
           "id": "nm1659547",
           "name": "Carey Mulligan"
+        },
+        {
+          "id": "nm0185819",
+          "name": "Daniel Craig"
         }
       ],
       "label": "Feb 12, 2027"
@@ -4796,8 +4826,8 @@
       ],
       "people": [
         {
-          "id": "nm5245722",
-          "name": "Adria Arjona"
+          "id": "nm1246448",
+          "name": "Alex Lanipekun"
         },
         {
           "id": "nm0430107",
@@ -4808,8 +4838,8 @@
           "name": "Kenneth Branagh"
         },
         {
-          "id": "nm2201555",
-          "name": "Aubrey Plaza"
+          "id": "nm5245722",
+          "name": "Adria Arjona"
         }
       ],
       "label": "Mar 05, 2027"
@@ -4829,12 +4859,12 @@
           "name": "Hamish Linklater"
         },
         {
-          "id": "nm0424060",
-          "name": "Scarlett Johansson"
-        },
-        {
           "id": "nm0252230",
           "name": "Chiwetel Ejiofor"
+        },
+        {
+          "id": "nm0424060",
+          "name": "Scarlett Johansson"
         },
         {
           "id": "nm8567338",
@@ -5113,20 +5143,20 @@
       ],
       "people": [
         {
-          "id": "nm3510471",
-          "name": "Sam Claflin"
-        },
-        {
           "id": "nm3996999",
           "name": "Brandon Sklenar"
         },
         {
-          "id": "nm1569067",
-          "name": "Wilson Bethel"
+          "id": "nm3510471",
+          "name": "Sam Claflin"
         },
         {
           "id": "nm0164809",
           "name": "Jason Clarke"
+        },
+        {
+          "id": "nm1569067",
+          "name": "Wilson Bethel"
         }
       ],
       "label": "Apr 23, 2027"
@@ -5451,12 +5481,12 @@
           "name": "Gerard Butler"
         },
         {
-          "id": "nm0000949",
-          "name": "Cate Blanchett"
-        },
-        {
           "id": "nm9296746",
           "name": "Mason Thames"
+        },
+        {
+          "id": "nm0000949",
+          "name": "Cate Blanchett"
         },
         {
           "id": "nm4651633",
