@@ -85,6 +85,32 @@ function createFetchMock(requests = []) {
   };
 }
 
+import { parseRtDate } from '../lib/rottenTomatoes.js';
+
+test('parseRtDate correctly handles ISO dates, localized dates, and fallbacks', () => {
+  // ISO and YYYY-MM-DD
+  assert.equal(parseRtDate('2024-01-22'), '2024-01-22');
+  assert.equal(parseRtDate('2024-11-05T12:00:00Z'), '2024-11-05');
+
+  // Localized English Month Day, Year
+  assert.equal(parseRtDate('January 22, 2024'), '2024-01-22');
+  assert.equal(parseRtDate('Jan 22, 2024'), '2024-01-22');
+  assert.equal(parseRtDate('  December 5 2025 '), '2025-12-05');
+
+  // Localized English Day Month Year
+  assert.equal(parseRtDate('22 Jan 2024'), '2024-01-22');
+  assert.equal(parseRtDate('5 December 2025'), '2025-12-05');
+
+  // Fallback / standard Date.parse
+  // Timezone-explicit vs local
+  assert.ok(parseRtDate('2024/01/22')); // basic date parsing
+
+  // Null & invalid values
+  assert.equal(parseRtDate(null), null);
+  assert.equal(parseRtDate(''), null);
+  assert.equal(parseRtDate('not-a-date'), null);
+});
+
 test('searchRtShow resolves titles, scores, and slugs correctly', async () => {
   const requests = [];
   const result = await searchRtShow('Example Show', createFetchMock(requests));

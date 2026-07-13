@@ -527,14 +527,17 @@ function renderList(items, type, context, timezone = 'UTC') {
       link.href = item.url || context.tvmazeUrl;
 
       if (item.rtUrl) {
-        const linkContainer = link.parentElement;
-        const rtEpLink = document.createElement('a');
-        rtEpLink.href = safeHttpUrl(item.rtUrl) || item.rtUrl;
-        rtEpLink.target = '_blank';
-        rtEpLink.rel = 'noopener';
-        rtEpLink.textContent = 'Rotten Tomatoes';
-        rtEpLink.style.marginLeft = '8px';
-        linkContainer.append(rtEpLink);
+        const validRtEpUrl = safeHttpUrl(item.rtUrl);
+        if (validRtEpUrl) {
+          const linkContainer = link.parentElement;
+          const rtEpLink = document.createElement('a');
+          rtEpLink.href = validRtEpUrl;
+          rtEpLink.target = '_blank';
+          rtEpLink.rel = 'noopener';
+          rtEpLink.textContent = 'Rotten Tomatoes';
+          rtEpLink.style.marginLeft = '8px';
+          linkContainer.append(rtEpLink);
+        }
       }
     } else if (type === 'sports') {
       dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp, true, timezone);
