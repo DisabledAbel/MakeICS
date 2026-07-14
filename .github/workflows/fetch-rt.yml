@@ -1,0 +1,49 @@
+name: Fetch Rotten Tomatoes TV Schedules
+
+on:
+  schedule:
+    - cron: '0 16 * * *' # Daily at 8:00 AM PST / 4:00 PM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-rt:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: data-updates
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright Browsers
+        run: npx playwright install chromium --with-deps
+
+      - name: Fetch Rotten Tomatoes TV Schedules
+        run: node scripts/fetch-rt.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "DisabledAbel"
+          git config --global user.email "196466003+DisabledAbel@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain lib/data/tv/)" ]]; then
+            git add lib/data/tv/
+            git commit -m "📺 Update Rotten Tomatoes TV schedules 📺"
+            git pull --rebase
+            git push
+          else
+            echo "No changes to commit"
+          fi
