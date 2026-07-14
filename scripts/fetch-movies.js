@@ -21,10 +21,12 @@ async function main() {
     console.log(`Found ${movies.length} upcoming movies.`);
 
     let existingMovies = [];
+    let existingGeneratedAt = null;
     try {
       const content = await fs.readFile(OUTPUT_FILE, 'utf8');
       const existingData = JSON.parse(content);
       existingMovies = existingData.movies || [];
+      existingGeneratedAt = existingData.generatedAt || null;
       console.log(`Loaded ${existingMovies.length} existing movies.`);
     } catch (err) {
       if (err.code !== 'ENOENT') {
@@ -49,7 +51,7 @@ async function main() {
     });
 
     const payload = {
-      generatedAt: new Date().toISOString(),
+      generatedAt: existingGeneratedAt || new Date().toISOString(),
       movies: mergedMovies
     };
 
