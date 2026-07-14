@@ -215,6 +215,29 @@ test('getEpisodes merges and supplements Rotten Tomatoes data into schedules', a
   assert.ok(enrichedEp);
   assert.equal(enrichedEp.rtUrl, 'https://www.rottentomatoes.com/tv/example_show/s02/e03');
   assert.equal(enrichedEp.summary, 'Future episode.');
+  assert.equal(enrichedEp.airdate, '2026-06-11');
+  assert.equal(enrichedEp.airstamp, '2026-06-11T20:00:00Z');
+});
+
+test('getEpisodes applies since filter correctly after correcting mismatched date', async () => {
+  const result = await getEpisodes({
+    query: 'Example Show',
+    fetchImpl: createFetchMock(),
+    since: '2026-06-11',
+    env: { NODE_ENV: 'test' }
+  });
+
+  // The TVMaze episode originally had date 2026-06-10.
+  // Under old logic (filter before merge), it would have been filtered out (since 2026-06-10 < 2026-06-11).
+  // Under new logic, its date gets updated to 2026-06-11, and THEN since is applied.
+  // So it should be retained!
+  const enrichedEp = result.episodes.find(e => e.season === 2 && e.number === 3);
+  assert.ok(enrichedEp);
+  assert.equal(enrichedEp.airdate, '2026-06-11');
+
+  // Any episode whose date remained 2026-06-10 (like other past ones if any) should be filtered out
+  const pastEp = result.episodes.find(e => e.airdate === '2026-06-10');
+  assert.equal(pastEp, undefined);
 });
 
 test('toIcs calendar output includes Rotten Tomatoes details in description', async () => {
