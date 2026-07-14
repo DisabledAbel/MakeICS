@@ -258,11 +258,10 @@ function formatAirDate(dateStr, timeStr, timestamp, includeZones = false, timezo
 function icsUrlForCurrent() {
   let path = '';
   const tz = timezoneInput?.value || 'UTC';
-  const since = new Date().toISOString().split('T')[0];
   if (currentCategory === 'tv') {
-    path = `/api/episodes?show=${encodeURIComponent(showInput.value)}&format=ics&tz=${encodeURIComponent(tz)}&since=${since}`;
+    path = `/api/episodes?show=${encodeURIComponent(showInput.value)}&format=ics&tz=${encodeURIComponent(tz)}`;
   } else if (currentCategory === 'sports') {
-    path = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}&format=ics&tz=${encodeURIComponent(tz)}&since=${since}`;
+    path = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}&format=ics&tz=${encodeURIComponent(tz)}`;
   } else if (currentCategory === 'movies') {
     const movieType = movieTypeInput.value;
     path = `/api/movies?q=${encodeURIComponent(moviesInput.value)}&type=${encodeURIComponent(movieType)}&format=ics`;
@@ -343,6 +342,18 @@ function renderResults(payload, type) {
       }
     }
 
+    if (payload.rt?.url) {
+      const validRt = safeHttpUrl(payload.rt.url);
+      if (validRt) {
+        const rtLink = document.createElement('a');
+        rtLink.href = validRt;
+        rtLink.target = '_blank';
+        rtLink.rel = 'noopener';
+        rtLink.textContent = 'Open Rotten Tomatoes';
+        actions.append(rtLink);
+      }
+    }
+
     const copyBtn = document.createElement('button');
     copyBtn.type = 'button';
     copyBtn.className = 'copy-ics-url';
@@ -362,6 +373,24 @@ function renderResults(payload, type) {
         ? `IMDb enrichment was configured but failed: ${imdb.error}`
         : `IMDb enrichment (${imdb.source || 'IMDb'}): ${[imdb.title, imdb.year, imdb.rating ? `Rating ${imdb.rating}` : '', imdb.warning].filter(Boolean).join(' · ')}`;
       resultEl.append(imdbPanel);
+    }
+
+    if (payload.rt?.sourceConfigured) {
+      const rtPanel = document.createElement('aside');
+      rtPanel.className = 'imdb-panel';
+      rtPanel.style.marginTop = '8px';
+      const rtDetails = [];
+      if (payload.rt.meterScore !== null) {
+        rtDetails.push(`Tomatometer: ${payload.rt.meterScore}%`);
+      }
+      if (payload.rt.meterClass) {
+        rtDetails.push(`Class: ${payload.rt.meterClass.replace(/_/g, ' ').toUpperCase()}`);
+      }
+      if (payload.rt.startYear) {
+        rtDetails.push(`Year: ${payload.rt.startYear}`);
+      }
+      rtPanel.textContent = `Rotten Tomatoes Enrichment: ${rtDetails.length ? rtDetails.join(' · ') : 'Enriched successfully'}`;
+      resultEl.append(rtPanel);
     }
 
     renderList(episodes, 'tv', show, payload.timezone);
@@ -467,17 +496,27 @@ function renderResults(payload, type) {
 }
 
 function renderList(items, type, context, timezone = 'UTC') {
+  const todayStr = new Date().toISOString().slice(0, 10);
+  let filteredItems = items;
+  if (type === 'tv') {
+    filteredItems = items.filter(item => !item.airdate || item.airdate >= todayStr);
+  } else if (type === 'sports') {
+    filteredItems = items.filter(item => !item.date || item.date >= todayStr);
+  } else if (type === 'movies') {
+    filteredItems = items.filter(item => !item.date || item.date >= todayStr);
+  }
+
   const count = document.createElement('p');
   count.className = 'count';
-  count.textContent = items.length
-    ? `${items.length} event${items.length === 1 ? '' : 's'} found.`
+  count.textContent = filteredItems.length
+    ? `${filteredItems.length} event${filteredItems.length === 1 ? '' : 's'} found.`
     : `No events found.`;
   resultEl.append(count);
 
   const list = document.createElement('div');
   list.className = 'episode-list';
 
-  for (const item of items) {
+  for (const item of filteredItems) {
     const card = template.content.cloneNode(true);
     const dateEl = card.querySelector('.episode-date');
     const titleEl = card.querySelector('h3');
@@ -495,6 +534,20 @@ function renderList(items, type, context, timezone = 'UTC') {
       ].filter(Boolean).join(' · ');
       summaryEl.textContent = item.summary || 'No summary available.';
       link.href = item.url || context.tvmazeUrl;
+
+      if (item.rtUrl) {
+        const validRtEpUrl = safeHttpUrl(item.rtUrl);
+        if (validRtEpUrl) {
+          const linkContainer = link.parentElement;
+          const rtEpLink = document.createElement('a');
+          rtEpLink.href = validRtEpUrl;
+          rtEpLink.target = '_blank';
+          rtEpLink.rel = 'noopener';
+          rtEpLink.textContent = 'Rotten Tomatoes';
+          rtEpLink.style.marginLeft = '8px';
+          linkContainer.append(rtEpLink);
+        }
+      }
     } else if (type === 'sports') {
       dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp, true, timezone);
       titleEl.textContent = item.name;
@@ -604,10 +657,9 @@ form.addEventListener('submit', async (event) => {
   let label = '';
   const tz = timezoneInput?.value || 'UTC';
 
-  const since = new Date().toISOString().split('T')[0];
   if (currentCategory === 'tv') {
     label = showInput.value;
-    url = `/api/episodes?show=${encodeURIComponent(label)}&tz=${encodeURIComponent(tz)}&since=${since}`;
+    url = `/api/episodes?show=${encodeURIComponent(label)}&tz=${encodeURIComponent(tz)}`;
   } else if (currentCategory === 'sports') {
     const teamId = sportsInput.dataset.teamId;
     if (!teamId || teamId === 'undefined') {
@@ -615,7 +667,7 @@ form.addEventListener('submit', async (event) => {
       return;
     }
     label = sportsInput.value;
-    url = `/api/sports-events?teamId=${encodeURIComponent(teamId)}&tz=${encodeURIComponent(tz)}&since=${since}`;
+    url = `/api/sports-events?teamId=${encodeURIComponent(teamId)}&tz=${encodeURIComponent(tz)}`;
   } else if (currentCategory === 'movies') {
     label = moviesInput.value || 'All Movies';
     const movieType = movieTypeInput.value;
