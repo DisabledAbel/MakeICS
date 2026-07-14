@@ -38,10 +38,68 @@ async function main() {
       }
     }
 
+    // Discover every TV show name/title we can find across TV data files
+    const showSet = new Set();
+
+    // 1. Add standard default/fallback show
+    showSet.add('Sofia the First: Royal Magic');
+
+    // 2. Add show names from tracked-shows.json
+    if (Array.isArray(trackedShows)) {
+      for (const show of trackedShows) {
+        if (typeof show === 'string' && show.trim()) {
+          showSet.add(show.trim());
+        }
+      }
+    }
+
+    // 3. Add show names from existing cached rotten-tomatoes.json
+    if (existingData && existingData.shows) {
+      for (const show of Object.values(existingData.shows)) {
+        if (show && typeof show.title === 'string' && show.title.trim()) {
+          showSet.add(show.title.trim());
+        }
+      }
+    }
+
+    // 4. Scan the TV data folder for any other potential .json files containing shows
+    try {
+      const files = await fs.readdir(TV_DATA_DIR);
+      for (const file of files) {
+        if (file.endsWith('.json') && file !== 'rotten-tomatoes.json' && file !== 'tracked-shows.json') {
+          try {
+            const filePath = path.join(TV_DATA_DIR, file);
+            const content = await fs.readFile(filePath, 'utf8');
+            const data = JSON.parse(content);
+            if (Array.isArray(data)) {
+              for (const item of data) {
+                if (typeof item === 'string' && item.trim()) {
+                  showSet.add(item.trim());
+                }
+              }
+            } else if (data && typeof data === 'object') {
+              // Check commonly used keys or show objects
+              const candidate = data.title || data.name || data.showName;
+              if (typeof candidate === 'string' && candidate.trim()) {
+                showSet.add(candidate.trim());
+              }
+            }
+          } catch (fileErr) {
+            console.warn(`Could not parse auxiliary TV show file ${file}:`, fileErr.message);
+          }
+        }
+      }
+    } catch (dirErr) {
+      console.warn('Could not read TV data directory for extra show files:', dirErr.message);
+    }
+
+    const showsToFetch = Array.from(showSet);
+    console.log(`Discovered ${showsToFetch.length} unique TV shows to process:`, showsToFetch);
+
     const showsData = { ...existingData.shows };
 
-    for (const query of trackedShows) {
-      console.log(`Processing tracked show: "${query}"`);
+    for (const query of showsToFetch) {
+      console.log(`Processing TV show: "${query}"`);
       try {
         // Find show ID and episodes on TVMaze first to determine which seasons exist
         let seasonsToFetch = new Set([1]); // default to season 1
