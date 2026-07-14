@@ -216,7 +216,7 @@ test('getEpisodes merges and supplements Rotten Tomatoes data into schedules', a
   assert.equal(enrichedEp.rtUrl, 'https://www.rottentomatoes.com/tv/example_show/s02/e03');
   assert.equal(enrichedEp.summary, 'Future episode.');
   assert.equal(enrichedEp.airdate, '2026-06-11');
-  assert.equal(enrichedEp.airstamp, '2026-06-11T20:00:00Z');
+  assert.equal(enrichedEp.airstamp, '2026-06-11T01:00:00+00:00');
 });
 
 test('getEpisodes applies since filter correctly after correcting mismatched date', async () => {
