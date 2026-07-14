@@ -258,11 +258,10 @@ function formatAirDate(dateStr, timeStr, timestamp, includeZones = false, timezo
 function icsUrlForCurrent() {
   let path = '';
   const tz = timezoneInput?.value || 'UTC';
-  const since = new Date().toISOString().split('T')[0];
   if (currentCategory === 'tv') {
-    path = `/api/episodes?show=${encodeURIComponent(showInput.value)}&format=ics&tz=${encodeURIComponent(tz)}&since=${since}`;
+    path = `/api/episodes?show=${encodeURIComponent(showInput.value)}&format=ics&tz=${encodeURIComponent(tz)}`;
   } else if (currentCategory === 'sports') {
-    path = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}&format=ics&tz=${encodeURIComponent(tz)}&since=${since}`;
+    path = `/api/sports-events?teamId=${encodeURIComponent(sportsInput.dataset.teamId)}&format=ics&tz=${encodeURIComponent(tz)}`;
   } else if (currentCategory === 'movies') {
     const movieType = movieTypeInput.value;
     path = `/api/movies?q=${encodeURIComponent(moviesInput.value)}&type=${encodeURIComponent(movieType)}&format=ics`;
@@ -496,18 +495,64 @@ function renderResults(payload, type) {
   }
 }
 
+function isPastEvent(item, type) {
+  const now = new Date();
+  if (type === 'tv') {
+    if (!item.airdate) return false;
+    const hasTime = !!item.airtime && item.airtime !== '00:00:00' && item.airtime !== '00:00';
+    const date = item.airstamp
+      ? new Date(item.airstamp + (!item.airstamp.includes('Z') && !/[-+]\d{2}:?\d{2}$/.test(item.airstamp) ? 'Z' : ''))
+      : new Date(`${item.airdate}T${item.airtime || '00:00:00'}Z`);
+    if (Number.isNaN(date.getTime())) return false;
+
+    if (hasTime) {
+      return date < now;
+    } else {
+      const todayStart = new Date();
+      todayStart.setUTCHours(0, 0, 0, 0);
+      const eventDate = new Date(`${item.airdate}T00:00:00Z`);
+      return eventDate < todayStart;
+    }
+  } else if (type === 'sports') {
+    if (!item.date) return false;
+    const hasTime = !!item.time && item.time !== '00:00:00' && item.time !== '00:00' && item.time !== 'TBD';
+    const date = item.timestamp
+      ? new Date(item.timestamp + (!item.timestamp.includes('Z') && !/[-+]\d{2}:?\d{2}$/.test(item.timestamp) ? 'Z' : ''))
+      : new Date(`${item.date}T${item.time || '00:00:00'}Z`);
+    if (Number.isNaN(date.getTime())) return false;
+
+    if (hasTime) {
+      return date < now;
+    } else {
+      const todayStart = new Date();
+      todayStart.setUTCHours(0, 0, 0, 0);
+      const eventDate = new Date(`${item.date}T00:00:00Z`);
+      return eventDate < todayStart;
+    }
+  } else if (type === 'movies') {
+    if (!item.date) return false;
+    const todayStart = new Date();
+    todayStart.setUTCHours(0, 0, 0, 0);
+    const eventDate = new Date(`${item.date}T00:00:00Z`);
+    return eventDate < todayStart;
+  }
+  return false;
+}
+
 function renderList(items, type, context, timezone = 'UTC') {
+  const filteredItems = items.filter(item => !isPastEvent(item, type));
+
   const count = document.createElement('p');
   count.className = 'count';
-  count.textContent = items.length
-    ? `${items.length} event${items.length === 1 ? '' : 's'} found.`
+  count.textContent = filteredItems.length
+    ? `${filteredItems.length} event${filteredItems.length === 1 ? '' : 's'} found.`
     : `No events found.`;
   resultEl.append(count);
 
   const list = document.createElement('div');
   list.className = 'episode-list';
 
-  for (const item of items) {
+  for (const item of filteredItems) {
     const card = template.content.cloneNode(true);
     const dateEl = card.querySelector('.episode-date');
     const titleEl = card.querySelector('h3');
