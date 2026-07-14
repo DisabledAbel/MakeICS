@@ -1,4 +1,103 @@
 {
-  "generatedAt": "",
-  "shows": {}
+  "generatedAt": "2026-07-14T00:20:42.085Z",
+  "shows": {
+    "sofia_the_first_royal_magic": {
+      "slug": "sofia_the_first_royal_magic",
+      "title": "Sofia the First: Royal Magic",
+      "url": "https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic",
+      "meterScore": null,
+      "meterClass": null,
+      "startYear": 2026,
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Welcome to Charmswell",
+          "airdate": "2026-05-25",
+          "summary": "It's Sofia's first day of royal magic school, and she teams up with new friends to win a race and gets a magical visit from Rapunzel.",
+          "url": "https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic/s01/e01"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Abracadazzle; Show and Spell",
+          "airdate": "2026-05-25",
+          "summary": "Sofia joins a magical challenge against students from the other castles; Layla tries a levitation spell but instead reveals her ability to sprout butterfly wings.",
+          "url": "https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic/s01/e02"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Give it a Twirl; The Tippity Tap Dance",
+          "airdate": "2026-05-25",
+          "summary": "Sofía and Layla co-captain a magical parade, but they can't agree on anything; Zane uses magic to improve his dance moves, but when the charm becomes a curse, Sofia helps solve it.",
+          "url": "https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic/s01/e03"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Magic Mayhem; Royal Mix It Up",
+          "airdate": "2026-05-25",
+          "summary": "Camila wants to be Cedric's apprentice but causes chaos with advanced spells; Sofia is paired up with Zane's sister Zaria for a tri-castle activity, but they have nothing in common.",
+          "url": "https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic/s01/e04"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "A Royal Family Picnic; The Royal Playdate",
+          "airdate": "2026-05-25",
+          "summary": "While on a family picnic, Amber wants to prove she's just as amazing as Sofia; when Layla meets Sofia's siblings, Amber and James, she goes to great lengths to impress them.",
+          "url": "https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic/s01/e05"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "New Horse on the Block; The Green-Eyed Monster",
+          "airdate": "2026-05-25",
+          "summary": "Sofia meets Wildfyre; Zane creates a Goo Monster.",
+          "url": "https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic/s01/e06"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Sleepy Time Spell; Zane the Hero",
+          "airdate": "2026-05-25",
+          "summary": "At a sleepover at Sofia's castle with Camila and Layla, stuffies magically come to life; a grumpy dragon is on the loose at Charmswell; Zane tries to tame the bumbling beast.",
+          "url": "https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic/s01/e07"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Veggie Good Deed; The Lilygnome",
+          "airdate": "2026-05-25",
+          "summary": "Wanting to do a good deed, Amber helps Sofia with the village feast but causes some magical problems instead; Sofia needs Layla's help to tame a mischievous magical flower.",
+          "url": "https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic/s01/e08"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Crown Chaos / Off to the Races",
+          "airdate": "2026-07-20",
+          "summary": "Sofia defends Charmswell Academy from the wicked sorceress, Zandrya, with help from Rapunzel. Camila learns to be there for her friends during the school's flying derby race.",
+          "url": "https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic/s01/e09"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "When Clover Met Pepper / A Wand-erful Day",
+          "airdate": "2026-07-27",
+          "summary": "Clover meets Pepper when he visits Sofia's castle, and Clover worries Sofia has a new best pet friend. James accidentally breaks Sofia's wand and replaces it with a trick wand.",
+          "url": "https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic/s01/e10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Kidding Around; Puppercorn Ruckus",
+          "airdate": "2026-08-03",
+          "summary": "Follows Sofia as she attends The Charmswell School for Royal Magic, where princes and princesses from across the EverRealm will continue their royal studies and also learn all types of magic.",
+          "url": "https://www.rottentomatoes.com/tv/sofia_the_first_royal_magic/s01/e11"
+        }
+      ]
+    }
+  }
 }
