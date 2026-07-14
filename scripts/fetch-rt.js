@@ -164,7 +164,7 @@ async function main() {
     }
 
     const payload = {
-      generatedAt: new Date().toISOString(),
+      generatedAt: existingData.generatedAt || new Date().toISOString(),
       shows: showsData
     };
 
