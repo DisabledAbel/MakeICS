@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T08:18:25.015Z",
+  "generatedAt": "2026-07-14T07:11:35.418Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -984,7 +984,7 @@
     },
     {
       "id": "tt12759038",
-      "title": "Ambleside",
+      "title": "Prisoners of Paradise",
       "image": "https://m.media-amazon.com/images/M/MV5BMDg4YmVhMmUtNzc3ZS00MWEzLWJlYWYtYWEzZTIzNDAwZTY5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Mon, 10 Aug 2026 00:00:00 GMT",
       "genres": [
@@ -1415,8 +1415,8 @@
           "name": "Sam Spruell"
         },
         {
-          "id": "nm5155952",
-          "name": "Brandon Perea"
+          "id": "nm9014280",
+          "name": "Joseph Lopez"
         },
         {
           "id": "nm5114966",
@@ -1514,36 +1514,6 @@
       "label": "Aug 21, 2026"
     },
     {
-      "id": "tt30327451",
-      "title": "The Marching Band",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjYyZjI2ZDgtN2YxOS00NGVlLTkwNTEtODY4MTJiMmFjNDc3XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Music"
-      ],
-      "people": [
-        {
-          "id": "nm3118835",
-          "name": "Benjamin Lavernhe"
-        },
-        {
-          "id": "nm4544506",
-          "name": "Pierre Lottin"
-        },
-        {
-          "id": "nm3939436",
-          "name": "Sarah Suco"
-        },
-        {
-          "id": "nm0094782",
-          "name": "Jacques Bonnaffé"
-        }
-      ],
-      "label": "Aug 21, 2026"
-    },
-    {
       "id": "tt43596451",
       "title": "Never Stop Chasing",
       "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
@@ -1603,6 +1573,36 @@
       "label": "Aug 26, 2026"
     },
     {
+      "id": "tt30327451",
+      "title": "The Marching Band",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjYyZjI2ZDgtN2YxOS00NGVlLTkwNTEtODY4MTJiMmFjNDc3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm3118835",
+          "name": "Benjamin Lavernhe"
+        },
+        {
+          "id": "nm4544506",
+          "name": "Pierre Lottin"
+        },
+        {
+          "id": "nm3939436",
+          "name": "Sarah Suco"
+        },
+        {
+          "id": "nm0094782",
+          "name": "Jacques Bonnaffé"
+        }
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
       "id": "tt21285562",
       "title": "The Dog Stars",
       "image": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_.jpg",
@@ -1622,12 +1622,12 @@
           "name": "Jacob Elordi"
         },
         {
-          "id": "nm0000982",
-          "name": "Josh Brolin"
-        },
-        {
           "id": "nm0005049",
           "name": "Allison Janney"
+        },
+        {
+          "id": "nm0000982",
+          "name": "Josh Brolin"
         }
       ],
       "label": "Aug 28, 2026"
@@ -1882,12 +1882,12 @@
       ],
       "people": [
         {
-          "id": "nm5938631",
-          "name": "Tom Brittney"
-        },
-        {
           "id": "nm4722966",
           "name": "Virginia Gardner"
+        },
+        {
+          "id": "nm5938631",
+          "name": "Tom Brittney"
         },
         {
           "id": "nm1534201",
@@ -2111,34 +2111,6 @@
       "label": "Sep 11, 2026"
     },
     {
-      "id": "tt37542993",
-      "title": "Daniel",
-      "image": "https://m.media-amazon.com/images/M/MV5BYzExMDZkNWItMTI2NS00YjI1LTk0MmMtOWQ5YmFmYzBlYjA1XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
-      "genres": [
-        "Drama"
-      ],
-      "people": [
-        {
-          "id": "nm4565815",
-          "name": "Mena Massoud"
-        },
-        {
-          "id": "nm1616334",
-          "name": "Elijah Alexander"
-        },
-        {
-          "id": "nm15334431",
-          "name": "Zaki Ali"
-        },
-        {
-          "id": "nm3176834",
-          "name": "Vladimir Angelove"
-        }
-      ],
-      "label": "Sep 11, 2026"
-    },
-    {
       "id": "tt31349844",
       "title": "Runner",
       "image": "https://m.media-amazon.com/images/M/MV5BZmZhZjFmNTMtODgxZC00MWE3LTkwMTYtOWEyN2I2ODc2YTM2XkEyXkFqcGc@._V1_.jpg",
@@ -2281,6 +2253,64 @@
       "label": "Sep 11, 2026"
     },
     {
+      "id": "tt32324552",
+      "title": "Ranabaali",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDBmY2M5ODAtOTU0Yi00MTY5LTk2MGQtZDc1Mjg4MWEzNjkzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "people": [
+        {
+          "id": "nm4797922",
+          "name": "Vijay Deverakonda"
+        },
+        {
+          "id": "nm8612305",
+          "name": "Rashmika Mandanna"
+        },
+        {
+          "id": "nm0903677",
+          "name": "Arnold Vosloo"
+        },
+        {
+          "id": "nm4177021",
+          "name": "Luke McGibney"
+        }
+      ],
+      "label": "Sep 11, 2026"
+    },
+    {
+      "id": "tt37542993",
+      "title": "Daniel",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzExMDZkNWItMTI2NS00YjI1LTk0MmMtOWQ5YmFmYzBlYjA1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm4565815",
+          "name": "Mena Massoud"
+        },
+        {
+          "id": "nm1616334",
+          "name": "Elijah Alexander"
+        },
+        {
+          "id": "nm15334431",
+          "name": "Zaki Ali"
+        },
+        {
+          "id": "nm3176834",
+          "name": "Vladimir Angelove"
+        }
+      ],
+      "label": "Sep 18, 2026"
+    },
+    {
       "id": "tt10794054",
       "title": "The Weight",
       "image": "https://m.media-amazon.com/images/M/MV5BOTdkMDQyYjMtOGRhZC00YWUyLTgwZjctZDZjNjZlNWU4ZGU5XkEyXkFqcGc@._V1_.jpg",
@@ -2343,7 +2373,7 @@
     {
       "id": "tt36841161",
       "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDViZGRhOWQtY2IxOS00NTYyLTk5YzAtOTRlZGQ4NTU1OWVjXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmY4YzVkODQtNWRmMS00MTZmLWJhYmQtODNkYjYzY2Y3YWNjXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Animation",
@@ -2352,16 +2382,16 @@
       ],
       "people": [
         {
+          "id": "nm0361957",
+          "name": "Kate Harbour"
+        },
+        {
           "id": "nm1017994",
           "name": "Justin Fletcher"
         },
         {
           "id": "nm0816950",
           "name": "John Sparkes"
-        },
-        {
-          "id": "nm0361957",
-          "name": "Kate Harbour"
         }
       ],
       "label": "Sep 18, 2026"
@@ -2397,6 +2427,35 @@
         {
           "id": "nm16363509",
           "name": "Isa Bernal Steiner"
+        }
+      ],
+      "label": "Sep 18, 2026"
+    },
+    {
+      "id": "tt18398986",
+      "title": "Without Blood",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDcwYzJhZTgtNTEyZS00ZDBjLWE5YTQtM2Y1ZTNhZWFkMTExXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "people": [
+        {
+          "id": "nm6301942",
+          "name": "Juan Carlos Huguenin"
+        },
+        {
+          "id": "nm0000161",
+          "name": "Salma Hayek"
+        },
+        {
+          "id": "nm0065007",
+          "name": "Demián Bichir"
+        },
+        {
+          "id": "nm4845909",
+          "name": "Luis Alberti"
         }
       ],
       "label": "Sep 18, 2026"
@@ -2509,8 +2568,8 @@
           "name": "Dolly De Leon"
         },
         {
-          "id": "nm3254274",
-          "name": "Manny Jacinto"
+          "id": "nm5307044",
+          "name": "Ronny Chieng"
         }
       ],
       "label": "Sep 25, 2026"
@@ -2650,8 +2709,8 @@
           "name": "Owen Wilson"
         },
         {
-          "id": "nm0086883",
-          "name": "Jolene"
+          "id": "nm6346805",
+          "name": "Travis Scott"
         }
       ],
       "label": "Oct 02, 2026"
@@ -2659,7 +2718,7 @@
     {
       "id": "tt31450459",
       "title": "Digger",
-      "image": "https://m.media-amazon.com/images/M/MV5BOWNiMjI1MzItMDkwNy00YzNjLWIwYjUtZTM5ZGIyYTVkZDhiXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2E0YTg1M2YtOGQyYi00NDFkLTk3NzUtYmEyNTZhYThhZDQ0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -2675,12 +2734,12 @@
           "name": "Riz Ahmed"
         },
         {
-          "id": "nm7328091",
-          "name": "Aetheria Angel"
+          "id": "nm0000422",
+          "name": "John Goodman"
         },
         {
-          "id": "nm0121559",
-          "name": "Robert John Burke"
+          "id": "nm7328091",
+          "name": "Aetheria Angel"
         }
       ],
       "label": "Oct 02, 2026"
@@ -2844,20 +2903,20 @@
       ],
       "people": [
         {
-          "id": "nm2087739",
-          "name": "Jeremy Allen White"
-        },
-        {
           "id": "nm2365811",
           "name": "Betty Gilpin"
+        },
+        {
+          "id": "nm2087739",
+          "name": "Jeremy Allen White"
         },
         {
           "id": "nm5700898",
           "name": "Mikey Madison"
         },
         {
-          "id": "nm2915105",
-          "name": "Billy Magnussen"
+          "id": "nm0279209",
+          "name": "Patrick Fischler"
         }
       ],
       "label": "Oct 09, 2026"
@@ -2986,20 +3045,20 @@
       ],
       "people": [
         {
-          "id": "nm2765191",
-          "name": "Eric André"
-        },
-        {
           "id": "nm0597388",
           "name": "Jason Momoa"
         },
         {
-          "id": "nm2810287",
-          "name": "David Dastmalchian"
+          "id": "nm2765191",
+          "name": "Eric André"
         },
         {
           "id": "nm3170207",
           "name": "Noah Centineo"
+        },
+        {
+          "id": "nm2810287",
+          "name": "David Dastmalchian"
         }
       ],
       "label": "Oct 16, 2026"
@@ -3447,7 +3506,7 @@
     },
     {
       "id": "tt38686316",
-      "title": "Archangel",
+      "title": "Ghost Soldier",
       "image": "https://m.media-amazon.com/images/M/MV5BYWQxMmNkZWQtNjQyNi00YTgyLTkzMjktMzY1MWJlOTAyN2MyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
@@ -3468,8 +3527,8 @@
           "name": "Shea Whigham"
         },
         {
-          "id": "nm1880888",
-          "name": "Olivia Thirlby"
+          "id": "nm0226813",
+          "name": "Garret Dillahunt"
         }
       ],
       "label": "Nov 06, 2026"
@@ -3549,12 +3608,12 @@
           "name": "Glen Powell"
         },
         {
-          "id": "nm0000168",
-          "name": "Samuel L. Jackson"
-        },
-        {
           "id": "nm4911194",
           "name": "Jenna Ortega"
+        },
+        {
+          "id": "nm0000168",
+          "name": "Samuel L. Jackson"
         },
         {
           "id": "nm0923266",
@@ -3662,6 +3721,10 @@
       ],
       "people": [
         {
+          "id": "nm1527905",
+          "name": "Toby Kebbell"
+        },
+        {
           "id": "nm1455681",
           "name": "AnnaSophia Robb"
         },
@@ -3670,12 +3733,8 @@
           "name": "Matt Dillon"
         },
         {
-          "id": "nm0504832",
-          "name": "Tracy Letts"
-        },
-        {
-          "id": "nm1527905",
-          "name": "Toby Kebbell"
+          "id": "nm0005292",
+          "name": "Erik Palladino"
         }
       ],
       "label": "Nov 20, 2026"
@@ -4133,16 +4192,16 @@
       ],
       "people": [
         {
-          "id": "nm1055302",
-          "name": "Rhys Darby"
-        },
-        {
           "id": "nm0425005",
           "name": "Dwayne Johnson"
         },
         {
-          "id": "nm2394794",
-          "name": "Karen Gillan"
+          "id": "nm1055302",
+          "name": "Rhys Darby"
+        },
+        {
+          "id": "nm0366389",
+          "name": "Kevin Hart"
         },
         {
           "id": "nm0085312",
@@ -4171,12 +4230,12 @@
           "name": "Isabel May"
         },
         {
-          "id": "nm0472710",
-          "name": "David Krumholtz"
-        },
-        {
           "id": "nm0788335",
           "name": "Michael Shannon"
+        },
+        {
+          "id": "nm0472710",
+          "name": "David Krumholtz"
         }
       ],
       "label": "Dec 25, 2026"
@@ -4536,8 +4595,8 @@
           "name": "Cynthia Erivo"
         },
         {
-          "id": "nm0131966",
-          "name": "Bill Camp"
+          "id": "nm2113653",
+          "name": "Richard Harmon"
         }
       ],
       "label": "Jan 29, 2027"
@@ -4745,12 +4804,12 @@
           "name": "Nicholas Hoult"
         },
         {
-          "id": "nm4945455",
-          "name": "Ego Nwodim"
-        },
-        {
           "id": "nm0054697",
           "name": "Ike Barinholtz"
+        },
+        {
+          "id": "nm4945455",
+          "name": "Ego Nwodim"
         }
       ],
       "label": "Feb 19, 2027"
@@ -4779,8 +4838,8 @@
           "name": "Richard Cabral"
         },
         {
-          "id": "nm13169955",
-          "name": "Jobie James"
+          "id": "nm1883803",
+          "name": "Jesse Garcia"
         }
       ],
       "label": "Feb 26, 2027"
@@ -4826,10 +4885,6 @@
       ],
       "people": [
         {
-          "id": "nm1246448",
-          "name": "Alex Lanipekun"
-        },
-        {
           "id": "nm0430107",
           "name": "Michael B. Jordan"
         },
@@ -4840,6 +4895,10 @@
         {
           "id": "nm5245722",
           "name": "Adria Arjona"
+        },
+        {
+          "id": "nm2201555",
+          "name": "Aubrey Plaza"
         }
       ],
       "label": "Mar 05, 2027"
@@ -4892,12 +4951,12 @@
           "name": "Dakota Fanning"
         },
         {
-          "id": "nm0388061",
-          "name": "Douglas Hodge"
-        },
-        {
           "id": "nm0753314",
           "name": "Mark Rylance"
+        },
+        {
+          "id": "nm0388061",
+          "name": "Douglas Hodge"
         }
       ],
       "label": "Mar 19, 2027"
@@ -5051,8 +5110,8 @@
           "name": "Monica Raymund"
         },
         {
-          "id": "nm0791898",
-          "name": "Tiffany Shepis"
+          "id": "nm2963874",
+          "name": "Edy Ganem"
         }
       ],
       "label": "Apr 09, 2027"
@@ -5114,10 +5173,6 @@
       ],
       "people": [
         {
-          "id": "nm0000316",
-          "name": "Mel Brooks"
-        },
-        {
           "id": "nm0000597",
           "name": "Bill Pullman"
         },
@@ -5128,6 +5183,10 @@
         {
           "id": "nm1551130",
           "name": "Keke Palmer"
+        },
+        {
+          "id": "nm0000316",
+          "name": "Mel Brooks"
         }
       ],
       "label": "Apr 23, 2027"
@@ -5658,16 +5717,16 @@
           "name": "Milly Alcock"
         },
         {
-          "id": "nm4825178",
-          "name": "David Corenswet"
-        },
-        {
           "id": "nm5097044",
           "name": "Isabela Merced"
         },
         {
-          "id": "nm0396558",
-          "name": "Nicholas Hoult"
+          "id": "nm4825178",
+          "name": "David Corenswet"
+        },
+        {
+          "id": "nm0277213",
+          "name": "Nathan Fillion"
         }
       ],
       "label": "Jul 09, 2027"
