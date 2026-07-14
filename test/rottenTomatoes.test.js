@@ -82,6 +82,42 @@ function createFetchMock(requests = []) {
   };
 }
 
+// Builds a fetch mock identical to createFetchMock but with a caller-supplied
+// TVMaze episodes payload, so tests can exercise the Rotten Tomatoes date/airstamp
+// merge logic against different TVMaze episode shapes (missing airstamp, missing
+// airtime, matching dates, etc.) while the RT scrape result stays fixed (see
+// lib/scraper.js test-mode stub, which always returns S02E03 airdate 2026-06-11).
+function createFetchMockWithEpisodes(episodesPayload, requests = []) {
+  return async (url, options = {}) => {
+    requests.push({ url: String(url), options });
+    if (String(url).includes('/search/shows')) {
+      return Response.json([{ show: mockTvmazeShowPayload }]);
+    }
+    if (String(url).includes('/singlesearch/shows')) {
+      return Response.json(mockTvmazeShowPayload);
+    }
+    if (String(url).includes('/shows/1/episodes')) {
+      return Response.json(episodesPayload);
+    }
+    if (String(url).includes('imdb.iamidiotareyoutoo.com')) {
+      return Response.json({ short: { name: 'Free IMDb Example Show', datePublished: '2024-01-01', aggregateRating: { ratingValue: '8.2' }, description: 'Free endpoint result.' } });
+    }
+    if (String(url).includes('rottentomatoes.com/search')) {
+      const html = `
+        <html>
+          <body>
+            <search-page-media-row cast="" data-qa="data-row" endyear="" releaseyear="" startyear="2024" tomatometeriscertified="true" tomatometerscore="95" tomatometersentiment="POSITIVE">
+              <a href="/tv/example_show" slot="title">Example Show</a>
+            </search-page-media-row>
+          </body>
+        </html>
+      `;
+      return new Response(html, { status: 200, headers: { 'Content-Type': 'text/html' } });
+    }
+    throw new Error(`Unexpected URL: ${url}`);
+  };
+}
+
 import { parseRtDate } from '../lib/rottenTomatoes.js';
 
 test('parseRtDate correctly handles ISO dates, localized dates, and fallbacks', () => {
@@ -215,6 +251,29 @@ test('getEpisodes merges and supplements Rotten Tomatoes data into schedules', a
   assert.ok(enrichedEp);
   assert.equal(enrichedEp.rtUrl, 'https://www.rottentomatoes.com/tv/example_show/s02/e03');
   assert.equal(enrichedEp.summary, 'Future episode.');
+  assert.equal(enrichedEp.airdate, '2026-06-11');
+  assert.equal(enrichedEp.airstamp, '2026-06-11T01:00:00+00:00');
+});
+
+test('getEpisodes applies since filter correctly after correcting mismatched date', async () => {
+  const result = await getEpisodes({
+    query: 'Example Show',
+    fetchImpl: createFetchMock(),
+    since: '2026-06-11',
+    env: { NODE_ENV: 'test' }
+  });
+
+  // The TVMaze episode originally had date 2026-06-10.
+  // Under old logic (filter before merge), it would have been filtered out (since 2026-06-10 < 2026-06-11).
+  // Under new logic, its date gets updated to 2026-06-11, and THEN since is applied.
+  // So it should be retained!
+  const enrichedEp = result.episodes.find(e => e.season === 2 && e.number === 3);
+  assert.ok(enrichedEp);
+  assert.equal(enrichedEp.airdate, '2026-06-11');
+
+  // Any episode whose date remained 2026-06-10 (like other past ones if any) should be filtered out
+  const pastEp = result.episodes.find(e => e.airdate === '2026-06-10');
+  assert.equal(pastEp, undefined);
 });
 
 test('toIcs calendar output includes Rotten Tomatoes details in description', async () => {
@@ -228,4 +287,175 @@ test('toIcs calendar output includes Rotten Tomatoes details in description', as
   assert.match(ics, /Rotten Tomatoes: https:\/\/www.rottentomatoes.com\/tv\/example_show/);
   assert.match(ics, /RT Tomatometer: 95%/);
   assert.match(ics, /Rotten Tomatoes Episode: https:\/\/www.rottentomatoes.com\/tv\/example_show\/s02\/e03/);
+});
+
+test('getEpisodes leaves airdate and airstamp untouched when Rotten Tomatoes agrees with TVMaze', async () => {
+  const matchingDateEpisodesPayload = [
+    {
+      id: 20,
+      name: 'Same Date Episode',
+      season: 2,
+      number: 3,
+      airdate: '2026-06-11',
+      airtime: '20:00',
+      airstamp: '2026-06-11T01:00:00+00:00',
+      runtime: 60,
+      summary: '<p>Already matches.</p>',
+      url: 'https://www.tvmaze.com/episodes/20'
+    }
+  ];
+
+  const result = await getEpisodes({
+    query: 'Example Show',
+    fetchImpl: createFetchMockWithEpisodes(matchingDateEpisodesPayload),
+    env: { NODE_ENV: 'test' }
+  });
+
+  const ep = result.episodes.find((e) => e.season === 2 && e.number === 3);
+  assert.ok(ep);
+  assert.equal(ep.airdate, '2026-06-11');
+  assert.equal(ep.airstamp, '2026-06-11T01:00:00+00:00');
+  assert.equal(ep.rtUrl, 'https://www.rottentomatoes.com/tv/example_show/s02/e03');
+});
+
+test('getEpisodes recomputes airstamp from airtime when the TVMaze episode has no airstamp', async () => {
+  const missingAirstampWithAirtimeEpisodesPayload = [
+    {
+      id: 21,
+      name: 'Needs Airstamp Fallback',
+      season: 2,
+      number: 3,
+      airdate: '2026-06-01',
+      airtime: '18:30',
+      airstamp: null,
+      runtime: 60,
+      summary: '<p>Missing airstamp.</p>',
+      url: 'https://www.tvmaze.com/episodes/21'
+    }
+  ];
+
+  const result = await getEpisodes({
+    query: 'Example Show',
+    fetchImpl: createFetchMockWithEpisodes(missingAirstampWithAirtimeEpisodesPayload),
+    env: { NODE_ENV: 'test' }
+  });
+
+  const ep = result.episodes.find((e) => e.season === 2 && e.number === 3);
+  assert.ok(ep);
+  assert.equal(ep.airdate, '2026-06-11');
+  assert.equal(ep.airstamp, '2026-06-11T18:30:00Z');
+});
+
+test('getEpisodes defaults to midnight UTC when the TVMaze episode has neither airstamp nor airtime', async () => {
+  const missingAirstampAndAirtimeEpisodesPayload = [
+    {
+      id: 22,
+      name: 'Needs Full Fallback',
+      season: 2,
+      number: 3,
+      airdate: '2026-06-01',
+      airtime: null,
+      airstamp: null,
+      runtime: 60,
+      summary: '<p>Missing both.</p>',
+      url: 'https://www.tvmaze.com/episodes/22'
+    }
+  ];
+
+  const result = await getEpisodes({
+    query: 'Example Show',
+    fetchImpl: createFetchMockWithEpisodes(missingAirstampAndAirtimeEpisodesPayload),
+    env: { NODE_ENV: 'test' }
+  });
+
+  const ep = result.episodes.find((e) => e.season === 2 && e.number === 3);
+  assert.ok(ep);
+  assert.equal(ep.airdate, '2026-06-11');
+  assert.equal(ep.airstamp, '2026-06-11T00:00:00Z');
+});
+
+test('getEpisodes preserves an airtime that already includes seconds when building a fallback airstamp', async () => {
+  const airtimeWithSecondsEpisodesPayload = [
+    {
+      id: 23,
+      name: 'Airtime With Seconds',
+      season: 2,
+      number: 3,
+      airdate: '2026-06-01',
+      airtime: '20:00:00',
+      airstamp: null,
+      runtime: 60,
+      summary: '<p>Has seconds already.</p>',
+      url: 'https://www.tvmaze.com/episodes/23'
+    }
+  ];
+
+  const result = await getEpisodes({
+    query: 'Example Show',
+    fetchImpl: createFetchMockWithEpisodes(airtimeWithSecondsEpisodesPayload),
+    env: { NODE_ENV: 'test' }
+  });
+
+  const ep = result.episodes.find((e) => e.season === 2 && e.number === 3);
+  assert.ok(ep);
+  assert.equal(ep.airstamp, '2026-06-11T20:00:00Z');
+});
+
+test('getEpisodes applies the since filter to newly-added Rotten Tomatoes supplemental episodes', async () => {
+  const noMatchingEpisodePayload = [
+    {
+      id: 24,
+      name: 'Unrelated Episode',
+      season: 1,
+      number: 1,
+      airdate: '2026-01-01',
+      airtime: '20:00',
+      airstamp: '2026-01-02T01:00:00+00:00',
+      runtime: 60,
+      summary: '<p>Unrelated.</p>',
+      url: 'https://www.tvmaze.com/episodes/24'
+    }
+  ];
+
+  const result = await getEpisodes({
+    query: 'Example Show',
+    fetchImpl: createFetchMockWithEpisodes(noMatchingEpisodePayload),
+    since: '2026-06-11',
+    env: { NODE_ENV: 'test' }
+  });
+
+  // The pre-existing TVMaze episode airs 2026-01-01, before the since cutoff, so it is filtered out.
+  assert.equal(result.episodes.find((e) => e.season === 1 && e.number === 1), undefined);
+
+  // The Rotten-Tomatoes-only supplemental episode airs on the since cutoff itself, so it is retained.
+  const rtOnlyEp = result.episodes.find((e) => e.season === 2 && e.number === 3);
+  assert.ok(rtOnlyEp);
+  assert.ok(String(rtOnlyEp.id).includes('rt-example_show'));
+  assert.equal(rtOnlyEp.airdate, '2026-06-11');
+});
+
+test('getEpisodes still excludes an episode via since when its Rotten-Tomatoes-corrected date remains before the cutoff', async () => {
+  const staleDateEpisodesPayload = [
+    {
+      id: 25,
+      name: 'Stale TVMaze Date',
+      season: 2,
+      number: 3,
+      airdate: '2020-01-01',
+      airtime: '20:00',
+      airstamp: '2020-01-01T20:00:00Z',
+      runtime: 60,
+      summary: '<p>Old date.</p>',
+      url: 'https://www.tvmaze.com/episodes/25'
+    }
+  ];
+
+  const result = await getEpisodes({
+    query: 'Example Show',
+    fetchImpl: createFetchMockWithEpisodes(staleDateEpisodesPayload),
+    since: '2026-06-12', // one day after the Rotten-Tomatoes-corrected date of 2026-06-11
+    env: { NODE_ENV: 'test' }
+  });
+
+  assert.equal(result.episodes.find((e) => e.season === 2 && e.number === 3), undefined);
 });
