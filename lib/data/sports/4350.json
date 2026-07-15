@@ -1,7 +1,7 @@
 {
   "leagueId": "4350",
   "leagueName": "Liga MX",
-  "updatedAt": "2026-07-15T03:36:11.767Z",
+  "updatedAt": "2026-07-15T08:47:27.865Z",
   "events": [
     {
       "idEvent": "2487452",
@@ -57,7 +57,7 @@
     {
       "idEvent": "2487453",
       "idAPIfootball": "1550895",
-      "strTimestamp": "2026-07-17T03:00:00",
+      "strTimestamp": "2026-07-17T03:10:00",
       "strEvent": "Tijuana vs Tigres UANL",
       "strEventAlternate": "Tigres UANL @ Tijuana",
       "strFilename": "Mexican Primera League 2026-07-17 Tijuana vs Tigres UANL",
@@ -79,8 +79,8 @@
       "strWeather": "",
       "dateEvent": "2026-07-17",
       "dateEventLocal": "2026-07-16",
-      "strTime": "03:00:00",
-      "strTimeLocal": "19:30:00",
+      "strTime": "03:10:00",
+      "strTimeLocal": "20:10:00",
       "strGroup": "",
       "idHomeTeam": "134202",
       "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/b0mky81779772352.png",
