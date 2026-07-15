@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T07:11:35.418Z",
+  "generatedAt": "2026-07-15T07:16:03.430Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -375,7 +375,7 @@
       "id": "tt43438442",
       "title": "Diamond Made Man Part 2",
       "image": "https://m.media-amazon.com/images/M/MV5BMDRlYWZkZDYtYmI1NC00YWJmLTgxZTItOTQ4ZDVmYzBhOWE2XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 17 Jul 2026 00:00:00 GMT",
+      "releaseDate": "Mon, 20 Jul 2026 00:00:00 GMT",
       "genres": [
         "Sci-Fi"
       ],
@@ -385,7 +385,7 @@
           "name": "Sreehari"
         }
       ],
-      "label": "Jul 17, 2026"
+      "label": "Jul 20, 2026"
     },
     {
       "id": "tt6633934",
@@ -642,12 +642,12 @@
           "name": "Tiffany Haddish"
         },
         {
-          "id": "nm1443368",
-          "name": "Brett Gelman"
-        },
-        {
           "id": "nm2577076",
           "name": "Lil Rel Howery"
+        },
+        {
+          "id": "nm1443368",
+          "name": "Brett Gelman"
         }
       ],
       "label": "Jul 24, 2026"
@@ -746,12 +746,12 @@
           "name": "Olivia Wilde"
         },
         {
-          "id": "nm0424216",
-          "name": "Johnny Knoxville"
+          "id": "nm11866274",
+          "name": "Cooper Hoffman"
         },
         {
-          "id": "nm0001166",
-          "name": "James Duval"
+          "id": "nm0424216",
+          "name": "Johnny Knoxville"
         },
         {
           "id": "nm4377526",
@@ -817,20 +817,20 @@
       ],
       "people": [
         {
-          "id": "nm4360085",
-          "name": "Callum Turner"
-        },
-        {
           "id": "nm4834815",
           "name": "Monica Barbaro"
         },
         {
-          "id": "nm0000208",
-          "name": "Molly Ringwald"
+          "id": "nm4360085",
+          "name": "Callum Turner"
         },
         {
           "id": "nm1638321",
           "name": "Maya Hawke"
+        },
+        {
+          "id": "nm0000208",
+          "name": "Molly Ringwald"
         }
       ],
       "label": "Aug 07, 2026"
@@ -905,20 +905,20 @@
       ],
       "people": [
         {
-          "id": "nm2336966",
-          "name": "Greta Lee"
-        },
-        {
           "id": "nm0000353",
           "name": "Willem Dafoe"
+        },
+        {
+          "id": "nm2336966",
+          "name": "Greta Lee"
         },
         {
           "id": "nm3821405",
           "name": "Jake Lacy"
         },
         {
-          "id": "nm0424800",
-          "name": "Clark Johnson"
+          "id": "nm14553465",
+          "name": "Graham Campbell"
         }
       ],
       "label": "Aug 07, 2026"
@@ -978,6 +978,34 @@
         {
           "id": "nm0844761",
           "name": "Gustavo Sánchez Parra"
+        }
+      ],
+      "label": "Aug 07, 2026"
+    },
+    {
+      "id": "tt38866269",
+      "title": "Anh Hung",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2YzZDdmYmQtOTRmYy00YzYxLThjZjktZWU0NWU2OWQwZGNkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 07 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm4642822",
+          "name": "Thai Hoa"
+        },
+        {
+          "id": "nm16027176",
+          "name": "Vo Tan Phat"
+        },
+        {
+          "id": "nm17674407",
+          "name": "Doan The Vinh"
+        },
+        {
+          "id": "nm17180763",
+          "name": "Phuong Thanh"
         }
       ],
       "label": "Aug 07, 2026"
@@ -1090,12 +1118,12 @@
           "name": "Terry Crews"
         },
         {
-          "id": "nm3833084",
-          "name": "Fortune Feimster"
-        },
-        {
           "id": "nm3553139",
           "name": "Jameela Jamil"
+        },
+        {
+          "id": "nm3833084",
+          "name": "Fortune Feimster"
         }
       ],
       "label": "Aug 14, 2026"
@@ -1538,6 +1566,35 @@
         {
           "id": "nm5704035",
           "name": "Mike Scantlin"
+        }
+      ],
+      "label": "Aug 21, 2026"
+    },
+    {
+      "id": "tt33095251",
+      "title": "Tony",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDc1NGEyMzAtZWNiNC00MDY0LTg2NmYtZWIxZmM0NTNhNjc0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm14073757",
+          "name": "Dominic Sessa"
+        },
+        {
+          "id": "nm0000104",
+          "name": "Antonio Banderas"
+        },
+        {
+          "id": "nm4454223",
+          "name": "Emilia Jones"
+        },
+        {
+          "id": "nm10695146",
+          "name": "Leo Woodall"
         }
       ],
       "label": "Aug 21, 2026"
@@ -2117,6 +2174,7 @@
       "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
+        "Comedy",
         "Thriller"
       ],
       "people": [
@@ -2238,16 +2296,16 @@
       ],
       "people": [
         {
-          "id": "nm2089687",
-          "name": "Oasis"
-        },
-        {
           "id": "nm0302427",
           "name": "Liam Gallagher"
         },
         {
           "id": "nm0302462",
           "name": "Noel Gallagher"
+        },
+        {
+          "id": "nm2089687",
+          "name": "Oasis"
         }
       ],
       "label": "Sep 11, 2026"
@@ -2629,6 +2687,36 @@
         {
           "id": "nm18621543",
           "name": "Jackson Devereux"
+        }
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
+      "id": "tt36980182",
+      "title": "The Incomer",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGExNTk0NjgtOGMxNS00MGE3LTk3NjAtNzE5MGEwZDA0Nzk0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "people": [
+        {
+          "id": "nm4587360",
+          "name": "Gayle Rankin"
+        },
+        {
+          "id": "nm1727304",
+          "name": "Domhnall Gleeson"
+        },
+        {
+          "id": "nm0001314",
+          "name": "John Hannah"
+        },
+        {
+          "id": "nm0327056",
+          "name": "Michelle Gomez"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3317,12 +3405,12 @@
           "name": "Olivia Colman"
         },
         {
-          "id": "nm9702409",
-          "name": "Ella Bruccoleri"
-        },
-        {
           "id": "nm0227759",
           "name": "Peter Dinklage"
+        },
+        {
+          "id": "nm9702409",
+          "name": "Ella Bruccoleri"
         }
       ],
       "label": "Oct 30, 2026"
@@ -3360,6 +3448,7 @@
     {
       "id": "tt13611778",
       "title": "The Mongoose",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDBmN2E2YTQtMWE2Ni00ZjMxLWE4NGItODk2ZDZjZDU0MjdlXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3384,6 +3473,34 @@
         }
       ],
       "label": "Oct 30, 2026"
+    },
+    {
+      "id": "tt36465142",
+      "title": "Holy Father",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWRlYjkyNzUtNTJmMy00NzE0LTlkYmUtMDdkOGQ3ZTk5MTQyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 31 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm0000616",
+          "name": "Eric Roberts"
+        },
+        {
+          "id": "nm9653729",
+          "name": "Mary Lirette"
+        },
+        {
+          "id": "nm3008691",
+          "name": "Robert Gunton"
+        },
+        {
+          "id": "nm10380800",
+          "name": "Austin Lampe"
+        }
+      ],
+      "label": "Oct 31, 2026"
     },
     {
       "id": "tt15799564",
@@ -3974,6 +4091,35 @@
       "label": "Dec 04, 2026"
     },
     {
+      "id": "tt36415529",
+      "title": "Behemoth!",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTU1YWQ5MzItNTQ0NC00ZThkLTlmNDAtOWFmY2JkMTNjNWRjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm0050959",
+          "name": "Pedro Pascal"
+        },
+        {
+          "id": "nm1312575",
+          "name": "Olivia Wilde"
+        },
+        {
+          "id": "nm6872447",
+          "name": "Eva Victor"
+        },
+        {
+          "id": "nm0000498",
+          "name": "Matthew Lillard"
+        }
+      ],
+      "label": "Dec 04, 2026"
+    },
+    {
       "id": "tt34491649",
       "title": "Zero A.D.",
       "image": "https://m.media-amazon.com/images/M/MV5BNjU2ZGE2MjktZjZhNC00ZWZiLWI2MTYtMThhZDJkZDQ3YTE2XkEyXkFqcGc@._V1_.jpg",
@@ -4162,16 +4308,16 @@
       ],
       "people": [
         {
-          "id": "nm11417004",
-          "name": "Bodhi Rae Breathnach"
+          "id": "nm3431899",
+          "name": "Jack Morris"
         },
         {
           "id": "nm1093951",
           "name": "Aaron Taylor-Johnson"
         },
         {
-          "id": "nm6675440",
-          "name": "Lily-Rose Depp"
+          "id": "nm11417004",
+          "name": "Bodhi Rae Breathnach"
         },
         {
           "id": "nm0000353",
@@ -4366,6 +4512,36 @@
       "label": "Jan 08, 2027"
     },
     {
+      "id": "tt8613988",
+      "title": "Harmonia",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjU5NDhjMGUtYTE5NS00ODZlLWJhNTktNjFhZDEyNjZhYzRiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm8165602",
+          "name": "Bella Ramsey"
+        },
+        {
+          "id": "nm4689420",
+          "name": "Carrie Coon"
+        },
+        {
+          "id": "nm4141252",
+          "name": "Lily James"
+        },
+        {
+          "id": "nm0628120",
+          "name": "Jaime Ray Newman"
+        }
+      ],
+      "label": "Jan 08, 2027"
+    },
+    {
       "id": "tt35935357",
       "title": "The Beekeeper 2",
       "releaseDate": "Fri, 15 Jan 2027 00:00:00 GMT",
@@ -4555,20 +4731,20 @@
       ],
       "people": [
         {
-          "id": "nm3996999",
-          "name": "Brandon Sklenar"
+          "id": "nm0625789",
+          "name": "Tim Blake Nelson"
         },
         {
-          "id": "nm6076950",
-          "name": "Hassie Harrison"
+          "id": "nm3996999",
+          "name": "Brandon Sklenar"
         },
         {
           "id": "nm0524197",
           "name": "Josh Lucas"
         },
         {
-          "id": "nm0241049",
-          "name": "Josh Duhamel"
+          "id": "nm6076950",
+          "name": "Hassie Harrison"
         }
       ],
       "label": "Jan 29, 2027"
@@ -5165,7 +5341,7 @@
     {
       "id": "tt32659463",
       "title": "Spaceballs: The New One",
-      "image": "https://m.media-amazon.com/images/M/MV5BMmU1YWJjMTItYTdmYS00YzQ0LTlkZGQtMzhhMGNhYTk5Mjg5XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTcwNTEwYTYtZmI4Ni00NjJmLTgzNjQtOTQyYTNhMTFiYWY5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 23 Apr 2027 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -5359,12 +5535,12 @@
           "name": "Emma Stone"
         },
         {
-          "id": "nm1517976",
-          "name": "Chris Pine"
-        },
-        {
           "id": "nm0000209",
           "name": "Tim Robbins"
+        },
+        {
+          "id": "nm1517976",
+          "name": "Chris Pine"
         },
         {
           "id": "nm0000651",
