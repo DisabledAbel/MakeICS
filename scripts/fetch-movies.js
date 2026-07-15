@@ -50,8 +50,10 @@ async function main() {
       return dateA - dateB;
     });
 
+    const moviesChanged = JSON.stringify(mergedMovies) !== JSON.stringify(existingMovies);
+
     const payload = {
-      generatedAt: existingGeneratedAt || new Date().toISOString(),
+      generatedAt: (!moviesChanged && existingGeneratedAt) ? existingGeneratedAt : new Date().toISOString(),
       movies: mergedMovies
     };
 
