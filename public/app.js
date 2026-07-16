@@ -584,6 +584,18 @@ function renderList(items, type, context, timezone = 'UTC') {
           linkContainer.append(rtEpLink);
         }
       }
+
+      const showName = item.showName || context?.name || '';
+      const episodeCode = item.season && item.number ? `S${String(item.season).padStart(2, '0')}E${String(item.number).padStart(2, '0')}` : '';
+      const googleSearchQuery = `${showName} ${episodeCode} episode`.replace(/\s+/g, ' ').trim();
+      const linkContainer = link.parentElement;
+      const googleLink = document.createElement('a');
+      googleLink.href = `https://www.google.com/search?q=${encodeURIComponent(googleSearchQuery)}`;
+      googleLink.target = '_blank';
+      googleLink.rel = 'noopener';
+      googleLink.textContent = 'Google Search';
+      googleLink.style.marginLeft = '8px';
+      linkContainer.append(googleLink);
     } else if (type === 'sports') {
       dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp, true, timezone);
       titleEl.textContent = item.name;
