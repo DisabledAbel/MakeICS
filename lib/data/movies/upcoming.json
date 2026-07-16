@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T07:16:03.430Z",
+  "generatedAt": "2026-07-16T07:23:16.224Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -2028,12 +2028,12 @@
       ],
       "people": [
         {
-          "id": "nm5245722",
-          "name": "Adria Arjona"
-        },
-        {
           "id": "nm0356017",
           "name": "Rebecca Hall"
+        },
+        {
+          "id": "nm5245722",
+          "name": "Adria Arjona"
         },
         {
           "id": "nm1405398",
@@ -2170,7 +2170,7 @@
     {
       "id": "tt31349844",
       "title": "Runner",
-      "image": "https://m.media-amazon.com/images/M/MV5BZmZhZjFmNTMtODgxZC00MWE3LTkwMTYtOWEyN2I2ODc2YTM2XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjBiYmVlZTMtZmY5MS00Nzg5LTg4MzYtNTI3NjJkMzFmMzQ5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -2229,7 +2229,7 @@
     {
       "id": "tt36983905",
       "title": "The Uprising",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTk3MTMyZmMtOTZmMy00OTBkLWE0MWItZjgwZTE0MGFhNDg2XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BODc1ZWRlMjQtMDc4NC00ODczLWIwNGMtZmFlZjA3YzIyZWVhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -2931,12 +2931,12 @@
       ],
       "people": [
         {
-          "id": "nm0991810",
-          "name": "Mahershala Ali"
-        },
-        {
           "id": "nm0002064",
           "name": "Giancarlo Esposito"
+        },
+        {
+          "id": "nm0991810",
+          "name": "Mahershala Ali"
         },
         {
           "id": "nm0158626",
@@ -3477,7 +3477,7 @@
     {
       "id": "tt36465142",
       "title": "Holy Father",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWRlYjkyNzUtNTJmMy00NzE0LTlkYmUtMDdkOGQ3ZTk5MTQyXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTAzZjgxNzUtZGUwYi00MGRjLWJjNGItODAyNDdmYWExNDE5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Sat, 31 Oct 2026 00:00:00 GMT",
       "genres": [
         "Horror"
@@ -3624,7 +3624,7 @@
     {
       "id": "tt38686316",
       "title": "Ghost Soldier",
-      "image": "https://m.media-amazon.com/images/M/MV5BYWQxMmNkZWQtNjQyNi00YTgyLTkzMjktMzY1MWJlOTAyN2MyXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmY0ZTMzNWMtODVhMi00Mjg3LTgwMGItYjBhMTRhY2NhYmJhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3646,6 +3646,36 @@
         {
           "id": "nm0226813",
           "name": "Garret Dillahunt"
+        }
+      ],
+      "label": "Nov 06, 2026"
+    },
+    {
+      "id": "tt10098420",
+      "title": "Drummer Boy",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWQzYzFmODctMTcxZS00MzNjLWI3N2MtNjAzNWNmZWFjYmUxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Family",
+        "Musical"
+      ],
+      "people": [
+        {
+          "id": "nm0322513",
+          "name": "Iain Glen"
+        },
+        {
+          "id": "nm3522635",
+          "name": "Joel David Smallbone"
+        },
+        {
+          "id": "nm0261595",
+          "name": "Charles Esten"
+        },
+        {
+          "id": "nm15871905",
+          "name": "Lucas Leach"
         }
       ],
       "label": "Nov 06, 2026"
@@ -3975,6 +4005,34 @@
       "label": "Nov 25, 2026"
     },
     {
+      "id": "tt36834996",
+      "title": "All of a Sudden",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGQ2NWE0MGYtNGMyOC00MjRmLTg2MDctMjY2OTlmNjI3OTI0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm1812637",
+          "name": "Virginie Efira"
+        },
+        {
+          "id": "nm5148840",
+          "name": "Tao Okamoto"
+        },
+        {
+          "id": "nm0619236",
+          "name": "Kyôzô Nagatsuka"
+        },
+        {
+          "id": "nm16659741",
+          "name": "Kodai Kurosaki"
+        }
+      ],
+      "label": "Nov 25, 2026"
+    },
+    {
       "id": "tt27983468",
       "title": "Home",
       "image": "https://m.media-amazon.com/images/M/MV5BNWIzZGIzNzAtYjRjZS00MWQ4LWJlMmItYWI0ZTQ0MzRkNjU0XkEyXkFqcGc@._V1_.jpg",
@@ -4084,8 +4142,8 @@
           "name": "Kristen Bell"
         },
         {
-          "id": "nm0364813",
-          "name": "Jared Harris"
+          "id": "nm0001592",
+          "name": "Joe Pantoliano"
         }
       ],
       "label": "Dec 04, 2026"
@@ -4654,8 +4712,8 @@
           "name": "Kexin Wang"
         },
         {
-          "id": "nm2765191",
-          "name": "Eric André"
+          "id": "nm0005351",
+          "name": "Ryan Reynolds"
         }
       ],
       "label": "Jan 22, 2027"
@@ -4676,16 +4734,16 @@
           "name": "Tyler Labine"
         },
         {
-          "id": "nm3958148",
-          "name": "Edwin Lee Gibson"
-        },
-        {
           "id": "nm3287940",
           "name": "Tracy Ifeachor"
         },
         {
-          "id": "nm12024815",
-          "name": "Rickie Wang"
+          "id": "nm3958148",
+          "name": "Edwin Lee Gibson"
+        },
+        {
+          "id": "nm17091543",
+          "name": "Kingston Goodjohn"
         }
       ],
       "label": "Jan 22, 2027"
@@ -5153,16 +5211,16 @@
           "name": "Keanu Reeves"
         },
         {
-          "id": "nm0644406",
-          "name": "Nick Offerman"
-        },
-        {
           "id": "nm0005188",
           "name": "James Marsden"
         },
         {
           "id": "nm0000120",
           "name": "Jim Carrey"
+        },
+        {
+          "id": "nm0644406",
+          "name": "Nick Offerman"
         }
       ],
       "label": "Mar 19, 2027"
@@ -5304,6 +5362,33 @@
         {
           "id": "nm4977564",
           "name": "Storm Reid"
+        }
+      ],
+      "label": "Apr 09, 2027"
+    },
+    {
+      "id": "tt34900169",
+      "title": "Panic Carefully",
+      "releaseDate": "Fri, 09 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0000210",
+          "name": "Julia Roberts"
+        },
+        {
+          "id": "nm0647634",
+          "name": "Elizabeth Olsen"
+        },
+        {
+          "id": "nm1519666",
+          "name": "Eddie Redmayne"
+        },
+        {
+          "id": "nm0318821",
+          "name": "Aidan Gillen"
         }
       ],
       "label": "Apr 09, 2027"
@@ -5747,7 +5832,7 @@
       "id": "tt16360004",
       "title": "Spider-Man: Beyond the Spider-Verse",
       "image": "https://m.media-amazon.com/images/M/MV5BYjkwOWViYzYtMDQzNi00N2U0LWIxYTktNWE2ZDYyM2FhN2M5XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Sun, 20 Jun 2027 00:00:00 GMT",
+      "releaseDate": "Fri, 18 Jun 2027 00:00:00 GMT",
       "genres": [
         "Animation",
         "Action",
@@ -5771,7 +5856,7 @@
           "name": "Nicolas Cage"
         }
       ],
-      "label": "Jun 20, 2027"
+      "label": "Jun 18, 2027"
     },
     {
       "id": "tt20374502",
@@ -5783,20 +5868,20 @@
       ],
       "people": [
         {
-          "id": "nm3053338",
-          "name": "Margot Robbie"
-        },
-        {
           "id": "nm4834815",
           "name": "Monica Barbaro"
+        },
+        {
+          "id": "nm3053338",
+          "name": "Margot Robbie"
         },
         {
           "id": "nm0177896",
           "name": "Bradley Cooper"
         },
         {
-          "id": "nm1126657",
-          "name": "George MacKay"
+          "id": "nm0609944",
+          "name": "Wagner Moura"
         }
       ],
       "label": "Jun 25, 2027"
