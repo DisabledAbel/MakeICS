@@ -563,8 +563,11 @@ function renderList(items, type, context, timezone = 'UTC') {
     if (type === 'tv') {
       dateEl.textContent = formatAirDate(item.airdate, item.airtime, item.airstamp, true, timezone);
       titleEl.textContent = item.name;
+      const hasSeason = item.season !== null && item.season !== undefined;
+      const hasEpisodeNum = item.number !== null && item.number !== undefined;
+      const episodeCode = (hasSeason && hasEpisodeNum) ? `S${String(item.season).padStart(2, '0')}E${String(item.number).padStart(2, '0')}` : '';
       metaEl.textContent = [
-        item.season && item.number ? `S${String(item.season).padStart(2, '0')}E${String(item.number).padStart(2, '0')}` : '',
+        episodeCode,
         item.runtime ? `${item.runtime} min` : '',
         item.network ? `Watch on ${item.network}` : ''
       ].filter(Boolean).join(' · ');
@@ -584,6 +587,17 @@ function renderList(items, type, context, timezone = 'UTC') {
           linkContainer.append(rtEpLink);
         }
       }
+
+      const showName = item.showName || context?.name || '';
+      const googleSearchQuery = `${showName} ${episodeCode} episode`.replace(/\s+/g, ' ').trim();
+      const linkContainer = link.parentElement;
+      const googleLink = document.createElement('a');
+      googleLink.href = `https://www.google.com/search?q=${encodeURIComponent(googleSearchQuery)}`;
+      googleLink.target = '_blank';
+      googleLink.rel = 'noopener';
+      googleLink.textContent = 'Google Search';
+      googleLink.style.marginLeft = '8px';
+      linkContainer.append(googleLink);
     } else if (type === 'sports') {
       dateEl.textContent = formatAirDate(item.date, item.time, item.timestamp, true, timezone);
       titleEl.textContent = item.name;
