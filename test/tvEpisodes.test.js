@@ -259,6 +259,72 @@ test('toIcs creates a daily-refreshing calendar event feed for episodes', async 
   assert.match(ics, /END:VCALENDAR/);
 });
 
+test('getEpisodes applies Rotten Tomatoes and Google-verified overrides correctly', async () => {
+  // We'll mock the RT module imports or check how getEpisodes handles them.
+  // In tvEpisodes.js:
+  // const { searchRtShow, fetchRtEpisodes } = await import('./rottenTomatoes.js');
+  // It reads from data/tv/google-verified.json as well.
+  // Let's verify that we can load episodes, mock the file systems/fetching and assert.
+
+  // Create a customized fetch mock that includes Rotten Tomatoes and Google verified files
+  // Note: the test filesystem actually has some JSON files or not. We can mock fs/promises if we want,
+  // but simpler is to use a specific test structure or write a temporary google-verified.json file.
+
+  const fs = await import('node:fs/promises');
+  const path = await import('node:path');
+  const { fileURLToPath } = await import('node:url');
+  const __dirname = path.dirname(fileURLToPath(import.meta.url));
+  const verifiedPath = path.join(__dirname, '../lib/data/tv/google-verified.json');
+
+  let originalVerifiedContent = null;
+  try {
+    originalVerifiedContent = await fs.readFile(verifiedPath, 'utf8');
+  } catch (e) {}
+
+  try {
+    // Write a mock google-verified.json
+    const mockVerified = {
+      "Example Show-2-3": {
+        "airdate": "2026-06-15",
+        "name": "Google Verified Name"
+      }
+    };
+    await fs.mkdir(path.dirname(verifiedPath), { recursive: true });
+    await fs.writeFile(verifiedPath, JSON.stringify(mockVerified, null, 2), 'utf8');
+
+    const result = await getEpisodes({
+      query: 'Example Show',
+      fetchImpl: createFetchMock(),
+      env: {}
+    });
+
+    // The Future episode is S2E3, which originally has airdate '2026-06-10' and name 'The Future'.
+    // It should now be overridden.
+    const overriddenEp = result.episodes.find(ep => ep.season === 2 && ep.number === 3);
+    assert.ok(overriddenEp);
+    assert.equal(overriddenEp.airdate, '2026-06-15');
+    assert.equal(overriddenEp.name, 'Google Verified Name');
+  } finally {
+    // Restore original or delete
+    if (originalVerifiedContent !== null) {
+      await fs.writeFile(verifiedPath, originalVerifiedContent, 'utf8');
+    } else {
+      await fs.unlink(verifiedPath).catch(() => {});
+    }
+  }
+});
+
+test('toIcs appends Google Search verify schedule links', async () => {
+  const result = await getEpisodes({
+    query: 'Example Show',
+    fetchImpl: createFetchMock(),
+    env: {}
+  });
+
+  const ics = toIcs(result, { timezone: 'America/New_York' });
+  assert.match(ics, /Verify schedule: https:\/\/www\.google\.com\/search\?q=Example%20Show%20S02E03%20episode/);
+});
+
 test('frontend offers one all-time copied ICS URL instead of dated feeds', async () => {
   const appScript = await readFile(new URL('../public/app.js', import.meta.url), 'utf8');
   const indexPage = await readFile(new URL('../public/index.html', import.meta.url), 'utf8');

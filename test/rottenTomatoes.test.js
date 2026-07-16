@@ -217,6 +217,8 @@ test('getEpisodes merges and supplements Rotten Tomatoes data into schedules', a
   assert.equal(enrichedEp.summary, 'Future episode.');
   assert.equal(enrichedEp.airdate, '2026-06-11');
   assert.equal(enrichedEp.airstamp, '2026-06-11T01:00:00+00:00');
+  // Ensure Rotten Tomatoes episode name has overridden the TVMaze episode name
+  assert.equal(enrichedEp.name, 'Future episode.');
 });
 
 test('getEpisodes applies since filter correctly after correcting mismatched date', async () => {
@@ -251,4 +253,6 @@ test('toIcs calendar output includes Rotten Tomatoes details in description', as
   assert.match(ics, /Rotten Tomatoes: https:\/\/www.rottentomatoes.com\/tv\/example_show/);
   assert.match(ics, /RT Tomatometer: 95%/);
   assert.match(ics, /Rotten Tomatoes Episode: https:\/\/www.rottentomatoes.com\/tv\/example_show\/s02\/e03/);
+  // Ensure description includes the Google search link to verify schedule
+  assert.match(ics, /Verify schedule: https:\/\/www\.google\.com\/search\?q=Example%20Show%20S02E03%20episode/);
 });
