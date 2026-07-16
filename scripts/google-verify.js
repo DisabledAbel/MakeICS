@@ -9,10 +9,14 @@ const TRACKED_SHOWS_FILE = path.join(TV_DATA_DIR, 'tracked-shows.json');
 const RT_DATA_FILE = path.join(TV_DATA_DIR, 'rotten-tomatoes.json');
 const OUTPUT_FILE = path.join(TV_DATA_DIR, 'google-verified.json');
 
+function escapeRegExp(string) {
+  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
 function formatDateVariants(dateStr) {
   if (!dateStr) return [];
   const d = new Date(dateStr + 'T00:00:00Z');
-  if (Number.isNaN(d.getTime())) return [dateStr];
+  if (Number.isNaN(d.getTime())) return [{ text: dateStr.toLowerCase(), hasYear: true }];
 
   const months = [
     'January', 'February', 'March', 'April', 'May', 'June',
@@ -31,12 +35,22 @@ function formatDateVariants(dateStr) {
   const sName = shortMonths[monthIdx];
 
   return [
-    dateStr, // YYYY-MM-DD
-    `${mName} ${day}, ${year}`, // June 11, 2026
-    `${sName} ${day}, ${year}`, // Jun 11, 2026
-    `${mName} ${day}`, // June 11
-    `${sName} ${day}` // Jun 11
-  ].map(s => s.toLowerCase());
+    { text: dateStr.toLowerCase(), hasYear: true }, // YYYY-MM-DD
+    { text: `${mName} ${day}, ${year}`.toLowerCase(), hasYear: true }, // June 11, 2026
+    { text: `${sName} ${day}, ${year}`.toLowerCase(), hasYear: true }, // Jun 11, 2026
+    { text: `${mName} ${day}`.toLowerCase(), hasYear: false }, // June 11
+    { text: `${sName} ${day}`.toLowerCase(), hasYear: false } // Jun 11
+  ];
+}
+
+function matchVariant(bodyText, variant) {
+  if (variant.hasYear) {
+    return bodyText.includes(variant.text);
+  } else {
+    const escaped = escapeRegExp(variant.text);
+    const regex = new RegExp(escaped + '(?!\\d)');
+    return regex.test(bodyText);
+  }
 }
 
 async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate, rtDate) {
@@ -51,12 +65,24 @@ async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate,
 
     const bodyText = (await page.innerText('body')).toLowerCase();
 
+    // Check for CAPTCHA/blocking signatures
+    const isBlocked = bodyText.includes('unusual traffic') ||
+                      bodyText.includes('recaptcha') ||
+                      bodyText.includes('captcha') ||
+                      bodyText.includes('robot') ||
+                      bodyText.includes('our systems have detected unusual traffic');
+
+    if (isBlocked) {
+      console.warn(`    [WARNING] Google search query blocked/CAPTCHA detected for: "${query}".`);
+      return rtDate || tvmazeDate; // default fallback, bypass "matches neither" determination
+    }
+
     const tvmazeVariants = formatDateVariants(tvmazeDate);
     const rtVariants = formatDateVariants(rtDate);
 
     let tvmazeMatched = false;
     for (const v of tvmazeVariants) {
-      if (bodyText.includes(v)) {
+      if (matchVariant(bodyText, v)) {
         tvmazeMatched = true;
         break;
       }
@@ -64,7 +90,7 @@ async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate,
 
     let rtMatched = false;
     for (const v of rtVariants) {
-      if (bodyText.includes(v)) {
+      if (matchVariant(bodyText, v)) {
         rtMatched = true;
         break;
       }
@@ -125,7 +151,18 @@ async function main() {
     });
 
     const todayStr = new Date().toISOString().slice(0, 10);
-    const updatedVerified = { ...existingVerified };
+
+    // Prune entries from existingVerified that have already aired (airdate < todayStr)
+    const activeVerified = {};
+    for (const [key, value] of Object.entries(existingVerified)) {
+      if (value && value.airdate && value.airdate >= todayStr) {
+        activeVerified[key] = value;
+      } else {
+        console.log(`Pruning past verified episode override: ${key} (airdate: ${value?.airdate})`);
+      }
+    }
+
+    const updatedVerified = { ...activeVerified };
 
     for (const query of trackedShows) {
       console.log(`Checking TV show: "${query}"`);
