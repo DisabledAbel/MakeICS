@@ -163,10 +163,8 @@ async function main() {
       }
     }
 
-    const showsChanged = JSON.stringify(showsData) !== JSON.stringify(existingData.shows || {});
-
     const payload = {
-      generatedAt: (!showsChanged && existingData.generatedAt) ? existingData.generatedAt : new Date().toISOString(),
+      generatedAt: existingData.generatedAt || new Date().toISOString(),
       shows: showsData
     };
 
