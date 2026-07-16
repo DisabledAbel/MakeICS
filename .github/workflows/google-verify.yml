@@ -30,7 +30,7 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Cache Playwright browsers
         uses: actions/cache@v4
@@ -61,5 +61,37 @@ jobs:
           fi
 
           git commit -m "📺 Update Google verified TV schedules 📺"
-          git pull --rebase origin "$REF_NAME"
-          git push origin HEAD:"$REF_NAME"
+
+          attempts=5
+          count=0
+          backoff=2
+          success=false
+
+          while [ $count -lt $attempts ]; do
+            count=$((count + 1))
+            echo "Attempt $count of $attempts to pull/rebase and push changes..."
+
+            if git pull --rebase origin "$REF_NAME" && git push origin HEAD:"$REF_NAME"; then
+              echo "Changes successfully pushed."
+              success=true
+              break
+            else
+              echo "Pull/rebase or push failed on attempt $count."
+              if [ -d ".git/rebase-merge" ] || [ -d ".git/rebase-apply" ]; then
+                echo "Rebase conflict detected! Aborting rebase cleanly."
+                git rebase --abort
+                exit 1
+              fi
+
+              if [ $count -lt $attempts ]; then
+                echo "Waiting $backoff seconds before next attempt..."
+                sleep $backoff
+                backoff=$((backoff * 2))
+              fi
+            fi
+          done
+
+          if [ "$success" = false ]; then
+            echo "Failed to push changes after $attempts attempts."
+            exit 1
+          fi
