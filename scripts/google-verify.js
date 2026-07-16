@@ -116,18 +116,37 @@ async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate,
 }
 
 async function main() {
+  const startTime = Date.now();
+  const MAX_DURATION = 6 * 60 * 60 * 1000; // 6 hours in ms
+  const MIN_DURATION = 10 * 60 * 1000; // 10 minutes in ms
+
   console.log('Starting Google verification schedule matcher...');
   try {
     await fs.mkdir(TV_DATA_DIR, { recursive: true });
 
-    let trackedShows = ['Sofia the First: Royal Magic'];
+    // Discover every TV show name/title we can find across TV data files on MakeICS
+    const showSet = new Set();
+
+    // 1. Add standard default/fallback show
+    showSet.add('Sofia the First: Royal Magic');
+
+    // 2. Add show names from tracked-shows.json
+    let trackedShows = [];
     try {
       const content = await fs.readFile(TRACKED_SHOWS_FILE, 'utf8');
       trackedShows = JSON.parse(content);
     } catch (err) {
       console.warn('Tracked shows file not found or couldn\'t be read.');
     }
+    if (Array.isArray(trackedShows)) {
+      for (const show of trackedShows) {
+        if (typeof show === 'string' && show.trim()) {
+          showSet.add(show.trim());
+        }
+      }
+    }
 
+    // 3. Add show names from existing cached rotten-tomatoes.json
     let rtData = { shows: {} };
     try {
       const content = await fs.readFile(RT_DATA_FILE, 'utf8');
@@ -135,6 +154,47 @@ async function main() {
     } catch (err) {
       console.warn('Rotten Tomatoes data file not found.');
     }
+    if (rtData && rtData.shows) {
+      for (const show of Object.values(rtData.shows)) {
+        if (show && typeof show.title === 'string' && show.title.trim()) {
+          showSet.add(show.title.trim());
+        }
+      }
+    }
+
+    // 4. Scan the TV data folder for any other potential .json files containing shows
+    try {
+      const files = await fs.readdir(TV_DATA_DIR);
+      for (const file of files) {
+        if (file.endsWith('.json') && file !== 'rotten-tomatoes.json' && file !== 'tracked-shows.json' && file !== 'google-verified.json') {
+          try {
+            const filePath = path.join(TV_DATA_DIR, file);
+            const content = await fs.readFile(filePath, 'utf8');
+            const data = JSON.parse(content);
+            if (Array.isArray(data)) {
+              for (const item of data) {
+                if (typeof item === 'string' && item.trim()) {
+                  showSet.add(item.trim());
+                }
+              }
+            } else if (data && typeof data === 'object') {
+              const candidate = data.title || data.name || data.showName;
+              if (typeof candidate === 'string' && candidate.trim()) {
+                showSet.add(candidate.trim());
+              }
+            }
+          } catch (fileErr) {
+            console.warn(`Could not parse auxiliary TV show file ${file}:`, fileErr.message);
+          }
+        }
+      }
+    } catch (dirErr) {
+      console.warn('Could not read TV data directory for extra show files:', dirErr.message);
+    }
+
+    const showsToFetch = Array.from(showSet);
+    console.log(`Discovered ${showsToFetch.length} unique TV shows to process on MakeICS:`);
+    showsToFetch.forEach(s => console.log(` - Fetching Google verification for: "${s}"`));
 
     let existingVerified = {};
     try {
@@ -164,8 +224,15 @@ async function main() {
 
     const updatedVerified = { ...activeVerified };
 
-    for (const query of trackedShows) {
-      console.log(`Checking TV show: "${query}"`);
+    for (const query of showsToFetch) {
+      // Check if we are running out of time (buffer of 2 minutes to cleanly exit under 6 hours)
+      const elapsed = Date.now() - startTime;
+      if (elapsed >= (MAX_DURATION - 2 * 60 * 1000)) {
+        console.warn(`Reached maximum 6-hour time limit. Stopping further searches.`);
+        break;
+      }
+
+      console.log(`[Fetching] TV show: "${query}"`);
 
       // 1. Fetch TVMaze episodes to find mismatches
       let tvmazeShow = null;
@@ -246,6 +313,13 @@ async function main() {
 
     await fs.writeFile(OUTPUT_FILE, JSON.stringify(updatedVerified, null, 2));
     console.log(`Successfully saved Google-verified data to ${OUTPUT_FILE}`);
+
+    const totalElapsed = Date.now() - startTime;
+    if (totalElapsed < MIN_DURATION) {
+      const remaining = MIN_DURATION - totalElapsed;
+      console.log(`Script finished early in ${Math.round(totalElapsed / 1000)}s. Sleeping for ${Math.round(remaining / 1000)}s to meet minimum 10-minute duration...`);
+      await new Promise(resolve => setTimeout(resolve, remaining));
+    }
 
   } catch (error) {
     console.error('Fatal error in google-verify main:', error);
