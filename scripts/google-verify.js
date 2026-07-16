@@ -9,6 +9,19 @@ const TRACKED_SHOWS_FILE = path.join(TV_DATA_DIR, 'tracked-shows.json');
 const RT_DATA_FILE = path.join(TV_DATA_DIR, 'rotten-tomatoes.json');
 const OUTPUT_FILE = path.join(TV_DATA_DIR, 'google-verified.json');
 
+async function fetchWithTimeout(url, timeoutMs = 15000) {
+  const controller = new AbortController();
+  const id = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const response = await fetch(url, { signal: controller.signal });
+    clearTimeout(id);
+    return response;
+  } catch (err) {
+    clearTimeout(id);
+    throw err;
+  }
+}
+
 function escapeRegExp(string) {
   return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
@@ -192,6 +205,37 @@ async function main() {
       console.warn('Could not read TV data directory for extra show files:', dirErr.message);
     }
 
+    // 5. Discover US TV show names dynamically from TVMaze schedule (next 7 days)
+    console.log('Discovering TV shows from TVMaze US schedule...');
+    try {
+      for (let i = 0; i <= 7; i++) {
+        const d = new Date();
+        d.setDate(d.getDate() + i);
+        const dateStr = d.toISOString().slice(0, 10);
+        const scheduleUrl = `https://api.tvmaze.com/schedule?country=US&date=${dateStr}`;
+        try {
+          const response = await fetchWithTimeout(scheduleUrl);
+          if (response.ok) {
+            const scheduleData = await response.json();
+            if (Array.isArray(scheduleData)) {
+              for (const item of scheduleData) {
+                const name = item.show?.name;
+                if (typeof name === 'string' && name.trim()) {
+                  showSet.add(name.trim());
+                }
+              }
+            }
+          } else {
+            console.warn(`  Failed to fetch US schedule for ${dateStr}: ${response.status}`);
+          }
+        } catch (fetchErr) {
+          console.warn(`  Error fetching US schedule for ${dateStr}:`, fetchErr.message);
+        }
+      }
+    } catch (scheduleErr) {
+      console.warn('Could not discover shows from TVMaze US schedule:', scheduleErr.message);
+    }
+
     const showsToFetch = Array.from(showSet);
     console.log(`Discovered ${showsToFetch.length} unique TV shows to process on MakeICS:`);
     showsToFetch.forEach(s => console.log(` - Fetching Google verification for: "${s}"`));
@@ -239,10 +283,10 @@ async function main() {
       let tvmazeEps = [];
       try {
         const tvmazeUrl = `https://api.tvmaze.com/singlesearch/shows?q=${encodeURIComponent(query)}`;
-        const response = await fetch(tvmazeUrl);
+        const response = await fetchWithTimeout(tvmazeUrl);
         if (response.ok) {
           tvmazeShow = await response.json();
-          const epResponse = await fetch(`https://api.tvmaze.com/shows/${tvmazeShow.id}/episodes?specials=0`);
+          const epResponse = await fetchWithTimeout(`https://api.tvmaze.com/shows/${tvmazeShow.id}/episodes?specials=0`);
           if (epResponse.ok) {
             tvmazeEps = await epResponse.json();
           }

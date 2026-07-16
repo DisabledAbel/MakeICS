@@ -64,3 +64,32 @@ test('formatDateVariants returns proper objects with year markers', () => {
   // June 1 should match "June 1, 2026"
   assert.equal(matchVariant('release date is june 1, 2026', { text: 'june 1', hasYear: false }), true);
 });
+
+test('TVMaze schedule discovery parses show names correctly', () => {
+  const mockSchedule = [
+    {
+      show: { name: 'Show A' }
+    },
+    {
+      show: { name: 'Show B' }
+    },
+    {
+      show: null
+    }
+  ];
+
+  const showSet = new Set();
+  const scheduleData = mockSchedule;
+  if (Array.isArray(scheduleData)) {
+    for (const item of scheduleData) {
+      const name = item.show?.name;
+      if (typeof name === 'string' && name.trim()) {
+        showSet.add(name.trim());
+      }
+    }
+  }
+
+  assert.equal(showSet.size, 2);
+  assert.ok(showSet.has('Show A'));
+  assert.ok(showSet.has('Show B'));
+});

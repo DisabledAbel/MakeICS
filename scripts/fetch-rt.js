@@ -9,6 +9,19 @@ const TV_DATA_DIR = path.join(__dirname, '../lib/data/tv');
 const TRACKED_SHOWS_FILE = path.join(TV_DATA_DIR, 'tracked-shows.json');
 const OUTPUT_FILE = path.join(TV_DATA_DIR, 'rotten-tomatoes.json');
 
+async function fetchWithTimeout(url, timeoutMs = 15000) {
+  const controller = new AbortController();
+  const id = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const response = await fetch(url, { signal: controller.signal });
+    clearTimeout(id);
+    return response;
+  } catch (err) {
+    clearTimeout(id);
+    throw err;
+  }
+}
+
 async function main() {
   console.log('Starting Rotten Tomatoes schedule pre-cache fetcher...');
   try {
@@ -93,6 +106,37 @@ async function main() {
       console.warn('Could not read TV data directory for extra show files:', dirErr.message);
     }
 
+    // 5. Discover US TV show names dynamically from TVMaze schedule (next 7 days)
+    console.log('Discovering TV shows from TVMaze US schedule...');
+    try {
+      for (let i = 0; i <= 7; i++) {
+        const d = new Date();
+        d.setDate(d.getDate() + i);
+        const dateStr = d.toISOString().slice(0, 10);
+        const scheduleUrl = `https://api.tvmaze.com/schedule?country=US&date=${dateStr}`;
+        try {
+          const response = await fetchWithTimeout(scheduleUrl);
+          if (response.ok) {
+            const scheduleData = await response.json();
+            if (Array.isArray(scheduleData)) {
+              for (const item of scheduleData) {
+                const name = item.show?.name;
+                if (typeof name === 'string' && name.trim()) {
+                  showSet.add(name.trim());
+                }
+              }
+            }
+          } else {
+            console.warn(`  Failed to fetch US schedule for ${dateStr}: ${response.status}`);
+          }
+        } catch (fetchErr) {
+          console.warn(`  Error fetching US schedule for ${dateStr}:`, fetchErr.message);
+        }
+      }
+    } catch (scheduleErr) {
+      console.warn('Could not discover shows from TVMaze US schedule:', scheduleErr.message);
+    }
+
     const showsToFetch = Array.from(showSet);
     console.log(`Discovered ${showsToFetch.length} unique TV shows to process:`, showsToFetch);
 
@@ -105,10 +149,10 @@ async function main() {
         let seasonsToFetch = new Set([1]); // default to season 1
         try {
           const tvmazeUrl = `https://api.tvmaze.com/singlesearch/shows?q=${encodeURIComponent(query)}`;
-          const response = await fetch(tvmazeUrl);
+          const response = await fetchWithTimeout(tvmazeUrl);
           if (response.ok) {
             const show = await response.json();
-            const episodesResponse = await fetch(`https://api.tvmaze.com/shows/${show.id}/episodes?specials=0`);
+            const episodesResponse = await fetchWithTimeout(`https://api.tvmaze.com/shows/${show.id}/episodes?specials=0`);
             if (episodesResponse.ok) {
               const episodes = await episodesResponse.json();
               episodes.forEach(ep => {
