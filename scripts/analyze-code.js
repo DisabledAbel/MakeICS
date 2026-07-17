@@ -152,7 +152,7 @@ Your goal is to identify existing bugs, code errors, edge-case vulnerabilities, 
 Then, generate a comprehensive analysis report in Markdown format. The report MUST include:
 1. **Executive Summary**: A high-level overview of the health of the repository, including active test statuses.
 2. **Discovered Issues**: Grouped clearly (e.g. Critical Bugs, Logic Errors, Performance Issues, Style & Nitpicks). For each issue, specify the file name, line range (if applicable), description of the bug/nitpick, and why it is an issue.
-3. **Structured Coding Agent Prompt**: An extremely clear, detailed, and actionable instructions prompt designed to be fed into a coding agent (like an LLM coder) so it can autonomously fix every single issue you found. It should specify exact file names, expected behavior, and step-by-step guidance.
+3. **Copy-and-Paste Prompt for Coding Agent**: Provide a prominent, standalone, and extremely clear copy-and-pasteable instructions prompt designed to be fed into a coding agent (such as an LLM developer) so it can autonomously fix all the issues you discovered in the codebase. This prompt should be placed inside a clean Markdown code block (e.g., using \`\`\`gfm or similar) so the user can easily copy and paste the entire block to their coding agent. It must specify exact file names, line ranges, expected behavior, and step-by-step instructions.
 
 Here is the codebase context:
 
@@ -198,7 +198,7 @@ This is a dry-run/mock report since no \`OPENROUTER_API_KEY\` was provided or \`
 - **Example Issue**: Verify all async handlers in \`server.js\` have try-catch blocks.
 - **Style Nitpick**: Ensure trailing semicolons are consistent across files.
 
-## 3. Structured Coding Agent Prompt
+## 3. Copy-and-Paste Prompt for Coding Agent
 \`\`\`markdown
 You are a software engineer agent. Please review the codebase and implement the following fixes:
 1. In \`server.js\`, make sure all routes are protected with appropriate error handling.
