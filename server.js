@@ -23,7 +23,8 @@ async function serveStatic(req, res) {
   const relativePath = normalizedPath === '/' ? 'index.html' : normalizedPath.slice(1);
   const filePath = path.resolve(publicDir, relativePath);
 
-  if (!filePath.startsWith(publicDir)) {
+  const publicDirWithSlash = publicDir.endsWith(path.sep) ? publicDir : (publicDir + path.sep);
+  if (filePath !== publicDir && !filePath.startsWith(publicDirWithSlash)) {
     res.writeHead(403);
     res.end('Forbidden');
     return;
@@ -43,27 +44,23 @@ async function serveStatic(req, res) {
 const server = http.createServer((req, res) => {
   const url = req.url || '';
   if (url.startsWith('/api/episodes')) {
-    try {
-      episodesHandler(req, res).catch((err) => {
+    Promise.resolve()
+      .then(() => episodesHandler(req, res))
+      .catch((err) => {
         res.statusCode = 500;
+        res.setHeader('Content-Type', 'application/json; charset=utf-8');
         res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
       });
-    } catch (err) {
-      res.statusCode = 500;
-      res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
-    }
     return;
   }
   if (url.startsWith('/api/search')) {
-    try {
-      searchHandler(req, res).catch((err) => {
+    Promise.resolve()
+      .then(() => searchHandler(req, res))
+      .catch((err) => {
         res.statusCode = 500;
+        res.setHeader('Content-Type', 'application/json; charset=utf-8');
         res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
       });
-    } catch (err) {
-      res.statusCode = 500;
-      res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
-    }
     return;
   }
   if (url.startsWith('/api/sports-search')) {
