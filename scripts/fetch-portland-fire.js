@@ -9,6 +9,9 @@ const SUPPLEMENTAL_DATA_DIR = path.join(__dirname, '../lib/data/sports/supplemen
 const PORTLAND_FIRE_ID = '152565';
 const TEAM_NAME = 'Portland Fire';
 
+/**
+ * Fetches, normalizes, deduplicates, and saves the Portland Fire schedule.
+ */
 async function main() {
   console.log(`Starting fetch for ${TEAM_NAME}...`);
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });

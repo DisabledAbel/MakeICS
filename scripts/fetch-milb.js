@@ -42,6 +42,9 @@ async function fetchJson(url) {
   }
 }
 
+/**
+ * Fetches current-year MiLB schedules and saves normalized team event data.
+ */
 async function main() {
   console.log('Starting MiLB schedule fetch via MLB API...');
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });

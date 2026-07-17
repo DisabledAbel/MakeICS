@@ -162,6 +162,11 @@ async function fetchJson(url, retryCount = 0) {
   }
 }
 
+/**
+ * Fetches supplemental schedule data for a configured league and saves events to each matching team's data file.
+ * @param {Object} league - The league whose supplemental data should be fetched.
+ * @param {Array<Object>} teams - The league's teams to associate with supplemental events.
+ */
 async function fetchLeagueSupplementalCSV(league, teams) {
   const config = SUPPLEMENTAL_CONFIGS[league.id];
   if (!config) return;
@@ -411,6 +416,11 @@ async function isSupplementalStale(teamId) {
 }
 
 
+/**
+ * Fetches, processes, and stores league events and team supplemental schedules.
+ *
+ * Continues processing subsequent leagues when an individual league fails and throttles requests between leagues.
+ */
 async function main() {
   await fs.mkdir(DATA_DIR, { recursive: true });
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });

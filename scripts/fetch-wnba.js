@@ -142,6 +142,11 @@ async function fetchWNBACSV() {
   }
 }
 
+/**
+ * Fetches, normalizes, deduplicates, and saves WNBA team schedules.
+ *
+ * Retrieves schedule data, uses team websites as a fallback, and preserves existing update timestamps when rewriting supplemental files.
+ */
 async function main() {
   console.log('Starting WNBA schedule fetch...');
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });

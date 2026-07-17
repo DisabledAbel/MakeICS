@@ -128,6 +128,10 @@ async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate,
   }
 }
 
+/**
+ * Discovers upcoming TV shows, verifies mismatched episode airdates, and saves the resulting overrides.
+ * @returns {Promise<void>}
+ */
 async function main() {
   const startTime = Date.now();
   const MAX_DURATION = 6 * 60 * 60 * 1000; // 6 hours in ms

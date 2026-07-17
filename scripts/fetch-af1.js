@@ -110,6 +110,11 @@ function parseDate(dateStr, timeStr) {
   return date;
 }
 
+/**
+ * Fetches AF1 schedule data and saves team event files.
+ *
+ * Invalid games and unresolved teams are skipped. Existing update timestamps are preserved when available.
+ */
 async function main() {
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });
 
