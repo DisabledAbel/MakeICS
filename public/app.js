@@ -33,6 +33,11 @@ tabs.forEach(tab => {
     tab.classList.add('active');
     currentCategory = tab.dataset.category;
 
+    if (suggestionAbortController) {
+      suggestionAbortController.abort();
+    }
+    suggestionAbortController = null;
+
     categoryFields.forEach(field => {
       field.classList.remove('active');
       const input = field.querySelector('input');
@@ -225,7 +230,9 @@ function safeHttpUrl(url) {
  * @returns {string}
  */
 function formatAirDate(dateStr, timeStr, timestamp, includeZones = false, timezone = 'UTC') {
-  const date = timestamp ? new Date(timestamp + (!timestamp.includes('Z') && !/[-+]\d{2}:?\d{2}$/.test(timestamp) ? 'Z' : '')) : new Date(`${dateStr}T${timeStr || '00:00:00'}Z`);
+  const date = timestamp
+    ? new Date(timestamp + (!timestamp.includes('Z') && !/[-+]\d{2}:?\d{2}$/.test(timestamp) ? 'Z' : ''))
+    : new Date(`${dateStr}T${timeStr || '00:00:00'}Z`);
 
   if (Number.isNaN(date.getTime())) {
     return dateStr || 'Date TBD';
