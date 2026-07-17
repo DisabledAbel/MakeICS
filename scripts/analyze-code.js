@@ -20,6 +20,12 @@ const TARGET_DIRS = [
 
 const IGNORED_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.gif', '.ico', '.json', '.zip', '.map'];
 
+/**
+ * Executes a shell command from the project root.
+ * @param {string} command - The command to execute.
+ * @param {Object} [env={}] - Environment variables to add or override.
+ * @return {{success: boolean, output: string, error?: string}} The command result, including captured output and any error message.
+ */
 async function runCommand(command, env = {}) {
   try {
     const output = execSync(command, {
@@ -38,6 +44,12 @@ async function runCommand(command, env = {}) {
   }
 }
 
+/**
+ * Recursively collects source file paths from a directory.
+ * @param {string} dir - The directory path relative to the project root.
+ * @param {string[]} [fileList=[]] - The array to which discovered file paths are appended.
+ * @return {Promise<string[]>} The accumulated source file paths.
+ */
 async function findSourceFiles(dir, fileList = []) {
   try {
     const entries = await fs.readdir(path.join(ROOT_DIR, dir), { withFileTypes: true });
@@ -58,6 +70,10 @@ async function findSourceFiles(dir, fileList = []) {
   return fileList;
 }
 
+/**
+ * Retrieves open GitHub issue context using the GitHub CLI.
+ * @returns {string} The issue data returned by GitHub CLI, or a message indicating that issue context is unavailable.
+ */
 async function getGitHubContext() {
   console.log('Gathering GitHub CLI context...');
   let issues = 'Not Available (GH CLI not authenticated or not installed)';
@@ -86,6 +102,9 @@ async function getGitHubContext() {
   return issues;
 }
 
+/**
+ * Runs the codebase tests and analysis workflow, then writes a mock or OpenRouter-generated report.
+ */
 async function main() {
   console.log('=== Starting Codebase Scan and AI Analysis ===');
 
