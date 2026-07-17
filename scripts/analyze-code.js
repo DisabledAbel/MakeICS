@@ -23,8 +23,8 @@ const IGNORED_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.gif', '.ico', '.json', '.
 /**
  * Executes a shell command from the project root.
  * @param {string} command - The command to execute.
- * @param {Object} [env={}] - Environment variables to override or add.
- * @return {{success: boolean, output: string, error?: string}} The command result and captured output or error.
+ * @param {Object} [env={}] - Environment variables to add or override.
+ * @return {{success: boolean, output: string, error?: string}} The command result, including captured output and any error message.
  */
 async function runCommand(command, env = {}) {
   try {
@@ -45,9 +45,9 @@ async function runCommand(command, env = {}) {
 }
 
 /**
- * Recursively discovers source files in a directory.
+ * Recursively collects source file paths from a directory.
  * @param {string} dir - The directory path relative to the project root.
- * @param {string[]} [fileList=[]] - The list to which discovered file paths are appended.
+ * @param {string[]} [fileList=[]] - The array to which discovered file paths are appended.
  * @return {Promise<string[]>} The accumulated source file paths.
  */
 async function findSourceFiles(dir, fileList = []) {
