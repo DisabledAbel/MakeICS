@@ -295,20 +295,20 @@
       ],
       "people": [
         {
+          "id": "nm6346805",
+          "name": "Travis Scott"
+        },
+        {
           "id": "nm0000354",
           "name": "Matt Damon"
         },
         {
-          "id": "nm4043618",
-          "name": "Tom Holland"
-        },
-        {
-          "id": "nm0004266",
-          "name": "Anne Hathaway"
-        },
-        {
           "id": "nm1500155",
           "name": "Robert Pattinson"
+        },
+        {
+          "id": "nm3659660",
+          "name": "Corey Hawkins"
         }
       ],
       "label": "Jul 17, 2026"
@@ -507,7 +507,7 @@
     {
       "id": "tt36629665",
       "title": "Her Private Hell",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDZmZTZlZDAtN2JlYy00NzBlLTgxYWYtZjQyOGVhYjBjY2IyXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2NlMzRhNWItYzQ4MC00MDIwLWJlNDctMWUzNzYwYzgwZWJhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 24 Jul 2026 00:00:00 GMT",
       "genres": [
         "Crime",
@@ -1871,7 +1871,7 @@
     {
       "id": "tt37281055",
       "title": "Buddy",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWQ5ZWQzZWQtMzViMS00NmJjLWIwNWYtM2VhNDU5MTY0YjNhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
       "genres": [
         "Horror",
@@ -3392,8 +3392,8 @@
       "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
-        "Fantasy",
-        "Romance"
+        "Drama",
+        "Fantasy"
       ],
       "people": [
         {
@@ -3977,7 +3977,7 @@
     {
       "id": "tt17055444",
       "title": "Hershey",
-      "image": "https://m.media-amazon.com/images/M/MV5BZjNlOGQ4NmEtNjRjNi00OWY3LWFhMDktMmRhMjExN2U3Mjc0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDAxNTNkYjUtYTgxYy00ODMxLWFlNTEtMzcxYjU2ZWIzODk5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
       "genres": [
         "Biography",
