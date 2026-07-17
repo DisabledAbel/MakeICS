@@ -108,10 +108,17 @@ async function main() {
           const normalizedEvents = teamGames.map(g => normalizeScrapedEvent(g, team.strTeam));
 
           const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
+          let existingUpdatedAt = null;
+          try {
+            const content = await fs.readFile(filePath, 'utf8');
+            const existingData = JSON.parse(content);
+            existingUpdatedAt = existingData.updatedAt;
+          } catch (e) {}
+
           await fs.writeFile(filePath, JSON.stringify({
             teamId: team.idTeam,
             teamName: team.strTeam,
-            updatedAt: new Date().toISOString(),
+            updatedAt: existingUpdatedAt || new Date().toISOString(),
             events: normalizedEvents
           }, null, 2));
           console.log(`    Saved ${normalizedEvents.length} events to ${filePath}`);

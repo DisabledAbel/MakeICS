@@ -346,10 +346,11 @@ async function main() {
           );
 
           const overrideKey = `${tvmazeShow.name}-${tvEp.season}-${tvEp.number}`;
+          const existingOverride = existingVerified[overrideKey];
           updatedVerified[overrideKey] = {
             airdate: verifiedDate,
             name: rtEp.name || tvEp.name,
-            verifiedAt: new Date().toISOString()
+            verifiedAt: (existingOverride && existingOverride.verifiedAt) ? existingOverride.verifiedAt : new Date().toISOString()
           };
         }
       }
