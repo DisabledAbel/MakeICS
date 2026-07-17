@@ -42,6 +42,9 @@ async function fetchJson(url) {
   }
 }
 
+/**
+ * Fetches MiLB schedules, matches games to teams, and writes normalized event data to supplemental JSON files.
+ */
 async function main() {
   console.log('Starting MiLB schedule fetch via MLB API...');
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });

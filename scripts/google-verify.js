@@ -128,6 +128,12 @@ async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate,
   }
 }
 
+/**
+ * Discovers upcoming TV episodes, verifies airdate mismatches, and saves the resulting overrides.
+ *
+ * Collects shows from local data and the TVMaze US schedule, compares TVMaze and Rotten Tomatoes
+ * episode airdates, verifies mismatches using Google, and preserves active verification metadata.
+ */
 async function main() {
   const startTime = Date.now();
   const MAX_DURATION = 6 * 60 * 60 * 1000; // 6 hours in ms

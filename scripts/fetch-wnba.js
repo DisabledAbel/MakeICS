@@ -142,6 +142,9 @@ async function fetchWNBACSV() {
   }
 }
 
+/**
+ * Fetches WNBA schedules, generates normalized per-team event files, and cleans up browser resources.
+ */
 async function main() {
   console.log('Starting WNBA schedule fetch...');
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });

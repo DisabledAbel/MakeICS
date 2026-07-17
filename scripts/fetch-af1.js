@@ -110,6 +110,9 @@ function parseDate(dateStr, timeStr) {
   return date;
 }
 
+/**
+ * Scrapes the Arena Football One schedule and writes events to per-team supplemental files.
+ */
 async function main() {
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });
 

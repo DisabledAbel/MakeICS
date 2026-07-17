@@ -162,6 +162,11 @@ async function fetchJson(url, retryCount = 0) {
   }
 }
 
+/**
+ * Fetch and save supplemental schedule events for a league's teams from a configured CSV source.
+ * @param {Object} league - The league whose supplemental schedule should be fetched.
+ * @param {Array<Object>} teams - The teams for which supplemental event files are saved.
+ */
 async function fetchLeagueSupplementalCSV(league, teams) {
   const config = SUPPLEMENTAL_CONFIGS[league.id];
   if (!config) return;
@@ -411,6 +416,11 @@ async function isSupplementalStale(teamId) {
 }
 
 
+/**
+ * Fetches and stores legacy league events and supplemental team schedules for all configured leagues.
+ *
+ * Existing `updatedAt` timestamps are preserved when rewriting data files. Supplemental scraping is performed only when `FIRECRAWL_API_KEY` is configured.
+ */
 async function main() {
   await fs.mkdir(DATA_DIR, { recursive: true });
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });
