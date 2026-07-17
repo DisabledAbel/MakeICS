@@ -6,7 +6,7 @@ import episodesHandler from './api/episodes.js';
 import searchHandler from './api/search.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const publicDir = path.join(__dirname, 'public');
+const publicDir = path.resolve(__dirname, 'public');
 const port = Number.parseInt(process.env.PORT || '3000', 10);
 
 const contentTypes = {
@@ -21,7 +21,7 @@ async function serveStatic(req, res) {
   const requestUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
   const normalizedPath = path.normalize(decodeURIComponent(requestUrl.pathname)).replace(/^\.\.(\/|\\|$)/, '');
   const relativePath = normalizedPath === '/' ? 'index.html' : normalizedPath.slice(1);
-  const filePath = path.join(publicDir, relativePath);
+  const filePath = path.resolve(publicDir, relativePath);
 
   if (!filePath.startsWith(publicDir)) {
     res.writeHead(403);
@@ -43,19 +43,45 @@ async function serveStatic(req, res) {
 const server = http.createServer((req, res) => {
   const url = req.url || '';
   if (url.startsWith('/api/episodes')) {
-    episodesHandler(req, res);
+    try {
+      episodesHandler(req, res).catch((err) => {
+        res.statusCode = 500;
+        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
+      });
+    } catch (err) {
+      res.statusCode = 500;
+      res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
+    }
     return;
   }
   if (url.startsWith('/api/search')) {
-    searchHandler(req, res);
+    try {
+      searchHandler(req, res).catch((err) => {
+        res.statusCode = 500;
+        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
+      });
+    } catch (err) {
+      res.statusCode = 500;
+      res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
+    }
     return;
   }
   if (url.startsWith('/api/sports-search')) {
-    import('./api/sports-search.js').then((m) => m.default(req, res));
+    import('./api/sports-search.js')
+      .then((m) => m.default(req, res))
+      .catch((err) => {
+        res.statusCode = 500;
+        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
+      });
     return;
   }
   if (url.startsWith('/api/sports-events')) {
-    import('./api/sports-events.js').then((m) => m.default(req, res));
+    import('./api/sports-events.js')
+      .then((m) => m.default(req, res))
+      .catch((err) => {
+        res.statusCode = 500;
+        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
+      });
     return;
   }
   if (url.startsWith('/api/movies-search')) {
