@@ -97,10 +97,10 @@ This is a dry-run/mock report since no \`OPENROUTER_API_KEY\` was provided or \`
 - **Style Nitpick**: Ensure trailing semicolons are consistent across files.
 
 ## 3. Structured Coding Agent Prompt
-\`\`\`markdown
-You are a software engineer agent. Please review the codebase and implement the following fixes:
-1. In \`server.js\`, make sure all routes are protected with appropriate error handling.
-2. Check that all test files pass successfully.
+\`\`\`bash
+# You are a software engineer agent. Please review the codebase and implement the following fixes:
+# 1. In server.js, make sure all routes are protected with appropriate error handling.
+# 2. Check that all test files pass successfully.
 \`\`\`
 `;
 }
