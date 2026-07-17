@@ -40,10 +40,17 @@ async function main() {
     }
 
     const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${PORTLAND_FIRE_ID}.json`);
+    let existingUpdatedAt = null;
+    try {
+      const content = await fs.readFile(filePath, 'utf8');
+      const existingData = JSON.parse(content);
+      existingUpdatedAt = existingData.updatedAt;
+    } catch (e) {}
+
     await fs.writeFile(filePath, JSON.stringify({
       teamId: PORTLAND_FIRE_ID,
       teamName: TEAM_NAME,
-      updatedAt: new Date().toISOString(),
+      updatedAt: existingUpdatedAt || new Date().toISOString(),
       events: uniqueEvents
     }, null, 2));
 

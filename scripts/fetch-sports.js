@@ -311,10 +311,17 @@ async function fetchLeagueSupplementalCSV(league, teams) {
 
       if (teamEvents) {
         const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
+        let existingUpdatedAt = null;
+        try {
+          const content = await fs.readFile(filePath, 'utf8');
+          const existingData = JSON.parse(content);
+          existingUpdatedAt = existingData.updatedAt;
+        } catch (e) {}
+
         await fs.writeFile(filePath, JSON.stringify({
           teamId: team.idTeam,
           teamName: team.strTeam,
-          updatedAt: new Date().toISOString(),
+          updatedAt: existingUpdatedAt || new Date().toISOString(),
           events: teamEvents
         }, null, 2));
         console.log(`    Saved ${teamEvents.length} supplemental events for ${team.strTeam} (${team.idTeam})`);
@@ -414,10 +421,17 @@ async function main() {
       const events = await fetchLeagueEvents(league.id);
       if (events.length > 0) {
         const filePath = path.join(DATA_DIR, `${league.id}.json`);
+        let existingUpdatedAt = null;
+        try {
+          const content = await fs.readFile(filePath, 'utf8');
+          const existingData = JSON.parse(content);
+          existingUpdatedAt = existingData.updatedAt;
+        } catch (e) {}
+
         await fs.writeFile(filePath, JSON.stringify({
           leagueId: league.id,
           leagueName: league.name,
-          updatedAt: new Date().toISOString(),
+          updatedAt: existingUpdatedAt || new Date().toISOString(),
           events
         }, null, 2));
         console.log(`Saved ${events.length} events for ${league.name} to ${filePath}`);
@@ -483,10 +497,17 @@ async function main() {
           const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
           const normalizedEvents = allScrapedGames.map(g => normalizeScrapedEvent(g, team.strTeam));
 
+          let existingUpdatedAt = null;
+          try {
+            const content = await fs.readFile(filePath, 'utf8');
+            const existingData = JSON.parse(content);
+            existingUpdatedAt = existingData.updatedAt;
+          } catch (e) {}
+
           await fs.writeFile(filePath, JSON.stringify({
             teamId: team.idTeam,
             teamName: team.strTeam,
-            updatedAt: new Date().toISOString(),
+            updatedAt: existingUpdatedAt || new Date().toISOString(),
             events: normalizedEvents
           }, null, 2));
 

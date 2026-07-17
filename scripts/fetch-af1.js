@@ -166,10 +166,17 @@ async function main() {
 
       const teamName = AF1_TEAM_CANONICAL_NAMES[teamId] || teamId;
 
+      let existingUpdatedAt = null;
+      try {
+        const content = await fs.readFile(filePath, 'utf8');
+        const existingData = JSON.parse(content);
+        existingUpdatedAt = existingData.updatedAt;
+      } catch (e) {}
+
       await fs.writeFile(filePath, JSON.stringify({
         teamId,
         teamName,
-        updatedAt: new Date().toISOString(),
+        updatedAt: existingUpdatedAt || new Date().toISOString(),
         events: events.sort((a, b) => new Date(a.strTimestamp) - new Date(b.strTimestamp))
       }, null, 2));
 
