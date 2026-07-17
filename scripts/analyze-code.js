@@ -72,8 +72,9 @@ async function getGitHubContext() {
   } catch (e) {
     // If gh auth or gh command failed, we fall back to a search or silent ignore
     try {
+      const repo = process.env.GITHUB_REPOSITORY || 'DisabledAbel/MakeICS';
       // Try searching issues if repository has public visibility or token is passed
-      const searchOutput = execSync('gh search issues --repo DisabledAbel/MakeICS --state open --limit 10 --json number,title,body', {
+      const searchOutput = execSync(`gh search issues --repo ${repo} --state open --limit 10 --json number,title,body`, {
         cwd: ROOT_DIR,
         encoding: 'utf8'
       });
@@ -138,12 +139,12 @@ Here is the codebase context:
 
 ### JS Unit Test Output (Success: ${jsTestResult.success})
 \`\`\`
-${jsTestResult.output || jsTestResult.error || 'No JS test output'}
+${[jsTestResult.output, jsTestResult.error].filter(Boolean).join('\n') || 'No JS test output'}
 \`\`\`
 
 ### Python Unit Test Output (Success: ${pyTestResult.success})
 \`\`\`
-${pyTestResult.output || pyTestResult.error || 'No Python test output'}
+${[pyTestResult.output, pyTestResult.error].filter(Boolean).join('\n') || 'No Python test output'}
 \`\`\`
 
 ### GitHub CLI Issues Context
