@@ -1390,6 +1390,20 @@
       "source": "scraped"
     },
     {
+      "idEvent": "scraped-816784",
+      "strEvent": "Columbus Clippers vs Indianapolis Indians",
+      "strHomeTeam": "Columbus Clippers",
+      "strAwayTeam": "Indianapolis Indians",
+      "dateEvent": "2026-07-17",
+      "strTime": "21:30:00",
+      "strTimestamp": "2026-07-18T21:30:00Z",
+      "strLeague": "International League",
+      "strVenue": "Huntington Park",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
       "idEvent": "scraped-816782",
       "strEvent": "Columbus Clippers vs Indianapolis Indians",
       "strHomeTeam": "Columbus Clippers",
