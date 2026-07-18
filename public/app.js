@@ -83,7 +83,8 @@ function suggestionMeta(suggestion, type) {
   } else if (type === 'sports') {
     return [suggestion.sport, suggestion.league, suggestion.country].filter(Boolean).join(' · ');
   } else if (type === 'movies') {
-    return [suggestion.releaseDate, suggestion.category].filter(Boolean).join(' · ');
+    const display = [suggestion?.releaseDate, suggestion?.category].filter(Boolean).join(' · ');
+    return display;
   }
   return '';
 }
@@ -183,25 +184,32 @@ async function fetchSuggestions(query, type) {
   suggestionAbortController?.abort();
   suggestionAbortController = new AbortController();
 
-  let endpoint = '';
-  if (type === 'tv') endpoint = '/api/search';
-  else if (type === 'sports') endpoint = '/api/sports-search';
-  else if (type === 'movies') {
-    const movieType = movieTypeInput.value;
-    endpoint = `/api/movies-search?type=${encodeURIComponent(movieType)}`;
+  try {
+    let endpoint = '';
+    if (type === 'tv') endpoint = '/api/search';
+    else if (type === 'sports') endpoint = '/api/sports-search';
+    else if (type === 'movies') {
+      const movieType = movieTypeInput.value;
+      endpoint = `/api/movies-search?type=${encodeURIComponent(movieType)}`;
+    }
+
+    const separator = endpoint.includes('?') ? '&' : '?';
+    const response = await fetch(`${endpoint}${separator}q=${encodeURIComponent(query)}`, {
+      signal: suggestionAbortController.signal
+    });
+    const payload = await response.json();
+
+    if (!response.ok) {
+      throw new Error(payload.error || `Unable to load ${type} suggestions.`);
+    }
+
+    renderSuggestions(payload.suggestions || [], type);
+  } catch (error) {
+    if (error.name !== 'AbortError') {
+      console.error('Failed to fetch suggestions:', error);
+      hideSuggestions();
+    }
   }
-
-  const separator = endpoint.includes('?') ? '&' : '?';
-  const response = await fetch(`${endpoint}${separator}q=${encodeURIComponent(query)}`, {
-    signal: suggestionAbortController.signal
-  });
-  const payload = await response.json();
-
-  if (!response.ok) {
-    throw new Error(payload.error || `Unable to load ${type} suggestions.`);
-  }
-
-  renderSuggestions(payload.suggestions || [], type);
 }
 
 // --- UI Helpers ---
@@ -644,12 +652,12 @@ function renderList(items, type, context, timezone = 'UTC') {
 
 // --- Event Listeners ---
 
-[showInput, sportsInput, moviesInput].forEach(input => {
-  input.addEventListener('input', () => {
-    const query = input.value.trim();
+[showInput, sportsInput, moviesInput].forEach(inputEl => {
+  inputEl.addEventListener('input', () => {
+    const query = inputEl.value.trim();
     window.clearTimeout(suggestionDebounce);
 
-    if (input === sportsInput) {
+    if (inputEl === sportsInput) {
       delete sportsInput.dataset.teamId;
     }
 
@@ -670,7 +678,7 @@ function renderList(items, type, context, timezone = 'UTC') {
     }, 250);
   });
 
-  input.addEventListener('keydown', (event) => {
+  inputEl.addEventListener('keydown', (event) => {
     let el;
     if (currentCategory === 'tv') el = suggestionsEl;
     else if (currentCategory === 'sports') el = sportsSuggestionsEl;

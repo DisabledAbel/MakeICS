@@ -4,6 +4,10 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import episodesHandler from './api/episodes.js';
 import searchHandler from './api/search.js';
+import sportsSearchHandler from './api/sports-search.js';
+import sportsEventsHandler from './api/sports-events.js';
+import moviesSearchHandler from './api/movies-search.js';
+import moviesHandler from './api/movies.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const publicDir = path.resolve(__dirname, 'public');
@@ -64,37 +68,41 @@ const server = http.createServer((req, res) => {
     return;
   }
   if (url.startsWith('/api/sports-search')) {
-    import('./api/sports-search.js')
-      .then((m) => m.default(req, res))
+    Promise.resolve()
+      .then(() => sportsSearchHandler(req, res))
       .catch((err) => {
         res.statusCode = 500;
+        res.setHeader('Content-Type', 'application/json; charset=utf-8');
         res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
       });
     return;
   }
   if (url.startsWith('/api/sports-events')) {
-    import('./api/sports-events.js')
-      .then((m) => m.default(req, res))
+    Promise.resolve()
+      .then(() => sportsEventsHandler(req, res))
       .catch((err) => {
         res.statusCode = 500;
+        res.setHeader('Content-Type', 'application/json; charset=utf-8');
         res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
       });
     return;
   }
   if (url.startsWith('/api/movies-search')) {
-    import('./api/movies-search.js')
-      .then((m) => m.default(req, res))
+    Promise.resolve()
+      .then(() => moviesSearchHandler(req, res))
       .catch((err) => {
         res.statusCode = 500;
+        res.setHeader('Content-Type', 'application/json; charset=utf-8');
         res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
       });
     return;
   }
   if (url.startsWith('/api/movies')) {
-    import('./api/movies.js')
-      .then((m) => m.default(req, res))
+    Promise.resolve()
+      .then(() => moviesHandler(req, res))
       .catch((err) => {
         res.statusCode = 500;
+        res.setHeader('Content-Type', 'application/json; charset=utf-8');
         res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
       });
     return;
@@ -104,4 +112,12 @@ const server = http.createServer((req, res) => {
 
 server.listen(port, () => {
   console.log(`MakeICS TV Episodes running at http://localhost:${port}`);
+});
+
+process.on('unhandledRejection', (reason, promise) => {
+  console.error('Unhandled Rejection at:', promise, 'reason:', reason);
+});
+
+process.on('uncaughtException', (err) => {
+  console.error('Uncaught Exception thrown:', err);
 });

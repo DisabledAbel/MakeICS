@@ -22,8 +22,13 @@ class MockClock:
             return val
         return self.times[-1]
 
-import clear_repo_url
-from clear_repo_url import get_github_headers, is_another_workflow_waiting
+try:
+    import playwright
+    import clear_repo_url
+    from clear_repo_url import get_github_headers, is_another_workflow_waiting
+    PLAYWRIGHT_AVAILABLE = True
+except (ImportError, ModuleNotFoundError):
+    PLAYWRIGHT_AVAILABLE = False
 
 def _make_response(body: dict, status: int = 200):
     mock_resp = MagicMock()
@@ -41,6 +46,7 @@ def _env():
         "GITHUB_WORKFLOW": "Clear Repo URL"
     }
 
+@unittest.skipUnless(PLAYWRIGHT_AVAILABLE, "Playwright is not installed in the Python environment")
 class TestClearHomepage(unittest.TestCase):
     @patch("clear_repo_url.sync_playwright")
     @patch("urllib.request.urlopen")
