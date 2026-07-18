@@ -1,24 +1,10 @@
 {
   "teamId": "134926",
   "teamName": "Houston Texans",
-  "updatedAt": "2026-07-18T06:13:33.263Z",
+  "updatedAt": "2026-07-18T16:31:49.704Z",
   "generatedAt": "2026-07-18T06:13:33.263Z",
   "generateAt": "2026-07-18T06:13:33.263Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-10401540-f97c-2d19-6fcd-fac6490a48b7",
-      "strEvent": "Houston Texans vs Buffalo Bills",
-      "strHomeTeam": "Houston Texans",
-      "strAwayTeam": "Buffalo Bills",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Reliant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-a8fc1393-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Houston Texans vs Buffalo Bills",
@@ -27,20 +13,6 @@
       "dateEvent": "2026-09-13",
       "strTime": "17:00:00Z",
       "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Reliant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400810-db30-43d6-221c-620006f3ca19",
-      "strEvent": "Houston Texans vs Cincinnati Bengals",
-      "strHomeTeam": "Houston Texans",
-      "strAwayTeam": "Cincinnati Bengals",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Reliant Stadium",
       "strTVStation": null,
@@ -62,20 +34,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10401540-f97c-2d19-6fcd-fac6490a48b7",
-      "strEvent": "Indianapolis Colts vs Houston Texans",
-      "strHomeTeam": "Indianapolis Colts",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lucas Oil Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa04aa26-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Indianapolis Colts vs Houston Texans",
       "strHomeTeam": "Indianapolis Colts",
@@ -85,20 +43,6 @@
       "strTimestamp": "2026-09-27T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Lucas Oil Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400920-57c1-7656-e77e-1af3d900483e",
-      "strEvent": "Houston Texans vs Dallas Cowboys",
-      "strHomeTeam": "Houston Texans",
-      "strAwayTeam": "Dallas Cowboys",
-      "dateEvent": "2026-10-04",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-04T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Reliant Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -118,20 +62,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403900-8251-6892-d81c-4348525c2d47",
-      "strEvent": "Tennessee Titans vs Houston Texans",
-      "strHomeTeam": "Tennessee Titans",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-10-11",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-11T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Nissan Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa94b527-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Tennessee Titans vs Houston Texans",
       "strHomeTeam": "Tennessee Titans",
@@ -141,20 +71,6 @@
       "strTimestamp": "2026-10-11T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Nissan Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401400-b89b-96e5-55d1-caa7e18de3d8",
-      "strEvent": "Jacksonville Jaguars vs Houston Texans",
-      "strHomeTeam": "Jacksonville Jaguars",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-10-18",
-      "strTime": "13:30:00Z",
-      "strTimestamp": "2026-10-18T13:30:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Wembley Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -174,20 +90,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10400750-259b-33ac-eee3-a3852e83cd1f",
-      "strEvent": "Houston Texans vs New York Giants",
-      "strHomeTeam": "Houston Texans",
-      "strAwayTeam": "New York Giants",
-      "dateEvent": "2026-10-25",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-25T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Reliant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aad59e95-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Houston Texans vs New York Giants",
       "strHomeTeam": "Houston Texans",
@@ -197,20 +99,6 @@
       "strTimestamp": "2026-10-25T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Reliant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10405110-ec3c-669e-2614-db3dc1736e95",
-      "strEvent": "Los Angeles Chargers vs Houston Texans",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-11-08",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-11-08T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -230,20 +118,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10400200-f401-4e53-5175-0974e4f16cf7",
-      "strEvent": "Cleveland Browns vs Houston Texans",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-11-15",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-15T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab583279-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cleveland Browns vs Houston Texans",
       "strHomeTeam": "Cleveland Browns",
@@ -258,34 +132,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403800-517c-7b8c-65a3-c61b95d86123",
-      "strEvent": "Houston Texans vs Indianapolis Colts",
-      "strHomeTeam": "Houston Texans",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-11-20T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401200-a308-98ca-ad5f-95df2fefea68",
-      "strEvent": "Houston Texans vs Indianapolis Colts",
-      "strHomeTeam": "Houston Texans",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-11-20T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab997d97-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Houston Texans vs Indianapolis Colts",
       "strHomeTeam": "Houston Texans",
@@ -293,20 +139,6 @@
       "dateEvent": "2026-11-20",
       "strTime": "01:15:00Z",
       "strTimestamp": "2026-11-20T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Reliant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401050-5e38-b907-1be1-55b91b19c057",
-      "strEvent": "Houston Texans vs Baltimore Ravens",
-      "strHomeTeam": "Houston Texans",
-      "strAwayTeam": "Baltimore Ravens",
-      "dateEvent": "2026-11-29",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-29T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Reliant Stadium",
       "strTVStation": null,
@@ -328,20 +160,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403200-69ab-9ea6-5af5-e240fbc08bea",
-      "strEvent": "Pittsburgh Steelers vs Houston Texans",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-12-07",
-      "strTime": "01:20:00Z",
-      "strTimestamp": "2026-12-07T01:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac207ad3-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Pittsburgh Steelers vs Houston Texans",
       "strHomeTeam": "Pittsburgh Steelers",
@@ -351,20 +169,6 @@
       "strTimestamp": "2026-12-07T01:20:00Z",
       "strLeague": "NFL",
       "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403700-b939-3cbd-3d16-24d4d6742fa2",
-      "strEvent": "Washington Commanders vs Houston Texans",
-      "strHomeTeam": "Washington Commanders",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-12-13",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-13T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Northwest Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -384,20 +188,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10401800-ab22-323d-721a-cee4713c4c2d",
-      "strEvent": "Houston Texans vs Jacksonville Jaguars",
-      "strHomeTeam": "Houston Texans",
-      "strAwayTeam": "Jacksonville Jaguars",
-      "dateEvent": "2026-12-20",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-20T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Reliant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac604e37-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Houston Texans vs Jacksonville Jaguars",
       "strHomeTeam": "Houston Texans",
@@ -412,34 +202,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403800-517c-7b8c-65a3-c61b95d86123",
-      "strEvent": "Philadelphia Eagles vs Houston Texans",
-      "strHomeTeam": "Philadelphia Eagles",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-12-25T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401200-a308-98ca-ad5f-95df2fefea68",
-      "strEvent": "Philadelphia Eagles vs Houston Texans",
-      "strHomeTeam": "Philadelphia Eagles",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-12-25T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac7f6e6e-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Philadelphia Eagles vs Houston Texans",
       "strHomeTeam": "Philadelphia Eagles",
@@ -449,20 +211,6 @@
       "strTimestamp": "2026-12-25T01:15:00Z",
       "strLeague": "NFL",
       "strVenue": "Lincoln Financial Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10404500-e7cb-7fce-3f10-4eeb269bd179",
-      "strEvent": "Green Bay Packers vs Houston Texans",
-      "strHomeTeam": "Green Bay Packers",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2027-01-05",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2027-01-05T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lambeau Field",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

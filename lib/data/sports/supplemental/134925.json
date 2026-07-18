@@ -1,24 +1,10 @@
 {
   "teamId": "134925",
   "teamName": "Pittsburgh Steelers",
-  "updatedAt": "2026-07-18T06:13:33.261Z",
+  "updatedAt": "2026-07-18T16:31:49.702Z",
   "generatedAt": "2026-07-18T06:13:33.261Z",
   "generateAt": "2026-07-18T06:13:33.261Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-10402250-89fe-7b86-ef98-9062cd354256",
-      "strEvent": "Pittsburgh Steelers vs Atlanta Falcons",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-a8fc1864-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Pittsburgh Steelers vs Atlanta Falcons",
@@ -29,20 +15,6 @@
       "strTimestamp": "2026-09-13T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402120-b0bc-693d-098a-803014096eb0",
-      "strEvent": "New England Patriots vs Pittsburgh Steelers",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Gillette Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -62,20 +34,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403410-997c-9c75-256b-3b012f468bd0",
-      "strEvent": "Pittsburgh Steelers vs Cincinnati Bengals",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Cincinnati Bengals",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa29b6b0-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Pittsburgh Steelers vs Cincinnati Bengals",
       "strHomeTeam": "Pittsburgh Steelers",
@@ -85,34 +43,6 @@
       "strTimestamp": "2026-09-27T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403800-517c-7b8c-65a3-c61b95d86123",
-      "strEvent": "Cleveland Browns vs Pittsburgh Steelers",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-02T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401200-a308-98ca-ad5f-95df2fefea68",
-      "strEvent": "Cleveland Browns vs Pittsburgh Steelers",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-02T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -132,20 +62,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403430-1bc3-42c4-c7d8-39f38aed5f12",
-      "strEvent": "Pittsburgh Steelers vs Indianapolis Colts",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-10-11",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-11T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa94ac06-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Pittsburgh Steelers vs Indianapolis Colts",
       "strHomeTeam": "Pittsburgh Steelers",
@@ -155,20 +71,6 @@
       "strTimestamp": "2026-10-11T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403700-b939-3cbd-3d16-24d4d6742fa2",
-      "strEvent": "Tampa Bay Buccaneers vs Pittsburgh Steelers",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-10-18",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-18T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -188,20 +90,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10400810-db30-43d6-221c-620006f3ca19",
-      "strEvent": "New Orleans Saints vs Pittsburgh Steelers",
-      "strHomeTeam": "New Orleans Saints",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-10-25",
-      "strTime": "13:30:00Z",
-      "strTimestamp": "2026-10-25T13:30:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Stade de France",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aad58d7d-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New Orleans Saints vs Pittsburgh Steelers",
       "strHomeTeam": "New Orleans Saints",
@@ -211,20 +99,6 @@
       "strTimestamp": "2026-10-25T13:30:00Z",
       "strLeague": "NFL",
       "strVenue": "Stade de France",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403430-1bc3-42c4-c7d8-39f38aed5f12",
-      "strEvent": "Pittsburgh Steelers vs Cleveland Browns",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-11-01",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-01T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -258,20 +132,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10401400-b89b-96e5-55d1-caa7e18de3d8",
-      "strEvent": "Philadelphia Eagles vs Pittsburgh Steelers",
-      "strHomeTeam": "Philadelphia Eagles",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-11-22",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-11-22T21:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lincoln Financial Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-abbf1908-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Philadelphia Eagles vs Pittsburgh Steelers",
       "strHomeTeam": "Philadelphia Eagles",
@@ -281,20 +141,6 @@
       "strTimestamp": "2026-11-22T21:25:00Z",
       "strLeague": "NFL",
       "strVenue": "Lincoln Financial Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400610-c40e-a673-1743-2ce2a5d5d731",
-      "strEvent": "Pittsburgh Steelers vs Denver Broncos",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Denver Broncos",
-      "dateEvent": "2026-11-27",
-      "strTime": "20:00:00Z",
-      "strTimestamp": "2026-11-27T20:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -314,20 +160,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403200-69ab-9ea6-5af5-e240fbc08bea",
-      "strEvent": "Pittsburgh Steelers vs Houston Texans",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-12-07",
-      "strTime": "01:20:00Z",
-      "strTimestamp": "2026-12-07T01:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac207ad3-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Pittsburgh Steelers vs Houston Texans",
       "strHomeTeam": "Pittsburgh Steelers",
@@ -337,20 +169,6 @@
       "strTimestamp": "2026-12-07T01:20:00Z",
       "strLeague": "NFL",
       "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401800-ab22-323d-721a-cee4713c4c2d",
-      "strEvent": "Jacksonville Jaguars vs Pittsburgh Steelers",
-      "strHomeTeam": "Jacksonville Jaguars",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-12-15",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-12-15T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -370,20 +188,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403410-997c-9c75-256b-3b012f468bd0",
-      "strEvent": "Pittsburgh Steelers vs Baltimore Ravens",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Baltimore Ravens",
-      "dateEvent": "2026-12-20",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-20T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac60550d-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Pittsburgh Steelers vs Baltimore Ravens",
       "strHomeTeam": "Pittsburgh Steelers",
@@ -393,20 +197,6 @@
       "strTimestamp": "2026-12-20T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403430-1bc3-42c4-c7d8-39f38aed5f12",
-      "strEvent": "Tennessee Titans vs Pittsburgh Steelers",
-      "strHomeTeam": "Tennessee Titans",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2027-01-03",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2027-01-03T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Nissan Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

@@ -1,24 +1,10 @@
 {
   "teamId": "134932",
   "teamName": "Las Vegas Raiders",
-  "updatedAt": "2026-07-18T06:13:33.271Z",
+  "updatedAt": "2026-07-18T16:31:49.718Z",
   "generatedAt": "2026-07-18T06:13:33.271Z",
   "generateAt": "2026-07-18T06:13:33.271Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-10404400-3b35-073f-197e-194bb8240723",
-      "strEvent": "Las Vegas Raiders vs Miami Dolphins",
-      "strHomeTeam": "Las Vegas Raiders",
-      "strAwayTeam": "Miami Dolphins",
-      "dateEvent": "2026-09-13",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-13T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-a9a881ca-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Las Vegas Raiders vs Miami Dolphins",
@@ -29,20 +15,6 @@
       "strTimestamp": "2026-09-13T20:25:00Z",
       "strLeague": "NFL",
       "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401400-b89b-96e5-55d1-caa7e18de3d8",
-      "strEvent": "Los Angeles Chargers vs Las Vegas Raiders",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-09-20",
-      "strTime": "20:05:00Z",
-      "strTimestamp": "2026-09-20T20:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -76,20 +48,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403000-5851-f9d5-da45-78365a05b6b0",
-      "strEvent": "Las Vegas Raiders vs Kansas City Chiefs",
-      "strHomeTeam": "Las Vegas Raiders",
-      "strAwayTeam": "Kansas City Chiefs",
-      "dateEvent": "2026-10-04",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-04T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa4b6d71-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Las Vegas Raiders vs Kansas City Chiefs",
       "strHomeTeam": "Las Vegas Raiders",
@@ -99,20 +57,6 @@
       "strTimestamp": "2026-10-04T20:25:00Z",
       "strLeague": "NFL",
       "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402700-1662-d8ad-f45c-0b0ea460d045",
-      "strEvent": "New England Patriots vs Las Vegas Raiders",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-10-11",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-11T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Gillette Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -132,20 +76,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10402310-a47e-10ea-7442-16b633633637",
-      "strEvent": "Las Vegas Raiders vs Buffalo Bills",
-      "strHomeTeam": "Las Vegas Raiders",
-      "strAwayTeam": "Buffalo Bills",
-      "dateEvent": "2026-10-18",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-18T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aad57852-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Las Vegas Raiders vs Buffalo Bills",
       "strHomeTeam": "Las Vegas Raiders",
@@ -153,20 +83,6 @@
       "dateEvent": "2026-10-18",
       "strTime": "20:25:00Z",
       "strTimestamp": "2026-10-18T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401540-f97c-2d19-6fcd-fac6490a48b7",
-      "strEvent": "Las Vegas Raiders vs Los Angeles Rams",
-      "strHomeTeam": "Las Vegas Raiders",
-      "strAwayTeam": "Los Angeles Rams",
-      "dateEvent": "2026-10-25",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-25T20:25:00Z",
       "strLeague": "NFL",
       "strVenue": "Allegiant Stadium",
       "strTVStation": null,
@@ -188,20 +104,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10402250-89fe-7b86-ef98-9062cd354256",
-      "strEvent": "New York Jets vs Las Vegas Raiders",
-      "strHomeTeam": "New York Jets",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-11-01",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-01T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "MetLife Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab1661ac-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New York Jets vs Las Vegas Raiders",
       "strHomeTeam": "New York Jets",
@@ -211,20 +113,6 @@
       "strTimestamp": "2026-11-01T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "MetLife Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10404400-3b35-073f-197e-194bb8240723",
-      "strEvent": "San Francisco 49ers vs Las Vegas Raiders",
-      "strHomeTeam": "San Francisco 49ers",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-11-08",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-11-08T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Levi's® Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -258,20 +146,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10404400-3b35-073f-197e-194bb8240723",
-      "strEvent": "Denver Broncos vs Las Vegas Raiders",
-      "strHomeTeam": "Denver Broncos",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-11-22",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-11-22T21:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Empower Field at Mile High",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab99a17b-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Denver Broncos vs Las Vegas Raiders",
       "strHomeTeam": "Denver Broncos",
@@ -281,20 +155,6 @@
       "strTimestamp": "2026-11-22T21:25:00Z",
       "strLeague": "NFL",
       "strVenue": "Empower Field at Mile High",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400920-57c1-7656-e77e-1af3d900483e",
-      "strEvent": "Cleveland Browns vs Las Vegas Raiders",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-11-29",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-29T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -314,20 +174,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10405110-ec3c-669e-2614-db3dc1736e95",
-      "strEvent": "Las Vegas Raiders vs Los Angeles Chargers",
-      "strHomeTeam": "Las Vegas Raiders",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-12-13",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-12-13T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac4128a9-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Las Vegas Raiders vs Los Angeles Chargers",
       "strHomeTeam": "Las Vegas Raiders",
@@ -335,20 +181,6 @@
       "dateEvent": "2026-12-13",
       "strTime": "21:05:00Z",
       "strTimestamp": "2026-12-13T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402510-8931-0d5f-9815-79bb79649a65",
-      "strEvent": "Las Vegas Raiders vs Denver Broncos",
-      "strHomeTeam": "Las Vegas Raiders",
-      "strAwayTeam": "Denver Broncos",
-      "dateEvent": "2026-12-20",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-12-20T21:25:00Z",
       "strLeague": "NFL",
       "strVenue": "Allegiant Stadium",
       "strTVStation": null,
@@ -370,20 +202,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403430-1bc3-42c4-c7d8-39f38aed5f12",
-      "strEvent": "Las Vegas Raiders vs Tennessee Titans",
-      "strHomeTeam": "Las Vegas Raiders",
-      "strAwayTeam": "Tennessee Titans",
-      "dateEvent": "2026-12-27",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-12-27T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac9e442c-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Las Vegas Raiders vs Tennessee Titans",
       "strHomeTeam": "Las Vegas Raiders",
@@ -393,20 +211,6 @@
       "strTimestamp": "2026-12-27T21:05:00Z",
       "strLeague": "NFL",
       "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402100-447f-396e-8149-0a434ffb2f23",
-      "strEvent": "Arizona Cardinals vs Las Vegas Raiders",
-      "strHomeTeam": "Arizona Cardinals",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2027-01-03",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2027-01-03T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "State Farm Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

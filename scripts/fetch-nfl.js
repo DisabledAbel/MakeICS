@@ -47,6 +47,13 @@ const findTeamIdByName = (fullName) => {
   return entry ? entry[0] : null;
 };
 
+function decodeUnicodeEscapes(str) {
+  if (!str) return str;
+  return str.replace(/\\u([0-9a-fA-F]{4})/g, (match, grp) => {
+    return String.fromCharCode(parseInt(grp, 16));
+  }).replace(/&amp;/g, '&');
+}
+
 async function scrapeNFLSchedules() {
   const browser = await chromium.launch({ headless: true });
   const gamesList = [];
@@ -67,44 +74,67 @@ async function scrapeNFLSchedules() {
           const scripts = Array.from(document.querySelectorAll('script'));
           const text = scripts.map(s => s.innerText).join('\n');
 
+          const clean = text
+            .replace(/\\\\\\\\\\\\"/g, '"')
+            .replace(/\\\\\\\\"/g, '"')
+            .replace(/\\\\"/g, '"')
+            .replace(/\\"/g, '"')
+            .replace(/\\\\u0022/g, '"')
+            .replace(/\\\\u002f/g, '/')
+            .replace(/\\\\/g, '');
+
           const uuidRegex = /[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}/gi;
           const list = [];
           let match;
 
-          while ((match = uuidRegex.exec(text)) !== null) {
+          while ((match = uuidRegex.exec(clean)) !== null) {
             const gameId = match[0];
+            if (gameId.startsWith('1040')) continue; // Skip team/venue profiles!
+
             const idx = match.index;
-            const chunk = text.slice(idx, idx + 2500);
+            const chunk = clean.slice(idx, idx + 1500);
 
             if (chunk.includes('homeTeam') && chunk.includes('awayTeam')) {
+              const extractProp = (subChunk, key) => {
+                const keyIdx = subChunk.indexOf('"' + key + '"');
+                if (keyIdx === -1) return null;
+                const sub = subChunk.slice(keyIdx + key.length + 2);
+                const m = sub.match(/[:"\s]+([^"{}]+)/);
+                return m ? m[1].trim() : null;
+              };
+
               const homeIdx = chunk.indexOf('homeTeam');
               const awayIdx = chunk.indexOf('awayTeam');
 
-              const extractKeyVal = (keyName, startPos) => {
-                const kIdx = chunk.indexOf(keyName, startPos);
-                if (kIdx === -1) return null;
-                const sub = chunk.slice(kIdx + keyName.length);
-                const quoteMatch = sub.match(/[:\\\"\s]+([^\\\"\{\}]+)/);
-                return quoteMatch ? quoteMatch[1].trim() : null;
-              };
+              const homeSub = chunk.slice(homeIdx, homeIdx + 300);
+              const homeNameMatch = homeSub.match(/"fullName"\s*:\s*"([^"]+)"/) || homeSub.match(/"nickName"\s*:\s*"([^"]+)"/);
+              const homeName = homeNameMatch ? homeNameMatch[1].trim() : null;
 
-              const homeName = extractKeyVal('fullName', homeIdx);
-              const awayName = extractKeyVal('fullName', awayIdx);
-              const dateVal = extractKeyVal('date', 0);
-              const timeVal = extractKeyVal('time', 0);
-              const venueName = extractKeyVal('name', chunk.indexOf('venue'));
+              const awaySub = chunk.slice(awayIdx, awayIdx + 300);
+              const awayNameMatch = awaySub.match(/"fullName"\s*:\s*"([^"]+)"/) || awaySub.match(/"nickName"\s*:\s*"([^"]+)"/);
+              const awayName = awayNameMatch ? awayNameMatch[1].trim() : null;
 
-              if (homeName && awayName && timeVal) {
-                const game = {
-                  id: gameId,
-                  homeTeam: homeName,
-                  awayTeam: awayName,
-                  date: dateVal,
-                  time: timeVal,
-                  venue: venueName
-                };
-                if (!list.some(g => g.id === game.id)) {
-                  list.push(game);
+              const timeVal = extractProp(chunk, 'gameTime') || extractProp(chunk, 'time');
+              const dateVal = extractProp(chunk, 'date');
+
+              const venueIdx = chunk.indexOf('venue');
+              let venueName = null;
+              if (venueIdx !== -1) {
+                const venueSub = chunk.slice(venueIdx, venueIdx + 300);
+                const venueMatch = venueSub.match(/"name"\s*:\s*"([^"]+)"/);
+                venueName = venueMatch ? venueMatch[1].trim() : null;
+              }
+
+              if (homeName && awayName) {
+                if (!list.some(g => g.id === gameId)) {
+                  list.push({
+                    id: gameId,
+                    homeTeam: homeName,
+                    awayTeam: awayName,
+                    date: dateVal,
+                    time: timeVal,
+                    venue: venueName
+                  });
                 }
               }
             }
@@ -112,11 +142,17 @@ async function scrapeNFLSchedules() {
           return list;
         });
 
+        // Treat 0 games parsed as a failure and abort immediately to protect files
+        if (weekGames.length === 0) {
+          throw new Error(`Parsed 0 games for Week ${weekNum}. Scheduled job aborted to prevent file corruption.`);
+        }
+
         console.log(`  Found ${weekGames.length} games for Week ${weekNum}.`);
         gamesList.push(...weekGames);
 
       } catch (err) {
         console.error(`  Failed to scrape Week ${weekNum}: ${err.message}`);
+        throw err; // Propagate any failed week to abort the job
       }
     }
 
@@ -135,23 +171,48 @@ async function main() {
     const rawGames = await scrapeNFLSchedules();
     console.log(`Scraped ${rawGames.length} total raw games.`);
 
-    const todayStr = new Date().toISOString().split('T')[0];
+    const nowInstant = new Date();
     const teamGamesMap = {};
     for (const teamId of Object.keys(NFL_TEAMS)) {
       teamGamesMap[teamId] = [];
     }
 
-    for (const game of rawGames) {
-      if (!game.time || !game.time.includes('T')) continue; // Safety guard check
+    // Deduplicate games using matchup + scheduled timing as unique identity
+    const seenMatchups = new Set();
+    const uniqueGames = [];
 
+    for (const game of rawGames) {
+      if (!game.time || !game.time.includes('T')) continue;
+
+      const decodedHome = decodeUnicodeEscapes(game.homeTeam);
+      const decodedAway = decodeUnicodeEscapes(game.awayTeam);
+      const decodedVenue = decodeUnicodeEscapes(game.venue);
+
+      // Unique matchup key
+      const matchupKey = `${decodedHome}|${decodedAway}|${game.time}`;
+      if (seenMatchups.has(matchupKey)) continue;
+      seenMatchups.add(matchupKey);
+
+      uniqueGames.push({
+        id: game.id,
+        homeTeam: decodedHome,
+        awayTeam: decodedAway,
+        date: game.date,
+        time: game.time,
+        venue: decodedVenue
+      });
+    }
+
+    for (const game of uniqueGames) {
       const homeId = findTeamIdByName(game.homeTeam);
       const awayId = findTeamIdByName(game.awayTeam);
 
       if (!homeId || !awayId) continue;
 
-      const dateEvent = game.date || game.time.split('T')[0];
-      if (dateEvent < todayStr) continue; // Keep only upcoming games
+      const gameTimeInstant = new Date(game.time);
+      if (gameTimeInstant <= nowInstant) continue; // Keep only upcoming games (strictly future games)
 
+      const dateEvent = game.date || game.time.split('T')[0];
       const strTime = game.time.split('T')[1].split('.')[0];
       const event = {
         idEvent: `sdv-nfl-${game.id}`.toLowerCase().replace(/[^a-z0-9]/g, '-'),
@@ -172,7 +233,6 @@ async function main() {
       teamGamesMap[awayId].push(event);
     }
 
-    // Static default timestamp to make sure generateAt never changes unnecessarily
     const defaultStaticTime = '2026-07-18T00:00:00.000Z';
 
     for (const [teamId, events] of Object.entries(teamGamesMap)) {
@@ -183,14 +243,40 @@ async function main() {
         const content = await fs.readFile(filePath, 'utf8');
         existingData = JSON.parse(content);
       } catch (e) {
-        // File does not exist yet
+        // Suppress ONLY ENOENT errors; propagate malformed JSON and all other errors
+        if (e.code !== 'ENOENT') {
+          console.error(`Failed to read supplemental file for team ${teamId}: ${e.message}`);
+          throw e;
+        }
       }
 
-      // We ALWAYS preserve the existing timestamps if they exist, to ensure generateAt/updatedAt NEVER change.
-      // If the file is new, we write the static default timestamp so it never changes in subsequent runs.
-      const finalUpdatedAt = existingData?.updatedAt || defaultStaticTime;
-      const finalGeneratedAt = existingData?.generatedAt || existingData?.generateAt || defaultStaticTime;
-      const finalGenerateAt = existingData?.generateAt || existingData?.generatedAt || defaultStaticTime;
+      const sortedNewEvents = events.sort((a, b) => new Date(a.strTimestamp) - new Date(b.strTimestamp));
+
+      let finalUpdatedAt = defaultStaticTime;
+      let finalGeneratedAt = defaultStaticTime;
+      let finalGenerateAt = defaultStaticTime;
+
+      if (existingData) {
+        // Compare the events payloads (excluding timestamps of course)
+        const newEventsStr = JSON.stringify(sortedNewEvents);
+        const existingEventsStr = JSON.stringify(existingData.events || []);
+
+        if (newEventsStr === existingEventsStr) {
+          // If unchanged, preserve all timestamps exactly
+          finalUpdatedAt = existingData.updatedAt || defaultStaticTime;
+          finalGeneratedAt = existingData.generatedAt || existingData.generateAt || defaultStaticTime;
+          finalGenerateAt = existingData.generateAt || existingData.generatedAt || defaultStaticTime;
+          console.log(`  No changes for ${NFL_TEAMS[teamId].name} (${teamId}). Preserving timestamps.`);
+        } else {
+          // If they differ, update updatedAt to current time, but retain original generation timestamps
+          finalUpdatedAt = new Date().toISOString();
+          finalGeneratedAt = existingData.generatedAt || existingData.generateAt || defaultStaticTime;
+          finalGenerateAt = existingData.generateAt || existingData.generatedAt || defaultStaticTime;
+          console.log(`  Schedules updated for ${NFL_TEAMS[teamId].name} (${teamId}). Updating updatedAt.`);
+        }
+      } else {
+        console.log(`  Creating new file for ${NFL_TEAMS[teamId].name} (${teamId}).`);
+      }
 
       await fs.writeFile(filePath, JSON.stringify({
         teamId,
@@ -198,10 +284,10 @@ async function main() {
         updatedAt: finalUpdatedAt,
         generatedAt: finalGeneratedAt,
         generateAt: finalGenerateAt,
-        events: events.sort((a, b) => new Date(a.strTimestamp) - new Date(b.strTimestamp))
+        events: sortedNewEvents
       }, null, 2));
 
-      console.log(`  Saved ${events.length} upcoming games for ${NFL_TEAMS[teamId].name} (${teamId})`);
+      console.log(`  Saved ${sortedNewEvents.length} upcoming games for ${NFL_TEAMS[teamId].name} (${teamId})`);
     }
 
     console.log('NFL Playwright schedules fetch complete.');

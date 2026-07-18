@@ -1,24 +1,10 @@
 {
   "teamId": "134927",
   "teamName": "Indianapolis Colts",
-  "updatedAt": "2026-07-18T06:13:33.265Z",
+  "updatedAt": "2026-07-18T16:31:49.707Z",
   "generatedAt": "2026-07-18T06:13:33.265Z",
   "generateAt": "2026-07-18T06:13:33.265Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-10402120-b0bc-693d-098a-803014096eb0",
-      "strEvent": "Indianapolis Colts vs Baltimore Ravens",
-      "strHomeTeam": "Indianapolis Colts",
-      "strAwayTeam": "Baltimore Ravens",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lucas Oil Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-a8fc15bd-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Indianapolis Colts vs Baltimore Ravens",
@@ -29,20 +15,6 @@
       "strTimestamp": "2026-09-13T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Lucas Oil Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10404500-e7cb-7fce-3f10-4eeb269bd179",
-      "strEvent": "Kansas City Chiefs vs Indianapolis Colts",
-      "strHomeTeam": "Kansas City Chiefs",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-09-21",
-      "strTime": "00:20:00Z",
-      "strTimestamp": "2026-09-21T00:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "GEHA Field at Arrowhead Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -62,20 +34,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10401540-f97c-2d19-6fcd-fac6490a48b7",
-      "strEvent": "Indianapolis Colts vs Houston Texans",
-      "strHomeTeam": "Indianapolis Colts",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lucas Oil Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa04aa26-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Indianapolis Colts vs Houston Texans",
       "strHomeTeam": "Indianapolis Colts",
@@ -85,20 +43,6 @@
       "strTimestamp": "2026-09-27T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Lucas Oil Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401050-5e38-b907-1be1-55b91b19c057",
-      "strEvent": "Washington Commanders vs Indianapolis Colts",
-      "strHomeTeam": "Washington Commanders",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-10-04",
-      "strTime": "13:30:00Z",
-      "strTimestamp": "2026-10-04T13:30:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Tottenham Hotspur Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -118,20 +62,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403430-1bc3-42c4-c7d8-39f38aed5f12",
-      "strEvent": "Pittsburgh Steelers vs Indianapolis Colts",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-10-11",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-11T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa94ac06-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Pittsburgh Steelers vs Indianapolis Colts",
       "strHomeTeam": "Pittsburgh Steelers",
@@ -141,20 +71,6 @@
       "strTimestamp": "2026-10-11T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401050-5e38-b907-1be1-55b91b19c057",
-      "strEvent": "Indianapolis Colts vs Tennessee Titans",
-      "strHomeTeam": "Indianapolis Colts",
-      "strAwayTeam": "Tennessee Titans",
-      "dateEvent": "2026-10-18",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-18T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lucas Oil Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -174,20 +90,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10402120-b0bc-693d-098a-803014096eb0",
-      "strEvent": "Minnesota Vikings vs Indianapolis Colts",
-      "strHomeTeam": "Minnesota Vikings",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-10-25",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-25T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aad5a2ac-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Minnesota Vikings vs Indianapolis Colts",
       "strHomeTeam": "Minnesota Vikings",
@@ -197,20 +99,6 @@
       "strTimestamp": "2026-10-25T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401540-f97c-2d19-6fcd-fac6490a48b7",
-      "strEvent": "Jacksonville Jaguars vs Indianapolis Colts",
-      "strHomeTeam": "Jacksonville Jaguars",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-11-01",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-01T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "EverBank Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -230,20 +118,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10400750-259b-33ac-eee3-a3852e83cd1f",
-      "strEvent": "Indianapolis Colts vs Dallas Cowboys",
-      "strHomeTeam": "Indianapolis Colts",
-      "strAwayTeam": "Dallas Cowboys",
-      "dateEvent": "2026-11-08",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-08T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lucas Oil Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab38123a-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Indianapolis Colts vs Dallas Cowboys",
       "strHomeTeam": "Indianapolis Colts",
@@ -251,20 +125,6 @@
       "dateEvent": "2026-11-08",
       "strTime": "18:00:00Z",
       "strTimestamp": "2026-11-08T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lucas Oil Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401800-ab22-323d-721a-cee4713c4c2d",
-      "strEvent": "Indianapolis Colts vs Miami Dolphins",
-      "strHomeTeam": "Indianapolis Colts",
-      "strAwayTeam": "Miami Dolphins",
-      "dateEvent": "2026-11-15",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-15T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Lucas Oil Stadium",
       "strTVStation": null,
@@ -286,34 +146,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403800-517c-7b8c-65a3-c61b95d86123",
-      "strEvent": "Houston Texans vs Indianapolis Colts",
-      "strHomeTeam": "Houston Texans",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-11-20T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401200-a308-98ca-ad5f-95df2fefea68",
-      "strEvent": "Houston Texans vs Indianapolis Colts",
-      "strHomeTeam": "Houston Texans",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-11-20T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab997d97-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Houston Texans vs Indianapolis Colts",
       "strHomeTeam": "Houston Texans",
@@ -323,20 +155,6 @@
       "strTimestamp": "2026-11-20T01:15:00Z",
       "strLeague": "NFL",
       "strVenue": "Reliant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402120-b0bc-693d-098a-803014096eb0",
-      "strEvent": "Indianapolis Colts vs New York Giants",
-      "strHomeTeam": "Indianapolis Colts",
-      "strAwayTeam": "New York Giants",
-      "dateEvent": "2026-11-29",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-29T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lucas Oil Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -356,20 +174,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403430-1bc3-42c4-c7d8-39f38aed5f12",
-      "strEvent": "Philadelphia Eagles vs Indianapolis Colts",
-      "strHomeTeam": "Philadelphia Eagles",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-12-13",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-13T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lincoln Financial Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac411814-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Philadelphia Eagles vs Indianapolis Colts",
       "strHomeTeam": "Philadelphia Eagles",
@@ -384,20 +188,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10404900-d59e-b449-ef75-961e09ca027e",
-      "strEvent": "Tennessee Titans vs Indianapolis Colts",
-      "strHomeTeam": "Tennessee Titans",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-12-20",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-20T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Nissan Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac605b63-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Tennessee Titans vs Indianapolis Colts",
       "strHomeTeam": "Tennessee Titans",
@@ -407,20 +197,6 @@
       "strTimestamp": "2026-12-20T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Nissan Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400750-259b-33ac-eee3-a3852e83cd1f",
-      "strEvent": "Cleveland Browns vs Indianapolis Colts",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2027-01-03",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2027-01-03T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

@@ -1,24 +1,10 @@
 {
   "teamId": "134945",
   "teamName": "Tampa Bay Buccaneers",
-  "updatedAt": "2026-07-18T06:13:33.286Z",
+  "updatedAt": "2026-07-18T16:31:49.743Z",
   "generatedAt": "2026-07-18T06:13:33.286Z",
   "generateAt": "2026-07-18T06:13:33.286Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-10400750-259b-33ac-eee3-a3852e83cd1f",
-      "strEvent": "Cincinnati Bengals vs Tampa Bay Buccaneers",
-      "strHomeTeam": "Cincinnati Bengals",
-      "strAwayTeam": "Tampa Bay Buccaneers",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Paycor Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-a8fc106b-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cincinnati Bengals vs Tampa Bay Buccaneers",
@@ -34,20 +20,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403430-1bc3-42c4-c7d8-39f38aed5f12",
-      "strEvent": "Tampa Bay Buccaneers vs Cleveland Browns",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-a9e0d930-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Tampa Bay Buccaneers vs Cleveland Browns",
       "strHomeTeam": "Tampa Bay Buccaneers",
@@ -55,20 +27,6 @@
       "dateEvent": "2026-09-20",
       "strTime": "17:00:00Z",
       "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10404500-e7cb-7fce-3f10-4eeb269bd179",
-      "strEvent": "Tampa Bay Buccaneers vs Minnesota Vikings",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-09-27",
-      "strTime": "20:05:00Z",
-      "strTimestamp": "2026-09-27T20:05:00Z",
       "strLeague": "NFL",
       "strVenue": "Raymond James Stadium",
       "strTVStation": null,
@@ -90,20 +48,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403700-b939-3cbd-3d16-24d4d6742fa2",
-      "strEvent": "Tampa Bay Buccaneers vs Green Bay Packers",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Green Bay Packers",
-      "dateEvent": "2026-10-04",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-04T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa4b671b-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Tampa Bay Buccaneers vs Green Bay Packers",
       "strHomeTeam": "Tampa Bay Buccaneers",
@@ -118,34 +62,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403800-517c-7b8c-65a3-c61b95d86123",
-      "strEvent": "Dallas Cowboys vs Tampa Bay Buccaneers",
-      "strHomeTeam": "Dallas Cowboys",
-      "strAwayTeam": "Tampa Bay Buccaneers",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-09T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401200-a308-98ca-ad5f-95df2fefea68",
-      "strEvent": "Dallas Cowboys vs Tampa Bay Buccaneers",
-      "strHomeTeam": "Dallas Cowboys",
-      "strAwayTeam": "Tampa Bay Buccaneers",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-09T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa6b58bf-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Dallas Cowboys vs Tampa Bay Buccaneers",
       "strHomeTeam": "Dallas Cowboys",
@@ -154,21 +70,7 @@
       "strTime": "00:15:00Z",
       "strTimestamp": "2026-10-09T00:15:00Z",
       "strLeague": "NFL",
-      "strVenue": "AT",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403700-b939-3cbd-3d16-24d4d6742fa2",
-      "strEvent": "Tampa Bay Buccaneers vs Pittsburgh Steelers",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-10-18",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-18T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
+      "strVenue": "AT&T Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -188,20 +90,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10400325-48de-3d6a-be29-8f829437f4c8",
-      "strEvent": "Carolina Panthers vs Tampa Bay Buccaneers",
-      "strHomeTeam": "Carolina Panthers",
-      "strAwayTeam": "Tampa Bay Buccaneers",
-      "dateEvent": "2026-10-25",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-25T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Bank of America Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aad59a67-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Carolina Panthers vs Tampa Bay Buccaneers",
       "strHomeTeam": "Carolina Panthers",
@@ -216,20 +104,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403900-8251-6892-d81c-4348525c2d47",
-      "strEvent": "Tampa Bay Buccaneers vs Atlanta Falcons",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-11-01",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-01T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab1667cd-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Tampa Bay Buccaneers vs Atlanta Falcons",
       "strHomeTeam": "Tampa Bay Buccaneers",
@@ -239,20 +113,6 @@
       "strTimestamp": "2026-11-01T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10404600-adcd-28ac-5826-b4d95ec2a228",
-      "strEvent": "Chicago Bears vs Tampa Bay Buccaneers",
-      "strHomeTeam": "Chicago Bears",
-      "strAwayTeam": "Tampa Bay Buccaneers",
-      "dateEvent": "2026-11-09",
-      "strTime": "01:20:00Z",
-      "strTimestamp": "2026-11-09T01:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Soldier Field",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -286,20 +146,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10404400-3b35-073f-197e-194bb8240723",
-      "strEvent": "Tampa Bay Buccaneers vs Carolina Panthers",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Carolina Panthers",
-      "dateEvent": "2026-12-01",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-12-01T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-abdfe629-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Tampa Bay Buccaneers vs Carolina Panthers",
       "strHomeTeam": "Tampa Bay Buccaneers",
@@ -307,20 +153,6 @@
       "dateEvent": "2026-12-01",
       "strTime": "01:15:00Z",
       "strTimestamp": "2026-12-01T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403410-997c-9c75-256b-3b012f468bd0",
-      "strEvent": "Tampa Bay Buccaneers vs Los Angeles Chargers",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-12-06",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-06T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Raymond James Stadium",
       "strTVStation": null,
@@ -342,20 +174,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403200-69ab-9ea6-5af5-e240fbc08bea",
-      "strEvent": "Baltimore Ravens vs Tampa Bay Buccaneers",
-      "strHomeTeam": "Baltimore Ravens",
-      "strAwayTeam": "Tampa Bay Buccaneers",
-      "dateEvent": "2026-12-13",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-13T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "M",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac208548-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Baltimore Ravens vs Tampa Bay Buccaneers",
       "strHomeTeam": "Baltimore Ravens",
@@ -364,21 +182,7 @@
       "strTime": "18:00:00Z",
       "strTimestamp": "2026-12-13T18:00:00Z",
       "strLeague": "NFL",
-      "strVenue": "M",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403900-8251-6892-d81c-4348525c2d47",
-      "strEvent": "Tampa Bay Buccaneers vs New Orleans Saints",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "New Orleans Saints",
-      "dateEvent": "2026-12-20",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-20T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
+      "strVenue": "M&T Bank Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
