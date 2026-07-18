@@ -1,24 +1,10 @@
 {
   "teamId": "134941",
   "teamName": "Minnesota Vikings",
-  "updatedAt": "2026-07-18T06:13:33.281Z",
+  "updatedAt": "2026-07-18T16:31:49.736Z",
   "generatedAt": "2026-07-18T06:13:33.281Z",
   "generateAt": "2026-07-18T06:13:33.281Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-10402520-96bf-e9f2-4f68-8521ca896060",
-      "strEvent": "Minnesota Vikings vs Green Bay Packers",
-      "strHomeTeam": "Minnesota Vikings",
-      "strAwayTeam": "Green Bay Packers",
-      "dateEvent": "2026-09-13",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-13T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-a9a88631-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Minnesota Vikings vs Green Bay Packers",
@@ -29,20 +15,6 @@
       "strTimestamp": "2026-09-13T20:25:00Z",
       "strLeague": "NFL",
       "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400325-48de-3d6a-be29-8f829437f4c8",
-      "strEvent": "Chicago Bears vs Minnesota Vikings",
-      "strHomeTeam": "Chicago Bears",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Soldier Field",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -62,20 +34,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10404500-e7cb-7fce-3f10-4eeb269bd179",
-      "strEvent": "Tampa Bay Buccaneers vs Minnesota Vikings",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-09-27",
-      "strTime": "20:05:00Z",
-      "strTimestamp": "2026-09-27T20:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa29c929-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Tampa Bay Buccaneers vs Minnesota Vikings",
       "strHomeTeam": "Tampa Bay Buccaneers",
@@ -85,20 +43,6 @@
       "strTimestamp": "2026-09-27T20:05:00Z",
       "strLeague": "NFL",
       "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10404900-d59e-b449-ef75-961e09ca027e",
-      "strEvent": "Minnesota Vikings vs Miami Dolphins",
-      "strHomeTeam": "Minnesota Vikings",
-      "strAwayTeam": "Miami Dolphins",
-      "dateEvent": "2026-10-04",
-      "strTime": "20:05:00Z",
-      "strTimestamp": "2026-10-04T20:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "U.S. Bank Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -118,20 +62,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403200-69ab-9ea6-5af5-e240fbc08bea",
-      "strEvent": "New Orleans Saints vs Minnesota Vikings",
-      "strHomeTeam": "New Orleans Saints",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-10-11",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-11T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Caesars Superdome",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa6b65b1-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New Orleans Saints vs Minnesota Vikings",
       "strHomeTeam": "New Orleans Saints",
@@ -141,20 +71,6 @@
       "strTimestamp": "2026-10-11T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Caesars Superdome",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402120-b0bc-693d-098a-803014096eb0",
-      "strEvent": "Minnesota Vikings vs Indianapolis Colts",
-      "strHomeTeam": "Minnesota Vikings",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-10-25",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-25T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "U.S. Bank Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -188,20 +104,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10400810-db30-43d6-221c-620006f3ca19",
-      "strEvent": "Minnesota Vikings vs Buffalo Bills",
-      "strHomeTeam": "Minnesota Vikings",
-      "strAwayTeam": "Buffalo Bills",
-      "dateEvent": "2026-11-10",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-11-10T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab5825a7-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Minnesota Vikings vs Buffalo Bills",
       "strHomeTeam": "Minnesota Vikings",
@@ -211,20 +113,6 @@
       "strTimestamp": "2026-11-10T01:15:00Z",
       "strLeague": "NFL",
       "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401050-5e38-b907-1be1-55b91b19c057",
-      "strEvent": "Green Bay Packers vs Minnesota Vikings",
-      "strHomeTeam": "Green Bay Packers",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-11-15",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-15T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lambeau Field",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -244,20 +132,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403700-b939-3cbd-3d16-24d4d6742fa2",
-      "strEvent": "San Francisco 49ers vs Minnesota Vikings",
-      "strHomeTeam": "San Francisco 49ers",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-11-23",
-      "strTime": "01:20:00Z",
-      "strTimestamp": "2026-11-23T01:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Estadio Banorte",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-abbf2213-4feb-11f1-abca-2c54536568a9",
       "strEvent": "San Francisco 49ers vs Minnesota Vikings",
       "strHomeTeam": "San Francisco 49ers",
@@ -272,20 +146,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10402700-1662-d8ad-f45c-0b0ea460d045",
-      "strEvent": "Minnesota Vikings vs Atlanta Falcons",
-      "strHomeTeam": "Minnesota Vikings",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-11-29",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-29T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-abdfd363-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Minnesota Vikings vs Atlanta Falcons",
       "strHomeTeam": "Minnesota Vikings",
@@ -293,20 +153,6 @@
       "dateEvent": "2026-11-29",
       "strTime": "18:00:00Z",
       "strTimestamp": "2026-11-29T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401400-b89b-96e5-55d1-caa7e18de3d8",
-      "strEvent": "Minnesota Vikings vs Carolina Panthers",
-      "strHomeTeam": "Minnesota Vikings",
-      "strAwayTeam": "Carolina Panthers",
-      "dateEvent": "2026-12-06",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-12-06T21:25:00Z",
       "strLeague": "NFL",
       "strVenue": "U.S. Bank Stadium",
       "strTVStation": null,
@@ -328,34 +174,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403800-517c-7b8c-65a3-c61b95d86123",
-      "strEvent": "New England Patriots vs Minnesota Vikings",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-12-11T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401200-a308-98ca-ad5f-95df2fefea68",
-      "strEvent": "New England Patriots vs Minnesota Vikings",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-12-11T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac208212-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New England Patriots vs Minnesota Vikings",
       "strHomeTeam": "New England Patriots",
@@ -370,20 +188,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10402520-96bf-e9f2-4f68-8521ca896060",
-      "strEvent": "Minnesota Vikings vs Detroit Lions",
-      "strHomeTeam": "Minnesota Vikings",
-      "strAwayTeam": "Detroit Lions",
-      "dateEvent": "2026-12-21",
-      "strTime": "01:20:00Z",
-      "strTimestamp": "2026-12-21T01:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac7f6703-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Minnesota Vikings vs Detroit Lions",
       "strHomeTeam": "Minnesota Vikings",
@@ -393,20 +197,6 @@
       "strTimestamp": "2026-12-21T01:20:00Z",
       "strLeague": "NFL",
       "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402700-1662-d8ad-f45c-0b0ea460d045",
-      "strEvent": "New York Jets vs Minnesota Vikings",
-      "strHomeTeam": "New York Jets",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2027-01-03",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2027-01-03T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "MetLife Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

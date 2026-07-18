@@ -1,24 +1,10 @@
 {
   "teamId": "134942",
   "teamName": "Atlanta Falcons",
-  "updatedAt": "2026-07-18T06:13:33.282Z",
+  "updatedAt": "2026-07-18T16:31:49.737Z",
   "generatedAt": "2026-07-18T06:13:33.282Z",
   "generateAt": "2026-07-18T06:13:33.282Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-10402250-89fe-7b86-ef98-9062cd354256",
-      "strEvent": "Pittsburgh Steelers vs Atlanta Falcons",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-a8fc1864-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Pittsburgh Steelers vs Atlanta Falcons",
@@ -29,20 +15,6 @@
       "strTimestamp": "2026-09-13T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400610-c40e-a673-1743-2ce2a5d5d731",
-      "strEvent": "Atlanta Falcons vs Carolina Panthers",
-      "strHomeTeam": "Atlanta Falcons",
-      "strAwayTeam": "Carolina Panthers",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Mercedes-Benz Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -62,34 +34,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403800-517c-7b8c-65a3-c61b95d86123",
-      "strEvent": "Green Bay Packers vs Atlanta Falcons",
-      "strHomeTeam": "Green Bay Packers",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-09-25T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401200-a308-98ca-ad5f-95df2fefea68",
-      "strEvent": "Green Bay Packers vs Atlanta Falcons",
-      "strHomeTeam": "Green Bay Packers",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-09-25T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa049c95-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Green Bay Packers vs Atlanta Falcons",
       "strHomeTeam": "Green Bay Packers",
@@ -99,20 +43,6 @@
       "strTimestamp": "2026-09-25T00:15:00Z",
       "strLeague": "NFL",
       "strVenue": "Lambeau Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400750-259b-33ac-eee3-a3852e83cd1f",
-      "strEvent": "New Orleans Saints vs Atlanta Falcons",
-      "strHomeTeam": "New Orleans Saints",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-10-06",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-06T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Caesars Superdome",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -132,20 +62,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10404600-adcd-28ac-5826-b4d95ec2a228",
-      "strEvent": "Atlanta Falcons vs Baltimore Ravens",
-      "strHomeTeam": "Atlanta Falcons",
-      "strAwayTeam": "Baltimore Ravens",
-      "dateEvent": "2026-10-12",
-      "strTime": "00:20:00Z",
-      "strTimestamp": "2026-10-12T00:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Mercedes-Benz Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa94c94d-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Atlanta Falcons vs Baltimore Ravens",
       "strHomeTeam": "Atlanta Falcons",
@@ -153,20 +69,6 @@
       "dateEvent": "2026-10-12",
       "strTime": "00:20:00Z",
       "strTimestamp": "2026-10-12T00:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Mercedes-Benz Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402250-89fe-7b86-ef98-9062cd354256",
-      "strEvent": "Atlanta Falcons vs Chicago Bears",
-      "strHomeTeam": "Atlanta Falcons",
-      "strAwayTeam": "Chicago Bears",
-      "dateEvent": "2026-10-18",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-18T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Mercedes-Benz Stadium",
       "strTVStation": null,
@@ -188,20 +90,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403300-f235-cf9b-6d3a-2f182be48dd1",
-      "strEvent": "Atlanta Falcons vs San Francisco 49ers",
-      "strHomeTeam": "Atlanta Falcons",
-      "strAwayTeam": "San Francisco 49ers",
-      "dateEvent": "2026-10-25",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-25T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Mercedes-Benz Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aad59092-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Atlanta Falcons vs San Francisco 49ers",
       "strHomeTeam": "Atlanta Falcons",
@@ -211,20 +99,6 @@
       "strTimestamp": "2026-10-25T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Mercedes-Benz Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403900-8251-6892-d81c-4348525c2d47",
-      "strEvent": "Tampa Bay Buccaneers vs Atlanta Falcons",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-11-01",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-01T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -244,20 +118,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10400325-48de-3d6a-be29-8f829437f4c8",
-      "strEvent": "Atlanta Falcons vs Cincinnati Bengals",
-      "strHomeTeam": "Atlanta Falcons",
-      "strAwayTeam": "Cincinnati Bengals",
-      "dateEvent": "2026-11-08",
-      "strTime": "14:30:00Z",
-      "strTimestamp": "2026-11-08T14:30:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Bernabeu",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab380bc7-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Atlanta Falcons vs Cincinnati Bengals",
       "strHomeTeam": "Atlanta Falcons",
@@ -267,20 +127,6 @@
       "strTimestamp": "2026-11-08T14:30:00Z",
       "strLeague": "NFL",
       "strVenue": "Bernabeu",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401540-f97c-2d19-6fcd-fac6490a48b7",
-      "strEvent": "Atlanta Falcons vs Kansas City Chiefs",
-      "strHomeTeam": "Atlanta Falcons",
-      "strAwayTeam": "Kansas City Chiefs",
-      "dateEvent": "2026-11-15",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-15T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Mercedes-Benz Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -300,20 +146,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10402700-1662-d8ad-f45c-0b0ea460d045",
-      "strEvent": "Minnesota Vikings vs Atlanta Falcons",
-      "strHomeTeam": "Minnesota Vikings",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-11-29",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-29T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-abdfd363-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Minnesota Vikings vs Atlanta Falcons",
       "strHomeTeam": "Minnesota Vikings",
@@ -323,20 +155,6 @@
       "strTimestamp": "2026-11-29T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402510-8931-0d5f-9815-79bb79649a65",
-      "strEvent": "Atlanta Falcons vs Detroit Lions",
-      "strHomeTeam": "Atlanta Falcons",
-      "strAwayTeam": "Detroit Lions",
-      "dateEvent": "2026-12-06",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-06T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Mercedes-Benz Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -356,20 +174,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10400750-259b-33ac-eee3-a3852e83cd1f",
-      "strEvent": "Cleveland Browns vs Atlanta Falcons",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-12-13",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-13T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac208bad-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cleveland Browns vs Atlanta Falcons",
       "strHomeTeam": "Cleveland Browns",
@@ -384,20 +188,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10402100-447f-396e-8149-0a434ffb2f23",
-      "strEvent": "Washington Commanders vs Atlanta Falcons",
-      "strHomeTeam": "Washington Commanders",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-12-20",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-20T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Northwest Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac605e66-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Washington Commanders vs Atlanta Falcons",
       "strHomeTeam": "Washington Commanders",
@@ -407,20 +197,6 @@
       "strTimestamp": "2026-12-20T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Northwest Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400920-57c1-7656-e77e-1af3d900483e",
-      "strEvent": "Atlanta Falcons vs New Orleans Saints",
-      "strHomeTeam": "Atlanta Falcons",
-      "strAwayTeam": "New Orleans Saints",
-      "dateEvent": "2027-01-03",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2027-01-03T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Mercedes-Benz Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

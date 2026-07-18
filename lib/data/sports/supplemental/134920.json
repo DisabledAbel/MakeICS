@@ -1,38 +1,10 @@
 {
   "teamId": "134920",
   "teamName": "New England Patriots",
-  "updatedAt": "2026-07-18T06:13:33.253Z",
+  "updatedAt": "2026-07-18T16:31:49.685Z",
   "generatedAt": "2026-07-18T06:13:33.253Z",
   "generateAt": "2026-07-18T06:13:33.253Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-10403800-517c-7b8c-65a3-c61b95d86123",
-      "strEvent": "Seattle Seahawks vs New England Patriots",
-      "strHomeTeam": "Seattle Seahawks",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "00:20:00Z",
-      "strTimestamp": "2026-09-10T00:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401200-a308-98ca-ad5f-95df2fefea68",
-      "strEvent": "Seattle Seahawks vs New England Patriots",
-      "strHomeTeam": "Seattle Seahawks",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "00:20:00Z",
-      "strTimestamp": "2026-09-10T00:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-a8fb0d78-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Seattle Seahawks vs New England Patriots",
@@ -43,20 +15,6 @@
       "strTimestamp": "2026-09-10T00:20:00Z",
       "strLeague": "NFL",
       "strVenue": "Lumen Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402120-b0bc-693d-098a-803014096eb0",
-      "strEvent": "New England Patriots vs Pittsburgh Steelers",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Gillette Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -76,20 +34,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10402200-2ea3-84c3-e627-6a6b3b39d56d",
-      "strEvent": "Jacksonville Jaguars vs New England Patriots",
-      "strHomeTeam": "Jacksonville Jaguars",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "EverBank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa04ad75-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Jacksonville Jaguars vs New England Patriots",
       "strHomeTeam": "Jacksonville Jaguars",
@@ -99,20 +43,6 @@
       "strTimestamp": "2026-09-27T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "EverBank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400325-48de-3d6a-be29-8f829437f4c8",
-      "strEvent": "Buffalo Bills vs New England Patriots",
-      "strHomeTeam": "Buffalo Bills",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-10-04",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-04T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Highmark Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -132,20 +62,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10402700-1662-d8ad-f45c-0b0ea460d045",
-      "strEvent": "New England Patriots vs Las Vegas Raiders",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-10-11",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-11T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Gillette Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa6b6286-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New England Patriots vs Las Vegas Raiders",
       "strHomeTeam": "New England Patriots",
@@ -153,20 +69,6 @@
       "dateEvent": "2026-10-11",
       "strTime": "17:00:00Z",
       "strTimestamp": "2026-10-11T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Gillette Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402200-2ea3-84c3-e627-6a6b3b39d56d",
-      "strEvent": "New England Patriots vs New York Jets",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "New York Jets",
-      "dateEvent": "2026-10-18",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-18T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Gillette Stadium",
       "strTVStation": null,
@@ -188,34 +90,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403800-517c-7b8c-65a3-c61b95d86123",
-      "strEvent": "Chicago Bears vs New England Patriots",
-      "strHomeTeam": "Chicago Bears",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-23T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401200-a308-98ca-ad5f-95df2fefea68",
-      "strEvent": "Chicago Bears vs New England Patriots",
-      "strHomeTeam": "Chicago Bears",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-23T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aad58a18-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Chicago Bears vs New England Patriots",
       "strHomeTeam": "Chicago Bears",
@@ -225,20 +99,6 @@
       "strTimestamp": "2026-10-23T00:15:00Z",
       "strLeague": "NFL",
       "strVenue": "Soldier Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401400-b89b-96e5-55d1-caa7e18de3d8",
-      "strEvent": "Miami Dolphins vs New England Patriots",
-      "strHomeTeam": "Miami Dolphins",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-11-01",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-11-01T21:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Hard Rock Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -258,20 +118,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10404500-e7cb-7fce-3f10-4eeb269bd179",
-      "strEvent": "New England Patriots vs Green Bay Packers",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Green Bay Packers",
-      "dateEvent": "2026-11-08",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-11-08T21:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Gillette Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab581b93-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New England Patriots vs Green Bay Packers",
       "strHomeTeam": "New England Patriots",
@@ -281,20 +127,6 @@
       "strTimestamp": "2026-11-08T21:25:00Z",
       "strLeague": "NFL",
       "strVenue": "Gillette Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403410-997c-9c75-256b-3b012f468bd0",
-      "strEvent": "Detroit Lions vs New England Patriots",
-      "strHomeTeam": "Detroit Lions",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-11-15",
-      "strTime": "14:30:00Z",
-      "strTimestamp": "2026-11-15T14:30:00Z",
-      "strLeague": "NFL",
-      "strVenue": "FC Bayern Munich Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -314,20 +146,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10404500-e7cb-7fce-3f10-4eeb269bd179",
-      "strEvent": "Los Angeles Chargers vs New England Patriots",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-11-30",
-      "strTime": "01:20:00Z",
-      "strTimestamp": "2026-11-30T01:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-abdfe0ab-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Los Angeles Chargers vs New England Patriots",
       "strHomeTeam": "Los Angeles Chargers",
@@ -337,20 +155,6 @@
       "strTimestamp": "2026-11-30T01:20:00Z",
       "strLeague": "NFL",
       "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403000-5851-f9d5-da45-78365a05b6b0",
-      "strEvent": "New England Patriots vs Buffalo Bills",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Buffalo Bills",
-      "dateEvent": "2026-12-06",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-12-06T21:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Gillette Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -370,34 +174,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403800-517c-7b8c-65a3-c61b95d86123",
-      "strEvent": "New England Patriots vs Minnesota Vikings",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-12-11T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401200-a308-98ca-ad5f-95df2fefea68",
-      "strEvent": "New England Patriots vs Minnesota Vikings",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-12-11T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac208212-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New England Patriots vs Minnesota Vikings",
       "strHomeTeam": "New England Patriots",
@@ -412,20 +188,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403000-5851-f9d5-da45-78365a05b6b0",
-      "strEvent": "Kansas City Chiefs vs New England Patriots",
-      "strHomeTeam": "Kansas City Chiefs",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-12-22",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-12-22T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "GEHA Field at Arrowhead Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac7f6aff-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Kansas City Chiefs vs New England Patriots",
       "strHomeTeam": "Kansas City Chiefs",
@@ -435,20 +197,6 @@
       "strTimestamp": "2026-12-22T01:15:00Z",
       "strLeague": "NFL",
       "strVenue": "GEHA Field at Arrowhead Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403300-f235-cf9b-6d3a-2f182be48dd1",
-      "strEvent": "New York Jets vs New England Patriots",
-      "strHomeTeam": "New York Jets",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-12-27",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-27T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "MetLife Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

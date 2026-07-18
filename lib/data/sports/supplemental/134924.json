@@ -1,24 +1,10 @@
 {
   "teamId": "134924",
   "teamName": "Cleveland Browns",
-  "updatedAt": "2026-07-18T06:13:33.260Z",
+  "updatedAt": "2026-07-18T16:31:49.699Z",
   "generatedAt": "2026-07-18T06:13:33.260Z",
   "generateAt": "2026-07-18T06:13:33.260Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-10402200-2ea3-84c3-e627-6a6b3b39d56d",
-      "strEvent": "Jacksonville Jaguars vs Cleveland Browns",
-      "strHomeTeam": "Jacksonville Jaguars",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "EverBank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-a8fc1728-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Jacksonville Jaguars vs Cleveland Browns",
@@ -29,20 +15,6 @@
       "strTimestamp": "2026-09-13T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "EverBank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403430-1bc3-42c4-c7d8-39f38aed5f12",
-      "strEvent": "Tampa Bay Buccaneers vs Cleveland Browns",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -62,20 +34,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10400610-c40e-a673-1743-2ce2a5d5d731",
-      "strEvent": "Cleveland Browns vs Carolina Panthers",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Carolina Panthers",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa04a395-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cleveland Browns vs Carolina Panthers",
       "strHomeTeam": "Cleveland Browns",
@@ -85,34 +43,6 @@
       "strTimestamp": "2026-09-27T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Huntington Bank Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403800-517c-7b8c-65a3-c61b95d86123",
-      "strEvent": "Cleveland Browns vs Pittsburgh Steelers",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-02T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401200-a308-98ca-ad5f-95df2fefea68",
-      "strEvent": "Cleveland Browns vs Pittsburgh Steelers",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-02T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -132,20 +62,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403300-f235-cf9b-6d3a-2f182be48dd1",
-      "strEvent": "New York Jets vs Cleveland Browns",
-      "strHomeTeam": "New York Jets",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-10-11",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-11T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "MetLife Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa6b69bb-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New York Jets vs Cleveland Browns",
       "strHomeTeam": "New York Jets",
@@ -155,20 +71,6 @@
       "strTimestamp": "2026-10-11T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "MetLife Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400200-f401-4e53-5175-0974e4f16cf7",
-      "strEvent": "Cleveland Browns vs Baltimore Ravens",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Baltimore Ravens",
-      "dateEvent": "2026-10-18",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-18T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -188,20 +90,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403430-1bc3-42c4-c7d8-39f38aed5f12",
-      "strEvent": "Tennessee Titans vs Cleveland Browns",
-      "strHomeTeam": "Tennessee Titans",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-10-25",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-25T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Nissan Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aaf6f621-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Tennessee Titans vs Cleveland Browns",
       "strHomeTeam": "Tennessee Titans",
@@ -211,20 +99,6 @@
       "strTimestamp": "2026-10-25T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Nissan Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403430-1bc3-42c4-c7d8-39f38aed5f12",
-      "strEvent": "Pittsburgh Steelers vs Cleveland Browns",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-11-01",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-01T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -244,20 +118,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10402700-1662-d8ad-f45c-0b0ea460d045",
-      "strEvent": "New Orleans Saints vs Cleveland Browns",
-      "strHomeTeam": "New Orleans Saints",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-11-08",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-08T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Caesars Superdome",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab381d58-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New Orleans Saints vs Cleveland Browns",
       "strHomeTeam": "New Orleans Saints",
@@ -272,20 +132,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10400200-f401-4e53-5175-0974e4f16cf7",
-      "strEvent": "Cleveland Browns vs Houston Texans",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-11-15",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-15T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab583279-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cleveland Browns vs Houston Texans",
       "strHomeTeam": "Cleveland Browns",
@@ -293,20 +139,6 @@
       "dateEvent": "2026-11-15",
       "strTime": "18:00:00Z",
       "strTimestamp": "2026-11-15T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400920-57c1-7656-e77e-1af3d900483e",
-      "strEvent": "Cleveland Browns vs Las Vegas Raiders",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-11-29",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-29T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Huntington Bank Field",
       "strTVStation": null,
@@ -328,20 +160,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10400810-db30-43d6-221c-620006f3ca19",
-      "strEvent": "Cleveland Browns vs Cincinnati Bengals",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Cincinnati Bengals",
-      "dateEvent": "2026-12-06",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-06T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cleveland Browns vs Cincinnati Bengals",
       "strHomeTeam": "Cleveland Browns",
@@ -349,20 +167,6 @@
       "dateEvent": "2026-12-06",
       "strTime": "18:00:00Z",
       "strTimestamp": "2026-12-06T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400750-259b-33ac-eee3-a3852e83cd1f",
-      "strEvent": "Cleveland Browns vs Atlanta Falcons",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-12-13",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-13T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Huntington Bank Field",
       "strTVStation": null,
@@ -384,20 +188,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10402120-b0bc-693d-098a-803014096eb0",
-      "strEvent": "New York Giants vs Cleveland Browns",
-      "strHomeTeam": "New York Giants",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-12-20",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-20T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "MetLife Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac6051b9-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New York Giants vs Cleveland Browns",
       "strHomeTeam": "New York Giants",
@@ -412,20 +202,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10404600-adcd-28ac-5826-b4d95ec2a228",
-      "strEvent": "Baltimore Ravens vs Cleveland Browns",
-      "strHomeTeam": "Baltimore Ravens",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-12-27",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-27T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "M",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac9e36ff-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Baltimore Ravens vs Cleveland Browns",
       "strHomeTeam": "Baltimore Ravens",
@@ -434,21 +210,7 @@
       "strTime": "18:00:00Z",
       "strTimestamp": "2026-12-27T18:00:00Z",
       "strLeague": "NFL",
-      "strVenue": "M",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400750-259b-33ac-eee3-a3852e83cd1f",
-      "strEvent": "Cleveland Browns vs Indianapolis Colts",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2027-01-03",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2027-01-03T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
+      "strVenue": "M&T Bank Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

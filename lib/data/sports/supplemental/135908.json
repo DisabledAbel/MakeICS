@@ -1,24 +1,10 @@
 {
   "teamId": "135908",
   "teamName": "Los Angeles Chargers",
-  "updatedAt": "2026-07-18T06:13:33.292Z",
+  "updatedAt": "2026-07-18T16:31:49.754Z",
   "generatedAt": "2026-07-18T06:13:33.292Z",
   "generateAt": "2026-07-18T06:13:33.292Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-10402100-447f-396e-8149-0a434ffb2f23",
-      "strEvent": "Los Angeles Chargers vs Arizona Cardinals",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "Arizona Cardinals",
-      "dateEvent": "2026-09-13",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-13T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-a9a87603-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Los Angeles Chargers vs Arizona Cardinals",
@@ -27,20 +13,6 @@
       "dateEvent": "2026-09-13",
       "strTime": "20:25:00Z",
       "strTimestamp": "2026-09-13T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401400-b89b-96e5-55d1-caa7e18de3d8",
-      "strEvent": "Los Angeles Chargers vs Las Vegas Raiders",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-09-20",
-      "strTime": "20:05:00Z",
-      "strTimestamp": "2026-09-20T20:05:00Z",
       "strLeague": "NFL",
       "strVenue": "SoFi Stadium",
       "strTVStation": null,
@@ -62,20 +34,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10401800-ab22-323d-721a-cee4713c4c2d",
-      "strEvent": "Buffalo Bills vs Los Angeles Chargers",
-      "strHomeTeam": "Buffalo Bills",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Highmark Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa04a02f-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Buffalo Bills vs Los Angeles Chargers",
       "strHomeTeam": "Buffalo Bills",
@@ -85,20 +43,6 @@
       "strTimestamp": "2026-09-27T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Highmark Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402520-96bf-e9f2-4f68-8521ca896060",
-      "strEvent": "Seattle Seahawks vs Los Angeles Chargers",
-      "strHomeTeam": "Seattle Seahawks",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-10-04",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-04T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lumen Field",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -118,20 +62,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10405110-ec3c-669e-2614-db3dc1736e95",
-      "strEvent": "Los Angeles Chargers vs Denver Broncos",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "Denver Broncos",
-      "dateEvent": "2026-10-11",
-      "strTime": "20:05:00Z",
-      "strTimestamp": "2026-10-11T20:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-aa94bc51-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Los Angeles Chargers vs Denver Broncos",
       "strHomeTeam": "Los Angeles Chargers",
@@ -141,20 +71,6 @@
       "strTimestamp": "2026-10-11T20:05:00Z",
       "strLeague": "NFL",
       "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10402510-8931-0d5f-9815-79bb79649a65",
-      "strEvent": "Kansas City Chiefs vs Los Angeles Chargers",
-      "strHomeTeam": "Kansas City Chiefs",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-10-18",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-18T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "GEHA Field at Arrowhead Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -174,20 +90,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10404900-d59e-b449-ef75-961e09ca027e",
-      "strEvent": "Los Angeles Rams vs Los Angeles Chargers",
-      "strHomeTeam": "Los Angeles Rams",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-11-01",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-11-01T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab166ac0-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Los Angeles Rams vs Los Angeles Chargers",
       "strHomeTeam": "Los Angeles Rams",
@@ -195,20 +97,6 @@
       "dateEvent": "2026-11-01",
       "strTime": "21:05:00Z",
       "strTimestamp": "2026-11-01T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10405110-ec3c-669e-2614-db3dc1736e95",
-      "strEvent": "Los Angeles Chargers vs Houston Texans",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-11-08",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-11-08T21:05:00Z",
       "strLeague": "NFL",
       "strVenue": "SoFi Stadium",
       "strTVStation": null,
@@ -230,20 +118,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10400920-57c1-7656-e77e-1af3d900483e",
-      "strEvent": "Baltimore Ravens vs Los Angeles Chargers",
-      "strHomeTeam": "Baltimore Ravens",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-11-17",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-11-17T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "M",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ab78ad5a-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Baltimore Ravens vs Los Angeles Chargers",
       "strHomeTeam": "Baltimore Ravens",
@@ -252,21 +126,7 @@
       "strTime": "01:15:00Z",
       "strTimestamp": "2026-11-17T01:15:00Z",
       "strLeague": "NFL",
-      "strVenue": "M",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10403410-997c-9c75-256b-3b012f468bd0",
-      "strEvent": "Los Angeles Chargers vs New York Jets",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "New York Jets",
-      "dateEvent": "2026-11-22",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-11-22T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
+      "strVenue": "M&T Bank Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -279,20 +139,6 @@
       "dateEvent": "2026-11-22",
       "strTime": "21:05:00Z",
       "strTimestamp": "2026-11-22T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10404500-e7cb-7fce-3f10-4eeb269bd179",
-      "strEvent": "Los Angeles Chargers vs New England Patriots",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-11-30",
-      "strTime": "01:20:00Z",
-      "strTimestamp": "2026-11-30T01:20:00Z",
       "strLeague": "NFL",
       "strVenue": "SoFi Stadium",
       "strTVStation": null,
@@ -314,20 +160,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403410-997c-9c75-256b-3b012f468bd0",
-      "strEvent": "Tampa Bay Buccaneers vs Los Angeles Chargers",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-12-06",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-06T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac01664b-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Tampa Bay Buccaneers vs Los Angeles Chargers",
       "strHomeTeam": "Tampa Bay Buccaneers",
@@ -337,20 +169,6 @@
       "strTimestamp": "2026-12-06T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10405110-ec3c-669e-2614-db3dc1736e95",
-      "strEvent": "Las Vegas Raiders vs Los Angeles Chargers",
-      "strHomeTeam": "Las Vegas Raiders",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-12-13",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-12-13T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Allegiant Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -370,34 +188,6 @@
       "source": "sportsdataverse"
     },
     {
-      "idEvent": "sdv-nfl-10403800-517c-7b8c-65a3-c61b95d86123",
-      "strEvent": "Los Angeles Chargers vs San Francisco 49ers",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "San Francisco 49ers",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-12-18T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10401200-a308-98ca-ad5f-95df2fefea68",
-      "strEvent": "Los Angeles Chargers vs San Francisco 49ers",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "San Francisco 49ers",
-      "dateEvent": "2026-12-18T01:15:00Z",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-12-18T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
       "idEvent": "sdv-nfl-ac413e34-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Los Angeles Chargers vs San Francisco 49ers",
       "strHomeTeam": "Los Angeles Chargers",
@@ -407,20 +197,6 @@
       "strTimestamp": "2026-12-18T01:15:00Z",
       "strLeague": "NFL",
       "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-10400325-48de-3d6a-be29-8f829437f4c8",
-      "strEvent": "Miami Dolphins vs Los Angeles Chargers",
-      "strHomeTeam": "Miami Dolphins",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-12-27",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-12-27T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Hard Rock Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
