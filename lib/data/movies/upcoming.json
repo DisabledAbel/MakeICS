@@ -984,7 +984,7 @@
     },
     {
       "id": "tt38866269",
-      "title": "Anh Hung",
+      "title": "Mr. Hero",
       "image": "https://m.media-amazon.com/images/M/MV5BN2YzZDdmYmQtOTRmYy00YzYxLThjZjktZWU0NWU2OWQwZGNkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 07 Aug 2026 00:00:00 GMT",
       "genres": [
@@ -1359,6 +1359,32 @@
         {
           "id": "nm7254946",
           "name": "Edy Modica"
+        }
+      ],
+      "label": "Aug 14, 2026"
+    },
+    {
+      "id": "tt43515101",
+      "title": "All Wishes Come True!",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzZmNzZiMDgtZTk1My00ZDA0LWFlODEtYjBjZjNkNmMzZmRlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+      ],
+      "people": [
+        {
+          "id": "nm9705929",
+          "name": "Hao Chen"
+        },
+        {
+          "id": "nm16987833",
+          "name": "Yuze Han"
+        },
+        {
+          "id": "nm16987834",
+          "name": "Yunqi Zhang"
         }
       ],
       "label": "Aug 14, 2026"
@@ -1752,7 +1778,7 @@
     {
       "id": "tt6628920",
       "title": "Idiots",
-      "image": "https://m.media-amazon.com/images/M/MV5BOTQzNmNkMWMtZDM2NS00YTM1LWFkZTItNWY4ODU5ODEwNGZiXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjI0MTAxYjktMTYxMi00MzIxLWFlMGMtMDJhNjJhZGZmZGU2XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -2024,7 +2050,7 @@
       "genres": [
         "Action",
         "Horror",
-        "Thriller"
+        "Sci-Fi"
       ],
       "people": [
         {
@@ -2170,7 +2196,7 @@
     {
       "id": "tt31349844",
       "title": "Runner",
-      "image": "https://m.media-amazon.com/images/M/MV5BZjBiYmVlZTMtZmY5MS00Nzg5LTg4MzYtNTI3NjJkMzFmMzQ5XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWY4YWYxNWItOGIzNC00ZDI3LTk3OGUtYWRlODRkMDA4YWY1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -2435,8 +2461,8 @@
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Animation",
-        "Comedy",
-        "Family"
+        "Adventure",
+        "Comedy"
       ],
       "people": [
         {
@@ -3977,7 +4003,7 @@
     {
       "id": "tt17055444",
       "title": "Hershey",
-      "image": "https://m.media-amazon.com/images/M/MV5BZDAxNTNkYjUtYTgxYy00ODMxLWFlNTEtMzcxYjU2ZWIzODk5XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2ViZTQ2N2QtZDRmMC00MTU2LTlhM2EtZjg2YzA0YzI4NzRkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -4178,13 +4204,37 @@
       "label": "Dec 04, 2026"
     },
     {
+      "id": "tt35638092",
+      "title": "Tender Loving Care",
+      "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
+      "genres": [],
+      "people": [
+        {
+          "id": "nm2359658",
+          "name": "Kate O'Flynn"
+        },
+        {
+          "id": "nm0047392",
+          "name": "Marion Bailey"
+        },
+        {
+          "id": "nm0422234",
+          "name": "Paul Jesson"
+        },
+        {
+          "id": "nm0424484",
+          "name": "Alice Bailey Johnson"
+        }
+      ],
+      "label": "Dec 04, 2026"
+    },
+    {
       "id": "tt34491649",
-      "title": "Zero A.D.",
+      "title": "Zero A.D.: The Birth of Christ",
       "image": "https://m.media-amazon.com/images/M/MV5BNjU2ZGE2MjktZjZhNC00ZWZiLWI2MTYtMThhZDJkZDQ3YTE2XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Dec 2026 00:00:00 GMT",
       "genres": [
         "Drama",
-        "History",
         "Thriller"
       ],
       "people": [
@@ -4480,8 +4530,8 @@
       "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
       "genres": [
         "Drama",
-        "Romance",
-        "War"
+        "History",
+        "Romance"
       ],
       "people": [
         {
@@ -5953,12 +6003,12 @@
           "name": "Matthew Modine"
         },
         {
-          "id": "nm0000603",
-          "name": "Vanessa Redgrave"
-        },
-        {
           "id": "nm0000092",
           "name": "John Cleese"
+        },
+        {
+          "id": "nm0000603",
+          "name": "Vanessa Redgrave"
         }
       ],
       "label": "Jul 04, 2027"
