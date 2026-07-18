@@ -83,8 +83,7 @@ function suggestionMeta(suggestion, type) {
   } else if (type === 'sports') {
     return [suggestion.sport, suggestion.league, suggestion.country].filter(Boolean).join(' · ');
   } else if (type === 'movies') {
-    const display = [suggestion?.releaseDate, suggestion?.category].filter(Boolean).join(' · ');
-    return display;
+    return [suggestion?.releaseDate, suggestion?.category].filter(Boolean).join(' · ');
   }
   return '';
 }
@@ -197,10 +196,24 @@ async function fetchSuggestions(query, type) {
     const response = await fetch(`${endpoint}${separator}q=${encodeURIComponent(query)}`, {
       signal: suggestionAbortController.signal
     });
-    const payload = await response.json();
+
+    const isJson = response.headers.get('content-type')?.includes('application/json');
+    let payload = null;
+    if (isJson) {
+      try {
+        payload = await response.json();
+      } catch (err) {
+        // Safe fallback if JSON parsing still fails
+      }
+    }
 
     if (!response.ok) {
-      throw new Error(payload.error || `Unable to load ${type} suggestions.`);
+      const errorMsg = payload?.error || `Unable to load ${type} suggestions (Status: ${response.status}).`;
+      throw new Error(errorMsg);
+    }
+
+    if (!payload) {
+      throw new Error(`Invalid response format from server (Status: ${response.status}).`);
     }
 
     renderSuggestions(payload.suggestions || [], type);
