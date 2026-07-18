@@ -45,66 +45,42 @@ async function serveStatic(req, res) {
   }
 }
 
+function handleRoute(handler, req, res) {
+  Promise.resolve()
+    .then(() => handler(req, res))
+    .catch((err) => {
+      if (!res.headersSent) {
+        res.statusCode = 500;
+        res.setHeader('Content-Type', 'application/json; charset=utf-8');
+        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
+      }
+    });
+}
+
 const server = http.createServer((req, res) => {
   const url = req.url || '';
   if (url.startsWith('/api/episodes')) {
-    Promise.resolve()
-      .then(() => episodesHandler(req, res))
-      .catch((err) => {
-        res.statusCode = 500;
-        res.setHeader('Content-Type', 'application/json; charset=utf-8');
-        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
-      });
+    handleRoute(episodesHandler, req, res);
     return;
   }
   if (url.startsWith('/api/search')) {
-    Promise.resolve()
-      .then(() => searchHandler(req, res))
-      .catch((err) => {
-        res.statusCode = 500;
-        res.setHeader('Content-Type', 'application/json; charset=utf-8');
-        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
-      });
+    handleRoute(searchHandler, req, res);
     return;
   }
   if (url.startsWith('/api/sports-search')) {
-    Promise.resolve()
-      .then(() => sportsSearchHandler(req, res))
-      .catch((err) => {
-        res.statusCode = 500;
-        res.setHeader('Content-Type', 'application/json; charset=utf-8');
-        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
-      });
+    handleRoute(sportsSearchHandler, req, res);
     return;
   }
   if (url.startsWith('/api/sports-events')) {
-    Promise.resolve()
-      .then(() => sportsEventsHandler(req, res))
-      .catch((err) => {
-        res.statusCode = 500;
-        res.setHeader('Content-Type', 'application/json; charset=utf-8');
-        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
-      });
+    handleRoute(sportsEventsHandler, req, res);
     return;
   }
   if (url.startsWith('/api/movies-search')) {
-    Promise.resolve()
-      .then(() => moviesSearchHandler(req, res))
-      .catch((err) => {
-        res.statusCode = 500;
-        res.setHeader('Content-Type', 'application/json; charset=utf-8');
-        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
-      });
+    handleRoute(moviesSearchHandler, req, res);
     return;
   }
   if (url.startsWith('/api/movies')) {
-    Promise.resolve()
-      .then(() => moviesHandler(req, res))
-      .catch((err) => {
-        res.statusCode = 500;
-        res.setHeader('Content-Type', 'application/json; charset=utf-8');
-        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
-      });
+    handleRoute(moviesHandler, req, res);
     return;
   }
   serveStatic(req, res);
@@ -116,8 +92,10 @@ server.listen(port, () => {
 
 process.on('unhandledRejection', (reason, promise) => {
   console.error('Unhandled Rejection at:', promise, 'reason:', reason);
+  process.exit(1);
 });
 
 process.on('uncaughtException', (err) => {
   console.error('Uncaught Exception thrown:', err);
+  process.exit(1);
 });
