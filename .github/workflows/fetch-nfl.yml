@@ -41,7 +41,7 @@ jobs:
         run: npx playwright install chromium --with-deps
 
       - name: Fetch NFL Schedules
-        run: node scripts/fetch-nfl.js
+        run: node scripts/nfl/fetch-nfl.js
 
       - name: Commit and Push
         env:
