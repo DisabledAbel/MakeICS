@@ -1,3 +1,5 @@
+'use strict';
+
 import http from 'node:http';
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -23,12 +25,21 @@ const contentTypes = {
 
 async function serveStatic(req, res) {
   const requestUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
-  const normalizedPath = path.normalize(decodeURIComponent(requestUrl.pathname)).replace(/^\.\.(\/|\\|$)/, '');
-  const relativePath = normalizedPath === '/' ? 'index.html' : normalizedPath.slice(1);
+  const decodedPathname = decodeURIComponent(requestUrl.pathname);
+  if (decodedPathname.includes('..') || decodedPathname.includes('\0')) {
+    res.writeHead(400);
+    res.end('Bad Request');
+    return;
+  }
+
+  const normalizedPath = path.normalize(decodedPathname);
+  const relativePath = normalizedPath === '/' ? 'index.html' : normalizedPath.replace(/^\//, '');
   const filePath = path.resolve(publicDir, relativePath);
 
-  const publicDirWithSlash = publicDir.endsWith(path.sep) ? publicDir : (publicDir + path.sep);
-  if (filePath !== publicDir && !filePath.startsWith(publicDirWithSlash)) {
+  // Robust path-traversal check using path.relative
+  const relative = path.relative(publicDir, filePath);
+  const isOutside = relative.startsWith('..') || path.isAbsolute(relative);
+  if (isOutside) {
     res.writeHead(403);
     res.end('Forbidden');
     return;
@@ -45,20 +56,59 @@ async function serveStatic(req, res) {
   }
 }
 
-function handleRoute(handler, req, res) {
-  Promise.resolve()
-    .then(() => handler(req, res))
-    .catch((err) => {
-      if (!res.headersSent) {
-        res.statusCode = 500;
-        res.setHeader('Content-Type', 'application/json; charset=utf-8');
-        res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
+function validateQueryParams(req, res) {
+  try {
+    const requestUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
+    for (const [key, val] of requestUrl.searchParams.entries()) {
+      if (typeof val !== 'string') continue;
+
+      let maxLen = 120;
+      if (key === 'tz' || key === 'timezone') maxLen = 50;
+      else if (key === 'since') maxLen = 30;
+      else if (key === 'type') maxLen = 30;
+      else if (key === 'format') maxLen = 10;
+      else if (key === 'teamId') maxLen = 50;
+
+      if (val.length > maxLen) {
+        res.writeHead(400, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ error: `Parameter '${key}' exceeds maximum length of ${maxLen} characters.` }));
+        return false;
       }
-    });
+
+      if (/[\0\r\n<>`$]/.test(val)) {
+        res.writeHead(400, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ error: `Parameter '${key}' contains invalid or unsafe characters.` }));
+        return false;
+      }
+    }
+    return true;
+  } catch (err) {
+    res.writeHead(400, { 'Content-Type': 'application/json' });
+    res.end(JSON.stringify({ error: 'Invalid request URL.' }));
+    return false;
+  }
+}
+
+async function handleRoute(handler, req, res) {
+  try {
+    await handler(req, res);
+  } catch (err) {
+    console.error('Error handling route:', err);
+    if (!res.headersSent) {
+      res.writeHead(500, { 'Content-Type': 'application/json; charset=utf-8' });
+      res.end(JSON.stringify({ error: err.message || 'Internal server error' }));
+    }
+  }
 }
 
 const server = http.createServer((req, res) => {
   const url = req.url || '';
+  if (url.startsWith('/api/')) {
+    if (!validateQueryParams(req, res)) {
+      return;
+    }
+  }
+
   if (url.startsWith('/api/episodes')) {
     handleRoute(episodesHandler, req, res);
     return;
