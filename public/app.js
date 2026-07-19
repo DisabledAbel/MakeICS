@@ -77,7 +77,7 @@ function showSuggestions(el, input) {
   input.setAttribute('aria-expanded', 'true');
 }
 
-function suggestionMeta(suggestion, type) {
+function formatSuggestionMeta(suggestion, type) {
   if (type === 'tv') {
     return [suggestion.premiered?.slice(0, 4), suggestion.status, suggestion.network].filter(Boolean).join(' · ');
   } else if (type === 'sports') {
@@ -130,7 +130,7 @@ function renderSuggestions(suggestions, type) {
     title.textContent = suggestion.name;
     option.append(title);
 
-    const meta = suggestionMeta(suggestion, type);
+    const meta = formatSuggestionMeta(suggestion, type);
     if (meta) {
       const details = document.createElement('span');
       details.className = 'suggestion-meta';
@@ -251,33 +251,52 @@ function safeHttpUrl(url) {
  * @returns {string}
  */
 function formatAirDate(dateStr, timeStr, timestamp, includeZones = false, timezone = 'UTC') {
-  const date = timestamp
-    ? new Date(timestamp + (!timestamp.includes('Z') && !/[-+]\d{2}:?\d{2}$/.test(timestamp) ? 'Z' : ''))
-    : new Date(`${dateStr}T${timeStr || '00:00:00'}Z`);
-
-  if (Number.isNaN(date.getTime())) {
+  let date;
+  try {
+    if (timestamp) {
+      date = new Date(timestamp + (!timestamp.includes('Z') && !/[-+]\d{2}:?\d{2}$/.test(timestamp) ? 'Z' : ''));
+    } else {
+      if (!dateStr || !/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+        return dateStr || 'Date TBD';
+      }
+      date = new Date(`${dateStr}T${timeStr || '00:00:00'}Z`);
+    }
+  } catch (err) {
     return dateStr || 'Date TBD';
   }
 
-  const local = new Intl.DateTimeFormat(undefined, {
-    dateStyle: 'medium',
-    timeStyle: (timeStr || timestamp) ? 'short' : undefined
-  }).format(date);
+  if (!date || Number.isNaN(date.getTime())) {
+    return dateStr || 'Date TBD';
+  }
+
+  let local = '';
+  try {
+    local = new Intl.DateTimeFormat(undefined, {
+      dateStyle: 'medium',
+      timeStyle: (timeStr || timestamp) ? 'short' : undefined
+    }).format(date);
+  } catch (err) {
+    return dateStr || 'Date TBD';
+  }
 
   if (includeZones && (timeStr || timestamp)) {
-    const timeOptions = { hour: 'numeric', minute: '2-digit', timeZoneName: 'short' };
-    const userTime = new Intl.DateTimeFormat('en-US', { ...timeOptions, timeZone: timezone }).format(date);
-    const et = new Intl.DateTimeFormat('en-US', { ...timeOptions, timeZone: 'America/New_York' }).format(date);
-    const pt = new Intl.DateTimeFormat('en-US', { ...timeOptions, timeZone: 'America/Los_Angeles' }).format(date);
+    try {
+      const timeOptions = { hour: 'numeric', minute: '2-digit', timeZoneName: 'short' };
+      const userTime = new Intl.DateTimeFormat('en-US', { ...timeOptions, timeZone: timezone }).format(date);
+      const et = new Intl.DateTimeFormat('en-US', { ...timeOptions, timeZone: 'America/New_York' }).format(date);
+      const pt = new Intl.DateTimeFormat('en-US', { ...timeOptions, timeZone: 'America/Los_Angeles' }).format(date);
 
-    let timesString = `${et} / ${pt}`;
-    if (timezone !== 'America/New_York' && timezone !== 'America/Los_Angeles' && timezone !== 'UTC') {
-      timesString = `${userTime} (${timesString})`;
-    } else if (timezone === 'UTC') {
-      timesString = `${date.toISOString().slice(11, 16)} UTC (${timesString})`;
+      let timesString = `${et} / ${pt}`;
+      if (timezone !== 'America/New_York' && timezone !== 'America/Los_Angeles' && timezone !== 'UTC') {
+        timesString = `${userTime} (${timesString})`;
+      } else if (timezone === 'UTC') {
+        timesString = `${date.toISOString().slice(11, 16)} UTC (${timesString})`;
+      }
+
+      return `${local} (${timesString})`;
+    } catch (err) {
+      return local;
     }
-
-    return `${local} (${timesString})`;
   }
 
   return local;
