@@ -262,6 +262,7 @@ function formatAirDate(dateStr, timeStr, timestamp, includeZones = false, timezo
       date = new Date(`${dateStr}T${timeStr || '00:00:00'}Z`);
     }
   } catch (err) {
+    console.debug("Date construction error:", err);
     return dateStr || 'Date TBD';
   }
 
@@ -276,6 +277,7 @@ function formatAirDate(dateStr, timeStr, timestamp, includeZones = false, timezo
       timeStyle: (timeStr || timestamp) ? 'short' : undefined
     }).format(date);
   } catch (err) {
+    console.debug("Intl.DateTimeFormat formatting error:", err);
     return dateStr || 'Date TBD';
   }
 
@@ -295,6 +297,7 @@ function formatAirDate(dateStr, timeStr, timestamp, includeZones = false, timezo
 
       return `${local} (${timesString})`;
     } catch (err) {
+      console.debug("Timezone display options error:", err);
       return local;
     }
   }

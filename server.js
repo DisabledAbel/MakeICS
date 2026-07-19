@@ -25,7 +25,15 @@ const contentTypes = {
 
 async function serveStatic(req, res) {
   const requestUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
-  const decodedPathname = decodeURIComponent(requestUrl.pathname);
+  let decodedPathname;
+  try {
+    decodedPathname = decodeURIComponent(requestUrl.pathname);
+  } catch (err) {
+    res.writeHead(400);
+    res.end('Bad Request');
+    return;
+  }
+
   if (decodedPathname.includes('..') || decodedPathname.includes('\0')) {
     res.writeHead(400);
     res.end('Bad Request');
@@ -75,10 +83,18 @@ function validateQueryParams(req, res) {
         return false;
       }
 
-      if (/[\0\r\n<>`$]/.test(val)) {
-        res.writeHead(400, { 'Content-Type': 'application/json' });
-        res.end(JSON.stringify({ error: `Parameter '${key}' contains invalid or unsafe characters.` }));
-        return false;
+      if (key === 'q' || key === 'show') {
+        if (/[\0\r\n]/.test(val)) {
+          res.writeHead(400, { 'Content-Type': 'application/json' });
+          res.end(JSON.stringify({ error: `Parameter '${key}' contains invalid or unsafe characters.` }));
+          return false;
+        }
+      } else {
+        if (/[\0\r\n<>`$]/.test(val)) {
+          res.writeHead(400, { 'Content-Type': 'application/json' });
+          res.end(JSON.stringify({ error: `Parameter '${key}' contains invalid or unsafe characters.` }));
+          return false;
+        }
       }
     }
     return true;
@@ -133,7 +149,7 @@ const server = http.createServer((req, res) => {
     handleRoute(moviesHandler, req, res);
     return;
   }
-  serveStatic(req, res);
+  handleRoute(serveStatic, req, res);
 });
 
 server.listen(port, () => {
