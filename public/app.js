@@ -381,7 +381,7 @@ function renderResults(payload, type) {
     actions.append(tvmazeLink);
 
     if (show.imdbId) {
-      const validImdb = safeHttpUrl(`https://www.imdb.com/title/${show.imdbId}/`);
+      const validImdb = safeHttpUrl(`https://www.imdb.com/title/${show.imdbId}//`);
       if (validImdb) {
         const imdbLink = document.createElement('a');
         imdbLink.href = validImdb;
@@ -389,18 +389,6 @@ function renderResults(payload, type) {
         imdbLink.rel = 'noopener';
         imdbLink.textContent = 'Open IMDb';
         actions.append(imdbLink);
-      }
-    }
-
-    if (payload.rt?.url) {
-      const validRt = safeHttpUrl(payload.rt.url);
-      if (validRt) {
-        const rtLink = document.createElement('a');
-        rtLink.href = validRt;
-        rtLink.target = '_blank';
-        rtLink.rel = 'noopener';
-        rtLink.textContent = 'Open Rotten Tomatoes';
-        actions.append(rtLink);
       }
     }
 
@@ -425,22 +413,12 @@ function renderResults(payload, type) {
       resultEl.append(imdbPanel);
     }
 
-    if (payload.rt?.sourceConfigured) {
-      const rtPanel = document.createElement('aside');
-      rtPanel.className = 'imdb-panel';
-      rtPanel.style.marginTop = '8px';
-      const rtDetails = [];
-      if (payload.rt.meterScore !== null) {
-        rtDetails.push(`Tomatometer: ${payload.rt.meterScore}%`);
-      }
-      if (payload.rt.meterClass) {
-        rtDetails.push(`Class: ${payload.rt.meterClass.replace(/_/g, ' ').toUpperCase()}`);
-      }
-      if (payload.rt.startYear) {
-        rtDetails.push(`Year: ${payload.rt.startYear}`);
-      }
-      rtPanel.textContent = `Rotten Tomatoes Enrichment: ${rtDetails.length ? rtDetails.join(' · ') : 'Enriched successfully'}`;
-      resultEl.append(rtPanel);
+    if (payload.imdbUpcoming?.sourceConfigured) {
+      const imdbUpcomingPanel = document.createElement('aside');
+      imdbUpcomingPanel.className = 'imdb-panel';
+      imdbUpcomingPanel.style.marginTop = '8px';
+      imdbUpcomingPanel.textContent = `IMDb Upcoming Episodes Enrichment: Active (Source: ${payload.imdbUpcoming.source})`;
+      resultEl.append(imdbUpcomingPanel);
     }
 
     renderList(episodes, 'tv', show, payload.timezone);
@@ -624,17 +602,17 @@ function renderList(items, type, context, timezone = 'UTC') {
       summaryEl.textContent = item.summary || 'No summary available.';
       link.href = item.url || context.tvmazeUrl;
 
-      if (item.rtUrl) {
-        const validRtEpUrl = safeHttpUrl(item.rtUrl);
-        if (validRtEpUrl) {
+      if (item.imdbUrl) {
+        const validImdbEpUrl = safeHttpUrl(item.imdbUrl);
+        if (validImdbEpUrl) {
           const linkContainer = link.parentElement;
-          const rtEpLink = document.createElement('a');
-          rtEpLink.href = validRtEpUrl;
-          rtEpLink.target = '_blank';
-          rtEpLink.rel = 'noopener';
-          rtEpLink.textContent = 'Rotten Tomatoes';
-          rtEpLink.style.marginLeft = '8px';
-          linkContainer.append(rtEpLink);
+          const imdbEpLink = document.createElement('a');
+          imdbEpLink.href = validImdbEpUrl;
+          imdbEpLink.target = '_blank';
+          imdbEpLink.rel = 'noopener';
+          imdbEpLink.textContent = 'IMDb Episode';
+          imdbEpLink.style.marginLeft = '8px';
+          linkContainer.append(imdbEpLink);
         }
       }
 
