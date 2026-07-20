@@ -164,3 +164,18 @@ test('toIcs calendar output includes IMDb details in description', async () => {
   const ics = toIcs(result, { timezone: 'UTC' });
   assert.match(ics, /IMDb Episode: https:\/\/www.imdb.com\/title\/tt1234567\/episodes\/\?season=2/);
 });
+
+test('fetchImdbEpisodes handles JSON-LD with missing airdate and falls back to DOM evaluation', async () => {
+  process.env.TEST_IMDB_FALLBACK = 'true';
+  try {
+    const episodes = await fetchImdbEpisodes('tt1234567', 2);
+    assert.equal(episodes.length, 1);
+    assert.equal(episodes[0].season, 2);
+    assert.equal(episodes[0].number, 3);
+    assert.equal(episodes[0].name, 'Future episode.');
+    assert.equal(episodes[0].airdate, '2026-06-11');
+    assert.equal(episodes[0].url, 'https://www.imdb.com/title/tt1234567/episodes/?season=2');
+  } finally {
+    delete process.env.TEST_IMDB_FALLBACK;
+  }
+});

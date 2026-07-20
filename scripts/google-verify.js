@@ -119,8 +119,8 @@ async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate,
       console.log(`    Google matches both. Defaulting to IMDb: ${imdbDate}`);
       return imdbDate;
     } else {
-      console.log(`    Google matches neither. Defaulting to IMDb: ${imdbDate}`);
-      return imdbDate;
+      console.log(`    Google matches neither. Defaulting to TVMaze: ${tvmazeDate}`);
+      return tvmazeDate;
     }
   } catch (err) {
     console.warn(`    Google search failed for "${query}":`, err.message);
@@ -297,6 +297,11 @@ async function main() {
         }
       } catch (err) {
         console.warn(`  Failed to retrieve data from TVMaze for "${query}":`, err.message);
+        continue;
+      }
+
+      if (!tvmazeShow) {
+        console.warn(`  TVMaze show lookup was unsuccessful for "${query}". Skipping.`);
         continue;
       }
 

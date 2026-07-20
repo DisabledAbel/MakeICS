@@ -142,11 +142,15 @@ async function main() {
           }
         }
 
-        showsData[imdbId] = {
-          imdbId,
-          title: query,
-          episodes: imdbEpisodesList
-        };
+        if (imdbEpisodesList.length > 0 || !showsData[imdbId]) {
+          showsData[imdbId] = {
+            imdbId,
+            title: query,
+            episodes: imdbEpisodesList
+          };
+        } else {
+          console.log(`  IMDb fetch returned no episodes. Preserving existing cached entry for ${imdbId}.`);
+        }
 
       } catch (err) {
         console.error(`Error processing "${query}":`, err.message);
