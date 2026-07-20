@@ -1,0 +1,2372 @@
+{
+  "generatedAt": "2026-07-20T06:09:18.431Z",
+  "shows": {
+    "tt23731346": {
+      "imdbId": "tt23731346",
+      "title": "Sofia the First: Royal Magic",
+      "episodes": []
+    },
+    "tt1170244": {
+      "imdbId": "tt1170244",
+      "title": "Morning Joe",
+      "episodes": []
+    },
+    "tt2163397": {
+      "imdbId": "tt2163397",
+      "title": "CNN This Morning",
+      "episodes": []
+    },
+    "tt0072506": {
+      "imdbId": "tt0072506",
+      "title": "Good Morning America",
+      "episodes": []
+    },
+    "tt0044298": {
+      "imdbId": "tt0044298",
+      "title": "Today",
+      "episodes": []
+    },
+    "tt15383132": {
+      "imdbId": "tt15383132",
+      "title": "CBS Mornings",
+      "episodes": []
+    },
+    "tt40844552": {
+      "imdbId": "tt40844552",
+      "title": "Money, Power, Politics with Stephanie Ruhle",
+      "episodes": []
+    },
+    "tt14865358": {
+      "imdbId": "tt14865358",
+      "title": "Today 3rd Hour",
+      "episodes": []
+    },
+    "tt0470977": {
+      "imdbId": "tt0470977",
+      "title": "The Situation Room",
+      "episodes": []
+    },
+    "tt0123366": {
+      "imdbId": "tt0123366",
+      "title": "The View",
+      "episodes": [
+        {
+          "season": 29,
+          "number": 8,
+          "name": "Episode 8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35680006/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 29,
+          "number": 9,
+          "name": "Episode 9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37599501/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 29,
+          "number": 10,
+          "name": "Episode 10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37718233/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 29,
+          "number": 11,
+          "name": "Episode 11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37718234/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 29,
+          "number": 12,
+          "name": "Episode 12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37718235/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 29,
+          "number": 15,
+          "name": "Episode 15",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38341466/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 29,
+          "number": 16,
+          "name": "Episode 16",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38341469/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 29,
+          "number": 17,
+          "name": "Episode 17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38341473/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 29,
+          "number": 18,
+          "name": "Episode 18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38341479/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 29,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38341484/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 29,
+          "number": 22,
+          "name": "Episode 22",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38453293/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 29,
+          "number": 23,
+          "name": "Episode 23",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38453294/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 29,
+          "number": 24,
+          "name": "Episode 24",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38453296/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 29,
+          "number": 25,
+          "name": "Episode 25",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38453297/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 29,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38453298/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 29,
+          "number": 29,
+          "name": "Episode 29",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38551631/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 29,
+          "number": 30,
+          "name": "Episode 30",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38551632/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 28,
+          "number": 3,
+          "name": "Episode 3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33306597/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 28,
+          "number": 4,
+          "name": "Episode 4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31887232/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 28,
+          "number": 5,
+          "name": "Episode 5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32410792/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 28,
+          "number": 6,
+          "name": "Episode 6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32461061/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 28,
+          "number": 9,
+          "name": "Episode 9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33067844/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 28,
+          "number": 10,
+          "name": "Episode 10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33067845/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 28,
+          "number": 11,
+          "name": "Episode 11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33067848/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 28,
+          "number": 12,
+          "name": "Episode 12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33067854/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 28,
+          "number": 13,
+          "name": "Episode 13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33067857/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 28,
+          "number": 16,
+          "name": "Episode 16",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33384127/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 28,
+          "number": 17,
+          "name": "Episode 17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33384128/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 28,
+          "number": 18,
+          "name": "Episode 18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33384129/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 28,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33384130/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 28,
+          "number": 20,
+          "name": "Episode 20",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33384131/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 28,
+          "number": 23,
+          "name": "Episode 23",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33480071/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 28,
+          "number": 24,
+          "name": "Episode 24",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33480073/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 28,
+          "number": 25,
+          "name": "Episode 25",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33480074/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 28,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33480076/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 28,
+          "number": 27,
+          "name": "Episode 27",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33480077/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 28,
+          "number": 30,
+          "name": "Episode 30",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33512990/?ref_=ttep_ep_20"
+        }
+      ]
+    },
+    "tt32174316": {
+      "imdbId": "tt32174316",
+      "title": "Inside Politics",
+      "episodes": []
+    },
+    "tt28696475": {
+      "imdbId": "tt28696475",
+      "title": "Bianca Across the Nation",
+      "episodes": []
+    },
+    "tt21450424": {
+      "imdbId": "tt21450424",
+      "title": "NBC News Daily",
+      "episodes": []
+    },
+    "tt0069658": {
+      "imdbId": "tt0069658",
+      "title": "The Young and the Restless",
+      "episodes": []
+    },
+    "tt12690356": {
+      "imdbId": "tt12690356",
+      "title": "GMA3",
+      "episodes": [
+        {
+          "season": 6,
+          "number": 15,
+          "name": "Episode 15",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38322681/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 6,
+          "number": 16,
+          "name": "Episode 16",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38322682/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 6,
+          "number": 17,
+          "name": "Episode 17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38322683/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 6,
+          "number": 18,
+          "name": "Episode 18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38322684/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 6,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38322685/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 6,
+          "number": 22,
+          "name": "Episode 22",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38453311/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 6,
+          "number": 23,
+          "name": "Episode 23",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38453313/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 6,
+          "number": 24,
+          "name": "Episode 24",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38453314/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 6,
+          "number": 25,
+          "name": "Episode 25",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38453315/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 6,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38453317/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 6,
+          "number": 29,
+          "name": "Episode 29",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38551653/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 6,
+          "number": 30,
+          "name": "Episode 30",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38551656/?ref_=ttep_ep_12"
+        }
+      ]
+    },
+    "tt0092325": {
+      "imdbId": "tt0092325",
+      "title": "The Bold and the Beautiful",
+      "episodes": []
+    },
+    "tt32125269": {
+      "imdbId": "tt32125269",
+      "title": "Beyond the Gates",
+      "episodes": []
+    },
+    "tt13586680": {
+      "imdbId": "tt13586680",
+      "title": "American Agenda",
+      "episodes": []
+    },
+    "tt0056758": {
+      "imdbId": "tt0056758",
+      "title": "General Hospital",
+      "episodes": []
+    },
+    "tt6992876": {
+      "imdbId": "tt6992876",
+      "title": "Deadline: White House",
+      "episodes": []
+    },
+    "tt0383070": {
+      "imdbId": "tt0383070",
+      "title": "Al Rojo Vivo",
+      "episodes": []
+    },
+    "tt7174218": {
+      "imdbId": "tt7174218",
+      "title": "The Beat with Ari Melber",
+      "episodes": []
+    },
+    "tt27545715": {
+      "imdbId": "tt27545715",
+      "title": "Carl Higbie Frontline",
+      "episodes": []
+    },
+    "tt0231035": {
+      "imdbId": "tt0231035",
+      "title": "NBC Nightly News",
+      "episodes": []
+    },
+    "tt10573354": {
+      "imdbId": "tt10573354",
+      "title": "CBS Evening News",
+      "episodes": []
+    },
+    "tt0184090": {
+      "imdbId": "tt0184090",
+      "title": "ABC World News Tonight with David Muir",
+      "episodes": []
+    },
+    "tt13976668": {
+      "imdbId": "tt13976668",
+      "title": "Rob Schmitt Tonight",
+      "episodes": []
+    },
+    "tt32339039": {
+      "imdbId": "tt32339039",
+      "title": "Elizabeth Vargas Reports",
+      "episodes": []
+    },
+    "tt27654411": {
+      "imdbId": "tt27654411",
+      "title": "ABC Prime with Linsey Davis",
+      "episodes": []
+    },
+    "tt29797830": {
+      "imdbId": "tt29797830",
+      "title": "The 1% Club",
+      "episodes": []
+    },
+    "tt7414406": {
+      "imdbId": "tt7414406",
+      "title": "All American",
+      "episodes": []
+    },
+    "tt40385200": {
+      "imdbId": "tt40385200",
+      "title": "World War II with Tom Hanks",
+      "episodes": []
+    },
+    "tt2926042": {
+      "imdbId": "tt2926042",
+      "title": "All In with Chris Hayes",
+      "episodes": []
+    },
+    "tt5665418": {
+      "imdbId": "tt5665418",
+      "title": "Below Deck Mediterranean",
+      "episodes": [
+        {
+          "season": 10,
+          "number": 29,
+          "name": "Episode 29",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36849925/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt1587934": {
+      "imdbId": "tt1587934",
+      "title": "American Ninja Warrior",
+      "episodes": [
+        {
+          "season": 17,
+          "number": 1,
+          "name": "Episode 1",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38091171/?ref_=ttep_ep_14"
+        }
+      ]
+    },
+    "tt28304310": {
+      "imdbId": "tt28304310",
+      "title": "90 Day: The Last Resort",
+      "episodes": []
+    },
+    "tt22002472": {
+      "imdbId": "tt22002472",
+      "title": "Cuomo",
+      "episodes": []
+    },
+    "tt0380086": {
+      "imdbId": "tt0380086",
+      "title": "Anderson Cooper 360°",
+      "episodes": []
+    },
+    "tt28184020": {
+      "imdbId": "tt28184020",
+      "title": "Contraband: Seized at the Border",
+      "episodes": []
+    },
+    "tt16738756": {
+      "imdbId": "tt16738756",
+      "title": "Ugliest House in America",
+      "episodes": []
+    },
+    "tt31186391": {
+      "imdbId": "tt31186391",
+      "title": "The Quiz with Balls",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Episode 8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38225196/?ref_=ttep_ep_12"
+        }
+      ]
+    },
+    "tt31448173": {
+      "imdbId": "tt31448173",
+      "title": "The McBee Dynasty: Real American Cowboys",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Episode 1",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37458151/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt37522426": {
+      "imdbId": "tt37522426",
+      "title": "A Killer Among Friends",
+      "episodes": []
+    },
+    "tt32333081": {
+      "imdbId": "tt32333081",
+      "title": "Deadly Influence: The Social Media Murders",
+      "episodes": []
+    },
+    "tt42815500": {
+      "imdbId": "tt42815500",
+      "title": "Little Singles",
+      "episodes": []
+    },
+    "tt39402046": {
+      "imdbId": "tt39402046",
+      "title": "120 Hours Behind Bars",
+      "episodes": []
+    },
+    "tt2912216": {
+      "imdbId": "tt2912216",
+      "title": "Fatal Attraction",
+      "episodes": [
+        {
+          "season": 16,
+          "number": 8,
+          "name": "Episode 8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33783468/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 16,
+          "number": 15,
+          "name": "Episode 15",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33783470/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 16,
+          "number": 22,
+          "name": "Episode 22",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt34163979/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 16,
+          "number": 29,
+          "name": "Episode 29",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt34163981/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 15,
+          "number": 4,
+          "name": "Episode 4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32195342/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 15,
+          "number": 11,
+          "name": "Episode 11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32195344/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 15,
+          "number": 18,
+          "name": "Episode 18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32283315/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 15,
+          "number": 25,
+          "name": "Episode 25",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32350530/?ref_=ttep_ep_18"
+        }
+      ]
+    },
+    "tt13438584": {
+      "imdbId": "tt13438584",
+      "title": "Greg Kelly Reports",
+      "episodes": []
+    },
+    "tt15084878": {
+      "imdbId": "tt15084878",
+      "title": "On Balance with Leland Vittert",
+      "episodes": []
+    },
+    "tt1280627": {
+      "imdbId": "tt1280627",
+      "title": "The Rachel Maddow Show",
+      "episodes": []
+    },
+    "tt28315902": {
+      "imdbId": "tt28315902",
+      "title": "The Source with Kaitlan Collins",
+      "episodes": []
+    },
+    "tt42423511": {
+      "imdbId": "tt42423511",
+      "title": "Crashers",
+      "episodes": []
+    },
+    "tt4864850": {
+      "imdbId": "tt4864850",
+      "title": "For My Man",
+      "episodes": [
+        {
+          "season": 9,
+          "number": 3,
+          "name": "Episode 3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35947560/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 9,
+          "number": 7,
+          "name": "Episode 7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35947556/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 9,
+          "number": 24,
+          "name": "Episode 24",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38692015/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 9,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37544727/?ref_=ttep_ep_26"
+        }
+      ]
+    },
+    "tt31556788": {
+      "imdbId": "tt31556788",
+      "title": "Lethally Blonde",
+      "episodes": []
+    },
+    "tt34869195": {
+      "imdbId": "tt34869195",
+      "title": "90 Day: The Last Resort Between the Sheets",
+      "episodes": []
+    },
+    "tt27722982": {
+      "imdbId": "tt27722982",
+      "title": "Chris Plante: The Right Squad",
+      "episodes": []
+    },
+    "tt6304194": {
+      "imdbId": "tt6304194",
+      "title": "The Wall",
+      "episodes": [
+        {
+          "season": 5,
+          "number": 2,
+          "name": "Episode 2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33301499/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 5,
+          "number": 9,
+          "name": "Episode 9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33301501/?ref_=ttep_ep_20"
+        }
+      ]
+    },
+    "tt7587890": {
+      "imdbId": "tt7587890",
+      "title": "The Rookie",
+      "episodes": []
+    },
+    "tt2057880": {
+      "imdbId": "tt2057880",
+      "title": "Watch What Happens Live",
+      "episodes": []
+    },
+    "tt40431872": {
+      "imdbId": "tt40431872",
+      "title": "History's Greatest Machines with Dolph Lundgren",
+      "episodes": []
+    },
+    "tt3444938": {
+      "imdbId": "tt3444938",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "episodes": []
+    },
+    "tt0320037": {
+      "imdbId": "tt0320037",
+      "title": "Jimmy Kimmel Live",
+      "episodes": []
+    },
+    "tt3513388": {
+      "imdbId": "tt3513388",
+      "title": "Late Night with Seth Meyers",
+      "episodes": []
+    },
+    "tt21840464": {
+      "imdbId": "tt21840464",
+      "title": "No Gamble, No Future",
+      "episodes": []
+    },
+    "tt0171925": {
+      "imdbId": "tt0171925",
+      "title": "ABC World News Now",
+      "episodes": []
+    },
+    "tt1601141": {
+      "imdbId": "tt1601141",
+      "title": "WWE NXT",
+      "episodes": [
+        {
+          "season": 20,
+          "number": 1,
+          "name": "Episode 1",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43692381/?ref_=ttep_ep_35"
+        },
+        {
+          "season": 19,
+          "number": 2,
+          "name": "Episode 2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38047533/?ref_=ttep_ep_35"
+        },
+        {
+          "season": 19,
+          "number": 9,
+          "name": "Episode 9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38047534/?ref_=ttep_ep_36"
+        },
+        {
+          "season": 19,
+          "number": 16,
+          "name": "Episode 16",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38047535/?ref_=ttep_ep_37"
+        },
+        {
+          "season": 19,
+          "number": 23,
+          "name": "Episode 23",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38047537/?ref_=ttep_ep_38"
+        },
+        {
+          "season": 19,
+          "number": 30,
+          "name": "Episode 30",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38047539/?ref_=ttep_ep_39"
+        }
+      ]
+    },
+    "tt0983514": {
+      "imdbId": "tt0983514",
+      "title": "Kitchen Nightmares",
+      "episodes": []
+    },
+    "tt0759364": {
+      "imdbId": "tt0759364",
+      "title": "America's Got Talent",
+      "episodes": [
+        {
+          "season": 20,
+          "number": 2,
+          "name": "Episode 2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38117749/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 20,
+          "number": 3,
+          "name": "Episode 3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38117750/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 20,
+          "number": 9,
+          "name": "Episode 9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38188473/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 20,
+          "number": 10,
+          "name": "Episode 10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38188474/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 20,
+          "number": 16,
+          "name": "Episode 16",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38262445/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 20,
+          "number": 17,
+          "name": "Episode 17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38262447/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 20,
+          "number": 23,
+          "name": "Episode 23",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38503686/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 20,
+          "number": 24,
+          "name": "Episode 24",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38503687/?ref_=ttep_ep_23"
+        }
+      ]
+    },
+    "tt3205302": {
+      "imdbId": "tt3205302",
+      "title": "Beat Bobby Flay",
+      "episodes": []
+    },
+    "tt38940120": {
+      "imdbId": "tt38940120",
+      "title": "In the City",
+      "episodes": []
+    },
+    "tt1773182": {
+      "imdbId": "tt1773182",
+      "title": "Love It or List It",
+      "episodes": []
+    },
+    "tt9159144": {
+      "imdbId": "tt9159144",
+      "title": "Dark Side of the Ring",
+      "episodes": []
+    },
+    "tt10589968": {
+      "imdbId": "tt10589968",
+      "title": "The Secret of Skinwalker Ranch",
+      "episodes": [
+        {
+          "season": 6,
+          "number": 2,
+          "name": "Episode 2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37897760/?ref_=ttep_ep_14"
+        }
+      ]
+    },
+    "tt16022020": {
+      "imdbId": "tt16022020",
+      "title": "Neighborhood Wars",
+      "episodes": []
+    },
+    "tt29622673": {
+      "imdbId": "tt29622673",
+      "title": "Ms. Pat Settles It",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Episode 4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33333206/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "name": "Episode 18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33373072/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 25,
+          "name": "Episode 25",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33562178/?ref_=ttep_ep_9"
+        }
+      ]
+    },
+    "tt34881067": {
+      "imdbId": "tt34881067",
+      "title": "Baylen Out Loud",
+      "episodes": []
+    },
+    "tt6988910": {
+      "imdbId": "tt6988910",
+      "title": "Lakefront Bargain Hunt: Renovation",
+      "episodes": []
+    },
+    "tt5594440": {
+      "imdbId": "tt5594440",
+      "title": "People Magazine Investigates",
+      "episodes": []
+    },
+    "tt14671508": {
+      "imdbId": "tt14671508",
+      "title": "Password",
+      "episodes": []
+    },
+    "tt23709380": {
+      "imdbId": "tt23709380",
+      "title": "Customer Wars",
+      "episodes": []
+    },
+    "tt29294511": {
+      "imdbId": "tt29294511",
+      "title": "Faster with Newbern and Cotten",
+      "episodes": []
+    },
+    "tt10691888": {
+      "imdbId": "tt10691888",
+      "title": "All Elite Wrestling: Dynamite",
+      "episodes": [
+        {
+          "season": 8,
+          "number": 2,
+          "name": "Episode 2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43691697/?ref_=ttep_ep_35"
+        },
+        {
+          "season": 7,
+          "number": 3,
+          "name": "Episode 3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37676585/?ref_=ttep_ep_36"
+        },
+        {
+          "season": 7,
+          "number": 10,
+          "name": "Episode 10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37676588/?ref_=ttep_ep_37"
+        },
+        {
+          "season": 7,
+          "number": 17,
+          "name": "Episode 17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38058150/?ref_=ttep_ep_38"
+        },
+        {
+          "season": 7,
+          "number": 24,
+          "name": "Episode 24",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38058151/?ref_=ttep_ep_39"
+        }
+      ]
+    },
+    "tt0321019": {
+      "imdbId": "tt0321019",
+      "title": "Who Wants to Be a Millionaire",
+      "episodes": []
+    },
+    "tt0251497": {
+      "imdbId": "tt0251497",
+      "title": "Big Brother",
+      "episodes": [
+        {
+          "season": 27,
+          "number": 3,
+          "name": "Episode 3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37879967/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 27,
+          "number": 4,
+          "name": "Episode 4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37879969/?ref_=ttep_ep_27"
+        },
+        {
+          "season": 27,
+          "number": 5,
+          "name": "Episode 5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37879970/?ref_=ttep_ep_28"
+        },
+        {
+          "season": 27,
+          "number": 9,
+          "name": "Episode 9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37879972/?ref_=ttep_ep_29"
+        },
+        {
+          "season": 27,
+          "number": 10,
+          "name": "Episode 10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37879973/?ref_=ttep_ep_30"
+        },
+        {
+          "season": 27,
+          "number": 11,
+          "name": "Episode 11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37879974/?ref_=ttep_ep_31"
+        },
+        {
+          "season": 27,
+          "number": 17,
+          "name": "Episode 17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37879977/?ref_=ttep_ep_32"
+        },
+        {
+          "season": 27,
+          "number": 18,
+          "name": "Episode 18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38071774/?ref_=ttep_ep_33"
+        },
+        {
+          "season": 27,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38071776/?ref_=ttep_ep_34"
+        },
+        {
+          "season": 27,
+          "number": 21,
+          "name": "Episode 21",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38071777/?ref_=ttep_ep_35"
+        },
+        {
+          "season": 27,
+          "number": 24,
+          "name": "Episode 24",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38071780/?ref_=ttep_ep_36"
+        },
+        {
+          "season": 27,
+          "number": 25,
+          "name": "Episode 25",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38071781/?ref_=ttep_ep_37"
+        },
+        {
+          "season": 27,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38071782/?ref_=ttep_ep_38"
+        },
+        {
+          "season": 27,
+          "number": 28,
+          "name": "Episode 28",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38071783/?ref_=ttep_ep_39"
+        }
+      ]
+    },
+    "tt1694423": {
+      "imdbId": "tt1694423",
+      "title": "MasterChef",
+      "episodes": [
+        {
+          "season": 15,
+          "number": 3,
+          "name": "Episode 3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37923898/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 15,
+          "number": 10,
+          "name": "Episode 10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38076273/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 15,
+          "number": 17,
+          "name": "Episode 17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38224559/?ref_=ttep_ep_17"
+        }
+      ]
+    },
+    "tt30972594": {
+      "imdbId": "tt30972594",
+      "title": "The Valley",
+      "episodes": []
+    },
+    "tt43455095": {
+      "imdbId": "tt43455095",
+      "title": "Most Extreme Humans",
+      "episodes": []
+    },
+    "tt4803766": {
+      "imdbId": "tt4803766",
+      "title": "Alone",
+      "episodes": []
+    },
+    "tt43138820": {
+      "imdbId": "tt43138820",
+      "title": "Million Dollar Nannies",
+      "episodes": []
+    },
+    "tt34688214": {
+      "imdbId": "tt34688214",
+      "title": "Pompeii: Out of Time with Tom Hiddleston",
+      "episodes": []
+    },
+    "tt28512193": {
+      "imdbId": "tt28512193",
+      "title": "My Strange Arrest",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 3,
+          "name": "Episode 3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37742877/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "name": "Episode 10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37742945/?ref_=ttep_ep_12"
+        }
+      ]
+    },
+    "tt3165150": {
+      "imdbId": "tt3165150",
+      "title": "Guy's Grocery Games",
+      "episodes": []
+    },
+    "tt36470536": {
+      "imdbId": "tt36470536",
+      "title": "Next Gen NYC",
+      "episodes": []
+    },
+    "tt9425082": {
+      "imdbId": "tt9425082",
+      "title": "Body Cam",
+      "episodes": []
+    },
+    "tt10580092": {
+      "imdbId": "tt10580092",
+      "title": "Tyler Perry's The Oval",
+      "episodes": []
+    },
+    "tt4680444": {
+      "imdbId": "tt4680444",
+      "title": "Forged in Fire",
+      "episodes": [
+        {
+          "season": 10,
+          "number": 3,
+          "name": "Episode 3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38090966/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 10,
+          "number": 10,
+          "name": "Episode 10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38090968/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 10,
+          "number": 17,
+          "name": "Episode 17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38357462/?ref_=ttep_ep_27"
+        },
+        {
+          "season": 10,
+          "number": 24,
+          "name": "Episode 24",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38516832/?ref_=ttep_ep_28"
+        }
+      ]
+    },
+    "tt21157588": {
+      "imdbId": "tt21157588",
+      "title": "Surviving Earth",
+      "episodes": []
+    },
+    "tt1249208": {
+      "imdbId": "tt1249208",
+      "title": "Celebrity Family Feud",
+      "episodes": [
+        {
+          "season": 12,
+          "number": 11,
+          "name": "Episode 11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38034851/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 12,
+          "number": 18,
+          "name": "Episode 18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38354245/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 11,
+          "number": 16,
+          "name": "Episode 16",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33334217/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 11,
+          "number": 17,
+          "name": "Episode 17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33310272/?ref_=ttep_ep_11"
+        }
+      ]
+    },
+    "tt7686456": {
+      "imdbId": "tt7686456",
+      "title": "Jersey Shore: Family Vacation",
+      "episodes": [
+        {
+          "season": 8,
+          "number": 4,
+          "name": "Episode 4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39310942/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 8,
+          "number": 11,
+          "name": "Episode 11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39310948/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 8,
+          "number": 18,
+          "name": "Episode 18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42559000/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 8,
+          "number": 25,
+          "name": "Episode 25",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42559002/?ref_=ttep_ep_18"
+        }
+      ]
+    },
+    "tt0497079": {
+      "imdbId": "tt0497079",
+      "title": "The Real Housewives of Orange County",
+      "episodes": [
+        {
+          "season": 19,
+          "number": 4,
+          "name": "Episode 4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36404517/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 19,
+          "number": 11,
+          "name": "Episode 11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36404518/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 19,
+          "number": 18,
+          "name": "Episode 18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36404519/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 19,
+          "number": 25,
+          "name": "Episode 25",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36404520/?ref_=ttep_ep_12"
+        }
+      ]
+    },
+    "tt0423652": {
+      "imdbId": "tt0423652",
+      "title": "The First 48",
+      "episodes": []
+    },
+    "tt0421463": {
+      "imdbId": "tt0421463",
+      "title": "TNA iMPACT!",
+      "episodes": []
+    },
+    "tt36051687": {
+      "imdbId": "tt36051687",
+      "title": "Secrets Declassified with David Duchovny",
+      "episodes": []
+    },
+    "tt29033873": {
+      "imdbId": "tt29033873",
+      "title": "The Man Will Burn",
+      "episodes": []
+    },
+    "tt10038600": {
+      "imdbId": "tt10038600",
+      "title": "Press Your Luck",
+      "episodes": [
+        {
+          "season": 6,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33371786/?ref_=ttep_ep_7"
+        }
+      ]
+    },
+    "tt0437741": {
+      "imdbId": "tt0437741",
+      "title": "Project Runway",
+      "episodes": [
+        {
+          "season": 21,
+          "number": 4,
+          "name": "Episode 4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt34062087/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 21,
+          "number": 11,
+          "name": "Episode 11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt34062092/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 21,
+          "number": 18,
+          "name": "Episode 18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt34062094/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 21,
+          "number": 25,
+          "name": "Episode 25",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt34062091/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt2100976": {
+      "imdbId": "tt2100976",
+      "title": "Impractical Jokers",
+      "episodes": [
+        {
+          "season": 12,
+          "number": 4,
+          "name": "Episode 4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37991328/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 12,
+          "number": 11,
+          "name": "Episode 11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38177634/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt1643266": {
+      "imdbId": "tt1643266",
+      "title": "Ancient Aliens",
+      "episodes": [
+        {
+          "season": 21,
+          "number": 5,
+          "name": "Episode 5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37976090/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 21,
+          "number": 12,
+          "name": "Episode 12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38132659/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 21,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38132665/?ref_=ttep_ep_12"
+        }
+      ]
+    },
+    "tt28070105": {
+      "imdbId": "tt28070105",
+      "title": "Magicampers",
+      "episodes": []
+    },
+    "tt0206512": {
+      "imdbId": "tt0206512",
+      "title": "SpongeBob SquarePants",
+      "episodes": [
+        {
+          "season": 16,
+          "number": 12,
+          "name": "Episode 12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37785250/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 16,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38423067/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 16,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37785310/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt12915960": {
+      "imdbId": "tt12915960",
+      "title": "The Patrick Star Show",
+      "episodes": [
+        {
+          "season": 4,
+          "number": 12,
+          "name": "Episode 12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38268875/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38457031/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38486744/?ref_=ttep_ep_8"
+        }
+      ]
+    },
+    "tt0227972": {
+      "imdbId": "tt0227972",
+      "title": "WWE Friday Night SmackDown",
+      "episodes": [
+        {
+          "season": 27,
+          "number": 5,
+          "name": "Episode 5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38047527/?ref_=ttep_ep_36"
+        },
+        {
+          "season": 27,
+          "number": 12,
+          "name": "Episode 12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38047528/?ref_=ttep_ep_37"
+        },
+        {
+          "season": 27,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38047529/?ref_=ttep_ep_38"
+        },
+        {
+          "season": 27,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38047530/?ref_=ttep_ep_39"
+        },
+        {
+          "season": 26,
+          "number": 6,
+          "name": "Episode 6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33063361/?ref_=ttep_ep_36"
+        },
+        {
+          "season": 26,
+          "number": 13,
+          "name": "Episode 13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33063362/?ref_=ttep_ep_37"
+        },
+        {
+          "season": 26,
+          "number": 20,
+          "name": "Episode 20",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33063363/?ref_=ttep_ep_38"
+        },
+        {
+          "season": 26,
+          "number": 27,
+          "name": "Episode 27",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33063366/?ref_=ttep_ep_39"
+        }
+      ]
+    },
+    "tt11761176": {
+      "imdbId": "tt11761176",
+      "title": "Power Book III: Raising Kanan",
+      "episodes": []
+    },
+    "tt13606226": {
+      "imdbId": "tt13606226",
+      "title": "Belle Collective",
+      "episodes": []
+    },
+    "tt0446809": {
+      "imdbId": "tt0446809",
+      "title": "Deadliest Catch",
+      "episodes": [
+        {
+          "season": 21,
+          "number": 5,
+          "name": "Episode 5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38090096/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 21,
+          "number": 12,
+          "name": "Episode 12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38275236/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 21,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38283601/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 21,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38283914/?ref_=ttep_ep_9"
+        }
+      ]
+    },
+    "tt7721986": {
+      "imdbId": "tt7721986",
+      "title": "Love After Lockup",
+      "episodes": []
+    },
+    "tt37543147": {
+      "imdbId": "tt37543147",
+      "title": "Life, Larry and the Pursuit of Unhappiness",
+      "episodes": []
+    },
+    "tt10098498": {
+      "imdbId": "tt10098498",
+      "title": "The UnXplained",
+      "episodes": []
+    },
+    "tt4508624": {
+      "imdbId": "tt4508624",
+      "title": "My Lottery Dream Home",
+      "episodes": []
+    },
+    "tt31434931": {
+      "imdbId": "tt31434931",
+      "title": "Totally Funny Animals",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Episode 1",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33269775/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode 5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33319368/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode 6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33335293/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "Episode 12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33350281/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 1,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33397157/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 1,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33480524/?ref_=ttep_ep_24"
+        }
+      ]
+    },
+    "tt20883058": {
+      "imdbId": "tt20883058",
+      "title": "On Patrol: Live",
+      "episodes": [
+        {
+          "season": 4,
+          "number": 12,
+          "name": "Episode 12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38268460/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 4,
+          "number": 13,
+          "name": "Episode 13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38268462/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 4,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38366917/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 4,
+          "number": 20,
+          "name": "Episode 20",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38366918/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 4,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38518514/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 4,
+          "number": 27,
+          "name": "Episode 27",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38518516/?ref_=ttep_ep_20"
+        }
+      ]
+    },
+    "tt32308214": {
+      "imdbId": "tt32308214",
+      "title": "Zillow Gone Wild",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Episode 6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt34979371/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 20,
+          "name": "Episode 20",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt34979379/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt8772296": {
+      "imdbId": "tt8772296",
+      "title": "Euphoria",
+      "episodes": []
+    },
+    "tt14192050": {
+      "imdbId": "tt14192050",
+      "title": "America Right Now",
+      "episodes": []
+    },
+    "tt3220976": {
+      "imdbId": "tt3220976",
+      "title": "Lucky Dog",
+      "episodes": []
+    },
+    "tt2771780": {
+      "imdbId": "tt2771780",
+      "title": "Teen Titans Go!",
+      "episodes": [
+        {
+          "season": 9,
+          "number": 5,
+          "name": "Episode 5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38313768/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 9,
+          "number": 12,
+          "name": "Episode 12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38314670/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 9,
+          "number": 19,
+          "name": "Episode 19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38509480/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 9,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38629994/?ref_=ttep_ep_25"
+        }
+      ]
+    },
+    "tt5480646": {
+      "imdbId": "tt5480646",
+      "title": "Zombie House Flipping",
+      "episodes": []
+    },
+    "tt10999880": {
+      "imdbId": "tt10999880",
+      "title": "Mission Unstoppable",
+      "episodes": [
+        {
+          "season": 7,
+          "number": 28,
+          "name": "Episode 28",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37801436/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt30392932": {
+      "imdbId": "tt30392932",
+      "title": "The Amanpour Hour",
+      "episodes": []
+    },
+    "tt2181320": {
+      "imdbId": "tt2181320",
+      "title": "Alex Witt Reports",
+      "episodes": []
+    },
+    "tt2563482": {
+      "imdbId": "tt2563482",
+      "title": "PoliticsNation",
+      "episodes": []
+    },
+    "tt27776045": {
+      "imdbId": "tt27776045",
+      "title": "AEW: Collision",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 6,
+          "name": "Episode 6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37676804/?ref_=ttep_ep_36"
+        },
+        {
+          "season": 3,
+          "number": 13,
+          "name": "Episode 13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38034775/?ref_=ttep_ep_37"
+        },
+        {
+          "season": 3,
+          "number": 17,
+          "name": "Episode 17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38034776/?ref_=ttep_ep_38"
+        },
+        {
+          "season": 3,
+          "number": 20,
+          "name": "Episode 20",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38058157/?ref_=ttep_ep_39"
+        },
+        {
+          "season": 3,
+          "number": 27,
+          "name": "Episode 27",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38058158/?ref_=ttep_ep_40"
+        }
+      ]
+    },
+    "tt0414777": {
+      "imdbId": "tt0414777",
+      "title": "Svengoolie",
+      "episodes": [
+        {
+          "season": 31,
+          "number": 6,
+          "name": "Episode 6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37762972/?ref_=ttep_ep_43"
+        },
+        {
+          "season": 31,
+          "number": 13,
+          "name": "Episode 13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37899557/?ref_=ttep_ep_44"
+        },
+        {
+          "season": 31,
+          "number": 20,
+          "name": "Episode 20",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38009701/?ref_=ttep_ep_45"
+        },
+        {
+          "season": 31,
+          "number": 27,
+          "name": "Episode 27",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38017403/?ref_=ttep_ep_46"
+        }
+      ]
+    },
+    "tt16452690": {
+      "imdbId": "tt16452690",
+      "title": "The Real Murders of Atlanta",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 7,
+          "name": "Episode 7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33078453/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
+          "number": 14,
+          "name": "Episode 14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33078459/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 21,
+          "name": "Episode 21",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33078463/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
+          "number": 28,
+          "name": "Episode 28",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33499799/?ref_=ttep_ep_7"
+        }
+      ]
+    },
+    "tt14681924": {
+      "imdbId": "tt14681924",
+      "title": "My Adventures with Superman",
+      "episodes": []
+    },
+    "tt0149490": {
+      "imdbId": "tt0149490",
+      "title": "Meet the Press",
+      "episodes": []
+    },
+    "tt1740123": {
+      "imdbId": "tt1740123",
+      "title": "Fareed Zakaria GPS",
+      "episodes": []
+    },
+    "tt1270822": {
+      "imdbId": "tt1270822",
+      "title": "Two Guys Garage",
+      "episodes": []
+    },
+    "tt0361178": {
+      "imdbId": "tt0361178",
+      "title": "Face the Nation",
+      "episodes": []
+    },
+    "tt0429434": {
+      "imdbId": "tt0429434",
+      "title": "Snapped",
+      "episodes": [
+        {
+          "season": 36,
+          "number": 20,
+          "name": "Episode 20",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39314544/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 36,
+          "number": 27,
+          "name": "Episode 27",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39317062/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 35,
+          "number": 7,
+          "name": "Episode 7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36475350/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 35,
+          "number": 14,
+          "name": "Episode 14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36587144/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 35,
+          "number": 21,
+          "name": "Episode 21",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37075548/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 35,
+          "number": 28,
+          "name": "Episode 28",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36753084/?ref_=ttep_ep_23"
+        }
+      ]
+    },
+    "tt1146333": {
+      "imdbId": "tt1146333",
+      "title": "Shark Week",
+      "episodes": []
+    },
+    "tt1252370": {
+      "imdbId": "tt1252370",
+      "title": "The Real Housewives of Atlanta",
+      "episodes": []
+    },
+    "tt3469050": {
+      "imdbId": "tt3469050",
+      "title": "90 Day Fiancé",
+      "episodes": []
+    },
+    "tt11198330": {
+      "imdbId": "tt11198330",
+      "title": "House of the Dragon",
+      "episodes": []
+    },
+    "tt1711420": {
+      "imdbId": "tt1711420",
+      "title": "The Great Food Truck Race",
+      "episodes": [
+        {
+          "season": 18,
+          "number": 7,
+          "name": "Episode 7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38091229/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 18,
+          "number": 14,
+          "name": "Episode 14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38275174/?ref_=ttep_ep_8"
+        }
+      ]
+    },
+    "tt13787288": {
+      "imdbId": "tt13787288",
+      "title": "90 Day Diaries",
+      "episodes": [
+        {
+          "season": 7,
+          "number": 26,
+          "name": "Episode 26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38234636/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt10098248": {
+      "imdbId": "tt10098248",
+      "title": "The Food That Built America",
+      "episodes": []
+    },
+    "tt2861424": {
+      "imdbId": "tt2861424",
+      "title": "Rick and Morty",
+      "episodes": []
+    },
+    "tt3530232": {
+      "imdbId": "tt3530232",
+      "title": "Last Week Tonight with John Oliver",
+      "episodes": [
+        {
+          "season": 12,
+          "number": 7,
+          "name": "Episode 7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37960675/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 12,
+          "number": 21,
+          "name": "Episode 21",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38206555/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 12,
+          "number": 28,
+          "name": "Episode 28",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38552863/?ref_=ttep_ep_24"
+        }
+      ]
+    },
+    "tt37692332": {
+      "imdbId": "tt37692332",
+      "title": "President Curtis",
+      "episodes": []
+    }
+  }
+}
