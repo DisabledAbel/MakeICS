@@ -988,7 +988,8 @@
       "image": "https://m.media-amazon.com/images/M/MV5BN2YzZDdmYmQtOTRmYy00YzYxLThjZjktZWU0NWU2OWQwZGNkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 07 Aug 2026 00:00:00 GMT",
       "genres": [
-        "Drama"
+        "Drama",
+        "Family"
       ],
       "people": [
         {
@@ -1009,6 +1010,35 @@
         }
       ],
       "label": "Aug 07, 2026"
+    },
+    {
+      "id": "tt43679436",
+      "title": "Grateful Dead Meet-Up at the Movies 2026",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzYzNTEyYWUtZjIwMS00NTE3LTkzZGItZDU1OTQyYjVjNDg5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 08 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm0305263",
+          "name": "Jerry Garcia"
+        },
+        {
+          "id": "nm0366449",
+          "name": "Mickey Hart"
+        },
+        {
+          "id": "nm0395193",
+          "name": "Bruce Hornsby"
+        },
+        {
+          "id": "nm0471066",
+          "name": "Bill Kreutzmann"
+        }
+      ],
+      "label": "Aug 08, 2026"
     },
     {
       "id": "tt12759038",
@@ -1050,6 +1080,10 @@
       ],
       "people": [
         {
+          "id": "nm18563430",
+          "name": "Abhinav Singh"
+        },
+        {
           "id": "nm13177727",
           "name": "Daniela Avanzini"
         },
@@ -1060,10 +1094,6 @@
         {
           "id": "nm16314184",
           "name": "Katseye"
-        },
-        {
-          "id": "nm13660490",
-          "name": "Sophia Laforteza"
         }
       ],
       "label": "Aug 12, 2026"
@@ -1092,8 +1122,8 @@
           "name": "P.J. Byrne"
         },
         {
-          "id": "nm11070581",
-          "name": "Pilot Bunch"
+          "id": "nm5204873",
+          "name": "Maisy Stella"
         }
       ],
       "label": "Aug 14, 2026"
@@ -1705,12 +1735,12 @@
           "name": "Jacob Elordi"
         },
         {
-          "id": "nm0005049",
-          "name": "Allison Janney"
-        },
-        {
           "id": "nm0000982",
           "name": "Josh Brolin"
+        },
+        {
+          "id": "nm0005049",
+          "name": "Allison Janney"
         }
       ],
       "label": "Aug 28, 2026"
@@ -2175,16 +2205,16 @@
       ],
       "people": [
         {
-          "id": "nm6467481",
-          "name": "Cassie Bradley"
+          "id": "nm0000113",
+          "name": "Sandra Bullock"
         },
         {
           "id": "nm0000173",
           "name": "Nicole Kidman"
         },
         {
-          "id": "nm0000113",
-          "name": "Sandra Bullock"
+          "id": "nm6467481",
+          "name": "Cassie Bradley"
         },
         {
           "id": "nm1428821",
@@ -3163,16 +3193,16 @@
           "name": "Jason Momoa"
         },
         {
-          "id": "nm2765191",
-          "name": "Eric André"
-        },
-        {
           "id": "nm3170207",
           "name": "Noah Centineo"
         },
         {
           "id": "nm2810287",
           "name": "David Dastmalchian"
+        },
+        {
+          "id": "nm2765191",
+          "name": "Eric André"
         }
       ],
       "label": "Oct 16, 2026"
@@ -3410,6 +3440,35 @@
         }
       ],
       "label": "Oct 23, 2026"
+    },
+    {
+      "id": "tt42882721",
+      "title": "Cassi",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmQyNDVkN2UtNDEyYS00ZDc4LWIzOTAtNjAyZGYzNDM1ZWZiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 24 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm5397002",
+          "name": "Bastiano Ferrari"
+        },
+        {
+          "id": "nm0316310",
+          "name": "Jay Giannone"
+        },
+        {
+          "id": "nm8435114",
+          "name": "Gigi Gustin"
+        },
+        {
+          "id": "nm13858494",
+          "name": "Stacy Kemp Ferrari"
+        }
+      ],
+      "label": "Oct 24, 2026"
     },
     {
       "id": "tt29611136",
@@ -4311,8 +4370,8 @@
           "name": "Jason Momoa"
         },
         {
-          "id": "nm0000849",
-          "name": "Javier Bardem"
+          "id": "nm5896355",
+          "name": "Anya Taylor-Joy"
         }
       ],
       "label": "Dec 18, 2026"
@@ -5189,7 +5248,7 @@
     },
     {
       "id": "tt32492552",
-      "title": "The Exorcist",
+      "title": "The Exorcist: Martyrs",
       "releaseDate": "Fri, 12 Mar 2027 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -5197,6 +5256,10 @@
         "Thriller"
       ],
       "people": [
+        {
+          "id": "nm0000491",
+          "name": "John Leguizamo"
+        },
         {
           "id": "nm0512934",
           "name": "Hamish Linklater"
@@ -5208,10 +5271,6 @@
         {
           "id": "nm0424060",
           "name": "Scarlett Johansson"
-        },
-        {
-          "id": "nm8567338",
-          "name": "Sasha Calle"
         }
       ],
       "label": "Mar 12, 2027"
@@ -5444,6 +5503,16 @@
       "label": "Apr 09, 2027"
     },
     {
+      "id": "tt43677673",
+      "title": "Boys for Life",
+      "releaseDate": "Fri, 09 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [],
+      "label": "Apr 09, 2027"
+    },
+    {
       "id": "tt43609247",
       "title": "Not Alone",
       "image": "https://m.media-amazon.com/images/M/MV5BMmI1YTBhNjgtMmQxZC00YzE1LTkwODgtYWVmOTA2YTk1ZmFmXkEyXkFqcGc@._V1_.jpg",
@@ -5610,8 +5679,8 @@
           "name": "Rupert Everett"
         },
         {
-          "id": "nm3663897",
-          "name": "Jaakko Ohtonen"
+          "id": "nm0810738",
+          "name": "Kasia Smutniak"
         }
       ],
       "label": "May 06, 2027"
