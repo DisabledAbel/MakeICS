@@ -87,7 +87,7 @@ async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate,
 
     if (isBlocked) {
       console.warn(`    [WARNING] Google search query blocked/CAPTCHA detected for: "${query}".`);
-      return imdbDate || tvmazeDate; // default fallback, bypass "matches neither" determination
+      return tvmazeDate; // default fallback, bypass "matches neither" determination
     }
 
     const tvmazeVariants = formatDateVariants(tvmazeDate);
@@ -124,7 +124,7 @@ async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate,
     }
   } catch (err) {
     console.warn(`    Google search failed for "${query}":`, err.message);
-    return imdbDate || tvmazeDate; // default fallback
+    return tvmazeDate; // default fallback
   }
 }
 
