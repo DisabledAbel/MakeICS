@@ -1,13 +1,13 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { searchRtShow, fetchRtEpisodes } from '../lib/rottenTomatoes.js';
+import { fetchImdbEpisodes } from '../lib/imdbEpisodes.js';
 import { closeBrowser } from '../lib/scraper.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const TV_DATA_DIR = path.join(__dirname, '../lib/data/tv');
 const TRACKED_SHOWS_FILE = path.join(TV_DATA_DIR, 'tracked-shows.json');
-const OUTPUT_FILE = path.join(TV_DATA_DIR, 'rotten-tomatoes.json');
+const OUTPUT_FILE = path.join(TV_DATA_DIR, 'imdb-episodes.json');
 
 async function fetchWithTimeout(url, timeoutMs = 15000) {
   const controller = new AbortController();
@@ -23,7 +23,7 @@ async function fetchWithTimeout(url, timeoutMs = 15000) {
 }
 
 async function main() {
-  console.log('Starting Rotten Tomatoes schedule pre-cache fetcher...');
+  console.log('Starting IMDb TV schedule pre-cache fetcher...');
   try {
     await fs.mkdir(TV_DATA_DIR, { recursive: true });
 
@@ -47,17 +47,13 @@ async function main() {
       existingData = JSON.parse(content);
     } catch (err) {
       if (err.code !== 'ENOENT') {
-        console.warn('Error reading existing rotten-tomatoes.json:', err.message);
+        console.warn('Error reading existing imdb-episodes.json:', err.message);
       }
     }
 
-    // Discover every TV show name/title we can find across TV data files
     const showSet = new Set();
-
-    // 1. Add standard default/fallback show
     showSet.add('Sofia the First: Royal Magic');
 
-    // 2. Add show names from tracked-shows.json
     if (Array.isArray(trackedShows)) {
       for (const show of trackedShows) {
         if (typeof show === 'string' && show.trim()) {
@@ -66,47 +62,7 @@ async function main() {
       }
     }
 
-    // 3. Add show names from existing cached rotten-tomatoes.json
-    if (existingData && existingData.shows) {
-      for (const show of Object.values(existingData.shows)) {
-        if (show && typeof show.title === 'string' && show.title.trim()) {
-          showSet.add(show.title.trim());
-        }
-      }
-    }
-
-    // 4. Scan the TV data folder for any other potential .json files containing shows
-    try {
-      const files = await fs.readdir(TV_DATA_DIR);
-      for (const file of files) {
-        if (file.endsWith('.json') && file !== 'rotten-tomatoes.json' && file !== 'tracked-shows.json') {
-          try {
-            const filePath = path.join(TV_DATA_DIR, file);
-            const content = await fs.readFile(filePath, 'utf8');
-            const data = JSON.parse(content);
-            if (Array.isArray(data)) {
-              for (const item of data) {
-                if (typeof item === 'string' && item.trim()) {
-                  showSet.add(item.trim());
-                }
-              }
-            } else if (data && typeof data === 'object') {
-              // Check commonly used keys or show objects
-              const candidate = data.title || data.name || data.showName;
-              if (typeof candidate === 'string' && candidate.trim()) {
-                showSet.add(candidate.trim());
-              }
-            }
-          } catch (fileErr) {
-            console.warn(`Could not parse auxiliary TV show file ${file}:`, fileErr.message);
-          }
-        }
-      }
-    } catch (dirErr) {
-      console.warn('Could not read TV data directory for extra show files:', dirErr.message);
-    }
-
-    // 5. Discover US TV show names dynamically from TVMaze schedule (next 7 days)
+    // Discover US TV show names dynamically from TVMaze schedule (next 7 days)
     console.log('Discovering TV shows from TVMaze US schedule...');
     try {
       for (let i = 0; i <= 7; i++) {
@@ -126,8 +82,6 @@ async function main() {
                 }
               }
             }
-          } else {
-            console.warn(`  Failed to fetch US schedule for ${dateStr}: ${response.status}`);
           }
         } catch (fetchErr) {
           console.warn(`  Error fetching US schedule for ${dateStr}:`, fetchErr.message);
@@ -145,13 +99,14 @@ async function main() {
     for (const query of showsToFetch) {
       console.log(`Processing TV show: "${query}"`);
       try {
-        // Find show ID and episodes on TVMaze first to determine which seasons exist
-        let seasonsToFetch = new Set([1]); // default to season 1
+        let imdbId = null;
+        let seasonsToFetch = new Set([1]);
         try {
           const tvmazeUrl = `https://api.tvmaze.com/singlesearch/shows?q=${encodeURIComponent(query)}`;
           const response = await fetchWithTimeout(tvmazeUrl);
           if (response.ok) {
             const show = await response.json();
+            imdbId = show.externals?.imdb || null;
             const episodesResponse = await fetchWithTimeout(`https://api.tvmaze.com/shows/${show.id}/episodes?specials=0`);
             if (episodesResponse.ok) {
               const episodes = await episodesResponse.json();
@@ -166,40 +121,31 @@ async function main() {
           console.warn(`  Failed to retrieve seasons from TVMaze for "${query}":`, e.message);
         }
 
-        // Search Rotten Tomatoes
-        const rtShow = await searchRtShow(query);
-        if (!rtShow) {
-          console.warn(`  Show "${query}" not found on Rotten Tomatoes search.`);
+        if (!imdbId) {
+          console.warn(`  Show "${query}" has no IMDb ID on TVMaze.`);
           continue;
         }
 
-        console.log(`  Found RT show "${rtShow.title}" (slug: ${rtShow.slug})`);
-
-        // Fetch episodes for each season
-        const seasons = Array.from(seasonsToFetch).sort((a, b) => a - b);
-        const rtEpisodesList = [];
+        const seasons = Array.from(seasonsToFetch).sort((a, b) => b - a).slice(0, 2); // Fetch latest 2 seasons to avoid excessive crawls
+        const imdbEpisodesList = [];
 
         for (const seasonNumber of seasons) {
-          console.log(`  Fetching episodes for RT show "${rtShow.slug}" season ${seasonNumber}...`);
+          console.log(`  Fetching episodes for IMDb ID "${imdbId}" season ${seasonNumber}...`);
           try {
-            const eps = await fetchRtEpisodes(rtShow.slug, seasonNumber);
+            const eps = await fetchImdbEpisodes(imdbId, seasonNumber);
             if (Array.isArray(eps)) {
-              rtEpisodesList.push(...eps);
+              imdbEpisodesList.push(...eps);
               console.log(`    Successfully fetched ${eps.length} episodes for season ${seasonNumber}.`);
             }
           } catch (err) {
-            console.error(`    Failed to fetch RT episodes for season ${seasonNumber}:`, err.message);
+            console.error(`    Failed to fetch IMDb episodes for season ${seasonNumber}:`, err.message);
           }
         }
 
-        showsData[rtShow.slug] = {
-          slug: rtShow.slug,
-          title: rtShow.title,
-          url: rtShow.url,
-          meterScore: rtShow.meterScore,
-          meterClass: rtShow.meterClass,
-          startYear: rtShow.startYear,
-          episodes: rtEpisodesList
+        showsData[imdbId] = {
+          imdbId,
+          title: query,
+          episodes: imdbEpisodesList
         };
 
       } catch (err) {
@@ -212,24 +158,20 @@ async function main() {
       shows: showsData
     };
 
-    const tempFile = `${OUTPUT_FILE}.tmp`;
-    await fs.writeFile(tempFile, JSON.stringify(payload, null, 2));
-    await fs.rename(tempFile, OUTPUT_FILE);
-    console.log(`Successfully saved Rotten Tomatoes pre-cached data to ${OUTPUT_FILE}`);
+    await fs.writeFile(OUTPUT_FILE, JSON.stringify(payload, null, 2));
+    console.log(`Successfully saved IMDb pre-cached data to ${OUTPUT_FILE}`);
 
   } catch (error) {
-    console.error('Fatal error in fetch-rt main:', error);
+    console.error('Fatal error in fetch-imdb main:', error);
     process.exitCode = 1;
   } finally {
     try {
       await closeBrowser();
-    } catch (err) {
-      console.error('Error closing browser:', err);
-    }
+    } catch (err) {}
   }
 }
 
 main().catch(err => {
-  console.error('Unhandled error in fetch-rt main:', err);
+  console.error('Unhandled error in fetch-imdb main:', err);
   process.exit(1);
 });

@@ -1,0 +1,5 @@
+
+> makeics-tv-episodes@1.0.0 dev
+> node server.js
+
+MakeICS TV Episodes running at http://localhost:3000

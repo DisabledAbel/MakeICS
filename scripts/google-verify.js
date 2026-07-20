@@ -6,7 +6,7 @@ import { getBrowser, closeBrowser } from '../lib/scraper.js';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const TV_DATA_DIR = path.join(__dirname, '../lib/data/tv');
 const TRACKED_SHOWS_FILE = path.join(TV_DATA_DIR, 'tracked-shows.json');
-const RT_DATA_FILE = path.join(TV_DATA_DIR, 'rotten-tomatoes.json');
+const IMDB_DATA_FILE = path.join(TV_DATA_DIR, 'imdb-episodes.json');
 const OUTPUT_FILE = path.join(TV_DATA_DIR, 'google-verified.json');
 
 async function fetchWithTimeout(url, timeoutMs = 15000) {
@@ -66,7 +66,7 @@ function matchVariant(bodyText, variant) {
   }
 }
 
-async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate, rtDate) {
+async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate, imdbDate) {
   const query = `${showName} S${String(season).padStart(2, '0')}E${String(number).padStart(2, '0')} episode release date`;
   const url = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
 
@@ -87,11 +87,11 @@ async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate,
 
     if (isBlocked) {
       console.warn(`    [WARNING] Google search query blocked/CAPTCHA detected for: "${query}".`);
-      return rtDate || tvmazeDate; // default fallback, bypass "matches neither" determination
+      return imdbDate || tvmazeDate; // default fallback, bypass "matches neither" determination
     }
 
     const tvmazeVariants = formatDateVariants(tvmazeDate);
-    const rtVariants = formatDateVariants(rtDate);
+    const imdbVariants = formatDateVariants(imdbDate);
 
     let tvmazeMatched = false;
     for (const v of tvmazeVariants) {
@@ -101,30 +101,30 @@ async function verifyEpisodeOnGoogle(page, showName, season, number, tvmazeDate,
       }
     }
 
-    let rtMatched = false;
-    for (const v of rtVariants) {
+    let imdbMatched = false;
+    for (const v of imdbVariants) {
       if (matchVariant(bodyText, v)) {
-        rtMatched = true;
+        imdbMatched = true;
         break;
       }
     }
 
-    if (tvmazeMatched && !rtMatched) {
+    if (tvmazeMatched && !imdbMatched) {
       console.log(`    Google matches TVMaze date: ${tvmazeDate}`);
       return tvmazeDate;
-    } else if (rtMatched && !tvmazeMatched) {
-      console.log(`    Google matches Rotten Tomatoes date: ${rtDate}`);
-      return rtDate;
-    } else if (tvmazeMatched && rtMatched) {
-      console.log(`    Google matches both. Defaulting to Rotten Tomatoes: ${rtDate}`);
-      return rtDate;
+    } else if (imdbMatched && !tvmazeMatched) {
+      console.log(`    Google matches IMDb date: ${imdbDate}`);
+      return imdbDate;
+    } else if (tvmazeMatched && imdbMatched) {
+      console.log(`    Google matches both. Defaulting to IMDb: ${imdbDate}`);
+      return imdbDate;
     } else {
-      console.log(`    Google matches neither. Defaulting to Rotten Tomatoes: ${rtDate}`);
-      return rtDate;
+      console.log(`    Google matches neither. Defaulting to IMDb: ${imdbDate}`);
+      return imdbDate;
     }
   } catch (err) {
     console.warn(`    Google search failed for "${query}":`, err.message);
-    return rtDate || tvmazeDate; // default fallback
+    return imdbDate || tvmazeDate; // default fallback
   }
 }
 
@@ -163,16 +163,16 @@ async function main() {
       }
     }
 
-    // 3. Add show names from existing cached rotten-tomatoes.json
-    let rtData = { shows: {} };
+    // 3. Add show names from existing cached imdb-episodes.json
+    let imdbData = { shows: {} };
     try {
-      const content = await fs.readFile(RT_DATA_FILE, 'utf8');
-      rtData = JSON.parse(content);
+      const content = await fs.readFile(IMDB_DATA_FILE, 'utf8');
+      imdbData = JSON.parse(content);
     } catch (err) {
-      console.warn('Rotten Tomatoes data file not found.');
+      console.warn('IMDb data file not found.');
     }
-    if (rtData && rtData.shows) {
-      for (const show of Object.values(rtData.shows)) {
+    if (imdbData && imdbData.shows) {
+      for (const show of Object.values(imdbData.shows)) {
         if (show && typeof show.title === 'string' && show.title.trim()) {
           showSet.add(show.title.trim());
         }
@@ -183,7 +183,7 @@ async function main() {
     try {
       const files = await fs.readdir(TV_DATA_DIR);
       for (const file of files) {
-        if (file.endsWith('.json') && file !== 'rotten-tomatoes.json' && file !== 'tracked-shows.json' && file !== 'google-verified.json') {
+        if (file.endsWith('.json') && file !== 'imdb-episodes.json' && file !== 'tracked-shows.json' && file !== 'google-verified.json') {
           try {
             const filePath = path.join(TV_DATA_DIR, file);
             const content = await fs.readFile(filePath, 'utf8');
@@ -300,32 +300,22 @@ async function main() {
         continue;
       }
 
-      // 2. Find corresponding pre-cached RT show and episodes
-      const canonicalize = (str) => (str || '').toLowerCase().replace(/[^a-z0-9]/g, '');
-      const canonicalQuery = canonicalize(query);
-      const canonicalShowName = tvmazeShow ? canonicalize(tvmazeShow.name) : '';
-
-      let rtShow = Object.values(rtData.shows || {}).find(s => {
-        const canonicalTitle = canonicalize(s.title);
-        return canonicalTitle === canonicalQuery || (canonicalShowName && canonicalTitle === canonicalShowName);
-      });
-
-      if (!rtShow) {
-        rtShow = Object.values(rtData.shows || {}).find(s => {
-          const canonicalTitle = canonicalize(s.title);
-          return canonicalTitle.includes(canonicalQuery) || canonicalQuery.includes(canonicalTitle) ||
-                 (canonicalShowName && (canonicalTitle.includes(canonicalShowName) || canonicalShowName.includes(canonicalTitle)));
-        });
-      }
-
-      if (!rtShow) {
-        console.log(`  No Rotten Tomatoes cached data found for "${query}"`);
+      // 2. Find corresponding pre-cached IMDb show and episodes
+      const imdbId = tvmazeShow.externals?.imdb || null;
+      if (!imdbId) {
+        console.log(`  No IMDb ID found on TVMaze for "${query}"`);
         continue;
       }
 
-      const rtEpsMap = new Map();
-      (rtShow.episodes || []).forEach(ep => {
-        rtEpsMap.set(`${ep.season}-${ep.number}`, ep);
+      const cachedShow = imdbData.shows?.[imdbId];
+      if (!cachedShow) {
+        console.log(`  No IMDb cached data found for IMDb ID "${imdbId}" ("${query}")`);
+        continue;
+      }
+
+      const imdbEpsMap = new Map();
+      (cachedShow.episodes || []).forEach(ep => {
+        imdbEpsMap.set(`${ep.season}-${ep.number}`, ep);
       });
 
       // 3. Look for mismatches in upcoming episodes
@@ -335,10 +325,10 @@ async function main() {
         }
 
         const key = `${tvEp.season}-${tvEp.number}`;
-        const rtEp = rtEpsMap.get(key);
+        const imdbEp = imdbEpsMap.get(key);
 
-        if (rtEp && rtEp.airdate && rtEp.airdate !== tvEp.airdate) {
-          console.log(`  Mismatch found for S${tvEp.season}E${tvEp.number}: TVMaze=${tvEp.airdate}, RT=${rtEp.airdate}`);
+        if (imdbEp && imdbEp.airdate && imdbEp.airdate !== tvEp.airdate) {
+          console.log(`  Mismatch found for S${tvEp.season}E${tvEp.number}: TVMaze=${tvEp.airdate}, IMDb=${imdbEp.airdate}`);
 
           const verifiedDate = await verifyEpisodeOnGoogle(
             page,
@@ -346,14 +336,14 @@ async function main() {
             tvEp.season,
             tvEp.number,
             tvEp.airdate,
-            rtEp.airdate
+            imdbEp.airdate
           );
 
           const overrideKey = `${tvmazeShow.name}-${tvEp.season}-${tvEp.number}`;
           const existingOverride = existingVerified[overrideKey];
           updatedVerified[overrideKey] = {
             airdate: verifiedDate,
-            name: rtEp.name || tvEp.name,
+            name: imdbEp.name || tvEp.name,
             verifiedAt: (existingOverride && existingOverride.verifiedAt) ? existingOverride.verifiedAt : new Date().toISOString()
           };
         }

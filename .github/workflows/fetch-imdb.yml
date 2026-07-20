@@ -1,4 +1,4 @@
-name: Fetch Rotten Tomatoes TV Schedules
+name: Fetch IMDb TV Schedules
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  fetch-rt:
+  fetch-imdb:
     runs-on: ubuntu-latest
     concurrency:
       group: data-updates
@@ -43,8 +43,8 @@ jobs:
       - name: Install Playwright Browsers
         run: npx playwright install chromium --with-deps
 
-      - name: Fetch Rotten Tomatoes TV Schedules
-        run: node scripts/fetch-rt.js
+      - name: Fetch IMDb TV Schedules
+        run: node scripts/fetch-imdb.js
 
       - name: Commit and push changes
         env:
@@ -60,6 +60,6 @@ jobs:
             exit 0
           fi
 
-          git commit -m "📺 Update Rotten Tomatoes TV schedules 📺"
+          git commit -m "📺 Update IMDb TV schedules 📺"
           git pull --rebase origin "$REF_NAME"
           git push origin HEAD:"$REF_NAME"
