@@ -111,6 +111,11 @@ GET /api/movies?q=Animation&type=genre&format=ics
     "imdbId": "tt1234567"
   },
   "imdb": null,
+  "imdbUpcoming": {
+    "id": "tt1234567",
+    "source": "imdb-episodes",
+    "sourceConfigured": true
+  },
   "episodes": []
 }
 ```
