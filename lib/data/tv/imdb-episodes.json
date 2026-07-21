@@ -97,7 +97,7 @@
           "season": 1,
           "number": 12,
           "name": "Episode #1.12",
-          "airdate": "2026-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39364974/?ref_=ttep_ep_12"
         },
@@ -105,7 +105,7 @@
           "season": 1,
           "number": 13,
           "name": "Episode #1.13",
-          "airdate": "2026-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39365193/?ref_=ttep_ep_13"
         },
@@ -113,7 +113,7 @@
           "season": 1,
           "number": 14,
           "name": "Episode #1.14",
-          "airdate": "2026-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39365230/?ref_=ttep_ep_14"
         },
@@ -121,7 +121,7 @@
           "season": 1,
           "number": 15,
           "name": "Episode #1.15",
-          "airdate": "2026-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39365234/?ref_=ttep_ep_15"
         },
@@ -129,7 +129,7 @@
           "season": 1,
           "number": 16,
           "name": "Episode #1.16",
-          "airdate": "2026-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39365358/?ref_=ttep_ep_16"
         },
@@ -137,7 +137,7 @@
           "season": 1,
           "number": 17,
           "name": "Episode #1.17",
-          "airdate": "2026-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39367053/?ref_=ttep_ep_17"
         },
@@ -145,7 +145,7 @@
           "season": 1,
           "number": 18,
           "name": "Episode #1.18",
-          "airdate": "2026-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39367570/?ref_=ttep_ep_18"
         },
@@ -153,7 +153,7 @@
           "season": 1,
           "number": 19,
           "name": "Episode #1.19",
-          "airdate": "2026-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39368248/?ref_=ttep_ep_19"
         },
@@ -161,7 +161,7 @@
           "season": 1,
           "number": 20,
           "name": "Episode #1.20",
-          "airdate": "2026-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39368252/?ref_=ttep_ep_20"
         },
@@ -169,7 +169,7 @@
           "season": 1,
           "number": 21,
           "name": "Episode #1.21",
-          "airdate": "2026-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39368261/?ref_=ttep_ep_21"
         },
@@ -177,7 +177,7 @@
           "season": 1,
           "number": 22,
           "name": "Episode #1.22",
-          "airdate": "2026-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39368477/?ref_=ttep_ep_22"
         },
@@ -185,7 +185,7 @@
           "season": 1,
           "number": 23,
           "name": "Episode #1.23",
-          "airdate": "2027-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt38598825/?ref_=ttep_ep_23"
         },
@@ -193,7 +193,7 @@
           "season": 1,
           "number": 24,
           "name": "Episode #1.24",
-          "airdate": "2027-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39346048/?ref_=ttep_ep_24"
         },
@@ -201,7 +201,7 @@
           "season": 1,
           "number": 25,
           "name": "Episode #1.25",
-          "airdate": "2027-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39366834/?ref_=ttep_ep_25"
         },
@@ -217,7 +217,7 @@
           "season": 1,
           "number": 27,
           "name": "Episode #1.27",
-          "airdate": "2027-08-01",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt39346032/?ref_=ttep_ep_27"
         }

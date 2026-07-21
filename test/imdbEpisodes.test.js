@@ -96,7 +96,8 @@ test('parseImdbDate correctly handles ISO dates, localized dates, and fallbacks'
 
 test('parseImdbDate correctly parses custom airdate patterns', () => {
   assert.equal(parseImdbDate('Mon, May 25, 2026'), '2026-05-25');
-  assert.equal(parseImdbDate('Aug 2026'), '2026-08-01');
+  assert.equal(parseImdbDate('Aug 2026'), null);
+  assert.equal(parseImdbDate('2026'), null);
 });
 
 test('parseImdbEpisodesFromHtml extracts episode schemas from JSON-LD tags', () => {
