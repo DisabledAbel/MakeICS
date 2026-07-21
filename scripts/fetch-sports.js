@@ -6,6 +6,19 @@ import { fetchScheduleFromWebsite, fetchScheduleFromESPN, normalizeScrapedEvent 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, '../lib/data/sports');
 const SUPPLEMENTAL_DATA_DIR = path.join(DATA_DIR, 'supplemental');
+
+function sanitizeScores(events) {
+  if (!Array.isArray(events)) return events;
+  const scoreKeys = ['intHomeScore', 'intHomeScoreExtra', 'intAwayScoreExtra', 'intAwayScore', 'intScore', 'intScoreVotes', 'strResult'];
+  for (const event of events) {
+    if (event) {
+      for (const key of scoreKeys) {
+        delete event[key];
+      }
+    }
+  }
+  return events;
+}
 const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/3';
 const FETCH_TIMEOUT_MS = 15000;
 const MAX_RETRIES = 5;
@@ -315,6 +328,7 @@ async function fetchLeagueSupplementalCSV(league, teams) {
       }
 
       if (teamEvents) {
+        sanitizeScores(teamEvents);
         const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
         let existingUpdatedAt = null;
         try {
@@ -430,6 +444,7 @@ async function main() {
       // 1. Fetch League Events (Legacy)
       const events = await fetchLeagueEvents(league.id);
       if (events.length > 0) {
+        sanitizeScores(events);
         const filePath = path.join(DATA_DIR, `${league.id}.json`);
         let existingUpdatedAt = null;
         try {
@@ -506,6 +521,7 @@ async function main() {
           // 2c. Save Merged Results (Always write to mark as fresh)
           const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
           const normalizedEvents = allScrapedGames.map(g => normalizeScrapedEvent(g, team.strTeam));
+          sanitizeScores(normalizedEvents);
 
           let existingUpdatedAt = null;
           try {

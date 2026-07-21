@@ -9,6 +9,7 @@ const SUPPLEMENTAL_DATA_DIR = path.join(SPORTS_DATA_DIR, 'supplemental');
 const FIELDS_TO_CHECK = ['strVenue', 'strHomeTeam', 'strAwayTeam', 'strEvent', 'strLeague'];
 
 async function processFile(filePath) {
+  console.log(`Processing file: ${filePath}`);
   try {
     const content = await fs.readFile(filePath, 'utf8');
     const data = JSON.parse(content);
@@ -25,6 +26,15 @@ async function processFile(filePath) {
     const now = new Date();
 
     for (const event of data.events) {
+      // Strip score fields from event
+      const scoreKeys = ['intHomeScore', 'intHomeScoreExtra', 'intAwayScoreExtra', 'intAwayScore', 'intScore', 'intScoreVotes', 'strResult'];
+      for (const key of scoreKeys) {
+        if (key in event) {
+          delete event[key];
+          modified = true;
+        }
+      }
+
       const status = event.strStatus?.toUpperCase();
       const isCompleted = COMPLETED_STATUSES.includes(status);
 
