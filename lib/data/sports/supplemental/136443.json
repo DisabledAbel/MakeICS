@@ -4,7 +4,7 @@
   "updatedAt": "2026-07-17T01:30:26.271Z",
   "events": [
     {
-      "idEvent": "scraped-2026-09-25-los-angeles-sparks-vs-golden-state-valkyries",
+      "idEvent": "scraped-401857218",
       "strEvent": "Los Angeles Sparks vs Golden State Valkyries",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Golden State Valkyries",
@@ -18,7 +18,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-23-las-vegas-aces-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857211",
       "strEvent": "Las Vegas Aces vs Los Angeles Sparks",
       "strHomeTeam": "Las Vegas Aces",
       "strAwayTeam": "Los Angeles Sparks",
@@ -32,7 +32,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-20-los-angeles-sparks-vs-portland-fire",
+      "idEvent": "scraped-401857204",
       "strEvent": "Los Angeles Sparks vs Portland Fire",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Portland Fire",
@@ -46,7 +46,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-18-dallas-wings-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857192",
       "strEvent": "Dallas Wings vs Los Angeles Sparks",
       "strHomeTeam": "Dallas Wings",
       "strAwayTeam": "Los Angeles Sparks",
@@ -60,7 +60,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-30-seattle-storm-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857187",
       "strEvent": "Seattle Storm vs Los Angeles Sparks",
       "strHomeTeam": "Seattle Storm",
       "strAwayTeam": "Los Angeles Sparks",
@@ -74,7 +74,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-29-los-angeles-sparks-vs-washington-mystics",
+      "idEvent": "scraped-401857183",
       "strEvent": "Los Angeles Sparks vs Washington Mystics",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Washington Mystics",
@@ -88,7 +88,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-25-los-angeles-sparks-vs-atlanta-dream",
+      "idEvent": "scraped-401857172",
       "strEvent": "Los Angeles Sparks vs Atlanta Dream",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Atlanta Dream",
@@ -102,7 +102,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-23-los-angeles-sparks-vs-connecticut-sun",
+      "idEvent": "scraped-401857165",
       "strEvent": "Los Angeles Sparks vs Connecticut Sun",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Connecticut Sun",
@@ -116,7 +116,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-21-los-angeles-sparks-vs-atlanta-dream",
+      "idEvent": "scraped-401857160",
       "strEvent": "Los Angeles Sparks vs Atlanta Dream",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Atlanta Dream",
@@ -130,7 +130,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-18-connecticut-sun-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857152",
       "strEvent": "Connecticut Sun vs Los Angeles Sparks",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Los Angeles Sparks",
@@ -144,7 +144,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-15-washington-mystics-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857146",
       "strEvent": "Washington Mystics vs Los Angeles Sparks",
       "strHomeTeam": "Washington Mystics",
       "strAwayTeam": "Los Angeles Sparks",
@@ -158,7 +158,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-14-new-york-liberty-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857141",
       "strEvent": "New York Liberty vs Los Angeles Sparks",
       "strHomeTeam": "New York Liberty",
       "strAwayTeam": "Los Angeles Sparks",
@@ -172,7 +172,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-12-los-angeles-sparks-vs-phoenix-mercury",
+      "idEvent": "scraped-401857136",
       "strEvent": "Los Angeles Sparks vs Phoenix Mercury",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Phoenix Mercury",
@@ -186,7 +186,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-09-los-angeles-sparks-vs-golden-state-valkyries",
+      "idEvent": "scraped-401857131",
       "strEvent": "Los Angeles Sparks vs Golden State Valkyries",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Golden State Valkyries",
@@ -200,7 +200,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-07-minnesota-lynx-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857120",
       "strEvent": "Minnesota Lynx vs Los Angeles Sparks",
       "strHomeTeam": "Minnesota Lynx",
       "strAwayTeam": "Los Angeles Sparks",
@@ -214,7 +214,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-06-chicago-sky-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857118",
       "strEvent": "Chicago Sky vs Los Angeles Sparks",
       "strHomeTeam": "Chicago Sky",
       "strAwayTeam": "Los Angeles Sparks",
@@ -228,7 +228,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-02-portland-fire-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857108",
       "strEvent": "Portland Fire vs Los Angeles Sparks",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Los Angeles Sparks",
@@ -242,7 +242,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-29-los-angeles-sparks-vs-new-york-liberty",
+      "idEvent": "scraped-401857096",
       "strEvent": "Los Angeles Sparks vs New York Liberty",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "New York Liberty",
@@ -256,7 +256,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-22-los-angeles-sparks-vs-phoenix-mercury",
+      "idEvent": "scraped-401857086",
       "strEvent": "Los Angeles Sparks vs Phoenix Mercury",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Phoenix Mercury",
@@ -270,7 +270,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-19-dallas-wings-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857080",
       "strEvent": "Dallas Wings vs Los Angeles Sparks",
       "strHomeTeam": "Dallas Wings",
       "strAwayTeam": "Los Angeles Sparks",
@@ -284,7 +284,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-17-chicago-sky-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857075",
       "strEvent": "Chicago Sky vs Los Angeles Sparks",
       "strHomeTeam": "Chicago Sky",
       "strAwayTeam": "Los Angeles Sparks",
@@ -298,7 +298,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-15-minnesota-lynx-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857069",
       "strEvent": "Minnesota Lynx vs Los Angeles Sparks",
       "strHomeTeam": "Minnesota Lynx",
       "strAwayTeam": "Los Angeles Sparks",
@@ -312,7 +312,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-13-atlanta-dream-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857064",
       "strEvent": "Atlanta Dream vs Los Angeles Sparks",
       "strHomeTeam": "Atlanta Dream",
       "strAwayTeam": "Los Angeles Sparks",
@@ -326,7 +326,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-11-los-angeles-sparks-vs-chicago-sky",
+      "idEvent": "scraped-401857056",
       "strEvent": "Los Angeles Sparks vs Chicago Sky",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Chicago Sky",
@@ -340,7 +340,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-09-los-angeles-sparks-vs-indiana-fever",
+      "idEvent": "scraped-401857050",
       "strEvent": "Los Angeles Sparks vs Indiana Fever",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Indiana Fever",
@@ -354,7 +354,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-07-los-angeles-sparks-vs-seattle-storm",
+      "idEvent": "scraped-401857045",
       "strEvent": "Los Angeles Sparks vs Seattle Storm",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Seattle Storm",
@@ -368,7 +368,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-28-indiana-fever-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857028",
       "strEvent": "Indiana Fever vs Los Angeles Sparks",
       "strHomeTeam": "Indiana Fever",
       "strAwayTeam": "Los Angeles Sparks",
@@ -382,7 +382,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-25-toronto-tempo-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857021",
       "strEvent": "Toronto Tempo vs Los Angeles Sparks",
       "strHomeTeam": "Toronto Tempo",
       "strAwayTeam": "Los Angeles Sparks",
@@ -396,7 +396,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-22-los-angeles-sparks-vs-new-york-liberty",
+      "idEvent": "scraped-401857011",
       "strEvent": "Los Angeles Sparks vs New York Liberty",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "New York Liberty",
@@ -410,7 +410,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-18-los-angeles-sparks-vs-minnesota-lynx",
+      "idEvent": "scraped-401856999",
       "strEvent": "Los Angeles Sparks vs Minnesota Lynx",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Minnesota Lynx",
@@ -424,7 +424,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-16-golden-state-valkyries-vs-los-angeles-sparks",
+      "idEvent": "scraped-401856994",
       "strEvent": "Golden State Valkyries vs Los Angeles Sparks",
       "strHomeTeam": "Golden State Valkyries",
       "strAwayTeam": "Los Angeles Sparks",
@@ -438,7 +438,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-14-phoenix-mercury-vs-los-angeles-sparks",
+      "idEvent": "scraped-401856989",
       "strEvent": "Phoenix Mercury vs Los Angeles Sparks",
       "strHomeTeam": "Phoenix Mercury",
       "strAwayTeam": "Los Angeles Sparks",
@@ -452,7 +452,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-11-seattle-storm-vs-los-angeles-sparks",
+      "idEvent": "scraped-401856979",
       "strEvent": "Seattle Storm vs Los Angeles Sparks",
       "strHomeTeam": "Seattle Storm",
       "strAwayTeam": "Los Angeles Sparks",
@@ -466,7 +466,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-07-los-angeles-sparks-vs-portland-fire",
+      "idEvent": "scraped-401856971",
       "strEvent": "Los Angeles Sparks vs Portland Fire",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Portland Fire",
@@ -480,7 +480,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-06-los-angeles-sparks-vs-dallas-wings",
+      "idEvent": "scraped-401856964",
       "strEvent": "Los Angeles Sparks vs Dallas Wings",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Dallas Wings",
@@ -494,7 +494,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-03-los-angeles-sparks-vs-las-vegas-aces",
+      "idEvent": "scraped-401856958",
       "strEvent": "Los Angeles Sparks vs Las Vegas Aces",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Las Vegas Aces",
@@ -508,7 +508,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-30-connecticut-sun-vs-los-angeles-sparks",
+      "idEvent": "scraped-401856950",
       "strEvent": "Connecticut Sun vs Los Angeles Sparks",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Los Angeles Sparks",
@@ -522,7 +522,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-29-washington-mystics-vs-los-angeles-sparks",
+      "idEvent": "scraped-401856946",
       "strEvent": "Washington Mystics vs Los Angeles Sparks",
       "strHomeTeam": "Washington Mystics",
       "strAwayTeam": "Los Angeles Sparks",
@@ -536,7 +536,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-24-las-vegas-aces-vs-los-angeles-sparks",
+      "idEvent": "scraped-401856932",
       "strEvent": "Las Vegas Aces vs Los Angeles Sparks",
       "strHomeTeam": "Las Vegas Aces",
       "strAwayTeam": "Los Angeles Sparks",
@@ -550,7 +550,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-22-phoenix-mercury-vs-los-angeles-sparks",
+      "idEvent": "scraped-401856926",
       "strEvent": "Phoenix Mercury vs Los Angeles Sparks",
       "strHomeTeam": "Phoenix Mercury",
       "strAwayTeam": "Los Angeles Sparks",
@@ -564,7 +564,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-17-los-angeles-sparks-vs-toronto-tempo",
+      "idEvent": "scraped-401856917",
       "strEvent": "Los Angeles Sparks vs Toronto Tempo",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Toronto Tempo",
@@ -578,7 +578,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-16-los-angeles-sparks-vs-toronto-tempo",
+      "idEvent": "scraped-401856912",
       "strEvent": "Los Angeles Sparks vs Toronto Tempo",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Toronto Tempo",
@@ -592,7 +592,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-14-los-angeles-sparks-vs-indiana-fever",
+      "idEvent": "scraped-401856907",
       "strEvent": "Los Angeles Sparks vs Indiana Fever",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Indiana Fever",
@@ -606,7 +606,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-10-los-angeles-sparks-vs-las-vegas-aces",
+      "idEvent": "scraped-401856898",
       "strEvent": "Los Angeles Sparks vs Las Vegas Aces",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Las Vegas Aces",

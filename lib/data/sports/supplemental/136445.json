@@ -4,7 +4,7 @@
   "updatedAt": "2026-07-17T01:30:16.256Z",
   "events": [
     {
-      "idEvent": "scraped-2026-09-24-connecticut-sun-vs-toronto-tempo",
+      "idEvent": "scraped-401857215",
       "strEvent": "Connecticut Sun vs Toronto Tempo",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Toronto Tempo",
@@ -18,7 +18,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-22-washington-mystics-vs-connecticut-sun",
+      "idEvent": "scraped-401857208",
       "strEvent": "Washington Mystics vs Connecticut Sun",
       "strHomeTeam": "Washington Mystics",
       "strAwayTeam": "Connecticut Sun",
@@ -32,7 +32,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-20-connecticut-sun-vs-minnesota-lynx",
+      "idEvent": "scraped-401857201",
       "strEvent": "Connecticut Sun vs Minnesota Lynx",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Minnesota Lynx",
@@ -46,7 +46,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-09-17-atlanta-dream-vs-connecticut-sun",
+      "idEvent": "scraped-401857190",
       "strEvent": "Atlanta Dream vs Connecticut Sun",
       "strHomeTeam": "Atlanta Dream",
       "strAwayTeam": "Connecticut Sun",
@@ -60,7 +60,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-31-dallas-wings-vs-connecticut-sun",
+      "idEvent": "scraped-401857189",
       "strEvent": "Dallas Wings vs Connecticut Sun",
       "strHomeTeam": "Dallas Wings",
       "strAwayTeam": "Connecticut Sun",
@@ -74,7 +74,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-28-indiana-fever-vs-connecticut-sun",
+      "idEvent": "scraped-401857181",
       "strEvent": "Indiana Fever vs Connecticut Sun",
       "strHomeTeam": "Indiana Fever",
       "strAwayTeam": "Connecticut Sun",
@@ -88,7 +88,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-26-connecticut-sun-vs-golden-state-valkyries",
+      "idEvent": "scraped-401857176",
       "strEvent": "Connecticut Sun vs Golden State Valkyries",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Golden State Valkyries",
@@ -102,7 +102,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-25-connecticut-sun-vs-chicago-sky",
+      "idEvent": "scraped-401857173",
       "strEvent": "Connecticut Sun vs Chicago Sky",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Chicago Sky",
@@ -116,7 +116,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-23-los-angeles-sparks-vs-connecticut-sun",
+      "idEvent": "scraped-401857165",
       "strEvent": "Los Angeles Sparks vs Connecticut Sun",
       "strHomeTeam": "Los Angeles Sparks",
       "strAwayTeam": "Connecticut Sun",
@@ -130,7 +130,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-21-las-vegas-aces-vs-connecticut-sun",
+      "idEvent": "scraped-401857159",
       "strEvent": "Las Vegas Aces vs Connecticut Sun",
       "strHomeTeam": "Las Vegas Aces",
       "strAwayTeam": "Connecticut Sun",
@@ -144,7 +144,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-18-connecticut-sun-vs-los-angeles-sparks",
+      "idEvent": "scraped-401857152",
       "strEvent": "Connecticut Sun vs Los Angeles Sparks",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Los Angeles Sparks",
@@ -158,7 +158,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-15-connecticut-sun-vs-new-york-liberty",
+      "idEvent": "scraped-401857145",
       "strEvent": "Connecticut Sun vs New York Liberty",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "New York Liberty",
@@ -172,7 +172,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-13-connecticut-sun-vs-atlanta-dream",
+      "idEvent": "scraped-401857140",
       "strEvent": "Connecticut Sun vs Atlanta Dream",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Atlanta Dream",
@@ -186,7 +186,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-07-connecticut-sun-vs-phoenix-mercury",
+      "idEvent": "scraped-401857122",
       "strEvent": "Connecticut Sun vs Phoenix Mercury",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Phoenix Mercury",
@@ -200,7 +200,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-08-02-dallas-wings-vs-connecticut-sun",
+      "idEvent": "scraped-401857109",
       "strEvent": "Dallas Wings vs Connecticut Sun",
       "strHomeTeam": "Dallas Wings",
       "strAwayTeam": "Connecticut Sun",
@@ -214,7 +214,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-31-chicago-sky-vs-connecticut-sun",
+      "idEvent": "scraped-401857100",
       "strEvent": "Chicago Sky vs Connecticut Sun",
       "strHomeTeam": "Chicago Sky",
       "strAwayTeam": "Connecticut Sun",
@@ -228,7 +228,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-28-washington-mystics-vs-connecticut-sun",
+      "idEvent": "scraped-401857092",
       "strEvent": "Washington Mystics vs Connecticut Sun",
       "strHomeTeam": "Washington Mystics",
       "strAwayTeam": "Connecticut Sun",
@@ -242,7 +242,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-23-indiana-fever-vs-connecticut-sun",
+      "idEvent": "scraped-401857090",
       "strEvent": "Indiana Fever vs Connecticut Sun",
       "strHomeTeam": "Indiana Fever",
       "strAwayTeam": "Connecticut Sun",
@@ -256,7 +256,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-19-phoenix-mercury-vs-connecticut-sun",
+      "idEvent": "scraped-401857082",
       "strEvent": "Phoenix Mercury vs Connecticut Sun",
       "strHomeTeam": "Phoenix Mercury",
       "strAwayTeam": "Connecticut Sun",
@@ -270,7 +270,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-18-phoenix-mercury-vs-connecticut-sun",
+      "idEvent": "scraped-401857076",
       "strEvent": "Phoenix Mercury vs Connecticut Sun",
       "strHomeTeam": "Phoenix Mercury",
       "strAwayTeam": "Connecticut Sun",
@@ -284,7 +284,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-14-connecticut-sun-vs-portland-fire",
+      "idEvent": "scraped-401857066",
       "strEvent": "Connecticut Sun vs Portland Fire",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Portland Fire",
@@ -298,7 +298,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-10-connecticut-sun-vs-golden-state-valkyries",
+      "idEvent": "scraped-401857054",
       "strEvent": "Connecticut Sun vs Golden State Valkyries",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Golden State Valkyries",
@@ -312,7 +312,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-08-connecticut-sun-vs-minnesota-lynx",
+      "idEvent": "scraped-401857049",
       "strEvent": "Connecticut Sun vs Minnesota Lynx",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Minnesota Lynx",
@@ -326,7 +326,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-07-minnesota-lynx-vs-connecticut-sun",
+      "idEvent": "scraped-401857044",
       "strEvent": "Minnesota Lynx vs Connecticut Sun",
       "strHomeTeam": "Minnesota Lynx",
       "strAwayTeam": "Connecticut Sun",
@@ -340,7 +340,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-07-03-connecticut-sun-vs-dallas-wings",
+      "idEvent": "scraped-401857035",
       "strEvent": "Connecticut Sun vs Dallas Wings",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Dallas Wings",
@@ -354,7 +354,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-26-connecticut-sun-vs-washington-mystics",
+      "idEvent": "scraped-401857024",
       "strEvent": "Connecticut Sun vs Washington Mystics",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Washington Mystics",
@@ -368,7 +368,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-22-connecticut-sun-vs-chicago-sky",
+      "idEvent": "scraped-401857012",
       "strEvent": "Connecticut Sun vs Chicago Sky",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Chicago Sky",
@@ -382,7 +382,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-19-connecticut-sun-vs-toronto-tempo",
+      "idEvent": "scraped-401857003",
       "strEvent": "Connecticut Sun vs Toronto Tempo",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Toronto Tempo",
@@ -396,7 +396,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-17-connecticut-sun-vs-washington-mystics",
+      "idEvent": "scraped-401856996",
       "strEvent": "Connecticut Sun vs Washington Mystics",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Washington Mystics",
@@ -410,7 +410,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-13-connecticut-sun-vs-indiana-fever",
+      "idEvent": "scraped-401856986",
       "strEvent": "Connecticut Sun vs Indiana Fever",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Indiana Fever",
@@ -424,7 +424,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-10-toronto-tempo-vs-connecticut-sun",
+      "idEvent": "scraped-401856978",
       "strEvent": "Toronto Tempo vs Connecticut Sun",
       "strHomeTeam": "Toronto Tempo",
       "strAwayTeam": "Connecticut Sun",
@@ -438,7 +438,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-08-connecticut-sun-vs-new-york-liberty",
+      "idEvent": "scraped-401856972",
       "strEvent": "Connecticut Sun vs New York Liberty",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "New York Liberty",
@@ -452,7 +452,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-05-chicago-sky-vs-connecticut-sun",
+      "idEvent": "scraped-401856963",
       "strEvent": "Chicago Sky vs Connecticut Sun",
       "strHomeTeam": "Chicago Sky",
       "strAwayTeam": "Connecticut Sun",
@@ -466,7 +466,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-06-02-atlanta-dream-vs-connecticut-sun",
+      "idEvent": "scraped-401856955",
       "strEvent": "Atlanta Dream vs Connecticut Sun",
       "strHomeTeam": "Atlanta Dream",
       "strAwayTeam": "Connecticut Sun",
@@ -480,7 +480,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-30-connecticut-sun-vs-los-angeles-sparks",
+      "idEvent": "scraped-401856950",
       "strEvent": "Connecticut Sun vs Los Angeles Sparks",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Los Angeles Sparks",
@@ -494,7 +494,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-28-portland-fire-vs-connecticut-sun",
+      "idEvent": "scraped-401856941",
       "strEvent": "Portland Fire vs Connecticut Sun",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Connecticut Sun",
@@ -508,7 +508,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-26-golden-state-valkyries-vs-connecticut-sun",
+      "idEvent": "scraped-401856937",
       "strEvent": "Golden State Valkyries vs Connecticut Sun",
       "strHomeTeam": "Golden State Valkyries",
       "strAwayTeam": "Connecticut Sun",
@@ -522,7 +522,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-23-seattle-storm-vs-connecticut-sun",
+      "idEvent": "scraped-401856929",
       "strEvent": "Seattle Storm vs Connecticut Sun",
       "strHomeTeam": "Seattle Storm",
       "strAwayTeam": "Connecticut Sun",
@@ -536,7 +536,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-21-seattle-storm-vs-connecticut-sun",
+      "idEvent": "scraped-401856923",
       "strEvent": "Seattle Storm vs Connecticut Sun",
       "strHomeTeam": "Seattle Storm",
       "strAwayTeam": "Connecticut Sun",
@@ -550,7 +550,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-19-portland-fire-vs-connecticut-sun",
+      "idEvent": "scraped-401856919",
       "strEvent": "Portland Fire vs Connecticut Sun",
       "strHomeTeam": "Portland Fire",
       "strAwayTeam": "Connecticut Sun",
@@ -564,7 +564,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-15-connecticut-sun-vs-las-vegas-aces",
+      "idEvent": "scraped-401856910",
       "strEvent": "Connecticut Sun vs Las Vegas Aces",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Las Vegas Aces",
@@ -578,7 +578,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-14-connecticut-sun-vs-las-vegas-aces",
+      "idEvent": "scraped-401856905",
       "strEvent": "Connecticut Sun vs Las Vegas Aces",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Las Vegas Aces",
@@ -592,7 +592,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-10-connecticut-sun-vs-seattle-storm",
+      "idEvent": "scraped-401856896",
       "strEvent": "Connecticut Sun vs Seattle Storm",
       "strHomeTeam": "Connecticut Sun",
       "strAwayTeam": "Seattle Storm",
@@ -606,7 +606,7 @@
       "source": "scraped"
     },
     {
-      "idEvent": "scraped-2026-05-08-new-york-liberty-vs-connecticut-sun",
+      "idEvent": "scraped-401856890",
       "strEvent": "New York Liberty vs Connecticut Sun",
       "strHomeTeam": "New York Liberty",
       "strAwayTeam": "Connecticut Sun",
