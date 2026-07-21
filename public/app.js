@@ -381,7 +381,7 @@ function renderResults(payload, type) {
     actions.append(tvmazeLink);
 
     if (show.imdbId) {
-      const validImdb = safeHttpUrl(`https://www.imdb.com/title/${show.imdbId}//`);
+      const validImdb = safeHttpUrl(`https://www.imdb.com/title/${show.imdbId}/`);
       if (validImdb) {
         const imdbLink = document.createElement('a');
         imdbLink.href = validImdb;

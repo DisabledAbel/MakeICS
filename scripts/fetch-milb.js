@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { normalizeScrapedEvent } from '../lib/sports.js';
+import { decodeUnicodeEscapes } from '../lib/utils/unicode.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SUPPLEMENTAL_DATA_DIR = path.join(__dirname, '../lib/data/sports/supplemental');

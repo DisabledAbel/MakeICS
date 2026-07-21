@@ -110,6 +110,7 @@ async function fetchWNBACSV() {
       const awayRaw = parts[indices.away];
       const venue = indices.venue !== -1 ? parts[indices.venue] : null;
       const broadcast = indices.broadcast !== -1 ? parts[indices.broadcast] : null;
+      const gameId = indices.id !== -1 ? parts[indices.id] : null;
 
       if (!dateRaw || !homeRaw || !awayRaw) continue;
 
@@ -121,7 +122,7 @@ async function fetchWNBACSV() {
         strTime = strTime.replace('Z', '');
       }
 
-      games.push({
+      const gameObj = {
         date: dateEvent,
         time: strTime,
         name: `${homeRaw} vs ${awayRaw}`,
@@ -130,7 +131,13 @@ async function fetchWNBACSV() {
         venue: venue,
         broadcast: broadcast,
         league: 'WNBA'
-      });
+      };
+
+      if (gameId) {
+        gameObj.id = gameId;
+      }
+
+      games.push(gameObj);
     }
 
     return games;
@@ -182,9 +189,13 @@ async function main() {
         const matchesTarget = home === target || away === target;
         const matchesShort = shortTarget && (home === shortTarget || away === shortTarget);
 
+        // Also support mapping using the preserved game id / team id, or check if team.strTeamShort contains the CSV id
+        const matchesId = (g.id && String(g.id) === String(team.idTeam)) ||
+                          (shortTarget && String(g.id) === shortTarget);
+
         // Also allow matching if the full team name is a substring, but be more careful
         // Most CSVs have the full name, so exact match is safest
-        return matchesTarget || matchesShort;
+        return matchesTarget || matchesShort || matchesId;
       });
 
       if (filteredGlobal.length > 0) {

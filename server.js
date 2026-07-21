@@ -68,6 +68,12 @@ function validateQueryParams(req, res) {
   try {
     const requestUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
     for (const [key, val] of requestUrl.searchParams.entries()) {
+      if (key.includes('\0')) {
+        res.writeHead(400, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ error: `Parameter name contains invalid null bytes.` }));
+        return false;
+      }
+
       if (typeof val !== 'string') continue;
 
       let maxLen = 120;

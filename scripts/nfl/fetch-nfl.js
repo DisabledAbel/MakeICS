@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { chromium } from 'playwright';
+import { decodeUnicodeEscapes } from '../../lib/utils/unicode.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SUPPLEMENTAL_DATA_DIR = path.join(__dirname, '../lib/data/sports/supplemental');
@@ -46,13 +47,6 @@ const findTeamIdByName = (fullName) => {
   const entry = Object.entries(NFL_TEAMS).find(([id, config]) => config.name.toLowerCase().trim() === trimmed);
   return entry ? entry[0] : null;
 };
-
-function decodeUnicodeEscapes(str) {
-  if (!str) return str;
-  return str.replace(/\\u([0-9a-fA-F]{4})/g, (match, grp) => {
-    return String.fromCharCode(parseInt(grp, 16));
-  }).replace(/&amp;/g, '&');
-}
 
 async function scrapeNFLSchedules() {
   const browser = await chromium.launch({ headless: true });
