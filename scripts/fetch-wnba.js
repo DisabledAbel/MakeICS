@@ -92,7 +92,9 @@ async function fetchWNBACSV() {
       away: 'away_display_name',
       venue: 'venue_full_name',
       id: 'id',
-      broadcast: 'broadcast'
+      broadcast: 'broadcast',
+      homeId: 'home_id',
+      awayId: 'away_id'
     };
     const indices = {};
     for (const [key, field] of Object.entries(mapping)) {
@@ -111,6 +113,8 @@ async function fetchWNBACSV() {
       const venue = indices.venue !== -1 ? parts[indices.venue] : null;
       const broadcast = indices.broadcast !== -1 ? parts[indices.broadcast] : null;
       const gameId = indices.id !== -1 ? parts[indices.id] : null;
+      const homeIdVal = indices.homeId !== -1 ? parts[indices.homeId] : null;
+      const awayIdVal = indices.awayId !== -1 ? parts[indices.awayId] : null;
 
       if (!dateRaw || !homeRaw || !awayRaw) continue;
 
@@ -135,6 +139,12 @@ async function fetchWNBACSV() {
 
       if (gameId) {
         gameObj.id = gameId;
+      }
+      if (homeIdVal) {
+        gameObj.homeId = homeIdVal;
+      }
+      if (awayIdVal) {
+        gameObj.awayId = awayIdVal;
       }
 
       games.push(gameObj);
@@ -189,9 +199,9 @@ async function main() {
         const matchesTarget = home === target || away === target;
         const matchesShort = shortTarget && (home === shortTarget || away === shortTarget);
 
-        // Also support mapping using the preserved game id / team id, or check if team.strTeamShort contains the CSV id
-        const matchesId = (g.id && String(g.id) === String(team.idTeam)) ||
-                          (shortTarget && String(g.id) === shortTarget);
+        // Compare team.idTeam against parsed CSV home_id and away_id values, only when those fields are available
+        const matchesId = (g.homeId || g.awayId) &&
+                          (String(g.homeId) === String(team.idTeam) || String(g.awayId) === String(team.idTeam));
 
         // Also allow matching if the full team name is a substring, but be more careful
         // Most CSVs have the full name, so exact match is safest
