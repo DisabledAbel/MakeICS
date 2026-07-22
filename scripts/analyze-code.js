@@ -231,7 +231,8 @@ This is a dry-run/mock report since no \`OPENROUTER_API_KEY\` was provided or \`
             role: 'user',
             content: prompt
           }
-        ]
+        ],
+        max_tokens: 4096
       })
     });
 
