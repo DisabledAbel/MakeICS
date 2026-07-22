@@ -12,7 +12,7 @@ jobs:
   fetch-imdb:
     runs-on: ubuntu-latest
     concurrency:
-      group: data-updates
+      group: data-updates-${{ github.workflow }}
       cancel-in-progress: false
 
     steps:
