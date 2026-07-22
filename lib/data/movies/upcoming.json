@@ -681,6 +681,36 @@
       "label": "Jul 24, 2026"
     },
     {
+      "id": "tt32622406",
+      "title": "A Sad and Beautiful World",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGI0ZGU0M2YtZWRlYS00ODc5LTg2MjMtYjJkNWIwMzBjNWY4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 24 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        {
+          "id": "nm3701357",
+          "name": "Mounia Akl"
+        },
+        {
+          "id": "nm4443305",
+          "name": "Hasan Akil"
+        },
+        {
+          "id": "nm1724758",
+          "name": "Julia Kassar"
+        },
+        {
+          "id": "nm5272930",
+          "name": "Camille Salameh"
+        }
+      ],
+      "label": "Jul 24, 2026"
+    },
+    {
       "id": "tt43492793",
       "title": "WHAM! 10 Days in China",
       "image": "https://m.media-amazon.com/images/M/MV5BYmNhMWRiMGUtM2QwMC00ZjZiLTk3MWUtOWIwNWEzNTJmOWU2XkEyXkFqcGc@._V1_.jpg",
@@ -756,6 +786,36 @@
         {
           "id": "nm4377526",
           "name": "Daveed Diggs"
+        }
+      ],
+      "label": "Jul 31, 2026"
+    },
+    {
+      "id": "tt38551209",
+      "title": "Sheep in the Box",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI4MmExNTMtYTg4ZS00ZDc3LThiODctN2M1OGY4MGVhYjVmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 31 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "people": [
+        {
+          "id": "nm1480573",
+          "name": "Haruka Ayase"
+        },
+        {
+          "id": "nm10202974",
+          "name": "Daigo Yamamoto"
+        },
+        {
+          "id": "nm18423478",
+          "name": "Rimu Kuwaki"
+        },
+        {
+          "id": "nm5979068",
+          "name": "Nana Seino"
         }
       ],
       "label": "Jul 31, 2026"
@@ -1656,9 +1716,39 @@
       "label": "Aug 21, 2026"
     },
     {
+      "id": "tt40644918",
+      "title": "40 Years of Fuckin' Up",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDJkYWY4MzEtMjY5NC00MTNmLTg2NWItMjU3ODdlNjFiMTcyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sun, 23 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm9425305",
+          "name": "Aaron Abeyta"
+        },
+        {
+          "id": "nm3567884",
+          "name": "Chris Graue"
+        },
+        {
+          "id": "nm2568151",
+          "name": "Eric Melvin"
+        },
+        {
+          "id": "nm1224455",
+          "name": "Fat Mike"
+        }
+      ],
+      "label": "Aug 23, 2026"
+    },
+    {
       "id": "tt27530512",
       "title": "Toxic",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjY4NTA2ZDYtZjkzMi00ZGEyLTgyMTUtOWVlNDgyMGNiYmEyXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWJhYjI3MjktMDRhZS00ZjU1LThiN2UtYjc2ZGQzZDNmMjQ4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 26 Aug 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -1927,7 +2017,7 @@
     {
       "id": "tt37281055",
       "title": "Buddy",
-      "image": "https://m.media-amazon.com/images/M/MV5BZWQ5ZWQzZWQtMzViMS00NmJjLWIwNWYtM2VhNDU5MTY0YjNhXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWRkNWJhNjYtY2FkZC00YjFlLWFjMjUtZGFhMjc5MGYyODE4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
       "genres": [
         "Horror",
@@ -2084,6 +2174,10 @@
       ],
       "people": [
         {
+          "id": "nm6481846",
+          "name": "Drew Starkey"
+        },
+        {
           "id": "nm0356017",
           "name": "Rebecca Hall"
         },
@@ -2094,10 +2188,6 @@
         {
           "id": "nm1405398",
           "name": "Dan Stevens"
-        },
-        {
-          "id": "nm0000299",
-          "name": "Michael Biehn"
         }
       ],
       "label": "Sep 04, 2026"
@@ -2315,7 +2405,7 @@
     {
       "id": "tt9601292",
       "title": "The Fix",
-      "image": "https://m.media-amazon.com/images/M/MV5BZDBmZGQ3ZWUtYzQzZC00Yjg1LTkzMGQtYmI4MmNkNjFiNDZhXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjhiYzQ5YjQtZTlhZS00YTQ0LTk5YzMtNmRjY2EwYmFhYmIzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -2496,16 +2586,16 @@
       ],
       "people": [
         {
-          "id": "nm0361957",
-          "name": "Kate Harbour"
-        },
-        {
           "id": "nm1017994",
           "name": "Justin Fletcher"
         },
         {
           "id": "nm0816950",
           "name": "John Sparkes"
+        },
+        {
+          "id": "nm0361957",
+          "name": "Kate Harbour"
         }
       ],
       "label": "Sep 18, 2026"
@@ -2767,12 +2857,71 @@
           "name": "Domhnall Gleeson"
         },
         {
-          "id": "nm0001314",
-          "name": "John Hannah"
+          "id": "nm2047170",
+          "name": "Emun Elliott"
         },
         {
-          "id": "nm0327056",
-          "name": "Michelle Gomez"
+          "id": "nm0001314",
+          "name": "John Hannah"
+        }
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
+      "id": "tt39149197",
+      "title": "Ha-Chan, Shake Your Booty!",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGU3ZGViYTgtYjExMC00NzI0LWE5ODMtZTdkN2I4NmE3NDUzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        {
+          "id": "nm0452860",
+          "name": "Rinko Kikuchi"
+        },
+        {
+          "id": "nm1226341",
+          "name": "Alberto Guerra"
+        },
+        {
+          "id": "nm2338470",
+          "name": "Alejandro Edda"
+        },
+        {
+          "id": "nm1645591",
+          "name": "You"
+        }
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
+      "id": "tt34611096",
+      "title": "The Stunt Driver",
+      "image": "https://m.media-amazon.com/images/M/MV5BODAxNWRjMDItOWMxOS00NWJlLTliMTctMmRmZDMzN2E0OTA4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm0004936",
+          "name": "Ben Foster"
+        },
+        {
+          "id": "nm0059431",
+          "name": "Jay Baruchel"
+        },
+        {
+          "id": "nm1159180",
+          "name": "Ed Helms"
+        },
+        {
+          "id": "nm2045884",
+          "name": "Dan Bakkedahl"
         }
       ],
       "label": "Sep 25, 2026"
@@ -2995,12 +3144,12 @@
           "name": "Mahershala Ali"
         },
         {
-          "id": "nm0158626",
-          "name": "John Cho"
-        },
-        {
           "id": "nm7436993",
           "name": "Tramell Tillman"
+        },
+        {
+          "id": "nm0158626",
+          "name": "John Cho"
         }
       ],
       "label": "Oct 09, 2026"
@@ -3125,6 +3274,7 @@
     {
       "id": "tt36586020",
       "title": "Other Mommy",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWU2MzZlNmItYzVmYi00Y2Y4LWI4NTktNTg3NDE0MGE5NGRkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
       "genres": [
         "Horror"
@@ -3160,20 +3310,20 @@
       ],
       "people": [
         {
-          "id": "nm0789716",
-          "name": "Fiona Shaw"
+          "id": "nm8402992",
+          "name": "Daisy Edgar-Jones"
         },
         {
           "id": "nm11417004",
           "name": "Bodhi Rae Breathnach"
         },
         {
-          "id": "nm8402992",
-          "name": "Daisy Edgar-Jones"
+          "id": "nm0789716",
+          "name": "Fiona Shaw"
         },
         {
-          "id": "nm1126657",
-          "name": "George MacKay"
+          "id": "nm1495520",
+          "name": "Caitríona Balfe"
         }
       ],
       "label": "Oct 16, 2026"
@@ -3642,8 +3792,8 @@
           "name": "Miou Tanaka"
         },
         {
-          "id": "nm4290253",
-          "name": "Yuki Yamada"
+          "id": "nm2747232",
+          "name": "Sakura Andō"
         }
       ],
       "label": "Nov 06, 2026"
@@ -3752,12 +3902,12 @@
           "name": "Iain Glen"
         },
         {
-          "id": "nm3522635",
-          "name": "Joel David Smallbone"
-        },
-        {
           "id": "nm0261595",
           "name": "Charles Esten"
+        },
+        {
+          "id": "nm3522635",
+          "name": "Joel David Smallbone"
         },
         {
           "id": "nm15871905",
@@ -3812,16 +3962,16 @@
           "name": "Nicholas Hoult"
         },
         {
-          "id": "nm2368789",
-          "name": "Zoë Kravitz"
-        },
-        {
           "id": "nm0000225",
           "name": "Christian Slater"
         },
         {
-          "id": "nm0000604",
-          "name": "John C. Reilly"
+          "id": "nm2368789",
+          "name": "Zoë Kravitz"
+        },
+        {
+          "id": "nm0203457",
+          "name": "Pete Davidson"
         }
       ],
       "label": "Nov 13, 2026"
@@ -4019,12 +4169,12 @@
           "name": "Alan Tudyk"
         },
         {
-          "id": "nm2794962",
-          "name": "Hailee Steinfeld"
-        },
-        {
           "id": "nm0429069",
           "name": "Rashida Jones"
+        },
+        {
+          "id": "nm2794962",
+          "name": "Hailee Steinfeld"
         },
         {
           "id": "nm0000410",
@@ -4067,9 +4217,9 @@
       "image": "https://m.media-amazon.com/images/M/MV5BN2ViZTQ2N2QtZDRmMC00MTU2LTlhM2EtZjg2YzA0YzI4NzRkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
       "genres": [
-        "Biography",
         "Drama",
-        "Family"
+        "History",
+        "Romance"
       ],
       "people": [
         {
@@ -4696,12 +4846,12 @@
           "name": "Bella Ramsey"
         },
         {
-          "id": "nm4689420",
-          "name": "Carrie Coon"
-        },
-        {
           "id": "nm4141252",
           "name": "Lily James"
+        },
+        {
+          "id": "nm4689420",
+          "name": "Carrie Coon"
         },
         {
           "id": "nm0628120",
@@ -4900,20 +5050,20 @@
       ],
       "people": [
         {
-          "id": "nm0625789",
-          "name": "Tim Blake Nelson"
-        },
-        {
           "id": "nm3996999",
           "name": "Brandon Sklenar"
         },
         {
-          "id": "nm0524197",
-          "name": "Josh Lucas"
+          "id": "nm0625789",
+          "name": "Tim Blake Nelson"
         },
         {
-          "id": "nm6076950",
-          "name": "Hassie Harrison"
+          "id": "nm0241049",
+          "name": "Josh Duhamel"
+        },
+        {
+          "id": "nm0524197",
+          "name": "Josh Lucas"
         }
       ],
       "label": "Jan 29, 2027"
@@ -5455,8 +5605,8 @@
           "name": "Monica Raymund"
         },
         {
-          "id": "nm2963874",
-          "name": "Edy Ganem"
+          "id": "nm0791898",
+          "name": "Tiffany Shepis"
         }
       ],
       "label": "Apr 09, 2027"
@@ -5951,16 +6101,16 @@
           "name": "Gerard Butler"
         },
         {
-          "id": "nm9296746",
-          "name": "Mason Thames"
-        },
-        {
           "id": "nm0000949",
           "name": "Cate Blanchett"
         },
         {
-          "id": "nm4651633",
-          "name": "Phil Dunster"
+          "id": "nm9296746",
+          "name": "Mason Thames"
+        },
+        {
+          "id": "nm5421877",
+          "name": "Julian Dennison"
         }
       ],
       "label": "Jun 11, 2027"
