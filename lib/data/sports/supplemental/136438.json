@@ -196,7 +196,7 @@
       "strLeague": "WNBA",
       "strVenue": "Barclays Center",
       "strStatus": "NS",
-      "strTVStation": "Peacock/NBCSN",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
