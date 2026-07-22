@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: data-updates
+  group: data-updates-${{ github.workflow }}
   cancel-in-progress: false
 
 jobs:
