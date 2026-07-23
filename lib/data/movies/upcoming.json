@@ -398,12 +398,12 @@
       ],
       "people": [
         {
-          "id": "nm5486990",
-          "name": "Matt Cornett"
-        },
-        {
           "id": "nm0701512",
           "name": "Missi Pyle"
+        },
+        {
+          "id": "nm5486990",
+          "name": "Matt Cornett"
         },
         {
           "id": "nm0429114",
@@ -516,16 +516,16 @@
       ],
       "people": [
         {
-          "id": "nm10023988",
-          "name": "Havana Rose Liu"
-        },
-        {
           "id": "nm7393303",
           "name": "Sophie Thatcher"
         },
         {
           "id": "nm6217576",
           "name": "Charles Melton"
+        },
+        {
+          "id": "nm10023988",
+          "name": "Havana Rose Liu"
         },
         {
           "id": "nm0779084",
@@ -834,16 +834,16 @@
           "name": "KateLynn E. Newberry"
         },
         {
-          "id": "nm16222350",
-          "name": "Andrew Pierson"
+          "id": "nm3295544",
+          "name": "Coby Connell"
         },
         {
           "id": "nm9727235",
           "name": "John Potash"
         },
         {
-          "id": "nm3295544",
-          "name": "Coby Connell"
+          "id": "nm16222350",
+          "name": "Andrew Pierson"
         }
       ],
       "label": "Aug 01, 2026"
@@ -868,7 +868,7 @@
     {
       "id": "tt37853455",
       "title": "One Night Only",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjQ5MmMxMjItNWQ5NC00OGI1LWFjNTYtYjA3NjNmM2EzNmIyXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2ZlYTQ2YmUtZTNlNy00OGI0LWFmNjctN2MyNjYzNjAzNjliXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 07 Aug 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -1157,6 +1157,35 @@
         }
       ],
       "label": "Aug 12, 2026"
+    },
+    {
+      "id": "tt40047746",
+      "title": "Namaslay",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2Y3NDE0ODYtMGJmMS00NThiLTllYzYtYjk2ZDI1ODFmYzZjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 13 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm12438938",
+          "name": "Kiru Srikanth"
+        },
+        {
+          "id": "nm6935028",
+          "name": "Angela Sant'Albano"
+        },
+        {
+          "id": "nm12148317",
+          "name": "Alicia Mitchell-Mangual"
+        },
+        {
+          "id": "nm18598808",
+          "name": "Usha Krishnan"
+        }
+      ],
+      "label": "Aug 13, 2026"
     },
     {
       "id": "tt27165187",
@@ -1630,7 +1659,7 @@
     {
       "id": "tt35519455",
       "title": "It Ends",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWE2ZGYyMzMtYjQ2OS00Y2ZhLWE2MzktMDY1YzM3MjUxZTM4XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTAyOWE1YmMtM2YzNy00M2I3LWI5MDgtODI4MjliZTAxNzNiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -2020,8 +2049,7 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMWRkNWJhNjYtY2FkZC00YjFlLWFjMjUtZGFhMjc5MGYyODE4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
       "genres": [
-        "Horror",
-        "Sci-Fi"
+        "Horror"
       ],
       "people": [
         {
@@ -2069,6 +2097,35 @@
         {
           "id": "nm18192685",
           "name": "Lotta von Schedvin"
+        }
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
+      "id": "tt32499466",
+      "title": "Finding Emily",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2MzZDk2Y2ItYzNiZS00Y2Y3LTg2NzYtMmI3NmI4NGFhYzBmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "people": [
+        {
+          "id": "nm3886028",
+          "name": "Angourie Rice"
+        },
+        {
+          "id": "nm10514458",
+          "name": "Spike Fearn"
+        },
+        {
+          "id": "nm0000378",
+          "name": "Minnie Driver"
+        },
+        {
+          "id": "nm10082934",
+          "name": "Sadie Soverall"
         }
       ],
       "label": "Aug 28, 2026"
@@ -2219,6 +2276,36 @@
         {
           "id": "nm12745128",
           "name": "Alexis 'Lexi' Andrews"
+        }
+      ],
+      "label": "Sep 04, 2026"
+    },
+    {
+      "id": "tt21452628",
+      "title": "The Girl in the River",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWFhZWViYWQtMDkzMi00NDM0LWI2MDctNDNhNmExYjRmYzUwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "people": [
+        {
+          "id": "nm1192254",
+          "name": "Maggie Grace"
+        },
+        {
+          "id": "nm0001494",
+          "name": "Ralph Macchio"
+        },
+        {
+          "id": "nm0001701",
+          "name": "Devon Sawa"
+        },
+        {
+          "id": "nm1840504",
+          "name": "Tiffany Haddish"
         }
       ],
       "label": "Sep 04, 2026"
@@ -2772,8 +2859,8 @@
           "name": "Dolly De Leon"
         },
         {
-          "id": "nm5307044",
-          "name": "Ronny Chieng"
+          "id": "nm3254274",
+          "name": "Manny Jacinto"
         }
       ],
       "label": "Sep 25, 2026"
@@ -2922,6 +3009,36 @@
         {
           "id": "nm2045884",
           "name": "Dan Bakkedahl"
+        }
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
+      "id": "tt31726535",
+      "title": "You Had to Be There: How the Toronto Godspell Ignited the Comedy Revolution, Spread Love & Overalls, and Created a Community That Changed the World (in a Canadian Kind of Way)",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGViODVkOTQtMGE4OC00YTJlLWJjNTEtYzFkMTkwY2FjNzQ0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Comedy",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm0000196",
+          "name": "Mike Myers"
+        },
+        {
+          "id": "nm0001573",
+          "name": "Catherine O'Hara"
+        },
+        {
+          "id": "nm0001737",
+          "name": "Martin Short"
+        },
+        {
+          "id": "nm0592135",
+          "name": "Lin-Manuel Miranda"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3187,7 +3304,7 @@
     {
       "id": "tt37510326",
       "title": "The Social Reckoning",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTc3ODAyY2ItY2FjZi00ZTM2LTgxNGQtODk2OGZkMWQ3MzhmXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGRhMWI2OWUtMGU5Yi00NGMxLWFjNDMtMTgxY2RjZTVlYjI2XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -3758,12 +3875,12 @@
           "name": "Steve Buscemi"
         },
         {
-          "id": "nm0000518",
-          "name": "John Malkovich"
-        },
-        {
           "id": "nm0000205",
           "name": "Parker Posey"
+        },
+        {
+          "id": "nm0000518",
+          "name": "John Malkovich"
         }
       ],
       "label": "Nov 06, 2026"
@@ -4548,8 +4665,8 @@
           "name": "Danny McBride"
         },
         {
-          "id": "nm3528821",
-          "name": "Emma Myers"
+          "id": "nm0837177",
+          "name": "Jason Sudeikis"
         },
         {
           "id": "nm4141252",
@@ -5174,12 +5291,12 @@
           "name": "M. Night Shyamalan"
         },
         {
-          "id": "nm3697443",
-          "name": "Phoebe Dynevor"
-        },
-        {
           "id": "nm0353546",
           "name": "Julie Hagerty"
+        },
+        {
+          "id": "nm3697443",
+          "name": "Phoebe Dynevor"
         }
       ],
       "label": "Feb 05, 2027"
@@ -5576,6 +5693,36 @@
       "label": "Mar 26, 2027"
     },
     {
+      "id": "tt14264402",
+      "title": "The Saviors",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2M5MzA0ODItNGU4Zi00MDBlLTg0OGItYWU5NzQxNDlmYjc3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 26 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0004395",
+          "name": "Adam Scott"
+        },
+        {
+          "id": "nm4314990",
+          "name": "Danielle Deadwyler"
+        },
+        {
+          "id": "nm0744331",
+          "name": "Theo Rossi"
+        },
+        {
+          "id": "nm2547958",
+          "name": "Kate Berlant"
+        }
+      ],
+      "label": "Mar 26, 2027"
+    },
+    {
       "id": "tt26443622",
       "title": "Untitled Disney",
       "releaseDate": "Fri, 02 Apr 2027 00:00:00 GMT",
@@ -5940,20 +6087,20 @@
       ],
       "people": [
         {
-          "id": "nm0048389",
-          "name": "Dee Bradley Baker"
-        },
-        {
           "id": "nm7248827",
           "name": "Cynthia Erivo"
+        },
+        {
+          "id": "nm0048389",
+          "name": "Dee Bradley Baker"
         },
         {
           "id": "nm6967441",
           "name": "Ncuti Gatwa"
         },
         {
-          "id": "nm10289597",
-          "name": "Serrana Su-Ling Bliss"
+          "id": "nm4735423",
+          "name": "James Acaster"
         }
       ],
       "label": "May 21, 2027"
@@ -6291,6 +6438,36 @@
         }
       ],
       "label": "Jul 09, 2027"
+    },
+    {
+      "id": "tt37788431",
+      "title": "A Minecraft Movie: Squared",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWYyZDk5NTItZTYyNy00ZWM4LTk3ZmItMzk2MDU1ZGRiZWMzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Jul 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm0597388",
+          "name": "Jason Momoa"
+        },
+        {
+          "id": "nm0000379",
+          "name": "Kirsten Dunst"
+        },
+        {
+          "id": "nm0085312",
+          "name": "Jack Black"
+        },
+        {
+          "id": "nm0177639",
+          "name": "Jennifer Coolidge"
+        }
+      ],
+      "label": "Jul 23, 2027"
     }
   ]
 }
