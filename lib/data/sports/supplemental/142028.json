@@ -746,6 +746,20 @@
       "source": "scraped"
     },
     {
+      "idEvent": "scraped-815521",
+      "strEvent": "Worcester Red Sox vs Rochester Red Wings",
+      "strHomeTeam": "Worcester Red Sox",
+      "strAwayTeam": "Rochester Red Wings",
+      "dateEvent": "2026-06-11",
+      "strTime": "23:05:00",
+      "strTimestamp": "2026-05-24T23:05:00Z",
+      "strLeague": "International League",
+      "strVenue": "Polar Park",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
       "idEvent": "scraped-815827",
       "strEvent": "Scranton/Wilkes-Barre RailRiders vs Worcester Red Sox",
       "strHomeTeam": "Scranton/Wilkes-Barre RailRiders",
