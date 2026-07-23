@@ -118,7 +118,18 @@ async function main() {
   const pyTestResult = await runCommand('PYTHONPATH=. python3 test/test_clear_repo_url.py');
   console.log(`Python Tests: ${pyTestResult.success ? 'PASSED' : 'FAILED'}`);
 
-  // 3. Find and read source files
+  // 3. Check if all tests passed and skip report generation if they did
+  if (jsTestResult.success && pyTestResult.success) {
+    console.log('All unit and Python tests passed! Skipping report generation and exiting.');
+    try {
+      await fs.unlink(REPORT_PATH);
+    } catch (err) {
+      // Ignore if file doesn't exist
+    }
+    return;
+  }
+
+  // 4. Find and read source files
   console.log('Scanning codebase source files...');
   const filesToScan = [...TARGET_FILES];
   for (const dir of TARGET_DIRS) {
@@ -141,10 +152,10 @@ async function main() {
     }
   }
 
-  // 4. Gather GitHub issue list context
+  // 5. Gather GitHub issue list context
   const ghIssues = await getGitHubContext();
 
-  // 5. Construct analysis payload
+  // 6. Construct analysis payload
   const prompt = `You are a world-class senior QA and software engineer.
 Analyze the provided codebase, the unit test execution outputs, and the existing issues list context.
 Your goal is to identify existing bugs, code errors, edge-case vulnerabilities, performance bottlenecks, unhandled promise rejections, security flaws, and code style nitpicks.
@@ -179,7 +190,7 @@ ${file.content}
 `).join('\n')}
 `;
 
-  // 6. Check OpenRouter API Key
+  // 7. Check OpenRouter API Key
   const apiKey = process.env.OPENROUTER_API_KEY;
   if (!apiKey || process.argv.includes('--dry-run')) {
     console.log('No OPENROUTER_API_KEY found or --dry-run specified. Generating a mock analysis report...');
