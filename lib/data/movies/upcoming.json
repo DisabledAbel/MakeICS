@@ -2311,6 +2311,35 @@
       "label": "Sep 04, 2026"
     },
     {
+      "id": "tt41791573",
+      "title": "Dear You",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTAwZDgxNWQtYjRhMC00MzRiLTgxOGEtMjJjMGU4YTc1NjIxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "people": [
+        {
+          "id": "nm18473040",
+          "name": "Sitong Li"
+        },
+        {
+          "id": "nm18473044",
+          "name": "Yantong Wang"
+        },
+        {
+          "id": "nm18473039",
+          "name": "Shaoqing Wu"
+        },
+        {
+          "id": "nm10075884",
+          "name": "Runqi Zheng"
+        }
+      ],
+      "label": "Sep 04, 2026"
+    },
+    {
       "id": "tt27369017",
       "title": "Hope",
       "image": "https://m.media-amazon.com/images/M/MV5BNzQwNzI5OTUtZjEzOS00ODI0LTk1MTEtNTNjNTdmYjFmNGQwXkEyXkFqcGc@._V1_.jpg",
@@ -2634,7 +2663,7 @@
     {
       "id": "tt35538033",
       "title": "Resident Evil",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDlmNzVjOWQtZDNkMy00MTIxLWJkYWMtNmI3ZDQxZTJhZmE3XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2Y5YTQ1NGYtMmRjYi00ODAyLWFhY2EtYjM0Yzc2NjU4N2MyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -2762,20 +2791,20 @@
       ],
       "people": [
         {
+          "id": "nm4561627",
+          "name": "Moon Choi"
+        },
+        {
+          "id": "nm7027783",
+          "name": "Son Sukku"
+        },
+        {
           "id": "nm10851449",
           "name": "Joohong Jung"
         },
         {
           "id": "nm15842016",
           "name": "Ferin Bergen"
-        },
-        {
-          "id": "nm3498379",
-          "name": "Will Cobbs"
-        },
-        {
-          "id": "nm6341651",
-          "name": "Paco Lozano"
         }
       ],
       "label": "Sep 22, 2026"
@@ -2991,6 +3020,7 @@
       "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
       "genres": [
         "Biography",
+        "Comedy",
         "Drama"
       ],
       "people": [
@@ -3039,6 +3069,36 @@
         {
           "id": "nm0592135",
           "name": "Lin-Manuel Miranda"
+        }
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
+      "id": "tt34206385",
+      "title": "Primetime",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGM5MjUyMmMtY2Y5Zi00NGViLTg3MTctZjAwMzY4MTE2MTBhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Biography",
+        "Crime"
+      ],
+      "people": [
+        {
+          "id": "nm1500155",
+          "name": "Robert Pattinson"
+        },
+        {
+          "id": "nm1711114",
+          "name": "Skyler Gisondo"
+        },
+        {
+          "id": "nm0267506",
+          "name": "Anna Faris"
+        },
+        {
+          "id": "nm0923266",
+          "name": "Merritt Wever"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3115,12 +3175,12 @@
           "name": "Marcus Lewis"
         },
         {
-          "id": "nm0005562",
-          "name": "Owen Wilson"
-        },
-        {
           "id": "nm6346805",
           "name": "Travis Scott"
+        },
+        {
+          "id": "nm0005562",
+          "name": "Owen Wilson"
         }
       ],
       "label": "Oct 02, 2026"
@@ -3828,6 +3888,26 @@
       "label": "Oct 30, 2026"
     },
     {
+      "id": "tt38691481",
+      "title": "Everest: The Other Side",
+      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Sport"
+      ],
+      "people": [
+        {
+          "id": "nm10922832",
+          "name": "Hilaree Nelson"
+        },
+        {
+          "id": "nm14471898",
+          "name": "Jim Morrison"
+        }
+      ],
+      "label": "Oct 30, 2026"
+    },
+    {
       "id": "tt36465142",
       "title": "Holy Father",
       "image": "https://m.media-amazon.com/images/M/MV5BYTAzZjgxNzUtZGUwYi00MGRjLWJjNGItODAyNDdmYWExNDE5XkEyXkFqcGc@._V1_.jpg",
@@ -4125,8 +4205,10 @@
     {
       "id": "tt38773219",
       "title": "Ebenezer: A Christmas Carol",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Y0NWM2N2EtMjdkMS00NTc0LTg4NDctZmUyYTA4YWZlY2EwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
       "genres": [
+        "Comedy",
         "Drama",
         "Fantasy"
       ],
@@ -4140,12 +4222,12 @@
           "name": "Sam Claflin"
         },
         {
-          "id": "nm5397459",
-          "name": "Daisy Ridley"
-        },
-        {
           "id": "nm0005212",
           "name": "Ian McKellen"
+        },
+        {
+          "id": "nm5397459",
+          "name": "Daisy Ridley"
         }
       ],
       "label": "Nov 13, 2026"
@@ -5302,6 +5384,21 @@
       "label": "Feb 05, 2027"
     },
     {
+      "id": "tt37541372",
+      "title": "The Garfield Movie 2",
+      "releaseDate": "Mon, 08 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Animation"
+      ],
+      "people": [
+        {
+          "id": "nm2957490",
+          "name": "Harvey Guillén"
+        }
+      ],
+      "label": "Feb 08, 2027"
+    },
+    {
       "id": "tt9077514",
       "title": "Narnia: The Magician's Nephew",
       "image": "https://m.media-amazon.com/images/M/MV5BZmJiNzIxNDQtNzhhMC00NGNmLWJkY2MtOWI1MDdmNzFmZTE3XkEyXkFqcGc@._V1_.jpg",
@@ -5446,12 +5543,12 @@
           "name": "Esai Morales"
         },
         {
-          "id": "nm3450051",
-          "name": "Richard Cabral"
-        },
-        {
           "id": "nm1883803",
           "name": "Jesse Garcia"
+        },
+        {
+          "id": "nm3182681",
+          "name": "Ian Casselberry"
         }
       ],
       "label": "Feb 26, 2027"
@@ -5518,6 +5615,7 @@
     {
       "id": "tt32492552",
       "title": "The Exorcist: Martyrs",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM4MGIxN2EtNWUxYi00YmNkLThlZDAtYzA4MzQ2Mjg5ODUyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 12 Mar 2027 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -6065,12 +6163,12 @@
           "name": "Maya da Costa"
         },
         {
-          "id": "nm3524780",
-          "name": "Chase Yi"
-        },
-        {
           "id": "nm9989632",
           "name": "Sonia Mena"
+        },
+        {
+          "id": "nm3524780",
+          "name": "Chase Yi"
         }
       ],
       "label": "May 21, 2027"
@@ -6451,12 +6549,12 @@
       ],
       "people": [
         {
-          "id": "nm0597388",
-          "name": "Jason Momoa"
-        },
-        {
           "id": "nm0000379",
           "name": "Kirsten Dunst"
+        },
+        {
+          "id": "nm0597388",
+          "name": "Jason Momoa"
         },
         {
           "id": "nm0085312",
