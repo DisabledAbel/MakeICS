@@ -54,11 +54,6 @@
     "name": "Shank Search",
     "verifiedAt": "2026-07-18T14:22:14.387Z"
   },
-  "Project Runway-22-4": {
-    "airdate": "2026-07-23",
-    "name": "Catwalk on the Wild Side",
-    "verifiedAt": "2026-07-18T14:22:19.867Z"
-  },
   "Project Runway-22-5": {
     "airdate": "2026-07-30",
     "name": "Viva la Fashion",
@@ -81,7 +76,7 @@
   },
   "All American-8-5": {
     "airdate": "2026-08-03",
-    "name": "Episode #8.5",
+    "name": "The Truth",
     "verifiedAt": "2026-07-22T15:04:51.875Z"
   },
   "All American-8-6": {
@@ -118,11 +113,6 @@
     "airdate": "2026-08-18",
     "name": "Episode #21.9",
     "verifiedAt": "2026-07-22T15:05:28.586Z"
-  },
-  "Big Brother-28-7": {
-    "airdate": "2026-07-23",
-    "name": "Episode #28.7",
-    "verifiedAt": "2026-07-22T15:05:38.628Z"
   },
   "Big Brother-28-8": {
     "airdate": "2026-07-26",
@@ -183,16 +173,6 @@
     "airdate": "2026-07-29",
     "name": "The Hit List",
     "verifiedAt": "2026-07-22T15:06:28.803Z"
-  },
-  "Surviving Earth-1-7": {
-    "airdate": "2026-07-23",
-    "name": "When the Continents Collided",
-    "verifiedAt": "2026-07-22T15:06:32.569Z"
-  },
-  "Celebrity Family Feud-12-3": {
-    "airdate": "2026-07-23",
-    "name": "The Arquettes vs Martina McBride and Patti LaBelle vs Fantasia",
-    "verifiedAt": "2026-07-22T15:06:35.677Z"
   },
   "Celebrity Family Feud-12-4": {
     "airdate": "2026-07-30",
@@ -289,11 +269,6 @@
     "name": "Dublin Drama",
     "verifiedAt": "2026-07-22T15:07:32.399Z"
   },
-  "WWE Friday Night SmackDown-27-35": {
-    "airdate": "2025-08-29",
-    "name": "And New...",
-    "verifiedAt": "2026-07-22T15:07:35.048Z"
-  },
   "WWE Friday Night SmackDown-27-40": {
     "airdate": "2026-10-02",
     "name": "Nashville Nightmare",
@@ -354,11 +329,6 @@
     "name": "Episode #1.1",
     "verifiedAt": "2026-07-22T15:08:30.138Z"
   },
-  "Guardián de Mi Vida-1-48": {
-    "airdate": "2026-07-23",
-    "name": "Episode #1.48",
-    "verifiedAt": "2026-07-22T15:08:35.813Z"
-  },
   "Guardián de Mi Vida-1-49": {
     "airdate": "2026-07-24",
     "name": "Episode #1.49",
@@ -378,5 +348,10 @@
     "airdate": "2026-07-28",
     "name": "Episode #8.1",
     "verifiedAt": "2026-07-22T15:08:47.892Z"
+  },
+  "WWE Friday Night SmackDown-27-35": {
+    "airdate": "2026-08-28",
+    "name": "And New...",
+    "verifiedAt": "2026-07-22T15:07:35.048Z"
   }
 }
