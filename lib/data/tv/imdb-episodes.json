@@ -2180,7 +2180,7 @@
           "number": 7,
           "name": "Match Me If You Can",
           "airdate": "2026-07-20",
-          "summary": "Chef Joy and Aesha grapple with a difficult primary who has enlisted a familiar matchmaker to help her and her dog find love. Cooper suffers a health scare that threatens to end his charter season. Nathan struggles to forgive an enormous betrayal.",
+          "summary": "Chef Joy and Aesha deal with a tough primary guest who hired a known matchmaker to help her and her dog find love. Cooper faces a health scare that could end his season. Nathan struggles to forgive a major betrayal.",
           "url": "https://www.imdb.com/title/tt43634709/?ref_=ttep_ep_7"
         },
         {
@@ -3137,7 +3137,7 @@
           "number": 6,
           "name": "First Impressions and Final Farewells",
           "airdate": "2026-07-20",
-          "summary": "While the family is just days away dropping their patriarch off at prison, Steven leaves town to meet his girlfriend's family in Texas. Tension rises when Kacie refuses to give Steven's new girlfriend Allie a cut of her tallow skincare business.",
+          "summary": "Days before their patriarch enters prison, Steven leaves to meet his girlfriend's family in Texas. Tension rises when Kacie refuses to give Steven's girlfriend Allie a cut of her tallow skincare business.",
           "url": "https://www.imdb.com/title/tt43677856/?ref_=ttep_ep_6"
         },
         {
@@ -4253,7 +4253,7 @@
         {
           "season": 1,
           "number": 7,
-          "name": "Episode #1.7",
+          "name": "Don't Rain on My Reno",
           "airdate": "2026-07-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42423576/?ref_=ttep_ep_7"
@@ -4754,7 +4754,232 @@
     "tt34869195": {
       "imdbId": "tt34869195",
       "title": "90 Day: The Last Resort Between the Sheets",
-      "episodes": []
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Last Chance for a Fairytale",
+          "airdate": "2026-06-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42206708/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Last Crown Standing",
+          "airdate": "2026-06-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43234613/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "How to Make It Last",
+          "airdate": "2026-06-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43234818/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Let Down Your Last Armor",
+          "airdate": "2026-06-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43234871/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "The Last Chance for Honor",
+          "airdate": "2026-06-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43234987/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Fall on Your Last Sword",
+          "airdate": "2026-07-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43634722/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "The Last Noble Truth",
+          "airdate": "2026-07-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43634723/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "The Last Leap of Faith",
+          "airdate": "2026-07-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43634724/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "The Last Performance",
+          "airdate": "2026-07-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43634726/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "The Last Draw",
+          "airdate": "2026-08-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43634728/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "The Last Knight Standing",
+          "airdate": "2026-08-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43700722/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Built to Last?",
+          "airdate": "2024-12-02",
+          "summary": "The Last Resort cast sits down to for a raw and unfiltered look back on the first episode with never-before-seen footage.",
+          "url": "https://www.imdb.com/title/tt34878147/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "The Last Straw",
+          "airdate": "2024-12-09",
+          "summary": "The couples reveal what really went down at Compromise Canyon, and in a never-before-seen clip Brandon and Julia have an in-depth therapy session.",
+          "url": "https://www.imdb.com/title/tt34878151/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Save the Last Dance",
+          "airdate": "2024-12-16",
+          "summary": "The cast reveals their excitement and apprehension looking back on the first night out with the group.",
+          "url": "https://www.imdb.com/title/tt34878153/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "The Last Word",
+          "airdate": "2024-12-23",
+          "summary": "The couples look back on the fall-out of the initial group night out. Gino gives Jasmine a foot rub. Everyone squirms as they watch themselves back in the first sex therapy session with additional Yes/No/Maybe prompts.",
+          "url": "https://www.imdb.com/title/tt35051653/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "The Last Rodeo",
+          "airdate": "2024-12-30",
+          "summary": "The couples cringe watching everyone's sex therapy homework. In never-before-seen footage, Julia tells Rob what she wants Brandon to do in the bedroom.",
+          "url": "https://www.imdb.com/title/tt35051654/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "The Last Laugh",
+          "airdate": "2025-01-06",
+          "summary": "The couples debate if they would have handled Jasmine and Florian's blowup differently, and everyone reacts to seeing the Row and Throw exercise.",
+          "url": "https://www.imdb.com/title/tt35051655/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "If You're Not First, You're Last",
+          "airdate": "2025-01-13",
+          "summary": "The couples react to the end of lakeside therapy. Jasmine breaks down in the bathroom at the Hitching Post bar.",
+          "url": "https://www.imdb.com/title/tt35309704/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Last Minute Invitation",
+          "airdate": "2025-01-20",
+          "summary": "Sophie and Florian get emotional during therapy. Jasmine reveals a secret to Brandon from the night of the suite party.",
+          "url": "https://www.imdb.com/title/tt35309706/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Nice Guys Finish Last",
+          "airdate": "2025-01-27",
+          "summary": "Everyone has something to say about Gino and Jasmine's relationship. In never-before-seen footage, Josh tells a story about Natalie's jealousy.",
+          "url": "https://www.imdb.com/title/tt35309707/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Lasting Effects",
+          "airdate": "2025-02-03",
+          "summary": "The couples react to the experience of hypnotherapy and the huge reveals. Josh tries to explain why he didn't want to apologize to Natalie.",
+          "url": "https://www.imdb.com/title/tt35309710/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Last Blow",
+          "airdate": "2025-02-10",
+          "summary": "The cast digs into the continued conflict between Rob and Sophie as accusations fly. Julia and Brandon have a session with Sarah.",
+          "url": "https://www.imdb.com/title/tt35309711/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "On Their Last Legs",
+          "airdate": "2025-02-17",
+          "summary": "No one can decide whose side they're on with the Jasmine and Gino intimacy conflict. Everyone reveals their first impressions of Darcey.",
+          "url": "https://www.imdb.com/title/tt35309712/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "The Last Judgment",
+          "airdate": "2025-02-24",
+          "summary": "The cast weighs in on Jasmine's conversation with Reba, and Josh and Natalie have a never-before-seen therapy session with James.",
+          "url": "https://www.imdb.com/title/tt35833854/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "The Last Insult",
+          "airdate": "2025-03-03",
+          "summary": "Everyone reacts to the night out at the social hall and Florian and Sophie have a never-before-seen fight.",
+          "url": "https://www.imdb.com/title/tt35833861/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "name": "Last Time Asking",
+          "airdate": "2025-03-10",
+          "summary": "A tumultuous night at the Social Hall reveals more about Gino and Jasmine's potential open marriage.",
+          "url": "https://www.imdb.com/title/tt35833863/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "name": "The Last Frontier",
+          "airdate": "2025-03-17",
+          "summary": "Gino reveals the real truth about his open marriage decision, and everyone reacts to a never-before-seen sex therapy session.",
+          "url": "https://www.imdb.com/title/tt36129047/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 1,
+          "number": 17,
+          "name": "Peace at Last",
+          "airdate": "2025-03-24",
+          "summary": "With bonus scenes -- Gino talks to the man Jasmine wants to bring into their marriage, and Julia gives Brandon an ultimatum.",
+          "url": "https://www.imdb.com/title/tt36235097/?ref_=ttep_ep_17"
+        }
+      ]
     },
     "tt27722982": {
       "imdbId": "tt27722982",
@@ -8397,7 +8622,7 @@
           "number": 6,
           "name": "Cop to It: Ice-T & Jimmy Fallon",
           "airdate": "2026-06-30",
-          "summary": "Jimmy Fallon and celebrity guest Ice-T return to pair up with contestants in a court-themed round inspired by his iconic role; hosted by Keke Palmer, players must guess secret passwords from one-word clues for a chance to win up to $25,000;",
+          "summary": "Ice-T joins Jimmy Fallon in a court-themed game where contestants guess passwords from one-word clues. Keke Palmer hosts as players compete for up to $25,000.",
           "url": "https://www.imdb.com/title/tt43591389/?ref_=ttep_ep_6"
         },
         {
@@ -8405,7 +8630,7 @@
           "number": 7,
           "name": "Sarsaparilla Pterodayctl: Wayne Brady & Jimmy Fallon",
           "airdate": "2026-07-07",
-          "summary": "Jimmy Fallon and celebrity guest Wayne Brady pair up with contestants for a word showdown, featuring a round of hard-to-spell words; hosted by Keke Palmer, players must guess secret passwords using one-word clues for a chance to win up to $25,000;",
+          "summary": "Jimmy Fallon and Wayne Brady team with contestants in a spelling challenge. Keke Palmer hosts as players use one-word clues to guess passwords for a shot at winning $25,000.",
           "url": "https://www.imdb.com/title/tt43620093/?ref_=ttep_ep_7"
         },
         {
@@ -8421,7 +8646,7 @@
           "number": 9,
           "name": "Dorinda Medley & Jimmy Fallon",
           "airdate": "2026-07-14",
-          "summary": "Jimmy Fallon and celebrity guest Dorinda Medley pair up with contestants for a word showdown, featuring a \"Real Housewives\"-themed round; hosted by Keke Palmer, players guest secret passwords using one-word clues for a chance to win up to $25,000;",
+          "summary": "Keke Palmer hosts as Jimmy Fallon and Dorinda Medley team with contestants in a word game featuring a \"Real Housewives\" round. Players guess secret passwords using one-word clues to win up to $25,000.",
           "url": "https://www.imdb.com/title/tt43620098/?ref_=ttep_ep_9"
         },
         {
@@ -8429,7 +8654,7 @@
           "number": 10,
           "name": "Luann De Lesseps & Jimmy Fallon",
           "airdate": "2026-07-14",
-          "summary": "Jimmy Fallon and celebrity guest Luann de Lesseps pair up with contestants for a one-word showdown, featuring a \"Real Housewives\"-themed round; hosted by Keke Palmer, players must guess secret passwords using one-word clues to win up to $25,000;",
+          "summary": "Jimmy Fallon and Luann de Lesseps team with contestants in a one-word game including a \"Real Housewives\" round. Keke Palmer hosts as players use one-word clues to guess passwords for up to $25,000.",
           "url": "https://www.imdb.com/title/tt43620103/?ref_=ttep_ep_10"
         },
         {
@@ -8437,7 +8662,7 @@
           "number": 11,
           "name": "Tiffany Haddish & Jimmy Fallon",
           "airdate": "2026-07-21",
-          "summary": "Jimmy Fallon and celebrity guest Tiffany Haddish pair up with contestants for a word showdown featuring a round of cosmic clues; hosted by Keke Palmer, the players give secret passwords using one-word clues for a chance to win up to $25,000;",
+          "summary": "Jimmy Fallon and Tiffany Haddish team with contestants in a word game with cosmic clues. Keke Palmer hosts as players give one-word passwords for a chance to win up to $25,000.",
           "url": "https://www.imdb.com/title/tt43675281/?ref_=ttep_ep_11"
         },
         {
@@ -9506,13 +9731,13 @@
           "number": 8,
           "name": "Episode #28.8",
           "airdate": "2026-07-23",
-          "summary": null,
+          "summary": "Tonight Rome, Melody, and Jason go to battle at The BB Blockbuster. Who will escape the chopping block, and which of them will be the next sent packing?",
           "url": "https://www.imdb.com/title/tt43630962/?ref_=ttep_ep_8"
         },
         {
           "season": 28,
           "number": 9,
-          "name": "Episode #28.9",
+          "name": "Big Brother Unlocked #2",
           "airdate": "2026-07-24",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43630963/?ref_=ttep_ep_9"
@@ -10474,9 +10699,9 @@
         {
           "season": 1,
           "number": 7,
-          "name": "Episode #1.7",
+          "name": "Skin in the Game",
           "airdate": "2026-07-22",
-          "summary": null,
+          "summary": "Mahfuza and Nelly are living with Harlequin ichthyosis, one of the world's rarest and most severe skin conditions. Mahfuza prepares for her first boxing match. Nelly fully supports her friend but worries that the high risks may outweigh the rewards.",
           "url": "https://www.imdb.com/title/tt43455151/?ref_=ttep_ep_7"
         },
         {
@@ -10824,6 +11049,22 @@
           "url": "https://www.imdb.com/title/tt43684784/?ref_=ttep_ep_10"
         },
         {
+          "season": 4,
+          "number": 11,
+          "name": "Pilot on Shrooms",
+          "airdate": "2026-07-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43709865/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 4,
+          "number": 12,
+          "name": "Hazed and Confused",
+          "airdate": "2026-07-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43709869/?ref_=ttep_ep_12"
+        },
+        {
           "season": 3,
           "number": 1,
           "name": "Twerking and Wrestling",
@@ -10976,7 +11217,7 @@
           "number": 3,
           "name": "The Man in the LED Mask",
           "airdate": "2026-07-08",
-          "summary": "Liam's interest in Ariana deepens, leading him to enlist Shai to help set up a night out. Georgia embarks on a new business venture. Gia hosts a girls' night, prompting a guys' night across town. As both gatherings begin to spiral, Brooks reaches a breaking point.",
+          "summary": "Liam's interest in Ariana deepens, leading him to enlist Shai to help set up a night out. Georgia starts a new business venture. Gia hosts a girls' night, prompting a guys' night across town.",
           "url": "https://www.imdb.com/title/tt43603896/?ref_=ttep_ep_3"
         },
         {
@@ -10984,15 +11225,15 @@
           "number": 4,
           "name": "TikTok Boom",
           "airdate": "2026-07-15",
-          "summary": "At girls' night, longstanding tension between Georgia and Riley boils over. Liam leans further into his growing connection with Ariana. Brooks struggles to find his voice amid setbacks with his brand. Hudson's return to New York forces Shai to determine where his allegiance lies.",
+          "summary": "At girls' night, longstanding tension between Georgia and Riley boils over. Liam leans into his growing connection with Ariana. Brooks struggles to find his voice amid setbacks with his brand.",
           "url": "https://www.imdb.com/title/tt43603898/?ref_=ttep_ep_4"
         },
         {
           "season": 2,
           "number": 5,
-          "name": "Episode #2.5",
+          "name": "Brooklyn Horror Story",
           "airdate": "2026-07-22",
-          "summary": null,
+          "summary": "Shai and Rowan host a Halloween party in Brooklyn where Shai and Charlie put Liam in the hot seat. Ariana confronts Shai for meddling in her love life.",
           "url": "https://www.imdb.com/title/tt43603900/?ref_=ttep_ep_5"
         },
         {
@@ -11546,7 +11787,7 @@
           "number": 2,
           "name": "Two Faced Challenge",
           "airdate": "2026-07-08",
-          "summary": "Four bladesmiths must forge a blade with not one, but two Damascus billets. After an intense round, the remaining smiths experience a Forged in Fire first when they are faced with an unexpected twist. Then, two challengers head back to their home forges to recreate a pair of deadly Ginunting swords. Who will be the last smith standing and take home $10,000?",
+          "summary": "4 bladesmiths forge Ginunting swords from 2 Damascus billets for $10,000.",
           "url": "https://www.imdb.com/title/tt43661857/?ref_=ttep_ep_2"
         },
         {
@@ -11554,7 +11795,7 @@
           "number": 3,
           "name": "J. Neilson's Secrets of the Forge",
           "airdate": "2026-07-15",
-          "summary": "J. Neilson, Forged in Fire judge and notorious breaker of blades, reveals his secrets of the forge in this special inside look. For the first time ever, J. will disclose his most infamous blade breaks and the tricks to becoming a Forged in Fire champion.",
+          "summary": "J. Neilson from Forged in Fire shares forge secrets, his most famous blade breaks, and tips for winning the competition in this exclusive behind-the-scenes look.",
           "url": "https://www.imdb.com/title/tt43661859/?ref_=ttep_ep_3"
         },
         {
@@ -11562,7 +11803,7 @@
           "number": 4,
           "name": "Can With a Plan",
           "airdate": "2026-07-22",
-          "summary": null,
+          "summary": "Who will forge a $10,000 blade and become champion?",
           "url": "https://www.imdb.com/title/tt43661862/?ref_=ttep_ep_4"
         },
         {
@@ -12091,7 +12332,7 @@
           "season": 9,
           "number": 10,
           "name": "Episode #9.10",
-          "airdate": null,
+          "airdate": "2026-07-10",
           "summary": null,
           "url": "https://www.imdb.com/title/tt40421992/?ref_=ttep_ep_10"
         },
@@ -12099,7 +12340,7 @@
           "season": 9,
           "number": 11,
           "name": "Episode #9.11",
-          "airdate": null,
+          "airdate": "2026-07-17",
           "summary": null,
           "url": "https://www.imdb.com/title/tt40421991/?ref_=ttep_ep_11"
         },
@@ -12356,7 +12597,7 @@
           "number": 28,
           "name": "It's a Boy!",
           "airdate": "2026-07-10",
-          "summary": null,
+          "summary": "It's a wild Jersey summer: Mike hits beast mode, Angelina sparks up an old flame, and after all the reveals and baby showers, Sammi finally meets her baby boy.",
           "url": "https://www.imdb.com/title/tt43635544/?ref_=ttep_ep_28"
         }
       ]
@@ -12378,7 +12619,7 @@
           "number": 2,
           "name": "Not on My Bingo Card",
           "airdate": "2026-07-16",
-          "summary": "Gina throws Emily a drag bingo-themed 50th birthday party where the ladies lean into the wisdom of their age. Shannon befriends Carmella, but Vicki has questions about Carmella's past. Heather and Jennifer butt heads over transparency in their friendships with Tamra. Emily confronts Tamra about their work relationship, causing egos to clash.",
+          "summary": "Gina throws Emily a drag bingo-themed 50th birthday party where the ladies lean into the wisdom of their age. Shannon befriends Carmella, but Vicki has questions about Carmella's past.",
           "url": "https://www.imdb.com/title/tt43603872/?ref_=ttep_ep_2"
         },
         {
@@ -12386,15 +12627,15 @@
           "number": 3,
           "name": "Why Can't We Be Friends?",
           "airdate": "2026-07-23",
-          "summary": null,
+          "summary": "Vicki finds herself playing referee in an attempt to rekindle the Tres Amigas friendship.",
           "url": "https://www.imdb.com/title/tt43641739/?ref_=ttep_ep_3"
         },
         {
           "season": 20,
           "number": 4,
-          "name": "Episode #20.4",
+          "name": "Boxed In",
           "airdate": "2026-07-30",
-          "summary": null,
+          "summary": "Word spreads fast in the OC about Carmella's extravagant birthday gift to Emily as Gina speculates about the motive behind it; Tamra wonders why she's left out of Heather's TikToks as Jenn tries to work out the dynamic of their friendship; a party game opens Pandora's box and leaves many questioning where they stand with one another.",
           "url": "https://www.imdb.com/title/tt43641740/?ref_=ttep_ep_4"
         },
         {
@@ -13051,6 +13292,14 @@
           "url": "https://www.imdb.com/title/tt43689889/?ref_=ttep_ep_3"
         },
         {
+          "season": 7,
+          "number": 4,
+          "name": "I Intend to Win",
+          "airdate": "2026-07-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43710917/?ref_=ttep_ep_4"
+        },
+        {
           "season": 6,
           "number": 1,
           "name": "Halls Balls!!!",
@@ -13201,6 +13450,22 @@
           "url": "https://www.imdb.com/title/tt43687351/?ref_=ttep_ep_3"
         },
         {
+          "season": 22,
+          "number": 4,
+          "name": "Catwalk on the Wild Side",
+          "airdate": null,
+          "summary": "In a series of head-to-head fashion battles, the designers create bold looks inspired by wild animals. Special guest models from Hulu's Get Real lineup bring the contestants' creations to life on the runway.",
+          "url": "https://www.imdb.com/title/tt43707082/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 22,
+          "number": 5,
+          "name": "Viva la Fashion",
+          "airdate": null,
+          "summary": "Creativity is put to the test when the designers must transform paper towels into high-fashion runway looks. The competition becomes personal when the designers must name who they believe is the weakest designer amongst them.",
+          "url": "https://www.imdb.com/title/tt43707085/?ref_=ttep_ep_5"
+        },
+        {
           "season": 21,
           "number": 1,
           "name": "New House / New Rules",
@@ -13301,6 +13566,14 @@
           "airdate": "2026-08-06",
           "summary": "The Jokers make mischief by wildly overreacting when a new focus group friend suffers a very minor injustice, then try to impress using the cringiest pick-up lines possible. The loser comes face-to-face with his childhood celebrity crush.",
           "url": "https://www.imdb.com/title/tt43685628/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 13,
+          "number": 4,
+          "name": "Valet Villain",
+          "airdate": "2026-08-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43708609/?ref_=ttep_ep_4"
         },
         {
           "season": 12,
@@ -15920,6 +16193,14 @@
         },
         {
           "season": 19,
+          "number": 7,
+          "name": "BFF Lottery",
+          "airdate": "2026-06-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43706374/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 19,
           "number": 8,
           "name": "Million Dollar Pensacola",
           "airdate": "2026-06-19",
@@ -16019,7 +16300,7 @@
           "number": 10,
           "name": "Big Bucks in Boca Raton",
           "airdate": "2025-11-07",
-          "summary": null,
+          "summary": "A mother and son use an inheritance to find the lively Hot Springs home their loved one always imagined, with David helping them bring that dream to life.",
           "url": "https://www.imdb.com/title/tt38760174/?ref_=ttep_ep_10"
         },
         {
@@ -21912,7 +22193,7 @@
           "number": 5,
           "name": "Unbowed and Unbent",
           "airdate": "2026-07-19",
-          "summary": "As the search for Aemond and Vhagar continues, Daemon attempt to control the spiraling situation in King's Landing.",
+          "summary": "As the search for Aemond and Vhagar continues, Daemon attempts to control the spiraling situation in King's Landing.",
           "url": "https://www.imdb.com/title/tt36591961/?ref_=ttep_ep_5"
         },
         {
@@ -22009,6 +22290,22 @@
       "imdbId": "tt1711420",
       "title": "The Great Food Truck Race",
       "episodes": [
+        {
+          "season": 19,
+          "number": 1,
+          "name": "Music City Mayhem",
+          "airdate": "2026-07-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43708364/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 19,
+          "number": 2,
+          "name": "The Tennessee Whiskey Trail",
+          "airdate": "2026-08-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43708367/?ref_=ttep_ep_2"
+        },
         {
           "season": 18,
           "number": 1,
@@ -23136,7 +23433,7 @@
         {
           "season": 1,
           "number": 17,
-          "name": "Episode #1.17",
+          "name": "Tengo que enfrentarlo",
           "airdate": "2026-06-09",
           "summary": "Barbi, furious, organizes a party with Monik and everything goes out of control. Gina suspects Aramis. He and Catalina have a tense encounter. Sofía discovers another betrayal of Gonzalo and makes decisions.",
           "url": "https://www.imdb.com/title/tt43422921/?ref_=ttep_ep_17"
@@ -23144,7 +23441,7 @@
         {
           "season": 1,
           "number": 18,
-          "name": "Episode #1.18",
+          "name": "Mal de amores",
           "airdate": "2026-06-10",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43422925/?ref_=ttep_ep_18"
@@ -23152,7 +23449,7 @@
         {
           "season": 1,
           "number": 19,
-          "name": "Episode #1.19",
+          "name": "¡Lárgate de mi casa!",
           "airdate": "2026-06-11",
           "summary": "Sofia and Barbi face their pain. Grecia discovers that Gina is the daughter of Aramis. Sofia asks for a divorce; Gonzalo attacks Franco. Barbi is suffering from a crisis and Catalina joins Sofia in her fight.",
           "url": "https://www.imdb.com/title/tt43422926/?ref_=ttep_ep_19"
@@ -23888,7 +24185,7 @@
         {
           "season": 3,
           "number": 3,
-          "name": "Episode #3.3",
+          "name": "Déjà Vu",
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt37519714/?ref_=ttep_ep_3"
@@ -24416,12 +24713,789 @@
     "tt0350448": {
       "imdbId": "tt0350448",
       "title": "Real Time with Bill Maher",
-      "episodes": []
+      "episodes": [
+        {
+          "season": 24,
+          "number": 1,
+          "name": "Paul Eaton/Sen. John Kennedy/Kasie Hunt",
+          "airdate": "2026-01-23",
+          "summary": "Maher's back from break, still focused on Trump topics. Interviews retired General, chats with Kennedy. Dismisses Venezuela/Cuba, jokes about Miller/Greenland. Highlights ICE raids in Minneapolis looking bad, hurting GOP polling.",
+          "url": "https://www.imdb.com/title/tt39005165/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 24,
+          "number": 2,
+          "name": "Nate Bargatze/Joe Scarborough/Marjorie Taylor Greene",
+          "airdate": "2026-01-30",
+          "summary": "This week: one-on-one with comedian Nate Bargatze, host of \"The Greatest Average American\" and star of \"The Breadwinner.\" Panel: Joe Scarborough, \"Morning Joe\" co-host and newsletter author; former Rep. Marjorie Taylor Greene.",
+          "url": "https://www.imdb.com/title/tt39496669/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 24,
+          "number": 3,
+          "name": "John Mellencamp/Chris Christie/Chrystia Freeland",
+          "airdate": "2026-02-06",
+          "summary": "John Mellencamp discusses his 19-date \"Dancing Words - The Greatest Hits\" summer tour. Panelists: Chris Christie, ex-NJ governor and ABC News contributor; Chrystia Freeland, ex-Canadian deputy PM and finance minister now Zelenskyy advisor.",
+          "url": "https://www.imdb.com/title/tt39538773/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 24,
+          "number": 4,
+          "name": "Jonathan Haidt/Stephanie Ruhle/H.R. McMaster",
+          "airdate": "2026-02-13",
+          "summary": "Jonathan Haidt, NYU Stern professor and co-author of \"The Amazing Generation,\" joins for an interview. Panel: Stephanie Ruhle, MS NOW host, and retired Lt. Gen. H.R. McMaster, former National Security Advisor.",
+          "url": "https://www.imdb.com/title/tt39539053/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 24,
+          "number": 5,
+          "name": "Paul Anka/Lauren Boebert/James Talarico",
+          "airdate": "2026-02-20",
+          "summary": "Features an interview with singer-songwriter Paul Anka on his 37th album and HBO documentary, plus panel with Rep. Lauren Boebert (R-CO-4) and Texas State Rep. James Talarico, running for U.S. Senate in 2026.",
+          "url": "https://www.imdb.com/title/tt39539054/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 24,
+          "number": 6,
+          "name": "Annabelle Gurwitch/Adam Schiff/Don Lemon",
+          "airdate": "2026-03-06",
+          "summary": "Interview with bestselling author Annabelle Gurwitch on her memoir \"The End of My Life is Killing Me: The Unexpected Joys of a Cancer Slacker\" (March 17). Panel: Sen. Adam Schiff (D-CA) and journalist Don Lemon.",
+          "url": "https://www.imdb.com/title/tt39539056/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 24,
+          "number": 7,
+          "name": "Gov. Josh Shapiro/Anthony Scaramucci/Lloyd Blankfein",
+          "airdate": "2026-03-13",
+          "summary": "Three malignant narcissists walk into a television studio. One tosses easy questions at the other two, who are at a loss to provide coherent answers, and at times sit there mute and dumbstruck, looking extremely uncomfortable.",
+          "url": "https://www.imdb.com/title/tt40646629/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 24,
+          "number": 8,
+          "name": "Tristan Harris/Paul Begala/Anna Paulina Luna",
+          "airdate": "2026-03-20",
+          "summary": "Features Tristan Harris, co-founder of The Center for Humane Technology from \"The AI Doc: Or How I Became an Apocaloptimist,\" plus panelists Paul Begala, CNN contributor and Democratic strategist, and Rep. Anna Paulina Luna (R-FL-13).",
+          "url": "https://www.imdb.com/title/tt40874216/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 24,
+          "number": 9,
+          "name": "Elissa Slotkin/Laura Coates/Stephen A. Smith",
+          "airdate": "2026-03-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41166091/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 24,
+          "number": 10,
+          "name": "Dr. Ezekiel Emanuel/Douglas Murray/Paul Rieckhoff",
+          "airdate": "2026-04-10",
+          "summary": "One-on-one with Dr. Ezekiel Emanuel, bioethicist and author of \"Eat Your Ice Cream.\" Panel: Douglas Murray, author of \"On Democracies and Death Cults,\" and Paul Rieckhoff, founder of IVA and podcast host.",
+          "url": "https://www.imdb.com/title/tt41521567/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 24,
+          "number": 11,
+          "name": "Kara Swisher/Rahm Emanuel/Jake Sullivan",
+          "airdate": "2026-04-17",
+          "summary": "Guests include Kara Swisher, Rahm Emanuel and Jake Sullivan.",
+          "url": "https://www.imdb.com/title/tt41889592/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 24,
+          "number": 12,
+          "name": "Gov. Wes Moore/Chris Cuomo/Sarah Isgur",
+          "airdate": "2026-04-24",
+          "summary": "This week: one-on-one with Maryland Gov. Wes Moore. Panel: Chris Cuomo (CUOMO on News Nation, SiriusXM's \"The Chris Cuomo Project\") and Sarah Isgur (The Dispatch's SCOTUSblog editor, author of \"Last Branch Standing\").",
+          "url": "https://www.imdb.com/title/tt42064507/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 24,
+          "number": 13,
+          "name": "Gavin Newsom/Bret Stephens/Gillian Tett",
+          "airdate": "2026-05-01",
+          "summary": "Guests include California Governor Gavin Newsom, New York Times opinion columnist Bret Stephens and member of the editorial board for the Financial Times and provost of King's College, Cambridge Gillian Tett.",
+          "url": "https://www.imdb.com/title/tt42256902/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 24,
+          "number": 14,
+          "name": "John Fetterman/Dan Crenshaw/Donna Brazile",
+          "airdate": "2026-05-08",
+          "summary": "Guests include Pennsylvania Senator John Fetterman, outgoing Texas Congressman Dan Crenshaw and former DNC Chair Donna Brazile.",
+          "url": "https://www.imdb.com/title/tt42469824/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 24,
+          "number": 15,
+          "name": "Ben McKenzie/Dan Jones/David French",
+          "airdate": "2026-05-15",
+          "summary": "Ben McKenzie discusses his documentary \"Everyone is Lying to You for Money.\" Panel: historian Dan Jones on his book \"Castles: A Fortified History\" and NY Times columnist David French.",
+          "url": "https://www.imdb.com/title/tt42721418/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 24,
+          "number": 16,
+          "name": "Neil deGrasse Tyson/Katy Tur/Kevin McCarthy",
+          "airdate": "2026-05-29",
+          "summary": "Neil deGrasse Tyson discusses his book on alien encounters. Panel: Katy Tur, MSNBC host and author; Kevin McCarthy, former House Speaker and California congressman.",
+          "url": "https://www.imdb.com/title/tt42724894/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 24,
+          "number": 17,
+          "name": "Mike Pence/Chris Murphy/Susan Rice",
+          "airdate": "2026-06-05",
+          "summary": "Interview with VP Mike Pence on his book \"What Conservatives Believe.\" Panel: Sen. Chris Murphy discussing \"Crisis of the Common Good\" and Susan Rice, former UN Ambassador and National Security Advisor.",
+          "url": "https://www.imdb.com/title/tt43389669/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 24,
+          "number": 18,
+          "name": "David Sedaris/Ian Bremmer/Hagar Chemali",
+          "airdate": "2026-06-12",
+          "summary": "David Sedaris interview plus panel with Ian Bremmer of Eurasia Group and GZERO Media, and Hagar Chemali, former UN spokesperson and Lebanon-Israel Peace Alliance co-founder.",
+          "url": "https://www.imdb.com/title/tt43529436/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 24,
+          "number": 19,
+          "name": "Sam Levinson/Ro Khanna/Jonathan Martin",
+          "airdate": "2026-06-19",
+          "summary": "Guests: \"Euphoria\" creator Sam Levinson. Panel: Rep. Ro Khanna on his book \"Dignity in a Digital Age\" and Politico's Jonathan Martin, host of \"On The Road with Jonathan Martin.\"",
+          "url": "https://www.imdb.com/title/tt43602026/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 24,
+          "number": 20,
+          "name": "JD Vance/Raphael Warnock/Larry Wilmore",
+          "airdate": "2026-06-26",
+          "summary": "Guests: VP JD Vance discusses his memoirs \"Hillbilly Elegy\" and \"Communion.\" Panel: Senator Raphael Warnock on his book \"The Crooked Places Made Straight\" and comedian Larry Wilmore on his HBO series.",
+          "url": "https://www.imdb.com/title/tt43622470/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 24,
+          "number": 21,
+          "name": "Episode #24.21",
+          "airdate": "2026-07-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43623830/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 23,
+          "number": 1,
+          "name": "Rick Caruso/Larry Wilmore/Erin Perrine",
+          "airdate": "2025-01-17",
+          "summary": "A talk show host delivers a monologue, interviews a former LA mayoral candidate about fire management, and hosts a panel discussion. The host criticizes LA officials' handling of fires in an editorial segment.",
+          "url": "https://www.imdb.com/title/tt31720033/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 23,
+          "number": 2,
+          "name": "Jesse Eisenberg/Ro Khanna/Stephen A. Smith",
+          "airdate": "2025-01-24",
+          "summary": "Jesse Eisenberg discusses his film \"A Real Pain.\" Panel includes Rep. Ro Khanna (HASC member, \"Dignity in Digital Age\" author) and ESPN/YouTube host Stephen A. Smith.",
+          "url": "https://www.imdb.com/title/tt35538012/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 23,
+          "number": 3,
+          "name": "Peggy Noonan/Max Brooks/Dan Jones",
+          "airdate": "2025-01-31",
+          "summary": "Interview with WSJ columnist Peggy Noonan plus panel with West Point fellow Max Brooks and historian Dan Jones discussing his book on Henry V.",
+          "url": "https://www.imdb.com/title/tt35540707/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 23,
+          "number": 4,
+          "name": "Chris Hayes/Byron Donalds/Tara Palmieri",
+          "airdate": "2025-02-07",
+          "summary": "Chris Hayes discusses his book on attention as a resource, joined by Rep. Byron Donalds (R-FL) and Puck's Tara Palmeri, host of \"Somebody's Gotta Win\" podcast.",
+          "url": "https://www.imdb.com/title/tt35676929/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 23,
+          "number": 5,
+          "name": "Kid Rock/Tim Ryan/Pamela Paul",
+          "airdate": "2025-02-14",
+          "summary": "Id Rock discusses his March tour and \"Rock The Country\" festival appearance. Panel: Tim Ryan of Natural Allies For Clean Energy Future and NYT columnist Pamela Paul, author of \"100 Things We've Lost\"",
+          "url": "https://www.imdb.com/title/tt35677440/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 23,
+          "number": 6,
+          "name": "Chrystia Freeland/Rahm Emanuel/Fareed Zakaria",
+          "airdate": "2025-02-28",
+          "summary": "One on one interview with Hon. Chrystia Freeland, Canada's former Deputy PM and PM candidate.",
+          "url": "https://www.imdb.com/title/tt35763830/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 23,
+          "number": 7,
+          "name": "David Sedaris/Alyssa Farah Griffin/Jon Tester",
+          "airdate": "2025-03-07",
+          "summary": "Invitados: David Sedaris, Jon Tester, Alyssa Farah Griffin.",
+          "url": "https://www.imdb.com/title/tt36068805/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 23,
+          "number": 8,
+          "name": "Gov. Josh Shapiro/Sam Stein/Batya Ungar-Sargon",
+          "airdate": "2025-03-14",
+          "summary": "Guests: Gov. Josh Shapiro (D-PA), Sam Stein, Batya Ungar-Sargon.",
+          "url": "https://www.imdb.com/title/tt36068808/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 23,
+          "number": 9,
+          "name": "Dana Carvey/Ezra Klein/Andrew Sullivan",
+          "airdate": "2025-03-21",
+          "summary": "Guests: Dana Carvey, Ezra Klein, Andrew Sullivan.",
+          "url": "https://www.imdb.com/title/tt36274278/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 23,
+          "number": 10,
+          "name": "Gov. Gavin Newsom/John McWhorter/Rikki Schlott",
+          "airdate": "2025-03-28",
+          "summary": "Gov. Gavin Newsom gives a one-on-one interview and the panel discussion includes John McWhorter and Rikki Schlott.",
+          "url": "https://www.imdb.com/title/tt36370097/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 23,
+          "number": 11,
+          "name": "Steve Bannon/Piers Morgan/Josh Rogin",
+          "airdate": "2025-04-11",
+          "summary": "Bill Maher interviews Steve Bannon, ex-White House strategist and \"War Room\" host, Piers Morgan and Josh Rogin Washington Post analyst, \"Chaos Under Heaven\" author.",
+          "url": "https://www.imdb.com/title/tt36381264/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 23,
+          "number": 12,
+          "name": "Douglas Murray/Matt Welch/Sen. Tina Smith",
+          "airdate": "2025-04-18",
+          "summary": "Douglas Murray discusses his book \"On Democracies and Death Cults: Israel and the Future of Civilization\" in a one-on-one interview, joined by Matt Welch of \"The Fifth Column\" and Reason Magazine, and Sen.",
+          "url": "https://www.imdb.com/title/tt36596364/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 23,
+          "number": 13,
+          "name": "Al Gore/Adam Schiff/Bret Stephens",
+          "airdate": "2025-04-25",
+          "summary": "Guests: Al Gore, Sen. Adam Schiff, Bret Stephens.",
+          "url": "https://www.imdb.com/title/tt36689459/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 23,
+          "number": 14,
+          "name": "Cheech & Chong/Kara Swisher/Kevin McCarthy",
+          "airdate": "2025-05-02",
+          "summary": "Interview with Cheech Marin and Tommy Chong about their documentary, plus panel with podcast host Kara Swisher (\"Pivot,\" \"On with Kara Swisher\") and former House Speaker Kevin McCarthy.",
+          "url": "https://www.imdb.com/title/tt36734149/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 23,
+          "number": 15,
+          "name": "David Hogg/Donna Brazile/Mike Lawler",
+          "airdate": "2025-05-09",
+          "summary": "Guests: David Hogg, Donna Brazile, Rep. Mike Lawler.",
+          "url": "https://www.imdb.com/title/tt36892650/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 23,
+          "number": 16,
+          "name": "Stanley McChrystal/Peter Hamby/Scott Jennings",
+          "airdate": "2025-05-16",
+          "summary": "Guests: Stanley A. McChrystal, Scott Jennings, Peter Ha",
+          "url": "https://www.imdb.com/title/tt36979761/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 23,
+          "number": 17,
+          "name": "Barry Diller/Jake Tapper/Seth Moulton",
+          "airdate": "2025-05-30",
+          "summary": "Guests: Barry Diller, Jake Tapper, Rep. Seth Moulton.",
+          "url": "https://www.imdb.com/title/tt36979847/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 23,
+          "number": 18,
+          "name": "Whitney Cummings/Jonah Goldberg/Stephanie Ruhle",
+          "airdate": "2025-06-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37141005/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 23,
+          "number": 19,
+          "name": "Sen. John Fetterman/Ian Bremmer/Rutger Bregman",
+          "airdate": "2025-06-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37301826/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 23,
+          "number": 20,
+          "name": "Dave Barry/Paul Begala/Wesley Hunt",
+          "airdate": "2025-06-20",
+          "summary": "Guests: Dave Barry, Paul Begala, Rep. Wesley Hunt.",
+          "url": "https://www.imdb.com/title/tt37361139/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 23,
+          "number": 21,
+          "name": "Tristan Harris/James Kirchick/Jason Crow",
+          "airdate": "2025-08-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37393112/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 23,
+          "number": 22,
+          "name": "George Will/Phil McGraw/Stephen A. Smith",
+          "airdate": "2025-08-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31720032/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 23,
+          "number": 23,
+          "name": "Thomas Chatterton Williams/Walter Kirn/Molly Jong-Fast",
+          "airdate": "2025-08-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37914125/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 23,
+          "number": 24,
+          "name": "Andrew Huberman/Frank Bruni/Christopher Rufo",
+          "airdate": "2025-08-22",
+          "summary": "Interview with Stanford professor Andrew Huberman, plus panel with Duke journalism professor Frank Bruni and Manhattan Institute fellow Christopher Rufo.",
+          "url": "https://www.imdb.com/title/tt37982627/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 23,
+          "number": 26,
+          "name": "Aidan Walker/Nancy Mace/Michael Smerconish",
+          "airdate": "2025-09-26",
+          "summary": "Interview with meme expert Aiden Walker plus panel with CNN/SiriusXM host Michael Smerconish and SC Rep. Nancy Mace, who serves on Armed Services, Veterans' Affairs and Oversight committees.",
+          "url": "https://www.imdb.com/title/tt38512872/?ref_=ttep_ep_28"
+        },
+        {
+          "season": 23,
+          "number": 29,
+          "name": "Louis C.K./Thomas Friedman/Van Jones",
+          "airdate": "2025-10-03",
+          "summary": "Louis C.K. gives a one-on-one interview ahead of his novel \"Ingram.\" Panel guests include Van Jones (CNN commentator, Dream Machine/Rapport founder) and Thomas Friedman (NYT columnist, Pulitzer winner).",
+          "url": "https://www.imdb.com/title/tt38584290/?ref_=ttep_ep_29"
+        },
+        {
+          "season": 23,
+          "number": 30,
+          "name": "Arnold Schwarzenegger/Andrew Ross Sorkin/Mark Cuban",
+          "airdate": "2025-10-17",
+          "summary": "One-on-one with Arnold Schwarzenegger, plus panel with CNBC's Andrew Ross Sorkin (author of \"1929\" Wall Street crash book) and Mark Cuban (Mavericks owner, Cost Plus Drug Company founder).",
+          "url": "https://www.imdb.com/title/tt38702186/?ref_=ttep_ep_30"
+        },
+        {
+          "season": 23,
+          "number": 31,
+          "name": "Gov. Andy Beshear/Michael Steele/Kate Bedingfield",
+          "airdate": "2025-10-24",
+          "summary": "Gov. Andy Beshear/Michael Steele/Kate Bedingfield",
+          "url": "https://www.imdb.com/title/tt38702185/?ref_=ttep_ep_31"
+        },
+        {
+          "season": 23,
+          "number": 32,
+          "name": "Dan Farah/Michael Moynihan/Marjorie Taylor Greene",
+          "airdate": "2025-10-31",
+          "summary": "Dan Farah, creator of \"The Age of Disclosure\" documentary, joins for an interview. Panel guests include Michael Moynihan (\"The Fifth Column\" and \"The Moynihan Report\") and Rep. Marjorie Taylor Greene (R-GA).",
+          "url": "https://www.imdb.com/title/tt38812243/?ref_=ttep_ep_32"
+        },
+        {
+          "season": 23,
+          "number": 33,
+          "name": "Kenny Chesney/Jared Moskowitz/Bill O'Reilly",
+          "airdate": "2025-11-07",
+          "summary": "Kenny Chesney discusses Hall of Fame induction and new book \"Heart Life Music.\" Panel features Rep. Jared Moskowitz (D-FL) and Bill O'Reilly of \"No Spin News,\" author of \"Confronting Evil.\"",
+          "url": "https://www.imdb.com/title/tt38890307/?ref_=ttep_ep_33"
+        },
+        {
+          "season": 23,
+          "number": 34,
+          "name": "Scott Galloway/Fareed Zakaria/Josh Barro",
+          "airdate": "2025-11-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38947260/?ref_=ttep_ep_34"
+        },
+        {
+          "season": 23,
+          "number": 35,
+          "name": "Mel Robbins/Donna Brazile/Killer Mike",
+          "airdate": "2025-11-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39005164/?ref_=ttep_ep_35"
+        }
+      ]
     },
     "tt36937503": {
       "imdbId": "tt36937503",
       "title": "Anna Pigeon",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Episode #1.1",
+          "airdate": "2026-08-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37741546/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Episode #1.2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37775054/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37775052/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Episode #1.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37775053/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode #1.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37775050/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode #1.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37775056/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Episode #1.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37775055/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Episode #1.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37775051/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Episode #1.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37775049/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Episode #1.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37775048/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt18453672": {
+      "imdbId": "tt18453672",
+      "title": "Theme Song Takeover",
       "episodes": []
+    },
+    "tt0795174": {
+      "imdbId": "tt0795174",
+      "title": "POV",
+      "episodes": [
+        {
+          "season": 39,
+          "number": 1,
+          "name": "The Dating Game",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43447743/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 39,
+          "number": 4,
+          "name": "How to Build a Library",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43619373/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 39,
+          "number": 5,
+          "name": "Arrest the Midwife",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43686909/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 39,
+          "number": 6,
+          "name": "Remake",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43686921/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 38,
+          "number": 1,
+          "name": "Union",
+          "airdate": "2025-06-23",
+          "summary": "UNION chronicles an unlikely group of warehouse workers as they launch a grassroots union campaign at an Amazon fulfillment center in Staten Island, New York. The odds are stacked against them, as they find themselves up against a tech industry giant with unlimited resources, without major support from national unions or politicians, and while navigating internal divisions within their own ranks.",
+          "url": "https://www.imdb.com/title/tt36956428/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 38,
+          "number": 2,
+          "name": "Igualada: Refusing to Know Your Place",
+          "airdate": "2025-07-07",
+          "summary": "In Colombia's most consequential election, Black activist Francia Marquez rises from rural organizer to presidential candidate, challenging centuries of racial and social exclusion. Filmed over fifteen years, this intimate portrait captures how Marquez transforms a grassroots movement into a powerful force for change, inspiring millions to reimagine their nation's future and their place within it.",
+          "url": "https://www.imdb.com/title/tt36956665/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 38,
+          "number": 3,
+          "name": "Made in Ethiopia",
+          "airdate": "2025-07-16",
+          "summary": "As Ethiopia's largest Chinese-run industrial park attempts an ambitious expansion, three women find themselves at the heart of a changing nation. A determined Chinese director pushes for 30,000 new jobs, while a local farmer and factory worker face the promise and painful realities of rapid industrialization. Their interwoven stories reveal the complex human dimensions of global development.",
+          "url": "https://www.imdb.com/title/tt36956666/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 38,
+          "number": 4,
+          "name": "The Ride Ahead",
+          "airdate": "2025-07-21",
+          "summary": "Samuel faces the challenges of living independently at age 21 while dealing with seizures and social barriers. Among disability activists, he seeks his path to autonomy and his dreams, despite society's obstacles and prejudices.",
+          "url": "https://www.imdb.com/title/tt36956664/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 38,
+          "number": 5,
+          "name": "Emergent City",
+          "airdate": "2025-08-18",
+          "summary": "Residents of Sunset Park, Brooklyn face rising rents, a legacy of environmental racism and the loss of the industrial jobs that once sustained their community. When a global developer purchases a massive industrial complex on the waterfront and lays plans for an \"innovation district,\" a battle erupts over the future of the neighborhood and of New York city itself. Co-produced with ITVS.",
+          "url": "https://www.imdb.com/title/tt37070361/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 38,
+          "number": 6,
+          "name": "A New Kind of Wilderness",
+          "airdate": null,
+          "summary": "On a small farm in a Norwegian forest, the Paynes live a purposefully isolated life, striving to be wild and free. But when tragedy strikes, their idyllic world is shattered, forcing them to navigate the expectations of modern society. This intimate and soulful documentary explores love, growing up, and how we navigate life after loss.",
+          "url": "https://www.imdb.com/title/tt37070360/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 38,
+          "number": 10,
+          "name": "The Bitter Pill",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42006138/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 38,
+          "number": 11,
+          "name": "Porcelain War",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42006140/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 38,
+          "number": 12,
+          "name": "A Mother Apart",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42006159/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 38,
+          "number": 13,
+          "name": "Between Goodbyes",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42006160/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 38,
+          "number": 15,
+          "name": "Black Snow",
+          "airdate": "2025-09-15",
+          "summary": "In a remote Siberian coal town, homemaker-turned-journalist Natalia Zubkova investigates an abandoned mine fire releasing toxic gas into residential homes. When her reporting goes viral, government officials launch an aggressive cover-up campaign, putting her directly in their crosshairs.",
+          "url": "https://www.imdb.com/title/tt37380546/?ref_=ttep_ep_9"
+        }
+      ]
+    },
+    "tt42006748": {
+      "imdbId": "tt42006748",
+      "title": "House Of Stassi",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Ghosts of Past, Present, & Future",
+          "airdate": "2026-07-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42007842/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Til Drag Do Us Part",
+          "airdate": "2026-07-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42023494/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "The Ungrateful Wench",
+          "airdate": "2026-07-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43674227/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Staycation from Hell",
+          "airdate": "2026-07-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43674237/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "It's Giving Thanks",
+          "airdate": "2026-07-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43674238/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Merry Stressmas",
+          "airdate": "2026-07-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43674239/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Housewarming Hell",
+          "airdate": "2026-07-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43674248/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Queen Mary's Revenge",
+          "airdate": "2026-07-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43674260/?ref_=ttep_ep_8"
+        }
+      ]
+    },
+    "tt24512262": {
+      "imdbId": "tt24512262",
+      "title": "Fightland",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "The Only Round That Matters Is the Next One",
+          "airdate": "2026-07-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37277082/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Episode #1.2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38599072/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38599073/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Episode #1.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38599075/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode #1.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38599078/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode #1.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38599079/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Episode #1.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38599081/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Episode #1.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38599083/?ref_=ttep_ep_8"
+        }
+      ]
     }
   }
 }
