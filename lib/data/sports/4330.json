@@ -622,7 +622,7 @@
     {
       "idEvent": "2494426",
       "idAPIfootball": "1556640",
-      "strTimestamp": "2026-08-22T14:00:00",
+      "strTimestamp": "2026-08-22T16:45:00",
       "strEvent": "Dundee United vs Dundee",
       "strEventAlternate": "Dundee @ Dundee United",
       "strFilename": "Scottish Premier League 2026-08-22 Dundee United vs Dundee",
@@ -640,7 +640,7 @@
       "strWeather": null,
       "dateEvent": "2026-08-22",
       "dateEventLocal": null,
-      "strTime": "14:00:00",
+      "strTime": "16:45:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "133644",
