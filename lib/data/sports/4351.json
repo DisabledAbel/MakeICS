@@ -4443,7 +4443,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "PST",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -4487,7 +4487,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "PST",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -4531,7 +4531,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "PST",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
