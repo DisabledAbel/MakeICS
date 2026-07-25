@@ -49,11 +49,6 @@
     "name": "Episode 108",
     "verifiedAt": "2026-07-18T14:22:01.289Z"
   },
-  "Behind Bars: Officer Cam-1-2": {
-    "airdate": "2026-07-24",
-    "name": "Shank Search",
-    "verifiedAt": "2026-07-18T14:22:14.387Z"
-  },
   "Project Runway-22-5": {
     "airdate": "2026-07-30",
     "name": "Viva la Fashion",
@@ -194,16 +189,6 @@
     "name": "Celebrity Crushed",
     "verifiedAt": "2026-07-22T15:06:49.878Z"
   },
-  "The Patrick Star Show-5-3": {
-    "airdate": "2026-07-24",
-    "name": "Braggin' Slayer/Scaredy Pat",
-    "verifiedAt": "2026-07-22T15:06:54.568Z"
-  },
-  "The Patrick Star Show-5-4": {
-    "airdate": "2026-07-24",
-    "name": "Make Yourself Pat Home/Accidentally in Love",
-    "verifiedAt": "2026-07-22T15:06:57.310Z"
-  },
   "The Patrick Star Show-5-5": {
     "airdate": "2026-07-31",
     "name": "Neighborhood Wash/A Fridge Too Far",
@@ -243,11 +228,6 @@
     "airdate": "2026-08-21",
     "name": "Patrick Alone... At Home/Seagull Scout Adventures",
     "verifiedAt": "2026-07-22T15:07:18.006Z"
-  },
-  "WWE Friday Night SmackDown-27-30": {
-    "airdate": "2026-07-24",
-    "name": "In Memory of Hulk Hogan",
-    "verifiedAt": "2026-07-22T15:07:21.738Z"
   },
   "WWE Friday Night SmackDown-27-31": {
     "airdate": "2026-07-31",
@@ -329,11 +309,6 @@
     "name": "Episode #1.1",
     "verifiedAt": "2026-07-22T15:08:30.138Z"
   },
-  "Guardián de Mi Vida-1-49": {
-    "airdate": "2026-07-24",
-    "name": "Episode #1.49",
-    "verifiedAt": "2026-07-22T15:08:38.272Z"
-  },
   "Guardián de Mi Vida-1-50": {
     "airdate": "2026-07-27",
     "name": "Episode #1.50",
@@ -353,5 +328,25 @@
     "airdate": "2026-08-28",
     "name": "And New...",
     "verifiedAt": "2026-07-22T15:07:35.048Z"
+  },
+  "Tyler Perry's The Oval-7-14": {
+    "airdate": "2026-08-05",
+    "name": "To Walk and Chew Gum",
+    "verifiedAt": "2026-07-25T14:39:01.701Z"
+  },
+  "Tyler Perry's The Oval-7-16": {
+    "airdate": "2026-08-05",
+    "name": "Earth Shattering",
+    "verifiedAt": "2026-07-25T14:39:04.281Z"
+  },
+  "Celebrity Family Feud-12-6": {
+    "airdate": "2026-08-13",
+    "name": "The Harlem Globetrotters vs The Dallas Cowboys Cheerleaders and Bridget Everett vs Vanessa Bayer",
+    "verifiedAt": "2026-07-25T14:39:13.054Z"
+  },
+  "Snapped-36-15": {
+    "airdate": "2026-08-02",
+    "name": "Kimethia Coleman",
+    "verifiedAt": "2026-07-25T14:40:35.585Z"
   }
 }
