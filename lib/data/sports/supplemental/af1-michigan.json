@@ -4,15 +4,15 @@
   "updatedAt": "2026-07-13T14:41:46.143Z",
   "events": [
     {
-      "idEvent": "af1-2026-07-25-michigan-arsenal-kentucky-barrels",
-      "strEvent": "Michigan Arsenal vs Kentucky Barrels",
-      "strHomeTeam": "Michigan Arsenal",
-      "strAwayTeam": "Kentucky Barrels",
-      "dateEvent": "2026-07-25",
+      "idEvent": "af1-2026-08-02-nashville-kats-michigan-arsenal",
+      "strEvent": "Nashville Kats vs Michigan Arsenal",
+      "strHomeTeam": "Nashville Kats",
+      "strAwayTeam": "Michigan Arsenal",
+      "dateEvent": "2026-08-02",
       "strTime": "20:00:00",
-      "strTimestamp": "2026-07-25T20:00:00.000Z",
+      "strTimestamp": "2026-08-02T20:00:00.000Z",
       "strLeague": "Arena Football One",
-      "strVenue": "The Dow Event Center",
+      "strVenue": "F&M Bank Arena",
       "strTVStation": "PO",
       "strStatus": "NS",
       "source": "af1-scrape"

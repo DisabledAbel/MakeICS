@@ -4,15 +4,15 @@
   "updatedAt": "2026-07-17T02:52:28.106Z",
   "events": [
     {
-      "idEvent": "af1-2026-07-27-minnesota-monsters-washington-wolfpack",
-      "strEvent": "Minnesota Monsters vs Washington Wolfpack",
-      "strHomeTeam": "Minnesota Monsters",
-      "strAwayTeam": "Washington Wolfpack",
-      "dateEvent": "2026-07-27",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-07-27T00:00:00.000Z",
+      "idEvent": "af1-2026-08-01-albany-firebirds-minnesota-monsters",
+      "strEvent": "Albany Firebirds vs Minnesota Monsters",
+      "strHomeTeam": "Albany Firebirds",
+      "strAwayTeam": "Minnesota Monsters",
+      "dateEvent": "2026-08-01",
+      "strTime": "20:00:00",
+      "strTimestamp": "2026-08-01T20:00:00.000Z",
       "strLeague": "Arena Football One",
-      "strVenue": "Amsoil Arena",
+      "strVenue": "MVP Arena",
       "strTVStation": "PO",
       "strStatus": "NS",
       "source": "af1-scrape"
