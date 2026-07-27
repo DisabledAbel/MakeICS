@@ -731,6 +731,19 @@
       "label": "Jul 28, 2026"
     },
     {
+      "id": "tt34623133",
+      "title": "Cyrus-71",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjk3N2M4ZGQtMWVhMC00MmIyLTkxNjQtMjVmNTgwMzU4NTQ5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 30 Jul 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "people": [],
+      "label": "Jul 30, 2026"
+    },
+    {
       "id": "tt22084616",
       "title": "Spider-Man: Brand New Day",
       "image": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_.jpg",
@@ -940,12 +953,12 @@
           "name": "Brian Cox"
         },
         {
-          "id": "nm7060757",
-          "name": "Lisa Gilroy"
-        },
-        {
           "id": "nm2003700",
           "name": "Chace Crawford"
+        },
+        {
+          "id": "nm7060757",
+          "name": "Lisa Gilroy"
         },
         {
           "id": "nm1924196",
@@ -1740,6 +1753,36 @@
         {
           "id": "nm10695146",
           "name": "Leo Woodall"
+        }
+      ],
+      "label": "Aug 21, 2026"
+    },
+    {
+      "id": "tt27706593",
+      "title": "The Rivals of Amziah King",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGVkMTY3OTMtMjEwOC00MGVmLTlmNmItZmZhNDNhYTEzOTQ0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0000190",
+          "name": "Matthew McConaughey"
+        },
+        {
+          "id": "nm9413724",
+          "name": "Angelina LookingGlass"
+        },
+        {
+          "id": "nm4270477",
+          "name": "Jake Horowitz"
+        },
+        {
+          "id": "nm0791864",
+          "name": "Scott Shepherd"
         }
       ],
       "label": "Aug 21, 2026"
@@ -3003,12 +3046,12 @@
           "name": "Domhnall Gleeson"
         },
         {
-          "id": "nm2047170",
-          "name": "Emun Elliott"
-        },
-        {
           "id": "nm0001314",
           "name": "John Hannah"
+        },
+        {
+          "id": "nm2047170",
+          "name": "Emun Elliott"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3140,8 +3183,8 @@
       "releaseDate": "Thu, 01 Oct 2026 00:00:00 GMT",
       "genres": [
         "Biography",
-        "History",
-        "Thriller"
+        "Fantasy",
+        "History"
       ],
       "people": [
         {
@@ -3332,6 +3375,35 @@
       "label": "Oct 02, 2026"
     },
     {
+      "id": "tt42693626",
+      "title": "Adore Him",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDMxNWE3MWQtYTc1Ni00ODJlLTk0NWQtY2MxY2ZiZjg0ZGI0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sun, 04 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm16697515",
+          "name": "Adele Anaya"
+        },
+        {
+          "id": "nm6694482",
+          "name": "Mike Aquilina"
+        },
+        {
+          "id": "nm9143721",
+          "name": "Alex Bilbrey"
+        },
+        {
+          "id": "nm7522760",
+          "name": "Stephen Bouldin"
+        }
+      ],
+      "label": "Oct 04, 2026"
+    },
+    {
       "id": "tt35856037",
       "title": "Your Mother Your Mother Your Mother",
       "image": "https://m.media-amazon.com/images/M/MV5BZmEzMThlY2QtMDY1Zi00OTNmLWIxMWUtYzczYzBmZjI4YmRlXkEyXkFqcGc@._V1_.jpg",
@@ -3411,12 +3483,12 @@
           "name": "Jeremy Allen White"
         },
         {
-          "id": "nm0279209",
-          "name": "Patrick Fischler"
-        },
-        {
           "id": "nm5700898",
           "name": "Mikey Madison"
+        },
+        {
+          "id": "nm0279209",
+          "name": "Patrick Fischler"
         }
       ],
       "label": "Oct 09, 2026"
@@ -3800,6 +3872,21 @@
       "label": "Oct 23, 2026"
     },
     {
+      "id": "tt43655467",
+      "title": "Ali G: Who Iz I?",
+      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm0056187",
+          "name": "Sacha Baron Cohen"
+        }
+      ],
+      "label": "Oct 23, 2026"
+    },
+    {
       "id": "tt42882721",
       "title": "Cassi",
       "image": "https://m.media-amazon.com/images/M/MV5BZmQyNDVkN2UtNDEyYS00ZDc4LWIzOTAtNjAyZGYzNDM1ZWZiXkEyXkFqcGc@._V1_.jpg",
@@ -3907,12 +3994,12 @@
           "name": "Marisa Tomei"
         },
         {
-          "id": "nm0004821",
-          "name": "Michael Chiklis"
-        },
-        {
           "id": "nm0000609",
           "name": "Ving Rhames"
+        },
+        {
+          "id": "nm0004821",
+          "name": "Michael Chiklis"
         }
       ],
       "label": "Oct 30, 2026"
@@ -3920,6 +4007,7 @@
     {
       "id": "tt38691481",
       "title": "Everest: The Other Side",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmFjYjk4NWMtZTgwNy00ZGU3LWI0ODYtM2YwZGMwNDdhZTkxXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
       "genres": [
         "Documentary",
@@ -4430,12 +4518,12 @@
           "name": "Ben Stiller"
         },
         {
-          "id": "nm0005562",
-          "name": "Owen Wilson"
-        },
-        {
           "id": "nm1711114",
           "name": "Skyler Gisondo"
+        },
+        {
+          "id": "nm0005562",
+          "name": "Owen Wilson"
         }
       ],
       "label": "Nov 25, 2026"
@@ -5658,16 +5746,16 @@
           "name": "John Leguizamo"
         },
         {
-          "id": "nm0512934",
-          "name": "Hamish Linklater"
+          "id": "nm0424060",
+          "name": "Scarlett Johansson"
         },
         {
           "id": "nm0252230",
           "name": "Chiwetel Ejiofor"
         },
         {
-          "id": "nm0424060",
-          "name": "Scarlett Johansson"
+          "id": "nm0512934",
+          "name": "Hamish Linklater"
         }
       ],
       "label": "Mar 12, 2027"
@@ -5992,8 +6080,8 @@
           "name": "Keke Palmer"
         },
         {
-          "id": "nm0000316",
-          "name": "Mel Brooks"
+          "id": "nm0001548",
+          "name": "Rick Moranis"
         }
       ],
       "label": "Apr 23, 2027"
@@ -6009,12 +6097,12 @@
       ],
       "people": [
         {
-          "id": "nm3996999",
-          "name": "Brandon Sklenar"
-        },
-        {
           "id": "nm3510471",
           "name": "Sam Claflin"
+        },
+        {
+          "id": "nm3996999",
+          "name": "Brandon Sklenar"
         },
         {
           "id": "nm0164809",
