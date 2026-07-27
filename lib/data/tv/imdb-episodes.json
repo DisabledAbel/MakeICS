@@ -2289,6 +2289,62 @@
         },
         {
           "season": 10,
+          "number": 12,
+          "name": "The Forbidden Kiss",
+          "airdate": "2025-12-15",
+          "summary": "A crew member's departure leads to a hidden kiss, causing crew chaos. They visit elite sailors and see flamenco dancing, gaining insights. A visitor arrives, bringing potential changes.",
+          "url": "https://www.imdb.com/title/tt38671430/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 10,
+          "number": 13,
+          "name": "The Poo-petrator",
+          "airdate": "2025-12-22",
+          "summary": "A blast from the past has one of the crew members desperate to reignite an old flame. New crew configurations cause resentments to blossom. A guest leaves an unwelcome surprise in the shower, setting off a mystery within the interior.",
+          "url": "https://www.imdb.com/title/tt38671431/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 10,
+          "number": 14,
+          "name": "Guilt Trip",
+          "airdate": "2025-12-29",
+          "summary": "Two crew members contend with whether or not to feel guilty after committing a major betrayal. Romantic entanglements on the boat get messy. A crew member returns and is shocked to discover that everything has changed.",
+          "url": "https://www.imdb.com/title/tt38671432/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 10,
+          "number": 15,
+          "name": "Break-Ups and Shake-Ups",
+          "airdate": "2026-01-05",
+          "summary": "A betrayal leads to tension and confrontations. A crew member seeks a second chance as time runs short. A breakup causes upheaval. Rough seas spark conflict between deckhands.",
+          "url": "https://www.imdb.com/title/tt38671435/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 10,
+          "number": 16,
+          "name": "Stricken Nuggets",
+          "airdate": "2026-01-12",
+          "summary": "An argument over a jet ski causes a major rift in the deck team. A long-held bromance is threatened. A heart-to-heart about commitment is interrupted and tempers flare in multiple directions.",
+          "url": "https://www.imdb.com/title/tt38671426/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 10,
+          "number": 17,
+          "name": "Bubble Trouble",
+          "airdate": "2026-01-19",
+          "summary": "A group of loud, brash New Yorkers board the boat and put the crew back on their heels. Bad weather keeps the boat at the dock and a considerable emergency pops up. A crew member gets injured. A long-running friendship frays.",
+          "url": "https://www.imdb.com/title/tt39248617/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 10,
+          "number": 18,
+          "name": "Baby Steps",
+          "airdate": "2026-01-26",
+          "summary": "The charter season comes to an end and two crew members go all in on a bad decision. A returning visitor has a pleasant surprise. Some crew members get happy endings while others exchange harsh words.",
+          "url": "https://www.imdb.com/title/tt39296452/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 10,
           "number": 29,
           "name": "Raising the Bar-celona",
           "airdate": "2025-09-29",
@@ -3362,7 +3418,72 @@
     "tt39402046": {
       "imdbId": "tt39402046",
       "title": "120 Hours Behind Bars",
-      "episodes": []
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Washington Parish Jail",
+          "airdate": "2026-01-19",
+          "summary": "Over-capacity and on the brink, Louisiana's Washington Parish Jail is spiraling into chaos. The new sheriff struggles to bring stability and control while facing the mistakes of the past.",
+          "url": "https://www.imdb.com/title/tt39402079/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Leake County Jail",
+          "airdate": "2026-01-26",
+          "summary": "In rural Leake County, Mississippi, a small jail battles a big meth problem. With (repeat) offenders entering the jail daily, local law enforcement works to break the cycle. Amongst its inmates, we even find a former jail administrator.",
+          "url": "https://www.imdb.com/title/tt39402081/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Clayton County Jail",
+          "airdate": "2026-02-02",
+          "summary": "We see how the newly elected sheriff of Clayton County (Georgia) is trying to make changes to his heavily overpopulated and understaffed jail. A jail that is infested with lice, shanks and broken (destroyed) plumbing.",
+          "url": "https://www.imdb.com/title/tt39482319/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Caddo Parish Correctional Center",
+          "airdate": "2026-02-09",
+          "summary": "Caddo Parish Correctional Center is struggling with a staffing shortage -- the inmates outnumber the deputies by 180 to 1. To ensure the safety of both inmates and staff alike, the Emergency Response Team springs into action.",
+          "url": "https://www.imdb.com/title/tt39482326/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Virginia Beach Correctional Center",
+          "airdate": "2026-02-16",
+          "summary": "Virginia Beach is a party town with a vibrant nightlife, making its Correctional Center one of the busiest city jails in the state. Here, some inmates arrive to go on vacation, then leave on probation -- and return on a violation.",
+          "url": "https://www.imdb.com/title/tt39773912/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Bristol County Jail",
+          "airdate": "2026-02-23",
+          "summary": "In Bristol County Jail, half of the cells don't lock. As changing demographics bring in more violent, gang-affiliated criminals, staff must manage a higher-risk population without the facility slipping into chaos.",
+          "url": "https://www.imdb.com/title/tt39774989/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Butler County Jail",
+          "airdate": "2026-03-02",
+          "summary": "Inside Butler County Jail, a six-term sheriff and his seasoned staff confront an unrelenting opioid crisis. As drugs flood the facility, officers work to dismantle the supply ring and maintain order.",
+          "url": "https://www.imdb.com/title/tt39676113/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Washoe County Jail",
+          "airdate": "2026-03-09",
+          "summary": "Inside one of Nevada's busiest jails, deputies battle a non-stop surge of arrests driven by Reno's 24/7 crime and a major trafficking corridor. With gangs entrenched inside, keeping rival groups apart becomes a daily fight for control.",
+          "url": "https://www.imdb.com/title/tt40322004/?ref_=ttep_ep_8"
+        }
+      ]
     },
     "tt2912216": {
       "imdbId": "tt2912216",
@@ -9691,7 +9812,7 @@
           "number": 10,
           "name": "Episode #28.10",
           "airdate": "2026-07-26",
-          "summary": null,
+          "summary": "Who will piledrive into power, and which houseguests will be nominated next? Lyme may be over, but a new flirt-mance is heating up. Then, who did you chose to send into the BB Time Capsule next? What power or punishment will they receive?",
           "url": "https://www.imdb.com/title/tt43630964/?ref_=ttep_ep_10"
         },
         {
@@ -12571,7 +12692,7 @@
           "number": 3,
           "name": "Why Can't We Be Friends?",
           "airdate": "2026-07-23",
-          "summary": "Vicki finds herself playing referee in an attempt to rekindle the Tres Amigas friendship.",
+          "summary": "Vicki finds herself playing referee in an attempt to rekindle the Tres Amigas friendship. Jenn navigates teen troubles. Gina questions Travis about a prenup. Tamra visits Teddi Mellencamp for advice. Emily shares a big gesture of friendship with Carmella.",
           "url": "https://www.imdb.com/title/tt43641739/?ref_=ttep_ep_3"
         },
         {
@@ -13397,7 +13518,7 @@
           "season": 22,
           "number": 4,
           "name": "Catwalk on the Wild Side",
-          "airdate": null,
+          "airdate": "2026-07-30",
           "summary": "In a series of head-to-head fashion battles, the designers create bold looks inspired by wild animals. Special guest models from Hulu's Get Real lineup bring the contestants' creations to life on the runway.",
           "url": "https://www.imdb.com/title/tt43707082/?ref_=ttep_ep_4"
         },
@@ -13405,7 +13526,7 @@
           "season": 22,
           "number": 5,
           "name": "Viva la Fashion",
-          "airdate": null,
+          "airdate": "2026-08-06",
           "summary": "Creativity is put to the test when the designers must transform paper towels into high-fashion runway looks. The competition becomes personal when the designers must name who they believe is the weakest designer amongst them.",
           "url": "https://www.imdb.com/title/tt43707085/?ref_=ttep_ep_5"
         },
@@ -13518,6 +13639,14 @@
           "airdate": "2026-08-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43708609/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 13,
+          "number": 5,
+          "name": "Last Action Zero",
+          "airdate": "2026-08-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43714639/?ref_=ttep_ep_5"
         },
         {
           "season": 12,
@@ -14172,7 +14301,7 @@
         {
           "season": 17,
           "number": 8,
-          "name": "Episode #17.8",
+          "name": "Night School Knuckleheads/Painfully Employed",
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt43712473/?ref_=ttep_ep_8"
@@ -15272,7 +15401,7 @@
           "number": 7,
           "name": "Penultimate Means Second to Last",
           "airdate": "2026-07-31",
-          "summary": null,
+          "summary": "Under pressure from every direction, Raq fights to stay in control as alliances fall apart, and Kanan's increasing ruthlessness puts his relationships at risk.",
           "url": "https://www.imdb.com/title/tt40447292/?ref_=ttep_ep_7"
         },
         {
@@ -16260,7 +16389,7 @@
           "number": 10,
           "name": "Big Bucks in Boca Raton",
           "airdate": "2025-11-07",
-          "summary": "A mother and son use an inheritance to find the lively Hot Springs home their loved one always imagined, with David helping them bring that dream to life.",
+          "summary": "David Bromstad is on the hunt yet again for a couple in Boca Raton, Florida. This is the third dream home they've called on David to find, and now, David's wondering if he's doing something very wrong or very right.",
           "url": "https://www.imdb.com/title/tt38760174/?ref_=ttep_ep_10"
         },
         {
@@ -22159,9 +22288,9 @@
         {
           "season": 3,
           "number": 6,
-          "name": "Episode #3.6",
+          "name": "Faceless Men",
           "airdate": "2026-07-26",
-          "summary": null,
+          "summary": "While Rhaenyra and Daemon focus on how best to deal with Ormund, tensions among their neglected allies begin to erupt.",
           "url": "https://www.imdb.com/title/tt36591964/?ref_=ttep_ep_6"
         },
         {
@@ -23021,9 +23150,9 @@
         {
           "season": 13,
           "number": 18,
-          "name": "Episode #13.18",
+          "name": "Trump Cryptocurrency",
           "airdate": "2026-07-26",
-          "summary": null,
+          "summary": "John Oliver discusses how the Trump family's cryptocurrency ventures have overshadowed their other businesses, how they've created massive conflicts of interest for the Trump administration, and what it all has to do with Fartcoin.",
           "url": "https://www.imdb.com/title/tt43630205/?ref_=ttep_ep_18"
         },
         {
@@ -23253,8 +23382,72 @@
           "number": 1,
           "name": "Pilot",
           "airdate": "2026-07-27",
-          "summary": null,
+          "summary": "As Curtis goes head-to-head with the CIA over a secret tape, he's forced to confront secrets of his own.",
           "url": "https://www.imdb.com/title/tt43616910/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Triangle",
+          "airdate": "2026-08-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43716222/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Ex",
+          "airdate": "2026-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43716917/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Purchase",
+          "airdate": "2026-08-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43716920/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "David",
+          "airdate": "2026-08-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43716923/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Hollow",
+          "airdate": "2026-08-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43716926/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "Knox",
+          "airdate": "2026-09-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43716933/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 20,
+          "name": "Synths",
+          "airdate": "2026-09-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43716936/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 27,
+          "name": "Timber",
+          "airdate": "2026-09-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43716938/?ref_=ttep_ep_10"
         }
       ]
     },
@@ -25481,7 +25674,7 @@
           "season": 2,
           "number": 3,
           "name": "And the Vanishing Bankers",
-          "airdate": null,
+          "airdate": "2026-08-09",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43644554/?ref_=ttep_ep_3"
         },
@@ -25521,7 +25714,7 @@
           "season": 2,
           "number": 8,
           "name": "And the Last Resort",
-          "airdate": null,
+          "airdate": "2026-08-24",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43644555/?ref_=ttep_ep_8"
         },
@@ -25537,7 +25730,7 @@
           "season": 2,
           "number": 10,
           "name": "And the Heart of a Librarian",
-          "airdate": null,
+          "airdate": "2026-08-31",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43644557/?ref_=ttep_ep_10"
         },
