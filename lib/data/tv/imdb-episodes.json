@@ -2636,6 +2636,14 @@
           "url": "https://www.imdb.com/title/tt43685671/?ref_=ttep_ep_13"
         },
         {
+          "season": 3,
+          "number": 14,
+          "name": "Episode #3.14",
+          "airdate": "2026-08-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43718484/?ref_=ttep_ep_14"
+        },
+        {
           "season": 2,
           "number": 1,
           "name": "Built to Last?",
@@ -8739,6 +8747,14 @@
           "url": "https://www.imdb.com/title/tt43675288/?ref_=ttep_ep_12"
         },
         {
+          "season": 3,
+          "number": 13,
+          "name": "Constance Wu & Jimmy Fallon",
+          "airdate": "2026-08-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43717826/?ref_=ttep_ep_13"
+        },
+        {
           "season": 2,
           "number": 1,
           "name": "Joe Manganiello & Jimmy Fallon",
@@ -10836,7 +10852,7 @@
           "number": 5,
           "name": "Thin Margins",
           "airdate": "2026-07-15",
-          "summary": null,
+          "summary": "As survivalists regroup and refocus, the Arctic tests their resolve. One participant gets a shot at big game, while another faces a lynx threatening their food supply.",
           "url": "https://www.imdb.com/title/tt43626920/?ref_=ttep_ep_5"
         },
         {
@@ -10844,7 +10860,7 @@
           "number": 6,
           "name": "Balancing Act",
           "airdate": null,
-          "summary": null,
+          "summary": "With survival depending on preparation, remaining participants rush to secure essentials. Key food wins offer hope, but mounting fatigue and an upcoming medical check threaten their hard-earned progress.",
           "url": "https://www.imdb.com/title/tt43626922/?ref_=ttep_ep_6"
         },
         {
@@ -13511,7 +13527,7 @@
           "number": 3,
           "name": "In It to Win It",
           "airdate": "2026-07-23",
-          "summary": "The designers are divided into four fashion houses and challenged to create runway-worthy looks inspired by NFL teams; working together while maintaining their own creative voice proves to be difficult as emotions rise and bonds are tested.",
+          "summary": "Designers split into four fashion houses must create runway looks inspired by NFL teams. Balancing collaboration with individual creativity proves challenging as emotions run high and relationships are tested.",
           "url": "https://www.imdb.com/title/tt43687351/?ref_=ttep_ep_3"
         },
         {
@@ -21491,7 +21507,7 @@
           "number": 9,
           "name": "Sierra Inscoe",
           "airdate": "2025-03-09",
-          "summary": null,
+          "summary": "A beloved son is reported missing after he fails to return home from a date. Various Mississippi agencies unite to navigate his last moments and a false lead that will expose a cold-blooded scheme.",
           "url": "https://www.imdb.com/title/tt34985451/?ref_=ttep_ep_9"
         },
         {
@@ -21742,7 +21758,7 @@
           "number": 16,
           "name": "Halloween Hot Pocket",
           "airdate": "2026-07-26",
-          "summary": null,
+          "summary": "Shamea pushes forward with her rum launch despite growing uncertainty. Porsha struggles to make a decision about her love life. The group reunites for a highly anticipated celebration, but unexpected arrivals and shocking moments throw the night into chaos.",
           "url": "https://www.imdb.com/title/tt38933147/?ref_=ttep_ep_16"
         },
         {
@@ -25993,6 +26009,186 @@
           "airdate": "2025-08-03",
           "summary": "Harvey Firestone races to innovation against a crosstown rival as they both bet big on bringing car tires to the nation.",
           "url": "https://www.imdb.com/title/tt37783070/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt31867798": {
+      "imdbId": "tt31867798",
+      "title": "Wizards Beyond Waverly Place",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 1,
+          "name": "The Rift That Keeps on Giving",
+          "airdate": "2026-08-04",
+          "summary": "After losing Alex, Billie is convinced her powers are too dangerous and thus relinquishes them to keep her family safe.",
+          "url": "https://www.imdb.com/title/tt41377548/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "name": "The Right Stuffie",
+          "airdate": "2026-08-04",
+          "summary": "Without her powers, Billie is forced to enlist the help of an old foe to break into the most secure wizard facility in the world.",
+          "url": "https://www.imdb.com/title/tt41377546/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "Billie Russo-Penwulf and the Prisoner of Wizcatraz",
+          "airdate": "2026-08-04",
+          "summary": "Billie and Justin set out to break into Wizcatraz. Back at home, the rest of the family and Winter try to communicate with Alex.",
+          "url": "https://www.imdb.com/title/tt41377547/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "The Last Spell",
+          "airdate": "2026-08-04",
+          "summary": "Billie aims to save Alex. However, an evil force threatens to destroy the Russo family once and for all.",
+          "url": "https://www.imdb.com/title/tt41377549/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Spells Like Halloween Spirit",
+          "airdate": "2025-10-03",
+          "summary": "When Justin forbids Billie from having a haunted house, she takes Justin to Halloween future, present and past in an attempt to help him rediscover his Halloween spirit.",
+          "url": "https://www.imdb.com/title/tt37529528/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Cruel Detentions",
+          "airdate": "2025-10-03",
+          "summary": "When Billie gets detention, she trades wands with Milo so his spells will earn her points. But when Milo's spell goes awry, Billie must sneak home to try to save the day.",
+          "url": "https://www.imdb.com/title/tt37158904/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "It's Beginning to Look a Lot Like Wizmas",
+          "airdate": "2025-10-08",
+          "summary": "When Billie discovers that she's on Santa's Nice List for the first time, she sets out to get her rightful spot on the Naughty List back through any means necessary.",
+          "url": "https://www.imdb.com/title/tt37529527/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Boogie and the Beast",
+          "airdate": "2025-10-08",
+          "summary": "When bad boy Quentin asks Billie to the eighth-grade dance, she's excited, but a wary Justin is starting to suspect that this mysterious kid may not be exactly what he seems.",
+          "url": "https://www.imdb.com/title/tt37529530/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "The Wizard at the End of the World: Part One",
+          "airdate": "2025-10-08",
+          "summary": "When Billie's magic wreaks havoc at home, the Russos end up at Alex's apartment for the weekend. Meanwhile, Justin searches for information about the mysterious Lord Morsus.",
+          "url": "https://www.imdb.com/title/tt37529531/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "The Wizard at the End of the World: Part Two",
+          "airdate": "2025-10-08",
+          "summary": "As Alex, Justin, and Billie try to prevent Lord Morsus from fulfilling the prophecy, a long-kept secret comes to light.",
+          "url": "https://www.imdb.com/title/tt37529532/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "Curse Me Baby One More Time",
+          "airdate": "2025-09-12",
+          "summary": "When Roman excels at his wizard lessons, Billie feels threatened and uses a Reverse Curse to slow him down, but it accidentally turns him into a baby.",
+          "url": "https://www.imdb.com/title/tt36387381/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "name": "Howdy with a Trance of Gumballs",
+          "airdate": "2025-09-19",
+          "summary": "When an oracle from the wizard world shows up on Billie's doorstep and predicts that Billie will destroy the big summer carnival, Billie stops at nothing to change the future.",
+          "url": "https://www.imdb.com/title/tt37529514/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 26,
+          "name": "Don't Go Changeling My Heart",
+          "airdate": "2025-09-26",
+          "summary": "When a new student arrives and takes an unlikely interest in Roman, Billie thinks she must be the Changeling and sets out to prove it.",
+          "url": "https://www.imdb.com/title/tt37529520/?ref_=ttep_ep_4"
+        }
+      ]
+    },
+    "tt0446622": {
+      "imdbId": "tt0446622",
+      "title": "Hard Knocks",
+      "episodes": [
+        {
+          "season": 21,
+          "number": 1,
+          "name": "Training Camp with the Seattle Seahawks - Episode 1",
+          "airdate": "2026-08-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41298315/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 21,
+          "number": 2,
+          "name": "Training Camp with the Seattle Seahawks - Episode 2",
+          "airdate": "2026-08-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41298314/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 21,
+          "number": 3,
+          "name": "Training Camp with the Seattle Seahawks - Episode 3",
+          "airdate": "2026-08-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41298316/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 21,
+          "number": 4,
+          "name": "Training Camp with the Seattle Seahawks - Episode 4",
+          "airdate": "2026-08-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41298317/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 20,
+          "number": 1,
+          "name": "Training Camp with the Buffalo Bills - Episode 1",
+          "airdate": "2025-08-05",
+          "summary": "Bills coach McDermott, General Manager Beane, MVP QB Allen, and other players conduct training at St. John Fisher University in Pittsford, NY.",
+          "url": "https://www.imdb.com/title/tt37019876/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 20,
+          "number": 2,
+          "name": "Training Camp with the Buffalo Bills - Episode 2",
+          "airdate": "2025-08-12",
+          "summary": "A look at undrafted local kid \"Buffalo Joe\" Andreesen; RB Ray Davis tries kicking; the battle for QB2; Damar Hamlin's inspiring story.",
+          "url": "https://www.imdb.com/title/tt37019873/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 20,
+          "number": 3,
+          "name": "Training Camp with the Buffalo Bills - Episode 3",
+          "airdate": "2025-08-19",
+          "summary": "James Cook hits the field as his \"hold in\" ends; defensive tackle Ed Oliver shows his love for horses; the Bills head to Chicago to face the Bears.",
+          "url": "https://www.imdb.com/title/tt37019875/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 20,
+          "number": 4,
+          "name": "Training Camp with the Buffalo Bills - Episode 4",
+          "airdate": "2025-08-26",
+          "summary": "Josh Allen shows how he has developed into an elite QB with help from a biometrics expert; roster cuts loom as the team heads to Tampa Bay.",
+          "url": "https://www.imdb.com/title/tt37019878/?ref_=ttep_ep_4"
         }
       ]
     }
