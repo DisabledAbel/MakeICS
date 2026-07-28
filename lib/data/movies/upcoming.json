@@ -763,12 +763,12 @@
           "name": "Zendaya"
         },
         {
-          "id": "nm5584750",
-          "name": "Sadie Sink"
+          "id": "nm0749263",
+          "name": "Mark Ruffalo"
         },
         {
-          "id": "nm8188622",
-          "name": "Jacob Batalon"
+          "id": "nm1256532",
+          "name": "Jon Bernthal"
         }
       ],
       "label": "Jul 31, 2026"
@@ -923,12 +923,12 @@
           "name": "Eli Roth"
         },
         {
-          "id": "nm0048370",
-          "name": "Darrin Baker"
-        },
-        {
           "id": "nm2826395",
           "name": "Ari Millen"
+        },
+        {
+          "id": "nm0048370",
+          "name": "Darrin Baker"
         },
         {
           "id": "nm1177880",
@@ -953,12 +953,12 @@
           "name": "Brian Cox"
         },
         {
-          "id": "nm2003700",
-          "name": "Chace Crawford"
-        },
-        {
           "id": "nm7060757",
           "name": "Lisa Gilroy"
+        },
+        {
+          "id": "nm2003700",
+          "name": "Chace Crawford"
         },
         {
           "id": "nm1924196",
@@ -1593,20 +1593,20 @@
       ],
       "people": [
         {
-          "id": "nm0819874",
-          "name": "Sam Spruell"
-        },
-        {
           "id": "nm0005417",
           "name": "Lin Shaye"
         },
         {
-          "id": "nm9014280",
-          "name": "Joseph Lopez"
+          "id": "nm0819874",
+          "name": "Sam Spruell"
         },
         {
           "id": "nm5114966",
           "name": "Maisie Richardson-Sellers"
+        },
+        {
+          "id": "nm9014280",
+          "name": "Joseph Lopez"
         }
       ],
       "label": "Aug 21, 2026"
@@ -1651,12 +1651,12 @@
       ],
       "people": [
         {
-          "id": "nm0279545",
-          "name": "Isla Fisher"
-        },
-        {
           "id": "nm0267506",
           "name": "Anna Faris"
+        },
+        {
+          "id": "nm0279545",
+          "name": "Isla Fisher"
         },
         {
           "id": "nm0005182",
@@ -1901,8 +1901,8 @@
           "name": "Josh Brolin"
         },
         {
-          "id": "nm0005049",
-          "name": "Allison Janney"
+          "id": "nm0001602",
+          "name": "Guy Pearce"
         }
       ],
       "label": "Aug 28, 2026"
@@ -2219,16 +2219,16 @@
           "name": "Tom Brittney"
         },
         {
-          "id": "nm1534201",
-          "name": "Grace Caroline Currey"
+          "id": "nm0741219",
+          "name": "Adam Rose"
         },
         {
           "id": "nm4722966",
           "name": "Virginia Gardner"
         },
         {
-          "id": "nm0741219",
-          "name": "Adam Rose"
+          "id": "nm1534201",
+          "name": "Grace Caroline Currey"
         }
       ],
       "label": "Sep 02, 2026"
@@ -2304,12 +2304,12 @@
       ],
       "people": [
         {
-          "id": "nm6481846",
-          "name": "Drew Starkey"
-        },
-        {
           "id": "nm0356017",
           "name": "Rebecca Hall"
+        },
+        {
+          "id": "nm6481846",
+          "name": "Drew Starkey"
         },
         {
           "id": "nm5245722",
@@ -2635,12 +2635,12 @@
           "name": "Liam Gallagher"
         },
         {
-          "id": "nm0302462",
-          "name": "Noel Gallagher"
-        },
-        {
           "id": "nm2089687",
           "name": "Oasis"
+        },
+        {
+          "id": "nm0302462",
+          "name": "Noel Gallagher"
         }
       ],
       "label": "Sep 11, 2026"
@@ -2957,12 +2957,12 @@
           "name": "Jenny Slate"
         },
         {
-          "id": "nm2976018",
-          "name": "Dolly De Leon"
+          "id": "nm5307044",
+          "name": "Ronny Chieng"
         },
         {
-          "id": "nm3254274",
-          "name": "Manny Jacinto"
+          "id": "nm2976018",
+          "name": "Dolly De Leon"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3512,12 +3512,12 @@
           "name": "Sebastian Stan"
         },
         {
-          "id": "nm2966840",
-          "name": "Lisa Loven Kongsli"
-        },
-        {
           "id": "nm0364028",
           "name": "Thorbjørn Harr"
+        },
+        {
+          "id": "nm2966840",
+          "name": "Lisa Loven Kongsli"
         }
       ],
       "label": "Oct 09, 2026"
@@ -3622,12 +3622,12 @@
           "name": "Jason Momoa"
         },
         {
-          "id": "nm3170207",
-          "name": "Noah Centineo"
-        },
-        {
           "id": "nm2810287",
           "name": "David Dastmalchian"
+        },
+        {
+          "id": "nm3170207",
+          "name": "Noah Centineo"
         },
         {
           "id": "nm2765191",
@@ -3793,6 +3793,10 @@
       ],
       "people": [
         {
+          "id": "nm4151189",
+          "name": "Tom Rhys Harries"
+        },
+        {
           "id": "nm0550371",
           "name": "Eddie Marsan"
         },
@@ -3803,10 +3807,6 @@
         {
           "id": "nm1540404",
           "name": "Max Minghella"
-        },
-        {
-          "id": "nm0140943",
-          "name": "Nancy Carroll"
         }
       ],
       "label": "Oct 23, 2026"
@@ -4073,12 +4073,12 @@
           "name": "Steve Buscemi"
         },
         {
-          "id": "nm0000205",
-          "name": "Parker Posey"
-        },
-        {
           "id": "nm0000518",
           "name": "John Malkovich"
+        },
+        {
+          "id": "nm0000205",
+          "name": "Parker Posey"
         }
       ],
       "label": "Nov 06, 2026"
@@ -4273,6 +4273,10 @@
       ],
       "people": [
         {
+          "id": "nm6616259",
+          "name": "Tati Gabrielle"
+        },
+        {
           "id": "nm0396558",
           "name": "Nicholas Hoult"
         },
@@ -4283,10 +4287,6 @@
         {
           "id": "nm2368789",
           "name": "Zoë Kravitz"
-        },
-        {
-          "id": "nm0203457",
-          "name": "Pete Davidson"
         }
       ],
       "label": "Nov 13, 2026"
@@ -4413,7 +4413,7 @@
     {
       "id": "tt11995650",
       "title": "I Play Rocky",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDZlN2IyYjUtM2FhMi00OTQ0LTk5YjktNTdiZGM1ZDg3NzIxXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDkxNjAxOGItY2E1ZC00NWE2LTk0N2QtYTRjNzFkOGY1NmE3XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -4434,8 +4434,8 @@
           "name": "AnnaSophia Robb"
         },
         {
-          "id": "nm4150847",
-          "name": "Stephan James"
+          "id": "nm0000369",
+          "name": "Matt Dillon"
         }
       ],
       "label": "Nov 20, 2026"
@@ -4486,12 +4486,12 @@
           "name": "Alan Tudyk"
         },
         {
-          "id": "nm0429069",
-          "name": "Rashida Jones"
-        },
-        {
           "id": "nm2794962",
           "name": "Hailee Steinfeld"
+        },
+        {
+          "id": "nm0429069",
+          "name": "Rashida Jones"
         },
         {
           "id": "nm0000410",
@@ -4839,8 +4839,8 @@
           "name": "Jason Momoa"
         },
         {
-          "id": "nm5896355",
-          "name": "Anya Taylor-Joy"
+          "id": "nm1500155",
+          "name": "Robert Pattinson"
         }
       ],
       "label": "Dec 18, 2026"
@@ -4857,16 +4857,16 @@
       ],
       "people": [
         {
-          "id": "nm1551130",
-          "name": "Keke Palmer"
-        },
-        {
-          "id": "nm1104131",
-          "name": "Danny McBride"
+          "id": "nm13575138",
+          "name": "Marcello Hernández"
         },
         {
           "id": "nm0837177",
           "name": "Jason Sudeikis"
+        },
+        {
+          "id": "nm1551130",
+          "name": "Keke Palmer"
         },
         {
           "id": "nm4141252",
@@ -4928,8 +4928,8 @@
           "name": "Vineet Kumar Singh"
         },
         {
-          "id": "nm6946196",
-          "name": "Vishal Jethwa"
+          "id": "nm0084443",
+          "name": "Seema Biswas"
         }
       ],
       "label": "Dec 24, 2026"
@@ -4948,16 +4948,16 @@
           "name": "Jack Morris"
         },
         {
-          "id": "nm1093951",
-          "name": "Aaron Taylor-Johnson"
-        },
-        {
           "id": "nm0000353",
           "name": "Willem Dafoe"
         },
         {
-          "id": "nm11417004",
-          "name": "Bodhi Rae Breathnach"
+          "id": "nm1093951",
+          "name": "Aaron Taylor-Johnson"
+        },
+        {
+          "id": "nm0408591",
+          "name": "Ralph Ineson"
         }
       ],
       "label": "Dec 25, 2026"
@@ -5407,8 +5407,8 @@
           "name": "Cynthia Erivo"
         },
         {
-          "id": "nm0131966",
-          "name": "Bill Camp"
+          "id": "nm2113653",
+          "name": "Richard Harmon"
         }
       ],
       "label": "Jan 29, 2027"
@@ -5653,6 +5653,10 @@
       ],
       "people": [
         {
+          "id": "nm1883803",
+          "name": "Jesse Garcia"
+        },
+        {
           "id": "nm0761052",
           "name": "Roselyn Sanchez"
         },
@@ -5661,12 +5665,8 @@
           "name": "Esai Morales"
         },
         {
-          "id": "nm1883803",
-          "name": "Jesse Garcia"
-        },
-        {
-          "id": "nm3182681",
-          "name": "Ian Casselberry"
+          "id": "nm7639977",
+          "name": "Angel Rosario Jr."
         }
       ],
       "label": "Feb 26, 2027"
@@ -5801,20 +5801,20 @@
       ],
       "people": [
         {
+          "id": "nm0252961",
+          "name": "Idris Elba"
+        },
+        {
           "id": "nm0000206",
           "name": "Keanu Reeves"
         },
         {
-          "id": "nm0068338",
-          "name": "Kristen Bell"
+          "id": "nm0005188",
+          "name": "James Marsden"
         },
         {
           "id": "nm0000120",
           "name": "Jim Carrey"
-        },
-        {
-          "id": "nm0005188",
-          "name": "James Marsden"
         }
       ],
       "label": "Mar 19, 2027"
@@ -6194,8 +6194,8 @@
           "name": "Rupert Everett"
         },
         {
-          "id": "nm0810738",
-          "name": "Kasia Smutniak"
+          "id": "nm3663897",
+          "name": "Jaakko Ohtonen"
         }
       ],
       "label": "May 06, 2027"
@@ -6218,12 +6218,12 @@
           "name": "Andie MacDowell"
         },
         {
-          "id": "nm3697443",
-          "name": "Phoebe Dynevor"
-        },
-        {
           "id": "nm2200639",
           "name": "Patrick Schwarzenegger"
+        },
+        {
+          "id": "nm3697443",
+          "name": "Phoebe Dynevor"
         }
       ],
       "label": "May 07, 2027"
@@ -6315,8 +6315,8 @@
           "name": "Ncuti Gatwa"
         },
         {
-          "id": "nm4735423",
-          "name": "James Acaster"
+          "id": "nm13726777",
+          "name": "Katelyn Rose Downey"
         }
       ],
       "label": "May 21, 2027"
@@ -6472,8 +6472,8 @@
           "name": "Mason Thames"
         },
         {
-          "id": "nm5421877",
-          "name": "Julian Dennison"
+          "id": "nm4651633",
+          "name": "Phil Dunster"
         }
       ],
       "label": "Jun 11, 2027"
@@ -6641,16 +6641,16 @@
           "name": "Milly Alcock"
         },
         {
-          "id": "nm3014031",
-          "name": "Rachel Brosnahan"
-        },
-        {
-          "id": "nm2409479",
-          "name": "Mikaela Hoover"
-        },
-        {
           "id": "nm0277213",
           "name": "Nathan Fillion"
+        },
+        {
+          "id": "nm1711114",
+          "name": "Skyler Gisondo"
+        },
+        {
+          "id": "nm0396558",
+          "name": "Nicholas Hoult"
         }
       ],
       "label": "Jul 09, 2027"
