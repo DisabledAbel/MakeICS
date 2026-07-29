@@ -2422,6 +2422,22 @@
           "url": "https://www.imdb.com/title/tt43677187/?ref_=ttep_ep_8"
         },
         {
+          "season": 18,
+          "number": 9,
+          "name": "Central Regional Finals",
+          "airdate": "2026-08-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43719492/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 18,
+          "number": 10,
+          "name": "National Finals 1",
+          "airdate": "2026-08-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43719496/?ref_=ttep_ep_10"
+        },
+        {
           "season": 17,
           "number": 1,
           "name": "Qualifiers 1",
@@ -2859,7 +2875,7 @@
         {
           "season": 8,
           "number": 3,
-          "name": "Episode #8.3",
+          "name": "A Storm of Ugly in the Sunshine State",
           "airdate": "2026-08-03",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43475514/?ref_=ttep_ep_3"
@@ -3151,9 +3167,9 @@
         {
           "season": 3,
           "number": 7,
-          "name": "Episode #3.7",
+          "name": "Boiling Points",
           "airdate": "2026-07-27",
-          "summary": null,
+          "summary": "A business disagreement threatens to destroy Kacie and Steven's friendship. Steven and his new girlfriend, Allie, find that there might be trouble in paradise. Kristi encourages Jesse to take a trip with Alli to work on their marriage.",
           "url": "https://www.imdb.com/title/tt43677858/?ref_=ttep_ep_7"
         },
         {
@@ -3420,6 +3436,14 @@
           "airdate": "2026-07-27",
           "summary": "Krista's first date with Anthony is overshadowed by lingering drama — and a new crush. As tensions over chores boil over, JJ and Steph bond on a bold outing, while a night out leaves the girls questioning Krista's intentions.",
           "url": "https://www.imdb.com/title/tt43677867/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Episode #1.8",
+          "airdate": "2026-08-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43720407/?ref_=ttep_ep_8"
         }
       ]
     },
@@ -7388,9 +7412,9 @@
         {
           "season": 7,
           "number": 5,
-          "name": "Episode #7.5",
+          "name": "The Big Boss Man",
           "airdate": "2026-07-28",
-          "summary": null,
+          "summary": "Ray Traylor became one of wrestling's most memorable villains as The Big Boss Man, turning a prison guard persona into a defining character of the WWF and the addiction battle that affected his family after the cameras stopped rolling.",
           "url": "https://www.imdb.com/title/tt42455303/?ref_=ttep_ep_5"
         },
         {
@@ -8743,7 +8767,7 @@
           "number": 12,
           "name": "Connie Britton & Jimmy Fallon",
           "airdate": "2026-07-28",
-          "summary": null,
+          "summary": "Jimmy Fallon and celebrity guest Connie Britton pair up with contestants for a word showdown featuring a rock 'n' roll-themed round; hosted by Keke Palmer, players guess secret passwords using one-word clues for a chance to win up to $25,000;",
           "url": "https://www.imdb.com/title/tt43675288/?ref_=ttep_ep_12"
         },
         {
@@ -9891,7 +9915,7 @@
           "season": 28,
           "number": 18,
           "name": "Episode #28.18",
-          "airdate": null,
+          "airdate": "2026-08-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43630972/?ref_=ttep_ep_18"
         },
@@ -9899,7 +9923,7 @@
           "season": 28,
           "number": 19,
           "name": "Episode #28.19",
-          "airdate": null,
+          "airdate": "2026-08-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43630973/?ref_=ttep_ep_19"
         },
@@ -9907,7 +9931,7 @@
           "season": 28,
           "number": 20,
           "name": "Episode #28.20",
-          "airdate": null,
+          "airdate": "2026-08-16",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43630974/?ref_=ttep_ep_20"
         },
@@ -9915,7 +9939,7 @@
           "season": 28,
           "number": 21,
           "name": "Episode #28.21",
-          "airdate": null,
+          "airdate": "2026-08-19",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43650776/?ref_=ttep_ep_21"
         },
@@ -9923,7 +9947,7 @@
           "season": 28,
           "number": 22,
           "name": "Episode #28.22",
-          "airdate": null,
+          "airdate": "2026-08-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43650777/?ref_=ttep_ep_22"
         },
@@ -10859,7 +10883,7 @@
           "season": 13,
           "number": 6,
           "name": "Balancing Act",
-          "airdate": null,
+          "airdate": "2026-07-23",
           "summary": "With survival depending on preparation, remaining participants rush to secure essentials. Key food wins offer hope, but mounting fatigue and an upcoming medical check threaten their hard-earned progress.",
           "url": "https://www.imdb.com/title/tt43626922/?ref_=ttep_ep_6"
         },
@@ -11102,7 +11126,7 @@
           "number": 7,
           "name": "Gummy and Disorderly",
           "airdate": "2026-07-08",
-          "summary": null,
+          "summary": "A shopper on gummies freaks out at the supermarket; a man drives backwards on a major thoroughfare; a car smashes through a fast food restaurant; and more.",
           "url": "https://www.imdb.com/title/tt43684774/?ref_=ttep_ep_7"
         },
         {
@@ -11110,7 +11134,7 @@
           "number": 8,
           "name": "Stripper Emergency",
           "airdate": "2026-07-08",
-          "summary": null,
+          "summary": "A man dangles precariously from a bridge trying to elude police; two women are arrested for twerking on a police car with the officer still inside; a man calls police on a stripper and more",
           "url": "https://www.imdb.com/title/tt43684779/?ref_=ttep_ep_8"
         },
         {
@@ -13547,6 +13571,30 @@
           "url": "https://www.imdb.com/title/tt43707085/?ref_=ttep_ep_5"
         },
         {
+          "season": 22,
+          "number": 6,
+          "name": "The Devil's in the Details",
+          "airdate": "2026-08-13",
+          "summary": "The designers compete for a coveted opportunity: creating a red-carpet look for Heidi Klum to wear at the premiere of The Devil Wears Prada 2. Glamour, elegance and high expectations collide.",
+          "url": "https://www.imdb.com/title/tt43720241/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 22,
+          "number": 7,
+          "name": "Battle of the Seasons",
+          "airdate": "2026-08-20",
+          "summary": "The season 22 designers join forces to take on returning competitors from season 21 in the classic unconventional materials challenge. Familiar faces and unexpected materials create a high-stakes showdown.",
+          "url": "https://www.imdb.com/title/tt43720242/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 22,
+          "number": 8,
+          "name": "Designing with the Stars",
+          "airdate": "2026-08-27",
+          "summary": "Partnering with Dancing With the Stars, the designers create performance-ready fashions for some of the show's favorite professional dancers. Style and movement must work together seamlessly.",
+          "url": "https://www.imdb.com/title/tt43720274/?ref_=ttep_ep_8"
+        },
+        {
           "season": 21,
           "number": 1,
           "name": "New House / New Rules",
@@ -14233,7 +14281,7 @@
           "number": 20,
           "name": "The Pugness Monster/Butterflairy Friends",
           "airdate": "2026-07-17",
-          "summary": null,
+          "summary": "Is the ever-elusive Pugness Monster finally showing itself? Darly and Fifi rival each other over who could better escort a Butterflairy on its way to its hibernation home.",
           "url": "https://www.imdb.com/title/tt43407265/?ref_=ttep_ep_20"
         },
         {
@@ -14311,7 +14359,7 @@
           "number": 7,
           "name": "My Tighty Whiteys/What Ever Happened to Baby Prunes?",
           "airdate": null,
-          "summary": null,
+          "summary": "SpongeBob goes on a desperate search after his favorite pair of underwear goes missing; Baby Prunes shares the story of her days as a child star to explain why she despises chocolate.",
           "url": "https://www.imdb.com/title/tt43700954/?ref_=ttep_ep_7"
         },
         {
@@ -21505,7 +21553,7 @@
         {
           "season": 35,
           "number": 9,
-          "name": "Sierra Inscoe",
+          "name": "Sierra Jane Inscoe",
           "airdate": "2025-03-09",
           "summary": "A beloved son is reported missing after he fails to return home from a date. Various Mississippi agencies unite to navigate his last moments and a false lead that will expose a cold-blooded scheme.",
           "url": "https://www.imdb.com/title/tt34985451/?ref_=ttep_ep_9"
@@ -23166,7 +23214,7 @@
         {
           "season": 13,
           "number": 18,
-          "name": "Trump Cryptocurrency",
+          "name": "Trump & Crypto",
           "airdate": "2026-07-26",
           "summary": "John Oliver discusses how the Trump family's cryptocurrency ventures have overshadowed their other businesses, how they've created massive conflicts of interest for the Trump administration, and what it all has to do with Fartcoin.",
           "url": "https://www.imdb.com/title/tt43630205/?ref_=ttep_ep_18"
@@ -24347,8 +24395,8 @@
           "season": 3,
           "number": 2,
           "name": "It Won't Hurt Too Much",
-          "airdate": null,
-          "summary": null,
+          "airdate": "2026-08-06",
+          "summary": "Strickland leads a search party while Garnet encounters a new enemy. A power struggle breaks out on Ark 1.",
           "url": "https://www.imdb.com/title/tt37519712/?ref_=ttep_ep_2"
         },
         {
@@ -24363,7 +24411,7 @@
           "season": 3,
           "number": 4,
           "name": "Episode #3.4",
-          "airdate": null,
+          "airdate": "2026-08-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37519716/?ref_=ttep_ep_4"
         },
