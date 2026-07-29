@@ -19,11 +19,6 @@
     "name": "A Vacation Home Search on Scenic Lake Barkley, Kentucky",
     "verifiedAt": "2026-07-18T14:21:42.984Z"
   },
-  "Password-3-13": {
-    "airdate": "2026-07-28",
-    "name": "Connie Britton & Jimmy Fallon",
-    "verifiedAt": "2026-07-18T14:21:51.254Z"
-  },
   "Password-3-14": {
     "airdate": "2026-08-04",
     "name": "Constance Wu & Jimmy Fallon",
@@ -78,11 +73,6 @@
     "airdate": "2026-08-24",
     "name": "Episode #8.8",
     "verifiedAt": "2026-07-22T15:04:59.842Z"
-  },
-  "Love It or List It-21-6": {
-    "airdate": "2026-07-28",
-    "name": "Episode #21.6",
-    "verifiedAt": "2026-07-22T15:05:20.852Z"
   },
   "Love It or List It-21-7": {
     "airdate": "2026-08-04",
@@ -150,7 +140,7 @@
     "verifiedAt": "2026-07-22T15:06:26.171Z"
   },
   "Tyler Perry's The Oval-7-13": {
-    "airdate": "2026-07-29",
+    "airdate": "2026-08-12",
     "name": "The Hit List",
     "verifiedAt": "2026-07-22T15:06:28.803Z"
   },
@@ -279,23 +269,18 @@
     "name": "Episode #4.37",
     "verifiedAt": "2026-07-22T15:08:08.872Z"
   },
-  "Beat Shazam-8-1": {
-    "airdate": "2026-07-28",
-    "name": "Episode #8.1",
-    "verifiedAt": "2026-07-22T15:08:47.892Z"
-  },
   "WWE Friday Night SmackDown-27-35": {
     "airdate": "2026-08-28",
     "name": "And New...",
     "verifiedAt": "2026-07-22T15:07:35.048Z"
   },
   "Tyler Perry's The Oval-7-14": {
-    "airdate": "2026-08-05",
+    "airdate": "2026-08-19",
     "name": "To Walk and Chew Gum",
     "verifiedAt": "2026-07-25T14:39:01.701Z"
   },
   "Tyler Perry's The Oval-7-16": {
-    "airdate": "2026-08-05",
+    "airdate": "2026-09-02",
     "name": "Earth Shattering",
     "verifiedAt": "2026-07-25T14:39:04.281Z"
   },
@@ -308,5 +293,45 @@
     "airdate": "2026-08-02",
     "name": "Kimethia Coleman",
     "verifiedAt": "2026-07-25T14:40:35.585Z"
+  },
+  "Tyler Perry's The Oval-7-12": {
+    "airdate": "2026-08-05",
+    "name": "The Promise",
+    "verifiedAt": "2026-07-29T15:10:02.300Z"
+  },
+  "Tyler Perry's The Oval-7-15": {
+    "airdate": "2026-08-26",
+    "name": "The Black Mamba",
+    "verifiedAt": "2026-07-29T15:10:10.000Z"
+  },
+  "Tyler Perry's The Oval-7-17": {
+    "airdate": "2026-09-09",
+    "name": "Chicken and Rice",
+    "verifiedAt": "2026-07-29T15:10:15.005Z"
+  },
+  "Tyler Perry's The Oval-7-18": {
+    "airdate": "2026-09-16",
+    "name": "Riding the Troubled Waters",
+    "verifiedAt": "2026-07-29T15:10:17.630Z"
+  },
+  "Tyler Perry's The Oval-7-19": {
+    "airdate": "2026-09-23",
+    "name": "In a Heartbeat",
+    "verifiedAt": "2026-07-29T15:10:20.014Z"
+  },
+  "Tyler Perry's The Oval-7-20": {
+    "airdate": "2026-09-23",
+    "name": "Twenty-Four Hours",
+    "verifiedAt": "2026-07-29T15:10:22.560Z"
+  },
+  "Tyler Perry's The Oval-7-21": {
+    "airdate": "2026-09-30",
+    "name": "Agent Stan Bennett",
+    "verifiedAt": "2026-07-29T15:10:25.169Z"
+  },
+  "Tyler Perry's The Oval-7-22": {
+    "airdate": "2026-09-30",
+    "name": "The Filthy Rat",
+    "verifiedAt": "2026-07-29T15:10:27.785Z"
   }
 }
