@@ -851,12 +851,12 @@
           "name": "Coby Connell"
         },
         {
-          "id": "nm9727235",
-          "name": "John Potash"
-        },
-        {
           "id": "nm16222350",
           "name": "Andrew Pierson"
+        },
+        {
+          "id": "nm9727235",
+          "name": "John Potash"
         }
       ],
       "label": "Aug 01, 2026"
@@ -890,16 +890,16 @@
       ],
       "people": [
         {
-          "id": "nm4834815",
-          "name": "Monica Barbaro"
-        },
-        {
           "id": "nm4360085",
           "name": "Callum Turner"
         },
         {
-          "id": "nm1638321",
-          "name": "Maya Hawke"
+          "id": "nm4834815",
+          "name": "Monica Barbaro"
+        },
+        {
+          "id": "nm2951652",
+          "name": "Ben Marshall"
         },
         {
           "id": "nm0000208",
@@ -1284,8 +1284,8 @@
           "name": "J.K. Simmons"
         },
         {
-          "id": "nm13187224",
-          "name": "Jón Jónsson"
+          "id": "nm1298458",
+          "name": "Guy Burnet"
         }
       ],
       "label": "Aug 14, 2026"
@@ -2117,7 +2117,7 @@
     {
       "id": "tt38063160",
       "title": "The Cycle of Love",
-      "image": "https://m.media-amazon.com/images/M/MV5BMzEzOTRlMmEtOWQ0My00ZjgwLTkzMmMtMjQzN2M3MGRkNjI3XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BODM4ZGM3NDUtODUwYS00ODg1LWI0ZmEtMWVlYmRlM2NkOTcyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
       "genres": [
         "Documentary",
@@ -3183,8 +3183,8 @@
       "releaseDate": "Thu, 01 Oct 2026 00:00:00 GMT",
       "genres": [
         "Biography",
-        "Fantasy",
-        "History"
+        "History",
+        "Thriller"
       ],
       "people": [
         {
@@ -3597,12 +3597,12 @@
           "name": "Bodhi Rae Breathnach"
         },
         {
-          "id": "nm0789716",
-          "name": "Fiona Shaw"
-        },
-        {
           "id": "nm1495520",
           "name": "Caitríona Balfe"
+        },
+        {
+          "id": "nm0789716",
+          "name": "Fiona Shaw"
         }
       ],
       "label": "Oct 16, 2026"
@@ -3734,20 +3734,20 @@
       ],
       "people": [
         {
+          "id": "nm0180411",
+          "name": "Abbie Cornish"
+        },
+        {
+          "id": "nm0000157",
+          "name": "Linda Hamilton"
+        },
+        {
           "id": "nm1014989",
           "name": "David Julian Hirsh"
         },
         {
           "id": "nm0223570",
           "name": "Dhirendra"
-        },
-        {
-          "id": "nm0932548",
-          "name": "Dan Willmott"
-        },
-        {
-          "id": "nm0000157",
-          "name": "Linda Hamilton"
         }
       ],
       "label": "Oct 16, 2026"
@@ -3887,6 +3887,34 @@
       "label": "Oct 23, 2026"
     },
     {
+      "id": "tt37803364",
+      "title": "Possible Love",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjhkNjlhZTktOTkzMy00NTEwLTk3NzctZTllMjhjNTM0ZjA4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm0161133",
+          "name": "Jeon Do-yeon"
+        },
+        {
+          "id": "nm0812555",
+          "name": "Sul Kyung-gu"
+        },
+        {
+          "id": "nm1251770",
+          "name": "Zo In-sung"
+        },
+        {
+          "id": "nm1856097",
+          "name": "Cho Yeo-jeong"
+        }
+      ],
+      "label": "Oct 23, 2026"
+    },
+    {
       "id": "tt42882721",
       "title": "Cassi",
       "image": "https://m.media-amazon.com/images/M/MV5BZmQyNDVkN2UtNDEyYS00ZDc4LWIzOTAtNjAyZGYzNDM1ZWZiXkEyXkFqcGc@._V1_.jpg",
@@ -3905,12 +3933,12 @@
           "name": "Jay Giannone"
         },
         {
-          "id": "nm8435114",
-          "name": "Gigi Gustin"
-        },
-        {
           "id": "nm13858494",
           "name": "Stacy Kemp Ferrari"
+        },
+        {
+          "id": "nm11316114",
+          "name": "Austyn Knight"
         }
       ],
       "label": "Oct 24, 2026"
@@ -4021,6 +4049,35 @@
         {
           "id": "nm14471898",
           "name": "Jim Morrison"
+        }
+      ],
+      "label": "Oct 30, 2026"
+    },
+    {
+      "id": "tt27541205",
+      "title": "Queen at Sea",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGNiZDM5NjEtNjI1NC00ZmJmLWI4ZjUtZjcxZGZhMWFiZjJlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm18361069",
+          "name": "Mohammad Amiri"
+        },
+        {
+          "id": "nm14756664",
+          "name": "Lolabelle Backus"
+        },
+        {
+          "id": "nm14782462",
+          "name": "Noah Hunt Basden"
+        },
+        {
+          "id": "nm0000300",
+          "name": "Juliette Binoche"
         }
       ],
       "label": "Oct 30, 2026"
@@ -4232,6 +4289,35 @@
       "label": "Nov 06, 2026"
     },
     {
+      "id": "tt38058097",
+      "title": "Club Kid",
+      "image": "https://m.media-amazon.com/images/M/MV5BODNmNzIzNDctOTc1Ni00N2NlLThkNTktMGVlODIxNDNhNmIwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm5353321",
+          "name": "Cara Delevingne"
+        },
+        {
+          "id": "nm4624730",
+          "name": "Kirby Howell-Baptiste"
+        },
+        {
+          "id": "nm0131974",
+          "name": "Colleen Camp"
+        },
+        {
+          "id": "nm3886586",
+          "name": "Diego Calva"
+        }
+      ],
+      "label": "Nov 06, 2026"
+    },
+    {
       "id": "tt27988879",
       "title": "Ramayana",
       "image": "https://m.media-amazon.com/images/M/MV5BMzljMTFkYTktMjQ0MC00NjFhLWFmOTEtOTMyZmVhNTBmYTMzXkEyXkFqcGc@._V1_.jpg",
@@ -4366,12 +4452,12 @@
           "name": "Joseph Zada"
         },
         {
-          "id": "nm5085683",
-          "name": "Mckenna Grace"
-        },
-        {
           "id": "nm0000146",
           "name": "Ralph Fiennes"
+        },
+        {
+          "id": "nm5085683",
+          "name": "Mckenna Grace"
         },
         {
           "id": "nm1102577",
@@ -4561,7 +4647,7 @@
     {
       "id": "tt36834996",
       "title": "All of a Sudden",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGQ2NWE0MGYtNGMyOC00MjRmLTg2MDctMjY2OTlmNjI3OTI0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGU1ZTQ4ZDQtYzFjNy00MjVjLTg3MjMtYzdkNDI4NWY5ODQ5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
       "genres": [
         "Drama"
@@ -4734,8 +4820,12 @@
     {
       "id": "tt35638092",
       "title": "Tender Loving Care",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDA5MDU5NmEtMDNkNy00NWE1LTkyZTMtNjc4NDA2NmU5YWE1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
-      "genres": [],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
       "people": [
         {
           "id": "nm2359658",
@@ -4759,7 +4849,7 @@
     {
       "id": "tt34491649",
       "title": "Zero A.D.: The Birth of Christ",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjU2ZGE2MjktZjZhNC00ZWZiLWI2MTYtMThhZDJkZDQ3YTE2XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTgzOGI2MjgtZDg3NC00NDI4LWIwYTAtZjc1OTNhZjk0Y2Y2XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Dec 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -4974,6 +5064,10 @@
       ],
       "people": [
         {
+          "id": "nm0366389",
+          "name": "Kevin Hart"
+        },
+        {
           "id": "nm0425005",
           "name": "Dwayne Johnson"
         },
@@ -4984,17 +5078,13 @@
         {
           "id": "nm5377144",
           "name": "Awkwafina"
-        },
-        {
-          "id": "nm0085312",
-          "name": "Jack Black"
         }
       ],
       "label": "Dec 25, 2026"
     },
     {
       "id": "tt30093348",
-      "title": "Mr. Irrelevant: The John Tuggle Story",
+      "title": "Mr. Irrelevant",
       "image": "https://m.media-amazon.com/images/M/MV5BNjllOWE3OWQtNmVhYS00MzM0LTk2NTEtZjQzNTEzNTc2MTc3XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
       "genres": [
@@ -5008,12 +5098,12 @@
           "name": "Isabel May"
         },
         {
-          "id": "nm4825178",
-          "name": "David Corenswet"
-        },
-        {
           "id": "nm0788335",
           "name": "Michael Shannon"
+        },
+        {
+          "id": "nm4825178",
+          "name": "David Corenswet"
         },
         {
           "id": "nm0472710",
@@ -5226,12 +5316,12 @@
           "name": "Mia Wasikowska"
         },
         {
-          "id": "nm0746896",
-          "name": "Richard Roxburgh"
-        },
-        {
           "id": "nm0934362",
           "name": "Penelope Wilton"
+        },
+        {
+          "id": "nm0746896",
+          "name": "Richard Roxburgh"
         }
       ],
       "label": "Jan 15, 2027"
@@ -5316,12 +5406,12 @@
           "name": "Tracy Ifeachor"
         },
         {
-          "id": "nm3958148",
-          "name": "Edwin Lee Gibson"
+          "id": "nm0281956",
+          "name": "Brendan Fletcher"
         },
         {
-          "id": "nm17091543",
-          "name": "Kingston Goodjohn"
+          "id": "nm3958148",
+          "name": "Edwin Lee Gibson"
         }
       ],
       "label": "Jan 22, 2027"
@@ -5491,12 +5581,12 @@
           "name": "M. Night Shyamalan"
         },
         {
-          "id": "nm0353546",
-          "name": "Julie Hagerty"
-        },
-        {
           "id": "nm3697443",
           "name": "Phoebe Dynevor"
+        },
+        {
+          "id": "nm0353546",
+          "name": "Julie Hagerty"
         }
       ],
       "label": "Feb 05, 2027"
@@ -5704,6 +5794,7 @@
     {
       "id": "tt5500064",
       "title": "The Thomas Crown Affair",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjQ0ZDU2NmEtMTU1ZC00NDQyLTgyNDQtM2RkZTE3NTI4NzIxXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 05 Mar 2027 00:00:00 GMT",
       "genres": [
         "Action",
@@ -5720,12 +5811,12 @@
           "name": "Michael B. Jordan"
         },
         {
-          "id": "nm2201555",
-          "name": "Aubrey Plaza"
-        },
-        {
           "id": "nm5245722",
           "name": "Adria Arjona"
+        },
+        {
+          "id": "nm1561982",
+          "name": "Pilou Asbæk"
         }
       ],
       "label": "Mar 05, 2027"
@@ -5960,12 +6051,12 @@
           "name": "Jay Hernandez"
         },
         {
-          "id": "nm0190441",
-          "name": "Raymond Cruz"
-        },
-        {
           "id": "nm2834669",
           "name": "Monica Raymund"
+        },
+        {
+          "id": "nm0190441",
+          "name": "Raymond Cruz"
         },
         {
           "id": "nm0791898",
