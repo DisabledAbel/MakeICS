@@ -1801,7 +1801,7 @@
         {
           "season": 8,
           "number": 6,
-          "name": "Episode #8.6",
+          "name": "Rebel Without a Pause",
           "airdate": "2026-08-11",
           "summary": "An ICE raid at South Crenshaw leaves Amina, Preach and Khalil forever changed. KJ and his Beverly teammates help their South Crenshaw friends, but face consequences.",
           "url": "https://www.imdb.com/title/tt37156731/?ref_=ttep_ep_6"
@@ -2186,9 +2186,9 @@
         {
           "season": 11,
           "number": 8,
-          "name": "Episode #11.8",
+          "name": "He Came, They Saw, It's Bonkers",
           "airdate": "2026-07-27",
-          "summary": null,
+          "summary": "Capt. Sandy is faced with another difficult night docking when loud party boats return. Nathan and Gael struggle under the weight parenthood. Joe and Cooper are left to handle a massive storm. Kat becomes concerned about her relationship. A crew member makes a big decision.",
           "url": "https://www.imdb.com/title/tt43634711/?ref_=ttep_ep_8"
         },
         {
@@ -4358,7 +4358,7 @@
         {
           "season": 1,
           "number": 8,
-          "name": "Episode #1.8",
+          "name": "Garage Gone Glam",
           "airdate": "2026-07-27",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42423571/?ref_=ttep_ep_8"
@@ -4366,7 +4366,7 @@
         {
           "season": 1,
           "number": 9,
-          "name": "Episode #1.9",
+          "name": "Divided Design",
           "airdate": "2026-08-03",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42423579/?ref_=ttep_ep_9"
@@ -6943,7 +6943,7 @@
           "number": 9,
           "name": "Live Acts Revealed",
           "airdate": "2026-07-28",
-          "summary": null,
+          "summary": "The acts that are moving on to the live shows, along with those that were selected to appear in the brand-new Judges' Callback rounds, are revealed.",
           "url": "https://www.imdb.com/title/tt43697964/?ref_=ttep_ep_9"
         },
         {
@@ -7644,7 +7644,7 @@
           "number": 14,
           "name": "Top Secrets",
           "airdate": "2026-08-18",
-          "summary": null,
+          "summary": "As the team examines their most compelling findings with experts and a U.S. congressman, they make their boldest plans yet to uncover the truth about Skinwalker Ranch.",
           "url": "https://www.imdb.com/title/tt43677942/?ref_=ttep_ep_14"
         },
         {
@@ -9343,7 +9343,7 @@
         {
           "season": 8,
           "number": 28,
-          "name": "Episode #8.28",
+          "name": "Boston Celebration",
           "airdate": "2026-07-15",
           "summary": "Kenny Omega Championship Celebration. Cage & Cope defend the Tag Team Titles against Death Riders. Kyle Fletcher defends the International Championship against Komander. Willow Nightingale, Maya World & Hyan vs Mercedes & Divine Dominion.",
           "url": "https://www.imdb.com/title/tt42257936/?ref_=ttep_ep_28"
@@ -9351,7 +9351,7 @@
         {
           "season": 8,
           "number": 29,
-          "name": "Episode #8.29",
+          "name": "Countdown to AEW Redemption",
           "airdate": "2026-07-22",
           "summary": "AEW World Champion Kenny Omega joins forces with Jon Moxley and Will Ospreay to face the Don Callis Family. Kevin Knight just set the TNT Title defense record, but to keep the belt he'll need to overcome challenger Darby Allin.",
           "url": "https://www.imdb.com/title/tt42257937/?ref_=ttep_ep_29"
@@ -9359,9 +9359,9 @@
         {
           "season": 8,
           "number": 30,
-          "name": "Episode #8.30",
+          "name": "AEW Redemption Fallout",
           "airdate": "2026-07-29",
-          "summary": null,
+          "summary": "The Conglomeration defend the Trios Title against The Demand. Maya World defends the TBS Title against Persephone. Andrade el Idolo defends the National Championship against Jack Perry and Nick Wayne. We'll hear from Kenny Omega.",
           "url": "https://www.imdb.com/title/tt42257939/?ref_=ttep_ep_30"
         },
         {
@@ -10602,6 +10602,30 @@
           "airdate": "2026-07-29",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43684778/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 3,
+          "number": 19,
+          "name": "Reunion Part 1",
+          "airdate": "2026-08-05",
+          "summary": "Tensions run high as the group from \"The Valley\" comes together. Kristen and Nia reflect on their postpartum journeys and marriages now that their daughters are a year old. Brittany comes to term with her dating picker being off. Michelle addresses her love life being in the headlines. Zack calls out Brittany for not having his back. As Lacy joins the reunion stage, things quickly take a turn with Michelle.",
+          "url": "https://www.imdb.com/title/tt43723156/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 3,
+          "number": 20,
+          "name": "Reunion Part 2",
+          "airdate": "2026-08-12",
+          "summary": "The reunion continues as Kristen and Luke give an update on their relationship and marriage plans. Lacy and Michelle continue to disagree. Despite their ongoing beef, Janet and Danny share a heartfelt moment as they touch on their experiences with backlash on social media.",
+          "url": "https://www.imdb.com/title/tt43723157/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 3,
+          "number": 21,
+          "name": "Reunion Part 3",
+          "airdate": "2026-08-19",
+          "summary": "The reunion concludes as Lala stands firm and challenges the Bookos about Danny's behavior. Kristen breaks down in tears over her previous comments. Janet opens up about her past trauma and how it affects the way she walks through life. Jasmine's new wife Melissa joins as the group celebrates their recent wedding. Benji pops in for the toast.",
+          "url": "https://www.imdb.com/title/tt43723158/?ref_=ttep_ep_21"
         },
         {
           "season": 2,
@@ -13005,6 +13029,30 @@
       "imdbId": "tt0423652",
       "title": "The First 48",
       "episodes": [
+        {
+          "season": 30,
+          "number": 1,
+          "name": "Wrong End of the Gun",
+          "airdate": "2026-07-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43709944/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 30,
+          "number": 2,
+          "name": "Shared Blood",
+          "airdate": "2026-07-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43709945/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 30,
+          "number": 3,
+          "name": "Rumors Kill",
+          "airdate": "2026-07-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43709947/?ref_=ttep_ep_3"
+        },
         {
           "season": 29,
           "number": 1,
@@ -15471,9 +15519,9 @@
         {
           "season": 5,
           "number": 8,
-          "name": "Episode #5.8",
+          "name": "Unconditional Love",
           "airdate": "2026-08-07",
-          "summary": null,
+          "summary": "Everything has led up to this.",
           "url": "https://www.imdb.com/title/tt40447294/?ref_=ttep_ep_8"
         },
         {
@@ -22114,17 +22162,17 @@
         {
           "season": 12,
           "number": 14,
-          "name": "Episode #12.14",
+          "name": "On Borrowed Time",
           "airdate": "2026-08-09",
-          "summary": null,
+          "summary": "Catie brings up a sensitive topic with Josh. Paula's family arrive from Brazil. Ashia gets stuck in an intervention. Edward and Marissa's date night goes awry. Debby delivers some big news to her friends.",
           "url": "https://www.imdb.com/title/tt43632743/?ref_=ttep_ep_14"
         },
         {
           "season": 12,
           "number": 15,
-          "name": "Episode #12.15",
+          "name": "It's Better to Bend Than Break",
           "airdate": "2026-08-16",
-          "summary": null,
+          "summary": "Paula gets a surprise visitor. Catie stresses over wedding prep. Mallorie offers a compromise to Rasit. Shea's daughters worry about their inheritance. Marissa and Edward's date goes from bad to worse. Debby fears her son won't be at her wedding.",
           "url": "https://www.imdb.com/title/tt43682003/?ref_=ttep_ep_15"
         },
         {
@@ -25659,7 +25707,7 @@
         {
           "season": 1,
           "number": 2,
-          "name": "Episode #1.2",
+          "name": "Brick by Brick",
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt38599072/?ref_=ttep_ep_2"
@@ -26239,6 +26287,11 @@
           "url": "https://www.imdb.com/title/tt37019878/?ref_=ttep_ep_4"
         }
       ]
+    },
+    "tt14383614": {
+      "imdbId": "tt14383614",
+      "title": "MS NOW Reports",
+      "episodes": []
     }
   }
 }
