@@ -789,12 +789,12 @@
           "name": "Olivia Wilde"
         },
         {
-          "id": "nm11866274",
-          "name": "Cooper Hoffman"
+          "id": "nm2864252",
+          "name": "Mason Gooding"
         },
         {
-          "id": "nm0424216",
-          "name": "Johnny Knoxville"
+          "id": "nm11866274",
+          "name": "Cooper Hoffman"
         },
         {
           "id": "nm4377526",
@@ -1220,12 +1220,12 @@
           "name": "Ewan McGregor"
         },
         {
-          "id": "nm0126260",
-          "name": "P.J. Byrne"
-        },
-        {
           "id": "nm5204873",
           "name": "Maisy Stella"
+        },
+        {
+          "id": "nm8087548",
+          "name": "Christian Convery"
         }
       ],
       "label": "Aug 14, 2026"
@@ -1735,6 +1735,7 @@
       "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
       "genres": [
         "Biography",
+        "Comedy",
         "Drama"
       ],
       "people": [
@@ -2206,7 +2207,7 @@
     {
       "id": "tt31192372",
       "title": "Fall 2: Deadpoint",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTY4MDQzYWItNjNjYy00ZTBjLWJiYzItMjliZGFlNzcyMzA1XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTI4MjNjNDgtOWY2ZC00YTdjLThhMGItZjZiYjRhNmVhY2JhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 02 Sep 2026 00:00:00 GMT",
       "genres": [
         "Adventure",
@@ -2415,7 +2416,7 @@
     {
       "id": "tt27369017",
       "title": "Hope",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzQwNzI5OTUtZjEzOS00ODI0LTk1MTEtNTNjNTdmYjFmNGQwXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 09 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -2872,12 +2873,12 @@
           "name": "Son Sukku"
         },
         {
-          "id": "nm10851449",
-          "name": "Joohong Jung"
+          "id": "nm1082715",
+          "name": "Won Mi-kyung"
         },
         {
-          "id": "nm15842016",
-          "name": "Ferin Bergen"
+          "id": "nm1255246",
+          "name": "Kim Eung-soo"
         }
       ],
       "label": "Sep 22, 2026"
@@ -3059,7 +3060,7 @@
     {
       "id": "tt39149197",
       "title": "Ha-Chan, Shake Your Booty!",
-      "image": "https://m.media-amazon.com/images/M/MV5BOGU3ZGViYTgtYjExMC00NzI0LWE5ODMtZTdkN2I4NmE3NDUzXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM2YTUzNzgtNWQ0MC00Y2EyLWFjZWEtNTkyNTdkNDlkNzdiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -3415,12 +3416,12 @@
       ],
       "people": [
         {
-          "id": "nm0002064",
-          "name": "Giancarlo Esposito"
-        },
-        {
           "id": "nm0991810",
           "name": "Mahershala Ali"
+        },
+        {
+          "id": "nm0002064",
+          "name": "Giancarlo Esposito"
         },
         {
           "id": "nm7436993",
@@ -3946,7 +3947,7 @@
     {
       "id": "tt29611136",
       "title": "Wicker",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTk2MzQ3MGYtMTU1Zi00OGE3LWFmZmUtZmM1MmY3NmRhOTRjXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTM2MmRkNGEtMjY4Mi00MjFjLWIyZWYtZWVlYWNhYmQ2ZTA1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -3963,12 +3964,12 @@
           "name": "Olivia Colman"
         },
         {
-          "id": "nm4456120",
-          "name": "Elizabeth Debicki"
-        },
-        {
           "id": "nm0227759",
           "name": "Peter Dinklage"
+        },
+        {
+          "id": "nm4456120",
+          "name": "Elizabeth Debicki"
         }
       ],
       "label": "Oct 30, 2026"
@@ -4408,7 +4409,7 @@
     },
     {
       "id": "tt38773219",
-      "title": "Ebenezer: A Christmas Carol",
+      "title": "Ebenezer",
       "image": "https://m.media-amazon.com/images/M/MV5BY2Y0NWM2N2EtMjdkMS00NTc0LTg4NDctZmUyYTA4YWZlY2EwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
       "genres": [
@@ -5027,7 +5028,7 @@
     {
       "id": "tt35514120",
       "title": "Werwulf",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTA5YjA5NTAtMjJlOS00ZTVkLWE0MDgtNDY0ZjVhOTE5NTg3XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDVhOGE4MzItMmEyYi00ZWNiLTk0YTUtODM1YWIwNmVmMWIyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
       "genres": [
         "Horror"
