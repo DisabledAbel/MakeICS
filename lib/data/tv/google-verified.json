@@ -29,16 +29,6 @@
     "name": "Episode 108",
     "verifiedAt": "2026-07-18T14:22:01.289Z"
   },
-  "Project Runway-22-5": {
-    "airdate": "2026-07-30",
-    "name": "Viva la Fashion",
-    "verifiedAt": "2026-07-18T14:22:22.481Z"
-  },
-  "Ancient Aliens-22-15": {
-    "airdate": "2026-07-30",
-    "name": "Alien Investigators",
-    "verifiedAt": "2026-07-18T14:22:25.754Z"
-  },
   "My Lottery Dream Home-19-13": {
     "airdate": "2026-08-03",
     "name": "Episode 13",
@@ -56,7 +46,7 @@
   },
   "All American-8-6": {
     "airdate": "2026-08-10",
-    "name": "Episode #8.6",
+    "name": "Rebel Without a Pause",
     "verifiedAt": "2026-07-22T15:04:54.558Z"
   },
   "All American-8-7": {
@@ -83,11 +73,6 @@
     "airdate": "2026-08-18",
     "name": "Episode #21.9",
     "verifiedAt": "2026-07-22T15:05:28.586Z"
-  },
-  "Big Brother-28-10": {
-    "airdate": "2026-07-30",
-    "name": "Episode #28.10",
-    "verifiedAt": "2026-07-22T15:05:46.759Z"
   },
   "Big Brother-28-11": {
     "airdate": "2026-08-02",
@@ -125,14 +110,9 @@
     "verifiedAt": "2026-07-22T15:06:04.900Z"
   },
   "Tyler Perry's The Oval-7-13": {
-    "airdate": "2026-08-12",
+    "airdate": "2026-08-05",
     "name": "The Hit List",
     "verifiedAt": "2026-07-22T15:06:28.803Z"
-  },
-  "Celebrity Family Feud-12-4": {
-    "airdate": "2026-07-30",
-    "name": "Diplo vs Laverne Cox and General Hospital vs The Young and the Restless",
-    "verifiedAt": "2026-07-22T15:06:38.259Z"
   },
   "Celebrity Family Feud-12-5": {
     "airdate": "2026-08-06",
@@ -143,11 +123,6 @@
     "airdate": "2026-08-06",
     "name": "Lean, Mean, Time Machine",
     "verifiedAt": "2026-07-22T15:06:47.085Z"
-  },
-  "Impractical Jokers-13-3": {
-    "airdate": "2026-07-30",
-    "name": "Celebrity Crushed",
-    "verifiedAt": "2026-07-22T15:06:49.878Z"
   },
   "The Patrick Star Show-5-5": {
     "airdate": "2026-07-31",
@@ -234,11 +209,6 @@
     "name": "Signed, Sealed, Smashed",
     "verifiedAt": "2026-07-22T15:07:48.111Z"
   },
-  "AEW: Collision-4-34": {
-    "airdate": "2026-07-30",
-    "name": "Episode #4.34",
-    "verifiedAt": "2026-07-22T15:08:00.970Z"
-  },
   "AEW: Collision-4-35": {
     "airdate": "2026-08-08",
     "name": "Episode #4.35",
@@ -260,12 +230,12 @@
     "verifiedAt": "2026-07-22T15:07:35.048Z"
   },
   "Tyler Perry's The Oval-7-14": {
-    "airdate": "2026-08-19",
+    "airdate": "2026-08-05",
     "name": "To Walk and Chew Gum",
     "verifiedAt": "2026-07-25T14:39:01.701Z"
   },
   "Tyler Perry's The Oval-7-16": {
-    "airdate": "2026-09-02",
+    "airdate": "2026-08-19",
     "name": "Earth Shattering",
     "verifiedAt": "2026-07-25T14:39:04.281Z"
   },
@@ -285,32 +255,32 @@
     "verifiedAt": "2026-07-29T15:10:02.300Z"
   },
   "Tyler Perry's The Oval-7-15": {
-    "airdate": "2026-08-26",
+    "airdate": "2026-08-12",
     "name": "The Black Mamba",
     "verifiedAt": "2026-07-29T15:10:10.000Z"
   },
   "Tyler Perry's The Oval-7-17": {
-    "airdate": "2026-09-09",
+    "airdate": "2026-08-26",
     "name": "Chicken and Rice",
     "verifiedAt": "2026-07-29T15:10:15.005Z"
   },
   "Tyler Perry's The Oval-7-18": {
-    "airdate": "2026-09-16",
+    "airdate": "2026-09-02",
     "name": "Riding the Troubled Waters",
     "verifiedAt": "2026-07-29T15:10:17.630Z"
   },
   "Tyler Perry's The Oval-7-19": {
-    "airdate": "2026-09-23",
+    "airdate": "2026-09-09",
     "name": "In a Heartbeat",
     "verifiedAt": "2026-07-29T15:10:20.014Z"
   },
   "Tyler Perry's The Oval-7-20": {
-    "airdate": "2026-09-23",
+    "airdate": "2026-09-16",
     "name": "Twenty-Four Hours",
     "verifiedAt": "2026-07-29T15:10:22.560Z"
   },
   "Tyler Perry's The Oval-7-21": {
-    "airdate": "2026-09-30",
+    "airdate": "2026-09-23",
     "name": "Agent Stan Bennett",
     "verifiedAt": "2026-07-29T15:10:25.169Z"
   },
@@ -353,5 +323,15 @@
     "airdate": "2026-08-19",
     "name": "Episode #3.4",
     "verifiedAt": "2026-07-30T15:14:39.516Z"
+  },
+  "Celebrity Family Feud-12-7": {
+    "airdate": "2026-08-20",
+    "name": "Normani vs Michelle Buteau and Andy Richter vs Jason Ritter",
+    "verifiedAt": "2026-07-31T15:22:10.194Z"
+  },
+  "Snapped-36-16": {
+    "airdate": "2026-08-09",
+    "name": "Nicole Nachtman",
+    "verifiedAt": "2026-07-31T15:23:30.047Z"
   }
 }
