@@ -8779,6 +8779,22 @@
           "url": "https://www.imdb.com/title/tt43717826/?ref_=ttep_ep_13"
         },
         {
+          "season": 3,
+          "number": 14,
+          "name": "When the Going Gets Tough: Darren Criss & Jimmy Fallon",
+          "airdate": "2026-08-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43727012/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 3,
+          "number": 15,
+          "name": "Bodaciously Fresh: Darren Criss & Jimmy Fallon",
+          "airdate": "2026-08-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43727015/?ref_=ttep_ep_15"
+        },
+        {
           "season": 2,
           "number": 1,
           "name": "Joe Manganiello & Jimmy Fallon",
@@ -9860,7 +9876,7 @@
           "number": 11,
           "name": "Episode #28.11",
           "airdate": "2026-07-29",
-          "summary": null,
+          "summary": "Will Kamu's plan come to fruition? It all comes down to a pickle of a Veto Competition - and tea will be spilled.",
           "url": "https://www.imdb.com/title/tt43630965/?ref_=ttep_ep_11"
         },
         {
@@ -10314,7 +10330,7 @@
           "number": 10,
           "name": "Wheel of Fusion",
           "airdate": "2026-07-22",
-          "summary": "Tonight, the Top 14 home cooks face the Wheel of Fusion challenge. After spinning the wheel, each contestant is assigned a global cuisine that they must blend with the flavors and traditions of their own heritage. Pushed to showcase creativity and adaptability, the cooks must work with unfamiliar ingredients and techniques to create a successful fusion dish. As the judges sample their way around the world, only one team will come out on top and earn an immunity pin.",
+          "summary": "The Top 14 home cooks spin the Wheel of Fusion, blending an assigned global cuisine with their own heritage. They must use unfamiliar ingredients to create fusion dishes. Judges taste all entries, and one team wins immunity.",
           "url": "https://www.imdb.com/title/tt43655308/?ref_=ttep_ep_10"
         },
         {
@@ -10322,7 +10338,7 @@
           "number": 11,
           "name": "Royal Wedding",
           "airdate": "2026-07-29",
-          "summary": "The Top 12 home cooks head to a grand castle to cater the MasterChef Royal Wedding of Season 15 winners Jesse and Jessica. With 50 guests deciding their fate, the teams must deliver a feast worthy of the crown. In the end, not every fairy tale gets a happy ending as one team finds themselves at risk of elimination.",
+          "summary": "The top 12 home cooks travel to a castle to cater the MasterChef Royal Wedding for Season 15 winners Jesse and Jessica. With 50 guests judging, teams must create a royal feast. One team faces elimination.",
           "url": "https://www.imdb.com/title/tt43687208/?ref_=ttep_ep_11"
         },
         {
@@ -10598,9 +10614,9 @@
         {
           "season": 3,
           "number": 18,
-          "name": "Episode #3.18",
+          "name": "The Valley of the Damned",
           "airdate": "2026-07-29",
-          "summary": null,
+          "summary": "In the season finale, Kristen and Luke attempt to recover from the fallout of therapy. Lala and Nia look for a path forward. Janet confronts Zack for what he's saying behind her back. Brittany's friendships are tested at her Halloween party when she accuses Kristen and Nia of lying.",
           "url": "https://www.imdb.com/title/tt43684778/?ref_=ttep_ep_18"
         },
         {
@@ -10836,17 +10852,17 @@
         {
           "season": 1,
           "number": 8,
-          "name": "Episode #1.8",
+          "name": "Keep Calm and Girdle On",
           "airdate": "2026-07-29",
-          "summary": null,
+          "summary": "Summer has macromastia, a condition that causes her breasts to keep growing. With constant pain in her back and neck from breasts that are now a third of her overall body weight, Summer travels from Scotland to Los Angeles looking for answers.",
           "url": "https://www.imdb.com/title/tt43455152/?ref_=ttep_ep_8"
         },
         {
           "season": 1,
           "number": 9,
-          "name": "Episode #1.9",
+          "name": "On My Side",
           "airdate": "2026-08-05",
-          "summary": null,
+          "summary": "Ecuadorian conjoined twins Jose Luis and Jose Armando leave their home and family to get advanced medical care for a chance at independence. Teenaged Thai conjoined twins Pin and Panmust navigate their ongoing differences as they prepare for adulthood.",
           "url": "https://www.imdb.com/title/tt43455153/?ref_=ttep_ep_9"
         },
         {
@@ -11368,9 +11384,9 @@
         {
           "season": 2,
           "number": 6,
-          "name": "Episode #2.6",
+          "name": "Left on Read",
           "airdate": "2026-07-29",
-          "summary": null,
+          "summary": "Emira is forced to deal with the fallout from Georgia's claims on Halloween. The group is dealing with many firsts: Gia moves out on her own, Ariana meets Liam's parents and Brooks finally engages in an awkward fight with Shai over appearing in his photo shoot.",
           "url": "https://www.imdb.com/title/tt43603901/?ref_=ttep_ep_6"
         },
         {
@@ -13749,7 +13765,7 @@
           "number": 4,
           "name": "Valet Villain",
           "airdate": "2026-08-13",
-          "summary": null,
+          "summary": "The guys win the world's worst dad awards by surprising their kid with a trip before cruelly taking it away, then get caught taking crazy notes in a focus group. The loser takes the wheel in a punishment that leaves no happy customers.",
           "url": "https://www.imdb.com/title/tt43708609/?ref_=ttep_ep_4"
         },
         {
@@ -13757,7 +13773,7 @@
           "number": 5,
           "name": "Last Action Zero",
           "airdate": "2026-08-20",
-          "summary": null,
+          "summary": "The guys put in shifts getting trained to work at Playa Bowls, then hand out bizarre business cards to people they think could use their services. But one Joker can't complete the task and goes on the defense for his wacky punishment.",
           "url": "https://www.imdb.com/title/tt43714639/?ref_=ttep_ep_5"
         },
         {
@@ -15821,8 +15837,16 @@
           "number": 10,
           "name": "He's in the Water!",
           "airdate": "2026-07-17",
-          "summary": null,
+          "summary": "When Wizard deckhand Lynn Guitars falls overboard in 25 foot seas Keith and Monte scramble to rescue him before hypothermia sets in. On the Northwestern, Sig let's Sophia prove herself at the Russian line. A greenhorn joins the crew of the Aleutian Lady.",
           "url": "https://www.imdb.com/title/tt43689478/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 22,
+          "number": 11,
+          "name": "O Captain, My Captain",
+          "airdate": "2026-07-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43711498/?ref_=ttep_ep_11"
         },
         {
           "season": 21,
@@ -19230,6 +19254,254 @@
           "airdate": "2025-03-15",
           "summary": "The team finds a \"granny home\". But another individual claims to be the rightful buyer. Then a zombie becomes available that has the makings of a sweet party pad. But the flip hits a snag when a torn down wall proves to be structural.",
           "url": "https://www.imdb.com/title/tt36600310/?ref_=ttep_ep_99"
+        },
+        {
+          "season": 6,
+          "number": 1,
+          "name": "Dallas: Arcadia",
+          "airdate": "2023-10-28",
+          "summary": "Derek and Chauncey take on a zombie house that was abandoned by previous flippers. Left with holes in the roof, termite damage and a dilapidated porch this nightmare house pushes their skills, and budget, to the limit.",
+          "url": "https://www.imdb.com/title/tt36509173/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 6,
+          "number": 2,
+          "name": "Dallas: Lake Cliff",
+          "airdate": "2023-11-04",
+          "summary": "Derek sees big profit potential when he buys a crumbling old house in a nice neighborhood. Chauncey is skeptical of the half-finished work and the small square footage. With possible high reno costs, hardwood hardships, and missing air conditioning, was this all a big mistake to take on this zombie?",
+          "url": "https://www.imdb.com/title/tt36509183/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 6,
+          "number": 3,
+          "name": "Dallas: Stillwater",
+          "airdate": "2023-11-11",
+          "summary": "Derek takes Chauncey to see a house in the super desirable North Dallas neighborhood. Even though this smaller home has foundation issues, Derek feels it's too much of a deal to pass on. But when Chauncey gets her heart set on panoramic doors, will the extra cost tip the scale on an already tight renovation budget?",
+          "url": "https://www.imdb.com/title/tt36509188/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 6,
+          "number": 4,
+          "name": "Orlando: Harding",
+          "airdate": "2023-11-18",
+          "summary": "Duke stumbles upon a potential diamond in the rough estate sale that piques the interest of Keith and Alynne. The team ventures out to discover the zombie house that sits on an overgrown jungle of a yard, where a detached unit in the back is hidden among the weeds. Despite its rough appearance, they soon see the potential for a lucrative flip. But as they begin tearing the walls apart, they quickly realize their initial excitement was misplaced. As the flip spirals out of control, Keith and Alynne face mounting financial pressures and a timeline that is way over budget.",
+          "url": "https://www.imdb.com/title/tt36509195/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 6,
+          "number": 5,
+          "name": "Tampa: Wall Street",
+          "airdate": "2023-12-02",
+          "summary": "An overextended Dolmar and his team take on a botched flip in South Tampa. But when delays plague the timeline, he recruits his wife Keisha to help manage the project and sees dollar signs as local house prices soar. But when the team is faced with bathroom nightmares, termite terrors, and permit issues, will they build back better or will they crumble?",
+          "url": "https://www.imdb.com/title/tt28520112/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 6,
+          "number": 6,
+          "name": "Tampa: Water Oak",
+          "airdate": "2023-12-09",
+          "summary": "Dolmar's got a steal of a deal in Port Richey. But after they pull up to this 90s Era Time capsule, they discover that vandals, roaches, and water damage have had their way with the interior. Dolmar decides to recruit his wife Keisha to help out with this Zombie. But will she be enough to help him turn this Port Richey Pad into a Palace?",
+          "url": "https://www.imdb.com/title/tt36509203/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 6,
+          "number": 7,
+          "name": "Dallas: Glenhill",
+          "airdate": "2023-12-16",
+          "summary": "In an ideal Dallas neighborhood, a ramshackle bungalow with some vandalism and a faulty foundation falls in Derek and Chauncey's laps. A friend of theirs needs help with a flip and only has two weeks to complete this job. If they can't get this done quickly they may lose 40k and a friendship.",
+          "url": "https://www.imdb.com/title/tt36509208/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 6,
+          "number": 8,
+          "name": "Tampa: Pinehurst",
+          "airdate": "2023-12-23",
+          "summary": "Dolmar buys a zombie sight unseen, shocking his business partner Sam, especially having known there may be a sinkhole under the property, threatening the profitability of this flip. With this sinkhole and other stresses getting Dolmar worried, he brings his wife Keisha aboard to act as the renovation's project manager, hoping she'll be able to keep this renovation moving forward, on time and on budget.",
+          "url": "https://www.imdb.com/title/tt36509215/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 6,
+          "number": 9,
+          "name": "Tampa: Waikiki",
+          "airdate": "2023-12-30",
+          "summary": "Dolmar receives a tip on a hot home in the desirable Palm River neighborhood, so he and Amanda head over to scope it out. Even though the home has several suspect additions and termite damage, Dolmar feels the deal is too good to pass on. But, while converting a back office room into a new bedroom, Dolmar and his team run into a series of electrical and bad DIY jobs that could put the team's chance for any profit into jeopardy.",
+          "url": "https://www.imdb.com/title/tt36509229/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 6,
+          "number": 10,
+          "name": "Dallas: Carriage",
+          "airdate": "2024-02-24",
+          "summary": "Looks can be deceiving. This Derek special is set in a posh neighborhood on a tree-lined street and from the outside it doesn't look like your typical Zombie. But once Derek and Chauncey step inside, this 2,800-square-foot ranch home quickly becomes a house of hidden horrors. Will the foundation, leaky pipes, and backyard pool torpedo their budget and sink their profits?",
+          "url": "https://www.imdb.com/title/tt36509239/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 6,
+          "number": 11,
+          "name": "Tampa: Brookway",
+          "airdate": "2024-03-02",
+          "summary": "A zombie in an upscale neighborhood appears welcoming from the outside, but years of water damage, black growth, and a battered roof, will really put Dolmar, Keisha and Amanda to the test. Will this be their most challenging flip?",
+          "url": "https://www.imdb.com/title/tt36509248/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 6,
+          "number": 12,
+          "name": "Tampa: North 17th",
+          "airdate": "2024-03-09",
+          "summary": "Keisha is apprehensive about the team's next zombie since it isn't in the best of neighborhoods--which may hurt the potential resale. Add to that a bad foundation and the discovery of live termites, and this potential flip seems more like a potential flop.",
+          "url": "https://www.imdb.com/title/tt36509250/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 6,
+          "number": 13,
+          "name": "Tampa: Clearbrook",
+          "airdate": "2024-03-23",
+          "summary": "Dolmar thinks he hit a home run purchasing a zombie in a desirable community outside Tampa. But as the team starts to renovate, it's quickly discovered that this house is going to need a ton of work. Like a new roof, new windows, new flooring, new fencing, and an industrial clean out of the in-ground pool.",
+          "url": "https://www.imdb.com/title/tt36509271/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 6,
+          "number": 14,
+          "name": "Tampa: 58th Avenue",
+          "airdate": "2024-03-30",
+          "summary": "The zombie team has their work cut out for them when they discover a 3bed/2bath might be missing a bedroom. Termites, collapsing ceilings and some surprises might just be a budget-buster.",
+          "url": "https://www.imdb.com/title/tt36509283/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 6,
+          "number": 15,
+          "name": "Dallas: Whittenburg",
+          "airdate": "2024-04-06",
+          "summary": "Chauncey and Derek team up with Project Manager, Albert on a Zombie in the desirable North Dallas neighborhood. But with giant holes in the floor, roaches, and all sorts of unspeakable muck, the budget and timeline quickly balloon. Will the team be able to get this house done on time to stay on their budget? Or will they get stuck holding onto a shell of a cockroach infested zombie?",
+          "url": "https://www.imdb.com/title/tt36509429/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 6,
+          "number": 16,
+          "name": "Tampa: Peppertree",
+          "airdate": "2024-04-20",
+          "summary": "When Dolmar and the team get a deal on a 4 bedroom two bath from one of Dolmar's lender contacts in the suburb of Port Richey, it seems too good to be true. And when the market shifts, it is causing Dolmar and his team to have to make a hard decision.",
+          "url": "https://www.imdb.com/title/tt36509476/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 6,
+          "number": 17,
+          "name": "Tampa: Takomah",
+          "airdate": "2024-04-27",
+          "summary": "An exciting former rental property dream house turns into a nightmare when everything that can go wrong, does. From rotted roof trusses, damaged water heaters and countertops, and an exploding budget, the team will really have to think out of the box to solve this property puzzle.",
+          "url": "https://www.imdb.com/title/tt36509493/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 6,
+          "number": 18,
+          "name": "Tampa: River Grove",
+          "airdate": "2024-07-20",
+          "summary": "Dolmar found a steal of a deal with a house that backs onto the Hillsboro River and has a ton of potential. But the team quickly realizes that this mid-century home hasn't been updated since the Cold War. With termite damage and a potential mold issue, the Zombie team has to scramble to keep this riverfront property from sinking their bottom line.",
+          "url": "https://www.imdb.com/title/tt36509501/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 6,
+          "number": 19,
+          "name": "Tampa: Linden",
+          "airdate": "2024-07-27",
+          "summary": "When Dolmar and the crew decide to take on this next zombie, little did they realize the challenges they would meet: foundation concerns, delivery delays, flooding and even an injury to a teammate all jeopardize the potential of flipping this house in the allotted 45 days.",
+          "url": "https://www.imdb.com/title/tt36509508/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 6,
+          "number": 20,
+          "name": "Tampa: Wesson Circle",
+          "airdate": "2024-08-03",
+          "summary": "Dolmar and his team are flipping their first townhouse in the Greater Carrollwood suburb of Tampa. With challenges such as cracked walls, sinking floors, and outdated features, they face an uphill battle to transform the property. Will they flip this townhome on budget? Or will their bottom line sink with the foundation?",
+          "url": "https://www.imdb.com/title/tt36509517/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 6,
+          "number": 21,
+          "name": "Tampa: Roxboro",
+          "airdate": "2024-08-10",
+          "summary": "Dolmar and his team stumble upon a potentially great investment opportunity in Hudson, Florida. It seems like a great deal until they see the fire damaged garage. With terrible smells and melted garage doors, the Zombie team wonders if this investment will go up in smoke.",
+          "url": "https://www.imdb.com/title/tt36509524/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 6,
+          "number": 22,
+          "name": "Tampa: SW 66th Place",
+          "airdate": "2024-08-17",
+          "summary": "Dolmar's frequent collaborator Anthony was able to buy a house at land value in Bushnell Florida. Dolmar jumps at the opportunity, but when the team checks the Zombie out, it's a shell of a house. The roof is rotted, the walls are gone. It's all block walls, 2x4 studs, and rusted pipes. Is the team biting off more than they can chew in this dilapidated shoebox?",
+          "url": "https://www.imdb.com/title/tt36509526/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 6,
+          "number": 23,
+          "name": "Zombie House Flipping Back to the Flip: Big Money Flips",
+          "airdate": "2024-03-16",
+          "summary": "Will the Team lose their profits and their minds when the homeowner (and Duke's friend) meddles in all of their decisions? And then, can the Team keep a hi-tech buyer happy long enough to make a huge profit?",
+          "url": "https://www.imdb.com/title/tt35885260/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 6,
+          "number": 24,
+          "name": "Zombie House Flipping Back to the Flip: Ancient Revivals",
+          "airdate": "2024-04-13",
+          "summary": "Will adhering to the historic district's strict ordinances force this flip over budget because of the high cost of the historical materials? And then, can a property with 100 years of problems be fixed on time and budget?",
+          "url": "https://www.imdb.com/title/tt35885277/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 6,
+          "number": 25,
+          "name": "Zombie House Flipping Back to the Flip: Biohazard Rehabs",
+          "airdate": "2024-10-05",
+          "summary": "The first zombie is so bad the only salvageable parts are the exterior walls and roof, which means a huge budget that keeps going up. Then a house so disgusting the team returns with hazmat suits. Can they rehabilitate the uncleanable?",
+          "url": "https://www.imdb.com/title/tt35885289/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 6,
+          "number": 26,
+          "name": "Zombie House Flipping Back to the Flip: Risky Ren-Oh!",
+          "airdate": "2024-10-12",
+          "summary": "Duke finds a home that was botched and abandoned mid-flip. He runs the project, but at what cost? Then, a home with a prime spot and a horrible layout. Ashlee's big designs threaten to blow the budget wide open.",
+          "url": "https://www.imdb.com/title/tt35885302/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 6,
+          "number": 27,
+          "name": "Zombie House Flipping Back to the Flip: Commission Impossible",
+          "airdate": "2024-10-19",
+          "summary": "The Orlando team tackles two of the toughest flips they have ever encountered, contending with time, weather, and even monsters.",
+          "url": "https://www.imdb.com/title/tt35885311/?ref_=ttep_ep_27"
+        },
+        {
+          "season": 6,
+          "number": 28,
+          "name": "Zombie House Flipping Back to the Flip: Haunted Havens",
+          "airdate": "2024-10-26",
+          "summary": "The Team tackles two haunted flips that are sure to make the crew abandon ship due to the creepy occurrences they run into. Will this cause the team to finally put a halt to flipping their Zombies now that they have to deal with Ghosts?",
+          "url": "https://www.imdb.com/title/tt35885363/?ref_=ttep_ep_28"
+        },
+        {
+          "season": 6,
+          "number": 29,
+          "name": "Zombie House Flipping Back to the Flip: Un-Real Estate",
+          "airdate": "2024-11-02",
+          "summary": "The Team explores what looks like a castle, but building codes and permitting woes could derail everything. Then, the team finds something buried in a yard, will it bring treasure or trouble?",
+          "url": "https://www.imdb.com/title/tt35885445/?ref_=ttep_ep_29"
+        },
+        {
+          "season": 6,
+          "number": 30,
+          "name": "Zombie House Flipping Back to the Flip: Massive Makeovers",
+          "airdate": "2025-01-04",
+          "summary": "The Zombie team has two colossal projects, with issues so severe they threaten to tear the team and their profits apart. Will the stream of problems lead to disaster, or will they defy the odds, unveiling makeovers of massive proportions?",
+          "url": "https://www.imdb.com/title/tt35885456/?ref_=ttep_ep_30"
+        },
+        {
+          "season": 6,
+          "number": 31,
+          "name": "Zombie House Flipping Back to the Flip: Ashlee Takes the Lead",
+          "airdate": "2025-01-11",
+          "summary": "Ashlee is in charge, putting aside her Realtor role and stepping into one of lead designer and builder on these Zombies. Will all her grand ideas and improvements bring a pretty profit, or break the bank?",
+          "url": "https://www.imdb.com/title/tt35885470/?ref_=ttep_ep_31"
         }
       ]
     },
@@ -24128,14 +24400,14 @@
           "number": 8,
           "name": "Ben Sasse Is Going Home",
           "airdate": "2026-07-26",
-          "summary": null,
+          "summary": "CNN's Jake Tapper speaks with former Nebraska Senator Ben Sasse, who is living with a terminal cancer diagnosis at the age of 54. Their decade-long history informs a deeply personal conversation on life, faith, and love in the face of mortality.",
           "url": "https://www.imdb.com/title/tt41453971/?ref_=ttep_ep_8"
         },
         {
           "season": 4,
           "number": 9,
-          "name": "Episode #4.9",
-          "airdate": null,
+          "name": "The Left Insurgency",
+          "airdate": "2026-08-02",
           "summary": null,
           "url": "https://www.imdb.com/title/tt41453973/?ref_=ttep_ep_9"
         },
@@ -24443,7 +24715,7 @@
           "season": 3,
           "number": 2,
           "name": "It Won't Hurt Too Much",
-          "airdate": "2026-08-06",
+          "airdate": "2026-08-05",
           "summary": "Strickland leads a search party while Garnet encounters a new enemy. A power struggle breaks out on Ark 1.",
           "url": "https://www.imdb.com/title/tt37519712/?ref_=ttep_ep_2"
         },
@@ -25701,62 +25973,54 @@
           "number": 1,
           "name": "The Only Round That Matters Is the Next One",
           "airdate": "2026-07-31",
-          "summary": null,
+          "summary": "After eight years in a Nevada prison, former heavyweight boxing champion Duke Kilroy returns to London, intent on avenging his brother's death.",
           "url": "https://www.imdb.com/title/tt37277082/?ref_=ttep_ep_1"
         },
         {
           "season": 1,
           "number": 2,
           "name": "Brick by Brick",
-          "airdate": null,
-          "summary": null,
+          "airdate": "2026-08-07",
+          "summary": "Duke must improvise to keep his mission on track, but he finds that success comes at a cost.",
           "url": "https://www.imdb.com/title/tt38599072/?ref_=ttep_ep_2"
         },
         {
           "season": 1,
           "number": 3,
-          "name": "Episode #1.3",
-          "airdate": null,
+          "name": "No Innocents",
+          "airdate": "2026-08-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38599073/?ref_=ttep_ep_3"
         },
         {
           "season": 1,
           "number": 4,
-          "name": "Episode #1.4",
-          "airdate": null,
+          "name": "Protect Yourself at All Times",
+          "airdate": "2026-08-21",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38599075/?ref_=ttep_ep_4"
         },
         {
           "season": 1,
           "number": 5,
-          "name": "Episode #1.5",
-          "airdate": null,
+          "name": "I Want This",
+          "airdate": "2026-08-28",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38599078/?ref_=ttep_ep_5"
         },
         {
           "season": 1,
-          "number": 6,
-          "name": "Episode #1.6",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt38599079/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 1,
-          "number": 7,
-          "name": "Episode #1.7",
-          "airdate": null,
+          "number": 11,
+          "name": "Without Me, There Is No You",
+          "airdate": "2026-09-11",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38599081/?ref_=ttep_ep_7"
         },
         {
           "season": 1,
-          "number": 8,
-          "name": "Episode #1.8",
-          "airdate": null,
+          "number": 25,
+          "name": "You Won't See Me Coming",
+          "airdate": "2026-09-25",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38599083/?ref_=ttep_ep_8"
         }
@@ -26291,6 +26555,26 @@
     "tt14383614": {
       "imdbId": "tt14383614",
       "title": "MS NOW Reports",
+      "episodes": []
+    },
+    "tt0307800": {
+      "imdbId": "tt0307800",
+      "title": "Pardon the Interruption",
+      "episodes": []
+    },
+    "tt0409637": {
+      "imdbId": "tt0409637",
+      "title": "Washington Week with The Atlantic",
+      "episodes": []
+    },
+    "tt14832470": {
+      "imdbId": "tt14832470",
+      "title": "Friday Night Vibes",
+      "episodes": []
+    },
+    "tt1020913": {
+      "imdbId": "tt1020913",
+      "title": "Diners, Drive-Ins and Dives",
       "episodes": []
     }
   }
