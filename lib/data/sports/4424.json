@@ -5374,7 +5374,7 @@
     {
       "idEvent": "2458197",
       "idAPIfootball": "184974",
-      "strTimestamp": "2026-09-07T17:10:00",
+      "strTimestamp": "2026-09-07T19:10:00",
       "strEvent": "Detroit Tigers vs Minnesota Twins",
       "strEventAlternate": "Minnesota Twins @ Detroit Tigers",
       "strFilename": "MLB 2026-09-07 Detroit Tigers vs Minnesota Twins",
@@ -5392,7 +5392,7 @@
       "strWeather": null,
       "dateEvent": "2026-09-07",
       "dateEventLocal": null,
-      "strTime": "17:10:00",
+      "strTime": "19:10:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "135255",
