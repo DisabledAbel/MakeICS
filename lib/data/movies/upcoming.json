@@ -751,7 +751,7 @@
       "genres": [
         "Action",
         "Adventure",
-        "Fantasy"
+        "Sci-Fi"
       ],
       "people": [
         {
@@ -835,7 +835,7 @@
     },
     {
       "id": "tt14541160",
-      "title": "DEVOUR",
+      "title": "Devour",
       "image": "https://m.media-amazon.com/images/M/MV5BNDQ5NmVlZTMtYTVhOC00NDdmLTk3NWItYjNiZGNiY2YzMGM4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Sat, 01 Aug 2026 00:00:00 GMT",
       "genres": [
@@ -1672,7 +1672,7 @@
     {
       "id": "tt35519455",
       "title": "It Ends",
-      "image": "https://m.media-amazon.com/images/M/MV5BNTAyOWE1YmMtM2YzNy00M2I3LWI5MDgtODI4MjliZTAxNzNiXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI5MDU4YjktNDkwYi00ODk4LThiY2ItMDE5ZjdhZjIzNzkzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 21 Aug 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -2200,6 +2200,36 @@
         {
           "id": "nm0005068",
           "name": "Vinnie Jones"
+        }
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
+      "id": "tt39520030",
+      "title": "Madame in Saigon",
+      "image": "https://m.media-amazon.com/images/M/MV5BODgxYjdhYzUtZmE0YS00ZjIwLWFjZTMtMjc1Mzk0OTRhM2Q4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0393201",
+          "name": "Hong-Anh"
+        },
+        {
+          "id": "nm4730845",
+          "name": "Thanh Hang"
+        },
+        {
+          "id": "nm3300665",
+          "name": "Luong The Thanh"
+        },
+        {
+          "id": "nm18501489",
+          "name": "Kim Hau"
         }
       ],
       "label": "Aug 28, 2026"
@@ -2855,6 +2885,36 @@
       "label": "Sep 18, 2026"
     },
     {
+      "id": "tt14536120",
+      "title": "The Master and Margarita",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmRmZDE1NmItZWZhZi00MTczLTllZDAtMDczNjAwNjI3MjQwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm0225944",
+          "name": "August Diehl"
+        },
+        {
+          "id": "nm2568364",
+          "name": "Yulia Snigir"
+        },
+        {
+          "id": "nm1142921",
+          "name": "Evgeniy Tsyganov"
+        },
+        {
+          "id": "nm0051903",
+          "name": "Claes Bang"
+        }
+      ],
+      "label": "Sep 18, 2026"
+    },
+    {
       "id": "tt35504660",
       "title": "Bedford Park",
       "image": "https://m.media-amazon.com/images/M/MV5BNGNkNGI4OTMtNjRmOS00OGY5LWFlMjMtNmM1N2E3MDBhYzE2XkEyXkFqcGc@._V1_.jpg",
@@ -3178,6 +3238,36 @@
       "label": "Sep 25, 2026"
     },
     {
+      "id": "tt34374553",
+      "title": "Victorian Psycho",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmIyMDdkMGYtMjQ2My00YzAwLWI0YWUtZjMyOTg3NTlmMWZhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm2140860",
+          "name": "Maika Monroe"
+        },
+        {
+          "id": "nm0005042",
+          "name": "Jason Isaacs"
+        },
+        {
+          "id": "nm5057169",
+          "name": "Thomasin McKenzie"
+        },
+        {
+          "id": "nm2235721",
+          "name": "Ruth Wilson"
+        }
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
       "id": "tt9135246",
       "title": "The Flood: End of Mankind",
       "image": "https://m.media-amazon.com/images/M/MV5BZTQ4NTJkNzMtN2JiNi00MTVkLWJlZGQtN2UwZGY5NTA0YTY5XkEyXkFqcGc@._V1_.jpg",
@@ -3314,34 +3404,6 @@
         {
           "id": "nm3033454",
           "name": "Ismael Cruz Cordova"
-        }
-      ],
-      "label": "Oct 02, 2026"
-    },
-    {
-      "id": "tt32329539",
-      "title": "Crawlers",
-      "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "people": [
-        {
-          "id": "nm4436761",
-          "name": "Matilda Lutz"
-        },
-        {
-          "id": "nm2116419",
-          "name": "Gregg Sulkin"
-        },
-        {
-          "id": "nm3172796",
-          "name": "Melina Matthews"
-        },
-        {
-          "id": "nm1188016",
-          "name": "William Miller"
         }
       ],
       "label": "Oct 02, 2026"
@@ -3529,7 +3591,9 @@
       "image": "https://m.media-amazon.com/images/M/MV5BYWNlMGE1YTEtZjRjYy00ZDdmLWI5MDAtNGY2YTliYTg1N2JlXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
       "genres": [
-        "Western"
+        "Action",
+        "Adventure",
+        "Romance"
       ],
       "people": [
         {
@@ -3578,6 +3642,34 @@
         }
       ],
       "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt32329539",
+      "title": "Crawlers",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm4436761",
+          "name": "Matilda Lutz"
+        },
+        {
+          "id": "nm2116419",
+          "name": "Gregg Sulkin"
+        },
+        {
+          "id": "nm3172796",
+          "name": "Melina Matthews"
+        },
+        {
+          "id": "nm1188016",
+          "name": "William Miller"
+        }
+      ],
+      "label": "Oct 16, 2026"
     },
     {
       "id": "tt13609648",
@@ -3914,35 +4006,6 @@
         }
       ],
       "label": "Oct 23, 2026"
-    },
-    {
-      "id": "tt42882721",
-      "title": "Cassi",
-      "image": "https://m.media-amazon.com/images/M/MV5BZmQyNDVkN2UtNDEyYS00ZDc4LWIzOTAtNjAyZGYzNDM1ZWZiXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Sat, 24 Oct 2026 00:00:00 GMT",
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "people": [
-        {
-          "id": "nm5397002",
-          "name": "Bastiano Ferrari"
-        },
-        {
-          "id": "nm0316310",
-          "name": "Jay Giannone"
-        },
-        {
-          "id": "nm13858494",
-          "name": "Stacy Kemp Ferrari"
-        },
-        {
-          "id": "nm11316114",
-          "name": "Austyn Knight"
-        }
-      ],
-      "label": "Oct 24, 2026"
     },
     {
       "id": "tt29611136",
@@ -4283,8 +4346,8 @@
           "name": "Joel David Smallbone"
         },
         {
-          "id": "nm15871905",
-          "name": "Lucas Leach"
+          "id": "nm7014833",
+          "name": "India Brown"
         }
       ],
       "label": "Nov 06, 2026"
@@ -5175,7 +5238,7 @@
     {
       "id": "tt39822622",
       "title": "Nutmeg & Mistletoe",
-      "image": "https://m.media-amazon.com/images/M/MV5BYWYwOGJkYTktODlkMC00ZTBkLTlkYTktYWU0NDBhMTY0ZTc0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGVjMzcxMzEtYTM2YS00NzhjLTk5OTAtMDFiYzViNzgzNjI3XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
       "genres": [
         "Comedy"
@@ -5194,8 +5257,8 @@
           "name": "Maia Kealoha"
         },
         {
-          "id": "nm0122178",
-          "name": "Barney Burman"
+          "id": "nm0889522",
+          "name": "Nia Vardalos"
         }
       ],
       "label": "Dec 25, 2026"
@@ -5674,6 +5737,35 @@
       "genres": [],
       "people": [],
       "label": "Feb 12, 2027"
+    },
+    {
+      "id": "tt42882721",
+      "title": "Cassi",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmQyNDVkN2UtNDEyYS00ZDc4LWIzOTAtNjAyZGYzNDM1ZWZiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 13 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm5397002",
+          "name": "Bastiano Ferrari"
+        },
+        {
+          "id": "nm0316310",
+          "name": "Jay Giannone"
+        },
+        {
+          "id": "nm13858494",
+          "name": "Stacy Kemp Ferrari"
+        },
+        {
+          "id": "nm11316114",
+          "name": "Austyn Knight"
+        }
+      ],
+      "label": "Feb 13, 2027"
     },
     {
       "id": "tt32359344",
@@ -6522,12 +6614,12 @@
       ],
       "people": [
         {
-          "id": "nm0000422",
-          "name": "John Goodman"
-        },
-        {
           "id": "nm0488953",
           "name": "Brie Larson"
+        },
+        {
+          "id": "nm0000422",
+          "name": "John Goodman"
         },
         {
           "id": "nm2560618",
