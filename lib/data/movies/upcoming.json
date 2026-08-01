@@ -1114,6 +1114,34 @@
       "label": "Aug 08, 2026"
     },
     {
+      "id": "tt35048414",
+      "title": "Lockjaw",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWYwYWQ4ZDQtMmI0ZC00Y2M4LWI0YzYtZGVmZjQyNjI3ZmVlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 08 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm7385556",
+          "name": "Blu Hunt"
+        },
+        {
+          "id": "nm4609222",
+          "name": "Colin Burgess"
+        },
+        {
+          "id": "nm0179880",
+          "name": "Nick Corirossi"
+        },
+        {
+          "id": "nm9681756",
+          "name": "Ally Davis"
+        }
+      ],
+      "label": "Aug 08, 2026"
+    },
+    {
       "id": "tt12759038",
       "title": "Prisoners of Paradise",
       "image": "https://m.media-amazon.com/images/M/MV5BMDg4YmVhMmUtNzc3ZS00MWEzLWJlYWYtYWEzZTIzNDAwZTY5XkEyXkFqcGc@._V1_.jpg",
@@ -2702,6 +2730,36 @@
         {
           "id": "nm4177021",
           "name": "Luke McGibney"
+        }
+      ],
+      "label": "Sep 11, 2026"
+    },
+    {
+      "id": "tt39368474",
+      "title": "Black Zombie",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDkzOWQ0Y2YtNGI2NC00YmIwLTlmYjMtMDUyNGFkNzViZTFmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "History",
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm18122080",
+          "name": "Mambo Labelle Déese Botanica"
+        },
+        {
+          "id": "nm6862319",
+          "name": "Zandashé Brown"
+        },
+        {
+          "id": "nm4261524",
+          "name": "Tananarive Due"
+        },
+        {
+          "id": "nm18122081",
+          "name": "Yves-Grégory Francois"
         }
       ],
       "label": "Sep 11, 2026"
