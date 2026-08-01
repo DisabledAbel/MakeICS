@@ -5100,7 +5100,7 @@
           "number": 2,
           "name": "Vincent & Katy",
           "airdate": "2026-01-12",
-          "summary": null,
+          "summary": "Navy veterans Vincent and Katy's lives changed forever when Vincent, a firefighter-paramedic, responded to a newborn surrendered at his station's safe haven box and later adopted her; now they're taking on the wall for a chance to win big.",
           "url": "https://www.imdb.com/title/tt39383002/?ref_=ttep_ep_2"
         },
         {
@@ -5108,7 +5108,7 @@
           "number": 3,
           "name": "Hope & Francis",
           "airdate": "2026-01-26",
-          "summary": null,
+          "summary": "While skiing at Mt. Baker, Francis discovered a snowboarder trapped beneath the snow and heroically saved his life; with the help of his wife, Hope, he plays the wall in hopes of winning big.",
           "url": "https://www.imdb.com/title/tt39383004/?ref_=ttep_ep_3"
         },
         {
@@ -5116,15 +5116,31 @@
           "number": 4,
           "name": "Chad & Jerry",
           "airdate": "2026-02-02",
-          "summary": null,
+          "summary": "Brothers Chad and Jerry leapt into action to save a drowning baby deer, and now they're taking on the wall for a shot at more than $12 million.",
           "url": "https://www.imdb.com/title/tt40558554/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 6,
+          "number": 5,
+          "name": "Emma and Chrissy",
+          "airdate": "2026-07-20",
+          "summary": "Married Maui boat captains Chrissy and Emma helped evacuate dozens of people during the Lahaina fires, rescuing stranded survivors and opening their home to those in need; now they're playing the wall for a chance to win millions.",
+          "url": "https://www.imdb.com/title/tt43719021/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 6,
+          "number": 6,
+          "name": "Richard and Erika",
+          "airdate": "2026-07-27",
+          "summary": "Good Samaritan Richard went above and beyond when he drove 50 miles on his birthday to return a lost wallet to a passenger; now, the railroad conductor and his sister Erika take on the wall in hopes of winning big.",
+          "url": "https://www.imdb.com/title/tt43719031/?ref_=ttep_ep_6"
         },
         {
           "season": 5,
           "number": 1,
           "name": "Christina and Nic",
           "airdate": "2023-04-11",
-          "summary": null,
+          "summary": "Married couple Christiana and Nic from Door County, Wisc., compete in the season premiere.",
           "url": "https://www.imdb.com/title/tt27988981/?ref_=ttep_ep_1"
         },
         {
@@ -5132,7 +5148,7 @@
           "number": 2,
           "name": "Monet and Kevyn",
           "airdate": "2023-04-18",
-          "summary": null,
+          "summary": "Sisters Kevyn and Monet representing Rochester Hills, Mich., and Oxford, Ohio, respectively, gear up to take on the wall. Will they leave the game victorious?",
           "url": "https://www.imdb.com/title/tt28657077/?ref_=ttep_ep_2"
         },
         {
@@ -5148,7 +5164,7 @@
           "number": 4,
           "name": "Matt and Bria",
           "airdate": "2023-05-02",
-          "summary": null,
+          "summary": "Married couple Matt and Bria from Philadelphia go head-to-head with the wall.",
           "url": "https://www.imdb.com/title/tt28657086/?ref_=ttep_ep_4"
         },
         {
@@ -5156,7 +5172,7 @@
           "number": 5,
           "name": "John and Toni",
           "airdate": "2023-05-09",
-          "summary": null,
+          "summary": "Father and daughter John and Toni from Antioch, Calif., contend on the wall. Do they have what it takes to win big?",
           "url": "https://www.imdb.com/title/tt28657090/?ref_=ttep_ep_5"
         },
         {
@@ -5164,7 +5180,7 @@
           "number": 6,
           "name": "Travis and Kelsey",
           "airdate": "2023-05-16",
-          "summary": null,
+          "summary": "Veteran Travis Mills and his wife, Kelsey, from Manchester, Maine compete on the wall. Will they take a risk or play it safe?",
           "url": "https://www.imdb.com/title/tt28657096/?ref_=ttep_ep_6"
         },
         {
@@ -5172,7 +5188,7 @@
           "number": 7,
           "name": "Rachel and Chris",
           "airdate": "2023-06-18",
-          "summary": null,
+          "summary": "Engaged couple Rachel and Chris from Loveland, Colorado, take on the heat and contend for a chance to win big on the wall.",
           "url": "https://www.imdb.com/title/tt28657100/?ref_=ttep_ep_7"
         },
         {
@@ -5180,7 +5196,7 @@
           "number": 8,
           "name": "David and Chris",
           "airdate": "2023-06-26",
-          "summary": null,
+          "summary": "Capitol Police Officer David and godbrother Chris from Washington, D.C., face the wall and the pressure to leave triumphant.",
           "url": "https://www.imdb.com/title/tt28657105/?ref_=ttep_ep_8"
         },
         {
@@ -5188,7 +5204,7 @@
           "number": 9,
           "name": "Kavi and Radhika",
           "airdate": "2023-07-10",
-          "summary": null,
+          "summary": "Mother-daughter duo Kavi and Rhadika, representing Green Book, N.J., take on the ups and down of contending on the wall.",
           "url": "https://www.imdb.com/title/tt28657111/?ref_=ttep_ep_9"
         },
         {
@@ -5196,7 +5212,7 @@
           "number": 10,
           "name": "Karly and Megan",
           "airdate": "2023-07-24",
-          "summary": null,
+          "summary": "Sisters Karly and Megan from Las Vegas and Makawao, Hawaii, respectively, go up against the wall.",
           "url": "https://www.imdb.com/title/tt28657116/?ref_=ttep_ep_10"
         },
         {
@@ -5204,7 +5220,7 @@
           "number": 11,
           "name": "Jeremiah and Nikki",
           "airdate": "2023-11-03",
-          "summary": null,
+          "summary": "Married couple Jerimiah and Nikki from Lubbock, Texas, take on the wall, hoping to win big.",
           "url": "https://www.imdb.com/title/tt30221884/?ref_=ttep_ep_11"
         },
         {
@@ -5212,7 +5228,7 @@
           "number": 12,
           "name": "Turquoise and Donald",
           "airdate": "2023-11-10",
-          "summary": null,
+          "summary": "Turquoise and her husband, Donald, represent Durham, N.C., and go head-to-head with the wall.",
           "url": "https://www.imdb.com/title/tt30221899/?ref_=ttep_ep_12"
         },
         {
@@ -5220,7 +5236,7 @@
           "number": 13,
           "name": "Melissa and Liz",
           "airdate": "2023-11-13",
-          "summary": null,
+          "summary": "Sisters Melissa and Liz from Chanute, Kan., join forces to test their knowledge and luck on the wall.",
           "url": "https://www.imdb.com/title/tt30221937/?ref_=ttep_ep_13"
         },
         {
@@ -5244,7 +5260,7 @@
           "number": 16,
           "name": "Larry and Lauren",
           "airdate": "2024-07-01",
-          "summary": null,
+          "summary": "First responders and father-daughter duo Larry and Laura go head-to-head with the wall.",
           "url": "https://www.imdb.com/title/tt32907449/?ref_=ttep_ep_16"
         },
         {
@@ -5252,7 +5268,7 @@
           "number": 17,
           "name": "Adam and Shelley",
           "airdate": "2024-08-12",
-          "summary": null,
+          "summary": "Rollercoaster enthusiast Adam and his mother, Shelley, take a shot at winning big on the wall.",
           "url": "https://www.imdb.com/title/tt33096745/?ref_=ttep_ep_17"
         },
         {
@@ -6779,6 +6795,22 @@
           "airdate": "2026-08-04",
           "summary": "Slow service, an inexperienced staff, and half-baked leadership have Borelli's Pizzeria crumbling; Gordon learns about the personal struggles affecting the owner and helps put both the owner's well-being and the restaurant on the path to recovery.",
           "url": "https://www.imdb.com/title/tt43700614/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 10,
+          "number": 5,
+          "name": "Renate's German Restaurant",
+          "airdate": "2026-08-11",
+          "summary": "With few customers to fill the dining room and constant complaints about cold, unappetizing food, Gordon must convince the proud owner of a struggling restaurant to abandon her intimidating leadership style before her business goes under.",
+          "url": "https://www.imdb.com/title/tt43730639/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 10,
+          "number": 6,
+          "name": "Boodles Restaurant",
+          "airdate": "2026-08-18",
+          "summary": "After four decades of business, Boodles Restaurant is struggling as its aging owner and son clash over the restaurant's future, and poor communication leaves the staff disconnected. When Gordon uncovers the source of the dysfunction, he helps bridge the family divide to give this longtime restaurant a chance.",
+          "url": "https://www.imdb.com/title/tt43730653/?ref_=ttep_ep_6"
         },
         {
           "season": 9,
@@ -8324,10 +8356,18 @@
         {
           "season": 3,
           "number": 11,
-          "name": "Episode #3.11",
+          "name": "Dance Now or Forever Hold Your Peace",
           "airdate": "2026-07-28",
-          "summary": null,
+          "summary": "Baylen faces the fallout from going without her medication in Myrtle Beach. Baylen proposes an unconventional father-daughter dance idea, then finally meets with a doctor to see if she has endometrios.",
           "url": "https://www.imdb.com/title/tt43658973/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 3,
+          "number": 12,
+          "name": "Episode #3.12",
+          "airdate": "2026-08-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43723135/?ref_=ttep_ep_12"
         },
         {
           "season": 2,
@@ -13457,7 +13497,7 @@
           "number": 3,
           "name": "Big Bass, No Whammies!",
           "airdate": "2026-07-23",
-          "summary": null,
+          "summary": "Three contestants compete against one another and answer questions to earn spins on the Big Board. Then, they use their spins to win cash and prizes while trying to avoid the WHAMMY, who could take all of their winnings.",
           "url": "https://www.imdb.com/title/tt43689889/?ref_=ttep_ep_3"
         },
         {
@@ -13465,8 +13505,16 @@
           "number": 4,
           "name": "I Intend to Win",
           "airdate": "2026-07-30",
-          "summary": null,
+          "summary": "Host Elizabeth Banks' head is spinning as contestants snag prizes and dodge the dreaded WHAMMY.",
           "url": "https://www.imdb.com/title/tt43710917/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 7,
+          "number": 5,
+          "name": "Hot 4 Teacher",
+          "airdate": "2026-08-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43731403/?ref_=ttep_ep_5"
         },
         {
           "season": 6,
@@ -14043,7 +14091,7 @@
           "number": 14,
           "name": "Alien Investigators",
           "airdate": "2026-07-30",
-          "summary": "Host Giorgio Tsoukalos opens the series archives to celebrate Alien Investigators that have been brave enough to ask the question, \"Are we alone in the universe?\" Could these investigators have uncovered proof of an alien presence on earth?",
+          "summary": "Giorgio Tsoukalos revisits the series archives to honor Alien Investigators who dared to ask if we're alone in the universe. Did they find evidence of aliens on Earth?",
           "url": "https://www.imdb.com/title/tt43664597/?ref_=ttep_ep_14"
         },
         {
@@ -14406,7 +14454,7 @@
           "season": 17,
           "number": 5,
           "name": "The Fry Cook and the Elves/It's About Mime",
-          "airdate": null,
+          "airdate": "2026-07-24",
           "summary": "Squidward tries to prove anyone can create a comic book and gains devoted fans. Meanwhile, an actor follows SpongeBob around to prepare for an upcoming movie role.",
           "url": "https://www.imdb.com/title/tt43626508/?ref_=ttep_ep_5"
         },
@@ -14422,7 +14470,7 @@
           "season": 17,
           "number": 7,
           "name": "My Tighty Whiteys/What Ever Happened to Baby Prunes?",
-          "airdate": null,
+          "airdate": "2026-07-31",
           "summary": "SpongeBob goes on a desperate search after his favorite pair of underwear goes missing; Baby Prunes shares the story of her days as a child star to explain why she despises chocolate.",
           "url": "https://www.imdb.com/title/tt43700954/?ref_=ttep_ep_7"
         },
@@ -14430,8 +14478,8 @@
           "season": 17,
           "number": 8,
           "name": "Night School Knuckleheads/Painfully Employed",
-          "airdate": null,
-          "summary": null,
+          "airdate": "2026-08-06",
+          "summary": "At night school, SpongeBob and Patrick dive into a series of classes on wildly different subjects; Plankton hires Bubble Bass at the Chum Bucket and realizes he can utilize him to get his hands on a Krabby Patty.",
           "url": "https://www.imdb.com/title/tt43712473/?ref_=ttep_ep_8"
         },
         {
@@ -16113,7 +16161,7 @@
           "number": 6,
           "name": "Episode #1.6",
           "airdate": "2026-07-31",
-          "summary": null,
+          "summary": "Follows Larry David and Jeff Schaffer in a journey through time that traces the history of the United States of America.",
           "url": "https://www.imdb.com/title/tt39177069/?ref_=ttep_ep_6"
         },
         {
@@ -20197,9 +20245,9 @@
         {
           "season": 4,
           "number": 33,
-          "name": "Episode #4.33",
+          "name": "Detroit",
           "airdate": "2026-07-30",
-          "summary": null,
+          "summary": "A special Collision features Will Ospreay facing Daniel Garcia following Ospreay's dramatic exit from the Death Riders. Brawling Birds and HAZUKI team against Athena and her M.I.T. Bang Bang Gang looks for revenge against the Death Riders.",
           "url": "https://www.imdb.com/title/tt43626258/?ref_=ttep_ep_33"
         },
         {
@@ -26576,6 +26624,1254 @@
       "imdbId": "tt1020913",
       "title": "Diners, Drive-Ins and Dives",
       "episodes": []
+    },
+    "tt36958248": {
+      "imdbId": "tt36958248",
+      "title": "Decades in Sports",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Episode #1.1",
+          "airdate": "2026-08-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36979702/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Episode #1.2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36979701/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36979705/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Episode #1.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36979704/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode #1.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36979703/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode #1.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36979700/?ref_=ttep_ep_6"
+        }
+      ]
+    },
+    "tt6408292": {
+      "imdbId": "tt6408292",
+      "title": "The Story",
+      "episodes": []
+    },
+    "tt7846094": {
+      "imdbId": "tt7846094",
+      "title": "The Will Cain Show",
+      "episodes": []
+    },
+    "tt7390596": {
+      "imdbId": "tt7390596",
+      "title": "The Ingraham Angle",
+      "episodes": []
+    },
+    "tt21088048": {
+      "imdbId": "tt21088048",
+      "title": "How Did They Build That?",
+      "episodes": [
+        {
+          "season": 5,
+          "number": 1,
+          "name": "Episode #5.1",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39387077/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 1,
+          "name": "Episode #4.1",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36629864/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt31100490": {
+      "imdbId": "tt31100490",
+      "title": "Fox News @ Night",
+      "episodes": []
+    },
+    "tt19872934": {
+      "imdbId": "tt19872934",
+      "title": "SuperKitties",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 7,
+          "name": "Diamond Duckie/Mystery Monster",
+          "airdate": "2025-11-07",
+          "summary": "The Kitties and Willa stop Mr. Puppypaws from stealing a special duckie diamond hidden in the Wild Jungle. The SuperKitties and Willa help Zsa-Zsa, who says she saw a monster.",
+          "url": "https://www.imdb.com/title/tt38589073/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "name": "Jungle Rose/Super Special Stone",
+          "airdate": "2025-11-14",
+          "summary": "Lab Rat causes chaos with a weather machine so that the special Jungle Rose will bloom sooner. When Cat Burglar accidentally steals Papa Bird's egg, the SuperKitties must get it back.",
+          "url": "https://www.imdb.com/title/tt38589072/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "name": "Kittydale Christmas Tree/Skating Buddies",
+          "airdate": "2025-12-04",
+          "summary": "The Kitties save Kittydale's stolen Christmas tree from the Glamsters. The SuperKitties stop Cat Burglar from stealing the medals from a big ice-skating contest.",
+          "url": "https://www.imdb.com/title/tt38875891/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "name": "The Glamping Glamsters/Trouble in the Jungle",
+          "airdate": "2025-12-12",
+          "summary": "Things don't go as planned when the Glamsters go glamping and Buddy sleeps over at Willa's Treehouse. The Kitties and Willa stop Mr. Puppypaws from taking over the Wild Jungle.",
+          "url": "https://www.imdb.com/title/tt38875893/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 3,
+          "number": 11,
+          "name": "Tricky Treat Trickster/Jungle Junk Pile",
+          "airdate": "2026-01-09",
+          "summary": "Lab Rat tricks Wiggles, the robot pig, into taking things and it's up to the SuperKitties to stop them. Cat Burglar and Cousin Sassy make a mess in the jungle.",
+          "url": "https://www.imdb.com/title/tt38890381/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 3,
+          "number": 12,
+          "name": "Clamshell Coaster/Zsa-Zsa Spa Spa",
+          "airdate": "2026-01-16",
+          "summary": "When Lab Rat steals the Clamshell Coaster for Otto's family the SuperKitties must get it back. The Kitties help the jungle animals when Zsa-Zsa blocks a waterfall to make a spa.",
+          "url": "https://www.imdb.com/title/tt38973066/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 3,
+          "number": 13,
+          "name": "Bubble Bathin' Burbles/Favorite - Favorites",
+          "airdate": "2026-01-30",
+          "summary": "When Lab Rat's Burbles steal all the bubble bath, the SuperKitties must save bathtime. The Kitties and Willa pounce to the rescue when Cat Burglar swipes stuffies around town.",
+          "url": "https://www.imdb.com/title/tt39053827/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 3,
+          "number": 14,
+          "name": "Fishy Fish Thief/Burgled Backpacks",
+          "airdate": "2026-02-27",
+          "summary": "Willa helps the SuperKitties stop Mr. Puppypaws from taking a special fish statue. The Kitties must save the first day of school when the Glamsters steal all the backpacks.",
+          "url": "https://www.imdb.com/title/tt39084379/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 3,
+          "number": 15,
+          "name": "Copter Caper/Sneaky Statue",
+          "airdate": "2026-03-06",
+          "summary": "Someone steals the Kitty Copter. When Cat Burglar and Cousin Sassy hide in a statue to swipe Amara's tiara for Granny, the SuperKitties pounce to stop them.",
+          "url": "https://www.imdb.com/title/tt39084414/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 3,
+          "number": 16,
+          "name": "Purdy Birdy Picnic/Swimmy Zone",
+          "airdate": "2026-03-27",
+          "summary": "Zsa-Zsa takes her Aunt Lola on a picnic, where she makes all the park animals start to float away. Mr. Puppypaws puts the Zoomie Zone in a giant fishbowl for King Fishyfins.",
+          "url": "https://www.imdb.com/title/tt39084426/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 3,
+          "number": 17,
+          "name": "Super Glamsters/Astro-Hamsters",
+          "airdate": "2026-04-03",
+          "summary": "The Glamsters make their own super suits. When the Glamsters steal an outer space exhibit for a sick Evie the Kitties must get it back.",
+          "url": "https://www.imdb.com/title/tt39084435/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 3,
+          "number": 18,
+          "name": "Snow Bird/Rock Out Ray",
+          "airdate": "2026-05-08",
+          "summary": "When Zsa-Zsa doesn't want Aunt Lola to leave Kittydale, she tries turning the Wild Jungle into a wintery mess. The Kitties must stop Lab Rat from making everyone dance.",
+          "url": "https://www.imdb.com/title/tt39084449/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 3,
+          "number": 19,
+          "name": "Fin-tastic Getaway/Boo Boo Bandit",
+          "airdate": "2026-05-22",
+          "summary": "Mr. Puppypaws sends the SuperKitties on a wild stroller chase through Kittydale. Zsa-Zsa steals the Glamster's ball to shield George from getting another boo-boo.",
+          "url": "https://www.imdb.com/title/tt41455657/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 3,
+          "number": 20,
+          "name": "Elephantastic Elephant/Glam-tastrophe",
+          "airdate": "2026-06-12",
+          "summary": "When Evie wants to own an elephant, Pamster and Champster take one from the jungle. Mr. Puppypaws makes himself glam with looted props in an attempt to win Miss Poochytail's appreciation after seeing her play with the Glamsters.",
+          "url": "https://www.imdb.com/title/tt42446745/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 3,
+          "number": 21,
+          "name": "The New SuperKitty!",
+          "airdate": "2026-08-06",
+          "summary": "Willa becomes a superkitty, but after some accidents, the other kitties must help her with her powers.",
+          "url": "https://www.imdb.com/title/tt43660821/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 3,
+          "number": 22,
+          "name": "Mega Mouse/Wild Jungle",
+          "airdate": "2025-09-22",
+          "summary": "The SuperKitties must stop Lab Rat from chasing cats with her mega-mouse. The SuperKitties visit Willa in the Wild Jungle.",
+          "url": "https://www.imdb.com/title/tt37232568/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 23,
+          "name": "Tooth Fairy/Muffin Mess",
+          "airdate": "2025-09-23",
+          "summary": "Zsa-Zsa disguises herself as the Tooth Fairy so she can steal Bitsy's tooth and get a present. The SuperKitties save Kittydale from Lab Rat's stinky muffins.",
+          "url": "https://www.imdb.com/title/tt37880235/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 24,
+          "name": "Super Sleepover/Unicorn Catchers",
+          "airdate": "2025-09-24",
+          "summary": "When Zsa-Zsa steals all the pet beds in Kittydale, the SuperKitties and Willa race to get them back. The Glamsters make a glittery mess in the jungle as they look for a unicorn.",
+          "url": "https://www.imdb.com/title/tt37880241/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 25,
+          "name": "Vanishing Veggies/Octo-Gummies",
+          "airdate": "2025-09-25",
+          "summary": "The SuperKitties must stop the Glamsters from stealing all the veggies in Kittydale. The SuperKitties save Kittydale from Lab Rat's purple Octo-Gummies.",
+          "url": "https://www.imdb.com/title/tt37880244/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
+          "number": 26,
+          "name": "Pinktastrophe/Battle of the Baddies",
+          "airdate": "2025-09-26",
+          "summary": "The SuperKitties must stop Zsa-Zsa from stealing all the pink items in Kittydale. Mr. Puppypaws and Cat Burglar compete to see who is the best baddie in town.",
+          "url": "https://www.imdb.com/title/tt37880249/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 30,
+          "name": "Franken-Rat/Pumpkin Parade",
+          "airdate": "2025-09-30",
+          "summary": "The Kitties must save Kittydale's Halloween candy from Lab Rat's Franken-Rat robot. The Kitties stop Mr. Puppypaws from spoiling Kittydale's Pumpkin Parade.",
+          "url": "https://www.imdb.com/title/tt37880251/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Jumbo Rat/New Friend Fiasco",
+          "airdate": "2024-04-05",
+          "summary": "Bitsy's small size saves the day when a giant Lab Rat steals all the jelly in the city. Cat Burglar devises a plan to take every sparkly collar in Kittydale.",
+          "url": "https://www.imdb.com/title/tt31519575/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Dancing Piggy/Super Helpers",
+          "airdate": "2024-04-12",
+          "summary": "The SuperKitties must rescue Wiggles, their new dancing robo-piggy, from Zsa-Zsa and Lab rat before the Kittydale dance party. Bitsy cheers on Pickles as he learns something new.",
+          "url": "https://www.imdb.com/title/tt31631661/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Museum Mayhem/Big Dig",
+          "airdate": "2024-04-19",
+          "summary": "Lab Rat and Ginny learn what makes their art special. Sparks learns to share his upset feelings.",
+          "url": "https://www.imdb.com/title/tt31631663/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Copy Hats/Telescope Trouble",
+          "airdate": "2024-04-26",
+          "summary": "The Superkitties must stop Cat Burglar from stealing all the trendy hats in Kittydale. Buddy doesn't give up on learning how to use a telescope.",
+          "url": "https://www.imdb.com/title/tt31631665/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Cat's Pajamas/Country Kitty",
+          "airdate": "2024-05-24",
+          "summary": "Cat Burglar and a mystery thief compete to steal the Kittydale banner. Bitsy shares her cure for homesickness with Cousin Sassy.",
+          "url": "https://www.imdb.com/title/tt32044758/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Bone Bandit/Cheesy Chase",
+          "airdate": "2024-06-14",
+          "summary": "To guard a new dinosaur bone, Buddy must learn to pay attention. Sparks relies on his problem-solving skills to stop Cat Burglar and Lab Rat from stealing a giant cheese wheel.",
+          "url": "https://www.imdb.com/title/tt32175964/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Seed Stealer/Dastardly Dumpster",
+          "airdate": "2024-06-21",
+          "summary": "The SuperKitties teach Zsa-Zsa that if she takes care of planted seeds, they'll grow into fruits and veggies for everyone to enjoy. Lab Rat and Otto drop trash on Kittydale.",
+          "url": "https://www.imdb.com/title/tt32175946/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Wacky Weather/Kittydale Racers",
+          "airdate": "2024-07-26",
+          "summary": "Lab Rat creates wacky weather that threatens to ruin the Pawesome Picnic. When the Kittydale Race gets sabotaged, Bitsy stops racing to help the SuperKitties save the day.",
+          "url": "https://www.imdb.com/title/tt32223404/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Brand New Bestie/Cat-o-flauge Kitty",
+          "airdate": "2024-08-23",
+          "summary": "Bitsy worries that she and Ginny can only be besties if they like the same things. Zsa-Zsa freezes everyone of her group selfie, and Ginny figures out how to use the Cat-o-flauge.",
+          "url": "https://www.imdb.com/title/tt32345239/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Boat Ride Ruckus/Favorite Fishy Cake",
+          "airdate": "2024-08-30",
+          "summary": "Sparks faces his fear of getting his face wet to stop Zsa-Zsa from ruining the Paddlepaws Express boat ride. Lab Rat steals fishy cake for Otto's birthday, trapping Bitsy.",
+          "url": "https://www.imdb.com/title/tt32460396/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "Super Spooky House/Pumpkin Ball",
+          "airdate": "2024-10-01",
+          "summary": "The Kitties face their fears and enter the Super Spooky House. When the Pumpkin Ball is stolen, it's up to the SuperKitties to get it back in time for the Halloween Party.",
+          "url": "https://www.imdb.com/title/tt32903987/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "name": "New King in Town/Tiny Trouble",
+          "airdate": "2024-10-25",
+          "summary": "Mr. Puppypaws steals royal objects from the Museum. When Cat Burglar shrinks Buddy on his way to steal musical instruments, Buddy learns that he doesn't have to be big to be super.",
+          "url": "https://www.imdb.com/title/tt32904017/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "name": "Runaway Sleigh/Hanukkah Rescue",
+          "airdate": "2024-12-04",
+          "summary": "When Mr. Puppypaws steals Santa's sleigh, the SuperKitties must save Christmas. The SuperKitties learn to celebrate Hanukkah by lightning a menorah with loved ones.",
+          "url": "https://www.imdb.com/title/tt32904056/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "name": "Bossy Birdy/Brightest Night",
+          "airdate": "2024-12-13",
+          "summary": "When Zsa-Zsa steals other birds' goodies for her Aunt Lola, the SuperKitties must save the Songbird Soiree. Lab Rat lights up Kittydale in the middle of the night.",
+          "url": "https://www.imdb.com/title/tt32898043/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 2,
+          "number": 16,
+          "name": "Mystery Boot Bandit/Slippery Situation",
+          "airdate": "2025-01-10",
+          "summary": "Pet boots go missing all over Kittydale. When Lab Rat makes Kittydale super slippery, Bitsy must help the SuperKitties stop her.",
+          "url": "https://www.imdb.com/title/tt33036199/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 2,
+          "number": 17,
+          "name": "Quests for Nests/Pretend Piano Player",
+          "airdate": "2025-02-07",
+          "summary": "Zsa-Zsa steals bird nests from all over Kittydale. When Mr. Puppypaws pretends Poochissimo's piano playing is his own, the SuperKitties set out to reveal the truth.",
+          "url": "https://www.imdb.com/title/tt33053018/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "name": "Never-Ending Rainbow/Lost Leashes",
+          "airdate": "2025-03-07",
+          "summary": "Zsa-Zsa spreads colorful clouds all over Kittydale to create a never-ending rainbow. Sparks learns to take a break from his new toy to help the team save the city's doggy leashes.",
+          "url": "https://www.imdb.com/title/tt33293383/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "name": "Easter Buddy/Egg-celent Adventure",
+          "airdate": "2025-03-28",
+          "summary": "Buddy joins the Bunny Brigade and helps the SuperKitties save Easter treats from Zsa-Zsa. Lab Rat steals all the Easter eggs from the Kittydale Easter Egg Hunt.",
+          "url": "https://www.imdb.com/title/tt33363179/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 2,
+          "number": 20,
+          "name": "Flying Piggy/Get the Zoomies",
+          "airdate": "2024-09-20",
+          "summary": "Wiggles learns how to fly to free the team from Cat Burglar. Mr. Puppypaws' glittery baby dragons battle the SuperKitties as they try to stop him from not sharing the Zoomie Zone.",
+          "url": "https://www.imdb.com/title/tt32898135/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 21,
+          "name": "Colossal Quacksley/Great Pizza Chase",
+          "airdate": "2025-05-16",
+          "summary": "Lab Rat turns Quacksley into a giant floatie for Otto to play on. The SuperKitties have to save Pizza Night after Cat Burglar steals all of the pizza pies for his new friend.",
+          "url": "https://www.imdb.com/title/tt36433940/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 2,
+          "number": 22,
+          "name": "Purr N Go Rescue/Peanut Butter Problem",
+          "airdate": "2025-06-20",
+          "summary": "The SuperKitties switch powers with each other. Ginny and Mr. Puppypaws get stuck in the peanut butter factory.",
+          "url": "https://www.imdb.com/title/tt36853130/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 2,
+          "number": 23,
+          "name": "Robo-Friends/Wacky Wiggles",
+          "airdate": "2025-07-11",
+          "summary": "Wiggles and Roboctopus learn how to make a friend. When a Wiggles update goes wrong, Bitsy and Buddy learn to listen to instructions so they can save Wiggles from Cat Burglar.",
+          "url": "https://www.imdb.com/title/tt37212216/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 2,
+          "number": 24,
+          "name": "Critter Tower Takedown/Kickin' Kitty",
+          "airdate": "2025-08-01",
+          "summary": "When Cat Burglar steals the Critter Tower, the SuperKitties and their new wildcat friend have to save it, so everyone can play. Lab Rat kicks the moon model with her giant boot.",
+          "url": "https://www.imdb.com/title/tt37517264/?ref_=ttep_ep_24"
+        }
+      ]
+    },
+    "tt19872788": {
+      "imdbId": "tt19872788",
+      "title": "Hey A.J.!",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "To Mommy with Lava/Happy Friendship Birthday",
+          "airdate": "2026-01-13",
+          "summary": "AJ and Marty try to bake the best dessert for Siggi, but their cake turns into a chocolate volcano mess. AJ can't remember why today is so special to Jessie.",
+          "url": "https://www.imdb.com/title/tt37848758/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Donation Situation/Birthday Bop",
+          "airdate": "2026-01-13",
+          "summary": "Detective AJ and Jessie chase the cat burglar who took AJ's old jacket. AJ prepares a special song for her mom's birthday party, but must find a way to conquer her fear to sing it.",
+          "url": "https://www.imdb.com/title/tt38283718/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Come Here Chameleon/The Trouble with Jazz",
+          "airdate": "2026-01-13",
+          "summary": "AJ is babysitting Jessie's favorite pet chameleon. AJ and Jessie are excited to become friends with the new kid in town, Jazz, and help him unlock the super world of imagination.",
+          "url": "https://www.imdb.com/title/tt38283728/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "The Long Long Ride/Buggin",
+          "airdate": "2026-01-13",
+          "summary": "On a long ride home, AJ uses her imagination to pass the time until she can fall asleep. Theo gets lost in some thick bushes so AJ and her friends must brave a jungle to find him.",
+          "url": "https://www.imdb.com/title/tt38283734/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Building Blockers/Bein Neon Cleon",
+          "airdate": "2026-01-13",
+          "summary": "AJ, Jessie, and Jazz play with blocks, seeing who can build the tallest tower. Marty's long-lost childhood toy goes missing, and Detective AJ has to find the missing toy.",
+          "url": "https://www.imdb.com/title/tt39113490/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Nothing but the Tooth/Independence Day",
+          "airdate": "2026-01-13",
+          "summary": "AJ and Jessie are scared of the dentist, but through a super adventure, they learn that dentists are heroes. AJ walks all by herself to Jazz's house for the first time.",
+          "url": "https://www.imdb.com/title/tt39113510/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "By the Numbas/Knot Today",
+          "airdate": "2026-01-13",
+          "summary": "AJ goes on a space journey to learn that math is out of this world; AJ's hair is in tangles and knots. Marty and AJ brave the jungle to get her hairstyle ready for picture day.",
+          "url": "https://www.imdb.com/title/tt39113524/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Keep on Truckin/Don't Mess with AJ",
+          "airdate": "2026-01-16",
+          "summary": "AJ and Marty plan to surprise Siggi with a brand new food truck. AJ uses her imagination to make cleaning a mission fit for her favorite superhero, Captain Durag.",
+          "url": "https://www.imdb.com/title/tt39113525/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Attic Adventures/Drone Alone",
+          "airdate": "2026-01-23",
+          "summary": "AJ goes on an adventure with her lost toys to find her missing bowling ball. AJ is excited to play with her new drone, but she and Marty have to build it first.",
+          "url": "https://www.imdb.com/title/tt39113526/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Parent of the Month/Can You Dig It",
+          "airdate": "2026-01-30",
+          "summary": "Jessie's mom wins the \"Parent of the Month\" award at school. At Dino Day in the park, AJ loses her brand new dino bracelet and is determined to find it without any help.",
+          "url": "https://www.imdb.com/title/tt39113527/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Cloud Jumpers/The Present",
+          "airdate": "2026-02-06",
+          "summary": "Major FOMO has created the hottest day of the year, and AJ and Jessie try their best to stay cool. Astronaut AJ and Astronaut Siggi go on a mission so AJ has a good night's rest.",
+          "url": "https://www.imdb.com/title/tt39373526/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "Rain Rain You Can Stay/Care And Care Alike",
+          "airdate": "2026-02-13",
+          "summary": "AJ's BBQ gets rained out, so she decides to create a song to make the sun come out. When Marty hurts his back, both Siggi and Grandma Luanne help in their own special way.",
+          "url": "https://www.imdb.com/title/tt39373525/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "AJ's Big Mess/Rock-King It",
+          "airdate": "2026-02-20",
+          "summary": "AJ is having so much fun during a rainy day that she wants to live outside forever. Rockstar AJ, Jessie, and Jazz have a \"Sword in the Stone\" contest to determine who plays the toy guitar first.",
+          "url": "https://www.imdb.com/title/tt39373523/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "It's Not Easy Eating Greens/Hide and Go Sneak",
+          "airdate": "2026-02-27",
+          "summary": "AJ adventures through the jungle, trying to eat her collard greens so she can have her dessert. Jessie and AJ play hide-and-seek with their neighbor, little Albert.",
+          "url": "https://www.imdb.com/title/tt39373528/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "name": "Make Way For Play/And Stuff Like That",
+          "airdate": "2026-03-06",
+          "summary": "AJ, Jessie, Marty, and Siggi help Maggie remember how to play again. AJ is excited to play with all her new high-tech toys with Jessie, but the batteries keep dying.",
+          "url": "https://www.imdb.com/title/tt39782073/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "name": "Rollin'/Game Day",
+          "airdate": "2026-03-13",
+          "summary": "AJ and Jessie try roller-skating for the first time with Siggi and Marty. When Marty is sad to miss his first game day since retirement, superhero AJ rescues him from Major FOMO.",
+          "url": "https://www.imdb.com/title/tt39782094/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 1,
+          "number": 17,
+          "name": "Bunnybusters/Friendly Competition",
+          "airdate": "2026-03-20",
+          "summary": "AJ hears spooky sounds from the house and must figure out what is making them. When the family gets together for game night, Marty and his dad, Carl, get too competitive.",
+          "url": "https://www.imdb.com/title/tt39782095/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 1,
+          "number": 18,
+          "name": "Tooth Or Dare/Time In A Bottle",
+          "airdate": "2026-03-27",
+          "summary": "AJ has her first loose tooth and is nervous about taking it out. AJ and friends find some old space toys buried in her yard.",
+          "url": "https://www.imdb.com/title/tt39782269/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 1,
+          "number": 19,
+          "name": "A Little Squirrely/if I Saved the World",
+          "airdate": "2026-04-03",
+          "summary": "AJ and Marty are excited for bird watching but a hungry squirrel messes with their new feeder. Watching Captain Durag, AJ and Jessie are determined to save the world just like him.",
+          "url": "https://www.imdb.com/title/tt40252787/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 1,
+          "number": 20,
+          "name": "Jester-Rella/Game Recognize Game",
+          "airdate": "2026-04-10",
+          "summary": "AJ and Marty must find Jessie and return her lost sneaker in order to escort her to the dance. When missing game pieces threaten to ruin game night, Detective AJ goes on the case.",
+          "url": "https://www.imdb.com/title/tt40510540/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 1,
+          "number": 21,
+          "name": "Gettin In Step!/Family Harmony",
+          "airdate": "2026-05-01",
+          "summary": "When Siggi and Tanisha perform a step routine, AJ and Marty create their own. On the night of her Family Talent Show, AJ finds herself locked in her room with her cousins.",
+          "url": "https://www.imdb.com/title/tt41581777/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 1,
+          "number": 22,
+          "name": "Not The Hiccups/The Captain Durag Effect",
+          "airdate": "2026-06-05",
+          "summary": "Jazz's uncontrollable hiccups turn him into a hiccup monster in Boptopia. When Jazz feels nervous about his first karate lesson, AJ goes with him to help.",
+          "url": "https://www.imdb.com/title/tt42446730/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 1,
+          "number": 23,
+          "name": "Somebunny's Missing/Follow the Leader",
+          "airdate": "2026-07-03",
+          "summary": "AJ loses track of Theo and discovers that playing with friends is more fun than gaming. AJ and her friends go camping at the park and attempt to stop a squirrel thief.",
+          "url": "https://www.imdb.com/title/tt42850184/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 1,
+          "number": 24,
+          "name": "Lights Out/AJ and Grandad's Epic Playlist",
+          "airdate": "2026-08-07",
+          "summary": "Lights go out during bad weather, and AJ and her friends find a way to save the night. When AJ's granddad visits from England, he and AJ put together an epic music playlist.",
+          "url": "https://www.imdb.com/title/tt42850187/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 1,
+          "number": 25,
+          "name": "Halloween",
+          "airdate": null,
+          "summary": "It's Halloween and AJ can't decide what to wear. She has an amazing imagination, but she doesn't know which of her many personas is the best for the night.",
+          "url": "https://www.imdb.com/title/tt42850189/?ref_=ttep_ep_25"
+        }
+      ]
+    },
+    "tt28069807": {
+      "imdbId": "tt28069807",
+      "title": "Ariel",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "The Crystal World/Magic Octo-Juggle",
+          "airdate": "2025-11-10",
+          "summary": "Ariel explores the Crystal World to find out where her axolotl buddy wandered off to; when Lucia performs the Octo-Juggle magic trick, she finds out that it's harder than expected.",
+          "url": "https://www.imdb.com/title/tt37232585/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "The Little Fins/The Biggest Land Treasure",
+          "airdate": "2025-11-11",
+          "summary": "With help from Ariel, the Little Fins learn to make beautiful music; Ariel and friends discover a big land treasure, but their attempts to move the large object lead to mayhem.",
+          "url": "https://www.imdb.com/title/tt38746071/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Trident Trouble/Cal's Bright Idea",
+          "airdate": "2025-11-12",
+          "summary": "When Flounder causes Triton's trident to zap magic, it creates chaos before a big royal dinner; Ariel helps Cal overcome his fear of the dark to explore the Bubble Gardens.",
+          "url": "https://www.imdb.com/title/tt38746076/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Flounder's Wishes/Triton's Trip",
+          "airdate": "2025-11-13",
+          "summary": "Flounder finds a Magic Wishing Shell that makes wishes come true; Ariel learns that Triton has to leave on a trip, and decides to hide his favorite bathrobe to make him stay.",
+          "url": "https://www.imdb.com/title/tt38746082/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Tiny Tails/Ariel's Sea Mobile",
+          "airdate": "2025-11-14",
+          "summary": "Lucia uses magic to shrink Ariel and her friends for tiny fun; when Ariel, Akiko and Axyl visit the Crystal World, they search for a green crystal to power the new Sea Mobile.",
+          "url": "https://www.imdb.com/title/tt38746877/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Flounder's Boo Boo/The Marvelous Mahi-Mahi Brothers",
+          "airdate": "2025-11-21",
+          "summary": "When Flounder gets a boo boo on his fin, he does everything he can to avoid getting checked; Ariel learns about a traveling group of performers that Triton loved as a child.",
+          "url": "https://www.imdb.com/title/tt38747418/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "A Crystal Christmas/The New Year Bubble",
+          "airdate": "2025-12-05",
+          "summary": "Ariel embarks on a Christmas adventure in the Crystal World to see a giant flurry bubble; when Flounder gets sleepy on New Years Eve, he asks for help to stay awake to celebrate.",
+          "url": "https://www.imdb.com/title/tt38875900/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "The Chum-ba-Chum/Catfish Kerfuffle",
+          "airdate": "2026-01-23",
+          "summary": "Flounder sees a land creature that keeps disappearing, and tries to find it; when Ariel and Ursula magically transform into catfish, they have to figure out how to turn themselves back to their regular selves.",
+          "url": "https://www.imdb.com/title/tt39114825/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Camping Trip/The Lion Fish",
+          "airdate": "2026-01-30",
+          "summary": "Sebastian takes Ariel on a camping trip to spend some time in the great outdoors; Fernie discovers a beautiful jellyfish that's hurt, and works to mend its boo-boo.",
+          "url": "https://www.imdb.com/title/tt39114826/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "The Write Pencil for the Job/The Crystal Koto",
+          "airdate": "2026-02-06",
+          "summary": "When Sebastian's favorite pencil breaks, Ariel tries to give him a new one; when Akiko breaks a crystal string on her favorite instrument, Ariel helps her find a replacement.",
+          "url": "https://www.imdb.com/title/tt39367298/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "Tomtom for Manman/Do the Fernie",
+          "airdate": "2026-02-13",
+          "summary": "Fernie makes a special birthday meal for his mom, but runs into silly chaos; Ariel creates a new dance called \"The Ariel,\" but Fernie just can't get the dance right.",
+          "url": "https://www.imdb.com/title/tt39367303/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "Captain Bembé/Tumbling Tumblekelp",
+          "airdate": "2026-03-13",
+          "summary": "Bembé and Ariel find a captain's hat and play \"captain\" with it; currents blow tumblekelp all over Fernie's family farm. Ariel and friends help clean things up.",
+          "url": "https://www.imdb.com/title/tt39781135/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "name": "Detective Flounder/Bath Time for Ebb and Flo",
+          "airdate": "2026-04-10",
+          "summary": "Flounder embarks on a silly search to find Ariel's lost doll. When Ariel and friends give Ebb and Flo their bath, they learn that trying to catch and clean the eels is a lot harder.",
+          "url": "https://www.imdb.com/title/tt40480788/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "name": "The Goldfish/Pufferball",
+          "airdate": "2026-04-17",
+          "summary": "Ariel goes on a fun adventure to help her new goldfish friend search for gold. Ariel meets a new pufferfish friend named Delroy at the park, and helps find a game he can play.",
+          "url": "https://www.imdb.com/title/tt40480941/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "name": "Flounder's Big SurPrize/Lucia's Puppyfish Problem",
+          "airdate": "2026-05-01",
+          "summary": "Ariel, Fernie, and Lucia really want to win Flounder a prize at the carnival. When Tica has puppyfish, Lucia can't decide which of the five she wants the most.",
+          "url": "https://www.imdb.com/title/tt41577596/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 2,
+          "number": 16,
+          "name": "Crystal Ball Playdate/Ursula's Special Chariot",
+          "airdate": "2026-06-05",
+          "summary": "Ariel and friends use a Crystal Ball to take Akiko on a playdate adventure. Ariel and friends clean Ursula's chariot to make it the most special, squeaky-clean chariot ever.",
+          "url": "https://www.imdb.com/title/tt42920479/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 2,
+          "number": 17,
+          "name": "Anora the Forgetful Mergician/Freezy Fun",
+          "airdate": "2026-06-12",
+          "summary": "A magical mergician character from Ursula's favorite childhood book comes to life. Ariel and Gerdie have to figure out how to unfreeze everything before the big royal dinner.",
+          "url": "https://www.imdb.com/title/tt43223446/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "name": "Fadda's Day/The Coral Crab",
+          "airdate": "2026-06-19",
+          "summary": "Ariel gets her sister Ayanna to help Akiko make a beautiful robe for Father's Day. When a magic crystal brings a Coral Crab statue to life, Fernie and his friends must catch him.",
+          "url": "https://www.imdb.com/title/tt43223449/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "name": "Twinspiration/Family Picnic Games",
+          "airdate": "2026-07-10",
+          "summary": "Ayanna and Alanna move into separate workspaces. Ariel and her family compete in fun outdoor games at their family picnic.",
+          "url": "https://www.imdb.com/title/tt43379257/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 2,
+          "number": 20,
+          "name": "Sylvia's Voice/The Tooth Fairy Fish",
+          "airdate": "2026-07-17",
+          "summary": "Ariel and her friends try to help Sylvia get her lost voice back. Ariel and her cousin, Jewels, can't wait for the Tooth Fairy Fish to visit and leave a pearl under her pillow.",
+          "url": "https://www.imdb.com/title/tt43379301/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 2,
+          "number": 21,
+          "name": "A Mysterious Machine/Nature is Magic!",
+          "airdate": "2026-08-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43658841/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 2,
+          "number": 22,
+          "name": "Enchanted Dolphin Cove",
+          "airdate": "2026-08-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43658846/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Atlantica Day/A Winner's Spirit",
+          "airdate": "2024-06-27",
+          "summary": "Ariel composes a celebratory song for Atlantica, but her overzealous efforts to assist Flounder in the All-Atlantica Swim Race teach her the value of letting friends progress at their own pace.",
+          "url": "https://www.imdb.com/title/tt28073821/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Ursula's Magic Camp/Fernie's Notebook",
+          "airdate": "2024-06-27",
+          "summary": "Lucia earns a badge at Ursula's Magic Camp. Fernie loses his favourite book.",
+          "url": "https://www.imdb.com/title/tt32295530/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Crystal Cavern Caper/A Banner Moment",
+          "airdate": "2024-06-28",
+          "summary": "Ariel tries to stop a pesky hermit crab from stealing her land treasures; when Ariel is tasked with being the royal banner carrier for Atlantica's parade, she thinks it's a small job and doesn't take it seriously. Ariel leads a parade.",
+          "url": "https://www.imdb.com/title/tt32295535/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "The Endless Sleepover / Daddy Daughter Dinner",
+          "airdate": "2024-07-05",
+          "summary": "When Ariel doesn't want to sleep at a sleepover, she asks her Tantie Ursula to use magic to stop time so that bedtime never comes; Ariel learns the importance of family time when she misses a special dinner with King Triton.",
+          "url": "https://www.imdb.com/title/tt32295536/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Copy Catfish/Happy Crabby Day",
+          "airdate": "2024-07-12",
+          "summary": "Ariel grows frustrated when her little cousin Jewels visits and won't stop copying her; Jewels copies Ariel. When King Triton declares Happy Crabby Day as a day off for all crabs, Sebastian must try to relax. Sebastian relaxes for a day.",
+          "url": "https://www.imdb.com/title/tt32574578/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Smoothie Shake-Up/Family Picture Day",
+          "airdate": "2024-07-19",
+          "summary": "Ariel and her friends volunteer to run Ravi's Juice Stand while he's away, but their lack of communication stirs up a big mess. Ariel preps for picture day and tries to help Ayanna with a hair emergency on their family picture day.",
+          "url": "https://www.imdb.com/title/tt32574580/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "The Cuttlebaby Sitter/Flounder the Leader",
+          "airdate": "2024-07-26",
+          "summary": "Ariel volunteers to watch cuttlebaby eggs to prove that she's a good babysitter; Flounder is chosen as the team coach for the Royal Family Cricket Game.",
+          "url": "https://www.imdb.com/title/tt32574583/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "The Clean Team/Clamming Up",
+          "airdate": "2024-08-02",
+          "summary": "Despite King Triton's warning, Ariel uses magic to clean her room; Ariel and her friends befriend a shy clam.",
+          "url": "https://www.imdb.com/title/tt32792279/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "The Singing Dolphin/The Happy Patty Clap",
+          "airdate": "2024-08-09",
+          "summary": "Ariel makes a friend. Ariel and her friends can't find a role for Delfino the dolphin in their band; when Ayanna is unable to compete in the Clap Game competition, Ariel steps in so that Alanna can still participate. Ariel plays patty clap",
+          "url": "https://www.imdb.com/title/tt32903210/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Ravi and Navi/Chef Flounder",
+          "airdate": "2024-08-16",
+          "summary": "A birthday party mishap. Ariel helps Ravi and his best friend Navi clear up a misunderstanding; Flounder is a cook and uses his cooking skills to help other chefs at the Atlantica Food Festival.",
+          "url": "https://www.imdb.com/title/tt32903209/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "The Brave Little Goby/Kid Triton",
+          "airdate": "2024-08-30",
+          "summary": "Ariel befriends a little Goby fish who wants to go on adventures like her; Triton accidentally drinks Lucia's magical potion, which turns him into a kid.",
+          "url": "https://www.imdb.com/title/tt32903208/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "The Kite Monster Legend/The Spooky Mirror Trick",
+          "airdate": "2024-10-04",
+          "summary": "When Fernie doesn't believe in the Kite Monster legend like his friends do, he starts to ruin their fun; Flounder uses Ursula's magic mirror to play a trick on his friends.",
+          "url": "https://www.imdb.com/title/tt33090265/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "name": "Fernie's Dra Konfó/Lucia, Lucia, Lucia!",
+          "airdate": "2024-10-25",
+          "summary": "When Fernie forgets his comfort blanket at home, he puts on a brave face in front of his friends by saying he doesn't need it to fall asleep; Lucia makes two other versions of herself so she can be at three different playdates at once.",
+          "url": "https://www.imdb.com/title/tt33366831/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "name": "The Lost Dogfish/Swim Scouts",
+          "airdate": "2024-11-08",
+          "summary": "Ariel really wants to keep a lost dogfish that she finds; a visiting mer-boy joins Ariel and friends on a Swim Scouts field trip.",
+          "url": "https://www.imdb.com/title/tt33886264/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 1,
+          "number": 17,
+          "name": "Daddy Daughter Adventure Day/Rainbow Sea Caves",
+          "airdate": "2024-11-29",
+          "summary": "Ariel and Triton spend Daddy Daughter Adventure Day together; Ariel and her friends explore the Rainbow Sea Caves.",
+          "url": "https://www.imdb.com/title/tt33886283/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 1,
+          "number": 18,
+          "name": "Flounder's Christmas Letter/Holiday Toy Box Trouble",
+          "airdate": "2024-12-02",
+          "summary": "When Flounder forgets to send his Christmas letter to Santa Mer-Claus, Ariel and her friends go on a holiday adventure to deliver the letter to him; Sebastian accidentally donates the box of toys that Ariel wants to keep.",
+          "url": "https://www.imdb.com/title/tt34483563/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 1,
+          "number": 19,
+          "name": "The Great Big Garden Show/The Sea Sniffles",
+          "airdate": "2025-01-10",
+          "summary": "Ariel gives her plant magic food to make it grow for the Great Big Garden Show; Flounder fakes being sick.",
+          "url": "https://www.imdb.com/title/tt34913563/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 1,
+          "number": 20,
+          "name": "Razzle Dazzle/Fernie's Float",
+          "airdate": "2024-02-07",
+          "summary": "When Lucia helps Ursula with a new magic spell, she creates magical mayhem; Ariel and her friends are tasked with building a float for Ravi's latest juice drink.",
+          "url": "https://www.imdb.com/title/tt35322855/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 1,
+          "number": 21,
+          "name": "Jewels the Winner/Abuelita's Shawl",
+          "airdate": "2025-03-07",
+          "summary": "Jewels brings down the fun; Lucia gifts a new shawl to her Abuelita.",
+          "url": "https://www.imdb.com/title/tt35673543/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 1,
+          "number": 22,
+          "name": "A Magical Achoo!/Are We There Yet?",
+          "airdate": "2025-04-11",
+          "summary": "Ursula gets sick; Ariel and family take a road trip.",
+          "url": "https://www.imdb.com/title/tt36057539/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 1,
+          "number": 23,
+          "name": "Best in Ebb & Flo/Me, My Shell, and I",
+          "airdate": "2025-05-23",
+          "summary": "Ebb and Flo compete; Fernie wants to play by himself.",
+          "url": "https://www.imdb.com/title/tt36433957/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 1,
+          "number": 24,
+          "name": "Picture Perfect Father's Day/Tantie's Day",
+          "airdate": "2025-06-06",
+          "summary": "Ariel struggles with a Father's Day gift idea for Triton; Ariel and her sisters want to celebrate a very special Tantie's Day by doing nice things for Ursula.",
+          "url": "https://www.imdb.com/title/tt36853416/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 1,
+          "number": 25,
+          "name": "Petting Zoo Day/New Squid in Town",
+          "airdate": "2025-07-25",
+          "summary": "Ariel runs a petting zoo; a new kid won't take turns.",
+          "url": "https://www.imdb.com/title/tt37212213/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 1,
+          "number": 26,
+          "name": "Family Treasure Hunt/Remy's Big Feelings",
+          "airdate": "2025-08-18",
+          "summary": "Nana Xola leads a family treasure hunt; Remy gets big feelings and learns to deal with them.",
+          "url": "https://www.imdb.com/title/tt37517191/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 1,
+          "number": 27,
+          "name": "Fernie's New Discovery/Grotto of Manners",
+          "airdate": "2025-08-19",
+          "summary": "Fernie seeks seahorse unicorns; Ursula creates a game for Ariel and friends.",
+          "url": "https://www.imdb.com/title/tt37517196/?ref_=ttep_ep_27"
+        },
+        {
+          "season": 1,
+          "number": 28,
+          "name": "Noodlemania/Super Flounder",
+          "airdate": "2025-08-20",
+          "summary": "Flounder helps Chef Louis; Flounder becomes Super Flounder.",
+          "url": "https://www.imdb.com/title/tt37517197/?ref_=ttep_ep_28"
+        },
+        {
+          "season": 1,
+          "number": 29,
+          "name": "The Magic Wand/Racin' Remy",
+          "airdate": "2025-08-21",
+          "summary": "Lucia borrows a special wand from Ursula; Remy does not follow the rules.",
+          "url": "https://www.imdb.com/title/tt37517201/?ref_=ttep_ep_29"
+        },
+        {
+          "season": 1,
+          "number": 30,
+          "name": "La Sirenusca/Substitute Sebastian",
+          "airdate": "2024-09-30",
+          "summary": "Ariel tracks down a mythological sea creature; Ariel and friends get a substitute teacher in music class.",
+          "url": "https://www.imdb.com/title/tt33085913/?ref_=ttep_ep_13"
+        }
+      ]
+    },
+    "tt0272422": {
+      "imdbId": "tt0272422",
+      "title": "WOW - Women of Wrestling",
+      "episodes": [
+        {
+          "season": 7,
+          "number": 1,
+          "name": "Episode #7.1",
+          "airdate": "2022-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt22263250/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 7,
+          "number": 2,
+          "name": "Episode #7.2",
+          "airdate": "2022-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt22263324/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 7,
+          "number": 3,
+          "name": "Episode #7.3",
+          "airdate": "2022-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt22263342/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 7,
+          "number": 4,
+          "name": "Episode #7.4",
+          "airdate": "2022-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt22263382/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 7,
+          "number": 5,
+          "name": "Episode #7.5",
+          "airdate": "2022-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt22263448/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 7,
+          "number": 6,
+          "name": "Episode #7.6",
+          "airdate": "2022-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt22263460/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 7,
+          "number": 7,
+          "name": "Episode #7.7",
+          "airdate": "2022-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt22263498/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 7,
+          "number": 8,
+          "name": "Episode #7.8",
+          "airdate": "2022-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt22263522/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 7,
+          "number": 9,
+          "name": "Episode #7.9",
+          "airdate": "2022-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt22263588/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 7,
+          "number": 11,
+          "name": "Episode #7.11",
+          "airdate": "2022-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt22263652/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 7,
+          "number": 12,
+          "name": "Episode #7.12",
+          "airdate": "2022-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt22263774/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 6,
+          "number": 4,
+          "name": "The Animals Are Unleashed!",
+          "airdate": "2019-10-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11028084/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 6,
+          "number": 5,
+          "name": "A Shot of a Lifetime",
+          "airdate": "2019-10-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11028114/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 6,
+          "number": 6,
+          "name": "The Hunter Has Become the Hunted!",
+          "airdate": "2019-10-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11071496/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 6,
+          "number": 7,
+          "name": "Icons and Legends",
+          "airdate": "2019-09-07",
+          "summary": "Singles Match Jessie Jones vs Fire (4:50) Singles Match Sassy Massy vs The Disciplinarian (w/Samantha Smart) (4:35) WOW Tag Team Title Tournament First Round Match Fury and Razor (w/Mezmeriah) vs Princess Aussie and Reyna Reyes (6:30) WOW Title #1 Contendership Elimination Three Way Match Jessicka Havok vs. Jungle Grrrl vs. The Beast - No Contest (4:12)",
+          "url": "https://www.imdb.com/title/tt10836944/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 6,
+          "number": 8,
+          "name": "Into the Lions Den",
+          "airdate": "2019-11-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11083202/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 6,
+          "number": 9,
+          "name": "The Predator Is Hungry!",
+          "airdate": "2019-11-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11121496/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 6,
+          "number": 10,
+          "name": "Triple Threat Tag Team Elimination",
+          "airdate": "2019-11-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11121502/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 6,
+          "number": 11,
+          "name": "Hour of Power",
+          "airdate": "2019-11-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11142606/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 6,
+          "number": 12,
+          "name": "Beast vs. Legend",
+          "airdate": "2019-11-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11142614/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 6,
+          "number": 14,
+          "name": "The Lurking Serpent",
+          "airdate": "2019-09-14",
+          "summary": "Singles Match The Beverly Hills Babe vs Faith The Lioness Singles Match Adrenaline vs Abilene Maverick WOW Tag Team Title Tournament First Round Match Keta Rush and Stephy Slays vs Holidead and Siren WOW Title Match Tessa Blanchard (c) vs Serpentine (w/Sophia Lopez)",
+          "url": "https://www.imdb.com/title/tt10837016/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 6,
+          "number": 28,
+          "name": "Welcome to the Jungle, Beast",
+          "airdate": "2019-09-28",
+          "summary": "Promotion: Women Of Wrestling Type: Event Location: Los Angeles, California, USA Arena: Los Angeles Convention Center.",
+          "url": "https://www.imdb.com/title/tt10837048/?ref_=ttep_ep_3"
+        }
+      ]
     }
   }
 }
