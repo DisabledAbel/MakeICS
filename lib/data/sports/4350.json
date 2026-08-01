@@ -483,7 +483,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -527,7 +527,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "1H",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -537,7 +537,7 @@
       "strTimestamp": "2026-08-01T03:00:00",
       "strEvent": "Atlético de San Luis vs Tijuana",
       "strEventAlternate": "Tijuana @ Atletico de San Luis",
-      "strFilename": "Mexican Liga MX 2026-08-01 Atletico de San Luis vs Tijuana",
+      "strFilename": "Mexican Liga MX 2026-08-01 Atlético de San Luis vs Tijuana",
       "strSport": "Soccer",
       "idLeague": "4350",
       "strLeague": "Mexican Primera League",
@@ -571,7 +571,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "1H",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
