@@ -6733,30 +6733,6 @@
           "airdate": "2025-11-25",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38782155/?ref_=ttep_ep_47"
-        },
-        {
-          "season": 19,
-          "number": 48,
-          "name": "Episode #19.48",
-          "airdate": "2025-12-02",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt38782159/?ref_=ttep_ep_48"
-        },
-        {
-          "season": 19,
-          "number": 49,
-          "name": "Episode #19.49",
-          "airdate": "2025-12-09",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt38782161/?ref_=ttep_ep_49"
-        },
-        {
-          "season": 19,
-          "number": 50,
-          "name": "Episode #19.50",
-          "airdate": "2025-12-16",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt38782162/?ref_=ttep_ep_50"
         }
       ]
     },
@@ -15589,22 +15565,6 @@
           "url": "https://www.imdb.com/title/tt40447294/?ref_=ttep_ep_8"
         },
         {
-          "season": 5,
-          "number": 9,
-          "name": "Episode #5.9",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt40447295/?ref_=ttep_ep_9"
-        },
-        {
-          "season": 5,
-          "number": 10,
-          "name": "Episode #5.10",
-          "airdate": "2026-08-07",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt40447296/?ref_=ttep_ep_10"
-        },
-        {
           "season": 4,
           "number": 1,
           "name": "Gangstas Don't Die",
@@ -18886,7 +18846,7 @@
           "number": 36,
           "name": "Use It or Lose It",
           "airdate": "2026-02-13",
-          "summary": null,
+          "summary": "The Monitor tries to make the Titans use their powers properly instead of the silly ways they've been used in the past.",
           "url": "https://www.imdb.com/title/tt39948271/?ref_=ttep_ep_36"
         },
         {
@@ -21557,6 +21517,14 @@
           "url": "https://www.imdb.com/title/tt43695009/?ref_=ttep_ep_9"
         },
         {
+          "season": 3,
+          "number": 10,
+          "name": "The Return",
+          "airdate": null,
+          "summary": "Our heroes try to save the world. Superman tries to reach them. Lex faces the music. It's time to be brave.",
+          "url": "https://www.imdb.com/title/tt43732865/?ref_=ttep_ep_10"
+        },
+        {
           "season": 2,
           "number": 1,
           "name": "More Things in Heaven and Earth",
@@ -24050,7 +24018,7 @@
         {
           "season": 1,
           "number": 21,
-          "name": "Episode #1.21",
+          "name": "El diablo en persona",
           "airdate": "2026-06-15",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43422930/?ref_=ttep_ep_21"
@@ -24058,7 +24026,7 @@
         {
           "season": 1,
           "number": 22,
-          "name": "Episode #1.22",
+          "name": "Yo soy tu padre",
           "airdate": "2026-06-16",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43422934/?ref_=ttep_ep_22"
@@ -24066,7 +24034,7 @@
         {
           "season": 1,
           "number": 23,
-          "name": "Episode #1.23",
+          "name": "Ya somos libres",
           "airdate": "2026-06-17",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43422932/?ref_=ttep_ep_23"
@@ -24074,7 +24042,7 @@
         {
           "season": 1,
           "number": 24,
-          "name": "Episode #1.24",
+          "name": "Quiero arruinar su imagen perfecta",
           "airdate": "2026-06-18",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43422936/?ref_=ttep_ep_24"
@@ -24082,7 +24050,7 @@
         {
           "season": 1,
           "number": 25,
-          "name": "Episode #1.25",
+          "name": "Escribamos nuestra propia historia",
           "airdate": "2026-06-19",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43422939/?ref_=ttep_ep_25"
@@ -25732,7 +25700,7 @@
         {
           "season": 1,
           "number": 1,
-          "name": "Episode #1.1",
+          "name": "Track of the Cat",
           "airdate": "2026-08-07",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37741546/?ref_=ttep_ep_1"
@@ -26295,10 +26263,18 @@
         {
           "season": 4,
           "number": 5,
-          "name": "Episode #4.5",
+          "name": "The Dakota EF5",
           "airdate": "2026-08-02",
-          "summary": null,
+          "summary": "Eyewitnesses capture severe weather across the Dakotas as tornadoes tear through neighborhoods and farm structures. Near Enderlin, North Dakota, a violent twister with estimated winds exceeding 200 mph becomes the first U.S. tornado rated EF5 in more than 12 years.",
           "url": "https://www.imdb.com/title/tt43702887/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "Flood of the Century",
+          "airdate": "2026-08-09",
+          "summary": "When a freak storm unleashes a tornado and a year's worth of rainfall on the city of Valencia, Spain, stunned eyewitnesses capture catastrophic flooding in the urban center as bridges buckle, cars are swept away, and residents fight for their lives.",
+          "url": "https://www.imdb.com/title/tt43733356/?ref_=ttep_ep_6"
         },
         {
           "season": 3,
@@ -26842,7 +26818,7 @@
           "number": 21,
           "name": "The New SuperKitty!",
           "airdate": "2026-08-06",
-          "summary": "Willa becomes a superkitty, but after some accidents, the other kitties must help her with her powers.",
+          "summary": "Willa is invited to become a SuperKitty, but her new skills are put to the test when Cat Burglar and the Glamsters take over Kittydale.",
           "url": "https://www.imdb.com/title/tt43660821/?ref_=ttep_ep_21"
         },
         {
@@ -27870,6 +27846,327 @@
           "airdate": "2019-09-28",
           "summary": "Promotion: Women Of Wrestling Type: Event Location: Los Angeles, California, USA Arena: Los Angeles Convention Center.",
           "url": "https://www.imdb.com/title/tt10837048/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt1086191": {
+      "imdbId": "tt1086191",
+      "title": "Outnumbered",
+      "episodes": [
+        {
+          "season": 5,
+          "number": 1,
+          "name": "Rites of Passage",
+          "airdate": "2014-01-29",
+          "summary": "Karen has started secondary school but is not settling in as she feels academically inferior, plus she is worried that her missing hamster may be trapped under the floor-boards. Ben on the other hand is over-joyed as he has landed the lead in his school play, a musical version of 'Spartacus' whilst Jake is in disgrace for getting a tattoo which looks like a spider. Sue sends emails to the parents of Karen's school-mates , which does not help but Pete comforts his daughter with a heart to heart.",
+          "url": "https://www.imdb.com/title/tt3485142/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 2,
+          "name": "K for Victory",
+          "airdate": "2014-02-05",
+          "summary": "Karen indulges her competitive instincts, Ben delves into the mysteries of human psychology and Jake appoints himself as a parenting expert. Meanwhile, Mum falls victim to a dysfunctional printer and Dad is hounded by a vigilant Daily Mail reader.",
+          "url": "https://www.imdb.com/title/tt3500514/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "name": "House of Hormones",
+          "airdate": "2014-02-12",
+          "summary": "Pete's 21 year old god daughter Stacey from Australia is staying and sets Ben's pulse racing as she walks around the house in only a towel. Pete thinks it time for Ben to have a chat about the facts of life - from Jake but Jake is more interested in persuading his parents to let girlfriend Alex stay over. Everybody except Pete is delighted when Sue agrees to mind a friend's baby - nicknamed the Werewolf - overnight, prompting Karen to ask awkward questions about child-birth and again raise the topic of her lost hamster. Ultimately Jake regrets his decision when other girlfriends get in touch, possibly tipped off by Sue, whilst Pete is happy to give the baby back to his mother and Ben is happy with a final revealing glimpse of Stacey.",
+          "url": "https://www.imdb.com/title/tt3514498/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 5,
+          "number": 4,
+          "name": "Into the Wilderness",
+          "airdate": "2014-02-19",
+          "summary": "Pete and Ben go on a bonding trip, camping in the woods, while Sue and Stacy don't exactly see eye-to-eye over the empowerment of women.",
+          "url": "https://www.imdb.com/title/tt3551104/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 5,
+          "number": 5,
+          "name": "Communication Skills",
+          "airdate": "2014-02-26",
+          "summary": "Sue is trying to organize a conference so it falls to Pete to let Karen in after school but he has to go to buy a central heating pump so rings Jake to come home. Jake has lost his Oyster card and has no cash so this requires a call to Ben, only for Pete to find himself speaking to a Chinese tourist who has found Ben's lost phone. Karen is delayed as the headmistress keeps her back to upbraid her for rubbishing the school rules. Nonetheless she still manages to get in ahead of Pete whilst Ben ends up asking the Chinaman and his wife round for tea.",
+          "url": "https://www.imdb.com/title/tt3548006/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 5,
+          "number": 6,
+          "name": "Spartacus the Musical",
+          "airdate": "2014-03-05",
+          "summary": "Grandad is very ill, bringing Angela back from America, with toy boy Tommy, whom she met at Sunday school. Sue is immediately rattled when Angela makes plans for their father as well as claiming that he recognized her when he failed to recognize Sue. After Tommy and Stacey decide to tour Europe Angela returns to the States and the family goes to see Ben in his school musical, 'Spartacus'. Ben is surprisingly nervous but a pep talk from Karen gives him the confidence to put on a good show. Sue and Pete also learn that, thanks to Jake, Angela has been persuaded to write a huge cheque that will solves all their worries about Grandad.",
+          "url": "https://www.imdb.com/title/tt3565284/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
+          "number": 7,
+          "name": "Christmas Special 2016",
+          "airdate": "2016-12-26",
+          "summary": "The Brockman family are on a special mission at Christmas time.",
+          "url": "https://www.imdb.com/title/tt6262758/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "The Funeral",
+          "airdate": "2011-09-02",
+          "summary": "Sandra interrupts a particularly competitive Wii session between Pete,who has rashly resigned his job,and the boys to ask Pete to read the eulogy at his Uncle Bob's funeral. His brief is not to mention Bernard, Bob's gay lover of fourteen years for whom he left his wife. However,flustered by Sue's giggling,Pete pays tribute to Bernard,earning praise from his mother and wife,as well as finding out something about the vicar. Bernard,however,is less pleased.",
+          "url": "https://www.imdb.com/title/tt2039987/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "The Exchange Student",
+          "airdate": "2011-10-07",
+          "summary": "No sooner has Brick's solicitor served papers on the Brockmans accusing Angela of abducting Misty to bump up her divorce settlement - and them of aiding a felon - than the bell rings again and Ottfried,Jake's German exchange student,whom noone was expecting,turns up. He is understandably perplexed by the whole set-up ,though he does regard Boris Johnson as a wonderful comedian,and offers Sue and Pete advice. Fortunately Angela decides to return to Brick but that still leaves the problem of Jake's nineteen year old pole-dancing girlfriend,who turns out to be only sixteen and therefore an illegal performer...",
+          "url": "https://www.imdb.com/title/tt2071137/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Christmas Special 2011",
+          "airdate": null,
+          "summary": "The Brockmans hope to get away for the holiday, but Granddad's sudden illness and trip to the worst hospital ever threatens their plans.",
+          "url": "https://www.imdb.com/title/tt2132946/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "Christmas Special 2012",
+          "airdate": "2012-12-24",
+          "summary": "The Brockmans throw a Christmas party with jubilee bunting for decorations but Pete is not happy. Of the kids only Ben wants to help whilst Sandra gets drunk, tactless Norris from next door reminds former TV weather-man Ray of his nervous breakdown and Pete gets shut in the bathroom with neurotic, flu-ridden Jane when the door handle falls off. As the evening progresses Norris's wife runs off with her Lesbian lover, Jane takes an accidental over-dose and is rushed to hospital whilst Jake brings the police to the house. This will certainly be one party for everybody to remember.",
+          "url": "https://www.imdb.com/title/tt2575644/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "name": "The Girls' Day Out",
+          "airdate": "2011-09-09",
+          "summary": "Now a supply teacher Pete gets grief from his daughter and wife for not helping more about the house. Angered by her menfolk's laziness Sue leaves them to do housework and cook Sunday dinner whilst she takes Karen out for a day at the local shopping mall. Here Karen makes short work of a charity campaigner before asking Sue to buy her clothes to keep up with her shallow school contemporaries. Returning home Sue finds that Ben has broken the washing machine and also has a peculiar idea of the ideal Sunday lunch.",
+          "url": "https://www.imdb.com/title/tt2044410/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 16,
+          "name": "The Labrador",
+          "airdate": "2011-09-16",
+          "summary": "Karen and Jake are both staying the night with friends whilst Ben is at an adventure camp,terrifying his school-mates with ghost stories. Sue and Pete find themselves dog-sitting Archie for friends of friends. He seems cute but nobody warned that he would go after next door's guinea pigs and run up a ninety pound bill. Pete loves having the kids out of the way and muses on a child-free future. Sue cannot wait to have them back again.",
+          "url": "https://www.imdb.com/title/tt2051532/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 23,
+          "name": "The Parents' Evening",
+          "airdate": "2011-09-23",
+          "summary": "When Ben tells them that a boy called Oliver is selling drugs at school they wonder if they should report him. Their dilemma grows at Ben's parents' evening when Oliver's mother and father tell them about the drugs problem at his last school,which has now stopped. However,given Ben's teachers' reports of his bizarre behaviour and the fact that Karen is found wandering in the school playground,they decide against making a formal complaint and leave an anonymous note - in capitals.",
+          "url": "https://www.imdb.com/title/tt2057074/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 29,
+          "name": "The Cold Caller",
+          "airdate": "2011-09-29",
+          "summary": "Ben is perfecting his ventriloquist act for the school talent contest and annoying everybody as usual but this is the least of his parents' worries. First they find out that Jake is dating a nineteen-year-old pole dancer who,due to fake I.D., believes he is eighteen. Then Angela arrives,having split acrimoniously from Brick and bringing his daughter Misty - whom she claims Brick mentally abused - with her. She is writing a book on surviving families and Sue does not like the references to herself in the sneak peep she takes. With Brick having invalidated Angela's credit cards,it looks as if the family is stuck with her . . . and then Brick's solicitor rings the doorbell.",
+          "url": "https://www.imdb.com/title/tt2063418/?ref_=ttep_ep_5"
+        }
+      ]
+    },
+    "tt40905799": {
+      "imdbId": "tt40905799",
+      "title": "How to Catch a Dirtbag",
+      "episodes": []
+    },
+    "tt14494184": {
+      "imdbId": "tt14494184",
+      "title": "RV There Yet?",
+      "episodes": [
+        {
+          "season": 4,
+          "number": 1,
+          "name": "Portsmouth, Ohio",
+          "airdate": "2025-04-05",
+          "summary": "Patrice and Kevin McCabe discover Ohio State Parks featuring Shawnee State Park, Lake Hope State Park and the haunted Moonville Tunnel.",
+          "url": "https://www.imdb.com/title/tt39300618/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Tampa, Florida",
+          "airdate": "2025-04-12",
+          "summary": "Patrice and Kevin McCabe explore the Tampa RV Super show, take a Lithionics factory tour and race at The Motor Enclave.",
+          "url": "https://www.imdb.com/title/tt39300622/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Ames, Iowa",
+          "airdate": "2025-04-19",
+          "summary": "Patrice and Kevin McCabe explore Ames, Iowa camping at Ledges State Park, riding the Rail Explorers, touring Reiman Gardens and tailgating at the Iowa State University.",
+          "url": "https://www.imdb.com/title/tt39300625/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Ponca, Nebraska",
+          "airdate": "2025-04-26",
+          "summary": "Patrice and Kevin McCabe tour 3 Nebraska State Parks including Ponca State Park, fishing at Danish Alps State Recreation Area and experiencing the living history at Fort Atkinson State Historical Park.",
+          "url": "https://www.imdb.com/title/tt39300627/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "Oregon, Ohio",
+          "airdate": "2025-05-03",
+          "summary": "Patrice and Kevin McCabe are camping at Maumee Bay State Park on the shores of Lake Erie in Oregon, Ohio and exploring the Marblehead Lighthouse.",
+          "url": "https://www.imdb.com/title/tt39300628/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "Perry, Georgia",
+          "airdate": "2025-05-10",
+          "summary": "Patrice and Kevin McCabe are attending the 110th International Family RV Association Convention in Perry, Georgia.",
+          "url": "https://www.imdb.com/title/tt39300630/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Myrtle Beach, South Carolina",
+          "airdate": "2025-05-17",
+          "summary": "Patrice and Kevin McCabe are camping at Ocean Lakes Family Campground in Myrtle Beach, South Carolina. Enjoying fresh fish from Seven Seas Seafood market and exploring Atalaya Castle in Huntington Beach State Park.",
+          "url": "https://www.imdb.com/title/tt39300632/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "North Myrtle Beach, South Carolina",
+          "airdate": "2025-05-31",
+          "summary": "Patrice and Kevin McCabe are camping in North Myrtle Beach at Willowtree RV Resort exploring the historic town of Loris, South Carolina, learning to shag dance, and renting a boat from North Myrtle Beach RV Resort and Dry Dock Marina.",
+          "url": "https://www.imdb.com/title/tt39300637/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "name": "Paris, Tennessee",
+          "airdate": "2025-05-31",
+          "summary": "Patrice and Kevin McCabe are camping at Buchanan Resort in Henry County, Tennessee and sampling the World's Biggest Fish Fry, visiting the Tennessee Wildlife Refuge and Paris Landing State Park.",
+          "url": "https://www.imdb.com/title/tt39300909/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 4,
+          "number": 10,
+          "name": "Elkhart, Indiana",
+          "airdate": "2025-06-07",
+          "summary": "Patrice and Kevin McCabe are camping in the RV Capital of the World - Elkhart, Indiana exploring the RV Hall of Fame and the Hall of Heroes Superhero Museum.",
+          "url": "https://www.imdb.com/title/tt39300911/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 4,
+          "number": 11,
+          "name": "Prince William, Virginia",
+          "airdate": "2025-06-14",
+          "summary": "Patrice and Kevin McCabe discover the history of Prince William County, Virginia camping at Prince William Forest RV Campground, visiting the National Museum of the Marine Corp, the Manassas Battlefield and NOVA LIVE.",
+          "url": "https://www.imdb.com/title/tt39300915/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 3,
+          "number": 1,
+          "name": "Sevierville, Tennessee",
+          "airdate": "2024-04-06",
+          "summary": "Patrice and Kevin McCabe are ziplining with Wahoo Ziplines, drinking moonshine with Danielle Parton, hiking to Clingmans Dome, and exploring the history of Sevierville, Tennessee staying at The Ridge Outdoor Resort during Halloween.",
+          "url": "https://www.imdb.com/title/tt39300583/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "name": "Glendive, Montana",
+          "airdate": "2024-04-13",
+          "summary": "Patrice and Kevin McCabe are boondocking, hiking, tasting burgers, and exploring the history of Makoshika State Park in Glendive, Montana.",
+          "url": "https://www.imdb.com/title/tt39300592/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "Cincinnati Region",
+          "airdate": "2024-04-20",
+          "summary": "Patrice and Kevin McCabe are paddling to breweries, exploring sign museums, tasting food tours, and exploring the Cincinnati Region staying at East Fork State Park.",
+          "url": "https://www.imdb.com/title/tt39300596/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "Crawford, Nebraska",
+          "airdate": "2024-04-27",
+          "summary": "Patrice and Kevin McCabe are on an adventure in Fort Robinson State Park - butte hiking historic trails, jeep riding, and trout fishing in Crawford, Nebraska.",
+          "url": "https://www.imdb.com/title/tt39300599/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "name": "Rock Island, Tennessee",
+          "airdate": "2024-05-04",
+          "summary": "Patrice and Kevin McCabe are chasing waterfalls, exploring small towns, sipping wine, and listening to special guest singer songwriter Dave Fenley at Rock Island State Park, Tennessee.",
+          "url": "https://www.imdb.com/title/tt39300600/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "name": "Tampa, Florida",
+          "airdate": "2024-05-11",
+          "summary": "Patrice and Kevin McCabe show off their hometown of Tampa Bay, Florida with a Riverwalk bike ride, sustainable farm visit, and adorable alpaca.",
+          "url": "https://www.imdb.com/title/tt39300604/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "name": "Greenup, Kentucky",
+          "airdate": "2024-05-18",
+          "summary": "Patrice and Kevin McCabe are celebrating Kentucky State Park's 100th anniversary with bourbon and bluegrass at Greenbo Lake State Resort Park, exploring Carter Caves State Resort Park, and golf at Grayson Lake State Park.",
+          "url": "https://www.imdb.com/title/tt39300605/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "name": "Delta, Alabama",
+          "airdate": "2024-06-01",
+          "summary": "Patrice and Kevin McCabe are camping at the highest point in Alabama at Cheaha State Park including a visit to the Talladega Super Speedway and the Starbrite Factory Tour.",
+          "url": "https://www.imdb.com/title/tt39300607/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "name": "Campbellsville, Kentucky",
+          "airdate": "2024-06-08",
+          "summary": "Patrice and Kevin McCabe are camping at Green River Lake State Park in Campbellsville, Kentucky. The couple visits my Old Kentucky Home State Park, samples the Mint Julep experience and visits the National Corvette Museum.",
+          "url": "https://www.imdb.com/title/tt39300615/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "name": "Season 3 Finale",
+          "airdate": "2024-06-15",
+          "summary": "Patrice and Kevin McCabe share \"extra\" footage meeting paleontologists at Makoshika State Park, playing the coolest disc golf course, jamming at Skipper's Smokehouse and funny crew bloopers and outtakes.",
+          "url": "https://www.imdb.com/title/tt39300617/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 3,
+          "number": 11,
+          "name": "Outer Banks, North Carolina",
+          "airdate": "2024-06-22",
+          "summary": "Patrice and Kevin McCabe are staying at Camp Hatteras RV Resort in the Outer Banks of North Carolina featuring the Cape Hatteras Lighthouse, the Bodie Lighthouse, fresh seafood at Risky Business and hang gliding with Kitty Hawk Kites.",
+          "url": "https://www.imdb.com/title/tt39300789/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 3,
+          "number": 12,
+          "name": "Delta, Alabama",
+          "airdate": "2024-06-29",
+          "summary": "Patrice and Kevin McCabe are camping at the highest point in Alabama at Cheaha State Park including a visit to the Talladega Super Speedway and the Starbrite Factory Tour.",
+          "url": "https://www.imdb.com/title/tt39300830/?ref_=ttep_ep_12"
         }
       ]
     }
