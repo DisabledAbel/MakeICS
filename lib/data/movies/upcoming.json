@@ -6898,6 +6898,17 @@
       "label": "Jul 09, 2027"
     },
     {
+      "id": "tt40424282",
+      "title": "Fake Skating",
+      "releaseDate": "Fri, 16 Jul 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "people": [],
+      "label": "Jul 16, 2027"
+    },
+    {
       "id": "tt37788431",
       "title": "A Minecraft Movie: Squared",
       "image": "https://m.media-amazon.com/images/M/MV5BOWYyZDk5NTItZTYyNy00ZWM4LTk3ZmItMzk2MDU1ZGRiZWMzXkEyXkFqcGc@._V1_.jpg",
@@ -6926,6 +6937,51 @@
         }
       ],
       "label": "Jul 23, 2027"
+    },
+    {
+      "id": "tt36495786",
+      "title": "A Quiet Place Part III",
+      "releaseDate": "Fri, 30 Jul 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "people": [
+        {
+          "id": "nm1289434",
+          "name": "Emily Blunt"
+        },
+        {
+          "id": "nm0614165",
+          "name": "Cillian Murphy"
+        },
+        {
+          "id": "nm1925239",
+          "name": "Jack O'Connell"
+        },
+        {
+          "id": "nm6884042",
+          "name": "Katy O'Brian"
+        }
+      ],
+      "label": "Jul 30, 2027"
+    },
+    {
+      "id": "tt41857193",
+      "title": "The Comebacker",
+      "releaseDate": "Fri, 30 Jul 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "people": [
+        {
+          "id": "nm0000158",
+          "name": "Tom Hanks"
+        }
+      ],
+      "label": "Jul 30, 2027"
     }
   ]
 }
