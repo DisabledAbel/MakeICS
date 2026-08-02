@@ -175,9 +175,9 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "2H",
+      "strStatus": "FT",
       "strPostponed": "no",
-      "strLocked": "unlocked"
+      "strLocked": "locked"
     },
     {
       "idEvent": "2494414",
@@ -219,7 +219,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
