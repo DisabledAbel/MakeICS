@@ -4,15 +4,15 @@
   "updatedAt": "2026-07-12T03:17:56.560Z",
   "events": [
     {
-      "idEvent": "af1-2026-08-01-albany-firebirds-minnesota-monsters",
-      "strEvent": "Albany Firebirds vs Minnesota Monsters",
-      "strHomeTeam": "Albany Firebirds",
-      "strAwayTeam": "Minnesota Monsters",
-      "dateEvent": "2026-08-01",
+      "idEvent": "af1-2026-08-08-nashville-kats-albany-firebirds",
+      "strEvent": "Nashville Kats vs Albany Firebirds",
+      "strHomeTeam": "Nashville Kats",
+      "strAwayTeam": "Albany Firebirds",
+      "dateEvent": "2026-08-08",
       "strTime": "20:00:00",
-      "strTimestamp": "2026-08-01T20:00:00.000Z",
+      "strTimestamp": "2026-08-08T20:00:00.000Z",
       "strLeague": "Arena Football One",
-      "strVenue": "MVP Arena",
+      "strVenue": "F&M Bank Arena",
       "strTVStation": "PO",
       "strStatus": "NS",
       "source": "af1-scrape"
