@@ -879,6 +879,17 @@
       "label": "Aug 06, 2026"
     },
     {
+      "id": "tt43376331",
+      "title": "DCI 2026: Big, Loud & Live",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2VkNjc5MjMtYTU3Yi00ZjBmLTllYzctY2Q0OGJjNWE5MWJlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Musical"
+      ],
+      "people": [],
+      "label": "Aug 06, 2026"
+    },
+    {
       "id": "tt37853455",
       "title": "One Night Only",
       "image": "https://m.media-amazon.com/images/M/MV5BM2ZlYTQ2YmUtZTNlNy00OGI0LWFmNjctN2MyNjYzNjAzNjliXkEyXkFqcGc@._V1_.jpg",
@@ -1224,6 +1235,22 @@
         {
           "id": "nm18598808",
           "name": "Usha Krishnan"
+        }
+      ],
+      "label": "Aug 13, 2026"
+    },
+    {
+      "id": "tt43714554",
+      "title": "2026 Cortis Tour [Put Your Phone Down] in LA: Live Viewing",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFmMTE4NTItN2ZmOC00YmRjLThmMGEtZWI0N2I2N2ZjYzc4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 13 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm17601837",
+          "name": "Cortis"
         }
       ],
       "label": "Aug 13, 2026"
@@ -2263,6 +2290,36 @@
       "label": "Aug 28, 2026"
     },
     {
+      "id": "tt43686717",
+      "title": "The Boomerang Bro Gets Grounded Movie: Back in Military School",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI5MWEwZDktMjc2YS00Y2E1LWE4ODctMmY5Yjg0ZjU4ZjU2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Mon, 31 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "people": [
+        {
+          "id": "nm15883659",
+          "name": "Oddcast Alan"
+        },
+        {
+          "id": "nm18710985",
+          "name": "Voiceforge Dallas"
+        },
+        {
+          "id": "nm15358719",
+          "name": "Carter Farr"
+        },
+        {
+          "id": "nm15105068",
+          "name": "GoAnimate Brian"
+        }
+      ],
+      "label": "Aug 31, 2026"
+    },
+    {
       "id": "tt31192372",
       "title": "Fall 2: Deadpoint",
       "image": "https://m.media-amazon.com/images/M/MV5BOTI4MjNjNDgtOWY2ZC00YTdjLThhMGItZjZiYjRhNmVhY2JhXkEyXkFqcGc@._V1_.jpg",
@@ -2767,7 +2824,7 @@
     {
       "id": "tt37542993",
       "title": "Daniel",
-      "image": "https://m.media-amazon.com/images/M/MV5BYzExMDZkNWItMTI2NS00YjI1LTk0MmMtOWQ5YmFmYzBlYjA1XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmY0MmU4ODktNTEzOC00OWFhLTk4NzctMTBhZjI2MzgxNjU1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Drama"
@@ -3148,7 +3205,7 @@
     {
       "id": "tt36980182",
       "title": "The Incomer",
-      "image": "https://m.media-amazon.com/images/M/MV5BMGExNTk0NjgtOGMxNS00MGE3LTk3NjAtNzE5MGEwZDA0Nzk0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWNkYTBhZDctYjFmMi00Mjc3LTlkZGYtMzRiYzgxOGVhYmNmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -3311,12 +3368,12 @@
           "name": "Maika Monroe"
         },
         {
-          "id": "nm0005042",
-          "name": "Jason Isaacs"
-        },
-        {
           "id": "nm5057169",
           "name": "Thomasin McKenzie"
+        },
+        {
+          "id": "nm0005042",
+          "name": "Jason Isaacs"
         },
         {
           "id": "nm2235721",
@@ -3944,12 +4001,12 @@
       ],
       "people": [
         {
-          "id": "nm4151189",
-          "name": "Tom Rhys Harries"
-        },
-        {
           "id": "nm0550371",
           "name": "Eddie Marsan"
+        },
+        {
+          "id": "nm4151189",
+          "name": "Tom Rhys Harries"
         },
         {
           "id": "nm7609875",
@@ -5954,16 +6011,16 @@
       ],
       "people": [
         {
-          "id": "nm0000110",
-          "name": "Kenneth Branagh"
+          "id": "nm5245722",
+          "name": "Adria Arjona"
         },
         {
           "id": "nm0430107",
           "name": "Michael B. Jordan"
         },
         {
-          "id": "nm5245722",
-          "name": "Adria Arjona"
+          "id": "nm0000110",
+          "name": "Kenneth Branagh"
         },
         {
           "id": "nm1561982",
@@ -6602,6 +6659,16 @@
       "label": "May 28, 2027"
     },
     {
+      "id": "tt12032700",
+      "title": "When We Pray",
+      "releaseDate": "Mon, 31 May 2027 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [],
+      "label": "May 31, 2027"
+    },
+    {
       "id": "tt13499272",
       "title": "From the Ashes",
       "image": "https://m.media-amazon.com/images/M/MV5BNzg2Mzc2OTEtZGNlZS00NTk5LThlMjYtZjM5MDZiOWZiM2RiXkEyXkFqcGc@._V1_.jpg",
@@ -6871,6 +6938,7 @@
     {
       "id": "tt37833661",
       "title": "Man of Tomorrow",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWQ4MDZmOTgtYzIzMi00ODVkLTg2NDUtMTEwOTAyNjM3MDJiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 09 Jul 2027 00:00:00 GMT",
       "genres": [
         "Action",
