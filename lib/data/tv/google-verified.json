@@ -4,11 +4,6 @@
     "name": "Vae Victus",
     "verifiedAt": "2026-07-18T14:20:56.031Z"
   },
-  "In the Eye of the Storm-4-4": {
-    "airdate": "2026-08-02",
-    "name": "The Dakota EF5",
-    "verifiedAt": "2026-07-18T14:21:02.678Z"
-  },
   "Lakefront Bargain Hunt: Renovation-6-12": {
     "airdate": "2026-08-25",
     "name": "A Vacation Home Search on Scenic Lake Barkley, Kentucky",
@@ -68,11 +63,6 @@
     "airdate": "2026-08-18",
     "name": "Episode #21.9",
     "verifiedAt": "2026-07-22T15:05:28.586Z"
-  },
-  "Big Brother-28-11": {
-    "airdate": "2026-08-02",
-    "name": "Episode #28.11",
-    "verifiedAt": "2026-07-22T15:05:49.457Z"
   },
   "Big Brother-28-12": {
     "airdate": "2026-08-05",
@@ -149,11 +139,6 @@
     "name": "Patrick Alone... At Home/Seagull Scout Adventures",
     "verifiedAt": "2026-07-22T15:07:18.006Z"
   },
-  "WWE Friday Night SmackDown-27-32": {
-    "airdate": "2025-08-08",
-    "name": "SummerSlam 2025 Fallout",
-    "verifiedAt": "2026-07-22T15:07:27.140Z"
-  },
   "WWE Friday Night SmackDown-27-33": {
     "airdate": "2026-08-14",
     "name": "Joined forces",
@@ -223,11 +208,6 @@
     "airdate": "2026-08-13",
     "name": "The Harlem Globetrotters vs The Dallas Cowboys Cheerleaders and Bridget Everett vs Vanessa Bayer",
     "verifiedAt": "2026-07-25T14:39:13.054Z"
-  },
-  "Snapped-36-15": {
-    "airdate": "2026-08-02",
-    "name": "Kimethia Coleman",
-    "verifiedAt": "2026-07-25T14:40:35.585Z"
   },
   "Tyler Perry's The Oval-7-12": {
     "airdate": "2026-08-05",
@@ -313,5 +293,10 @@
     "airdate": "2026-08-09",
     "name": "Nicole Nachtman",
     "verifiedAt": "2026-07-31T15:23:30.047Z"
+  },
+  "WWE Friday Night SmackDown-27-32": {
+    "airdate": "2026-08-07",
+    "name": "SummerSlam 2025 Fallout",
+    "verifiedAt": "2026-07-22T15:07:27.140Z"
   }
 }
