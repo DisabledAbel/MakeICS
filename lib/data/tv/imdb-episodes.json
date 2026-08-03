@@ -2850,7 +2850,56 @@
     "tt28184020": {
       "imdbId": "tt28184020",
       "title": "Contraband: Seized at the Border",
-      "episodes": []
+      "episodes": [
+        {
+          "season": 8,
+          "number": 1,
+          "name": "6-7 Hundred",
+          "airdate": null,
+          "summary": "When a young bus driver approaches the border without any passengers in his coach, officers suspect a smuggling operation may be underway; a man attempts to drive into the U.S. with a van full of goods loaded with more than just clothing.",
+          "url": "https://www.imdb.com/title/tt39423201/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 8,
+          "number": 2,
+          "name": "Grab Bag",
+          "airdate": null,
+          "summary": "Officers find a man and his family driving a suspiciously modified truck; a young man is caught with narcotics strapped to his body; a crosser is detained for having a record of smuggling an illegal migrant across the border.",
+          "url": "https://www.imdb.com/title/tt39423202/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 8,
+          "number": 3,
+          "name": "Trifecta of Trouble",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39423203/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 8,
+          "number": 4,
+          "name": "Semi-Pro",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39423204/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 8,
+          "number": 5,
+          "name": "This Round's on Me",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40137405/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 8,
+          "number": 6,
+          "name": "A Smuggler's Guide to Weight Loss",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40210963/?ref_=ttep_ep_6"
+        }
+      ]
     },
     "tt16738756": {
       "imdbId": "tt16738756",
@@ -6733,6 +6782,30 @@
           "airdate": "2025-11-25",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38782155/?ref_=ttep_ep_47"
+        },
+        {
+          "season": 19,
+          "number": 48,
+          "name": "Episode #19.48",
+          "airdate": "2025-12-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38782159/?ref_=ttep_ep_48"
+        },
+        {
+          "season": 19,
+          "number": 49,
+          "name": "Episode #19.49",
+          "airdate": "2025-12-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38782161/?ref_=ttep_ep_49"
+        },
+        {
+          "season": 19,
+          "number": 50,
+          "name": "Episode #19.50",
+          "airdate": "2025-12-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38782162/?ref_=ttep_ep_50"
         }
       ]
     },
@@ -9900,7 +9973,7 @@
           "number": 12,
           "name": "Episode #28.12",
           "airdate": "2026-07-30",
-          "summary": null,
+          "summary": "Mallory, LaTrice, and Jason go to battle in the BB Blockbuster - who will save their game, and who will be the next Houseguest sent packing?",
           "url": "https://www.imdb.com/title/tt43630966/?ref_=ttep_ep_12"
         },
         {
@@ -10942,6 +11015,14 @@
           "airdate": "2026-07-23",
           "summary": "With survival depending on preparation, remaining participants rush to secure essentials. Key food wins offer hope, but mounting fatigue and an upcoming medical check threaten their hard-earned progress.",
           "url": "https://www.imdb.com/title/tt43626922/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 13,
+          "number": 7,
+          "name": "Natural Order",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43735426/?ref_=ttep_ep_7"
         },
         {
           "season": 12,
@@ -14557,7 +14638,7 @@
           "number": 1,
           "name": "Retreat!/Sidekick Search",
           "airdate": "2026-07-17",
-          "summary": null,
+          "summary": "Patrick is mistaken for a corporate retreat leader; Patrick and Squidina hold auditions for a Patrick Show sidekick.",
           "url": "https://www.imdb.com/title/tt42343328/?ref_=ttep_ep_1"
         },
         {
@@ -16119,7 +16200,7 @@
         {
           "season": 1,
           "number": 6,
-          "name": "Episode #1.6",
+          "name": "Buzz",
           "airdate": "2026-07-31",
           "summary": "Follows Larry David and Jeff Schaffer in a journey through time that traces the history of the United States of America.",
           "url": "https://www.imdb.com/title/tt39177069/?ref_=ttep_ep_6"
@@ -18882,6 +18963,46 @@
           "url": "https://www.imdb.com/title/tt41465270/?ref_=ttep_ep_40"
         },
         {
+          "season": 9,
+          "number": 41,
+          "name": "Huzzah for the turkey Leg",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43733289/?ref_=ttep_ep_41"
+        },
+        {
+          "season": 9,
+          "number": 42,
+          "name": "The Joker's on You",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43733291/?ref_=ttep_ep_42"
+        },
+        {
+          "season": 9,
+          "number": 43,
+          "name": "TV Knight 10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43733292/?ref_=ttep_ep_43"
+        },
+        {
+          "season": 9,
+          "number": 44,
+          "name": "A Time to Sew",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43733294/?ref_=ttep_ep_44"
+        },
+        {
+          "season": 9,
+          "number": 45,
+          "name": "Teen Titans Go to the Repair Shop",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43733295/?ref_=ttep_ep_45"
+        },
+        {
           "season": 8,
           "number": 1,
           "name": "Welcome to Halloween",
@@ -21520,7 +21641,7 @@
           "season": 3,
           "number": 10,
           "name": "The Return",
-          "airdate": null,
+          "airdate": "2026-08-16",
           "summary": "Our heroes try to save the world. Superman tries to reach them. Lex faces the music. It's time to be brave.",
           "url": "https://www.imdb.com/title/tt43732865/?ref_=ttep_ep_10"
         },
@@ -22696,9 +22817,9 @@
         {
           "season": 3,
           "number": 7,
-          "name": "Episode #3.7",
+          "name": "The Dragon in Winter",
           "airdate": "2026-08-02",
-          "summary": null,
+          "summary": "Torn between Mysaria and Daemon's visions for her reign, Rhaenyra grows desperate for a sign that she will prevail.",
           "url": "https://www.imdb.com/title/tt36591969/?ref_=ttep_ep_7"
         },
         {
@@ -23554,6 +23675,14 @@
           "airdate": "2026-07-26",
           "summary": "John Oliver discusses how the Trump family's cryptocurrency ventures have overshadowed their other businesses, how they've created massive conflicts of interest for the Trump administration, and what it all has to do with Fartcoin.",
           "url": "https://www.imdb.com/title/tt43630205/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 13,
+          "number": 19,
+          "name": "Police Tools",
+          "airdate": "2026-08-02",
+          "summary": "John Oliver discusses the tools police are using to keep track of civilians - whether or not they're suspected of a crime - and some creative ideas about how to use wigs.",
+          "url": "https://www.imdb.com/title/tt43736318/?ref_=ttep_ep_19"
         },
         {
           "season": 12,
@@ -25430,7 +25559,7 @@
         {
           "season": 24,
           "number": 21,
-          "name": "Episode #24.21",
+          "name": "Erin Brockovich/Scott Galloway/Peter Hamby",
           "airdate": "2026-07-31",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43623830/?ref_=ttep_ep_21"
@@ -26314,6 +26443,14 @@
       "imdbId": "tt28224056",
       "title": "The Mega-Brands That Built America",
       "episodes": [
+        {
+          "season": 4,
+          "number": 1,
+          "name": "Road Warriors",
+          "airdate": "2026-08-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43737283/?ref_=ttep_ep_1"
+        },
         {
           "season": 3,
           "number": 1,
@@ -28071,102 +28208,424 @@
           "airdate": "2025-06-14",
           "summary": "Patrice and Kevin McCabe discover the history of Prince William County, Virginia camping at Prince William Forest RV Campground, visiting the National Museum of the Marine Corp, the Manassas Battlefield and NOVA LIVE.",
           "url": "https://www.imdb.com/title/tt39300915/?ref_=ttep_ep_11"
-        },
+        }
+      ]
+    },
+    "tt3608508": {
+      "imdbId": "tt3608508",
+      "title": "Mornings with Maria",
+      "episodes": []
+    },
+    "tt4592812": {
+      "imdbId": "tt4592812",
+      "title": "Fast Money Halftime Report",
+      "episodes": []
+    },
+    "tt22497928": {
+      "imdbId": "tt22497928",
+      "title": "The Exchange",
+      "episodes": [
         {
-          "season": 3,
+          "season": 2,
           "number": 1,
-          "name": "Sevierville, Tennessee",
-          "airdate": "2024-04-06",
-          "summary": "Patrice and Kevin McCabe are ziplining with Wahoo Ziplines, drinking moonshine with Danielle Parton, hiking to Clingmans Dome, and exploring the history of Sevierville, Tennessee staying at The Ridge Outdoor Resort during Halloween.",
-          "url": "https://www.imdb.com/title/tt39300583/?ref_=ttep_ep_1"
+          "name": "Episode #2.1",
+          "airdate": "2025-02-13",
+          "summary": "Now officially high-powered career women, Farida and Munira find themselves placed on the contract of a big client with even bigger expectations.",
+          "url": "https://www.imdb.com/title/tt35520426/?ref_=ttep_ep_1"
         },
         {
-          "season": 3,
+          "season": 2,
           "number": 2,
-          "name": "Glendive, Montana",
-          "airdate": "2024-04-13",
-          "summary": "Patrice and Kevin McCabe are boondocking, hiking, tasting burgers, and exploring the history of Makoshika State Park in Glendive, Montana.",
-          "url": "https://www.imdb.com/title/tt39300592/?ref_=ttep_ep_2"
+          "name": "Episode 2",
+          "airdate": "2025-02-13",
+          "summary": "Munira buckles under the weight of family duty. Meanwhile, Farida takes matters into her own hands, turning to an unexpected trade partner for help.",
+          "url": "https://www.imdb.com/title/tt35764218/?ref_=ttep_ep_2"
         },
         {
-          "season": 3,
+          "season": 2,
           "number": 3,
-          "name": "Cincinnati Region",
-          "airdate": "2024-04-20",
-          "summary": "Patrice and Kevin McCabe are paddling to breweries, exploring sign museums, tasting food tours, and exploring the Cincinnati Region staying at East Fork State Park.",
-          "url": "https://www.imdb.com/title/tt39300596/?ref_=ttep_ep_3"
+          "name": "Episode 3",
+          "airdate": "2025-02-13",
+          "summary": "Between her strained relationship with Jude and relentless ex-husband calling the shots, Farida finds herself in a dramatic, heated argument with Munira.",
+          "url": "https://www.imdb.com/title/tt35764220/?ref_=ttep_ep_3"
         },
         {
-          "season": 3,
+          "season": 2,
           "number": 4,
-          "name": "Crawford, Nebraska",
-          "airdate": "2024-04-27",
-          "summary": "Patrice and Kevin McCabe are on an adventure in Fort Robinson State Park - butte hiking historic trails, jeep riding, and trout fishing in Crawford, Nebraska.",
-          "url": "https://www.imdb.com/title/tt39300599/?ref_=ttep_ep_4"
+          "name": "Episode 4",
+          "airdate": "2025-02-13",
+          "summary": "Personal and professional lines are blurred when Munira is presented with a surprise proposal. Farida struggles to adapt to a new family dynamic.",
+          "url": "https://www.imdb.com/title/tt35764222/?ref_=ttep_ep_4"
         },
         {
-          "season": 3,
+          "season": 2,
           "number": 5,
-          "name": "Rock Island, Tennessee",
-          "airdate": "2024-05-04",
-          "summary": "Patrice and Kevin McCabe are chasing waterfalls, exploring small towns, sipping wine, and listening to special guest singer songwriter Dave Fenley at Rock Island State Park, Tennessee.",
-          "url": "https://www.imdb.com/title/tt39300600/?ref_=ttep_ep_5"
+          "name": "Episode 5",
+          "airdate": "2025-02-13",
+          "summary": "The cousins are entrusted with a crucial task that could make or break them, while Farida experiences the growing challenges of co-parenting.",
+          "url": "https://www.imdb.com/title/tt35764224/?ref_=ttep_ep_5"
         },
         {
-          "season": 3,
+          "season": 2,
           "number": 6,
-          "name": "Tampa, Florida",
-          "airdate": "2024-05-11",
-          "summary": "Patrice and Kevin McCabe show off their hometown of Tampa Bay, Florida with a Riverwalk bike ride, sustainable farm visit, and adorable alpaca.",
-          "url": "https://www.imdb.com/title/tt39300604/?ref_=ttep_ep_6"
+          "name": "Episode 6",
+          "airdate": "2025-02-13",
+          "summary": "The floor of the exchange heats up as the IPO goes live. Will Munira and Farida's hard work finally rise to the occasion or plummet to new lows?",
+          "url": "https://www.imdb.com/title/tt35764225/?ref_=ttep_ep_6"
         },
         {
-          "season": 3,
+          "season": 1,
+          "number": 1,
+          "name": "Bank of Tomorrow",
+          "airdate": "2023-02-08",
+          "summary": "As the ink dries on her divorce papers, Farida contends with her new reality. A charity auction reignites a friendly rivalry between her and Munira.",
+          "url": "https://www.imdb.com/title/tt26249534/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "It's a Man's World",
+          "airdate": "2023-02-08",
+          "summary": "On their first days at work and school, Farida seeks an alliance and Jude keeps a low profile. Feeling unheard, Munira takes matters into her own hands.",
+          "url": "https://www.imdb.com/title/tt26258694/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Thicker than Milk",
+          "airdate": "2023-02-08",
+          "summary": "As the family meticulously plans for its matriarch's 80th, Munira finds tactical inspiration in an unlikely place. Farida pursues more independence.",
+          "url": "https://www.imdb.com/title/tt26674252/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Short and Distort",
+          "airdate": "2023-02-08",
+          "summary": "The duo's success lands them in the limelight, but the bank's secret plan finds them between a rock and a hard place - and snubbed by their loved ones.",
+          "url": "https://www.imdb.com/title/tt26674254/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "The Silent Partner",
+          "airdate": "2023-02-08",
+          "summary": "After realizing that their presence in an important meeting is merely for show, Farida and Munira forge their own path - despite external distractions.",
+          "url": "https://www.imdb.com/title/tt26674255/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "What Goes Up",
+          "airdate": "2023-02-08",
+          "summary": "As the 1987 market crash looms, the Exchange braces for a critical all-nighter. Putting their personal lives on hold, Farida and Munira join the storm.",
+          "url": "https://www.imdb.com/title/tt26674257/?ref_=ttep_ep_6"
+        }
+      ]
+    },
+    "tt3184288": {
+      "imdbId": "tt3184288",
+      "title": "The Claman Countdown",
+      "episodes": []
+    },
+    "tt14721574": {
+      "imdbId": "tt14721574",
+      "title": "Kudlow",
+      "episodes": []
+    },
+    "tt3651112": {
+      "imdbId": "tt3651112",
+      "title": "The Evening Edit",
+      "episodes": []
+    },
+    "tt0487185": {
+      "imdbId": "tt0487185",
+      "title": "Mad Money",
+      "episodes": []
+    },
+    "tt11947238": {
+      "imdbId": "tt11947238",
+      "title": "History's Greatest Mysteries",
+      "episodes": [
+        {
+          "season": 7,
+          "number": 1,
+          "name": "Area 51",
+          "airdate": "2026-01-26",
+          "summary": "Hidden in the Nevada desert, a top-secret military base remains one of the most heavily restricted sites in the United States; speculation from hiding experimental aircraft to alien technology; Area 51 keeps its mysteries closely guarded.",
+          "url": "https://www.imdb.com/title/tt39401525/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 7,
+          "number": 2,
+          "name": "Hunt for Adolf Eichmann: Case Closed",
+          "airdate": "2026-02-02",
+          "summary": "At the end of World War II, many Nazi officials were captured and tried for their crimes; but one of the architects of the Holocaust, Adolf Eichmann, slipped through the cracks, repeatedly eluding Nazi hunters from around the globe.",
+          "url": "https://www.imdb.com/title/tt39419736/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 7,
+          "number": 3,
+          "name": "Legend of the Werewolf",
+          "airdate": "2026-02-09",
+          "summary": "It's one of humanity's oldest nightmares - at the full moon, werewolves that once were men hunt human prey and then feast on their flesh.",
+          "url": "https://www.imdb.com/title/tt39401532/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 7,
+          "number": 4,
+          "name": "The Theft of the Mona Lisa: Case Closed",
+          "airdate": "2026-02-23",
+          "summary": "The world's most famous painting vanishes in a daring heist, sparking international outrage and a global manhunt. A master detective is called in, who zeroes in on a handful of suspects with the motive and means to pull off the theft.",
+          "url": "https://www.imdb.com/title/tt39423192/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 7,
+          "number": 5,
+          "name": "The Hunt for the Kraken",
+          "airdate": "2026-03-03",
+          "summary": "It's one of the most legendary monsters said to be lurking in the vast open seas. With stories going back hundreds of years, this elusive creature has terrorized sailors and baffled scientists. Is this predator the stuff of legends ?",
+          "url": "https://www.imdb.com/title/tt40424741/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 7,
+          "number": 6,
+          "name": "The Murder of Sam Giancana",
+          "airdate": "2026-03-09",
+          "summary": "Explores the unsolved 1975 assassination of the notorious Chicago mob boss, examining theories that link his death to his planned testimony before a Senate committee about mob ties to the CIA and the JFK assassination.",
+          "url": "https://www.imdb.com/title/tt40564427/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 7,
           "number": 7,
-          "name": "Greenup, Kentucky",
-          "airdate": "2024-05-18",
-          "summary": "Patrice and Kevin McCabe are celebrating Kentucky State Park's 100th anniversary with bourbon and bluegrass at Greenbo Lake State Resort Park, exploring Carter Caves State Resort Park, and golf at Grayson Lake State Park.",
-          "url": "https://www.imdb.com/title/tt39300605/?ref_=ttep_ep_7"
+          "name": "The Unabomber: Case Closed",
+          "airdate": "2026-03-16",
+          "summary": "A twisted mastermind uses homemade bombs to terrorize the nation. Despite one of the most extensive manhunts in U.S. history, he still manages to stay one step ahead of law enforcement for nearly two decades.",
+          "url": "https://www.imdb.com/title/tt40793165/?ref_=ttep_ep_7"
         },
         {
-          "season": 3,
+          "season": 7,
           "number": 8,
-          "name": "Delta, Alabama",
-          "airdate": "2024-06-01",
-          "summary": "Patrice and Kevin McCabe are camping at the highest point in Alabama at Cheaha State Park including a visit to the Talladega Super Speedway and the Starbrite Factory Tour.",
-          "url": "https://www.imdb.com/title/tt39300607/?ref_=ttep_ep_8"
+          "name": "Who is the Boston Strangler",
+          "airdate": "2026-03-23",
+          "summary": "A series of shocking murders shake the city of Boston to its core.",
+          "url": "https://www.imdb.com/title/tt41042286/?ref_=ttep_ep_8"
         },
         {
-          "season": 3,
+          "season": 7,
           "number": 9,
-          "name": "Campbellsville, Kentucky",
-          "airdate": "2024-06-08",
-          "summary": "Patrice and Kevin McCabe are camping at Green River Lake State Park in Campbellsville, Kentucky. The couple visits my Old Kentucky Home State Park, samples the Mint Julep experience and visits the National Corvette Museum.",
-          "url": "https://www.imdb.com/title/tt39300615/?ref_=ttep_ep_9"
+          "name": "The Plot to Kill Lincoln",
+          "airdate": "2026-04-06",
+          "summary": "A shot rings out from the balcony of the Ford's Theater in Washington, D.C., and America's 16th president-Abraham Lincoln-has been killed. It has been long thought that this was the work of one man, but was it?",
+          "url": "https://www.imdb.com/title/tt41377792/?ref_=ttep_ep_9"
         },
         {
-          "season": 3,
+          "season": 7,
           "number": 10,
-          "name": "Season 3 Finale",
-          "airdate": "2024-06-15",
-          "summary": "Patrice and Kevin McCabe share \"extra\" footage meeting paleontologists at Makoshika State Park, playing the coolest disc golf course, jamming at Skipper's Smokehouse and funny crew bloopers and outtakes.",
-          "url": "https://www.imdb.com/title/tt39300617/?ref_=ttep_ep_10"
+          "name": "The Hunt for El Chapo: Case Closed",
+          "airdate": "2026-04-13",
+          "summary": "El Chapo is an untouchable drug lord who sat atop a criminal empire and became the most wanted man in the world; for fifteen years, the U.S. and Mexico tries to hunt down El Chapo.",
+          "url": "https://www.imdb.com/title/tt41816876/?ref_=ttep_ep_10"
         },
         {
-          "season": 3,
+          "season": 7,
           "number": 11,
-          "name": "Outer Banks, North Carolina",
-          "airdate": "2024-06-22",
-          "summary": "Patrice and Kevin McCabe are staying at Camp Hatteras RV Resort in the Outer Banks of North Carolina featuring the Cape Hatteras Lighthouse, the Bodie Lighthouse, fresh seafood at Risky Business and hang gliding with Kitty Hawk Kites.",
-          "url": "https://www.imdb.com/title/tt39300789/?ref_=ttep_ep_11"
+          "name": "What Killed Bruce Lee?",
+          "airdate": "2026-04-20",
+          "summary": "Bruce was an icon and the closest being to a real-life superhero. His athleticism and drive would change martial arts forever. But when found dead at age 32, many do not believe the coroner's assessment. So, what-or who-killed Bruce Lee?",
+          "url": "https://www.imdb.com/title/tt41957864/?ref_=ttep_ep_11"
         },
         {
-          "season": 3,
+          "season": 7,
           "number": 12,
-          "name": "Delta, Alabama",
-          "airdate": "2024-06-29",
-          "summary": "Patrice and Kevin McCabe are camping at the highest point in Alabama at Cheaha State Park including a visit to the Talladega Super Speedway and the Starbrite Factory Tour.",
-          "url": "https://www.imdb.com/title/tt39300830/?ref_=ttep_ep_12"
+          "name": "The Hunt for Viking Treasure",
+          "airdate": "2026-04-26",
+          "summary": "Known for their seafaring skills and feared for their ferocity, they amassed gold and other riches whilst trading and raiding across Europe. Caches of these treasures have been found across Europe and North America, are any hoards left?",
+          "url": "https://www.imdb.com/title/tt41957866/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 7,
+          "number": 13,
+          "name": "The Lufthansa Heist",
+          "airdate": "2026-05-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43620719/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 7,
+          "number": 14,
+          "name": "Foo Fighters: WWII Edition",
+          "airdate": "2026-05-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43620721/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 7,
+          "number": 15,
+          "name": "The Search for Rommel's Gold",
+          "airdate": "2026-05-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43620722/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 6,
+          "number": 1,
+          "name": "Roswell",
+          "airdate": "2025-01-27",
+          "summary": "It's one of America's most mythic UFO incidents, a 200-yard swath of debris that landed near Roswell, NM. Some believe it was an alien craft, others that it was a secret government experiment. So what really crashed in Roswell in 1947?",
+          "url": "https://www.imdb.com/title/tt35615015/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 6,
+          "number": 2,
+          "name": "The Franklin Expedition",
+          "airdate": "2025-02-03",
+          "summary": "The search for the illusive Northwest Passage leads to a historic expedition that sets sail into a labyrinth of ice and is never heard from again. What really killed the men of the Franklin Expedition?",
+          "url": "https://www.imdb.com/title/tt35615018/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 6,
+          "number": 3,
+          "name": "The Valentine's Day Massacre",
+          "airdate": "2025-02-10",
+          "summary": "On Feb.14th,1929, one of the most shocking murders in mob history goes down in Chicago--and becomes known as the Valentine's Day Massacre. The Massacre is considered the most brutal--and the toughest to solve. So who carried it out?",
+          "url": "https://www.imdb.com/title/tt35615049/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 6,
+          "number": 4,
+          "name": "What is the Yeti?",
+          "airdate": "2025-02-24",
+          "summary": "Sightings of the Yeti, a creature of myth and legend, have been recorded for thousands of years throughout the Himalayas and surrounding regions. Could this seven-foot-tall creature, covered in shaggy gray hair, be hiding in plain sight?",
+          "url": "https://www.imdb.com/title/tt35615053/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 6,
+          "number": 5,
+          "name": "The Final Flight of Amelia Earhart",
+          "airdate": "2025-03-03",
+          "summary": "In 1937, pioneering aviator Amelia Earhart vanishes during her ambitious round-the-world flight. Her mysterious disappearance near a Pacific island spawns decades of theories and unanswered questions.",
+          "url": "https://www.imdb.com/title/tt35996035/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 6,
+          "number": 6,
+          "name": "The Death and Fortune of Pablo Escobar",
+          "airdate": "2025-03-10",
+          "summary": "Pablo Escobar, the notorious narco-trafficker who single-handedly supplied most of America's cocaine in the 1980s, had billions of dollars in cash...and hid stacks of it all over the country. Who killed Escobar? And where did his money go?",
+          "url": "https://www.imdb.com/title/tt36179327/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 6,
+          "number": 7,
+          "name": "The Lost Loot of Jesse James",
+          "airdate": "2025-03-17",
+          "summary": "Cash, jewels, and two million dollars in gold bars. Jesse James and his gang robbed trains, stagecoaches and banks - and buried the spoils. Only a fraction has actually been found. If James and his gang hid a fortune, where could it be?",
+          "url": "https://www.imdb.com/title/tt36179334/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 6,
+          "number": 8,
+          "name": "The Rendlesham Forest Incident",
+          "airdate": "2025-03-24",
+          "summary": "A surreal event outside a U.S. Air Force base near the Rendlesham Forest in England becomes an international legend, and one of history's strangest unidentified encounters. What were the Rendlesham lights?",
+          "url": "https://www.imdb.com/title/tt36179339/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 6,
+          "number": 9,
+          "name": "The Amazing Events of the Book of Exodus",
+          "airdate": "2025-04-14",
+          "summary": "It's history's most famous lost city; the island kingdom that's baffled explorers for centuries; some say Atlantis is a myth, while others insist it was a very real place wiped out thousands of years ago.",
+          "url": "https://www.imdb.com/title/tt36721110/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 6,
+          "number": 10,
+          "name": "The Search for Atlantis",
+          "airdate": "2025-04-21",
+          "summary": "It's history's most famous lost city: the island kingdom that's baffled explorers for centuries; some say Atlantis is a myth, while others insist was a very real place wiped out thousands of years ago.",
+          "url": "https://www.imdb.com/title/tt36733590/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 6,
+          "number": 11,
+          "name": "The Death of Dillenger",
+          "airdate": "2025-04-28",
+          "summary": "John Dillinger's life consisted of brazen bank robberies across the country, but his death remains shrouded in mystery: what really happened to John Dillinger ?",
+          "url": "https://www.imdb.com/title/tt36733597/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 6,
+          "number": 12,
+          "name": "The Missing Riches of Genghis Khan",
+          "airdate": "2025-05-05",
+          "summary": "The legendary ancient ruler who amassed a huge fortune--Genghis Khan--hid his riches so well that to this day no one has unearthed them. 800 years later the fate of his treasure remains a mystery. Where are Genghis Khan's buried riches?",
+          "url": "https://www.imdb.com/title/tt36919877/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 6,
+          "number": 13,
+          "name": "The Missing Tesla Papers",
+          "airdate": "2025-05-12",
+          "summary": "Nicola Tesla had revolutionary ideas, but in the hands of the wrong people, those ideas could be used for evil purposes, when Tesla died, he allegedly had 80 trunks of papers full of ideas, but only 60 have been seen again.",
+          "url": "https://www.imdb.com/title/tt36733600/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 6,
+          "number": 14,
+          "name": "Secrets of the Copper Scroll",
+          "airdate": "2025-05-19",
+          "summary": "An ancient treasure map, recorded on a rare Copper Scroll, could lead to billions of dollars of buried treasure, hidden away thousands of years ago from Roman invaders. Where is the secret treasure of the Copper Scroll?",
+          "url": "https://www.imdb.com/title/tt36998723/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 6,
+          "number": 15,
+          "name": "The Killing of Bugsy Siegel",
+          "airdate": "2025-07-14",
+          "summary": "Notorious mobster Bugsy Siegel is gunned down in his Beverly Hills room; Siegel's killing becomes front page news; no arrest is ever made.",
+          "url": "https://www.imdb.com/title/tt37721347/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 6,
+          "number": 16,
+          "name": "Percy Fawcett and the Lost City of Z",
+          "airdate": "2025-07-21",
+          "summary": "Percy Fawcett becomes obsessed with a lost city deep in the Amazon jungle, a place he names the City of Z. He vanishes trying to locate it despite numerous missions to find him.",
+          "url": "https://www.imdb.com/title/tt37707886/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 6,
+          "number": 17,
+          "name": "Secrets of the Sphinx",
+          "airdate": "2025-07-28",
+          "summary": "Rising from the sands of the Egyptian desert is one of the world's greatest wonders, the mighty Sphinx.",
+          "url": "https://www.imdb.com/title/tt37727478/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 6,
+          "number": 18,
+          "name": "The Lost Pirate Treasure of Jean Lafitte",
+          "airdate": "2025-08-04",
+          "summary": "Known as :The Terror of the Gulf\"; the whereabouts of Jean Lafitte's treasure remains unknown; the swamps and bayous were his base, and likely also his hiding place; treasure hunters have found very little of Lafitte's stash.",
+          "url": "https://www.imdb.com/title/tt37727474/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 6,
+          "number": 19,
+          "name": "The Secrets of Easter Island",
+          "airdate": "2025-08-09",
+          "summary": "The gigantic statues of Easter Island have mystified humanity for centuries; how in the world did an ancient civilization, with only primitive tools, carve and then move thousands of these rock monuments around the island, and why?",
+          "url": "https://www.imdb.com/title/tt37895054/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 6,
+          "number": 20,
+          "name": "Lost Places of the Old Testament",
+          "airdate": "2025-08-18",
+          "summary": "The Tower of Babel, Sodom and Gomorrah, and Mount Sinai have seemingly vanished from the map; where are the Old Testament's legendary lost places, and what might they reveal?",
+          "url": "https://www.imdb.com/title/tt37899620/?ref_=ttep_ep_20"
         }
       ]
     }
