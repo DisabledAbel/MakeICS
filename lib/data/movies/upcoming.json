@@ -1874,6 +1874,22 @@
       "label": "Aug 23, 2026"
     },
     {
+      "id": "tt43704010",
+      "title": "Dylavek",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDJhOTA3YjEtZmExYi00OTk3LTk2MjItY2UxYzgyZDJhNDViXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Mon, 24 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Sci-Fi"
+      ],
+      "people": [
+        {
+          "id": "nm3440681",
+          "name": "Sreehari"
+        }
+      ],
+      "label": "Aug 24, 2026"
+    },
+    {
       "id": "tt27530512",
       "title": "Toxic",
       "image": "https://m.media-amazon.com/images/M/MV5BYWJhYjI3MjktMDRhZS00ZjU1LThiN2UtYjc2ZGQzZDNmMjQ4XkEyXkFqcGc@._V1_.jpg",
@@ -2085,7 +2101,7 @@
     {
       "id": "tt34470118",
       "title": "Rise of the Footsoldier: Retribution",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWRjMmY5YTYtYWYwZi00NzVkLTlmMmMtMjExYWRjZWY3MTVmXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzBiYjg0NmYtYzAzYS00MWJiLWI3MjMtOGU0MmI4YTFkODM0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -2290,6 +2306,35 @@
       "label": "Aug 28, 2026"
     },
     {
+      "id": "tt36639400",
+      "title": "The Last Blossom",
+      "image": "https://m.media-amazon.com/images/M/MV5BODE2NjZlNzAtNzRmNi00ZTUzLTg1NWItNzNlODM1ZWJkNmE5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sun, 30 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm5137121",
+          "name": "Natsuki Hanae"
+        },
+        {
+          "id": "nm0462006",
+          "name": "Kaoru Kobayashi"
+        },
+        {
+          "id": "nm2098603",
+          "name": "Hikari Mitsushima"
+        },
+        {
+          "id": "nm0594523",
+          "name": "Yoshiko Miyazaki"
+        }
+      ],
+      "label": "Aug 30, 2026"
+    },
+    {
       "id": "tt43686717",
       "title": "The Boomerang Bro Gets Grounded Movie: Back in Military School",
       "image": "https://m.media-amazon.com/images/M/MV5BMTI5MWEwZDktMjc2YS00Y2E1LWE4ODctMmY5Yjg0ZjU4ZjU2XkEyXkFqcGc@._V1_.jpg",
@@ -2420,20 +2465,20 @@
       ],
       "people": [
         {
-          "id": "nm0356017",
-          "name": "Rebecca Hall"
+          "id": "nm5245722",
+          "name": "Adria Arjona"
         },
         {
           "id": "nm6481846",
           "name": "Drew Starkey"
         },
         {
-          "id": "nm5245722",
-          "name": "Adria Arjona"
+          "id": "nm0000299",
+          "name": "Michael Biehn"
         },
         {
-          "id": "nm1405398",
-          "name": "Dan Stevens"
+          "id": "nm0356017",
+          "name": "Rebecca Hall"
         }
       ],
       "label": "Sep 04, 2026"
@@ -2485,12 +2530,12 @@
           "name": "Maggie Grace"
         },
         {
-          "id": "nm0001494",
-          "name": "Ralph Macchio"
-        },
-        {
           "id": "nm0001701",
           "name": "Devon Sawa"
+        },
+        {
+          "id": "nm0001494",
+          "name": "Ralph Macchio"
         },
         {
           "id": "nm1840504",
@@ -2524,6 +2569,36 @@
         {
           "id": "nm10075884",
           "name": "Runqi Zheng"
+        }
+      ],
+      "label": "Sep 04, 2026"
+    },
+    {
+      "id": "tt34339725",
+      "title": "Mirzapur: The Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BODAyYmJiODYtMDg4My00YjBlLTgwMDgtYTAzNzMzMGZlNGQ0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm2690647",
+          "name": "Pankaj Tripathi"
+        },
+        {
+          "id": "nm3170495",
+          "name": "Ali Fazal"
+        },
+        {
+          "id": "nm4450033",
+          "name": "Divyendu Sharma"
+        },
+        {
+          "id": "nm0457410",
+          "name": "Ravi Kishan"
         }
       ],
       "label": "Sep 04, 2026"
@@ -3240,7 +3315,7 @@
       "genres": [
         "Comedy",
         "Drama",
-        "Romance"
+        "Fantasy"
       ],
       "people": [
         {
@@ -3496,6 +3571,7 @@
     {
       "id": "tt10377864",
       "title": "Beware Boiúna",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGUzNzFjZmMtNmYzMi00NTFmLTg3NzktMDQwZDVkYmZkOWI1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3563,16 +3639,16 @@
       ],
       "people": [
         {
+          "id": "nm7436993",
+          "name": "Tramell Tillman"
+        },
+        {
           "id": "nm0991810",
           "name": "Mahershala Ali"
         },
         {
           "id": "nm0002064",
           "name": "Giancarlo Esposito"
-        },
-        {
-          "id": "nm7436993",
-          "name": "Tramell Tillman"
         },
         {
           "id": "nm0158626",
@@ -3800,16 +3876,16 @@
           "name": "Jason Momoa"
         },
         {
-          "id": "nm2810287",
-          "name": "David Dastmalchian"
-        },
-        {
           "id": "nm3170207",
           "name": "Noah Centineo"
         },
         {
-          "id": "nm2765191",
-          "name": "Eric André"
+          "id": "nm2810287",
+          "name": "David Dastmalchian"
+        },
+        {
+          "id": "nm3689528",
+          "name": "Olivier Richters"
         }
       ],
       "label": "Oct 16, 2026"
@@ -3820,7 +3896,8 @@
       "image": "https://m.media-amazon.com/images/M/MV5BODEzYTk1NjQtY2I4My00ZDZmLWFkMjAtZmZiYjNiMWQwZTNiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Drama"
       ],
       "people": [
         {
@@ -4163,12 +4240,12 @@
       ],
       "people": [
         {
-          "id": "nm0000553",
-          "name": "Liam Neeson"
-        },
-        {
           "id": "nm0000673",
           "name": "Marisa Tomei"
+        },
+        {
+          "id": "nm0000553",
+          "name": "Liam Neeson"
         },
         {
           "id": "nm0000609",
@@ -4419,20 +4496,20 @@
       ],
       "people": [
         {
-          "id": "nm0322513",
-          "name": "Iain Glen"
-        },
-        {
-          "id": "nm0261595",
-          "name": "Charles Esten"
-        },
-        {
           "id": "nm3522635",
           "name": "Joel David Smallbone"
         },
         {
           "id": "nm15871905",
           "name": "Lucas Leach"
+        },
+        {
+          "id": "nm7014833",
+          "name": "India Brown"
+        },
+        {
+          "id": "nm0002124",
+          "name": "Melora Hardin"
         }
       ],
       "label": "Nov 06, 2026"
@@ -4717,12 +4794,12 @@
       ],
       "people": [
         {
-          "id": "nm0876138",
-          "name": "Alan Tudyk"
-        },
-        {
           "id": "nm2794962",
           "name": "Hailee Steinfeld"
+        },
+        {
+          "id": "nm0876138",
+          "name": "Alan Tudyk"
         },
         {
           "id": "nm0429069",
@@ -4880,38 +4957,9 @@
       "label": "Dec 02, 2026"
     },
     {
-      "id": "tt34718200",
-      "title": "The Debut",
-      "image": "https://m.media-amazon.com/images/M/MV5BM2Q5ZTdmN2UtYzJjZi00ZjZjLWJmMWMtMjFjMmM5M2VmOWY4XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Thu, 03 Dec 2026 00:00:00 GMT",
-      "genres": [
-        "Comedy",
-        "Musical"
-      ],
-      "people": [
-        {
-          "id": "nm0000194",
-          "name": "Julianne Moore"
-        },
-        {
-          "id": "nm0316079",
-          "name": "Paul Giamatti"
-        },
-        {
-          "id": "nm1782991",
-          "name": "Halle Bailey"
-        },
-        {
-          "id": "nm0251986",
-          "name": "Jesse Eisenberg"
-        }
-      ],
-      "label": "Dec 03, 2026"
-    },
-    {
       "id": "tt32432428",
       "title": "Violent Night 2",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTQ0ZjI1Y2MtMDZmNC00Y2JlLTg3ZjAtYWQ0MTVmMGQ5MjRkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWY3ZmRhOTQtZDE4ZS00NmNlLWIwNjgtZTdkY2I4NjRmMjY5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -4994,6 +5042,36 @@
         }
       ],
       "label": "Dec 04, 2026"
+    },
+    {
+      "id": "tt34718200",
+      "title": "The Debut",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2Q5ZTdmN2UtYzJjZi00ZjZjLWJmMWMtMjFjMmM5M2VmOWY4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Musical"
+      ],
+      "people": [
+        {
+          "id": "nm0000194",
+          "name": "Julianne Moore"
+        },
+        {
+          "id": "nm0316079",
+          "name": "Paul Giamatti"
+        },
+        {
+          "id": "nm1782991",
+          "name": "Halle Bailey"
+        },
+        {
+          "id": "nm0251986",
+          "name": "Jesse Eisenberg"
+        }
+      ],
+      "label": "Dec 11, 2026"
     },
     {
       "id": "tt34491649",
@@ -5551,12 +5629,12 @@
           "name": "Tyler Labine"
         },
         {
-          "id": "nm3287940",
-          "name": "Tracy Ifeachor"
-        },
-        {
           "id": "nm0281956",
           "name": "Brendan Fletcher"
+        },
+        {
+          "id": "nm3287940",
+          "name": "Tracy Ifeachor"
         },
         {
           "id": "nm3958148",
@@ -5842,12 +5920,12 @@
           "name": "Jay Giannone"
         },
         {
-          "id": "nm13858494",
-          "name": "Stacy Kemp Ferrari"
+          "id": "nm3723214",
+          "name": "Michael Girgenti"
         },
         {
-          "id": "nm11316114",
-          "name": "Austyn Knight"
+          "id": "nm13858494",
+          "name": "Stacy Kemp Ferrari"
         }
       ],
       "label": "Feb 13, 2027"
@@ -6100,12 +6178,12 @@
       ],
       "people": [
         {
-          "id": "nm0252961",
-          "name": "Idris Elba"
-        },
-        {
           "id": "nm0000206",
           "name": "Keanu Reeves"
+        },
+        {
+          "id": "nm0252961",
+          "name": "Idris Elba"
         },
         {
           "id": "nm0005188",
@@ -6367,6 +6445,10 @@
       ],
       "people": [
         {
+          "id": "nm0936894",
+          "name": "Rowan Witt"
+        },
+        {
           "id": "nm5730649",
           "name": "Lewis Pullman"
         },
@@ -6377,10 +6459,6 @@
         {
           "id": "nm1551130",
           "name": "Keke Palmer"
-        },
-        {
-          "id": "nm0001548",
-          "name": "Rick Moranis"
         }
       ],
       "label": "Apr 23, 2027"
@@ -6743,12 +6821,12 @@
           "name": "Brie Larson"
         },
         {
-          "id": "nm0000422",
-          "name": "John Goodman"
-        },
-        {
           "id": "nm2560618",
           "name": "Willa Fitzgerald"
+        },
+        {
+          "id": "nm0000422",
+          "name": "John Goodman"
         },
         {
           "id": "nm0973177",
@@ -6777,12 +6855,12 @@
           "name": "Cate Blanchett"
         },
         {
-          "id": "nm9296746",
-          "name": "Mason Thames"
-        },
-        {
           "id": "nm4651633",
           "name": "Phil Dunster"
+        },
+        {
+          "id": "nm9296746",
+          "name": "Mason Thames"
         }
       ],
       "label": "Jun 11, 2027"
