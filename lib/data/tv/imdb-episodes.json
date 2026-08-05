@@ -1809,7 +1809,7 @@
         {
           "season": 8,
           "number": 7,
-          "name": "Episode #8.7",
+          "name": "Somehow Some Way",
           "airdate": "2026-08-18",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37156725/?ref_=ttep_ep_7"
@@ -2194,9 +2194,9 @@
         {
           "season": 11,
           "number": 9,
-          "name": "Episode #11.9",
+          "name": "Out with the Old, in with the Stew",
           "airdate": "2026-08-03",
-          "summary": null,
+          "summary": "With little time before charter to adjust to a crew member's departure, Capt. Sandy is forced into an unconventional decision. Gen tries to turn over a new leaf as Kayley receives an opportunity. A sudden injury forces more dramatic adjustments and puts the season in peril.",
           "url": "https://www.imdb.com/title/tt43634712/?ref_=ttep_ep_9"
         },
         {
@@ -2926,15 +2926,15 @@
           "number": 3,
           "name": "A Storm of Ugly in the Sunshine State",
           "airdate": "2026-08-03",
-          "summary": null,
+          "summary": "Retta's quest for ugly brings her to the Sunshine State, where three homes contend for a chance at a $150,000 makeover by designer Alison Victoria. It includes a moody Miami mosaic mess and a dome home where the carpet has seen better days.",
           "url": "https://www.imdb.com/title/tt43475514/?ref_=ttep_ep_3"
         },
         {
           "season": 8,
           "number": 4,
-          "name": "Episode #8.4",
+          "name": "An Ugly Mess in the Midwest",
           "airdate": "2026-08-10",
-          "summary": null,
+          "summary": "Retta's journey to find ugly continues in the Midwest where four homes duke it out for a chance at a $150,000 makeover by designer Alison Victoria. It includes a zombie doomsday castle, a flamingo-adorned lair, and a textured carpeted dwelling.",
           "url": "https://www.imdb.com/title/tt43475512/?ref_=ttep_ep_4"
         },
         {
@@ -3224,9 +3224,9 @@
         {
           "season": 3,
           "number": 8,
-          "name": "Episode #3.8",
+          "name": "What Happens in Vegas...",
           "airdate": "2026-08-03",
-          "summary": null,
+          "summary": "While in Las Vegas for their joint bachelor and bachelorette parties, Cole tries to persuade Kacie to elope. On the heels of their first fight, Steven does damage control with with his girlfriend, Allie. Jesse and Alli try to rekindle the spark in their marriage.",
           "url": "https://www.imdb.com/title/tt43677859/?ref_=ttep_ep_8"
         },
         {
@@ -3489,10 +3489,26 @@
         {
           "season": 1,
           "number": 8,
-          "name": "Episode #1.8",
+          "name": "Keep Calm and Stay Shady",
           "airdate": "2026-08-03",
-          "summary": null,
+          "summary": "Krista confronts JJ over their Greek Night fallout, while Sammy and Steph question John's new relationship. John takes JJ on a practice date that sparks unexpected feelings. The Backyard Dwarf Games begin with a player who stirs up more than competition.",
           "url": "https://www.imdb.com/title/tt43720407/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Playing Dirty in the Desert",
+          "airdate": "2026-08-10",
+          "summary": "The Backyard Dwarf Games spark laughs and rivalry as JJ wrestles with her feelings for John and Jahmani. As the group's Palm Springs getaway winds down, emotions run high, secrets surface, and a late-night hot tub confession changes everything.",
+          "url": "https://www.imdb.com/title/tt43745179/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Episode #1.10",
+          "airdate": "2026-08-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43745180/?ref_=ttep_ep_10"
         }
       ]
     },
@@ -10705,7 +10721,7 @@
           "number": 18,
           "name": "The Valley of the Damned",
           "airdate": "2026-07-29",
-          "summary": "In the season finale, Kristen and Luke attempt to recover from the fallout of therapy. Lala and Nia look for a path forward. Janet confronts Zack for what he's saying behind her back. Brittany's friendships are tested at her Halloween party when she accuses Kristen and Nia of lying.",
+          "summary": "Kristen and Luke deal with therapy aftermath. Lala and Nia seek resolution. Janet confronts Zack about gossip. At Brittany's Halloween party, she accuses Kristen and Nia of lying, straining friendships.",
           "url": "https://www.imdb.com/title/tt43684778/?ref_=ttep_ep_18"
         },
         {
@@ -10713,7 +10729,7 @@
           "number": 19,
           "name": "Reunion Part 1",
           "airdate": "2026-08-05",
-          "summary": "Tensions run high as the group from \"The Valley\" comes together. Kristen and Nia reflect on their postpartum journeys and marriages now that their daughters are a year old. Brittany comes to term with her dating picker being off. Michelle addresses her love life being in the headlines. Zack calls out Brittany for not having his back. As Lacy joins the reunion stage, things quickly take a turn with Michelle.",
+          "summary": "Kristen and Nia discuss postpartum experiences and marriages. Brittany reflects on her dating choices. Michelle talks about her public love life. Zack confronts Brittany. Lacy's arrival escalates conflict with Michelle.",
           "url": "https://www.imdb.com/title/tt43723156/?ref_=ttep_ep_19"
         },
         {
@@ -22917,6 +22933,14 @@
           "url": "https://www.imdb.com/title/tt43708367/?ref_=ttep_ep_2"
         },
         {
+          "season": 19,
+          "number": 3,
+          "name": "Knoxville Crowd Crawl",
+          "airdate": "2026-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43745135/?ref_=ttep_ep_3"
+        },
+        {
           "season": 18,
           "number": 1,
           "name": "Surviving Savannah",
@@ -24429,6 +24453,22 @@
           "airdate": "2026-07-22",
           "summary": "Josh joins archaeologists as they bushwhack through thick jungle and rappel into vast caves in search of the lost Zoque culture. Deep underground, the team push through flooded sections and find ritual offerings that may solve the mystery.",
           "url": "https://www.imdb.com/title/tt43675117/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 17,
+          "number": 6,
+          "name": "Inca Treasure Tunnels",
+          "airdate": "2026-08-05",
+          "summary": "Josh helps discover and explore a labyrinth of lost tunnels. He dodges traffic to assist in a first-ever radar scan below the busy streets of Cuzco, Peru. He joins them as they push into the tunnels and find priceless ancient treasures.",
+          "url": "https://www.imdb.com/title/tt43709140/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 17,
+          "number": 7,
+          "name": "Chasing Civil War Gold",
+          "airdate": "2026-08-12",
+          "summary": "Josh hunts for millions in missing Confederate gold. Following a new lead, he explores a wagon train robbery site where gold and silver coins vanished. Then, an eyewitness account points to the location of Jefferson Davis's lost war chest.",
+          "url": "https://www.imdb.com/title/tt43722289/?ref_=ttep_ep_7"
         },
         {
           "season": 16,
@@ -26180,7 +26220,7 @@
           "number": 1,
           "name": "And the Burning Heart",
           "airdate": "2026-08-02",
-          "summary": null,
+          "summary": "The Librarians travel to an international boarding school to examine a sudden wave of unexplained anger, where they meet a puzzling stranger who says he's the famed sorcerer Merlin.",
           "url": "https://www.imdb.com/title/tt37831355/?ref_=ttep_ep_1"
         },
         {
@@ -26188,7 +26228,7 @@
           "number": 2,
           "name": "And the Tethered Wish",
           "airdate": "2026-08-03",
-          "summary": null,
+          "summary": "An escaped genie wreaks havoc in Belgrade granting wishes; the Librarians must trap him before his powers spiral out of control, but Vikram's rash wish mystically binds him to Jacob Stone.",
           "url": "https://www.imdb.com/title/tt43644541/?ref_=ttep_ep_2"
         },
         {
@@ -26448,8 +26488,24 @@
           "number": 1,
           "name": "Road Warriors",
           "airdate": "2026-08-02",
-          "summary": null,
+          "summary": "Road Warriors - During WWII, a struggling automaker and Detroit's industry titan race to build a revolutionary all-purpose military vehicle, then spend decades battling to reinvent their wartime creation into America's most popular type of car: the SUV.",
           "url": "https://www.imdb.com/title/tt43737283/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "The Game Makers",
+          "airdate": "2026-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43744933/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Ideas That Stick",
+          "airdate": "2026-08-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43744937/?ref_=ttep_ep_3"
         },
         {
           "season": 3,
@@ -26747,21 +26803,21 @@
           "number": 1,
           "name": "1970s",
           "airdate": "2026-08-02",
-          "summary": null,
+          "summary": "As cultural and political movements grow across the United States, their impact on sports is undeniable; women command a larger place on the American sports horizon, while free agency rebalances the dynamic between owners and players.",
           "url": "https://www.imdb.com/title/tt36979702/?ref_=ttep_ep_1"
         },
         {
           "season": 1,
           "number": 2,
-          "name": "Episode #1.2",
+          "name": "1960s",
           "airdate": "2026-08-02",
-          "summary": null,
+          "summary": "Television revolutionizes the way Americans enjoy sports, bringing games, especially from the NFL, into tens of millions of homes. Certain stars - Bill Russell, Joe Namath, Muhammed Ali, and Peggy Flemming - seem born for the camera.",
           "url": "https://www.imdb.com/title/tt36979701/?ref_=ttep_ep_2"
         },
         {
           "season": 1,
           "number": 3,
-          "name": "Episode #1.3",
+          "name": "1980s",
           "airdate": "2026-08-09",
           "summary": "As tensions between the USSR and the United States heat up in the 80s, so do sports rivalries; Everett vs. Navratilova and Bird vs. Magic in the NBA dominate their respective sports, while The Great One bursts onto the ice in the NHL.",
           "url": "https://www.imdb.com/title/tt36979705/?ref_=ttep_ep_3"
@@ -28955,6 +29011,788 @@
           "airdate": "2025-12-19",
           "summary": "Are lasers in the Hawaiian sky a secret space weapon? Did a tourist's photo capture a famous Canadian beast? Tony and his team of experts dive into these claims to find the truth.",
           "url": "https://www.imdb.com/title/tt39239978/?ref_=ttep_ep_21"
+        }
+      ]
+    },
+    "tt27543562": {
+      "imdbId": "tt27543562",
+      "title": "The Shards",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Pilot",
+          "airdate": "2026-08-05",
+          "summary": "It's the summer of 1981 in Los Angeles; a series of disturbing crimes coincides with the arrival of a strange new student in Bret's orbit.",
+          "url": "https://www.imdb.com/title/tt28316898/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Don't You Want Me",
+          "airdate": "2026-08-05",
+          "summary": "Bret digs deeper into Robert's murky past and uncovers shocking evidence.",
+          "url": "https://www.imdb.com/title/tt39280873/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Help Me! Rhonda!",
+          "airdate": "2026-08-12",
+          "summary": "A beloved student's sudden disappearance causes chaos for the senior class.",
+          "url": "https://www.imdb.com/title/tt41031666/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Robert's Party",
+          "airdate": "2026-08-12",
+          "summary": "Susan's welcome party for Robert is overshadowed by a terrifying and violent incident.",
+          "url": "https://www.imdb.com/title/tt41188024/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Murder on the Dancefloor",
+          "airdate": "2026-08-19",
+          "summary": "A televised dance competition culminates with a horrifying showstopper.",
+          "url": "https://www.imdb.com/title/tt41188025/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Homecoming Part One",
+          "airdate": "2026-08-26",
+          "summary": "Troubled Debbie is galvanized by a new extracurricular.",
+          "url": "https://www.imdb.com/title/tt40116552/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Homecoming Part Two",
+          "airdate": "2026-08-26",
+          "summary": "A surprising Homecoming King and Queen are crowned as the Trawler's killing spree continues.",
+          "url": "https://www.imdb.com/title/tt41188028/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Stairway to Heaven",
+          "airdate": "2026-09-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41188031/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Episode #1.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43708010/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt8139876": {
+      "imdbId": "tt8139876",
+      "title": "Building Giants",
+      "episodes": [
+        {
+          "season": 4,
+          "number": 1,
+          "name": "City of Ice",
+          "airdate": "2020-05-06",
+          "summary": "Engineers race to build a city made of snow and ice in a record-breaking 15 days, and to accomplish this herculean task, they use cutting-edge tech and the latest construction methods to turn 110,000 tons of ice into an extraordinary super city.",
+          "url": "https://www.imdb.com/title/tt12317978/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Earthquake Proof Mega Metro",
+          "airdate": "2020-05-13",
+          "summary": "An expert team of engineers uses cutting-edge tech and the latest construction methods to build Los Angeles's biggest engineering project ever: a series of new subway lines in durable, earthquake-proof tunnels.",
+          "url": "https://www.imdb.com/title/tt11710744/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Underground Mega Highway",
+          "airdate": "2020-05-20",
+          "summary": "An expert team of engineers use hi-tech explosions and state-of-the-art drilling rigs to tear through solid granite and build an 11-mile underground tunnel, one of the longest in the world.",
+          "url": "https://www.imdb.com/title/tt12379088/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Mega Ice Ship",
+          "airdate": "2020-05-27",
+          "summary": "The world's best shipbuilders join forces to build a state-of-the-art ship that comes equipped with two submarines, and using cutting-edge engineering, it can brave the Arctic Ocean's worst winters and deadliest seas.",
+          "url": "https://www.imdb.com/title/tt12409354/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "Earthquake Proof Mega Bridge",
+          "airdate": "2020-06-03",
+          "summary": "An expert team of engineers use the latest advances in construction and design to battle deadly earthquakes, intense heat, and punishing deadlines and build a 3,500-long bridge in Los Angeles that's tough enough to brave the world's worst disasters.",
+          "url": "https://www.imdb.com/title/tt12481932/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "High-Speed Train",
+          "airdate": "2020-06-17",
+          "summary": "An expert team of engineers use the latest advances in high-speed technology to build an army of the fastest and most advanced trains in the world; special access into the construction process reveals these record-setting trains' technological secrets.",
+          "url": "https://www.imdb.com/title/tt12739178/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Monster Roller Coaster",
+          "airdate": "2020-06-24",
+          "summary": "Expert engineering and cutting-edge technology come together to build one of the world's wildest roller coasters, and special behind-the-scenes access reveals how new innovations make this high-speed thrill ride possible.",
+          "url": "https://www.imdb.com/title/tt12739184/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "Cruise Ship of the Future",
+          "airdate": "2020-07-01",
+          "summary": "One of the world's largest and most advanced cruise ships must brave some of the roughest seas on earth, and using expert engineering and the latest tech, its crew relies on cutting-edge innovations to operate this 170,000 ton vessel safely and speedily.",
+          "url": "https://www.imdb.com/title/tt12739210/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "name": "NFL Super Stadiums",
+          "airdate": "2020-09-09",
+          "summary": "In Los Angeles engineers race to build a record-breaking stadium costing two and a half million dollars. The team need to finish the project in just 14 months, battling flash floods, blazing heat and the threat of a devastating earthquake.",
+          "url": "https://www.imdb.com/title/tt12856850/?ref_=ttep_ep_9"
+        }
+      ]
+    },
+    "tt23858980": {
+      "imdbId": "tt23858980",
+      "title": "Rubble & Crew",
+      "episodes": [
+        {
+          "season": 5,
+          "number": 1,
+          "name": "Episode #5.1",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670051/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 2,
+          "name": "Episode #5.2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670048/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "name": "Episode #5.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670053/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 5,
+          "number": 4,
+          "name": "Episode #5.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670049/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 5,
+          "number": 5,
+          "name": "Episode #5.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670057/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 5,
+          "number": 6,
+          "name": "Episode #5.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670056/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
+          "number": 7,
+          "name": "Episode #5.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670054/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 5,
+          "number": 8,
+          "name": "Episode #5.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670050/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 5,
+          "number": 9,
+          "name": "Episode #5.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670055/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 5,
+          "number": 10,
+          "name": "Episode #5.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670052/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 5,
+          "number": 11,
+          "name": "Episode #5.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670167/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 5,
+          "number": 12,
+          "name": "The Crew Builds A Trip To The Moon",
+          "airdate": "2026-07-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670165/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 5,
+          "number": 13,
+          "name": "Episode #5.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670170/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 5,
+          "number": 14,
+          "name": "Episode #5.14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670169/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 5,
+          "number": 15,
+          "name": "Episode #5.15",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670173/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 5,
+          "number": 16,
+          "name": "Episode #5.16",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670174/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 5,
+          "number": 17,
+          "name": "Episode #5.17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670171/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 5,
+          "number": 18,
+          "name": "Episode #5.18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670172/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 5,
+          "number": 19,
+          "name": "Episode #5.19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670166/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 5,
+          "number": 20,
+          "name": "Episode #5.20",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670168/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 5,
+          "number": 21,
+          "name": "Episode #5.21",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670532/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 5,
+          "number": 22,
+          "name": "Episode #5.22",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670537/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 5,
+          "number": 23,
+          "name": "Episode #5.23",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670534/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 5,
+          "number": 24,
+          "name": "Episode #5.24",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670533/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 5,
+          "number": 25,
+          "name": "Episode #5.25",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670535/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 5,
+          "number": 26,
+          "name": "Episode #5.26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42670536/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 4,
+          "number": 1,
+          "name": "Episode #4.1",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980466/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Episode #4.2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980464/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Episode #4.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980473/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Episode #4.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980469/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "Episode #4.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980470/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "Episode #4.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980472/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Episode #4.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980471/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "The Crew Builds a Bird Flight School",
+          "airdate": "2026-02-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980465/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "name": "Episode #4.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980468/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 4,
+          "number": 10,
+          "name": "Episode #4.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980467/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 4,
+          "number": 11,
+          "name": "Episode #4.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980480/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 4,
+          "number": 12,
+          "name": "Episode #4.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980481/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 4,
+          "number": 13,
+          "name": "Episode #4.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35980482/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 4,
+          "number": 14,
+          "name": "Episode #4.14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669560/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 4,
+          "number": 15,
+          "name": "Episode #4.15",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669555/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 4,
+          "number": 16,
+          "name": "Episode #4.16",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669564/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 4,
+          "number": 17,
+          "name": "Episode #4.17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669556/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 4,
+          "number": 18,
+          "name": "Episode #4.18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669559/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 4,
+          "number": 19,
+          "name": "Episode #4.19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669557/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 4,
+          "number": 20,
+          "name": "Episode #4.20",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669563/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 4,
+          "number": 21,
+          "name": "Episode #4.21",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669561/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 4,
+          "number": 22,
+          "name": "Episode #4.22",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669562/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 4,
+          "number": 23,
+          "name": "Episode #4.23",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669558/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 4,
+          "number": 24,
+          "name": "Episode #4.24",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669714/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 4,
+          "number": 25,
+          "name": "Episode #4.25",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669715/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 4,
+          "number": 26,
+          "name": "Episode #4.26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42669716/?ref_=ttep_ep_26"
+        }
+      ]
+    },
+    "tt15614920": {
+      "imdbId": "tt15614920",
+      "title": "The Real Housewives: Ultimate Girls Trip",
+      "episodes": [
+        {
+          "season": 5,
+          "number": 1,
+          "name": "Episode #5.1",
+          "airdate": "2026-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39396386/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 2,
+          "name": "Episode #5.2",
+          "airdate": "2026-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39396388/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "name": "Episode #5.3",
+          "airdate": "2026-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39396387/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 5,
+          "number": 4,
+          "name": "Episode #5.4",
+          "airdate": "2026-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39396389/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 5,
+          "number": 5,
+          "name": "Episode #5.5",
+          "airdate": "2026-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43619996/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 5,
+          "number": 6,
+          "name": "Episode #5.6",
+          "airdate": "2026-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43619995/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
+          "number": 7,
+          "name": "Episode #5.7",
+          "airdate": "2026-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43620002/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 5,
+          "number": 8,
+          "name": "Episode #5.8",
+          "airdate": "2026-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43620000/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 5,
+          "number": 9,
+          "name": "Episode #5.9",
+          "airdate": "2026-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43620001/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 4,
+          "number": 1,
+          "name": "Vive Legacy",
+          "airdate": "2023-12-14",
+          "summary": "Former New York City Housewives Dorinda, Kelly, Kristen, Luann, Ramona, and Sonja reunite for a week in St. Barts; Kristen and Dorinda get off on the wrong foot; Kelly is concerned that Kristen seems more like a fan than a Housewife.",
+          "url": "https://www.imdb.com/title/tt25964238/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "The Pirate Part Deux",
+          "airdate": "2023-12-14",
+          "summary": "At the beach, the ladies discuss Sonja's communication skills and revisit the infamous Scary Island; Luann hosts a seafood dinner at which Sonja questions Kristen's marriage; some handsome young men join the ladies for a house party.",
+          "url": "https://www.imdb.com/title/tt27904947/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Take Me Out to the Hockey Game",
+          "airdate": "2023-12-14",
+          "summary": "After a cooking class, Kristen swears off fish; tickets to a hockey game get in the way of Luann and Kelly's friendship; the ladies question Kristen about her cheating scandal, which seems more damning than she's willing to admit.",
+          "url": "https://www.imdb.com/title/tt27904951/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "A Yacht of Attention",
+          "airdate": "2023-12-21",
+          "summary": "Sonja hosts a yacht day where Luann and Dorinda enjoy an extra-large hot dog; back at the villa, Kristen throws a neon-themed dinner party; Kelly interrupts the fun, unable to get past her issues with Kristen and Dorinda.",
+          "url": "https://www.imdb.com/title/tt27904966/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "RHONY Relics",
+          "airdate": "2023-12-28",
+          "summary": "Surfing lessons turn serious when a medic is called to the beach; the ladies compete in a scavenger hunt around the villa; at dinner, swapping proposal stories has the ladies falling out of their seats.",
+          "url": "https://www.imdb.com/title/tt27904960/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "(Going) Out with a Bang",
+          "airdate": "2024-01-04",
+          "summary": "At water therapy, the ladies let loose in more ways than one. An astrologer has the group thinking about their best and worst qualities. On their final night, many eligible bachelors--and one pirate--turn out for Dorinda's disco party.",
+          "url": "https://www.imdb.com/title/tt27904965/?ref_=ttep_ep_6"
+        }
+      ]
+    },
+    "tt1833517": {
+      "imdbId": "tt1833517",
+      "title": "Stacey David's GearZ",
+      "episodes": [
+        {
+          "season": 19,
+          "number": 1,
+          "name": "Old Truck, old frame, new game.",
+          "airdate": "2025-04-09",
+          "summary": "They say that life is all about choices. Stacey rolls in a well-worn 59 Chevy Apache pickup and shows how to approach a project, whether you are keeping it original or planning on modifying it. Then it's on to the frame and the importance of starting with a solid foundation, as Stacey shows why an aftermarket replacement frame might be your best bet, no matter what your plans are with the paint and interior. It's a great introduction to a level 4, frame-off build and something every gear-head should see.",
+          "url": "https://www.imdb.com/title/tt36957667/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 19,
+          "number": 2,
+          "name": "Making the Bed on a Classic Truck",
+          "airdate": "2025-04-16",
+          "summary": "Everybody loves trucks, especially old trucks. The problem with restoring an old truck is what to do with the rusty, beat-up bed? Do you repair it or replace it? Stacey digs into that question by building a brand-new bed for the '59 Apache right beside the old one. It's a classic comparison between old and new and shows the contrasts between restoring old parts and starting with new reproduction parts. If you are contemplating a restoration project or are in the middle of one, this show is for you.",
+          "url": "https://www.imdb.com/title/tt36957727/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 19,
+          "number": 3,
+          "name": "Long Train Running",
+          "airdate": "2025-04-23",
+          "summary": "Stacey goes out on the rails to take a look at the restoration of the legendary 576 Steam Locomotive that serviced the Nashville area in the 40's and 50's. Pulled from a 50-year slumber in a local park, the unique journey of 576 is a huge, multi-year restoration project that will take you into the inner workings of a steam locomotive and how a bunch of volunteers are bringing this massive beast back to life. If you love trains or anything mechanical, you're gonna love jumping on board this ride.",
+          "url": "https://www.imdb.com/title/tt36957746/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 19,
+          "number": 4,
+          "name": "Swamp Spryte Axles & Tracks and MacLaren M6GT Chassis Testing",
+          "airdate": "2025-04-30",
+          "summary": "The Swamp Spryte is back under the knife as Stacey starts working on replacing the axles and tracks on this rare amphibious tracked vehicle. After that, it's off to Retroformance to show some of the testing and development on the Mclaren M6GT replica.",
+          "url": "https://www.imdb.com/title/tt37572350/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 19,
+          "number": 5,
+          "name": "The Dirt Bird",
+          "airdate": "2025-05-07",
+          "summary": "This time on GEARZ, Stacey digs into film and TV cars and the impact they have on automotive culture. But we're not talking about sophisticated Lamborghinis, beautiful Mustangs, or hot Trans Ams. No, we're talking about the Joe Dirt side of things and how an old, beat-up Daytona made it cool to drive old, rusty junk.",
+          "url": "https://www.imdb.com/title/tt37572354/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 19,
+          "number": 6,
+          "name": "The Face Off",
+          "airdate": "2025-05-14",
+          "summary": "Do you like 4 headlights or 2 headlights on a classic vehicle? Well, now it's possible to have both as Stacey shows how to change a 4-headlight classic Chevy truck into a 2-headlight classic Chevy truck, just by changing some sheet metal. But, is it really as easy as it looks, or are there some hidden challenges waiting to bite you? Well, the answers are all here as we face off two different looks on the same truck.",
+          "url": "https://www.imdb.com/title/tt37650402/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 19,
+          "number": 7,
+          "name": "Tranny Swapping a Vintage Mustang; Lifting a Cab Off a Frame",
+          "airdate": "2025-08-13",
+          "summary": "This time on GEARZ, Stacey takes an old beat up '66 Mustang and puts some pep back in its step. Yep, we show you how to get rid of that old boring automatic transmission and replace it with a quick-shifting TREMEC T5 5-speed. After that, we show you some tips and tricks on how to lift an old cab or body off a frame without destroying it.",
+          "url": "https://www.imdb.com/title/tt39463272/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 19,
+          "number": 8,
+          "name": "A Show Truck with a Diesel Twist, The ARCA Box, Capping a Jeep",
+          "airdate": "2025-08-20",
+          "summary": "What do you get when you take a 4x4 diesel pickup, toss in over 2000hp, and mix it with some serious bling? You get the very definition of show and go. After that, we take a look at a new twist on tool storage and finish it off with one of the best ways to set up your Jeep Gladiator for hunting, fishing, or overlanding.",
+          "url": "https://www.imdb.com/title/tt39463282/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 19,
+          "number": 9,
+          "name": "The Stunt Double",
+          "airdate": "2025-08-27",
+          "summary": "The Stunt Double is back for its much-anticipated reveal and payoff. Inspired by the legendary FALL GUY truck, the Stunt Double is a ground-up, frame-off build of a classic Chevy truck that pays tribute to the stunt world.",
+          "url": "https://www.imdb.com/title/tt39463339/?ref_=ttep_ep_9"
         }
       ]
     }
