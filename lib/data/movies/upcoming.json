@@ -872,6 +872,10 @@
       ],
       "people": [
         {
+          "id": "nm18563430",
+          "name": "Abhinav Singh"
+        },
+        {
           "id": "nm10974246",
           "name": "Ateez"
         }
@@ -887,6 +891,36 @@
         "Musical"
       ],
       "people": [],
+      "label": "Aug 06, 2026"
+    },
+    {
+      "id": "tt32474264",
+      "title": "Korean Kanakaraju",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm2536215",
+          "name": "VTV Ganesh"
+        },
+        {
+          "id": "nm7674551",
+          "name": "Varun Tej"
+        },
+        {
+          "id": "nm8073177",
+          "name": "Daksha Nagarkar"
+        },
+        {
+          "id": "nm5623923",
+          "name": "Satya"
+        }
+      ],
       "label": "Aug 06, 2026"
     },
     {
@@ -989,16 +1023,16 @@
       ],
       "people": [
         {
+          "id": "nm3821405",
+          "name": "Jake Lacy"
+        },
+        {
           "id": "nm0000353",
           "name": "Willem Dafoe"
         },
         {
           "id": "nm2336966",
           "name": "Greta Lee"
-        },
-        {
-          "id": "nm3821405",
-          "name": "Jake Lacy"
         },
         {
           "id": "nm14553465",
@@ -1455,8 +1489,8 @@
           "name": "Shabana Azmi"
         },
         {
-          "id": "nm5719506",
-          "name": "Vijayant Kohli"
+          "id": "nm11482105",
+          "name": "Puran Gabbi"
         }
       ],
       "label": "Aug 14, 2026"
@@ -2088,12 +2122,12 @@
           "name": "Aaron Schoenke"
         },
         {
-          "id": "nm1039206",
-          "name": "Orion Acaba"
+          "id": "nm2855957",
+          "name": "Rachele Brooke Smith"
         },
         {
-          "id": "nm6975398",
-          "name": "John Jeffrey Arias"
+          "id": "nm0269141",
+          "name": "Jason Faunt"
         }
       ],
       "label": "Aug 28, 2026"
@@ -2604,6 +2638,36 @@
       "label": "Sep 04, 2026"
     },
     {
+      "id": "tt37185884",
+      "title": "Tom and Jerry: Forbidden Compass",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWQ3OTU0ZWYtYWE5OS00Zjc4LTg4ZTctMzcyZDQ2YjU1Yjk4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm17767428",
+          "name": "Li Baixin"
+        },
+        {
+          "id": "nm17997297",
+          "name": "Mino Eek"
+        },
+        {
+          "id": "nm17767427",
+          "name": "Zhang Gang"
+        },
+        {
+          "id": "nm17767429",
+          "name": "Jiang Wen Jin"
+        }
+      ],
+      "label": "Sep 04, 2026"
+    },
+    {
       "id": "tt27369017",
       "title": "Hope",
       "image": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_.jpg",
@@ -2629,36 +2693,6 @@
         {
           "id": "nm1055413",
           "name": "Michael Fassbender"
-        }
-      ],
-      "label": "Sep 09, 2026"
-    },
-    {
-      "id": "tt37185884",
-      "title": "Tom and Jerry: Forbidden Compass",
-      "image": "https://m.media-amazon.com/images/M/MV5BMWQ3OTU0ZWYtYWE5OS00Zjc4LTg4ZTctMzcyZDQ2YjU1Yjk4XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Wed, 09 Sep 2026 00:00:00 GMT",
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-      ],
-      "people": [
-        {
-          "id": "nm17767428",
-          "name": "Li Baixin"
-        },
-        {
-          "id": "nm17997297",
-          "name": "Mino Eek"
-        },
-        {
-          "id": "nm17767427",
-          "name": "Zhang Gang"
-        },
-        {
-          "id": "nm17767429",
-          "name": "Jiang Wen Jin"
         }
       ],
       "label": "Sep 09, 2026"
@@ -2927,7 +2961,7 @@
     {
       "id": "tt10794054",
       "title": "The Weight",
-      "image": "https://m.media-amazon.com/images/M/MV5BOTdkMDQyYjMtOGRhZC00YWUyLTgwZjctZDZjNjZlNWU4ZGU5XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzU3YTY5MjItYmVlMi00YWE2LWE3NGEtMzFiOWZmNjY4OGQ0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3100,6 +3134,36 @@
         {
           "id": "nm0051903",
           "name": "Claes Bang"
+        }
+      ],
+      "label": "Sep 18, 2026"
+    },
+    {
+      "id": "tt30850718",
+      "title": "April X",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDQwNzBlOTctODQ2Yy00M2NhLWFmMGEtZDQyZDE2NDg5YjA3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "people": [
+        {
+          "id": "nm10722411",
+          "name": "Lilly Krug"
+        },
+        {
+          "id": "nm9710799",
+          "name": "Connor Storrie"
+        },
+        {
+          "id": "nm0158147",
+          "name": "Tudor Chirila"
+        },
+        {
+          "id": "nm0667904",
+          "name": "Serban Pavlu"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3400,7 +3464,7 @@
     {
       "id": "tt34206385",
       "title": "Primetime",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGM5MjUyMmMtY2Y5Zi00NGViLTg3MTctZjAwMzY4MTE2MTBhXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3413,16 +3477,16 @@
           "name": "Robert Pattinson"
         },
         {
-          "id": "nm1711114",
-          "name": "Skyler Gisondo"
+          "id": "nm0923266",
+          "name": "Merritt Wever"
         },
         {
           "id": "nm0267506",
           "name": "Anna Faris"
         },
         {
-          "id": "nm0923266",
-          "name": "Merritt Wever"
+          "id": "nm1711114",
+          "name": "Skyler Gisondo"
         }
       ],
       "label": "Sep 25, 2026"
@@ -4069,7 +4133,7 @@
     {
       "id": "tt2056785",
       "title": "Wildwood",
-      "image": "https://m.media-amazon.com/images/M/MV5BMmVhMWViOWUtMTE1YS00NjcwLThiNTctZDQ2MTBmM2ZjYzk3XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzkwZWRhZDUtZGZlOC00NDFmLTgzNTctNzc2Y2U5NWUyZDg5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
       "genres": [
         "Animation",
@@ -5912,20 +5976,20 @@
       ],
       "people": [
         {
+          "id": "nm3922847",
+          "name": "Pia Mia"
+        },
+        {
+          "id": "nm0489436",
+          "name": "Robert LaSardo"
+        },
+        {
           "id": "nm5397002",
           "name": "Bastiano Ferrari"
         },
         {
           "id": "nm0316310",
           "name": "Jay Giannone"
-        },
-        {
-          "id": "nm3723214",
-          "name": "Michael Girgenti"
-        },
-        {
-          "id": "nm13858494",
-          "name": "Stacy Kemp Ferrari"
         }
       ],
       "label": "Feb 13, 2027"
@@ -5999,20 +6063,20 @@
       ],
       "people": [
         {
-          "id": "nm1883803",
-          "name": "Jesse Garcia"
+          "id": "nm7639977",
+          "name": "Angel Rosario Jr."
         },
         {
           "id": "nm0761052",
           "name": "Roselyn Sanchez"
         },
         {
-          "id": "nm0005246",
-          "name": "Esai Morales"
+          "id": "nm1883803",
+          "name": "Jesse Garcia"
         },
         {
-          "id": "nm7639977",
-          "name": "Angel Rosario Jr."
+          "id": "nm0005246",
+          "name": "Esai Morales"
         }
       ],
       "label": "Feb 26, 2027"
@@ -6020,7 +6084,7 @@
     {
       "id": "tt9135246",
       "title": "The Flood: End of Mankind",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTQ4NTJkNzMtN2JiNi00MTVkLWJlZGQtN2UwZGY5NTA0YTY5XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWNiZjlkNzItZGViMi00OTczLWJiOGUtZTJiZDc0OTkxMDM4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 05 Mar 2027 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -6333,12 +6397,12 @@
       ],
       "people": [
         {
-          "id": "nm0379596",
-          "name": "Jay Hernandez"
-        },
-        {
           "id": "nm2834669",
           "name": "Monica Raymund"
+        },
+        {
+          "id": "nm0379596",
+          "name": "Jay Hernandez"
         },
         {
           "id": "nm0190441",
