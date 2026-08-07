@@ -1787,7 +1787,7 @@
           "number": 4,
           "name": "No More Hiding",
           "airdate": "2026-07-27",
-          "summary": null,
+          "summary": "Flashbacks to Amina's Dinsberg days expose secrets that trouble her and KJ. Tori and Khalil bond. Layla visits her father JP for help, but things take an unexpected turn. Layla and Amina question Coop's legal career advancement.",
           "url": "https://www.imdb.com/title/tt37156726/?ref_=ttep_ep_4"
         },
         {
@@ -2188,7 +2188,7 @@
           "number": 8,
           "name": "He Came, They Saw, It's Bonkers",
           "airdate": "2026-07-27",
-          "summary": "Capt. Sandy is faced with another difficult night docking when loud party boats return. Nathan and Gael struggle under the weight parenthood. Joe and Cooper are left to handle a massive storm. Kat becomes concerned about her relationship. A crew member makes a big decision.",
+          "summary": "Capt. Sandy faces another difficult night docking with loud party boats. Nathan and Gael struggle with parenthood. Joe and Cooper handle a massive storm. Kat worries about her relationship. A crew member makes a big decision.",
           "url": "https://www.imdb.com/title/tt43634711/?ref_=ttep_ep_8"
         },
         {
@@ -2196,7 +2196,7 @@
           "number": 9,
           "name": "Out with the Old, in with the Stew",
           "airdate": "2026-08-03",
-          "summary": "With little time before charter to adjust to a crew member's departure, Capt. Sandy is forced into an unconventional decision. Gen tries to turn over a new leaf as Kayley receives an opportunity. A sudden injury forces more dramatic adjustments and puts the season in peril.",
+          "summary": "With limited time to adjust to a crew member's departure before charter, Capt. Sandy makes an unconventional decision. Gen attempts to turn over a new leaf while Kayley gets an opportunity.",
           "url": "https://www.imdb.com/title/tt43634712/?ref_=ttep_ep_9"
         },
         {
@@ -2646,18 +2646,26 @@
         {
           "season": 3,
           "number": 13,
-          "name": "Episode #3.13",
+          "name": "One Last Fantasy",
           "airdate": "2026-08-24",
-          "summary": null,
+          "summary": "Rebecca shares fears of Zied leaving. Russ learns a secret from Pao's past. Jenny and Sumit experiment with puppy play. Thais steps into a dominant role with Patrick. Shekinah changes Sarper's hairstyle. Kara and Guillermo get hot and heavy.",
           "url": "https://www.imdb.com/title/tt43685671/?ref_=ttep_ep_13"
         },
         {
           "season": 3,
           "number": 14,
-          "name": "Episode #3.14",
+          "name": "Last Call at the Court",
           "airdate": "2026-08-31",
-          "summary": null,
+          "summary": "Russ and Pao share a painful breakthrough. Rebecca gives Zied a final ultimatum. Kara and Guillermo resist temptation. Jenny and Sumit confront his parents. Patrick and Thais zen out at yoga. Shekinah and Sarper tackle comedy and codependency.",
           "url": "https://www.imdb.com/title/tt43718484/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 3,
+          "number": 21,
+          "name": "Episode #3.17",
+          "airdate": "2026-09-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43751171/?ref_=ttep_ep_17"
         },
         {
           "season": 2,
@@ -3226,13 +3234,13 @@
           "number": 8,
           "name": "What Happens in Vegas...",
           "airdate": "2026-08-03",
-          "summary": "While in Las Vegas for their joint bachelor and bachelorette parties, Cole tries to persuade Kacie to elope. On the heels of their first fight, Steven does damage control with with his girlfriend, Allie. Jesse and Alli try to rekindle the spark in their marriage.",
+          "summary": "In Vegas for their bachelor/bachelorette parties, Cole urges Kacie to elope. After their first fight, Steven makes amends with girlfriend Allie. Jesse and Alli work to reignite their marriage.",
           "url": "https://www.imdb.com/title/tt43677859/?ref_=ttep_ep_8"
         },
         {
           "season": 3,
           "number": 9,
-          "name": "Episode #3.9",
+          "name": "Banks, Babies and Bad Blood",
           "airdate": "2026-08-10",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43677860/?ref_=ttep_ep_9"
@@ -4401,7 +4409,7 @@
           "number": 5,
           "name": "Sharing is Caring",
           "airdate": "2026-07-06",
-          "summary": null,
+          "summary": "Jon Knight and his team surprise newlyweds Michael and Latasha by transforming his bachelor pad man cave into a warm, welcoming lounge that finally belongs to both of them.",
           "url": "https://www.imdb.com/title/tt42423580/?ref_=ttep_ep_5"
         },
         {
@@ -4409,7 +4417,7 @@
           "number": 6,
           "name": "Kitchen Size Matters",
           "airdate": "2026-07-13",
-          "summary": null,
+          "summary": "Jon Knight and his team renovate Carol and Lane's cramped galley kitchen, replacing the space that became too small after 38 years into an open, custom kitchen perfect for cooking, baking, and gathering.",
           "url": "https://www.imdb.com/title/tt42423574/?ref_=ttep_ep_6"
         },
         {
@@ -4417,7 +4425,7 @@
           "number": 7,
           "name": "Don't Rain on My Reno",
           "airdate": "2026-07-20",
-          "summary": null,
+          "summary": "Jon Knight and his team transform Sunni and Seth's unsafe, crumbling backyard into a welcoming space for their growing family with a toddler, a baby on the way, and the community they serve.",
           "url": "https://www.imdb.com/title/tt42423576/?ref_=ttep_ep_7"
         },
         {
@@ -4425,7 +4433,7 @@
           "number": 8,
           "name": "Garage Gone Glam",
           "airdate": "2026-07-27",
-          "summary": null,
+          "summary": "Knight gives an outdoorsy couple a 72-hour makeover, transforming their dark, unused garage into an open kitchen and living area perfect for hosting friends and family.",
           "url": "https://www.imdb.com/title/tt42423571/?ref_=ttep_ep_8"
         },
         {
@@ -4433,13 +4441,13 @@
           "number": 9,
           "name": "Divided Design",
           "airdate": "2026-08-03",
-          "summary": null,
+          "summary": "Jon Knight's team transforms a couple's basement in 72 hours, merging his man cave dreams with her family-focused vision into one space perfect for both play and entertaining.",
           "url": "https://www.imdb.com/title/tt42423579/?ref_=ttep_ep_9"
         },
         {
           "season": 1,
           "number": 10,
-          "name": "Episode #1.10",
+          "name": "Witchin' Kitchen",
           "airdate": "2026-08-10",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42423573/?ref_=ttep_ep_10"
@@ -7048,7 +7056,7 @@
           "number": 10,
           "name": "Judges' Callbacks 1",
           "airdate": "2026-08-04",
-          "summary": null,
+          "summary": "Simon Cowell and Mel B have their selected acts return to perform during the Judges' Callbacks.",
           "url": "https://www.imdb.com/title/tt43697969/?ref_=ttep_ep_10"
         },
         {
@@ -7517,9 +7525,9 @@
         {
           "season": 7,
           "number": 6,
-          "name": "Episode #7.6",
+          "name": "The Ultimate Fantasy: The Fall of Renegade",
           "airdate": "2026-08-04",
-          "summary": null,
+          "summary": "An exotic dancer with dreams of wrestling stardom, Rick Wilson's brief rise as an Ultimate Warrior knock-off dubbed \"The Renegade\" quickly unraveled and led to tragedy.",
           "url": "https://www.imdb.com/title/tt42455301/?ref_=ttep_ep_6"
         },
         {
@@ -8429,10 +8437,18 @@
         {
           "season": 3,
           "number": 12,
-          "name": "Episode #3.12",
+          "name": "Ready or Knot",
           "airdate": "2026-08-04",
-          "summary": null,
+          "summary": "Baylen receives the results of her endometriosis ultrasound. Grandma Lynn arrives for the wedding and wastes no time pressing Colin on his future plans. With the wedding weekend fast approaching, Baylen confronts the very real possibility of a tic attack.",
           "url": "https://www.imdb.com/title/tt43723135/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 3,
+          "number": 13,
+          "name": "A Veiled Surprise",
+          "airdate": "2026-08-11",
+          "summary": "The wedding weekend officially begins as Baylen and Colin gather with family and friends for the rehearsal day. While Baylen and her family worry the excitement could trigger a tic attack, an unexpected guest surprises Colin.",
+          "url": "https://www.imdb.com/title/tt43747927/?ref_=ttep_ep_13"
         },
         {
           "season": 2,
@@ -9490,7 +9506,7 @@
           "number": 31,
           "name": "Grand Slam Mexico 2026",
           "airdate": "2026-08-05",
-          "summary": null,
+          "summary": "Mark Davis tries to derail Will Ospreay's path to Wembley Stadium in a Mexico Street Fight ; the Demand defend the AEW World Trios Title vs Hangman Page, Bandido & Brody King; Kyle Fletcher and Speedball Bailey renew their rivalry.",
           "url": "https://www.imdb.com/title/tt42257940/?ref_=ttep_ep_31"
         },
         {
@@ -10005,7 +10021,7 @@
           "number": 14,
           "name": "Episode #28.14",
           "airdate": "2026-08-05",
-          "summary": null,
+          "summary": "With Drew in danger, will the Toolshed have his back or stab him in it? Then, the Power of Veto is on the line. Can a nominee win their safety? Plus, BB 27's Morgan is back.",
           "url": "https://www.imdb.com/title/tt43630968/?ref_=ttep_ep_14"
         },
         {
@@ -10453,6 +10469,22 @@
           "airdate": "2026-08-05",
           "summary": "Celebrity chef, social media icon, and past MasterChef contestant Nick DiGiovanni joins as a special guest to test the chefs' ability to turn their cultural roots into the next viral food sensation. With an exciting collaboration opportunity with DiGiovanni on the line, the contestants must strike the perfect balance between authenticity and social media appeal.",
           "url": "https://www.imdb.com/title/tt43687220/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 16,
+          "number": 13,
+          "name": "Tag Team",
+          "airdate": "2026-08-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43750357/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 16,
+          "number": 14,
+          "name": "The Wall",
+          "airdate": "2026-08-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43750358/?ref_=ttep_ep_14"
         },
         {
           "season": 15,
@@ -11505,9 +11537,9 @@
         {
           "season": 2,
           "number": 7,
-          "name": "Episode #2.7",
+          "name": "Talk to My Agent",
           "airdate": "2026-08-05",
-          "summary": null,
+          "summary": "Before the group heads out for BravoCon, Riley hosts Girls Night 2.0. Emira is ready to bury the hatchet with Charlie, but a new revelation sets things back again. Ariana and Liam's romance is moving forward full steam ahead, but Charlie doubles down on his pursuit of Ariana, threatening their connection.",
           "url": "https://www.imdb.com/title/tt43603909/?ref_=ttep_ep_7"
         },
         {
@@ -11678,7 +11710,7 @@
           "season": 7,
           "number": 1,
           "name": "Catching Fade",
-          "airdate": "2026-04-15",
+          "airdate": "2026-05-20",
           "summary": "Things spiral at the White House as Dilva Prinn cleans up the mess. Sam, Kyle, Donald, and Hunter must resolve their differences or face consequences.",
           "url": "https://www.imdb.com/title/tt41810572/?ref_=ttep_ep_1"
         },
@@ -11686,7 +11718,7 @@
           "season": 7,
           "number": 2,
           "name": "A Dish Best Served Cold",
-          "airdate": "2026-04-15",
+          "airdate": "2026-05-27",
           "summary": "Hunter pursues personal revenge following attacks on the nation.",
           "url": "https://www.imdb.com/title/tt41810577/?ref_=ttep_ep_2"
         },
@@ -11694,7 +11726,7 @@
           "season": 7,
           "number": 3,
           "name": "Friday the 13th",
-          "airdate": "2026-04-15",
+          "airdate": "2026-06-03",
           "summary": "Hunter, Donald, and Dilva strategize as the U.S. faces attack. Priscilla faces trouble when confronted by Jason.",
           "url": "https://www.imdb.com/title/tt41810585/?ref_=ttep_ep_3"
         },
@@ -11702,7 +11734,7 @@
           "season": 7,
           "number": 4,
           "name": "Sweet Dreams",
-          "airdate": "2026-04-15",
+          "airdate": "2026-06-10",
           "summary": "Eli makes a plea deal to protect himself and Allan. Nancy, fearing for her life, relies on Sharon to save her from Kareem.",
           "url": "https://www.imdb.com/title/tt41810588/?ref_=ttep_ep_4"
         },
@@ -11710,7 +11742,7 @@
           "season": 7,
           "number": 5,
           "name": "Family Secrets",
-          "airdate": "2026-04-15",
+          "airdate": "2026-06-17",
           "summary": "Hunter is forced to respond after a series of attacks.",
           "url": "https://www.imdb.com/title/tt41810642/?ref_=ttep_ep_5"
         },
@@ -11718,7 +11750,7 @@
           "season": 7,
           "number": 6,
           "name": "Upon Which We Stand",
-          "airdate": "2026-04-15",
+          "airdate": "2026-06-24",
           "summary": "Eli and Simone face Hunter and Victoria. Sam goes on a mission to rescue Priscilla.",
           "url": "https://www.imdb.com/title/tt41810653/?ref_=ttep_ep_6"
         },
@@ -11726,48 +11758,48 @@
           "season": 7,
           "number": 7,
           "name": "The Enemy Within",
-          "airdate": "2026-04-15",
-          "summary": null,
+          "airdate": "2026-07-01",
+          "summary": "Agent Isaac moves an important piece on the chess board.",
           "url": "https://www.imdb.com/title/tt41810696/?ref_=ttep_ep_7"
         },
         {
           "season": 7,
           "number": 8,
           "name": "Worth the Work",
-          "airdate": "2026-04-15",
-          "summary": null,
+          "airdate": "2026-07-08",
+          "summary": "Jason sends the White House into a frenzy after Trent's body is discovered.",
           "url": "https://www.imdb.com/title/tt41810702/?ref_=ttep_ep_8"
         },
         {
           "season": 7,
           "number": 9,
           "name": "A Woman Scorned",
-          "airdate": "2026-04-15",
-          "summary": null,
+          "airdate": "2026-07-15",
+          "summary": "Agent Issac considers a new diversion, but is warned by Ghost about the risk of exposure.",
           "url": "https://www.imdb.com/title/tt41810707/?ref_=ttep_ep_9"
         },
         {
           "season": 7,
           "number": 10,
           "name": "An Ethical Presidency",
-          "airdate": "2026-04-15",
-          "summary": null,
+          "airdate": "2026-07-22",
+          "summary": "Priscilla searches every avenue in hopes of finding a source to air her story.",
           "url": "https://www.imdb.com/title/tt41810715/?ref_=ttep_ep_10"
         },
         {
           "season": 7,
           "number": 11,
           "name": "Will You Stand With Me",
-          "airdate": "2026-04-15",
-          "summary": null,
+          "airdate": "2026-07-29",
+          "summary": "Sam and Agent Isaac are on the hunt to find another missing staffer in the white house tunnels.",
           "url": "https://www.imdb.com/title/tt41810720/?ref_=ttep_ep_11"
         },
         {
           "season": 7,
           "number": 12,
           "name": "The Promise",
-          "airdate": "2026-04-15",
-          "summary": null,
+          "airdate": "2026-07-29",
+          "summary": "Victoria and Agent Isaac take matters in their own hands concerning Jason.",
           "url": "https://www.imdb.com/title/tt41810722/?ref_=ttep_ep_12"
         },
         {
@@ -11775,7 +11807,7 @@
           "number": 13,
           "name": "The Hit List",
           "airdate": "2026-04-15",
-          "summary": null,
+          "summary": "Max tells Alonzo and Lilly that Jason is going after agents.",
           "url": "https://www.imdb.com/title/tt41810726/?ref_=ttep_ep_13"
         },
         {
@@ -12589,33 +12621,33 @@
         {
           "season": 9,
           "number": 10,
-          "name": "Episode #9.10",
+          "name": "It's a Boy!",
           "airdate": "2026-07-10",
-          "summary": null,
+          "summary": "A wild Jersey summer unfolds as Mike goes into beast mode, Angelina rekindles an old flame, and following the reveals and baby showers, Sammi finally welcomes her baby boy.",
           "url": "https://www.imdb.com/title/tt40421992/?ref_=ttep_ep_10"
         },
         {
           "season": 9,
           "number": 11,
-          "name": "Episode #9.11",
+          "name": "Diapers and DMs",
           "airdate": "2026-07-17",
-          "summary": null,
+          "summary": "Ronnie conceals something significant. Sammi starts her journey as a first-time mother.",
           "url": "https://www.imdb.com/title/tt40421991/?ref_=ttep_ep_11"
         },
         {
           "season": 9,
           "number": 12,
-          "name": "Episode #9.12",
-          "airdate": null,
-          "summary": null,
+          "name": "Battle Of Paddles",
+          "airdate": "2026-07-23",
+          "summary": "Jenni throws a lively pickleball party, Mike \"The Situation\" mediates rising tension between Angelina and Vinny 2.0, and Deena plans a charity event that challenges the roommates beyond their comfort zones.",
           "url": "https://www.imdb.com/title/tt40421990/?ref_=ttep_ep_12"
         },
         {
           "season": 9,
           "number": 13,
-          "name": "Episode #9.13",
-          "airdate": null,
-          "summary": null,
+          "name": "No Longer Under Construction",
+          "airdate": "2026-07-30",
+          "summary": "Ronnie conceals something significant. Sammi starts her journey as a first-time mother.",
           "url": "https://www.imdb.com/title/tt40421995/?ref_=ttep_ep_13"
         },
         {
@@ -13586,7 +13618,7 @@
           "number": 5,
           "name": "Hot 4 Teacher",
           "airdate": "2026-08-06",
-          "summary": null,
+          "summary": "Contestants use their skills as educators to compete;",
           "url": "https://www.imdb.com/title/tt43731403/?ref_=ttep_ep_5"
         },
         {
@@ -14551,7 +14583,7 @@
           "season": 17,
           "number": 8,
           "name": "Night School Knuckleheads/Painfully Employed",
-          "airdate": "2026-08-06",
+          "airdate": "2026-08-07",
           "summary": "At night school, SpongeBob and Patrick dive into a series of classes on wildly different subjects; Plankton hires Bubble Bass at the Chum Bucket and realizes he can utilize him to get his hands on a Krabby Patty.",
           "url": "https://www.imdb.com/title/tt43712473/?ref_=ttep_ep_8"
         },
@@ -16226,7 +16258,7 @@
           "number": 7,
           "name": "Episode #1.7",
           "airdate": "2026-08-07",
-          "summary": null,
+          "summary": "Larry gets carried away on VJ Day. Rescuers question the Donner Party. President Obama receives dubious fashion advice.",
           "url": "https://www.imdb.com/title/tt40650670/?ref_=ttep_ep_7"
         }
       ]
@@ -19378,11 +19410,35 @@
         },
         {
           "season": 7,
+          "number": 94,
+          "name": "Back to the Flip_ Clash of the Builders",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43749799/?ref_=ttep_ep_94"
+        },
+        {
+          "season": 7,
+          "number": 95,
+          "name": "Neighborly Nightmares",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43749802/?ref_=ttep_ep_95"
+        },
+        {
+          "season": 7,
           "number": 96,
           "name": "Zombie House Flipping Back to the Flip: Keith-ing it Real",
           "airdate": "2025-05-10",
           "summary": "Keith puts it all on the line when he takes the lead on two projects that might have him in over his head.",
           "url": "https://www.imdb.com/title/tt36980332/?ref_=ttep_ep_96"
+        },
+        {
+          "season": 7,
+          "number": 97,
+          "name": "Expansion Transformation",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43749804/?ref_=ttep_ep_97"
         },
         {
           "season": 7,
@@ -20982,7 +21038,7 @@
           "number": 30,
           "name": "Swamp Thing",
           "airdate": "2026-07-18",
-          "summary": "In a secret research facility in the middle of a swamp, Dr Alex Holland is working on an experiment to combine plant and animal DNA. Alice Cable has been sent by the government to help with security. The evil Dr Arcane sends some men to steal Dr Holland's secrets. This move causes an explosion in which Holland is transformed into a half man, half plant creature.",
+          "summary": "In a secret swamp facility, Dr. Alex Holland experiments with plant and animal DNA. Government agent Alice Cable assists with security.",
           "url": "https://www.imdb.com/title/tt43451779/?ref_=ttep_ep_30"
         },
         {
@@ -22581,7 +22637,7 @@
           "number": 13,
           "name": "Do I Stay or Do I Go?",
           "airdate": "2026-08-02",
-          "summary": "Catie questions a monogamous future during her bachelorette party. Edward storms off when Marissa still has cold feet. Rasit gives Mallorie an ultimatum. Rod grills Maxwell. Shea is caught between his daughter and fiancée. Paula thinks Thomas is being controlling.",
+          "summary": "Catie doubts monogamy at her bachelorette party. Edward leaves when Marissa hesitates. Rasit ultimatums Mallorie. Rod interrogates Maxwell. Shea's torn between daughter and fiancée. Paula finds Thomas controlling.",
           "url": "https://www.imdb.com/title/tt43632741/?ref_=ttep_ep_13"
         },
         {
@@ -22603,18 +22659,26 @@
         {
           "season": 12,
           "number": 16,
-          "name": "Episode #12.16",
+          "name": "Last Fling Before the Ring",
           "airdate": "2026-08-23",
-          "summary": null,
+          "summary": "Rasit gets a surprise at his bachelor party. Thomas and Paula clash before the wedding. Shea and Anabelle walk down the aisle. Marissa learns shocking financial implications. Ashia ignores her friends doubts. Josh needs answers before walking down the aisle.",
           "url": "https://www.imdb.com/title/tt43682013/?ref_=ttep_ep_16"
         },
         {
           "season": 12,
           "number": 17,
-          "name": "Episode #12.17",
+          "name": "Are We Really Doing This?",
           "airdate": "2026-08-30",
-          "summary": null,
+          "summary": "Mallorie has a difficult conversation with her mom. Marissa breaks down on her wedding day. Ashia worries that Rod will be a no show. Paula grapples with a game time decision. Mido has a wedding surprise for Debby. Catie and Josh question the future.",
           "url": "https://www.imdb.com/title/tt43682024/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 12,
+          "number": 20,
+          "name": "Episode #12.20",
+          "airdate": "2026-09-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43748127/?ref_=ttep_ep_20"
         },
         {
           "season": 11,
@@ -22921,7 +22985,7 @@
           "number": 1,
           "name": "Music City Mayhem",
           "airdate": "2026-07-26",
-          "summary": null,
+          "summary": "Eight food trucks arrive in Music City to compete in culinary challenges inspired by Nashville's music scene. Teams hunt for local ingredients on Broadway while battling for sales supremacy and survival.",
           "url": "https://www.imdb.com/title/tt43708364/?ref_=ttep_ep_1"
         },
         {
@@ -22929,7 +22993,7 @@
           "number": 2,
           "name": "The Tennessee Whiskey Trail",
           "airdate": "2026-08-02",
-          "summary": null,
+          "summary": "Host Tyler Florence leads seven teams to Franklin, Tennessee. A taste challenge tasks teams with creating a three-item food flight. Truck troubles and stress threaten teams before Tyler reveals tight sales margins.",
           "url": "https://www.imdb.com/title/tt43708367/?ref_=ttep_ep_2"
         },
         {
@@ -23951,7 +24015,7 @@
           "number": 3,
           "name": "Ex",
           "airdate": "2026-08-09",
-          "summary": null,
+          "summary": "Curtis receives an invitation to his ex-wife's inauguration gala. Meanwhile, Banks and O'Doyle must complete a job evaluation at an immersive offsite facility.",
           "url": "https://www.imdb.com/title/tt43716917/?ref_=ttep_ep_3"
         },
         {
@@ -24211,7 +24275,7 @@
         {
           "season": 1,
           "number": 26,
-          "name": "Episode #1.26",
+          "name": "Disfrutar tu venganza",
           "airdate": "2026-06-22",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43422947/?ref_=ttep_ep_26"
@@ -24219,7 +24283,7 @@
         {
           "season": 1,
           "number": 27,
-          "name": "Episode #1.27",
+          "name": "Tu familia quedó expuesta",
           "airdate": "2026-06-23",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43589179/?ref_=ttep_ep_27"
@@ -24227,7 +24291,7 @@
         {
           "season": 1,
           "number": 28,
-          "name": "Episode #1.28",
+          "name": "Todo sea por ustedes",
           "airdate": "2026-06-24",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43589180/?ref_=ttep_ep_28"
@@ -24907,8 +24971,8 @@
         {
           "season": 3,
           "number": 3,
-          "name": "Déjà Vu",
-          "airdate": null,
+          "name": "The One",
+          "airdate": "2026-08-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37519714/?ref_=ttep_ep_3"
         },
@@ -25601,7 +25665,7 @@
           "number": 21,
           "name": "Erin Brockovich/Scott Galloway/Peter Hamby",
           "airdate": "2026-07-31",
-          "summary": null,
+          "summary": "This week: a one-on-one with Erin Brockovich, consumer advocate and environmental activist. Panel: Scott Galloway, NYU professor and author of \"Notes on Being a Man,\" and Peter Hamby, Puck correspondent and \"Powers That Be\" podcast host.",
           "url": "https://www.imdb.com/title/tt43623830/?ref_=ttep_ep_21"
         },
         {
@@ -25877,7 +25941,7 @@
         {
           "season": 1,
           "number": 2,
-          "name": "Episode #1.2",
+          "name": "Hide + Seek",
           "airdate": "2026-08-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37775054/?ref_=ttep_ep_2"
@@ -26708,7 +26772,7 @@
           "number": 1,
           "name": "Training Camp with the Seattle Seahawks - Episode 1",
           "airdate": "2026-08-04",
-          "summary": null,
+          "summary": "After getting their championship rings, the Super Bowl-winning Seahawks begin training camp with hopes of a repeat title. Coach Mike Macdonald motivates them by referencing Michael Jordan's Bulls dynasty.",
           "url": "https://www.imdb.com/title/tt41298315/?ref_=ttep_ep_1"
         },
         {
@@ -28171,7 +28235,16 @@
     "tt40905799": {
       "imdbId": "tt40905799",
       "title": "How to Catch a Dirtbag",
-      "episodes": []
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Episode #1.1",
+          "airdate": "2026-08-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43751402/?ref_=ttep_ep_1"
+        }
+      ]
     },
     "tt14494184": {
       "imdbId": "tt14494184",
@@ -29599,15 +29672,15 @@
         {
           "season": 5,
           "number": 1,
-          "name": "Episode #5.1",
+          "name": "Back Where It All Began",
           "airdate": "2026-08-09",
-          "summary": null,
+          "summary": "Seven iconic Housewives begin their trip in Orange County to celebrate 20 years of the historic franchise. Vicki hosts a yacht party and the ladies reflect on some of their most memorable Housewives moments. Vicki tries to recreate OC's iconic Bunco party with some old friends at the Quiet Woman, where the night is anything but quiet.",
           "url": "https://www.imdb.com/title/tt39396386/?ref_=ttep_ep_1"
         },
         {
           "season": 5,
           "number": 2,
-          "name": "Episode #5.2",
+          "name": "Leather You Like It or Not",
           "airdate": "2026-08-09",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39396388/?ref_=ttep_ep_2"
@@ -29615,15 +29688,15 @@
         {
           "season": 5,
           "number": 3,
-          "name": "Episode #5.3",
+          "name": "White Lies",
           "airdate": "2026-08-09",
-          "summary": null,
+          "summary": "Kyle's iconic White Party returns with champagne flowing, surprise arrivals and an unforgettable performance from Luann; As some new friendships blossom, others are tested as tension between Vicki and Luann comes to a head over resurfaced comments.",
           "url": "https://www.imdb.com/title/tt39396387/?ref_=ttep_ep_3"
         },
         {
           "season": 5,
           "number": 4,
-          "name": "Episode #5.4",
+          "name": "Meet Me at the Alter ... Ego Party",
           "airdate": "2026-08-09",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39396389/?ref_=ttep_ep_4"
