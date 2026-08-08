@@ -2562,16 +2562,16 @@
           "name": "Adria Arjona"
         },
         {
-          "id": "nm6481846",
-          "name": "Drew Starkey"
+          "id": "nm1405398",
+          "name": "Dan Stevens"
         },
         {
-          "id": "nm0000299",
-          "name": "Michael Biehn"
+          "id": "nm1728099",
+          "name": "Eric Wareheim"
         },
         {
-          "id": "nm0356017",
-          "name": "Rebecca Hall"
+          "id": "nm0001817",
+          "name": "Reginald VelJohnson"
         }
       ],
       "label": "Sep 04, 2026"
@@ -2722,6 +2722,34 @@
         {
           "id": "nm17767429",
           "name": "Jiang Wen Jin"
+        }
+      ],
+      "label": "Sep 04, 2026"
+    },
+    {
+      "id": "tt27766440",
+      "title": "The Salt Path",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmJlMDQ4OGItOTVlMi00ZWMyLThjZWMtNWJhMGMzZGM4MTU3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm0000096",
+          "name": "Gillian Anderson"
+        },
+        {
+          "id": "nm0005042",
+          "name": "Jason Isaacs"
+        },
+        {
+          "id": "nm0510317",
+          "name": "Denis Lill"
+        },
+        {
+          "id": "nm8963959",
+          "name": "Rebecca Ineson"
         }
       ],
       "label": "Sep 04, 2026"
@@ -3502,6 +3530,10 @@
       ],
       "people": [
         {
+          "id": "nm5906920",
+          "name": "Heidi Gardner"
+        },
+        {
           "id": "nm0000196",
           "name": "Mike Myers"
         },
@@ -3510,12 +3542,8 @@
           "name": "Catherine O'Hara"
         },
         {
-          "id": "nm0001737",
-          "name": "Martin Short"
-        },
-        {
-          "id": "nm0592135",
-          "name": "Lin-Manuel Miranda"
+          "id": "nm0001006",
+          "name": "John Candy"
         }
       ],
       "label": "Sep 25, 2026"
@@ -4805,12 +4833,12 @@
           "name": "Ralph Fiennes"
         },
         {
-          "id": "nm5085683",
-          "name": "Mckenna Grace"
+          "id": "nm2225369",
+          "name": "Jennifer Lawrence"
         },
         {
-          "id": "nm1102577",
-          "name": "Elle Fanning"
+          "id": "nm5085683",
+          "name": "Mckenna Grace"
         }
       ],
       "label": "Nov 20, 2026"
@@ -5162,6 +5190,36 @@
         {
           "id": "nm0424484",
           "name": "Alice Bailey Johnson"
+        }
+      ],
+      "label": "Dec 04, 2026"
+    },
+    {
+      "id": "tt34382912",
+      "title": "The Gallerist",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTIzM2JjYzgtNjMxMC00NmFiLWEwOGItNDFiMDVjODFmOTM0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0000204",
+          "name": "Natalie Portman"
+        },
+        {
+          "id": "nm4911194",
+          "name": "Jenna Ortega"
+        },
+        {
+          "id": "nm1250791",
+          "name": "Sterling K. Brown"
+        },
+        {
+          "id": "nm0001876",
+          "name": "Catherine Zeta-Jones"
         }
       ],
       "label": "Dec 04, 2026"
@@ -5599,12 +5657,12 @@
       ],
       "people": [
         {
-          "id": "nm8165602",
-          "name": "Bella Ramsey"
-        },
-        {
           "id": "nm4141252",
           "name": "Lily James"
+        },
+        {
+          "id": "nm8165602",
+          "name": "Bella Ramsey"
         },
         {
           "id": "nm4689420",
@@ -5773,8 +5831,8 @@
       "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
       "genres": [
         "Comedy",
-        "Horror",
-        "Thriller"
+        "Crime",
+        "Horror"
       ],
       "people": [
         {
@@ -6006,12 +6064,12 @@
           "name": "Lewis Pullman"
         },
         {
-          "id": "nm0448486",
-          "name": "Kerri Kenney"
-        },
-        {
           "id": "nm1638321",
           "name": "Maya Hawke"
+        },
+        {
+          "id": "nm0448486",
+          "name": "Kerri Kenney"
         }
       ],
       "label": "Feb 12, 2027"
@@ -7143,7 +7201,6 @@
     {
       "id": "tt37833661",
       "title": "Man of Tomorrow",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWQ4MDZmOTgtYzIzMi00ODVkLTg2NDUtMTEwOTAyNjM3MDJiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 09 Jul 2027 00:00:00 GMT",
       "genres": [
         "Action",
@@ -7193,12 +7250,12 @@
       ],
       "people": [
         {
-          "id": "nm0000379",
-          "name": "Kirsten Dunst"
-        },
-        {
           "id": "nm0597388",
           "name": "Jason Momoa"
+        },
+        {
+          "id": "nm0000379",
+          "name": "Kirsten Dunst"
         },
         {
           "id": "nm0085312",
