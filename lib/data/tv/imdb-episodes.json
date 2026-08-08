@@ -3248,7 +3248,7 @@
         {
           "season": 3,
           "number": 10,
-          "name": "Episode #3.10",
+          "name": "Parting Ways?",
           "airdate": "2026-08-17",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43677862/?ref_=ttep_ep_10"
@@ -7060,6 +7060,38 @@
           "url": "https://www.imdb.com/title/tt43697969/?ref_=ttep_ep_10"
         },
         {
+          "season": 21,
+          "number": 11,
+          "name": "Judges' Callbacks 2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43754616/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 21,
+          "number": 12,
+          "name": "Quarterfinals 1",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43754619/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 21,
+          "number": 13,
+          "name": "Quarterfinals 1 Results",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43754622/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 21,
+          "number": 14,
+          "name": "Quarterfinals 2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43754628/?ref_=ttep_ep_14"
+        },
+        {
           "season": 20,
           "number": 1,
           "name": "Auditions 1",
@@ -10029,7 +10061,7 @@
           "number": 15,
           "name": "Episode #28.15",
           "airdate": "2026-08-06",
-          "summary": null,
+          "summary": "Will the BB Blockbuster be Drew, Lyric or Melody's salvation? Which one of them will be the next sent home?",
           "url": "https://www.imdb.com/title/tt43630969/?ref_=ttep_ep_15"
         },
         {
@@ -11005,7 +11037,7 @@
         {
           "season": 1,
           "number": 10,
-          "name": "Episode #1.10",
+          "name": "Bending the Rules",
           "airdate": "2026-08-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43455154/?ref_=ttep_ep_10"
@@ -12931,16 +12963,16 @@
         {
           "season": 20,
           "number": 5,
-          "name": "Episode #20.5",
+          "name": "Designers and Dildos",
           "airdate": "2026-08-06",
-          "summary": null,
+          "summary": "Friendships are fraught in Orange County as loyalties are questioned between Heather, Emily and Gina. Tamra talks to Sophia about marriage. Shannon looks to her father for life advice. Carmella opens up about her past while Gina and Vicki question her motives around gifts and job opportunities. In an effort to rid herself of her Debbie Downer title, Vicki brings the women to a winery.",
           "url": "https://www.imdb.com/title/tt43641742/?ref_=ttep_ep_5"
         },
         {
           "season": 20,
           "number": 6,
           "name": "Episode #20.6",
-          "airdate": null,
+          "airdate": "2026-08-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43683785/?ref_=ttep_ep_6"
         },
@@ -12948,7 +12980,7 @@
           "season": 20,
           "number": 7,
           "name": "Episode #20.7",
-          "airdate": null,
+          "airdate": "2026-08-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43683892/?ref_=ttep_ep_7"
         },
@@ -12956,23 +12988,15 @@
           "season": 20,
           "number": 8,
           "name": "Episode #20.8",
-          "airdate": null,
+          "airdate": "2026-08-27",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43683894/?ref_=ttep_ep_8"
         },
         {
           "season": 20,
-          "number": 9,
-          "name": "Episode #20.9",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt43683896/?ref_=ttep_ep_9"
-        },
-        {
-          "season": 20,
           "number": 10,
           "name": "Episode #20.10",
-          "airdate": null,
+          "airdate": "2026-09-10",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43683897/?ref_=ttep_ep_10"
         },
@@ -13928,6 +13952,14 @@
           "airdate": "2026-08-20",
           "summary": "The guys put in shifts getting trained to work at Playa Bowls, then hand out bizarre business cards to people they think could use their services. But one Joker can't complete the task and goes on the defense for his wacky punishment.",
           "url": "https://www.imdb.com/title/tt43714639/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 13,
+          "number": 6,
+          "name": "A Ruff Day at the Park",
+          "airdate": null,
+          "summary": "The Jokers are causing a scene on the street by throwing their ex's stuff out the window, until they mistakenly throw out something that belongs to them. Then, they'll have to keep a straight face during a snack taste test.",
+          "url": "https://www.imdb.com/title/tt43754765/?ref_=ttep_ep_6"
         },
         {
           "season": 12,
@@ -15984,6 +16016,14 @@
           "airdate": "2026-07-24",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43711498/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 22,
+          "number": 12,
+          "name": "Crushing Ice",
+          "airdate": "2026-08-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43756071/?ref_=ttep_ep_12"
         },
         {
           "season": 21,
@@ -24299,7 +24339,7 @@
         {
           "season": 1,
           "number": 29,
-          "name": "Episode #1.29",
+          "name": "Necesitamos sacar la casta",
           "airdate": "2026-06-25",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43589182/?ref_=ttep_ep_29"
@@ -25667,6 +25707,14 @@
           "airdate": "2026-07-31",
           "summary": "This week: a one-on-one with Erin Brockovich, consumer advocate and environmental activist. Panel: Scott Galloway, NYU professor and author of \"Notes on Being a Man,\" and Peter Hamby, Puck correspondent and \"Powers That Be\" podcast host.",
           "url": "https://www.imdb.com/title/tt43623830/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 24,
+          "number": 22,
+          "name": "Mike Rowe/Tara Palmeri/Matt Welch",
+          "airdate": "2026-08-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43756117/?ref_=ttep_ep_22"
         },
         {
           "season": 23,
@@ -29868,6 +29916,11 @@
           "url": "https://www.imdb.com/title/tt39463339/?ref_=ttep_ep_9"
         }
       ]
+    },
+    "tt5003746": {
+      "imdbId": "tt5003746",
+      "title": "Basketball Hall of Fame Enshrinement Ceremony",
+      "episodes": []
     }
   }
 }
