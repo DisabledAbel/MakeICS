@@ -2410,7 +2410,7 @@
           "number": 7,
           "name": "Central Regional Qualifying 1",
           "airdate": "2026-07-20",
-          "summary": null,
+          "summary": "New competitors face an updated obstacle course in the Las Vegas regional qualifying rounds. Hosts Matt Iseman and Akbar Gbajabiamila, with co-host Zuri Hall, choose their fastest competitor of the night.",
           "url": "https://www.imdb.com/title/tt43677185/?ref_=ttep_ep_7"
         },
         {
@@ -2418,7 +2418,7 @@
           "number": 8,
           "name": "Central Regional Qualifying 2",
           "airdate": "2026-07-27",
-          "summary": null,
+          "summary": "A new group of athletes from the central region competes as qualifying rounds conclude in Las Vegas. Hosts Matt Iseman and Akbar Gbajabiamila, with co-host Zuri Hall, choose their fastest competitor of the night.",
           "url": "https://www.imdb.com/title/tt43677187/?ref_=ttep_ep_8"
         },
         {
@@ -2426,7 +2426,7 @@
           "number": 9,
           "name": "Central Regional Finals",
           "airdate": "2026-08-03",
-          "summary": null,
+          "summary": "Central region ninjas compete for national finals spots. Round 1 features two new obstacle courses, followed by the Tripleheader where the fastest ninjas face off in three-way competition.",
           "url": "https://www.imdb.com/title/tt43719492/?ref_=ttep_ep_9"
         },
         {
@@ -2616,7 +2616,7 @@
           "number": 9,
           "name": "The Last Performance",
           "airdate": "2026-07-27",
-          "summary": "Jenny questions Sumit's commitment to their marriage. Patrick and Thais take a pregnancy test. Kara and Guillermo grow closer. Russ and Pao celebrate their anniversary with disastrous results. Shekinah and Sarper go to battle with the other couples.",
+          "summary": "Jenny doubts Sumit's dedication. Patrick and Thais await test results. Kara and Guillermo bond. Russ and Pao's celebration goes wrong. Shekinah and Sarper clash with other couples.",
           "url": "https://www.imdb.com/title/tt43597284/?ref_=ttep_ep_9"
         },
         {
@@ -2624,7 +2624,7 @@
           "number": 10,
           "name": "The Last Draw",
           "airdate": "2026-08-03",
-          "summary": "Thais addresses her family drama with a puppet show. Guillermo opens up about Kara's drinking. Shekinah refuses to perform and walks out with Sarper. Zied's puppet show spirals into a blowout with Rebecca. Russ and Pao's anniversary ends in tears.",
+          "summary": "Thais uses puppets to discuss family issues. Guillermo shares concerns about Kara. Shekinah leaves with Sarper. Zied's puppet show leads to an argument with Rebecca. Russ and Pao's celebration doesn't go as planned.",
           "url": "https://www.imdb.com/title/tt43638483/?ref_=ttep_ep_10"
         },
         {
@@ -7063,7 +7063,7 @@
           "season": 21,
           "number": 11,
           "name": "Judges' Callbacks 2",
-          "airdate": null,
+          "airdate": "2026-08-11",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43754616/?ref_=ttep_ep_11"
         },
@@ -7071,7 +7071,7 @@
           "season": 21,
           "number": 12,
           "name": "Quarterfinals 1",
-          "airdate": null,
+          "airdate": "2026-08-18",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43754619/?ref_=ttep_ep_12"
         },
@@ -7079,7 +7079,7 @@
           "season": 21,
           "number": 13,
           "name": "Quarterfinals 1 Results",
-          "airdate": null,
+          "airdate": "2026-08-19",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43754622/?ref_=ttep_ep_13"
         },
@@ -7087,7 +7087,7 @@
           "season": 21,
           "number": 14,
           "name": "Quarterfinals 2",
-          "airdate": null,
+          "airdate": "2026-08-25",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43754628/?ref_=ttep_ep_14"
         },
@@ -10069,7 +10069,7 @@
           "number": 16,
           "name": "Episode #28.16",
           "airdate": "2026-08-07",
-          "summary": null,
+          "summary": "Jerry, Taylor, and Derrick welcome BB19 winner Josh Martinez.",
           "url": "https://www.imdb.com/title/tt43630970/?ref_=ttep_ep_16"
         },
         {
@@ -12971,7 +12971,7 @@
         {
           "season": 20,
           "number": 6,
-          "name": "Episode #20.6",
+          "name": "Suite & Sour",
           "airdate": "2026-08-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43683785/?ref_=ttep_ep_6"
@@ -12979,7 +12979,7 @@
         {
           "season": 20,
           "number": 7,
-          "name": "Episode #20.7",
+          "name": "All Bets Are Off",
           "airdate": "2026-08-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43683892/?ref_=ttep_ep_7"
@@ -13646,6 +13646,14 @@
           "url": "https://www.imdb.com/title/tt43731403/?ref_=ttep_ep_5"
         },
         {
+          "season": 7,
+          "number": 6,
+          "name": "Frickin' Brisbane",
+          "airdate": "2026-08-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43757090/?ref_=ttep_ep_6"
+        },
+        {
           "season": 6,
           "number": 1,
           "name": "Halls Balls!!!",
@@ -13957,7 +13965,7 @@
           "season": 13,
           "number": 6,
           "name": "A Ruff Day at the Park",
-          "airdate": null,
+          "airdate": "2026-08-27",
           "summary": "The Jokers are causing a scene on the street by throwing their ex's stuff out the window, until they mistakenly throw out something that belongs to them. Then, they'll have to keep a straight face during a snack taste test.",
           "url": "https://www.imdb.com/title/tt43754765/?ref_=ttep_ep_6"
         },
@@ -16396,6 +16404,46 @@
           "url": "https://www.imdb.com/title/tt43625108/?ref_=ttep_ep_11"
         },
         {
+          "season": 8,
+          "number": 12,
+          "name": "Objects of Power",
+          "airdate": "2026-07-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43825123/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 8,
+          "number": 13,
+          "name": "Unnerving Nature",
+          "airdate": "2026-07-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43825238/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 8,
+          "number": 14,
+          "name": "Deadly Ancient Curses",
+          "airdate": "2026-07-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43825358/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 8,
+          "number": 15,
+          "name": "Alien Close Encounters",
+          "airdate": "2026-08-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43825491/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 8,
+          "number": 16,
+          "name": "Secrets of the Pyramids",
+          "airdate": "2026-08-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43825569/?ref_=ttep_ep_16"
+        },
+        {
           "season": 7,
           "number": 1,
           "name": "The Golden Age of Pirates",
@@ -18181,9 +18229,9 @@
         },
         {
           "season": 2,
-          "number": 9,
+          "number": 13,
           "name": "Episode #2.9",
-          "airdate": null,
+          "airdate": "2025-09-13",
           "summary": "Triple Domes, Marble Mansion, and a Real Arizona Ghost Town",
           "url": "https://www.imdb.com/title/tt34979374/?ref_=ttep_ep_9"
         },
@@ -24347,7 +24395,7 @@
         {
           "season": 1,
           "number": 30,
-          "name": "Episode #1.30",
+          "name": "Yo no soy el novio",
           "airdate": "2026-06-26",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43589183/?ref_=ttep_ep_30"
@@ -27168,6 +27216,14 @@
         },
         {
           "season": 3,
+          "number": 28,
+          "name": "Howl-o-ween Charm",
+          "airdate": "2026-09-28",
+          "summary": "When the Howl-o-ween Cat's charm is stolen, a group of Trixters escapes into Kittydale. The SuperKitties must put the Trixters back in the charm before their tricks ruin Howl-o-ween.",
+          "url": "https://www.imdb.com/title/tt43841755/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 3,
           "number": 30,
           "name": "Franken-Rat/Pumpkin Parade",
           "airdate": "2025-09-30",
@@ -29729,7 +29785,7 @@
           "season": 5,
           "number": 2,
           "name": "Leather You Like It or Not",
-          "airdate": "2026-08-09",
+          "airdate": "2026-08-16",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39396388/?ref_=ttep_ep_2"
         },
@@ -29737,33 +29793,17 @@
           "season": 5,
           "number": 3,
           "name": "White Lies",
-          "airdate": "2026-08-09",
+          "airdate": "2026-08-23",
           "summary": "Kyle's iconic White Party returns with champagne flowing, surprise arrivals and an unforgettable performance from Luann; As some new friendships blossom, others are tested as tension between Vicki and Luann comes to a head over resurfaced comments.",
           "url": "https://www.imdb.com/title/tt39396387/?ref_=ttep_ep_3"
         },
         {
           "season": 5,
-          "number": 4,
+          "number": 6,
           "name": "Meet Me at the Alter ... Ego Party",
-          "airdate": "2026-08-09",
+          "airdate": "2026-09-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39396389/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 5,
-          "number": 5,
-          "name": "Episode #5.5",
-          "airdate": "2026-08-09",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt43619996/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 5,
-          "number": 6,
-          "name": "Episode #5.6",
-          "airdate": "2026-08-09",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt43619995/?ref_=ttep_ep_6"
         },
         {
           "season": 5,
@@ -29920,6 +29960,177 @@
     "tt5003746": {
       "imdbId": "tt5003746",
       "title": "Basketball Hall of Fame Enshrinement Ceremony",
+      "episodes": []
+    },
+    "tt16117344": {
+      "imdbId": "tt16117344",
+      "title": "Rock Paper Scissors",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 1,
+          "name": "The Watching/Nightmares",
+          "airdate": "2026-07-03",
+          "summary": "Rock, Paper, and Scissors have a great time birdwatching until they return home to find the birds have started watching them; The trio discovers they're trapped in a nightmare and must wake up before one of them wets the bed.",
+          "url": "https://www.imdb.com/title/tt41517374/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "name": "Emotional Support Convertible/The Baseball",
+          "airdate": "2026-06-19",
+          "summary": "Paper is frustrated when Scissors gets a car registered as an emotional support convertible and brings it with him everywhere; The trio's baseball lands in an air force base, and they must enlist to get it back.",
+          "url": "https://www.imdb.com/title/tt41625627/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "Rock's Half Birthday/Cherry Picking",
+          "airdate": "2026-06-26",
+          "summary": "Paper and Scissors struggle to make Rock's outlandish half-birthday wish that he can fly come true; Scissors stays home when Rock and Paper go cherry picking, but when they grow much closer to one another, he feels left out.",
+          "url": "https://www.imdb.com/title/tt41625629/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "Rock, Rock, Rock, Rock, Rock, Paper, Scissors/The Wish",
+          "airdate": "2026-07-10",
+          "summary": "Paper and Pencil inadvertently create a horde of Rock clones and decide to look after them together; The trio find a genie, but just as they're about to make their wish, his 1,000 year curse runs out, and he can no longer grant their wish.",
+          "url": "https://www.imdb.com/title/tt41665791/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "name": "The Train Problem/Salmon Delivery for Ya",
+          "airdate": "2026-07-17",
+          "summary": "Paper and Sandpaper are on a train that gets hijacked by The Algebra Villain, who will make them crash unless Paper solves an algebra problem; Rock and Scissors think of the perfect prank call, but Rock bails to watch Franz Roll's pet.",
+          "url": "https://www.imdb.com/title/tt41665793/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "name": "Hardcore/Scissors' New Therapist",
+          "airdate": "2026-07-24",
+          "summary": "When Scissors makes \"being hardcore\" a mandatory apartment rule, Paper goes to absurd lengths to prove himself; When Scissors' therapist leaves town, he's horrified to discover his new therapist is Logan, his bully.",
+          "url": "https://www.imdb.com/title/tt41665795/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "name": "The Henry Winkler Episode/Paper Loves Potato",
+          "airdate": "2026-07-31",
+          "summary": "The trio jump at the chance to go on an adventure with Henry Winkler, only to discover something about him; Paper's romantic dinner plans with Pencil spiral out of control after everyone is convinced he's dating Potato.",
+          "url": "https://www.imdb.com/title/tt41665802/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "name": "Sandpaper's Workout Program/The Secret",
+          "airdate": "2026-08-07",
+          "summary": "Rock tries to hide Potato's latest achievement from Paper, knowing he's incapable of keeping a secret; When Sandpaper confiscates their video games, the trio are forced to survive her dangerous jungle workout program to get it back.",
+          "url": "https://www.imdb.com/title/tt41665810/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "name": "Paper: Renowned Researcher/Meatball",
+          "airdate": "2026-08-21",
+          "summary": "Paper travels back to the Paleolithic Era to save his reputation as a researcher, only to make things much, much worse; Lou turns his cat, Meatball, into a vampire to try and keep him alive forever.",
+          "url": "https://www.imdb.com/title/tt41665813/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "name": "The Apology Soirée/Scissors' Perfect Match",
+          "airdate": "2026-08-28",
+          "summary": "While Paper and Scissors throw an apology party for everyone they've wronged, Rock accidentally shrinks himself and Franz Roll; Scissors falls for a beautiful mermaid he met on a dating app.",
+          "url": "https://www.imdb.com/title/tt41665815/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Franz Roll and the Lost Rainbow Hot Pants of Atraxes the Apple Bottomed",
+          "airdate": "2025-11-07",
+          "summary": "Rock quests for an ancient artifact in order to prove he is worthy of working with his modeling role model, Franz Roll. Paper and Scissors compete to be more supportive of Rock in the hopes that one of them will head his entourage.",
+          "url": "https://www.imdb.com/title/tt32659383/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Paper and Pencil Tell a Joke/Scissors' Orchestra",
+          "airdate": "2025-11-14",
+          "summary": "Paper and Pencil tell a kind of funny joke at a party and chase the feeling of people finding them funny by telling it again and again; Scissors hires an orchestra to follow him around and score his life.",
+          "url": "https://www.imdb.com/title/tt32731034/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Shoot/Rock's First Day of Work",
+          "airdate": "2025-11-28",
+          "summary": "The trio's overly competitive old friend returns; Rock starts his dream job as an assistant to his celebrity idol, but quickly learns that the glamorous life of a supermodel's assistant is exhausting.",
+          "url": "https://www.imdb.com/title/tt33057830/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Paper Attends an Elite Institution/The New Landlord",
+          "airdate": "2025-12-05",
+          "summary": "Paper is horrified to learn he's been placed in a third grade class for child prodigies; Fed up with their terrible living conditions, the trio successfully gets Lou to quit his landlord duties, but they soon regret it.",
+          "url": "https://www.imdb.com/title/tt33076589/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "The Origami Robot/Scissors Sees an Inspirational Sports Movie",
+          "airdate": "2025-12-12",
+          "summary": "When Scissors swallows a pine-cone, Pencil uses a technological marvel - the origami robot - to enter his stomach; Scissors sees an inspirational movie about a scrappy kid who defies the odds to become a football star.",
+          "url": "https://www.imdb.com/title/tt33259910/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "The Altruistic-Off/The Album",
+          "airdate": "2026-05-15",
+          "summary": "Rock, Paper, and Scissors must prove their superiority over the Rat Bros in an \"altruistic-off\" - a competition of doing good for society; Scissors has a bad date with Lolly the pop star and becomes the most hated man on Earth.",
+          "url": "https://www.imdb.com/title/tt32676322/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Paper Takes the Phones/The Bedtime Story",
+          "airdate": "2026-05-22",
+          "summary": "Paper takes Rock and Scissors' cellphones so the trio can connect in real life, but it turns out to be the worst day ever to be off-the-grid; Rock can't sleep, so Paper and Scissors must tell him a bedtime story, but he's hard to please.",
+          "url": "https://www.imdb.com/title/tt32908750/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Scissors is a Good Boy/Paper's Family Get-Together",
+          "airdate": "2026-05-29",
+          "summary": "Franz Roll mistakes Scissors for a dog and adopts him, growing close to him and making Rock jealous of them; Paper dreads his annual family get-together because his family is more accomplished than he is, so he hatches a plan to skip it.",
+          "url": "https://www.imdb.com/title/tt40011360/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Moonami 12/Spider Court",
+          "airdate": "2026-06-05",
+          "summary": "Rock, Paper, and Scissors try to maintain their tradition of seeing every Moonami film on opening day; The trio ends up before a spider judge and jury for attempting to squish a spider in their apartment.",
+          "url": "https://www.imdb.com/title/tt40031900/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Scissors, the Supervillain/Car Wash Nationals",
+          "airdate": "2026-06-12",
+          "summary": "Scissors thinks he's finally discovered his \"thing\" when he joins forces with the sleep-themed villain Dreamscape; Rock is sick and can't lead the Robo Car Wash in the Car Wash Nationals dance competition, leaving it to Paper and Scissors.",
+          "url": "https://www.imdb.com/title/tt40031914/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt11199386": {
+      "imdbId": "tt11199386",
+      "title": "Lanterns",
       "episodes": []
     }
   }
