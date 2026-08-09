@@ -395,6 +395,18 @@ test('getEpisodes merges and re-indexes consecutive children show episodes on th
       runtime: 13,
       summary: '<p>Second short part.</p>',
       url: 'https://www.tvmaze.com/episodes/903'
+    },
+    {
+      id: 904,
+      name: 'Part Three',
+      season: 1,
+      number: 4,
+      airdate: '2026-05-25',
+      airtime: '07:50',
+      airstamp: '2026-05-25T11:50:00+00:00',
+      runtime: 10,
+      summary: '<p>Third short part.</p>',
+      url: 'https://www.tvmaze.com/episodes/904'
     }
   ];
 
@@ -424,9 +436,9 @@ test('getEpisodes merges and re-indexes consecutive children show episodes on th
   assert.equal(result.episodes[0].name, 'Welcome to Charmswell');
   assert.equal(result.episodes[0].runtime, 25);
 
-  // Second episode is the merged S1E2 "Part One/Part Two" with summed runtime 25
+  // Second episode is the merged S1E2 "Part One/Part Two/Part Three" with summed runtime 12+13+10 = 35
   assert.equal(result.episodes[1].number, 2);
-  assert.equal(result.episodes[1].name, 'Part One/Part Two');
-  assert.equal(result.episodes[1].runtime, 25);
-  assert.equal(result.episodes[1].summary, 'First short part. Second short part.');
+  assert.equal(result.episodes[1].name, 'Part One/Part Two/Part Three');
+  assert.equal(result.episodes[1].runtime, 35);
+  assert.equal(result.episodes[1].summary, 'First short part. Second short part. Third short part.');
 });
