@@ -340,3 +340,93 @@ test('frontend offers one all-time copied ICS URL instead of dated feeds', async
   assert.match(appScript, /dataset\.category/);
   assert.match(indexPage, /tab-btn/);
 });
+
+test('getEpisodes merges and re-indexes consecutive children show episodes on the same day', async () => {
+  const childrenShowPayload = {
+    id: 99,
+    name: "Children's Animated Show",
+    status: 'Running',
+    premiered: '2026-05-25',
+    ended: null,
+    genres: ['Adventure', 'Children'],
+    language: 'English',
+    officialSite: null,
+    url: 'https://www.tvmaze.com/shows/99/childrens-animated-show',
+    externals: { imdb: null },
+    image: null,
+    summary: 'A kids show.',
+    runtime: null,
+    network: { name: 'Disney Junior', country: { name: 'United States' } }
+  };
+
+  const childrenEpisodesPayload = [
+    {
+      id: 901,
+      name: 'Welcome to Charmswell',
+      season: 1,
+      number: 1,
+      airdate: '2026-05-25',
+      airtime: '07:00',
+      airstamp: '2026-05-25T11:00:00+00:00',
+      runtime: 25,
+      summary: '<p>A full introduction.</p>',
+      url: 'https://www.tvmaze.com/episodes/901'
+    },
+    {
+      id: 902,
+      name: 'Part One',
+      season: 1,
+      number: 2,
+      airdate: '2026-05-25',
+      airtime: '07:25',
+      airstamp: '2026-05-25T11:25:00+00:00',
+      runtime: 12,
+      summary: '<p>First short part.</p>',
+      url: 'https://www.tvmaze.com/episodes/902'
+    },
+    {
+      id: 903,
+      name: 'Part Two',
+      season: 1,
+      number: 3,
+      airdate: '2026-05-25',
+      airtime: '07:37',
+      airstamp: '2026-05-25T11:37:00+00:00',
+      runtime: 13,
+      summary: '<p>Second short part.</p>',
+      url: 'https://www.tvmaze.com/episodes/903'
+    }
+  ];
+
+  const fetchImpl = async (url) => {
+    if (String(url).includes('/singlesearch/shows')) {
+      return Response.json(childrenShowPayload);
+    }
+    if (String(url).includes('/shows/99/episodes')) {
+      return Response.json(childrenEpisodesPayload);
+    }
+    if (String(url).includes('imdb.iamidiotareyoutoo.com')) {
+      return Response.json({ short: { name: 'Free Kids Show', datePublished: '2026-05-25', aggregateRating: null, description: 'Kids show.' } });
+    }
+    throw new Error(`Unexpected URL: ${url}`);
+  };
+
+  const result = await getEpisodes({
+    query: "Children's Animated Show",
+    fetchImpl,
+    env: { NODE_ENV: 'test' }
+  });
+
+  assert.equal(result.episodes.length, 2);
+
+  // First episode is S1E1 "Welcome to Charmswell" (runtime 25, not merged)
+  assert.equal(result.episodes[0].number, 1);
+  assert.equal(result.episodes[0].name, 'Welcome to Charmswell');
+  assert.equal(result.episodes[0].runtime, 25);
+
+  // Second episode is the merged S1E2 "Part One/Part Two" with summed runtime 25
+  assert.equal(result.episodes[1].number, 2);
+  assert.equal(result.episodes[1].name, 'Part One/Part Two');
+  assert.equal(result.episodes[1].runtime, 25);
+  assert.equal(result.episodes[1].summary, 'First short part. Second short part.');
+});
