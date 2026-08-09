@@ -3750,6 +3750,35 @@
       "label": "Oct 02, 2026"
     },
     {
+      "id": "tt29870331",
+      "title": "Appofeniacs",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmI3MDZjOGMtZTc3My00NGYyLWE2OTEtYjBiZTllZDY3OTU2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm6396597",
+          "name": "Aaron Holliday"
+        },
+        {
+          "id": "nm1854664",
+          "name": "Jermaine Fowler"
+        },
+        {
+          "id": "nm0348231",
+          "name": "Sean Gunn"
+        },
+        {
+          "id": "nm2534638",
+          "name": "Michael Abbott Jr."
+        }
+      ],
+      "label": "Oct 02, 2026"
+    },
+    {
       "id": "tt42693626",
       "title": "Adore Him",
       "image": "https://m.media-amazon.com/images/M/MV5BMDMxNWE3MWQtYTc1Ni00ODJlLTk0NWQtY2MxY2ZiZjg0ZGI0XkEyXkFqcGc@._V1_.jpg",
@@ -4507,12 +4536,12 @@
           "name": "Steve Buscemi"
         },
         {
-          "id": "nm0000518",
-          "name": "John Malkovich"
-        },
-        {
           "id": "nm0000205",
           "name": "Parker Posey"
+        },
+        {
+          "id": "nm0000518",
+          "name": "John Malkovich"
         }
       ],
       "label": "Nov 06, 2026"
@@ -6140,7 +6169,7 @@
     },
     {
       "id": "tt31339071",
-      "title": "Cocomelon: The Movie",
+      "title": "CoComelon: The Movie",
       "image": "https://m.media-amazon.com/images/M/MV5BNDRmMjViYzktZjg5Ny00YmY2LWIzYzctNWI4NWY0NDJmOWVlXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 19 Feb 2027 00:00:00 GMT",
       "genres": [
@@ -6419,20 +6448,20 @@
       ],
       "people": [
         {
-          "id": "nm6232759",
-          "name": "Ryan Panizza"
-        },
-        {
-          "id": "nm5003429",
-          "name": "Danny Kim"
-        },
-        {
-          "id": "nm6145170",
-          "name": "Bronte Pearce"
-        },
-        {
           "id": "nm0000554",
           "name": "Sam Neill"
+        },
+        {
+          "id": "nm1925239",
+          "name": "Jack O'Connell"
+        },
+        {
+          "id": "nm3239803",
+          "name": "Kaitlyn Dever"
+        },
+        {
+          "id": "nm6232759",
+          "name": "Ryan Panizza"
         }
       ],
       "label": "Mar 26, 2027"
@@ -6656,20 +6685,20 @@
       ],
       "people": [
         {
+          "id": "nm9974256",
+          "name": "Benjamin Evan Ainsworth"
+        },
+        {
+          "id": "nm8400601",
+          "name": "Bo Bragason"
+        },
+        {
           "id": "nm0000554",
           "name": "Sam Neill"
         },
         {
           "id": "nm2088803",
           "name": "Yvonne Strahovski"
-        },
-        {
-          "id": "nm9974256",
-          "name": "Benjamin Evan Ainsworth"
-        },
-        {
-          "id": "nm1901842",
-          "name": "Dichen Lachman"
         }
       ],
       "label": "Apr 30, 2027"
@@ -7312,6 +7341,56 @@
         }
       ],
       "label": "Jul 30, 2027"
+    },
+    {
+      "id": "tt39848323",
+      "title": "Jason Statham Stole My Bike",
+      "releaseDate": "Fri, 06 Aug 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm1821446",
+          "name": "Hannah Waddingham"
+        },
+        {
+          "id": "nm0005458",
+          "name": "Jason Statham"
+        },
+        {
+          "id": "nm3958526",
+          "name": "Daniel Ings"
+        },
+        {
+          "id": "nm14330474",
+          "name": "Artie Wilkinson-Hunt"
+        }
+      ],
+      "label": "Aug 06, 2027"
+    },
+    {
+      "id": "tt35050152",
+      "title": "The Bluey Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzgzMmExYjAtN2ZhYS00MmE3LWE1MzMtOTQxZWM0NmMyOGY0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Aug 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm3148372",
+          "name": "Melanie Zanetti"
+        },
+        {
+          "id": "nm1256136",
+          "name": "David McCormack"
+        }
+      ],
+      "label": "Aug 06, 2027"
     }
   ]
 }
