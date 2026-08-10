@@ -1219,7 +1219,7 @@
     {
       "id": "tt12759038",
       "title": "Prisoners of Paradise",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDg4YmVhMmUtNzc3ZS00MWEzLWJlYWYtYWEzZTIzNDAwZTY5XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBiM2QxNjAtOTY2Mi00OTllLTliNzgtNTYzNzFmMjEyYzgzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Mon, 10 Aug 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -3048,7 +3048,7 @@
     {
       "id": "tt10794054",
       "title": "The Weight",
-      "image": "https://m.media-amazon.com/images/M/MV5BYzU3YTY5MjItYmVlMi00YWE2LWE3NGEtMzFiOWZmNjY4OGQ0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWU1NWY0MzctYmFiYS00MDU3LWFlNDItZDc5ZGY3Y2JiYTI4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3568,12 +3568,12 @@
           "name": "Merritt Wever"
         },
         {
-          "id": "nm0267506",
-          "name": "Anna Faris"
-        },
-        {
           "id": "nm1711114",
           "name": "Skyler Gisondo"
+        },
+        {
+          "id": "nm1727825",
+          "name": "Tony Revolori"
         }
       ],
       "label": "Sep 25, 2026"
@@ -4489,6 +4489,28 @@
       "label": "Oct 30, 2026"
     },
     {
+      "id": "tt43622757",
+      "title": "Sight & Sound Presents: JOSHUA Live!",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDYwNTJmZWUtMTgxMi00NzRhLTkxNWQtNTk4YmIyMjdkYjA2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Family",
+        "Musical"
+      ],
+      "people": [
+        {
+          "id": "nm0026483",
+          "name": "Carl Anderson"
+        },
+        {
+          "id": "nm12009259",
+          "name": "Hope Klessig"
+        }
+      ],
+      "label": "Oct 30, 2026"
+    },
+    {
       "id": "tt36465142",
       "title": "Holy Father",
       "image": "https://m.media-amazon.com/images/M/MV5BYTAzZjgxNzUtZGUwYi00MGRjLWJjNGItODAyNDdmYWExNDE5XkEyXkFqcGc@._V1_.jpg",
@@ -4824,12 +4846,12 @@
       ],
       "people": [
         {
-          "id": "nm0000136",
-          "name": "Johnny Depp"
-        },
-        {
           "id": "nm7436993",
           "name": "Tramell Tillman"
+        },
+        {
+          "id": "nm0000136",
+          "name": "Johnny Depp"
         },
         {
           "id": "nm3510471",
@@ -5076,6 +5098,14 @@
           "name": "Kodai Kurosaki"
         }
       ],
+      "label": "Nov 25, 2026"
+    },
+    {
+      "id": "tt43744277",
+      "title": "Once Upon a Time in Hollywood",
+      "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
+      "genres": [],
+      "people": [],
       "label": "Nov 25, 2026"
     },
     {
@@ -6456,12 +6486,12 @@
           "name": "Jack O'Connell"
         },
         {
-          "id": "nm3239803",
-          "name": "Kaitlyn Dever"
+          "id": "nm1405398",
+          "name": "Dan Stevens"
         },
         {
-          "id": "nm6232759",
-          "name": "Ryan Panizza"
+          "id": "nm3239803",
+          "name": "Kaitlyn Dever"
         }
       ],
       "label": "Mar 26, 2027"
@@ -6693,12 +6723,12 @@
           "name": "Bo Bragason"
         },
         {
-          "id": "nm0000554",
-          "name": "Sam Neill"
+          "id": "nm1901842",
+          "name": "Dichen Lachman"
         },
         {
-          "id": "nm2088803",
-          "name": "Yvonne Strahovski"
+          "id": "nm0000554",
+          "name": "Sam Neill"
         }
       ],
       "label": "Apr 30, 2027"
@@ -7002,12 +7032,12 @@
       ],
       "people": [
         {
-          "id": "nm0290556",
-          "name": "James Franco"
-        },
-        {
           "id": "nm3170207",
           "name": "Noah Centineo"
+        },
+        {
+          "id": "nm0290556",
+          "name": "James Franco"
         },
         {
           "id": "nm1092086",
