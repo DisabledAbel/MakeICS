@@ -9,11 +9,6 @@
     "name": "Eggs & Egos",
     "verifiedAt": "2026-07-19T14:25:54.559Z"
   },
-  "All American-8-6": {
-    "airdate": "2026-08-10",
-    "name": "Rebel Without a Pause",
-    "verifiedAt": "2026-07-22T15:04:54.558Z"
-  },
   "All American-8-7": {
     "airdate": "2026-08-17",
     "name": "Somehow Some Way",
@@ -41,7 +36,7 @@
   },
   "Big Brother-28-16": {
     "airdate": "2026-08-13",
-    "name": "Episode #28.16",
+    "name": "Big Brother Unlocked #3",
     "verifiedAt": "2026-07-22T15:06:02.206Z"
   },
   "Big Brother-28-17": {
@@ -223,5 +218,15 @@
     "airdate": "2026-08-27",
     "name": "Meet Me at the Alter ... Ego Party",
     "verifiedAt": "2026-08-08T13:48:35.875Z"
+  },
+  "Expedition Unknown-17-8": {
+    "airdate": "2026-08-19",
+    "name": "Chasing Civil War Gold",
+    "verifiedAt": "2026-08-11T14:22:34.405Z"
+  },
+  "Lanterns-1-6": {
+    "airdate": "2026-09-20",
+    "name": "Episode #1.4",
+    "verifiedAt": "2026-08-11T14:23:02.034Z"
   }
 }
