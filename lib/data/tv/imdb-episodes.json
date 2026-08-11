@@ -3044,7 +3044,7 @@
           "number": 4,
           "name": "Episode #3.4",
           "airdate": null,
-          "summary": null,
+          "summary": "Football Rivals: Buffalo Bills fans vs. Minnesota Vikings fans, basically the battle of the NFL underdogs, competing for $100,000. It aired May 4, 2026.",
           "url": "https://www.imdb.com/title/tt43675925/?ref_=ttep_ep_4"
         },
         {
@@ -3052,23 +3052,15 @@
           "number": 5,
           "name": "Episode #3.5",
           "airdate": null,
-          "summary": null,
+          "summary": "Lifeguards vs. Beauty Queens",
           "url": "https://www.imdb.com/title/tt43675929/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 3,
-          "number": 6,
-          "name": "Episode #3.6",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt43675930/?ref_=ttep_ep_6"
         },
         {
           "season": 3,
           "number": 7,
           "name": "Episode #3.7",
           "airdate": null,
-          "summary": null,
+          "summary": "Team USA fans take on Team England fans.",
           "url": "https://www.imdb.com/title/tt43675931/?ref_=ttep_ep_7"
         },
         {
@@ -3595,6 +3587,270 @@
       "title": "Fatal Attraction",
       "episodes": [
         {
+          "season": 17,
+          "number": 1,
+          "name": "Warnings Unheeded",
+          "airdate": null,
+          "summary": "When one woman is found deceased in her vehicle and another is found critically wounded, detectives race to uncover who their shooters are and why these women were targeted.",
+          "url": "https://www.imdb.com/title/tt37853628/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 17,
+          "number": 2,
+          "name": "Consumed by Rage",
+          "airdate": null,
+          "summary": "When a beloved \"gentle giant\" is gunned down in an apartment complex parking lot, the entire community is stunned. As detectives dig deeper, a sordid love triangle filled with jealousy comes to light.",
+          "url": "https://www.imdb.com/title/tt37853629/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 17,
+          "number": 3,
+          "name": "The Face of a Monster",
+          "airdate": null,
+          "summary": "When an adored San Antonio man is found stabbed to death on his neighbor's lawn, shock ripples across the city. Detectives soon uncover a trail of friends, lovers, and secrets, until a surprising suspect emerges.",
+          "url": "https://www.imdb.com/title/tt38038857/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 17,
+          "number": 4,
+          "name": "Sinister Intentions",
+          "airdate": null,
+          "summary": "When a man is found dead in his truck, detectives uncover a trail of dating app messages and a dangerous catfish scheme. What began as a search for love ends in robbery, betrayal, and a cold-blooded murder.",
+          "url": "https://www.imdb.com/title/tt38038859/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 17,
+          "number": 5,
+          "name": "The Price of Obsession",
+          "airdate": null,
+          "summary": "When a woman calls 911 saying she's been shot, first responders hope for a miracle. But when she succumbs to her injuries, detectives are left scrambling for answers, until they uncover a terrifying tale of obsession that turned deadly.",
+          "url": "https://www.imdb.com/title/tt38090924/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 17,
+          "number": 6,
+          "name": "Deadly Delivery",
+          "airdate": null,
+          "summary": "In an upscale Atlanta neighborhood, a woman's life ends in a shocking act of violence. As detectives dig deeper into her glittering world, they uncover a story of wealth, control, and a betrayal that turns deadly.",
+          "url": "https://www.imdb.com/title/tt38090926/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 17,
+          "number": 7,
+          "name": "Snake in the Grass",
+          "airdate": null,
+          "summary": "When a devoted mother vanishes without a trace, detectives are thrust into a desperate search for answers. But as secrets begin to surface, they'll have to separate truth from deception before it's too late.",
+          "url": "https://www.imdb.com/title/tt38551224/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 17,
+          "number": 8,
+          "name": "The Boiling Point",
+          "airdate": null,
+          "summary": "When a driver is found shot inside a crashed vehicle, what looks like a random road incident quickly turns into a complex investigation. As detectives dig deeper, they uncover a trail of secrets and a mystery that no one saw coming.",
+          "url": "https://www.imdb.com/title/tt38551226/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 17,
+          "number": 9,
+          "name": "Nothing to Lose",
+          "airdate": null,
+          "summary": "When two best friends are found shot inside a Houston apartment, a desperate 911 call sets off a harrowing search for answers. Police uncover a story of friendship, fear, and the danger of someone with nothing to lose.",
+          "url": "https://www.imdb.com/title/tt38551227/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 17,
+          "number": 10,
+          "name": "Sudden Silence",
+          "airdate": null,
+          "summary": "When a young mother vanishes and texts that she's left town to be with a new man, her family insists the messages aren't from her. But after a televised reveal exposes a shocking truth, investigators race to uncover what really happened.",
+          "url": "https://www.imdb.com/title/tt38551228/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 17,
+          "number": 11,
+          "name": "Monsters in the Night",
+          "airdate": null,
+          "summary": "When a Massachusetts woman disappears, a chilling discovery in a Rhode Island pond reveals a devastating truth. As detectives trace her final hours, digital clues reveal a deadly betrayal and monsters lurking in the night.",
+          "url": "https://www.imdb.com/title/tt38637823/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 17,
+          "number": 12,
+          "name": "No Perfect Murder",
+          "airdate": null,
+          "summary": "When stepmother vanishes leaving her belongings behind, her loved ones fear something is wrong. Detectives retrace her final hours and troubling details inside her home and relationship suggest her disappearance was anything but voluntary.",
+          "url": "https://www.imdb.com/title/tt38637831/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 17,
+          "number": 13,
+          "name": "Threatening Behavior",
+          "airdate": null,
+          "summary": "When a single mother is found shot inside her new home, her own mother tells police there's only one person who could be responsible. As detectives trace threats and unanswered calls, they place someone she trusted back at her door.",
+          "url": "https://www.imdb.com/title/tt40481284/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 17,
+          "number": 14,
+          "name": "No Way Out",
+          "airdate": null,
+          "summary": "A 911 call leads police to a crime scene at a single mother's home. After catching the caller in a lie, detectives wonder if he's deflecting suspicion until they learn of a history of violence that sets them on a hunt for a killer.",
+          "url": "https://www.imdb.com/title/tt40481292/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 17,
+          "number": 15,
+          "name": "Smoke Screen",
+          "airdate": null,
+          "summary": "When a patrol officer uncovers a burning body, investigators find that the blaze was set to destroy evidence of a murder. And as detectives probe those closest to the victim, a web of secrets, jealousy, and resentment begins to unravel.",
+          "url": "https://www.imdb.com/title/tt38960726/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 17,
+          "number": 16,
+          "name": "When Lies Collide",
+          "airdate": null,
+          "summary": "A pregnant woman is gunned down just steps away from her front door with no leads on a suspect. But when friends and family step up to reveal an unrequited love and a secret confession, detectives learn the truth behind a deadly betrayal.",
+          "url": "https://www.imdb.com/title/tt38960728/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 17,
+          "number": 17,
+          "name": "Final Call",
+          "airdate": null,
+          "summary": "A dependable young service worker goes radio silent after a night out, loved ones are immediately panicked. Was she simply overwhelmed, and taking a step away from school and work? Or has something much more lead to her disappearance?",
+          "url": "https://www.imdb.com/title/tt39134357/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 17,
+          "number": 18,
+          "name": "Her Final Route",
+          "airdate": null,
+          "summary": "A performer vanishes after a show in New Mexico, and her community's desperate search leads to a grim discovery. Detectives wade through smoke and mirrors, they uncover a crime fueled by anger involving a family man living a double life.",
+          "url": "https://www.imdb.com/title/tt39134356/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 17,
+          "number": 19,
+          "name": "A Sinister Threat",
+          "airdate": null,
+          "summary": "A young father is found murdered at a public park and officers are soon in pursuit of the shooter who manages to evade capture. With their suspect in the wind, detectives work quickly to find a motive and bring the killer to justice.",
+          "url": "https://www.imdb.com/title/tt39134359/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 17,
+          "number": 20,
+          "name": "A Plot So Evil",
+          "airdate": null,
+          "summary": "An officer in Texas finds the body of a pregnant woman who's been murdered, and the scene suggests a drug deal gone wrong. Detectives uncover a heinous scheme and race to find a killer who takes extreme measures to avoid capture.",
+          "url": "https://www.imdb.com/title/tt39134360/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 17,
+          "number": 21,
+          "name": "Predator's Pull",
+          "airdate": null,
+          "summary": "A 16-year-old vanishes from her grandmother's home in the middle of the night, a frantic search ensues. Investigators follow a trail of digital clues, one haunting question remains: was the teen lured into a trap by someone she trusted?",
+          "url": "https://www.imdb.com/title/tt39379878/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 17,
+          "number": 22,
+          "name": "Devil of the Rarest Kind",
+          "airdate": null,
+          "summary": "A beloved mother goes missing and her family flags down police outside her apartment. With no answer at the door, officers force their way inside, uncovering a disturbing scene, the likes of which they've never seen before.",
+          "url": "https://www.imdb.com/title/tt39379879/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 17,
+          "number": 23,
+          "name": "What Lies Below",
+          "airdate": null,
+          "summary": "A woman disappears around the holidays, loved ones aren't sure if she's taking time away from the stress of motherhood, or if something terrible happened. As time drag on, a family's investigation finally helps uncover the truth.",
+          "url": "https://www.imdb.com/title/tt39520053/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 17,
+          "number": 24,
+          "name": "A Monster's Obsession",
+          "airdate": null,
+          "summary": "A young woman fails to show up for a friend's birthday and loved ones track her phone to her workplace but she's nowhere to be found. Detectives launch an investigation and uncover evidence that she may not be the killer's only victim.",
+          "url": "https://www.imdb.com/title/tt39520054/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 17,
+          "number": 25,
+          "name": "When Rumors Run Wild",
+          "airdate": null,
+          "summary": "A young woman goes missing after a night of partying and is found dead in a sugarcane field, rumors being to run wild. Detectives are faced with multiple leads, but will a trail of digital evidence steer the case in a new direction?",
+          "url": "https://www.imdb.com/title/tt39730126/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 17,
+          "number": 26,
+          "name": "A Dangerous Invitation",
+          "airdate": null,
+          "summary": "A young woman vanishes after a date and law enforcement goes on high alert as discoveries pop up around the city. As the investigation picks up, detectives learn the very app meant to keep her safe is now be the key to finding the truth.",
+          "url": "https://www.imdb.com/title/tt39730127/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 17,
+          "number": 27,
+          "name": "Lethal Love Triangle",
+          "airdate": null,
+          "summary": "When an expectant mother vanishes the day of her baby shower, friends and family know something is wrong. As investigators search for the missing woman, they uncover a love triangle. But without a body, will the truth ever prevail?",
+          "url": "https://www.imdb.com/title/tt39730128/?ref_=ttep_ep_27"
+        },
+        {
+          "season": 17,
+          "number": 28,
+          "name": "Inherently Evil",
+          "airdate": null,
+          "summary": "When a mother and son are found massacred, investigators soon discover a budding romance, a sinister past, and a trail of evidence. As they narrow in on the killer, detectives begin to wonder: are some people inherently evil?",
+          "url": "https://www.imdb.com/title/tt39730129/?ref_=ttep_ep_28"
+        },
+        {
+          "season": 17,
+          "number": 29,
+          "name": "Unpacking the Lies",
+          "airdate": null,
+          "summary": "A young immigrant building a new life in the United States disappears without a trace. A horrific discovery leads detectives on a multi-year, multi-state manhunt that leaves them wondering if their suspect will ever be brought to justice.",
+          "url": "https://www.imdb.com/title/tt40484383/?ref_=ttep_ep_29"
+        },
+        {
+          "season": 17,
+          "number": 30,
+          "name": "Escaping Evil",
+          "airdate": null,
+          "summary": "When a woman is run down in a suburban neighborhood, investigators scan every avenue for clues to the killer's identity. But when two suspects are revealed, police must uncover who is telling the truth and who is the cold-blooded killer?",
+          "url": "https://www.imdb.com/title/tt40484384/?ref_=ttep_ep_30"
+        },
+        {
+          "season": 17,
+          "number": 31,
+          "name": "A Deadly Ride",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40484385/?ref_=ttep_ep_31"
+        },
+        {
+          "season": 17,
+          "number": 32,
+          "name": "Depraved Indifference",
+          "airdate": null,
+          "summary": "When a gas station clerk is shot dead, detectives uncover a horrifying link to a decomposed, pregnant woman hidden in the suspect's home. Detectives must peel back layers of lies to put a killer away for not one, but three murders.",
+          "url": "https://www.imdb.com/title/tt40484386/?ref_=ttep_ep_32"
+        },
+        {
+          "season": 17,
+          "number": 33,
+          "name": "A Matter of Time",
+          "airdate": null,
+          "summary": "When a devoted mother mysteriously vanishes on her commute to work, a search leads police to her discarded body. Though a suspect is quickly identified, a decades-long trail of lies reveals that sometimes the road to justice takes time.",
+          "url": "https://www.imdb.com/title/tt40484387/?ref_=ttep_ep_33"
+        },
+        {
           "season": 16,
           "number": 1,
           "name": "The Cost of Loyalty",
@@ -3969,382 +4225,6 @@
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt38551218/?ref_=ttep_ep_50"
-        },
-        {
-          "season": 15,
-          "number": 1,
-          "name": "Death in the Cul-de-Sac",
-          "airdate": "2024-05-29",
-          "summary": "When a beloved father and businessman is gunned down outside his home, police believe he is the victim of a targeted attack; as they uncover details regarding his covert side, a motive for revenge is soon unveiled.",
-          "url": "https://www.imdb.com/title/tt30576641/?ref_=ttep_ep_1"
-        },
-        {
-          "season": 15,
-          "number": 2,
-          "name": "Unearthed Secrets",
-          "airdate": "2024-06-05",
-          "summary": "When a young woman suddenly vanishes without a trace, the Cleveland Police immediately embarks upon an investigation determined to find answers; as the mystery deepens, a horrifying discovery unearths a story of deadly betrayal.",
-          "url": "https://www.imdb.com/title/tt30817349/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 15,
-          "number": 3,
-          "name": "The Devil Inside Me",
-          "airdate": "2024-06-12",
-          "summary": "When a teenager mysteriously disappears in the dead of winter, Minnesota police are determined to crack the case; as investigators begin to piece together her secret double life, a cold-blooded killer with a shocking motive is unveiled.",
-          "url": "https://www.imdb.com/title/tt30868769/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 15,
-          "number": 4,
-          "name": "Sinful Betrayal",
-          "airdate": "2024-06-19",
-          "summary": "When a mother of three is found dead from a gunshot wound, investigators are led to believe it was a suicide. As additional details and witness accounts come forward, the investigation reveals a secret double life that led to a murder.",
-          "url": "https://www.imdb.com/title/tt31105926/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 15,
-          "number": 5,
-          "name": "Lover's Quarrel",
-          "airdate": "2024-06-26",
-          "summary": "After a single mother's body is found with stab wounds in a Florida ditch, police are thrown into a case full of betrayal and deceit. Detectives rifle through her past relationships to uncover a violent killer with devilish motivations.",
-          "url": "https://www.imdb.com/title/tt31390334/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 15,
-          "number": 6,
-          "name": "Into Thin Air",
-          "airdate": "2024-07-03",
-          "summary": "When a young child is found wandering the streets of Detroit alone, a search ensues to find his missing mother; the investigation reveals a connection to a serial sexual predator, leading to a chilling discovery in a haunting saga of fraud",
-          "url": "https://www.imdb.com/title/tt31390338/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 15,
-          "number": 7,
-          "name": "Evil Escapes",
-          "airdate": "2024-07-10",
-          "summary": "When Sharonda Clark goes missing in Tulsa, OK, police visit her home and discover the young mother, stabbed multiple times; as investigators dig into her life, her past with a mysterious lover may be the clue they need to find her killer.",
-          "url": "https://www.imdb.com/title/tt31549809/?ref_=ttep_ep_7"
-        },
-        {
-          "season": 15,
-          "number": 8,
-          "name": "One for the Money",
-          "airdate": "2024-07-17",
-          "summary": "When detectives discover a man's body on the grounds of an Austin apartment complex, they are thrust into a case with multiple suspects, conflicting stories, and startling revelations; from a night of revelry to betrayal.",
-          "url": "https://www.imdb.com/title/tt31549813/?ref_=ttep_ep_8"
-        },
-        {
-          "season": 15,
-          "number": 9,
-          "name": "No Remorse",
-          "airdate": "2024-07-24",
-          "summary": "After a home intruder stabs 29-year-old Brian Spinks, a father and Air Force Sergeant in Shreveport, LA, police are determined to catch the killer; as detectives dig deeper, they uncover a suspect at the center of their investigation.",
-          "url": "https://www.imdb.com/title/tt31896449/?ref_=ttep_ep_9"
-        },
-        {
-          "season": 15,
-          "number": 10,
-          "name": "Depraved Mind",
-          "airdate": "2024-07-31",
-          "summary": "When Danielle Stubbs is found dead by her family inside her home, investigators dive in to identify a suspect; but, as they race to uncover the events leading up to her death, they discover a love triangle, fueled with jealousy and rage.",
-          "url": "https://www.imdb.com/title/tt31896454/?ref_=ttep_ep_10"
-        },
-        {
-          "season": 15,
-          "number": 11,
-          "name": "Trail of Violence",
-          "airdate": "2024-08-07",
-          "summary": "A single mother is found murdered in a hotel room, detectives fear her attacker might strike again; in a race against the clock, detectives must untangle a disturbing trail of violence involving multiple victims and one sadistic predator.",
-          "url": "https://www.imdb.com/title/tt31896455/?ref_=ttep_ep_11"
-        },
-        {
-          "season": 15,
-          "number": 12,
-          "name": "Deathly Betrothal",
-          "airdate": "2024-08-14",
-          "summary": "When a woman's body is found in a ditch on the outskirts of Jonesboro, the town is sent into a tailspin. Detectives must determine if this was a random act of violence, or the result of her strained marriage that was splitting at the seams",
-          "url": "https://www.imdb.com/title/tt32080666/?ref_=ttep_ep_12"
-        },
-        {
-          "season": 15,
-          "number": 13,
-          "name": "Femme Fatale",
-          "airdate": "2024-08-21",
-          "summary": "When an up-and-coming rapper is fatally shot in his San Antonio home, police are determined to catch the culprit; after discovering a suspicious 911 call placed on the night of the murder, police must track down an unexpected suspect.",
-          "url": "https://www.imdb.com/title/tt32080673/?ref_=ttep_ep_13"
-        },
-        {
-          "season": 15,
-          "number": 14,
-          "name": "Dangerous Liaison",
-          "airdate": "2024-08-28",
-          "summary": "When a young man is found dead in a neighborhood known for illegal activities, police initially surmise his death is the result of a botched drug deal; but as they dig deeper, they learn that his desire for love may have been his downfall.",
-          "url": "https://www.imdb.com/title/tt32080675/?ref_=ttep_ep_14"
-        },
-        {
-          "season": 15,
-          "number": 18,
-          "name": "Out of Control",
-          "airdate": "2024-09-18",
-          "summary": "When a young woman is found dead in her car outside of her home, investigators struggle to find proof of foul play. As they delve deeper into the timeline of events that led up to her death, they uncover a killer who was out of control.",
-          "url": "https://www.imdb.com/title/tt32283315/?ref_=ttep_ep_17"
-        },
-        {
-          "season": 15,
-          "number": 19,
-          "name": "Desperate Measures",
-          "airdate": "2024-10-02",
-          "summary": "When a cryptic call reveals that a successful businesswoman has been murdered, investigators immediately jump into action; with a killer on the run, detectives must unravel the secret life hidden behind a powerful family's perfect façade.",
-          "url": "https://www.imdb.com/title/tt32400723/?ref_=ttep_ep_19"
-        },
-        {
-          "season": 15,
-          "number": 20,
-          "name": "Shadow of Jealousy",
-          "airdate": "2024-10-09",
-          "summary": "A young mother goes missing, leaving behind her 5-month old baby. Investigators try to figure out where she could have gone. But as they interview those closest to her, they soon uncover a shocking trail of jealousy, violence, and deceit.",
-          "url": "https://www.imdb.com/title/tt32489301/?ref_=ttep_ep_20"
-        },
-        {
-          "season": 15,
-          "number": 21,
-          "name": "Ritualistic Obsession",
-          "airdate": "2024-10-16",
-          "summary": "When severe floods lead to the discovery of a mutilated woman, investigators believe it's the work of a serial killer. As old relationships rise to the surface, they'll need to discern the lies from the truth to find the true killer.",
-          "url": "https://www.imdb.com/title/tt32489305/?ref_=ttep_ep_21"
-        },
-        {
-          "season": 15,
-          "number": 22,
-          "name": "I Love You to Death",
-          "airdate": "2024-10-23",
-          "summary": "When a rideshare driver is fatally shot behind the wheel of her own car, detectives must track down the masked culprit. Despite uncovering surveillance footage of the incident, the case runs cold, until an unexpected witness is identified.",
-          "url": "https://www.imdb.com/title/tt32522819/?ref_=ttep_ep_22"
-        },
-        {
-          "season": 15,
-          "number": 23,
-          "name": "Chilling Premonitions",
-          "airdate": "2024-10-30",
-          "summary": "When a single mother is found dead in her apartment, investigators theorize it was the result of a botched sexual assault. Years go by without any answers until a break in the case leaves them with more questions than answers.",
-          "url": "https://www.imdb.com/title/tt34357278/?ref_=ttep_ep_23"
-        },
-        {
-          "season": 15,
-          "number": 24,
-          "name": "Brutal Betrayal",
-          "airdate": "2024-11-04",
-          "summary": "When a reformed ex-con is found shot outside an apartment complex, detectives wonder if his criminal past has caught up with him; but after an unexpected witness comes forward, detectives uncover sinister motives closer to home than they expected.",
-          "url": "https://www.imdb.com/title/tt32778275/?ref_=ttep_ep_24"
-        },
-        {
-          "season": 15,
-          "number": 25,
-          "name": "Out of the Ordinary",
-          "airdate": "2024-09-25",
-          "summary": "When a teenage girl goes missing, her family is completely distraught; with no leads, detectives are left grasping at straws; when surveillance footage finally reveals a suspect, they must fight the lies to reveal the truth.",
-          "url": "https://www.imdb.com/title/tt32350530/?ref_=ttep_ep_18"
-        },
-        {
-          "season": 15,
-          "number": 26,
-          "name": "Bitter Rivalry",
-          "airdate": "2024-11-11",
-          "summary": "When Rochelle Demmings is found dead by her boyfriend Ronald inside her home, investigators dive in to identify a suspect and the cause of her untimely death.",
-          "url": "https://www.imdb.com/title/tt33043251/?ref_=ttep_ep_26"
-        },
-        {
-          "season": 15,
-          "number": 27,
-          "name": "Houston Homicide",
-          "airdate": "2024-11-13",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt32889829/?ref_=ttep_ep_27"
-        },
-        {
-          "season": 15,
-          "number": 28,
-          "name": "Rhyme of Revenge",
-          "airdate": "2024-11-18",
-          "summary": "When a woman is found shot inside her mother's home, they can't fathom who would want to harm her; but when a suspect is caught fleeing on camera, it takes a vigilant investigation, a surprise connection and a manhunt to bring the killer to justice.",
-          "url": "https://www.imdb.com/title/tt33043253/?ref_=ttep_ep_28"
-        },
-        {
-          "season": 15,
-          "number": 29,
-          "name": "Dangerous Affair",
-          "airdate": "2024-11-20",
-          "summary": "When a missing man is discovered deceased in his bed and with no sign of his family, detectives fear they may still be in danger; working urgently to find them before it's too late, their investigation leads to an unexpected suspect emerging.",
-          "url": "https://www.imdb.com/title/tt35542734/?ref_=ttep_ep_29"
-        },
-        {
-          "season": 15,
-          "number": 30,
-          "name": "Disastrous Dreaming",
-          "airdate": "2024-11-25",
-          "summary": "After fulfilling her American dream, a woman suddenly disappears. Police suspect foul play and, with her family's help, zero in on a suspect; but once her body is found brutally slain, they're afraid her killer has slipped through their fingers.",
-          "url": "https://www.imdb.com/title/tt33094123/?ref_=ttep_ep_30"
-        },
-        {
-          "season": 15,
-          "number": 31,
-          "name": "Divine Delusions",
-          "airdate": "2024-12-02",
-          "summary": "Love and stability is all this single mother wanted, but as Christmas comes around, she vanishes. While detectives rush to find answers, they are left chasing an elusive criminal; after the young woman's body is found, another goes missing.",
-          "url": "https://www.imdb.com/title/tt33312260/?ref_=ttep_ep_31"
-        },
-        {
-          "season": 15,
-          "number": 32,
-          "name": "Collateral Damage",
-          "airdate": "2024-12-09",
-          "summary": "When a mother is found dead inside her ransacked home, detectives suspect a robbery gone wrong; as investigators piece together her final moments, more motive emerges, exposing a conspiracy and an affair.",
-          "url": "https://www.imdb.com/title/tt33349776/?ref_=ttep_ep_32"
-        },
-        {
-          "season": 15,
-          "number": 33,
-          "name": "Harlem Horror",
-          "airdate": "2024-12-16",
-          "summary": "A loving grandmother had it all, with her home in the city and a new boyfriend; but things turn sinister when her home becomes the scene of a double murder. Soon, detectives uncover a plot that exposes danger closer than anyone could have expected.",
-          "url": "https://www.imdb.com/title/tt33475894/?ref_=ttep_ep_33"
-        },
-        {
-          "season": 15,
-          "number": 34,
-          "name": "The Company You Keep",
-          "airdate": "2024-12-23",
-          "summary": "A beloved single mom disappears mysteriously. As police investigate her last known movements, they discover a vengeful ex-lover may be behind her vanishing.",
-          "url": "https://www.imdb.com/title/tt33475895/?ref_=ttep_ep_34"
-        },
-        {
-          "season": 15,
-          "number": 35,
-          "name": "Episode #15.35",
-          "airdate": "2025-01-27",
-          "summary": "When a woman at the peak of her career is found brutally murdered, investigators struggle to make sense of it all. But as the evidence leads them to her killer, it's apparent he has tasted blood and now he wants more.",
-          "url": "https://www.imdb.com/title/tt33783430/?ref_=ttep_ep_35"
-        },
-        {
-          "season": 15,
-          "number": 36,
-          "name": "Deadly Dating Game",
-          "airdate": "2025-02-03",
-          "summary": "When a beloved cancer survivor is found dead on the side of a rural highway, police fear her blossoming dating life played a role in her demise. As detectives retrace her final days, they discover an obsessive killer hiding in plain sight.",
-          "url": "https://www.imdb.com/title/tt33783466/?ref_=ttep_ep_36"
-        },
-        {
-          "season": 15,
-          "number": 37,
-          "name": "Devil's Playground",
-          "airdate": "2025-02-10",
-          "summary": "When a beloved young woman goes missing, detectives work with her family to unearth a voicemail from an unknown number. But when it leads detectives to a disturbing scene and an unexpected killer, will they have the evidence to put him away?",
-          "url": "https://www.imdb.com/title/tt34001377/?ref_=ttep_ep_37"
-        },
-        {
-          "season": 15,
-          "number": 38,
-          "name": "Toxic Intentions",
-          "airdate": "2025-02-17",
-          "summary": "When a dedicated educator is found unresponsive in his home, family and friends are puzzled by his unexpected passing; after receiving a tip suggesting his death was no accident, police uncover a sophisticated killer with a chilling motive",
-          "url": "https://www.imdb.com/title/tt34163983/?ref_=ttep_ep_38"
-        },
-        {
-          "season": 15,
-          "number": 39,
-          "name": "Shattered Ambitions",
-          "airdate": "2025-02-24",
-          "summary": "When a girl is found shot in her bedroom, the investigation leaves detectives scratching their heads as the suspect list piles up. When nearby surveillance footage unveils a break in the case, detectives are shocked by what they discover.",
-          "url": "https://www.imdb.com/title/tt34567215/?ref_=ttep_ep_39"
-        },
-        {
-          "season": 15,
-          "number": 40,
-          "name": "Episode #15.40",
-          "airdate": "2025-03-03",
-          "summary": "When a young transgender woman is discovered shot and killed, detectives work to identify her killer. After police learn their victim was attacked in a hate crime mere weeks before her death, a pool of potential suspects emerges.",
-          "url": "https://www.imdb.com/title/tt34567217/?ref_=ttep_ep_40"
-        },
-        {
-          "season": 15,
-          "number": 41,
-          "name": "From Hope to Horror",
-          "airdate": "2025-03-10",
-          "summary": "A woman is found dead in a motel room; police suspect a drug crime; an investigation reveals an unexpected killer with a dark motive, unrelated to drugs.",
-          "url": "https://www.imdb.com/title/tt34567220/?ref_=ttep_ep_41"
-        },
-        {
-          "season": 15,
-          "number": 42,
-          "name": "Familial Lies",
-          "airdate": "2025-03-17",
-          "summary": "As detectives interview a victim's friends and family, they discover an unassuming assailant.",
-          "url": "https://www.imdb.com/title/tt34753951/?ref_=ttep_ep_42"
-        },
-        {
-          "season": 15,
-          "number": 43,
-          "name": "Fame and Felony",
-          "airdate": "2025-03-24",
-          "summary": "A rising young rap star is reported missing, and detectives find evidence of a violent attack in her home; yet when their prime suspect goes on the run, they are left scrambling for answers, until they get a call that breaks the case wide open.",
-          "url": "https://www.imdb.com/title/tt34893682/?ref_=ttep_ep_43"
-        },
-        {
-          "season": 15,
-          "number": 44,
-          "name": "The Cost of Desire",
-          "airdate": "2025-03-31",
-          "summary": "When a close-knit family is brutally gunned down in their home, detectives initially suspect a botched business deal provoked the tragic massacre. As the investigation ensues, police uncover an apathetic killer motivated by greed and lust.",
-          "url": "https://www.imdb.com/title/tt35017748/?ref_=ttep_ep_44"
-        },
-        {
-          "season": 15,
-          "number": 45,
-          "name": "Flames of Revenge",
-          "airdate": "2025-04-07",
-          "summary": "When a teacher and animal lover abandons her dogs for days, her family knows something is wrong. During the search, investigators receive a tip from loved ones, leading them to investigate a tumultuous past that blows the case wide open.",
-          "url": "https://www.imdb.com/title/tt35017754/?ref_=ttep_ep_45"
-        },
-        {
-          "season": 15,
-          "number": 46,
-          "name": "Deadly Arrangement",
-          "airdate": "2025-04-14",
-          "summary": "After achieving the American Dream, a beloved Egyptian mother is viciously killed in the night; as the motive for the murder hangs in the air, detectives are without a suspect, until a shocking development takes the case in a new direction",
-          "url": "https://www.imdb.com/title/tt35373082/?ref_=ttep_ep_46"
-        },
-        {
-          "season": 15,
-          "number": 47,
-          "name": "Love and Lies",
-          "airdate": "2025-04-21",
-          "summary": "A family is gunned down in the middle of the street in a quiet neighborhood, leaving a young mother dead.",
-          "url": "https://www.imdb.com/title/tt35428628/?ref_=ttep_ep_47"
-        },
-        {
-          "season": 15,
-          "number": 48,
-          "name": "Lured by Lies",
-          "airdate": "2025-04-28",
-          "summary": "When a vibrant teenager is gunned down outside his home, friends and family are left reeling from the loss. After police discover he was on the phone in the moments leading up to his attack, the search for the mysterious caller begins.",
-          "url": "https://www.imdb.com/title/tt35567044/?ref_=ttep_ep_48"
-        },
-        {
-          "season": 15,
-          "number": 49,
-          "name": "Propensity for Violence",
-          "airdate": "2025-05-05",
-          "summary": "On a journey to reclaim her life, a dedicated mother is murdered in cold blood inside a Minneapolis apartment; as detectives get to work, their prime suspect for this brutal crime goes on the run, and they need a miracle to bring the killer in.",
-          "url": "https://www.imdb.com/title/tt35567047/?ref_=ttep_ep_49"
-        },
-        {
-          "season": 15,
-          "number": 50,
-          "name": "A Volatile Situation",
-          "airdate": "2025-05-12",
-          "summary": "When a young boy discovers his pregnant mother fatally shot inside their home, investigators are determined to bring her killer to justice; as they uncover details about her love life, a killer driven by a heartless motive emerges.",
-          "url": "https://www.imdb.com/title/tt35671951/?ref_=ttep_ep_50"
         }
       ]
     },
@@ -6886,6 +6766,14 @@
           "url": "https://www.imdb.com/title/tt43730653/?ref_=ttep_ep_6"
         },
         {
+          "season": 10,
+          "number": 7,
+          "name": "Café Notte",
+          "airdate": null,
+          "summary": "Italian restaurant Café Notte is on the verge of collapse. Gordon steps in to help with unresolved tension between the head chef and his stepson before it destroys both the business and their family.",
+          "url": "https://www.imdb.com/title/tt44042519/?ref_=ttep_ep_7"
+        },
+        {
           "season": 9,
           "number": 1,
           "name": "Road to Super Bowl LIX - Iberville: Ramsay's Worst Nightmare",
@@ -8928,7 +8816,7 @@
           "number": 13,
           "name": "Constance Wu & Jimmy Fallon",
           "airdate": "2026-08-04",
-          "summary": null,
+          "summary": "Jimmy Fallon and celebrity guest Constance Wu pair up with contestants for a word showdown, featuring a round of \"fancy\" words; hosted by Keke Palmer, the players must guess secret passwords using one-word clues for a chance to win up to $25,000;",
           "url": "https://www.imdb.com/title/tt43717826/?ref_=ttep_ep_13"
         },
         {
@@ -10507,7 +10395,7 @@
           "number": 13,
           "name": "Tag Team",
           "airdate": "2026-08-12",
-          "summary": null,
+          "summary": "The remaining home cooks compete in pairs as they race to recreate dishes inspired by the judges' most cherished culinary memories; in the end, one team's journey comes to an end with a double elimination.",
           "url": "https://www.imdb.com/title/tt43750357/?ref_=ttep_ep_13"
         },
         {
@@ -10515,8 +10403,16 @@
           "number": 14,
           "name": "The Wall",
           "airdate": "2026-08-19",
-          "summary": null,
+          "summary": "Separated by an eight-foot-high barrier, the home cooks must partner up and rely solely on communication to create identical dishes; a double elimination.",
           "url": "https://www.imdb.com/title/tt43750358/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 16,
+          "number": 15,
+          "name": "Restaurant Takeover",
+          "airdate": "2026-08-26",
+          "summary": "The Top 6 home cooks are split into teams to put their skills to the ultimate test and take over Cluny Bistro for a packed dinner service in the Restaurant Takeover challenge. The MasterChef kitchen has prepared them for this moment, but running a real restaurant leaves no room for error. By the end of the night, one cook will not survive the dinner rush.",
+          "url": "https://www.imdb.com/title/tt44042045/?ref_=ttep_ep_15"
         },
         {
           "season": 15,
@@ -13133,8 +13029,80 @@
           "number": 11,
           "name": "Whine or Champagne?",
           "airdate": "2025-09-11",
-          "summary": "The",
+          "summary": "The ladies embark on dueling trips as Tamra invites Shannon, Jenn and Gina to Temecula in an effort to rebuild her friendship with Shannon; Heather takes the opportunity to host an adult sleepover in Beverly Hills with Emily and Gretchen.",
           "url": "https://www.imdb.com/title/tt36404518/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 19,
+          "number": 13,
+          "name": "Not So Funfetti",
+          "airdate": "2025-10-02",
+          "summary": "Tamra decides to give herself some space from Gretchen; Emily and Shane are more in sync after receiving a diagnosis for Luke; Jenn expresses her concerns as Dawson preps to leave for the Marines.",
+          "url": "https://www.imdb.com/title/tt36404521/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 19,
+          "number": 14,
+          "name": "Hoedown Throwdown",
+          "airdate": "2025-10-09",
+          "summary": "Tamra meets with Katie in hopes of uncovering the truth; Shannon and Jenn's friendship continues to blossom when they engage their dogs with a pet psychic; Heather hosts an event for the Trevor Project.",
+          "url": "https://www.imdb.com/title/tt36404522/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 19,
+          "number": 15,
+          "name": "Going Dutch",
+          "airdate": "2025-10-16",
+          "summary": "Shannon hosts a bridal lunch for Jenn; Heather opens up about her relationship with her father; Gina and Travis celebrate their family being back together; Tamra and Eddie prep to be empty nesters; the ladies head to Amsterdam.",
+          "url": "https://www.imdb.com/title/tt36404523/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 19,
+          "number": 16,
+          "name": "Tulip Service",
+          "airdate": "2025-10-23",
+          "summary": "As the Amsterdam trip continues, the ladies visit the famous tulip fields where Jenn and Shannon´s friendship is called into question. Emily tries one last time to broker peace between Tamra and Gretchen.",
+          "url": "https://www.imdb.com/title/tt36404524/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 19,
+          "number": 17,
+          "name": "A Source of Discontent",
+          "airdate": "2025-10-30",
+          "summary": "The ladies enjoy several local activities in Amsterdam; Emily receives a distressing call from Shane; Heather finds comfort in visiting her parents' former home before spreading her father's ashes; Gina struggles with a scandalous rumor.",
+          "url": "https://www.imdb.com/title/tt36404526/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 19,
+          "number": 18,
+          "name": "Loose Lips Sink Trips",
+          "airdate": "2025-09-18",
+          "summary": "After dinner in Temecula, Tamra tries to turn the trip around for the ladies; Heather, Emily and Gretchen's wild night out in West Hollywood ends with Gretchen revealing tea about Tamra; Tamra's efforts to win Shannon's favor are thwarted.",
+          "url": "https://www.imdb.com/title/tt36404519/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 19,
+          "number": 19,
+          "name": "Reunion Part 2",
+          "airdate": "2025-11-13",
+          "summary": "The ladies question Tamra about Jenn's photo, Gina discusses Heather's career comments. Jenn gets Ryan's call with Katie revelations. Matt Ginella joins for a dramatic he said, she said game.",
+          "url": "https://www.imdb.com/title/tt38004004/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 19,
+          "number": 20,
+          "name": "Reunion Part 3",
+          "airdate": "2025-11-20",
+          "summary": "Tamra and Gretchen clash over Amsterdam dinner details. Emily and Tamra question their friendship. Season finale footage sparks intense reactions, putting Tamra's honesty under scrutiny.",
+          "url": "https://www.imdb.com/title/tt38004016/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 19,
+          "number": 25,
+          "name": "Defense Is the Best Offense",
+          "airdate": "2025-09-25",
+          "summary": "The women return from two tense trips with most feeling the planned bonding failed to take hold. Tamra joins Sophia on a music-school tour. Jenn realizes her upcoming wedding is having a greater emotional impact on her kids than she anticipated. Everyone reunites when Gretchen hosts a tactical training event. The ladies learn self-defense, but a shocking rumor about Tamra leads to an explosive confrontation.",
+          "url": "https://www.imdb.com/title/tt36404520/?ref_=ttep_ep_12"
         }
       ]
     },
@@ -13406,7 +13374,7 @@
           "number": 10,
           "name": "Extreme Extractions",
           "airdate": "2026-05-19",
-          "summary": null,
+          "summary": "In Operation Halyard, villagers and resistance fighters built an airstrip by hand to spirit stranded airmen out of Nazi territory, while Operation Mount Hope saw American forces steal a Soviet helicopter from the African desert.",
           "url": "https://www.imdb.com/title/tt43620867/?ref_=ttep_ep_10"
         },
         {
@@ -17393,7 +17361,7 @@
           "season": 5,
           "number": 9,
           "name": "Episode #5.9",
-          "airdate": null,
+          "airdate": "2026-08-07",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39386705/?ref_=ttep_ep_9"
         },
@@ -17409,7 +17377,7 @@
           "season": 5,
           "number": 11,
           "name": "Episode #5.11",
-          "airdate": null,
+          "airdate": "2026-08-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39386713/?ref_=ttep_ep_11"
         },
@@ -17417,7 +17385,7 @@
           "season": 5,
           "number": 12,
           "name": "Episode #5.12",
-          "airdate": null,
+          "airdate": "2026-08-15",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39386710/?ref_=ttep_ep_12"
         },
@@ -18065,7 +18033,7 @@
           "season": 4,
           "number": 47,
           "name": "Episode #4.47",
-          "airdate": null,
+          "airdate": "2026-01-23",
           "summary": "Baton Rouge officers investigate a shooting and search for a suspect making threats.",
           "url": "https://www.imdb.com/title/tt39386711/?ref_=ttep_ep_47"
         },
@@ -24909,9 +24877,9 @@
         {
           "season": 8,
           "number": 1,
-          "name": "Episode #8.1",
-          "airdate": "2017-07-28",
-          "summary": null,
+          "name": "The Foxxs Are Back on FOX!",
+          "airdate": "2026-07-27",
+          "summary": "Jamie and Corinne return for season eight, where moms, bartenders, and former NFL cheerleaders compete for a million dollar prize.",
           "url": "https://www.imdb.com/title/tt36933486/?ref_=ttep_ep_1"
         },
         {
@@ -26356,7 +26324,7 @@
           "number": 4,
           "name": "And the Recipe for Disaster",
           "airdate": "2026-08-10",
-          "summary": null,
+          "summary": "When Connor is bewitched by a smell spell and becomes a contestant on a cooking competition show, the Librarians must break the enchantment by defeating the show's hosts.",
           "url": "https://www.imdb.com/title/tt43644551/?ref_=ttep_ep_4"
         },
         {
@@ -26556,6 +26524,22 @@
           "airdate": "2026-08-09",
           "summary": "When a freak storm unleashes a tornado and a year's worth of rainfall on the city of Valencia, Spain, stunned eyewitnesses capture catastrophic flooding in the urban center as bridges buckle, cars are swept away, and residents fight for their lives.",
           "url": "https://www.imdb.com/title/tt43733356/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Stranded in St. Louis",
+          "airdate": "2026-08-16",
+          "summary": "In May 2025, eyewitnesses capture shocking scenes of destruction as a mile-wide tornado tears through the city of St. Louis. When warning sirens fail, residents are caught off guard while visitors panic 630 feet above the ground inside the Gateway Arch.",
+          "url": "https://www.imdb.com/title/tt43986106/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "Jamaica Category 5",
+          "airdate": "2026-08-23",
+          "summary": "Tourists and locals endure catastrophic winds and flooding as Category 5 Hurricane Melissa tears across Jamaica. As guests scramble to take shelter, resorts in Montego Bay suffer structural failure, while torrential rain inundates the town of Black River.",
+          "url": "https://www.imdb.com/title/tt43986126/?ref_=ttep_ep_8"
         },
         {
           "season": 3,
@@ -29761,7 +29745,7 @@
           "season": 5,
           "number": 7,
           "name": "Episode #5.7",
-          "airdate": "2026-08-09",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt43620002/?ref_=ttep_ep_7"
         },
@@ -29769,7 +29753,7 @@
           "season": 5,
           "number": 8,
           "name": "Episode #5.8",
-          "airdate": "2026-08-09",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt43620000/?ref_=ttep_ep_8"
         },
@@ -29777,7 +29761,7 @@
           "season": 5,
           "number": 9,
           "name": "Episode #5.9",
-          "airdate": "2026-08-09",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt43620001/?ref_=ttep_ep_9"
         },
@@ -30194,9 +30178,9 @@
         {
           "season": 18,
           "number": 7,
-          "name": "Episode #18.5",
+          "name": "The Gang Goes to the Ren Faire",
           "airdate": "2026-09-07",
-          "summary": null,
+          "summary": "Mac, Dennis, and Dee strive to conquest their way onto the Quilt of Legends at the local Renaissance Faire. Charlie discovers a love of luting while Frank tries to acquire the faire from old foes.",
           "url": "https://www.imdb.com/title/tt43679381/?ref_=ttep_ep_5"
         },
         {
@@ -30302,6 +30286,292 @@
           "airdate": "2025-08-20",
           "summary": "Host Jesse Palmer walks the audience through Frank's journey up until his final rose ceremony in the \"Golden Bachelor\" finale.",
           "url": "https://www.imdb.com/title/tt35252531/?ref_=ttep_ep_8"
+        }
+      ]
+    },
+    "tt19732922": {
+      "imdbId": "tt19732922",
+      "title": "Caught in the Act: Unfaithful",
+      "episodes": [
+        {
+          "season": 4,
+          "number": 1,
+          "name": "My Dream House",
+          "airdate": "2025-10-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39063685/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Crash Out or Pass Out",
+          "airdate": "2025-10-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39063686/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "THe Belt Don't Fit",
+          "airdate": "2025-11-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39067804/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Captian Save a Hoe",
+          "airdate": "2025-11-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39067815/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "Hard at Work",
+          "airdate": "2025-11-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39067817/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "Twins",
+          "airdate": "2025-11-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39067835/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "You Can Call Me Delulu",
+          "airdate": "2025-12-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39121058/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "A Real-Life cowboy",
+          "airdate": "2025-12-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39219755/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "name": "The Cards Don't Lie",
+          "airdate": "2025-12-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39219756/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 4,
+          "number": 10,
+          "name": "She's the Cousin",
+          "airdate": "2025-12-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39291131/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 4,
+          "number": 11,
+          "name": "Mommy Mode",
+          "airdate": "2025-12-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39311598/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 4,
+          "number": 12,
+          "name": "Captial F Friends",
+          "airdate": "2026-01-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39317002/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 4,
+          "number": 13,
+          "name": "You Can't Half-Catch The Fish",
+          "airdate": "2026-01-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39371340/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 4,
+          "number": 14,
+          "name": "I'm a Narcissist 100%",
+          "airdate": "2026-01-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39390460/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 4,
+          "number": 15,
+          "name": "Fun, Family, And a Freak",
+          "airdate": "2026-01-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39752031/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 4,
+          "number": 16,
+          "name": "Rico Suave",
+          "airdate": "2026-02-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39752033/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 4,
+          "number": 17,
+          "name": "I Saw You Sucking Toes",
+          "airdate": "2026-02-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39752035/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "Where's My Pizza and Wine?",
+          "airdate": "2024-10-01",
+          "summary": "Male model Marquis and his boyfriend Arthur were each other's firsts and eight years later, they're still together; but lately, Marquis suspects Arthur is stepping out, so he calls on Tami to find out if his suspicions are real.",
+          "url": "https://www.imdb.com/title/tt33706911/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "name": "I'm Marrying Both of Them",
+          "airdate": "2024-10-08",
+          "summary": "Vanna, who initially fell for Stone's sweet musical sounds during their courtship. However, the melody of their relationship seems to be fading, and Vanna is beginning to wonder if Stone is still interested in continuing their duet.",
+          "url": "https://www.imdb.com/title/tt33826306/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 3,
+          "number": 12,
+          "name": "He Got a Type",
+          "airdate": "2024-12-03",
+          "summary": "When Viva met Michael, he provided a safe place away from family drama, but now her safety bubble seems like it's about to pop; Michael is pulling away and Viva is desperate to find out if he's hiding something or perhaps someone.",
+          "url": "https://www.imdb.com/title/tt35329514/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 3,
+          "number": 14,
+          "name": "I'm an Icon in the Ballroom Scene",
+          "airdate": "2024-12-17",
+          "summary": "Alexis and Trenton meet in the ballroom scene; but after seeing how close Trenton has gotten with his new protege, Alexis wonders if Trenton is just being friendly or if there are now three in their tango.",
+          "url": "https://www.imdb.com/title/tt35329510/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 3,
+          "number": 15,
+          "name": "Episode #3.15",
+          "airdate": "2025-04-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37183119/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 3,
+          "number": 16,
+          "name": "Don't Forget Your Guilt Gift",
+          "airdate": "2025-04-22",
+          "summary": "Skittles' boyfriend Edward satisfies his love language of gift giving, but Skittles is still skeptical about Edward becoming stepfather to his kids; before taking that step, Skittles needs to find out if Edward is spoiling someone else on the side.",
+          "url": "https://www.imdb.com/title/tt37240872/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 3,
+          "number": 17,
+          "name": "Who Was That Woman, Doctor?",
+          "airdate": "2024-09-17",
+          "summary": "Jessica fell fast for Deyondrick, AKA DJ Mula. Deyondrick is fully integrated into Jessica's life, her kids' lives, and their home. But now Jessica is suspicious of Deyondrick's best friend, and ex, Katelyn AKA Yogi Bear.",
+          "url": "https://www.imdb.com/title/tt33029794/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 18,
+          "name": "Episode #3.18",
+          "airdate": "2025-05-06",
+          "summary": "Marie loves her routine tantra massages from her boyfriend of five years, Antoine. Marie has grown suspicious that Antoine is sharing his healing touch with other women after launching his latest service, the Menage a Trois and she needs the truth from Tami.",
+          "url": "https://www.imdb.com/title/tt37241015/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 3,
+          "number": 19,
+          "name": "Let's Put It on Pause",
+          "airdate": "2025-05-06",
+          "summary": "After three years together, Sasha and Citi are planning their future and considering having a baby together. Citi tells Sasha to get back on her birth control, making her wonder if Citi is now imagining a future and family with someone else.",
+          "url": "https://www.imdb.com/title/tt37241119/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 3,
+          "number": 20,
+          "name": "Side Chicks Never Complain",
+          "airdate": "2025-05-13",
+          "summary": "Kayla, who has invested in a business venture with her older boyfriend, Daniel, and is suspicious of his recent shady behavior. She turns to host Tami Roman and her team to investigate whether Daniel is involved in infidelity or a financial scam.",
+          "url": "https://www.imdb.com/title/tt37241179/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 3,
+          "number": 21,
+          "name": "Love in the Comedy Club",
+          "airdate": "2025-05-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37241180/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 3,
+          "number": 22,
+          "name": "I'm the Entree, You're the Cole Slaw",
+          "airdate": "2025-05-20",
+          "summary": "Briana, a hot-tempered woman who seeks assistance from Romeo a year after a significant loss. Briana, suspicious that Romeo might be exploring other romantic interests, confronts her fears about his potential unfaithfulness and the complexity of their relationship.",
+          "url": "https://www.imdb.com/title/tt37241181/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 3,
+          "number": 23,
+          "name": "She's a Runner, She's a Track Star",
+          "airdate": "2025-05-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37241182/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 3,
+          "number": 24,
+          "name": "That's My Twin",
+          "airdate": "2024-09-24",
+          "summary": "Alex is ready to lock it down with La'Niece and their blended family. But he has a hunch La'Niece is creeping around. He hits up Tami to find out if La'Niece is the one, or if she's double dipping.",
+          "url": "https://www.imdb.com/title/tt33484624/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 25,
+          "name": "Just Girls Being Girls",
+          "airdate": "2025-06-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37241188/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 3,
+          "number": 26,
+          "name": "You Gotta Run Faster Than That, Ken",
+          "airdate": "2025-06-03",
+          "summary": "Lisa thinks Joseph, her live-in boyfriend and hookah business partner, might be unfaithful. He says work keeps him away, but she's skeptical about his excuses.",
+          "url": "https://www.imdb.com/title/tt37241190/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 3,
+          "number": 27,
+          "name": "He Don't Even Have a Car",
+          "airdate": "2025-06-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37529011/?ref_=ttep_ep_27"
+        },
+        {
+          "season": 3,
+          "number": 28,
+          "name": "Kriss Kross, You Can Have Her",
+          "airdate": "2025-06-17",
+          "summary": "Bryce, a man trying to repair his five-year relationship after confessing to infidelity, seeks host Tami Roman's help. Bryce questions whether his girlfriend is seeking revenge for his past actions by cheating on him, which is his biggest fear.",
+          "url": "https://www.imdb.com/title/tt37529006/?ref_=ttep_ep_28"
         }
       ]
     }
