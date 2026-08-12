@@ -1403,8 +1403,8 @@
           "name": "J.K. Simmons"
         },
         {
-          "id": "nm1298458",
-          "name": "Guy Burnet"
+          "id": "nm0204706",
+          "name": "Hope Davis"
         }
       ],
       "label": "Aug 14, 2026"
@@ -2400,6 +2400,34 @@
       "label": "Aug 28, 2026"
     },
     {
+      "id": "tt29009930",
+      "title": "How to Divorce During the War",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzJlOWM3MzgtOGMyZi00NTRlLThkZmMtNTg4Yzc1MGViMWNkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm4281935",
+          "name": "Marius Repšys"
+        },
+        {
+          "id": "nm9570790",
+          "name": "Žygimantė Elena Jakštaitė"
+        },
+        {
+          "id": "nm17142966",
+          "name": "Amelija Adomaityte"
+        },
+        {
+          "id": "nm1176310",
+          "name": "Gintarė Parulytė"
+        }
+      ],
+      "label": "Aug 28, 2026"
+    },
+    {
       "id": "tt36639400",
       "title": "The Last Blossom",
       "image": "https://m.media-amazon.com/images/M/MV5BODE2NjZlNzAtNzRmNi00ZTUzLTg1NWItNzNlODM1ZWJkNmE5XkEyXkFqcGc@._V1_.jpg",
@@ -2482,8 +2510,8 @@
           "name": "Grace Caroline Currey"
         },
         {
-          "id": "nm0741219",
-          "name": "Adam Rose"
+          "id": "nm10012846",
+          "name": "Jordan Coleman"
         }
       ],
       "label": "Sep 02, 2026"
@@ -2593,7 +2621,7 @@
     {
       "id": "tt3842436",
       "title": "P31",
-      "image": "https://m.media-amazon.com/images/M/MV5BOWFjMGYzYzEtOTI4Yi00MWI4LWI4NmUtYWFlNzExYWVmYjYwXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRiM2U2NzctZjEwNC00ZGE1LThlNzQtZTE2ZTI3MzE5OGM3XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
       "genres": [
         "Adventure",
@@ -2915,20 +2943,20 @@
       ],
       "people": [
         {
-          "id": "nm0000553",
-          "name": "Liam Neeson"
-        },
-        {
-          "id": "nm0920038",
-          "name": "Titus Welliver"
-        },
-        {
           "id": "nm1157048",
           "name": "Zachary Levi"
         },
         {
-          "id": "nm1485637",
-          "name": "Numan Acar"
+          "id": "nm0000553",
+          "name": "Liam Neeson"
+        },
+        {
+          "id": "nm9233198",
+          "name": "Quincy Isaiah"
+        },
+        {
+          "id": "nm1434871",
+          "name": "Wes Chatham"
         }
       ],
       "label": "Sep 11, 2026"
@@ -3100,8 +3128,8 @@
           "name": "Zach Cherry"
         },
         {
-          "id": "nm4703393",
-          "name": "Johnno Wilson"
+          "id": "nm11140905",
+          "name": "Kali Reis"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3595,12 +3623,12 @@
           "name": "Maika Monroe"
         },
         {
-          "id": "nm5057169",
-          "name": "Thomasin McKenzie"
-        },
-        {
           "id": "nm0005042",
           "name": "Jason Isaacs"
+        },
+        {
+          "id": "nm5057169",
+          "name": "Thomasin McKenzie"
         },
         {
           "id": "nm2235721",
@@ -3693,12 +3721,12 @@
     {
       "id": "tt32261958",
       "title": "Verity",
-      "image": "https://m.media-amazon.com/images/M/MV5BZmE0OWRiNzktY2MwMy00YzQ5LWFkMzctNjI1ZWQ1NTRiZGM3XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzUyODgxN2YtNWQ2MC00ZTQxLWJkYjMtYzYwM2RmOTcxNzFhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
       "genres": [
         "Crime",
         "Drama",
-        "Mystery"
+        "Horror"
       ],
       "people": [
         {
@@ -3880,20 +3908,20 @@
       ],
       "people": [
         {
-          "id": "nm2087739",
-          "name": "Jeremy Allen White"
-        },
-        {
           "id": "nm2365811",
           "name": "Betty Gilpin"
         },
         {
-          "id": "nm2148911",
-          "name": "Wunmi Mosaku"
+          "id": "nm2087739",
+          "name": "Jeremy Allen White"
         },
         {
           "id": "nm5700898",
           "name": "Mikey Madison"
+        },
+        {
+          "id": "nm0279209",
+          "name": "Patrick Fischler"
         }
       ],
       "label": "Oct 09, 2026"
@@ -4661,7 +4689,7 @@
     {
       "id": "tt38686316",
       "title": "Ghost Soldier",
-      "image": "https://m.media-amazon.com/images/M/MV5BMmY0ZTMzNWMtODVhMi00Mjg3LTgwMGItYjBhMTRhY2NhYmJhXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQyNTdkYWEtZTgzZC00ZDA1LWFlM2EtODBmZDcwYjBlNzM0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -4937,20 +4965,20 @@
       ],
       "people": [
         {
-          "id": "nm3067471",
-          "name": "Anthony Ippolito"
-        },
-        {
           "id": "nm1455681",
           "name": "AnnaSophia Robb"
         },
         {
-          "id": "nm0000369",
-          "name": "Matt Dillon"
+          "id": "nm0243231",
+          "name": "Jay Duplass"
         },
         {
-          "id": "nm1527905",
-          "name": "Toby Kebbell"
+          "id": "nm3067471",
+          "name": "Anthony Ippolito"
+        },
+        {
+          "id": "nm0000369",
+          "name": "Matt Dillon"
         }
       ],
       "label": "Nov 20, 2026"
@@ -5285,6 +5313,36 @@
       "label": "Dec 04, 2026"
     },
     {
+      "id": "tt32321285",
+      "title": "Josephine",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTcxMjBmNWMtNDUxZS00ZGQ4LThlNjgtMTc1NjU1ZTVlZTg2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm18064389",
+          "name": "Mason Reeves"
+        },
+        {
+          "id": "nm1475594",
+          "name": "Channing Tatum"
+        },
+        {
+          "id": "nm2110418",
+          "name": "Gemma Chan"
+        },
+        {
+          "id": "nm3464684",
+          "name": "Philip Ettinger"
+        }
+      ],
+      "label": "Dec 04, 2026"
+    },
+    {
       "id": "tt34718200",
       "title": "The Debut",
       "image": "https://m.media-amazon.com/images/M/MV5BM2Q5ZTdmN2UtYzJjZi00ZjZjLWJmMWMtMjFjMmM5M2VmOWY4XkEyXkFqcGc@._V1_.jpg",
@@ -5415,20 +5473,20 @@
       ],
       "people": [
         {
-          "id": "nm13575138",
-          "name": "Marcello Hernández"
-        },
-        {
-          "id": "nm1551130",
-          "name": "Keke Palmer"
-        },
-        {
           "id": "nm0837177",
           "name": "Jason Sudeikis"
         },
         {
           "id": "nm4141252",
           "name": "Lily James"
+        },
+        {
+          "id": "nm1551130",
+          "name": "Keke Palmer"
+        },
+        {
+          "id": "nm13575138",
+          "name": "Marcello Hernández"
         }
       ],
       "label": "Dec 23, 2026"
@@ -6188,12 +6246,12 @@
           "name": "James Norton"
         },
         {
-          "id": "nm0683253",
-          "name": "Rosamund Pike"
-        },
-        {
           "id": "nm1212722",
           "name": "Benedict Cumberbatch"
+        },
+        {
+          "id": "nm0683253",
+          "name": "Rosamund Pike"
         }
       ],
       "label": "Feb 19, 2027"
@@ -6330,20 +6388,20 @@
       ],
       "people": [
         {
-          "id": "nm5245722",
-          "name": "Adria Arjona"
+          "id": "nm0000110",
+          "name": "Kenneth Branagh"
         },
         {
           "id": "nm0430107",
           "name": "Michael B. Jordan"
         },
         {
-          "id": "nm0000110",
-          "name": "Kenneth Branagh"
+          "id": "nm4408716",
+          "name": "Aiysha Hart"
         },
         {
-          "id": "nm1561982",
-          "name": "Pilou Asbæk"
+          "id": "nm5245722",
+          "name": "Adria Arjona"
         }
       ],
       "label": "Mar 05, 2027"
@@ -6937,8 +6995,8 @@
           "name": "Ncuti Gatwa"
         },
         {
-          "id": "nm13726777",
-          "name": "Katelyn Rose Downey"
+          "id": "nm4735423",
+          "name": "James Acaster"
         }
       ],
       "label": "May 21, 2027"
@@ -7096,16 +7154,44 @@
           "name": "Gerard Butler"
         },
         {
-          "id": "nm0000949",
-          "name": "Cate Blanchett"
-        },
-        {
           "id": "nm4651633",
           "name": "Phil Dunster"
         },
         {
+          "id": "nm0000949",
+          "name": "Cate Blanchett"
+        },
+        {
           "id": "nm9296746",
           "name": "Mason Thames"
+        }
+      ],
+      "label": "Jun 11, 2027"
+    },
+    {
+      "id": "tt32605118",
+      "title": "Possession",
+      "releaseDate": "Fri, 11 Jun 2027 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm4360085",
+          "name": "Callum Turner"
+        },
+        {
+          "id": "nm4960279",
+          "name": "Margaret Qualley"
+        },
+        {
+          "id": "nm0200452",
+          "name": "Paul Dano"
+        },
+        {
+          "id": "nm5483400",
+          "name": "Madeline Brewer"
         }
       ],
       "label": "Jun 11, 2027"
@@ -7167,16 +7253,16 @@
           "name": "Monica Barbaro"
         },
         {
-          "id": "nm3053338",
-          "name": "Margot Robbie"
+          "id": "nm0609944",
+          "name": "Wagner Moura"
         },
         {
           "id": "nm0177896",
           "name": "Bradley Cooper"
         },
         {
-          "id": "nm0609944",
-          "name": "Wagner Moura"
+          "id": "nm3053338",
+          "name": "Margot Robbie"
         }
       ],
       "label": "Jun 25, 2027"
@@ -7273,16 +7359,16 @@
           "name": "Milly Alcock"
         },
         {
-          "id": "nm5245722",
-          "name": "Adria Arjona"
+          "id": "nm1711114",
+          "name": "Skyler Gisondo"
         },
         {
           "id": "nm0277213",
           "name": "Nathan Fillion"
         },
         {
-          "id": "nm4825178",
-          "name": "David Corenswet"
+          "id": "nm5245722",
+          "name": "Adria Arjona"
         }
       ],
       "label": "Jul 09, 2027"
