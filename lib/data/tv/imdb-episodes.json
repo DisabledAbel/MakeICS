@@ -2202,10 +2202,42 @@
         {
           "season": 11,
           "number": 10,
-          "name": "Episode #11.10",
+          "name": "Crazy, Stewpid, Love",
           "airdate": "2026-08-10",
-          "summary": null,
+          "summary": "As Joe and Kayley try to prove themselves in new roles, Aesha digs deep to keep the charter afloat. External pressure begins to affect Cooper and Kat's budding relationship. The crew enjoys a day off. Someone new joins the boat.",
           "url": "https://www.imdb.com/title/tt43634713/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 11,
+          "number": 11,
+          "name": "Eiffel Power",
+          "airdate": "2026-08-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44075353/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 11,
+          "number": 12,
+          "name": "Episode #11.12",
+          "airdate": "2026-08-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44075358/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 11,
+          "number": 13,
+          "name": "Episode #11.13",
+          "airdate": "2026-08-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44075359/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 11,
+          "number": 14,
+          "name": "Episode #11.15",
+          "airdate": "2026-09-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44075362/?ref_=ttep_ep_15"
         },
         {
           "season": 10,
@@ -2948,17 +2980,17 @@
         {
           "season": 8,
           "number": 5,
-          "name": "Episode #8.5",
+          "name": "The Hideous Heartland",
           "airdate": "2026-08-17",
-          "summary": null,
+          "summary": "Retta's journey to find ugly continues in the Heartland where four homes battle for a chance at a $150,000 makeover by designer Alison Victoria. It includes a powder blue art deco disaster, a condo overrun by artwork and an old colorful mansion.",
           "url": "https://www.imdb.com/title/tt43475515/?ref_=ttep_ep_5"
         },
         {
           "season": 8,
           "number": 6,
-          "name": "Episode #8.6",
+          "name": "The Ultimate Ugly Renovation",
           "airdate": "2026-08-24",
-          "summary": null,
+          "summary": "After a season-long search, Retta reveals the Ugliest House in America. Now, designer Alison Victoria faces her ultimate renovation challenge as she turns the winning home into a true showstopper with a stunning $150,000 makeover.",
           "url": "https://www.imdb.com/title/tt43475516/?ref_=ttep_ep_6"
         },
         {
@@ -3042,24 +3074,32 @@
         {
           "season": 3,
           "number": 4,
-          "name": "Episode #3.4",
-          "airdate": null,
+          "name": "Football Rivals",
+          "airdate": "2026-05-04",
           "summary": "Football Rivals: Buffalo Bills fans vs. Minnesota Vikings fans, basically the battle of the NFL underdogs, competing for $100,000. It aired May 4, 2026.",
           "url": "https://www.imdb.com/title/tt43675925/?ref_=ttep_ep_4"
         },
         {
           "season": 3,
           "number": 5,
-          "name": "Episode #3.5",
-          "airdate": null,
+          "name": "Lifeguards vs. Beauty Queens",
+          "airdate": "2026-05-18",
           "summary": "Lifeguards vs. Beauty Queens",
           "url": "https://www.imdb.com/title/tt43675929/?ref_=ttep_ep_5"
         },
         {
           "season": 3,
+          "number": 6,
+          "name": "Marines vs. Air Force",
+          "airdate": "2026-06-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43675930/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
           "number": 7,
-          "name": "Episode #3.7",
-          "airdate": null,
+          "name": "Soccer Showdown",
+          "airdate": "2026-06-08",
           "summary": "Team USA fans take on Team England fans.",
           "url": "https://www.imdb.com/title/tt43675931/?ref_=ttep_ep_7"
         },
@@ -3067,7 +3107,7 @@
           "season": 3,
           "number": 8,
           "name": "Harlem Globetrotters vs. Washington Generals",
-          "airdate": null,
+          "airdate": "2026-07-12",
           "summary": "The Quiz With Balls, hosted by Jay Pharoah, features the Harlem Globetrotters vs. Washington Generals competing for $100,000.",
           "url": "https://www.imdb.com/title/tt43675934/?ref_=ttep_ep_8"
         },
@@ -3234,7 +3274,7 @@
           "number": 9,
           "name": "Banks, Babies and Bad Blood",
           "airdate": "2026-08-10",
-          "summary": null,
+          "summary": "With his girlfriend, Allie, moving back to Texas, Steven makes a major decision about his future on the farm. Newlyweds Cole and Kacie both receive shocking news that leaves massive questions about their family's future. The brothers resent Steven for his new mini highland cow venture.",
           "url": "https://www.imdb.com/title/tt43677860/?ref_=ttep_ep_9"
         },
         {
@@ -4892,6 +4932,38 @@
           "airdate": "2026-08-10",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43700722/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "The Last Ghosts That Remain",
+          "airdate": "2026-08-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44075384/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "name": "One Last Fantasy",
+          "airdate": "2026-08-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44075386/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "name": "Last Call at the Court",
+          "airdate": "2026-08-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44075388/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 2,
+          "number": 21,
+          "name": "Episode #2.17",
+          "airdate": "2026-09-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44075391/?ref_=ttep_ep_17"
         },
         {
           "season": 1,
@@ -6769,7 +6841,7 @@
           "season": 10,
           "number": 7,
           "name": "Café Notte",
-          "airdate": null,
+          "airdate": "2026-08-25",
           "summary": "Italian restaurant Café Notte is on the verge of collapse. Gordon steps in to help with unresolved tension between the head chef and his stepson before it destroys both the business and their family.",
           "url": "https://www.imdb.com/title/tt44042519/?ref_=ttep_ep_7"
         },
@@ -7453,7 +7525,7 @@
         {
           "season": 7,
           "number": 7,
-          "name": "Episode #7.7",
+          "name": "Paul Orndorff: Saving Mr. Wonderful",
           "airdate": "2026-08-11",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42455304/?ref_=ttep_ep_7"
@@ -24323,7 +24395,7 @@
         {
           "season": 1,
           "number": 31,
-          "name": "Episode #1.31",
+          "name": "Que este diablo te cuide las espaldas",
           "airdate": "2026-06-29",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43589184/?ref_=ttep_ep_31"
@@ -24673,16 +24745,56 @@
           "number": 9,
           "name": "The Left Insurgency",
           "airdate": "2026-08-02",
-          "summary": null,
+          "summary": "CNN's Donie O'Sullivan examines the growing influence of the Democratic Party's progressive movement, from grassroots activists to digital creators, and whether its rise is the party's greatest strength or greatest risk as the midterms approach.",
           "url": "https://www.imdb.com/title/tt41453973/?ref_=ttep_ep_9"
         },
         {
           "season": 4,
           "number": 10,
-          "name": "Episode #4.10",
-          "airdate": null,
+          "name": "Stacked: Inside the Enhancement Craze",
+          "airdate": "2026-08-16",
           "summary": null,
           "url": "https://www.imdb.com/title/tt41453975/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 4,
+          "number": 11,
+          "name": "Episode #4.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44047318/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 4,
+          "number": 12,
+          "name": "Episode #4.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44047323/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 4,
+          "number": 13,
+          "name": "Episode #4.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44047325/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 4,
+          "number": 14,
+          "name": "Episode #4.14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44047329/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 4,
+          "number": 15,
+          "name": "Episode #4.15",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44047328/?ref_=ttep_ep_15"
         },
         {
           "season": 3,
@@ -26316,7 +26428,7 @@
           "number": 3,
           "name": "And the Vanishing Bankers",
           "airdate": "2026-08-09",
-          "summary": null,
+          "summary": "Investigating vanishing bankers in London, the Librarians find a dark Peter Pan recruiting new Lost Boys; when Charlie is captured, the team enters a warped Neverland disguised as storybook characters to save her.",
           "url": "https://www.imdb.com/title/tt43644554/?ref_=ttep_ep_3"
         },
         {
@@ -26514,7 +26626,7 @@
           "number": 5,
           "name": "The Dakota EF5",
           "airdate": "2026-08-02",
-          "summary": "Eyewitnesses capture severe weather across the Dakotas as tornadoes tear through neighborhoods and farm structures. Near Enderlin, North Dakota, a violent twister with estimated winds exceeding 200 mph becomes the first U.S. tornado rated EF5 in more than 12 years.",
+          "summary": "Eyewitnesses document extreme weather in the Dakotas as tornadoes ravage homes and farms. A twister near Enderlin, ND, with winds over 200 mph marks the first EF5 tornado in the U.S. in more than 12 years.",
           "url": "https://www.imdb.com/title/tt43702887/?ref_=ttep_ep_5"
         },
         {
@@ -26522,7 +26634,7 @@
           "number": 6,
           "name": "Flood of the Century",
           "airdate": "2026-08-09",
-          "summary": "When a freak storm unleashes a tornado and a year's worth of rainfall on the city of Valencia, Spain, stunned eyewitnesses capture catastrophic flooding in the urban center as bridges buckle, cars are swept away, and residents fight for their lives.",
+          "summary": "A freak storm hits Valencia, Spain, bringing a tornado and a year's rainfall. Witnesses film devastating floods as bridges collapse, cars wash away, and people struggle to survive.",
           "url": "https://www.imdb.com/title/tt43733356/?ref_=ttep_ep_6"
         },
         {
@@ -30572,6 +30684,364 @@
           "airdate": "2025-06-17",
           "summary": "Bryce, a man trying to repair his five-year relationship after confessing to infidelity, seeks host Tami Roman's help. Bryce questions whether his girlfriend is seeking revenge for his past actions by cheating on him, which is his biggest fear.",
           "url": "https://www.imdb.com/title/tt37529006/?ref_=ttep_ep_28"
+        }
+      ]
+    },
+    "tt37724480": {
+      "imdbId": "tt37724480",
+      "title": "911: Did the Killer Call?",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Friend in Greed",
+          "airdate": "2026-07-15",
+          "summary": "A letter, an elaborate setup and poor acting help solve three different murder investigations.",
+          "url": "https://www.imdb.com/title/tt43683127/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "The Sound of Fear",
+          "airdate": "2026-07-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43707134/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "The First Suspect",
+          "airdate": "2026-07-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43707135/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "For Love or Lies",
+          "airdate": "2026-08-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43707138/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Episode #2.5",
+          "airdate": "2026-08-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43707139/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Episode #2.6",
+          "airdate": "2026-08-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43707140/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Suspect #1",
+          "airdate": "2025-07-15",
+          "summary": "Three horrific murders. Three different 911 calls. All three callers claim they're innocent - but for police, the call can reveal so much more than just the facts of the case.",
+          "url": "https://www.imdb.com/title/tt37738793/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Clues to Murder",
+          "airdate": "2025-07-22",
+          "summary": "Three horrific murders. Three different 911 calls. All three callers claim they're innocent - but for the police, the call can reveal so much more than just the facts of the case.",
+          "url": "https://www.imdb.com/title/tt37879548/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Reactions to Murder",
+          "airdate": "2025-07-29",
+          "summary": "A mother brutally murdered in her home, the husband and his bizarre alter ego are in the frame after calling 911; a woman is found dead in a creek after a road accident, her husband calls 911 in a panic.",
+          "url": "https://www.imdb.com/title/tt37893387/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Fooled my Murder",
+          "airdate": "2025-08-05",
+          "summary": "A wife wakes to find her husband dead outside in the snow, she calls 911; when police discover a volatile history, suspicions are aroused; a man calls police after both his parents are shot dead in their home.",
+          "url": "https://www.imdb.com/title/tt37899491/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Suspect on the Line",
+          "airdate": "2025-08-12",
+          "summary": "After a man's savage murder at home, his wife is in the frame after calling 911, but the truth is more macabre than anyone dared believe; a husband finds his wife with shots to the head.",
+          "url": "https://www.imdb.com/title/tt37925952/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Lover or Liar",
+          "airdate": "2025-08-19",
+          "summary": "A wife is killed while calling 911 and her husband is shot in the leg; he claims it was an intruder, but the police has their doubts.",
+          "url": "https://www.imdb.com/title/tt37986378/?ref_=ttep_ep_6"
+        }
+      ]
+    },
+    "tt0096563": {
+      "imdbId": "tt0096563",
+      "title": "Cops",
+      "episodes": [
+        {
+          "season": 37,
+          "number": 1,
+          "name": "Episode #37.1",
+          "airdate": "2025-03-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37162887/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt14351748": {
+      "imdbId": "tt14351748",
+      "title": "Fatal Attraction",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Pilot",
+          "airdate": "2023-04-30",
+          "summary": "15 years after Alex Forrest's murder, Dan Gallagher is paroled and reaches out to his estranged daughter Ellen. In the past, a crushing career defeat drives him to first connect with Alex.",
+          "url": "https://www.imdb.com/title/tt14911452/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "The Movie in Your Mind",
+          "airdate": "2023-04-30",
+          "summary": "An intensely passionate connection turns sour when Dan realizes Alex wants more than it first seemed. In the present Dan's loved ones reel from his reappearance in their lives.",
+          "url": "https://www.imdb.com/title/tt21923546/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "The Watchful Heart",
+          "airdate": "2023-04-30",
+          "summary": "A retelling of Dan and Alex's unsettling affair from Alex's point of view. In the present, Dan painfully reconnects with his now ex- wife as he and a friend look for evidence that might exonerate him.",
+          "url": "https://www.imdb.com/title/tt23553470/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Beautiful Mosaics",
+          "airdate": "2023-05-07",
+          "summary": "A retelling of the emotional impact of Dan's betrayal from the perspective of his wife, Beth, who is trying to ignore what her gut is telling her until tragedy strikes and makes that impossible.",
+          "url": "https://www.imdb.com/title/tt23553474/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Medial Woman",
+          "airdate": "2023-05-14",
+          "summary": "Dan decides to confess to Beth about his affair with Alex, while Alex's actions against the Gallaghers only get more severe; Dan's fate is already sealed; Ellen bonds with a new friend; Dan meets an old colleague for lunch and information.",
+          "url": "https://www.imdb.com/title/tt23553478/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "The Dillingers",
+          "airdate": "2023-05-21",
+          "summary": "Alex's past before she met Dan is reflected through her time spent with Emma and Clay two people whose kindness and help she was incapable of accepting. Dan's world crashes down around him when he is arrested for killing Alex.",
+          "url": "https://www.imdb.com/title/tt23553480/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Best Friends",
+          "airdate": "2023-05-28",
+          "summary": "In the present, Dan prepares for his new trial, while in 2008, Dan prepares his defense with Cabral. In the more distant past, key moments shape the woman Alex becomes.",
+          "url": "https://www.imdb.com/title/tt23553486/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Caregiving",
+          "airdate": "2023-05-28",
+          "summary": "Dan faces the consequences of his actions in the past and present. Despite regrets, he continues at Jorge's firm, discloses a denied appeal to Ellen, and a brunch at Beth and Arthur's unveils surrounding secrets.",
+          "url": "https://www.imdb.com/title/tt23553490/?ref_=ttep_ep_8"
+        }
+      ]
+    },
+    "tt11774420": {
+      "imdbId": "tt11774420",
+      "title": "Expedition X",
+      "episodes": [
+        {
+          "season": 12,
+          "number": 0,
+          "name": "Atomic Sharks",
+          "airdate": "2026-07-29",
+          "summary": "Phil and Heather investigate disturbing reports of aggressive mutant sharks in Micronesia's Marshall Islands. Joined by a team of scientists, they dive in dangerous waters to explore whether the region's terrifying atomic past is to blame.",
+          "url": "https://www.imdb.com/title/tt43599261/?ref_=ttep_ep"
+        },
+        {
+          "season": 12,
+          "number": 1,
+          "name": "Episode #12.1",
+          "airdate": "2026-08-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43736301/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 11,
+          "number": 1,
+          "name": "Secrets of Vulture City",
+          "airdate": "2026-01-07",
+          "summary": "Joined by Jack Osbourne, Heather travels to Arizona and investigates the eerie remains of Vulture City, a ghost town long stalked by Gold Rush-era ghosts. However, they soon discover there may be a darker, more ancient force at work.",
+          "url": "https://www.imdb.com/title/tt39165444/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 11,
+          "number": 2,
+          "name": "Atomic Ape Cat",
+          "airdate": "2026-01-14",
+          "summary": "In the forests of Washington's Columbia River Gorge, Phil and Heather hunt a monstrous black cat with an ape-like face. Clues lead to a WW2-era nuclear facility that could be to blame, but they must find the creature before it finds them.",
+          "url": "https://www.imdb.com/title/tt39295728/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 11,
+          "number": 3,
+          "name": "Blackbeard's Ghost",
+          "airdate": "2026-01-21",
+          "summary": "Heather and Phil explore North Carolina's Ocracoke Island, where locals fear the ghost of Blackbeard is lingering. Is the legendary pirate's restless spirit protecting hidden treasure, or seeking vengeance upon the living?",
+          "url": "https://www.imdb.com/title/tt39314222/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 11,
+          "number": 4,
+          "name": "Terror Below Deck",
+          "airdate": "2026-01-28",
+          "summary": "Phil and Heather board the USS Hornet, a haunted WWII aircraft carrier said to be crawling with spirits, both good and evil. Exploring its decks, they find eerie signs that the ship's sailors may still be guarding it from beyond the grave.",
+          "url": "https://www.imdb.com/title/tt39366120/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 11,
+          "number": 5,
+          "name": "God of the Underworld",
+          "airdate": "2026-02-04",
+          "summary": "Phil and Heather travel to Predjama Castle, once ruled by a brutal baron feared for his cruelty. Exploring the vast web of caves beneath fortress, they seek clues that an ancient god of the underworld may be haunting the castle instead.",
+          "url": "https://www.imdb.com/title/tt39387466/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 11,
+          "number": 6,
+          "name": "Terrors of Trinidad",
+          "airdate": "2026-02-11",
+          "summary": "Reports of shadowy figures and malevolent spirits from Caribbean folklore draw Phil and Heather to Trinidad. They explore a notorious plantation and an abandoned island once used as a leper colony, searching for the source of the activity.",
+          "url": "https://www.imdb.com/title/tt39387530/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 11,
+          "number": 7,
+          "name": "Nightmare Island",
+          "airdate": "2026-02-18",
+          "summary": "In Trinidad, Heather and Phil continue to confront terrifying claims of demonic possession and Obeah curses, tracing the sinister forces that locals say still grip the island.",
+          "url": "https://www.imdb.com/title/tt39466450/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 11,
+          "number": 8,
+          "name": "Thunderbird",
+          "airdate": "2026-02-25",
+          "summary": "Sightings of a massive bird and reports of missing livestock send Phil and Heather deep into western Pennsylvania. On the hunt for the legendary Thunderbird, they search for proof of the creature that has haunted legends for generations.",
+          "url": "https://www.imdb.com/title/tt39798810/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 11,
+          "number": 9,
+          "name": "The Spanish Boogeyman",
+          "airdate": "2026-03-04",
+          "summary": "Phil and Heather head to Belmonte Castle in La Mancha, Spain, said to be haunted by the Spanish Boogeyman. Inside the castle, they discover surprising secrets that reveal the truth behind the terrifying legend.",
+          "url": "https://www.imdb.com/title/tt39798813/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 11,
+          "number": 10,
+          "name": "Ghosts of Gettysburg",
+          "airdate": "2026-03-11",
+          "summary": "The team heads to the site of the bloodiest battle on U.S. soil, where witnesses claim to see phantom soldiers roaming the battlefields at night, and shadow figures haunting historic buildings like the Jennie Wade House and Farnsworth Inn.",
+          "url": "https://www.imdb.com/title/tt39954682/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt28196636": {
+      "imdbId": "tt28196636",
+      "title": "Booked: First Day In",
+      "episodes": [
+        {
+          "season": 4,
+          "number": 1,
+          "name": "Fugitive Friday Frenzy",
+          "airdate": "2026-01-13",
+          "summary": "In Flagler, it's Fugitive Friday Bingo where the Flagler Sheriff's Office snags a fugitive on the run for Grand Theft Auto.",
+          "url": "https://www.imdb.com/title/tt39370620/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "DUI Dilemma",
+          "airdate": "2026-01-20",
+          "summary": "A midnight burglar terrorizes a woman in Mesa County, CO, sparking a manhunt. Meanwhile, a husband arrested for drug possession is desperate to bail out and find his wife.",
+          "url": "https://www.imdb.com/title/tt39390458/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Motorcycle Lovers",
+          "airdate": "2026-01-27",
+          "summary": "In Flagler, FL officers detain a person driving under the influence of drugs and an out-of-towner gets brought in for possession with intent to sell after a tense standoff with the police.",
+          "url": "https://www.imdb.com/title/tt39681343/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Jailhouse Smuggler",
+          "airdate": "2026-02-03",
+          "summary": "In Mesa County, a man caught smuggling fentanyl into jail faces mounting charges, while a woman arrested for drinking and driving worries about her dogs. In Flagler, a 19-year-old risks prison after stealing $8,000 from his grandfather.",
+          "url": "https://www.imdb.com/title/tt39681353/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "The Real Grand Theft Auto",
+          "airdate": "2026-02-10",
+          "summary": "Flagler Police track down a young man who didn't know that the car he was driving was stolen.",
+          "url": "https://www.imdb.com/title/tt39897349/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "Fight Night",
+          "airdate": "2026-02-17",
+          "summary": "In Flagler county, a man is busted for stealing a wallet in a convenience store.",
+          "url": "https://www.imdb.com/title/tt40065225/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Mothers and Law",
+          "airdate": "2026-02-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40235098/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "Unhappy Mother's Day",
+          "airdate": "2026-03-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40489314/?ref_=ttep_ep_8"
         }
       ]
     }
