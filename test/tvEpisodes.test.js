@@ -402,6 +402,51 @@ test('getEpisodes falls back to IMDb suggestion API if TVMaze fails and show is 
   assert.equal(result.imdb.title, 'Some Unknown Show Details');
 });
 
+test('getEpisodes suggestion fallback ignores non-series (e.g. video games) and prioritizes series', async () => {
+  const requests = [];
+  const fetchImpl = async (url, options = {}) => {
+    requests.push({ url: String(url), options });
+    if (String(url).includes('/singlesearch/shows') || String(url).includes('/shows/')) {
+      throw new Error('TVMaze is down');
+    }
+    if (String(url).includes('v3.sg.media-imdb.com/suggestion')) {
+      return Response.json({
+        d: [
+          {
+            id: 'tt1111111',
+            l: 'Video Game Show',
+            qid: 'videoGame' // non-series
+          },
+          {
+            id: 'tt2222222',
+            l: 'Movie Show',
+            qid: 'movie' // non-series
+          },
+          {
+            id: 'tt3333333',
+            l: 'Real Series Show',
+            qid: 'tvMiniSeries' // prioritised series
+          }
+        ]
+      });
+    }
+    if (String(url).includes('imdb.test')) {
+      return Response.json({ title: 'Real Series Show Details', year: '2026', imDbRating: '9.0', plot: 'Plots' });
+    }
+    throw new Error(`Unexpected URL: ${url}`);
+  };
+
+  const result = await getEpisodes({
+    query: 'Real Series Show',
+    fetchImpl,
+    env: { IMDB_API_URL: 'https://imdb.test/title/{imdbId}', NODE_ENV: 'test' }
+  });
+
+  assert.equal(result.show.name, 'Real Series Show');
+  assert.equal(result.show.imdbId, 'tt3333333');
+  assert.equal(result.imdb.title, 'Real Series Show Details');
+});
+
 test('getEpisodes merges and re-indexes consecutive children show episodes on the same day', async () => {
   const childrenShowPayload = {
     id: 99,
