@@ -735,7 +735,12 @@ form.addEventListener('submit', async (event) => {
   let label = '';
   const tz = timezoneInput?.value || 'UTC';
 
-  const since = new Date().toISOString().split('T')[0];
+  // MakeICS can seem a day behind if we filter out today's episodes too early due to UTC timezone differences.
+  // By setting since to yesterday's date, we provide a 1-day safety margin so that today's episodes/games are never missing.
+  const sinceDate = new Date();
+  sinceDate.setDate(sinceDate.getDate() - 1);
+  const since = sinceDate.toISOString().split('T')[0];
+
   if (currentCategory === 'tv') {
     label = showInput.value;
     url = `/api/episodes?show=${encodeURIComponent(label)}&tz=${encodeURIComponent(tz)}&since=${since}`;
