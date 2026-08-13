@@ -341,6 +341,67 @@ test('frontend offers one all-time copied ICS URL instead of dated feeds', async
   assert.match(indexPage, /tab-btn/);
 });
 
+test('getEpisodes falls back to IMDb cache if TVMaze API fails', async () => {
+  const requests = [];
+  const fetchImpl = async (url, options = {}) => {
+    requests.push({ url: String(url), options });
+    if (String(url).includes('/singlesearch/shows') || String(url).includes('/shows/')) {
+      throw new Error('TVMaze is down');
+    }
+    if (String(url).includes('imdb.test')) {
+      return Response.json({ title: 'IMDb Fallback Show', year: '2026', imDbRating: '7.8', plot: 'IMDb fallback description' });
+    }
+    throw new Error(`Unexpected URL: ${url}`);
+  };
+
+  const result = await getEpisodes({
+    query: 'Sofia the First: Royal Magic',
+    fetchImpl,
+    env: { IMDB_API_URL: 'https://imdb.test/title/{imdbId}', NODE_ENV: 'test' }
+  });
+
+  assert.equal(result.show.name, 'Sofia the First: Royal Magic');
+  assert.equal(result.show.imdbId, 'tt23731346');
+  assert.equal(result.imdb.title, 'IMDb Fallback Show');
+  assert.ok(result.episodes.length > 0);
+  assert.equal(result.episodes[0].name, 'Welcome to Charmswell');
+});
+
+test('getEpisodes falls back to IMDb suggestion API if TVMaze fails and show is not in cache', async () => {
+  const requests = [];
+  const fetchImpl = async (url, options = {}) => {
+    requests.push({ url: String(url), options });
+    if (String(url).includes('/singlesearch/shows') || String(url).includes('/shows/')) {
+      throw new Error('TVMaze is down');
+    }
+    if (String(url).includes('v3.sg.media-imdb.com/suggestion')) {
+      return Response.json({
+        d: [
+          {
+            id: 'tt9999999',
+            l: 'Some Unknown Show',
+            qid: 'tvSeries'
+          }
+        ]
+      });
+    }
+    if (String(url).includes('imdb.test')) {
+      return Response.json({ title: 'Some Unknown Show Details', year: '2025', imDbRating: '8.0', plot: 'Plots' });
+    }
+    throw new Error(`Unexpected URL: ${url}`);
+  };
+
+  const result = await getEpisodes({
+    query: 'Some Unknown Show',
+    fetchImpl,
+    env: { IMDB_API_URL: 'https://imdb.test/title/{imdbId}', NODE_ENV: 'test' }
+  });
+
+  assert.equal(result.show.name, 'Some Unknown Show');
+  assert.equal(result.show.imdbId, 'tt9999999');
+  assert.equal(result.imdb.title, 'Some Unknown Show Details');
+});
+
 test('getEpisodes merges and re-indexes consecutive children show episodes on the same day', async () => {
   const childrenShowPayload = {
     id: 99,
