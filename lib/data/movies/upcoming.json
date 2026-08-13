@@ -2076,7 +2076,7 @@
     {
       "id": "tt1756855",
       "title": "Coyote vs. Acme",
-      "image": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTEyNTE4YzctODQxOC00OGVkLTkyMzktMzc1MGRhYzRkNWIxXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
       "genres": [
         "Animation",
@@ -3388,12 +3388,12 @@
           "name": "Jenny Slate"
         },
         {
-          "id": "nm5307044",
-          "name": "Ronny Chieng"
-        },
-        {
           "id": "nm3254274",
           "name": "Manny Jacinto"
+        },
+        {
+          "id": "nm5307044",
+          "name": "Ronny Chieng"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3726,7 +3726,7 @@
       "genres": [
         "Crime",
         "Drama",
-        "Horror"
+        "Mystery"
       ],
       "people": [
         {
@@ -3958,7 +3958,7 @@
     {
       "id": "tt39850240",
       "title": "Angel and the Badman",
-      "image": "https://m.media-amazon.com/images/M/MV5BYWNlMGE1YTEtZjRjYy00ZDdmLWI5MDAtNGY2YTliYTg1N2JlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmJhNjU3ODUtOTI1YS00M2RlLWJiZDEtZGU0NjRhYTBiNWNhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -4377,6 +4377,19 @@
         }
       ],
       "label": "Oct 23, 2026"
+    },
+    {
+      "id": "tt39075417",
+      "title": "Closure",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTk1OTgzZTAtNzRkYi00MjM0LTkwYmYtMTQyZWY5ZTk4MWE3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 28 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Crime",
+        "Family"
+      ],
+      "people": [],
+      "label": "Oct 28, 2026"
     },
     {
       "id": "tt29611136",
@@ -4892,6 +4905,34 @@
         }
       ],
       "label": "Nov 13, 2026"
+    },
+    {
+      "id": "tt42870035",
+      "title": "GIANT - The Play",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjI4NDdlZjktMTg1Ni00MTFhLWE3ZjMtOTIzMGM1YjY4MmY5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm2251731",
+          "name": "Aya Cash"
+        },
+        {
+          "id": "nm0394037",
+          "name": "Richard Hope"
+        },
+        {
+          "id": "nm3387113",
+          "name": "Tessa Bonham Jones"
+        },
+        {
+          "id": "nm0505404",
+          "name": "Elliot Levey"
+        }
+      ],
+      "label": "Nov 19, 2026"
     },
     {
       "id": "tt32558705",
@@ -5544,8 +5585,8 @@
           "name": "Vineet Kumar Singh"
         },
         {
-          "id": "nm0084443",
-          "name": "Seema Biswas"
+          "id": "nm6946196",
+          "name": "Vishal Jethwa"
         }
       ],
       "label": "Dec 24, 2026"
@@ -5634,35 +5675,6 @@
         {
           "id": "nm0472710",
           "name": "David Krumholtz"
-        }
-      ],
-      "label": "Dec 25, 2026"
-    },
-    {
-      "id": "tt36931184",
-      "title": "A Place in Hell",
-      "image": "https://m.media-amazon.com/images/M/MV5BNGExZDE3NWItZmY0Ni00ZjE1LThlZWUtNTJjN2VjYmMzM2NjXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "people": [
-        {
-          "id": "nm0931329",
-          "name": "Michelle Williams"
-        },
-        {
-          "id": "nm8402992",
-          "name": "Daisy Edgar-Jones"
-        },
-        {
-          "id": "nm5682728",
-          "name": "José Báez"
-        },
-        {
-          "id": "nm0073121",
-          "name": "Michael Benz"
         }
       ],
       "label": "Dec 25, 2026"
@@ -6418,16 +6430,16 @@
       ],
       "people": [
         {
+          "id": "nm8567338",
+          "name": "Sasha Calle"
+        },
+        {
           "id": "nm0000491",
           "name": "John Leguizamo"
         },
         {
           "id": "nm0424060",
           "name": "Scarlett Johansson"
-        },
-        {
-          "id": "nm0252230",
-          "name": "Chiwetel Ejiofor"
         },
         {
           "id": "nm0512934",
@@ -6700,7 +6712,24 @@
       "genres": [
         "Comedy"
       ],
-      "people": [],
+      "people": [
+        {
+          "id": "nm10877324",
+          "name": "Will Angus"
+        },
+        {
+          "id": "nm15016424",
+          "name": "Chet Collins"
+        },
+        {
+          "id": "nm14931055",
+          "name": "Liam Cullagh"
+        },
+        {
+          "id": "nm15016423",
+          "name": "Billy Langdon"
+        }
+      ],
       "label": "Apr 09, 2027"
     },
     {
@@ -6732,6 +6761,35 @@
         }
       ],
       "label": "Apr 16, 2027"
+    },
+    {
+      "id": "tt36931184",
+      "title": "A Place in Hell",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGExZDE3NWItZmY0Ni00ZjE1LThlZWUtNTJjN2VjYmMzM2NjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0931329",
+          "name": "Michelle Williams"
+        },
+        {
+          "id": "nm8402992",
+          "name": "Daisy Edgar-Jones"
+        },
+        {
+          "id": "nm5682728",
+          "name": "José Báez"
+        },
+        {
+          "id": "nm0073121",
+          "name": "Michael Benz"
+        }
+      ],
+      "label": "Apr 23, 2027"
     },
     {
       "id": "tt32659463",
@@ -7334,12 +7392,12 @@
           "name": "Matthew Modine"
         },
         {
-          "id": "nm0000092",
-          "name": "John Cleese"
-        },
-        {
           "id": "nm0000603",
           "name": "Vanessa Redgrave"
+        },
+        {
+          "id": "nm0000092",
+          "name": "John Cleese"
         }
       ],
       "label": "Jul 04, 2027"
