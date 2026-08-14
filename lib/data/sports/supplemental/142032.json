@@ -1712,6 +1712,20 @@
       "source": "scraped"
     },
     {
+      "idEvent": "scraped-816386",
+      "strEvent": "Jacksonville Jumbo Shrimp vs Syracuse Mets",
+      "strHomeTeam": "Jacksonville Jumbo Shrimp",
+      "strAwayTeam": "Syracuse Mets",
+      "dateEvent": "2026-08-13",
+      "strTime": "21:05:00",
+      "strTimestamp": "2026-08-14T21:05:00Z",
+      "strLeague": "International League",
+      "strVenue": "Vystar Ballpark",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
       "idEvent": "scraped-816393",
       "strEvent": "Jacksonville Jumbo Shrimp vs Syracuse Mets",
       "strHomeTeam": "Jacksonville Jumbo Shrimp",
