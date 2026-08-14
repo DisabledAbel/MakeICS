@@ -1361,6 +1361,10 @@
       ],
       "people": [
         {
+          "id": "nm0661132",
+          "name": "Ron Pardo"
+        },
+        {
           "id": "nm5085683",
           "name": "Mckenna Grace"
         },
@@ -1371,10 +1375,6 @@
         {
           "id": "nm0187719",
           "name": "Terry Crews"
-        },
-        {
-          "id": "nm3553139",
-          "name": "Jameela Jamil"
         }
       ],
       "label": "Aug 14, 2026"
@@ -1412,7 +1412,7 @@
     {
       "id": "tt34895535",
       "title": "Nimrods",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWJmNDdlMTktNGFkMi00MDk3LTkxMjAtNGViMGFiNjZjYjkxXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTFhZDQxMzgtZmI5Mi00ZTBjLWFiNjEtMzQ0M2RkNmMyNDUzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -1770,20 +1770,20 @@
       ],
       "people": [
         {
-          "id": "nm0267506",
-          "name": "Anna Faris"
+          "id": "nm18810881",
+          "name": "Sierra Rose Peters"
         },
         {
-          "id": "nm0279545",
-          "name": "Isla Fisher"
+          "id": "nm18810882",
+          "name": "Everly Ilona Graves"
         },
         {
-          "id": "nm0005182",
-          "name": "Leslie Mann"
+          "id": "nm10866449",
+          "name": "Juliet Sargent"
         },
         {
-          "id": "nm2345104",
-          "name": "Michelle Buteau"
+          "id": "nm10700157",
+          "name": "Quinn Aune"
         }
       ],
       "label": "Aug 21, 2026"
@@ -2773,12 +2773,12 @@
           "name": "Jason Isaacs"
         },
         {
-          "id": "nm0510317",
-          "name": "Denis Lill"
+          "id": "nm0635820",
+          "name": "Hermione Norris"
         },
         {
-          "id": "nm8963959",
-          "name": "Rebecca Ineson"
+          "id": "nm0510317",
+          "name": "Denis Lill"
         }
       ],
       "label": "Sep 04, 2026"
@@ -3019,7 +3019,7 @@
     {
       "id": "tt39368474",
       "title": "Black Zombie",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDkzOWQ0Y2YtNGI2NC00YmIwLTlmYjMtMDUyNGFkNzViZTFmXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmJiMmQ5NGQtMzU5NS00MjY5LTlkNWUtZmE4ZDJkZjc3MzJjXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
       "genres": [
         "Documentary",
@@ -3481,8 +3481,8 @@
           "name": "Domhnall Gleeson"
         },
         {
-          "id": "nm2047170",
-          "name": "Emun Elliott"
+          "id": "nm0327056",
+          "name": "Michelle Gomez"
         }
       ],
       "label": "Sep 25, 2026"
@@ -5343,8 +5343,8 @@
           "name": "Jenna Ortega"
         },
         {
-          "id": "nm1250791",
-          "name": "Sterling K. Brown"
+          "id": "nm6424616",
+          "name": "Charli XCX"
         },
         {
           "id": "nm0001876",
@@ -6007,8 +6007,8 @@
           "name": "Tim Blake Nelson"
         },
         {
-          "id": "nm6076950",
-          "name": "Hassie Harrison"
+          "id": "nm0524197",
+          "name": "Josh Lucas"
         }
       ],
       "label": "Jan 29, 2027"
