@@ -1,0 +1,97 @@
+name: Verify Disney Schedules via Google
+
+on:
+  schedule:
+    - cron: '0 16 * * *' # Daily at 8:00 AM PST / 4:00 PM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  verify-disney:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: data-updates-${{ github.workflow }}
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-
+
+      - name: Install Playwright Browsers
+        run: npx playwright install chromium --with-deps
+
+      - name: Verify Disney Schedules
+        run: node scripts/verify-disney.js
+
+      - name: Commit and push changes
+        env:
+          REF_NAME: ${{ github.ref_name }}
+        run: |
+          git config --global user.name "DisabledAbel"
+          git config --global user.email "196466003+DisabledAbel@users.noreply.github.com"
+
+          git add lib/data/tv/google-verified.json 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "📺 Update Disney verified TV schedules 📺"
+
+          attempts=5
+          count=0
+          backoff=2
+          success=false
+
+          while [ $count -lt $attempts ]; do
+            count=$((count + 1))
+            echo "Attempt $count of $attempts to pull/rebase and push changes..."
+
+            if git pull --rebase origin "$REF_NAME" && git push origin HEAD:"$REF_NAME"; then
+              echo "Changes successfully pushed."
+              success=true
+              break
+            else
+              echo "Pull/rebase or push failed on attempt $count."
+              if [ -d ".git/rebase-merge" ] || [ -d ".git/rebase-apply" ]; then
+                echo "Rebase conflict detected! Aborting rebase cleanly."
+                git rebase --abort
+                exit 1
+              fi
+
+              if [ $count -lt $attempts ]; then
+                echo "Waiting $backoff seconds before next attempt..."
+                sleep $backoff
+                backoff=$((backoff * 2))
+              fi
+            fi
+          done
+
+          if [ "$success" = false ]; then
+            echo "Failed to push changes after $attempts attempts."
+            exit 1
+          fi
