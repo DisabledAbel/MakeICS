@@ -548,3 +548,76 @@ test('getEpisodes merges and re-indexes consecutive children show episodes on th
   assert.equal(result.episodes[1].runtime, 35);
   assert.equal(result.episodes[1].summary, 'First short part. Second short part. Third short part.');
 });
+
+test('getEpisodes does not merge a keyed episode with an unkeyed episode on the same day', async () => {
+  const childrenShowPayload = {
+    id: 99,
+    name: "Children's Animated Show",
+    status: 'Running',
+    premiered: '2026-05-25',
+    ended: null,
+    genres: ['Adventure', 'Children'],
+    language: 'English',
+    officialSite: null,
+    url: 'https://www.tvmaze.com/shows/99/childrens-animated-show',
+    externals: { imdb: 'tt23731346' }, // Use Sofia's cached IMDb ID to load cache lookup
+    image: null,
+    summary: 'A kids show.',
+    runtime: null,
+    network: { name: 'Disney Junior', country: { name: 'United States' } }
+  };
+
+  const childrenEpisodesPayload = [
+    {
+      id: 901,
+      name: 'Welcome to Charmswell', // Will match S1E1 in cached tt23731346 and have imdbEpisodeKey = '1-1'
+      season: 1,
+      number: 1,
+      airdate: '2026-05-25',
+      airtime: '07:00',
+      airstamp: '2026-05-25T11:00:00+00:00',
+      runtime: 11,
+      summary: '<p>Keyed.</p>',
+      url: 'https://www.tvmaze.com/episodes/901'
+    },
+    {
+      id: 902,
+      name: 'Unkeyed Episode', // Will not match any episode in cache and remains unkeyed
+      season: 1,
+      number: 2,
+      airdate: '2026-05-25',
+      airtime: '07:15',
+      airstamp: '2026-05-25T11:15:00+00:00',
+      runtime: 12,
+      summary: '<p>Unkeyed.</p>',
+      url: 'https://www.tvmaze.com/episodes/902'
+    }
+  ];
+
+  const fetchImpl = async (url) => {
+    if (String(url).includes('/singlesearch/shows')) {
+      return Response.json(childrenShowPayload);
+    }
+    if (String(url).includes('/shows/99/episodes')) {
+      return Response.json(childrenEpisodesPayload);
+    }
+    if (String(url).includes('imdb.iamidiotareyoutoo.com')) {
+      return Response.json({ short: { name: 'Free Kids Show', datePublished: '2026-05-25', aggregateRating: null, description: 'Kids show.' } });
+    }
+    throw new Error(`Unexpected URL: ${url}`);
+  };
+
+  const result = await getEpisodes({
+    query: "Children's Animated Show",
+    fetchImpl,
+    env: { NODE_ENV: 'test' }
+  });
+
+  // Verify that the two episodes remain separate (not merged)
+  const episodeNames = result.episodes.map(e => e.name);
+  // 'Welcome to Charmswell' is keyed as S1E1.
+  // 'Unkeyed Episode' remains separate (unmerged), gets re-indexed to S1E2, and is later enriched as 'Abracadazzle/Show and Spell' from cached IMDb tt23731346.
+  assert.ok(episodeNames.includes('Welcome to Charmswell'));
+  assert.ok(episodeNames.includes('Abracadazzle/Show and Spell'));
+  assert.ok(!episodeNames.some(name => name.includes('Welcome to Charmswell/Unkeyed Episode') || name.includes('Welcome to Charmswell/Abracadazzle')));
+});
