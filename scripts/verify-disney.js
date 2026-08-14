@@ -9,6 +9,32 @@ const TV_DATA_DIR = path.join(__dirname, '../lib/data/tv');
 const IMDB_DATA_FILE = path.join(TV_DATA_DIR, 'imdb-episodes.json');
 const OUTPUT_FILE = path.join(TV_DATA_DIR, 'google-verified.json');
 
+const STATIC_DISNEY_SHOWS = [
+  "Sofia the First: Royal Magic",
+  "Wizards Beyond Waverly Place",
+  "SuperKitties",
+  "Ariel",
+  "Mickey Mouse Clubhouse+",
+  "Bluey",
+  "Pupstruction",
+  "Mickey Mouse Funhouse",
+  "Kiff",
+  "Big City Greens",
+  "ZOMBIES: The Re-Animated Series",
+  "Hailey's on It!",
+  "Primos",
+  "Hamster & Gretel"
+];
+
+// Helper to check if a show is a Disney Network show
+function isDisneyNetwork(show) {
+  if (!show) return false;
+  const networkName = show.network?.name || show.webChannel?.name || '';
+  return networkName.toLowerCase().includes('disney channel') ||
+         networkName.toLowerCase().includes('disney junior') ||
+         (show.name && STATIC_DISNEY_SHOWS.includes(show.name));
+}
+
 // Helper to fetch with timeout
 async function fetchWithTimeout(url, timeoutMs = 15000) {
   const controller = new AbortController();
@@ -140,23 +166,7 @@ async function main() {
 
     const showSet = new Set();
 
-    // 1. Static candidate list of known Disney shows
-    const STATIC_DISNEY_SHOWS = [
-      "Sofia the First: Royal Magic",
-      "Wizards Beyond Waverly Place",
-      "SuperKitties",
-      "Ariel",
-      "Mickey Mouse Clubhouse+",
-      "Bluey",
-      "Pupstruction",
-      "Mickey Mouse Funhouse",
-      "Kiff",
-      "Big City Greens",
-      "ZOMBIES: The Re-Animated Series",
-      "Hailey's on It!",
-      "Primos",
-      "Hamster & Gretel"
-    ];
+    // 1. Add static candidates
     STATIC_DISNEY_SHOWS.forEach(s => showSet.add(s));
 
     // 2. Discover dynamically from TVMaze US schedule (today and next 14 days)
@@ -175,7 +185,8 @@ async function main() {
               const name = item.show?.name;
               const net = item.show?.network?.name || item.show?.webChannel?.name || '';
               if (typeof name === 'string' && name.trim()) {
-                if (net.toLowerCase().includes('disney channel') || net.toLowerCase().includes('disney junior')) {
+                const mockShow = { name, network: { name: net } };
+                if (isDisneyNetwork(mockShow)) {
                   showSet.add(name.trim());
                 }
               }
@@ -200,13 +211,9 @@ async function main() {
         const response = await fetchWithTimeout(tvmazeUrl);
         if (response.ok) {
           const show = await response.json();
-          const networkName = show.network?.name || show.webChannel?.name || '';
-          const isDisney = networkName.toLowerCase().includes('disney channel') ||
-                            networkName.toLowerCase().includes('disney junior') ||
-                            STATIC_DISNEY_SHOWS.includes(show.name); // Keep if statically known
-
-          if (isDisney) {
+          if (isDisneyNetwork(show)) {
             disneyShowsToVerify.push(show);
+            const networkName = show.network?.name || show.webChannel?.name || '';
             console.log(`  [CONFIRMED] "${show.name}" - Network: ${networkName}`);
           }
         }
@@ -350,8 +357,13 @@ async function main() {
           updatedVerified[overrideKey] = {
             airdate: verifiedDate,
             name: imdbEp.name || tvEp.name,
-            verifiedAt: (existingOverride && existingOverride.verifiedAt) ? existingOverride.verifiedAt : new Date().toISOString()
+            verifiedAt: (existingOverride && existingOverride.verifiedAt && existingOverride.airdate === verifiedDate)
+              ? existingOverride.verifiedAt
+              : new Date().toISOString()
           };
+
+          // Sequential verification pause/delay to be polite and avoid rate limits/blocks
+          await sleep(2000);
         }
       }
     }
@@ -389,5 +401,6 @@ export {
   formatDateVariants,
   matchVariant,
   verifyEpisodeOnGoogle,
-  fetchWithTimeout
+  fetchWithTimeout,
+  isDisneyNetwork
 };

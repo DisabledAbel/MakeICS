@@ -11,8 +11,9 @@ permissions:
 jobs:
   verify-disney:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     concurrency:
-      group: data-updates-${{ github.workflow }}
+      group: data-updates
       cancel-in-progress: false
 
     steps:
