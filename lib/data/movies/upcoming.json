@@ -1652,20 +1652,20 @@
       ],
       "people": [
         {
-          "id": "nm1996829",
-          "name": "Nonso Anozie"
-        },
-        {
-          "id": "nm13069458",
-          "name": "Sonny Meo"
-        },
-        {
           "id": "nm1940449",
           "name": "Andrew Garfield"
         },
         {
           "id": "nm2946516",
           "name": "Claire Foy"
+        },
+        {
+          "id": "nm1996829",
+          "name": "Nonso Anozie"
+        },
+        {
+          "id": "nm13069458",
+          "name": "Sonny Meo"
         }
       ],
       "label": "Aug 21, 2026"
@@ -5070,16 +5070,16 @@
           "name": "Hailee Steinfeld"
         },
         {
+          "id": "nm0324658",
+          "name": "Walton Goggins"
+        },
+        {
+          "id": "nm0000149",
+          "name": "Jodie Foster"
+        },
+        {
           "id": "nm0876138",
           "name": "Alan Tudyk"
-        },
-        {
-          "id": "nm0429069",
-          "name": "Rashida Jones"
-        },
-        {
-          "id": "nm0000410",
-          "name": "Stephen Fry"
         }
       ],
       "label": "Nov 25, 2026"
@@ -5445,7 +5445,7 @@
     {
       "id": "tt21357150",
       "title": "Avengers: Doomsday",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTdlMDgxNjAtNjkxOC00ZDYxLTg3MDEtZmIwZjIxOGMwYjVkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGEwYWZkN2UtOTQ5Mi00MGQzLWEzNjYtMWMyNDBkMTkzMWNkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Dec 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -7454,12 +7454,12 @@
       ],
       "people": [
         {
-          "id": "nm0597388",
-          "name": "Jason Momoa"
-        },
-        {
           "id": "nm0000379",
           "name": "Kirsten Dunst"
+        },
+        {
+          "id": "nm0597388",
+          "name": "Jason Momoa"
         },
         {
           "id": "nm0085312",
@@ -7548,7 +7548,7 @@
     {
       "id": "tt35050152",
       "title": "The Bluey Movie",
-      "image": "https://m.media-amazon.com/images/M/MV5BYzgzMmExYjAtN2ZhYS00MmE3LWE1MzMtOTQxZWM0NmMyOGY0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWNhNjg1N2EtZDBmZi00YjFiLTk3YzQtMzM2ZmU1OGY1YzEzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Aug 2027 00:00:00 GMT",
       "genres": [
         "Animation",
@@ -7566,6 +7566,78 @@
         }
       ],
       "label": "Aug 06, 2027"
+    },
+    {
+      "id": "tt30094801",
+      "title": "Snoop",
+      "releaseDate": "Fri, 06 Aug 2027 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm6043149",
+          "name": "J.D."
+        }
+      ],
+      "label": "Aug 06, 2027"
+    },
+    {
+      "id": "tt26443615",
+      "title": "Untitled Disney",
+      "releaseDate": "Fri, 06 Aug 2027 00:00:00 GMT",
+      "genres": [],
+      "people": [],
+      "label": "Aug 06, 2027"
+    },
+    {
+      "id": "tt31512072",
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTkwYjMxODctM2ZkZi00MDU2LTk3YzAtZDEzYTkyNGE5ZDQzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 13 Aug 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "people": [
+        {
+          "id": "nm3738901",
+          "name": "Derek Wilson"
+        }
+      ],
+      "label": "Aug 13, 2027"
+    },
+    {
+      "id": "tt38810776",
+      "title": "Shiver",
+      "releaseDate": "Fri, 13 Aug 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0000206",
+          "name": "Keanu Reeves"
+        },
+        {
+          "id": "nm6721226",
+          "name": "Nicholas Duvernay"
+        },
+        {
+          "id": "nm0905357",
+          "name": "Steven Waddington"
+        },
+        {
+          "id": "nm6554076",
+          "name": "Abraham Popoola"
+        }
+      ],
+      "label": "Aug 13, 2027"
     }
   ]
 }
