@@ -139,53 +139,48 @@
     "name": "Leather You Like It or Not",
     "verifiedAt": "2026-08-06T15:19:39.769Z"
   },
-  "WWE Friday Night SmackDown-27-33": {
-    "airdate": "2026-08-14",
-    "name": "Joined forces",
-    "verifiedAt": "2026-07-22T15:07:29.838Z"
-  },
   "WWE Friday Night SmackDown-27-34": {
     "airdate": "2026-08-21",
     "name": "Dublin Drama",
     "verifiedAt": "2026-07-22T15:07:32.399Z"
   },
   "WWE Friday Night SmackDown-27-35": {
-    "airdate": "2026-08-28",
+    "airdate": "2025-08-29",
     "name": "And New...",
     "verifiedAt": "2026-07-22T15:07:35.048Z"
   },
   "WWE Friday Night SmackDown-27-40": {
-    "airdate": "2026-10-02",
+    "airdate": "2025-10-03",
     "name": "Nashville Nightmare",
     "verifiedAt": "2026-07-22T15:07:37.701Z"
   },
   "WWE Friday Night SmackDown-27-41": {
-    "airdate": "2026-10-09",
+    "airdate": "2025-10-10",
     "name": "Australian Anarchy",
     "verifiedAt": "2026-07-22T15:07:40.286Z"
   },
   "WWE Friday Night SmackDown-27-42": {
-    "airdate": "2026-10-16",
+    "airdate": "2025-10-17",
     "name": "Crown Jewel 2025 Fallout",
     "verifiedAt": "2026-07-22T15:07:43.014Z"
   },
   "WWE Friday Night SmackDown-27-43": {
-    "airdate": "2026-10-23",
+    "airdate": "2025-10-24",
     "name": "Storm of Deceit",
     "verifiedAt": "2026-07-22T15:07:45.472Z"
   },
   "WWE Friday Night SmackDown-27-44": {
-    "airdate": "2026-10-30",
+    "airdate": "2025-10-31",
     "name": "Signed, Sealed, Smashed",
     "verifiedAt": "2026-07-22T15:07:48.111Z"
   },
   "Snapped-36-17": {
-    "airdate": "2026-08-16",
+    "airdate": "2026-04-26",
     "name": "Tammy Moorer",
     "verifiedAt": "2026-08-05T15:16:22.478Z"
   },
   "The Real Housewives: Ultimate Girls Trip-5-3": {
-    "airdate": "2026-08-20",
+    "airdate": "2026-08-23",
     "name": "White Lies",
     "verifiedAt": "2026-08-08T13:48:33.338Z"
   },
@@ -200,13 +195,18 @@
     "verifiedAt": "2026-08-11T14:22:34.405Z"
   },
   "Lanterns-1-6": {
-    "airdate": "2026-09-20",
+    "airdate": "2026-09-06",
     "name": "Episode #1.4",
     "verifiedAt": "2026-08-11T14:23:02.034Z"
   },
   "Snapped-36-18": {
-    "airdate": "2026-08-23",
+    "airdate": "2026-05-03",
     "name": "LaFredia Todd",
     "verifiedAt": "2026-08-12T14:23:02.293Z"
+  },
+  "Next Gen NYC-2-10": {
+    "airdate": "2026-08-25",
+    "name": "Episode #2.10",
+    "verifiedAt": "2026-08-15T13:30:55.709Z"
   }
 }
