@@ -2664,7 +2664,7 @@
           "number": 11,
           "name": "The Last Knight Standing",
           "airdate": "2026-08-10",
-          "summary": "Pao reels after fighting Russ. Jenny struggles with Sumit's lies. Sarper and Shekinah's marriage hangs by a thread. Zied's demands push Rebecca to her limit. Kara and Guillermo's date ends in disaster. Patrick and Thais face explosive family therapy.",
+          "summary": "Pao struggles after clash with Russ. Jenny deals with Sumit's deceptions. Shekinah and Sarper's marriage is in jeopardy. Rebecca reaches her breaking point with Zied's requests. Guillermo and Kara's date goes wrong.",
           "url": "https://www.imdb.com/title/tt43638485/?ref_=ttep_ep_11"
         },
         {
@@ -7024,7 +7024,7 @@
           "number": 11,
           "name": "Judges' Callbacks 2",
           "airdate": "2026-08-11",
-          "summary": null,
+          "summary": "Selected acts return for the callbacks, hoping to impress the judges and secure one of the remaining spots in the live shows.",
           "url": "https://www.imdb.com/title/tt43754616/?ref_=ttep_ep_11"
         },
         {
@@ -11103,6 +11103,14 @@
           "airdate": "2026-08-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44086548/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 13,
+          "number": 9,
+          "name": "Icebound",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44122044/?ref_=ttep_ep_9"
         },
         {
           "season": 12,
@@ -24491,7 +24499,7 @@
         {
           "season": 1,
           "number": 34,
-          "name": "Episode #1.34",
+          "name": "Ahora sí puedes ser mi yerno",
           "airdate": "2026-07-02",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43631012/?ref_=ttep_ep_34"
@@ -24499,7 +24507,7 @@
         {
           "season": 1,
           "number": 35,
-          "name": "Episode #1.35",
+          "name": "El rey de las mentiras",
           "airdate": "2026-07-03",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43631013/?ref_=ttep_ep_35"
@@ -26149,7 +26157,7 @@
         {
           "season": 1,
           "number": 3,
-          "name": "Episode #1.3",
+          "name": "The Preacher",
           "airdate": "2026-08-21",
           "summary": "Anna guides a tense group of campers through the backcountry as a fierce storm closes in.",
           "url": "https://www.imdb.com/title/tt37775052/?ref_=ttep_ep_3"
@@ -31397,6 +31405,199 @@
           "airdate": "2023-09-30",
           "summary": "Bill discovers his favorite comedian, Fred the Farmer, may not be who he claims to be. Tilly defends Cricket at a family trial after he is accused of stealing an entire cake.",
           "url": "https://www.imdb.com/title/tt28758133/?ref_=ttep_ep_2"
+        }
+      ]
+    },
+    "tt43739197": {
+      "imdbId": "tt43739197",
+      "title": "Somebody Knows Something",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "The Baby in the Yellow Blanket",
+          "airdate": "2026-08-10",
+          "summary": "Could Sabrina Aisenberg still be alive today? Five month old Sabrina vanished from her crib in Tampa, gaining national attention. The investigation quickly zeroed in on her parents. But could Sabrina have been kidnapped?",
+          "url": "https://www.imdb.com/title/tt43747109/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Lost in the Night",
+          "airdate": "2026-08-10",
+          "summary": "A Colorado teen who dreams of being a nurse vanishes in the night; police initially deem Lashaya a runaway, but surveillance videos reveal a secret meeting with an ex and two mysterious figures who vanish into the darkness.",
+          "url": "https://www.imdb.com/title/tt43748066/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": "2026-08-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43748069/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Episode #1.4",
+          "airdate": "2026-08-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43748071/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode #1.5",
+          "airdate": "2026-08-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43748073/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Episode #1.6",
+          "airdate": "2026-09-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43748075/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "Episode #1.7",
+          "airdate": "2026-09-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43748077/?ref_=ttep_ep_7"
+        }
+      ]
+    },
+    "tt8461250": {
+      "imdbId": "tt8461250",
+      "title": "Firing Line with Margaret Hoover",
+      "episodes": []
+    },
+    "tt0309141": {
+      "imdbId": "tt0309141",
+      "title": "Cyberchase",
+      "episodes": [
+        {
+          "season": 16,
+          "number": 1,
+          "name": "Fix It Time!",
+          "airdate": "2026-04-18",
+          "summary": "Everyone's scooters are mysteriously breaking in Botsburg. The Squad tries to uncover the cause and launches a clinic to fix them using math and engineering skills. Back home, Jackie tests her new fixing skills on a broken family heirloom.",
+          "url": "https://www.imdb.com/title/tt42757745/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 16,
+          "number": 2,
+          "name": "Leave the Leaves",
+          "airdate": "2026-04-18",
+          "summary": "The Cybersquad uses time travel to help Hacker understand why his pet smirble BB loves a healthy park.",
+          "url": "https://www.imdb.com/title/tt32609457/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 16,
+          "number": 3,
+          "name": "Be There or Be Cyber Square",
+          "airdate": "2026-05-16",
+          "summary": "The CyberSquad and Bernice the Beetle take on Hacker in a Cyber Square game; Inez uses fractions to keep peace with León.",
+          "url": "https://www.imdb.com/title/tt42006199/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 16,
+          "number": 4,
+          "name": "The Power of Patterns",
+          "airdate": "2026-05-16",
+          "summary": "The CyberSquad races through a fizzy asteroid belt and solves math patterns to get the CyberStar back from Hacker.",
+          "url": "https://www.imdb.com/title/tt42195632/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 16,
+          "number": 5,
+          "name": "Every Flipper Counts",
+          "airdate": "2026-06-06",
+          "summary": "The penguins must choose a team captain for the Belly Bowl; the CyberSquad introduces voting as a fair way to decide.",
+          "url": "https://www.imdb.com/title/tt42006200/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 16,
+          "number": 6,
+          "name": "Take it Away",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43249834/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 16,
+          "number": 7,
+          "name": "Weigh to Go",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43249832/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 15,
+          "number": 1,
+          "name": "If You Can't Stand the Heat",
+          "airdate": "2024-04-27",
+          "summary": "The CyberSquad tries to keep cool as a heat wave sweeps through the cybersite during the annual Factoria Flower Show.",
+          "url": "https://www.imdb.com/title/tt27579966/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 15,
+          "number": 2,
+          "name": "Cyberdillos in the Outfield",
+          "airdate": "2024-04-27",
+          "summary": "Something causes chaos at the Dingerville ball field; Inez is forced to share her room with her younger sister.",
+          "url": "https://www.imdb.com/title/tt32230366/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 15,
+          "number": 3,
+          "name": "Hacker's Birthday Bash",
+          "airdate": "2024-04-27",
+          "summary": "When Buzz's plans the perfect birthday party for Hacker cause too much pollution, Delete brings in the CyberSquad to help.",
+          "url": "https://www.imdb.com/title/tt32230371/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 15,
+          "number": 4,
+          "name": "The Domino Dilemma",
+          "airdate": "2024-04-27",
+          "summary": "A quiet day at Jackie's house is ruined by a noisy snowblower; loud music in Botsberg spoil two cyberkids' dream of setting a new domino record.",
+          "url": "https://www.imdb.com/title/tt32230377/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 15,
+          "number": 5,
+          "name": "A Berry Special Mother's Day",
+          "airdate": "2024-05-11",
+          "summary": "Matt gets his mom two adopted alpacas for Mother's Day; the CyberSquad goes on a wild adventure helping Hannah find the ideal spot for growing Mother's Day cyberberries.",
+          "url": "https://www.imdb.com/title/tt32351344/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 15,
+          "number": 6,
+          "name": "A Fungus Among Us",
+          "airdate": "2024-05-25",
+          "summary": "Hacker steals all the mushrooms from the Southern Frontier to accomplish his mission to glow in the dark, which harms the cybersite's meeting tree.",
+          "url": "https://www.imdb.com/title/tt32467577/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 15,
+          "number": 7,
+          "name": "The Kite Flying Showdown",
+          "airdate": "2024-05-25",
+          "summary": "Digit takes on Hacker as he competes in an annual kite-flying competition at Big Dune Beach.",
+          "url": "https://www.imdb.com/title/tt32467583/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 15,
+          "number": 8,
+          "name": "The Heat Beneath Your Feet",
+          "airdate": "2024-05-25",
+          "summary": "Buzz and Delete go to Dancing Water Springs to watch a super geyser erupt and bump into the CyberSquad.",
+          "url": "https://www.imdb.com/title/tt32467596/?ref_=ttep_ep_8"
         }
       ]
     }
