@@ -74,7 +74,7 @@
           "number": 9,
           "name": "Crown Chaos/Off to the Races",
           "airdate": "2026-08-17",
-          "summary": null,
+          "summary": "Sofia defends Charmswell Academy from the wicked sorceress, Zandrya, with help from Rapunzel. Camila learns to be there for her friends during the school's flying derby race.",
           "url": "https://www.imdb.com/title/tt39346013/?ref_=ttep_ep_9"
         },
         {
@@ -82,7 +82,7 @@
           "number": 10,
           "name": "When Clover Met Pepper/A Wand-erful Day",
           "airdate": "2026-08-18",
-          "summary": null,
+          "summary": "Clover meets Pepper when he visits Sofia's castle, and Clover worries Sofia has a new best pet friend. James accidentally breaks Sofia's wand and replaces it with a trick wand.",
           "url": "https://www.imdb.com/title/tt39364871/?ref_=ttep_ep_10"
         },
         {
@@ -8932,6 +8932,14 @@
           "url": "https://www.imdb.com/title/tt43727015/?ref_=ttep_ep_15"
         },
         {
+          "season": 3,
+          "number": 16,
+          "name": "Karamo Brown & Jimmy Fallon",
+          "airdate": "2026-08-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44145342/?ref_=ttep_ep_16"
+        },
+        {
           "season": 2,
           "number": 1,
           "name": "Joe Manganiello & Jimmy Fallon",
@@ -9528,7 +9536,7 @@
         {
           "season": 8,
           "number": 32,
-          "name": "Episode #8.32",
+          "name": "Last Save",
           "airdate": "2026-08-12",
           "summary": "The Jet defends his TNT Title against Jericho. Jay White vs David Finlay. Jack Perry vs Jon Moxley. Nick Wayne vs MJF vs Speedball Bailey.",
           "url": "https://www.imdb.com/title/tt42257941/?ref_=ttep_ep_32"
@@ -10108,7 +10116,7 @@
           "season": 28,
           "number": 23,
           "name": "Episode #28.23",
-          "airdate": null,
+          "airdate": "2026-08-23",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43650778/?ref_=ttep_ep_23"
         },
@@ -11108,7 +11116,7 @@
           "season": 13,
           "number": 9,
           "name": "Icebound",
-          "airdate": null,
+          "airdate": "2026-08-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44122044/?ref_=ttep_ep_9"
         },
@@ -13678,6 +13686,14 @@
           "url": "https://www.imdb.com/title/tt43757090/?ref_=ttep_ep_6"
         },
         {
+          "season": 7,
+          "number": 7,
+          "name": "The Biggest Big Banks",
+          "airdate": "2026-08-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44127328/?ref_=ttep_ep_7"
+        },
+        {
           "season": 6,
           "number": 1,
           "name": "Halls Balls!!!",
@@ -16080,6 +16096,14 @@
           "airdate": "2026-08-07",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43756071/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 22,
+          "number": 13,
+          "name": "Those in Peril on the Sea",
+          "airdate": "2026-08-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44127362/?ref_=ttep_ep_13"
         },
         {
           "season": 21,
@@ -20550,9 +20574,9 @@
         {
           "season": 4,
           "number": 35,
-          "name": "Episode #4.35",
+          "name": "Las Vegas",
           "airdate": "2026-08-15",
-          "summary": null,
+          "summary": "The Continental Challenge Cup opening round continues; Conglomeration cohorts Kyle O'Reilly and Roderick Strong collide: Katsuyori Shibata faces Nigel McGuinness and Don Callis Family members Brian Cage and Hechicero clash.",
           "url": "https://www.imdb.com/title/tt43691709/?ref_=ttep_ep_35"
         },
         {
@@ -21850,7 +21874,7 @@
           "number": 10,
           "name": "The Return",
           "airdate": "2026-08-16",
-          "summary": "Our heroes try to save the world. Superman tries to reach them. Lex faces the music. It's time to be brave.",
+          "summary": "Our heroes try to save the world. Clark tries to reach them. Lex faces the music. It's time to be brave.",
           "url": "https://www.imdb.com/title/tt43732865/?ref_=ttep_ep_10"
         },
         {
@@ -27113,7 +27137,7 @@
         {
           "season": 1,
           "number": 5,
-          "name": "Episode #1.5",
+          "name": "2000s",
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt36979703/?ref_=ttep_ep_5"
@@ -27121,7 +27145,7 @@
         {
           "season": 1,
           "number": 6,
-          "name": "Episode #1.6",
+          "name": "2010s to Present",
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt36979700/?ref_=ttep_ep_6"
@@ -28801,7 +28825,7 @@
           "number": 13,
           "name": "The Lufthansa Heist",
           "airdate": "2026-05-04",
-          "summary": null,
+          "summary": "On December 11, 1978, a gang of thieves lifted around $5 million in cash and $800,000 in jewelry from a luxury airline hangar at New York's JFK Airport, marking the largest heist in U.S. history at that time.",
           "url": "https://www.imdb.com/title/tt43620719/?ref_=ttep_ep_13"
         },
         {
@@ -31598,6 +31622,44 @@
           "airdate": "2024-05-25",
           "summary": "Buzz and Delete go to Dancing Water Springs to watch a super geyser erupt and bump into the CyberSquad.",
           "url": "https://www.imdb.com/title/tt32467596/?ref_=ttep_ep_8"
+        }
+      ]
+    },
+    "tt43661815": {
+      "imdbId": "tt43661815",
+      "title": "LION",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "A Prince Is Born",
+          "airdate": "2026-08-19",
+          "summary": "A shy lion cub born into royalty witnesses a devastating hunt that reveals the harsh realities of savannah life. As he gains courage through experience, a lone journey leads him to confront his pride's deadliest foe.",
+          "url": "https://www.imdb.com/title/tt43702889/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "A Band of Brothers",
+          "airdate": "2026-08-19",
+          "summary": "After a harrowing escape, 12-week-old Kio struggles to gain acceptance from his older brothers while learning what it takes to become a king. When tragedy strikes, Summer must make a profound choice that will shape Kio's destiny.",
+          "url": "https://www.imdb.com/title/tt43749825/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "The Greatest Sacrifice",
+          "airdate": "2026-08-20",
+          "summary": "Summer and Kio rejoin their siblings, but survival proves challenging. Their mother struggles to provide for her inexperienced family and must hunt alone. Driven by desperation, she makes a fateful choice that alters Kio's future.",
+          "url": "https://www.imdb.com/title/tt43749826/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "To Be King",
+          "airdate": "2026-08-20",
+          "summary": "Separated from their pride, Kio and his brothers venture into dangerous territory seeking a new home. When they find a promising marsh with lionesses, they must fight the resident males to establish their own reign.",
+          "url": "https://www.imdb.com/title/tt43749827/?ref_=ttep_ep_4"
         }
       ]
     }
