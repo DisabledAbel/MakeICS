@@ -702,7 +702,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=VdrhKT0tmCg",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -746,8 +746,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "HT",
+      "strVideo": "https://www.youtube.com/watch?v=tqqcjF823C0",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -791,7 +791,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
