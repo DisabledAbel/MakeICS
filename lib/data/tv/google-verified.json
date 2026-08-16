@@ -49,11 +49,6 @@
     "name": "Patrick Alone... At Home/Seagull Scout Adventures",
     "verifiedAt": "2026-07-22T15:07:18.006Z"
   },
-  "AEW: Collision-4-36": {
-    "airdate": "2026-08-15",
-    "name": "Episode #4.36",
-    "verifiedAt": "2026-07-22T15:08:06.226Z"
-  },
   "AEW: Collision-4-37": {
     "airdate": "2026-08-22",
     "name": "Episode #4.37",
@@ -129,11 +124,6 @@
     "name": "Normani vs Michelle Buteau and Andy Richter vs Jason Ritter",
     "verifiedAt": "2026-07-31T15:22:10.194Z"
   },
-  "My Adventures with Superman-3-10": {
-    "airdate": "2026-08-15",
-    "name": "The Return",
-    "verifiedAt": "2026-08-04T15:26:57.519Z"
-  },
   "The Real Housewives: Ultimate Girls Trip-5-2": {
     "airdate": "2026-08-16",
     "name": "Leather You Like It or Not",
@@ -145,7 +135,7 @@
     "verifiedAt": "2026-07-22T15:07:32.399Z"
   },
   "The Real Housewives: Ultimate Girls Trip-5-3": {
-    "airdate": "2026-08-23",
+    "airdate": "2026-08-20",
     "name": "White Lies",
     "verifiedAt": "2026-08-08T13:48:33.338Z"
   },
@@ -160,7 +150,7 @@
     "verifiedAt": "2026-08-11T14:22:34.405Z"
   },
   "Lanterns-1-6": {
-    "airdate": "2026-09-06",
+    "airdate": "2026-09-20",
     "name": "Episode #1.4",
     "verifiedAt": "2026-08-11T14:23:02.034Z"
   },
@@ -168,5 +158,50 @@
     "airdate": "2026-08-25",
     "name": "Episode #2.10",
     "verifiedAt": "2026-08-15T13:30:55.709Z"
+  },
+  "WWE Friday Night SmackDown-27-35": {
+    "airdate": "2026-08-28",
+    "name": "And New...",
+    "verifiedAt": "2026-08-16T13:32:48.726Z"
+  },
+  "WWE Friday Night SmackDown-27-40": {
+    "airdate": "2026-10-02",
+    "name": "Nashville Nightmare",
+    "verifiedAt": "2026-08-16T13:32:51.475Z"
+  },
+  "WWE Friday Night SmackDown-27-41": {
+    "airdate": "2026-10-09",
+    "name": "Australian Anarchy",
+    "verifiedAt": "2026-08-16T13:32:53.966Z"
+  },
+  "WWE Friday Night SmackDown-27-42": {
+    "airdate": "2026-10-16",
+    "name": "Crown Jewel 2025 Fallout",
+    "verifiedAt": "2026-08-16T13:32:56.680Z"
+  },
+  "WWE Friday Night SmackDown-27-43": {
+    "airdate": "2026-10-23",
+    "name": "Storm of Deceit",
+    "verifiedAt": "2026-08-16T13:32:59.260Z"
+  },
+  "WWE Friday Night SmackDown-27-44": {
+    "airdate": "2026-10-30",
+    "name": "Signed, Sealed, Smashed",
+    "verifiedAt": "2026-08-16T13:33:01.946Z"
+  },
+  "Snapped-36-17": {
+    "airdate": "2026-08-16",
+    "name": "Tammy Moorer",
+    "verifiedAt": "2026-08-16T13:33:15.282Z"
+  },
+  "Snapped-36-18": {
+    "airdate": "2026-08-23",
+    "name": "LaFredia Todd",
+    "verifiedAt": "2026-08-16T13:33:17.835Z"
+  },
+  "Somebody Knows Something-1-7": {
+    "airdate": "2026-09-14",
+    "name": "Episode #1.6",
+    "verifiedAt": "2026-08-16T13:33:47.230Z"
   }
 }
