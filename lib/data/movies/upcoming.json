@@ -2208,16 +2208,16 @@
           "name": "Craig Fairbrass"
         },
         {
+          "id": "nm18563430",
+          "name": "Abhinav Singh"
+        },
+        {
           "id": "nm1268748",
           "name": "Tamer Hassan"
         },
         {
           "id": "nm0339877",
           "name": "Leo Gregory"
-        },
-        {
-          "id": "nm0286044",
-          "name": "Jamie Foreman"
         }
       ],
       "label": "Aug 28, 2026"
@@ -2669,7 +2669,7 @@
     {
       "id": "tt41791573",
       "title": "Dear You",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTAwZDgxNWQtYjRhMC00MzRiLTgxOGEtMjJjMGU4YTc1NjIxXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzc5NTM4ZjEtNjIxOC00YzE0LWFiNTAtNGUyNWNlZWEwN2Y2XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -3610,7 +3610,7 @@
     {
       "id": "tt34374553",
       "title": "Victorian Psycho",
-      "image": "https://m.media-amazon.com/images/M/MV5BZmIyMDdkMGYtMjQ2My00YzAwLWI0YWUtZjMyOTg3NTlmMWZhXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjdmNmYwMzEtMzJmYS00MDkxLThiNGItZjA0MGJlMjU4MTNmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -3751,7 +3751,7 @@
     {
       "id": "tt10377864",
       "title": "Beware Boiúna",
-      "image": "https://m.media-amazon.com/images/M/MV5BNGUzNzFjZmMtNmYzMi00NTFmLTg3NzktMDQwZDVkYmZkOWI1XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDQxZDM1NGYtOTlmMS00ZDUxLWJlNDEtZjRiMGIyNzZmM2U0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3839,7 +3839,7 @@
     {
       "id": "tt35856037",
       "title": "Your Mother Your Mother Your Mother",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTIyZGVhNWUtZDJjNi00M2M2LTg5N2ItMjZjMTIxM2YyY2NkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -5496,8 +5496,8 @@
           "name": "Jason Momoa"
         },
         {
-          "id": "nm1500155",
-          "name": "Robert Pattinson"
+          "id": "nm1772637",
+          "name": "Hassam Ghancy"
         }
       ],
       "label": "Dec 18, 2026"
@@ -6467,12 +6467,12 @@
           "name": "Dakota Fanning"
         },
         {
-          "id": "nm0753314",
-          "name": "Mark Rylance"
-        },
-        {
           "id": "nm0388061",
           "name": "Douglas Hodge"
+        },
+        {
+          "id": "nm0753314",
+          "name": "Mark Rylance"
         }
       ],
       "label": "Mar 19, 2027"
