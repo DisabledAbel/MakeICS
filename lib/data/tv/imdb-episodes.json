@@ -6834,7 +6834,7 @@
           "number": 6,
           "name": "Boodles Restaurant",
           "airdate": "2026-08-18",
-          "summary": "After four decades of business, Boodles Restaurant is struggling as its aging owner and son clash over the restaurant's future, and poor communication leaves the staff disconnected. When Gordon uncovers the source of the dysfunction, he helps bridge the family divide to give this longtime restaurant a chance.",
+          "summary": "After four decades, Boodles Restaurant struggles as its aging owner and son clash over its future, leaving staff disconnected.",
           "url": "https://www.imdb.com/title/tt43730653/?ref_=ttep_ep_6"
         },
         {
@@ -10085,7 +10085,7 @@
           "number": 19,
           "name": "Episode #28.19",
           "airdate": "2026-08-13",
-          "summary": null,
+          "summary": "Barrett, Chuk, and Haley will clash at The BB Block Buster. One of them will win safety, and one will be the next Houseguest sent packing.",
           "url": "https://www.imdb.com/title/tt43630973/?ref_=ttep_ep_19"
         },
         {
@@ -10093,7 +10093,7 @@
           "number": 20,
           "name": "Episode #28.20",
           "airdate": "2026-08-16",
-          "summary": null,
+          "summary": "The Head of Household is back up for grabs. Who will ascend into power? Plus, will the Houseguest you chose win a power inside the Time Capsule tonight, or will a punishment be unleashed?",
           "url": "https://www.imdb.com/title/tt43630974/?ref_=ttep_ep_20"
         },
         {
@@ -21636,8 +21636,40 @@
           "number": 3,
           "name": "The Star Recruit",
           "airdate": "2026-07-25",
-          "summary": null,
+          "summary": "When a 17-year-old military recruit and homecoming queen is gunned down outside her home, the community is stunned; as detectives look closer into those around her, they uncover a complex web of relationships that may lead to her killer.",
           "url": "https://www.imdb.com/title/tt43696934/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Murder in Welcome All Road",
+          "airdate": "2026-08-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44202553/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "Halloween Horror",
+          "airdate": "2026-08-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44202600/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "A Mother's Nightmare",
+          "airdate": "2026-08-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44202635/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Club Night",
+          "airdate": "2026-08-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44202679/?ref_=ttep_ep_7"
         },
         {
           "season": 3,
@@ -23179,6 +23211,14 @@
           "airdate": "2026-08-16",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43904958/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 19,
+          "number": 5,
+          "name": "Dishing It Out at Dollywood",
+          "airdate": "2026-08-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44219724/?ref_=ttep_ep_5"
         },
         {
           "season": 18,
@@ -25197,7 +25237,7 @@
           "number": 3,
           "name": "The One",
           "airdate": "2026-08-12",
-          "summary": null,
+          "summary": "Garnet and Ian hatch a daring escape plan, while a mysterious explosion rocks Homebase.",
           "url": "https://www.imdb.com/title/tt37519714/?ref_=ttep_ep_3"
         },
         {
@@ -25205,32 +25245,16 @@
           "number": 4,
           "name": "Hiding in Plain Sight",
           "airdate": "2026-08-19",
-          "summary": null,
+          "summary": "On Homebase, a new arrival raises more questions as the team attempts a rescue.",
           "url": "https://www.imdb.com/title/tt37519716/?ref_=ttep_ep_4"
         },
         {
           "season": 3,
           "number": 5,
           "name": "It All Happened So Fast",
-          "airdate": null,
-          "summary": null,
+          "airdate": "2026-08-27",
+          "summary": "A mysterious signal traces back to Ross as an investigation on Homebase takes an unexpected turn.",
           "url": "https://www.imdb.com/title/tt37519717/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 3,
-          "number": 6,
-          "name": "Episode #3.6",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt37519718/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 3,
-          "number": 7,
-          "name": "Episode #3.7",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt37519719/?ref_=ttep_ep_7"
         },
         {
           "season": 3,
@@ -25251,10 +25275,10 @@
         {
           "season": 3,
           "number": 10,
-          "name": "Episode #3.10",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt37519723/?ref_=ttep_ep_10"
+          "name": "Episode #3.7",
+          "airdate": "2026-09-10",
+          "summary": "Ark One discovers a ship in distress as Homebase learns shocking truths about the planet's past.",
+          "url": "https://www.imdb.com/title/tt37519719/?ref_=ttep_ep_7"
         },
         {
           "season": 3,
@@ -25268,8 +25292,8 @@
           "season": 3,
           "number": 12,
           "name": "Episode #3.12",
-          "airdate": null,
-          "summary": null,
+          "airdate": "2026-10-15",
+          "summary": "As Garnet embarks on a rescue mission, the entire crew must confront an existential threat to Homebase.",
           "url": "https://www.imdb.com/title/tt37519725/?ref_=ttep_ep_12"
         },
         {
@@ -26540,7 +26564,7 @@
           "number": 5,
           "name": "And the Red Rock",
           "airdate": "2026-08-16",
-          "summary": null,
+          "summary": "The Librarians discover that the charming scientist Lysa is dating is actually the Red Rock, a superhero battling a crime wave across Belgrade; are his superpowers, and perhaps the crime wave itself, the result of a magical artifact being",
           "url": "https://www.imdb.com/title/tt43644536/?ref_=ttep_ep_5"
         },
         {
@@ -26548,7 +26572,7 @@
           "number": 6,
           "name": "And Descartes' Dilemma",
           "airdate": "2026-08-17",
-          "summary": null,
+          "summary": "While recovering the missing bracelets of Castor and Pollux, the Librarians accidentally swap bodies. As they race to locate the second bracelet, they discover Merlin has secretly swapped bodies with one of them.",
           "url": "https://www.imdb.com/title/tt43644537/?ref_=ttep_ep_6"
         },
         {
@@ -27020,7 +27044,7 @@
           "number": 2,
           "name": "Training Camp with the Seattle Seahawks - Episode 2",
           "airdate": "2026-08-11",
-          "summary": null,
+          "summary": "Head coach Mike Macdonald sets a standard with real consequences. During practice, linebacker Derick Hall kept getting too close to QB Sam Darnold, and Macdonald, who wants to keep the quarterback safe, was not happy.",
           "url": "https://www.imdb.com/title/tt41298314/?ref_=ttep_ep_2"
         },
         {
@@ -27138,7 +27162,7 @@
           "season": 1,
           "number": 5,
           "name": "2000s",
-          "airdate": null,
+          "airdate": "2026-08-23",
           "summary": null,
           "url": "https://www.imdb.com/title/tt36979703/?ref_=ttep_ep_5"
         },
@@ -28833,7 +28857,7 @@
           "number": 14,
           "name": "Foo Fighters: WWII Edition",
           "airdate": "2026-05-11",
-          "summary": null,
+          "summary": "During World War II, a fiery phenomenon terrorizes American airmen in the night skies over Europe; the pilots call these fireballs \"Foo Fighters,\" and swear they move at over 200 mph and defy the laws of physics. But what are they?",
           "url": "https://www.imdb.com/title/tt43620721/?ref_=ttep_ep_14"
         },
         {
@@ -28841,7 +28865,7 @@
           "number": 15,
           "name": "The Search for Rommel's Gold",
           "airdate": "2026-05-18",
-          "summary": null,
+          "summary": "One of Germany's top military minds during WWII, General Erwin Rommel The Desert Fox, tears through North Africa.",
           "url": "https://www.imdb.com/title/tt43620722/?ref_=ttep_ep_15"
         },
         {
@@ -30292,9 +30316,9 @@
         {
           "season": 1,
           "number": 1,
-          "name": "Episode #1.1",
+          "name": "Pilot",
           "airdate": "2026-08-16",
-          "summary": null,
+          "summary": "After a fatal shooting, Green Lantern, Hal Jordan, and new recruit John Stewart set out to prove it was an extra terrestrial event.",
           "url": "https://www.imdb.com/title/tt26546824/?ref_=ttep_ep_1"
         },
         {
