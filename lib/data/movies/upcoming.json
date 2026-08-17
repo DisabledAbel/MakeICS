@@ -2517,6 +2517,35 @@
       "label": "Sep 02, 2026"
     },
     {
+      "id": "tt41840175",
+      "title": "Sara Bareilles: Good Grief",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmNmNmM1MzYtMWIzNC00MzhjLWE5MTMtMTQxYzVkZjhlZDhlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 02 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm1679561",
+          "name": "Sara Bareilles"
+        },
+        {
+          "id": "nm3267547",
+          "name": "Butterfly Boucher"
+        },
+        {
+          "id": "nm6608416",
+          "name": "Misty Boyce"
+        },
+        {
+          "id": "nm18575629",
+          "name": "Chad"
+        }
+      ],
+      "label": "Sep 02, 2026"
+    },
+    {
       "id": "tt39087873",
       "title": "Silenced",
       "image": "https://m.media-amazon.com/images/M/MV5BNzQxZWI5NGYtMTY3Ni00NmJlLWFmYTYtNjk5OTBlYzU2NmUwXkEyXkFqcGc@._V1_.jpg",
@@ -3559,10 +3588,6 @@
       ],
       "people": [
         {
-          "id": "nm5906920",
-          "name": "Heidi Gardner"
-        },
-        {
           "id": "nm0000196",
           "name": "Mike Myers"
         },
@@ -3573,6 +3598,10 @@
         {
           "id": "nm0001006",
           "name": "John Candy"
+        },
+        {
+          "id": "nm0000101",
+          "name": "Dan Aykroyd"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3803,6 +3832,35 @@
         {
           "id": "nm2534638",
           "name": "Michael Abbott Jr."
+        }
+      ],
+      "label": "Oct 02, 2026"
+    },
+    {
+      "id": "tt4565764",
+      "title": "Journey",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTY1MzMzZmMtYzIyOS00YjZmLTkzNDItZjUyMzlhYTQyODNiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm2449480",
+          "name": "Meaghan Martin"
+        },
+        {
+          "id": "nm2781939",
+          "name": "Rafael Cebrián"
+        },
+        {
+          "id": "nm0844761",
+          "name": "Gustavo Sánchez Parra"
+        },
+        {
+          "id": "nm0953344",
+          "name": "Mario Zaragoza"
         }
       ],
       "label": "Oct 02, 2026"
@@ -4089,12 +4147,12 @@
           "name": "Noah Centineo"
         },
         {
-          "id": "nm2810287",
-          "name": "David Dastmalchian"
-        },
-        {
           "id": "nm3689528",
           "name": "Olivier Richters"
+        },
+        {
+          "id": "nm2810287",
+          "name": "David Dastmalchian"
         }
       ],
       "label": "Oct 16, 2026"
@@ -6400,12 +6458,12 @@
       ],
       "people": [
         {
-          "id": "nm0000110",
-          "name": "Kenneth Branagh"
-        },
-        {
           "id": "nm0430107",
           "name": "Michael B. Jordan"
+        },
+        {
+          "id": "nm0000110",
+          "name": "Kenneth Branagh"
         },
         {
           "id": "nm4408716",
@@ -7161,8 +7219,8 @@
           "name": "David Harbour"
         },
         {
-          "id": "nm6254342",
-          "name": "Tayme Thapthimthong"
+          "id": "nm6366417",
+          "name": "Jefferson White"
         }
       ],
       "label": "Jun 04, 2027"
@@ -7236,12 +7294,12 @@
       ],
       "people": [
         {
-          "id": "nm4360085",
-          "name": "Callum Turner"
-        },
-        {
           "id": "nm4960279",
           "name": "Margaret Qualley"
+        },
+        {
+          "id": "nm4360085",
+          "name": "Callum Turner"
         },
         {
           "id": "nm0200452",
