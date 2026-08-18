@@ -974,7 +974,7 @@
     {
       "idEvent": "2487491",
       "idAPIfootball": "1550933",
-      "strTimestamp": "2026-08-22T23:00:00",
+      "strTimestamp": "2026-08-22T03:10:00",
       "strEvent": "Querétaro vs Toluca",
       "strEventAlternate": "Toluca @ Querétaro",
       "strFilename": "Mexican Liga MX 2026-08-22 Querétaro vs Toluca",
@@ -992,7 +992,7 @@
       "strWeather": "",
       "dateEvent": "2026-08-22",
       "dateEventLocal": "2026-08-22",
-      "strTime": "23:00:00",
+      "strTime": "03:10:00",
       "strTimeLocal": "18:00:00",
       "strGroup": "",
       "idHomeTeam": "134194",
