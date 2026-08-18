@@ -9,11 +9,6 @@
     "name": "Eggs & Egos",
     "verifiedAt": "2026-07-19T14:25:54.559Z"
   },
-  "All American-8-7": {
-    "airdate": "2026-08-17",
-    "name": "Somehow Some Way",
-    "verifiedAt": "2026-07-22T15:04:57.118Z"
-  },
   "All American-8-8": {
     "airdate": "2026-08-24",
     "name": "Episode #8.8",
@@ -203,5 +198,25 @@
     "airdate": "2026-08-26",
     "name": "To Be King",
     "verifiedAt": "2026-08-17T13:41:03.238Z"
+  },
+  "The Ark-3-5": {
+    "airdate": "2026-08-26",
+    "name": "It All Happened So Fast",
+    "verifiedAt": "2026-08-18T13:44:21.689Z"
+  },
+  "The Ark-3-10": {
+    "airdate": "2026-09-30",
+    "name": "Episode #3.7",
+    "verifiedAt": "2026-08-18T13:44:24.308Z"
+  },
+  "The Ark-3-12": {
+    "airdate": "2026-10-14",
+    "name": "Episode #3.12",
+    "verifiedAt": "2026-08-18T13:44:26.909Z"
+  },
+  "It's Always Sunny in Philadelphia-18-7": {
+    "airdate": "2026-09-21",
+    "name": "The Gang Goes to the Ren Faire",
+    "verifiedAt": "2026-08-18T13:44:49.993Z"
   }
 }
