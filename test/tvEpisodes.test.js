@@ -69,7 +69,7 @@ const episodesPayload = [
   },
   {
     id: 11,
-    name: 'The Future',
+    name: 'Future episode.',
     season: 2,
     number: 3,
     airdate: '2026-06-10',
