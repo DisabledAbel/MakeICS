@@ -2,6 +2,8 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { formatDateVariants, matchVariant, verifyEpisodeOnGoogle, isDisneyNetwork } from '../scripts/verify-disney.js';
 
+process.env.NODE_ENV = 'test';
+
 test('formatDateVariants in verify-disney returns correct variant shapes', () => {
   const variants = formatDateVariants('2026-06-01');
   assert.equal(variants.length, 5);
@@ -141,4 +143,14 @@ test('Disney network filtering works as expected using the isDisneyNetwork helpe
   // Test individual checks
   assert.equal(isDisneyNetwork({ name: 'SuperKitties' }), true); // statically known
   assert.equal(isDisneyNetwork({ name: 'Spongebob' }), false);
+});
+
+test('getBrowser and closeBrowser handle concurrent callers and browser lifecycle in test mode', async () => {
+  const { getBrowser, closeBrowser } = await import('../lib/scraper.js');
+
+  // Concurrent calls return the same browser instance / promise
+  const [b1, b2] = await Promise.all([getBrowser(), getBrowser()]);
+  assert.equal(b1, b2);
+
+  await closeBrowser();
 });
