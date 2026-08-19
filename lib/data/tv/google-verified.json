@@ -14,11 +14,6 @@
     "name": "Episode #8.8",
     "verifiedAt": "2026-07-22T15:04:59.842Z"
   },
-  "Love It or List It-21-9": {
-    "airdate": "2026-08-18",
-    "name": "Episode #21.9",
-    "verifiedAt": "2026-07-22T15:05:28.586Z"
-  },
   "The Patrick Star Show-5-9": {
     "airdate": "2026-08-21",
     "name": "The Squid and the Square/The Over-Under",
@@ -219,11 +214,6 @@
     "name": "The Gang Goes to the Ren Faire",
     "verifiedAt": "2026-08-18T13:44:49.993Z"
   },
-  "Sofia the First: Royal Magic-1-9": {
-    "airdate": "2026-08-18",
-    "name": "Crown Chaos/Off to the Races",
-    "verifiedAt": "2026-08-18T00:00:00.000Z"
-  },
   "Sofia the First: Royal Magic-1-10": {
     "airdate": "2026-08-19",
     "name": "When Clover Met Pepper/A Wand-erful Day",
@@ -233,5 +223,10 @@
     "airdate": "2026-08-20",
     "name": "Kidding Around/Puppercorn Ruckus",
     "verifiedAt": "2026-08-18T00:00:00.000Z"
+  },
+  "Snapped-36-19": {
+    "airdate": "2026-08-30",
+    "name": "Nikki Hillrich",
+    "verifiedAt": "2026-08-19T13:45:39.369Z"
   }
 }
