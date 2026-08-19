@@ -135,12 +135,12 @@
       "strHomeTeam": "Las Vegas Aces",
       "strAwayTeam": "Atlanta Dream",
       "dateEvent": "2026-08-19",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-08-19T02:00:00Z",
+      "strTime": "01:00:00",
+      "strTimestamp": "2026-08-19T01:00:00Z",
       "strLeague": "WNBA",
       "strVenue": "Michelob ULTRA Arena",
       "strStatus": "NS",
-      "strTVStation": null,
+      "strTVStation": "ESPN",
       "source": "scraped"
     },
     {

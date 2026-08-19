@@ -42,7 +42,7 @@
       "strLeague": "WNBA",
       "strVenue": "crypto.com Arena",
       "strStatus": "NS",
-      "strTVStation": null,
+      "strTVStation": "USA Net",
       "source": "scraped"
     },
     {
@@ -70,7 +70,7 @@
       "strLeague": "WNBA",
       "strVenue": "Climate Pledge Arena",
       "strStatus": "NS",
-      "strTVStation": "NBA TV",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
@@ -182,7 +182,7 @@
       "strLeague": "WNBA",
       "strVenue": "Galen Center",
       "strStatus": "NS",
-      "strTVStation": null,
+      "strTVStation": "NBA TV",
       "source": "scraped"
     },
     {

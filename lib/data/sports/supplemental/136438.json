@@ -112,7 +112,7 @@
       "strLeague": "WNBA",
       "strVenue": "Wintrust Arena",
       "strStatus": "NS",
-      "strTVStation": "ESPN",
+      "strTVStation": null,
       "source": "scraped"
     },
     {
