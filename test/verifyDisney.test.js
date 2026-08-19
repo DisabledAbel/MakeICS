@@ -153,4 +153,7 @@ test('getBrowser and closeBrowser handle concurrent callers and browser lifecycl
   assert.equal(b1, b2);
 
   await closeBrowser();
+  const b3 = await getBrowser();
+  assert.notEqual(b3, b1);
+  await closeBrowser();
 });
