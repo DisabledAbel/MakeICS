@@ -1712,20 +1712,20 @@
       ],
       "people": [
         {
-          "id": "nm0005417",
-          "name": "Lin Shaye"
+          "id": "nm5155952",
+          "name": "Brandon Perea"
         },
         {
-          "id": "nm0819874",
-          "name": "Sam Spruell"
+          "id": "nm1916003",
+          "name": "Laura Gordon"
         },
         {
-          "id": "nm4633678",
-          "name": "Amelia Eve"
+          "id": "nm9014280",
+          "name": "Joseph Lopez"
         },
         {
-          "id": "nm5114966",
-          "name": "Maisie Richardson-Sellers"
+          "id": "nm17459004",
+          "name": "Charli Penton"
         }
       ],
       "label": "Aug 21, 2026"
@@ -1770,20 +1770,20 @@
       ],
       "people": [
         {
-          "id": "nm18810881",
-          "name": "Sierra Rose Peters"
+          "id": "nm0005182",
+          "name": "Leslie Mann"
         },
         {
-          "id": "nm18810882",
-          "name": "Everly Ilona Graves"
+          "id": "nm0279545",
+          "name": "Isla Fisher"
         },
         {
-          "id": "nm10866449",
-          "name": "Juliet Sargent"
+          "id": "nm2345104",
+          "name": "Michelle Buteau"
         },
         {
-          "id": "nm10700157",
-          "name": "Quinn Aune"
+          "id": "nm13382848",
+          "name": "Sierra Rose"
         }
       ],
       "label": "Aug 21, 2026"
@@ -2575,6 +2575,36 @@
       "label": "Sep 03, 2026"
     },
     {
+      "id": "tt34284946",
+      "title": "I'm Game",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTY0NGE5YjItYWQzNi00ZGJlLTg1Y2UtYzQ2NmZkODRiNjE1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm4921260",
+          "name": "Dulquer Salmaan"
+        },
+        {
+          "id": "nm10552576",
+          "name": "Samyuktha Viswanathan"
+        },
+        {
+          "id": "nm4199426",
+          "name": "Mysskin"
+        },
+        {
+          "id": "nm11469931",
+          "name": "Kayadu Lohar"
+        }
+      ],
+      "label": "Sep 03, 2026"
+    },
+    {
       "id": "tt34379051",
       "title": "By Any Means",
       "image": "https://m.media-amazon.com/images/M/MV5BZTUwODQ5N2QtMGM3Ny00YTk1LWJlZTctMTE5ZTAzNTMwOGQxXkEyXkFqcGc@._V1_.jpg",
@@ -3227,7 +3257,7 @@
     {
       "id": "tt18398986",
       "title": "Without Blood",
-      "image": "https://m.media-amazon.com/images/M/MV5BZDcwYzJhZTgtNTEyZS00ZDBjLWE5YTQtM2Y1ZTNhZWFkMTExXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmUyZWY1OWUtNDBkZi00NGM3LThkZDEtNDVkMmZjYzA4ZTk3XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -3309,6 +3339,36 @@
         {
           "id": "nm0667904",
           "name": "Serban Pavlu"
+        }
+      ],
+      "label": "Sep 18, 2026"
+    },
+    {
+      "id": "tt32634611",
+      "title": "Daayra",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTA5NThjMWUtMDBhMy00YjRhLThjY2ItNGI2ZjdlNzRmMzBjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm1335387",
+          "name": "Prithviraj Sukumaran"
+        },
+        {
+          "id": "nm0004626",
+          "name": "Kareena Kapoor"
+        },
+        {
+          "id": "nm12325577",
+          "name": "Mounis Ratta"
+        },
+        {
+          "id": "nm7985316",
+          "name": "Prammod Sanghi"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3667,6 +3727,36 @@
       "label": "Sep 25, 2026"
     },
     {
+      "id": "tt34498564",
+      "title": "The Vvaan: Force of the Forrest",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmNkYWJhZTAtYjMxNC00MjM3LWIwOGMtM2E2NGRmN2Y3OThmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Mystery"
+      ],
+      "people": [
+        {
+          "id": "nm3289096",
+          "name": "Sidharth Malhotra"
+        },
+        {
+          "id": "nm1961459",
+          "name": "Tamannaah Bhatia"
+        },
+        {
+          "id": "nm0814331",
+          "name": "Anup Soni"
+        },
+        {
+          "id": "nm1748819",
+          "name": "Shweta Tiwari"
+        }
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
       "id": "tt33457310",
       "title": "Terrifier 4",
       "image": "https://m.media-amazon.com/images/M/MV5BOGU0NGVlMTctODlmMS00MjdhLWFhOTgtNjkyNDkwMmQ1YzFjXkEyXkFqcGc@._V1_.jpg",
@@ -3880,16 +3970,16 @@
           "name": "Ryan T. Johnson"
         },
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm9405607",
           "name": "Corey Cannon"
         },
         {
           "id": "nm10231369",
           "name": "Scott Jameson"
+        },
+        {
+          "id": "nm6079113",
+          "name": "Mario Silva"
         }
       ],
       "label": "Oct 04, 2026"
@@ -4067,6 +4157,35 @@
         {
           "id": "nm4363958",
           "name": "Alejandro Nieves"
+        }
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt0093427",
+      "title": "Queen Live in Budapest",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjI2ZmM5Y2YtNTViYi00OWViLWE5MzYtOWQwZTViOTczNjU5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm1277102",
+          "name": "Queen"
+        },
+        {
+          "id": "nm0212577",
+          "name": "John Deacon"
+        },
+        {
+          "id": "nm0006190",
+          "name": "Brian May"
+        },
+        {
+          "id": "nm0006198",
+          "name": "Freddie Mercury"
         }
       ],
       "label": "Oct 09, 2026"
@@ -4257,10 +4376,6 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm0180411",
           "name": "Abbie Cornish"
         },
@@ -4271,6 +4386,10 @@
         {
           "id": "nm1014989",
           "name": "David Julian Hirsh"
+        },
+        {
+          "id": "nm0223570",
+          "name": "Dhirendra"
         }
       ],
       "label": "Oct 16, 2026"
@@ -4605,10 +4724,6 @@
         "Musical"
       ],
       "people": [
-        {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
         {
           "id": "nm0026483",
           "name": "Carl Anderson"
@@ -5403,12 +5518,8 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
-          "id": "nm0424484",
-          "name": "Alice Bailey Johnson"
+          "id": "nm2359658",
+          "name": "Kate O'Flynn"
         },
         {
           "id": "nm0047392",
@@ -5417,6 +5528,10 @@
         {
           "id": "nm0422234",
           "name": "Paul Jesson"
+        },
+        {
+          "id": "nm0424484",
+          "name": "Alice Bailey Johnson"
         }
       ],
       "label": "Dec 04, 2026"
@@ -6422,6 +6537,36 @@
         {
           "id": "nm1883803",
           "name": "Jesse Garcia"
+        }
+      ],
+      "label": "Feb 26, 2027"
+    },
+    {
+      "id": "tt8992304",
+      "title": "K-Pop: The Debut",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGRkZmJiMDMtYzgyNS00N2FmLTk3Y2ItMmE2MzlhNDU0OWY2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 26 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm1727825",
+          "name": "Tony Revolori"
+        },
+        {
+          "id": "nm7175730",
+          "name": "Eric Nam"
+        },
+        {
+          "id": "nm10955564",
+          "name": "Ji-young Yoo"
+        },
+        {
+          "id": "nm5289372",
+          "name": "Yim Si-wan"
         }
       ],
       "label": "Feb 26, 2027"
