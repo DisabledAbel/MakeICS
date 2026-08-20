@@ -1796,6 +1796,20 @@
       "source": "scraped"
     },
     {
+      "idEvent": "scraped-816768",
+      "strEvent": "Columbus Clippers vs St. Paul Saints",
+      "strHomeTeam": "Columbus Clippers",
+      "strAwayTeam": "St. Paul Saints",
+      "dateEvent": "2026-08-19",
+      "strTime": "16:05:00",
+      "strTimestamp": "2026-08-20T16:05:00Z",
+      "strLeague": "International League",
+      "strVenue": "Huntington Park",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
       "idEvent": "scraped-816767",
       "strEvent": "Columbus Clippers vs St. Paul Saints",
       "strHomeTeam": "Columbus Clippers",
