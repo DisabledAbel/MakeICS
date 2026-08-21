@@ -1586,35 +1586,6 @@
       "label": "Aug 14, 2026"
     },
     {
-      "id": "tt36870725",
-      "title": "Terrestrial",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGZkNzViZTktZTI2NC00ZWExLWE0MGYtOGY2OGRjZDI4ZGFlXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 14 Aug 2026 00:00:00 GMT",
-      "genres": [
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "people": [
-        {
-          "id": "nm1854664",
-          "name": "Jermaine Fowler"
-        },
-        {
-          "id": "nm3837694",
-          "name": "James Morosini"
-        },
-        {
-          "id": "nm6955492",
-          "name": "Pauline Chalamet"
-        },
-        {
-          "id": "nm7254946",
-          "name": "Edy Modica"
-        }
-      ],
-      "label": "Aug 14, 2026"
-    },
-    {
       "id": "tt43515101",
       "title": "All Wishes Come True!",
       "image": "https://m.media-amazon.com/images/M/MV5BMzZmNzZiMDgtZTk1My00ZDA0LWFlODEtYjBjZjNkNmMzZmRlXkEyXkFqcGc@._V1_.jpg",
@@ -1686,16 +1657,16 @@
           "name": "Jason Statham"
         },
         {
-          "id": "nm1834115",
-          "name": "Annabelle Wallis"
+          "id": "nm9894581",
+          "name": "Chaneil Kular"
         },
         {
-          "id": "nm0504412",
-          "name": "Adrian Lester"
+          "id": "nm0424123",
+          "name": "Andrew John Tait"
         },
         {
-          "id": "nm0863130",
-          "name": "Ramon Tikaram"
+          "id": "nm3438484",
+          "name": "Jason Wong"
         }
       ],
       "label": "Aug 21, 2026"
@@ -1712,20 +1683,20 @@
       ],
       "people": [
         {
-          "id": "nm5155952",
-          "name": "Brandon Perea"
+          "id": "nm4633678",
+          "name": "Amelia Eve"
         },
         {
-          "id": "nm1916003",
-          "name": "Laura Gordon"
+          "id": "nm16710686",
+          "name": "Island Austin"
         },
         {
-          "id": "nm9014280",
-          "name": "Joseph Lopez"
+          "id": "nm0005417",
+          "name": "Lin Shaye"
         },
         {
-          "id": "nm17459004",
-          "name": "Charli Penton"
+          "id": "nm0819874",
+          "name": "Sam Spruell"
         }
       ],
       "label": "Aug 21, 2026"
@@ -1898,12 +1869,12 @@
           "name": "Angelina LookingGlass"
         },
         {
-          "id": "nm4270477",
-          "name": "Jake Horowitz"
+          "id": "nm16490604",
+          "name": "Benjamin Hardesty"
         },
         {
-          "id": "nm0791864",
-          "name": "Scott Shepherd"
+          "id": "nm4270477",
+          "name": "Jake Horowitz"
         }
       ],
       "label": "Aug 21, 2026"
@@ -2014,6 +1985,35 @@
       "label": "Aug 26, 2026"
     },
     {
+      "id": "tt34375923",
+      "title": "Wildcards",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDQ0OTUyMDYtNjVjNS00MzliLTlkNDUtMWM5YTMzYTA5ZWI0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 27 Aug 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0502442",
+          "name": "Leon"
+        },
+        {
+          "id": "nm15031772",
+          "name": "Courtney Grace"
+        },
+        {
+          "id": "nm0005264",
+          "name": "Elise Neal"
+        },
+        {
+          "id": "nm0817341",
+          "name": "Aries Spears"
+        }
+      ],
+      "label": "Aug 27, 2026"
+    },
+    {
       "id": "tt30327451",
       "title": "The Marching Band",
       "image": "https://m.media-amazon.com/images/M/MV5BNjYyZjI2ZDgtN2YxOS00NGVlLTkwNTEtODY4MTJiMmFjNDc3XkEyXkFqcGc@._V1_.jpg",
@@ -2055,6 +2055,10 @@
       ],
       "people": [
         {
+          "id": "nm8624059",
+          "name": "Jacob Elordi"
+        },
+        {
           "id": "nm4960279",
           "name": "Margaret Qualley"
         },
@@ -2063,12 +2067,8 @@
           "name": "Josh Brolin"
         },
         {
-          "id": "nm8624059",
-          "name": "Jacob Elordi"
-        },
-        {
-          "id": "nm0005049",
-          "name": "Allison Janney"
+          "id": "nm0001602",
+          "name": "Guy Pearce"
         }
       ],
       "label": "Aug 28, 2026"
@@ -2208,16 +2208,16 @@
           "name": "Craig Fairbrass"
         },
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm1268748",
           "name": "Tamer Hassan"
         },
         {
           "id": "nm0339877",
           "name": "Leo Gregory"
+        },
+        {
+          "id": "nm0286044",
+          "name": "Jamie Foreman"
         }
       ],
       "label": "Aug 28, 2026"
@@ -2402,7 +2402,7 @@
     {
       "id": "tt29009930",
       "title": "How to Divorce During the War",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzJlOWM3MzgtOGMyZi00NTRlLThkZmMtNTg4Yzc1MGViMWNkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDhlNTg3ODktOWNhNC00ZmNlLWFkMWYtM2JlOTEwZjllYjhhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
       "genres": [
         "Drama"
@@ -3205,16 +3205,20 @@
       ],
       "people": [
         {
+          "id": "nm0815317",
+          "name": "Nina Sosanya"
+        },
+        {
+          "id": "nm0925768",
+          "name": "Paul Whitehouse"
+        },
+        {
           "id": "nm1017994",
           "name": "Justin Fletcher"
         },
         {
           "id": "nm0816950",
           "name": "John Sparkes"
-        },
-        {
-          "id": "nm0361957",
-          "name": "Kate Harbour"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3265,10 +3269,6 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm6301942",
           "name": "Juan Carlos Huguenin"
         },
@@ -3279,6 +3279,10 @@
         {
           "id": "nm0065007",
           "name": "Demián Bichir"
+        },
+        {
+          "id": "nm1375877",
+          "name": "Juan Minujín"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3490,7 +3494,7 @@
     {
       "id": "tt38589433",
       "title": "Never After Dark",
-      "image": "https://m.media-amazon.com/images/M/MV5BOTVhZmNiNjktMzJkYS00ZGZmLTgxZjYtZDU0NTIwOGZlNzkyXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzhkYjNjNjQtZmRmYy00MWM5LWIwMDMtYWE2NzFkYjI3MDJiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
       "genres": [
         "Crime",
@@ -3558,10 +3562,6 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm4587360",
           "name": "Gayle Rankin"
         },
@@ -3572,6 +3572,10 @@
         {
           "id": "nm0001314",
           "name": "John Hannah"
+        },
+        {
+          "id": "nm0327056",
+          "name": "Michelle Gomez"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3708,10 +3712,6 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm2140860",
           "name": "Maika Monroe"
         },
@@ -3722,6 +3722,10 @@
         {
           "id": "nm5057169",
           "name": "Thomasin McKenzie"
+        },
+        {
+          "id": "nm2235721",
+          "name": "Ruth Wilson"
         }
       ],
       "label": "Sep 25, 2026"
@@ -4191,6 +4195,35 @@
       "label": "Oct 09, 2026"
     },
     {
+      "id": "tt36870725",
+      "title": "Terrestrial",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU2OTJkYmUtZjliMS00MzBiLTkyZjgtNjk2NzllNzBkNWJhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm1854664",
+          "name": "Jermaine Fowler"
+        },
+        {
+          "id": "nm3837694",
+          "name": "James Morosini"
+        },
+        {
+          "id": "nm6955492",
+          "name": "Pauline Chalamet"
+        },
+        {
+          "id": "nm7254946",
+          "name": "Edy Modica"
+        }
+      ],
+      "label": "Oct 16, 2026"
+    },
+    {
       "id": "tt32329539",
       "title": "Crawlers",
       "image": "https://m.media-amazon.com/images/M/MV5BYjQzNTk0OTUtNGIxMy00YzNmLTk4MTMtOWNhNGIxMDgyZTA1XkEyXkFqcGc@._V1_.jpg",
@@ -4309,7 +4342,7 @@
     {
       "id": "tt29549490",
       "title": "California Schemin'",
-      "image": "https://m.media-amazon.com/images/M/MV5BOTViMmQ2ZjQtZGZjYy00OThlLTgzYzEtNTQxMTg1YWViZGNkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWM0ZWNkOTEtNWViNC00MzQ2LThlYjYtMjE3YzVkYmExMjBiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -4566,12 +4599,7 @@
         "Crime",
         "Family"
       ],
-      "people": [
-        {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        }
-      ],
+      "people": [],
       "label": "Oct 28, 2026"
     },
     {
@@ -4695,10 +4723,6 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm18361069",
           "name": "Mohammad Amiri"
         },
@@ -4709,6 +4733,10 @@
         {
           "id": "nm14782462",
           "name": "Noah Hunt Basden"
+        },
+        {
+          "id": "nm0000300",
+          "name": "Juliette Binoche"
         }
       ],
       "label": "Oct 30, 2026"
@@ -5071,10 +5099,6 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm0000136",
           "name": "Johnny Depp"
         },
@@ -5085,6 +5109,10 @@
         {
           "id": "nm0005212",
           "name": "Ian McKellen"
+        },
+        {
+          "id": "nm3510471",
+          "name": "Sam Claflin"
         }
       ],
       "label": "Nov 13, 2026"
@@ -5180,7 +5208,7 @@
     {
       "id": "tt11995650",
       "title": "I Play Rocky",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDkxNjAxOGItY2E1ZC00NWE2LTk0N2QtYTRjNzFkOGY1NmE3XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDZlN2IyYjUtM2FhMi00OTQ0LTk5YjktNTdiZGM1ZDg3NzIxXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -5249,10 +5277,6 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm2794962",
           "name": "Hailee Steinfeld"
         },
@@ -5263,6 +5287,10 @@
         {
           "id": "nm0000149",
           "name": "Jodie Foster"
+        },
+        {
+          "id": "nm0876138",
+          "name": "Alan Tudyk"
         }
       ],
       "label": "Nov 25, 2026"
@@ -5377,16 +5405,16 @@
           "name": "Brad Pitt"
         },
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm0648249",
           "name": "Timothy Olyphant"
         },
         {
           "id": "nm4456120",
           "name": "Elizabeth Debicki"
+        },
+        {
+          "id": "nm0001303",
+          "name": "Carla Gugino"
         }
       ],
       "label": "Nov 25, 2026"
@@ -6493,10 +6521,6 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm0396558",
           "name": "Nicholas Hoult"
         },
@@ -6507,6 +6531,10 @@
         {
           "id": "nm0054697",
           "name": "Ike Barinholtz"
+        },
+        {
+          "id": "nm9434831",
+          "name": "Cristo Fernández"
         }
       ],
       "label": "Feb 19, 2027"
@@ -6673,10 +6701,6 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm0424060",
           "name": "Scarlett Johansson"
         },
@@ -6687,6 +6711,10 @@
         {
           "id": "nm0512934",
           "name": "Hamish Linklater"
+        },
+        {
+          "id": "nm0252230",
+          "name": "Chiwetel Ejiofor"
         }
       ],
       "label": "Mar 12, 2027"
@@ -6961,16 +6989,16 @@
           "name": "Will Angus"
         },
         {
+          "id": "nm13054067",
+          "name": "Emily Bruce"
+        },
+        {
           "id": "nm15016424",
           "name": "Chet Collins"
         },
         {
           "id": "nm14931055",
           "name": "Liam Cullagh"
-        },
-        {
-          "id": "nm6136586",
-          "name": "Evan Hengst"
         }
       ],
       "label": "Apr 09, 2027"
@@ -7656,6 +7684,10 @@
       ],
       "people": [
         {
+          "id": "nm4825178",
+          "name": "David Corenswet"
+        },
+        {
           "id": "nm6854116",
           "name": "Milly Alcock"
         },
@@ -7666,10 +7698,6 @@
         {
           "id": "nm0277213",
           "name": "Nathan Fillion"
-        },
-        {
-          "id": "nm1711114",
-          "name": "Skyler Gisondo"
         }
       ],
       "label": "Jul 09, 2027"
@@ -7697,10 +7725,6 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm0000379",
           "name": "Kirsten Dunst"
         },
@@ -7711,6 +7735,10 @@
         {
           "id": "nm0085312",
           "name": "Jack Black"
+        },
+        {
+          "id": "nm0177639",
+          "name": "Jennifer Coolidge"
         }
       ],
       "label": "Jul 23, 2027"
