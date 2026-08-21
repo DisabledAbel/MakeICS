@@ -90,7 +90,7 @@
           "number": 11,
           "name": "Kidding Around/Puppercorn Ruckus",
           "airdate": "2026-08-19",
-          "summary": "Sofia attends The Charmswell School for Royal Magic, where princes and princesses from the EverRealm continue their royal studies and learn magic.",
+          "summary": "Sofia makes a wish that accidentally turns her mom into a kid. Sofia helps Camila during a class project when they are overwhelmed by adorable puppercorns.",
           "url": "https://www.imdb.com/title/tt39364873/?ref_=ttep_ep_11"
         },
         {
@@ -2680,7 +2680,7 @@
           "number": 12,
           "name": "The Last Ghosts That Remain",
           "airdate": "2026-08-17",
-          "summary": "Russ and Pao glow after a breakthrough night. Patrick and Thais push John for a real apology. Kara and Guillermo struggle after a bad date. Rebecca asks a medium about Zied's double life. Shekinah and Sarper's meltdown keeps them from the group.",
+          "summary": "Russ and Pao celebrate a breakthrough. Patrick and Thais demand John apologize sincerely. Kara and Guillermo face tension after disappointing date. Rebecca consults medium about Zied's secrets. Shekinah and Sarper's conflict isolates them.",
           "url": "https://www.imdb.com/title/tt43685666/?ref_=ttep_ep_12"
         },
         {
@@ -4377,7 +4377,7 @@
           "number": 10,
           "name": "Witchin' Kitchen",
           "airdate": "2026-08-10",
-          "summary": null,
+          "summary": "Jon Knight's team transforms an outdated kitchen for a whimsical family with a toddler, creating a bright, functional space for cooking, gathering, and daily life.",
           "url": "https://www.imdb.com/title/tt42423573/?ref_=ttep_ep_10"
         },
         {
@@ -4385,7 +4385,7 @@
           "number": 11,
           "name": "Spa Day Every Day",
           "airdate": "2026-08-17",
-          "summary": null,
+          "summary": "Jon Knight's team transforms a couple's outdated primary suite in 72 hours, turning a cold, motel-like space into a cohesive, spa-like retreat for rest and connection.",
           "url": "https://www.imdb.com/title/tt42423582/?ref_=ttep_ep_11"
         },
         {
@@ -7040,7 +7040,7 @@
           "number": 12,
           "name": "Quarterfinals 1",
           "airdate": "2026-08-18",
-          "summary": null,
+          "summary": "Gifted amateurs showcase their skills before celebrity judges, vying for a prize that could transform their lives.",
           "url": "https://www.imdb.com/title/tt43754619/?ref_=ttep_ep_12"
         },
         {
@@ -8912,7 +8912,7 @@
           "number": 12,
           "name": "Connie Britton & Jimmy Fallon",
           "airdate": "2026-07-28",
-          "summary": "Jimmy Fallon and celebrity guest Connie Britton pair up with contestants for a word showdown featuring a rock 'n' roll-themed round; hosted by Keke Palmer, players guess secret passwords using one-word clues for a chance to win up to $25,000;",
+          "summary": "Jimmy Fallon and celebrity guest Connie Britton team up with contestants for a rock 'n' roll-themed word showdown.",
           "url": "https://www.imdb.com/title/tt43675288/?ref_=ttep_ep_12"
         },
         {
@@ -8920,7 +8920,7 @@
           "number": 13,
           "name": "Constance Wu & Jimmy Fallon",
           "airdate": "2026-08-04",
-          "summary": "Jimmy Fallon and celebrity guest Constance Wu pair up with contestants for a word showdown, featuring a round of \"fancy\" words; hosted by Keke Palmer, the players must guess secret passwords using one-word clues for a chance to win up to $25,000;",
+          "summary": "Jimmy Fallon and celebrity guest Constance Wu team up with contestants for a word showdown featuring sophisticated vocabulary.",
           "url": "https://www.imdb.com/title/tt43717826/?ref_=ttep_ep_13"
         },
         {
@@ -8928,7 +8928,7 @@
           "number": 14,
           "name": "When the Going Gets Tough: Darren Criss & Jimmy Fallon",
           "airdate": "2026-08-18",
-          "summary": "Jimmy Fallon and celebrity guest Darren Criss pair up with the contestants for a word showdown featuring a round of \"hard\" words; hosted by Keke Palmer, the players guess secret passwords using one-word clues for a chance to win up to $25,000;",
+          "summary": "Jimmy Fallon and celebrity guest Darren Criss team up with contestants for a word showdown featuring challenging vocabulary.",
           "url": "https://www.imdb.com/title/tt43727012/?ref_=ttep_ep_14"
         },
         {
@@ -11733,10 +11733,74 @@
       "title": "Body Cam",
       "episodes": [
         {
+          "season": 11,
+          "number": 1,
+          "name": "Mission Critical",
+          "airdate": "2026-07-15",
+          "summary": "In Maryland, a high-speed chase erupts when a serial dangerous driver strikes again. In Georgia, police hunt a bank robber. In Wisconsin, a gunfight breaks out when a lone officer confronts an armed man.",
+          "url": "https://www.imdb.com/title/tt44632265/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 11,
+          "number": 2,
+          "name": "Trust No One",
+          "airdate": "2026-07-22",
+          "summary": "In Ohio, a routine traffic stop leads to a dramatic chase, as police fight to stop a stolen truck with a hostage inside. In Connecticut, a domestic dispute takes a deadly turn when the suspect opens fire on officers at point-blank range.",
+          "url": "https://www.imdb.com/title/tt44632269/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 11,
+          "number": 3,
+          "name": "I'm Hit",
+          "airdate": "2026-07-29",
+          "summary": "In Wisconsin, police pursue a gang in a convoy of stolen luxury cars. In Colorado, a domestic dispute turns deadly. In California, Highway Patrol chases an armed man who has wounded an officer and hijacked his cruiser.",
+          "url": "https://www.imdb.com/title/tt44632273/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 11,
+          "number": 4,
+          "name": "One Step Ahead",
+          "airdate": "2026-08-05",
+          "summary": "In Colorado, a crime spree leads police on the hunt for a suspect wanted for the murder of a man found dead in a parking lot. In Florida, an officer puts his life on the line to apprehend an armed suspect wanted for domestic assault.",
+          "url": "https://www.imdb.com/title/tt44632278/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 11,
+          "number": 5,
+          "name": "Let's Do This",
+          "airdate": "2026-08-12",
+          "summary": "In California, deputies track an armed suspect and find themselves in a brutal gunfight. In Georgia, a routine traffic stop escalates into a life-or-death situation. In Utah, officers race to save a man in his burning car.",
+          "url": "https://www.imdb.com/title/tt44632285/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 11,
+          "number": 6,
+          "name": "High Speed Chaos",
+          "airdate": "2026-08-19",
+          "summary": "In Washington, officers respond to a domestic assault and potential hostage situation.",
+          "url": "https://www.imdb.com/title/tt44632287/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 11,
+          "number": 7,
+          "name": "Wake Up Call",
+          "airdate": "2026-08-26",
+          "summary": "In Florida, officers negotiate with a man brazenly wielding a machete as he takes a hostage. In Louisiana, a drug overdose call takes an unexpected turn. Back in Florida, deputies rush to save a mother and child in their submerged car.",
+          "url": "https://www.imdb.com/title/tt44632290/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 11,
+          "number": 9,
+          "name": "Ambush",
+          "airdate": "2026-09-09",
+          "summary": "In Washington, officers come under fire when a domestic dispute turns violent. In Maryland, detectives are on a hunt for a gunman who shot an officer. In Florida, a suspect with multiple warrants flees after a routine traffic stop.",
+          "url": "https://www.imdb.com/title/tt44632294/?ref_=ttep_ep_9"
+        },
+        {
           "season": 10,
           "number": 1,
           "name": "Show Me Your Hands",
-          "airdate": null,
+          "airdate": "2025-11-12",
           "summary": "In Colorado, a driver opens fire and sparks a high-speed pursuit that ends with a dramatic standoff. In Ohio, a man ignites gun battle with police, and in Florida, deputies race to find a missing autistic boy before he comes to harm.",
           "url": "https://www.imdb.com/title/tt39109937/?ref_=ttep_ep_1"
         },
@@ -11744,7 +11808,7 @@
           "season": 10,
           "number": 2,
           "name": "Race Against Time",
-          "airdate": null,
+          "airdate": "2025-11-19",
           "summary": "In Florida, desperate to stop a carjacking suspect, officers chase him through busy downtown streets. In Wisconsin officers rush to save victims of a brutal mass stabbing, launching a manhunt before the suspect can strike again.",
           "url": "https://www.imdb.com/title/tt39109938/?ref_=ttep_ep_2"
         },
@@ -11752,7 +11816,7 @@
           "season": 10,
           "number": 3,
           "name": "Danger Zone",
-          "airdate": null,
+          "airdate": "2025-12-03",
           "summary": "Oceanside police hunt down a violent criminal after a brutal domestic shooting. A reckless driver hurtles towards thousands of runners during a 10k event, and officers risk their lives to save residents trapped in a raging house fire.",
           "url": "https://www.imdb.com/title/tt39109945/?ref_=ttep_ep_3"
         },
@@ -11760,7 +11824,7 @@
           "season": 10,
           "number": 4,
           "name": "Danger in the Woods",
-          "airdate": null,
+          "airdate": "2025-12-10",
           "summary": "In Arizona, a police officer and firefighter respond to a serious vehicle collision. In Florida, police pursue a suspect who chooses an unexpected escape route, and in Georgia, officers hunt an armed man hiding out in the woods.",
           "url": "https://www.imdb.com/title/tt39109942/?ref_=ttep_ep_4"
         },
@@ -11768,7 +11832,7 @@
           "season": 10,
           "number": 5,
           "name": "White House of Horror",
-          "airdate": null,
+          "airdate": "2025-12-17",
           "summary": "In Indiana, a possible murder-kidnapping leads Evansville Police into an armed standoff with a suspect barricaded inside a house. In Florida, deputies launch a desperate rescue mission to save an unconscious man trapped on a runaway boat.",
           "url": "https://www.imdb.com/title/tt39109949/?ref_=ttep_ep_5"
         },
@@ -11776,7 +11840,7 @@
           "season": 10,
           "number": 6,
           "name": "Murder in Progress",
-          "airdate": null,
+          "airdate": "2026-01-07",
           "summary": "In Georgia, officers find a car with no sign of the driver, Aaron Davis, who was last seen with his best friend Brandon. Brandon seems cooperative when officers search his home, but when they sense foul play, he takes off running.",
           "url": "https://www.imdb.com/title/tt39109951/?ref_=ttep_ep_6"
         },
@@ -11784,7 +11848,7 @@
           "season": 10,
           "number": 7,
           "name": "Flames and Floods",
-          "airdate": null,
+          "airdate": "2026-01-14",
           "summary": "In Wisconsin, deputies fight for their lives in a burning home as a violent suspect seeks to end his life. In Tennessee, officers face a race against time to rescue innocent civilians trapped in the raging torrents of deadly flash floods.",
           "url": "https://www.imdb.com/title/tt39109954/?ref_=ttep_ep_7"
         },
@@ -11800,7 +11864,7 @@
           "season": 10,
           "number": 9,
           "name": "On the Edge",
-          "airdate": null,
+          "airdate": "2026-01-28",
           "summary": "In Ohio, Police fight to save the life of a woman held at knife-point, two repeat offenders lead police on a perilous pursuit, and in California, a Sheriff's helicopter unit battles to save a man clinging to a cliff.",
           "url": "https://www.imdb.com/title/tt39109959/?ref_=ttep_ep_9"
         },
@@ -11808,7 +11872,7 @@
           "season": 10,
           "number": 10,
           "name": "'Til the Wheels Fall Off",
-          "airdate": null,
+          "airdate": "2026-02-04",
           "summary": "In Oklahoma, a drug dealer leads police on a perilous pursuit down a busy interstate. In Michigan, an officer comes under fire from a masked gunman, and in Missouri, a sting operation goes wrong when the armed suspect takes off on foot.",
           "url": "https://www.imdb.com/title/tt39109961/?ref_=ttep_ep_10"
         }
@@ -11927,7 +11991,7 @@
           "number": 14,
           "name": "To Walk and Chew Gum",
           "airdate": "2026-04-15",
-          "summary": null,
+          "summary": "Kareem races against time to find the money.",
           "url": "https://www.imdb.com/title/tt41810729/?ref_=ttep_ep_14"
         },
         {
@@ -11935,7 +11999,7 @@
           "number": 15,
           "name": "The Black Mamba",
           "airdate": "2026-04-15",
-          "summary": null,
+          "summary": "Hunter is determined to expose the mole in the Oval Office. Richard threatens Naomi's job as she challenges his authority.",
           "url": "https://www.imdb.com/title/tt41810732/?ref_=ttep_ep_15"
         },
         {
@@ -14058,6 +14122,14 @@
           "url": "https://www.imdb.com/title/tt43754765/?ref_=ttep_ep_6"
         },
         {
+          "season": 13,
+          "number": 7,
+          "name": "Guest of Dishonor",
+          "airdate": null,
+          "summary": "The Jokers pretend to be overnight watchmen who don't know when to call it quits, before rallying bystanders to take their side in an unlawful arrest. But one loser will have to say \"I do\" to a punishment that brings out his feminine side.",
+          "url": "https://www.imdb.com/title/tt44603568/?ref_=ttep_ep_7"
+        },
+        {
           "season": 12,
           "number": 1,
           "name": "The Endless Esophagus",
@@ -14728,7 +14800,7 @@
           "number": 9,
           "name": "Duct Tape Dystopia/Farmer's Market Feud",
           "airdate": "2026-08-21",
-          "summary": null,
+          "summary": "Mr. Krabs repairs the Krusty Krab with duct tape, but quick fixes lead to a big headache. When he rents his parking lot for a farmer's market, the Planktons and Narwhals set up competing booths and reignite their family feud.",
           "url": "https://www.imdb.com/title/tt43756235/?ref_=ttep_ep_9"
         },
         {
@@ -24041,7 +24113,7 @@
           "number": 21,
           "name": "Fetal Personhood",
           "airdate": "2026-08-16",
-          "summary": "John Oliver discusses the fetal personhood movement going throughout USA to grant rights to fetuses and how it can impact negatively pregnant women and their family. He closes with an update on achieving all his terms in the way of becoming a soap opera star.",
+          "summary": "John Oliver discusses how some states in the U.S. have given rights to fetuses, where the idea came from, and where things could be headed next.",
           "url": "https://www.imdb.com/title/tt44203270/?ref_=ttep_ep_21"
         },
         {
@@ -24651,7 +24723,7 @@
         {
           "season": 1,
           "number": 38,
-          "name": "Episode #1.38",
+          "name": "Eres un asco de persona",
           "airdate": "2026-07-08",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43648960/?ref_=ttep_ep_38"
@@ -32092,6 +32164,290 @@
           "airdate": "2025-07-08",
           "summary": "Jaz preps for surgery. Nesha gets a health wake-up call. As Jaz recovers from a fall, both women face deep emotional reckonings. Reunited with her daughter, Jaz urges Nesha to make lasting changes of her own.",
           "url": "https://www.imdb.com/title/tt37351047/?ref_=ttep_ep_6"
+        }
+      ]
+    },
+    "tt41991040": {
+      "imdbId": "tt41991040",
+      "title": "9/11: Reunited",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Episode #1.1",
+          "airdate": "2026-08-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43958112/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Episode #1.2",
+          "airdate": "2026-08-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43958113/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": "2026-08-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43958114/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt0159876": {
+      "imdbId": "tt0159876",
+      "title": "Great Performances",
+      "episodes": [
+        {
+          "season": 52,
+          "number": 1,
+          "name": "Emigre",
+          "airdate": "2024-10-25",
+          "summary": "The New York Philharmonic and an international cast perform this semi-staged oratorio that tells the story of Jewish refugees during World War II. Following 1938's Kristallnacht - also known as The Night of Broken Glass - two brothers are sent halfway around the world to Shanghai to escape the Nazis. Otto cherishes his heritage, while Josef seeks a new path and falls in love with Lina, a Chinese woman recovering from the death of her mother in the Nanjing Massacre. A tale of love and loss directed by Mary Birnbaum and conducted by Long Yu, 'Great Performances - Émigré: A Musical Drama with the NY Phil' is set to music by film and concert composer Aaron Zigman with lyrics by Grammy-winning librettist Mark Campbell and additional lyrics by Brock Walsh. Co-commissioned by Maestro Long Yu, the Shanghai Symphony Orchestra and the New York Philharmonic, the 90-minute production was filmed on February 29 and March 1, 2024, at Lincoln Center's David Geffen Hall, home of the New York Philharmonic.",
+          "url": "https://www.imdb.com/title/tt33365610/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 52,
+          "number": 2,
+          "name": "Land of Gold",
+          "airdate": "2024-11-01",
+          "summary": "This installment explores the making of San Francisco Opera's 'Girls of the Golden West', which tells the turbulent story of the 1849 California Gold Rush. With the opera's title referencing Puccini's 1910 romantic opera 'The Girl of the Golden West', Pulitzer Prize-winning composer John Adams and famed director Peter Sellars' opera tells a harsher and more complex story through the letters of writer Louise Clappe who lived in a miners' settlement in 1850. Spotlighting the behind-the-scenes action during the opera's rehearsal process, the documentary highlights the creative process as actors and creative team grapple with the historical significance of the material and bringing it to the stage. Two stories are told: One on stage in the present day, and one in the past through the opera. Soprano Julia Bullock stars in the opera as Louise Clappe with mezzo-soprano J'Nai Bridges as Josefa Segovia, two women among the many men caught up in the quest for wealth in the lawless mountains. The talent includes: Jon Else - Documentary director // Peter Sellars - Director, 'Girls of the Golden West' // John Adams - Music // Julia Bullock - Soprano, as Louise Clappe in 'Girls of the Golden West' // J'Nai Bridges - Mezzo-soprano, as Josefa Segovia in 'Girls of the Golden West' // Ryan McKinny - Bass-baritone, as Clarence King in 'Girls of the Golden West' // Paul Appleby - Tenor, as Joe Cannon in 'Girls of the Golden West' // Elliot Madore - Baritone, as Ramone in 'Girls of the Golden West' // Lorena Feijoo - Dancer, as Lola Montez in 'Girls of the Golden West'.",
+          "url": "https://www.imdb.com/title/tt34386365/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 52,
+          "number": 3,
+          "name": "Patsy Cline: Walkin' After Midnight",
+          "airdate": "2024-11-22",
+          "summary": "Country music legend Patsy Cline was a trailblazer in her genre, paving the way for artists who followed in her footsteps. This fall, Great Performances presents Patsy Cline: Walkin' After Midnight, a star-studded concert filmed at the historic Ryman Auditorium, Patsy's home stage in Nashville, to celebrate her life, legacy and music. The concert features artists from numerous genres like country, pop, rock, gospel, bluegrass and more including Wynonna, Ashley McBryde, Grace Potter, Beverly D'Angelo, Crystal Gayle, Pat Benatar and Neil Giraldo, Mickey Guyton, Kristin Chenoweth, Rita Wilson, Natalie Grant, Kellie Pickler, Pam Tillis, Tigerlily Gold, Reyna Roberts, Tami Neilson, Tiera Kennedy, Mandy Barnett, Annie Bosko, The Isaacs and Home Free. The program also features archival interviews and commentary from fellow artists and those who knew Patsy including her husband, Charlie Dick, and friends like Loretta Lynn, Dottie West, Roy Clark and Owen Bradley.",
+          "url": "https://www.imdb.com/title/tt34851893/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 52,
+          "number": 4,
+          "name": "Henry Mancini: 100 at the Hollywood Bowl",
+          "airdate": "2024-11-29",
+          "summary": "Jeff Goldblum hosts a star-studded Hollywood Bowl concert celebrating Henry Mancini's 100th birthday, featuring Michael Bublé, Cynthia Erivo and others. Includes behind-the-scenes look at anniversary album with legendary artists.",
+          "url": "https://www.imdb.com/title/tt34821627/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 52,
+          "number": 6,
+          "name": "Movies for Grownups with AARP the Magazine",
+          "airdate": "2025-02-23",
+          "summary": "Celebrating shows and movies for people over 50; Glenn Close receives the Career Achievement Award.",
+          "url": "https://www.imdb.com/title/tt37137141/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 52,
+          "number": 7,
+          "name": "Andrea Bocelli 30th - The Celebration",
+          "airdate": null,
+          "summary": "Andrea Bocelli marks 30 years with a hometown concert at Teatro del Silenzio, Tuscany. Stars like Ed Sheeran, David Foster, Lang Lang join him for duets celebrating his repertoire. Directed by Sam Wrench.",
+          "url": "https://www.imdb.com/title/tt35601237/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 52,
+          "number": 9,
+          "name": "Now Hear This: Chopin's Polish Heart",
+          "airdate": "2025-04-11",
+          "summary": "Explore Chopin's musical evolution from Poland to Paris with Scott Yoo and pianist Jan Lisiecki.",
+          "url": "https://www.imdb.com/title/tt36628614/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 52,
+          "number": 10,
+          "name": "The Magic of Nureyev",
+          "airdate": "2025-04-11",
+          "summary": "Experience Rudolf Nureyev's revolutionary 1964 production of \"Swan Lake\" with ballerina Margot Fonteyn through extensive excerpts and interviews with their fellow dancers Michael Birkmeyer, Gisela Cech and others.",
+          "url": "https://www.imdb.com/title/tt35525109/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 52,
+          "number": 12,
+          "name": "Now Hear This: Boccherini: Night Music",
+          "airdate": "2025-04-18",
+          "summary": "Scott Yoo and musicians explore Madrid at night, discovering how Boccherini's love for the city shaped his 'Night Music of the Streets of Madrid' composition during his Spanish period.",
+          "url": "https://www.imdb.com/title/tt36627038/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 52,
+          "number": 13,
+          "name": "Now Hear This: Rachmaninoff Reborn",
+          "airdate": "2025-04-25",
+          "summary": "Rachmaninoff, a Russian aristocrat who lost everything to revolution, fled to New York. Host Scott Yoo explores his American life, piano recordings, and Swiss villa with musicians and artists, visiting Lake Lucerne, NY, and NJ.",
+          "url": "https://www.imdb.com/title/tt35747991/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 52,
+          "number": 14,
+          "name": "Now Hear This: Barrios: Chopin of the Guitar",
+          "airdate": "2025-05-02",
+          "summary": "Paraguayan guitarist Barrios rose from humble roots to worldwide fame, overcoming obstacles while blending classical and folk styles into groundbreaking compositions that shaped 20th-century guitar music.",
+          "url": "https://www.imdb.com/title/tt36823216/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 52,
+          "number": 15,
+          "name": "Next to Normal",
+          "airdate": "2025-05-09",
+          "summary": "A mother struggles with worsening bipolar disorder and the effects that her illness and its management have had on her family.",
+          "url": "https://www.imdb.com/title/tt8069966/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 52,
+          "number": 16,
+          "name": "Yellow Face",
+          "airdate": "2025-05-16",
+          "summary": "Asian American playwright protests \"yellowface\" in Miss Saigon, then accidentally casts a white actor as Asian lead in his own play",
+          "url": "https://www.imdb.com/title/tt36061885/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 52,
+          "number": 17,
+          "name": "Vienna Philharmonic Summer Night Concert 2025",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37056572/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 52,
+          "number": 18,
+          "name": "Girl from the North Country",
+          "airdate": "2025-05-23",
+          "summary": "Is a presentation of the stage musical Girl from the North Country (2024), filmed at the Belasco Theatre in New York City.",
+          "url": "https://www.imdb.com/title/tt37543775/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 52,
+          "number": 19,
+          "name": "Kiss Me, Kate",
+          "airdate": "2025-05-30",
+          "summary": "Cole Porter musical features hits like \"Another Op'nin', Another Show\" and \"So In Love.\" Stars Stephanie J. Block and Adrian Dunbar in a backstage romance directed by Bartlett Sher.",
+          "url": "https://www.imdb.com/title/tt35747990/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 51,
+          "number": 1,
+          "name": "New York City Ballet in Madrid",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt33365614/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 51,
+          "number": 4,
+          "name": "Message in a Bottle",
+          "airdate": "2023-11-03",
+          "summary": "Great Performances presents \"Message In A Bottle\", featuring the hits of 17-time Grammy-winning artist Sting with choreography by five-time Olivier Award nominee Kate Prince. The dance-theater production from London's Sadler's Wells Theatre tells the story of a family forced to leave their homeland and embark on a perilous journey to freedom. With musical arrangements by Alex Lacamoire (Broadway's \"Hamilton,\" \"Dear Evan Hansen\"), and a mix of dance styles performed by Kate Prince's ZooNation dance company, Great Performances: \"Message In A Bottle\" relays a quest for humanity and hope. Recorded in August 2022, the show features Sting's chart-topping hits including \"Every Breath You Take,\" \"Roxanne,\" \"Walking On The Moon\" and more.",
+          "url": "https://www.imdb.com/title/tt30110867/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 51,
+          "number": 5,
+          "name": "The LA Phil Celebrates Frank Gehry",
+          "airdate": null,
+          "summary": "Grammy Award-winning conductor Gustavo Dudamel, Music and Artistic Director of the Los Angeles Philharmonic, leads the orchestra in a star-studded concert celebrating the 20th anniversary of Walt Disney Concert Hall with a performance honoring the venue's maverick architect Frank Gehry. With performances by multi-Grammy Award winner and jazz musician Herbie Hancock, dancer and choreographer Lucinda Childs, and five-time Grammy winner H.E.R., the program includes the prelude to Bach's Partita in E, a work titled FOG by former LA Phil music director Esa-Pekka Salonen, Debussy's La Mer, and more.",
+          "url": "https://www.imdb.com/title/tt33365613/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 51,
+          "number": 6,
+          "name": "George Jones: Still Playin' Possum",
+          "airdate": null,
+          "summary": "Honoring one of the most influential, storied and beloved country music icons in history, Great Performances - George Jones: Still Playin' Possum is an all-star celebration. Jones' hits including \"I Don't Need Your Rockin' Chair,\" \"The Race Is On,\" \"He Stopped Loving Her Today\" and many more are performed by Travis Tritt, Tanya Tucker, Brad Paisley, Jelly Roll, Dierks Bentley, Sam Moore, Wynonna, Jamey Johnson, Uncle Kracker, Trace Adkins, Lorrie Morgan, Joe Nichols and other country stars accompanied by a band of Nashville's top players. Recorded April 25, 2023, at from the Von Braun Center in Huntsville, Alabama, the tribute marked the 10th anniversary of Jones' passing.",
+          "url": "https://www.imdb.com/title/tt33365612/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 51,
+          "number": 7,
+          "name": "Making Shakespeare: The First Folio",
+          "airdate": "2023-11-17",
+          "summary": "Celebrate the 400th anniversary of Shakespeare's First Folio, which saved 18 plays from being lost. The film also spotlights how New York City's Public Theater presents Shakespeare's work for today's audiences.",
+          "url": "https://www.imdb.com/title/tt30228994/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 51,
+          "number": 8,
+          "name": "From Vienna: The New Year's Celebration 2024",
+          "airdate": "2024-01-01",
+          "summary": "The Vienna Philharmonic rings in the New Year at the Musikverein in Vienna with host Hugh Bonneville and the Vienna City Ballet.",
+          "url": "https://www.imdb.com/title/tt32385289/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 51,
+          "number": 14,
+          "name": "Now Hear This: Rising Stars",
+          "airdate": "2024-04-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32190188/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 51,
+          "number": 15,
+          "name": "Now Hear This: Virtuosos",
+          "airdate": "2024-04-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32190396/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 51,
+          "number": 16,
+          "name": "Now Hear This: Old Friends",
+          "airdate": "2024-04-26",
+          "summary": "Exploring how virtuosos become maestros and their guiding principles through Scott Yoo's friendships with cellist Yo-Yo Ma, pianist Richard Kogan and violinist Lynn Chang.",
+          "url": "https://www.imdb.com/title/tt32231550/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 51,
+          "number": 17,
+          "name": "Now Hear This: The Composer is Yoo",
+          "airdate": "2024-05-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32231694/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 51,
+          "number": 19,
+          "name": "Hamlet (2023)",
+          "airdate": "2024-05-10",
+          "summary": "From The Public Theater's Free Shakespeare in the Park at The Delacorte Theater in Central Park, experience this Shakespearean classic directed by Tony Award winner Kenny Leon featuring Tony Award nominee Ato Blankson-Wood (\"Slave Play\") in the title role and Solea Pfeiffer as Ophelia (\"Hadestown\").",
+          "url": "https://www.imdb.com/title/tt32268627/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 51,
+          "number": 20,
+          "name": "Audra McDonald at the London Palladium",
+          "airdate": "2024-05-17",
+          "summary": "Filmed in September of 2022.",
+          "url": "https://www.imdb.com/title/tt32268471/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 51,
+          "number": 21,
+          "name": "Purlie Victorious",
+          "airdate": "2024-05-24",
+          "summary": "This revival of the 1961 play \"Purlie Victorious: A Non-Confederate Romp Through the Cotton Patch,\" by the legendary Ossie Davis tells the story of a Black preacher's scheme to reclaim his inheritance and win back his church from a plantation owner.",
+          "url": "https://www.imdb.com/title/tt32268453/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 51,
+          "number": 22,
+          "name": "Rodgers & Hammerstein's 80th Anniversary",
+          "airdate": "2024-05-31",
+          "summary": "Directed and choreographed by Christopher Gattelli, Rodgers and Hammerstein's 80th Anniversary features an all-star cast at London's Theatre Royal Drury Lane, including Michael Ball, Daniel Dae Kim, Maria Friedman, Audra McDonald, Julian Ovenden and more.",
+          "url": "https://www.imdb.com/title/tt32268424/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 51,
+          "number": 26,
+          "name": "Vienna Philharmonic Summer Night Concert 2024",
+          "airdate": "2024-08-23",
+          "summary": "Vienna Philharmonic performs an open-air concert conducted by Andris Nelsons and featuring opera singer Lise Davidsen.",
+          "url": "https://www.imdb.com/title/tt34313928/?ref_=ttep_ep_26"
         }
       ]
     }
