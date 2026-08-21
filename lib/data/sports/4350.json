@@ -886,7 +886,7 @@
     {
       "idEvent": "2487489",
       "idAPIfootball": "1550931",
-      "strTimestamp": "2026-08-22T03:00:00",
+      "strTimestamp": "2026-08-22T03:10:00",
       "strEvent": "Juárez vs América",
       "strEventAlternate": "América @ Juárez",
       "strFilename": "Mexican Liga MX 2026-08-22 Juárez vs América",
@@ -904,7 +904,7 @@
       "strWeather": "",
       "dateEvent": "2026-08-22",
       "dateEventLocal": "2026-08-21",
-      "strTime": "03:00:00",
+      "strTime": "03:10:00",
       "strTimeLocal": "21:00:00",
       "strGroup": "",
       "idHomeTeam": "136855",
