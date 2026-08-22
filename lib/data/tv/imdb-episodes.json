@@ -6164,7 +6164,7 @@
           "number": 1,
           "name": "New Year's Evil",
           "airdate": "2026-01-06",
-          "summary": null,
+          "summary": "TNA's Leon Slater challenges Oba Femi for the NXT Title; Jacy Jayne defends the NXT Women's Title against WWE Evolve Women's Champion Kendal Grey; Tatum Paxley seeks retribution against lzzi Dame for her actions at Gold Rush.",
           "url": "https://www.imdb.com/title/tt38984150/?ref_=ttep_ep_1"
         },
         {
@@ -6172,7 +6172,7 @@
           "number": 2,
           "name": "Episode #20.2",
           "airdate": "2026-01-13",
-          "summary": null,
+          "summary": "Joe Hendry looks to settle the score with Dark State in a No Disqualification Match against Dion Lennox; Jasper Troy defends the Speed Title against Tavion Heights; Lola Vice goes one-on-one with Kelani Jordan.",
           "url": "https://www.imdb.com/title/tt39306253/?ref_=ttep_ep_2"
         },
         {
@@ -6180,7 +6180,7 @@
           "number": 3,
           "name": "Episode #20.3",
           "airdate": "2026-01-20",
-          "summary": null,
+          "summary": "The NXT Title Six-Man Ladder Match Qualifiers begin. Ethan Page defends the NXT North American Championship against newcomer Elio LeFleur. ZaRuca, WrenQCC, and Fatal lnfluence collide in a TNA Knockouts Tag Team Title #1 Contender's Match.",
           "url": "https://www.imdb.com/title/tt39306255/?ref_=ttep_ep_3"
         },
         {
@@ -6188,7 +6188,7 @@
           "number": 4,
           "name": "Episode #20.4",
           "airdate": "2026-01-27",
-          "summary": null,
+          "summary": "OTM challenge DarkState for the NXT Tag Team Championship; Qualifying Matches continue for the NXT Title Six-Man Ladder Match; Nikkita Lyons offers a favor to Blake Monroe by challenging Jaida Parker to a match.",
           "url": "https://www.imdb.com/title/tt39306256/?ref_=ttep_ep_4"
         },
         {
@@ -10117,7 +10117,7 @@
           "number": 22,
           "name": "Episode #28.22",
           "airdate": "2026-08-20",
-          "summary": null,
+          "summary": "It's the fallout from the shocker of the season; then Angela, Haley, and Kamu clash at The BB Block Buster. One will win safety, and one will be the next evicted.",
           "url": "https://www.imdb.com/title/tt43650777/?ref_=ttep_ep_22"
         },
         {
@@ -10139,9 +10139,9 @@
         {
           "season": 28,
           "number": 25,
-          "name": "Episode #28.25",
+          "name": "1000th Episode",
           "airdate": "2026-08-27",
-          "summary": null,
+          "summary": "The historic night will feature surprise appearances from former houseguests determined by interactive fan votes and kick off the biggest twist of the summer. The show will look back at some of the most memorable moments from its historic 26-year run and shift into overdrive with the BB Blockbuster and a live eviction.",
           "url": "https://www.imdb.com/title/tt43650781/?ref_=ttep_ep_25"
         },
         {
@@ -14122,14 +14122,6 @@
           "url": "https://www.imdb.com/title/tt43754765/?ref_=ttep_ep_6"
         },
         {
-          "season": 13,
-          "number": 7,
-          "name": "Guest of Dishonor",
-          "airdate": null,
-          "summary": "The Jokers pretend to be overnight watchmen who don't know when to call it quits, before rallying bystanders to take their side in an unlawful arrest. But one loser will have to say \"I do\" to a punishment that brings out his feminine side.",
-          "url": "https://www.imdb.com/title/tt44603568/?ref_=ttep_ep_7"
-        },
-        {
           "season": 12,
           "number": 1,
           "name": "The Endless Esophagus",
@@ -16226,6 +16218,14 @@
           "url": "https://www.imdb.com/title/tt44127362/?ref_=ttep_ep_13"
         },
         {
+          "season": 22,
+          "number": 14,
+          "name": "Curse of the Hybrids",
+          "airdate": "2026-08-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44686847/?ref_=ttep_ep_14"
+        },
+        {
           "season": 21,
           "number": 1,
           "name": "The Wild West",
@@ -16624,7 +16624,7 @@
           "number": 15,
           "name": "Alien Close Encounters",
           "airdate": "2026-08-07",
-          "summary": null,
+          "summary": "An exploration of strange and inexplicable mysteries. Contributions from scientists, historians and witnesses as they seek to shed light on how the impossible can happen.",
           "url": "https://www.imdb.com/title/tt43825491/?ref_=ttep_ep_15"
         },
         {
@@ -16634,6 +16634,14 @@
           "airdate": "2026-08-14",
           "summary": "Why did so many ancient people, separated by oceans and centuries, return to the same monumental shape? Were pyramids simply the most practical way to build toward the sky--or could they reveal a deeper pattern of sacred knowledge?",
           "url": "https://www.imdb.com/title/tt43825569/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 8,
+          "number": 17,
+          "name": "Buried Mysteries",
+          "airdate": "2026-08-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44686799/?ref_=ttep_ep_17"
         },
         {
           "season": 7,
@@ -24731,7 +24739,7 @@
         {
           "season": 1,
           "number": 39,
-          "name": "Episode #1.39",
+          "name": "No voy a renunciar al amor",
           "airdate": "2026-07-09",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43648964/?ref_=ttep_ep_39"
@@ -24739,7 +24747,7 @@
         {
           "season": 1,
           "number": 40,
-          "name": "Episode #1.40",
+          "name": "Donde más le duele a Sofía",
           "airdate": "2026-07-10",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43648962/?ref_=ttep_ep_40"
@@ -25379,8 +25387,8 @@
         {
           "season": 3,
           "number": 5,
-          "name": "It All Happened So Fast",
-          "airdate": "2026-08-27",
+          "name": "The Lucky Ones",
+          "airdate": "2026-08-26",
           "summary": "A mysterious signal traces back to Ross as an investigation on Homebase takes an unexpected turn.",
           "url": "https://www.imdb.com/title/tt37519717/?ref_=ttep_ep_5"
         },
@@ -26349,7 +26357,7 @@
         {
           "season": 1,
           "number": 4,
-          "name": "Episode #1.4",
+          "name": "Hell Is Other People",
           "airdate": "2026-08-28",
           "summary": "An explosion at the park draws Anna into a case beyond its borders.",
           "url": "https://www.imdb.com/title/tt37775053/?ref_=ttep_ep_4"
@@ -26960,7 +26968,7 @@
           "number": 2,
           "name": "The Game Makers",
           "airdate": "2026-08-09",
-          "summary": "Mega-Brands That Built America - The Game Makers - Mark Goodson and Merv Griffin wage a three-decades battle to reinvent the television game show, creating iconic franchises with spinning wheels, buzzers, and catchphrases that become ingrained in American culture.",
+          "summary": "Mark Goodson and Merv Griffin compete for three decades to transform TV game shows, launching legendary series featuring spinning wheels, buzzers, and catchphrases that embed themselves in American culture.",
           "url": "https://www.imdb.com/title/tt43744933/?ref_=ttep_ep_2"
         },
         {
@@ -28647,9 +28655,9 @@
         {
           "season": 1,
           "number": 1,
-          "name": "Episode #1.1",
+          "name": "The Tesla Terrorizer",
           "airdate": "2026-08-05",
-          "summary": null,
+          "summary": "Tizzy hunts down a pipe-wielding road-rager terrorizing drivers throughout LA.",
           "url": "https://www.imdb.com/title/tt43751402/?ref_=ttep_ep_1"
         }
       ]
@@ -28809,54 +28817,6 @@
           "airdate": "2025-02-13",
           "summary": "The floor of the exchange heats up as the IPO goes live. Will Munira and Farida's hard work finally rise to the occasion or plummet to new lows?",
           "url": "https://www.imdb.com/title/tt35764225/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 1,
-          "number": 1,
-          "name": "Bank of Tomorrow",
-          "airdate": "2023-02-08",
-          "summary": "As the ink dries on her divorce papers, Farida contends with her new reality. A charity auction reignites a friendly rivalry between her and Munira.",
-          "url": "https://www.imdb.com/title/tt26249534/?ref_=ttep_ep_1"
-        },
-        {
-          "season": 1,
-          "number": 2,
-          "name": "It's a Man's World",
-          "airdate": "2023-02-08",
-          "summary": "On their first days at work and school, Farida seeks an alliance and Jude keeps a low profile. Feeling unheard, Munira takes matters into her own hands.",
-          "url": "https://www.imdb.com/title/tt26258694/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 1,
-          "number": 3,
-          "name": "Thicker than Milk",
-          "airdate": "2023-02-08",
-          "summary": "As the family meticulously plans for its matriarch's 80th, Munira finds tactical inspiration in an unlikely place. Farida pursues more independence.",
-          "url": "https://www.imdb.com/title/tt26674252/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 1,
-          "number": 4,
-          "name": "Short and Distort",
-          "airdate": "2023-02-08",
-          "summary": "The duo's success lands them in the limelight, but the bank's secret plan finds them between a rock and a hard place - and snubbed by their loved ones.",
-          "url": "https://www.imdb.com/title/tt26674254/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 1,
-          "number": 5,
-          "name": "The Silent Partner",
-          "airdate": "2023-02-08",
-          "summary": "After realizing that their presence in an important meeting is merely for show, Farida and Munira forge their own path - despite external distractions.",
-          "url": "https://www.imdb.com/title/tt26674255/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 1,
-          "number": 6,
-          "name": "What Goes Up",
-          "airdate": "2023-02-08",
-          "summary": "As the 1987 market crash looms, the Exchange braces for a critical all-nighter. Putting their personal lives on hold, Farida and Munira join the storm.",
-          "url": "https://www.imdb.com/title/tt26674257/?ref_=ttep_ep_6"
         }
       ]
     },
@@ -32116,6 +32076,30 @@
           "airdate": "2026-08-25",
           "summary": "After weight loss surgery, Jaz is now bedbound, causing friction with Nesha. Tensions rise as Nesha seeks income while Jaz worries about her upcoming doctor's visit.",
           "url": "https://www.imdb.com/title/tt43697601/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Abs-olutely Not",
+          "airdate": "2026-09-08",
+          "summary": "Jaz must face reality after learning that she has gained weight... but she decides to delay a painful lecture from Dr. Nouri until after her birthday party and a first date. Meanwhile, Nesha goes to a cult support group and must confront her painful past.",
+          "url": "https://www.imdb.com/title/tt44645909/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "name": "Episode #2.4",
+          "airdate": "2026-09-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44645930/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 22,
+          "name": "Episode #2.5",
+          "airdate": "2026-09-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44645959/?ref_=ttep_ep_5"
         },
         {
           "season": 1,
