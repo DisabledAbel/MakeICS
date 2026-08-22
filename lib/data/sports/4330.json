@@ -484,7 +484,7 @@
       "strTweet1": "",
       "strVideo": "",
       "strStatus": "PST",
-      "strPostponed": "no",
+      "strPostponed": "yes",
       "strLocked": "unlocked"
     },
     {
@@ -528,7 +528,7 @@
       "strTweet1": "",
       "strVideo": "",
       "strStatus": "PST",
-      "strPostponed": "no",
+      "strPostponed": "yes",
       "strLocked": "unlocked"
     },
     {
@@ -571,7 +571,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
