@@ -6934,22 +6934,6 @@
       "label": "Apr 09, 2027"
     },
     {
-      "id": "tt13655056",
-      "title": "Get Lite",
-      "releaseDate": "Fri, 09 Apr 2027 00:00:00 GMT",
-      "genres": [
-        "Drama",
-        "Music"
-      ],
-      "people": [
-        {
-          "id": "nm4977564",
-          "name": "Storm Reid"
-        }
-      ],
-      "label": "Apr 09, 2027"
-    },
-    {
       "id": "tt34900169",
       "title": "Panic Carefully",
       "releaseDate": "Fri, 09 Apr 2027 00:00:00 GMT",
@@ -7828,16 +7812,12 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
+          "id": "nm3148372",
+          "name": "Melanie Zanetti"
         },
         {
           "id": "nm1256136",
           "name": "David McCormack"
-        },
-        {
-          "id": "nm3148372",
-          "name": "Melanie Zanetti"
         }
       ],
       "label": "Aug 06, 2027"
@@ -7855,6 +7835,10 @@
         {
           "id": "nm6043149",
           "name": "J.D."
+        },
+        {
+          "id": "nm9474618",
+          "name": "Myles Bullock"
         }
       ],
       "label": "Aug 06, 2027"
@@ -7913,6 +7897,22 @@
         }
       ],
       "label": "Aug 13, 2027"
+    },
+    {
+      "id": "tt13655056",
+      "title": "Get Lite",
+      "releaseDate": "Fri, 20 Aug 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm4977564",
+          "name": "Storm Reid"
+        }
+      ],
+      "label": "Aug 20, 2027"
     }
   ]
 }
