@@ -922,7 +922,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=NpHawfZMn_o",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -1010,8 +1010,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "HT",
+      "strVideo": "https://www.youtube.com/watch?v=7ETTMbmx8KQ",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -1054,8 +1054,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "HT",
+      "strVideo": "https://www.youtube.com/watch?v=1XeX6rqjY3k",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -1098,7 +1098,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=JfGtbAEat4U",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
