@@ -98,15 +98,15 @@
           "number": 12,
           "name": "The Enchanted Lake/Tricky Trixie",
           "airdate": null,
-          "summary": null,
+          "summary": "Zane releases a mischievous goblin to help win a Hallow's Eve decoration contest. Lucinda the Witch and Camila spend All Hallow's Eve with Sofia.",
           "url": "https://www.imdb.com/title/tt39364974/?ref_=ttep_ep_12"
         },
         {
           "season": 1,
           "number": 13,
-          "name": "Episode #1.13",
+          "name": "The Enchanted Lake/Tricky Trixie",
           "airdate": null,
-          "summary": null,
+          "summary": "Zane accidentally loses Layla's treasured notebook in the Charmswell lake. Camila lets a friendly troll borrow her wand, and the troll runs away with it.",
           "url": "https://www.imdb.com/title/tt39365193/?ref_=ttep_ep_13"
         },
         {
@@ -4392,7 +4392,7 @@
           "season": 1,
           "number": 12,
           "name": "Episode #1.12",
-          "airdate": "2026-08-24",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt42423585/?ref_=ttep_ep_12"
         },
@@ -4400,7 +4400,7 @@
           "season": 1,
           "number": 13,
           "name": "Episode #1.13",
-          "airdate": "2026-08-31",
+          "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt42423588/?ref_=ttep_ep_13"
         }
@@ -14804,6 +14804,30 @@
           "url": "https://www.imdb.com/title/tt44043815/?ref_=ttep_ep_10"
         },
         {
+          "season": 17,
+          "number": 11,
+          "name": "Episode #17.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44686997/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 17,
+          "number": 12,
+          "name": "Episode #17.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44686998/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 17,
+          "number": 13,
+          "name": "Episode #17.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44686999/?ref_=ttep_ep_13"
+        },
+        {
           "season": 16,
           "number": 4,
           "name": "SpongeBob and Patrick's Timeline Twist-Up",
@@ -20704,7 +20728,7 @@
           "number": 36,
           "name": "Episode #4.36",
           "airdate": "2026-08-22",
-          "summary": null,
+          "summary": "Only a week before her All In: London match against Mercedes Mone, All Elite Wrestling's 2 Women World Champion Willow Nightingale defends her title against the young rising star TBS Champion Maya World; AEW Collision is live from Reading!",
           "url": "https://www.imdb.com/title/tt43691711/?ref_=ttep_ep_36"
         },
         {
@@ -28659,6 +28683,22 @@
           "airdate": "2026-08-05",
           "summary": "Tizzy hunts down a pipe-wielding road-rager terrorizing drivers throughout LA.",
           "url": "https://www.imdb.com/title/tt43751402/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Episode #1.2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44689040/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44689041/?ref_=ttep_ep_3"
         }
       ]
     },
@@ -28817,6 +28857,54 @@
           "airdate": "2025-02-13",
           "summary": "The floor of the exchange heats up as the IPO goes live. Will Munira and Farida's hard work finally rise to the occasion or plummet to new lows?",
           "url": "https://www.imdb.com/title/tt35764225/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Bank of Tomorrow",
+          "airdate": "2023-02-08",
+          "summary": "As the ink dries on her divorce papers, Farida contends with her new reality. A charity auction reignites a friendly rivalry between her and Munira.",
+          "url": "https://www.imdb.com/title/tt26249534/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "It's a Man's World",
+          "airdate": "2023-02-08",
+          "summary": "On their first days at work and school, Farida seeks an alliance and Jude keeps a low profile. Feeling unheard, Munira takes matters into her own hands.",
+          "url": "https://www.imdb.com/title/tt26258694/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Thicker than Milk",
+          "airdate": "2023-02-08",
+          "summary": "As the family meticulously plans for its matriarch's 80th, Munira finds tactical inspiration in an unlikely place. Farida pursues more independence.",
+          "url": "https://www.imdb.com/title/tt26674252/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Short and Distort",
+          "airdate": "2023-02-08",
+          "summary": "The duo's success lands them in the limelight, but the bank's secret plan finds them between a rock and a hard place - and snubbed by their loved ones.",
+          "url": "https://www.imdb.com/title/tt26674254/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "The Silent Partner",
+          "airdate": "2023-02-08",
+          "summary": "After realizing that their presence in an important meeting is merely for show, Farida and Munira forge their own path - despite external distractions.",
+          "url": "https://www.imdb.com/title/tt26674255/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "What Goes Up",
+          "airdate": "2023-02-08",
+          "summary": "As the 1987 market crash looms, the Exchange braces for a critical all-nighter. Putting their personal lives on hold, Farida and Munira join the storm.",
+          "url": "https://www.imdb.com/title/tt26674257/?ref_=ttep_ep_6"
         }
       ]
     },
@@ -32432,6 +32520,315 @@
           "airdate": "2024-08-23",
           "summary": "Vienna Philharmonic performs an open-air concert conducted by Andris Nelsons and featuring opera singer Lise Davidsen.",
           "url": "https://www.imdb.com/title/tt34313928/?ref_=ttep_ep_26"
+        }
+      ]
+    },
+    "tt0398584": {
+      "imdbId": "tt0398584",
+      "title": "This Week",
+      "episodes": []
+    },
+    "tt0211159": {
+      "imdbId": "tt0211159",
+      "title": "NFL Films Presents",
+      "episodes": []
+    },
+    "tt3260534": {
+      "imdbId": "tt3260534",
+      "title": "Little League Baseball World Series",
+      "episodes": []
+    },
+    "tt0437745": {
+      "imdbId": "tt0437745",
+      "title": "Robot Chicken",
+      "episodes": [
+        {
+          "season": 11,
+          "number": 0,
+          "name": "The Bleepin' Robot Chicken Archie Comics Special",
+          "airdate": "2021-05-24",
+          "summary": "Archie faces the action packed return of Josie and the Pussycats from outer space to Riverdale; featuring the origin of Archie Andrews.",
+          "url": "https://www.imdb.com/title/tt14502678/?ref_=ttep_ep"
+        },
+        {
+          "season": 11,
+          "number": 7,
+          "name": "May Cause a Whole Lotta Scabs",
+          "airdate": "2021-09-07",
+          "summary": "Robot Chicken takes Inside Out's Riley further inside and even more out; The Red Skull battles his ultimate nemesis loneliness; Rey gets more than she bargained for at the Skywalker homestead.",
+          "url": "https://www.imdb.com/title/tt15214692/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 11,
+          "number": 8,
+          "name": "May Cause Light Cannibalism",
+          "airdate": "2021-09-08",
+          "summary": "The Gargoyles get as hard as stone, if you know what Robot Chicken means; Solid Snake must master the walk of shame; The Avengers learn to curb their enthusiasm.",
+          "url": "https://www.imdb.com/title/tt15243576/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 11,
+          "number": 9,
+          "name": "May Cause Immaculate Conception",
+          "airdate": "2021-09-09",
+          "summary": "Robot Chicken asks if Totoro is overweight and doesn't like the answer; Jigsaw outgrows his tricycle; The Washington Generals destroy the entire world of basketball.",
+          "url": "https://www.imdb.com/title/tt15329618/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 11,
+          "number": 10,
+          "name": "May Cause the Exact Thing You're Taking This to Avoid",
+          "airdate": "2021-09-10",
+          "summary": "The Robot Chicken writers think Disney is running out of classics to remake; Luke Skywalker is a little too comfy inside that Taunaun; Midsommars' big problem was it wasn't cute enough.",
+          "url": "https://www.imdb.com/title/tt15329998/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 11,
+          "number": 13,
+          "name": "May Cause Indecision... Or Not",
+          "airdate": "2022-02-21",
+          "summary": "According to Robot Chicken, Fred Flintstone's meaning of Christmas is madness; Freddy Krueger's nightmare is a weirdo's wet dream; We interview a toilet.",
+          "url": "https://www.imdb.com/title/tt17595368/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 11,
+          "number": 14,
+          "name": "May Cause One Year of Orange Poop",
+          "airdate": "2021-09-14",
+          "summary": "Robot Chicken shows you how Batman Beyond's training goes way beyond Batman's training; A deleted scene makes Cats a masterpiece; Bitch Pudding is determined to bring it on.",
+          "url": "https://www.imdb.com/title/tt15391328/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 11,
+          "number": 15,
+          "name": "May Cause Random Wolf Attacks",
+          "airdate": "2021-09-15",
+          "summary": "Robot Chicken locks and loads for a Darkwing Duck hunt; the show's greatest warriors assemble for a battle beyond the stars; even Cobra Commander can't resist the Tiger King.",
+          "url": "https://www.imdb.com/title/tt15391760/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 11,
+          "number": 16,
+          "name": "May Cause Lucid Murder Dreams",
+          "airdate": "2021-09-16",
+          "summary": "Naruto has trained and the Robot Chicken writers see if he's ready for the test or not; The Force evolves into something new and deadly; Robot Chicken teaches Martin Scorcese a few things about filmmaking.",
+          "url": "https://www.imdb.com/title/tt15421784/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 11,
+          "number": 17,
+          "name": "May Cause Numb Butthole",
+          "airdate": "2021-09-17",
+          "summary": "Robot Chicken writers had fun in health class, but it's no laughing matter if you're an Alien; The Kingdom Hearts gang has another use for their keys; The Robot Chicken Nerd has a monstrous Housewives nightmare.",
+          "url": "https://www.imdb.com/title/tt15421794/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 11,
+          "number": 18,
+          "name": "May Cause Internal Diarrhea",
+          "airdate": "2022-03-28",
+          "summary": "Robot Chicken helps Dexter bring his robot mother to market but buyers go off-label; the Itsy Bitsy Spider doesn't know what the hell he's doing; visiting the land of Disney's dead parents.",
+          "url": "https://www.imdb.com/title/tt18394208/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 11,
+          "number": 19,
+          "name": "May Cause Weebles to Fall Down",
+          "airdate": "2022-04-04",
+          "summary": "Once again it's time for Discovery's Mark Week courtesy of Robot Chicken; nobody realizes Daria is being sarcastic until it's too late; the Wayne family's Murder Alley gets commercialized and Bruce is mad.",
+          "url": "https://www.imdb.com/title/tt19038082/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 11,
+          "number": 20,
+          "name": "May Cause Season 11 to End",
+          "airdate": "2022-04-11",
+          "summary": "The Robot Chicken gang thinks Barbie George Washington would've made a fine Floundering Father; The Nerd fixes the Mandela Effect with disastrous results; Robot Chicken says farewell, but not goodbye.",
+          "url": "https://www.imdb.com/title/tt19038080/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 11,
+          "number": 21,
+          "name": "May Cause the Need for Speed",
+          "airdate": "2021-09-21",
+          "summary": "The Robot Chicken introduces Velma to a whole new benefit of joining the Scooby gang; The Care Bears are a friend to girls everywhere when you know; The Nerd explores the pros and cons of The Sims' sexuality.",
+          "url": "https://www.imdb.com/title/tt15446330/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 11,
+          "number": 22,
+          "name": "May Cause Your Dad to Come Back With That Gallon of Milk He Went Out for 10 Years Ago",
+          "airdate": "2021-09-22",
+          "summary": "Can Peppa Pig's love of muddy puddles do her dirty? Robot Chicken says yes; Smaug has another use for Hobbits; Feivel discovers being an American citizen comes with shocking responsibilities.",
+          "url": "https://www.imdb.com/title/tt15446350/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 11,
+          "number": 23,
+          "name": "May Cause Episode Title to Cut Off Due to Word Lim",
+          "airdate": "2021-09-23",
+          "summary": "Robot Chicken helps George RR Martin finish his novel; The Road Runner knows how to exploit the Coyote; The Mos Eisley Cantina is an unlikely but perfect spot for a bachelorette party.",
+          "url": "https://www.imdb.com/title/tt15446360/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 11,
+          "number": 24,
+          "name": "Happy Russian Deathdog Dolloween 2 U",
+          "airdate": "2021-09-24",
+          "summary": "In this terribly terrific Robot Chicken tale, treasure the trials and tribulations of a time-twisted teenager's toxic tussle with tons of terror on, uh, Halloween.",
+          "url": "https://www.imdb.com/title/tt15446364/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 10,
+          "number": 3,
+          "name": "Fila Ogden in: Maggie's Got a Full Load",
+          "airdate": "2019-10-06",
+          "summary": "April O'Neil and Donald Trump sit down and get to the truth about Shredder. We get a first glimpse at the next (and greatest) The Fast and The Furious movies. The RC Writers show us what happened to Pee Wee's Playhouse while he was out looking for his stolen bicycle.",
+          "url": "https://www.imdb.com/title/tt11010986/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 10,
+          "number": 4,
+          "name": "Hermie Nursery in: Seafood Sensation",
+          "airdate": "2019-10-06",
+          "summary": "The Queer Eye guys take on their greatest challenge - The Babadook! Princess Leia gets blasted into space and emerges as Super Space Leia. And Robot Chicken puts together a musical number starring Offred and Commander Waterford from A Handmaid's Tale will delight your ear holes.",
+          "url": "https://www.imdb.com/title/tt11010988/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 10,
+          "number": 5,
+          "name": "Garfield Stockman in: A Voice Like Wet Ham",
+          "airdate": "2019-10-13",
+          "summary": "Freddy Krueger is getting married and just wants an answer to one simple question: Who is his father? The RC team shows what it's like being the daughter of a plastic Army Man. The Totally Spies girls learn what it's like to violate international law...and get PTSD.",
+          "url": "https://www.imdb.com/title/tt11084556/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 10,
+          "number": 6,
+          "name": "Boogie Bardstown in: No Need, I Have Coupons",
+          "airdate": "2019-10-13",
+          "summary": "The RC creators imagine what would have happened if Stretch Armstrong had lived during Medieval times. The G.I. Joe team realizes that solving real world problems aren't so easy. Gordon Ramsey gets some pretty impressive celebrity chef's to be on his show, including the Thetans!",
+          "url": "https://www.imdb.com/title/tt11084560/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 10,
+          "number": 7,
+          "name": "Snoopy Camino Lindo in: Quick and Dirty Squirrel Shot",
+          "airdate": "2019-10-20",
+          "summary": "The Scooby Gang saves Velma from getting cancer. We see what really happened on board Noah's ark. The Robot Chicken writers wonder what happens to all the toys that have ever been recalled.",
+          "url": "https://www.imdb.com/title/tt11084564/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 10,
+          "number": 8,
+          "name": "Molly Lucero in: Your Friend's Boob",
+          "airdate": "2019-10-20",
+          "summary": "Betty Spaghetty tries her best to save an elevator full of people. RC finds out what goes on behind Bert and Ernie's closed bedroom doors. Godzilla: The Musical comes to a Broadway theatre and brings the house down.",
+          "url": "https://www.imdb.com/title/tt11084570/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 10,
+          "number": 9,
+          "name": "Spike Fraser in: Should I Happen to Back Into a Horse",
+          "airdate": "2019-10-27",
+          "summary": "The \"Robot Chicken\" crew reveal what really happened to Bambi's mother; an Animorph revives the Red Panda population; Brainy Smurf gets diagnosed with CTE; Bitch Puddin' checks into the Bates Motel.",
+          "url": "https://www.imdb.com/title/tt11131612/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 10,
+          "number": 10,
+          "name": "Musya Shakhtyorov in: Honeyboogers",
+          "airdate": "2019-10-27",
+          "summary": "The Squatch Squad emerges from hiding to protect their forest home. The Wuzzles meet The Fly and things get a little bit crazy. The RC writers show us Bill & Ted's last and greatest adventure.",
+          "url": "https://www.imdb.com/title/tt11131616/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 10,
+          "number": 11,
+          "name": "Robot Chicken's Santa's Dead (Spoiler Alert) Holiday Murder Thing Special",
+          "airdate": "2019-12-09",
+          "summary": "A Christmas murder mystery special.",
+          "url": "https://www.imdb.com/title/tt11388530/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 10,
+          "number": 12,
+          "name": "Callie Greenhouse in: Fun. Sad. Epic. Tragic.",
+          "airdate": "2020-03-31",
+          "summary": "Batman's addition to his costume causes some concerns among the other superheroes; a ride-along with the Westeros P.D. reveals how they solve crimes; Bitch Pudding is placed on Love Island to see what kind of match she will find.",
+          "url": "https://www.imdb.com/title/tt12115068/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 10,
+          "number": 13,
+          "name": "Max Caenen In: Why Would He Know If His Mother's a Size Queen",
+          "airdate": "2020-06-28",
+          "summary": "The Lady of the Lake gives Percival some trouble. The Robot Chicken crew shows what Dumbledore sees in the Mirror of Desire. Professor X reveals how the X-Men first discovered their powers. And Garfield gets buried in the pet cemetery.",
+          "url": "https://www.imdb.com/title/tt12523934/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 10,
+          "number": 14,
+          "name": "Petless M in: Cars Are Couches of the Road",
+          "airdate": "2020-06-28",
+          "summary": "The RC writers imagine Harry Potter as a 70's sitcom. The future looks bleak for Nostradamus's assistant. We answer the question of what's underneath Abe Lincoln's hat. And the Jonas Brothers learn they are more than just brothers.",
+          "url": "https://www.imdb.com/title/tt12584788/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 10,
+          "number": 15,
+          "name": "Buster Olive in: The Monkey Got Closer Overnight",
+          "airdate": "2020-07-05",
+          "summary": "Tyrion Lannister learns the true meaning of \"winter is coming.\" Blade tries to slice his way into infomercials. Inside Out Boy goes to college. The Robot Chicken writers show what happens when Halloween meets Home Alone.",
+          "url": "https://www.imdb.com/title/tt12622630/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 10,
+          "number": 16,
+          "name": "Ghandi Mulholland in: Plastic Doesn't Get Cancer",
+          "airdate": "2020-07-13",
+          "summary": "Good Will Hunting goes Goodwill Hunting. Pennywise the clown shows off some new moves. A Fortnite contractor is hired to build a house. And the RC crew reimagines the show Pete and Pete.",
+          "url": "https://www.imdb.com/title/tt12622632/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 10,
+          "number": 17,
+          "name": "Gracie Purgatory in: That's How You Get Hemorrhoids",
+          "airdate": "2020-07-12",
+          "summary": "We learn what Squidward is up to after his role on Spongebob ends. Uber has a new ride share system. Broadway will never be the same after Venom joins the cast of Hamilton. Pink Panther challenges The Black Panther for the throne.",
+          "url": "https://www.imdb.com/title/tt12622640/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 10,
+          "number": 18,
+          "name": "Sundancer Craig in: 30% of the Way to Crying",
+          "airdate": "2020-07-19",
+          "summary": "Rita Repulsa finally figures out a way to take down The Power Rangers. We get to see Freddy Krueger's worst nightmare. The Robot Chicken crew reveals the monster from Bird Box. We get to see a different viewpoint from the movie Predator.",
+          "url": "https://www.imdb.com/title/tt12670498/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 10,
+          "number": 19,
+          "name": "Babe Hollytree in: I Wish One Person Had Died",
+          "airdate": "2020-07-26",
+          "summary": "The Pomsie's have come to take over our world. The kids at Hogwart's get to see each others true fears. The RC gang puts a new twist on Old Yeller. We learn that Alexa never stops listening and that can only lead to one thing...the apocalypse.",
+          "url": "https://www.imdb.com/title/tt12711756/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 10,
+          "number": 20,
+          "name": "Endgame",
+          "airdate": "2020-07-27",
+          "summary": "The Super, Extra-Special, One of a Kind, 200th episode spectacular. The Robot Chicken crew finally reveals everything you wanted to know about his experiment with the chicken, the chair, and the televisions.",
+          "url": "https://www.imdb.com/title/tt12704108/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 10,
+          "number": 29,
+          "name": "Ginger Hill in: Bursting Pipes",
+          "airdate": "2019-09-29",
+          "summary": "Season 10 explodes back onto the airwaves where the Robot Chicken Writers tell us what can take down the Teenage Mutant Ninja Turtles. Popeye and crew get rebooted to fit in with today's audience. And Bitch Pudding takes on the role of a Handmaid.",
+          "url": "https://www.imdb.com/title/tt10666378/?ref_=ttep_ep_1"
         }
       ]
     }
