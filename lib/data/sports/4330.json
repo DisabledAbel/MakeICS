@@ -484,7 +484,7 @@
       "strTweet1": "",
       "strVideo": "",
       "strStatus": "PST",
-      "strPostponed": "yes",
+      "strPostponed": "no",
       "strLocked": "unlocked"
     },
     {
@@ -528,7 +528,7 @@
       "strTweet1": "",
       "strVideo": "",
       "strStatus": "PST",
-      "strPostponed": "yes",
+      "strPostponed": "no",
       "strLocked": "unlocked"
     },
     {
