@@ -2085,20 +2085,20 @@
       ],
       "people": [
         {
-          "id": "nm1078479",
-          "name": "John Cena"
+          "id": "nm0287182",
+          "name": "Will Forte"
         },
         {
           "id": "nm7093076",
           "name": "Lana Condor"
         },
         {
-          "id": "nm0287182",
-          "name": "Will Forte"
+          "id": "nm1078479",
+          "name": "John Cena"
         },
         {
-          "id": "nm0126260",
-          "name": "P.J. Byrne"
+          "id": "nm3052894",
+          "name": "Tone Bell"
         }
       ],
       "label": "Aug 28, 2026"
@@ -2438,6 +2438,10 @@
       ],
       "people": [
         {
+          "id": "nm18563430",
+          "name": "Abhinav Singh"
+        },
+        {
           "id": "nm5137121",
           "name": "Natsuki Hanae"
         },
@@ -2448,10 +2452,6 @@
         {
           "id": "nm2098603",
           "name": "Hikari Mitsushima"
-        },
-        {
-          "id": "nm0594523",
-          "name": "Yoshiko Miyazaki"
         }
       ],
       "label": "Aug 30, 2026"
@@ -2868,6 +2868,26 @@
         {
           "id": "nm1055413",
           "name": "Michael Fassbender"
+        }
+      ],
+      "label": "Sep 09, 2026"
+    },
+    {
+      "id": "tt43607019",
+      "title": "Diamond Made Man Part 3",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGUyOWVlNGItMzNhMy00Mjk3LWFjMjItOGQ3YjNmMzlmODUwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 09 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Sci-Fi"
+      ],
+      "people": [
+        {
+          "id": "nm18210060",
+          "name": "Vasudha"
+        },
+        {
+          "id": "nm3440681",
+          "name": "Sreehari"
         }
       ],
       "label": "Sep 09, 2026"
@@ -4195,6 +4215,34 @@
       "label": "Oct 09, 2026"
     },
     {
+      "id": "tt39216435",
+      "title": "André Leon Talley: Style Is Forever",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDExMjJkMTAtNjYxZC00Y2ZmLTlkMDQtMGRjOTExYmIwNWZhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary"
+      ],
+      "people": [
+        {
+          "id": "nm18021839",
+          "name": "Jonathan Becker"
+        },
+        {
+          "id": "nm4134046",
+          "name": "Derek Blasberg"
+        },
+        {
+          "id": "nm18021840",
+          "name": "Philip Bloch"
+        },
+        {
+          "id": "nm7831534",
+          "name": "Bradley Bowers"
+        }
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
       "id": "tt36870725",
       "title": "Terrestrial",
       "image": "https://m.media-amazon.com/images/M/MV5BMzU2OTJkYmUtZjliMS00MzBiLTkyZjgtNjk2NzllNzBkNWJhXkEyXkFqcGc@._V1_.jpg",
@@ -4351,10 +4399,6 @@
       ],
       "people": [
         {
-          "id": "nm17514021",
-          "name": "Oluwafemi Jonathan Taiwo"
-        },
-        {
           "id": "nm5901379",
           "name": "James Harkness"
         },
@@ -4365,6 +4409,10 @@
         {
           "id": "nm13633111",
           "name": "Lucy Halliday"
+        },
+        {
+          "id": "nm3806097",
+          "name": "Amber Anderson"
         }
       ],
       "label": "Oct 16, 2026"
@@ -6692,7 +6740,6 @@
     {
       "id": "tt32492552",
       "title": "The Exorcist: Martyrs",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTM4MGIxN2EtNWUxYi00YmNkLThlZDAtYzA4MzQ2Mjg5ODUyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 12 Mar 2027 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -7094,12 +7141,12 @@
           "name": "Lewis Pullman"
         },
         {
-          "id": "nm0000597",
-          "name": "Bill Pullman"
-        },
-        {
           "id": "nm1551130",
           "name": "Keke Palmer"
+        },
+        {
+          "id": "nm0000597",
+          "name": "Bill Pullman"
         }
       ],
       "label": "Apr 23, 2027"
@@ -7555,6 +7602,7 @@
     {
       "id": "tt20374502",
       "title": "Untitled Ocean's Prequel",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTA1MTY0MmYtOWU1NS00NGY0LTg2MzYtMjUxNzdlMjNiNjc5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Jun 2027 00:00:00 GMT",
       "genres": [
         "Crime",
