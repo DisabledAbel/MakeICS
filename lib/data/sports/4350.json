@@ -1194,7 +1194,7 @@
     {
       "idEvent": "2487499",
       "idAPIfootball": "1550941",
-      "strTimestamp": "2026-08-29T03:00:00",
+      "strTimestamp": "2026-08-29T03:10:00",
       "strEvent": "Tijuana vs Pumas UNAM",
       "strEventAlternate": "Pumas UNAM @ Tijuana",
       "strFilename": "Mexican Liga MX 2026-08-29 Tijuana vs Pumas UNAM",
@@ -1212,7 +1212,7 @@
       "strWeather": "",
       "dateEvent": "2026-08-29",
       "dateEventLocal": "2026-08-28",
-      "strTime": "03:00:00",
+      "strTime": "03:10:00",
       "strTimeLocal": "20:00:00",
       "strGroup": "",
       "idHomeTeam": "134202",

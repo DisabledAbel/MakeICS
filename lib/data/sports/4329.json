@@ -710,7 +710,7 @@
     {
       "idEvent": "2501286",
       "idAPIfootball": "1563119",
-      "strTimestamp": "2026-09-01T18:45:00",
+      "strTimestamp": "2026-09-01T19:00:00",
       "strEvent": "Birmingham City vs Southampton",
       "strEventAlternate": "Southampton @ Birmingham City",
       "strFilename": "English League Championship 2026-09-01 Birmingham City vs Southampton",
@@ -728,7 +728,7 @@
       "strWeather": null,
       "dateEvent": "2026-09-01",
       "dateEventLocal": null,
-      "strTime": "18:45:00",
+      "strTime": "19:00:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "133597",
