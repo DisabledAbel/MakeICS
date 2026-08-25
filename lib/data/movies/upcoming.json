@@ -2104,36 +2104,6 @@
       "label": "Aug 28, 2026"
     },
     {
-      "id": "tt1441251",
-      "title": "Cliffhanger",
-      "image": "https://m.media-amazon.com/images/M/MV5BNTNlOGUxYjAtMTZhNi00Yjg1LWI0ZGYtY2Q0ZmI4OGQ3ZjAxXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Thriller"
-      ],
-      "people": [
-        {
-          "id": "nm0000112",
-          "name": "Pierce Brosnan"
-        },
-        {
-          "id": "nm4141252",
-          "name": "Lily James"
-        },
-        {
-          "id": "nm4836100",
-          "name": "Nell Tiger Free"
-        },
-        {
-          "id": "nm1492213",
-          "name": "Assaad Bouab"
-        }
-      ],
-      "label": "Aug 28, 2026"
-    },
-    {
       "id": "tt6628920",
       "title": "Idiots",
       "image": "https://m.media-amazon.com/images/M/MV5BZjI0MTAxYjktMTYxMi00MzIxLWFlMGMtMDJhNjJhZGZmZGU2XkEyXkFqcGc@._V1_.jpg",
@@ -2843,6 +2813,17 @@
       "label": "Sep 04, 2026"
     },
     {
+      "id": "tt41782670",
+      "title": "Lau Chu Hoa",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjY2N2E2MmYtZjQ5ZC00ZmY5LTlmZDEtMTA1ZjdkNGU2NDVjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [],
+      "label": "Sep 04, 2026"
+    },
+    {
       "id": "tt27369017",
       "title": "Hope",
       "image": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_.jpg",
@@ -2895,7 +2876,7 @@
     {
       "id": "tt32588798",
       "title": "Practical Magic 2",
-      "image": "https://m.media-amazon.com/images/M/MV5BN2U2NDgxYzItOWExYS00NzVlLTkwOTMtMzQ1ZWM0ZWMyMjg1XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -3710,12 +3691,12 @@
           "name": "Merritt Wever"
         },
         {
-          "id": "nm1711114",
-          "name": "Skyler Gisondo"
-        },
-        {
           "id": "nm0267506",
           "name": "Anna Faris"
+        },
+        {
+          "id": "nm1711114",
+          "name": "Skyler Gisondo"
         }
       ],
       "label": "Sep 25, 2026"
@@ -4080,16 +4061,16 @@
       ],
       "people": [
         {
+          "id": "nm2915105",
+          "name": "Billy Magnussen"
+        },
+        {
           "id": "nm2365811",
           "name": "Betty Gilpin"
         },
         {
           "id": "nm2087739",
           "name": "Jeremy Allen White"
-        },
-        {
-          "id": "nm0279209",
-          "name": "Patrick Fischler"
         },
         {
           "id": "nm5700898",
@@ -4117,12 +4098,12 @@
           "name": "Renate Reinsve"
         },
         {
-          "id": "nm0364028",
-          "name": "Thorbjørn Harr"
-        },
-        {
           "id": "nm2966840",
           "name": "Lisa Loven Kongsli"
+        },
+        {
+          "id": "nm0364028",
+          "name": "Thorbjørn Harr"
         }
       ],
       "label": "Oct 09, 2026"
@@ -4315,12 +4296,12 @@
           "name": "Daisy Edgar-Jones"
         },
         {
-          "id": "nm11417004",
-          "name": "Bodhi Rae Breathnach"
-        },
-        {
           "id": "nm1495520",
           "name": "Caitríona Balfe"
+        },
+        {
+          "id": "nm11417004",
+          "name": "Bodhi Rae Breathnach"
         },
         {
           "id": "nm1126657",
@@ -4973,12 +4954,12 @@
           "name": "Alexej Manvelov"
         },
         {
-          "id": "nm0001029",
-          "name": "Jim Caviezel"
-        },
-        {
           "id": "nm0226813",
           "name": "Garret Dillahunt"
+        },
+        {
+          "id": "nm0001029",
+          "name": "Jim Caviezel"
         },
         {
           "id": "nm0924154",
@@ -5151,16 +5132,16 @@
           "name": "Johnny Depp"
         },
         {
-          "id": "nm7436993",
-          "name": "Tramell Tillman"
-        },
-        {
           "id": "nm0005212",
           "name": "Ian McKellen"
         },
         {
           "id": "nm3510471",
           "name": "Sam Claflin"
+        },
+        {
+          "id": "nm7436993",
+          "name": "Tramell Tillman"
         }
       ],
       "label": "Nov 13, 2026"
@@ -5209,16 +5190,16 @@
           "name": "Joseph Zada"
         },
         {
-          "id": "nm2225369",
-          "name": "Jennifer Lawrence"
-        },
-        {
           "id": "nm5085683",
           "name": "Mckenna Grace"
         },
         {
-          "id": "nm0000146",
-          "name": "Ralph Fiennes"
+          "id": "nm2225369",
+          "name": "Jennifer Lawrence"
+        },
+        {
+          "id": "nm1102577",
+          "name": "Elle Fanning"
         }
       ],
       "label": "Nov 20, 2026"
@@ -5357,12 +5338,12 @@
           "name": "Robert De Niro"
         },
         {
-          "id": "nm1711114",
-          "name": "Skyler Gisondo"
-        },
-        {
           "id": "nm0001774",
           "name": "Ben Stiller"
+        },
+        {
+          "id": "nm1711114",
+          "name": "Skyler Gisondo"
         },
         {
           "id": "nm0005562",
@@ -5457,12 +5438,12 @@
           "name": "Timothy Olyphant"
         },
         {
-          "id": "nm4456120",
-          "name": "Elizabeth Debicki"
-        },
-        {
           "id": "nm0001303",
           "name": "Carla Gugino"
+        },
+        {
+          "id": "nm4456120",
+          "name": "Elizabeth Debicki"
         }
       ],
       "label": "Nov 25, 2026"
@@ -5894,12 +5875,12 @@
           "name": "Jack Morris"
         },
         {
-          "id": "nm0000353",
-          "name": "Willem Dafoe"
-        },
-        {
           "id": "nm1093951",
           "name": "Aaron Taylor-Johnson"
+        },
+        {
+          "id": "nm0000353",
+          "name": "Willem Dafoe"
         },
         {
           "id": "nm11417004",
@@ -5924,16 +5905,16 @@
           "name": "Dwayne Johnson"
         },
         {
+          "id": "nm0001564",
+          "name": "Bebe Neuwirth"
+        },
+        {
           "id": "nm2394794",
           "name": "Karen Gillan"
         },
         {
           "id": "nm0366389",
           "name": "Kevin Hart"
-        },
-        {
-          "id": "nm0085312",
-          "name": "Jack Black"
         }
       ],
       "label": "Dec 25, 2026"
@@ -5950,6 +5931,10 @@
       ],
       "people": [
         {
+          "id": "nm0472710",
+          "name": "David Krumholtz"
+        },
+        {
           "id": "nm8908475",
           "name": "Isabel May"
         },
@@ -5960,10 +5945,6 @@
         {
           "id": "nm0788335",
           "name": "Michael Shannon"
-        },
-        {
-          "id": "nm0472710",
-          "name": "David Krumholtz"
         }
       ],
       "label": "Dec 25, 2026"
@@ -6080,12 +6061,12 @@
           "name": "Lily James"
         },
         {
-          "id": "nm8165602",
-          "name": "Bella Ramsey"
-        },
-        {
           "id": "nm4689420",
           "name": "Carrie Coon"
+        },
+        {
+          "id": "nm8165602",
+          "name": "Bella Ramsey"
         },
         {
           "id": "nm0628120",
@@ -6109,12 +6090,12 @@
           "name": "Jason Statham"
         },
         {
-          "id": "nm0000460",
-          "name": "Jeremy Irons"
-        },
-        {
           "id": "nm2962353",
           "name": "Pom Klementieff"
+        },
+        {
+          "id": "nm0000460",
+          "name": "Jeremy Irons"
         },
         {
           "id": "nm0178581",
@@ -6126,7 +6107,7 @@
     {
       "id": "tt31888498",
       "title": "Fing!",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjYxYWFmOTUtMWVlYi00MGVjLTlhODctOTFiNzkwZDE0Yzk1XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgwMjFiZGItZWYwZi00ZTExLTlhZDQtMTVmYmI0ZTAyODE1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 15 Jan 2027 00:00:00 GMT",
       "genres": [
         "Adventure",
@@ -6370,16 +6351,16 @@
       ],
       "people": [
         {
-          "id": "nm1412974",
-          "name": "Glen Powell"
+          "id": "nm3218692",
+          "name": "Madelyn Cline"
         },
         {
           "id": "nm2129662",
           "name": "Cristin Milioti"
         },
         {
-          "id": "nm3218692",
-          "name": "Madelyn Cline"
+          "id": "nm1412974",
+          "name": "Glen Powell"
         },
         {
           "id": "nm6254064",
@@ -6453,12 +6434,12 @@
           "name": "Meryl Streep"
         },
         {
-          "id": "nm0185819",
-          "name": "Daniel Craig"
-        },
-        {
           "id": "nm1659547",
           "name": "Carey Mulligan"
+        },
+        {
+          "id": "nm0185819",
+          "name": "Daniel Craig"
         }
       ],
       "label": "Feb 12, 2027"
@@ -6551,8 +6532,8 @@
           "name": "Rosamund Pike"
         },
         {
-          "id": "nm1212722",
-          "name": "Benedict Cumberbatch"
+          "id": "nm0000164",
+          "name": "Anthony Hopkins"
         }
       ],
       "label": "Feb 19, 2027"
@@ -6577,15 +6558,45 @@
           "name": "Rhys Darby"
         },
         {
-          "id": "nm0054697",
-          "name": "Ike Barinholtz"
-        },
-        {
           "id": "nm9434831",
           "name": "Cristo Fernández"
+        },
+        {
+          "id": "nm0054697",
+          "name": "Ike Barinholtz"
         }
       ],
       "label": "Feb 19, 2027"
+    },
+    {
+      "id": "tt1441251",
+      "title": "Cliffhanger",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTNlOGUxYjAtMTZhNi00Yjg1LWI0ZGYtY2Q0ZmI4OGQ3ZjAxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 24 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0000112",
+          "name": "Pierce Brosnan"
+        },
+        {
+          "id": "nm4141252",
+          "name": "Lily James"
+        },
+        {
+          "id": "nm4836100",
+          "name": "Nell Tiger Free"
+        },
+        {
+          "id": "nm6716083",
+          "name": "Lorenzo de Moor"
+        }
+      ],
+      "label": "Feb 24, 2027"
     },
     {
       "id": "tt38593232",
@@ -6777,12 +6788,12 @@
       ],
       "people": [
         {
-          "id": "nm0266824",
-          "name": "Dakota Fanning"
-        },
-        {
           "id": "nm1102577",
           "name": "Elle Fanning"
+        },
+        {
+          "id": "nm0266824",
+          "name": "Dakota Fanning"
         },
         {
           "id": "nm0753314",
@@ -6811,16 +6822,16 @@
           "name": "Keanu Reeves"
         },
         {
-          "id": "nm0000120",
-          "name": "Jim Carrey"
-        },
-        {
           "id": "nm0005188",
           "name": "James Marsden"
         },
         {
-          "id": "nm0252961",
-          "name": "Idris Elba"
+          "id": "nm0068338",
+          "name": "Kristen Bell"
+        },
+        {
+          "id": "nm0000120",
+          "name": "Jim Carrey"
         }
       ],
       "label": "Mar 19, 2027"
@@ -6900,12 +6911,12 @@
           "name": "Johnny Depp"
         },
         {
-          "id": "nm0004851",
-          "name": "Penélope Cruz"
-        },
-        {
           "id": "nm3218692",
           "name": "Madelyn Cline"
+        },
+        {
+          "id": "nm0004851",
+          "name": "Penélope Cruz"
         },
         {
           "id": "nm1989536",
@@ -6962,12 +6973,12 @@
       ],
       "people": [
         {
-          "id": "nm0190441",
-          "name": "Raymond Cruz"
-        },
-        {
           "id": "nm0379596",
           "name": "Jay Hernandez"
+        },
+        {
+          "id": "nm0190441",
+          "name": "Raymond Cruz"
         },
         {
           "id": "nm2834669",
@@ -7201,12 +7212,12 @@
           "name": "Mario Sagone"
         },
         {
-          "id": "nm0810738",
-          "name": "Kasia Smutniak"
-        },
-        {
           "id": "nm0000391",
           "name": "Rupert Everett"
+        },
+        {
+          "id": "nm1249052",
+          "name": "Riccardo Scamarcio"
         }
       ],
       "label": "May 06, 2027"
@@ -7258,12 +7269,12 @@
           "name": "Sam Claflin"
         },
         {
-          "id": "nm3147751",
-          "name": "LaKeith Stanfield"
-        },
-        {
           "id": "nm0164809",
           "name": "Jason Clarke"
+        },
+        {
+          "id": "nm1569067",
+          "name": "Wilson Bethel"
         }
       ],
       "label": "May 14, 2027"
@@ -7294,12 +7305,12 @@
           "name": "Emma Stone"
         },
         {
-          "id": "nm1517976",
-          "name": "Chris Pine"
-        },
-        {
           "id": "nm0000209",
           "name": "Tim Robbins"
+        },
+        {
+          "id": "nm1517976",
+          "name": "Chris Pine"
         },
         {
           "id": "nm0000651",
@@ -7373,20 +7384,20 @@
       ],
       "people": [
         {
+          "id": "nm7543974",
+          "name": "Aaron Pierre"
+        },
+        {
           "id": "nm0331516",
           "name": "Ryan Gosling"
         },
         {
-          "id": "nm1741002",
-          "name": "Matt Smith"
+          "id": "nm0010736",
+          "name": "Amy Adams"
         },
         {
           "id": "nm5301405",
           "name": "Mia Goth"
-        },
-        {
-          "id": "nm0010736",
-          "name": "Amy Adams"
         }
       ],
       "label": "May 28, 2027"
@@ -7618,12 +7629,12 @@
           "name": "Monica Barbaro"
         },
         {
-          "id": "nm0177896",
-          "name": "Bradley Cooper"
-        },
-        {
           "id": "nm3053338",
           "name": "Margot Robbie"
+        },
+        {
+          "id": "nm0177896",
+          "name": "Bradley Cooper"
         }
       ],
       "label": "Jun 25, 2027"
@@ -7830,12 +7841,12 @@
       ],
       "people": [
         {
-          "id": "nm1821446",
-          "name": "Hannah Waddingham"
-        },
-        {
           "id": "nm0005458",
           "name": "Jason Statham"
+        },
+        {
+          "id": "nm1821446",
+          "name": "Hannah Waddingham"
         },
         {
           "id": "nm3958526",
