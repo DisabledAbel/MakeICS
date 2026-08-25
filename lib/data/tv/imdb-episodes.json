@@ -96,7 +96,7 @@
         {
           "season": 1,
           "number": 12,
-          "name": "The Enchanted Lake/Tricky Trixie",
+          "name": "Hallow's Eve Hijinks/Costume Clash",
           "airdate": null,
           "summary": "Zane releases a mischievous goblin to help win a Hallow's Eve decoration contest. Lucinda the Witch and Camila spend All Hallow's Eve with Sofia.",
           "url": "https://www.imdb.com/title/tt39364974/?ref_=ttep_ep_12"
@@ -8471,7 +8471,7 @@
           "number": 15,
           "name": "Vows Out Loud",
           "airdate": "2026-08-25",
-          "summary": "Baylen and Colin look forward to their forever, but as the excitement of the wedding day sends Baylen's tics into overdrive, she fights to stay present through every unforgettable moment. Sammi faces her fears with an emotional Maid of Honor speech.",
+          "summary": "Baylen and Colin anticipate their forever, but as wedding day excitement sends Baylen's tics into overdrive, she struggles to stay present through every unforgettable moment.",
           "url": "https://www.imdb.com/title/tt44119406/?ref_=ttep_ep_15"
         },
         {
@@ -11172,7 +11172,7 @@
           "season": 13,
           "number": 10,
           "name": "No Safe Haven",
-          "airdate": null,
+          "airdate": "2026-08-21",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44733911/?ref_=ttep_ep_10"
         },
@@ -21402,6 +21402,22 @@
           "url": "https://www.imdb.com/title/tt43665030/?ref_=ttep_ep_36"
         },
         {
+          "season": 32,
+          "number": 41,
+          "name": "The Wizard of Oz",
+          "airdate": "2026-10-03",
+          "summary": "A tornado whisks young Dorothy Gale away and deposits her in the magical Land of Oz where she meets new friends and crosses an evil witch.",
+          "url": "https://www.imdb.com/title/tt44772033/?ref_=ttep_ep_41"
+        },
+        {
+          "season": 32,
+          "number": 42,
+          "name": "The Invisible Man Returns",
+          "airdate": "2026-10-03",
+          "summary": "Frank Griffin's brother, Geoffrey, is wrongly convicted of murder and imprisoned. A doctor injects him with an invisibility serum to help him escape. One side effect of the serum is madness as Griffin attempts to find the real killer.",
+          "url": "https://www.imdb.com/title/tt44772035/?ref_=ttep_ep_42"
+        },
+        {
           "season": 31,
           "number": 1,
           "name": "Abbott and Costello Meet Dr Jekyll and Mr Hyde",
@@ -25071,8 +25087,8 @@
         {
           "season": 4,
           "number": 11,
-          "name": "Episode #4.11",
-          "airdate": null,
+          "name": "The End of the World As We Know It",
+          "airdate": "2026-08-30",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44047318/?ref_=ttep_ep_11"
         },
@@ -26407,7 +26423,7 @@
           "number": 4,
           "name": "Hell Is Other People",
           "airdate": "2026-08-28",
-          "summary": "An explosion at the park draws Anna into a case beyond its borders.",
+          "summary": "Anna guides a tense group of campers through the backcountry as a fierce storm closes in.",
           "url": "https://www.imdb.com/title/tt37775053/?ref_=ttep_ep_4"
         },
         {
@@ -26966,6 +26982,14 @@
           "url": "https://www.imdb.com/title/tt43986126/?ref_=ttep_ep_8"
         },
         {
+          "season": 4,
+          "number": 9,
+          "name": "The Texas Flood",
+          "airdate": "2026-08-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44765469/?ref_=ttep_ep_9"
+        },
+        {
           "season": 3,
           "number": 1,
           "name": "Tornado Torrent 2025",
@@ -27024,8 +27048,16 @@
           "number": 3,
           "name": "Ideas That Stick",
           "airdate": "2026-08-16",
-          "summary": null,
+          "summary": "A husband's homemade bandage, a college dropout's breakthrough adhesive, and a factory worker's wartime fix transform simple strips of tape into indispensable American icons — creating a $90 billion industry, one sticky invention at a time.",
           "url": "https://www.imdb.com/title/tt43744937/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Racing to the Top",
+          "airdate": "2026-08-23",
+          "summary": "A down-on-his-luck mechanic transforms outlaw moonshine racing into one of America's biggest spectator sports, overcoming powerful rivals, deadly setbacks, and financial crises to build a billion-dollar sports empire that becomes a Mega-Brand That Built America.",
+          "url": "https://www.imdb.com/title/tt44768840/?ref_=ttep_ep_4"
         },
         {
           "season": 3,
@@ -27361,9 +27393,9 @@
         {
           "season": 1,
           "number": 6,
-          "name": "2010s to Present",
-          "airdate": null,
-          "summary": null,
+          "name": "2010s",
+          "airdate": "2026-08-30",
+          "summary": "Huge names emerge in sports in the 2010s, including LeBron James, Simone Biles, and Steph Curry; as social media revolutionizes fan engagement, direct interaction and sports betting changes the way viewers see celebrity athletes forever.",
           "url": "https://www.imdb.com/title/tt36979700/?ref_=ttep_ep_6"
         }
       ]
@@ -29101,6 +29133,14 @@
           "url": "https://www.imdb.com/title/tt44112723/?ref_=ttep_ep_18"
         },
         {
+          "season": 7,
+          "number": 19,
+          "name": "The 2001 Anthrax Attacks",
+          "airdate": "2026-08-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44772049/?ref_=ttep_ep_19"
+        },
+        {
           "season": 6,
           "number": 1,
           "name": "Roswell",
@@ -30199,35 +30239,51 @@
         },
         {
           "season": 5,
-          "number": 6,
+          "number": 4,
           "name": "Meet Me at the Alter ... Ego Party",
-          "airdate": "2026-09-06",
+          "airdate": "2026-08-30",
           "summary": "The ladies trade Beverly Hills for Atlanta, where a drag brunch delivers a surprise entrance that leaves everyone gagged; the Alter Ego party returns, complete with sequins, shade and larger-than-life personalities.",
           "url": "https://www.imdb.com/title/tt39396389/?ref_=ttep_ep_4"
         },
         {
           "season": 5,
-          "number": 7,
-          "name": "Episode #5.7",
-          "airdate": null,
+          "number": 6,
+          "name": "To Peach Her Own",
+          "airdate": "2026-09-06",
           "summary": null,
-          "url": "https://www.imdb.com/title/tt43620002/?ref_=ttep_ep_7"
-        },
-        {
-          "season": 5,
-          "number": 8,
-          "name": "Episode #5.8",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt43620000/?ref_=ttep_ep_8"
+          "url": "https://www.imdb.com/title/tt43619996/?ref_=ttep_ep_5"
         },
         {
           "season": 5,
           "number": 9,
           "name": "Episode #5.9",
-          "airdate": null,
+          "airdate": "2026-10-04",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43620001/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 5,
+          "number": 13,
+          "name": "Cockies and Conversation",
+          "airdate": "2026-09-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43619995/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
+          "number": 20,
+          "name": "Episode #5.7",
+          "airdate": "2026-09-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43620002/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 5,
+          "number": 27,
+          "name": "Episode #5.8",
+          "airdate": "2026-09-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43620000/?ref_=ttep_ep_8"
         },
         {
           "season": 4,
@@ -30674,9 +30730,9 @@
         {
           "season": 18,
           "number": 21,
-          "name": "Episode #18.7",
+          "name": "Gilligan's Island: A Conspiracy Theorist's Pradise",
           "airdate": "2026-09-21",
-          "summary": null,
+          "summary": "Mac and Charlie drink the proverbial Kool-Aid while trying to uncover the mystery of why 'Gilligan's Island' never made it to 100 episodes.",
           "url": "https://www.imdb.com/title/tt43679374/?ref_=ttep_ep_7"
         },
         {
@@ -31056,7 +31112,7 @@
           "number": 2,
           "name": "The Sound of Fear",
           "airdate": "2026-07-22",
-          "summary": null,
+          "summary": "A daughter frantically calls 911 after gunmen tie her up and shoot her parents at home. Does she know more than she lets on?",
           "url": "https://www.imdb.com/title/tt43707134/?ref_=ttep_ep_2"
         },
         {
@@ -31064,7 +31120,7 @@
           "number": 3,
           "name": "The First Suspect",
           "airdate": "2026-07-29",
-          "summary": null,
+          "summary": "A woman vanishes, and her husband calls 911. Months later, police find her badly beaten body and make him suspect No. 1.",
           "url": "https://www.imdb.com/title/tt43707135/?ref_=ttep_ep_3"
         },
         {
@@ -31072,24 +31128,32 @@
           "number": 4,
           "name": "For Love or Lies",
           "airdate": "2026-08-05",
-          "summary": null,
+          "summary": "A husband finds his wife brutally slain and calls 911. Does he know more than he lets on? CCTV exposes secrecy and lies.",
           "url": "https://www.imdb.com/title/tt43707138/?ref_=ttep_ep_4"
         },
         {
           "season": 2,
           "number": 5,
-          "name": "Episode #2.5",
+          "name": "Judging Reactions",
           "airdate": "2026-08-12",
-          "summary": null,
+          "summary": "A woman calls 911 after she finds her mother with a knife in her chest. Is she a grieving daughter, or is her call part of a coverup?",
           "url": "https://www.imdb.com/title/tt43707139/?ref_=ttep_ep_5"
         },
         {
           "season": 2,
           "number": 6,
-          "name": "Episode #2.6",
+          "name": "Death and Denials",
           "airdate": "2026-08-19",
-          "summary": null,
+          "summary": "Police find a man's girlfriend murdered, making him the main suspect. A mother and daughter claim they had nothing to do with a grisly murder.",
           "url": "https://www.imdb.com/title/tt43707140/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Homicide Homecoming",
+          "airdate": "2026-08-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44771996/?ref_=ttep_ep_7"
         },
         {
           "season": 1,
@@ -31922,6 +31986,30 @@
           "airdate": "2026-08-25",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44752685/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Quarterfinals 3 & 4",
+          "airdate": "2026-08-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44752690/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Quarterfinals 4 & 5",
+          "airdate": "2026-08-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44752693/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Quarterfinals 7 & 8",
+          "airdate": "2026-08-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44752694/?ref_=ttep_ep_4"
         },
         {
           "season": 3,
@@ -33582,6 +33670,167 @@
           "airdate": "2025-08-25",
           "summary": "The season 7 cast goes to NYC to hash out all the fun, flirtation and drama from their time in Fiji.",
           "url": "https://www.imdb.com/title/tt37571440/?ref_=ttep_ep_37"
+        }
+      ]
+    },
+    "tt3608964": {
+      "imdbId": "tt3608964",
+      "title": "Security Now",
+      "episodes": []
+    },
+    "tt43744738": {
+      "imdbId": "tt43744738",
+      "title": "ER: Caught on Camera",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "The Girl with Two Uteruses",
+          "airdate": "2026-08-19",
+          "summary": "Gianna reveals her shock at finding out that she has two uteruses, and Hannah and Ethan's wedding dance moves leave Hannah facing paralysis.",
+          "url": "https://www.imdb.com/title/tt43744760/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Like, Subscribe and Survive",
+          "airdate": "2026-08-26",
+          "summary": "Chan faces a medical mystery threatening her vision. College sweethearts Erin and Jack's relationship is tested by a devastating accident. Rider finds something lodged in his ear. Nicole codes during labor.",
+          "url": "https://www.imdb.com/title/tt43744761/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode #1.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43744763/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode #1.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43744758/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Episode #1.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43744764/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Episode #1.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43744759/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Episode #1.4",
+          "airdate": "2026-09-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43744765/?ref_=ttep_ep_4"
+        }
+      ]
+    },
+    "tt11617414": {
+      "imdbId": "tt11617414",
+      "title": "1000-lb Sisters",
+      "episodes": [
+        {
+          "season": 9,
+          "number": 1,
+          "name": "Play That Funky Music, AI",
+          "airdate": "2026-09-01",
+          "summary": "Tammy and Amy work to rebuild their sisterly connection. The family weighs in on Amy's latest interest. Andrea makes a major choice regarding her relationship with Tammy. Chris continues progressing both physically and personally.",
+          "url": "https://www.imdb.com/title/tt43697598/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 8,
+          "number": 1,
+          "name": "Abysmal to the Wedding",
+          "airdate": "2026-01-06",
+          "summary": "Amy and Tammy have drifted further than ever, but unbeknownst to them, are living parallel lives as each of their romantic partnerships takes big steps. Brittany struggles to quit \"sodies\" for her bar",
+          "url": "https://www.imdb.com/title/tt39090445/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 8,
+          "number": 2,
+          "name": "Not Tonight, Satan",
+          "airdate": "2026-01-13",
+          "summary": "After her life-altering skin removal surgery, Tammy is ready to find her calling and starts her first day as an animal shelter volunteer, Amy makes a big decision for the wedding, and Chris tries to orchestrate peace between Tammy and Amy.",
+          "url": "https://www.imdb.com/title/tt39300649/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 8,
+          "number": 3,
+          "name": "Tinture Tantrums",
+          "airdate": "2026-01-20",
+          "summary": "Amy and Brian go ghost hunting. Chris hosts a BBQ to celebrate Brittany's weight loss, but it's quickly overshadowed by Amy's maid of honor reveal. Tammy tries to repair her bond with Amy, but things take another unexpected turn.",
+          "url": "https://www.imdb.com/title/tt39300651/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 8,
+          "number": 4,
+          "name": "Nobody's Butt Monkey",
+          "airdate": "2026-01-27",
+          "summary": "Amy moves ahead with securing wedding details, sans Tammy. Chris and Misty worry about Amy's health. Andrea attempts to broker peace between Tammy and Amy and bring them together for the first time in weeks.",
+          "url": "https://www.imdb.com/title/tt39387284/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 8,
+          "number": 5,
+          "name": "Idle Hands Are a Devil's B****",
+          "airdate": "2026-02-03",
+          "summary": "After peace talks between Tammy and Amy go south, the sisters are more divided than ever. Amy and Brian try pre-martial counseling. Billy attempts to work on a ceasefire between the sisters, but Tammy spirals out of control.",
+          "url": "https://www.imdb.com/title/tt39387285/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 8,
+          "number": 6,
+          "name": "Reconciling Indifferences",
+          "airdate": "2026-02-10",
+          "summary": "Amy pursues her dream of being an artist.Chris hopes a vacation will unite the family. Tammy says something completely unexpected to Amy at her birthday party.",
+          "url": "https://www.imdb.com/title/tt39387286/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 8,
+          "number": 7,
+          "name": "Bride-Diva",
+          "airdate": "2026-02-17",
+          "summary": "Amy gets some unexpected news from the eye doctor. The family heads to New Orleans and Amy is left speechless when they spring a surprise on her. Andrea tries to find a solution for Tammy's unraveling mental state.",
+          "url": "https://www.imdb.com/title/tt39635722/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 8,
+          "number": 8,
+          "name": "Something Borrowed, Someone's Blue",
+          "airdate": "2026-02-24",
+          "summary": "The family finishes out their New Orleans vacation with a surprise bachelorette party for Amy. Faced with losing Andrea, Tammy seeks help. Amy reveals her plans to go under the knife just weeks before her wedding.",
+          "url": "https://www.imdb.com/title/tt39635725/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 8,
+          "number": 9,
+          "name": "Crying Tears of Blood",
+          "airdate": "2026-03-03",
+          "summary": "Amy goes under the knife less than 2 weeks before her wedding. Tammy's back on the fence when it comes to attending Amy's wedding. Amy and Brian's wedding rehearsal goes anything but smooth.",
+          "url": "https://www.imdb.com/title/tt39830696/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 8,
+          "number": 10,
+          "name": "Getting Mercinal Right Now",
+          "airdate": "2026-03-10",
+          "summary": "The family gathers to see Amy get married, but a surprising confrontation could derail the biggest day of Amy's life. Amy and Brian's first dance doesn't quite go according to plan, and an unexpected person catches the bouquet.",
+          "url": "https://www.imdb.com/title/tt40391741/?ref_=ttep_ep_10"
         }
       ]
     }
