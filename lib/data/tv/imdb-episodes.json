@@ -2226,9 +2226,9 @@
         {
           "season": 11,
           "number": 12,
-          "name": "Episode #11.12",
+          "name": "Blasts from the Past",
           "airdate": "2026-08-24",
-          "summary": null,
+          "summary": "Capt. Sandy throws Aesha a bachelorette party with some unexpected guests as Hannah Ferrier returns to the Med. Joy and Kayley struggle for redemption. Cooper and Kat harbor a secret. Max is faced with an unprecedented decision.",
           "url": "https://www.imdb.com/title/tt44075358/?ref_=ttep_ep_12"
         },
         {
@@ -9552,7 +9552,7 @@
         {
           "season": 8,
           "number": 33,
-          "name": "Episode #8.33",
+          "name": "Through the Table",
           "airdate": "2026-08-19",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42258279/?ref_=ttep_ep_33"
@@ -9560,7 +9560,7 @@
         {
           "season": 8,
           "number": 34,
-          "name": "Episode #8.34",
+          "name": "All In 2026 Go-Home Show",
           "airdate": "2026-08-26",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43691694/?ref_=ttep_ep_34"
@@ -10125,7 +10125,7 @@
           "number": 23,
           "name": "Episode #28.23",
           "airdate": "2026-08-23",
-          "summary": null,
+          "summary": "Head of Household competition returns after a wild week. Who wins and nominates? The final BB Time Capsule Houseguest is revealed with their power or punishment. Paul visits, and Danielle Reyes joins BB Unlocked.",
           "url": "https://www.imdb.com/title/tt43650778/?ref_=ttep_ep_23"
         },
         {
@@ -24811,7 +24811,7 @@
         {
           "season": 1,
           "number": 41,
-          "name": "Episode #1.41",
+          "name": "Todos tenemos secretos",
           "airdate": "2026-07-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43648965/?ref_=ttep_ep_41"
@@ -26788,7 +26788,7 @@
           "number": 7,
           "name": "And the Monkey's Paw",
           "airdate": "2026-08-23",
-          "summary": null,
+          "summary": "The Librarians hunt for a Monkey's Paw but get trapped in a fog-covered hotel. They must face their past traumas to escape and discover the difference between their wishes and true needs.",
           "url": "https://www.imdb.com/title/tt43644548/?ref_=ttep_ep_7"
         },
         {
@@ -26796,7 +26796,7 @@
           "number": 8,
           "name": "And the Last Resort",
           "airdate": "2026-08-24",
-          "summary": null,
+          "summary": "The Librarians check out a magical ley line at a historic 200-year-old resort with a famous puppet theater. Their vacation plans fall apart when they discover an evil sentient puppet plotting to destroy the resort.",
           "url": "https://www.imdb.com/title/tt43644555/?ref_=ttep_ep_8"
         },
         {
@@ -26814,6 +26814,22 @@
           "airdate": "2026-08-31",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43644557/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "And What Dreams May Come",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44811564/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "And the Camelot Conundrum",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44816689/?ref_=ttep_ep_12"
         },
         {
           "season": 1,
@@ -31404,6 +31420,22 @@
       "title": "Booked: First Day In",
       "episodes": [
         {
+          "season": 5,
+          "number": 1,
+          "name": "Road Rager",
+          "airdate": "2026-08-18",
+          "summary": "One lady fails to show up for her appointment. Two girls get pulled over for a DUI, and another guy has a PI and burglary charge.",
+          "url": "https://www.imdb.com/title/tt44703051/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 2,
+          "name": "The Great Escape",
+          "airdate": "2026-08-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44703103/?ref_=ttep_ep_2"
+        },
+        {
           "season": 4,
           "number": 1,
           "name": "Fugitive Friday Frenzy",
@@ -31998,7 +32030,7 @@
         {
           "season": 4,
           "number": 3,
-          "name": "Quarterfinals 4 & 5",
+          "name": "Quarterfinals 5 & 6",
           "airdate": "2026-08-27",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44752693/?ref_=ttep_ep_3"
@@ -33831,6 +33863,154 @@
           "airdate": "2026-03-10",
           "summary": "The family gathers to see Amy get married, but a surprising confrontation could derail the biggest day of Amy's life. Amy and Brian's first dance doesn't quite go according to plan, and an unexpected person catches the bouquet.",
           "url": "https://www.imdb.com/title/tt40391741/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt44091007": {
+      "imdbId": "tt44091007",
+      "title": "Engineering From Above",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Fortresses",
+          "airdate": "2026-08-13",
+          "summary": "Revealed from above; an ancient defensive wall surrounding a historic Colombian city; eerie metal towers looming over the seas of the English Channel.",
+          "url": "https://www.imdb.com/title/tt44093463/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "For the Gods",
+          "airdate": "2026-08-20",
+          "summary": "Revealed from above; an ancient temple engineered to survive the ravages of time; an iconic cathedral rising from the heart of Barcelona; and a remote cliffside shrine that seemingly defies the laws of gravity.",
+          "url": "https://www.imdb.com/title/tt44122582/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Superstars",
+          "airdate": "2026-08-27",
+          "summary": "Revealed from above; The Pantheon - one of ancient Rome's most enduring and enigmatic feats of engineering; in Panama - a continent crossing canal that almost never was.",
+          "url": "https://www.imdb.com/title/tt44122607/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Record Breakers",
+          "airdate": "2026-09-03",
+          "summary": "Revealed from above; a massive bridge spanning a gigantic gorge in France; a record breaking outdoor elevator in China; and the world's longest tunnel carving its way deep beneath the Alps.",
+          "url": "https://www.imdb.com/title/tt44842102/?ref_=ttep_ep_4"
+        }
+      ]
+    },
+    "tt39365196": {
+      "imdbId": "tt39365196",
+      "title": "The Great American Road Rally: Celebrity Edition",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Episode #1.1",
+          "airdate": "2026-05-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39365410/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Episode #1.2",
+          "airdate": "2026-05-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39365413/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": "2026-05-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39365416/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Episode #1.4",
+          "airdate": "2026-06-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39365418/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode #1.5",
+          "airdate": "2026-06-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39365421/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode #1.6",
+          "airdate": "2026-06-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39365423/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Episode #1.7",
+          "airdate": "2026-06-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39365426/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Episode #1.8",
+          "airdate": "2026-07-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39365427/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Episode #1.9",
+          "airdate": "2026-07-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39365428/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Episode #1.10",
+          "airdate": "2026-07-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39365431/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Episode #1.11",
+          "airdate": "2026-07-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39365433/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "Episode #1.12",
+          "airdate": "2026-11-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44231417/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "Episode #1.13",
+          "airdate": "2026-11-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44231545/?ref_=ttep_ep_13"
         }
       ]
     }
