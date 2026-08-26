@@ -1,9 +1,4 @@
 {
-  "Lakefront Bargain Hunt: Renovation-6-12": {
-    "airdate": "2026-08-25",
-    "name": "A Vacation Home Search on Scenic Lake Barkley, Kentucky",
-    "verifiedAt": "2026-07-18T14:21:42.984Z"
-  },
   "The Patrick Star Show-5-11": {
     "airdate": "2026-08-28",
     "name": "Squ-AD-ina/Don't Friend the Reaper",
@@ -55,14 +50,9 @@
     "verifiedAt": "2026-08-08T13:48:35.875Z"
   },
   "Lanterns-1-6": {
-    "airdate": "2026-09-06",
+    "airdate": "2026-09-20",
     "name": "Episode #1.4",
     "verifiedAt": "2026-08-11T14:23:02.034Z"
-  },
-  "Next Gen NYC-2-10": {
-    "airdate": "2026-08-25",
-    "name": "Episode #2.10",
-    "verifiedAt": "2026-08-15T13:30:55.709Z"
   },
   "WWE Friday Night SmackDown-27-35": {
     "airdate": "2026-08-28",
@@ -120,13 +110,53 @@
     "verifiedAt": "2026-08-20T13:47:15.696Z"
   },
   "The Real Housewives: Ultimate Girls Trip-5-6": {
-    "airdate": "2026-09-06",
-    "name": "Meet Me at the Alter ... Ego Party",
+    "airdate": "2026-09-13",
+    "name": "To Peach Her Own",
     "verifiedAt": "2026-08-20T13:49:03.170Z"
   },
   "Below Deck Mediterranean-11-14": {
     "airdate": "2026-09-07",
     "name": "Episode #11.15",
     "verifiedAt": "2026-08-22T13:31:59.082Z"
+  },
+  "Tyler Perry's The Oval-7-22": {
+    "airdate": "2026-09-30",
+    "name": "The Filthy Rat",
+    "verifiedAt": "2026-08-26T13:55:50.130Z"
+  },
+  "WWE Friday Night SmackDown-27-40": {
+    "airdate": "2026-10-02",
+    "name": "Nashville Nightmare",
+    "verifiedAt": "2026-08-26T13:56:07.120Z"
+  },
+  "WWE Friday Night SmackDown-27-41": {
+    "airdate": "2026-10-09",
+    "name": "Australian Anarchy",
+    "verifiedAt": "2026-08-26T13:56:09.600Z"
+  },
+  "WWE Friday Night SmackDown-27-42": {
+    "airdate": "2026-10-16",
+    "name": "Crown Jewel 2025 Fallout",
+    "verifiedAt": "2026-08-26T13:56:12.122Z"
+  },
+  "WWE Friday Night SmackDown-27-44": {
+    "airdate": "2026-10-30",
+    "name": "Signed, Sealed, Smashed",
+    "verifiedAt": "2026-08-26T13:56:17.190Z"
+  },
+  "Snapped-36-19": {
+    "airdate": "2026-08-30",
+    "name": "Nikki Hillrich",
+    "verifiedAt": "2026-08-26T13:56:29.217Z"
+  },
+  "LION-1-3": {
+    "airdate": "2026-08-26",
+    "name": "The Greatest Sacrifice",
+    "verifiedAt": "2026-08-26T13:57:13.292Z"
+  },
+  "LION-1-4": {
+    "airdate": "2026-08-26",
+    "name": "To Be King",
+    "verifiedAt": "2026-08-26T13:57:15.834Z"
   }
 }
