@@ -2375,6 +2375,7 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMDhlNTg3ODktOWNhNC00ZmNlLWFkMWYtM2JlOTEwZjllYjhhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 28 Aug 2026 00:00:00 GMT",
       "genres": [
+        "Comedy",
         "Drama"
       ],
       "people": [
@@ -2681,12 +2682,12 @@
           "name": "Maggie Grace"
         },
         {
-          "id": "nm0001701",
-          "name": "Devon Sawa"
-        },
-        {
           "id": "nm0001494",
           "name": "Ralph Macchio"
+        },
+        {
+          "id": "nm0001701",
+          "name": "Devon Sawa"
         },
         {
           "id": "nm1840504",
@@ -3351,7 +3352,7 @@
     {
       "id": "tt32634611",
       "title": "Daayra",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTA5NThjMWUtMDBhMy00YjRhLThjY2ItNGI2ZjdlNzRmMzBjXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzI4Y2Y0OGMtMTA3Mi00ZTFkLWFjZjAtNGJmMTY3NDMxZGZmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Crime",
@@ -3374,6 +3375,36 @@
         {
           "id": "nm7985316",
           "name": "Prammod Sanghi"
+        }
+      ],
+      "label": "Sep 18, 2026"
+    },
+    {
+      "id": "tt29714073",
+      "title": "Bad Apples",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmViZDJhOWItMGRkMC00ZTlmLTg4ZGYtYjU5MzM2N2ZhNTZlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm16510878",
+          "name": "Eddie Waller"
+        },
+        {
+          "id": "nm0318409",
+          "name": "Sean Gilder"
+        },
+        {
+          "id": "nm16510869",
+          "name": "Harvey Ip"
+        },
+        {
+          "id": "nm17691810",
+          "name": "Lakhan Konsal"
         }
       ],
       "label": "Sep 18, 2026"
@@ -4005,12 +4036,12 @@
           "name": "Tramell Tillman"
         },
         {
-          "id": "nm0991810",
-          "name": "Mahershala Ali"
-        },
-        {
           "id": "nm0002064",
           "name": "Giancarlo Esposito"
+        },
+        {
+          "id": "nm0991810",
+          "name": "Mahershala Ali"
         },
         {
           "id": "nm0158626",
@@ -4224,6 +4255,36 @@
       "label": "Oct 09, 2026"
     },
     {
+      "id": "tt31183803",
+      "title": "A Prayer for the Dying",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTlkMmIxMDAtNzlmZS00MzE3LWI1OWQtMWZiNTgzN2E5Njg2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Family",
+        "Western"
+      ],
+      "people": [
+        {
+          "id": "nm1926865",
+          "name": "Johnny Flynn"
+        },
+        {
+          "id": "nm0000604",
+          "name": "John C. Reilly"
+        },
+        {
+          "id": "nm5056301",
+          "name": "Kristine Kujath Thorp"
+        },
+        {
+          "id": "nm6625833",
+          "name": "Gustav Lindh"
+        }
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
       "id": "tt36870725",
       "title": "Terrestrial",
       "image": "https://m.media-amazon.com/images/M/MV5BMzU2OTJkYmUtZjliMS00MzBiLTkyZjgtNjk2NzllNzBkNWJhXkEyXkFqcGc@._V1_.jpg",
@@ -4284,7 +4345,7 @@
     {
       "id": "tt13609648",
       "title": "Sense and Sensibility",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTMxYzgzYzktODYyYS00MDk4LWE0NmYtZjI4NjBkYTk5YzJlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2U1N2ExYTMtNGM2NS00ZmNiLTlkODktNzZmMjhjZGEzYjgyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -4578,6 +4639,7 @@
     {
       "id": "tt43655467",
       "title": "Ali G: Who Iz I?",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTRjODY3ZTAtZTM2MC00NDEwLWExM2YtMDkxM2Y4NDg2NDc5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
       "genres": [
         "Comedy"
@@ -4586,6 +4648,14 @@
         {
           "id": "nm0056187",
           "name": "Sacha Baron Cohen"
+        },
+        {
+          "id": "nm2885843",
+          "name": "Morgana Robinson"
+        },
+        {
+          "id": "nm18846353",
+          "name": "Stewart Rodeheaver"
         }
       ],
       "label": "Oct 23, 2026"
@@ -5254,12 +5324,12 @@
           "name": "AnnaSophia Robb"
         },
         {
-          "id": "nm3067471",
-          "name": "Anthony Ippolito"
+          "id": "nm0126260",
+          "name": "P.J. Byrne"
         },
         {
-          "id": "nm1527905",
-          "name": "Toby Kebbell"
+          "id": "nm0000369",
+          "name": "Matt Dillon"
         }
       ],
       "label": "Nov 20, 2026"
@@ -5306,6 +5376,10 @@
       ],
       "people": [
         {
+          "id": "nm0876138",
+          "name": "Alan Tudyk"
+        },
+        {
           "id": "nm2794962",
           "name": "Hailee Steinfeld"
         },
@@ -5316,10 +5390,6 @@
         {
           "id": "nm0000149",
           "name": "Jodie Foster"
-        },
-        {
-          "id": "nm0876138",
-          "name": "Alan Tudyk"
         }
       ],
       "label": "Nov 25, 2026"
@@ -5788,12 +5858,12 @@
           "name": "Jason Sudeikis"
         },
         {
-          "id": "nm4141252",
-          "name": "Lily James"
-        },
-        {
           "id": "nm1551130",
           "name": "Keke Palmer"
+        },
+        {
+          "id": "nm4141252",
+          "name": "Lily James"
         },
         {
           "id": "nm3528821",
@@ -6860,8 +6930,8 @@
           "name": "Laura Gordon"
         },
         {
-          "id": "nm10056998",
-          "name": "Meg Fraser"
+          "id": "nm17459004",
+          "name": "Charli Penton"
         }
       ],
       "label": "Mar 19, 2027"
@@ -7000,12 +7070,12 @@
       ],
       "people": [
         {
-          "id": "nm0000210",
-          "name": "Julia Roberts"
-        },
-        {
           "id": "nm0647634",
           "name": "Elizabeth Olsen"
+        },
+        {
+          "id": "nm0000210",
+          "name": "Julia Roberts"
         },
         {
           "id": "nm1519666",
@@ -7731,16 +7801,16 @@
           "name": "David Corenswet"
         },
         {
-          "id": "nm6854116",
-          "name": "Milly Alcock"
-        },
-        {
-          "id": "nm0396558",
-          "name": "Nicholas Hoult"
+          "id": "nm7543974",
+          "name": "Aaron Pierre"
         },
         {
           "id": "nm0277213",
           "name": "Nathan Fillion"
+        },
+        {
+          "id": "nm6854116",
+          "name": "Milly Alcock"
         }
       ],
       "label": "Jul 09, 2027"
@@ -7896,8 +7966,16 @@
           "name": "J.D."
         },
         {
+          "id": "nm1988575",
+          "name": "Lauren London"
+        },
+        {
           "id": "nm9474618",
           "name": "Myles Bullock"
+        },
+        {
+          "id": "nm6400428",
+          "name": "Camron Jones"
         }
       ],
       "label": "Aug 06, 2027"
