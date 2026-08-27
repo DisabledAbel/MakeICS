@@ -77,7 +77,7 @@ Open <http://localhost:3000>, start typing to pick a suggested show, sports team
 
 ## Vercel deployment
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2FMakeICS)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDisabledAbel%2FMakeICS)
 
 ## API
 
