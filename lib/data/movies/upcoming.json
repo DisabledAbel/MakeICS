@@ -2409,10 +2409,6 @@
       ],
       "people": [
         {
-          "id": "nm18563430",
-          "name": "Abhinav Singh"
-        },
-        {
           "id": "nm5137121",
           "name": "Natsuki Hanae"
         },
@@ -2423,6 +2419,10 @@
         {
           "id": "nm2098603",
           "name": "Hikari Mitsushima"
+        },
+        {
+          "id": "nm0594523",
+          "name": "Yoshiko Miyazaki"
         }
       ],
       "label": "Aug 30, 2026"
@@ -3219,8 +3219,8 @@
           "name": "Justin Fletcher"
         },
         {
-          "id": "nm0816950",
-          "name": "John Sparkes"
+          "id": "nm3669803",
+          "name": "Dani Dyer"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3236,6 +3236,7 @@
     {
       "id": "tt32827454",
       "title": "Tiny Fugitives",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTA1Y2U5MTktZjg4MC00YmI2LTg3YmQtNDQ3ODQyNTc0ZjI5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Comedy"
@@ -3517,8 +3518,8 @@
           "name": "Manny Jacinto"
         },
         {
-          "id": "nm5307044",
-          "name": "Ronny Chieng"
+          "id": "nm0758964",
+          "name": "Lea Salonga"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3752,12 +3753,12 @@
           "name": "Jason Isaacs"
         },
         {
-          "id": "nm5057169",
-          "name": "Thomasin McKenzie"
-        },
-        {
           "id": "nm2235721",
           "name": "Ruth Wilson"
+        },
+        {
+          "id": "nm5057169",
+          "name": "Thomasin McKenzie"
         }
       ],
       "label": "Sep 25, 2026"
@@ -4021,6 +4022,35 @@
       "label": "Oct 04, 2026"
     },
     {
+      "id": "tt0093427",
+      "title": "Queen Live in Budapest",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjI2ZmM5Y2YtNTViYi00OWViLWE5MzYtOWQwZTViOTczNjU5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 07 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm1277102",
+          "name": "Queen"
+        },
+        {
+          "id": "nm0212577",
+          "name": "John Deacon"
+        },
+        {
+          "id": "nm0006190",
+          "name": "Brian May"
+        },
+        {
+          "id": "nm0006198",
+          "name": "Freddie Mercury"
+        }
+      ],
+      "label": "Oct 07, 2026"
+    },
+    {
       "id": "tt35856037",
       "title": "Your Mother Your Mother Your Mother",
       "image": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_.jpg",
@@ -4083,7 +4113,7 @@
     {
       "id": "tt37510326",
       "title": "The Social Reckoning",
-      "image": "https://m.media-amazon.com/images/M/MV5BMGRhMWI2OWUtMGU5Yi00NGMxLWFjNDMtMTgxY2RjZTVlYjI2XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGNjNjJjMjMtYzBjNy00ZmEyLWEzNWMtYzE2ODRkNjk3OGZlXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -4193,35 +4223,6 @@
         {
           "id": "nm4363958",
           "name": "Alejandro Nieves"
-        }
-      ],
-      "label": "Oct 09, 2026"
-    },
-    {
-      "id": "tt0093427",
-      "title": "Queen Live in Budapest",
-      "image": "https://m.media-amazon.com/images/M/MV5BZjI2ZmM5Y2YtNTViYi00OWViLWE5MzYtOWQwZTViOTczNjU5XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
-      "genres": [
-        "Documentary",
-        "Music"
-      ],
-      "people": [
-        {
-          "id": "nm1277102",
-          "name": "Queen"
-        },
-        {
-          "id": "nm0212577",
-          "name": "John Deacon"
-        },
-        {
-          "id": "nm0006190",
-          "name": "Brian May"
-        },
-        {
-          "id": "nm0006198",
-          "name": "Freddie Mercury"
         }
       ],
       "label": "Oct 09, 2026"
@@ -4441,20 +4442,20 @@
       ],
       "people": [
         {
-          "id": "nm5901379",
-          "name": "James Harkness"
-        },
-        {
           "id": "nm0564215",
           "name": "James McAvoy"
         },
         {
-          "id": "nm13633111",
-          "name": "Lucy Halliday"
+          "id": "nm5901379",
+          "name": "James Harkness"
         },
         {
-          "id": "nm3806097",
-          "name": "Amber Anderson"
+          "id": "nm0179479",
+          "name": "James Corden"
+        },
+        {
+          "id": "nm13633111",
+          "name": "Lucy Halliday"
         }
       ],
       "label": "Oct 16, 2026"
@@ -4639,7 +4640,7 @@
     {
       "id": "tt43655467",
       "title": "Ali G: Who Iz I?",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTRjODY3ZTAtZTM2MC00NDEwLWExM2YtMDkxM2Y4NDg2NDc5XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjIyYWYyMzEtMDkwOC00NDk0LWEwYzItNTk1NWYxNWEwMjA5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
       "genres": [
         "Comedy"
@@ -5490,8 +5491,8 @@
     },
     {
       "id": "tt36408401",
-      "title": "The Adventures of Cliff Booth",
-      "image": "https://m.media-amazon.com/images/M/MV5BYWU0OTNmZTEtYzQzMy00NjUzLWFjNWMtNzkyMmRmZWJiMDJmXkEyXkFqcGc@._V1_.jpg",
+      "title": "The Further Mis-Adventures of Cliff Booth",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDc2MjU2ZjktZTc0Ny00YjgwLTk2OTYtMDQzNTU5OGNhMjdkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -5921,12 +5922,12 @@
           "name": "Nana Patekar"
         },
         {
-          "id": "nm1277547",
-          "name": "Vineet Kumar Singh"
+          "id": "nm6946196",
+          "name": "Vishal Jethwa"
         },
         {
-          "id": "nm0084443",
-          "name": "Seema Biswas"
+          "id": "nm1277547",
+          "name": "Vineet Kumar Singh"
         }
       ],
       "label": "Dec 24, 2026"
@@ -6198,8 +6199,8 @@
           "name": "Richard Roxburgh"
         },
         {
-          "id": "nm0934362",
-          "name": "Penelope Wilton"
+          "id": "nm0909144",
+          "name": "David Walliams"
         }
       ],
       "label": "Jan 15, 2027"
@@ -7897,6 +7898,14 @@
         {
           "id": "nm0000158",
           "name": "Tom Hanks"
+        },
+        {
+          "id": "nm4360085",
+          "name": "Callum Turner"
+        },
+        {
+          "id": "nm0165101",
+          "name": "Patricia Clarkson"
         }
       ],
       "label": "Jul 30, 2027"
@@ -7970,12 +7979,12 @@
           "name": "Lauren London"
         },
         {
-          "id": "nm9474618",
-          "name": "Myles Bullock"
+          "id": "nm4861346",
+          "name": "Algee Smith"
         },
         {
-          "id": "nm6400428",
-          "name": "Camron Jones"
+          "id": "nm9474618",
+          "name": "Myles Bullock"
         }
       ],
       "label": "Aug 06, 2027"
