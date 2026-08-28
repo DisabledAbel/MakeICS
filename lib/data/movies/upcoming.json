@@ -3745,6 +3745,10 @@
       ],
       "people": [
         {
+          "id": "nm18740300",
+          "name": "Guillaume Doradoux"
+        },
+        {
           "id": "nm2140860",
           "name": "Maika Monroe"
         },
@@ -3755,10 +3759,6 @@
         {
           "id": "nm2235721",
           "name": "Ruth Wilson"
-        },
-        {
-          "id": "nm5057169",
-          "name": "Thomasin McKenzie"
         }
       ],
       "label": "Sep 25, 2026"
@@ -4143,7 +4143,7 @@
     {
       "id": "tt35410859",
       "title": "Fjord",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWYwMDA1N2QtNDBmNi00YjNmLWI4MjktNmM0OTIxNWMzMTdlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGQwZTQ0YzgtZjk5Mi00NTg1LTg0MmMtZmNjNGUwYjhjNWJhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -4262,7 +4262,6 @@
       "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
       "genres": [
         "Drama",
-        "Family",
         "Western"
       ],
       "people": [
@@ -4491,7 +4490,7 @@
     {
       "id": "tt31456607",
       "title": "Trust Me, I'm a Doctor",
-      "image": "https://m.media-amazon.com/images/M/MV5BM2NhNWZiZDItNTRhMS00MGY5LTllYWEtNjQyZGZlYzUxY2I2XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNlNGU1NmEtMDdkZS00OGUwLWI3MTYtNzk5YWU4ZjFkNWJhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -4500,20 +4499,20 @@
       ],
       "people": [
         {
-          "id": "nm0180411",
-          "name": "Abbie Cornish"
+          "id": "nm0671980",
+          "name": "Kal Penn"
         },
         {
           "id": "nm0000157",
           "name": "Linda Hamilton"
         },
         {
-          "id": "nm1014989",
-          "name": "David Julian Hirsh"
+          "id": "nm0180411",
+          "name": "Abbie Cornish"
         },
         {
-          "id": "nm0223570",
-          "name": "Dhirendra"
+          "id": "nm1014989",
+          "name": "David Julian Hirsh"
         }
       ],
       "label": "Oct 16, 2026"
@@ -4580,7 +4579,7 @@
     {
       "id": "tt2056785",
       "title": "Wildwood",
-      "image": "https://m.media-amazon.com/images/M/MV5BMzkwZWRhZDUtZGZlOC00NDFmLTgzNTctNzc2Y2U5NWUyZDg5XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWI3NWZjNDEtNzRmMS00M2M0LWI3Y2YtNDk3NjY5ZWI4OGYwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
       "genres": [
         "Animation",
@@ -4700,6 +4699,36 @@
         "Family"
       ],
       "people": [],
+      "label": "Oct 28, 2026"
+    },
+    {
+      "id": "tt37660509",
+      "title": "On the Road",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzE3ODQ5NmEtMjE1ZS00OWMxLTgyZDktZjNjNzgzZDA4ZGJhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 28 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm17516719",
+          "name": "Victor Prieto Simental"
+        },
+        {
+          "id": "nm8227918",
+          "name": "Osvaldo Sanchez"
+        },
+        {
+          "id": "nm18553466",
+          "name": "Victor Manuel Aguirre"
+        },
+        {
+          "id": "nm18553470",
+          "name": "Mariano López Sosa"
+        }
+      ],
       "label": "Oct 28, 2026"
     },
     {
@@ -5654,12 +5683,12 @@
           "name": "Marion Bailey"
         },
         {
-          "id": "nm0422234",
-          "name": "Paul Jesson"
+          "id": "nm0107261",
+          "name": "Brid Brennan"
         },
         {
-          "id": "nm0424484",
-          "name": "Alice Bailey Johnson"
+          "id": "nm0422234",
+          "name": "Paul Jesson"
         }
       ],
       "label": "Dec 04, 2026"
@@ -6466,6 +6495,34 @@
         {
           "id": "nm0353546",
           "name": "Julie Hagerty"
+        }
+      ],
+      "label": "Feb 05, 2027"
+    },
+    {
+      "id": "tt33522697",
+      "title": "Trial of Hein",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmFjZjIwMGUtMzVjYS00ODJlLWJiMjItY2ViNjJiMzA5MTM0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 05 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm2163092",
+          "name": "Emilia Schüle"
+        },
+        {
+          "id": "nm0420889",
+          "name": "Julika Jenkins"
+        },
+        {
+          "id": "nm0354198",
+          "name": "Jeanette Hain"
+        },
+        {
+          "id": "nm0111203",
+          "name": "Margarita Broich"
         }
       ],
       "label": "Feb 05, 2027"
