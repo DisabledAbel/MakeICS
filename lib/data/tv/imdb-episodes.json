@@ -97,7 +97,7 @@
           "season": 1,
           "number": 12,
           "name": "Hallow's Eve Hijinks/Costume Clash",
-          "airdate": null,
+          "airdate": "2026-08-21",
           "summary": "Zane releases a mischievous goblin to help win a Hallow's Eve decoration contest. Lucinda the Witch and Camila spend All Hallow's Eve with Sofia.",
           "url": "https://www.imdb.com/title/tt39364974/?ref_=ttep_ep_12"
         },
@@ -1811,7 +1811,7 @@
           "number": 7,
           "name": "Somehow Some Way",
           "airdate": "2026-08-17",
-          "summary": null,
+          "summary": "After the ICE raid, Coop, Layla, KJ, Breonna and Khalil work to save their loved ones. Jordan and Cassius help the community while dealing with fallout from their failed press conference with Cliff.",
           "url": "https://www.imdb.com/title/tt37156725/?ref_=ttep_ep_7"
         },
         {
@@ -1819,7 +1819,7 @@
           "number": 8,
           "name": "Best Friends",
           "airdate": "2026-08-24",
-          "summary": null,
+          "summary": "A pregnant Olivia visits Layla when she needs her most. As Tori seeks relationship help, they relive their friendship's highs and lows. Cliff pulls KJ into shady plans, and outside pressures overwhelm Khalil as the showcase nears.",
           "url": "https://www.imdb.com/title/tt37156732/?ref_=ttep_ep_8"
         },
         {
@@ -7048,7 +7048,7 @@
           "number": 13,
           "name": "Quarterfinals 1 Results",
           "airdate": "2026-08-19",
-          "summary": null,
+          "summary": "The first live quarterfinal concludes as America's vote sends three acts to the semifinals, while a Golden Buzzer recipient advances directly to the finals.",
           "url": "https://www.imdb.com/title/tt43754622/?ref_=ttep_ep_13"
         },
         {
@@ -7056,7 +7056,7 @@
           "number": 14,
           "name": "Quarterfinals 2",
           "airdate": "2026-08-25",
-          "summary": null,
+          "summary": "Eleven acts perform in week two of live quarterfinals. The Live Show Golden Buzzer advances one act straight to the finals, while America votes for three more acts to move forward.",
           "url": "https://www.imdb.com/title/tt43754628/?ref_=ttep_ep_14"
         },
         {
@@ -7064,7 +7064,7 @@
           "number": 15,
           "name": "Quarterfinals 2 Results",
           "airdate": "2026-08-26",
-          "summary": null,
+          "summary": "One act goes directly to finals via Golden Buzzer; America's votes determine which three acts from quarterfinals night two advance to semi-finals.",
           "url": "https://www.imdb.com/title/tt44111672/?ref_=ttep_ep_15"
         },
         {
@@ -9562,8 +9562,24 @@
           "number": 34,
           "name": "All In 2026 Go-Home Show",
           "airdate": "2026-08-26",
-          "summary": null,
+          "summary": "AEW from Glasgow's OVO Hydro, it's the final Dynamite before All In: London. The Continental Challenge Cup Semifinal sees two Death Riders square off as Jon Moxley faces Claudio Castagnoli, and Kyle O'Reilly takes on UK's Nigel McGuinness.",
           "url": "https://www.imdb.com/title/tt43691694/?ref_=ttep_ep_34"
+        },
+        {
+          "season": 8,
+          "number": 40,
+          "name": "Grand Slam Paris 2026",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44863271/?ref_=ttep_ep_40"
+        },
+        {
+          "season": 8,
+          "number": 41,
+          "name": "Episode #8.41",
+          "airdate": "2026-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44863278/?ref_=ttep_ep_41"
         },
         {
           "season": 7,
@@ -10133,7 +10149,7 @@
           "number": 24,
           "name": "Episode #28.24",
           "airdate": "2026-08-26",
-          "summary": null,
+          "summary": "The fireworks continue. Then, the Power of Veto is on the line. Will one of the nominees win safety?",
           "url": "https://www.imdb.com/title/tt43650779/?ref_=ttep_ep_24"
         },
         {
@@ -11665,9 +11681,9 @@
         {
           "season": 2,
           "number": 10,
-          "name": "Episode #2.10",
+          "name": "You Windham, You Lose Some",
           "airdate": "2026-08-26",
-          "summary": null,
+          "summary": "Liam's plans for a fun ski weekend in upstate New York are quickly dashed as he deals with rumors about Ariana and Charlie's budding friendship. The inner workings of Georgia's cleaning company are getting messy. An offhanded joke about Shai turns serious.",
           "url": "https://www.imdb.com/title/tt44119736/?ref_=ttep_ep_10"
         },
         {
@@ -20748,6 +20764,22 @@
           "url": "https://www.imdb.com/title/tt43691712/?ref_=ttep_ep_37"
         },
         {
+          "season": 4,
+          "number": 42,
+          "name": "Episode #4.42",
+          "airdate": "2026-10-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44863301/?ref_=ttep_ep_42"
+        },
+        {
+          "season": 4,
+          "number": 43,
+          "name": "Grand Slam Paris 2026",
+          "airdate": "2026-10-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44863305/?ref_=ttep_ep_43"
+        },
+        {
           "season": 3,
           "number": 1,
           "name": "Retribution from an Old Friend",
@@ -23013,7 +23045,7 @@
           "number": 15,
           "name": "It's Better to Bend Than Break",
           "airdate": "2026-08-16",
-          "summary": "Paula gets a surprise visitor. Catie stresses over wedding prep. Mallorie offers a compromise to Rasit. Shea's daughters worry about their inheritance. Marissa and Edward's date goes from bad to worse. Debby fears her son won't be at her wedding.",
+          "summary": "Paula gets a surprise visitor. Catie stresses over wedding prep. Mallorie offers Rasit a compromise. Shea's daughters worry about their inheritance.",
           "url": "https://www.imdb.com/title/tt43682003/?ref_=ttep_ep_15"
         },
         {
@@ -23021,7 +23053,7 @@
           "number": 16,
           "name": "Last Fling Before the Ring",
           "airdate": "2026-08-23",
-          "summary": "Rasit gets a surprise at his bachelor party. Thomas and Paula clash before the wedding. Shea and Anabelle walk down the aisle. Marissa learns shocking financial implications. Ashia ignores her friends doubts. Josh needs answers before walking down the aisle.",
+          "summary": "Rasit gets a surprise at his bachelor party. Thomas and Paula clash before the wedding. Shea and Anabelle walk down the aisle. Marissa learns shocking financial news. Ashia ignores her friends' doubts.",
           "url": "https://www.imdb.com/title/tt43682013/?ref_=ttep_ep_16"
         },
         {
@@ -24819,7 +24851,7 @@
         {
           "season": 1,
           "number": 42,
-          "name": "Episode #1.42",
+          "name": "Quiero que me sientas",
           "airdate": "2026-07-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43692796/?ref_=ttep_ep_42"
@@ -25459,10 +25491,10 @@
         {
           "season": 3,
           "number": 9,
-          "name": "Episode #3.9",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt37519722/?ref_=ttep_ep_9"
+          "name": "Episode #3.6",
+          "airdate": "2026-09-09",
+          "summary": "On Ark One, time takes on an entirely new meaning, while sinister forces are revealed on Homebase.",
+          "url": "https://www.imdb.com/title/tt37519718/?ref_=ttep_ep_6"
         },
         {
           "season": 3,
@@ -26814,22 +26846,6 @@
           "airdate": "2026-08-31",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43644557/?ref_=ttep_ep_10"
-        },
-        {
-          "season": 2,
-          "number": 11,
-          "name": "And What Dreams May Come",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44811564/?ref_=ttep_ep_11"
-        },
-        {
-          "season": 2,
-          "number": 12,
-          "name": "And the Camelot Conundrum",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44816689/?ref_=ttep_ep_12"
         },
         {
           "season": 1,
@@ -28643,40 +28659,8 @@
           "number": 3,
           "name": "House of Hormones",
           "airdate": "2014-02-12",
-          "summary": "Pete's 21 year old god daughter Stacey from Australia is staying and sets Ben's pulse racing as she walks around the house in only a towel. Pete thinks it time for Ben to have a chat about the facts of life - from Jake but Jake is more interested in persuading his parents to let girlfriend Alex stay over. Everybody except Pete is delighted when Sue agrees to mind a friend's baby - nicknamed the Werewolf - overnight, prompting Karen to ask awkward questions about child-birth and again raise the topic of her lost hamster. Ultimately Jake regrets his decision when other girlfriends get in touch, possibly tipped off by Sue, whilst Pete is happy to give the baby back to his mother and Ben is happy with a final revealing glimpse of Stacey.",
+          "summary": "Pete's 21 year old god daughter Stacey from Australia is staying and sets Ben's pulse racing as she walks around the house in only a towel. Pete thinks it time for Ben to have a chat about the facts of life - from Jake but Jake is more",
           "url": "https://www.imdb.com/title/tt3514498/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 5,
-          "number": 4,
-          "name": "Into the Wilderness",
-          "airdate": "2014-02-19",
-          "summary": "Pete and Ben go on a bonding trip, camping in the woods, while Sue and Stacy don't exactly see eye-to-eye over the empowerment of women.",
-          "url": "https://www.imdb.com/title/tt3551104/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 5,
-          "number": 5,
-          "name": "Communication Skills",
-          "airdate": "2014-02-26",
-          "summary": "Sue is trying to organize a conference so it falls to Pete to let Karen in after school but he has to go to buy a central heating pump so rings Jake to come home. Jake has lost his Oyster card and has no cash so this requires a call to Ben, only for Pete to find himself speaking to a Chinese tourist who has found Ben's lost phone. Karen is delayed as the headmistress keeps her back to upbraid her for rubbishing the school rules. Nonetheless she still manages to get in ahead of Pete whilst Ben ends up asking the Chinaman and his wife round for tea.",
-          "url": "https://www.imdb.com/title/tt3548006/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 5,
-          "number": 6,
-          "name": "Spartacus the Musical",
-          "airdate": "2014-03-05",
-          "summary": "Grandad is very ill, bringing Angela back from America, with toy boy Tommy, whom she met at Sunday school. Sue is immediately rattled when Angela makes plans for their father as well as claiming that he recognized her when he failed to recognize Sue. After Tommy and Stacey decide to tour Europe Angela returns to the States and the family goes to see Ben in his school musical, 'Spartacus'. Ben is surprisingly nervous but a pep talk from Karen gives him the confidence to put on a good show. Sue and Pete also learn that, thanks to Jake, Angela has been persuaded to write a huge cheque that will solves all their worries about Grandad.",
-          "url": "https://www.imdb.com/title/tt3565284/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 5,
-          "number": 7,
-          "name": "Christmas Special 2016",
-          "airdate": "2016-12-26",
-          "summary": "The Brockman family are on a special mission at Christmas time.",
-          "url": "https://www.imdb.com/title/tt6262758/?ref_=ttep_ep_7"
         },
         {
           "season": 4,
@@ -30513,7 +30497,7 @@
         {
           "season": 3,
           "number": 10,
-          "name": "The Apology Soirée/Scissors' Perfect Match",
+          "name": "Scissors' Perfect Match/The Apology Soirée",
           "airdate": "2026-08-28",
           "summary": "While Paper and Scissors throw an apology party for everyone they've wronged, Rock accidentally shrinks himself and Franz Roll; Scissors falls for a beautiful mermaid he met on a dating app.",
           "url": "https://www.imdb.com/title/tt41665815/?ref_=ttep_ep_10"
@@ -31332,6 +31316,14 @@
           "airdate": "2026-08-26",
           "summary": "Phil and Heather continue their investigation into the darker side of the legend of Robin Hood in England. Exploring reports of hostile ghosts in a medieval prison and sinister pagan rituals in Sherwood Forest, uncovering shocking answers.",
           "url": "https://www.imdb.com/title/tt44111834/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 12,
+          "number": 9,
+          "name": "Ghosts of Guam",
+          "airdate": "2026-09-09",
+          "summary": "Guam's brutal wartime past is said to have left more than scars upon its shores. After reports of hostile spirits and unexplained encounters, Phil and Heather venture from haunted battlefields into the island's jungle in search of answers.",
+          "url": "https://www.imdb.com/title/tt44847077/?ref_=ttep_ep_4"
         },
         {
           "season": 11,
@@ -33893,14 +33885,6 @@
           "airdate": "2026-08-27",
           "summary": "Revealed from above; The Pantheon - one of ancient Rome's most enduring and enigmatic feats of engineering; in Panama - a continent crossing canal that almost never was.",
           "url": "https://www.imdb.com/title/tt44122607/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 1,
-          "number": 4,
-          "name": "Record Breakers",
-          "airdate": "2026-09-03",
-          "summary": "Revealed from above; a massive bridge spanning a gigantic gorge in France; a record breaking outdoor elevator in China; and the world's longest tunnel carving its way deep beneath the Alps.",
-          "url": "https://www.imdb.com/title/tt44842102/?ref_=ttep_ep_4"
         }
       ]
     },
@@ -34011,6 +33995,124 @@
           "airdate": "2026-11-25",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44231545/?ref_=ttep_ep_13"
+        }
+      ]
+    },
+    "tt0364784": {
+      "imdbId": "tt0364784",
+      "title": "Austin City Limits",
+      "episodes": [
+        {
+          "season": 52,
+          "number": 1,
+          "name": "Carlos Vives y La Provincia",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44304635/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 51,
+          "number": 1,
+          "name": "Finneas",
+          "airdate": "2025-10-04",
+          "summary": "Singer, songwriter and producer FINNEAS takes center stage with songs from his solo outing For Cryin' Out Loud. The ten-time Grammy-winning hitmaker dazzles with highlights and new gems detailing his sonic journey in a revelatory hour.",
+          "url": "https://www.imdb.com/title/tt38595897/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 51,
+          "number": 2,
+          "name": "The Marias",
+          "airdate": "2025-10-11",
+          "summary": "The Marías make their ACL debut with songs from their acclaimed Submarine in a spellbinding hour. The bilingual group blends English and Spanish lyrics anchored by smoke velvet vocals, hypnotic guitar and lush jazz percussion.",
+          "url": "https://www.imdb.com/title/tt38646009/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 51,
+          "number": 3,
+          "name": "ACL 11th Annual Hall of Fame Honors My Morning Jacket",
+          "airdate": "2025-10-18",
+          "summary": "ACL inducts rock legends My Morning Jacket into the 11th Annual ACL Hall of Fame. Special guest Cameron Crowe honors the fan-favorite Kentucky band, and MMJ takes the stage with classics and new highlights from their latest LP Is.",
+          "url": "https://www.imdb.com/title/tt38710499/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 51,
+          "number": 4,
+          "name": "Charlie Crockett/Waxahatchee",
+          "airdate": "2025-10-25",
+          "summary": "A pair of Grammy-nominated acts take the ACL stage: Country maverick Charley Crockett thrills with tunes from his \"Lonesome Drifter,\" and breakout singer-songwriter Waxahatchee sparkles with gems from her acclaimed \"Tiger's Blood.\"",
+          "url": "https://www.imdb.com/title/tt38779376/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 51,
+          "number": 5,
+          "name": "Samara Joy",
+          "airdate": "2025-11-01",
+          "summary": "NAACP Image Award winner and 5x Grammy-winning jazz vocalist Samara Joy shines with gorgeous vocals and exciting arrangements in a dazzling hour. She performs songs from her breakthrough Linger Awhile and her latest studio album Portrait.",
+          "url": "https://www.imdb.com/title/tt38912822/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 51,
+          "number": 6,
+          "name": "Austin City Limits Celebrates Antone's & The Blues",
+          "airdate": "2025-11-08",
+          "summary": "ACL salutes the 50th Anniversary of iconic Austin blues club Antone's and the series' own history of showcasing blues in a supercharged hour featuring an all-star line-up.",
+          "url": "https://www.imdb.com/title/tt38924585/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 51,
+          "number": 7,
+          "name": "Kelsea Ballerini / CAM",
+          "airdate": "2025-11-15",
+          "summary": "Acclaimed genre-bending country acts Kelsea Ballerini and Cam deliver radiant ACL debuts: Chart-topper Ballerini dazzles with hits and highlights from her LP \"Patterns\"; Grammy-winning Cam showcases her new collection \"All Things Light.\"",
+          "url": "https://www.imdb.com/title/tt38935865/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 51,
+          "number": 8,
+          "name": "Role Model/MJ Lenderman & the Wind",
+          "airdate": "2025-11-22",
+          "summary": "A pair of next-generation singer-songwriters make ACL debuts: chart-topper Role Model performs hits from Kansas Anymore, while Asheville, NC indie-rock ace MJ Lenderman and The Wind light up the stage with songs from Manning Fireworks.",
+          "url": "https://www.imdb.com/title/tt39301906/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 51,
+          "number": 9,
+          "name": "Jon Batiste",
+          "airdate": "2025-12-13",
+          "summary": "Seven-time Grammy and Academy Award winner Jon Batiste returns for an electrifying hour. The New Orleans native and vibrant ambassador of jazz, blues, and soul lights up the stage with an ecstatic performance of gems from \"Big Money.\"",
+          "url": "https://www.imdb.com/title/tt39398754/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 51,
+          "number": 10,
+          "name": "Reneé Rapp / Thee Sacred Souls",
+          "airdate": "2026-01-17",
+          "summary": "Fan-favorites make magnetic ACL debuts: Pop star Reneé Rapp delivers chart-toppers and kiss-off anthems from her LP Bite Me and acclaimed San Diego modern soul trio Thee Sacred Souls captivate with highlights from Got A Story To Tell.",
+          "url": "https://www.imdb.com/title/tt39399264/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 51,
+          "number": 11,
+          "name": "Marcus King Band / Wyatt Flores",
+          "airdate": "2026-01-24",
+          "summary": "Electrifying acts light up the ACL stage: South Carolina's Marcus King Band rocks fan-favorites and new tracks from 'Darling Blue,' while Red Dirt country singer-songwriter Wyatt Flores shines with songs from 'Welcome to the Plains.'",
+          "url": "https://www.imdb.com/title/tt39401948/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 51,
+          "number": 12,
+          "name": "Queens of the Stone Age",
+          "airdate": "2026-01-31",
+          "summary": "Rock titans QOTSA take the ACL stage anew for Alive in the Catacombs, a project conceived in the ancient tombs beneath Paris. Josh Homme and Co. deliver a master class reimagining their iconic catalog in an immersive, innovative hour.",
+          "url": "https://www.imdb.com/title/tt39402205/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 51,
+          "number": 13,
+          "name": "Leon Thomas",
+          "airdate": "2026-02-07",
+          "summary": "Six-time 2026 Grammy nominee Leon Thomas delivers a magnetic hour, showcasing songs from his Album of the Year-nominated MUTT and new EP PHOLKS. Dubbed \"R&B's hottest rock star,\" the Best New Artist contender commands the ACL stage.",
+          "url": "https://www.imdb.com/title/tt39403737/?ref_=ttep_ep_13"
         }
       ]
     }
