@@ -2478,6 +2478,30 @@
           "url": "https://www.imdb.com/title/tt43719496/?ref_=ttep_ep_10"
         },
         {
+          "season": 18,
+          "number": 11,
+          "name": "National Finals 2",
+          "airdate": "2026-08-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44899409/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 18,
+          "number": 12,
+          "name": "National Finals 3",
+          "airdate": "2026-08-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44899419/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 18,
+          "number": 13,
+          "name": "National Finals 4",
+          "airdate": "2026-08-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44899427/?ref_=ttep_ep_13"
+        },
+        {
           "season": 17,
           "number": 1,
           "name": "Qualifiers 1",
@@ -16138,6 +16162,14 @@
           "url": "https://www.imdb.com/title/tt44686847/?ref_=ttep_ep_14"
         },
         {
+          "season": 22,
+          "number": 15,
+          "name": "Aleutian Solution",
+          "airdate": "2026-08-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44898509/?ref_=ttep_ep_15"
+        },
+        {
           "season": 21,
           "number": 1,
           "name": "The Wild West",
@@ -24343,7 +24375,7 @@
           "number": 5,
           "name": "David",
           "airdate": "2026-08-23",
-          "summary": null,
+          "summary": "Curtis clashes with his Party and faces possible replacement, then heads to Camp David to prove his presidential abilities. Banks deals with camp politics.",
           "url": "https://www.imdb.com/title/tt43716923/?ref_=ttep_ep_5"
         },
         {
@@ -30508,7 +30540,7 @@
         {
           "season": 1,
           "number": 3,
-          "name": "Episode #1.3",
+          "name": "OutKast",
           "airdate": "2026-08-30",
           "summary": null,
           "url": "https://www.imdb.com/title/tt32752612/?ref_=ttep_ep_3"
@@ -33675,7 +33707,7 @@
         {
           "season": 9,
           "number": 8,
-          "name": "Episode #9.2",
+          "name": "Do You Want to Build a... Music Video?",
           "airdate": "2026-09-08",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44890194/?ref_=ttep_ep_2"
