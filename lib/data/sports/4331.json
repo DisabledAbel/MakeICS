@@ -15,7 +15,7 @@
       "strLeague": "German Bundesliga",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png",
       "strSeason": "2026-2027",
-      "strDescriptionEN": "",
+      "strDescriptionEN": "Bayern Munich begin their Bundesliga campaign at the Allianz Arena against Stuttgart in a high-profile opening fixture. The defending champions will look to set the tone for the new season on home soil, while Stuttgart arrive aiming to challenge one of Germany's dominant forces. With early momentum and a strong start at stake, the season opener promises an immediate test for both sides.",
       "strHomeTeam": "Bayern Munich",
       "strAwayTeam": "Stuttgart",
       "intRound": "1",
@@ -87,7 +87,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -131,7 +131,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "1H",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -175,7 +175,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -219,7 +219,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
