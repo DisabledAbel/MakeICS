@@ -1143,7 +1143,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -1187,7 +1187,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -1231,7 +1231,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -2734,7 +2734,7 @@
     {
       "idEvent": "2487562",
       "idAPIfootball": "1551004",
-      "strTimestamp": "2026-10-21T03:07:00",
+      "strTimestamp": "2026-10-21T00:07:00",
       "strEvent": "CD Guadalajara vs Necaxa",
       "strEventAlternate": "Necaxa @ CD Guadalajara",
       "strFilename": "Mexican Liga MX 2026-10-21 CD Guadalajara vs Necaxa",
@@ -2752,7 +2752,7 @@
       "strWeather": null,
       "dateEvent": "2026-10-21",
       "dateEventLocal": null,
-      "strTime": "03:07:00",
+      "strTime": "00:07:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "134206",
