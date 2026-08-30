@@ -2815,13 +2815,30 @@
     },
     {
       "id": "tt41782670",
-      "title": "Lau Chu Hoa",
+      "title": "Lau Chu Hoa: The Deadliest Mansion",
       "image": "https://m.media-amazon.com/images/M/MV5BMjY2N2E2MmYtZjQ5ZC00ZmY5LTlmZDEtMTA1ZjdkNGU2NDVjXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
       "genres": [
         "Horror"
       ],
-      "people": [],
+      "people": [
+        {
+          "id": "nm17267480",
+          "name": "Ngoc Chi Bao"
+        },
+        {
+          "id": "nm18861061",
+          "name": "Dung Ha"
+        },
+        {
+          "id": "nm18861059",
+          "name": "Phung Hoang"
+        },
+        {
+          "id": "nm18443598",
+          "name": "Tran Ky Anh"
+        }
+      ],
       "label": "Sep 04, 2026"
     },
     {
@@ -2987,8 +3004,8 @@
           "name": "Stephen Dillane"
         },
         {
-          "id": "nm0390903",
-          "name": "Tom Hollander"
+          "id": "nm7035760",
+          "name": "Woody Norman"
         }
       ],
       "label": "Sep 11, 2026"
@@ -3362,12 +3379,12 @@
       ],
       "people": [
         {
-          "id": "nm1335387",
-          "name": "Prithviraj Sukumaran"
-        },
-        {
           "id": "nm0004626",
           "name": "Kareena Kapoor"
+        },
+        {
+          "id": "nm1335387",
+          "name": "Prithviraj Sukumaran"
         },
         {
           "id": "nm12325577",
