@@ -3589,6 +3589,54 @@
       "title": "120 Hours Behind Bars",
       "episodes": [
         {
+          "season": 2,
+          "number": 1,
+          "name": "Clay County Detention Center",
+          "airdate": "2026-07-13",
+          "summary": "In Clay County, a small jail bears the weight of a community in crisis.",
+          "url": "https://www.imdb.com/title/tt44916651/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Tangipahoa Parish Jail",
+          "airdate": "2026-07-20",
+          "summary": "A new sheriff battles violence and neglect in a crumbling Louisiana jail.",
+          "url": "https://www.imdb.com/title/tt44916656/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Suffolk Correctional Facility",
+          "airdate": "2026-08-03",
+          "summary": "A sheriff uses rehabilitation to combat opioid addiction behind bars.",
+          "url": "https://www.imdb.com/title/tt44916661/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Wood County Jail",
+          "airdate": "2026-08-10",
+          "summary": "A new jail with innovative programming hopes for a positive inmate impact.",
+          "url": "https://www.imdb.com/title/tt44916664/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "San Francisco County Jail",
+          "airdate": "2026-08-17",
+          "summary": "San Francisco's largest jail battles addiction and offers a path forward.",
+          "url": "https://www.imdb.com/title/tt44916667/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Flagler County Jail",
+          "airdate": "2026-08-24",
+          "summary": "In Flagler County, a sheriff uses law and order to battle repeat offenders.",
+          "url": "https://www.imdb.com/title/tt44916669/?ref_=ttep_ep_6"
+        },
+        {
           "season": 1,
           "number": 1,
           "name": "Washington Parish Jail",
@@ -6740,6 +6788,22 @@
           "airdate": "2026-08-25",
           "summary": "Italian restaurant Café Notte is on the verge of collapse. Gordon steps in to help with unresolved tension between the head chef and his stepson before it destroys both the business and their family.",
           "url": "https://www.imdb.com/title/tt44042519/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 10,
+          "number": 9,
+          "name": "Lyla's Family Restaurant Part 1",
+          "airdate": null,
+          "summary": "Waleed sets out to achieve the American Dream with Lyla's Family Restaurant, but a sprawling menu, an overwhelmed kitchen, and a steady stream of dishes sent back have left the restaurant on the brink of collapse. Gordon Ramsay steps in to help revive the neighborhood favorite with a stunning transformation and a fully revamped kitchen, but just as Lyla's prepares for a fresh start, a shocking opening-day emergency threatens to undo everything.",
+          "url": "https://www.imdb.com/title/tt44912582/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 10,
+          "number": 10,
+          "name": "Lyla's Family Restaurant Part 2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44912606/?ref_=ttep_ep_10"
         },
         {
           "season": 9,
@@ -10043,7 +10107,7 @@
         {
           "season": 28,
           "number": 25,
-          "name": "1000th Episode",
+          "name": "Episode #28.25",
           "airdate": "2026-08-27",
           "summary": "It's a do or die BB Block Buster for Drew, Mallory, and Taylor. It's a night 26 years in the making, a celebration of 1,000 episodes as we welcome back some of the biggest legends of the game. Then a never before seen twist is revealed.",
           "url": "https://www.imdb.com/title/tt43650781/?ref_=ttep_ep_25"
@@ -20656,7 +20720,7 @@
           "number": 37,
           "name": "Episode #4.37",
           "airdate": "2026-08-29",
-          "summary": null,
+          "summary": "It's the last stop before All In: London; AEW World Trios Champions Adam Page & Brodido join forces with Jay White and the Bang Bang Gang for a chaotic 12-man match; TBS Champion Mercedes Mone is in action as she prepares for Wembley.",
           "url": "https://www.imdb.com/title/tt43691712/?ref_=ttep_ep_37"
         },
         {
@@ -22163,7 +22227,7 @@
           "season": 36,
           "number": 7,
           "name": "Evelyn Zigerelli-Henderson",
-          "airdate": "2026-02-15",
+          "airdate": "2026-03-15",
           "summary": "A former Dauphin County sheriff dies in a fire, and detectives focus on his wife's strange actions.",
           "url": "https://www.imdb.com/title/tt37813008/?ref_=ttep_ep_7"
         },
@@ -22171,7 +22235,7 @@
           "season": 36,
           "number": 8,
           "name": "Stella Lacy",
-          "airdate": "2026-02-22",
+          "airdate": "2026-03-22",
           "summary": "A missing family man is found murdered in his car near his home in New York.",
           "url": "https://www.imdb.com/title/tt37897494/?ref_=ttep_ep_8"
         },
@@ -22179,7 +22243,7 @@
           "season": 36,
           "number": 9,
           "name": "Julie Harper",
-          "airdate": "2026-03-01",
+          "airdate": "2026-03-29",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37971255/?ref_=ttep_ep_9"
         },
@@ -22187,7 +22251,7 @@
           "season": 36,
           "number": 10,
           "name": "Trista Hrabak",
-          "airdate": "2026-03-08",
+          "airdate": "2026-04-05",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38047585/?ref_=ttep_ep_10"
         },
@@ -22195,7 +22259,7 @@
           "season": 36,
           "number": 11,
           "name": "Olivia Moody",
-          "airdate": "2026-03-15",
+          "airdate": "2026-04-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38234593/?ref_=ttep_ep_11"
         },
@@ -22203,7 +22267,7 @@
           "season": 36,
           "number": 12,
           "name": "Jennifer Sweeney",
-          "airdate": "2026-03-22",
+          "airdate": "2026-04-19",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38347813/?ref_=ttep_ep_12"
         },
@@ -22211,7 +22275,7 @@
           "season": 36,
           "number": 13,
           "name": "Natalie Cochran",
-          "airdate": "2026-03-29",
+          "airdate": "2026-07-19",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38353226/?ref_=ttep_ep_13"
         },
@@ -22219,7 +22283,7 @@
           "season": 36,
           "number": 14,
           "name": "Jacqueline Johnson-Cabrera",
-          "airdate": "2026-04-05",
+          "airdate": "2026-07-26",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38689607/?ref_=ttep_ep_14"
         },
@@ -22227,7 +22291,7 @@
           "season": 36,
           "number": 15,
           "name": "Kimethia Coleman",
-          "airdate": "2026-04-12",
+          "airdate": "2026-03-08",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38689613/?ref_=ttep_ep_15"
         },
@@ -22235,7 +22299,7 @@
           "season": 36,
           "number": 16,
           "name": "Nicole Nachtman",
-          "airdate": "2026-04-19",
+          "airdate": "2026-08-09",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38733532/?ref_=ttep_ep_16"
         },
@@ -22243,7 +22307,7 @@
           "season": 36,
           "number": 17,
           "name": "Tammy Moorer",
-          "airdate": "2026-04-26",
+          "airdate": "2026-08-16",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38875427/?ref_=ttep_ep_17"
         },
@@ -22251,7 +22315,7 @@
           "season": 36,
           "number": 18,
           "name": "LaFredia Todd",
-          "airdate": "2026-05-03",
+          "airdate": "2026-08-23",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38915729/?ref_=ttep_ep_18"
         },
@@ -22259,23 +22323,15 @@
           "season": 36,
           "number": 19,
           "name": "Nikki Hillrich",
-          "airdate": "2026-05-10",
+          "airdate": "2026-08-30",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38991547/?ref_=ttep_ep_19"
         },
         {
           "season": 36,
           "number": 20,
-          "name": "Yesenia Sanchez",
-          "airdate": "2026-09-20",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt39314544/?ref_=ttep_ep_20"
-        },
-        {
-          "season": 36,
-          "number": 21,
           "name": "Lara Paige Conley",
-          "airdate": "2026-05-17",
+          "airdate": "2026-09-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39114693/?ref_=ttep_ep_21"
         },
@@ -31352,8 +31408,24 @@
           "number": 2,
           "name": "The Great Escape",
           "airdate": "2026-08-18",
-          "summary": null,
+          "summary": "One guy gets pulled over with no license and bike has gotten different VIN numbers, another guy is an escape artist, and one lady swallowed some meth and a waiting game to see if she passes it.",
           "url": "https://www.imdb.com/title/tt44703103/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "name": "Once Bitten, Twice Convicted",
+          "airdate": "2026-08-26",
+          "summary": "One guy has a dance with a german Shepard (parole violation and stolen goods). Another guy has drugs but no prescription on hand, and Jessica draws a firearm. She was a correctional officer at one time.",
+          "url": "https://www.imdb.com/title/tt44912821/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 5,
+          "number": 4,
+          "name": "Naked Rage",
+          "airdate": "2026-08-26",
+          "summary": "Linsey shows up for court drunk, Michael tries to run over the police, and a streaker gets caught for a DWI. Just wait until they get sober.",
+          "url": "https://www.imdb.com/title/tt44912933/?ref_=ttep_ep_4"
         },
         {
           "season": 4,
@@ -34174,6 +34246,52 @@
       "imdbId": "tt28524529",
       "title": "Haunted Harmony Mysteries",
       "episodes": []
+    },
+    "tt35617054": {
+      "imdbId": "tt35617054",
+      "title": "Marble Hall Murders",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode #1.5",
+          "airdate": "2026-10-04",
+          "summary": "Susan desperately tries to find the real murderer as tension ratchets up and threats are made.",
+          "url": "https://www.imdb.com/title/tt42185889/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode #1.1",
+          "airdate": "2026-09-06",
+          "summary": "Back in London, Susan Ryeland is once again corralled into the world of Atticus Pünd as he investigates a mystery in Corfu.",
+          "url": "https://www.imdb.com/title/tt42006187/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "Episode #1.2",
+          "airdate": "2026-09-13",
+          "summary": "As Atticus Pünd begins his interrogations with the Chalfont family, Susan discovers that Miriam Crace may have been murdered.",
+          "url": "https://www.imdb.com/title/tt42006201/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 20,
+          "name": "Episode #1.3",
+          "airdate": "2026-09-20",
+          "summary": "Eliot begins to deteriorate and accuses his family of murder, while it seems that Atticus Pünd is closing in on a suspect.",
+          "url": "https://www.imdb.com/title/tt42185738/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 27,
+          "name": "Episode #1.4",
+          "airdate": "2026-09-27",
+          "summary": "The murderer in Corfu claims another victim as Eliot's condition worsens and Susan finds herself under suspicion.",
+          "url": "https://www.imdb.com/title/tt42185887/?ref_=ttep_ep_4"
+        }
+      ]
     }
   }
 }
