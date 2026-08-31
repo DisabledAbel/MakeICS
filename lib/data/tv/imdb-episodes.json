@@ -6791,19 +6791,11 @@
         },
         {
           "season": 10,
-          "number": 9,
+          "number": 8,
           "name": "Lyla's Family Restaurant Part 1",
-          "airdate": null,
+          "airdate": "2026-09-08",
           "summary": "Waleed sets out to achieve the American Dream with Lyla's Family Restaurant, but a sprawling menu, an overwhelmed kitchen, and a steady stream of dishes sent back have left the restaurant on the brink of collapse. Gordon Ramsay steps in to help revive the neighborhood favorite with a stunning transformation and a fully revamped kitchen, but just as Lyla's prepares for a fresh start, a shocking opening-day emergency threatens to undo everything.",
           "url": "https://www.imdb.com/title/tt44912582/?ref_=ttep_ep_9"
-        },
-        {
-          "season": 10,
-          "number": 10,
-          "name": "Lyla's Family Restaurant Part 2",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44912606/?ref_=ttep_ep_10"
         },
         {
           "season": 9,
@@ -10117,7 +10109,7 @@
           "number": 26,
           "name": "Episode #28.26",
           "airdate": "2026-08-30",
-          "summary": null,
+          "summary": "An all-new never before seen twist is unleashed. And it will have dire consequences for one of the Houseguests.",
           "url": "https://www.imdb.com/title/tt43650782/?ref_=ttep_ep_26"
         },
         {
@@ -11143,6 +11135,14 @@
           "airdate": "2026-08-21",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44733911/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 13,
+          "number": 11,
+          "name": "Fire and Famine",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44920066/?ref_=ttep_ep_11"
         },
         {
           "season": 12,
@@ -25307,6 +25307,70 @@
           "url": "https://www.imdb.com/title/tt36933486/?ref_=ttep_ep_1"
         },
         {
+          "season": 8,
+          "number": 2,
+          "name": "No One Can Stop Them!",
+          "airdate": "2026-08-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44924296/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 8,
+          "number": 3,
+          "name": "Which is Best, South, East or West?",
+          "airdate": "2026-08-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44924321/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 8,
+          "number": 4,
+          "name": "Girl Power Hour!",
+          "airdate": "2026-08-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44924328/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 8,
+          "number": 5,
+          "name": "Shazam Bowl!",
+          "airdate": "2026-08-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44924337/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 8,
+          "number": 6,
+          "name": "Shazam and Chill!",
+          "airdate": "2026-08-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44924351/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 8,
+          "number": 7,
+          "name": "8th Time's a Charm!",
+          "airdate": "2026-08-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44924369/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 8,
+          "number": 8,
+          "name": "Battle of the Best Friends!",
+          "airdate": "2026-08-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44924374/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 8,
+          "number": 9,
+          "name": "College Night!",
+          "airdate": "2026-08-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44924376/?ref_=ttep_ep_9"
+        },
+        {
           "season": 7,
           "number": 1,
           "name": "Jamie's Back!",
@@ -26788,7 +26852,7 @@
           "number": 9,
           "name": "And the Toy Phone",
           "airdate": "2026-08-30",
-          "summary": null,
+          "summary": "While the rest of the team is away on a Library retreat, Charlie receives a call on a mysterious toy phone from a child trapped in a haunted house.",
           "url": "https://www.imdb.com/title/tt43644538/?ref_=ttep_ep_9"
         },
         {
@@ -26970,7 +27034,7 @@
           "number": 9,
           "name": "The Texas Flood",
           "airdate": "2026-08-30",
-          "summary": null,
+          "summary": "Unrelenting flooding in central Texas makes July 4th a fight for survival.",
           "url": "https://www.imdb.com/title/tt44765469/?ref_=ttep_ep_9"
         },
         {
@@ -27042,6 +27106,14 @@
           "airdate": "2026-08-23",
           "summary": "A down-on-his-luck mechanic transforms outlaw moonshine racing into one of America's biggest spectator sports, overcoming powerful rivals, deadly setbacks, and financial crises to build a billion-dollar sports empire that becomes a Mega-Brand That Built America.",
           "url": "https://www.imdb.com/title/tt44768840/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "The Underwear Boom",
+          "airdate": "2026-08-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44925053/?ref_=ttep_ep_5"
         },
         {
           "season": 3,
@@ -28175,7 +28247,7 @@
           "number": 22,
           "name": "Enchanted Dolphin Cove",
           "airdate": "2026-08-21",
-          "summary": null,
+          "summary": "Ariel and friends go on an adventure with Delfino to visit his family at Dolphin Cove. But once they arrive, Ariel must help her new dolphin friends with a tricky problem.",
           "url": "https://www.imdb.com/title/tt43658846/?ref_=ttep_ep_22"
         },
         {
@@ -30598,7 +30670,7 @@
           "number": 3,
           "name": "OutKast",
           "airdate": "2026-08-30",
-          "summary": null,
+          "summary": "When his father misinterprets the Guardians' contact, John becomes the next choice for Green Lantern. After years of preparation, he finally gets to interview with the Guardians.",
           "url": "https://www.imdb.com/title/tt32752612/?ref_=ttep_ep_3"
         },
         {
@@ -34043,6 +34115,14 @@
           "url": "https://www.imdb.com/title/tt44304635/?ref_=ttep_ep_1"
         },
         {
+          "season": 52,
+          "number": 2,
+          "name": "ACL 12th Annual Hall of Fame Honors Brandi Carlile",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44929929/?ref_=ttep_ep_2"
+        },
+        {
           "season": 51,
           "number": 1,
           "name": "Finneas",
@@ -34290,6 +34370,239 @@
           "airdate": "2026-09-27",
           "summary": "The murderer in Corfu claims another victim as Eliot's condition worsens and Susan finds herself under suspicion.",
           "url": "https://www.imdb.com/title/tt42185887/?ref_=ttep_ep_4"
+        }
+      ]
+    },
+    "tt0249044": {
+      "imdbId": "tt0249044",
+      "title": "Naked News",
+      "episodes": []
+    },
+    "tt32384391": {
+      "imdbId": "tt32384391",
+      "title": "The Thundermans: Undercover",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Thundercover",
+          "airdate": "2025-01-22",
+          "summary": "Max and Phoebe bring Chloe on an undercover mission in a new town, so she can experience life as a normal kid.",
+          "url": "https://www.imdb.com/title/tt33095137/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Faulty Powers",
+          "airdate": "2025-01-22",
+          "summary": "A training accident makes Chloe's powers faulty; Max tries to cure her and gets a misleading positive result, so she goes to a party; but his treatment actually creates brand new powers Chloe can't control.",
+          "url": "https://www.imdb.com/title/tt34380168/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Bummer School",
+          "airdate": "2025-01-29",
+          "summary": "Chloe, Jinx and Booch are designing a school mascot, but Max and Phoebe's feud over their jobs ruins the project; Chloe criticizes them, and the twins realize their fighting affects Chloe now that they're guardians.",
+          "url": "https://www.imdb.com/title/tt34380169/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "The Parent Zap",
+          "airdate": "2025-02-05",
+          "summary": "After Phoebe and Max let Chloe's friends watch a horror movie and eat candy, Jinx and Booch's parents want to meet Chloe's; Max and Phoebe transform into them to help Chloe; it goes well until the real Hank and Barb show up.",
+          "url": "https://www.imdb.com/title/tt35564472/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Save the Date",
+          "airdate": "2025-02-12",
+          "summary": "Max bets Phoebe she can't turn off being a superhero and go on a normal date.",
+          "url": "https://www.imdb.com/title/tt35670755/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Cherry Bad Things",
+          "airdate": "2025-02-26",
+          "summary": "Cherry visits and Max discovers Phoebe never took her sparkle power away; Phoebe promises to do so and has a girls' night with Cherry while Max hosts Jinx.",
+          "url": "https://www.imdb.com/title/tt35673065/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Not So Fast and Furious",
+          "airdate": "2025-03-05",
+          "summary": "A new super-fast villain is wreaking havoc in Secret Shores; after Billy's speed accidentally triggers an avalanche, he decides to hang up his cape and retire.",
+          "url": "https://www.imdb.com/title/tt35423048/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "For Your Spies Only",
+          "airdate": "2025-03-12",
+          "summary": "Max and Phoebe attend a parent-teacher night, leaving Chloe to have friends over without adult supervision; Jinx finds the Air Lair and believes spies are targeting the school and his meddling puts Max and Phoebe's school jobs at risk.",
+          "url": "https://www.imdb.com/title/tt35423047/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "No Friend in Sight",
+          "airdate": "2025-03-19",
+          "summary": "Chloe feels smothered and thinks it's because Phoebe and Max need friends; Phoebe and Max accidentally make the same friend named Brenda and fight over her.",
+          "url": "https://www.imdb.com/title/tt36005936/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "All About Steve",
+          "airdate": "2025-03-26",
+          "summary": "Billy brings a new sidekick Steve to town and wants him to join the T-Force; Phoebe and Max agree to consider him, but when they eventually reject Steve for having a very lame power, he turns evil.",
+          "url": "https://www.imdb.com/title/tt36199491/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Tide and Prejudice",
+          "airdate": "2025-04-02",
+          "summary": "The Thundermans are visited by High Tide, the former protector of Secret Shores. He decides to take back his old role, even if it puts Jinx and Booch in danger.",
+          "url": "https://www.imdb.com/title/tt36294594/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "Prank You Next",
+          "airdate": "2025-04-09",
+          "summary": "Max seeks help dealing with a mystery prankster at school from his old principal, who was always the target of his pranks. But Max fails to stop the pranks, and the original prankster questions what's next.",
+          "url": "https://www.imdb.com/title/tt35321103/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "From Dust Till Dawn",
+          "airdate": "2025-04-16",
+          "summary": "Chloe struggles with her leadership skills; when a villain attacks her school field trip, Max and Phoebe have to put Chloe in charge while they try to take down the villain and defuse his dangerous astronomical weapon.",
+          "url": "https://www.imdb.com/title/tt36318852/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "Summer of Secrets",
+          "airdate": "2025-07-17",
+          "summary": "Chloe has been missing school by going on missions with her siblings. She now has to go to summer school to catch up on everything she has missed. Max, acting as the substitute for summer school, has a new student who agrees to tutor her.",
+          "url": "https://www.imdb.com/title/tt37304421/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "name": "I Know What You Did This Summer",
+          "airdate": "2025-07-17",
+          "summary": "B.C. invites Chloe to a launch party at Splat By-The-Sea, at the same time Jinx and Booch invite Chloe to protest outside the party. Meanwhile, Phoebe is keeping her work with Captain Perfect a secret.",
+          "url": "https://www.imdb.com/title/tt37430157/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "name": "The Summer I Turned Giddy",
+          "airdate": "2025-07-24",
+          "summary": "Upset by Phoebe's secret partnership with Captain Perfect, Max decides to find a new superhero partner in his best friend, Gideon. However, things go awry when Max attempts to mold Gideon into a better superhero.",
+          "url": "https://www.imdb.com/title/tt35423044/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 1,
+          "number": 17,
+          "name": "A Midsummer Knight's Scheme",
+          "airdate": "2025-07-24",
+          "summary": "Max agrees to mentor Captain Perfect's younger sister, who is headed down the path of becoming a supervillain. She tries to become one of Mastermind's henchmen.",
+          "url": "https://www.imdb.com/title/tt35423042/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 1,
+          "number": 18,
+          "name": "Cruel Summer",
+          "airdate": "2025-07-31",
+          "summary": "Max and Phoebe are working well as a team, until he is accused of committing crimes and Phoebe must apprehend him.",
+          "url": "https://www.imdb.com/title/tt35423041/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 1,
+          "number": 19,
+          "name": "Endless Summer",
+          "airdate": "2025-07-31",
+          "summary": "Max pretends to turn evil to infiltrate Mastermind's henchmen and steal the Chip-Chucker, a device that previously turned him evil.",
+          "url": "https://www.imdb.com/title/tt35423039/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 1,
+          "number": 23,
+          "name": "Party All the Crime",
+          "airdate": "2025-10-01",
+          "summary": "Chloe's birthday party is cancelled and Max and Phoebe compete to throw her a new one; Max's time-stopping birthday gift falls into the wrong hands.",
+          "url": "https://www.imdb.com/title/tt38351060/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 1,
+          "number": 24,
+          "name": "She's All Splat",
+          "airdate": "2025-09-24",
+          "summary": "With Cherry working at Splat by Sea, Max gets her into a fake dating scheme to obtain discounts at the restaurant; Chloe faces a tough choice.",
+          "url": "https://www.imdb.com/title/tt37950763/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 1,
+          "number": 25,
+          "name": "The Mastermind Unmasked: Part 2",
+          "airdate": "2025-10-15",
+          "summary": "When The Mastermind forces Chloe to steal a magical amulet that grants him superhero powers, the Thundermans unite to stop his plan. Chloe must reveal her identity to save her friends.",
+          "url": "https://www.imdb.com/title/tt38478409/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 1,
+          "number": 26,
+          "name": "The Most Thunderful Time of the Year",
+          "airdate": "2025-12-17",
+          "summary": "Phoebe and Max tell holiday stories to compete in the Thundermans Story Slam, but it's Chloe's story that makes them understand the meaning of the holiday.",
+          "url": "https://www.imdb.com/title/tt38572735/?ref_=ttep_ep_26"
+        }
+      ]
+    },
+    "tt38128417": {
+      "imdbId": "tt38128417",
+      "title": "A Tale Of Two Cities",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode #1.1",
+          "airdate": "2026-09-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40201246/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "Episode #1.2",
+          "airdate": "2026-09-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41050807/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 20,
+          "name": "Episode #1.3",
+          "airdate": "2026-09-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41050808/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 27,
+          "name": "Episode #1.4",
+          "airdate": "2026-09-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41050806/?ref_=ttep_ep_4"
         }
       ]
     }
