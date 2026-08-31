@@ -2481,8 +2481,8 @@
           "name": "Grace Caroline Currey"
         },
         {
-          "id": "nm0741219",
-          "name": "Adam Rose"
+          "id": "nm9980137",
+          "name": "Harriet Slater"
         }
       ],
       "label": "Sep 02, 2026"
@@ -2941,12 +2941,12 @@
           "name": "Owen Wilson"
         },
         {
-          "id": "nm5772354",
-          "name": "Leila George"
+          "id": "nm2094547",
+          "name": "Kate Box"
         },
         {
-          "id": "nm0763928",
-          "name": "Rodrigo Santoro"
+          "id": "nm5772354",
+          "name": "Leila George"
         }
       ],
       "label": "Sep 11, 2026"
@@ -3120,6 +3120,63 @@
         {
           "id": "nm18122081",
           "name": "Yves-Grégory Francois"
+        }
+      ],
+      "label": "Sep 11, 2026"
+    },
+    {
+      "id": "tt36150957",
+      "title": "Don't Look Back in Anger",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTdkNDc0MjgtZWIyYS00Yjk4LWEzYzktYTUzZDBiNzdmYzQ1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm0302427",
+          "name": "Liam Gallagher"
+        },
+        {
+          "id": "nm0302462",
+          "name": "Noel Gallagher"
+        },
+        {
+          "id": "nm2089687",
+          "name": "Oasis"
+        },
+        {
+          "id": "nm10880859",
+          "name": "Anaïs Gallagher"
+        }
+      ],
+      "label": "Sep 11, 2026"
+    },
+    {
+      "id": "tt39138061",
+      "title": "A Marble in the Jar",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzQyMGNhODItYjdkNi00YmZhLWFjMjMtNTI3ZWYzZWU3YTBhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary"
+      ],
+      "people": [
+        {
+          "id": "nm7908521",
+          "name": "Tatiana Weston-Webb"
+        },
+        {
+          "id": "nm0005440",
+          "name": "Kelly Slater"
+        },
+        {
+          "id": "nm2610731",
+          "name": "Carissa Moore"
+        },
+        {
+          "id": "nm1226872",
+          "name": "Rochelle Ballard"
         }
       ],
       "label": "Sep 11, 2026"
@@ -3301,8 +3358,8 @@
           "name": "Demián Bichir"
         },
         {
-          "id": "nm1375877",
-          "name": "Juan Minujín"
+          "id": "nm4845909",
+          "name": "Luis Alberti"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3375,24 +3432,24 @@
       "genres": [
         "Crime",
         "Drama",
-        "Thriller"
+        "Mystery"
       ],
       "people": [
-        {
-          "id": "nm0004626",
-          "name": "Kareena Kapoor"
-        },
         {
           "id": "nm1335387",
           "name": "Prithviraj Sukumaran"
         },
         {
-          "id": "nm12325577",
-          "name": "Mounis Ratta"
+          "id": "nm0004626",
+          "name": "Kareena Kapoor"
         },
         {
-          "id": "nm7985316",
-          "name": "Prammod Sanghi"
+          "id": "nm1241555",
+          "name": "Jitendra Joshi"
+        },
+        {
+          "id": "nm1942776",
+          "name": "Kanwaljeet Singh"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3811,6 +3868,34 @@
       "label": "Sep 25, 2026"
     },
     {
+      "id": "tt43641694",
+      "title": "Mitrata",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2Y3MjhjYTMtMzljZi00OWY5LWJjZGItNDMxNGNlZmU0Y2YzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm8773568",
+          "name": "Viraj Ghelani"
+        },
+        {
+          "id": "nm10113760",
+          "name": "Deep Vaidya"
+        },
+        {
+          "id": "nm11479571",
+          "name": "Vishal Parekh"
+        },
+        {
+          "id": "nm15771641",
+          "name": "Vishwaa Joshi"
+        }
+      ],
+      "label": "Sep 25, 2026"
+    },
+    {
       "id": "tt33457310",
       "title": "Terrifier 4",
       "image": "https://m.media-amazon.com/images/M/MV5BOGU0NGVlMTctODlmMS00MjdhLWFhOTgtNjkyNDkwMmQ1YzFjXkEyXkFqcGc@._V1_.jpg",
@@ -3852,12 +3937,12 @@
           "name": "Marcus Lewis"
         },
         {
-          "id": "nm6346805",
-          "name": "Travis Scott"
-        },
-        {
           "id": "nm0005562",
           "name": "Owen Wilson"
+        },
+        {
+          "id": "nm6346805",
+          "name": "Travis Scott"
         }
       ],
       "label": "Oct 02, 2026"
@@ -4143,16 +4228,16 @@
           "name": "Billy Magnussen"
         },
         {
+          "id": "nm5700898",
+          "name": "Mikey Madison"
+        },
+        {
           "id": "nm2365811",
           "name": "Betty Gilpin"
         },
         {
           "id": "nm2087739",
           "name": "Jeremy Allen White"
-        },
-        {
-          "id": "nm5700898",
-          "name": "Mikey Madison"
         }
       ],
       "label": "Oct 09, 2026"
@@ -4466,12 +4551,12 @@
           "name": "James Harkness"
         },
         {
-          "id": "nm0179479",
-          "name": "James Corden"
-        },
-        {
           "id": "nm13633111",
           "name": "Lucy Halliday"
+        },
+        {
+          "id": "nm0179479",
+          "name": "James Corden"
         }
       ],
       "label": "Oct 16, 2026"
@@ -4587,8 +4672,8 @@
           "name": "Max Minghella"
         },
         {
-          "id": "nm1486831",
-          "name": "Sam Hazeldine"
+          "id": "nm0378002",
+          "name": "Sonita Henry"
         }
       ],
       "label": "Oct 23, 2026"
@@ -4931,8 +5016,8 @@
           "name": "Robert Gunton"
         },
         {
-          "id": "nm5849305",
-          "name": "Dorothy Hadley Joly"
+          "id": "nm9741923",
+          "name": "Zuhair Ahmed"
         }
       ],
       "label": "Oct 31, 2026"
@@ -5249,16 +5334,16 @@
           "name": "Johnny Depp"
         },
         {
+          "id": "nm0342488",
+          "name": "Rupert Grint"
+        },
+        {
           "id": "nm0005212",
           "name": "Ian McKellen"
         },
         {
           "id": "nm3510471",
           "name": "Sam Claflin"
-        },
-        {
-          "id": "nm7436993",
-          "name": "Tramell Tillman"
         }
       ],
       "label": "Nov 13, 2026"
@@ -5423,20 +5508,20 @@
       ],
       "people": [
         {
-          "id": "nm0876138",
-          "name": "Alan Tudyk"
-        },
-        {
-          "id": "nm2794962",
-          "name": "Hailee Steinfeld"
+          "id": "nm0001808",
+          "name": "Tracey Ullman"
         },
         {
           "id": "nm0324658",
           "name": "Walton Goggins"
         },
         {
-          "id": "nm0000149",
-          "name": "Jodie Foster"
+          "id": "nm2794962",
+          "name": "Hailee Steinfeld"
+        },
+        {
+          "id": "nm0876138",
+          "name": "Alan Tudyk"
         }
       ],
       "label": "Nov 25, 2026"
@@ -5459,12 +5544,12 @@
           "name": "Ben Stiller"
         },
         {
-          "id": "nm1711114",
-          "name": "Skyler Gisondo"
-        },
-        {
           "id": "nm0005562",
           "name": "Owen Wilson"
+        },
+        {
+          "id": "nm1711114",
+          "name": "Skyler Gisondo"
         }
       ],
       "label": "Nov 25, 2026"
@@ -5901,12 +5986,12 @@
       ],
       "people": [
         {
-          "id": "nm0837177",
-          "name": "Jason Sudeikis"
-        },
-        {
           "id": "nm1551130",
           "name": "Keke Palmer"
+        },
+        {
+          "id": "nm0837177",
+          "name": "Jason Sudeikis"
         },
         {
           "id": "nm4141252",
@@ -6069,7 +6154,7 @@
     {
       "id": "tt39328391",
       "title": "Coward",
-      "image": "https://m.media-amazon.com/images/M/MV5BZWI4MjlhNWMtNDQ1NS00NzFlLTljZTktNTkxNjMwMmNkMWJlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGJiM2Q0OWYtZmFlZS00MmUzLTk2ZmYtYmFhY2QxOGQ2NzZkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -6215,8 +6300,8 @@
           "name": "Jeremy Irons"
         },
         {
-          "id": "nm0178581",
-          "name": "Adam Copeland"
+          "id": "nm0714876",
+          "name": "Jemma Redgrave"
         }
       ],
       "label": "Jan 15, 2027"
@@ -6386,16 +6471,16 @@
           "name": "Brandon Sklenar"
         },
         {
+          "id": "nm0780678",
+          "name": "Nick Searcy"
+        },
+        {
           "id": "nm0241049",
           "name": "Josh Duhamel"
         },
         {
           "id": "nm0625789",
           "name": "Tim Blake Nelson"
-        },
-        {
-          "id": "nm6076950",
-          "name": "Hassie Harrison"
         }
       ],
       "label": "Jan 29, 2027"
@@ -6967,16 +7052,16 @@
           "name": "Keanu Reeves"
         },
         {
+          "id": "nm0000120",
+          "name": "Jim Carrey"
+        },
+        {
           "id": "nm0005188",
           "name": "James Marsden"
         },
         {
-          "id": "nm0068338",
-          "name": "Kristen Bell"
-        },
-        {
-          "id": "nm0000120",
-          "name": "Jim Carrey"
+          "id": "nm0252961",
+          "name": "Idris Elba"
         }
       ],
       "label": "Mar 19, 2027"
@@ -7293,12 +7378,12 @@
           "name": "Rowan Witt"
         },
         {
-          "id": "nm5730649",
-          "name": "Lewis Pullman"
-        },
-        {
           "id": "nm1551130",
           "name": "Keke Palmer"
+        },
+        {
+          "id": "nm5730649",
+          "name": "Lewis Pullman"
         },
         {
           "id": "nm0000597",
@@ -7766,12 +7851,12 @@
       ],
       "people": [
         {
-          "id": "nm0609944",
-          "name": "Wagner Moura"
-        },
-        {
           "id": "nm4834815",
           "name": "Monica Barbaro"
+        },
+        {
+          "id": "nm0609944",
+          "name": "Wagner Moura"
         },
         {
           "id": "nm3053338",
@@ -7876,16 +7961,16 @@
           "name": "David Corenswet"
         },
         {
+          "id": "nm0396558",
+          "name": "Nicholas Hoult"
+        },
+        {
           "id": "nm7543974",
           "name": "Aaron Pierre"
         },
         {
           "id": "nm0277213",
           "name": "Nathan Fillion"
-        },
-        {
-          "id": "nm6854116",
-          "name": "Milly Alcock"
         }
       ],
       "label": "Jul 09, 2027"
