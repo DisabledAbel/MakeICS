@@ -34,11 +34,6 @@
     "name": "Episode #1.6",
     "verifiedAt": "2026-08-16T13:33:47.230Z"
   },
-  "Big Brother-28-23": {
-    "airdate": "2026-08-30",
-    "name": "Episode #28.23",
-    "verifiedAt": "2026-08-17T13:39:24.909Z"
-  },
   "The Ark-3-10": {
     "airdate": "2026-09-30",
     "name": "Episode #3.7",
@@ -61,7 +56,7 @@
   },
   "Big Brother-28-25": {
     "airdate": "2026-09-03",
-    "name": "1000th Episode",
+    "name": "Episode #28.25",
     "verifiedAt": "2026-08-20T13:47:13.205Z"
   },
   "Big Brother-28-26": {
@@ -103,11 +98,6 @@
     "airdate": "2026-10-30",
     "name": "Signed, Sealed, Smashed",
     "verifiedAt": "2026-08-26T13:56:17.190Z"
-  },
-  "Snapped-36-19": {
-    "airdate": "2026-08-30",
-    "name": "Nikki Hillrich",
-    "verifiedAt": "2026-08-26T13:56:29.217Z"
   },
   "The Great American Road Rally: Celebrity Edition-1-1": {
     "airdate": "2026-09-02",
@@ -168,5 +158,10 @@
     "airdate": "2026-08-31",
     "name": "Love and Larceny",
     "verifiedAt": "2026-08-29T17:00:02.088Z"
+  },
+  "Marble Hall Murders-1-6": {
+    "airdate": "2026-10-11",
+    "name": "Episode #1.1",
+    "verifiedAt": "2026-08-31T19:27:35.148Z"
   }
 }
