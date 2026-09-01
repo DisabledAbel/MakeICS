@@ -154,14 +154,19 @@
     "name": "Deja Vu",
     "verifiedAt": "2026-08-28T22:57:04.726Z"
   },
-  "For My Man-9-39": {
-    "airdate": "2026-08-31",
-    "name": "Love and Larceny",
-    "verifiedAt": "2026-08-29T17:00:02.088Z"
-  },
   "Marble Hall Murders-1-6": {
     "airdate": "2026-10-11",
     "name": "Episode #1.1",
     "verifiedAt": "2026-08-31T19:27:35.148Z"
+  },
+  "Kitchen Nightmares-10-8": {
+    "airdate": "2026-09-01",
+    "name": "Lyla's Family Restaurant Part 1",
+    "verifiedAt": "2026-09-01T17:11:03.784Z"
+  },
+  "The Patrick Star Show-5-13": {
+    "airdate": "2026-09-11",
+    "name": "Toilet Training/The Patrick Show Reunion",
+    "verifiedAt": "2026-09-01T17:11:44.199Z"
   }
 }
