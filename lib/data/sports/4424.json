@@ -5103,7 +5103,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "IN9",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5147,7 +5147,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "IN1",
+      "strStatus": "IN9",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5191,7 +5191,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5235,7 +5235,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "IN9",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5279,7 +5279,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
