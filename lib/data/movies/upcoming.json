@@ -2682,12 +2682,12 @@
           "name": "Maggie Grace"
         },
         {
-          "id": "nm0001494",
-          "name": "Ralph Macchio"
-        },
-        {
           "id": "nm0001701",
           "name": "Devon Sawa"
+        },
+        {
+          "id": "nm0001494",
+          "name": "Ralph Macchio"
         },
         {
           "id": "nm1840504",
@@ -3592,8 +3592,8 @@
           "name": "Manny Jacinto"
         },
         {
-          "id": "nm0758964",
-          "name": "Lea Salonga"
+          "id": "nm5307044",
+          "name": "Ronny Chieng"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3729,12 +3729,12 @@
       ],
       "people": [
         {
-          "id": "nm0059431",
-          "name": "Jay Baruchel"
-        },
-        {
           "id": "nm0004936",
           "name": "Ben Foster"
+        },
+        {
+          "id": "nm0059431",
+          "name": "Jay Baruchel"
         },
         {
           "id": "nm1159180",
@@ -3844,8 +3844,8 @@
       "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
-        "Fantasy",
-        "Mystery"
+        "Adventure",
+        "Fantasy"
       ],
       "people": [
         {
@@ -4916,8 +4916,8 @@
           "name": "Ving Rhames"
         },
         {
-          "id": "nm0004821",
-          "name": "Michael Chiklis"
+          "id": "nm0875810",
+          "name": "Brett Tucker"
         }
       ],
       "label": "Oct 30, 2026"
@@ -4984,8 +4984,8 @@
       ],
       "people": [
         {
-          "id": "nm0026483",
-          "name": "Carl Anderson"
+          "id": "nm18280632",
+          "name": "Carl MJ Anderson"
         },
         {
           "id": "nm12009259",
@@ -5283,8 +5283,8 @@
           "name": "Zoë Kravitz"
         },
         {
-          "id": "nm6616259",
-          "name": "Tati Gabrielle"
+          "id": "nm0203457",
+          "name": "Pete Davidson"
         }
       ],
       "label": "Nov 13, 2026"
@@ -5448,12 +5448,12 @@
       ],
       "people": [
         {
-          "id": "nm0243231",
-          "name": "Jay Duplass"
-        },
-        {
           "id": "nm1455681",
           "name": "AnnaSophia Robb"
+        },
+        {
+          "id": "nm0243231",
+          "name": "Jay Duplass"
         },
         {
           "id": "nm0126260",
@@ -5636,12 +5636,12 @@
           "name": "Brad Pitt"
         },
         {
-          "id": "nm0648249",
-          "name": "Timothy Olyphant"
-        },
-        {
           "id": "nm0001303",
           "name": "Carla Gugino"
+        },
+        {
+          "id": "nm0648249",
+          "name": "Timothy Olyphant"
         },
         {
           "id": "nm4456120",
@@ -6045,16 +6045,16 @@
       ],
       "people": [
         {
+          "id": "nm6946196",
+          "name": "Vishal Jethwa"
+        },
+        {
           "id": "nm14242752",
           "name": "Aneet Padda"
         },
         {
           "id": "nm0007113",
           "name": "Nana Patekar"
-        },
-        {
-          "id": "nm6946196",
-          "name": "Vishal Jethwa"
         },
         {
           "id": "nm1277547",
@@ -6085,8 +6085,8 @@
           "name": "Willem Dafoe"
         },
         {
-          "id": "nm11417004",
-          "name": "Bodhi Rae Breathnach"
+          "id": "nm0408591",
+          "name": "Ralph Ineson"
         }
       ],
       "label": "Dec 25, 2026"
@@ -6107,8 +6107,8 @@
           "name": "Dwayne Johnson"
         },
         {
-          "id": "nm0001564",
-          "name": "Bebe Neuwirth"
+          "id": "nm0085312",
+          "name": "Jack Black"
         },
         {
           "id": "nm2394794",
@@ -6133,20 +6133,20 @@
       ],
       "people": [
         {
-          "id": "nm0472710",
-          "name": "David Krumholtz"
-        },
-        {
           "id": "nm8908475",
           "name": "Isabel May"
+        },
+        {
+          "id": "nm0788335",
+          "name": "Michael Shannon"
         },
         {
           "id": "nm4825178",
           "name": "David Corenswet"
         },
         {
-          "id": "nm0788335",
-          "name": "Michael Shannon"
+          "id": "nm0472710",
+          "name": "David Krumholtz"
         }
       ],
       "label": "Dec 25, 2026"
@@ -6507,8 +6507,8 @@
           "name": "Cynthia Erivo"
         },
         {
-          "id": "nm2113653",
-          "name": "Richard Harmon"
+          "id": "nm0131966",
+          "name": "Bill Camp"
         }
       ],
       "label": "Jan 29, 2027"
@@ -6553,20 +6553,20 @@
       ],
       "people": [
         {
-          "id": "nm3218692",
-          "name": "Madelyn Cline"
+          "id": "nm17136188",
+          "name": "Ryan Rhodes"
         },
         {
-          "id": "nm2129662",
-          "name": "Cristin Milioti"
+          "id": "nm3218692",
+          "name": "Madelyn Cline"
         },
         {
           "id": "nm1412974",
           "name": "Glen Powell"
         },
         {
-          "id": "nm6254064",
-          "name": "Stavros Halkias"
+          "id": "nm2129662",
+          "name": "Cristin Milioti"
         }
       ],
       "label": "Feb 05, 2027"
@@ -6664,12 +6664,12 @@
           "name": "Meryl Streep"
         },
         {
-          "id": "nm1659547",
-          "name": "Carey Mulligan"
-        },
-        {
           "id": "nm0185819",
           "name": "Daniel Craig"
+        },
+        {
+          "id": "nm1659547",
+          "name": "Carey Mulligan"
         }
       ],
       "label": "Feb 12, 2027"
@@ -6848,12 +6848,12 @@
           "name": "Esai Morales"
         },
         {
-          "id": "nm7639977",
-          "name": "Angel Rosario Jr."
+          "id": "nm3450051",
+          "name": "Richard Cabral"
         },
         {
-          "id": "nm1883803",
-          "name": "Jesse Garcia"
+          "id": "nm7639977",
+          "name": "Angel Rosario Jr."
         }
       ],
       "label": "Feb 26, 2027"
@@ -6989,20 +6989,20 @@
       ],
       "people": [
         {
+          "id": "nm0512934",
+          "name": "Hamish Linklater"
+        },
+        {
+          "id": "nm0001303",
+          "name": "Carla Gugino"
+        },
+        {
           "id": "nm0424060",
           "name": "Scarlett Johansson"
         },
         {
           "id": "nm0000491",
           "name": "John Leguizamo"
-        },
-        {
-          "id": "nm0512934",
-          "name": "Hamish Linklater"
-        },
-        {
-          "id": "nm0252230",
-          "name": "Chiwetel Ejiofor"
         }
       ],
       "label": "Mar 12, 2027"
@@ -7137,12 +7137,12 @@
       ],
       "people": [
         {
-          "id": "nm0000136",
-          "name": "Johnny Depp"
-        },
-        {
           "id": "nm3218692",
           "name": "Madelyn Cline"
+        },
+        {
+          "id": "nm0000136",
+          "name": "Johnny Depp"
         },
         {
           "id": "nm0004851",
@@ -7203,6 +7203,10 @@
       ],
       "people": [
         {
+          "id": "nm14949577",
+          "name": "Acston Luca Porto"
+        },
+        {
           "id": "nm0379596",
           "name": "Jay Hernandez"
         },
@@ -7213,10 +7217,6 @@
         {
           "id": "nm2834669",
           "name": "Monica Raymund"
-        },
-        {
-          "id": "nm0791898",
-          "name": "Tiffany Shepis"
         }
       ],
       "label": "Apr 09, 2027"
@@ -7535,12 +7535,12 @@
           "name": "Emma Stone"
         },
         {
-          "id": "nm0000209",
-          "name": "Tim Robbins"
-        },
-        {
           "id": "nm1517976",
           "name": "Chris Pine"
+        },
+        {
+          "id": "nm0000209",
+          "name": "Tim Robbins"
         },
         {
           "id": "nm0000651",
@@ -8002,12 +8002,12 @@
           "name": "Kirsten Dunst"
         },
         {
-          "id": "nm0597388",
-          "name": "Jason Momoa"
-        },
-        {
           "id": "nm0085312",
           "name": "Jack Black"
+        },
+        {
+          "id": "nm0597388",
+          "name": "Jason Momoa"
         },
         {
           "id": "nm0177639",
@@ -8061,6 +8061,10 @@
         {
           "id": "nm4360085",
           "name": "Callum Turner"
+        },
+        {
+          "id": "nm0001496",
+          "name": "Amy Madigan"
         },
         {
           "id": "nm0165101",
@@ -8134,16 +8138,16 @@
           "name": "J.D."
         },
         {
-          "id": "nm1988575",
-          "name": "Lauren London"
+          "id": "nm6400428",
+          "name": "Camron Jones"
         },
         {
           "id": "nm4861346",
           "name": "Algee Smith"
         },
         {
-          "id": "nm9474618",
-          "name": "Myles Bullock"
+          "id": "nm1988575",
+          "name": "Lauren London"
         }
       ],
       "label": "Aug 06, 2027"
