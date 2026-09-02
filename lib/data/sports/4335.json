@@ -1986,7 +1986,7 @@
     {
       "idEvent": "2506259",
       "idAPIfootball": "1570426",
-      "strTimestamp": "2026-10-25T16:00:00",
+      "strTimestamp": "2026-10-25T20:00:00",
       "strEvent": "Barcelona vs Real Madrid",
       "strEventAlternate": "Real Madrid @ Barcelona",
       "strFilename": "Spanish La Liga 2026-10-25 Barcelona vs Real Madrid",
@@ -2004,7 +2004,7 @@
       "strWeather": null,
       "dateEvent": "2026-10-25",
       "dateEventLocal": null,
-      "strTime": "16:00:00",
+      "strTime": "20:00:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "133739",
