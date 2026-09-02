@@ -2895,7 +2895,7 @@
       "id": "tt32588798",
       "title": "Practical Magic 2",
       "image": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
+      "releaseDate": "Thu, 10 Sep 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
         "Drama",
@@ -2919,7 +2919,7 @@
           "name": "Dianne Wiest"
         }
       ],
-      "label": "Sep 11, 2026"
+      "label": "Sep 10, 2026"
     },
     {
       "id": "tt31349844",
@@ -3242,7 +3242,7 @@
     {
       "id": "tt35538033",
       "title": "Resident Evil",
-      "image": "https://m.media-amazon.com/images/M/MV5BN2Y5YTQ1NGYtMmRjYi00ODAyLWFhY2EtYjM0Yzc2NjU4N2MyXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGZjZWI1NTItOGUwZC00YWZkLWIxZWEtNzE2ZTIxODdjNmZmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3444,12 +3444,12 @@
           "name": "Kareena Kapoor"
         },
         {
-          "id": "nm1241555",
-          "name": "Jitendra Joshi"
+          "id": "nm6845075",
+          "name": "Biswapati Sarkar"
         },
         {
-          "id": "nm1942776",
-          "name": "Kanwaljeet Singh"
+          "id": "nm1241555",
+          "name": "Jitendra Joshi"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3514,6 +3514,34 @@
       "label": "Sep 22, 2026"
     },
     {
+      "id": "tt28303275",
+      "title": "Who Moves America",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDMzMWU3NTctZGEwZi00ZmQzLTgwZmEtNWQ0Y2IwMTUzZTExXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 24 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary"
+      ],
+      "people": [
+        {
+          "id": "nm18298777",
+          "name": "Justin Alo"
+        },
+        {
+          "id": "nm15381584",
+          "name": "Antoine Andrews"
+        },
+        {
+          "id": "nm18298776",
+          "name": "Angel Badu"
+        },
+        {
+          "id": "nm2422965",
+          "name": "Sean O'Brien"
+        }
+      ],
+      "label": "Sep 24, 2026"
+    },
+    {
       "id": "tt7526136",
       "title": "Heart of the Beast",
       "image": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_.jpg",
@@ -3550,12 +3578,12 @@
       ],
       "people": [
         {
-          "id": "nm3538718",
-          "name": "Nick Robinson"
-        },
-        {
           "id": "nm4454223",
           "name": "Emilia Jones"
+        },
+        {
+          "id": "nm3538718",
+          "name": "Nick Robinson"
         },
         {
           "id": "nm10057569",
@@ -3629,35 +3657,6 @@
       "label": "Sep 25, 2026"
     },
     {
-      "id": "tt36590599",
-      "title": "The Scout",
-      "image": "https://m.media-amazon.com/images/M/MV5BZWZmZjdjNzQtZGFjNi00MjNhLTkwZmQtZmFhMzFmMWE4MjhiXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "people": [
-        {
-          "id": "nm0017377",
-          "name": "Rutanya Alda"
-        },
-        {
-          "id": "nm3300710",
-          "name": "Matt Barats"
-        },
-        {
-          "id": "nm6378156",
-          "name": "Mimi Davila"
-        },
-        {
-          "id": "nm18621543",
-          "name": "Jackson Devereux"
-        }
-      ],
-      "label": "Sep 25, 2026"
-    },
-    {
       "id": "tt36980182",
       "title": "The Incomer",
       "image": "https://m.media-amazon.com/images/M/MV5BMWNkYTBhZDctYjFmMi00Mjc3LTlkZGYtMzRiYzgxOGVhYmNmXkEyXkFqcGc@._V1_.jpg",
@@ -3720,7 +3719,7 @@
     {
       "id": "tt34611096",
       "title": "The Stunt Driver",
-      "image": "https://m.media-amazon.com/images/M/MV5BODAxNWRjMDItOWMxOS00NWJlLTliMTctMmRmZDMzN2E0OTA4XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzgwNzI1ZTYtN2MxZC00ZGI4LWE5ZjAtYWQ0ZGRmMzcyNmQ5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -3728,10 +3727,6 @@
         "Drama"
       ],
       "people": [
-        {
-          "id": "nm0004936",
-          "name": "Ben Foster"
-        },
         {
           "id": "nm0059431",
           "name": "Jay Baruchel"
@@ -3741,8 +3736,12 @@
           "name": "Ed Helms"
         },
         {
-          "id": "nm2045884",
-          "name": "Dan Bakkedahl"
+          "id": "nm0004936",
+          "name": "Ben Foster"
+        },
+        {
+          "id": "nm0495799",
+          "name": "Laurence Leboeuf"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3918,6 +3917,35 @@
         }
       ],
       "label": "Oct 01, 2026"
+    },
+    {
+      "id": "tt36590599",
+      "title": "The Scout",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzJlNDI0NmEtYjU0Yy00NTA0LTkyZDUtMjc1M2VkYzEyNGU1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm0017377",
+          "name": "Rutanya Alda"
+        },
+        {
+          "id": "nm3300710",
+          "name": "Matt Barats"
+        },
+        {
+          "id": "nm6378156",
+          "name": "Mimi Davila"
+        },
+        {
+          "id": "nm18621543",
+          "name": "Jackson Devereux"
+        }
+      ],
+      "label": "Oct 02, 2026"
     },
     {
       "id": "tt33184695",
@@ -4164,10 +4192,6 @@
       ],
       "people": [
         {
-          "id": "nm7436993",
-          "name": "Tramell Tillman"
-        },
-        {
           "id": "nm0002064",
           "name": "Giancarlo Esposito"
         },
@@ -4176,8 +4200,12 @@
           "name": "Mahershala Ali"
         },
         {
-          "id": "nm0158626",
-          "name": "John Cho"
+          "id": "nm7436993",
+          "name": "Tramell Tillman"
+        },
+        {
+          "id": "nm2274707",
+          "name": "Tiffany Boone"
         }
       ],
       "label": "Oct 09, 2026"
@@ -4849,12 +4877,12 @@
           "name": "Alexander Skarsgård"
         },
         {
-          "id": "nm1469236",
-          "name": "Olivia Colman"
-        },
-        {
           "id": "nm4456120",
           "name": "Elizabeth Debicki"
+        },
+        {
+          "id": "nm1469236",
+          "name": "Olivia Colman"
         },
         {
           "id": "nm0227759",
@@ -5344,6 +5372,64 @@
         {
           "id": "nm3510471",
           "name": "Sam Claflin"
+        }
+      ],
+      "label": "Nov 13, 2026"
+    },
+    {
+      "id": "tt13652154",
+      "title": "Mouse",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDc2YmUxNDYtNDFjMS00NWMwLWJmZGEtNTdjMTkyMTNmMTU5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm0645683",
+          "name": "Sophie Okonedo"
+        },
+        {
+          "id": "nm10102806",
+          "name": "Katherine Mallen Kupferer"
+        },
+        {
+          "id": "nm5668548",
+          "name": "Chloe Coleman"
+        },
+        {
+          "id": "nm4583608",
+          "name": "Tara Mallen"
+        }
+      ],
+      "label": "Nov 13, 2026"
+    },
+    {
+      "id": "tt18068772",
+      "title": "Hurricanna",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGM4YjY2NDctZWNmNi00MWRjLTg3ZGUtZTY0ZDVkYzFmYWFjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm1679778",
+          "name": "Sylvia Hoeks"
+        },
+        {
+          "id": "nm0243233",
+          "name": "Mark Duplass"
+        },
+        {
+          "id": "nm0000456",
+          "name": "Holly Hunter"
+        },
+        {
+          "id": "nm0839934",
+          "name": "Kevin Sussman"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6154,7 +6240,7 @@
     {
       "id": "tt39328391",
       "title": "Coward",
-      "image": "https://m.media-amazon.com/images/M/MV5BNGJiM2Q0OWYtZmFlZS00MmUzLTk2ZmYtYmFhY2QxOGQ2NzZkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWI4MjlhNWMtNDQ1NS00NzFlLTljZTktNTkxNjMwMmNkMWJlXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -6553,10 +6639,6 @@
       ],
       "people": [
         {
-          "id": "nm17136188",
-          "name": "Ryan Rhodes"
-        },
-        {
           "id": "nm3218692",
           "name": "Madelyn Cline"
         },
@@ -6567,6 +6649,10 @@
         {
           "id": "nm2129662",
           "name": "Cristin Milioti"
+        },
+        {
+          "id": "nm6254064",
+          "name": "Stavros Halkias"
         }
       ],
       "label": "Feb 05, 2027"
@@ -6810,12 +6896,12 @@
       ],
       "people": [
         {
-          "id": "nm0000112",
-          "name": "Pierce Brosnan"
-        },
-        {
           "id": "nm4141252",
           "name": "Lily James"
+        },
+        {
+          "id": "nm0000112",
+          "name": "Pierce Brosnan"
         },
         {
           "id": "nm4836100",
