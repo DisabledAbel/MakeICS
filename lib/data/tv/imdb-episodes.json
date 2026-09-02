@@ -1488,9 +1488,9 @@
         },
         {
           "season": 8,
-          "number": 15,
-          "name": "Episode #8.11",
-          "airdate": "2026-09-15",
+          "number": 14,
+          "name": "Find Your Way Back",
+          "airdate": "2026-09-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37156739/?ref_=ttep_ep_11"
         },
@@ -1890,9 +1890,9 @@
         {
           "season": 11,
           "number": 13,
-          "name": "Episode #11.13",
+          "name": "Deck Daddy's Home",
           "airdate": "2026-08-31",
-          "summary": null,
+          "summary": "As Joe spirals due to Nathan's return, Aesha returns to the interior team, determined to recapture their early success. A new charter brings another difficult guest. A new crew member joins the boat.",
           "url": "https://www.imdb.com/title/tt44075359/?ref_=ttep_ep_13"
         },
         {
@@ -10804,8 +10804,8 @@
           "season": 13,
           "number": 10,
           "name": "No Safe Haven",
-          "airdate": "2026-08-21",
-          "summary": null,
+          "airdate": "2026-08-19",
+          "summary": "A survivalist makes a critical error with an essential piece of equipment.",
           "url": "https://www.imdb.com/title/tt44733911/?ref_=ttep_ep_10"
         },
         {
@@ -12930,6 +12930,46 @@
         },
         {
           "season": 19,
+          "number": 13,
+          "name": "Not So Funfetti",
+          "airdate": "2025-10-02",
+          "summary": "Tamra decides to give herself some space from Gretchen; Emily and Shane are more in sync after receiving a diagnosis for Luke; Jenn expresses her concerns as Dawson preps to leave for the Marines.",
+          "url": "https://www.imdb.com/title/tt36404521/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 19,
+          "number": 14,
+          "name": "Hoedown Throwdown",
+          "airdate": "2025-10-09",
+          "summary": "Tamra meets with Katie in hopes of uncovering the truth; Shannon and Jenn's friendship continues to blossom when they engage their dogs with a pet psychic; Heather hosts an event for the Trevor Project.",
+          "url": "https://www.imdb.com/title/tt36404522/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 19,
+          "number": 15,
+          "name": "Going Dutch",
+          "airdate": "2025-10-16",
+          "summary": "Shannon hosts a bridal lunch for Jenn; Heather opens up about her relationship with her father; Gina and Travis celebrate their family being back together; Tamra and Eddie prep to be empty nesters; the ladies head to Amsterdam.",
+          "url": "https://www.imdb.com/title/tt36404523/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 19,
+          "number": 16,
+          "name": "Tulip Service",
+          "airdate": "2025-10-23",
+          "summary": "As the Amsterdam trip continues, the ladies visit the famous tulip fields where Jenn and Shannon´s friendship is called into question. Emily tries one last time to broker peace between Tamra and Gretchen.",
+          "url": "https://www.imdb.com/title/tt36404524/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 19,
+          "number": 17,
+          "name": "A Source of Discontent",
+          "airdate": "2025-10-30",
+          "summary": "The ladies enjoy several local activities in Amsterdam; Emily receives a distressing call from Shane; Heather finds comfort in visiting her parents' former home before spreading her father's ashes; Gina struggles with a scandalous rumor.",
+          "url": "https://www.imdb.com/title/tt36404526/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 19,
           "number": 18,
           "name": "Loose Lips Sink Trips",
           "airdate": "2025-09-18",
@@ -12938,10 +12978,26 @@
         },
         {
           "season": 19,
+          "number": 19,
+          "name": "Reunion Part 2",
+          "airdate": "2025-11-13",
+          "summary": "The ladies question Tamra about Jenn's photo, Gina discusses Heather's career comments. Jenn gets Ryan's call with Katie revelations. Matt Ginella joins for a dramatic he said, she said game.",
+          "url": "https://www.imdb.com/title/tt38004004/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 19,
+          "number": 20,
+          "name": "Reunion Part 3",
+          "airdate": "2025-11-20",
+          "summary": "Tamra and Gretchen clash over Amsterdam dinner details. Emily and Tamra question their friendship. Season finale footage sparks intense reactions, putting Tamra's honesty under scrutiny.",
+          "url": "https://www.imdb.com/title/tt38004016/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 19,
           "number": 25,
           "name": "Defense Is the Best Offense",
           "airdate": "2025-09-25",
-          "summary": "The women return from two tense trips with most feeling the planned bonding failed to take hold. Tamra joins Sophia on a music-school tour. Jenn realizes her upcoming wedding is having a greater emotional impact on her kids than she anticipated. Everyone reunites when Gretchen hosts a tactical training event. The ladies learn self-defense, but a shocking rumor about Tamra leads to an explosive confr",
+          "summary": "The women return from two tense trips with most feeling the planned bonding failed to take hold. Tamra joins Sophia on a music-school tour. Jenn realizes her upcoming wedding is having a greater emotional impact on her kids than she anticipated. Everyone reunites when Gretchen hosts a tactical training event. The ladies learn self-defense, but a shocking rumor about Tamra leads to an explosive confrontation.",
           "url": "https://www.imdb.com/title/tt36404520/?ref_=ttep_ep_12"
         }
       ]
@@ -26476,7 +26532,7 @@
           "number": 10,
           "name": "And the Heart of a Librarian",
           "airdate": "2026-08-31",
-          "summary": null,
+          "summary": "The Librarians help Vikram's lost love Anya solve a mystery using letters sent through time, stopping magical Victorian-era events from creating dangerous consequences in the future.",
           "url": "https://www.imdb.com/title/tt43644557/?ref_=ttep_ep_10"
         },
         {
@@ -26642,7 +26698,7 @@
           "number": 8,
           "name": "Jamaica Category 5",
           "airdate": "2026-08-23",
-          "summary": "Tourists and locals endure catastrophic winds and flooding as Category 5 Hurricane Melissa tears across Jamaica. As guests scramble to take shelter, resorts in Montego Bay suffer structural failure, while torrential rain inundates the town of Black River.",
+          "summary": "Category 5 Hurricane Melissa devastates Jamaica with catastrophic winds and flooding. Tourists and residents seek shelter as Montego Bay resorts collapse and Black River floods from heavy rain.",
           "url": "https://www.imdb.com/title/tt43986126/?ref_=ttep_ep_8"
         },
         {
@@ -31006,6 +31062,14 @@
           "url": "https://www.imdb.com/title/tt44847077/?ref_=ttep_ep_4"
         },
         {
+          "season": 12,
+          "number": 16,
+          "name": "Spirits of 1776",
+          "airdate": "2026-09-16",
+          "summary": "As America marks its 250th birthday, reports of Revolutionary War ghosts draw Phil, Heather and Jack Osbourne to historic battlefields in Pennsylvania. Their investigation uncovers unsettling encounters at the nation's most storied sites.",
+          "url": "https://www.imdb.com/title/tt45022726/?ref_=ttep_ep_5"
+        },
+        {
           "season": 11,
           "number": 1,
           "name": "Secrets of Vulture City",
@@ -34626,6 +34690,337 @@
           "airdate": null,
           "summary": "A serious snowstorm throws the facility a curve ball. Tension rises as the facility awaits a miracle to save Leah and Reginald, who are trapped without electricity.",
           "url": "https://www.imdb.com/title/tt42245186/?ref_=ttep_ep_22"
+        }
+      ]
+    },
+    "tt0905590": {
+      "imdbId": "tt0905590",
+      "title": "NBC Sunday Night Football",
+      "episodes": []
+    },
+    "tt1213209": {
+      "imdbId": "tt1213209",
+      "title": "America's Game: The Superbowl Champions",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "1970 Baltimore Colts",
+          "airdate": "2007-02-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878590/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "1980 Oakland Raiders",
+          "airdate": "2007-02-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878596/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "1990 New York Giants",
+          "airdate": "2006-12-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878604/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "2001 New England Patriots",
+          "airdate": "2007-02-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878612/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "1993 Dallas Cowboys",
+          "airdate": "2007-02-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878616/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "1979 Pittsburgh Steelers",
+          "airdate": "2007-02-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt1443823/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "1973 Miami Dolphins",
+          "airdate": "2007-03-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878626/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "1987 Washington Redskins",
+          "airdate": "2007-03-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878632/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "1988 San Francisco 49ers",
+          "airdate": "2007-03-08",
+          "summary": "A world championship was at stake, and the San Francisco 49ers were in a panic. Trailing 16-13 late in Super Bowl XXIII, the offense was 92 yards away from a championship. It was a moment for legends. Bit by bit, Hall of Fame quarterback Joe Montana marched the 49ers the length of the field. His 10-yard scoring strike to John Taylor with 34 ticks left on the clock lifted the Niners to a third Super Bowl title.",
+          "url": "https://www.imdb.com/title/tt28950482/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "1974 Pittsburgh Steelers",
+          "airdate": "2007-03-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt1443820/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "2000 Baltimore Ravens",
+          "airdate": "2007-03-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878654/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "1995 Dallas Cowboys",
+          "airdate": "2007-03-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878660/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "name": "1982 Washington Redskins",
+          "airdate": "2007-03-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878668/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "name": "1981 San Francisco 49ers",
+          "airdate": "2007-03-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878676/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "name": "1997 Denver Broncos",
+          "airdate": "2007-03-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878682/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 2,
+          "number": 16,
+          "name": "1968 New York Jets",
+          "airdate": "2007-04-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878688/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 2,
+          "number": 17,
+          "name": "2005 Pittsburgh Steelers",
+          "airdate": "2007-04-09",
+          "summary": "Re-live the story of the 2005 Steelers through the eyes of Bill Cowher, Jerome Bettis and Joey Porter. Narrated by Tom Selleck.",
+          "url": "https://www.imdb.com/title/tt1402227/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "name": "1967 Green Bay Packers",
+          "airdate": "2007-04-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878694/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "name": "2002 Tampa Bay Buccaneers",
+          "airdate": "2007-04-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878700/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 2,
+          "number": 20,
+          "name": "2003 New England Patriots",
+          "airdate": "2007-02-10",
+          "summary": "A documentary look at the 2003 New England Patriots, winners of Superbowl XXXVIII. The Patriots' 2003 season is examined through the views of free agent safety Rodney Harrison, veteran linebacker Willie McGinest, and offensive coordinator Charlie Weis; they provide behind-the-scenes looks at how the team was assembled, the effect of the sudden release of popular veteran safety Lawyer Milloy, and the team's record-setting streak of victories ending in a victory over the Carolina Panthers in what was widely considered the most exciting Superbowl ever.",
+          "url": "https://www.imdb.com/title/tt1251039/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "1983 Los Angeles Raiders",
+          "airdate": "2006-11-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt1229248/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "1999 St. Louis Rams",
+          "airdate": "2006-12-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt1229249/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "1969 Kansas City Chiefs",
+          "airdate": "2006-12-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt3161392/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "1994 San Fransisco 49ers",
+          "airdate": "2006-12-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt3161426/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "1996 Green Bay Packers",
+          "airdate": "2006-12-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt3161410/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "1971 Dallas Cowboys",
+          "airdate": "2006-12-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt3161398/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "1991 Washington Redskins",
+          "airdate": "2007-01-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt10622568/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "1986 New York Giants",
+          "airdate": "2007-01-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt10622570/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "1998 Denver Broncos",
+          "airdate": "2007-01-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt10622572/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "1977 Dallas Cowboys",
+          "airdate": "2007-01-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt10622574/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "1976 Oakland Raiders",
+          "airdate": "2007-01-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt10622576/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "2004 New England Patriots",
+          "airdate": "2007-01-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt11878622/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "1984 San Francisco 49ers",
+          "airdate": "2007-01-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt10622578/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "1975 Pittsburgh Steelers",
+          "airdate": "2007-01-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt1443821/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "name": "1966 Green Bay Packers",
+          "airdate": "2007-01-30",
+          "summary": "This episodes chronicles the first team to win a Super Bowl, the 1966 Green Bay Packers, led by legendary head coach Vince Lombardi and quarterback Bart Starr. The Green Bay Packers were rated as the 6th greatest Super Bowl winning team by a Blue Ribbon panel of experts.",
+          "url": "https://www.imdb.com/title/tt1384968/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "name": "1992 Dallas Cowboys",
+          "airdate": "2007-01-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt10622582/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 1,
+          "number": 17,
+          "name": "1989 San Francisco 49ers",
+          "airdate": "2007-02-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt10622584/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 1,
+          "number": 18,
+          "name": "1978 Pittsburgh Steelers",
+          "airdate": "2007-02-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt1443822/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 1,
+          "number": 19,
+          "name": "1985 Chicago Bears",
+          "airdate": "2007-02-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt10622590/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 1,
+          "number": 20,
+          "name": "1972 Miami Dolphins",
+          "airdate": "2007-02-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt10622592/?ref_=ttep_ep_20"
         }
       ]
     }
