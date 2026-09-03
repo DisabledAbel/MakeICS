@@ -4281,12 +4281,12 @@
       ],
       "people": [
         {
-          "id": "nm1659221",
-          "name": "Sebastian Stan"
-        },
-        {
           "id": "nm4561559",
           "name": "Renate Reinsve"
+        },
+        {
+          "id": "nm1659221",
+          "name": "Sebastian Stan"
         },
         {
           "id": "nm2966840",
@@ -5044,8 +5044,8 @@
           "name": "Robert Gunton"
         },
         {
-          "id": "nm9741923",
-          "name": "Zuhair Ahmed"
+          "id": "nm10380800",
+          "name": "Austin Lampe"
         }
       ],
       "label": "Oct 31, 2026"
@@ -5482,12 +5482,12 @@
           "name": "Mckenna Grace"
         },
         {
-          "id": "nm2225369",
-          "name": "Jennifer Lawrence"
-        },
-        {
           "id": "nm1102577",
           "name": "Elle Fanning"
+        },
+        {
+          "id": "nm0000146",
+          "name": "Ralph Fiennes"
         }
       ],
       "label": "Nov 20, 2026"
@@ -6416,8 +6416,8 @@
           "name": "Richard Roxburgh"
         },
         {
-          "id": "nm0909144",
-          "name": "David Walliams"
+          "id": "nm3002919",
+          "name": "Blake Harrison"
         }
       ],
       "label": "Jan 15, 2027"
@@ -6780,12 +6780,12 @@
           "name": "Lewis Pullman"
         },
         {
-          "id": "nm1638321",
-          "name": "Maya Hawke"
+          "id": "nm12642168",
+          "name": "Amita Rao"
         },
         {
-          "id": "nm0448486",
-          "name": "Kerri Kenney"
+          "id": "nm1638321",
+          "name": "Maya Hawke"
         }
       ],
       "label": "Feb 12, 2027"
@@ -7316,12 +7316,12 @@
       ],
       "people": [
         {
-          "id": "nm0647634",
-          "name": "Elizabeth Olsen"
-        },
-        {
           "id": "nm0000210",
           "name": "Julia Roberts"
+        },
+        {
+          "id": "nm0647634",
+          "name": "Elizabeth Olsen"
         },
         {
           "id": "nm1519666",
@@ -7577,6 +7577,10 @@
       ],
       "people": [
         {
+          "id": "nm4479052",
+          "name": "Sibongile Mlambo"
+        },
+        {
           "id": "nm3996999",
           "name": "Brandon Sklenar"
         },
@@ -7587,10 +7591,6 @@
         {
           "id": "nm0164809",
           "name": "Jason Clarke"
-        },
-        {
-          "id": "nm1569067",
-          "name": "Wilson Bethel"
         }
       ],
       "label": "May 14, 2027"
@@ -7670,12 +7670,12 @@
       ],
       "people": [
         {
-          "id": "nm7248827",
-          "name": "Cynthia Erivo"
-        },
-        {
           "id": "nm0048389",
           "name": "Dee Bradley Baker"
+        },
+        {
+          "id": "nm7248827",
+          "name": "Cynthia Erivo"
         },
         {
           "id": "nm6967441",
@@ -8308,6 +8308,32 @@
         }
       ],
       "label": "Aug 20, 2027"
+    },
+    {
+      "id": "tt38561132",
+      "title": "The New Simpsons Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjdhZjIwMGQtOWE4NC00YTA3LThiNjMtM2MyNjRiNTM1OWU3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 03 Sep 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm0534134",
+          "name": "Tress MacNeille"
+        },
+        {
+          "id": "nm0744648",
+          "name": "Maggie Roswell"
+        },
+        {
+          "id": "nm3536856",
+          "name": "Kelly Macleod"
+        }
+      ],
+      "label": "Sep 03, 2027"
     }
   ]
 }
