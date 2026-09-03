@@ -1878,6 +1878,76 @@
       "strStatus": "NS",
       "strTVStation": null,
       "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-850974",
+      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-09-08",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-09-09T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-850975",
+      "strEvent": "Vancouver Canadians vs Eugene Emeralds",
+      "strHomeTeam": "Vancouver Canadians",
+      "strAwayTeam": "Eugene Emeralds",
+      "dateEvent": "2026-09-09",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-09-10T02:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "Rogers Field at Nat Bailey Stadium",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-850967",
+      "strEvent": "Eugene Emeralds vs Vancouver Canadians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-09-11",
+      "strTime": "01:35:00",
+      "strTimestamp": "2026-09-12T01:35:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-850968",
+      "strEvent": "Eugene Emeralds vs Vancouver Canadians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-09-12",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-09-13T00:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-850969",
+      "strEvent": "Eugene Emeralds vs Vancouver Canadians",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Vancouver Canadians",
+      "dateEvent": "2026-09-13",
+      "strTime": "23:05:00",
+      "strTimestamp": "2026-09-13T23:05:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
     }
   ]
 }
