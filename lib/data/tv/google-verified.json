@@ -1,9 +1,4 @@
 {
-  "Tyler Perry's The Oval-7-18": {
-    "airdate": "2026-09-02",
-    "name": "Riding the Troubled Waters",
-    "verifiedAt": "2026-07-29T15:10:17.630Z"
-  },
   "Tyler Perry's The Oval-7-19": {
     "airdate": "2026-09-09",
     "name": "In a Heartbeat",
@@ -49,11 +44,6 @@
     "name": "The Gang Goes to the Ren Faire",
     "verifiedAt": "2026-08-18T13:44:49.993Z"
   },
-  "Big Brother-28-24": {
-    "airdate": "2026-09-02",
-    "name": "Episode #28.24",
-    "verifiedAt": "2026-08-20T13:47:10.582Z"
-  },
   "Big Brother-28-25": {
     "airdate": "2026-09-03",
     "name": "Episode #28.25",
@@ -98,11 +88,6 @@
     "airdate": "2026-10-30",
     "name": "Signed, Sealed, Smashed",
     "verifiedAt": "2026-08-26T13:56:17.190Z"
-  },
-  "The Great American Road Rally: Celebrity Edition-1-1": {
-    "airdate": "2026-09-02",
-    "name": "Episode #1.1",
-    "verifiedAt": "2026-08-27T22:53:12.242Z"
   },
   "All Elite Wrestling: Dynamite-8-40": {
     "airdate": "2026-10-07",
@@ -168,5 +153,10 @@
     "airdate": "2026-09-13",
     "name": "Lara Paige Conley",
     "verifiedAt": "2026-09-02T17:07:34.243Z"
+  },
+  "America's Game: The Superbowl Champions-2-20": {
+    "airdate": "2026-09-09",
+    "name": "2003 New England Patriots",
+    "verifiedAt": "2026-09-03T17:00:05.668Z"
   }
 }
