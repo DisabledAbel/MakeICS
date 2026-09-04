@@ -2599,8 +2599,8 @@
           "name": "Nicole Beharie"
         },
         {
-          "id": "nm0524197",
-          "name": "Josh Lucas"
+          "id": "nm0000657",
+          "name": "David Strathairn"
         }
       ],
       "label": "Sep 04, 2026"
@@ -2633,19 +2633,6 @@
           "name": "Reginald VelJohnson"
         }
       ],
-      "label": "Sep 04, 2026"
-    },
-    {
-      "id": "tt4519000",
-      "title": "Jessica Frost",
-      "image": "https://m.media-amazon.com/images/M/MV5BNmE4NzBiMzMtNTA4Ni00NWY3LThlNzUtYWY1NmExMGUwNGZlXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 04 Sep 2026 00:00:00 GMT",
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Sci-Fi"
-      ],
-      "people": [],
       "label": "Sep 04, 2026"
     },
     {
@@ -2907,16 +2894,16 @@
           "name": "Sandra Bullock"
         },
         {
-          "id": "nm0000173",
-          "name": "Nicole Kidman"
+          "id": "nm0001848",
+          "name": "Dianne Wiest"
         },
         {
           "id": "nm0000330",
           "name": "Stockard Channing"
         },
         {
-          "id": "nm0001848",
-          "name": "Dianne Wiest"
+          "id": "nm7643423",
+          "name": "Amy Bowden"
         }
       ],
       "label": "Sep 10, 2026"
@@ -3242,7 +3229,7 @@
     {
       "id": "tt35538033",
       "title": "Resident Evil",
-      "image": "https://m.media-amazon.com/images/M/MV5BOGZjZWI1NTItOGUwZC00YWZkLWIxZWEtNzE2ZTIxODdjNmZmXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BODIwYTk4MWYtMGUxYS00OWUzLTg5MDYtNzg5MmYyNzcyNThkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3397,7 +3384,7 @@
     {
       "id": "tt30850718",
       "title": "April X",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDQwNzBlOTctODQ2Yy00M2NhLWFmMGEtZDQyZDE2NDg5YjA3XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA0OGE4MjYtNzUyNS00OGYzLWE0YmMtNWRiZGQ2YmJmMDc2XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -5056,9 +5043,9 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNDc5ZDAzNmEtNTI2OS00YWI0LWE5MTYtZTJiN2RkNzRmMjA0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
+        "Action",
         "Comedy",
-        "Crime",
-        "Drama"
+        "Crime"
       ],
       "people": [
         {
@@ -5260,8 +5247,8 @@
     {
       "id": "tt27988879",
       "title": "Ramayana",
-      "image": "https://m.media-amazon.com/images/M/MV5BMzljMTFkYTktMjQ0MC00NjFhLWFmOTEtOTMyZmVhNTBmYTMzXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Sun, 08 Nov 2026 00:00:00 GMT",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjc3Zjg4ZDEtMGYzYS00YjNhLWFmOGQtMDhmMjExZDI4OGYzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
         "Adventure",
@@ -5285,7 +5272,7 @@
           "name": "Ravi Dubey"
         }
       ],
-      "label": "Nov 08, 2026"
+      "label": "Nov 06, 2026"
     },
     {
       "id": "tt35866986",
@@ -8303,8 +8290,20 @@
       ],
       "people": [
         {
+          "id": "nm0254712",
+          "name": "Aunjanue Ellis-Taylor"
+        },
+        {
+          "id": "nm1502434",
+          "name": "Leslie Odom Jr."
+        },
+        {
           "id": "nm4977564",
           "name": "Storm Reid"
+        },
+        {
+          "id": "nm7882673",
+          "name": "Woody McClain"
         }
       ],
       "label": "Aug 20, 2027"
@@ -8334,6 +8333,19 @@
         }
       ],
       "label": "Sep 03, 2027"
+    },
+    {
+      "id": "tt4519000",
+      "title": "Jessica Frost",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmE4NzBiMzMtNTA4Ni00NWY3LThlNzUtYWY1NmExMGUwNGZlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 04 Sep 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "people": [],
+      "label": "Sep 04, 2027"
     }
   ]
 }
