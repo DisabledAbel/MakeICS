@@ -20017,7 +20017,7 @@
         {
           "season": 7,
           "number": 22,
-          "name": "Creeping Catastrophes, Creeping Rocks, and Cute Snakes",
+          "name": "Creating Catastrophes, Creeping Rocks, and Cute Snakes",
           "airdate": "2026-05-23",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43610991/?ref_=ttep_ep_22"
@@ -22869,23 +22869,23 @@
           "number": 17,
           "name": "Are We Really Doing This?",
           "airdate": "2026-08-30",
-          "summary": "Mallorie has a difficult conversation with her mom. Marissa breaks down on her wedding day. Ashia worries that Rod will be a no show. Paula grapples with a game time decision. Mido has a wedding surprise for Debby. Catie and Josh question the future.",
+          "summary": "Mallorie confronts her mom. Marissa breaks down on her wedding day. Ashia fears Rod won't show. Paula faces a tough decision. Mido surprises Debby. Catie and Josh question their future.",
           "url": "https://www.imdb.com/title/tt43682024/?ref_=ttep_ep_17"
         },
         {
           "season": 12,
           "number": 20,
-          "name": "Episode #12.20",
+          "name": "Tell All Part 2",
           "airdate": "2026-09-20",
-          "summary": null,
+          "summary": "On Part Two of the Tell All, the couples take the drama offstage for a chaotic night out in New York City. Edward gives Marissa an ultimatum, Catie tries to prove she's changed, and Mallorie's friend reveals a shocking secret she kept from Rasit.",
           "url": "https://www.imdb.com/title/tt43748127/?ref_=ttep_ep_20"
         },
         {
           "season": 12,
           "number": 27,
-          "name": "Episode #12.21",
+          "name": "Tell All Part 3",
           "airdate": "2026-09-27",
-          "summary": null,
+          "summary": "On the explosive season finale, everything comes to a head. Marissa has a change of heart, Paula drops a bombshell she's kept from Thomas, Rod questions Maxwell's intentions, and Debby is left wondering whether her marriage can survive.",
           "url": "https://www.imdb.com/title/tt44111691/?ref_=ttep_ep_21"
         },
         {
@@ -25215,7 +25215,7 @@
           "number": 8,
           "name": "Battle of the Best Friends!",
           "airdate": "2026-08-31",
-          "summary": null,
+          "summary": "Teams of BFFs fight to become SRBFFs (Stinkin' Rich Best Friends Forever) and win a million dollar grand prize, testing their bond.",
           "url": "https://www.imdb.com/title/tt44924374/?ref_=ttep_ep_8"
         },
         {
@@ -30218,7 +30218,7 @@
           "number": 6,
           "name": "To Peach Her Own",
           "airdate": "2026-09-06",
-          "summary": null,
+          "summary": "The Alter Ego party continues with housewives that include Kim Zolciak, Shereé Whitfield, Lisa Wu and NeNe Leakes. After finding support from Teresa and Kyle, Lisa Barlow ruffles feathers when she delays the group's travel schedule.",
           "url": "https://www.imdb.com/title/tt43619996/?ref_=ttep_ep_5"
         },
         {
@@ -30234,7 +30234,7 @@
           "number": 13,
           "name": "Cockies and Conversation",
           "airdate": "2026-09-13",
-          "summary": null,
+          "summary": "The ladies touch down in Miami for cocktails, beach games and a heart-to-heart; Luann's gift of the gab has the group considering a talking intervention; Vicki finally whoops it up.",
           "url": "https://www.imdb.com/title/tt43619995/?ref_=ttep_ep_6"
         },
         {
@@ -33711,7 +33711,7 @@
           "number": 2,
           "name": "Like, Subscribe and Survive",
           "airdate": "2026-08-26",
-          "summary": "Chan faces a medical mystery threatening her vision. College sweethearts Erin and Jack's relationship is tested by a devastating accident. Rider finds something lodged in his ear. Nicole codes during labor.",
+          "summary": "Chan faces a medical mystery threatening her vision. College sweethearts Erin and Jack's relationship is tested by a devastating accident. Rider finds something lodged in his ear.",
           "url": "https://www.imdb.com/title/tt43744761/?ref_=ttep_ep_2"
         },
         {
@@ -34028,14 +34028,6 @@
       "episodes": [
         {
           "season": 52,
-          "number": 2,
-          "name": "ACL 12th Annual Hall of Fame Honors Brandi Carlile",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44929929/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 52,
           "number": 4,
           "name": "Carlos Vives y La Provincia",
           "airdate": "2026-09-04",
@@ -34057,6 +34049,14 @@
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt45115484/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 52,
+          "number": 12,
+          "name": "ACL 12th Annual Hall of Fame Honors Brandi Carlile",
+          "airdate": "2026-09-12",
+          "summary": "Bonnie Raitt performs a tribute to Brandi Carlile as she is inducted into the ACL Hall of Fame.",
+          "url": "https://www.imdb.com/title/tt44929929/?ref_=ttep_ep_2"
         },
         {
           "season": 51,
@@ -34553,11 +34553,43 @@
       "episodes": [
         {
           "season": 16,
+          "number": 5,
+          "name": "Episode #16.5",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45211890/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 16,
           "number": 8,
           "name": "The Price of Perfection",
           "airdate": "2026-09-08",
           "summary": "Jessel throws a Lunar New Year party to leave behind a year of loss but finds herself at odds with a friend; Sai opens up about her marriage; Hailey offers a glimpse into her unconventional life; Daisy shows a part of her world working for an icon.",
           "url": "https://www.imdb.com/title/tt40350961/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 16,
+          "number": 15,
+          "name": "Much Ado About Brunching",
+          "airdate": "2026-09-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45211866/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 16,
+          "number": 23,
+          "name": "Episode #16.3",
+          "airdate": "2026-09-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45211867/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 16,
+          "number": 29,
+          "name": "Episode #16.4",
+          "airdate": "2026-09-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45211869/?ref_=ttep_ep_4"
         },
         {
           "season": 15,
@@ -35339,6 +35371,14 @@
           "airdate": null,
           "summary": "It's the most embarrassing day of the school year. The celebrities' family members come to witness their loved ones' intellectual demise. Can they save them from themselves?",
           "url": "https://www.imdb.com/title/tt45115243/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "The Finals!",
+          "airdate": null,
+          "summary": "In the final episode that nobody wanted to reach, the last two celebrities go head-to-head, each one desperate to avoid being crowned 'The Nation's Dumbest'.",
+          "url": "https://www.imdb.com/title/tt45223179/?ref_=ttep_ep_10"
         }
       ]
     },
@@ -35553,6 +35593,432 @@
           "airdate": "2025-08-01",
           "summary": "The Loud family and Clyde arrive for a fun-filled summer at Camp Mastodon, but Lincoln and Clyde quickly find themselves in a battle against the toughest bunk at camp.",
           "url": "https://www.imdb.com/title/tt37565766/?ref_=ttep_ep_13"
+        }
+      ]
+    },
+    "tt37286022": {
+      "imdbId": "tt37286022",
+      "title": "Betting on Beloit",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Park Avenue Project",
+          "airdate": "2025-07-12",
+          "summary": "Konya begins her plan to restore Beloit's Historic College Park area by buying a deteriorating American Foursquare house on Park Avenue.",
+          "url": "https://www.imdb.com/title/tt37286897/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "The Community Open House",
+          "airdate": "2025-07-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37976019/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Curb Appeal Isnt Everything",
+          "airdate": "2025-07-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37976047/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Two Weeks Notice",
+          "airdate": "2025-07-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37976049/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "A Modern Diamond In The Rough",
+          "airdate": "2025-07-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37976051/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "From Bleak To Chic",
+          "airdate": "2025-07-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37976055/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Sitting On The Market",
+          "airdate": "2025-08-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37976057/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Office Official",
+          "airdate": "2025-08-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37976058/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "No Yard, No Garage, No Problem",
+          "airdate": "2025-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37976061/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Dont Quarry, Be Happy",
+          "airdate": "2025-08-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37976064/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "The Tear Down",
+          "airdate": "2025-08-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37976066/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "Old But New",
+          "airdate": "2025-08-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37976067/?ref_=ttep_ep_12"
+        }
+      ]
+    },
+    "tt9165512": {
+      "imdbId": "tt9165512",
+      "title": "Love & Marriage: Huntsville",
+      "episodes": [
+        {
+          "season": 12,
+          "number": 12,
+          "name": "A New Era",
+          "airdate": "2026-09-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44052893/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 11,
+          "number": 1,
+          "name": "The Streets Are Talking",
+          "airdate": "2026-03-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185435/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 11,
+          "number": 2,
+          "name": "A Detroit With Destiny",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185452/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 11,
+          "number": 3,
+          "name": "Motor City, Here We Come!",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185450/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 11,
+          "number": 4,
+          "name": "Oops! I DM'd Again",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185453/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 11,
+          "number": 5,
+          "name": "Kissing Cousins?",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185451/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 11,
+          "number": 6,
+          "name": "Episode #11.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185441/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 11,
+          "number": 7,
+          "name": "Episode #11.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185448/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 11,
+          "number": 8,
+          "name": "Episode #11.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185440/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 11,
+          "number": 9,
+          "name": "Episode #11.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185447/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 11,
+          "number": 10,
+          "name": "Episode #11.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185449/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 11,
+          "number": 11,
+          "name": "Episode #11.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185444/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 11,
+          "number": 12,
+          "name": "Episode #11.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185446/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 11,
+          "number": 13,
+          "name": "Episode #11.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185443/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 11,
+          "number": 14,
+          "name": "Episode #11.14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185445/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 11,
+          "number": 15,
+          "name": "Episode #11.15",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40185442/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 11,
+          "number": 16,
+          "name": "Reunion Part 1: Destiny or Divorce",
+          "airdate": "2026-06-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43079949/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 11,
+          "number": 17,
+          "name": "Reunion Part 2: DNA, NDA & DUI",
+          "airdate": "2026-06-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43079950/?ref_=ttep_ep_17"
+        }
+      ]
+    },
+    "tt0098820": {
+      "imdbId": "tt0098820",
+      "title": "Have I Got News for You",
+      "episodes": [
+        {
+          "season": 71,
+          "number": 1,
+          "name": "Episode #71.1",
+          "airdate": "2026-04-03",
+          "summary": "Team captains Paul Merton and Ian Hislop are joined by guest panellists Armando Iannucci and journalist Anushka Asthana. Roy Wood Jr is host.",
+          "url": "https://www.imdb.com/title/tt41041544/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 71,
+          "number": 2,
+          "name": "Episode #71.2",
+          "airdate": "2026-04-10",
+          "summary": "Guest panellists comedian Chris McCausland and journalist Helen Lewis join team captains Paul Merton and Ian Hislop while Monty Don hosts.",
+          "url": "https://www.imdb.com/title/tt41042265/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 71,
+          "number": 3,
+          "name": "Episode #71.3",
+          "airdate": "2026-04-17",
+          "summary": "Gabby Logan is this week's guest presenter of the long-running, satirical, current-affairs quiz. Comedians Miles Jupp and Michelle Wolf join regular team captains Ian Hislop and Paul Merton.",
+          "url": "https://www.imdb.com/title/tt41042268/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 71,
+          "number": 4,
+          "name": "Episode #71.4",
+          "airdate": "2026-04-24",
+          "summary": "Sue Perkins is the guest presenter for this week's edition of the satirical current-affairs quiz, with Finlay Christie and Camilla Long joining team captains Ian Hislop and Paul Merton.",
+          "url": "https://www.imdb.com/title/tt41042269/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 71,
+          "number": 5,
+          "name": "Episode #71.5",
+          "airdate": "2026-05-01",
+          "summary": "Richard Ayoade is host. Team captains Paul Merton and Ian Hislop are joined by guest panellists actor and comedian Stephen Mangan and journalist Ava Santina Evans.",
+          "url": "https://www.imdb.com/title/tt41042272/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 71,
+          "number": 6,
+          "name": "Episode #71.6",
+          "airdate": "2026-05-08",
+          "summary": "Steph McGovern is host. Team captains Paul Merton and Ian Hislop are joined by guest panellists comedian Jon Richardson and actress Sheila Hancock.",
+          "url": "https://www.imdb.com/title/tt41042276/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 71,
+          "number": 7,
+          "name": "Episode #71.7",
+          "airdate": "2026-05-15",
+          "summary": "Team captains Ian Hislop and Paul Merton delve into the news again. Victoria Coren Mitchell hosts.",
+          "url": "https://www.imdb.com/title/tt41042691/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 71,
+          "number": 8,
+          "name": "Episode #71.8",
+          "airdate": "2026-05-22",
+          "summary": "Guest panellists Phil Wang and Judi Love join team captains Ian and Paul to delve into the news. Alexander Armstrong is host.",
+          "url": "https://www.imdb.com/title/tt41042280/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 71,
+          "number": 9,
+          "name": "Episode #71.9",
+          "airdate": "2026-05-29",
+          "summary": "On this week's edition of the satirical news quiz, comedian Katherine Ryan is the guest presenter as regular team captains Ian Hislop and Paul Merton are joined by guest panellists journalist Jo Coburn and stand-up comedian John Tothill.",
+          "url": "https://www.imdb.com/title/tt41042696/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 71,
+          "number": 10,
+          "name": "Episode #71.10",
+          "airdate": "2026-06-05",
+          "summary": "In the final show of the 71st series, team regulars Ian Hislop and Paul Merton are joined by Lord Gove, the former Tory minister, and comedian Chloe Petts. David Tennant hosts.",
+          "url": "https://www.imdb.com/title/tt41042697/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 70,
+          "number": 1,
+          "name": "Episode #70.1",
+          "airdate": "2025-10-03",
+          "summary": "The topical, satirical panel show returns for a 70th series. Victoria Coren Mitchell is the guest presenter for this opening edition. Team captains Ian Hislop and Paul Merton are joined by actress Sheila Hancock and comedian Miles Jupp.",
+          "url": "https://www.imdb.com/title/tt38492802/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 70,
+          "number": 2,
+          "name": "Episode #70.2",
+          "airdate": "2025-10-10",
+          "summary": "Steph McGovern hosts. Team captains Paul Merton and Ian Hislop are joined by guest panellists actor Stephen Mangan and broadcaster Salma Shah.",
+          "url": "https://www.imdb.com/title/tt38553352/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 70,
+          "number": 3,
+          "name": "Episode #70.3",
+          "airdate": "2025-10-17",
+          "summary": "On this week's edition of the topical, satirical panel show team captains Ian Hislop and Paul Merton are joined by guest panellists journalist Helen Lewis and comedian Ross Noble. Alexander Armstrong is this week's guest presenter.",
+          "url": "https://www.imdb.com/title/tt38685990/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 70,
+          "number": 4,
+          "name": "Episode #70.4",
+          "airdate": "2025-10-24",
+          "summary": "Adil Ray is the guest presenter of the long-running satirical panel show this week. Team captains Ian Hislop and Paul Merton are joined by panellists comedian Julian Clary and journalist Sophy Ridge.",
+          "url": "https://www.imdb.com/title/tt38686095/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 70,
+          "number": 5,
+          "name": "Episode #70.5",
+          "airdate": "2025-10-31",
+          "summary": "Comedian Jason Manford is the guest presenter this week. Labour MP Louise Haigh and comedian Laura Smyth join team captains Ian Hislop and Paul Merton to take a satirical look at the biggest news stories of the week.",
+          "url": "https://www.imdb.com/title/tt38768207/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 70,
+          "number": 6,
+          "name": "Episode #70.6",
+          "airdate": "2025-11-07",
+          "summary": "Team captains Paul Merton and Ian Hislop are joined by guest panellists comedian Maisie Adam and journalist Lewis Goodall. Katherine Ryan hosts.",
+          "url": "https://www.imdb.com/title/tt38777208/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 70,
+          "number": 7,
+          "name": "Episode #70.7",
+          "airdate": "2025-11-21",
+          "summary": "Team captains Paul Merton and Ian Hislop are joined by comedian Nish Kumar and journalist Cathy Newman. Gabby Logan hosts.",
+          "url": "https://www.imdb.com/title/tt38987274/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 70,
+          "number": 8,
+          "name": "Episode #70.8",
+          "airdate": "2025-11-28",
+          "summary": "Richard Ayoade hosts. Team captains Paul Merton and Ian Hislop are joined by guest panellists writer and broadcaster Richard Osman and comedian Bella Hull.",
+          "url": "https://www.imdb.com/title/tt38987276/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 70,
+          "number": 9,
+          "name": "Episode #70.9",
+          "airdate": "2025-12-05",
+          "summary": "Team captains Paul Merton and Ian Hislop are joined by guest panellists the Rev Richard Coles and comedian Finlay Christie. Professor Hannah Fry hosts.",
+          "url": "https://www.imdb.com/title/tt38987277/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 70,
+          "number": 10,
+          "name": "Episode #70.10",
+          "airdate": "2025-12-12",
+          "summary": "Guest panellists journalist and broadcaster Janet Street-Porter and comedian and comedy writer Phil Wang join team captains Paul Merton and Ian Hislop. Martin Clunes hosts.",
+          "url": "https://www.imdb.com/title/tt38987278/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 70,
+          "number": 11,
+          "name": "Have I Got 2025 News for You",
+          "airdate": "2025-12-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39233036/?ref_=ttep_ep_11"
         }
       ]
     }
