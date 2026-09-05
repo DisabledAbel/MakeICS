@@ -2970,7 +2970,7 @@
     {
       "id": "tt36983905",
       "title": "The Uprising",
-      "image": "https://m.media-amazon.com/images/M/MV5BODc1ZWRlMjQtMDc4NC00ODczLWIwNGMtZmFlZjA3YzIyZWVhXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDI1ODg0N2MtN2RjMC00MmMxLWI3MDgtYTdlNzNhYjU2ZWQyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3655,12 +3655,12 @@
       ],
       "people": [
         {
-          "id": "nm4587360",
-          "name": "Gayle Rankin"
-        },
-        {
           "id": "nm1727304",
           "name": "Domhnall Gleeson"
+        },
+        {
+          "id": "nm4587360",
+          "name": "Gayle Rankin"
         },
         {
           "id": "nm0001314",
@@ -3745,10 +3745,6 @@
       ],
       "people": [
         {
-          "id": "nm0592135",
-          "name": "Lin-Manuel Miranda"
-        },
-        {
           "id": "nm0001573",
           "name": "Catherine O'Hara"
         },
@@ -3759,6 +3755,10 @@
         {
           "id": "nm0001006",
           "name": "John Candy"
+        },
+        {
+          "id": "nm0001737",
+          "name": "Martin Short"
         }
       ],
       "label": "Sep 25, 2026"
@@ -4103,8 +4103,8 @@
           "name": "Gustavo Sánchez Parra"
         },
         {
-          "id": "nm0953344",
-          "name": "Mario Zaragoza"
+          "id": "nm1543425",
+          "name": "Angela Rawna"
         }
       ],
       "label": "Oct 02, 2026"
@@ -4397,6 +4397,34 @@
         {
           "id": "nm6625833",
           "name": "Gustav Lindh"
+        }
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt32752251",
+      "title": "Falling",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        {
+          "id": "nm6224672",
+          "name": "Sophie Simnett"
+        },
+        {
+          "id": "nm8908475",
+          "name": "Isabel May"
+        },
+        {
+          "id": "nm10058940",
+          "name": "Emma Laird"
+        },
+        {
+          "id": "nm6216001",
+          "name": "KJ Apa"
         }
       ],
       "label": "Oct 09, 2026"
@@ -5854,16 +5882,16 @@
           "name": "Kate O'Flynn"
         },
         {
+          "id": "nm1054648",
+          "name": "Amanda Lawrence"
+        },
+        {
           "id": "nm0047392",
           "name": "Marion Bailey"
         },
         {
-          "id": "nm0107261",
-          "name": "Brid Brennan"
-        },
-        {
-          "id": "nm0422234",
-          "name": "Paul Jesson"
+          "id": "nm0929977",
+          "name": "Alan Williams"
         }
       ],
       "label": "Dec 04, 2026"
@@ -5880,12 +5908,12 @@
       ],
       "people": [
         {
-          "id": "nm4911194",
-          "name": "Jenna Ortega"
-        },
-        {
           "id": "nm0000204",
           "name": "Natalie Portman"
+        },
+        {
+          "id": "nm4911194",
+          "name": "Jenna Ortega"
         },
         {
           "id": "nm1250791",
@@ -7564,10 +7592,6 @@
       ],
       "people": [
         {
-          "id": "nm4479052",
-          "name": "Sibongile Mlambo"
-        },
-        {
           "id": "nm3996999",
           "name": "Brandon Sklenar"
         },
@@ -7578,6 +7602,10 @@
         {
           "id": "nm0164809",
           "name": "Jason Clarke"
+        },
+        {
+          "id": "nm1569067",
+          "name": "Wilson Bethel"
         }
       ],
       "label": "May 14, 2027"
