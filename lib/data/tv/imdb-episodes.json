@@ -9930,30 +9930,6 @@
         },
         {
           "season": 28,
-          "number": 31,
-          "name": "Episode #28.31",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44463127/?ref_=ttep_ep_31"
-        },
-        {
-          "season": 28,
-          "number": 32,
-          "name": "Episode #28.32",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44463139/?ref_=ttep_ep_32"
-        },
-        {
-          "season": 28,
-          "number": 33,
-          "name": "Episode #28.33",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44463160/?ref_=ttep_ep_33"
-        },
-        {
-          "season": 28,
           "number": 34,
           "name": "Episode #28.34",
           "airdate": null,
@@ -10959,14 +10935,6 @@
           "airdate": "2026-08-26",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44920066/?ref_=ttep_ep_11"
-        },
-        {
-          "season": 13,
-          "number": 12,
-          "name": "Subzero",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt45121805/?ref_=ttep_ep_12"
         },
         {
           "season": 12,
@@ -13802,6 +13770,22 @@
           "airdate": "2026-08-27",
           "summary": "Partnering with Dancing With the Stars, the designers create performance-ready fashions for some of the show's favorite professional dancers. Style and movement must work together seamlessly.",
           "url": "https://www.imdb.com/title/tt43720274/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 22,
+          "number": 9,
+          "name": "Put a Ring on it",
+          "airdate": null,
+          "summary": "In their final challenge before the finale, the designers create two wedding-day looks for a fashion-forward bride. The assignment demands versatility, elegance and a clear design vision.",
+          "url": "https://www.imdb.com/title/tt45322598/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 22,
+          "number": 10,
+          "name": "The Finale",
+          "airdate": null,
+          "summary": "The finalists present original capsule collections in a spectacular runway event. After a season of intense competition, one designer will earn fashion's biggest prize.",
+          "url": "https://www.imdb.com/title/tt45322664/?ref_=ttep_ep_10"
         },
         {
           "season": 21,
@@ -21266,6 +21250,30 @@
           "url": "https://www.imdb.com/title/tt44772035/?ref_=ttep_ep_42"
         },
         {
+          "season": 32,
+          "number": 43,
+          "name": "Munster, Go Home!",
+          "airdate": "2026-10-10",
+          "summary": "The Munsters travel to England so Herman can collect his inheritance. 60th Anniversary year",
+          "url": "https://www.imdb.com/title/tt45069917/?ref_=ttep_ep_43"
+        },
+        {
+          "season": 32,
+          "number": 45,
+          "name": "Invasion of the Body Snatchers",
+          "airdate": "2026-10-17",
+          "summary": "A small-town doctor discovers his patients are being replaced by emotionless alien lifeforms. 70th Anniversary year",
+          "url": "https://www.imdb.com/title/tt45103808/?ref_=ttep_ep_45"
+        },
+        {
+          "season": 32,
+          "number": 46,
+          "name": "This Island Earth",
+          "airdate": "2026-10-17",
+          "summary": "A scientist from Earth is recruited by aliens from a war-torn planet.",
+          "url": "https://www.imdb.com/title/tt45103979/?ref_=ttep_ep_46"
+        },
+        {
           "season": 31,
           "number": 1,
           "name": "Abbott and Costello Meet Dr Jekyll and Mr Hyde",
@@ -22124,7 +22132,7 @@
           "number": 12,
           "name": "Jennifer Sweeney",
           "airdate": "2026-04-19",
-          "summary": null,
+          "summary": "Months after surviving a shooting, a New Jersey woman vanishes. Investigators fear her attacker returned and rush to uncover a complex murder scheme and obsessed killer.",
           "url": "https://www.imdb.com/title/tt38347813/?ref_=ttep_ep_12"
         },
         {
@@ -22140,7 +22148,7 @@
           "number": 14,
           "name": "Jacqueline Johnson-Cabrera",
           "airdate": "2026-07-26",
-          "summary": null,
+          "summary": "A corrections officer is found dead from a gunshot in his bed, devastating his family. Investigators discover a disgraced ex-officer driven by jealousy and obsession committed the murder.",
           "url": "https://www.imdb.com/title/tt38689607/?ref_=ttep_ep_14"
         },
         {
@@ -22148,7 +22156,7 @@
           "number": 15,
           "name": "Kimethia Coleman",
           "airdate": "2026-03-08",
-          "summary": null,
+          "summary": "A 911 call records a man's last moments following a deadly knife attack at home. With their sole witness constantly changing her account, detectives investigate a deteriorating relationship and the dark reality of a savage killing",
           "url": "https://www.imdb.com/title/tt38689613/?ref_=ttep_ep_15"
         },
         {
@@ -22156,7 +22164,7 @@
           "number": 16,
           "name": "Nicole Nachtman",
           "airdate": "2026-08-09",
-          "summary": null,
+          "summary": "A Florida suburb reels from a double murder. Detectives investigate, and evidence leads to someone known to the victims—a killer barely gripping reality.",
           "url": "https://www.imdb.com/title/tt38733532/?ref_=ttep_ep_16"
         },
         {
@@ -22164,7 +22172,7 @@
           "number": 17,
           "name": "Tammy Moorer",
           "airdate": "2026-08-16",
-          "summary": null,
+          "summary": "A South Carolina family's daughter vanishes just before starting her dream career. Investigators trace her final movements, uncovering a vengeful plot driven by jealous obsession.",
           "url": "https://www.imdb.com/title/tt38875427/?ref_=ttep_ep_17"
         },
         {
@@ -22172,7 +22180,7 @@
           "number": 18,
           "name": "LaFredia Todd",
           "airdate": "2026-08-23",
-          "summary": null,
+          "summary": "A workplace dispute at a South Carolina restaurant ends in gunfire. Detectives investigate whether it was self-defense or murder.",
           "url": "https://www.imdb.com/title/tt38915729/?ref_=ttep_ep_18"
         },
         {
@@ -22180,7 +22188,7 @@
           "number": 19,
           "name": "Nikki Hillrich",
           "airdate": "2026-08-30",
-          "summary": null,
+          "summary": "A California sales exec is shot dead in a parking garage. Police suspect robbery, but the probe reveals startling evidence exposing secret affairs and a lethal plot.",
           "url": "https://www.imdb.com/title/tt38991547/?ref_=ttep_ep_19"
         },
         {
@@ -22276,7 +22284,7 @@
           "number": 8,
           "name": "Amy Reese",
           "airdate": "2025-03-02",
-          "summary": null,
+          "summary": "A corrections officer is found dead from a gunshot in his bed, devastating his family. Investigators discover a disgraced ex-officer driven by jealousy and obsession committed the murder.",
           "url": "https://www.imdb.com/title/tt34891957/?ref_=ttep_ep_8"
         },
         {
@@ -25223,7 +25231,7 @@
           "number": 9,
           "name": "College Night!",
           "airdate": "2026-08-31",
-          "summary": null,
+          "summary": "Three teams of college students battle for a life changing million dollar prize.",
           "url": "https://www.imdb.com/title/tt44924376/?ref_=ttep_ep_9"
         },
         {
@@ -30706,7 +30714,7 @@
         {
           "season": 18,
           "number": 28,
-          "name": "Episode #18.8",
+          "name": "Mac and Dennis Tear Their ACLs",
           "airdate": "2026-09-28",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43679379/?ref_=ttep_ep_8"
@@ -33716,33 +33724,9 @@
         },
         {
           "season": 1,
-          "number": 5,
-          "name": "Episode #1.5",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt43744763/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 1,
-          "number": 6,
-          "name": "Episode #1.6",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt43744758/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 1,
-          "number": 7,
-          "name": "Episode #1.7",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt43744764/?ref_=ttep_ep_7"
-        },
-        {
-          "season": 1,
           "number": 8,
           "name": "Episode #1.8",
-          "airdate": null,
+          "airdate": "2026-10-07",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43744759/?ref_=ttep_ep_8"
         },
@@ -33753,6 +33737,30 @@
           "airdate": "2026-09-09",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43744765/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "name": "Episode #1.5",
+          "airdate": "2026-09-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43744763/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 23,
+          "name": "Episode #1.6",
+          "airdate": "2026-09-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43744758/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 30,
+          "name": "Episode #1.7",
+          "airdate": "2026-09-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43744764/?ref_=ttep_ep_7"
         }
       ]
     },
@@ -34511,7 +34519,7 @@
         {
           "season": 1,
           "number": 6,
-          "name": "Episode #1.1",
+          "name": "Recalled to Life",
           "airdate": "2026-09-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt40201246/?ref_=ttep_ep_1"
@@ -35368,15 +35376,15 @@
           "season": 1,
           "number": 9,
           "name": "Family-Teacher Conferences",
-          "airdate": null,
+          "airdate": "2026-09-09",
           "summary": "It's the most embarrassing day of the school year. The celebrities' family members come to witness their loved ones' intellectual demise. Can they save them from themselves?",
           "url": "https://www.imdb.com/title/tt45115243/?ref_=ttep_ep_9"
         },
         {
           "season": 1,
-          "number": 10,
+          "number": 16,
           "name": "The Finals!",
-          "airdate": null,
+          "airdate": "2026-09-16",
           "summary": "In the final episode that nobody wanted to reach, the last two celebrities go head-to-head, each one desperate to avoid being crowned 'The Nation's Dumbest'.",
           "url": "https://www.imdb.com/title/tt45223179/?ref_=ttep_ep_10"
         }
@@ -36021,6 +36029,605 @@
           "url": "https://www.imdb.com/title/tt39233036/?ref_=ttep_ep_11"
         }
       ]
+    },
+    "tt0068120": {
+      "imdbId": "tt0068120",
+      "title": "The Price is Right",
+      "episodes": []
+    },
+    "tt12030356": {
+      "imdbId": "tt12030356",
+      "title": "Roadkill Garage",
+      "episodes": [
+        {
+          "season": 9,
+          "number": 1,
+          "name": "Bootleg Ford Fixing and Road Trip!",
+          "airdate": "2024-04-23",
+          "summary": "The Supercharged Bootlegging '40 Ford Fordor is back. This time on Roadkill Garage, Freiburger and Dulcich death proof their questionably assembled '40 Ford and then hit the road to multiple junkyards in the hunt for a new project vehicle. After a lengthy search the guys fall in love with a barn find '50s truck that's too good to be true.",
+          "url": "https://www.imdb.com/title/tt32333412/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 9,
+          "number": 2,
+          "name": "Muscle Truck 4-Link Fabrication!",
+          "airdate": "2024-04-30",
+          "summary": "The '73 Chevy step-side \"Muscle Truck\" has a storied history. This time on Roadkill Garage, Freiburger and guest host Dave Chappelle fabricate another chapter in the truck's saga with the addition of a beefy 4-link suspension and coilovers to hopefully get it to finally sit right. Chappelle brings his own fabricated Mustang II along to compare to the truck on an autocross.",
+          "url": "https://www.imdb.com/title/tt32333487/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 9,
+          "number": 3,
+          "name": "1000+hp Pro Street Nova!",
+          "airdate": "2024-05-07",
+          "summary": "The \"Tunnel Cram\" supercharged big-block Chevy engine gets a new home. This time on Roadkill Garage, Freiburger and Dulcich add 1,000+ hp to David's Pro Street 1969 Chevy Nova. In an attempt to make a true street/strip car, the guys add the engine, transmission, and fully build out this roller before taking it to the track to run some impressive times out of the gate.",
+          "url": "https://www.imdb.com/title/tt32377007/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 9,
+          "number": 4,
+          "name": "Crusher Camaro on Power Tour West!",
+          "airdate": "2024-05-14",
+          "summary": "From the first Hot Rod Power Tour in '95 to the first Power Tour West, the 1967 Crusher Camaro keeps going. This time on Roadkill Garage, Freiburger and Dulcich return the Camaro made famous in the pages of Hot Rod to its original stylings when it was saved from the jaws of the crusher. After a makeover, the guys hit the road to Vegas and back for Hot Rod's first ever Power Tour West.",
+          "url": "https://www.imdb.com/title/tt32535752/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 9,
+          "number": 5,
+          "name": "The Dragoneer Begins!",
+          "airdate": "2024-05-21",
+          "summary": "For years Freiburger has had an idea to build a super-sleeper drag race car from a Jeep Wagoneer. This time on Roadkill Garage, Freiburger and Dulcich enlist the fabrication skills of Dave Chappelle to start building the Dragoneer. This LS-powered 1970 Jeep Wagoneer needs a lot of work, but it's on its way to becoming a surprisingly quick street/strip sleeper.",
+          "url": "https://www.imdb.com/title/tt32591204/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 9,
+          "number": 6,
+          "name": "Hemi Power for the Mopar Muscle Truck!",
+          "airdate": "2024-05-28",
+          "summary": "The MMT finally gets its Gen III Hemi. This time on Roadkill Garage, Dulcich and Freiburger enlist help from Chris Birdsong to finally finish the engine transplant into the 1974 Dodge D100 known as the Mopar Muscle Truck. After the installation of the new engine and a six-speed manual transmission, the guys hit the dyno to see what massive horsepower and torque numbers the truck now makes.",
+          "url": "https://www.imdb.com/title/tt32591732/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 9,
+          "number": 7,
+          "name": "Harvesting an International Pickup!",
+          "airdate": "2024-06-04",
+          "summary": "It's a barn find rescue of an unusually interesting pickup. This time on Roadkill Garage, Freiburger and Dulcich pull a 1966 (or is it a 1965?) International Harvester truck from a garage where's it's sat for decades. They found the truck and fell in love with it on a Roadkill Garage, but now will they be able to get it running and back on the road?",
+          "url": "https://www.imdb.com/title/tt32760021/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 9,
+          "number": 8,
+          "name": "Transforming the Hemi Belvedere!",
+          "airdate": null,
+          "summary": "Pulling a car from a junkyard is just the start of a long journey. This time on Roadkill Garage, Freiburger and Dulcich forge on with making David's 1969 Plymouth Belvedere an actual drivable car. The Belvedere has a 426 Hemi, four-speed manual transmission, and a Dana 60 rear end, but it still needs an exhaust system, full interior upgrades, disc brake conversion, and more.",
+          "url": "https://www.imdb.com/title/tt34721257/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 9,
+          "number": 9,
+          "name": "Muscle Truck Showdown!",
+          "airdate": null,
+          "summary": "The 1973 big-block 454, four-speed El Camino SS known as the El Cochino is back. This time on Roadkill Garage, Freiburger and Dulcich head to Hot Rod Ranch to make the El Cochino a bit less of a pig. The car sits too high, has terrible wheel hop, runs poorly, and looks terrible. However, a new suspension, a Holley Sniper 2 EFI, and a four-hour paint job totally transform it into a desirable ride.",
+          "url": "https://www.imdb.com/title/tt34721599/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 9,
+          "number": 10,
+          "name": "Complete El Camino Makeover!",
+          "airdate": null,
+          "summary": "The 1973 big-block 454, four-speed El Camino SS known as the El Cochino is back. This time on Roadkill Garage, Freiburger and Dulcich head to Hot Rod Ranch to make the El Cochino a bit less of a pig. The car sits too high, has terrible wheel hop, runs poorly, and looks terrible. However, a new suspension, a Holley Sniper 2 EFI, and a four-hour paint job totally transform it into a desirable ride.",
+          "url": "https://www.imdb.com/title/tt34721725/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 9,
+          "number": 11,
+          "name": "Satellite Cop Car Makeover!",
+          "airdate": null,
+          "summary": "What do you do when muscle cars get too expensive? Get a 1971 Plymouth Satellite four-door and make it cool. This time on Roadkill Garage, Freiburger and Dulcich fall in love with their 318ci '71 Satellite, which years ago they would have only ever ridden in if they were sporting cuffs, by making it into a cop car clone. It looks great, but wait until you see it handle against a new cop car.",
+          "url": "https://www.imdb.com/title/tt34722062/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 9,
+          "number": 12,
+          "name": "Fresh Pontiac Power in the T-37!",
+          "airdate": null,
+          "summary": "There's no better way to break in a new dyno than bringing new life to an old favorite. This time on Roadkill Garage, Freiburger and Dulcich refresh their junkyard-rescued 1971 Pontiac T-37 by removing the tired Pontiac 400ci V-8 and replacing it with fresh Pontiac power that delivers some horsepower and torque surprises when it runs on the shop's new dynamometer.",
+          "url": "https://www.imdb.com/title/tt34722436/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 9,
+          "number": 13,
+          "name": "Dragoneer Forever!",
+          "airdate": null,
+          "summary": "A distant dream turns to reality. This time on Roadkill Garage, Freiburger and Dulcich pull out all the stops, bringing in Dave Chappelle and Lucky Costa to fully build the Dragoneer, a 1970 Jeep Wagoneer set up as a sleeper drag car. From the suspension to the supercharger, they tackle every aspect of this build to end with a 408ci LS making 750 hp to the tires that pulls wheelies at the strip.",
+          "url": "https://www.imdb.com/title/tt35228632/?ref_=ttep_ep_13"
+        }
+      ]
+    },
+    "tt1239156": {
+      "imdbId": "tt1239156",
+      "title": "Sunday NFL Countdown",
+      "episodes": []
+    },
+    "tt0472017": {
+      "imdbId": "tt0472017",
+      "title": "The NFL Today",
+      "episodes": []
+    },
+    "tt7914040": {
+      "imdbId": "tt7914040",
+      "title": "The Floor",
+      "episodes": [
+        {
+          "season": 6,
+          "number": 13,
+          "name": "100 Champions Enter the Ring",
+          "airdate": "2026-09-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43677493/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 1,
+          "name": "New Year, New Floor-",
+          "airdate": "2026-04-08",
+          "summary": "Contestants dive straight in to take their shot at $250,000, and they'll feel a chill when a new advantage sends one contestant to the final stages of the game.",
+          "url": "https://www.imdb.com/title/tt39699873/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 2,
+          "name": "The Expert Slayer Strikes",
+          "airdate": "2026-04-08",
+          "summary": "A bold challenger shakes up the floor by by adopting a fearless approach in the pursuit to gain a crucial early advantage.",
+          "url": "https://www.imdb.com/title/tt39699874/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "name": "A Ringleader Rises",
+          "airdate": "2026-04-15",
+          "summary": "A new force strikes The Floor. The leader of a new alliance takes center stage, but how far will this master manipulator go?",
+          "url": "https://www.imdb.com/title/tt39699879/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 5,
+          "number": 4,
+          "name": "Fireworks on the Floor",
+          "airdate": "2026-04-22",
+          "summary": "One whale shocks the floor with a series of audacious decisions while another triggers a bitter grudge that could come back to haunt them.",
+          "url": "https://www.imdb.com/title/tt41957875/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 5,
+          "number": 5,
+          "name": "Sister Act",
+          "airdate": "2026-04-29",
+          "summary": "It's an all female fight as new players rise to the challenge with some fiercely fight duels. But can But can anyone topple Eric?",
+          "url": "https://www.imdb.com/title/tt41957877/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 5,
+          "number": 6,
+          "name": "Sweet Revenge",
+          "airdate": "2026-05-06",
+          "summary": "A ruthless player hides on The Floor, waiting to pounce with revenge. Masked by a smile, they'll do anything to win the $250,000 prize.",
+          "url": "https://www.imdb.com/title/tt42398799/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
+          "number": 7,
+          "name": "Who Will Win the Territory Freeze?",
+          "airdate": "2026-05-13",
+          "summary": "Kristen and Eric aim for the golden ticket and the $250,000 prize. Anyone can freeze others and win the game.",
+          "url": "https://www.imdb.com/title/tt42542761/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 5,
+          "number": 8,
+          "name": "New Faces, New Threats",
+          "airdate": "2026-05-20",
+          "summary": "New players shake up The Floor, challenging veterans. They risk it all to win the grand prize.",
+          "url": "https://www.imdb.com/title/tt42879386/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 5,
+          "number": 9,
+          "name": "A Winning Streak",
+          "airdate": "2026-05-27",
+          "summary": "One threat rises and their competition panics as they refuse to back down.",
+          "url": "https://www.imdb.com/title/tt42879390/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 5,
+          "number": 10,
+          "name": "Wolves at the Door",
+          "airdate": "2026-06-03",
+          "summary": "The pack circles The Floor. With fierce contenders, Eric's vulnerable territory is under attack for the grand prize.",
+          "url": "https://www.imdb.com/title/tt42879394/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 5,
+          "number": 11,
+          "name": "The Ice King Melts",
+          "airdate": "2026-06-10",
+          "summary": "As Eric is defrosted, will he be swamped with attacks as players go for gold with their sights set on the final goal? And one player leads a blitz attack that has everyone reeling.",
+          "url": "https://www.imdb.com/title/tt43484386/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 5,
+          "number": 12,
+          "name": "The Fight to the Final",
+          "airdate": "2026-06-10",
+          "summary": "With $250,000 on the line, the finale showcases some of the most anticipated duels of the season. Only one will walk away as season 5 champion.",
+          "url": "https://www.imdb.com/title/tt43484389/?ref_=ttep_ep_12"
+        }
+      ]
+    },
+    "tt9142920": {
+      "imdbId": "tt9142920",
+      "title": "High Value Target: The Hunt for Saddam",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Episode #1.1",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36752947/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Episode #1.8",
+          "airdate": "2026-10-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43746688/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "Episode #1.2",
+          "airdate": "2026-09-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43746687/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "Episode #1.3",
+          "airdate": "2026-09-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43746693/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 20,
+          "name": "Episode #1.4",
+          "airdate": "2026-09-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43746694/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 21,
+          "name": "Episode #1.5",
+          "airdate": "2026-09-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43746696/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 27,
+          "name": "Episode #1.6",
+          "airdate": "2026-09-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43746703/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 28,
+          "name": "Episode #1.7",
+          "airdate": "2026-09-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43746704/?ref_=ttep_ep_7"
+        }
+      ]
+    },
+    "tt2301643": {
+      "imdbId": "tt2301643",
+      "title": "Halloween Wars",
+      "episodes": [
+        {
+          "season": 15,
+          "number": 3,
+          "name": "The Scary Square-Off",
+          "airdate": "2025-10-04",
+          "summary": "Five teams create Halloween monster sports scenes featuring their sugar artists' skills. Host Jonathan Bennett guides teams while judges Shinmin Li and Aarti Sequeira eliminate one team.",
+          "url": "https://www.imdb.com/title/tt38221301/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 15,
+          "number": 4,
+          "name": "Halloween Word Games",
+          "airdate": "2025-10-12",
+          "summary": "Teams must create scenes using three words, with pumpkin artists making monsters entirely from pumpkins. Judges Li and Sequeira determine which teams advance.",
+          "url": "https://www.imdb.com/title/tt38267692/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 15,
+          "number": 5,
+          "name": "The Boogeyman's Lair",
+          "airdate": "2025-10-19",
+          "summary": "Teams design a boogeyman's lair, with cake artists creating full-sized victims from cake. Judges Li and Sequeira decide which two teams advance to the finals.",
+          "url": "https://www.imdb.com/title/tt38274625/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 15,
+          "number": 6,
+          "name": "Spellbound",
+          "airdate": "2025-10-26",
+          "summary": "The final two teams create modern spell-casting scenes that include one special effect and three complete characters. Then, it's up to Jonathan Bennett,Shinmin Li and Aarti Sequeira to decide who will be crowned Halloween Wars champion and win $25,000.",
+          "url": "https://www.imdb.com/title/tt38274641/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 15,
+          "number": 15,
+          "name": "Road to Halloween Wars 2025",
+          "airdate": "2025-09-15",
+          "summary": "Hopefuls nationwide display their talents to earn a shot at the grand prize.",
+          "url": "https://www.imdb.com/title/tt38352924/?ref_=ttep_ep"
+        },
+        {
+          "season": 15,
+          "number": 21,
+          "name": "Scare School",
+          "airdate": "2025-09-21",
+          "summary": "Host Jonathan Bennett challenges the first four teams to create a scene depicting their favorite monsters when they were in school. Judges Shinmin Li and Aarti Sequeira decide which team is eliminated.",
+          "url": "https://www.imdb.com/title/tt37971661/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 15,
+          "number": 28,
+          "name": "G.S.I.: Ghost Scene Investigators",
+          "airdate": "2025-09-28",
+          "summary": "Three new teams face off as Jonathan Bennett challenges them to create their very own crime scene. Judges Shinmin Li and Aarti Sequeira decide which teams move on and which team is eliminated.",
+          "url": "https://www.imdb.com/title/tt37971665/?ref_=ttep_ep_2"
+        }
+      ]
+    },
+    "tt0397306": {
+      "imdbId": "tt0397306",
+      "title": "American Dad!",
+      "episodes": [
+        {
+          "season": 21,
+          "number": 1,
+          "name": "Episode #21.1",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432023/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 21,
+          "number": 2,
+          "name": "Episode #21.2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432012/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 21,
+          "number": 3,
+          "name": "Episode #21.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432016/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 21,
+          "number": 4,
+          "name": "Episode #21.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432022/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 21,
+          "number": 5,
+          "name": "Episode #21.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432019/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 21,
+          "number": 6,
+          "name": "Episode #21.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432011/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 21,
+          "number": 7,
+          "name": "Episode #21.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432010/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 21,
+          "number": 8,
+          "name": "Episode #21.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432021/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 21,
+          "number": 9,
+          "name": "Episode #21.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432013/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 21,
+          "number": 10,
+          "name": "Episode #21.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432024/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 21,
+          "number": 11,
+          "name": "Episode #21.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432015/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 21,
+          "number": 12,
+          "name": "Episode #21.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432017/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 21,
+          "number": 13,
+          "name": "Episode #21.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432020/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 21,
+          "number": 14,
+          "name": "Episode #21.14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432014/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 21,
+          "number": 15,
+          "name": "Episode #21.15",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36432018/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 20,
+          "number": 1,
+          "name": "Aw Rats, A Pool Party",
+          "airdate": "2026-02-22",
+          "summary": "The Smiths throw a pool party attended by Francine's sister and Steve's ex when a dead rat is found in the pool.",
+          "url": "https://www.imdb.com/title/tt36271345/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 20,
+          "number": 2,
+          "name": "The Flume Flume Room",
+          "airdate": "2026-03-01",
+          "summary": "Stan struggles to appreciate Francine's niche interest in flume rides.",
+          "url": "https://www.imdb.com/title/tt36431997/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 20,
+          "number": 3,
+          "name": "Powering Through",
+          "airdate": "2026-03-08",
+          "summary": "Stan is determined to prove that there's no illness he can't power through, even if it ends up killing him - and everyone else.",
+          "url": "https://www.imdb.com/title/tt36432006/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 20,
+          "number": 4,
+          "name": "Camera Stan",
+          "airdate": "2026-03-15",
+          "summary": "Stan thinks he has what it takes to thrive on reality TV; Klaus gets himself a Klaus.",
+          "url": "https://www.imdb.com/title/tt36432004/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 20,
+          "number": 5,
+          "name": "Idol Threat",
+          "airdate": "2026-04-12",
+          "summary": "The school bully saves Steve's life at the carnival and is celebrated as a local hero by everyone but Steve.",
+          "url": "https://www.imdb.com/title/tt36431998/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 20,
+          "number": 6,
+          "name": "The Treasure of Old Chinatown",
+          "airdate": "2026-04-26",
+          "summary": "Steve and Bah Bah, along with a reluctant Francine, set out to discover an ancient Chinese treasure. Roger becomes an online food influencer.",
+          "url": "https://www.imdb.com/title/tt36431993/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 20,
+          "number": 7,
+          "name": "Reaper Madness",
+          "airdate": "2026-05-03",
+          "summary": "Klaus and Hayley search for their next fix after experiencing a euphoric high from a scary story.",
+          "url": "https://www.imdb.com/title/tt36432001/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 20,
+          "number": 8,
+          "name": "Dude, You're Getting a Del!",
+          "airdate": "2026-05-10",
+          "summary": "Klaus becomes Snot's father figure to woo Snot's mom. Meanwhile, Hayley opens a cat café and hires Roger's infamous cat persona, Marmalade.",
+          "url": "https://www.imdb.com/title/tt36431994/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 20,
+          "number": 9,
+          "name": "Where the Wild Boars Are",
+          "airdate": "2026-05-17",
+          "summary": "Jeff comes of age with the help of an old man. Roger takes care of a \"special\" shed.",
+          "url": "https://www.imdb.com/title/tt36432002/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 20,
+          "number": 10,
+          "name": "Dumbston Checks In",
+          "airdate": "2026-06-21",
+          "summary": "Steve and Principal Lewis team up to save the school while Stan seeks out a decent meal.",
+          "url": "https://www.imdb.com/title/tt36431996/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 20,
+          "number": 11,
+          "name": "A Donkey's Shame",
+          "airdate": "2026-06-21",
+          "summary": "Stan and Francine drive to Vegas to confront John Mayer.",
+          "url": "https://www.imdb.com/title/tt36431999/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 20,
+          "number": 13,
+          "name": "400?!",
+          "airdate": "2026-09-13",
+          "summary": "Stan nearly dies on his 400th mission and returns home to realize the CIA's secret clone program has already replaced him.",
+          "url": "https://www.imdb.com/title/tt36432000/?ref_=ttep_ep_12"
+        }
+      ]
+    },
+    "tt9863048": {
+      "imdbId": "tt9863048",
+      "title": "Paranormal Caught on Camera",
+      "episodes": []
+    },
+    "tt3042846": {
+      "imdbId": "tt3042846",
+      "title": "MTV Video Music Awards",
+      "episodes": []
     }
   }
 }
