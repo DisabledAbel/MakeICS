@@ -6610,7 +6610,7 @@
           "number": 8,
           "name": "Lyla's Family Restaurant Part 1",
           "airdate": "2026-09-08",
-          "summary": "Waleed sets out to achieve the American Dream with Lyla's Family Restaurant, but a sprawling menu, an overwhelmed kitchen, and a steady stream of dishes sent back have left the restaurant on the brink of collapse. Gordon Ramsay steps in to help revive the neighborhood favorite with a stunning transformation and a fully revamped kitchen, but just as Lyla's prepares for a fresh start, a shocking opening-day emergency threatens to undo everything.",
+          "summary": "After his son's death, Leo lost passion for his Italian restaurant, causing declining food and service. Gordon helps rekindle the owner's love and revive the Texas eatery's glory.",
           "url": "https://www.imdb.com/title/tt44912582/?ref_=ttep_ep_9"
         },
         {
@@ -6650,7 +6650,7 @@
           "number": 5,
           "name": "3 Southern Girls",
           "airdate": "2025-02-04",
-          "summary": "Gordon Ramsay pays a visit to 3 Southern Girls, a restaurant that prides itself on traditional southern cuisine. After a tragic car accident left the owner's son fighting for his life, the Jefferson LA staple was forced to close its shutters for over a month. In hopes of rebuilding a successful business, 3 Southern Girls will work with Gordon Ramsay to make a comeback.",
+          "summary": "Gordon Ramsay visits 3 Southern Girls, known for traditional southern food. After a tragic accident left the owner's son critically injured, the Jefferson restaurant closed for over a month.",
           "url": "https://www.imdb.com/title/tt35635308/?ref_=ttep_ep_5"
         },
         {
@@ -10317,6 +10317,14 @@
           "airdate": "2026-08-26",
           "summary": "The Top 6 home cooks are split into teams to put their skills to the ultimate test and take over Cluny Bistro for a packed dinner service in the Restaurant Takeover challenge. The MasterChef kitchen has prepared them for this moment, but running a real restaurant leaves no room for error. By the end of the night, one cook will not survive the dinner rush.",
           "url": "https://www.imdb.com/title/tt44042045/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 16,
+          "number": 16,
+          "name": "Finale Part 2",
+          "airdate": "2026-09-16",
+          "summary": "The MasterChef finale continues as the finalists present dishes inspired by their journeys through the Global Gauntlet, showcasing the culinary skills and perspectives that brought them to this moment. With the competition nearing an end, every detail matters as they craft their most remarkable dishes in a final bid to impress the judges.",
+          "url": "https://www.imdb.com/title/tt45351408/?ref_=ttep_ep_18"
         },
         {
           "season": 15,
@@ -24308,9 +24316,9 @@
         },
         {
           "season": 1,
-          "number": 14,
+          "number": 13,
           "name": "Knox",
-          "airdate": "2026-09-14",
+          "airdate": "2026-09-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43716933/?ref_=ttep_ep_8"
         },
@@ -30596,9 +30604,9 @@
         {
           "season": 1,
           "number": 6,
-          "name": "Episode #1.4",
+          "name": "The Weenie",
           "airdate": "2026-09-06",
-          "summary": null,
+          "summary": "With the 48-hour deadline about to expire, John develops a new theory about the whereabouts of the Cosmic Hunter, which leads him and Hal to present their next plan to Sheriff Kane. Meanwhile, Hal's visit to Sinestro has consequences",
           "url": "https://www.imdb.com/title/tt32752610/?ref_=ttep_ep_4"
         },
         {
@@ -34521,13 +34529,13 @@
           "number": 6,
           "name": "Recalled to Life",
           "airdate": "2026-09-06",
-          "summary": null,
+          "summary": "London, 1782. Lucie Manette's search for her long-lost father leads her to a dashing Frenchman, Charles Darnay, and a mercurial lawyer, Sydney Carton.",
           "url": "https://www.imdb.com/title/tt40201246/?ref_=ttep_ep_1"
         },
         {
           "season": 1,
           "number": 13,
-          "name": "Episode #1.2",
+          "name": "Malunion",
           "airdate": "2026-09-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt41050807/?ref_=ttep_ep_2"
@@ -34535,7 +34543,7 @@
         {
           "season": 1,
           "number": 20,
-          "name": "Episode #1.3",
+          "name": "Mother's Ruin",
           "airdate": "2026-09-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt41050808/?ref_=ttep_ep_3"
@@ -34543,7 +34551,7 @@
         {
           "season": 1,
           "number": 27,
-          "name": "Episode #1.4",
+          "name": "Resurrection Man",
           "airdate": "2026-09-27",
           "summary": null,
           "url": "https://www.imdb.com/title/tt41050806/?ref_=ttep_ep_4"
@@ -36628,6 +36636,490 @@
       "imdbId": "tt3042846",
       "title": "MTV Video Music Awards",
       "episodes": []
+    },
+    "tt036339": {
+      "imdbId": "tt036339",
+      "title": "World Poker Tour",
+      "episodes": []
+    },
+    "tt0766128": {
+      "imdbId": "tt0766128",
+      "title": "Monday Night Football",
+      "episodes": []
+    },
+    "tt13491734": {
+      "imdbId": "tt13491734",
+      "title": "Name That Tune",
+      "episodes": [
+        {
+          "season": 6,
+          "number": 21,
+          "name": "Episode #6.1",
+          "airdate": "2026-09-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42594565/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 4,
+          "name": "Hip-Hop Hooray!",
+          "airdate": "2025-10-06",
+          "summary": "Iconic musicians battle it out.",
+          "url": "https://www.imdb.com/title/tt38091372/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 5,
+          "number": 5,
+          "name": "The Medical & The Musical",
+          "airdate": "2025-11-03",
+          "summary": "\"House\" stars reunite for charity.",
+          "url": "https://www.imdb.com/title/tt36933510/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 5,
+          "number": 6,
+          "name": "Battle of the TV Hosts",
+          "airdate": "2025-10-20",
+          "summary": "TV host and renowned performer bring the heat.",
+          "url": "https://www.imdb.com/title/tt38650209/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
+          "number": 7,
+          "name": "My Big Fat Musical Showdown",
+          "airdate": "2025-11-10",
+          "summary": "Actresses compete in a musical showdown.",
+          "url": "https://www.imdb.com/title/tt38780062/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 5,
+          "number": 8,
+          "name": "Fitness vs. Funny",
+          "airdate": "2025-11-17",
+          "summary": "A fitness expert and a comedian get competitive.",
+          "url": "https://www.imdb.com/title/tt38907699/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 5,
+          "number": 9,
+          "name": "Reality Realness",
+          "airdate": "2025-11-24",
+          "summary": "A reality star and a fashion mogul compete for the spotlight.",
+          "url": "https://www.imdb.com/title/tt38907703/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 5,
+          "number": 10,
+          "name": "TV Stars on Shuffle",
+          "airdate": "2025-12-01",
+          "summary": "Debbie Mazar battles Reggie Watts in a test of musical knowledge.",
+          "url": "https://www.imdb.com/title/tt38907708/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 5,
+          "number": 11,
+          "name": "Punchlines & Playlists",
+          "airdate": "2025-12-08",
+          "summary": "Comedians compete in a battle of speed and sound.",
+          "url": "https://www.imdb.com/title/tt38907709/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 5,
+          "number": 12,
+          "name": "Just Another Day at the Office",
+          "airdate": "2025-12-15",
+          "summary": "An actress and a comedian fight to the finish.",
+          "url": "https://www.imdb.com/title/tt38907711/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 5,
+          "number": 13,
+          "name": "Hair Raising Tunes",
+          "airdate": "2025-12-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39289284/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 5,
+          "number": 14,
+          "name": "Fiery Fun & Frolics",
+          "airdate": "2026-01-05",
+          "summary": "Four new music lovers battle it out.",
+          "url": "https://www.imdb.com/title/tt39295513/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 5,
+          "number": 15,
+          "name": "Modern Family Tunes",
+          "airdate": "2025-09-15",
+          "summary": "Celebrity contestants Jesse Tyler Ferguson and Ariel Winter face off in game one; a university program director and a retired assembly worker compete in game two.",
+          "url": "https://www.imdb.com/title/tt36933507/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 22,
+          "name": "Real Housewives & Hilarity",
+          "airdate": "2025-09-22",
+          "summary": "Reality TV star Lisa Rinna and comic Matteo Lane compete.",
+          "url": "https://www.imdb.com/title/tt38351261/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 29,
+          "name": "A Hollywood Battle Royale",
+          "airdate": "2025-09-29",
+          "summary": "Mira Sorvino goes head-to-head with Aisha Tyler.",
+          "url": "https://www.imdb.com/title/tt38091370/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt5227038": {
+      "imdbId": "tt5227038",
+      "title": "Halloween Baking Championship",
+      "episodes": [
+        {
+          "season": 12,
+          "number": 14,
+          "name": "The Museum of Unnatural History",
+          "airdate": "2026-09-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44847082/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 12,
+          "number": 21,
+          "name": "Into the Wild",
+          "airdate": "2026-09-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44847087/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 11,
+          "number": 4,
+          "name": "Messages From Beyond",
+          "airdate": "2025-10-06",
+          "summary": "Evil spirits leave spooky notes in a manor. Host John Henson challenges bakers to make desserts with cryptic messages. In this single-bake challenge, judges must choose a $1,000 winner and eliminate one baker.",
+          "url": "https://www.imdb.com/title/tt38234458/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 11,
+          "number": 5,
+          "name": "Flawed Anatomy",
+          "airdate": "2025-10-13",
+          "summary": "The bakers combine two beings into one horrific dessert of merged souls.",
+          "url": "https://www.imdb.com/title/tt38234459/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 11,
+          "number": 6,
+          "name": "It All Begins with Us",
+          "airdate": "2025-10-20",
+          "summary": "Bakers create desserts based on monsters that scared them in childhood.",
+          "url": "https://www.imdb.com/title/tt38234461/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 11,
+          "number": 7,
+          "name": "Happy Haunting Grounds",
+          "airdate": "2025-10-27",
+          "summary": "Four bakers compete in haunted-grounds desserts and 'most feared demise' cakes in the season finale. Host John Henson and judges will award one baker $25,000 and the Halloween Baking Champion title.",
+          "url": "https://www.imdb.com/title/tt38345797/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 11,
+          "number": 15,
+          "name": "For Doom the Bell Tolls",
+          "airdate": "2025-09-15",
+          "summary": "Ten bakers enter a haunted mansion to create Halloween treats that pump edible blood. After judges award $1000, bottom three must make witch symbol desserts to avoid elimination.",
+          "url": "https://www.imdb.com/title/tt37879867/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 11,
+          "number": 22,
+          "name": "This Bold House",
+          "airdate": "2025-09-22",
+          "summary": "A host finds a donor's body in the fridge. Bakers create organ-themed desserts for a $1,000 prize. The bottom three then make possessed appliance desserts. Judges decide who leaves.",
+          "url": "https://www.imdb.com/title/tt37879875/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 11,
+          "number": 29,
+          "name": "Engrossed with Ghosts",
+          "airdate": "2025-09-29",
+          "summary": "Host encounters ghost, inspiring ghostly desserts. One wins $1,000 from judges Hall, Young and Boswell. Bottom 3 bakers create ancestor-inspired ghost desserts, leading to judges' hardest elimination decision.",
+          "url": "https://www.imdb.com/title/tt38234457/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt0486531": {
+      "imdbId": "tt0486531",
+      "title": "Independent Lens",
+      "episodes": [
+        {
+          "season": 27,
+          "number": 1,
+          "name": "Cracking the Code: Phil Sharp and the Biotech Revolution",
+          "airdate": "2025-10-06",
+          "summary": "A brilliant scientist's journey from humble Kentucky roots to groundbreaking RNA discoveries leads to a Nobel Prize, shaping modern genetics and inspiring generations of researchers.",
+          "url": "https://www.imdb.com/title/tt38268505/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 27,
+          "number": 2,
+          "name": "Ratified",
+          "airdate": "2025-10-20",
+          "summary": "Led by Black women and with the support of a multi-racial, multi-generational coalition, Ratified traces the legal, political, and deeply personal fight to enshrine gender equality in the U.S. Constitution.",
+          "url": "https://www.imdb.com/title/tt38794840/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 27,
+          "number": 3,
+          "name": "Life After",
+          "airdate": "2025-11-03",
+          "summary": "Disabled filmmaker Reid Davenport investigates assisted dying and uncovers how ableism, policy, and systemic failures can make death seem like the only option.",
+          "url": "https://www.imdb.com/title/tt38855322/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 27,
+          "number": 4,
+          "name": "Vivien's Wild Ride",
+          "airdate": "2026-01-26",
+          "summary": "From her ground-breaking career in cinema to her life on a small farm with her partner, Karen, Vivien's story reveals how creativity, care, and connection can reshape what it means to see and belong.",
+          "url": "https://www.imdb.com/title/tt40185690/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 27,
+          "number": 5,
+          "name": "The Librarians",
+          "airdate": "2026-02-09",
+          "summary": "When lawmakers seek to review a list of books, librarians find themselves on the front-lines of a national battle. Drawing on historical context, The Librarians explores the broader implications for education and public life.",
+          "url": "https://www.imdb.com/title/tt39761243/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 27,
+          "number": 6,
+          "name": "The Inquisitor",
+          "airdate": "2026-02-23",
+          "summary": "Barbara Jordan was a Texas congresswoman whose intellect and moral clarity transformed US politics. From Nixon's impeachment to civil rights battles, her voice demanded accountability, while she privately faced struggles few ever knew of.",
+          "url": "https://www.imdb.com/title/tt40188326/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 27,
+          "number": 7,
+          "name": "Keep Quiet and Forgive",
+          "airdate": "2026-03-23",
+          "summary": "Three decades after her sexual assault, Lizzie confronts her Amish community's silence around sexual abuse. She leads a movement to support fellow Amish and Mennonite survivors as they navigate trauma, faith, and family ties.",
+          "url": "https://www.imdb.com/title/tt40188372/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 27,
+          "number": 8,
+          "name": "The Tallest Dwarf",
+          "airdate": "2026-04-06",
+          "summary": "The Tallest Dwarf follows filmmaker Julie Forrest Wyman as she searches for her place in the little people community and unpacks rumors of dwarfism in her own family.",
+          "url": "https://www.imdb.com/title/tt41651469/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 27,
+          "number": 9,
+          "name": "BACKSIDE: The Unseen Hands of Horse Racing",
+          "airdate": "2026-04-13",
+          "summary": "A glimpse into the lives of the immigrant grooms who care for Kentucky Derby racehorses year-round at Churchill Downs.",
+          "url": "https://www.imdb.com/title/tt42006204/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 27,
+          "number": 10,
+          "name": "Natchez",
+          "airdate": "2026-05-11",
+          "summary": "Antebellum homes draw visitors to Natchez, Mississippi, but not everyone agrees on the stories being told. Tour guides, homeowners, and activists navigate competing histories, the town confronts the tension between preservation and truth.",
+          "url": "https://www.imdb.com/title/tt42006209/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 27,
+          "number": 11,
+          "name": "Light of the Setting Sun",
+          "airdate": "2026-05-18",
+          "summary": "Filmmaker Vicky Du traces her family's mental illness back to the Chinese Communist Revolution of 1949.",
+          "url": "https://www.imdb.com/title/tt42006213/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 27,
+          "number": 12,
+          "name": "Third Act",
+          "airdate": "2026-05-27",
+          "summary": "Generations call Robert A. Nakamura the godfather of Asian American film. Tadashi Nakamura calls him Dad. Tadashi turns the camera on his father as they confront art, activism, and aging.",
+          "url": "https://www.imdb.com/title/tt42006216/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 27,
+          "number": 13,
+          "name": "Assembly",
+          "airdate": "2026-06-22",
+          "summary": "Vogue, AI, and identity collide as an artist creates an exhibition honoring Black and queer culture.",
+          "url": "https://www.imdb.com/title/tt42006215/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 27,
+          "number": 14,
+          "name": "True North: Canadian Myths and Black Power",
+          "airdate": "2026-07-06",
+          "summary": "Revisiting 1968 Montreal, where Black liberation movements converged at the Congress of Black Writers.",
+          "url": "https://www.imdb.com/title/tt42006251/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 27,
+          "number": 15,
+          "name": "Flood",
+          "airdate": "2026-07-13",
+          "summary": "A filmmaker revisits her evangelical roots to find connection with her estranged father.",
+          "url": "https://www.imdb.com/title/tt42373174/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 26,
+          "number": 1,
+          "name": "Dallas, 2019 - Ep. 1",
+          "airdate": "2025-01-03",
+          "summary": "Tornados. Drive-by shootings. Environmental racism, The stark North-South Dallas economic divide. Dallas residents and city workers like City Manager T.C. Broadnax respond to the causal effects of natural and human-caused disasters.",
+          "url": "https://www.imdb.com/title/tt34088831/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 26,
+          "number": 2,
+          "name": "Make Peace or Die: Honor the Fallen",
+          "airdate": "2024-11-11",
+          "summary": "U.S. Marine Veteran Anthony Marquez hand-carves battlefield crosses to reconnect with Gold Star families in his search for healing and peace.",
+          "url": "https://www.imdb.com/title/tt33643577/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 26,
+          "number": 3,
+          "name": "Dallas, 2019 - Ep. 3",
+          "airdate": "2025-01-03",
+          "summary": "Three spirits with longstanding Texas roots struggle with their place in the world: a transgender woman working at an LGBTQ organization; a Dallas County Court commissioner; and the director of Health and Human Services.",
+          "url": "https://www.imdb.com/title/tt34088832/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 26,
+          "number": 4,
+          "name": "Dallas, 2019 - Ep. 4",
+          "airdate": "2025-01-03",
+          "summary": "Meet a criminal district attorney bringing reform to the justice system; a judge who is dedicated to breaking cycles of incarceration; the owner of the largest bail bonds company in Dallas; and a community organizer with a mighty voice.",
+          "url": "https://www.imdb.com/title/tt34669451/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 26,
+          "number": 5,
+          "name": "Dallas, 2019 - Ep. 5",
+          "airdate": "2025-01-03",
+          "summary": "Featuring intimate stories of workers and young people-the chief medical examiner, a hospital worker, an auto body shop owner, and a high school senior-who all in their own ways make Dallas what it is.",
+          "url": "https://www.imdb.com/title/tt34669449/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 26,
+          "number": 8,
+          "name": "Minted",
+          "airdate": "2025-01-06",
+          "summary": "An insider's look at the rise and fall of the NFT (non-fungible token) phenomenon and how technology transformed the traditional art world, for better and worse.",
+          "url": "https://www.imdb.com/title/tt34061703/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 26,
+          "number": 9,
+          "name": "Without Arrows",
+          "airdate": "2025-01-13",
+          "summary": "After 13 years living in Philadelphia, Delwin Fiddler Jr., a champion grass dancer, embraces indigenous culture by returning to his ancestral home on the Cheyenne River Reservation in South Dakota.",
+          "url": "https://www.imdb.com/title/tt34061704/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 26,
+          "number": 10,
+          "name": "The Strike",
+          "airdate": "2025-02-03",
+          "summary": "The Pelican Bay prison was designed for mass-scale solitary confinement, often for a decade or more, and with little due process. In 2013, 30,000 prisoners went on a hunger strike that spread into a feat of unity across California prisons.",
+          "url": "https://www.imdb.com/title/tt35418103/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 26,
+          "number": 11,
+          "name": "The In Between",
+          "airdate": "2025-02-10",
+          "summary": "Following her brother's death, a filmmaker returns to Eagle Pass, the Texas bordertown where she grew up, to document the places that shaped their family.",
+          "url": "https://www.imdb.com/title/tt34861506/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 26,
+          "number": 12,
+          "name": "Skin of Glass",
+          "airdate": "2025-02-17",
+          "summary": "A filmmaker discovers that her architect father's building in Sao Paulo, the 24 story \"Pelr de Vidro\" is inhabited by unhoused people.",
+          "url": "https://www.imdb.com/title/tt34778695/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 26,
+          "number": 13,
+          "name": "Bike Vessel",
+          "airdate": "2025-02-24",
+          "summary": "After several health crises, a 70-year-old man embarks on a transformative long-distance cycling trip with his son.",
+          "url": "https://www.imdb.com/title/tt34778708/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 26,
+          "number": 14,
+          "name": "Home Court",
+          "airdate": "2025-03-24",
+          "summary": "Home Court is the coming-of-age story of Ashley Chea, a Cambodian American basketball prodigy in Southern California whose life intensifies as recruitment heats up.",
+          "url": "https://www.imdb.com/title/tt35153945/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 26,
+          "number": 15,
+          "name": "We Want the Funk!",
+          "airdate": "2025-04-08",
+          "summary": "A musical journey exploring funk's evolution from African, soul and jazz origins through James Brown, Parliament Funkadelic, Labelle and Fela Kuti, showing its impact on new wave and hip-hop.",
+          "url": "https://www.imdb.com/title/tt36325769/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 26,
+          "number": 16,
+          "name": "Free for All: The Public Library",
+          "airdate": "2025-04-29",
+          "summary": "The women behind the \"Free Library Movement\" to the librarians who service the public amid the age of closures and book bans, create a civic institution that is free and open to all.",
+          "url": "https://www.imdb.com/title/tt35728299/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 26,
+          "number": 17,
+          "name": "Matter of Mind: My Alzheimer's",
+          "airdate": "2025-05-05",
+          "summary": "A portrayal of three families confronting the unique challenges of Alzheimer's, and how the disease transforms roles and relationships.",
+          "url": "https://www.imdb.com/title/tt35838377/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 26,
+          "number": 18,
+          "name": "And So It Begins",
+          "airdate": "2025-05-12",
+          "summary": "See how the Philippines' tense race for president in 2022 became the nation's fight for its soul.",
+          "url": "https://www.imdb.com/title/tt35838378/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 26,
+          "number": 19,
+          "name": "Who Is Michael Jang?",
+          "airdate": "2025-05-19",
+          "summary": "San Francisco photographer Michael Jang sat for decades on a hidden treasure of pictures taken in his 20s. Until now.",
+          "url": "https://www.imdb.com/title/tt35838379/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 26,
+          "number": 30,
+          "name": "One Person, One Vote?",
+          "airdate": "2024-09-30",
+          "summary": "One Person, One Vote? unveils the complexities of the Electoral College, the uniquely American and often misunderstood mechanism for electing a president.",
+          "url": "https://www.imdb.com/title/tt33582386/?ref_=ttep_ep_1"
+        }
+      ]
     }
   }
 }
