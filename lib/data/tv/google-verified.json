@@ -35,7 +35,7 @@
     "verifiedAt": "2026-08-18T13:44:49.993Z"
   },
   "The Real Housewives: Ultimate Girls Trip-5-6": {
-    "airdate": "2026-09-13",
+    "airdate": "2026-09-06",
     "name": "To Peach Her Own",
     "verifiedAt": "2026-08-20T13:49:03.170Z"
   },
@@ -60,7 +60,7 @@
     "verifiedAt": "2026-08-28T22:56:46.292Z"
   },
   "AEW: Collision-4-43": {
-    "airdate": "2026-10-10",
+    "airdate": "2026-09-26",
     "name": "Grand Slam Paris 2026",
     "verifiedAt": "2026-08-28T22:56:49.253Z"
   },
@@ -68,11 +68,6 @@
     "airdate": "2026-09-09",
     "name": "I Have Nightmares",
     "verifiedAt": "2026-08-28T22:57:04.726Z"
-  },
-  "Marble Hall Murders-1-6": {
-    "airdate": "2026-09-06",
-    "name": "Episode #1.1",
-    "verifiedAt": "2026-08-31T19:27:35.148Z"
   },
   "The Patrick Star Show-5-13": {
     "airdate": "2026-09-11",
@@ -90,7 +85,7 @@
     "verifiedAt": "2026-09-03T17:00:05.668Z"
   },
   "Tyler Perry's The Oval-7-22": {
-    "airdate": "2026-09-30",
+    "airdate": "2026-04-15",
     "name": "The Filthy Rat",
     "verifiedAt": "2026-09-06T16:00:46.119Z"
   },
@@ -103,5 +98,55 @@
     "airdate": "2026-11-27",
     "name": "Final Countdown to War",
     "verifiedAt": "2026-09-06T16:01:16.952Z"
+  },
+  "Tyler Perry's The Oval-7-20": {
+    "airdate": "2026-09-16",
+    "name": "Twenty-Four Hours",
+    "verifiedAt": "2026-09-07T18:08:08.169Z"
+  },
+  "WWE Friday Night SmackDown-27-40": {
+    "airdate": "2025-10-03",
+    "name": "Nashville Nightmare",
+    "verifiedAt": "2026-09-07T18:08:22.934Z"
+  },
+  "WWE Friday Night SmackDown-27-41": {
+    "airdate": "2025-10-10",
+    "name": "Australian Anarchy",
+    "verifiedAt": "2026-09-07T18:08:25.384Z"
+  },
+  "WWE Friday Night SmackDown-27-42": {
+    "airdate": "2025-10-17",
+    "name": "Crown Jewel 2025 Fallout",
+    "verifiedAt": "2026-09-07T18:08:27.828Z"
+  },
+  "WWE Friday Night SmackDown-27-43": {
+    "airdate": "2025-10-24",
+    "name": "Storm of Deceit",
+    "verifiedAt": "2026-09-07T18:08:30.286Z"
+  },
+  "WWE Friday Night SmackDown-27-44": {
+    "airdate": "2025-10-31",
+    "name": "Signed, Sealed, Smashed",
+    "verifiedAt": "2026-09-07T18:08:32.818Z"
+  },
+  "WWE Friday Night SmackDown-27-47": {
+    "airdate": "2026-11-20",
+    "name": "WarGames Wildcard",
+    "verifiedAt": "2026-09-07T18:08:40.296Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2025-12-05",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-09-07T18:08:45.315Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-09-07T18:08:47.743Z"
+  },
+  "Marble Hall Murders-1-6": {
+    "airdate": "2026-09-06",
+    "name": "Episode #1.1",
+    "verifiedAt": "2026-08-31T19:27:35.148Z"
   }
 }
