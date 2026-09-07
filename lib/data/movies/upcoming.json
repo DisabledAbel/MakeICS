@@ -2928,12 +2928,12 @@
           "name": "Owen Wilson"
         },
         {
-          "id": "nm2094547",
-          "name": "Kate Box"
-        },
-        {
           "id": "nm5772354",
           "name": "Leila George"
+        },
+        {
+          "id": "nm2094547",
+          "name": "Kate Box"
         }
       ],
       "label": "Sep 11, 2026"
@@ -2970,7 +2970,7 @@
     {
       "id": "tt36983905",
       "title": "The Uprising",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDI1ODg0N2MtN2RjMC00MmMxLWI3MDgtYTdlNzNhYjU2ZWQyXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjExZjU5NmMtZDhkYi00YmIzLWFiMmYtZjM5NGZiYjc4MDM4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3093,12 +3093,12 @@
       ],
       "people": [
         {
-          "id": "nm18122080",
-          "name": "Mambo Labelle Déese Botanica"
-        },
-        {
           "id": "nm6862319",
           "name": "Zandashé Brown"
+        },
+        {
+          "id": "nm18887225",
+          "name": "Mambo Labelle Déesse"
         },
         {
           "id": "nm4261524",
@@ -3126,16 +3126,16 @@
           "name": "Liam Gallagher"
         },
         {
+          "id": "nm10880859",
+          "name": "Anaïs Gallagher"
+        },
+        {
           "id": "nm0302462",
           "name": "Noel Gallagher"
         },
         {
           "id": "nm2089687",
           "name": "Oasis"
-        },
-        {
-          "id": "nm10880859",
-          "name": "Anaïs Gallagher"
         }
       ],
       "label": "Sep 11, 2026"
@@ -3268,20 +3268,20 @@
       ],
       "people": [
         {
-          "id": "nm0815317",
-          "name": "Nina Sosanya"
-        },
-        {
           "id": "nm0925768",
           "name": "Paul Whitehouse"
+        },
+        {
+          "id": "nm0815317",
+          "name": "Nina Sosanya"
         },
         {
           "id": "nm1017994",
           "name": "Justin Fletcher"
         },
         {
-          "id": "nm3669803",
-          "name": "Dani Dyer"
+          "id": "nm0816950",
+          "name": "John Sparkes"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3503,7 +3503,7 @@
     {
       "id": "tt28303275",
       "title": "Who Moves America",
-      "image": "https://m.media-amazon.com/images/M/MV5BZDMzMWU3NTctZGEwZi00ZmQzLTgwZmEtNWQ0Y2IwMTUzZTExXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGMwOGQyYjctNmYxZi00NTc0LWJlN2UtNGMzZDlkNmVmM2Q5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Thu, 24 Sep 2026 00:00:00 GMT",
       "genres": [
         "Documentary"
@@ -5598,6 +5598,35 @@
       "label": "Nov 20, 2026"
     },
     {
+      "id": "tt43586637",
+      "title": "Ash and Crayons",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2FiZDEyN2EtOTYwNS00ZmM2LWEwNDQtODJlMWE0NjY4YjYyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Animation"
+      ],
+      "people": [
+        {
+          "id": "nm14801062",
+          "name": "Vladyslav Buriak"
+        },
+        {
+          "id": "nm16269331",
+          "name": "Roman Oleksiv"
+        },
+        {
+          "id": "nm15064979",
+          "name": "Oleksandra Paskal"
+        },
+        {
+          "id": "nm13677205",
+          "name": "Yana Stepanenko"
+        }
+      ],
+      "label": "Nov 20, 2026"
+    },
+    {
       "id": "tt38077943",
       "title": "Hexed",
       "image": "https://m.media-amazon.com/images/M/MV5BMjQ4NDg5Y2YtZmQ3Ny00N2FjLWIyMGMtYzU1YzEyZTgyZjIwXkEyXkFqcGc@._V1_.jpg",
@@ -5890,8 +5919,8 @@
           "name": "Marion Bailey"
         },
         {
-          "id": "nm0929977",
-          "name": "Alan Williams"
+          "id": "nm0107261",
+          "name": "Brid Brennan"
         }
       ],
       "label": "Dec 04, 2026"
@@ -6087,12 +6116,12 @@
       ],
       "people": [
         {
-          "id": "nm1551130",
-          "name": "Keke Palmer"
-        },
-        {
           "id": "nm0837177",
           "name": "Jason Sudeikis"
+        },
+        {
+          "id": "nm1551130",
+          "name": "Keke Palmer"
         },
         {
           "id": "nm4141252",
@@ -6881,20 +6910,20 @@
       ],
       "people": [
         {
-          "id": "nm0396558",
-          "name": "Nicholas Hoult"
-        },
-        {
           "id": "nm1055302",
           "name": "Rhys Darby"
         },
         {
-          "id": "nm9434831",
-          "name": "Cristo Fernández"
+          "id": "nm0396558",
+          "name": "Nicholas Hoult"
         },
         {
           "id": "nm0054697",
           "name": "Ike Barinholtz"
+        },
+        {
+          "id": "nm9434831",
+          "name": "Cristo Fernández"
         }
       ],
       "label": "Feb 19, 2027"
@@ -7513,12 +7542,12 @@
           "name": "Bo Bragason"
         },
         {
-          "id": "nm1901842",
-          "name": "Dichen Lachman"
-        },
-        {
           "id": "nm5937328",
           "name": "Uli Latukefu"
+        },
+        {
+          "id": "nm1901842",
+          "name": "Dichen Lachman"
         }
       ],
       "label": "Apr 30, 2027"
@@ -7547,8 +7576,8 @@
           "name": "Rupert Everett"
         },
         {
-          "id": "nm1249052",
-          "name": "Riccardo Scamarcio"
+          "id": "nm3663897",
+          "name": "Jaakko Ohtonen"
         }
       ],
       "label": "May 06, 2027"
@@ -7632,16 +7661,16 @@
       ],
       "people": [
         {
+          "id": "nm0000209",
+          "name": "Tim Robbins"
+        },
+        {
           "id": "nm1297015",
           "name": "Emma Stone"
         },
         {
           "id": "nm1517976",
           "name": "Chris Pine"
-        },
-        {
-          "id": "nm0000209",
-          "name": "Tim Robbins"
         },
         {
           "id": "nm0000651",
@@ -8239,16 +8268,16 @@
           "name": "J.D."
         },
         {
-          "id": "nm6400428",
-          "name": "Camron Jones"
-        },
-        {
           "id": "nm4861346",
           "name": "Algee Smith"
         },
         {
           "id": "nm1988575",
           "name": "Lauren London"
+        },
+        {
+          "id": "nm6058237",
+          "name": "Laya DeLeon Hayes"
         }
       ],
       "label": "Aug 06, 2027"
@@ -8302,8 +8331,8 @@
           "name": "Steven Waddington"
         },
         {
-          "id": "nm6554076",
-          "name": "Abraham Popoola"
+          "id": "nm1292973",
+          "name": "Stefan Kapicic"
         }
       ],
       "label": "Aug 13, 2027"
