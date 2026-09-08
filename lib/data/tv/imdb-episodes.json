@@ -272,7 +272,7 @@
           "number": 8,
           "name": "Episode #30.1",
           "airdate": "2026-09-08",
-          "summary": null,
+          "summary": "The hosts return for a new season;",
           "url": "https://www.imdb.com/title/tt39052243/?ref_=ttep_ep_1"
         },
         {
@@ -13781,17 +13781,9 @@
         },
         {
           "season": 22,
-          "number": 9,
-          "name": "Put a Ring on it",
-          "airdate": null,
-          "summary": "In their final challenge before the finale, the designers create two wedding-day looks for a fashion-forward bride. The assignment demands versatility, elegance and a clear design vision.",
-          "url": "https://www.imdb.com/title/tt45322598/?ref_=ttep_ep_9"
-        },
-        {
-          "season": 22,
           "number": 10,
           "name": "The Finale",
-          "airdate": null,
+          "airdate": "2026-09-10",
           "summary": "The finalists present original capsule collections in a spectacular runway event. After a season of intense competition, one designer will earn fashion's biggest prize.",
           "url": "https://www.imdb.com/title/tt45322664/?ref_=ttep_ep_10"
         },
@@ -30690,7 +30682,7 @@
         {
           "season": 18,
           "number": 9,
-          "name": "Episode #18.9",
+          "name": "Frank's Team: A Dark Day for Baseball",
           "airdate": "2026-10-05",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43679382/?ref_=ttep_ep_9"
@@ -34052,6 +34044,14 @@
         },
         {
           "season": 52,
+          "number": 9,
+          "name": "Ty Myers",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45382370/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 52,
           "number": 10,
           "name": "Sebastian Yatra",
           "airdate": null,
@@ -34073,6 +34073,22 @@
           "airdate": "2026-09-12",
           "summary": "Bonnie Raitt performs a tribute to Brandi Carlile as she is inducted into the ACL Hall of Fame.",
           "url": "https://www.imdb.com/title/tt44929929/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 52,
+          "number": 19,
+          "name": "Billy Strings",
+          "airdate": "2026-09-19",
+          "summary": "Three-time Grammy Award-winning bluegrass superstar Billy Strings delivers an electrifying ACL return with highlights from his album 'Highway Prayers' and acclaimed release 'So Much for Goodbyes,' alongside timeless bluegrass classics.",
+          "url": "https://www.imdb.com/title/tt45373162/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 52,
+          "number": 26,
+          "name": "Miguel",
+          "airdate": "2026-09-26",
+          "summary": "Grammy-winning R&B trailblazer Miguel lights up the ACL stage in a dynamic performance featuring songs from his acclaimed album 'CAOS' alongside fan favorites from across his celebrated career.",
+          "url": "https://www.imdb.com/title/tt45383138/?ref_=ttep_ep_4"
         },
         {
           "season": 51,
@@ -37118,6 +37134,323 @@
           "airdate": "2024-09-30",
           "summary": "One Person, One Vote? unveils the complexities of the Electoral College, the uniquely American and often misunderstood mechanism for electing a president.",
           "url": "https://www.imdb.com/title/tt33582386/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt43746863": {
+      "imdbId": "tt43746863",
+      "title": "OJ Unseen: Exploitation of Evil",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 7,
+          "name": "He's Back",
+          "airdate": "2026-09-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43748010/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt33096993": {
+      "imdbId": "tt33096993",
+      "title": "Have I Got News for You",
+      "episodes": [
+        {
+          "season": 5,
+          "number": 12,
+          "name": "Episode #5.1",
+          "airdate": "2026-09-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44784983/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 1,
+          "name": "Andy Richter & Janice Min",
+          "airdate": "2026-01-24",
+          "summary": "Comedian and actor Andy Richter and Emmy winning media executive Janice Min will join as guests on this week's season premiere of CNN's \"Have I Got News For You\", the American version of the long-running UK comedy series.",
+          "url": "https://www.imdb.com/title/tt39216387/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Nimish Patel & Tara Setmayer",
+          "airdate": "2026-01-31",
+          "summary": "Comedian and writer Nimesh Patel and political commentator Tara Setmayer will join as guests on this week's episode of CNN's \"Have I Got News For You\", the American version of the long-running UK comedy series.",
+          "url": "https://www.imdb.com/title/tt39524001/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Adam Schiff & Hasan Minhaj",
+          "airdate": "2026-02-07",
+          "summary": "U.S. Senator Adam Schiff and comedian Hasan Minhaj will join as guests on this week's episode of CNN's \"Have I Got News For You\", the American version of the long-running UK comedy series.",
+          "url": "https://www.imdb.com/title/tt39557449/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Aaron Parnas & Scott Thompson",
+          "airdate": "2026-02-14",
+          "summary": "Comedian Scott Thompson and independent journalist Aaron Parnas will join as guests on this week's episode of CNN's \"Have I Got News For You\", the American version of the long-running UK comedy series.",
+          "url": "https://www.imdb.com/title/tt39557450/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "Larry Wilmore & Jordan Carlos",
+          "airdate": "2026-02-21",
+          "summary": "Comedians Larry Wilmore and Jordan Carlos will join as guests on this week's episode of CNN's \"Have I Got News For You\", the American version of the long-running UK comedy series.",
+          "url": "https://www.imdb.com/title/tt39557451/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "Bomani Jones & Julia Ioffe",
+          "airdate": "2026-02-28",
+          "summary": "Roy Wood Jr. hosts with Amber Ruffin and Michael Ian Black as team captains. They discuss the week's news and lead guests through comedy games testing current events knowledge. This week: Bomani Jones and Julia Ioffe.",
+          "url": "https://www.imdb.com/title/tt39557452/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Gianmarco Soresi & Jenny Hagel",
+          "airdate": "2026-03-07",
+          "summary": "Roy Wood Jr. hosts with Amber Ruffin and Michael Ian Black as team captains. They discuss the week's news and lead guests through comedy games testing current events knowledge. Gianmarco Soresi and Jenny Hagel guest.",
+          "url": "https://www.imdb.com/title/tt39557453/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "Ophira Eisenberg & Moshe Kasher",
+          "airdate": "2026-03-14",
+          "summary": "Roy Wood Jr. hosts with Amber Ruffin and Michael Ian Black as team captains. They discuss weekly news and lead guests through comedy games testing current events knowledge. Ophira Eisenberg and Moshe Kasher guest star.",
+          "url": "https://www.imdb.com/title/tt39557454/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "name": "Hari Kondabalu & Ari Shapiro",
+          "airdate": "2026-03-21",
+          "summary": "Roy Wood Jr., Amber Ruffin, and Michael Ian Black host a comedy show featuring news-based games testing current events knowledge. This week's guests: journalist Ari Shapiro and comedian Hari Kondabolu.",
+          "url": "https://www.imdb.com/title/tt39557460/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 4,
+          "number": 10,
+          "name": "Kara Swisher & Nish Kumar",
+          "airdate": "2026-03-28",
+          "summary": "Award-winning journalist Kara Swisher and comedian Nish Kumar will join as guests on this week's season finale of CNN's \"Have I Got News For You\", the American version of the long-running UK comedy series.",
+          "url": "https://www.imdb.com/title/tt39557470/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt11385214": {
+      "imdbId": "tt11385214",
+      "title": "TrueSouth",
+      "episodes": []
+    },
+    "tt0463398": {
+      "imdbId": "tt0463398",
+      "title": "Dancing with the Stars",
+      "episodes": [
+        {
+          "season": 35,
+          "number": 15,
+          "name": "Episode #35.1",
+          "airdate": "2026-09-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39100722/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 35,
+          "number": 16,
+          "name": "Episode #35.2",
+          "airdate": "2026-09-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44764065/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 34,
+          "number": 4,
+          "name": "Disney Night",
+          "airdate": "2025-10-07",
+          "summary": "The remaining couples perform to songs inspired by beloved Disney films and attractions.",
+          "url": "https://www.imdb.com/title/tt38431370/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 34,
+          "number": 5,
+          "name": "Dedication Night",
+          "airdate": "2025-10-14",
+          "summary": "Ten remaining couples take to the ballroom floor to pay tribute to the influential people in their lives with moving and meaningful performances; special guest judge Kym Johnson returns to offer her expert insights.",
+          "url": "https://www.imdb.com/title/tt38431372/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 34,
+          "number": 6,
+          "name": "Wicked Night",
+          "airdate": "2025-10-21",
+          "summary": "Special guest judge Jon M. Chu; the couples dance to the iconic soundtrack of \"Wicked.\"",
+          "url": "https://www.imdb.com/title/tt38431374/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 34,
+          "number": 7,
+          "name": "Halloween Night",
+          "airdate": "2025-10-28",
+          "summary": "The remaining couples get into the spooky spirit with eerie makeovers and chilling routines; two-time Mirrorball champion Cheryl Burke returns to the ballroom as guest judge.",
+          "url": "https://www.imdb.com/title/tt38431375/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 34,
+          "number": 8,
+          "name": "Rock & Roll Hall of Fame Night",
+          "airdate": "2025-11-04",
+          "summary": "The remaining couples dance to classic hits celebrating the legends of rock; Flavor Flav joins the judges panel for a night packed with pure rock energy.",
+          "url": "https://www.imdb.com/title/tt38431377/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 34,
+          "number": 9,
+          "name": "20th Birthday Party",
+          "airdate": "2025-11-11",
+          "summary": "Celebrating 20 years of dazzling moves, unforgettable moments and show-stopping performances; former host Tom Bergeron makes a return to the ballroom as guest judge.",
+          "url": "https://www.imdb.com/title/tt38431379/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 34,
+          "number": 10,
+          "name": "Prince Night (Semi-Finals)",
+          "airdate": "2025-11-18",
+          "summary": "Paying tribute to one of music's most legendary icons, Prince; the couples each perform two dances to some of Prince's most iconic hits.",
+          "url": "https://www.imdb.com/title/tt38431380/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 34,
+          "number": 11,
+          "name": "Finale",
+          "airdate": "2025-11-25",
+          "summary": "The five remaining couples compete for a chance at winning the trophy; each dances three times in the most demanding finale yet -- performing a Judges' Choice dance, an Instant Dance, plus an unforgettable freestyle routine.",
+          "url": "https://www.imdb.com/title/tt38494856/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 34,
+          "number": 12,
+          "name": "Dancing with the Holidays",
+          "airdate": "2025-12-02",
+          "summary": "Celebrating the holiday season with festive-themed routines, dazzling musical performances and special holiday greetings.",
+          "url": "https://www.imdb.com/title/tt38870950/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 34,
+          "number": 16,
+          "name": "Premiere",
+          "airdate": "2025-09-16",
+          "summary": "The ballroom welcomes 14 new celebrities for their first live performance.",
+          "url": "https://www.imdb.com/title/tt34773197/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 34,
+          "number": 23,
+          "name": "One Hit Wonders Night",
+          "airdate": "2025-09-23",
+          "summary": "Couples perform to songs from artists known for one unforgettable hit.",
+          "url": "https://www.imdb.com/title/tt38351192/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 34,
+          "number": 30,
+          "name": "TikTok Night",
+          "airdate": "2025-09-30",
+          "summary": "The 12 remaining couples perform dances set to songs that have dominated TikTok.",
+          "url": "https://www.imdb.com/title/tt38431368/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt37063558": {
+      "imdbId": "tt37063558",
+      "title": "R.J. Decker",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 15,
+          "name": "The Point of Us Breaking",
+          "airdate": "2026-09-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42484640/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Pilot",
+          "airdate": "2026-03-03",
+          "summary": "Former photographer R.J. Decker works as a private investigator in South Florida, tackling unusual cases alongside his journalist ex-partner, her police officer wife, and a mysterious woman from his past who could either aid or ruin him.",
+          "url": "https://www.imdb.com/title/tt37674976/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Twenty Pounds of Clem in a Ten-Pound Bag",
+          "airdate": "2026-03-10",
+          "summary": "Wish enlists R.J. to help on an unusual and bizarre case involving his former cellmate's son, who's been falsely charged with murder.",
+          "url": "https://www.imdb.com/title/tt39382534/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "The Needle and the Damage Done",
+          "airdate": "2026-03-17",
+          "summary": "RJ is recruited by Emi to investigate the disappearance of a wealthy rehab tycoon's son. Mel and Catherine discover they have different views on parenting and finances.",
+          "url": "https://www.imdb.com/title/tt39773551/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "In Vanity Veritas",
+          "airdate": "2026-03-24",
+          "summary": "R.J. becomes entangled in a suburban housewife murder case. Catherine worries that R.J. is getting too close to Emi.",
+          "url": "https://www.imdb.com/title/tt39773567/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Burn Notice",
+          "airdate": "2026-03-31",
+          "summary": "R.J. discovers the truth behind mysterious attacks on a Little League coach's family, who is mysteriously targeted. His parole officer fears he's violating his conditional release terms.",
+          "url": "https://www.imdb.com/title/tt39773610/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Brenner's Back",
+          "airdate": "2026-04-07",
+          "summary": "R.J. assists a young woman in discovering what really happened to her boyfriend. At the same time, a threatening person from R.J.'s history returns seeking vengeance. A dangerous figure from R.J.'s past resurfaces.",
+          "url": "https://www.imdb.com/title/tt39773612/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "You've Got Bale",
+          "airdate": "2026-04-14",
+          "summary": "R.J. investigates a strange case following a botched grocery store robbery heist gone wrong. Emi faces a loyalty crisis when her father's wrongdoings are revealed.",
+          "url": "https://www.imdb.com/title/tt39773611/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Burn the Boats",
+          "airdate": "2026-04-21",
+          "summary": "R.J. struggles with a difficult decision, while Emi must contend with her family's secrets.",
+          "url": "https://www.imdb.com/title/tt39773613/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Even Walls Fall Down",
+          "airdate": "2026-04-28",
+          "summary": "After R.J. learns the truth about what happened on the fateful day Lucas stole his camera, he enlists his inner circle of friends to help him take down Victor Ochoa.",
+          "url": "https://www.imdb.com/title/tt39773614/?ref_=ttep_ep_9"
         }
       ]
     }
