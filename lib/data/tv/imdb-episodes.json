@@ -276,6 +276,14 @@
           "url": "https://www.imdb.com/title/tt39052243/?ref_=ttep_ep_1"
         },
         {
+          "season": 30,
+          "number": 9,
+          "name": "Sen. Ted Cruz/Lizzo",
+          "airdate": "2026-09-09",
+          "summary": "Sen. Ted Cruz (R-Texas) (book \"Going Further\"); author Lizzo;",
+          "url": "https://www.imdb.com/title/tt42790116/?ref_=ttep_ep_2"
+        },
+        {
           "season": 29,
           "number": 8,
           "name": "Episode #29.1",
@@ -1483,7 +1491,7 @@
           "number": 9,
           "name": "Feel",
           "airdate": "2026-08-31",
-          "summary": null,
+          "summary": "Saturday's events shake Khalil and Jordan. With help from his dad and Amina, Khalil faces his past. KJ tries handling the showcase solo but trusts the wrong people. Coop's past-future conflict troubles her bond with Breonna.",
           "url": "https://www.imdb.com/title/tt37156729/?ref_=ttep_ep_9"
         },
         {
@@ -1496,9 +1504,9 @@
         },
         {
           "season": 8,
-          "number": 22,
+          "number": 21,
           "name": "Episode #8.12",
-          "airdate": "2026-09-22",
+          "airdate": "2026-09-21",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37156741/?ref_=ttep_ep_12"
         },
@@ -9930,22 +9938,6 @@
         },
         {
           "season": 28,
-          "number": 34,
-          "name": "Episode #28.34",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44463156/?ref_=ttep_ep_34"
-        },
-        {
-          "season": 28,
-          "number": 35,
-          "name": "Episode #28.35",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44463166/?ref_=ttep_ep_35"
-        },
-        {
-          "season": 28,
           "number": 36,
           "name": "Episode #28.36",
           "airdate": null,
@@ -9975,6 +9967,30 @@
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt44463174/?ref_=ttep_ep_39"
+        },
+        {
+          "season": 28,
+          "number": 40,
+          "name": "Episode #28.40",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45391563/?ref_=ttep_ep_40"
+        },
+        {
+          "season": 28,
+          "number": 41,
+          "name": "Episode #28.41",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45391595/?ref_=ttep_ep_41"
+        },
+        {
+          "season": 28,
+          "number": 42,
+          "name": "Episode #28.42",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45391607/?ref_=ttep_ep_42"
         },
         {
           "season": 27,
@@ -10941,7 +10957,7 @@
           "number": 11,
           "name": "Fire and Famine",
           "airdate": "2026-08-26",
-          "summary": null,
+          "summary": "A catastrophic error forces a survivalist into a desperate race to rescue their shelter.",
           "url": "https://www.imdb.com/title/tt44920066/?ref_=ttep_ep_11"
         },
         {
@@ -21259,6 +21275,14 @@
         },
         {
           "season": 32,
+          "number": 44,
+          "name": "Berserk!",
+          "airdate": "2026-10-10",
+          "summary": "Someone begins killing the performers of a traveling circus one by one.",
+          "url": "https://www.imdb.com/title/tt45385030/?ref_=ttep_ep_44"
+        },
+        {
+          "season": 32,
           "number": 45,
           "name": "Invasion of the Body Snatchers",
           "airdate": "2026-10-17",
@@ -21272,6 +21296,38 @@
           "airdate": "2026-10-17",
           "summary": "A scientist from Earth is recruited by aliens from a war-torn planet.",
           "url": "https://www.imdb.com/title/tt45103979/?ref_=ttep_ep_46"
+        },
+        {
+          "season": 32,
+          "number": 47,
+          "name": "Frankenstein Meets the Wolf Man",
+          "airdate": "2026-10-24",
+          "summary": "Dr Mannering wants to help Larry Talbot with his lycanthropy. After Talbot finds the Frankenstein monster still alive, the doctor decides to bring the monster back to full strength. Now a wolfman, Talbot battles the monster to the death.",
+          "url": "https://www.imdb.com/title/tt45385053/?ref_=ttep_ep_47"
+        },
+        {
+          "season": 32,
+          "number": 48,
+          "name": "Revenge of the Creature",
+          "airdate": "2026-10-24",
+          "summary": "A second expedition to the Amazon captures another Creature. The scientists bring the monster back and put it on display at Ocean Harbor, a research oceanarium open to the public in Florida. It escapes and causes havoc.",
+          "url": "https://www.imdb.com/title/tt45385064/?ref_=ttep_ep_48"
+        },
+        {
+          "season": 32,
+          "number": 49,
+          "name": "The Wizard of Oz",
+          "airdate": "2026-10-31",
+          "summary": "A tornado whisks young Dorothy away and she lands in a fantasyland inhabited by good and evil witches.",
+          "url": "https://www.imdb.com/title/tt45385073/?ref_=ttep_ep_49"
+        },
+        {
+          "season": 32,
+          "number": 50,
+          "name": "Don`t Be Afraid of the Dark",
+          "airdate": "2026-10-31",
+          "summary": "There is no \"House of Svengoolie\" on 10-31-26. Both movies will be hosted by Svengoolie.",
+          "url": "https://www.imdb.com/title/tt45385074/?ref_=ttep_ep_50"
         },
         {
           "season": 31,
@@ -28555,7 +28611,7 @@
           "number": 1,
           "name": "Rites of Passage",
           "airdate": "2014-01-29",
-          "summary": "Karen has started secondary school but is not settling in as she feels academically inferior, plus she is worried that her missing hamster may be trapped under the floor-boards. Ben on the other hand is over-joyed as he has landed the lead in his school play, a musical version of 'Spartacus' whilst Jake is in disgrace for getting a tattoo which looks like a spider. Sue sends emails to the parents of Karen's school-mates , which does not help but Pete comforts his daughter with a heart to heart.",
+          "summary": "Karen has started secondary school but isn't settling in well; she feels academically inferior and is worried that her missing hamster is trapped under the floorboard. On the other hand, Ben is overjoyed to land the lead in his school play, a musical version of \"Spartacus\", but Jake is in disgrace for getting a tattoo that looks like a spider. Sue sends e-mails to the parents of Karen's schoolmates, which doesn't help, but Pete comforts his daughter with a heart-to-heart.",
           "url": "https://www.imdb.com/title/tt3485142/?ref_=ttep_ep_1"
         },
         {
@@ -28563,7 +28619,7 @@
           "number": 2,
           "name": "K for Victory",
           "airdate": "2014-02-05",
-          "summary": "Karen indulges her competitive instincts, Ben delves into the mysteries of human psychology and Jake appoints himself as a parenting expert. Meanwhile, Mum falls victim to a dysfunctional printer and Dad is hounded by a vigilant Daily Mail reader.",
+          "summary": "Karen indulges her competitive instincts, Ben delves into the mysteries of human psychology, Jake appoints himself as a parenting expert, Sue falls victim to a dysfunctional printer, and a vigilant Daily Mail reader hounds Pete.",
           "url": "https://www.imdb.com/title/tt3500514/?ref_=ttep_ep_2"
         },
         {
@@ -28571,7 +28627,7 @@
           "number": 3,
           "name": "House of Hormones",
           "airdate": "2014-02-12",
-          "summary": "Pete's 21 year old god daughter Stacey from Australia is staying and sets Ben's pulse racing as she walks around the house in only a towel. Pete thinks it time for Ben to have a chat about the facts of life - from Jake but Jake is more interested in persuading his parents to let girlfriend Alex stay over. Everybody except Pete is delighted when Sue agrees to mind a friend's baby - nicknamed the Werewolf - overnight, prompting Karen to ask awkward questions about child-birth and again raise the topic of her lost hamster. Ultimately Jake regrets his decision when other girlfriends get in touch, possibly tipped off by Sue, whilst Pete is happy to give the baby back to his mother and Ben is happy with a final revealing glimpse of Stacey.",
+          "summary": "Pete's 21-year-old goddaughter Stacey from Australia is staying and sets Ben's pulse racing as she walks around the house in only a towel. Pete thinks it's time for Ben to have a chat about the facts of life--from Jake--but Jake is more interested in persuading his parents to let his girlfriend Alex stay over. Everybody except Pete is delighted when Sue agrees to mind a friend's baby--nicknamed the Werewolf--overnight, prompting Karen to ask awkward questions about childbirth and again raise the topic of her lost hamster. Jake regrets his decision when other girlfriends get in touch, possibly tipped off by Sue, while Pete is happy to give the baby back to his mother and Ben is happy with a final revealing glimpse of Stacey.",
           "url": "https://www.imdb.com/title/tt3514498/?ref_=ttep_ep_3"
         },
         {
@@ -28579,7 +28635,7 @@
           "number": 4,
           "name": "Into the Wilderness",
           "airdate": "2014-02-19",
-          "summary": "Pete and Ben go on a bonding trip, camping in the woods, while Sue and Stacy don't exactly see eye-to-eye over the empowerment of women.",
+          "summary": "Pete and Ben go on a bonding trip, camping in the woods, while Sue and Stacey don't exactly see eye-to-eye over the empowerment of women.",
           "url": "https://www.imdb.com/title/tt3551104/?ref_=ttep_ep_4"
         },
         {
@@ -28587,7 +28643,7 @@
           "number": 5,
           "name": "Communication Skills",
           "airdate": "2014-02-26",
-          "summary": "Sue is trying to organize a conference so it falls to Pete to let Karen in after school but he has to go to buy a central heating pump so rings Jake to come home. Jake has lost his Oyster card and has no cash so this requires a call to Ben, only for Pete to find himself speaking to a Chinese tourist who has found Ben's lost phone. Karen is delayed as the headmistress keeps her back to upbraid her for rubbishing the school rules. Nonetheless she still manages to get in ahead of Pete whilst Ben ends up asking the Chinaman and his wife round for tea.",
+          "summary": "Sue is trying to organize a conference so she asks Pete to let Karen in after school, but he must go to buy a central-heating pump so he rings Jake to come home. Jake has lost his Oyster card and has no cash, so this requires a call to Ben--only for Pete to find himself speaking to a Chinese tourist who has found Ben's lost phone. The headmistress keeps Karen back to upbraid her for rubbishing the school rules, but she still manages to get home ahead of Pete, while Ben invites the Chinese man and his wife round to tea.",
           "url": "https://www.imdb.com/title/tt3548006/?ref_=ttep_ep_5"
         },
         {
@@ -28595,7 +28651,7 @@
           "number": 6,
           "name": "Spartacus the Musical",
           "airdate": "2014-03-05",
-          "summary": "Grandad is very ill, bringing Angela back from America, with toy boy Tommy, whom she met at Sunday school. Sue is immediately rattled when Angela makes plans for their father as well as claiming that he recognized her when he failed to recognize Sue. After Tommy and Stacey decide to tour Europe Angela returns to the States and the family goes to see Ben in his school musical, 'Spartacus'. Ben is surprisingly nervous but a pep talk from Karen gives him the confidence to put on a good show. Sue and Pete also learn that, thanks to Jake, Angela has been persuaded to write a huge cheque that will solves all their worries about Grandad.",
+          "summary": "Granddad is very ill, bringing Angela back from America with toyboy Tommy, whom she met at Sunday school. Sue is immediately rattled when Angela makes plans for their father as well as claiming that he recognized her when he failed to recognize Sue. After Tommy and Stacey decide to tour Europe, Angela returns to the States and the family goes to see Ben in his school musical, \"Spartacus\". He's surprisingly nervous, but a pep talk from Karen gives him the confidence to put on a good show. Sue and Pete also learn that, thanks to Jake, Angela has been persuaded to write a huge cheque that will solve all their worries about Granddad.",
           "url": "https://www.imdb.com/title/tt3565284/?ref_=ttep_ep_6"
         },
         {
@@ -28603,7 +28659,7 @@
           "number": 7,
           "name": "Christmas Special 2016",
           "airdate": "2016-12-26",
-          "summary": "The Brockman family are on a special mission at Christmas time.",
+          "summary": "The Brockmans are on a special mission at Christmastime.",
           "url": "https://www.imdb.com/title/tt6262758/?ref_=ttep_ep_7"
         },
         {
@@ -28611,7 +28667,7 @@
           "number": 2,
           "name": "The Funeral",
           "airdate": "2011-09-02",
-          "summary": "Sandra interrupts a particularly competitive Wii session between Pete,who has rashly resigned his job,and the boys to ask Pete to read the eulogy at his Uncle Bob's funeral. His brief is not to mention Bernard, Bob's gay lover of fourteen years for whom he left his wife. However,flustered by Sue's giggling,Pete pays tribute to Bernard,earning praise from his mother and wife,as well as finding out something about the vicar. Bernard,however,is less pleased.",
+          "summary": "Sandra interrupts a particularly competitive Wii session between Pete, who has rashly resigned from his job, and the boys to ask Pete to read the eulogy at his Uncle Bob's funeral. His brief is not to mention Bernard, Bob's gay lover of 14 years for whom he left his wife. However, flustered by Sue's giggling, Pete pays tribute to Bernard, earning praise from his mother and wife--and finding out something about the vicar. Bernard, however, is less pleased.",
           "url": "https://www.imdb.com/title/tt2039987/?ref_=ttep_ep_1"
         },
         {
@@ -28619,7 +28675,7 @@
           "number": 6,
           "name": "The Exchange Student",
           "airdate": "2011-10-07",
-          "summary": "No sooner has Brick's solicitor served papers on the Brockmans accusing Angela of abducting Misty to bump up her divorce settlement - and them of aiding a felon - than the bell rings again and Ottfried,Jake's German exchange student,whom noone was expecting,turns up. He is understandably perplexed by the whole set-up ,though he does regard Boris Johnson as a wonderful comedian,and offers Sue and Pete advice. Fortunately Angela decides to return to Brick but that still leaves the problem of Jake's nineteen year old pole-dancing girlfriend,who turns out to be only sixteen and therefore an illegal performer...",
+          "summary": "No sooner has Brick's solicitor served papers on the Brockmans accusing Angela of abducting Misty to bump up her divorce settlement--and them of aiding a felon--than the bell rings again and Ottfried, Jake's German exchange student, whom no-one was expecting, arrives. He is understandably perplexed by the whole set-up, though he regards Boris Johnson as a wonderful comedian and offers Sue and Pete advice. Fortunately, Angela decides to return to Brick but that still leaves the problem of Jake's 19-year-old pole-dancing girlfriend, who turns out to be only 16--therefore, an illegal performer.",
           "url": "https://www.imdb.com/title/tt2071137/?ref_=ttep_ep_6"
         },
         {
@@ -28627,7 +28683,7 @@
           "number": 7,
           "name": "Christmas Special 2011",
           "airdate": null,
-          "summary": "The Brockmans hope to get away for the holiday, but Granddad's sudden illness and trip to the worst hospital ever threatens their plans.",
+          "summary": "The Brockmans hope to get away for the holiday, but Granddad's sudden illness and trip to the worst hospital ever threaten their plans.",
           "url": "https://www.imdb.com/title/tt2132946/?ref_=ttep_ep_7"
         },
         {
@@ -28635,7 +28691,7 @@
           "number": 8,
           "name": "Christmas Special 2012",
           "airdate": "2012-12-24",
-          "summary": "The Brockmans throw a Christmas party with jubilee bunting for decorations but Pete is not happy. Of the kids only Ben wants to help whilst Sandra gets drunk, tactless Norris from next door reminds former TV weather-man Ray of his nervous breakdown and Pete gets shut in the bathroom with neurotic, flu-ridden Jane when the door handle falls off. As the evening progresses Norris's wife runs off with her Lesbian lover, Jane takes an accidental over-dose and is rushed to hospital whilst Jake brings the police to the house. This will certainly be one party for everybody to remember.",
+          "summary": "The Brockmans throw a Christmas party with jubilee bunting for decorations, but Pete is not merry: of the kids, only Ben wants to help; Sandra gets drunk; tactless Norris from next-door reminds former TV-weatherman Ray of his nervous breakdown; and Pete gets locked in the bathroom with neurotic, flu-ridden Jane when the door-handle falls off. As the evening progresses, Norris' wife runs off with her Lesbian lover and Jane takes an accidental overdose and is rushed to hospital while Jake brings the police to the house. This will certainly be one party that everybody will remember.",
           "url": "https://www.imdb.com/title/tt2575644/?ref_=ttep_ep_8"
         },
         {
@@ -28643,7 +28699,7 @@
           "number": 9,
           "name": "The Girls' Day Out",
           "airdate": "2011-09-09",
-          "summary": "Now a supply teacher Pete gets grief from his daughter and wife for not helping more about the house. Angered by her menfolk's laziness Sue leaves them to do housework and cook Sunday dinner whilst she takes Karen out for a day at the local shopping mall. Here Karen makes short work of a charity campaigner before asking Sue to buy her clothes to keep up with her shallow school contemporaries. Returning home Sue finds that Ben has broken the washing machine and also has a peculiar idea of the ideal Sunday lunch.",
+          "summary": "Now a supply teacher, Pete gets grief from his daughter and wife for not helping more around the house. Angered by her menfolk's laziness, Sue leaves them to do housework and cook Sunday dinner while she takes Karen out for a day at the local shopping mall. Karen makes short work of a charity campaigner before asking Sue to buy her clothes to keep up with her shallow schoolmates. They return home to find that Ben has broken the washing machine and also has a strange idea of the ideal Sunday lunch.",
           "url": "https://www.imdb.com/title/tt2044410/?ref_=ttep_ep_2"
         },
         {
@@ -28651,7 +28707,7 @@
           "number": 16,
           "name": "The Labrador",
           "airdate": "2011-09-16",
-          "summary": "Karen and Jake are both staying the night with friends whilst Ben is at an adventure camp,terrifying his school-mates with ghost stories. Sue and Pete find themselves dog-sitting Archie for friends of friends. He seems cute but nobody warned that he would go after next door's guinea pigs and run up a ninety pound bill. Pete loves having the kids out of the way and muses on a child-free future. Sue cannot wait to have them back again.",
+          "summary": "Karen and Jake are both staying the night with friends and Ben is at an adventure camp, terrifying his schoolmates with ghost stories. Sue and Pete find themselves dog-sitting Archie for friends of friends. He seems cute, but nobody warned that he would go after next-door's guinea pigs and run up a £90 bill. Pete loves having the kids out of the way and muses on a child-free future, but Sue can't wait to have them back again.",
           "url": "https://www.imdb.com/title/tt2051532/?ref_=ttep_ep_3"
         },
         {
@@ -28659,7 +28715,7 @@
           "number": 23,
           "name": "The Parents' Evening",
           "airdate": "2011-09-23",
-          "summary": "When Ben tells them that a boy called Oliver is selling drugs at school they wonder if they should report him. Their dilemma grows at Ben's parents' evening when Oliver's mother and father tell them about the drugs problem at his last school,which has now stopped. However,given Ben's teachers' reports of his bizarre behaviour and the fact that Karen is found wandering in the school playground,they decide against making a formal complaint and leave an anonymous note - in capitals.",
+          "summary": "When Ben announces that a boy named Oliver is selling drugs at school, they wonder if they should report him; their dilemma grows at Ben's parents' evening when Oliver's parents tell them about the drugs problem at his last school--which has stopped with him gone. However, given Ben's teachers' reports of his bizarre behaviour and the fact that Karen is found wandering round the school playground, they decide not to make a formal complaint but to leave an anonymous all-capital-letter note.",
           "url": "https://www.imdb.com/title/tt2057074/?ref_=ttep_ep_4"
         },
         {
@@ -28667,7 +28723,7 @@
           "number": 29,
           "name": "The Cold Caller",
           "airdate": "2011-09-29",
-          "summary": "Ben is perfecting his ventriloquist act for the school talent contest and annoying everybody as usual but this is the least of his parents' worries. First they find out that Jake is dating a nineteen-year-old pole dancer who,due to fake I.D., believes he is eighteen. Then Angela arrives,having split acrimoniously from Brick and bringing his daughter Misty - whom she claims Brick mentally abused - with her. She is writing a book on surviving families and Sue does not like the references to herself in the sneak peep she takes. With Brick having invalidated Angela's credit cards,it looks as if the family is stuck with her . . . and then Brick's solicitor rings the doorbell.",
+          "summary": "Ben is perfecting his ventriloquist act for the school talent contest and annoying everybody as usual, but this is the least of his parents' worries: First they learn that Jake is dating a 19-year-old pole dancer who believes that he's 18 (thanks to his fake I.D.). Then Angela arrives with Brick's daughter Misty: she has split acrimoniously from Brick and claims that he mentally abused Misty. She's writing a book on surviving families, and when Sue has a sneak-peek, she doesn't like the references to herself that she finds. Brick has invalidated Angela's credit cards so it looks like the family's stuck with her. Then Brick's solicitor rings the doorbell.",
           "url": "https://www.imdb.com/title/tt2063418/?ref_=ttep_ep_5"
         }
       ]
@@ -33781,7 +33837,7 @@
           "number": 8,
           "name": "Do You Want to Build a... Music Video?",
           "airdate": "2026-09-08",
-          "summary": "Tammy and Amy embrace new opportunities, personal growth, major life changes and strengthening their sister bond. Tammy and Andrea's relationship reaches an exciting new chapter. Amy is focused on becoming the next big songwriter...with the help of AI.",
+          "summary": "Tammy and Amy embrace new opportunities, personal growth, major life changes and strengthen their sister bond. Tammy and Andrea's relationship enters an exciting new chapter. Amy pursues becoming a top songwriter with AI assistance.",
           "url": "https://www.imdb.com/title/tt44890194/?ref_=ttep_ep_2"
         },
         {
@@ -33927,9 +33983,9 @@
         {
           "season": 1,
           "number": 1,
-          "name": "Episode #1.1",
+          "name": "The Send-Off",
           "airdate": "2026-05-13",
-          "summary": null,
+          "summary": "Chicago/Willowbrook, IL to St. Louis, MO: A hundred years after the first mile marker went up, the rally rolls out of Chicagoland.",
           "url": "https://www.imdb.com/title/tt39365410/?ref_=ttep_ep_1"
         },
         {
@@ -37451,6 +37507,536 @@
           "airdate": "2026-04-28",
           "summary": "After R.J. learns the truth about what happened on the fateful day Lucas stole his camera, he enlists his inner circle of friends to help him take down Victor Ochoa.",
           "url": "https://www.imdb.com/title/tt39773614/?ref_=ttep_ep_9"
+        }
+      ]
+    },
+    "tt11363282": {
+      "imdbId": "tt11363282",
+      "title": "The Real Housewives of Salt Lake City",
+      "episodes": [
+        {
+          "season": 7,
+          "number": 16,
+          "name": "Episode #7.1",
+          "airdate": "2026-09-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39412509/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 6,
+          "number": 4,
+          "name": "Petty Little Liars",
+          "airdate": "2025-10-07",
+          "summary": "Lisa's luncheon ends with a breakthrough for her and Bronwyn. Whitney encourages Britani to put her relationship with Jared on hold to focus on her daughter. Mary checks out her church's renovations; Angie and Lisa continue to drift apart.",
+          "url": "https://www.imdb.com/title/tt36951347/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 6,
+          "number": 5,
+          "name": "The Salt Lake City Soup Man",
+          "airdate": "2025-10-14",
+          "summary": "Whitney hosts a wine tasting with psychic readings; Bronwyn gets insight on her relationship with her mother; Lisa is challenged to face some hard truths about her marriage; Meredith confronts Lisa for spreading rumors about her.",
+          "url": "https://www.imdb.com/title/tt36951367/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 6,
+          "number": 6,
+          "name": "Out of Gas",
+          "airdate": "2025-10-21",
+          "summary": "Friendships are challenged as Heather confronts Lisa; Angie and Mary have a heart-to-heart talk; Britani struggles to reconnect with her daughter; Lisa and John's communication issues come to a head; Bronwyn's marriage is tested.",
+          "url": "https://www.imdb.com/title/tt36951370/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 6,
+          "number": 7,
+          "name": "Above Neck and Below the Belt",
+          "airdate": "2025-10-28",
+          "summary": "In a can't-miss crossover event with \"Below Deck Down Under,\" the women take off for Heather's Caribbean adventure, but one housewife is noticeably missing; once on deck, Britani flirts with Captain Jason and the deck crew.",
+          "url": "https://www.imdb.com/title/tt36951396/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 6,
+          "number": 8,
+          "name": "Loose Lips Sink Friend Ships",
+          "airdate": "2025-11-04",
+          "summary": "Heather's yacht trip takes a stormy turn when Bronwyn learns Lisa has been spreading rumors; Meredith grows increasingly uneasy with Britani's behavior; Lisa vents to Mary about Meredith, sparking a fiery confrontation.",
+          "url": "https://www.imdb.com/title/tt36951414/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 6,
+          "number": 9,
+          "name": "Unicorn Overboard",
+          "airdate": "2025-11-11",
+          "summary": "On the final day at sea tensions boil over as Meredith and Britani's feud continues; Meredith finds fault with Whitney; Bronwyn offers Meredith a sacrificial offering; an alleged incident leaves the group divided and forced to pick sides.",
+          "url": "https://www.imdb.com/title/tt36951432/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 6,
+          "number": 10,
+          "name": "The Higher the Hair, the Closer to God",
+          "airdate": "2025-11-18",
+          "summary": "Whitney throws a High Body Count surprise party in honor of Britani, who is touched by her friends' outreach, but gets a rude awakening from Jared; Bronwyn and Lisa have difficult conversations with their husbands.",
+          "url": "https://www.imdb.com/title/tt36951452/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 6,
+          "number": 11,
+          "name": "Ladies Who Lunch: The Sequel",
+          "airdate": "2025-11-25",
+          "summary": "Mary hosts a luncheon after her church service, but the divide in the group only intensifies as Lisa and Meredith maintain their side of the story; Bronwyn learns life-altering news; Britani and her daughter Olivia forge a path forward.",
+          "url": "https://www.imdb.com/title/tt36951476/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 6,
+          "number": 12,
+          "name": "First Amendment Rights, and Wrongs",
+          "airdate": "2025-12-02",
+          "summary": "It´s tea time and the kettle is hot. In an effort to smooth things over within the group, Bronwyn embraces her new US citizenship and hosts a Spill the Tea party that quickly turns into chaos.",
+          "url": "https://www.imdb.com/title/tt36951493/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 6,
+          "number": 13,
+          "name": "Greek for the Week",
+          "airdate": "2025-12-09",
+          "summary": "The ladies kick off their Greek getaway in Santorini, but paradise doesn´t stay peaceful for long. A day of beaches and boutiques turns stormy when Meredith and Heather´s tension boils over.",
+          "url": "https://www.imdb.com/title/tt36951501/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 6,
+          "number": 14,
+          "name": "My Big Fat Greek Mother's Day",
+          "airdate": "2025-12-16",
+          "summary": "It's Mother's Day in Santorini and Meredith's mood sours after missing a chance to speak with her son; tensions linger after the previous night's dinner; the group shares laughs poolside before heading out for the night.",
+          "url": "https://www.imdb.com/title/tt36951567/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 6,
+          "number": 15,
+          "name": "Opas and Outbursts",
+          "airdate": "2025-12-30",
+          "summary": "The Santorini trip continues and Angie surprises the ladies with a once-in-a-lifetime photoshoot. A relaxing day at the spa takes a loud turn as Britani finds herself at odds with many of the other women.",
+          "url": "https://www.imdb.com/title/tt36951580/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 6,
+          "number": 16,
+          "name": "Hot Dogs and Hearsay",
+          "airdate": "2025-09-16",
+          "summary": "Angie arranges a surprise RV trip for the women, but with Lisa gone for work, Bronwyn brings up some rumors she's heard about Lisa's business; tensions brew as Britani calls out Whitney; Heather and Bronwyn go head-to-head.",
+          "url": "https://www.imdb.com/title/tt35931942/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 6,
+          "number": 17,
+          "name": "Reunion Part 1",
+          "airdate": "2026-01-13",
+          "summary": "The Salt Lake City cast reunites in NYC to celebrate 100 episodes as old tensions resurface, alliances are questioned, and Angie reveals evidence about the alleged leak.",
+          "url": "https://www.imdb.com/title/tt36951627/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 6,
+          "number": 18,
+          "name": "Reunion Part 2",
+          "airdate": "2026-01-20",
+          "summary": "The reunion continues with Mary sharing an emotional update about her son and how she feels about her church being in the spotlight. The women attempt to find resolution about what happened on the plane ride from Canouan. Heather draws a line in the sand with Meredith. Meredith provides some insight into the shocking root of her issues with Britani.",
+          "url": "https://www.imdb.com/title/tt36951649/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 6,
+          "number": 19,
+          "name": "Reunion Part 3",
+          "airdate": "2026-01-27",
+          "summary": "The reunion concludes with an emotional update from Bronwyn on her relationship with her mother and marriage to Todd. Lisa and Whitney are brought to tears over their own marriages. Bronwyn confronts Meredith about their off-camera conversation in Greece. After a tumultuous season, the women try to find ways to move forward.",
+          "url": "https://www.imdb.com/title/tt38351106/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 6,
+          "number": 23,
+          "name": "Law and Out of Order",
+          "airdate": "2025-09-23",
+          "summary": "At an upscale party, Lisa confronts Bronwyn and Angie over gossip spread about her past lawsuits; Mary supports Robert Junior on his sobriety journey; Heather reluctantly offers Bronwyn a second chance at friendship.",
+          "url": "https://www.imdb.com/title/tt36951334/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 6,
+          "number": 30,
+          "name": "Dismissed",
+          "airdate": "2025-09-30",
+          "summary": "Lisa hosts a luncheon to give the women some clarity on the allegations being spread, but tensions boil over when Lisa hurls insults at most of the ladies.",
+          "url": "https://www.imdb.com/title/tt36951333/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt0206501": {
+      "imdbId": "tt0206501",
+      "title": "NOVA",
+      "episodes": [
+        {
+          "season": 53,
+          "number": 1,
+          "name": "Asteroids: Spark of Life?",
+          "airdate": "2026-01-21",
+          "summary": "Discover how scientists are unearthing evidence from lunar rocks and ancient impact craters, revealing that the very objects known for extinguishing life might have actually sparked it.",
+          "url": "https://www.imdb.com/title/tt38989837/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 53,
+          "number": 2,
+          "name": "Angkor: Hidden Jungle Empire",
+          "airdate": "2026-01-28",
+          "summary": "Uncover the lost secrets of a once-mighty empire. The city of Angkor, the seat of the great Khmer Empire in Southeast Asia for 500 years, was once the biggest city in the world.",
+          "url": "https://www.imdb.com/title/tt38989836/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 53,
+          "number": 3,
+          "name": "Can Dogs Talk?",
+          "airdate": "2026-02-04",
+          "summary": "Do speech buttons really allow dogs to talk to us? Scientists investigate.",
+          "url": "https://www.imdb.com/title/tt39455263/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 53,
+          "number": 4,
+          "name": "Mammal Origins",
+          "airdate": "2026-02-11",
+          "summary": "Fascinating fossil clues and cutting-edge science reveal how a small, resilient group of animals faced extinction events, outlived giants, and ultimately gave rise to the diverse world of mammals we know today, including us.",
+          "url": "https://www.imdb.com/title/tt39455307/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 53,
+          "number": 5,
+          "name": "Stone Age Temple Mystery",
+          "airdate": "2026-02-25",
+          "summary": "On a remote hillside in modern-day Turkey sits Göbekli Tepe, the oldest temple on Earth. Ground-breaking new evidence reveals that a sophisticated community of settled hunter-gatherers, not nomads, lived here year-round for centuries.",
+          "url": "https://www.imdb.com/title/tt39380719/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 53,
+          "number": 6,
+          "name": "Return to the Moon",
+          "airdate": "2026-04-15",
+          "summary": "Fifty years since the last Apollo mission, the Artemis II astronauts take a ten day trip to orbit the Moon and return to Earth.",
+          "url": "https://www.imdb.com/title/tt41818719/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 53,
+          "number": 7,
+          "name": "Rain Bombs",
+          "airdate": "2026-04-22",
+          "summary": "An invisible, unpredictable atmospheric force is wreaking havoc across the globe, sinking super-yachts and bringing down planes. Follow scientists as they race to understand these catastrophic weather events.",
+          "url": "https://www.imdb.com/title/tt39455329/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 53,
+          "number": 8,
+          "name": "Athens: Birth of Democracy",
+          "airdate": "2026-04-29",
+          "summary": "From mysterious fragments of ancient voting machines to mass graves and dramatic assassinations, discover the dark secrets and innovative solutions that defined the world's first direct democracy.",
+          "url": "https://www.imdb.com/title/tt40970038/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 53,
+          "number": 9,
+          "name": "The Battle to Breathe",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43619089/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 53,
+          "number": 10,
+          "name": "Knowledge Keepers",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43697142/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 53,
+          "number": 11,
+          "name": "Stone Age Masterpiece",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43619077/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 53,
+          "number": 12,
+          "name": "Space Wars",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43744488/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 53,
+          "number": 13,
+          "name": "Evolution: Brain Power",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43684973/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 53,
+          "number": 14,
+          "name": "Evolution: Need to Feed",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43684980/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 53,
+          "number": 15,
+          "name": "Evolution: Body Builders",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43684982/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 52,
+          "number": 1,
+          "name": "What Are UFOs?",
+          "airdate": "2025-01-22",
+          "summary": "Astrophysicists and engineers look at evidence that supports the existence of UFOs.",
+          "url": "https://www.imdb.com/title/tt35514292/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 52,
+          "number": 2,
+          "name": "Extreme Airport Engineering",
+          "airdate": "2025-01-29",
+          "summary": "Follow the race to build a world-class airport on the site of one of America's busiest flying hubs.",
+          "url": "https://www.imdb.com/title/tt35514293/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 52,
+          "number": 3,
+          "name": "Dino Birds",
+          "airdate": "2025-02-05",
+          "summary": "Fossils reveal how birds survived the killer asteroid and became today's only living dinosaurs.",
+          "url": "https://www.imdb.com/title/tt35514294/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 52,
+          "number": 4,
+          "name": "Egypt's Tombs of Amun",
+          "airdate": "2025-02-12",
+          "summary": "A long-lost ancient cemetery opens the door to a unique period in Egyptian history.",
+          "url": "https://www.imdb.com/title/tt35514295/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 52,
+          "number": 5,
+          "name": "Pompeii's Secret Underworld",
+          "airdate": "2025-02-19",
+          "summary": "Archaeologists uncover new truths about Pompeii, a wealthy Roman playground with dark secrets.",
+          "url": "https://www.imdb.com/title/tt35514296/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 52,
+          "number": 6,
+          "name": "Baltimore Bridge Collapse",
+          "airdate": "2025-02-26",
+          "summary": "Follow the investigation into the deadly container ship collision that closed the Port of Baltimore.",
+          "url": "https://www.imdb.com/title/tt35156049/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 52,
+          "number": 7,
+          "name": "Revolutionary War Weapons",
+          "airdate": "2025-04-09",
+          "summary": "How did a ragtag army defeat the most powerful army in the world to win American independence? Discover the key military technologies that helped propel the colonies to victory, from the Brown Bess musket to the world's first submarine.",
+          "url": "https://www.imdb.com/title/tt35931573/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 52,
+          "number": 8,
+          "name": "Secrets of the Forest",
+          "airdate": "2025-04-16",
+          "summary": "Researchers around the globe gather data on how forests work and try to figure out how these ecosystems can help tackle the threats of climate change and species extinction",
+          "url": "https://www.imdb.com/title/tt35932410/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 52,
+          "number": 9,
+          "name": "Critical Condition: Health in Black America",
+          "airdate": "2025-04-30",
+          "summary": "Nova traces the roots of systemic racism in our medical system and its biological impact to understand why Black Americans experience such disproportionately poor health outcomes; long before COVID-19 highlighted the health disparities.",
+          "url": "https://www.imdb.com/title/tt36061767/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 52,
+          "number": 10,
+          "name": "Ultimate Crash Test: Countdown",
+          "airdate": "2025-05-07",
+          "summary": "What really happens in a multi-vehicle pileup? A first-of-its-kind experiment aims to stage a high speed crash to gain new insights on car safety. But how can they create and study a complex collision without putting any lives in danger?",
+          "url": "https://www.imdb.com/title/tt35873897/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 52,
+          "number": 11,
+          "name": "Ultimate Crash Test: Impact",
+          "airdate": "2025-05-14",
+          "summary": "Car safety experts just pulled off a first-of-its-kind remote controlled multi-vehicle pile up. Now investigators are put to the test as they analyze the data and look for insights into driver behavior and vehicle design.",
+          "url": "https://www.imdb.com/title/tt35873898/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 52,
+          "number": 14,
+          "name": "Human: Neanderthal Encounters",
+          "airdate": "2025-10-01",
+          "summary": "For hundreds of thousands of years, Neanderthals thrived across Europe. Then, Homo sapiens arrived. Explore the surprising encounters between these two human species that has reshaped our understanding of early human history.",
+          "url": "https://www.imdb.com/title/tt37856264/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 52,
+          "number": 15,
+          "name": "Human: Into the Americas",
+          "airdate": "2025-10-08",
+          "summary": "Journey back to when humans first ventured into the Americas, a world teeming with colossal megafauna and dramatic climate shifts. Witness their ingenious survival tactics against formidable predators.",
+          "url": "https://www.imdb.com/title/tt37856265/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 52,
+          "number": 16,
+          "name": "Human: Building Empires",
+          "airdate": "2025-10-15",
+          "summary": "What caused humans to stop roaming and start building? How did we transform from a tiny, fragile population of Homo sapiens into the 8 billion strong, globally interconnected species we are today?",
+          "url": "https://www.imdb.com/title/tt37856266/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 52,
+          "number": 17,
+          "name": "Human: Origins",
+          "airdate": "2025-09-17",
+          "summary": "Where do we come from? Journey back when multiple human species walked the earth. Discover how radical fossil finds suggest we did not have a single birthplace, but that modern Homo sapiens emerged from a mosaic of early human communities.",
+          "url": "https://www.imdb.com/title/tt37856261/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 52,
+          "number": 18,
+          "name": "Superfloods",
+          "airdate": "2025-10-29",
+          "summary": "Examines three floods: Asheville, North Carolina after remnants of Hurricane Helene, Texas flash flood and Valencia, Spain flood. Connects these events with climate change and investigates how warnings could have been better.",
+          "url": "https://www.imdb.com/title/tt38350550/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 52,
+          "number": 19,
+          "name": "Operation Space Station: High-Risk Build",
+          "airdate": "2025-11-05",
+          "summary": "A documentary about the planning and building of the International Space Station (ISS) and its uses. This episode presents some notable risks faced by astronauts who helped assemble the ISS.",
+          "url": "https://www.imdb.com/title/tt38740904/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 52,
+          "number": 20,
+          "name": "Operation Space Station: Science and Survival",
+          "airdate": "2025-11-05",
+          "summary": "Here, on the International Space Station, unexpected challenges are a daily threat, Witness the ingenuity, courage, and international cooperation required to overcome these life-threatening emergencies.",
+          "url": "https://www.imdb.com/title/tt38740907/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 52,
+          "number": 24,
+          "name": "Human: Journeys",
+          "airdate": "2025-09-24",
+          "summary": "From the time humans arose in Africa, they have been on the move - but one species, Homo sapiens, has journeyed farther than any other. As they traveled the globe, how did Homo sapiens manage to thrive across the planet?",
+          "url": "https://www.imdb.com/title/tt37856263/?ref_=ttep_ep_13"
+        }
+      ]
+    },
+    "tt0121955": {
+      "imdbId": "tt0121955",
+      "title": "South Park",
+      "episodes": [
+        {
+          "season": 29,
+          "number": 3,
+          "name": "Episode #29.3",
+          "airdate": "2026-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42834563/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 29,
+          "number": 4,
+          "name": "Episode #29.4",
+          "airdate": "2026-10-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42834573/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 29,
+          "number": 5,
+          "name": "Episode #29.5",
+          "airdate": "2026-11-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42834578/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 29,
+          "number": 6,
+          "name": "Episode #29.6",
+          "airdate": "2026-11-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42834581/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 29,
+          "number": 16,
+          "name": "Episode #29.1",
+          "airdate": "2026-09-16",
+          "summary": "The boys are trolling on the internet when they send a message to the wrong person and end up on North Sentinel Island.",
+          "url": "https://www.imdb.com/title/tt26764475/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 29,
+          "number": 30,
+          "name": "Episode #29.2",
+          "airdate": "2026-09-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42834558/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 28,
+          "number": 1,
+          "name": "Twisted Christian",
+          "airdate": "2025-10-15",
+          "summary": "Cartman is possessed and may be the key to stopping the Antichrist.",
+          "url": "https://www.imdb.com/title/tt26764428/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 28,
+          "number": 2,
+          "name": "The Woman in the Hat",
+          "airdate": "2025-10-31",
+          "summary": "The White House deals with a disruptive spirit from the East Wing; Stan worries that South Park has become too political.",
+          "url": "https://www.imdb.com/title/tt38043390/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 28,
+          "number": 3,
+          "name": "Sora Not Sorry",
+          "airdate": "2025-11-12",
+          "summary": "Butters' AI revenge plan backfires, igniting an epidemic of fake videos at school that leaves detective Harris struggling to tell fantasy from reality.",
+          "url": "https://www.imdb.com/title/tt38043392/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 28,
+          "number": 4,
+          "name": "Turkey Trot",
+          "airdate": "2025-11-26",
+          "summary": "The town's annual Turkey Trot turns chaotic when Cartman uses questionable cutting-edge science to win the race.",
+          "url": "https://www.imdb.com/title/tt38043393/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 28,
+          "number": 5,
+          "name": "The Crap Out",
+          "airdate": "2025-12-10",
+          "summary": "Satan's baby is due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time.",
+          "url": "https://www.imdb.com/title/tt38043394/?ref_=ttep_ep_5"
         }
       ]
     }
