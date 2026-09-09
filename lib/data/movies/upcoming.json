@@ -3345,8 +3345,8 @@
           "name": "Demián Bichir"
         },
         {
-          "id": "nm4845909",
-          "name": "Luis Alberti"
+          "id": "nm1375877",
+          "name": "Juan Minujín"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3423,20 +3423,20 @@
       ],
       "people": [
         {
+          "id": "nm0004626",
+          "name": "Kareena Kapoor"
+        },
+        {
           "id": "nm1335387",
           "name": "Prithviraj Sukumaran"
         },
         {
+          "id": "nm1942776",
+          "name": "Kanwaljeet Singh"
+        },
+        {
           "id": "nm1213227",
           "name": "Achint Kaur"
-        },
-        {
-          "id": "nm2761116",
-          "name": "Seema Azmi"
-        },
-        {
-          "id": "nm7052811",
-          "name": "Anuja Sathe"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3607,8 +3607,8 @@
           "name": "Manny Jacinto"
         },
         {
-          "id": "nm5307044",
-          "name": "Ronny Chieng"
+          "id": "nm0758964",
+          "name": "Lea Salonga"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3769,9 +3769,9 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
       "genres": [
-        "Action",
         "Biography",
-        "Crime"
+        "Crime",
+        "Drama"
       ],
       "people": [
         {
@@ -4834,6 +4834,36 @@
       "label": "Oct 23, 2026"
     },
     {
+      "id": "tt27041231",
+      "title": "Musk",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA0MjMyZjAtZjE0OC00MWY1LThjNDktM2QzMjFjNmQxMzM4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Biography",
+        "History"
+      ],
+      "people": [
+        {
+          "id": "nm1907769",
+          "name": "Elon Musk"
+        },
+        {
+          "id": "nm5717772",
+          "name": "Justine Musk"
+        },
+        {
+          "id": "nm2425576",
+          "name": "Kara Swisher"
+        },
+        {
+          "id": "nm1890405",
+          "name": "Sam Harris"
+        }
+      ],
+      "label": "Oct 23, 2026"
+    },
+    {
       "id": "tt39075417",
       "title": "Closure",
       "image": "https://m.media-amazon.com/images/M/MV5BZTk1OTgzZTAtNzRkYi00MjM0LTkwYmYtMTQyZWY5ZTk4MWE3XkEyXkFqcGc@._V1_.jpg",
@@ -4892,16 +4922,16 @@
           "name": "Alexander Skarsgård"
         },
         {
-          "id": "nm4456120",
-          "name": "Elizabeth Debicki"
-        },
-        {
           "id": "nm1469236",
           "name": "Olivia Colman"
         },
         {
           "id": "nm0227759",
           "name": "Peter Dinklage"
+        },
+        {
+          "id": "nm4456120",
+          "name": "Elizabeth Debicki"
         }
       ],
       "label": "Oct 30, 2026"
@@ -5123,8 +5153,8 @@
           "name": "Miou Tanaka"
         },
         {
-          "id": "nm1328568",
-          "name": "Munetaka Aoki"
+          "id": "nm0619178",
+          "name": "Masami Nagasawa"
         }
       ],
       "label": "Nov 06, 2026"
@@ -6018,6 +6048,36 @@
       "label": "Dec 04, 2026"
     },
     {
+      "id": "tt12525406",
+      "title": "The Fox",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2I1ZDc1YjctMDYwOS00ZmExLThkYWUtZWE3MThjYTcwY2RkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "people": [
+        {
+          "id": "nm0000554",
+          "name": "Sam Neill"
+        },
+        {
+          "id": "nm1469236",
+          "name": "Olivia Colman"
+        },
+        {
+          "id": "nm2541974",
+          "name": "Jai Courtney"
+        },
+        {
+          "id": "nm0115161",
+          "name": "Emily Browning"
+        }
+      ],
+      "label": "Dec 04, 2026"
+    },
+    {
       "id": "tt34718200",
       "title": "The Debut",
       "image": "https://m.media-amazon.com/images/M/MV5BM2Q5ZTdmN2UtYzJjZi00ZjZjLWJmMWMtMjFjMmM5M2VmOWY4XkEyXkFqcGc@._V1_.jpg",
@@ -6433,8 +6493,8 @@
           "name": "Bella Ramsey"
         },
         {
-          "id": "nm0628120",
-          "name": "Jaime Ray Newman"
+          "id": "nm0504832",
+          "name": "Tracy Letts"
         }
       ],
       "label": "Jan 08, 2027"
@@ -6633,12 +6693,12 @@
           "name": "Brandon Sklenar"
         },
         {
-          "id": "nm0780678",
-          "name": "Nick Searcy"
-        },
-        {
           "id": "nm0241049",
           "name": "Josh Duhamel"
+        },
+        {
+          "id": "nm0780678",
+          "name": "Nick Searcy"
         },
         {
           "id": "nm0625789",
@@ -6736,7 +6796,7 @@
     {
       "id": "tt35621542",
       "title": "Remain",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTIwMTdhY2YtZGNiMC00MDg5LWFkY2EtZjY5MTllNDc0OWEzXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDFlZTA4ZDgtMmRkZi00NzhhLTk5NzgtZTFmNGYzMzIxNmE4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 05 Feb 2027 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -7010,12 +7070,12 @@
           "name": "Esai Morales"
         },
         {
-          "id": "nm3450051",
-          "name": "Richard Cabral"
-        },
-        {
           "id": "nm7639977",
           "name": "Angel Rosario Jr."
+        },
+        {
+          "id": "nm1883803",
+          "name": "Jesse Garcia"
         }
       ],
       "label": "Feb 26, 2027"
@@ -7032,6 +7092,10 @@
       ],
       "people": [
         {
+          "id": "nm8901592",
+          "name": "Renata Vaca"
+        },
+        {
           "id": "nm1727825",
           "name": "Tony Revolori"
         },
@@ -7042,10 +7106,6 @@
         {
           "id": "nm10955564",
           "name": "Ji-young Yoo"
-        },
-        {
-          "id": "nm5289372",
-          "name": "Yim Si-wan"
         }
       ],
       "label": "Feb 26, 2027"
@@ -7155,12 +7215,12 @@
           "name": "Hamish Linklater"
         },
         {
-          "id": "nm0001303",
-          "name": "Carla Gugino"
-        },
-        {
           "id": "nm0424060",
           "name": "Scarlett Johansson"
+        },
+        {
+          "id": "nm0001303",
+          "name": "Carla Gugino"
         },
         {
           "id": "nm0000491",
@@ -7252,8 +7312,8 @@
           "name": "Laura Gordon"
         },
         {
-          "id": "nm17459004",
-          "name": "Charli Penton"
+          "id": "nm10056998",
+          "name": "Meg Fraser"
         }
       ],
       "label": "Mar 19, 2027"
@@ -7299,12 +7359,12 @@
       ],
       "people": [
         {
-          "id": "nm3218692",
-          "name": "Madelyn Cline"
-        },
-        {
           "id": "nm0000136",
           "name": "Johnny Depp"
+        },
+        {
+          "id": "nm3218692",
+          "name": "Madelyn Cline"
         },
         {
           "id": "nm0004851",
@@ -7665,8 +7725,8 @@
           "name": "Jason Clarke"
         },
         {
-          "id": "nm1569067",
-          "name": "Wilson Bethel"
+          "id": "nm3147751",
+          "name": "LaKeith Stanfield"
         }
       ],
       "label": "May 14, 2027"
