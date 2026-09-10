@@ -1722,7 +1722,7 @@
     {
       "idEvent": "2487520",
       "idAPIfootball": "1550961",
-      "strTimestamp": "2026-09-13T03:00:00",
+      "strTimestamp": "2026-09-13T03:15:00",
       "strEvent": "Cruz Azul vs América",
       "strEventAlternate": "América @ Cruz Azul",
       "strFilename": "Mexican Liga MX 2026-09-13 Cruz Azul vs América",
@@ -1740,7 +1740,7 @@
       "strWeather": "",
       "dateEvent": "2026-09-13",
       "dateEventLocal": "2026-09-12",
-      "strTime": "03:00:00",
+      "strTime": "03:15:00",
       "strTimeLocal": "22:00:00",
       "strGroup": "",
       "idHomeTeam": "134196",
