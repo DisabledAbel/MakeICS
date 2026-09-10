@@ -2928,12 +2928,12 @@
           "name": "Owen Wilson"
         },
         {
-          "id": "nm5772354",
-          "name": "Leila George"
+          "id": "nm0763928",
+          "name": "Rodrigo Santoro"
         },
         {
-          "id": "nm2094547",
-          "name": "Kate Box"
+          "id": "nm5772354",
+          "name": "Leila George"
         }
       ],
       "label": "Sep 11, 2026"
@@ -2970,7 +2970,7 @@
     {
       "id": "tt36983905",
       "title": "The Uprising",
-      "image": "https://m.media-amazon.com/images/M/MV5BZjExZjU5NmMtZDhkYi00YmIzLWFiMmYtZjM5NGZiYjc4MDM4XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmNiZjVhOGItZTUxMi00MDUwLWJlNDItYTg2MTViZmQzMmU0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3047,36 +3047,6 @@
         {
           "id": "nm2089687",
           "name": "Oasis"
-        }
-      ],
-      "label": "Sep 11, 2026"
-    },
-    {
-      "id": "tt32324552",
-      "title": "Ranabaali",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDBmY2M5ODAtOTU0Yi00MTY5LTk2MGQtZDc1Mjg4MWEzNjkzXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 11 Sep 2026 00:00:00 GMT",
-      "genres": [
-        "Action",
-        "Drama",
-        "History"
-      ],
-      "people": [
-        {
-          "id": "nm4797922",
-          "name": "Vijay Deverakonda"
-        },
-        {
-          "id": "nm8612305",
-          "name": "Rashmika Mandanna"
-        },
-        {
-          "id": "nm0903677",
-          "name": "Arnold Vosloo"
-        },
-        {
-          "id": "nm4177021",
-          "name": "Luke McGibney"
         }
       ],
       "label": "Sep 11, 2026"
@@ -3985,8 +3955,8 @@
           "name": "John Goodman"
         },
         {
-          "id": "nm7328091",
-          "name": "Aetheria Angel"
+          "id": "nm1197689",
+          "name": "Sandra Hüller"
         }
       ],
       "label": "Oct 02, 2026"
@@ -4428,6 +4398,65 @@
         }
       ],
       "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt39730506",
+      "title": "Treasure Trekkers",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2M4ZjllMWItNzg0MS00MTRiLWI2YTEtZDNlMmI1ZmE1ZTdmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "people": [
+        {
+          "id": "nm1747394",
+          "name": "Wyatt Bowen"
+        },
+        {
+          "id": "nm2330322",
+          "name": "Meredith Bull"
+        },
+        {
+          "id": "nm0996651",
+          "name": "Greg Cipes"
+        },
+        {
+          "id": "nm0166526",
+          "name": "Scott Cleverdon"
+        }
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt32324552",
+      "title": "Ranabaali",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDBmY2M5ODAtOTU0Yi00MTY5LTk2MGQtZDc1Mjg4MWEzNjkzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "people": [
+        {
+          "id": "nm4797922",
+          "name": "Vijay Deverakonda"
+        },
+        {
+          "id": "nm8612305",
+          "name": "Rashmika Mandanna"
+        },
+        {
+          "id": "nm0903677",
+          "name": "Arnold Vosloo"
+        },
+        {
+          "id": "nm4177021",
+          "name": "Luke McGibney"
+        }
+      ],
+      "label": "Oct 16, 2026"
     },
     {
       "id": "tt36870725",
@@ -5067,6 +5096,34 @@
         {
           "id": "nm12009259",
           "name": "Hope Klessig"
+        }
+      ],
+      "label": "Oct 30, 2026"
+    },
+    {
+      "id": "tt43699387",
+      "title": "The King of Cannabis",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDc4NWMyMzUtMWM0Ni00NDk4LWFiZGEtY2RjZTQ1MjM1YmQ2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Action"
+      ],
+      "people": [
+        {
+          "id": "nm0350079",
+          "name": "Luis Guzmán"
+        },
+        {
+          "id": "nm0050584",
+          "name": "Alimi Ballard"
+        },
+        {
+          "id": "nm0925916",
+          "name": "Charles Malik Whitfield"
+        },
+        {
+          "id": "nm2254878",
+          "name": "Sixx King"
         }
       ],
       "label": "Oct 30, 2026"
@@ -6101,8 +6158,8 @@
           "name": "Halle Bailey"
         },
         {
-          "id": "nm0251986",
-          "name": "Jesse Eisenberg"
+          "id": "nm0001613",
+          "name": "Bernadette Peters"
         }
       ],
       "label": "Dec 11, 2026"
@@ -6912,12 +6969,12 @@
           "name": "Lowell Deo"
         },
         {
-          "id": "nm5730649",
-          "name": "Lewis Pullman"
-        },
-        {
           "id": "nm12642168",
           "name": "Amita Rao"
+        },
+        {
+          "id": "nm5730649",
+          "name": "Lewis Pullman"
         },
         {
           "id": "nm1638321",
@@ -7617,7 +7674,7 @@
     {
       "id": "tt29873948",
       "title": "The Legend of Zelda",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzE1MGE3ZGEtNDg1Yi00MDE1LTgxYzEtZmEyMGQzNGE1OWJkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmZkMjMwYWYtYWU0YS00MjEyLWJhZGMtNDgzZThkN2M1NDdiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 30 Apr 2027 00:00:00 GMT",
       "genres": [
         "Action",
@@ -8495,6 +8552,62 @@
       ],
       "people": [],
       "label": "Sep 04, 2027"
+    },
+    {
+      "id": "tt39372868",
+      "title": "The Conjuring: First Communion",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGQxOTdkODUtZmUzYi00MDhlLTgxZjAtZjFhYmVmOTQ0YmFlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 10 Sep 2027 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm6136318",
+          "name": "Garrett Wareing"
+        },
+        {
+          "id": "nm0777788",
+          "name": "Matthias Schweighöfer"
+        },
+        {
+          "id": "nm9931958",
+          "name": "Amanda Fix"
+        },
+        {
+          "id": "nm7814433",
+          "name": "Marta Kessler"
+        }
+      ],
+      "label": "Sep 10, 2027"
+    },
+    {
+      "id": "tt8857166",
+      "title": "Christmas Eve",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDVhYTkyODEtMjNjNS00ZGFjLWIwYTUtZDhjZWNiZTljMTU5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 10 Sep 2027 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm0001757",
+          "name": "Kevin Sorbo"
+        },
+        {
+          "id": "nm1664542",
+          "name": "Michael Irvin"
+        },
+        {
+          "id": "nm0000286",
+          "name": "Stephen Baldwin"
+        },
+        {
+          "id": "nm0270480",
+          "name": "Danny Fehsenfeld"
+        }
+      ],
+      "label": "Sep 10, 2027"
     }
   ]
 }
