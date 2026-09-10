@@ -1,9 +1,4 @@
 {
-  "Tyler Perry's The Oval-7-19": {
-    "airdate": "2026-09-09",
-    "name": "In a Heartbeat",
-    "verifiedAt": "2026-07-29T15:10:20.014Z"
-  },
   "Tyler Perry's The Oval-7-21": {
     "airdate": "2026-09-23",
     "name": "Agent Stan Bennett",
@@ -49,11 +44,6 @@
     "name": "Grand Slam Paris 2026",
     "verifiedAt": "2026-08-28T22:56:49.253Z"
   },
-  "The Ark-3-9": {
-    "airdate": "2026-09-09",
-    "name": "I Have Nightmares",
-    "verifiedAt": "2026-08-28T22:57:04.726Z"
-  },
   "The Patrick Star Show-5-13": {
     "airdate": "2026-09-11",
     "name": "Toilet Training/The Patrick Show Reunion",
@@ -63,11 +53,6 @@
     "airdate": "2026-09-13",
     "name": "Lara Paige Conley",
     "verifiedAt": "2026-09-02T17:07:34.243Z"
-  },
-  "America's Game: The Superbowl Champions-2-20": {
-    "airdate": "2026-09-09",
-    "name": "2003 New England Patriots",
-    "verifiedAt": "2026-09-03T17:00:05.668Z"
   },
   "WWE Friday Night SmackDown-27-45": {
     "airdate": "2026-11-06",
@@ -103,5 +88,80 @@
     "airdate": "2026-10-23",
     "name": "Storm of Deceit",
     "verifiedAt": "2026-09-09T17:03:35.380Z"
+  },
+  "Tyler Perry's The Oval-7-22": {
+    "airdate": "2026-09-30",
+    "name": "The Filthy Rat",
+    "verifiedAt": "2026-09-10T16:55:07.765Z"
+  },
+  "WWE Friday Night SmackDown-27-40": {
+    "airdate": "2026-10-02",
+    "name": "Nashville Nightmare",
+    "verifiedAt": "2026-09-10T16:55:19.885Z"
+  },
+  "WWE Friday Night SmackDown-27-41": {
+    "airdate": "2026-10-09",
+    "name": "Australian Anarchy",
+    "verifiedAt": "2026-09-10T16:55:23.085Z"
+  },
+  "WWE Friday Night SmackDown-27-42": {
+    "airdate": "2026-10-16",
+    "name": "Crown Jewel 2025 Fallout",
+    "verifiedAt": "2026-09-10T16:55:26.211Z"
+  },
+  "WWE Friday Night SmackDown-27-44": {
+    "airdate": "2026-10-30",
+    "name": "Signed, Sealed, Smashed",
+    "verifiedAt": "2026-09-10T16:55:32.321Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2026-12-04",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-09-10T16:55:48.184Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2026-12-11",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-09-10T16:55:51.324Z"
+  },
+  "The Ark-3-9": {
+    "airdate": "2026-09-23",
+    "name": "I Have Nightmares",
+    "verifiedAt": "2026-08-28T22:57:04.726Z"
+  },
+  "The Real Housewives: Ultimate Girls Trip-5-6": {
+    "airdate": "2026-09-13",
+    "name": "To Peach Her Own",
+    "verifiedAt": "2026-09-10T16:56:40.390Z"
+  },
+  "Lanterns-1-6": {
+    "airdate": "2026-09-20",
+    "name": "The Weenie",
+    "verifiedAt": "2026-09-10T16:56:44.943Z"
+  },
+  "The Great American Road Rally: Celebrity Edition-1-1": {
+    "airdate": "2026-09-16",
+    "name": "The Send-Off",
+    "verifiedAt": "2026-09-10T16:57:03.317Z"
+  },
+  "Marble Hall Murders-1-6": {
+    "airdate": "2026-10-11",
+    "name": "Episode #1.1",
+    "verifiedAt": "2026-09-10T16:57:14.117Z"
+  },
+  "The Drop: A Snowfall Saga-1-8": {
+    "airdate": "2026-10-27",
+    "name": "Click Pop",
+    "verifiedAt": "2026-09-10T16:57:19.215Z"
+  },
+  "Name That Tune-5-15": {
+    "airdate": "2026-09-14",
+    "name": "Modern Family Tunes",
+    "verifiedAt": "2026-09-10T16:57:28.942Z"
+  },
+  "Independent Lens-27-15": {
+    "airdate": "2026-09-14",
+    "name": "Flood",
+    "verifiedAt": "2026-09-10T16:57:32.962Z"
   }
 }
