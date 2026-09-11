@@ -8728,7 +8728,7 @@
           "number": 16,
           "name": "Karamo Brown & Jimmy Fallon",
           "airdate": "2026-08-25",
-          "summary": null,
+          "summary": "Keke Palmer hosts as Jimmy Fallon and Karamo Brown team with contestants in two games where they guess secret passwords using single-word clues.",
           "url": "https://www.imdb.com/title/tt44145342/?ref_=ttep_ep_16"
         },
         {
@@ -25434,14 +25434,6 @@
         },
         {
           "season": 3,
-          "number": 8,
-          "name": "Episode #3.8",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt37519720/?ref_=ttep_ep_8"
-        },
-        {
-          "season": 3,
           "number": 9,
           "name": "I Have Nightmares",
           "airdate": "2026-09-09",
@@ -25471,6 +25463,14 @@
           "airdate": "2026-10-15",
           "summary": "As Garnet embarks on a rescue mission, the entire crew must confront an existential threat to Homebase.",
           "url": "https://www.imdb.com/title/tt37519725/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 3,
+          "number": 16,
+          "name": "Episode #3.8",
+          "airdate": "2026-09-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37519720/?ref_=ttep_ep_8"
         },
         {
           "season": 2,
@@ -30304,7 +30304,7 @@
         {
           "season": 5,
           "number": 9,
-          "name": "Episode #5.9",
+          "name": "Bluestone Manners",
           "airdate": "2026-10-04",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43620001/?ref_=ttep_ep_9"
@@ -30320,17 +30320,17 @@
         {
           "season": 5,
           "number": 20,
-          "name": "Episode #5.7",
+          "name": "Sisterhood Of The Traveling Housewives",
           "airdate": "2026-09-20",
-          "summary": null,
+          "summary": "Miami brings the heat at Lisa Hochstein's lingerie party. In the Big Apple, Dorinda brings back the iconic Gangster Brunch. A moving reading from Carole has the women reflecting on the sisterhood forged through years in the spotlight.",
           "url": "https://www.imdb.com/title/tt43620002/?ref_=ttep_ep_7"
         },
         {
           "season": 5,
           "number": 27,
-          "name": "Episode #5.8",
+          "name": "Mic Drop, Please",
           "airdate": "2026-09-27",
-          "summary": null,
+          "summary": "Luann takes center stage at her Halloween bash; Gizelle grows increasingly annoyed by Luann's need for the spotlight; Porsha's late arrival sets the stage for an eventful evening.",
           "url": "https://www.imdb.com/title/tt43620000/?ref_=ttep_ep_8"
         },
         {
@@ -31871,25 +31871,25 @@
         {
           "season": 1,
           "number": 4,
-          "name": "Episode #1.4",
+          "name": "Lost at Sea",
           "airdate": "2026-08-24",
-          "summary": null,
+          "summary": "Twenty six-year-old Army veteran Kevin McGrath disappears from a Carnival cruise after celebrating with his family. Despite an extensive ship search and 3,300-mile Coast Guard operation, no trace of him is found.",
           "url": "https://www.imdb.com/title/tt43748071/?ref_=ttep_ep_4"
         },
         {
           "season": 1,
           "number": 5,
-          "name": "Episode #1.5",
+          "name": "Garage Sale Murder",
           "airdate": "2026-08-31",
-          "summary": null,
+          "summary": "Liz Barraza, 29, is fatally shot by a disguised assailant while setting up a garage sale at dawn. Her doorbell camera captures the attack, leading investigators to pursue multiple suspects in the search for her killer.",
           "url": "https://www.imdb.com/title/tt43748073/?ref_=ttep_ep_5"
         },
         {
           "season": 1,
           "number": 7,
-          "name": "Episode #1.6",
+          "name": "Lost at the Science Fair",
           "airdate": "2026-09-07",
-          "summary": null,
+          "summary": "A second-grader disappears from his Portland school in a case that captivates the city. Months later, investigators uncover a shocking murder-for-hire plot that leads them to unexpected suspects in this infamous mystery.",
           "url": "https://www.imdb.com/title/tt43748075/?ref_=ttep_ep_6"
         },
         {
@@ -36867,6 +36867,30 @@
       "episodes": [
         {
           "season": 12,
+          "number": 4,
+          "name": "Who's Ruining Your Ruin?",
+          "airdate": "2026-10-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45653998/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 12,
+          "number": 5,
+          "name": "Doll Trouble",
+          "airdate": "2026-10-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45654118/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 12,
+          "number": 6,
+          "name": "Masters of the Macabre",
+          "airdate": "2026-10-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45654244/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 12,
           "number": 14,
           "name": "The Museum of Unnatural History",
           "airdate": "2026-09-14",
@@ -36880,6 +36904,14 @@
           "airdate": "2026-09-21",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44847087/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 12,
+          "number": 28,
+          "name": "Halloween Haunts",
+          "airdate": "2026-09-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45653881/?ref_=ttep_ep_3"
         },
         {
           "season": 11,
@@ -37455,7 +37487,7 @@
         {
           "season": 2,
           "number": 22,
-          "name": "Episode #2.2",
+          "name": "Manos: Hands of Fate",
           "airdate": "2026-09-22",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45537340/?ref_=ttep_ep_2"
@@ -38155,6 +38187,723 @@
           "airdate": "2026-04-14",
           "summary": "The final four artists perform contemporary and classic songs competing for \"The Voice\" title. Superfans and former contestants vote from the audience as Carson Daly announces the Season 29 winner.",
           "url": "https://www.imdb.com/title/tt40164390/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt1408430": {
+      "imdbId": "tt1408430",
+      "title": "30 for 30",
+      "episodes": [
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Chuck & Tito",
+          "airdate": "2019-10-15",
+          "summary": "A look at the career, friendship and rivalry of legendary MMA fighters Chuck Liddell and Tito Ortiz.",
+          "url": "https://www.imdb.com/title/tt11101196/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Vick Part 1",
+          "airdate": "2020-01-30",
+          "summary": "A comprehensive look back at each chapter of Michael Vick's saga: the incredible rise, shocking fall, and polarizing return.",
+          "url": "https://www.imdb.com/title/tt11203144/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Vick Part 2",
+          "airdate": "2020-01-30",
+          "summary": "A comprehensive look back at each chapter of Michael Vick's saga: the incredible rise, shocking fall, and polarizing return.",
+          "url": "https://www.imdb.com/title/tt11743366/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "Lance Part 1",
+          "airdate": "2020-05-24",
+          "summary": "From idol to villain. From success to hatred. First part of a documental that will lead you from birth to success of the most famous cyclist or our time.",
+          "url": "https://www.imdb.com/title/tt12338076/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "Lance Part 2",
+          "airdate": "2020-05-24",
+          "summary": "Lance Armstrong's rise was among the most dramatic, inspirational, and popular stories in sports history. Then, his fall was remarkably absolute. Years later, his story remains as compelling as ever, and as for the man himself -- he's not done talking.",
+          "url": "https://www.imdb.com/title/tt12338078/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Be Water",
+          "airdate": "2020-06-07",
+          "summary": "In 1971, after being rejected by Hollywood, Bruce Lee returned to his parents' homeland, Hong Kong. Over the next two years, he'd complete four iconic films that would define his legacy, a legacy cut short when he died, stunningly, in the summer of 1973. He was 32 years old. Directed by Bao Nguyen, \"Be Water\" is a gripping, fascinating, intimate look at not just those final, defining years of Lee's life, but the complex, often difficult, and seismic journey that led to Lee's ultimate emergence as a singular icon in the histories of film, martial arts, and even the connection between the eastern and western worlds. The film chronicles Lee's earliest days, as the son of a Chinese opera star born while his father was on tour in San Francisco, and then raised in Hong Kong over what became an at times troubled childhood. Sent to live in America at the age of 18, he began teaching Kung Fu in Seattle, and established a following that included his future wife, Linda. His ambition ever rising, Lee eventually made his way to Los Angeles, where he strove to break into American film and television. There, despite some success as a fight choreographer and actor, it was clear Hollywood wasn't ready for an Asian leading man - and so he returned to Hong Kong to make the films that would in fact make him a legend, his international star skyrocketing just as his life was cut short. \"Be Water\" is told by the family, friends, and collaborators who knew Bruce Lee best, with an extraordinary trove of archive film providing an evocative, immersive visual tapestry that captures Lee's charisma, his passion, his philosophy, and the eternal beauty and wonder of his art.",
+          "url": "https://www.imdb.com/title/tt12510860/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "Long Gone Summer",
+          "airdate": "2020-06-14",
+          "summary": "30 for 30 examines the home run record chase between Mark McGwire and Sammy Sosa, its societal impact and how it ultimately changed the game of baseball.",
+          "url": "https://www.imdb.com/title/tt12510864/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 4,
+          "number": 10,
+          "name": "Rodman: For Better or Worse",
+          "airdate": "2019-09-10",
+          "summary": "The unfettered and definitive look at the life and career of Dennis Rodman.",
+          "url": "https://www.imdb.com/title/tt11162456/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 13,
+          "name": "Infinite Race",
+          "airdate": null,
+          "summary": "The \"infinite race\" explores the story of Tarahumara, an indigenous community in Mexico, famed for their legendary running ability and their preference for running barefoot, who inspired an ultrarunning craze across the world, and what's happened as their homes and communities were ravaged by drug cartels and violence.",
+          "url": "https://www.imdb.com/title/tt12251948/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 4,
+          "number": 14,
+          "name": "Al Davis vs. The NFL",
+          "airdate": "2021-02-04",
+          "summary": "Al Davis vs the NFL presents an intimate look inside one of the great rivalries in the history of the National Football League - Raiders legend Al Davis and former NFL commissioner Pete Rozelle. Their battle grew so intense that players, owners, franchises - even the League itself - became characters in a three-decade long Shakespearean feud that changed football forever. As the Raiders play their inaugural season in Las Vegas with a brand-new stadium, something Al Davis often dreamed of building himself, it's time to examine the adversarial relationship between the two visionaries most responsible for building the league to its current greatness and who, in the course of trying to destroy each other, created the NFL landscape that thrives today.",
+          "url": "https://www.imdb.com/title/tt13972348/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 4,
+          "number": 15,
+          "name": "Breakaway",
+          "airdate": "2021-07-13",
+          "summary": "Maya Moore was one of the best women's basketball players in the world when she stepped away from the sport for a remarkable reason: to fight for a man she believed was wrongly imprisoned. Breakaway chronicles a search for justice, and a relationship that changed the lives of two people forever.",
+          "url": "https://www.imdb.com/title/tt15065192/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 4,
+          "number": 20,
+          "name": "The Tuck Rule",
+          "airdate": "2022-02-06",
+          "summary": "Documentary examining the snowy 'Tuck Rule' game between the New England Patriots and Oakland Raiders in the NFL Playoffs, and a decision that altered the course of NFL history.",
+          "url": "https://www.imdb.com/title/tt17156658/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 4,
+          "number": 21,
+          "name": "Shark",
+          "airdate": "2022-04-19",
+          "summary": "The story of legendary golfer, Greg \"The Shark\" Norman, and how his career was shaped by one stunning day at The Masters Tournament in 1996.",
+          "url": "https://www.imdb.com/title/tt18309190/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 4,
+          "number": 22,
+          "name": "The Greatest Mixtape Ever",
+          "airdate": "2022-05-31",
+          "summary": "In the late 1990s, DJ Set Free, had the idea to set some streetball highlights to a soundtrack of emerging rap music. The results culminated in the And1 Mixtape, a series of VHS tapes that forever transformed the game of basketball.",
+          "url": "https://www.imdb.com/title/tt19887024/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 4,
+          "number": 23,
+          "name": "Dream On",
+          "airdate": "2022-06-15",
+          "summary": "The story of the indomitable 1996 USA Women's Olympic basketball team, their grueling journey to success, and their influence in forming the WNBA.",
+          "url": "https://www.imdb.com/title/tt20869430/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 4,
+          "number": 24,
+          "name": "Dream On, Part 2",
+          "airdate": "2022-06-15",
+          "summary": "The U.S. Women's Olympic basketball team goes on a 52-game barnstorming tour across four continents, to train for the 1996 Games and also promote the popularity of women's basketball ahead of the launch of the WNBA after the Olympics.",
+          "url": "https://www.imdb.com/title/tt27932543/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 4,
+          "number": 25,
+          "name": "Dream On, Part 3",
+          "airdate": "2022-06-15",
+          "summary": "The U.S. women's Olympic basketball team chases gold at the 1996 Atlanta Games, dominating the competition, winning the tournament, and spearheading the successful launch of the WNBA a year later.",
+          "url": "https://www.imdb.com/title/tt27932549/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 4,
+          "number": 26,
+          "name": "Jeanette Lee Vs.",
+          "airdate": "2022-12-13",
+          "summary": "Jeanette Lee was like nothing else billiards had ever seen - and when she took the game by storm, she became, improbably, one of the most recognizable figures in all of sports.",
+          "url": "https://www.imdb.com/title/tt23557072/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 4,
+          "number": 27,
+          "name": "The Life and Trials of Oscar Pistorius: Part 1",
+          "airdate": "2020-09-27",
+          "summary": "This is a frank recollection concerning the life of Oscar Pistorius. Culminating in the murder trial of his then girlfriend Reeva Steenkamp. The story is told with the help of interviews from journalists, friends, family members and colleagues of Pistorius. Also friends and family members of Reeva Steenkamp. The story is told twofold. Primarily concerning events of the trial. Juxtaposed with flashbacks of Pistorius' childhood and career as an athlete.",
+          "url": "https://www.imdb.com/title/tt13228082/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 4,
+          "number": 28,
+          "name": "The American Gladiators Documentary",
+          "airdate": "2023-05-30",
+          "summary": "A two-part look at the David vs Goliath game show that captivated audiences from 1989 to 1996. American Gladiators was one of the most popular syndicated programs on TV, as one of the first competition shows to pre-date the reality TV era.",
+          "url": "https://www.imdb.com/title/tt14536272/?ref_=ttep_ep_28"
+        },
+        {
+          "season": 4,
+          "number": 29,
+          "name": "The American Gladiators Documentary: Part Two",
+          "airdate": "2023-05-30",
+          "summary": "A documentary covering one of the biggest cultural phenomenon in the 1990s of course couldn't be fit into just one part",
+          "url": "https://www.imdb.com/title/tt27597686/?ref_=ttep_ep_29"
+        },
+        {
+          "season": 4,
+          "number": 30,
+          "name": "The Luckiest Guy in the World",
+          "airdate": "2023-06-06",
+          "summary": "A four-part look into the life and times of the legendary and mercurial basketball player, Bill Walton.",
+          "url": "https://www.imdb.com/title/tt27658304/?ref_=ttep_ep_30"
+        },
+        {
+          "season": 4,
+          "number": 31,
+          "name": "The Luckiest Guy in the World: Part 2",
+          "airdate": "2023-06-06",
+          "summary": "Iconic basketball player, Bill Walton, is profiled, covering his stellar college career at UCLA, his injury plagued professional career, political and social activism, and outsized personality.",
+          "url": "https://www.imdb.com/title/tt21451160/?ref_=ttep_ep_31"
+        },
+        {
+          "season": 4,
+          "number": 32,
+          "name": "The Luckiest Guy in the World: Part 3",
+          "airdate": "2023-06-06",
+          "summary": "Bill Walton's life from his days as a high school phenom to his job as a controversial commentator.",
+          "url": "https://www.imdb.com/title/tt27932557/?ref_=ttep_ep_32"
+        },
+        {
+          "season": 4,
+          "number": 33,
+          "name": "The Luckiest Guy in the World: Part 4",
+          "airdate": "2023-06-06",
+          "summary": "Bill Walton's life from his days as a high school phenom to his job as a controversial commentator.",
+          "url": "https://www.imdb.com/title/tt27932558/?ref_=ttep_ep_33"
+        },
+        {
+          "season": 4,
+          "number": 34,
+          "name": "The Great Heisman Race of 1997",
+          "airdate": "2023-12-09",
+          "summary": "The story of the 1997 Heisman Trophy race and the now-legendary players who vied for the honor of College Football's best player award that season.",
+          "url": "https://www.imdb.com/title/tt30127989/?ref_=ttep_ep_34"
+        },
+        {
+          "season": 4,
+          "number": 35,
+          "name": "The Minister of Defense",
+          "airdate": "2023-12-13",
+          "summary": "A portrait of legendary NFL defensive lineman, Reggie White, who constantly strived to 'do right' but found that sometimes there is no easy answer as to what 'right' means.",
+          "url": "https://www.imdb.com/title/tt27665532/?ref_=ttep_ep_35"
+        },
+        {
+          "season": 4,
+          "number": 36,
+          "name": "The New York Sack Exchange",
+          "airdate": "2024-12-13",
+          "summary": "The film explores the rise and impact of the Sack Exchange, focusing on the quartet of Marty Lyons, Abdul Salaam, Joe Klecko, and Mark Gastineau",
+          "url": "https://www.imdb.com/title/tt35204501/?ref_=ttep_ep_36"
+        },
+        {
+          "season": 3,
+          "number": 1,
+          "name": "Trojan War",
+          "airdate": "2015-10-13",
+          "summary": "The rise and fall of USC Trojans football during Pete Carroll's coaching tenure.",
+          "url": "https://www.imdb.com/title/tt5056124/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "name": "The Prince of Pennsylvania",
+          "airdate": "2015-10-20",
+          "summary": "This documentary explores the story of the Olympic wrestling champions and brothers Mark Schultz and Dave Schultz and their turbulent relationship to the eccentric multi-millionaire John du Pont.",
+          "url": "https://www.imdb.com/title/tt5059496/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "The Gospel According to Mac",
+          "airdate": "2015-11-03",
+          "summary": "Examines Bill McCartney and his sometimes-controversial mixture of football and evangelicalism as Colorado Buffaloes head coach in the 1990s, including a national championship.",
+          "url": "https://www.imdb.com/title/tt5059498/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "Chasing Tyson",
+          "airdate": "2015-11-10",
+          "summary": "Explores the years that Evander Holyfield spent trying to arrange his first fight with Mike Tyson.",
+          "url": "https://www.imdb.com/title/tt5059510/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "name": "The Four Falls of Buffalo",
+          "airdate": "2015-12-12",
+          "summary": "A behind-the-scenes look at the Buffalo Bills' four trips to the Super Bowl during the early 1990's.",
+          "url": "https://www.imdb.com/title/tt5302330/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "name": "The '85 Bears",
+          "airdate": "2016-02-04",
+          "summary": "One of the greatest football teams ever assembled, the 1985 Chicago Bears were a team of big talent, big egos, and big success. This documentary explores that success and the players behind it, as well as the questions surrounding the lack of a repeat performance.",
+          "url": "https://www.imdb.com/title/tt5440590/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "name": "Fantastic Lies",
+          "airdate": "2016-03-13",
+          "summary": "A documentary examination of the accusations of sexual misconduct against the Duke University lacrosse team that were ultimately found to be baseless",
+          "url": "https://www.imdb.com/title/tt5432446/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "name": "This Magic Moment",
+          "airdate": "2016-04-14",
+          "summary": "In the mid-1990s, Orlando was the center of excitement in the NBA. The young franchise, led by mega-stars Shaquille O'Neal and Penny Hardaway, beat the mighty Bulls en route to the 1995 NBA Finals. While it was clear Orlando was a dynasty in the making, the Magic's moment on top was never fully realized.",
+          "url": "https://www.imdb.com/title/tt5598194/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "name": "Believeland",
+          "airdate": "2016-05-15",
+          "summary": "There's a special place on the southern shore of Lake Erie, at the mouth of the Cuyahoga River. Known as Cleveland, it is the site of the Rock and Roll Hall of Fame and the home of the Indians, the Browns and the Cavaliers. But it's also the home of an agonizing losing streak. Of all American cities that have at least three major sports franchises, Cleveland is the only one that has failed to win a championship in the last half-century. Those sports teams, and the hearts they've broken over and over again, have inspired a different name for the city, and the title for this 30 for 30 film: Believeland. Directed by Ohio native Andy Billman, this evocative documentary will take you on a trip that goes back 50 years and captures the seminal ups and downs of the once-thriving metropolis - Superman, after all, was created there. Despite the economic and athletic misfortunes, and the T-shirt that reads \"God Hates Cleveland,\" the people still believe and worship Jim Thome and Jim Brown and LeBron James. But they also can't forget Edgar Renteria and John Elway and Michael Jordan, the men who extinguished their dreams of a long-awaited championship. Painful as it is, Believeland is a celebration of faith, a testament to how much sports mean to Cleveland, and how much Cleveland means to sports.",
+          "url": "https://www.imdb.com/title/tt5737126/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "name": "Doc & Darryl",
+          "airdate": "2016-07-14",
+          "summary": "When former New York Mets superstars Dwight \"Doc\" Gooden and Darryl Strawberry were good, they were great. They were the biggest stars on a team that captured the imagination of New York City and won the 1986 World Series. But when life spiraled out of control for both men, they broke the hearts of Mets fans. The pitcher and the power hitter look back on the glory days of the mid-80s and the harrowing nights that turned them from sure Hall of Famers into prisoners of their own addictions.",
+          "url": "https://www.imdb.com/title/tt5843628/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 3,
+          "number": 11,
+          "name": "Phi Slama Jama",
+          "airdate": "2016-10-18",
+          "summary": "They were the most popular fraternity on the campus of college basketball in the early 1980s. Led by a Nigerian soccer player named Hakeem Olajuwon and a lightly recruited hometown kid named Clyde Drexler, the University of Houston Cougars not only electrified the NCAA Final Four with three straight appearances (1982-84), but they also helped transform the game itself. In this 30 for 30 film, director Chip Rives brings back the high-flying circus act under ringmaster Guy V. Lewis and spins a tale of true greatness and crushing heartbreak. But while exploring that larger narrative, Rives also focuses on the disappearance of enigmatic role player Benny Anders and the lasting brotherhood that compels teammates and 1981-82 co-captains Eric Davis and Lynden Rose to try and find him after more than two decades of mystery.",
+          "url": "https://www.imdb.com/title/tt6162198/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 3,
+          "number": 12,
+          "name": "Hit It Hard",
+          "airdate": "2016-11-01",
+          "summary": "The popular but polarizing former golfer John Daly is the subject of the latest in ESPN's 30 for 30 series.The documentary covers his career and subsequent struggles.",
+          "url": "https://www.imdb.com/title/tt6162210/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 3,
+          "number": 13,
+          "name": "Catholics Vs. Convicts",
+          "airdate": "2016-12-10",
+          "summary": "On October 15, 1988, Notre Dame hosted the University of Miami in what would become one of the greatest games in college football history. It was tradition vs. swagger, the No. 4-ranked Fighting Irish versus the No. 1-ranked Hurricanes, one coaching star, Lou Holtz, versus another, Jimmy Johnson. But the name still attached to the contest came from a t-shirt manufactured by a few Notre Dame students: \"Catholics vs. Convicts.\" In this 30 for 30 documentary, director and narrator Patrick Creadon (Wordplay, I.O.U.S.A.) doesn't just look back on the epic game. He explores the deeper narrative as a Notre Dame senior at the time, a close friend to the young men in the middle of the \"Catholics vs. Convicts\" controversy (Joe Fredrick and Pat Walsh) and a fellow classmate of the player behind center for the Fighting Irish (quarterback Tony Rice). The coaches and players open up about the fight that started the game, the highly debatable calls that are still being talked about and the insensitive aspects of the irresistibly popular t-shirt. As compelling as the tale of Notre Dame's dramatic victory is-even losing quarterback Steve Walsh calls it \"a helluva ballgame\"-the backstory is just as riveting.",
+          "url": "https://www.imdb.com/title/tt6162216/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 3,
+          "number": 14,
+          "name": "This Was the XFL",
+          "airdate": "2017-02-02",
+          "summary": "A bold challenge, a fearless experiment and ultimately, a spectacular failure. In 2001, sports entertainment titans Ebersol and McMahon launched the XFL. It was hardly the first time a league had tried to compete with the NFL, but the brash audacity of the bid, combined with the personalities and charisma of Ebersol and McMahon and the marketing behemoths of their respective companies - NBC and WWE - captured headlines and a sense of undeniable anticipation about what was to come. Bringing together a cast of characters ranging from the boardrooms of General Electric to the practice fields of Las Vegas, \"This Was the XFL\" is the tale of - yes - all that went wrong, but also, how the XFL ended up influencing the way professional team sports are broadcast today. And at the center of it all - a decades long friendship between one of the most significant television executives in media history and the one-of-a-kind WWE impresario. This film will explore how Ebersol and McMahon brought the XFL to life, and why they had to let it go.",
+          "url": "https://www.imdb.com/title/tt6327686/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 3,
+          "number": 15,
+          "name": "One and Not Done",
+          "airdate": "2017-04-13",
+          "summary": "The life and career of John Calipari, one of the most polarizing figures in modern college basketball, weaving his story around that of his 2015-16 Kentucky team.",
+          "url": "https://www.imdb.com/title/tt6523432/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 3,
+          "number": 16,
+          "name": "Celtics/Lakers: Best of Enemies",
+          "airdate": "2017-06-13",
+          "summary": "This entry in ESPN's 30 for 30 series looks at the origins of the rivalry between the Boston Celtics and Los Angeles Lakers in the 1980s that revived - and saved - the NBA.",
+          "url": "https://www.imdb.com/title/tt7009262/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 3,
+          "number": 17,
+          "name": "Celtics/Lakers: Best of Enemies, Part 2",
+          "airdate": "2017-06-13",
+          "summary": "The 1984 NBA Finals between the Boston Celtics and Los Angeles Lakers cause a nation to take sides.",
+          "url": "https://www.imdb.com/title/tt7009266/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 3,
+          "number": 18,
+          "name": "Celtics/Lakers: Best of Enemies, Part 3",
+          "airdate": "2017-06-13",
+          "summary": "The rivalry between the Boston Celtics and Los Angeles Lakers continues, after the 1984 NBA Finals and the likes of Larry Bird and Magic Johnson retired.",
+          "url": "https://www.imdb.com/title/tt7069756/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 3,
+          "number": 19,
+          "name": "Mike and the Mad Dog",
+          "airdate": "2017-07-13",
+          "summary": "Mike Francesa and Chris Russo's 'Mike and the Mad Dog' radio show ruled afternoon sports talk from the New York studios of WFAN 660 for 19 years-not bad considering they didn't think they'd last 19 days together. Even though they both brought Long Island accents and encyclopedic sports knowledge to the microphone, they were distinctly different personalities who often clashed on and off the air. But when all was said and done, they changed sports radio forever.",
+          "url": "https://www.imdb.com/title/tt6693118/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 3,
+          "number": 20,
+          "name": "George Best: All by Himself",
+          "airdate": "2017-07-20",
+          "summary": "The rise and fall of football superstar, George Best.",
+          "url": "https://www.imdb.com/title/tt6545160/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 3,
+          "number": 21,
+          "name": "What Carter Lost",
+          "airdate": "2017-08-24",
+          "summary": "In the fall of 1988 a Texas high school fielded the football team that many consider the greatest ever, yet chances are good you have never heard their story. What Carter Lost is not about the team immortalized in Friday Night Lights - it's about the team that beat them. It's about the year Dallas Carter dominated Texas high school football, never losing a game, but walked away with little more than an asterisk in the state's history books. It's about the legal battles that accompanied every Carter playoff game, the string of inexplicable crimes that forever altered six players' futures, and the community that rallied to support its team, only to find itself tarred with scandal. In the tradition of the best 30 for 30 documentary features, What Carter Lost is a story about the intersection of forces bigger than any game - except for football in Texas.",
+          "url": "https://www.imdb.com/title/tt6394186/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 3,
+          "number": 24,
+          "name": "Nature Boy",
+          "airdate": "2017-11-07",
+          "summary": "Documentary following the life & career of 16 time world champion Ric \"The Nature Boy\" Flair.",
+          "url": "https://www.imdb.com/title/tt7258980/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 3,
+          "number": 25,
+          "name": "The Two Bills",
+          "airdate": "2018-02-01",
+          "summary": "A look at the tumultuous relationship between coaching legends Bill Parcells and Bill Belichick.",
+          "url": "https://www.imdb.com/title/tt7937064/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 3,
+          "number": 26,
+          "name": "The Last Days of Knight",
+          "airdate": "2018-04-12",
+          "summary": "The previously untold, behind-the-scenes story of CNN Producer Robert Abbott's investigation into Bob Knight's Indiana University basketball program. The investigation ultimately led to Bob Knight's firing after 29 years at IU.",
+          "url": "https://www.imdb.com/title/tt8276700/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 3,
+          "number": 28,
+          "name": "42 to 1",
+          "airdate": "2018-12-11",
+          "summary": "This documentary chronicles one of the greatest sporting upsets in history, when James \"Buster\" Douglas handed Mike Tyson his first-ever defeat. Tyson was the 42-to-1 favorite, with most fans and pundits absolutely sure that he was invincible. But Douglas, motivated by personal tragedy, fought the fight of his life.",
+          "url": "https://www.imdb.com/title/tt9528096/?ref_=ttep_ep_28"
+        },
+        {
+          "season": 3,
+          "number": 29,
+          "name": "Deion's Double Play",
+          "airdate": "2019-01-31",
+          "summary": "The story of how Deion Sanders played an NFL game for the Atlanta Falcons in between two MLB games for the Atlanta Braves in a twenty-four hour window.",
+          "url": "https://www.imdb.com/title/tt9689138/?ref_=ttep_ep_29"
+        },
+        {
+          "season": 3,
+          "number": 30,
+          "name": "The Dominican Dream",
+          "airdate": "2019-04-30",
+          "summary": "A portrait of the Dominican immigrants of New York in the '80s and '90s, as seen through a loving family whose youngest son, Felipe Lopez, became the top ranked high school basketball player in the nation and was hailed as 'The Dominican Michael Jordan'. Lopez's prospects seemed limitless. Embraced as an immigrant hero, then cast aside as an American failure when he did not live up to the enormous expectations, Felipe Lopez would eventually find happiness not as a basketball player, but as the man he was always meant to be.",
+          "url": "https://www.imdb.com/title/tt10162280/?ref_=ttep_ep_30"
+        },
+        {
+          "season": 3,
+          "number": 31,
+          "name": "Qualified",
+          "airdate": "2019-05-28",
+          "summary": "In May 1977 Janet Guthrie becomes the first woman to attempt the Indianapolis 500.",
+          "url": "https://www.imdb.com/title/tt9617584/?ref_=ttep_ep_31"
+        },
+        {
+          "season": 3,
+          "number": 32,
+          "name": "The Good, The Bad, The Hungry",
+          "airdate": "2019-07-02",
+          "summary": "The eye and mouth-opening tale of Takeru Kobayashi, the native of Nagano, Japan, who won the Nathan's Hot Dog Eating Contest six consecutive times, and Joey Chestnut, the American who emerged to dethrone the Japanese legend in 2007 and become the face of the sport. It's a story that's at turns outrageous and poignant, exploring the origins of the careers of Kobayashi and Chestnut, every bite of their head-to-head battles, as well as the no-holds-barred promotional efforts of Major League Eating, the organization that oversees the contest. It may well be a sport like no other - but as the film reveals, the competition was as real as anything you'll ever see on a field of play.",
+          "url": "https://www.imdb.com/title/tt10267622/?ref_=ttep_ep_32"
+        }
+      ]
+    },
+    "tt9280400": {
+      "imdbId": "tt9280400",
+      "title": "A Killer Story",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Welcome to Topeka",
+          "airdate": "2026-09-10",
+          "summary": "When a double murder conviction is overturned with the help of two citizen sleuths, investigative journalist Joe Sexton digs into the case.",
+          "url": "https://www.imdb.com/title/tt44878462/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 17,
+          "name": "Person of Interest",
+          "airdate": "2026-09-17",
+          "summary": "During the retrial, the Umbehrs continue to defend Chandler's innocence by pointing to a person of interest who they believe to be the true killer. Meanwhile, the prosecution continues to argue a motive existed.",
+          "url": "https://www.imdb.com/title/tt44878463/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 24,
+          "name": "A Dangerous Notion",
+          "airdate": "2026-09-24",
+          "summary": "The retrial ends in a hung jury, leading the state to try Dana for a third time. In an unexpected move, Dana dismisses her legal team and chooses to represent herself.",
+          "url": "https://www.imdb.com/title/tt44878465/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt18332852": {
+      "imdbId": "tt18332852",
+      "title": "Outlander: Blood of My Blood",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Episode #2.2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39602044/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Episode #2.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39602055/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Episode #2.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39602072/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Episode #2.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39602086/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Episode #2.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39602105/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Episode #2.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39602115/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Episode #2.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39602123/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Episode #2.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39745527/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Episode #2.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39745529/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "name": "Episode #2.1",
+          "airdate": "2026-09-18",
+          "summary": "In 1715 Scotland, war divides the Highlands as clans choose sides in the Jacobite Rising. Lovers are torn apart, families clash over loyalty, and time travelers desperately seek reunion while battling scheming lords and their own demons.",
+          "url": "https://www.imdb.com/title/tt37428570/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Providence",
+          "airdate": "2025-08-08",
+          "summary": "After the death of Red Jacob, a new Laird of Clan MacKenzie must be chosen, and both of his sons -- Colum and Dougal -- vie for the title. At the Gathering, Brian Fraser and Ellen MacKenzie meet and are struck by their strong connection.",
+          "url": "https://www.imdb.com/title/tt31939100/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "S.W.A.K. (Sealed with a Kiss)",
+          "airdate": "2025-08-08",
+          "summary": "While Henry fights in World War I and Julia works in the censorship office in London, their love story unfolds through the letters they write to each other.",
+          "url": "https://www.imdb.com/title/tt31939105/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "School of the Moon",
+          "airdate": "2025-08-15",
+          "summary": "Ellen hatches a new plan to protect herself and her family. Julia is forced to make an impossible choice.",
+          "url": "https://www.imdb.com/title/tt31939107/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "A Soldier's Heart",
+          "airdate": "2025-08-22",
+          "summary": "Henry approaches a difficult task using his unique methods. Ellen discovers troubling facts about her future in-laws.",
+          "url": "https://www.imdb.com/title/tt31939110/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Needfire",
+          "airdate": "2025-08-29",
+          "summary": "Ellen and Brian go to Beltane, a summer festival where sins burn in the needfire. Henry clings to hope while Julia's allies turn away as secrets emerge.",
+          "url": "https://www.imdb.com/title/tt31939112/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Something Borrowed",
+          "airdate": "2025-10-10",
+          "summary": "Ellen prepares for her wedding day, while Julia attempts her escape.",
+          "url": "https://www.imdb.com/title/tt31998907/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "Luceo Non Uro",
+          "airdate": "2025-09-12",
+          "summary": "Lord Lovat goes to extreme lengths to fulfill a prophecy. Dougal attends a clandestine meeting that could spell political disaster for the MacKenzies.",
+          "url": "https://www.imdb.com/title/tt31998909/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 19,
+          "name": "A Virtuous Woman",
+          "airdate": "2025-09-19",
+          "summary": "At the request of the Grants, Ellen undergoes a test to prove her worthiness to marry into the clan.",
+          "url": "https://www.imdb.com/title/tt31998906/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 26,
+          "name": "Braemar",
+          "airdate": "2025-09-26",
+          "summary": "Highland clans gather at Braemar Castle for Earl of Mar's yearly hunt, where he delivers a provocative declaration.",
+          "url": "https://www.imdb.com/title/tt31998905/?ref_=ttep_ep_9"
+        }
+      ]
+    },
+    "tt12802744": {
+      "imdbId": "tt12802744",
+      "title": "The Greatest @Home Videos",
+      "episodes": []
+    },
+    "tt33305795": {
+      "imdbId": "tt33305795",
+      "title": "Scariest House in America",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 18,
+          "name": "Episode #3.1",
+          "airdate": "2026-09-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44076283/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Apparitions of Appalachia",
+          "airdate": "2025-10-03",
+          "summary": "It's between a former funeral parlor with a deadly past, a haunted family house on top of a graveyard and a witchy home with a snake pro.",
+          "url": "https://www.imdb.com/title/tt36589384/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Monsters of the Midwest",
+          "airdate": "2025-10-10",
+          "summary": "Three homes in the Midwest contend for the chance at a $150,000 makeover by Alison Victoria!. It's between an abandoned warehouse with a puzzling surprise, a haunted Victorian funeral parlor, and a home with deadly decor.",
+          "url": "https://www.imdb.com/title/tt36589389/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "The Ghoulish Great Lakes",
+          "airdate": "2025-10-17",
+          "summary": "Three homes in the Ghoulish Great Lakes battle for the chance at a $150,000 makeover. It's between a haunted home with a paranormal portal, a disturbing one-room schoolhouse, and a former funeral parlor with chilling surprises.",
+          "url": "https://www.imdb.com/title/tt36589385/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "From Scary to Stunning",
+          "airdate": "2025-10-24",
+          "summary": "Retta announces the Scariest House winner, who gets a $150,000 home makeover by HGTV's Alison Victoria, turning their frightening property into their dream home.",
+          "url": "https://www.imdb.com/title/tt36589386/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "name": "The Eerie East",
+          "airdate": "2025-09-19",
+          "summary": "Spooky East Coast properties featured: an old Maryland estate with ghosts, a haunted Connecticut house with an eerie attic, and a Georgia jail from the 1800s with mysterious phenomena.",
+          "url": "https://www.imdb.com/title/tt36589388/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 26,
+          "name": "The Haunted Heartland",
+          "airdate": "2025-09-26",
+          "summary": "Three homes in the Haunted Heartland duke it out for the chance at a makeover. It's between a former mystery dinner theater with a ghostly past, a deadly off-the-grid compound, and a haunted home that smells like trouble.",
+          "url": "https://www.imdb.com/title/tt36589387/?ref_=ttep_ep_2"
         }
       ]
     }
