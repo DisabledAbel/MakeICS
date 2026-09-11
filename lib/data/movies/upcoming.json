@@ -3267,7 +3267,7 @@
     {
       "id": "tt32827454",
       "title": "Tiny Fugitives",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTA1Y2U5MTktZjg4MC00YmI2LTg3YmQtNDQ3ODQyNTc0ZjI5XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmY3NzRmYjQtYTMzYi00Mzc3LWI2YjMtMzJiZWRlMzM3MDFlXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Comedy"
@@ -3494,6 +3494,36 @@
         {
           "id": "nm2422965",
           "name": "Sean O'Brien"
+        }
+      ],
+      "label": "Sep 24, 2026"
+    },
+    {
+      "id": "tt31969655",
+      "title": "The Paradise",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWVlYjQ1NzktY2VmZC00NzhlLTg1NTItZTRhNDNmYzQyNWQxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 24 Sep 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm3761004",
+          "name": "Nani"
+        },
+        {
+          "id": "nm0006764",
+          "name": "Sonali Kulkarni"
+        },
+        {
+          "id": "nm0595934",
+          "name": "Mohan Babu"
+        },
+        {
+          "id": "nm11469931",
+          "name": "Kayadu Lohar"
         }
       ],
       "label": "Sep 24, 2026"
@@ -3964,7 +3994,7 @@
     {
       "id": "tt32261958",
       "title": "Verity",
-      "image": "https://m.media-amazon.com/images/M/MV5BMzUyODgxN2YtNWQ2MC00ZTQxLWJkYjMtYzYwM2RmOTcxNzFhXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmE0OWRiNzktY2MwMy00YzQ5LWFkMzctNjI1ZWQ1NTRiZGM3XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
       "genres": [
         "Crime",
@@ -4080,6 +4110,34 @@
       "label": "Oct 02, 2026"
     },
     {
+      "id": "tt39150288",
+      "title": "The Last First: Winter K2",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGY5MzE4NDgtNzg1YS00YjBlLTg1ZDYtZGY0NWE0OGQxMmU2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary"
+      ],
+      "people": [
+        {
+          "id": "nm11098641",
+          "name": "Nirmal Purja"
+        },
+        {
+          "id": "nm14464906",
+          "name": "Muhammad Ali Sadpara"
+        },
+        {
+          "id": "nm18191345",
+          "name": "Sajid Sadpara"
+        },
+        {
+          "id": "nm18191344",
+          "name": "John Snorri Sigurjónsson"
+        }
+      ],
+      "label": "Oct 02, 2026"
+    },
+    {
       "id": "tt42693626",
       "title": "Adore Him",
       "image": "https://m.media-amazon.com/images/M/MV5BMDMxNWE3MWQtYTc1Ni00ODJlLTk0NWQtY2MxY2ZiZjg0ZGI0XkEyXkFqcGc@._V1_.jpg",
@@ -4161,8 +4219,8 @@
           "name": "Tramell Tillman"
         },
         {
-          "id": "nm2274707",
-          "name": "Tiffany Boone"
+          "id": "nm0158626",
+          "name": "John Cho"
         }
       ],
       "label": "Oct 09, 2026"
@@ -4692,6 +4750,21 @@
       "label": "Oct 16, 2026"
     },
     {
+      "id": "tt38633147",
+      "title": "The Trial of Alec Baldwin",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary"
+      ],
+      "people": [
+        {
+          "id": "nm0000285",
+          "name": "Alec Baldwin"
+        }
+      ],
+      "label": "Oct 16, 2026"
+    },
+    {
       "id": "tt14371256",
       "title": "Klara and the Sun",
       "image": "https://m.media-amazon.com/images/M/MV5BNjQ1YzgwMTMtZDRhNC00MDE0LWFmODctM2ZlNjg5MmNiMDI1XkEyXkFqcGc@._V1_.jpg",
@@ -5092,6 +5165,10 @@
         {
           "id": "nm18280632",
           "name": "Carl MJ Anderson"
+        },
+        {
+          "id": "nm2639110",
+          "name": "Joe Dignoti"
         },
         {
           "id": "nm12009259",
@@ -5564,6 +5641,36 @@
         {
           "id": "nm0809793",
           "name": "Roger Guenveur Smith"
+        }
+      ],
+      "label": "Nov 13, 2026"
+    },
+    {
+      "id": "tt15095848",
+      "title": "Being Heumann",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDk0YjMxYjUtNTE4YS00NjEyLThjYTItMWVhY2NjZjk1NmJmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "people": [
+        {
+          "id": "nm0498757",
+          "name": "Lindsay Leese"
+        },
+        {
+          "id": "nm0749263",
+          "name": "Mark Ruffalo"
+        },
+        {
+          "id": "nm3008739",
+          "name": "Rob Delaney"
+        },
+        {
+          "id": "nm3729721",
+          "name": "Dylan O'Brien"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6529,7 +6636,7 @@
     {
       "id": "tt8613988",
       "title": "The Liberation",
-      "image": "https://m.media-amazon.com/images/M/MV5BZjU5NDhjMGUtYTE5NS00ODZlLWJhNTktNjFhZDEyNjZhYzRiXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWRmNjNlYjMtYmNkMS00YTNkLWE1YTctZTI0ZTNlOTkwOTk5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -6788,6 +6895,32 @@
         {
           "id": "nm2113653",
           "name": "Richard Harmon"
+        }
+      ],
+      "label": "Jan 29, 2027"
+    },
+    {
+      "id": "tt31970593",
+      "title": "Witch on the Holy Night",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ5ZDc2ZTQtOTI0NC00NjZlLWI0ZWYtNDVlNGRmNDAwMmFjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Action",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm2573928",
+          "name": "Kana Hanazawa"
+        },
+        {
+          "id": "nm3311160",
+          "name": "Yusuke Kobayashi"
+        },
+        {
+          "id": "nm2955927",
+          "name": "Haruka Tomatsu"
         }
       ],
       "label": "Jan 29, 2027"
@@ -8134,16 +8267,16 @@
           "name": "Monica Barbaro"
         },
         {
-          "id": "nm0609944",
-          "name": "Wagner Moura"
+          "id": "nm0177896",
+          "name": "Bradley Cooper"
         },
         {
           "id": "nm3053338",
           "name": "Margot Robbie"
         },
         {
-          "id": "nm0177896",
-          "name": "Bradley Cooper"
+          "id": "nm0609944",
+          "name": "Wagner Moura"
         }
       ],
       "label": "Jun 25, 2027"
