@@ -1538,7 +1538,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=fiSzE77DpfY",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -1582,7 +1582,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=1AFVTw757Qo",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -1627,7 +1627,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "2H",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -1670,8 +1670,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "2H",
+      "strVideo": "https://www.youtube.com/watch?v=-_iRRs9rv4w",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
