@@ -286,7 +286,7 @@
         {
           "season": 30,
           "number": 10,
-          "name": "Sherri Shepherd/Andrew Garfield/",
+          "name": "Sherri Shepherd/Andrew Garfield",
           "airdate": "2026-09-10",
           "summary": "Actress Sherri Shepherd (movie, \"Angel in the Rubble\");",
           "url": "https://www.imdb.com/title/tt43017585/?ref_=ttep_ep_3"
@@ -12949,7 +12949,7 @@
           "number": 8,
           "name": "Sangria, Songria",
           "airdate": "2026-08-27",
-          "summary": "Carmella throws a pool party at her Rancho Santa Fe house where she introduces the ladies to her kids and boyfriend. Emily and Shane celebrate their anniversary. Heather uses Carmella's real estate expertise. Shannon gets financial advice from Vicki. The ladies discuss Heather's recent behavior, sparking a conversation about her intention within the group.",
+          "summary": "Carmella hosts a pool party, introducing her kids and boyfriend. Emily and Shane mark their anniversary. Heather seeks Carmella's real estate help. Shannon gets financial tips from Vicki. The group discusses Heather's behavior.",
           "url": "https://www.imdb.com/title/tt43683894/?ref_=ttep_ep_8"
         },
         {
@@ -12957,30 +12957,14 @@
           "number": 10,
           "name": "Forbidden Fruit",
           "airdate": "2026-09-10",
-          "summary": null,
+          "summary": "The ladies divide into groups visiting Los Olivos and La Quinta. Emily, Jenn and Shannon confront host Vicki about prioritizing work over guests. Gina challenges Heather for doing business with Carmella while gossiping about her.",
           "url": "https://www.imdb.com/title/tt43683897/?ref_=ttep_ep_10"
-        },
-        {
-          "season": 20,
-          "number": 11,
-          "name": "Episode #20.11",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt43683898/?ref_=ttep_ep_11"
-        },
-        {
-          "season": 20,
-          "number": 12,
-          "name": "Episode #20.12",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt43683900/?ref_=ttep_ep_12"
         },
         {
           "season": 20,
           "number": 13,
           "name": "Episode #20.13",
-          "airdate": null,
+          "airdate": "2026-10-01",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43683901/?ref_=ttep_ep_13"
         },
@@ -12988,7 +12972,7 @@
           "season": 20,
           "number": 14,
           "name": "Episode #20.14",
-          "airdate": null,
+          "airdate": "2026-10-08",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43683902/?ref_=ttep_ep_14"
         },
@@ -13011,10 +12995,10 @@
         {
           "season": 20,
           "number": 17,
-          "name": "Episode #20.17",
-          "airdate": null,
+          "name": "Episode #20.11",
+          "airdate": "2026-09-17",
           "summary": null,
-          "url": "https://www.imdb.com/title/tt43683908/?ref_=ttep_ep_17"
+          "url": "https://www.imdb.com/title/tt43683898/?ref_=ttep_ep_11"
         },
         {
           "season": 20,
@@ -13023,6 +13007,14 @@
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt43683909/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 20,
+          "number": 24,
+          "name": "Episode #20.12",
+          "airdate": "2026-09-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43683900/?ref_=ttep_ep_12"
         },
         {
           "season": 19,
@@ -20392,7 +20384,7 @@
           "number": 12,
           "name": "Slam Dunk Sunday 2026",
           "airdate": "2026-03-22",
-          "summary": null,
+          "summary": "AEW pays tribute to the late Andy \"The Butcher\" Williams, who passed away suddenly a week ago.",
           "url": "https://www.imdb.com/title/tt40393328/?ref_=ttep_ep_12"
         },
         {
@@ -25467,7 +25459,7 @@
         {
           "season": 3,
           "number": 16,
-          "name": "Episode #3.8",
+          "name": "By Any Means Necessary",
           "airdate": "2026-09-16",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37519720/?ref_=ttep_ep_8"
@@ -36384,17 +36376,17 @@
         {
           "season": 1,
           "number": 13,
-          "name": "Episode #1.1",
+          "name": "Baghdad Burns",
           "airdate": "2026-09-13",
-          "summary": null,
+          "summary": "America invades Iraq, and Saddam Hussein vanishes. CIA analyst John Nixon mobilizes a task force to find him. On the embattled streets of Baghdad, Captain Samir hunts door to door for High Value Target No. 1.",
           "url": "https://www.imdb.com/title/tt36752947/?ref_=ttep_ep_1"
         },
         {
           "season": 1,
           "number": 14,
-          "name": "Episode #1.3",
+          "name": "Red Dawn",
           "airdate": "2026-09-14",
-          "summary": null,
+          "summary": "Inside Abu Ghraib, John presses Saddam Hussein's cousin for the dictator's whereabouts. Unprepared, John gets drafted onto the chopper headed for operation Red Dawn.",
           "url": "https://www.imdb.com/title/tt43746693/?ref_=ttep_ep_3"
         },
         {
@@ -37572,11 +37564,43 @@
       "episodes": [
         {
           "season": 7,
+          "number": 4,
+          "name": "Episode #7.4",
+          "airdate": "2026-10-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45664150/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 7,
+          "number": 5,
+          "name": "Episode #7.5",
+          "airdate": "2026-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45664171/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 7,
           "number": 16,
           "name": "Episode #7.1",
           "airdate": "2026-09-16",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39412509/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 7,
+          "number": 23,
+          "name": "Episode #7.2",
+          "airdate": "2026-09-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45664089/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 7,
+          "number": 30,
+          "name": "Episode #7.3",
+          "airdate": "2026-09-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45664107/?ref_=ttep_ep_3"
         },
         {
           "season": 6,
@@ -38904,6 +38928,252 @@
           "airdate": "2025-09-26",
           "summary": "Three homes in the Haunted Heartland duke it out for the chance at a makeover. It's between a former mystery dinner theater with a ghostly past, a deadly off-the-grid compound, and a haunted home that smells like trouble.",
           "url": "https://www.imdb.com/title/tt36589387/?ref_=ttep_ep_2"
+        }
+      ]
+    },
+    "tt32604054": {
+      "imdbId": "tt32604054",
+      "title": "Regular Show: The Lost Tapes",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Fix That Tape",
+          "airdate": "2026-05-11",
+          "summary": "A broken VHS tape needs to be fixed.",
+          "url": "https://www.imdb.com/title/tt33886806/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Skips' Luau",
+          "airdate": "2026-05-11",
+          "summary": "Mordecai and Rigby want a burger with a special ingredient.",
+          "url": "https://www.imdb.com/title/tt43046619/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Blade Games",
+          "airdate": "2026-05-12",
+          "summary": "Benson learns a better way to motivate.",
+          "url": "https://www.imdb.com/title/tt37565037/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Nap Spot",
+          "airdate": "2026-05-13",
+          "summary": "A secret nap spot causes major problems.",
+          "url": "https://www.imdb.com/title/tt41225026/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Coffee Shop Wars",
+          "airdate": "2026-05-14",
+          "summary": "A rival coffee shop moves into town.",
+          "url": "https://www.imdb.com/title/tt41323257/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Boba or Bo-Bust",
+          "airdate": "2026-05-18",
+          "summary": "Mordecai and Rigby sell Boba at the park.",
+          "url": "https://www.imdb.com/title/tt41353350/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Corpse Flower",
+          "airdate": "2026-05-19",
+          "summary": "Certain flowers have a truly unpleasant odor.",
+          "url": "https://www.imdb.com/title/tt41376374/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Beginson",
+          "airdate": "2026-05-20",
+          "summary": "Benson gets kicked out of Hair to the Throne.",
+          "url": "https://www.imdb.com/title/tt41376394/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Good Mitch Spiking",
+          "airdate": "2026-05-21",
+          "summary": "Muscle Man unveils his secret past.",
+          "url": "https://www.imdb.com/title/tt41394826/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Stilt Walkers",
+          "airdate": "2026-05-22",
+          "summary": "Rigby wants his photo taken seriously.",
+          "url": "https://www.imdb.com/title/tt41394832/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "Clean the Living Room",
+          "airdate": "2026-09-14",
+          "summary": "Before the living room can be cleaned, a secret mission must be completed.",
+          "url": "https://www.imdb.com/title/tt41446034/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "name": "Artist's Block",
+          "airdate": "2026-05-28",
+          "summary": "Mordecai gets freaked out.",
+          "url": "https://www.imdb.com/title/tt43338537/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 1,
+          "number": 19,
+          "name": "Terror Tales of the Park VII",
+          "airdate": "2026-09-19",
+          "summary": "The park crew gathers to tell scary stories in the old graveyard, but a cursed book brings their terrifying tales to life, trapping them in an anthology of horror scenarios they must survive before sunrise.",
+          "url": "https://www.imdb.com/title/tt43742786/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 1,
+          "number": 21,
+          "name": "Super Strong Johns",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44274180/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 1,
+          "number": 22,
+          "name": "Car Wash",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44277210/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 1,
+          "number": 23,
+          "name": "All You Can Fit",
+          "airdate": "2026-05-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43339433/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 1,
+          "number": 26,
+          "name": "Before Sunrise",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841214/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 1,
+          "number": 27,
+          "name": "Recycle Yo!",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841223/?ref_=ttep_ep_27"
+        },
+        {
+          "season": 1,
+          "number": 28,
+          "name": "Hi Five's Throat",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841234/?ref_=ttep_ep_28"
+        },
+        {
+          "season": 1,
+          "number": 29,
+          "name": "Carter & Briggs Are Here",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841244/?ref_=ttep_ep_29"
+        },
+        {
+          "season": 1,
+          "number": 30,
+          "name": "Wet Phone",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841326/?ref_=ttep_ep_30"
+        },
+        {
+          "season": 1,
+          "number": 31,
+          "name": "Dip Deep",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841343/?ref_=ttep_ep_31"
+        },
+        {
+          "season": 1,
+          "number": 32,
+          "name": "Ketch of the Day",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841353/?ref_=ttep_ep_32"
+        },
+        {
+          "season": 1,
+          "number": 33,
+          "name": "Thanks for the Memories",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841366/?ref_=ttep_ep_33"
+        },
+        {
+          "season": 1,
+          "number": 34,
+          "name": "Master Curator",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841375/?ref_=ttep_ep_34"
+        },
+        {
+          "season": 1,
+          "number": 35,
+          "name": "12,000 Seconds",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841377/?ref_=ttep_ep_35"
+        },
+        {
+          "season": 1,
+          "number": 36,
+          "name": "The Afterheist",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841386/?ref_=ttep_ep_36"
+        },
+        {
+          "season": 1,
+          "number": 37,
+          "name": "Japlan",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841397/?ref_=ttep_ep_37"
+        },
+        {
+          "season": 1,
+          "number": 38,
+          "name": "The Ultimate Format War",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44841410/?ref_=ttep_ep_38"
+        },
+        {
+          "season": 1,
+          "number": 2026,
+          "name": "That's Funny",
+          "airdate": null,
+          "summary": "Margaret is caught faking her laughter.",
+          "url": "https://www.imdb.com/title/tt43742781/?ref_=ttep_ep_17"
         }
       ]
     }
