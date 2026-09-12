@@ -3779,16 +3779,16 @@
           "name": "Robert Pattinson"
         },
         {
-          "id": "nm0923266",
-          "name": "Merritt Wever"
-        },
-        {
-          "id": "nm0267506",
-          "name": "Anna Faris"
-        },
-        {
           "id": "nm1711114",
           "name": "Skyler Gisondo"
+        },
+        {
+          "id": "nm0536866",
+          "name": "Matthew Maher"
+        },
+        {
+          "id": "nm5353667",
+          "name": "Phoebe Bridgers"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3843,12 +3843,12 @@
           "name": "Tamannaah Bhatia"
         },
         {
-          "id": "nm0814331",
-          "name": "Anup Soni"
-        },
-        {
           "id": "nm1748819",
           "name": "Shweta Tiwari"
+        },
+        {
+          "id": "nm1571487",
+          "name": "Sunil Grover"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3856,7 +3856,7 @@
     {
       "id": "tt43641694",
       "title": "Mitrata",
-      "image": "https://m.media-amazon.com/images/M/MV5BM2Y3MjhjYTMtMzljZi00OWY5LWJjZGItNDMxNGNlZmU0Y2YzXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTAxMTFiNjAtMThkYS00MmEwLWIzNTYtZjU2MDgwZWNiMDgzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
       "genres": [
         "Drama"
@@ -4296,20 +4296,20 @@
       ],
       "people": [
         {
-          "id": "nm4561559",
-          "name": "Renate Reinsve"
+          "id": "nm2527686",
+          "name": "Lisa Carlehed"
         },
         {
-          "id": "nm1659221",
-          "name": "Sebastian Stan"
+          "id": "nm2717241",
+          "name": "Ellen Dorrit Petersen"
         },
         {
           "id": "nm2966840",
           "name": "Lisa Loven Kongsli"
         },
         {
-          "id": "nm0364028",
-          "name": "Thorbjørn Harr"
+          "id": "nm13462298",
+          "name": "Henrikke Lund-Olsen"
         }
       ],
       "label": "Oct 09, 2026"
@@ -5355,7 +5355,7 @@
     {
       "id": "tt38686316",
       "title": "Ghost Soldier",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDQyNTdkYWEtZTgzZC00ZDA1LWFlM2EtODBmZDcwYjBlNzM0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTYyOTY0MmUtNTdiMC00Zjc1LWI2NzEtZjhjZGVmMjJjNWFkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -5657,10 +5657,6 @@
       ],
       "people": [
         {
-          "id": "nm0498757",
-          "name": "Lindsay Leese"
-        },
-        {
           "id": "nm0749263",
           "name": "Mark Ruffalo"
         },
@@ -5671,6 +5667,10 @@
         {
           "id": "nm3729721",
           "name": "Dylan O'Brien"
+        },
+        {
+          "id": "nm3978118",
+          "name": "Ruth Madeley"
         }
       ],
       "label": "Nov 13, 2026"
@@ -5715,10 +5715,6 @@
       ],
       "people": [
         {
-          "id": "nm10511461",
-          "name": "Joseph Zada"
-        },
-        {
           "id": "nm5085683",
           "name": "Mckenna Grace"
         },
@@ -5729,6 +5725,10 @@
         {
           "id": "nm0000146",
           "name": "Ralph Fiennes"
+        },
+        {
+          "id": "nm0687146",
+          "name": "Jesse Plemons"
         }
       ],
       "label": "Nov 20, 2026"
@@ -6354,8 +6354,8 @@
           "name": "Jason Momoa"
         },
         {
-          "id": "nm1772637",
-          "name": "Hassam Ghancy"
+          "id": "nm0272581",
+          "name": "Rebecca Ferguson"
         }
       ],
       "label": "Dec 18, 2026"
@@ -7068,10 +7068,6 @@
       ],
       "people": [
         {
-          "id": "nm17215119",
-          "name": "Beatrice Campbell"
-        },
-        {
           "id": "nm0000658",
           "name": "Meryl Streep"
         },
@@ -7082,6 +7078,10 @@
         {
           "id": "nm0185819",
           "name": "Daniel Craig"
+        },
+        {
+          "id": "nm0001354",
+          "name": "Ciarán Hinds"
         }
       ],
       "label": "Feb 12, 2027"
@@ -7166,12 +7166,12 @@
           "name": "Tomás Paredes"
         },
         {
-          "id": "nm3584268",
-          "name": "James Norton"
-        },
-        {
           "id": "nm0683253",
           "name": "Rosamund Pike"
+        },
+        {
+          "id": "nm3584268",
+          "name": "James Norton"
         },
         {
           "id": "nm0000164",
@@ -7786,10 +7786,6 @@
       ],
       "people": [
         {
-          "id": "nm0936894",
-          "name": "Rowan Witt"
-        },
-        {
           "id": "nm1551130",
           "name": "Keke Palmer"
         },
@@ -7800,6 +7796,10 @@
         {
           "id": "nm0000597",
           "name": "Bill Pullman"
+        },
+        {
+          "id": "nm0000316",
+          "name": "Mel Brooks"
         }
       ],
       "label": "Apr 23, 2027"
