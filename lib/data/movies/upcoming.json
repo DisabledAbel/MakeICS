@@ -3514,16 +3514,16 @@
           "name": "Nani"
         },
         {
-          "id": "nm0006764",
-          "name": "Sonali Kulkarni"
-        },
-        {
-          "id": "nm0595934",
-          "name": "Mohan Babu"
-        },
-        {
           "id": "nm11469931",
           "name": "Kayadu Lohar"
+        },
+        {
+          "id": "nm5644335",
+          "name": "Raghav Juyal"
+        },
+        {
+          "id": "nm0006764",
+          "name": "Sonali Kulkarni"
         }
       ],
       "label": "Sep 24, 2026"
@@ -3779,16 +3779,16 @@
           "name": "Robert Pattinson"
         },
         {
+          "id": "nm0923266",
+          "name": "Merritt Wever"
+        },
+        {
           "id": "nm1711114",
           "name": "Skyler Gisondo"
         },
         {
           "id": "nm0536866",
           "name": "Matthew Maher"
-        },
-        {
-          "id": "nm5353667",
-          "name": "Phoebe Bridgers"
         }
       ],
       "label": "Sep 25, 2026"
@@ -4054,7 +4054,7 @@
     {
       "id": "tt29870331",
       "title": "Appofeniacs",
-      "image": "https://m.media-amazon.com/images/M/MV5BMmI3MDZjOGMtZTc3My00NGYyLWE2OTEtYjBiZTllZDY3OTU2XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQyYjEyMmYtYjFjYS00OTU0LWIwMWUtYzIyYjMxNTI2YjA0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
       "genres": [
         "Horror",
@@ -4296,20 +4296,20 @@
       ],
       "people": [
         {
+          "id": "nm1659221",
+          "name": "Sebastian Stan"
+        },
+        {
+          "id": "nm4561559",
+          "name": "Renate Reinsve"
+        },
+        {
           "id": "nm2527686",
           "name": "Lisa Carlehed"
         },
         {
           "id": "nm2717241",
           "name": "Ellen Dorrit Petersen"
-        },
-        {
-          "id": "nm2966840",
-          "name": "Lisa Loven Kongsli"
-        },
-        {
-          "id": "nm13462298",
-          "name": "Henrikke Lund-Olsen"
         }
       ],
       "label": "Oct 09, 2026"
@@ -5363,10 +5363,6 @@
       ],
       "people": [
         {
-          "id": "nm3160438",
-          "name": "Alexej Manvelov"
-        },
-        {
           "id": "nm0226813",
           "name": "Garret Dillahunt"
         },
@@ -5377,6 +5373,10 @@
         {
           "id": "nm0924154",
           "name": "Shea Whigham"
+        },
+        {
+          "id": "nm1880888",
+          "name": "Olivia Thirlby"
         }
       ],
       "label": "Nov 06, 2026"
@@ -5384,7 +5384,7 @@
     {
       "id": "tt10098420",
       "title": "Drummer Boy",
-      "image": "https://m.media-amazon.com/images/M/MV5BYWQzYzFmODctMTcxZS00MzNjLWI3N2MtNjAzNWNmZWFjYmUxXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjBkOGM3ZjMtYjcxMy00ZDAzLTllYTgtYjMxOTJjNTVjNTM0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -6459,10 +6459,6 @@
       ],
       "people": [
         {
-          "id": "nm3431899",
-          "name": "Jack Morris"
-        },
-        {
           "id": "nm1093951",
           "name": "Aaron Taylor-Johnson"
         },
@@ -6473,6 +6469,10 @@
         {
           "id": "nm0408591",
           "name": "Ralph Ineson"
+        },
+        {
+          "id": "nm11417004",
+          "name": "Bodhi Rae Breathnach"
         }
       ],
       "label": "Dec 25, 2026"
@@ -7162,10 +7162,6 @@
       ],
       "people": [
         {
-          "id": "nm7003974",
-          "name": "Tomás Paredes"
-        },
-        {
           "id": "nm0683253",
           "name": "Rosamund Pike"
         },
@@ -7176,6 +7172,10 @@
         {
           "id": "nm0000164",
           "name": "Anthony Hopkins"
+        },
+        {
+          "id": "nm1212722",
+          "name": "Benedict Cumberbatch"
         }
       ],
       "label": "Feb 19, 2027"
@@ -7372,16 +7372,16 @@
       ],
       "people": [
         {
-          "id": "nm0430107",
-          "name": "Michael B. Jordan"
-        },
-        {
           "id": "nm0000110",
           "name": "Kenneth Branagh"
         },
         {
           "id": "nm5245722",
           "name": "Adria Arjona"
+        },
+        {
+          "id": "nm0430107",
+          "name": "Michael B. Jordan"
         },
         {
           "id": "nm1561982",
@@ -7846,20 +7846,20 @@
       ],
       "people": [
         {
-          "id": "nm13433405",
-          "name": "Gabriele Rollo"
-        },
-        {
-          "id": "nm17105632",
-          "name": "Mario Sagone"
-        },
-        {
           "id": "nm0000391",
           "name": "Rupert Everett"
         },
         {
           "id": "nm3663897",
           "name": "Jaakko Ohtonen"
+        },
+        {
+          "id": "nm0810738",
+          "name": "Kasia Smutniak"
+        },
+        {
+          "id": "nm1249052",
+          "name": "Riccardo Scamarcio"
         }
       ],
       "label": "May 06, 2027"
@@ -8369,20 +8369,20 @@
       ],
       "people": [
         {
-          "id": "nm4825178",
-          "name": "David Corenswet"
-        },
-        {
-          "id": "nm0396558",
-          "name": "Nicholas Hoult"
-        },
-        {
           "id": "nm7543974",
           "name": "Aaron Pierre"
         },
         {
           "id": "nm5245722",
           "name": "Adria Arjona"
+        },
+        {
+          "id": "nm0277213",
+          "name": "Nathan Fillion"
+        },
+        {
+          "id": "nm0396558",
+          "name": "Nicholas Hoult"
         }
       ],
       "label": "Jul 09, 2027"
