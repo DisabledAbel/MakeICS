@@ -6852,6 +6852,14 @@
           "url": "https://www.imdb.com/title/tt44111672/?ref_=ttep_ep_15"
         },
         {
+          "season": 21,
+          "number": 16,
+          "name": "Semifinals Results",
+          "airdate": "2026-09-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45748852/?ref_=ttep_ep_21"
+        },
+        {
           "season": 20,
           "number": 1,
           "name": "Auditions 1",
@@ -24095,9 +24103,9 @@
         {
           "season": 13,
           "number": 22,
-          "name": "Episode #13.22",
+          "name": "Subscriptions",
           "airdate": "2026-08-23",
-          "summary": null,
+          "summary": "John Oliver discusses why more and more companies are shifting to a subscription model, how it's impacting consumers, and what could possibly be more embarrassing than liking Madame Web.",
           "url": "https://www.imdb.com/title/tt44536509/?ref_=ttep_ep_22"
         },
         {
@@ -26413,7 +26421,7 @@
         {
           "season": 1,
           "number": 9,
-          "name": "Episode #1.9",
+          "name": "Nature vs. Nurture",
           "airdate": "2026-10-02",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37775049/?ref_=ttep_ep_9"
@@ -32178,6 +32186,22 @@
       "title": "Bobby's Triple Threat",
       "episodes": [
         {
+          "season": 5,
+          "number": 1,
+          "name": "Titans vs Alex Stupak",
+          "airdate": "2026-08-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45749599/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 8,
+          "name": "Titans vs Competition Legend",
+          "airdate": "2026-09-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45749840/?ref_=ttep_ep_3"
+        },
+        {
           "season": 4,
           "number": 2,
           "name": "Titans vs Nini Nguyen",
@@ -36392,33 +36416,33 @@
         {
           "season": 1,
           "number": 20,
-          "name": "Episode #1.4",
+          "name": "The Ace of Spades",
           "airdate": "2026-09-20",
-          "summary": null,
+          "summary": "John comes face-to-face with Saddam Hussein. All the while, the insurgents remount their attacks, and Baghdad burns.",
           "url": "https://www.imdb.com/title/tt43746694/?ref_=ttep_ep_4"
         },
         {
           "season": 1,
           "number": 21,
-          "name": "Episode #1.5",
+          "name": "Enemy of My Enemy",
           "airdate": "2026-09-21",
-          "summary": null,
+          "summary": "In defiance of orders, John forges his way into hostile territory, and ends up in a chase for his life.",
           "url": "https://www.imdb.com/title/tt43746696/?ref_=ttep_ep_5"
         },
         {
           "season": 1,
           "number": 27,
-          "name": "Episode #1.6",
+          "name": "The Devil You Know",
           "airdate": "2026-09-27",
-          "summary": null,
+          "summary": "After following Saddam's warning, John returns from Najaf with the realization that the real threat is Iran. Now he must convince The White House.",
           "url": "https://www.imdb.com/title/tt43746703/?ref_=ttep_ep_6"
         },
         {
           "season": 1,
           "number": 28,
-          "name": "Episode #1.7",
+          "name": "The Reckoning",
           "airdate": "2026-09-28",
-          "summary": null,
+          "summary": "After two years and no WMDs, Iraq is in chaos and the White House is under political siege. With Saddam on trial, John Nixon tries to convince the CIA that saving Saddam is the only road to peace.",
           "url": "https://www.imdb.com/title/tt43746704/?ref_=ttep_ep_7"
         }
       ]
@@ -37253,11 +37277,83 @@
       "episodes": [
         {
           "season": 5,
+          "number": 4,
+          "name": "Episode #5.4",
+          "airdate": "2026-10-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45754410/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 5,
+          "number": 5,
+          "name": "Episode #5.5",
+          "airdate": "2026-10-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45754429/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 5,
+          "number": 6,
+          "name": "Episode #5.6",
+          "airdate": "2026-10-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45754483/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
+          "number": 7,
+          "name": "Episode #5.7",
+          "airdate": "2026-10-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45754532/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 5,
+          "number": 8,
+          "name": "Episode #5.8",
+          "airdate": "2026-10-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45754558/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 5,
+          "number": 9,
+          "name": "Episode #5.9",
+          "airdate": "2026-11-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45754633/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 5,
+          "number": 10,
+          "name": "Episode #5.10",
+          "airdate": "2026-11-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45754730/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 5,
           "number": 12,
-          "name": "Episode #5.1",
+          "name": "Julia Ioffe & Jon Lovett",
           "airdate": "2026-09-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44784983/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 19,
+          "name": "Episode #5.2",
+          "airdate": "2026-09-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45754407/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 26,
+          "name": "Episode #5.3",
+          "airdate": "2026-09-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45754409/?ref_=ttep_ep_3"
         },
         {
           "season": 4,
@@ -39174,6 +39270,742 @@
           "airdate": null,
           "summary": "Margaret is caught faking her laughter.",
           "url": "https://www.imdb.com/title/tt43742781/?ref_=ttep_ep_17"
+        }
+      ]
+    },
+    "tt0123338": {
+      "imdbId": "tt0123338",
+      "title": "60 Minutes",
+      "episodes": [
+        {
+          "season": 59,
+          "number": 13,
+          "name": "Episode #59.1",
+          "airdate": "2026-09-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45081036/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 58,
+          "number": 2,
+          "name": "Vaccine Court/The Tequila Heist/This is Rob Reiner",
+          "airdate": "2025-10-05",
+          "summary": "First, a look inside the U.S. vaccine court. Then, Guy Fieri and the mystery of how 24,000 bottles of tequila went missing. And, Rob Reiner: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt37894619/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 58,
+          "number": 3,
+          "name": "The China Hack/Booms, Busts and Bubbles/The Road to Damascus",
+          "airdate": "2025-10-12",
+          "summary": "First, hear from an ex-spymaster on how China hacks the U.S. Then, examining lessons from the Wall Street crash of 1929. And, Ahmed al-Sharaa: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt37894621/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 58,
+          "number": 4,
+          "name": "The Dealmakers/Erez Reuveni/Amy Sherald",
+          "airdate": "2025-10-19",
+          "summary": "First, hear from Witkoff, Kushner on the Israel-Hamas deal. Then, from dedicated DOJ lawyer to whistleblower. And, Amy Sherald: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt38671614/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 58,
+          "number": 5,
+          "name": "On the Brink/Dr. Attia Will See You Now/The Mentalist",
+          "airdate": "2025-10-26",
+          "summary": "First, a rare look from on the ground in Nicolás Maduro's Venezuela. Then, a report on training for the final decade of life. And, a look at how mentalist Oz Pearlman blows minds.",
+          "url": "https://www.imdb.com/title/tt38671615/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 58,
+          "number": 6,
+          "name": "President Trump/Officially Amazing",
+          "airdate": "2025-11-02",
+          "summary": "First, President Donald Trump: The 2025 60 Minutes Interview. Then, a look at the strict system behind certifying record attempts at Guinness World Records.",
+          "url": "https://www.imdb.com/title/tt38671616/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 58,
+          "number": 7,
+          "name": "The Family Farm/Collateral Damage/The Indomitable Margaret Atwood",
+          "airdate": "2025-11-09",
+          "summary": "First, a report on the high costs and tariffs hammering U.S. farmers. Then, what happens when research funding for universities is cut. And, Margaret Atwood: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt38784875/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 58,
+          "number": 8,
+          "name": "The President's Pardon/Anthropic/Chess Boxing",
+          "airdate": "2025-11-16",
+          "summary": "First, Trump pardon of billionaire sparks concerns. Then, what goes into testing Anthropic's AI. And, inside a chess boxing bout, where brain meets brawn.",
+          "url": "https://www.imdb.com/title/tt38784877/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 58,
+          "number": 9,
+          "name": "The Bus on Route 62/The Last Best Place/The Empty Rooms",
+          "airdate": "2025-11-23",
+          "summary": "First, Ukrainian survivors recount deadly bus attack. Then, Montana's fight to block public land sales. And, a look at the rooms left behind after school shootings.",
+          "url": "https://www.imdb.com/title/tt38960531/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 58,
+          "number": 10,
+          "name": "Polymarket/CRISPR Kids/Lamine Yamal",
+          "airdate": "2025-11-30",
+          "summary": "First, Polymarket lets you bet on almost anything. Then, a look at teens' innovative Lyme disease research. And, Lamine Yamal: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt38960532/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 58,
+          "number": 11,
+          "name": "Marjorie Taylor Greene/Character AI/Watch Valley",
+          "airdate": "2025-12-07",
+          "summary": "First, Marjorie Taylor Greene: The 2025 60 Minutes Interview. Then, researchers warn AI chatbots can harm kids. And, why handmade Swiss watches are so expensive.",
+          "url": "https://www.imdb.com/title/tt39073154/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 58,
+          "number": 12,
+          "name": "Germany Rearms/The Price of Life/Hoosier Hysteria",
+          "airdate": "2025-12-14",
+          "summary": "First, why Germany is rearming, modernizing its military. Then, a look at life-saving drugs that cost millions per dose. And, Indiana Hoosiers: from outcast to undefeated.",
+          "url": "https://www.imdb.com/title/tt39073156/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 58,
+          "number": 13,
+          "name": "The Sherpas of Everest/Presenting the Kanneh-Masons",
+          "airdate": "2025-12-21",
+          "summary": "First, a report on Sherpas risking their lives to help climbers reach Everest's summit. Then, the Kanneh-Masons: Meet the musical siblings.",
+          "url": "https://www.imdb.com/title/tt39073157/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 58,
+          "number": 14,
+          "name": "60 Minutes Presents: Cheers!: Wood to Whiskey/The Tequila Heist/The Mezcaleros",
+          "airdate": "2025-12-28",
+          "summary": "First, a look at the booming, bourbon-driven barrel business. Then, Guy Fieri and 24,000 missing tequila bottles. And, how mezcal traditions are preserved as demand grows.",
+          "url": "https://www.imdb.com/title/tt39263748/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 58,
+          "number": 15,
+          "name": "Maduro/Here Come the Humanoids/Alysa Liu",
+          "airdate": "2026-01-04",
+          "summary": "First, a report on the capture of Venezuelan President Nicolás Maduro. Then, a look at the progress made on AI-powered humanoid robots. And, Alysa Liu: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt39289585/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 58,
+          "number": 16,
+          "name": "Minneapolis/Inside CECOT/Salties",
+          "airdate": "2026-01-18",
+          "summary": "First, a top ICE official says no officers have been disciplined for Minneapolis actions. Then, tales of hell inside a Salvadoran mega-prison. And, coexisting with Australia's deadly crocodiles.",
+          "url": "https://www.imdb.com/title/tt39289587/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 58,
+          "number": 17,
+          "name": "60 Minutes Presents: A Night at the Movies: Timothée Chalamet/Jamie Lee Curtis/Kate Winslet",
+          "airdate": "2026-01-25",
+          "summary": "60 Minutes presents a night at the movies, featuring interviews with Timothée Chalamet, Jamie Lee Curtis and Kate Winslet.",
+          "url": "https://www.imdb.com/title/tt39289588/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 58,
+          "number": 18,
+          "name": "\"Who Can You Kill?\"/The Far Side of the Moon/Boom Chicago",
+          "airdate": "2026-02-01",
+          "summary": "First, calls grow for an independent probe into Minneapolis shootings. Then, NASA's journey to the far side of the moon. And, the Amsterdam improv club behind comedy legends.",
+          "url": "https://www.imdb.com/title/tt39289586/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 58,
+          "number": 19,
+          "name": "60 Minutes Presents: The 60 Minutes Book Club: The Indomitable Margaret Atwood/Knife/Officially Amazing",
+          "airdate": "2026-02-08",
+          "summary": "First, Margaret Atwood: The 60 Minutes Interview. Then, Salman Rushdie: The 60 Minutes Interview. And, a look at the system behind Guinness World Records.",
+          "url": "https://www.imdb.com/title/tt39601291/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 58,
+          "number": 20,
+          "name": "Generally Recognized as Safe/Youngest Survivors",
+          "airdate": "2026-02-15",
+          "summary": "Bill Whitaker examines ultra-processed food health concerns with HHS Secretary Robert F. Kennedy Jr. and former FDA Commissioner Dr. David Kessler, exploring a decades-old government classification system both officials want reformed.",
+          "url": "https://www.imdb.com/title/tt39601293/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 58,
+          "number": 21,
+          "name": "Left Behind/South Africa's Refugees/Is That Art?",
+          "airdate": "2026-02-22",
+          "summary": "First, a report from inside the birthplace of food stamps. Then, inside Trump's South Africa Afrikaner claims. And, the AI art divide: Revolutionary or a gimmick.",
+          "url": "https://www.imdb.com/title/tt39601298/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 58,
+          "number": 22,
+          "name": "Iran/Under Siege/Breaking the Cycle",
+          "airdate": "2026-03-01",
+          "summary": "First, Reza Pahlavi on the future of Iran. Then, a look at threats against U.S. judges under Trump. And, breaking the cycle of school shootings.",
+          "url": "https://www.imdb.com/title/tt39907760/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 58,
+          "number": 23,
+          "name": "Targeting Americans/Secretary Hegseth",
+          "airdate": "2026-03-08",
+          "summary": "First, a Havana Syndrome investigation is criticized. Then, Pete Hegseth: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt39907816/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 58,
+          "number": 24,
+          "name": "Choke Point/Laser Focus/Growing Up Behind Walls",
+          "airdate": "2026-03-15",
+          "summary": "First, a report on ships stranded by the Strait of Hormuz closure. Then, could lasers help fend off Iran's drones? And, a look inside author Mitch Albom's Haiti orphanage.",
+          "url": "https://www.imdb.com/title/tt39907879/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 58,
+          "number": 25,
+          "name": "Elemental Crisis/Turning the Ship Around/The Dog Aging Project",
+          "airdate": "2026-03-22",
+          "summary": "First, a report on the only active rare earth mine in the U.S. Then, collapse of U.S. shipbuilding poses national and economic security risks. And, a dog study may help pets and humans age well.",
+          "url": "https://www.imdb.com/title/tt39907901/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 58,
+          "number": 26,
+          "name": "Inside the Tower/Unmanned/Wonder of the World",
+          "airdate": "2026-03-29",
+          "summary": "First, investigating the D.C. midair plane crash. Then, a look at the drone arms race transforming modern warfare. And, inside Son Doong, the world's largest cave passage.",
+          "url": "https://www.imdb.com/title/tt39907952/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 58,
+          "number": 27,
+          "name": "Return to RAM/Ghost Train/The Mardi Gras Indians",
+          "airdate": "2026-04-05",
+          "summary": "First, a report on patients, cut off from health care, getting help. Then, the state of high-speed rail in the U.S. And, a look at the Mardi Gras Indians keeping tradition alive.",
+          "url": "https://www.imdb.com/title/tt41343885/?ref_=ttep_ep_27"
+        },
+        {
+          "season": 58,
+          "number": 28,
+          "name": "A Lonely Voice/The Mystery of the Eagle S/Dana White",
+          "airdate": "2025-09-28",
+          "summary": "First, a message from Utah Governor Spencer Cox after the Charlie Kirk murder. Then, a report on undersea cable cutting in the Baltic Sea. And, UFC head Dana White: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt37158892/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 58,
+          "number": 29,
+          "name": "Iran's HEU/One Mother's Story/Wild Concerto",
+          "airdate": "2026-04-19",
+          "summary": "First, U.S. eyes Iran's highly enriched uranium. Then, Rachel Goldberg-Polin: The 60 Minutes Interview. And, turning recordings of animals into music.",
+          "url": "https://www.imdb.com/title/tt41343889/?ref_=ttep_ep_29"
+        },
+        {
+          "season": 58,
+          "number": 30,
+          "name": "Shots Fired/Ben Sasse/The Pigeon Mafia",
+          "airdate": "2026-04-26",
+          "summary": "First, President Donald Trump: The 2026 60 Minutes Interview. Then, Ben Sasse: The 60 Minutes Interview. And, a report on the pigeon mafia.",
+          "url": "https://www.imdb.com/title/tt41343896/?ref_=ttep_ep_30"
+        },
+        {
+          "season": 58,
+          "number": 31,
+          "name": "Disaster Tourists/Birds Of War/Perfume Capital Of The World",
+          "airdate": "2026-05-03",
+          "summary": "First, when the volunteer helping after a hurricane is a white nationalist. Then, birders flock here since guerrillas disarmed. And, Grasse: The perfume capital of the world.",
+          "url": "https://www.imdb.com/title/tt43439727/?ref_=ttep_ep_31"
+        },
+        {
+          "season": 58,
+          "number": 32,
+          "name": "Prime Minister Netanyahu/Drawing the Lines/Gout Gout",
+          "airdate": "2026-05-10",
+          "summary": "First, Benjamin Netanyahu: The 60 Minutes Interview. Then, Gov. Landry on suspending Louisiana primaries. And, Gout Gout: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt43439728/?ref_=ttep_ep_32"
+        },
+        {
+          "season": 58,
+          "number": 33,
+          "name": "Betting on War/The Knowledge/Christopher Nolan",
+          "airdate": "2026-05-17",
+          "summary": "SEASON FINALE: First, prediction market bets on war defy odds. Then, London's cabbies skeptical about robotaxis. And, Christopher Nolan: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt42719885/?ref_=ttep_ep_33"
+        },
+        {
+          "season": 58,
+          "number": 34,
+          "name": "Booms, Busts and Bubbles/Sculpting Evolution/The Payam Method",
+          "airdate": "2026-05-24",
+          "summary": "First, examining lessons from the Wall Street crash of 1929. Then, a report on mouse DNA and the fight against Lyme disease. And, inside the \"Payam Method\" for learning piano.",
+          "url": "https://www.imdb.com/title/tt43123020/?ref_=ttep_ep_34"
+        },
+        {
+          "season": 58,
+          "number": 35,
+          "name": "Germany Rearms/Freezing the Biological Clock",
+          "airdate": "2026-05-31",
+          "summary": "ENCORE PRESENTATION: First, why Germany is rearming, modernizing its military. And, a look at how egg freezing offers options for women, despite the cost and concerns.",
+          "url": "https://www.imdb.com/title/tt43439731/?ref_=ttep_ep_35"
+        },
+        {
+          "season": 58,
+          "number": 36,
+          "name": "Under Siege/Turning the Ship Around/The Dog Aging Project",
+          "airdate": "2026-06-07",
+          "summary": "ENCORE PRESENTATION: First, a look at threats against U.S. judges under Trump. Then, collapse of U.S. shipbuilding poses national and economic security risks. And, a dog study may help pets and humans age well.",
+          "url": "https://www.imdb.com/title/tt43439732/?ref_=ttep_ep_36"
+        },
+        {
+          "season": 58,
+          "number": 37,
+          "name": "Here Come the Humanoids/The Empty Rooms/Lamine Yamal",
+          "airdate": "2026-06-14",
+          "summary": "ENCORE PRESENTATION: First, a look at the progress made on AI-powered humanoid robots. Then, seeing the rooms left behind after school shootings. And, Lamine Yamal: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt43439733/?ref_=ttep_ep_37"
+        },
+        {
+          "season": 58,
+          "number": 38,
+          "name": "Youngest Survivors/What Happened to the Great White Sharks?",
+          "airdate": "2026-06-21",
+          "summary": "ENCORE PRESENTATION: First, a report on the miracle babies of the Mauthausen camp. And, South Africa's missing great white sharks.",
+          "url": "https://www.imdb.com/title/tt43439734/?ref_=ttep_ep_38"
+        },
+        {
+          "season": 58,
+          "number": 39,
+          "name": "Betting on War/The Looting of Cambodia",
+          "airdate": "2026-06-28",
+          "summary": "ENCORE PRESENTATION: First, high win rate of bets on military operations a likely sign of insider trading. Then, a report on Cambodia tracking down looted antiquities.",
+          "url": "https://www.imdb.com/title/tt43439735/?ref_=ttep_ep_39"
+        },
+        {
+          "season": 58,
+          "number": 40,
+          "name": "Elemental Crisis/The Knowledge/Banana Ball",
+          "airdate": "2026-07-05",
+          "summary": "ENCORE PRESENTATION: First, a report on the only active rare earth mine in the U.S. Then, London's cabbies skeptical about robotaxis. And, a look inside the world of Banana Ball.",
+          "url": "https://www.imdb.com/title/tt43439736/?ref_=ttep_ep_40"
+        },
+        {
+          "season": 58,
+          "number": 41,
+          "name": "The Vatican's Orphans/Sealand/Christopher Nolan",
+          "airdate": "2026-07-12",
+          "summary": "ENCORE PRESENTATION: First, a report on the Vatican's orphans. Then, welcome to Sealand, the world's smallest state. And, Christopher Nolan: The 60 Minutes interview.",
+          "url": "https://www.imdb.com/title/tt43629057/?ref_=ttep_ep_41"
+        },
+        {
+          "season": 58,
+          "number": 42,
+          "name": "Healing Justice/Flight of the Monarchs",
+          "airdate": "2026-07-19",
+          "summary": "ENCORE PRESENTATION: First, a report on exonerees and survivors coming together to heal. And, a look at the monarch butterfly migration mystery.",
+          "url": "https://www.imdb.com/title/tt43629058/?ref_=ttep_ep_42"
+        },
+        {
+          "season": 58,
+          "number": 43,
+          "name": "Vaccine Court/Chess Boxing/Amy Sherald",
+          "airdate": "2026-07-26",
+          "summary": "ENCORE PRESENTATION: First, inside the U.S. vaccine court. Then, a look at chess boxing: a sport where brain meets brawn. And, Amy Sherald: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt43629059/?ref_=ttep_ep_43"
+        },
+        {
+          "season": 58,
+          "number": 44,
+          "name": "Lourdes/The Improbable Tale of Ted Lasso/Birds of War",
+          "airdate": "2026-08-02",
+          "summary": "ENCORE PRESENTATION: First, investigating medically unexplained cures. Then, a look behind the scenes of \"Ted Lasso.\" And, birders flock here since guerrillas disarmed.",
+          "url": "https://www.imdb.com/title/tt43629060/?ref_=ttep_ep_44"
+        },
+        {
+          "season": 58,
+          "number": 45,
+          "name": "Generally Recognized as Safe / Growing Up Behind Walls / Hoosier Hysteria",
+          "airdate": "2026-08-09",
+          "summary": "ENCORE PRESENTATION: First, a report on how GRAS fuels the rise of ultraprocessed foods. Then, a look inside author Mitch Albom's Haiti orphanage. And, Indiana Hoosiers: from outcast to undefeated.",
+          "url": "https://www.imdb.com/title/tt43629061/?ref_=ttep_ep_45"
+        },
+        {
+          "season": 58,
+          "number": 46,
+          "name": "A Psychedelic Journey/The Mardi Gras Indians/The Indomitable Margaret Atwood",
+          "airdate": "2026-08-16",
+          "summary": "ENCORE PRESENTATION: First, U.S. veterans with PTSD take a psychedelic journey in Mexico. Then, a look at the Mardi Gras Indians keeping tradition alive. And, Margaret Atwood: The 60 Minutes Interview.",
+          "url": "https://www.imdb.com/title/tt43740367/?ref_=ttep_ep_46"
+        },
+        {
+          "season": 58,
+          "number": 47,
+          "name": "Ghost Train/One Mother's Story/Wild Concerto",
+          "airdate": "2026-08-23",
+          "summary": "ENCORE PRESENTATION: First, the state of high-speed rail in the U.S. Then, Rachel Goldberg-Polin: The 60 Minutes Interview. And, turning recordings of animals into music.",
+          "url": "https://www.imdb.com/title/tt43740369/?ref_=ttep_ep_47"
+        },
+        {
+          "season": 58,
+          "number": 48,
+          "name": "The Cap Arcona/Presenting the Kanneh-Masons",
+          "airdate": "2026-08-30",
+          "summary": "ENCORE PRESENTATION: First, a report on the sinking of the Cap Arcona Nazi ship. Then, the Kanneh-Masons: Meet the musical siblings.",
+          "url": "https://www.imdb.com/title/tt43740370/?ref_=ttep_ep_48"
+        }
+      ]
+    },
+    "tt38759914": {
+      "imdbId": "tt38759914",
+      "title": "Botched Homes",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Ruined Retreat",
+          "airdate": "2026-09-02",
+          "summary": "Charlie and his crew overhaul the kitchen of homeowners, who did their best to DIY, but added bizarre details along the way, like a kids' play loft. Charlie teams up with Courtney to transform a hideous and hazardous checkerboard bathroom.",
+          "url": "https://www.imdb.com/title/tt44064019/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Welcome to the Swamp",
+          "airdate": "2026-10-07",
+          "summary": "Charlie transforms a college frat house into an elegant family home. Courtney attempts to combine the homeowner's coastal taste with modern decor. On another project, Charlie uncovers a nasty surprise nesting underneath the client's banana-colored toilet.",
+          "url": "https://www.imdb.com/title/tt44858138/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Rhinestone Throne",
+          "airdate": "2026-10-14",
+          "summary": "Charlie and Courtney bring an outdated house back to life with mid-century flair perfect for a couple's first home. On another project, a seashell-encrusted toilet is the least of Charlie and Courtney's worries for a bathroom with serious moisture issues.",
+          "url": "https://www.imdb.com/title/tt45083635/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "A Tale of Two Saunas",
+          "airdate": "2026-10-21",
+          "summary": "Charlie and Courtney transform a '90s nightmare bathroom into a modern dream spa and design a home office that doubles as a Miami-style speakeasy. In another home, they take a basement that looks like a crime scene and turn it into a home wellness center.",
+          "url": "https://www.imdb.com/title/tt45083972/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Too Many Cooks",
+          "airdate": "2026-09-09",
+          "summary": "Charlie helps four young musicians struggling with one dysfunctional kitchen. Courtney designs a new layout for their eclectic style on a tight budget. On another project, Charlie rips up the putting green in a bathroom that looks more like a golf course.",
+          "url": "https://www.imdb.com/title/tt44064151/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "name": "The Ghosts of Exxx-Wives' Past",
+          "airdate": "2026-09-16",
+          "summary": "Charlie and Courtney face red shaggy carpet and fluted columns in a bedroom that hasn't been touched since the 1980s. Meanwhile, Charlie demolishes a rusty pink bathroom and works up a new design that can accommodate the homeowner's peculiar shower habit.",
+          "url": "https://www.imdb.com/title/tt44064387/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 23,
+          "name": "Ratastrophe",
+          "airdate": "2026-09-23",
+          "summary": "Charlie and Courtney tackle a kitchen and living room reno for Hazel, who moved to Florida for her sister, and inherited her home (and the rats) after her passing. Charlie and Courtney end a cycle of negligent contractors to give Hazel the home she needs.",
+          "url": "https://www.imdb.com/title/tt44064504/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 30,
+          "name": "Bathroom of the Misfit Tub",
+          "airdate": "2026-09-30",
+          "summary": "Charlie and Courtney transform a primary suite for Paula and Dean, whose bathtub juts into the closet. In spite of a history with wayward contractors, they trust the team to battle termites, mold, and floating rafters to bring their dream retreat to life.",
+          "url": "https://www.imdb.com/title/tt44064615/?ref_=ttep_ep_5"
+        }
+      ]
+    },
+    "tt36885662": {
+      "imdbId": "tt36885662",
+      "title": "Best Medicine",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Episode #2.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336401/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Episode #2.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336404/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Episode #2.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336398/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Episode #2.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336405/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Episode #2.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336403/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Episode #2.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336399/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Episode #2.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336397/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Episode #2.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336402/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "Episode #2.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336408/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "Episode #2.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336407/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "name": "Episode #2.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42577025/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "name": "Episode #2.14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42577027/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 2,
+          "number": 22,
+          "name": "Be Careful What You Fish For",
+          "airdate": "2026-09-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336400/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Docked",
+          "airdate": "2026-01-04",
+          "summary": "Brilliant but brusque renowned surgeon Martin Best leaves his lucrative career in Boston to become the general practitioner in the small seaside village of Port Wenn, Maine.",
+          "url": "https://www.imdb.com/title/tt37196239/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Bean There Done That",
+          "airdate": "2026-01-13",
+          "summary": "Martin encounters his childhood bully and identifies a contagious disease, forcing him to cancel the town's monthly bean supper-much to the locals' anger.",
+          "url": "https://www.imdb.com/title/tt38262637/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Take Me Out of the Ballgame",
+          "airdate": "2026-01-20",
+          "summary": "On the eve of Port Wenn High School's baseball team's playoff game, the town is furious with Martin when he accidentally breaks the arm of their star player; Elaine moves into Martin's waiting room after fighting with her mom.",
+          "url": "https://www.imdb.com/title/tt39177708/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "All the World's Ablaze",
+          "airdate": "2026-01-27",
+          "summary": "Port Wenn's beloved hunky wilderness survival instructor disappears.",
+          "url": "https://www.imdb.com/title/tt39177710/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Hello Darkness, My Port Wenn",
+          "airdate": "2026-02-03",
+          "summary": "Martin's abrupt behavior triggers a town blackout during a wellness check. Residents face hardships while Martin bonds with a boy. Louisa and Mark have an intimate moment.",
+          "url": "https://www.imdb.com/title/tt39177712/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Eyewitness Blues",
+          "airdate": "2026-02-10",
+          "summary": "On the eve of Port Wenn's annual blueberry festival, Martin treats a local man who has apparently become blue from eating too many blueberries; Martin is disturbed by Aunt Sarah's lack of attention to her health.",
+          "url": "https://www.imdb.com/title/tt38781643/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "There Might Be Blood",
+          "airdate": "2026-02-17",
+          "summary": "Port Wenn's annual \"Blood Factory\" event honors a gory horror novel set in town. Martin must hide his severe blood phobia while treating a seriously ill Louisa. The town buzzes with rumors that the novel's author may attend.",
+          "url": "https://www.imdb.com/title/tt39177714/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "The Bogfather",
+          "airdate": "2026-02-24",
+          "summary": "Port Wenn goes on high alert when a corpse is found in the town bog. Martin's autopsy reveals murder. His solo investigation leads to a startling self-discovery while the neighborhood watch becomes a gossip mission.",
+          "url": "https://www.imdb.com/title/tt39177716/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Doc Martin",
+          "airdate": "2026-03-03",
+          "summary": "Martin's parents arrive unannounced, raising concerns about his father Robert's health. While Louisa temporarily leads the school during Spirit Week amid closure threats, Martin and Robert must work together to operate on a patient.",
+          "url": "https://www.imdb.com/title/tt39177718/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Port Wenn-ings and a Funeral",
+          "airdate": "2026-03-10",
+          "summary": "Bird migration invitation; treating hallucinations; Aunt angry about will; emergency procedure performed.",
+          "url": "https://www.imdb.com/title/tt39177719/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Mind Your Own Buboes",
+          "airdate": "2026-03-24",
+          "summary": "Port Wenn locks down after a patient with fleas raises plague concerns. Martin faces town gossip about him and Louisa. Aunt Sarah feels betrayed by Greg and George. Louisa has an epiphany.",
+          "url": "https://www.imdb.com/title/tt38949652/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "A Tale of Two Sister Cities",
+          "airdate": "2026-03-31",
+          "summary": "Martin doubts Port Wenn's warm Norwegian sister-city visitors while Louisa sees a specialist who's Martin's ex. Greg thinks he's passing tiny people, and Mark shows concerning symptoms needing attention.",
+          "url": "https://www.imdb.com/title/tt39177721/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "Norway No How",
+          "airdate": "2026-04-07",
+          "summary": "Port Wenn residents learn the truth about their Norwegian sister city deal. Martin faces his blood phobia exposure, delivers a baby, and encounters his ex. Louisa gets medical results. Al and Elaine face their uncertain future.",
+          "url": "https://www.imdb.com/title/tt39177723/?ref_=ttep_ep_13"
+        }
+      ]
+    },
+    "tt35949226": {
+      "imdbId": "tt35949226",
+      "title": "Youth",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Episode #1.4",
+          "airdate": "2026-10-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39028208/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode #1.5",
+          "airdate": "2026-10-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44879080/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode #1.6",
+          "airdate": "2026-10-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44879081/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Episode #1.7",
+          "airdate": "2026-10-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44879083/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Episode #1.8",
+          "airdate": "2026-11-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44879084/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 20,
+          "name": "Episode #1.1",
+          "airdate": "2026-09-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38990496/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 27,
+          "name": "Episode #1.3",
+          "airdate": "2026-09-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39028206/?ref_=ttep_ep_3"
         }
       ]
     }
