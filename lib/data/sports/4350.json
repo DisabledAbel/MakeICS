@@ -1626,7 +1626,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=FIDx3PyWrgY",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -1714,7 +1714,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=qfU2t-FR_ZE",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -1759,7 +1759,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "2H",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
