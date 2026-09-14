@@ -292,6 +292,22 @@
           "url": "https://www.imdb.com/title/tt43017585/?ref_=ttep_ep_3"
         },
         {
+          "season": 30,
+          "number": 11,
+          "name": "Maisie Williams",
+          "airdate": "2026-09-11",
+          "summary": "Actress Maisie Williams (movie, \"Practical Magic 2\");",
+          "url": "https://www.imdb.com/title/tt45671410/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 30,
+          "number": 14,
+          "name": "Colin Kaepernick/View Your Deal;",
+          "airdate": "2026-09-14",
+          "summary": "Author Colin Kaepernick; Gretta Monahan shows hot deals;",
+          "url": "https://www.imdb.com/title/tt43715645/?ref_=ttep_ep_5"
+        },
+        {
           "season": 29,
           "number": 8,
           "name": "Episode #29.1",
@@ -9959,22 +9975,6 @@
           "airdate": "2026-08-30",
           "summary": "An all-new never before seen twist is unleashed. And it will have dire consequences for one of the Houseguests.",
           "url": "https://www.imdb.com/title/tt43650782/?ref_=ttep_ep_26"
-        },
-        {
-          "season": 28,
-          "number": 36,
-          "name": "Episode #28.36",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44463167/?ref_=ttep_ep_36"
-        },
-        {
-          "season": 28,
-          "number": 37,
-          "name": "Episode #28.37",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44463169/?ref_=ttep_ep_37"
         },
         {
           "season": 28,
@@ -30684,9 +30684,9 @@
         {
           "season": 1,
           "number": 13,
-          "name": "Episode #1.5",
+          "name": "Lights Out",
           "airdate": "2026-09-13",
-          "summary": null,
+          "summary": "As the Macon family's history unravels, Rushville mobilizes in the face of the escalating threat. As John is placed in an impossible position, Hal risks everything in a final attempt to take down the Manhunter.",
           "url": "https://www.imdb.com/title/tt32752611/?ref_=ttep_ep_5"
         },
         {
@@ -36452,6 +36452,14 @@
       "title": "Halloween Wars",
       "episodes": [
         {
+          "season": 16,
+          "number": 13,
+          "name": "Back from the Dead: Halloween All Stars",
+          "airdate": "2026-09-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45853548/?ref_=ttep_ep_1"
+        },
+        {
           "season": 15,
           "number": 3,
           "name": "The Scary Square-Off",
@@ -37917,7 +37925,7 @@
           "number": 9,
           "name": "The Battle to Breathe",
           "airdate": null,
-          "summary": null,
+          "summary": "The decades long scientific search for a life saving treatment for Cystic Fibrosis.",
           "url": "https://www.imdb.com/title/tt43619089/?ref_=ttep_ep_9"
         },
         {
@@ -40008,6 +40016,495 @@
           "url": "https://www.imdb.com/title/tt39028206/?ref_=ttep_ep_3"
         }
       ]
+    },
+    "tt1536749": {
+      "imdbId": "tt1536749",
+      "title": "Let's Make a Deal",
+      "episodes": [
+        {
+          "season": 17,
+          "number": 8,
+          "name": "Episode #17.8",
+          "airdate": "2025-10-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38570177/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 17,
+          "number": 9,
+          "name": "Episode #17.9",
+          "airdate": "2025-10-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38570178/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 17,
+          "number": 10,
+          "name": "Episode #17.10",
+          "airdate": "2025-10-03",
+          "summary": "Fabulous Cars Friday;",
+          "url": "https://www.imdb.com/title/tt38570180/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 17,
+          "number": 11,
+          "name": "Episode #17.11",
+          "airdate": "2025-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38608938/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 17,
+          "number": 12,
+          "name": "Episode #17.12",
+          "airdate": "2025-10-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38608939/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 17,
+          "number": 13,
+          "name": "Episode #17.13",
+          "airdate": "2025-10-08",
+          "summary": "Worldwide Wednesday;",
+          "url": "https://www.imdb.com/title/tt38608941/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 17,
+          "number": 14,
+          "name": "Episode #17.14",
+          "airdate": "2025-10-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38608943/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 17,
+          "number": 15,
+          "name": "Episode #17.15",
+          "airdate": "2025-10-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38608945/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 17,
+          "number": 16,
+          "name": "Episode #17.16",
+          "airdate": "2025-10-13",
+          "summary": "Columbus Day; Mega Money Monday;",
+          "url": "https://www.imdb.com/title/tt38672174/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 17,
+          "number": 17,
+          "name": "Episode #17.17",
+          "airdate": "2025-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38672175/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 17,
+          "number": 18,
+          "name": "Episode #17.18",
+          "airdate": "2025-10-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38672176/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 17,
+          "number": 19,
+          "name": "Episode #17.19",
+          "airdate": "2025-10-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38672178/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 17,
+          "number": 20,
+          "name": "Episode #17.20",
+          "airdate": "2025-10-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38672179/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 17,
+          "number": 21,
+          "name": "Episode #17.21",
+          "airdate": "2025-10-20",
+          "summary": "Mega Money Monday;",
+          "url": "https://www.imdb.com/title/tt38744302/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 17,
+          "number": 22,
+          "name": "Episode #17.1",
+          "airdate": "2025-09-22",
+          "summary": "Mega Money Monday;",
+          "url": "https://www.imdb.com/title/tt38041025/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 17,
+          "number": 23,
+          "name": "Episode #17.2",
+          "airdate": "2025-09-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37334067/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 17,
+          "number": 24,
+          "name": "Episode #17.3",
+          "airdate": "2025-09-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37334069/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 17,
+          "number": 25,
+          "name": "Episode #17.4",
+          "airdate": "2025-09-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38503995/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 17,
+          "number": 26,
+          "name": "Episode #17.5",
+          "airdate": "2025-09-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38503996/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 17,
+          "number": 27,
+          "name": "Episode #17.27",
+          "airdate": "2025-10-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38782942/?ref_=ttep_ep_27"
+        },
+        {
+          "season": 17,
+          "number": 28,
+          "name": "Episode #17.28",
+          "airdate": "2025-10-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39121664/?ref_=ttep_ep_28"
+        },
+        {
+          "season": 17,
+          "number": 29,
+          "name": "Episode #17.6",
+          "airdate": "2025-09-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38503999/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 17,
+          "number": 30,
+          "name": "Episode #17.7",
+          "airdate": "2025-09-30",
+          "summary": "Happy Halloween;",
+          "url": "https://www.imdb.com/title/tt37334072/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 17,
+          "number": 31,
+          "name": "Episode #17.31",
+          "airdate": "2025-11-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38840848/?ref_=ttep_ep_31"
+        },
+        {
+          "season": 17,
+          "number": 32,
+          "name": "Episode #17.32",
+          "airdate": "2025-11-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38840849/?ref_=ttep_ep_32"
+        },
+        {
+          "season": 17,
+          "number": 33,
+          "name": "Episode #17.33",
+          "airdate": "2025-11-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38840851/?ref_=ttep_ep_33"
+        },
+        {
+          "season": 17,
+          "number": 34,
+          "name": "Episode #17.34",
+          "airdate": "2025-11-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38840856/?ref_=ttep_ep_34"
+        },
+        {
+          "season": 17,
+          "number": 35,
+          "name": "Episode #17.35",
+          "airdate": "2025-11-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38840858/?ref_=ttep_ep_35"
+        },
+        {
+          "season": 17,
+          "number": 36,
+          "name": "Episode #17.36",
+          "airdate": "2025-11-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38907416/?ref_=ttep_ep_36"
+        },
+        {
+          "season": 17,
+          "number": 37,
+          "name": "Episode #17.37",
+          "airdate": "2025-11-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38907417/?ref_=ttep_ep_37"
+        },
+        {
+          "season": 17,
+          "number": 38,
+          "name": "Episode #17.38",
+          "airdate": "2025-11-12",
+          "summary": "Worldwide Wednesday;",
+          "url": "https://www.imdb.com/title/tt38907418/?ref_=ttep_ep_38"
+        },
+        {
+          "season": 17,
+          "number": 39,
+          "name": "Episode #17.39",
+          "airdate": "2025-11-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38907419/?ref_=ttep_ep_39"
+        },
+        {
+          "season": 17,
+          "number": 40,
+          "name": "Episode #17.40",
+          "airdate": "2025-11-17",
+          "summary": "Mega Money Monday;",
+          "url": "https://www.imdb.com/title/tt38960873/?ref_=ttep_ep_40"
+        },
+        {
+          "season": 17,
+          "number": 41,
+          "name": "Episode #17.41",
+          "airdate": "2025-11-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38960875/?ref_=ttep_ep_41"
+        },
+        {
+          "season": 17,
+          "number": 42,
+          "name": "Episode #17.42",
+          "airdate": "2025-11-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38960876/?ref_=ttep_ep_42"
+        },
+        {
+          "season": 17,
+          "number": 43,
+          "name": "Episode #17.43",
+          "airdate": "2025-11-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38960877/?ref_=ttep_ep_43"
+        },
+        {
+          "season": 17,
+          "number": 44,
+          "name": "Episode #17.44",
+          "airdate": "2025-11-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38960878/?ref_=ttep_ep_44"
+        },
+        {
+          "season": 17,
+          "number": 45,
+          "name": "Episode #17.45",
+          "airdate": "2025-11-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39019109/?ref_=ttep_ep_45"
+        },
+        {
+          "season": 17,
+          "number": 46,
+          "name": "Episode #17.46",
+          "airdate": "2025-11-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39019110/?ref_=ttep_ep_46"
+        },
+        {
+          "season": 17,
+          "number": 47,
+          "name": "Episode #17.47",
+          "airdate": "2025-11-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39019111/?ref_=ttep_ep_47"
+        },
+        {
+          "season": 17,
+          "number": 48,
+          "name": "Episode #17.48",
+          "airdate": "2025-12-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38570182/?ref_=ttep_ep_48"
+        },
+        {
+          "season": 17,
+          "number": 49,
+          "name": "Episode #17.49",
+          "airdate": "2025-12-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38570185/?ref_=ttep_ep_49"
+        },
+        {
+          "season": 17,
+          "number": 50,
+          "name": "Episode #17.50",
+          "airdate": "2025-12-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38503997/?ref_=ttep_ep_50"
+        }
+      ]
+    },
+    "tt36933506": {
+      "imdbId": "tt36933506",
+      "title": "Celebrity Weakest Link",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 2,
+          "name": "8 More Degrees of Jane",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44326106/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Ballers",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44326104/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Fright Night",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44326107/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Power Couples",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44326105/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 21,
+          "name": "Reality Villains",
+          "airdate": "2026-09-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42593412/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Roastmasters",
+          "airdate": "2025-10-06",
+          "summary": "Jane Lynch hosts celebs Joel Kim Booster, Laverne Cox, Ron Funches, Carson Kressley, Jon Lovitz, Cheri Oteri, Adam Pally and Andy Richter. After each round, players vote out who they think is weakest.",
+          "url": "https://www.imdb.com/title/tt38188587/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "High School Reunion",
+          "airdate": "2025-10-13",
+          "summary": "Jane Lynch hosts celebrity pairs who were teen actors. Tatyana Ali, Shenae Grimes, Matt Lanter, Beverly Mitchell, Scott Porter, Daphne Reid, Aimeé Teegarden and Barry Watson compete in trivia, voting out players each round.",
+          "url": "https://www.imdb.com/title/tt38188590/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Football Legends",
+          "airdate": "2025-11-03",
+          "summary": "Touchdown! Eight football greats battle it out in a very different arena.",
+          "url": "https://www.imdb.com/title/tt38188891/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Special Forces",
+          "airdate": "2025-11-10",
+          "summary": "Jane Lynch hosts celebrities on FOX's 'Special Forces: World's Toughest Test'. After each round, contestants vote to eliminate who they see as the weakest link.",
+          "url": "https://www.imdb.com/title/tt38188623/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "8 Degrees of Jane",
+          "airdate": "2025-11-17",
+          "summary": "Jane Lynch hosts celebs Joel Kim Booster, Laverne Cox, Ron Funches, Carson Kressley, Jon Lovitz, Cheri Oteri, Adam Pally and Andy Richter. After each round, players vote out who they think is weakest.",
+          "url": "https://www.imdb.com/title/tt38188626/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Ex-Wives Club",
+          "airdate": "2025-11-24",
+          "summary": "Jane Lynch hosts celebs Bailey, Braxton, Gosselin, Gunvalson, Medley, Moakler, Wilkinson and Zarin. After each trivia round, contestants vote to eliminate the weakest player, whom Lynch dismisses.",
+          "url": "https://www.imdb.com/title/tt38188629/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Holiday Heroes",
+          "airdate": "2025-12-01",
+          "summary": "Ho, ho, ho! Jane has these stars trading mistletoe for mind games! Stars of beloved holiday movies battle it out.",
+          "url": "https://www.imdb.com/title/tt38188635/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "TV Doctors",
+          "airdate": "2025-12-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39166629/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "name": "Glee Homecoming",
+          "airdate": "2025-09-15",
+          "summary": "Calling all gleeks. Beware the return of Sue Sylvester. The stars from Glee (2009) reunite.",
+          "url": "https://www.imdb.com/title/tt36933584/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 22,
+          "name": "TV Moms",
+          "airdate": "2025-09-22",
+          "summary": "Eight actresses who played some of TV's favorite moms and aunts compete.",
+          "url": "https://www.imdb.com/title/tt38091353/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 29,
+          "name": "Reality Couples",
+          "airdate": "2025-09-29",
+          "summary": "Jane Lynch hosts reality couples competing in trivia rounds. After each round, players vote to eliminate the weakest contestant. Participants include the Gorgas, Hamiltons, Pratts, Anderson, and Graziadei.",
+          "url": "https://www.imdb.com/title/tt38091354/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt42496001": {
+      "imdbId": "tt42496001",
+      "title": "Line of Fire",
+      "episodes": []
     }
   }
 }
