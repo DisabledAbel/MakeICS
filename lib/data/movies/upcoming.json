@@ -3607,8 +3607,8 @@
           "name": "Manny Jacinto"
         },
         {
-          "id": "nm0758964",
-          "name": "Lea Salonga"
+          "id": "nm5307044",
+          "name": "Ronny Chieng"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3794,36 +3794,6 @@
       "label": "Sep 25, 2026"
     },
     {
-      "id": "tt34374553",
-      "title": "Victorian Psycho",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjdmNmYwMzEtMzJmYS00MDkxLThiNGItZjA0MGJlMjU4MTNmXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
-      "genres": [
-        "Comedy",
-        "Horror",
-        "Thriller"
-      ],
-      "people": [
-        {
-          "id": "nm18740300",
-          "name": "Guillaume Doradoux"
-        },
-        {
-          "id": "nm2140860",
-          "name": "Maika Monroe"
-        },
-        {
-          "id": "nm0005042",
-          "name": "Jason Isaacs"
-        },
-        {
-          "id": "nm5057169",
-          "name": "Thomasin McKenzie"
-        }
-      ],
-      "label": "Sep 25, 2026"
-    },
-    {
       "id": "tt34498564",
       "title": "The Vvaan: Force of the Forrest",
       "image": "https://m.media-amazon.com/images/M/MV5BYmNkYWJhZTAtYjMxNC00MjM3LWIwOGMtM2E2NGRmN2Y3OThmXkEyXkFqcGc@._V1_.jpg",
@@ -3944,20 +3914,20 @@
       ],
       "people": [
         {
-          "id": "nm5153701",
-          "name": "Christine Ko"
-        },
-        {
-          "id": "nm5216434",
-          "name": "Marcus Lewis"
-        },
-        {
           "id": "nm0005562",
           "name": "Owen Wilson"
         },
         {
           "id": "nm6346805",
           "name": "Travis Scott"
+        },
+        {
+          "id": "nm0086883",
+          "name": "Jolene"
+        },
+        {
+          "id": "nm8087548",
+          "name": "Christian Convery"
         }
       ],
       "label": "Oct 02, 2026"
@@ -4752,6 +4722,7 @@
     {
       "id": "tt38633147",
       "title": "The Trial of Alec Baldwin",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NTQ4ZWQtMzUyMy00Y2IxLTgyNWUtNTZjNTNmYmNmMjhiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
       "genres": [
         "Documentary"
@@ -4775,20 +4746,20 @@
       ],
       "people": [
         {
-          "id": "nm4911194",
-          "name": "Jenna Ortega"
-        },
-        {
           "id": "nm0010736",
           "name": "Amy Adams"
         },
         {
-          "id": "nm9894699",
-          "name": "Mia Tharia"
+          "id": "nm4911194",
+          "name": "Jenna Ortega"
         },
         {
-          "id": "nm15588612",
-          "name": "Aran Murphy"
+          "id": "nm0000114",
+          "name": "Steve Buscemi"
+        },
+        {
+          "id": "nm0005169",
+          "name": "Natasha Lyonne"
         }
       ],
       "label": "Oct 23, 2026"
@@ -4964,6 +4935,23 @@
         }
       ],
       "label": "Oct 23, 2026"
+    },
+    {
+      "id": "tt45591705",
+      "title": "Bts World Tour 'arirang' in Buenos Aires: Live Viewing",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTlmMTUzY2QtMTIxMy00OTQzLThiZGItZmVjYWM3YThiM2RlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 24 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm7808003",
+          "name": "BTS"
+        }
+      ],
+      "label": "Oct 24, 2026"
     },
     {
       "id": "tt39075417",
@@ -5471,6 +5459,36 @@
       "label": "Nov 06, 2026"
     },
     {
+      "id": "tt34374553",
+      "title": "Victorian Psycho",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjdmNmYwMzEtMzJmYS00MDkxLThiNGItZjA0MGJlMjU4MTNmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm18740300",
+          "name": "Guillaume Doradoux"
+        },
+        {
+          "id": "nm2140860",
+          "name": "Maika Monroe"
+        },
+        {
+          "id": "nm0005042",
+          "name": "Jason Isaacs"
+        },
+        {
+          "id": "nm5057169",
+          "name": "Thomasin McKenzie"
+        }
+      ],
+      "label": "Nov 13, 2026"
+    },
+    {
       "id": "tt35866986",
       "title": "How to Rob a Bank",
       "image": "https://m.media-amazon.com/images/M/MV5BODY5YWIzZTAtMzA5OC00MDgwLTgxZjQtZGIwZTg2YTk3YWE1XkEyXkFqcGc@._V1_.jpg",
@@ -5766,7 +5784,7 @@
     {
       "id": "tt11995650",
       "title": "I Play Rocky",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDZlN2IyYjUtM2FhMi00OTQ0LTk5YjktNTdiZGM1ZDg3NzIxXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDBlNzdhYTktNWJkYS00YTVkLTgxNzMtMjcyZGU2ZmZkZmI0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -6104,20 +6122,20 @@
       ],
       "people": [
         {
-          "id": "nm0050959",
-          "name": "Pedro Pascal"
-        },
-        {
           "id": "nm1312575",
           "name": "Olivia Wilde"
         },
         {
-          "id": "nm6872447",
-          "name": "Eva Victor"
+          "id": "nm0050959",
+          "name": "Pedro Pascal"
         },
         {
           "id": "nm0000498",
           "name": "Matthew Lillard"
+        },
+        {
+          "id": "nm0004715",
+          "name": "Will Arnett"
         }
       ],
       "label": "Dec 04, 2026"
@@ -6510,7 +6528,7 @@
     {
       "id": "tt30093348",
       "title": "Mr. Irrelevant",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjllOWE3OWQtNmVhYS00MzM0LTk2NTEtZjQzNTEzNTc2MTc3XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmFhNTIyYzAtYzJlMS00Y2Y1LTg3NjEtNTdiNzhmYTk5YzQyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -6519,20 +6537,20 @@
       ],
       "people": [
         {
-          "id": "nm8908475",
-          "name": "Isabel May"
-        },
-        {
-          "id": "nm0788335",
-          "name": "Michael Shannon"
-        },
-        {
           "id": "nm4825178",
           "name": "David Corenswet"
         },
         {
           "id": "nm0472710",
           "name": "David Krumholtz"
+        },
+        {
+          "id": "nm8908475",
+          "name": "Isabel May"
+        },
+        {
+          "id": "nm0788335",
+          "name": "Michael Shannon"
         }
       ],
       "label": "Dec 25, 2026"
@@ -6716,8 +6734,8 @@
           "name": "Matt Lucas"
         },
         {
-          "id": "nm0746896",
-          "name": "Richard Roxburgh"
+          "id": "nm3002919",
+          "name": "Blake Harrison"
         }
       ],
       "label": "Jan 15, 2027"
@@ -8141,12 +8159,12 @@
           "name": "Brie Larson"
         },
         {
-          "id": "nm0001746",
-          "name": "Ione Skye"
-        },
-        {
           "id": "nm0000422",
           "name": "John Goodman"
+        },
+        {
+          "id": "nm0973177",
+          "name": "Kyle Gallner"
         }
       ],
       "label": "Jun 04, 2027"
@@ -8267,12 +8285,12 @@
           "name": "Monica Barbaro"
         },
         {
-          "id": "nm0177896",
-          "name": "Bradley Cooper"
-        },
-        {
           "id": "nm3053338",
           "name": "Margot Robbie"
+        },
+        {
+          "id": "nm0177896",
+          "name": "Bradley Cooper"
         },
         {
           "id": "nm0609944",
@@ -8422,8 +8440,8 @@
           "name": "Jack Black"
         },
         {
-          "id": "nm0177639",
-          "name": "Jennifer Coolidge"
+          "id": "nm1546196",
+          "name": "Matt Berry"
         }
       ],
       "label": "Jul 23, 2027"
