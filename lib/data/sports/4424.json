@@ -5542,8 +5542,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "IN9",
+      "strVideo": "https://www.youtube.com/watch?v=12GE101BomE",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5586,8 +5586,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "IN9",
+      "strVideo": "https://www.youtube.com/watch?v=MbCaW9UZDDI",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5630,7 +5630,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=G5rKi5kJjXE",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -5674,7 +5674,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=QTqBPaBxP3Y",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -5718,7 +5718,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=DMR4R86ODpM",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
