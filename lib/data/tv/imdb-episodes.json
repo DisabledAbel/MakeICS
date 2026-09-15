@@ -302,10 +302,18 @@
         {
           "season": 30,
           "number": 14,
-          "name": "Colin Kaepernick/View Your Deal;",
+          "name": "Colin Kaepernick/View Your Deal",
           "airdate": "2026-09-14",
           "summary": "Author Colin Kaepernick; Gretta Monahan shows hot deals;",
           "url": "https://www.imdb.com/title/tt43715645/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 30,
+          "number": 15,
+          "name": "Dr. Neil deGrasse Tyson/View Your Deal/",
+          "airdate": "2026-09-15",
+          "summary": "Author Neil deGrasse Tyson (book, \"Lost in Space\");",
+          "url": "https://www.imdb.com/title/tt43715649/?ref_=ttep_ep_6"
         },
         {
           "season": 29,
@@ -6650,8 +6658,24 @@
           "number": 8,
           "name": "Lyla's Family Restaurant Part 1",
           "airdate": "2026-09-08",
-          "summary": "After his son's death, Leo lost passion for his Italian restaurant, causing declining food and service. Gordon helps rekindle the owner's love and revive the Texas eatery's glory.",
+          "summary": "Waleed sets out to achieve the American Dream with Lyla's Family Restaurant, but a sprawling menu, an overwhelmed kitchen, and a steady stream of dishes sent back have left the restaurant on the brink of collapse.",
           "url": "https://www.imdb.com/title/tt44912582/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 10,
+          "number": 11,
+          "name": "Wick 'n Ore Kitchen & Tap",
+          "airdate": null,
+          "summary": "Gordon Ramsay visits a suburban eatery in Illinois which is battling an identity crisis.",
+          "url": "https://www.imdb.com/title/tt45921787/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 10,
+          "number": 12,
+          "name": "Firenze Restaurant & Pizzeria",
+          "airdate": null,
+          "summary": "Gordon Ramsay travels to Michigan where he visits a family-run Italian institution facing years of leadership issues.",
+          "url": "https://www.imdb.com/title/tt45921877/?ref_=ttep_ep_12"
         },
         {
           "season": 9,
@@ -9978,33 +10002,9 @@
         },
         {
           "season": 28,
-          "number": 38,
-          "name": "Episode #28.38",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44463171/?ref_=ttep_ep_38"
-        },
-        {
-          "season": 28,
-          "number": 39,
-          "name": "Episode #28.39",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44463174/?ref_=ttep_ep_39"
-        },
-        {
-          "season": 28,
-          "number": 40,
-          "name": "Episode #28.40",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt45391563/?ref_=ttep_ep_40"
-        },
-        {
-          "season": 28,
-          "number": 41,
+          "number": 27,
           "name": "Episode #28.41",
-          "airdate": null,
+          "airdate": "2026-09-27",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45391595/?ref_=ttep_ep_41"
         },
@@ -10012,7 +10012,7 @@
           "season": 28,
           "number": 42,
           "name": "Episode #28.42",
-          "airdate": null,
+          "airdate": "2026-10-01",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45391607/?ref_=ttep_ep_42"
         },
@@ -24383,7 +24383,7 @@
           "number": 13,
           "name": "Knox",
           "airdate": "2026-09-13",
-          "summary": null,
+          "summary": "A robbery at Fort Knox puts Curtis and the FBI on a manhunt for the culprit, forcing O'Doyle to confront figures from his past to get to the bottom of it.",
           "url": "https://www.imdb.com/title/tt43716933/?ref_=ttep_ep_8"
         },
         {
@@ -26447,7 +26447,7 @@
           "number": 18,
           "name": "The Three Mark Skweikis",
           "airdate": "2026-09-18",
-          "summary": null,
+          "summary": "A naked, glowing man with no memory leads Anna and Frederick to unravel a decades-old mystery.",
           "url": "https://www.imdb.com/title/tt37775055/?ref_=ttep_ep_7"
         },
         {
@@ -30756,7 +30756,7 @@
           "number": 9,
           "name": "Frank's Team: A Dark Day for Baseball",
           "airdate": "2026-10-05",
-          "summary": null,
+          "summary": "In an effort to clean up their image, Paddy's sponsors a local Little League team. But when The Gang spots softness in their franchise, they impose a radical new culture: win no matter what and do whatever it takes to get ahead.",
           "url": "https://www.imdb.com/title/tt43679382/?ref_=ttep_ep_9"
         },
         {
@@ -30788,7 +30788,7 @@
           "number": 28,
           "name": "Mac and Dennis Tear Their ACLs",
           "airdate": "2026-09-28",
-          "summary": null,
+          "summary": "Charlie nurses a bedridden Mac and Dennis and deliberates on which one is the originator of all their ideas. Dee and Frank are tired of being the bottom of the communication ladder and decide to flip the script.",
           "url": "https://www.imdb.com/title/tt43679379/?ref_=ttep_ep_8"
         },
         {
@@ -36408,7 +36408,7 @@
         {
           "season": 1,
           "number": 14,
-          "name": "Red Dawn",
+          "name": "Blood Ties",
           "airdate": "2026-09-14",
           "summary": "Inside Abu Ghraib, John presses Saddam Hussein's cousin for the dictator's whereabouts. Unprepared, John gets drafted onto the chopper headed for operation Red Dawn.",
           "url": "https://www.imdb.com/title/tt43746693/?ref_=ttep_ep_3"
@@ -37456,18 +37456,90 @@
       "episodes": [
         {
           "season": 35,
-          "number": 15,
-          "name": "Episode #35.1",
-          "airdate": "2026-09-15",
+          "number": 3,
+          "name": "Episode #35.3",
+          "airdate": null,
           "summary": null,
+          "url": "https://www.imdb.com/title/tt45920345/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 35,
+          "number": 4,
+          "name": "Episode #35.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920346/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 35,
+          "number": 5,
+          "name": "Episode #35.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920351/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 35,
+          "number": 6,
+          "name": "Episode #35.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920373/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 35,
+          "number": 7,
+          "name": "Episode #35.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920379/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 35,
+          "number": 8,
+          "name": "Episode #35.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920388/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 35,
+          "number": 9,
+          "name": "Episode #35.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920389/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 35,
+          "number": 10,
+          "name": "Episode #35.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920390/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 35,
+          "number": 11,
+          "name": "Episode #35.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920391/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 35,
+          "number": 15,
+          "name": "Premiere: Night One",
+          "airdate": "2026-09-15",
+          "summary": "The ballroom welcomes 16 new celebrities for their first live performance; the male celebrities make their debut, performing to a number one song from the year they were born.",
           "url": "https://www.imdb.com/title/tt39100722/?ref_=ttep_ep_1"
         },
         {
           "season": 35,
           "number": 16,
-          "name": "Episode #35.2",
+          "name": "Premiere: Night Two",
           "airdate": "2026-09-16",
-          "summary": null,
+          "summary": "The female celebrities make their competition debut, performing to a number one song from the year they were born.",
           "url": "https://www.imdb.com/title/tt44764065/?ref_=ttep_ep_2"
         },
         {
@@ -37685,25 +37757,25 @@
         {
           "season": 7,
           "number": 16,
-          "name": "Episode #7.1",
+          "name": "Chosen Family",
           "airdate": "2026-09-16",
-          "summary": null,
+          "summary": "The women of Salt Lake City put their differences aside to support Mary as she copes with an unimaginable loss. Amid this tragedy, Whitney knows she must address the fallout from her harsh public comments about Lisa and Meredith.",
           "url": "https://www.imdb.com/title/tt39412509/?ref_=ttep_ep_1"
         },
         {
           "season": 7,
           "number": 23,
-          "name": "Episode #7.2",
+          "name": "Après-Ski with Lisa B",
           "airdate": "2026-09-23",
-          "summary": null,
+          "summary": "Bronwyn finds happiness in her new relationship while Whitney realizes she needs to make big changes in more than one aspect of her life. After Robert Jr.'s homegoing, Lisa brings the girls together for a ski day to lift their spirits.",
           "url": "https://www.imdb.com/title/tt45664089/?ref_=ttep_ep_2"
         },
         {
           "season": 7,
           "number": 30,
-          "name": "Episode #7.3",
+          "name": "Little Green Leprechaun, Big Dirty Secret",
           "airdate": "2026-09-30",
-          "summary": null,
+          "summary": "The ladies travel together to San Francisco and dress in their most festive outfits and greenest wigs for a rowdy night out on St. Patrick's Day. Angie reveals a scandalous secret about the group's newest friend.",
           "url": "https://www.imdb.com/title/tt45664107/?ref_=ttep_ep_3"
         },
         {
@@ -38169,7 +38241,7 @@
         {
           "season": 29,
           "number": 16,
-          "name": "Episode #29.1",
+          "name": "South American Biker Gangs",
           "airdate": "2026-09-16",
           "summary": "The boys are trolling on the internet when they send a message to the wrong person and end up on North Sentinel Island.",
           "url": "https://www.imdb.com/title/tt26764475/?ref_=ttep_ep_1"
@@ -40002,7 +40074,7 @@
         {
           "season": 1,
           "number": 20,
-          "name": "Episode #1.1",
+          "name": "Lockjaw",
           "airdate": "2026-09-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38990496/?ref_=ttep_ep_1"
@@ -40010,7 +40082,7 @@
         {
           "season": 1,
           "number": 27,
-          "name": "Episode #1.3",
+          "name": "Welcome to the Rat's Nest",
           "airdate": "2026-09-27",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39028206/?ref_=ttep_ep_3"
@@ -40505,6 +40577,348 @@
       "imdbId": "tt42496001",
       "title": "Line of Fire",
       "episodes": []
+    },
+    "tt26748321": {
+      "imdbId": "tt26748321",
+      "title": "Doc",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 2,
+          "name": "Episode #3.2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548580/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "Episode #3.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548581/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "Episode #3.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548583/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "name": "Episode #3.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548576/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "name": "Episode #3.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548577/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "name": "Episode #3.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548582/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "name": "Episode #3.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548575/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "name": "Episode #3.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548579/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "name": "Episode #3.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548584/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 3,
+          "number": 11,
+          "name": "Episode #3.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548614/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 3,
+          "number": 12,
+          "name": "Episode #3.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548609/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 3,
+          "number": 13,
+          "name": "Episode #3.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548612/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 3,
+          "number": 14,
+          "name": "Episode #3.14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548610/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 3,
+          "number": 15,
+          "name": "Episode #3.15",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548616/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 3,
+          "number": 16,
+          "name": "Episode #3.16",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548615/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 3,
+          "number": 17,
+          "name": "Episode #3.17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548613/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 3,
+          "number": 18,
+          "name": "Episode #3.18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548611/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 3,
+          "number": 19,
+          "name": "Episode #3.19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548607/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 3,
+          "number": 20,
+          "name": "Episode #3.20",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548608/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 3,
+          "number": 21,
+          "name": "Episode #3.21",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548623/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 3,
+          "number": 22,
+          "name": "Wherefore Art Thou",
+          "airdate": "2026-09-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548578/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "New Blood",
+          "airdate": "2025-10-07",
+          "summary": "Amy faces medical tourism challenges through a patient; TJ assists a veteran with prosthetics; Joan reveals shocking news.",
+          "url": "https://www.imdb.com/title/tt35931772/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Something to Prove",
+          "airdate": "2025-10-14",
+          "summary": "An old medical proxy form causes conflict between a patient's ex and current partner. Meanwhile, Amy, Jake and new intern Hannah look into why a college student suddenly went blind.",
+          "url": "https://www.imdb.com/title/tt35931773/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Tightrope",
+          "airdate": "2025-10-21",
+          "summary": "A popular weight loss drug reveals the cracks in a couples' relationship. Two sisters face an unexpected diagnosis.",
+          "url": "https://www.imdb.com/title/tt35931788/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Saints and Sinners",
+          "airdate": "2025-10-28",
+          "summary": "Amy treats a Chaplain who helps her reconcile with the past, while Michael is under investigation for his actions during the hostage crisis. Also, TJ returns to work and treats a prisoner and Hannah's brother shows up with a plan.",
+          "url": "https://www.imdb.com/title/tt35931778/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "What I Did for Love",
+          "airdate": "2025-11-11",
+          "summary": "Amy and Gina help a domestic abuse victim with Jake's support. TJ, Sonya and Liz treat a social media star. Hannah and Charlie plot against Amy.",
+          "url": "https://www.imdb.com/title/tt35931782/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "He Loved You",
+          "airdate": "2025-11-18",
+          "summary": "Jake defies other surgeons while fighting for a terminal patient. Amy's neurological examination triggers memories of Danny, causing her to overexert herself.",
+          "url": "https://www.imdb.com/title/tt35931786/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Kaddish",
+          "airdate": "2025-11-25",
+          "summary": "At his father's funeral, Jake processes grief and his feelings for Amy. A flashback reveals his old plans to leave Westside and why he stayed. Charlie's scheme against Amy becomes extreme.",
+          "url": "https://www.imdb.com/title/tt35931781/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Chief",
+          "airdate": "2026-01-06",
+          "summary": "A hospital hack coincides with three patients showing similar symptoms. Two are connected, one homeless. Michael faces marriage troubles. Sonya refuses Larsen's test suggestion. Clark discovers hack delayed diagnosis.",
+          "url": "https://www.imdb.com/title/tt35931779/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "Family Matters",
+          "airdate": "2026-01-13",
+          "summary": "After a deadly hack, the FBI hunts the hacker. Sonya and T.J. help a student in need, while Amy secretly searches hospital files during a poisoning case, alarming Hannah.",
+          "url": "https://www.imdb.com/title/tt35931767/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "Inquisition",
+          "airdate": "2026-01-20",
+          "summary": "Amy learns Hanna's father is the man she remembers and assumes she's behind the hacking. The board orders an inquiry as some want Amy fired, believing Hannah blames Amy for her father's suicide. Amy may have made him quit or fired him.",
+          "url": "https://www.imdb.com/title/tt35931783/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "name": "Fare Well",
+          "airdate": "2026-01-27",
+          "summary": "Joan has Amy and Sonya evaluate each other's cases as the Chief resident competition intensifies. Amy treats a politician with a disability who has health issues. Sonya searches for answers to her patient's severe abdominal pain.",
+          "url": "https://www.imdb.com/title/tt35931775/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "name": "Her Heart",
+          "airdate": "2025-09-14",
+          "summary": "Amy's past comes back to haunt her when a desperate father sacrifices everything to secure his daughter's heart transplant.",
+          "url": "https://www.imdb.com/title/tt35931770/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "name": "Trust",
+          "airdate": "2026-02-10",
+          "summary": "Amy treats a critically ill patient with a secret while processing Katie's news. Gina and Jake evaluate a poker player's mental state as Jake hides Rachel's health crisis from Amy. Sonya and TJ investigate Joan's absences. Richard returns.",
+          "url": "https://www.imdb.com/title/tt35931774/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 2,
+          "number": 16,
+          "name": "The Best We Can Do",
+          "airdate": "2026-03-03",
+          "summary": "Richard faces cold reception and seeks redemption while caring for an exhausted delivery driver. Sonya and TJ get Jake involved in handling Joan's sensitive matter. Amy and TJ treat a prominent malpractice attorney with unforeseen results.",
+          "url": "https://www.imdb.com/title/tt35931780/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 2,
+          "number": 17,
+          "name": "Good Hands",
+          "airdate": "2026-03-10",
+          "summary": "Richard seeks redemption after a hostile reception, treating an exhausted delivery worker. Sonya and TJ get Jake's help with Joan's sensitive matter. Amy and TJ treat a prominent malpractice attorney, causing unforeseen issues.",
+          "url": "https://www.imdb.com/title/tt35931785/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "name": "Orientation",
+          "airdate": "2026-03-24",
+          "summary": "Amy and Michael take Katie to college orientation. They stop at a familiar campsite to hike but find an injured man in critical condition. With no cell service in the remote area, the three must find a way to save him.",
+          "url": "https://www.imdb.com/title/tt35931784/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "name": "Next",
+          "airdate": "2026-03-31",
+          "summary": "Joan selects her replacement, names a Chief Resident, and shares advice on her final day. Gina aids TJ with a foster child who has rheumatoid arthritis. Amy and Jake clash while caring for a pregnant teen torn between her parents.",
+          "url": "https://www.imdb.com/title/tt35931787/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 2,
+          "number": 20,
+          "name": "The Big Chair",
+          "airdate": "2026-04-07",
+          "summary": "Michael begins as Chief of Internal Medicine when Joan is admitted in critical condition. Amy and Richard clash over Joan's care. Gina faces a difficult decision for young patient while Liz struggles to have her complaints against Richard.",
+          "url": "https://www.imdb.com/title/tt35931777/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 2,
+          "number": 21,
+          "name": "Stuck",
+          "airdate": "2026-04-14",
+          "summary": "A mysterious, fast-acting, and extremely deadly virus causes an emergency lockdown on Westside Hospital's 6th floor.",
+          "url": "https://www.imdb.com/title/tt35931768/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 2,
+          "number": 22,
+          "name": "Happy Birthday",
+          "airdate": "2026-04-14",
+          "summary": "Amy contracts a deadly virus while trying to save Richard. Despite Michael and the team's relentless efforts to treat her and other patients, their experimental methods prove unsuccessful, leaving Amy in critical condition.",
+          "url": "https://www.imdb.com/title/tt35931769/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 2,
+          "number": 30,
+          "name": "Delusions of Grandeur",
+          "airdate": "2025-09-30",
+          "summary": "Amy struggles with memories during treatment of an expectant mother's puzzling illness. Her mentor Dr. Joan Ridley makes a visit to Westside.",
+          "url": "https://www.imdb.com/title/tt35931771/?ref_=ttep_ep_2"
+        }
+      ]
     }
   }
 }
