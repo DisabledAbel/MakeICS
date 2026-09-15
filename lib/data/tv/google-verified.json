@@ -119,11 +119,6 @@
     "name": "The Weenie",
     "verifiedAt": "2026-09-12T16:02:23.759Z"
   },
-  "Somebody Knows Something-1-7": {
-    "airdate": "2026-09-14",
-    "name": "Lost at the Science Fair",
-    "verifiedAt": "2026-09-12T16:02:31.123Z"
-  },
   "The Great American Road Rally: Celebrity Edition-1-1": {
     "airdate": "2026-09-16",
     "name": "The Send-Off",
@@ -149,16 +144,6 @@
     "name": "Click Pop",
     "verifiedAt": "2026-09-12T16:02:50.834Z"
   },
-  "Name That Tune-5-15": {
-    "airdate": "2026-09-14",
-    "name": "Modern Family Tunes",
-    "verifiedAt": "2026-09-12T16:02:57.767Z"
-  },
-  "Independent Lens-27-15": {
-    "airdate": "2026-09-14",
-    "name": "Flood",
-    "verifiedAt": "2026-09-12T16:03:00.930Z"
-  },
   "Customer Wars-9-1": {
     "airdate": "2026-10-06",
     "name": "Gate Clash",
@@ -183,5 +168,10 @@
     "airdate": "2026-10-13",
     "name": "Titans vs Competition Legend",
     "verifiedAt": "2026-09-14T18:24:25.559Z"
+  },
+  "Austin City Limits-52-4": {
+    "airdate": "2026-09-26",
+    "name": "Carlos Vives y La Provincia",
+    "verifiedAt": "2026-09-15T17:33:13.032Z"
   }
 }
