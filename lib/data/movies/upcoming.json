@@ -3514,12 +3514,12 @@
           "name": "Nani"
         },
         {
-          "id": "nm11469931",
-          "name": "Kayadu Lohar"
-        },
-        {
           "id": "nm5644335",
           "name": "Raghav Juyal"
+        },
+        {
+          "id": "nm11469931",
+          "name": "Kayadu Lohar"
         },
         {
           "id": "nm0006764",
@@ -3745,20 +3745,20 @@
       ],
       "people": [
         {
-          "id": "nm0001573",
-          "name": "Catherine O'Hara"
+          "id": "nm0001006",
+          "name": "John Candy"
         },
         {
           "id": "nm0000196",
           "name": "Mike Myers"
         },
         {
-          "id": "nm0001006",
-          "name": "John Candy"
+          "id": "nm0001573",
+          "name": "Catherine O'Hara"
         },
         {
-          "id": "nm0001737",
-          "name": "Martin Short"
+          "id": "nm0000101",
+          "name": "Dan Aykroyd"
         }
       ],
       "label": "Sep 25, 2026"
@@ -3926,8 +3926,8 @@
           "name": "Jolene"
         },
         {
-          "id": "nm8087548",
-          "name": "Christian Convery"
+          "id": "nm5994231",
+          "name": "Matt Rife"
         }
       ],
       "label": "Oct 02, 2026"
@@ -5222,6 +5222,35 @@
       "label": "Oct 31, 2026"
     },
     {
+      "id": "tt34446639",
+      "title": "The One",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjA4ODZjNDUtOWNlNy00MDI1LWIwMjYtOGQ4NDkxOTY3YWExXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "people": [
+        {
+          "id": "nm0000640",
+          "name": "Martin Sheen"
+        },
+        {
+          "id": "nm1325306",
+          "name": "Jana Kramer"
+        },
+        {
+          "id": "nm10288884",
+          "name": "Erin Robinson"
+        },
+        {
+          "id": "nm1214657",
+          "name": "Nick Zano"
+        }
+      ],
+      "label": "Nov 05, 2026"
+    },
+    {
       "id": "tt15799564",
       "title": "Wild Horse Nine",
       "image": "https://m.media-amazon.com/images/M/MV5BNDc5ZDAzNmEtNTI2OS00YWI0LWE5MTYtZTJiN2RkNzRmMjA0XkEyXkFqcGc@._V1_.jpg",
@@ -5568,12 +5597,12 @@
           "name": "Sam Claflin"
         },
         {
-          "id": "nm0005212",
-          "name": "Ian McKellen"
-        },
-        {
           "id": "nm5397459",
           "name": "Daisy Ridley"
+        },
+        {
+          "id": "nm0005212",
+          "name": "Ian McKellen"
         }
       ],
       "label": "Nov 13, 2026"
@@ -5734,6 +5763,10 @@
       ],
       "people": [
         {
+          "id": "nm2225369",
+          "name": "Jennifer Lawrence"
+        },
+        {
           "id": "nm5085683",
           "name": "Mckenna Grace"
         },
@@ -5744,10 +5777,6 @@
         {
           "id": "nm0687146",
           "name": "Jesse Plemons"
-        },
-        {
-          "id": "nm0000146",
-          "name": "Ralph Fiennes"
         }
       ],
       "label": "Nov 20, 2026"
@@ -5815,7 +5844,7 @@
     {
       "id": "tt37118301",
       "title": "Minotaur",
-      "image": "https://m.media-amazon.com/images/M/MV5BZjA2OGY3M2MtMTg0OC00MmJlLWEwOTctMjIxY2Y4MjlhNTJlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjRjMjUwM2QtMzk1OC00MGU4LTlmZTEtNTJjYWIzNDFlMDZhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
       "genres": [
         "Crime",
@@ -7154,8 +7183,12 @@
       ],
       "people": [
         {
-          "id": "nm3922847",
-          "name": "Pia Mia"
+          "id": "nm4874651",
+          "name": "Dove Cameron"
+        },
+        {
+          "id": "nm2666409",
+          "name": "RJ Mitte"
         },
         {
           "id": "nm0489436",
@@ -7164,10 +7197,6 @@
         {
           "id": "nm5397002",
           "name": "Bastiano Ferrari"
-        },
-        {
-          "id": "nm0316310",
-          "name": "Jay Giannone"
         }
       ],
       "label": "Feb 13, 2027"
@@ -7335,16 +7364,16 @@
           "name": "Kevin Sorbo"
         },
         {
-          "id": "nm0270480",
-          "name": "Danny Fehsenfeld"
-        },
-        {
           "id": "nm0420966",
           "name": "Sam Sorbo"
         },
         {
-          "id": "nm1941140",
-          "name": "Aaron Groben"
+          "id": "nm1451244",
+          "name": "Amanda Schoonover"
+        },
+        {
+          "id": "nm0270480",
+          "name": "Danny Fehsenfeld"
         }
       ],
       "label": "Mar 05, 2027"
@@ -7873,8 +7902,8 @@
           "name": "Jaakko Ohtonen"
         },
         {
-          "id": "nm0810738",
-          "name": "Kasia Smutniak"
+          "id": "nm12484660",
+          "name": "Phoenix Laroche"
         },
         {
           "id": "nm1249052",
@@ -8462,16 +8491,16 @@
           "name": "Emily Blunt"
         },
         {
-          "id": "nm1925239",
-          "name": "Jack O'Connell"
-        },
-        {
           "id": "nm0614165",
           "name": "Cillian Murphy"
         },
         {
-          "id": "nm7415871",
-          "name": "Noah Jupe"
+          "id": "nm1925239",
+          "name": "Jack O'Connell"
+        },
+        {
+          "id": "nm6884042",
+          "name": "Katy O'Brian"
         }
       ],
       "label": "Jul 30, 2027"
