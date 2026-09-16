@@ -316,6 +316,14 @@
           "url": "https://www.imdb.com/title/tt43715649/?ref_=ttep_ep_6"
         },
         {
+          "season": 30,
+          "number": 16,
+          "name": "Ke Huy Quan/View Your Deal/",
+          "airdate": "2026-09-16",
+          "summary": "Actor Ke Huy Quan (movie, \"Avatar Aang: The Last Airbender\");",
+          "url": "https://www.imdb.com/title/tt43715653/?ref_=ttep_ep_7"
+        },
+        {
           "season": 29,
           "number": 8,
           "name": "Episode #29.1",
@@ -1544,9 +1552,9 @@
         },
         {
           "season": 8,
-          "number": 29,
+          "number": 28,
           "name": "Episode #8.13",
-          "airdate": "2026-09-29",
+          "airdate": "2026-09-28",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37156740/?ref_=ttep_ep_13"
         },
@@ -1938,10 +1946,34 @@
         {
           "season": 11,
           "number": 14,
-          "name": "Episode #11.15",
+          "name": "Chips on the Shoulders",
           "airdate": "2026-09-14",
-          "summary": null,
+          "summary": "Capt. Sandy questions Nathan's motivations on deck. Joy tries to fulfill some outlandish food preferences. Cooper and Kat struggle to communicate. A guest emergency sends everyone into panic mode.",
           "url": "https://www.imdb.com/title/tt44075362/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 11,
+          "number": 18,
+          "name": "Episode #11.18",
+          "airdate": "2026-10-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023372/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 11,
+          "number": 21,
+          "name": "The Babysitter's Club",
+          "airdate": "2026-09-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023370/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 11,
+          "number": 28,
+          "name": "Episode #11.17",
+          "airdate": "2026-09-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023371/?ref_=ttep_ep_17"
         },
         {
           "season": 10,
@@ -10355,7 +10387,7 @@
           "number": 15,
           "name": "Restaurant Takeover",
           "airdate": "2026-08-26",
-          "summary": "The Top 6 home cooks are split into teams to put their skills to the ultimate test and take over Cluny Bistro for a packed dinner service in the Restaurant Takeover challenge. The MasterChef kitchen has prepared them for this moment, but running a real restaurant leaves no room for error. By the end of the night, one cook will not survive the dinner rush.",
+          "summary": "The Top 6 split into teams to run Cluny Bistro for a packed dinner service. The real restaurant challenge leaves no room for error—one cook won't survive.",
           "url": "https://www.imdb.com/title/tt44042045/?ref_=ttep_ep_15"
         },
         {
@@ -10363,7 +10395,7 @@
           "number": 16,
           "name": "Finale Part 2",
           "airdate": "2026-09-16",
-          "summary": "The MasterChef finale continues as the finalists present dishes inspired by their journeys through the Global Gauntlet, showcasing the culinary skills and perspectives that brought them to this moment. With the competition nearing an end, every detail matters as they craft their most remarkable dishes in a final bid to impress the judges.",
+          "summary": "The MasterChef finale continues as finalists present dishes inspired by their Global Gauntlet journeys, showcasing their skills in a final bid to impress the judges.",
           "url": "https://www.imdb.com/title/tt45351408/?ref_=ttep_ep_18"
         },
         {
@@ -22957,7 +22989,7 @@
           "number": 20,
           "name": "Tell All Part 2",
           "airdate": "2026-09-20",
-          "summary": "On Part Two of the Tell All, the couples take the drama offstage for a chaotic night out in New York City. Edward gives Marissa an ultimatum, Catie tries to prove she's changed, and Mallorie's friend reveals a shocking secret she kept from Rasit.",
+          "summary": "In Part Two, the couples take the drama to NYC. Edward gives Marissa an ultimatum, Catie tries proving she's changed, and Mallorie's friend reveals a shocking secret.",
           "url": "https://www.imdb.com/title/tt43748127/?ref_=ttep_ep_20"
         },
         {
@@ -33821,9 +33853,9 @@
         {
           "season": 1,
           "number": 9,
-          "name": "Episode #1.4",
+          "name": "A Swiftie's Survivor Era",
           "airdate": "2026-09-09",
-          "summary": null,
+          "summary": "A 10-year-old Swiftie suddenly fights for her life. A couple on vacation is attacked by bees. A child inhales a dog's squeaker toy. A healthy woman collapses while working out. A young man has a skateboarding accident and wakes up without his skull.",
           "url": "https://www.imdb.com/title/tt43744765/?ref_=ttep_ep_4"
         },
         {
@@ -34299,18 +34331,34 @@
         {
           "season": 2,
           "number": 1,
-          "name": "Episode #2.1",
+          "name": "Boots on the Ground",
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt38753588/?ref_=ttep_ep_1"
         },
         {
           "season": 2,
-          "number": 2,
-          "name": ".2",
-          "airdate": null,
+          "number": 12,
+          "name": "The Dust Settles",
+          "airdate": "2026-09-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43722253/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "name": "Strawberries and Sunshine",
+          "airdate": "2026-09-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43743880/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 26,
+          "name": "Winds of Change",
+          "airdate": "2026-09-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43743913/?ref_=ttep_ep_4"
         },
         {
           "season": 1,
@@ -34689,19 +34737,91 @@
         },
         {
           "season": 16,
+          "number": 6,
+          "name": "Episode #16.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023292/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 16,
+          "number": 7,
+          "name": "Episode #16.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023293/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 16,
           "number": 8,
           "name": "The Price of Perfection",
           "airdate": "2026-09-08",
-          "summary": "Jessel throws a Lunar New Year party to leave behind a year of loss but finds herself at odds with a friend; Sai opens up about her marriage; Hailey offers a glimpse into her unconventional life; Daisy shows a part of her world working for an icon.",
+          "summary": "Jessel hosts a Lunar New Year party to move past loss but clashes with a friend. Sai discusses her marriage, Hailey shares her unique life, and Daisy reveals working for an icon.",
           "url": "https://www.imdb.com/title/tt40350961/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 16,
+          "number": 9,
+          "name": "Episode #16.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023296/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 16,
+          "number": 10,
+          "name": "Episode #16.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023298/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 16,
+          "number": 11,
+          "name": "Episode #16.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023299/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 16,
+          "number": 12,
+          "name": "Episode #16.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023303/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 16,
+          "number": 13,
+          "name": "Episode #16.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023304/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 16,
+          "number": 14,
+          "name": "Episode #16.14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023307/?ref_=ttep_ep_14"
         },
         {
           "season": 16,
           "number": 15,
           "name": "Much Ado About Brunching",
           "airdate": "2026-09-15",
-          "summary": null,
+          "summary": "Daisy throws a brunch for Sai that goes south when tensions resurface. Erin deals with a home emergency. Carole is offended by insensitive comments. Daisy reveals a sexy text exchange.",
           "url": "https://www.imdb.com/title/tt45211866/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 16,
+          "number": 16,
+          "name": "Episode #16.16",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023310/?ref_=ttep_ep_16"
         },
         {
           "season": 16,
@@ -34788,7 +34908,7 @@
           "number": 9,
           "name": "Coming Clean",
           "airdate": "2024-11-26",
-          "summary": "At Ubah's pigeon picnic, Erin finds herself in hot water with the ladies, leading Racquel to question their friendship. Ubah sees a fertility specialist to discuss options about starting a family. Erin opens up to Jenna about a secret from her past.",
+          "summary": "At Ubah's picnic, Erin clashes with the group, making Racquel question their bond. Ubah sees a fertility doctor while Erin reveals a secret to Jenna.",
           "url": "https://www.imdb.com/title/tt32840306/?ref_=ttep_ep_9"
         },
         {
@@ -34923,6 +35043,14 @@
       "imdbId": "tt12849834",
       "title": "Tyler Perry's Assisted Living",
       "episodes": [
+        {
+          "season": 7,
+          "number": 15,
+          "name": "Killa",
+          "airdate": "2026-09-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023391/?ref_=ttep_ep_2"
+        },
         {
           "season": 6,
           "number": 1,
@@ -36394,7 +36522,7 @@
           "number": 8,
           "name": "Episode #1.8",
           "airdate": "2026-10-04",
-          "summary": null,
+          "summary": "John becomes a pariah in Washington by trying to save Saddam and warning about the coming threat of Iran. A meeting in the White House gives John one last chance to convince President Bush to alter the course of the Middle East.",
           "url": "https://www.imdb.com/title/tt43746688/?ref_=ttep_ep_8"
         },
         {
@@ -37537,10 +37665,10 @@
         {
           "season": 35,
           "number": 16,
-          "name": "Premiere: Night Two",
+          "name": "After Show Special",
           "airdate": "2026-09-16",
           "summary": "The female celebrities make their competition debut, performing to a number one song from the year they were born.",
-          "url": "https://www.imdb.com/title/tt44764065/?ref_=ttep_ep_2"
+          "url": "https://www.imdb.com/title/tt46023267/?ref_=ttep_ep"
         },
         {
           "season": 34,
@@ -37649,7 +37777,7 @@
           "number": 15,
           "name": "The Point of Us Breaking",
           "airdate": "2026-09-15",
-          "summary": null,
+          "summary": "R.J. reconnects with an old prison friend and gets pulled into bold bank heists as Victor Ochoa's death creates more problems.",
           "url": "https://www.imdb.com/title/tt42484640/?ref_=ttep_ep_1"
         },
         {
@@ -38243,7 +38371,7 @@
           "number": 16,
           "name": "South American Biker Gangs",
           "airdate": "2026-09-16",
-          "summary": "The boys are trolling on the internet when they send a message to the wrong person and end up on North Sentinel Island.",
+          "summary": "When e-bikes arrive in South America, the boys take over the streets and the parents of South America can hardly recognize South America.",
           "url": "https://www.imdb.com/title/tt26764475/?ref_=ttep_ep_1"
         },
         {
@@ -39922,6 +40050,14 @@
           "url": "https://www.imdb.com/title/tt40336400/?ref_=ttep_ep_1"
         },
         {
+          "season": 2,
+          "number": 29,
+          "name": "Breakin' In is Hard to Do",
+          "airdate": "2026-09-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336406/?ref_=ttep_ep_2"
+        },
+        {
           "season": 1,
           "number": 1,
           "name": "Docked",
@@ -40584,14 +40720,6 @@
       "episodes": [
         {
           "season": 3,
-          "number": 2,
-          "name": "Episode #3.2",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt40548580/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 3,
           "number": 3,
           "name": "Episode #3.3",
           "airdate": null,
@@ -40749,6 +40877,14 @@
           "airdate": "2026-09-22",
           "summary": null,
           "url": "https://www.imdb.com/title/tt40548578/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 29,
+          "name": "Ready or Not",
+          "airdate": "2026-09-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548580/?ref_=ttep_ep_2"
         },
         {
           "season": 2,
@@ -40917,6 +41053,582 @@
           "airdate": "2025-09-30",
           "summary": "Amy struggles with memories during treatment of an expectant mother's puzzling illness. Her mentor Dr. Joan Ridley makes a visit to Westside.",
           "url": "https://www.imdb.com/title/tt35931771/?ref_=ttep_ep_2"
+        }
+      ]
+    },
+    "tt44441952": {
+      "imdbId": "tt44441952",
+      "title": "A Very Haunted Renovation",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Episode #1.2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44536162/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44536166/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Episode #1.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44536165/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode #1.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44536167/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode #1.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44536163/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "name": "Episode #1.1",
+          "airdate": "2026-09-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44536164/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt1790939": {
+      "imdbId": "tt1790939",
+      "title": "Cook's Country from America's Test Kitchen",
+      "episodes": [
+        {
+          "season": 18,
+          "number": 3,
+          "name": "Italian-American Feast",
+          "airdate": "2025-10-04",
+          "summary": "Porchetta abruzzese; pig farming in early North America; hardy greens; a quick-braised broccoli rabe with garlic and anchovies.",
+          "url": "https://www.imdb.com/title/tt38650392/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 18,
+          "number": 4,
+          "name": "Chips on the Menu",
+          "airdate": "2025-10-11",
+          "summary": "Frito pie; a tasting of non-alcoholic beer; the story of the Potato Chip Queen of the West; chocolate-dipped potato chip cookies.",
+          "url": "https://www.imdb.com/title/tt38650395/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 18,
+          "number": 5,
+          "name": "Bar Snacks Perfected",
+          "airdate": "2025-10-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38770107/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 18,
+          "number": 6,
+          "name": "Southern Sandwiches",
+          "airdate": "2025-10-25",
+          "summary": "Pickle-Brined Fried Chicken Sandwich, Chocolate-Marshmallow Sandwich Cookies; cucumbers",
+          "url": "https://www.imdb.com/title/tt38906877/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 18,
+          "number": 7,
+          "name": "Chocolate Baked Delights",
+          "airdate": "2025-11-01",
+          "summary": "Double-Chocolate Banana Bread, Chocolate Brownie Cookies; cold-brew coffee makers.",
+          "url": "https://www.imdb.com/title/tt38960457/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 18,
+          "number": 8,
+          "name": "New England Sandwiches",
+          "airdate": "2025-11-08",
+          "summary": "Jitto's-style steak bombs; types of squash; the origins of different sandwich names; eggplant spuckie.",
+          "url": "https://www.imdb.com/title/tt39044877/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 18,
+          "number": 9,
+          "name": "Elevated Friendsgiving Mains",
+          "airdate": "2025-11-15",
+          "summary": "Slow-roasted duck with blackberry sauce; the best uses for different tinned fish; a rich bean bourguignon.",
+          "url": "https://www.imdb.com/title/tt39285160/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 18,
+          "number": 10,
+          "name": "Jewish Donuts and Potatoes",
+          "airdate": "2025-11-22",
+          "summary": "Sufganiyot (Hanukkah jelly doughnuts); the importance of schmaltz in Jewish cuisine; leave-in temperature probes; cast iron potato kugel.",
+          "url": "https://www.imdb.com/title/tt39285161/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 18,
+          "number": 11,
+          "name": "Feast of the Seven Fishes",
+          "airdate": "2025-12-13",
+          "summary": "Clams casino; a flavorful seafood risotto with shrimp, mussels and squid.",
+          "url": "https://www.imdb.com/title/tt39285158/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 18,
+          "number": 12,
+          "name": "Greens for Dinner",
+          "airdate": "2025-12-06",
+          "summary": "Pesto lasagna; reviewing electric wine openers; the history of lasagna; the ultimate Caesar salad.",
+          "url": "https://www.imdb.com/title/tt39285163/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 18,
+          "number": 13,
+          "name": "Upper Midwest Classics",
+          "airdate": "2025-12-13",
+          "summary": "Supper club traditions in Wisconsin; Supper Club chicken cordon bleu; Cornish pasties.",
+          "url": "https://www.imdb.com/title/tt39285165/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 18,
+          "number": 14,
+          "name": "Inspiring Shrimp Suppers",
+          "airdate": "2025-12-20",
+          "summary": "Shrimp with garlic and jalapeno butter; Swedish dishcloths; Zephyr Wright-inspired shrimp curry.",
+          "url": "https://www.imdb.com/title/tt39285168/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 18,
+          "number": 15,
+          "name": "Glazed Pork and Potatoes",
+          "airdate": "2025-12-27",
+          "summary": "Honey-glazed pork shoulder; exploring the world of sheep milk cheese; the Welsh tradition of celebrating the leek; creamy potatoes and leeks.",
+          "url": "https://www.imdb.com/title/tt39285170/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 18,
+          "number": 16,
+          "name": "Chinese Noodles and Egg Rolls",
+          "airdate": "2026-01-31",
+          "summary": "Shanghai scallion oil noodles; the story of Grace Young and her support of Chinatowns across America; American-style egg rolls.",
+          "url": "https://www.imdb.com/title/tt39285171/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 18,
+          "number": 17,
+          "name": "When Southern Women Cook",
+          "airdate": "2026-02-07",
+          "summary": "Aunt Jule's Pie, Gullah Lowcountry Red Rice; Louisiana Style Hot Sauces",
+          "url": "https://www.imdb.com/title/tt39285173/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 18,
+          "number": 18,
+          "name": "Cajun Cooking",
+          "airdate": "2026-02-14",
+          "summary": "Bryan Roof explores New Orleans to prepare Rillons (crispy pork belly) and Lidey Heuck makes Cajun Meatball Fricassee.",
+          "url": "https://www.imdb.com/title/tt40529756/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 18,
+          "number": 19,
+          "name": "Sweet and Savory Brunch",
+          "airdate": "2026-04-04",
+          "summary": "Conchas and skillet eggs sardou",
+          "url": "https://www.imdb.com/title/tt40729413/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 18,
+          "number": 20,
+          "name": "Georgia's Food on My Mind",
+          "airdate": "2025-09-20",
+          "summary": "Coastal Georgia paella; peach ripple ice cream.",
+          "url": "https://www.imdb.com/title/tt38282886/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 18,
+          "number": 21,
+          "name": "Tucson Tacos",
+          "airdate": "2026-04-18",
+          "summary": "Smoky mesquite-grilled tacos rasurados.",
+          "url": "https://www.imdb.com/title/tt40729415/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 18,
+          "number": 22,
+          "name": "From Texas, With Love",
+          "airdate": "2026-04-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44898695/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 18,
+          "number": 23,
+          "name": "Spring Dinner and Dessert",
+          "airdate": "2026-05-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44898698/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 18,
+          "number": 24,
+          "name": "Flavorful Chicken Fonduta",
+          "airdate": "2026-05-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44898700/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 18,
+          "number": 25,
+          "name": "Puerto Rican Flavors",
+          "airdate": "2026-05-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44898702/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 18,
+          "number": 26,
+          "name": "Seafood in a Snap",
+          "airdate": "2026-05-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44898703/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 18,
+          "number": 27,
+          "name": "Portuguese Baking",
+          "airdate": "2025-09-27",
+          "summary": "Portuguese custard tarts; a tasting of canned diced tomatoes.",
+          "url": "https://www.imdb.com/title/tt38558188/?ref_=ttep_ep_2"
+        }
+      ]
+    },
+    "tt0239195": {
+      "imdbId": "tt0239195",
+      "title": "Survivor",
+      "episodes": [
+        {
+          "season": 51,
+          "number": 3,
+          "name": "Episode #51.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920637/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 51,
+          "number": 4,
+          "name": "Episode #51.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920636/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 51,
+          "number": 5,
+          "name": "Episode #51.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920646/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 51,
+          "number": 6,
+          "name": "Episode #51.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920645/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 51,
+          "number": 7,
+          "name": "Episode #51.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920647/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 51,
+          "number": 8,
+          "name": "Episode #51.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920648/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 51,
+          "number": 9,
+          "name": "Episode #51.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920650/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 51,
+          "number": 10,
+          "name": "Episode #51.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920649/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 51,
+          "number": 11,
+          "name": "Episode #51.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920651/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 51,
+          "number": 12,
+          "name": "Episode #51.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920652/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 51,
+          "number": 13,
+          "name": "Episode #51.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920653/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 51,
+          "number": 23,
+          "name": "Permanent Uncertainty",
+          "airdate": "2026-09-23",
+          "summary": "Castaways marooned in remote Fiji battle to win $1 million; one player must leave to go on a mysterious journey; the first tribal council pits two allies against each other in a dramatic battle of wills.",
+          "url": "https://www.imdb.com/title/tt40502171/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 51,
+          "number": 30,
+          "name": "Episode #51.2",
+          "airdate": "2026-09-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44851855/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 50,
+          "number": 1,
+          "name": "Epic Party",
+          "airdate": "2026-02-25",
+          "summary": "An unforeseen injury during the first immunity challenge causes tribemates to rethink their attack strategy in order to support their team member.",
+          "url": "https://www.imdb.com/title/tt37024722/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 50,
+          "number": 2,
+          "name": "Therapy Carousel",
+          "airdate": "2026-03-04",
+          "summary": "Castaways are forced to go back to the drawing board and reassess their alliances; one castaway's attempt to set the record straight sends shockwaves through the rest of camp; differences in work ethic cause strain among tribemates.",
+          "url": "https://www.imdb.com/title/tt38973020/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 50,
+          "number": 3,
+          "name": "Did You Vote for a Swap?",
+          "airdate": "2026-03-11",
+          "summary": "A foreboding message leaves castaways hungry for information regarding an imminent change; knowledge is power as the boomerang idols begin to rear their heads within tribes.",
+          "url": "https://www.imdb.com/title/tt39399512/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 50,
+          "number": 4,
+          "name": "Knife to the Heart",
+          "airdate": "2026-03-18",
+          "summary": "Castaways help pass the time on their beach by hosting a talent show; tribes compete for immunity and a special afternoon with country music star Zac Brown.",
+          "url": "https://www.imdb.com/title/tt39399514/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 50,
+          "number": 5,
+          "name": "Open Wounds",
+          "airdate": "2026-03-25",
+          "summary": "After Tribal Council, one castaway's admitted \"temper tantrum\" irritates tribemates. Adversaries compete in \"Operation Bad Blood\" as the pressure mounts with two tribes heading to Tribal Council.",
+          "url": "https://www.imdb.com/title/tt39399515/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 50,
+          "number": 6,
+          "name": "The Blood Moon",
+          "airdate": "2026-04-01",
+          "summary": "A mysterious boat arrives delivering an exciting message; castaways discover that an advantage is hidden deep in the jungle; the dreaded blood moon leads to a historic tribal council.",
+          "url": "https://www.imdb.com/title/tt39399516/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 50,
+          "number": 7,
+          "name": "That's Not How I Play Survivor",
+          "airdate": "2026-04-08",
+          "summary": "Feelings of betrayal hit an all-time high following a historic Blood Moon tribal that featured three eliminations; one person is selected to go on a journey with the potential to earn an advantage.",
+          "url": "https://www.imdb.com/title/tt39399517/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 50,
+          "number": 8,
+          "name": "Double the Fun, Double the Demise",
+          "airdate": "2026-04-15",
+          "summary": "A boat arrives asking the tribe to divide themselves into pairs; a theatrical risk taken at tribal council must be enough to cast doubt upon those on the chopping block.",
+          "url": "https://www.imdb.com/title/tt39399518/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 50,
+          "number": 9,
+          "name": "I Deserve All of This",
+          "airdate": "2026-04-22",
+          "summary": "After losing two alliance members, castaways spend the next day picking up the pieces of their broken alliance; the castaways face off against a surprise challenger during this week's individual immunity competition.",
+          "url": "https://www.imdb.com/title/tt39399519/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 50,
+          "number": 10,
+          "name": "A Side Dish of Chaos",
+          "airdate": "2026-04-29",
+          "summary": "One castaway comes clean to the tribe about a previously deceptive move; the crowd favorite survivor auction returns, with an extra special Season 50 spin; chaos ensues when social media icon MrBeast arrives on the scene.",
+          "url": "https://www.imdb.com/title/tt39399520/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 50,
+          "number": 11,
+          "name": "Everyone Will Be Shooketh!",
+          "airdate": "2026-05-06",
+          "summary": "Castaways find themselves on both a literal and figurative island after their return from one of the \"craziest tribals of all time\"; castaways reflect on their letters from home; a shocking incident at an immunity challenge.",
+          "url": "https://www.imdb.com/title/tt39399521/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 50,
+          "number": 12,
+          "name": "Inconceivable",
+          "airdate": "2026-05-13",
+          "summary": "This week's immunity challenge is riddled with frustration, putting slow and steady gameplay to the test; a self-proclaimed \"rat\" at the Manulevu camp spills information in hopes of leading to a personal triumph.",
+          "url": "https://www.imdb.com/title/tt39399522/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 50,
+          "number": 13,
+          "name": "Reverse the Curse",
+          "airdate": "2026-05-20",
+          "summary": "One castaway is crowned Sole Survivor and awarded the grand prize.",
+          "url": "https://www.imdb.com/title/tt39399525/?ref_=ttep_ep_13"
+        }
+      ]
+    },
+    "tt36933520": {
+      "imdbId": "tt36933520",
+      "title": "99 to Beat",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 23,
+          "name": "Do You Believe in Miracles?",
+          "airdate": "2026-09-23",
+          "summary": "A new season kicks off as Ken and Erin introduce 100 new contestants to the new, extreme range of seemingly simple and hilarious games. Two players face-off in a battle that defies logic.",
+          "url": "https://www.imdb.com/title/tt41877655/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "This is Nuts!",
+          "airdate": "2025-10-01",
+          "summary": "The remaining contestants compete in five games, \"Find Your Name,\" \"Nut Stackers,\" \"Potato Fork Catch,\" \"Sound it Out,\" and \"Slingshot Balloon\".",
+          "url": "https://www.imdb.com/title/tt38354067/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Families Torn Apart",
+          "airdate": "2025-10-08",
+          "summary": "The remaining contestants compete in five games, \"Needle and Thread,\" \"Gutter Bowl,\" \"Hook a Duck,\" \"Disc Twerking,\" and \"Tape Lunch Box\".",
+          "url": "https://www.imdb.com/title/tt38524326/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "A Queen is Born",
+          "airdate": "2025-10-15",
+          "summary": "The remaining contestants compete in five games, \"Frozen Pants\", \"Coin in a Glass\", \"Tape Measure Retract\", \"Nail Balance\" and \"Domino Run\".",
+          "url": "https://www.imdb.com/title/tt38566083/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Who Framed Ken & Erin?",
+          "airdate": "2025-10-22",
+          "summary": "The remaining contestants compete in five games, \"Butterfly Catch\", \"Balloon Cup Transfer\", \"Piggy Bank Raid\", \"Boat Float\" and \"Hang A Painting\".",
+          "url": "https://www.imdb.com/title/tt38566088/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Love Is in the Air",
+          "airdate": "2025-11-05",
+          "summary": "The remaining contestants compete in five games, \"Find A Light\", \"Cotton Spool\", \"Bubble Wrapped\", \"Tennis Ball Weave\" and \"House of Cards\".",
+          "url": "https://www.imdb.com/title/tt38771627/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "The Upset of the Season",
+          "airdate": "2025-11-12",
+          "summary": "The remaining contestants compete in five games, \"Land the Shot\", \"Suitcase Curling\", \"Pencil Jump\", \"Untangled\" and \"Pop-Up Tent\".",
+          "url": "https://www.imdb.com/title/tt38813142/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Flipping Out",
+          "airdate": "2025-11-19",
+          "summary": "The remaining contestants compete in five games, \"Upturned Cups\", \"Spring Head\", \"Sleeping Bag Race\", \"Traffic Cone Flip\" and \"Arc The Ball\".",
+          "url": "https://www.imdb.com/title/tt38813143/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "The Holidays Are Coming",
+          "airdate": "2025-12-03",
+          "summary": "In episode nine, the remaining contestants compete in five games,\"Ping Pong Obstacle Course,\" \"Snatch the Hat,\" \"Candle Extinguisher,\" \"Balance See Saw\" and \"Tower of Boxes\".",
+          "url": "https://www.imdb.com/title/tt38813144/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Million Dollar Winner",
+          "airdate": "2025-12-03",
+          "summary": "In episode ten, the remaining contestants compete in five games, \"Confetti Sweep,\" \"3D Puzzle,\" \"Alphabetti Golf,\" \"Pendulum\" and \"Grand Finale\".",
+          "url": "https://www.imdb.com/title/tt38993585/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Last One Standing",
+          "airdate": "2025-12-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38960465/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 21,
+          "name": "Don't Finish Last",
+          "airdate": "2025-09-21",
+          "summary": "Hundred players compete in funny, simple games. Each round eliminates the person in last place until one winner claims $1,000,000. The secret to success? Stay ahead of last place.",
+          "url": "https://www.imdb.com/title/tt37158943/?ref_=ttep_ep_1"
         }
       ]
     }
