@@ -2116,6 +2116,48 @@
       "strStatus": "NS",
       "strTVStation": null,
       "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-850988",
+      "strEvent": "Las Vegas Aviators vs Oklahoma City Comets",
+      "strHomeTeam": "Las Vegas Aviators",
+      "strAwayTeam": "Oklahoma City Comets",
+      "dateEvent": "2026-09-22",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-09-23T02:05:00Z",
+      "strLeague": "Pacific Coast League",
+      "strVenue": "Las Vegas Ballpark",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-850989",
+      "strEvent": "Las Vegas Aviators vs Oklahoma City Comets",
+      "strHomeTeam": "Las Vegas Aviators",
+      "strAwayTeam": "Oklahoma City Comets",
+      "dateEvent": "2026-09-23",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-09-24T02:05:00Z",
+      "strLeague": "Pacific Coast League",
+      "strVenue": "Las Vegas Ballpark",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-850987",
+      "strEvent": "Las Vegas Aviators vs Oklahoma City Comets",
+      "strHomeTeam": "Las Vegas Aviators",
+      "strAwayTeam": "Oklahoma City Comets",
+      "dateEvent": "2026-09-24",
+      "strTime": "02:05:00",
+      "strTimestamp": "2026-09-25T02:05:00Z",
+      "strLeague": "Pacific Coast League",
+      "strVenue": "Las Vegas Ballpark",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
     }
   ]
 }
