@@ -318,10 +318,18 @@
         {
           "season": 30,
           "number": 16,
-          "name": "Ke Huy Quan/View Your Deal/",
+          "name": "Ke Huy Quan/View Your Deal",
           "airdate": "2026-09-16",
           "summary": "Actor Ke Huy Quan (movie, \"Avatar Aang: The Last Airbender\");",
           "url": "https://www.imdb.com/title/tt43715653/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 30,
+          "number": 17,
+          "name": "Ethan Hawke/Clay Aiken/",
+          "airdate": "2026-09-17",
+          "summary": "Actor Ethan Hawke; Clay Aiken performs;",
+          "url": "https://www.imdb.com/title/tt43715655/?ref_=ttep_ep_8"
         },
         {
           "season": 29,
@@ -1553,7 +1561,7 @@
         {
           "season": 8,
           "number": 28,
-          "name": "Episode #8.13",
+          "name": "To Live and Die in L.A.",
           "airdate": "2026-09-28",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37156740/?ref_=ttep_ep_13"
@@ -37789,6 +37797,14 @@
           "url": "https://www.imdb.com/title/tt45537340/?ref_=ttep_ep_2"
         },
         {
+          "season": 2,
+          "number": 29,
+          "name": "Episode #2.3",
+          "airdate": "2026-09-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46065911/?ref_=ttep_ep_3"
+        },
+        {
           "season": 1,
           "number": 1,
           "name": "Pilot",
@@ -38122,14 +38138,6 @@
         },
         {
           "season": 53,
-          "number": 9,
-          "name": "The Battle to Breathe",
-          "airdate": null,
-          "summary": "The decades long scientific search for a life saving treatment for Cystic Fibrosis.",
-          "url": "https://www.imdb.com/title/tt43619089/?ref_=ttep_ep_9"
-        },
-        {
-          "season": 53,
           "number": 10,
           "name": "Knowledge Keepers",
           "airdate": null,
@@ -38175,6 +38183,14 @@
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt43684982/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 53,
+          "number": 16,
+          "name": "The Battle to Breathe",
+          "airdate": "2026-09-16",
+          "summary": "The decades long scientific search for a life saving treatment for Cystic Fibrosis.",
+          "url": "https://www.imdb.com/title/tt43619089/?ref_=ttep_ep_9"
         },
         {
           "season": 52,
@@ -41063,9 +41079,9 @@
         {
           "season": 1,
           "number": 2,
-          "name": "Episode #1.2",
+          "name": "Ghosts in the Gathering Rooms",
           "airdate": null,
-          "summary": null,
+          "summary": "The five remaining designers divide into teams to revive Bihl Manor's living room and parlor; as ambitious feature projects test their skills, they'll fight to honor the home's storied past and avoid becoming the next design casualty.",
           "url": "https://www.imdb.com/title/tt44536162/?ref_=ttep_ep_2"
         },
         {
@@ -41103,9 +41119,9 @@
         {
           "season": 1,
           "number": 15,
-          "name": "Episode #1.1",
+          "name": "Welcome to the Haunted House",
           "airdate": "2026-09-15",
-          "summary": null,
+          "summary": "Six designers renovate, and live in, a haunted house for the chance to win $50,000. Deadlines are tight, tensions are high, and the ghosts are real.",
           "url": "https://www.imdb.com/title/tt44536164/?ref_=ttep_ep_1"
         }
       ]
@@ -41324,7 +41340,7 @@
           "season": 51,
           "number": 3,
           "name": "Episode #51.3",
-          "airdate": null,
+          "airdate": "2026-10-07",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45920637/?ref_=ttep_ep_3"
         },
@@ -41332,7 +41348,7 @@
           "season": 51,
           "number": 4,
           "name": "Episode #51.4",
-          "airdate": null,
+          "airdate": "2026-10-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45920636/?ref_=ttep_ep_4"
         },
@@ -41629,6 +41645,405 @@
           "airdate": "2025-09-21",
           "summary": "Hundred players compete in funny, simple games. Each round eliminates the person in last place until one winner claims $1,000,000. The secret to success? Stay ahead of last place.",
           "url": "https://www.imdb.com/title/tt37158943/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt37850663": {
+      "imdbId": "tt37850663",
+      "title": "Marvel's Spidey and Iron Man: Avengers Team-Up!",
+      "episodes": []
+    },
+    "tt0437005": {
+      "imdbId": "tt0437005",
+      "title": "Hell's Kitchen",
+      "episodes": [
+        {
+          "season": 25,
+          "number": 24,
+          "name": "Episode #25.1",
+          "airdate": "2026-09-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42593420/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 24,
+          "number": 2,
+          "name": "Hell on a Halfshell",
+          "airdate": "2025-10-02",
+          "summary": "The chefs are challenged with shucking and preparing the perfect scallop dish.",
+          "url": "https://www.imdb.com/title/tt38525498/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 24,
+          "number": 3,
+          "name": "The Heat is Coming to Hell's Kitchen",
+          "airdate": "2025-10-09",
+          "summary": "The remaining chefs compete in a speed breakfast challenge. In the most dramatic dinner service yet, both the Red and Blue teams melt under pressure at the fish and meat stations.",
+          "url": "https://www.imdb.com/title/tt38525499/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 24,
+          "number": 4,
+          "name": "There's Something Fishy Going On",
+          "airdate": "2025-10-16",
+          "summary": "This week, the chefs visit Stonington, Connecticut to compete in a very fishy relay race. Then, during dinner service, both teams step up their game, but will it be enough to keep them in the competition come the end of the night?",
+          "url": "https://www.imdb.com/title/tt38525500/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 24,
+          "number": 5,
+          "name": "A State of Confusion",
+          "airdate": "2025-10-23",
+          "summary": "The chefs are challenged to blend two distinct state delicacies into one cohesive dish. During dinner service, the teams must come together to serve a dining room packed with VIPs, including a bachelor party and UCONN basketball legends.",
+          "url": "https://www.imdb.com/title/tt38525502/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 24,
+          "number": 6,
+          "name": "Hell's Chicken",
+          "airdate": "2025-10-30",
+          "summary": "Chefs tackle a Southern dish challenge. Poor team communication disrupts dinner service, angering Chef Ramsey. Basic errors in cooking temps and timing may send one chef home.",
+          "url": "https://www.imdb.com/title/tt38525505/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 24,
+          "number": 7,
+          "name": "Guac a mole in Hell's Kitchen",
+          "airdate": "2025-11-06",
+          "summary": "The chefs are challenged to prepare an elevated Mexican dish. Celebrity chef Gabriela Cámara guest judges. At dinner service, the teams struggle with pork chops and garnishes which could send chefs packing.",
+          "url": "https://www.imdb.com/title/tt38793695/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 24,
+          "number": 8,
+          "name": "Cook for Your Life",
+          "airdate": "2025-11-13",
+          "summary": "For the team challenge, the chefs compete in a \"State to Plate\" contest and must decode ingredients spelled in the style of license plates. To impress chef Ramsey, they must integrate contrasting ingredients into one cohesive dish.",
+          "url": "https://www.imdb.com/title/tt38793705/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 24,
+          "number": 9,
+          "name": "Hell Hath No Fury Like Anaiya Scorned",
+          "airdate": "2025-11-20",
+          "summary": "Teams compete to get their dish on a VIP Johnson and Wales 50th anniversary dinner menu while tensions rise and chef Ramsay uncovers team conflicts.",
+          "url": "https://www.imdb.com/title/tt38876686/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 24,
+          "number": 10,
+          "name": "Is It Steak?",
+          "airdate": "2025-12-04",
+          "summary": "Annual blind taste test arrives as teams must overcome their conflicts to achieve a flawless dinner service.",
+          "url": "https://www.imdb.com/title/tt38998424/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 24,
+          "number": 11,
+          "name": "Charity Dinner from Hell",
+          "airdate": "2025-12-11",
+          "summary": "The teams' ability to work together is put to the test when they are challenged to make Chinese dishes in a tag-team fashion; later, a charity night dinner service for organizations Feeding America and Stand Up To Cancer.",
+          "url": "https://www.imdb.com/title/tt39115701/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 24,
+          "number": 12,
+          "name": "Battle for Black Jackets",
+          "airdate": "2026-01-01",
+          "summary": "Seven chefs compete for Five black jackets. WWE champions judge state-inspired dishes. Non-advancing chefs make unique pizzas, while final three face creative challenge.",
+          "url": "https://www.imdb.com/title/tt39115702/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 24,
+          "number": 13,
+          "name": "Queens of the Kitchen",
+          "airdate": "2026-01-08",
+          "summary": "The final five chefs face a challenge by making a dish that appeals to Gordon Ramsay's social media followers.",
+          "url": "https://www.imdb.com/title/tt39115703/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 24,
+          "number": 14,
+          "name": "Who's the Boss",
+          "airdate": "2026-01-08",
+          "summary": "The final four chefs are given 10 minutes and $25 to grocery shop for their first challenge's dish.",
+          "url": "https://www.imdb.com/title/tt39115704/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 24,
+          "number": 15,
+          "name": "Hell of a Showdown",
+          "airdate": "2026-01-15",
+          "summary": "Gordon surprises the finalists with a special visit with their families; the finalists are pampered with a day of hair, makeup and styling before they are faced with a major surprise challenge; only two chefs advance to the season finale.",
+          "url": "https://www.imdb.com/title/tt39115705/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 24,
+          "number": 16,
+          "name": "The Last State Standing Is...",
+          "airdate": "2026-01-22",
+          "summary": "The final two must overcome shortcomings and take control of their respective teams to come out on top and prove to chef Ramsay they have what it takes to win; in the end, the door can only open for one chef.",
+          "url": "https://www.imdb.com/title/tt39115706/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 24,
+          "number": 25,
+          "name": "Making a State-ment",
+          "airdate": "2025-09-25",
+          "summary": "For the first time in Hell's Kitchen history, every chef will be from and represent a different place. The Top 20 chefs will set out to impress Chef Ramsay in the Signature Dish Challenge before embarking on their first dinner service.",
+          "url": "https://www.imdb.com/title/tt36933498/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt1844624": {
+      "imdbId": "tt1844624",
+      "title": "American Horror Story",
+      "episodes": [
+        {
+          "season": 13,
+          "number": 4,
+          "name": "Is That All There Is?",
+          "airdate": "2026-10-01",
+          "summary": "As Constance's evening winds down, the holiday guests have dark places to go and people to see.",
+          "url": "https://www.imdb.com/title/tt42494183/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 13,
+          "number": 5,
+          "name": "Date Night",
+          "airdate": "2026-10-01",
+          "summary": "A friend of Ben's girlfriend wants to reconnect, whether he is ready to face the past or not.",
+          "url": "https://www.imdb.com/title/tt42624433/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 13,
+          "number": 6,
+          "name": "The Return of Devil's Night",
+          "airdate": "2026-10-01",
+          "summary": "As an unseen force closes in, the witches of Miss Robichaux's Academy turn to powers older than the school itself.",
+          "url": "https://www.imdb.com/title/tt43043354/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 13,
+          "number": 7,
+          "name": "The Baddest Witch of Them All",
+          "airdate": "2026-10-08",
+          "summary": "A home invasion like no other, and Cordelia's Coven finds its worst fears confirmed.",
+          "url": "https://www.imdb.com/title/tt43239271/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 13,
+          "number": 8,
+          "name": "Hell No",
+          "airdate": "2026-10-08",
+          "summary": "With an ungodly threat upon them, the witches strike a bargain that will cost someone dearly.",
+          "url": "https://www.imdb.com/title/tt43239272/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 13,
+          "number": 9,
+          "name": "The Devil Is In The Details",
+          "airdate": "2026-10-15",
+          "summary": "Alone and at a loss, Constance risks everything to reinvent her family's fate.",
+          "url": "https://www.imdb.com/title/tt43526606/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 13,
+          "number": 10,
+          "name": "The Prodigal Son",
+          "airdate": "2026-10-15",
+          "summary": "Under threat, the witches learn of an ancient evil that has shaped history's darkest hours.",
+          "url": "https://www.imdb.com/title/tt43526657/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 13,
+          "number": 11,
+          "name": "Episode #13.11",
+          "airdate": "2026-10-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43685219/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 13,
+          "number": 12,
+          "name": "Episode #13.12",
+          "airdate": "2026-10-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43718787/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 13,
+          "number": 13,
+          "name": "Episode #13.13",
+          "airdate": "2026-10-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43718789/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 13,
+          "number": 24,
+          "name": "13",
+          "airdate": "2026-09-24",
+          "summary": "After a near-death experience, Ben provides hospice care for a mysterious client in an eerie penthouse.",
+          "url": "https://www.imdb.com/title/tt31949358/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 12,
+          "number": 3,
+          "name": "When the Bough Breaks",
+          "airdate": "2023-10-04",
+          "summary": "As Anna and Dex settle into their Hamptons sanctuary, the comfort begins to fade. Her circle of trust is slowly shrinking, and doubt creeps into Anna's head - could the evil be right under her nose?",
+          "url": "https://www.imdb.com/title/tt28679747/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 12,
+          "number": 4,
+          "name": "Vanishing Twin",
+          "airdate": "2023-10-11",
+          "summary": "With help from Siobhan, a major announcement helps restore Anna's public image. Behind closed doors however, something powerful seems to be taking over.",
+          "url": "https://www.imdb.com/title/tt28679746/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 12,
+          "number": 5,
+          "name": "Preech",
+          "airdate": "2023-10-18",
+          "summary": "Anna senses the dark presence closing in on her, closer than ever. Ms. Preecher reveals pieces of her past and may know the truth about what's happening to Anna and Dex.",
+          "url": "https://www.imdb.com/title/tt28679745/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 12,
+          "number": 6,
+          "name": "Opening Night",
+          "airdate": "2024-04-03",
+          "summary": "A glimpse into Anna's past reveals why she craves motherhood, while Dex's troubling family life is dragged into the spotlight.",
+          "url": "https://www.imdb.com/title/tt11578378/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 12,
+          "number": 7,
+          "name": "Ave Hestia",
+          "airdate": "2024-04-10",
+          "summary": "Entrenched in her grapple for fame and motherhood, Anna may be involved in a cycle much bigger - and older - than she realizes.",
+          "url": "https://www.imdb.com/title/tt31174293/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 12,
+          "number": 8,
+          "name": "Little Gold Man",
+          "airdate": "2024-04-17",
+          "summary": "The world around Anna is starting to crescendo in every way: her career path continues to skyrocket, while her personal life is more stressful than ever - just in time for Hollywood's big night.",
+          "url": "https://www.imdb.com/title/tt31174306/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 12,
+          "number": 9,
+          "name": "The Auteur",
+          "airdate": "2024-04-24",
+          "summary": "Her choices have unknowingly led to deadly consequences, but Anna can still have it all - for a price.",
+          "url": "https://www.imdb.com/title/tt31174313/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 12,
+          "number": 20,
+          "name": "Multiply Thy Pain",
+          "airdate": "2023-09-20",
+          "summary": "After multiple failed attempts of IVF, actress Anna Victoria Alcott wants nothing more than to start a family. As the buzz around her recent film grows, she fears that something may be targeting her - and her pursuit of motherhood.",
+          "url": "https://www.imdb.com/title/tt11578362/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 12,
+          "number": 27,
+          "name": "Rockabye",
+          "airdate": "2023-09-27",
+          "summary": "It's awards season and Anna is primed to be a major player in contention. After a frightening encounter convinces her that she's being followed, she begins to question who she can trust.",
+          "url": "https://www.imdb.com/title/tt28679744/?ref_=ttep_ep_2"
+        }
+      ]
+    },
+    "tt22003362": {
+      "imdbId": "tt22003362",
+      "title": "Special Forces: World's Toughest Test",
+      "episodes": [
+        {
+          "season": 5,
+          "number": 24,
+          "name": "Episode #5.1",
+          "airdate": "2026-09-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42441204/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Survival",
+          "airdate": "2025-10-02",
+          "summary": "The recruits are strapped inside an old cargo plane then lowered into a dam 215 feet below them, forced to escape underwater. Then, the recruits go head-to-head in an intense military-style boxing match.",
+          "url": "https://www.imdb.com/title/tt38492780/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Warzone",
+          "airdate": "2025-10-09",
+          "summary": "Recruits use radio gear to locate fallen teammates during a casualty evac drill behind enemy lines. After their mission's blown, they escape across rooftops to reach extraction.",
+          "url": "https://www.imdb.com/title/tt38524130/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Mind Set",
+          "airdate": "2025-10-16",
+          "summary": "Recruits memorize coordinates, recite them after a 330-foot drop, then work in teams through tunnels and trenches.",
+          "url": "https://www.imdb.com/title/tt38524144/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "Trust",
+          "airdate": "2025-10-23",
+          "summary": "The recruits are split into teams and compete to be the first group to complete an intensive race in the blistering heat.",
+          "url": "https://www.imdb.com/title/tt38706359/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "Grit",
+          "airdate": "2025-10-30",
+          "summary": "The recruits sidestep above a 200ft high canyon floor, then compete in one of the most physically brutal tasks of the season.",
+          "url": "https://www.imdb.com/title/tt38774224/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Composure",
+          "airdate": "2025-11-06",
+          "summary": "Recruits pair up to find intel and save a hostage before gas fills the compound. Later, they face a grueling obstacle course and write emotional \"Death Letters\" to family.",
+          "url": "https://www.imdb.com/title/tt38774226/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "Evasion",
+          "airdate": "2025-11-13",
+          "summary": "Recruits face grueling mountain climb carrying heavy equipment, then split into teams for extraction drill. They receive touching messages from loved ones.",
+          "url": "https://www.imdb.com/title/tt38813069/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "name": "Interrogation",
+          "airdate": "2025-11-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38813073/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 4,
+          "number": 25,
+          "name": "Behind Enemy Lines",
+          "airdate": "2025-09-25",
+          "summary": "The recruits have to rappel from a military helicopter.",
+          "url": "https://www.imdb.com/title/tt36933513/?ref_=ttep_ep_1"
         }
       ]
     }
