@@ -3199,7 +3199,7 @@
     {
       "id": "tt35538033",
       "title": "Resident Evil",
-      "image": "https://m.media-amazon.com/images/M/MV5BODIwYTk4MWYtMGUxYS00OWUzLTg5MDYtNzg5MmYyNzcyNThkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGVmNzRlZTctNTU2OS00MTQwLWI2ZWQtOGViMjc4ODNlNzVmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Sep 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -3212,16 +3212,16 @@
           "name": "Austin Abrams"
         },
         {
-          "id": "nm3236159",
-          "name": "Paul Walter Hauser"
-        },
-        {
           "id": "nm7100086",
           "name": "Zach Cherry"
         },
         {
-          "id": "nm4703393",
-          "name": "Johnno Wilson"
+          "id": "nm11140905",
+          "name": "Kali Reis"
+        },
+        {
+          "id": "nm3236159",
+          "name": "Paul Walter Hauser"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3303,10 +3303,6 @@
       ],
       "people": [
         {
-          "id": "nm6301942",
-          "name": "Juan Carlos Huguenin"
-        },
-        {
           "id": "nm0000161",
           "name": "Salma Hayek"
         },
@@ -3317,6 +3313,10 @@
         {
           "id": "nm1375877",
           "name": "Juan Minujín"
+        },
+        {
+          "id": "nm4845909",
+          "name": "Luis Alberti"
         }
       ],
       "label": "Sep 18, 2026"
@@ -3536,7 +3536,7 @@
       "genres": [
         "Action",
         "Adventure",
-        "Drama"
+        "Thriller"
       ],
       "people": [
         {
@@ -4579,8 +4579,7 @@
       "image": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
       "genres": [
-        "Action",
-        "Drama"
+        "Action"
       ],
       "people": [
         {
@@ -4701,10 +4700,6 @@
       ],
       "people": [
         {
-          "id": "nm0671980",
-          "name": "Kal Penn"
-        },
-        {
           "id": "nm0000157",
           "name": "Linda Hamilton"
         },
@@ -4713,8 +4708,12 @@
           "name": "Abbie Cornish"
         },
         {
-          "id": "nm1014989",
-          "name": "David Julian Hirsh"
+          "id": "nm0671980",
+          "name": "Kal Penn"
+        },
+        {
+          "id": "nm0002326",
+          "name": "Al Sapienza"
         }
       ],
       "label": "Oct 16, 2026"
@@ -4741,7 +4740,6 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNjQ1YzgwMTMtZDRhNC00MDE0LWFmODctM2ZlNjg5MmNiMDI1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
       "genres": [
-        "Drama",
         "Sci-Fi"
       ],
       "people": [
@@ -4802,7 +4800,7 @@
       "genres": [
         "Animation",
         "Adventure",
-        "Drama"
+        "Fantasy"
       ],
       "people": [
         {
@@ -5113,7 +5111,7 @@
     {
       "id": "tt27541205",
       "title": "Queen at Sea",
-      "image": "https://m.media-amazon.com/images/M/MV5BYjE1Y2ZmNDAtNzgwMy00N2QzLWIxYTMtYzU2ZmY5MDcyOWVmXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzc0Y2EyNGMtMmRiYi00ODU2LTg2NmQtYTE5YTVmMWVlZTBmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -5287,8 +5285,8 @@
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
-        "Adventure",
-        "Drama"
+        "Horror",
+        "Sci-Fi"
       ],
       "people": [
         {
@@ -5494,7 +5492,6 @@
       "releaseDate": "Wed, 11 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
-        "Drama",
         "Thriller"
       ],
       "people": [
@@ -5518,6 +5515,34 @@
       "label": "Nov 11, 2026"
     },
     {
+      "id": "tt38952225",
+      "title": "Soul Patrol",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjJjMDBkOTctNGM3Yy00ZjhhLWJmYzItNTZhNzFhMDZiZjJjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary"
+      ],
+      "people": [
+        {
+          "id": "nm17968566",
+          "name": "Barbara Branch"
+        },
+        {
+          "id": "nm17968560",
+          "name": "Emerson Branch"
+        },
+        {
+          "id": "nm17968565",
+          "name": "Teresa Brown"
+        },
+        {
+          "id": "nm17968555",
+          "name": "Willie T. Brown"
+        }
+      ],
+      "label": "Nov 11, 2026"
+    },
+    {
       "id": "tt34374553",
       "title": "Victorian Psycho",
       "image": "https://m.media-amazon.com/images/M/MV5BNjdmNmYwMzEtMzJmYS00MDkxLThiNGItZjA0MGJlMjU4MTNmXkEyXkFqcGc@._V1_.jpg",
@@ -5529,20 +5554,20 @@
       ],
       "people": [
         {
-          "id": "nm18740300",
-          "name": "Guillaume Doradoux"
-        },
-        {
           "id": "nm2140860",
           "name": "Maika Monroe"
+        },
+        {
+          "id": "nm5057169",
+          "name": "Thomasin McKenzie"
         },
         {
           "id": "nm0005042",
           "name": "Jason Isaacs"
         },
         {
-          "id": "nm5057169",
-          "name": "Thomasin McKenzie"
+          "id": "nm2235721",
+          "name": "Ruth Wilson"
         }
       ],
       "label": "Nov 13, 2026"
@@ -5753,6 +5778,35 @@
       "label": "Nov 13, 2026"
     },
     {
+      "id": "tt29730964",
+      "title": "Search Party: Where's PawPaw?",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGQ1ZjkzNGMtY2RmOC00YjIyLWI5ZmYtNzI5ZmFiOTEyMGFjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "people": [
+        {
+          "id": "nm12254345",
+          "name": "Victoria Monai Richards"
+        },
+        {
+          "id": "nm9766156",
+          "name": "Nijah Brenea"
+        },
+        {
+          "id": "nm10863059",
+          "name": "Daisy Fernandez"
+        },
+        {
+          "id": "nm0036651",
+          "name": "Tichina Arnold"
+        }
+      ],
+      "label": "Nov 13, 2026"
+    },
+    {
       "id": "tt42870035",
       "title": "GIANT - The Play",
       "image": "https://m.media-amazon.com/images/M/MV5BNjI4NDdlZjktMTg1Ni00MTFhLWE3ZjMtOTIzMGM1YjY4MmY5XkEyXkFqcGc@._V1_.jpg",
@@ -5788,7 +5842,7 @@
       "genres": [
         "Action",
         "Adventure",
-        "Drama"
+        "Fantasy"
       ],
       "people": [
         {
@@ -6152,16 +6206,16 @@
       ],
       "people": [
         {
-          "id": "nm1092086",
-          "name": "David Harbour"
-        },
-        {
           "id": "nm0068338",
           "name": "Kristen Bell"
         },
         {
-          "id": "nm15757860",
-          "name": "Maggie Nicole Robertson"
+          "id": "nm0001592",
+          "name": "Joe Pantoliano"
+        },
+        {
+          "id": "nm1092086",
+          "name": "David Harbour"
         },
         {
           "id": "nm0364813",
@@ -6342,6 +6396,36 @@
         {
           "id": "nm17971916",
           "name": "Zohreh Pirnia"
+        }
+      ],
+      "label": "Dec 04, 2026"
+    },
+    {
+      "id": "tt27725750",
+      "title": "Eternal Return",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTUzMGZjN2MtZGMyYy00NGJiLTk0MmItMzIxMWQ5NWNhNzEwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "people": [
+        {
+          "id": "nm3229685",
+          "name": "Kit Harington"
+        },
+        {
+          "id": "nm4305463",
+          "name": "Naomi Scott"
+        },
+        {
+          "id": "nm4420495",
+          "name": "Sonoya Mizuno"
+        },
+        {
+          "id": "nm0001003",
+          "name": "Simon Callow"
         }
       ],
       "label": "Dec 04, 2026"
@@ -6900,16 +6984,16 @@
       ],
       "people": [
         {
+          "id": "nm3287940",
+          "name": "Tracy Ifeachor"
+        },
+        {
           "id": "nm0281956",
           "name": "Brendan Fletcher"
         },
         {
           "id": "nm0479527",
           "name": "Tyler Labine"
-        },
-        {
-          "id": "nm3287940",
-          "name": "Tracy Ifeachor"
         },
         {
           "id": "nm3958148",
@@ -7264,6 +7348,8 @@
       "title": "Wife and Dog",
       "releaseDate": "Fri, 19 Feb 2027 00:00:00 GMT",
       "genres": [
+        "Action",
+        "Crime",
         "Thriller"
       ],
       "people": [
@@ -7574,12 +7660,12 @@
           "name": "Jim Carrey"
         },
         {
-          "id": "nm0005188",
-          "name": "James Marsden"
-        },
-        {
           "id": "nm0252961",
           "name": "Idris Elba"
+        },
+        {
+          "id": "nm0005188",
+          "name": "James Marsden"
         }
       ],
       "label": "Mar 19, 2027"
