@@ -2076,6 +2076,20 @@
       "source": "scraped"
     },
     {
+      "idEvent": "scraped-815329",
+      "strEvent": "El Paso Chihuahuas vs Oklahoma City Comets",
+      "strHomeTeam": "El Paso Chihuahuas",
+      "strAwayTeam": "Oklahoma City Comets",
+      "dateEvent": "2026-09-17",
+      "strTime": "23:05:00",
+      "strTimestamp": "2026-09-18T23:05:00Z",
+      "strLeague": "Pacific Coast League",
+      "strVenue": "Southwest University Park",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "source": "scraped"
+    },
+    {
       "idEvent": "scraped-815332",
       "strEvent": "El Paso Chihuahuas vs Oklahoma City Comets",
       "strHomeTeam": "El Paso Chihuahuas",
