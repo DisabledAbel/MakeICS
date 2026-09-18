@@ -326,10 +326,18 @@
         {
           "season": 30,
           "number": 17,
-          "name": "Ethan Hawke/Clay Aiken/",
+          "name": "Ethan Hawke/Clay Aiken",
           "airdate": "2026-09-17",
           "summary": "Actor Ethan Hawke; Clay Aiken performs;",
           "url": "https://www.imdb.com/title/tt43715655/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 30,
+          "number": 18,
+          "name": "Sara Haines' Birthday/View Your Deal",
+          "airdate": "2026-09-18",
+          "summary": "\"The View\" celebrates Sara Haines' birthday; Kenny Chesney; Gretta Monahan shows hot deals;",
+          "url": "https://www.imdb.com/title/tt43715656/?ref_=ttep_ep_9"
         },
         {
           "season": 29,
@@ -24431,7 +24439,7 @@
           "number": 20,
           "name": "Synths",
           "airdate": "2026-09-20",
-          "summary": null,
+          "summary": "Curtis deploys custom-made synthetic beings to spread cheer as Christmas spirit hits a nationwide low.",
           "url": "https://www.imdb.com/title/tt43716936/?ref_=ttep_ep_9"
         },
         {
@@ -25511,6 +25519,14 @@
           "airdate": "2026-09-16",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37519720/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 23,
+          "name": "Critical Failure",
+          "airdate": "2026-09-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37519722/?ref_=ttep_ep_9"
         },
         {
           "season": 2,
@@ -26750,7 +26766,7 @@
           "number": 11,
           "name": "Without Me, There Is No You",
           "airdate": "2026-09-11",
-          "summary": null,
+          "summary": "With time running out, Duke closes in on his target. But an unexpected counter-move leaves him staring down the barrel of defeat.",
           "url": "https://www.imdb.com/title/tt38599081/?ref_=ttep_ep_7"
         },
         {
@@ -30804,7 +30820,7 @@
           "number": 10,
           "name": "Episode #18.10",
           "airdate": "2026-10-12",
-          "summary": null,
+          "summary": "Blinded from LASIK surgery, Dee pleads for the guys to spend the night to keep her safe from neighborhood crime, but they listen to the wolves inside themselves and opt for a dudes-only sleepover of their own.",
           "url": "https://www.imdb.com/title/tt43679376/?ref_=ttep_ep_10"
         },
         {
@@ -33869,9 +33885,9 @@
         {
           "season": 1,
           "number": 16,
-          "name": "Episode #1.5",
+          "name": "Funeral for a Finger",
           "airdate": "2026-09-16",
-          "summary": null,
+          "summary": "A husband suffers a widow-maker heart attack in front of his wife; a woman's heating pad becomes a hurting pad; sometimes small things like a headache or a broken nail can be lethal; beware of dog, especially when their saliva can cost you a limb.",
           "url": "https://www.imdb.com/title/tt43744763/?ref_=ttep_ep_5"
         },
         {
@@ -34053,6 +34069,14 @@
           "airdate": "2026-09-17",
           "summary": "Revealed from above; a miracle of engineering and mimicry in the British capitol; a grove of \"Super Trees\" in Singapore; and strange \"bubble-like\" domes in south England.",
           "url": "https://www.imdb.com/title/tt45534424/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 24,
+          "name": "Engineering for the Extreme",
+          "airdate": "2026-09-24",
+          "summary": "Revealed from above; an ancient town built in the Peruvian Andes; a thriving urban centre in a scorching Iranian desert; and a city engineered to flourish in the frozen climes of Siberia.",
+          "url": "https://www.imdb.com/title/tt46082271/?ref_=ttep_ep_7"
         }
       ]
     },
@@ -35975,6 +35999,14 @@
           "url": "https://www.imdb.com/title/tt44052893/?ref_=ttep_ep_1"
         },
         {
+          "season": 12,
+          "number": 19,
+          "name": "Guess Who's Coming to Dinner",
+          "airdate": "2026-09-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46082231/?ref_=ttep_ep_2"
+        },
+        {
           "season": 11,
           "number": 1,
           "name": "The Streets Are Talking",
@@ -36117,6 +36149,14 @@
       "title": "Have I Got News for You",
       "episodes": [
         {
+          "season": 72,
+          "number": 1,
+          "name": "Episode #72.1",
+          "airdate": "2026-10-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077463/?ref_=ttep_ep_1"
+        },
+        {
           "season": 71,
           "number": 1,
           "name": "Episode #71.1",
@@ -36195,94 +36235,6 @@
           "airdate": "2026-06-05",
           "summary": "In the final show of the 71st series, team regulars Ian Hislop and Paul Merton are joined by Lord Gove, the former Tory minister, and comedian Chloe Petts. David Tennant hosts.",
           "url": "https://www.imdb.com/title/tt41042697/?ref_=ttep_ep_10"
-        },
-        {
-          "season": 70,
-          "number": 1,
-          "name": "Episode #70.1",
-          "airdate": "2025-10-03",
-          "summary": "The topical, satirical panel show returns for a 70th series. Victoria Coren Mitchell is the guest presenter for this opening edition. Team captains Ian Hislop and Paul Merton are joined by actress Sheila Hancock and comedian Miles Jupp.",
-          "url": "https://www.imdb.com/title/tt38492802/?ref_=ttep_ep_1"
-        },
-        {
-          "season": 70,
-          "number": 2,
-          "name": "Episode #70.2",
-          "airdate": "2025-10-10",
-          "summary": "Steph McGovern hosts. Team captains Paul Merton and Ian Hislop are joined by guest panellists actor Stephen Mangan and broadcaster Salma Shah.",
-          "url": "https://www.imdb.com/title/tt38553352/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 70,
-          "number": 3,
-          "name": "Episode #70.3",
-          "airdate": "2025-10-17",
-          "summary": "On this week's edition of the topical, satirical panel show team captains Ian Hislop and Paul Merton are joined by guest panellists journalist Helen Lewis and comedian Ross Noble. Alexander Armstrong is this week's guest presenter.",
-          "url": "https://www.imdb.com/title/tt38685990/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 70,
-          "number": 4,
-          "name": "Episode #70.4",
-          "airdate": "2025-10-24",
-          "summary": "Adil Ray is the guest presenter of the long-running satirical panel show this week. Team captains Ian Hislop and Paul Merton are joined by panellists comedian Julian Clary and journalist Sophy Ridge.",
-          "url": "https://www.imdb.com/title/tt38686095/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 70,
-          "number": 5,
-          "name": "Episode #70.5",
-          "airdate": "2025-10-31",
-          "summary": "Comedian Jason Manford is the guest presenter this week. Labour MP Louise Haigh and comedian Laura Smyth join team captains Ian Hislop and Paul Merton to take a satirical look at the biggest news stories of the week.",
-          "url": "https://www.imdb.com/title/tt38768207/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 70,
-          "number": 6,
-          "name": "Episode #70.6",
-          "airdate": "2025-11-07",
-          "summary": "Team captains Paul Merton and Ian Hislop are joined by guest panellists comedian Maisie Adam and journalist Lewis Goodall. Katherine Ryan hosts.",
-          "url": "https://www.imdb.com/title/tt38777208/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 70,
-          "number": 7,
-          "name": "Episode #70.7",
-          "airdate": "2025-11-21",
-          "summary": "Team captains Paul Merton and Ian Hislop are joined by comedian Nish Kumar and journalist Cathy Newman. Gabby Logan hosts.",
-          "url": "https://www.imdb.com/title/tt38987274/?ref_=ttep_ep_7"
-        },
-        {
-          "season": 70,
-          "number": 8,
-          "name": "Episode #70.8",
-          "airdate": "2025-11-28",
-          "summary": "Richard Ayoade hosts. Team captains Paul Merton and Ian Hislop are joined by guest panellists writer and broadcaster Richard Osman and comedian Bella Hull.",
-          "url": "https://www.imdb.com/title/tt38987276/?ref_=ttep_ep_8"
-        },
-        {
-          "season": 70,
-          "number": 9,
-          "name": "Episode #70.9",
-          "airdate": "2025-12-05",
-          "summary": "Team captains Paul Merton and Ian Hislop are joined by guest panellists the Rev Richard Coles and comedian Finlay Christie. Professor Hannah Fry hosts.",
-          "url": "https://www.imdb.com/title/tt38987277/?ref_=ttep_ep_9"
-        },
-        {
-          "season": 70,
-          "number": 10,
-          "name": "Episode #70.10",
-          "airdate": "2025-12-12",
-          "summary": "Guest panellists journalist and broadcaster Janet Street-Porter and comedian and comedy writer Phil Wang join team captains Paul Merton and Ian Hislop. Martin Clunes hosts.",
-          "url": "https://www.imdb.com/title/tt38987278/?ref_=ttep_ep_10"
-        },
-        {
-          "season": 70,
-          "number": 11,
-          "name": "Have I Got 2025 News for You",
-          "airdate": "2025-12-19",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt39233036/?ref_=ttep_ep_11"
         }
       ]
     },
@@ -36901,10 +36853,18 @@
       "episodes": [
         {
           "season": 6,
+          "number": 14,
+          "name": "Teachers, Tech & Tunes",
+          "airdate": "2026-09-14",
+          "summary": "Amy and Billy face off in game one. Eric, a business director, plays Matt, a software engineer, in game two.",
+          "url": "https://www.imdb.com/title/tt46065394/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 6,
           "number": 21,
-          "name": "Episode #6.1",
+          "name": "Brains, Brawn & Battles",
           "airdate": "2026-09-21",
-          "summary": null,
+          "summary": "Matthew from Philadelphia faces Paul from New Jersey. Tome from Detroit plays Robin from Northern Virginia.",
           "url": "https://www.imdb.com/title/tt42594565/?ref_=ttep_ep_1"
         },
         {
@@ -37673,7 +37633,7 @@
         {
           "season": 35,
           "number": 16,
-          "name": "After Show Special",
+          "name": "DWTS After Party",
           "airdate": "2026-09-16",
           "summary": "The female celebrities make their competition debut, performing to a number one song from the year they were born.",
           "url": "https://www.imdb.com/title/tt46023267/?ref_=ttep_ep"
@@ -37799,7 +37759,7 @@
         {
           "season": 2,
           "number": 29,
-          "name": "Episode #2.3",
+          "name": "Arms and Armadillos",
           "airdate": "2026-09-29",
           "summary": null,
           "url": "https://www.imdb.com/title/tt46065911/?ref_=ttep_ep_3"
@@ -38453,6 +38413,30 @@
           "url": "https://www.imdb.com/title/tt42468320/?ref_=ttep_ep_1"
         },
         {
+          "season": 30,
+          "number": 17,
+          "name": "Episode #30.0",
+          "airdate": "2026-09-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46091464/?ref_=ttep_ep"
+        },
+        {
+          "season": 30,
+          "number": 22,
+          "name": "Episode #30.2",
+          "airdate": "2026-09-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077443/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 30,
+          "number": 23,
+          "name": "Episode #30.3",
+          "airdate": "2026-09-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077444/?ref_=ttep_ep_3"
+        },
+        {
           "season": 29,
           "number": 1,
           "name": "The Blind Auditions Premiere",
@@ -39032,14 +39016,6 @@
       "episodes": [
         {
           "season": 2,
-          "number": 2,
-          "name": "Episode #2.2",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt39602044/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 2,
           "number": 3,
           "name": "Episode #2.3",
           "airdate": null,
@@ -39109,6 +39085,14 @@
           "airdate": "2026-09-18",
           "summary": "In 1715 Scotland, war divides the Highlands as clans choose sides in the Jacobite Rising. Lovers are torn apart, families clash over loyalty, and time travelers desperately seek reunion while battling scheming lords and their own demons.",
           "url": "https://www.imdb.com/title/tt37428570/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 25,
+          "name": "Episode #2.2",
+          "airdate": "2026-09-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39602044/?ref_=ttep_ep_2"
         },
         {
           "season": 1,
@@ -41559,6 +41543,14 @@
           "url": "https://www.imdb.com/title/tt41877655/?ref_=ttep_ep_1"
         },
         {
+          "season": 2,
+          "number": 30,
+          "name": "The Gloves Are Off!",
+          "airdate": "2026-09-30",
+          "summary": "The remaining contestants compete in five games, \"Unboxed\", \"Column of Cans\", \"Weigh To Go\", \"Chain Reaction\", and \"Slam Dunk\".",
+          "url": "https://www.imdb.com/title/tt46081039/?ref_=ttep_ep_2"
+        },
+        {
           "season": 1,
           "number": 2,
           "name": "This is Nuts!",
@@ -42044,6 +42036,97 @@
           "airdate": "2025-09-25",
           "summary": "The recruits have to rappel from a military helicopter.",
           "url": "https://www.imdb.com/title/tt36933513/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt0487001": {
+      "imdbId": "tt0487001",
+      "title": "NFL Primetime",
+      "episodes": []
+    },
+    "tt36984433": {
+      "imdbId": "tt36984433",
+      "title": "S.W.A.T.: Exiles",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Not one but two",
+          "airdate": "2026-10-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38227909/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "The project",
+          "airdate": "2026-10-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38227915/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Hate crime",
+          "airdate": "2026-10-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38227918/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Edgemount",
+          "airdate": "2026-10-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38227919/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Molotov cocktail attire",
+          "airdate": "2026-10-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38227920/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Episode #1.7",
+          "airdate": "2026-11-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38227921/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Episode #1.8",
+          "airdate": "2026-11-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38227925/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Episode #1.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38227922/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Episode #1.10",
+          "airdate": "2026-11-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38227931/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 25,
+          "name": "Clean entry",
+          "airdate": "2026-09-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38227829/?ref_=ttep_ep_1"
         }
       ]
     }
