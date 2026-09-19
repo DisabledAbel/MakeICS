@@ -26,6 +26,7 @@ body {
 
 .tabs {
   display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
   margin-bottom: 1rem;
 }
@@ -144,6 +145,21 @@ button,
   border-radius: 16px;
   font: inherit;
 }
+
+.builder h2 { margin-top: 0; }
+.builder-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; }
+.builder-source { position: relative; min-width: 0; }
+.builder-source > label:not(:first-child) { margin-top: 14px; }
+.builder-suggestions { top: 86px; }
+.builder-movie-suggestions { top: 86px; }
+.selected-sources { display: grid; gap: 10px; padding: 0; list-style: none; }
+.selected-sources li { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 12px 16px; border: 1px solid rgba(255,255,255,.13); border-radius: 16px; background: #101d31; }
+.selected-sources .empty-source { color: #b8c4d9; }
+.selected-sources button { min-height: 44px; }
+.builder-preview ol { display: grid; gap: 10px; padding-left: 24px; }
+.builder-preview li { padding: 10px; color: #eef4ff; }
+.builder-preview time { display: block; color: #93f5d2; font-size: .9rem; }
+button:focus-visible, input:focus-visible, select:focus-visible, a:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
 
 input {
   width: 100%;
@@ -312,4 +328,7 @@ button,
   .show-header img {
     max-width: 180px;
   }
+  .builder-grid { grid-template-columns: 1fr; }
+  .tabs .tab-btn { flex: 1 1 140px; }
+  .selected-sources li { align-items: stretch; flex-direction: column; }
 }

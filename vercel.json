@@ -2,6 +2,10 @@
   "version": 2,
   "rewrites": [
     {
+      "source": "/api/calendar",
+      "destination": "/api/calendar.js"
+    },
+    {
       "source": "/api/episodes",
       "destination": "/api/episodes.js"
     },
