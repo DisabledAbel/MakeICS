@@ -940,10 +940,12 @@ document.querySelector('#builder-preview').addEventListener('click', async () =>
     const list = builderPreview.querySelector('ol'); list.replaceChildren();
     const category = { tv: ['📺', 'TV'], sports: ['🏀', 'Sports'], movie: ['🎬', 'Movie'] };
     payload.events.forEach(event => {
-      const item = document.createElement('li'); const label = document.createElement('strong'); const time = document.createElement('time');
+      const item = document.createElement('li'); const label = document.createElement('strong'); const time = document.createElement('time'); const status = document.createElement('span');
       label.textContent = `${category[event.type][0]} ${category[event.type][1]}: ${event.title}`;
       time.dateTime = event.start; time.textContent = event.allDay ? event.start : new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short', timeZone: payload.calendar.timezone }).format(new Date(event.start));
-      item.append(label, time); list.append(item);
+      const state = event.sourceStatus || ({ CONFIRMED: 'Confirmed', TENTATIVE: 'Tentative', CANCELLED: 'Cancelled' }[event.status] || 'Confirmed');
+      status.className = 'event-status'; status.textContent = event.type === 'sports' ? `Game ${state.toLowerCase()}` : state;
+      item.dataset.status = event.status || 'CONFIRMED'; item.append(label, time, status); list.append(item);
     });
     if (!payload.events.length) { const item = document.createElement('li'); item.textContent = 'No matching events were found.'; list.append(item); }
     builderPreview.hidden = false; setStatus(payload.failures.length ? `Preview loaded with ${payload.failures.length} unavailable source(s).` : 'Calendar preview loaded.');

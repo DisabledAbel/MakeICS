@@ -159,6 +159,10 @@ button,
 .builder-preview ol { display: grid; gap: 10px; padding-left: 24px; }
 .builder-preview li { padding: 10px; color: #eef4ff; }
 .builder-preview time { display: block; color: #93f5d2; font-size: .9rem; }
+.builder-preview .event-status { display: block; margin-top: 3px; font-size: .9rem; font-weight: 700; }
+.builder-preview li[data-status="CANCELLED"] { opacity: .7; text-decoration-color: currentColor; }
+.builder-preview li[data-status="CANCELLED"] .event-status { color: #ffb5b5; }
+.builder-preview li[data-status="TENTATIVE"] .event-status { color: #ffd67d; }
 button:focus-visible, input:focus-visible, select:focus-visible, a:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
 
 input {

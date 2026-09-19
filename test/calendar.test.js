@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { buildCalendar, toIcs } from '../lib/calendar.js';
+import { buildCalendar, createEventFingerprint, normalizeSportsStatus, toIcs } from '../lib/calendar.js';
 import { createCalendarHandler, parseCalendarRequest } from '../api/calendar.js';
 
 const calls = [];
@@ -74,6 +74,55 @@ test('UIDs are stable and deduplication uses them', async () => {
   const first = await buildCalendar({ shows: ['Alpha', 'Alpha'], loaders });
   const second = await buildCalendar({ shows: ['Alpha'], loaders });
   assert.equal(first.events.length, 1); assert.equal(first.events[0].uid, second.events[0].uid);
+});
+
+test('sports reschedules retain UID and advance trustworthy revisions', async () => {
+  const sportsLoader = time => async ({ teamId }) => ({
+    team: { id: teamId, name: 'Portland', sport: 'Basketball' },
+    events: [{ id: 'game123', name: 'Portland vs Seattle', timestamp: `2026-09-20T${time}:00Z`, status: 'NS', updatedAt: time === '18:00' ? '2026-09-19T20:00:00Z' : '2026-09-19T21:30:00Z' }]
+  });
+  const before = await buildCalendar({ teamIds: ['1'], loaders: { ...loaders, getEvents: sportsLoader('18:00') } });
+  const after = await buildCalendar({ teamIds: ['1'], loaders: { ...loaders, getEvents: sportsLoader('20:00') } });
+  assert.equal(before.events[0].uid, after.events[0].uid);
+  assert.notEqual(before.events[0].start, after.events[0].start);
+  assert.ok(after.events[0].sequence > before.events[0].sequence);
+  assert.match(toIcs(after), /LAST-MODIFIED:20260919T213000Z/);
+});
+
+test('sports cancellation and postponement preserve identity and valid statuses', async () => {
+  const loadStatus = status => async ({ teamId }) => ({ team: { id: teamId, name: 'Team', sport: 'Basketball' }, events: [{ id: 'game123', name: 'Game', timestamp: '2026-09-20T18:00:00Z', status }] });
+  const confirmed = await buildCalendar({ teamIds: ['1'], loaders: { ...loaders, getEvents: loadStatus('NS') } });
+  const cancelled = await buildCalendar({ teamIds: ['1'], loaders: { ...loaders, getEvents: loadStatus('Cancelled') } });
+  const postponed = await buildCalendar({ teamIds: ['1'], loaders: { ...loaders, getEvents: loadStatus('Postponed') } });
+  assert.equal(confirmed.events[0].uid, cancelled.events[0].uid);
+  assert.match(toIcs(cancelled), /STATUS:CANCELLED/);
+  const postponedIcs = toIcs(postponed);
+  assert.match(postponedIcs, /STATUS:TENTATIVE/);
+  assert.match(postponedIcs, /X-MAKEICS-STATUS:POSTPONED/);
+  assert.doesNotMatch(postponedIcs, /^STATUS:POSTPONED$/m);
+});
+
+test('sports status mapping is case-insensitive', () => {
+  for (const value of ['NS', 'Scheduled', 'Final', 'not started', 'Finished', 'FT']) assert.equal(normalizeSportsStatus(value.toLowerCase()), 'CONFIRMED');
+  for (const value of ['Postponed', 'PPD', 'Delayed', 'Suspended', 'TBD']) assert.equal(normalizeSportsStatus(value.toLowerCase()), 'TENTATIVE');
+  for (const value of ['Cancelled', 'Canceled', 'Abandoned']) assert.equal(normalizeSportsStatus(value.toLowerCase()), 'CANCELLED');
+});
+
+test('unknown revisions stay at sequence zero without invented last-modified', async () => {
+  const first = await buildCalendar({ teamIds: ['1'], loaders });
+  const second = await buildCalendar({ teamIds: ['1'], loaders });
+  assert.equal(first.events[0].sequence, 0);
+  assert.equal(first.events[0].sequence, second.events[0].sequence);
+  assert.equal(first.events[0].lastModified, null);
+  assert.doesNotMatch(toIcs(first), /LAST-MODIFIED/);
+});
+
+test('fingerprints ignore render metadata but cover material changes', () => {
+  const base = { title: 'Game', start: '2026-09-20T18:00:00Z', end: '2026-09-20T20:00:00Z', allDay: false, location: 'Arena', status: 'NS', metadata: { broadcast: 'ESPN' } };
+  assert.equal(createEventFingerprint({ ...base, dtstamp: '2020-01-01' }), createEventFingerprint({ ...base, dtstamp: '2030-01-01', requestTime: '2030-01-01' }));
+  for (const change of [{ title: 'New name' }, { start: '2026-09-20T20:00:00Z' }, { location: 'New arena' }, { status: 'Cancelled' }, { metadata: { broadcast: 'ABC' } }]) {
+    assert.notEqual(createEventFingerprint(base), createEventFingerprint({ ...base, ...change }));
+  }
 });
 
 test('ICS is one valid escaped calendar with all-day movies', async () => {
