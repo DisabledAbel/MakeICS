@@ -1802,7 +1802,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=kvOL2_2El7Y",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -1846,8 +1846,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "2H",
+      "strVideo": "https://www.youtube.com/watch?v=sS0NPiwfBwE",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
