@@ -50,8 +50,10 @@ async function main() {
       return dateA - dateB;
     });
 
+    const scheduleChanged = JSON.stringify(existingMovies) !== JSON.stringify(mergedMovies);
     const payload = {
-      generatedAt: existingGeneratedAt || new Date().toISOString(),
+      // This is deliberately change-aware so feeds can use it as revision metadata.
+      generatedAt: !scheduleChanged && existingGeneratedAt ? existingGeneratedAt : new Date().toISOString(),
       movies: mergedMovies
     };
 

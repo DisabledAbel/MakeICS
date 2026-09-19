@@ -131,6 +131,23 @@ GET /api/movies?q=Animation&type=genre&format=ics
 GET /api/calendar?shows=The%20Last%20of%20Us&shows=Sofia%20the%20First&teamIds=136450&movies=Disney&movieType=studio&tz=America/Los_Angeles&format=ics
 ```
 
+### Event updates and cancellations
+
+MakeICS keeps each event's stable upstream identity in its `UID`, so a renamed,
+rescheduled, relocated, or broadcast-updated event remains the same calendar
+event. Feeds emit `SEQUENCE` and, when the source provides trustworthy change
+metadata, `LAST-MODIFIED`. `DTSTAMP` is the time the feed response was rendered;
+it is not used as an event revision.
+
+VEVENT status is always one of the iCalendar values `CONFIRMED`, `TENTATIVE`, or
+`CANCELLED`. Postponed, delayed, suspended, and TBD games use
+`STATUS:TENTATIVE` (because `POSTPONED` is not a valid VEVENT status), while the
+provider's wording is retained in `X-MAKEICS-STATUS` and combined-calendar JSON.
+An event is only cancelled when its source explicitly reports cancellation;
+MakeICS does not infer cancellation merely because an event disappears from an
+upstream response. Sources without reliable revision metadata use `SEQUENCE:0`
+and omit `LAST-MODIFIED` rather than inventing revision history.
+
 ### JSON response shape (TV)
 
 ```json
