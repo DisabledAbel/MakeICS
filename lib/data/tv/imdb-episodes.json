@@ -334,7 +334,7 @@
         {
           "season": 30,
           "number": 18,
-          "name": "Sara Haines' Birthday/View Your Deal",
+          "name": "Sara Haines' Birthday/Kenny Chesney/Vanessa Bracetty/View Your Deal",
           "airdate": "2026-09-18",
           "summary": "\"The View\" celebrates Sara Haines' birthday; Kenny Chesney; Gretta Monahan shows hot deals;",
           "url": "https://www.imdb.com/title/tt43715656/?ref_=ttep_ep_9"
@@ -13051,9 +13051,9 @@
         {
           "season": 20,
           "number": 17,
-          "name": "Episode #20.11",
+          "name": "A Tale of Two Trips",
           "airdate": "2026-09-17",
-          "summary": null,
+          "summary": "As the two group trips come to a close, Jenn and Emily make a bold statement that leaves Vicki taken back. Back in the OC, Heather gives her mother a look at her new apartment while Travis surprises Gina. Tensions flare between Emily and Shane. Carmella questions her future with Danny. When Tamra presses Vicki about her behavior in La Quinta, Vicki opens up about her insecurities.",
           "url": "https://www.imdb.com/title/tt43683898/?ref_=ttep_ep_11"
         },
         {
@@ -16128,6 +16128,14 @@
           "airdate": "2026-08-28",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44898509/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 22,
+          "number": 18,
+          "name": "Runaway Train",
+          "airdate": "2026-09-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46180372/?ref_=ttep_ep_18"
         },
         {
           "season": 21,
@@ -26501,7 +26509,7 @@
         {
           "season": 1,
           "number": 18,
-          "name": "The Three Mark Skweikis",
+          "name": "The Three Matt Skweikis",
           "airdate": "2026-09-18",
           "summary": "A naked, glowing man with no memory leads Anna and Frederick to unravel a decades-old mystery.",
           "url": "https://www.imdb.com/title/tt37775055/?ref_=ttep_ep_7"
@@ -30818,7 +30826,7 @@
         {
           "season": 18,
           "number": 10,
-          "name": "Episode #18.10",
+          "name": "The Guys Have a Sleepover",
           "airdate": "2026-10-12",
           "summary": "Blinded from LASIK surgery, Dee pleads for the guys to spend the night to keep her safe from neighborhood crime, but they listen to the wolves inside themselves and opt for a dudes-only sleepover of their own.",
           "url": "https://www.imdb.com/title/tt43679376/?ref_=ttep_ep_10"
@@ -32256,6 +32264,14 @@
           "airdate": "2026-09-08",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45749840/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 5,
+          "number": 15,
+          "name": "Titans vs. Danny Garcia",
+          "airdate": "2026-09-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46100860/?ref_=ttep_ep_4"
         },
         {
           "season": 4,
@@ -34204,6 +34220,14 @@
         },
         {
           "season": 52,
+          "number": 5,
+          "name": "Sienna Spiro",
+          "airdate": "2026-10-03",
+          "summary": "Breakout British singer-songwriter Sienna Spiro, one of music's most compelling new artists, brings her showstopping vocals and emotionally rich songwriting to a spellbinding ACL debut. She performs highlights from her debut album.",
+          "url": "https://www.imdb.com/title/tt46094379/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 52,
           "number": 9,
           "name": "Ty Myers",
           "airdate": null,
@@ -34858,9 +34882,9 @@
         {
           "season": 16,
           "number": 23,
-          "name": "Episode #16.3",
+          "name": "A Seder in Brooklyn",
           "airdate": "2026-09-23",
-          "summary": null,
+          "summary": "Daisy hosts a Seder for the group that ends up being a less-than-festive affair. While Hailey divulges the trauma of her past, Erika takes a step towards growing her family. Erin and Jessel finally duke it out over coffee.",
           "url": "https://www.imdb.com/title/tt45211867/?ref_=ttep_ep_3"
         },
         {
@@ -35716,22 +35740,6 @@
         },
         {
           "season": 10,
-          "number": 6,
-          "name": "Nobody Puts Baby in a Corral/Birthday Stiffed",
-          "airdate": "2026-07-03",
-          "summary": "Trapped in Dairyland's kiddie zone, Lily launches a daring escape plan. Lincoln's perfect birthday gift for Clyde is a bust, leading him and Leni on a chaotic quest to find the perfect gift.",
-          "url": "https://www.imdb.com/title/tt39426603/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 10,
-          "number": 7,
-          "name": "All Pets Are Off/Brain Man",
-          "airdate": "2026-07-10",
-          "summary": "Lana takes on her toughest pet-matching client yet. After scoring a perfect test result, Zach's ego balloons.",
-          "url": "https://www.imdb.com/title/tt39426728/?ref_=ttep_ep_7"
-        },
-        {
-          "season": 10,
           "number": 8,
           "name": "My Phony Valentine/Man of My Schemes",
           "airdate": "2026-02-13",
@@ -35742,7 +35750,7 @@
           "season": 10,
           "number": 9,
           "name": "Hobblin' the Goblin/Fruit Dispute",
-          "airdate": "2026-05-10",
+          "airdate": "2026-10-02",
           "summary": "The Morticians' Club brings a cursed cookbook to school. Leni is torn between her fashion dream career and eco-values when caught protesting her new bosses' invention.",
           "url": "https://www.imdb.com/title/tt39426814/?ref_=ttep_ep_9"
         },
@@ -35750,7 +35758,7 @@
           "season": 10,
           "number": 10,
           "name": "Grouse of Horrors/The Lynning Ticket",
-          "airdate": "2026-07-17",
+          "airdate": "2026-10-09",
           "summary": "When more Louds move in across the street, Mr. Grouse's peaceful life is turned upside down. Lynn turns her obsession with scoring baseball tickets into a sports vlog in the hopes of getting press passes.",
           "url": "https://www.imdb.com/title/tt39426851/?ref_=ttep_ep_10"
         },
@@ -35777,6 +35785,22 @@
           "airdate": "2026-07-31",
           "summary": "After scoring free food, Lola goes on a spree of complaints to scam perks around town. Tired of suffering through exhausting PE classes, Lincoln and friends challenge the faculty to gym games to end the tradition.",
           "url": "https://www.imdb.com/title/tt39427025/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 10,
+          "number": 18,
+          "name": "Nobody Puts Baby in a Corral/Birthday Stiffed",
+          "airdate": "2026-09-18",
+          "summary": "Trapped in Dairyland's kiddie zone, Lily launches a daring escape plan. Lincoln's perfect birthday gift for Clyde is a bust, leading him and Leni on a chaotic quest to find the perfect gift.",
+          "url": "https://www.imdb.com/title/tt39426603/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 10,
+          "number": 25,
+          "name": "All Pets Are Off/Brain Man",
+          "airdate": "2026-09-25",
+          "summary": "Lana takes on her toughest pet-matching client yet. After scoring a perfect test result, Zach's ego balloons.",
+          "url": "https://www.imdb.com/title/tt39426728/?ref_=ttep_ep_7"
         },
         {
           "season": 9,
@@ -37014,7 +37038,7 @@
           "number": 14,
           "name": "The Museum of Unnatural History",
           "airdate": "2026-09-14",
-          "summary": null,
+          "summary": "John Henson has 10 bakers create nutty desserts inspired by spooky Halloween memories. Judges Stephanie Boswell, Aarti Sequeira, and Zac Young award $1,000 to the winner. The top three advance while others make mask desserts.",
           "url": "https://www.imdb.com/title/tt44847082/?ref_=ttep_ep_1"
         },
         {
@@ -38415,7 +38439,7 @@
         {
           "season": 30,
           "number": 17,
-          "name": "Episode #30.0",
+          "name": "The Voice 30th Season Celebration",
           "airdate": "2026-09-17",
           "summary": null,
           "url": "https://www.imdb.com/title/tt46091464/?ref_=ttep_ep"
@@ -39081,7 +39105,7 @@
         {
           "season": 2,
           "number": 18,
-          "name": "Episode #2.1",
+          "name": "Remembrance Day",
           "airdate": "2026-09-18",
           "summary": "In 1715 Scotland, war divides the Highlands as clans choose sides in the Jacobite Rising. Lovers are torn apart, families clash over loyalty, and time travelers desperately seek reunion while battling scheming lords and their own demons.",
           "url": "https://www.imdb.com/title/tt37428570/?ref_=ttep_ep_1"
@@ -39089,9 +39113,9 @@
         {
           "season": 2,
           "number": 25,
-          "name": "Episode #2.2",
+          "name": "The Veil of Time",
           "airdate": "2026-09-25",
-          "summary": null,
+          "summary": "Brian and Ellen help their clans prepare for the coming rebellion, with varying levels of success. Julia and Henry learn more about the stones at Craigh Na Dun from unexpected sources.",
           "url": "https://www.imdb.com/title/tt39602044/?ref_=ttep_ep_2"
         },
         {
@@ -39179,11 +39203,51 @@
       "episodes": [
         {
           "season": 3,
+          "number": 3,
+          "name": "The Eeriest of the East",
+          "airdate": "2026-10-02",
+          "summary": "Retta's journey to find scary takes her to the Eerie East where four homes vie for a chance at a $150,000 makeover by designer Alison Victoria. It includes a ghoulish home overrun with ghosts and a Victorian infested with spiders and apparitions.",
+          "url": "https://www.imdb.com/title/tt46100155/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "Scares of the Mysterious Midwest",
+          "airdate": "2026-10-09",
+          "summary": "Retta's journey takes her to the Mysterious Midwest where four homes contend for a chance at a $150,000 makeover by designer Alison Victoria. It includes a ghostly home with a history of squatters and a Victorian full of ghosts and dolls.",
+          "url": "https://www.imdb.com/title/tt46100159/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "name": "Nightmares in New England",
+          "airdate": "2026-10-16",
+          "summary": "Retta's journey to find scary takes her to Nightmarish New England where four homes battle for a chance at a $150,000 makeover by designer Alison Victoria. It includes a large house with whistling and humming specters and a diabolical duplex.",
+          "url": "https://www.imdb.com/title/tt46100165/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "name": "From Frightening to Fabulous",
+          "airdate": "2026-10-23",
+          "summary": "After a season-long search, the road trip comes to an end and Retta reveals the Scariest House in America. Now, designer Alison Victoria faces her ultimate renovation challenge: transform the terrifying home with a stunning $150,000 makeover.",
+          "url": "https://www.imdb.com/title/tt46100174/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
           "number": 18,
-          "name": "Episode #3.1",
+          "name": "The Wretched Road Trip Begins",
           "airdate": "2026-09-18",
-          "summary": null,
+          "summary": "Retta's journey to find scary begins with a road trip where four homes compete for a chance at a $150,000 makeover by designer Alison Victoria. It includes a creepy concrete home, a haunted observatory and a home that's too haunted to live in.",
           "url": "https://www.imdb.com/title/tt44076283/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 25,
+          "name": "Horror in the Ominous Ozarks",
+          "airdate": "2026-09-25",
+          "summary": "Retta's journey to find scary takes her to the Ominous Ozarks where three homes duke it out for a chance at a $150,000 makeover by designer Alison Victoria. It includes a home of devilish doppelgängers and a ghostly gangster meeting place.",
+          "url": "https://www.imdb.com/title/tt46100151/?ref_=ttep_ep_2"
         },
         {
           "season": 2,
@@ -39338,10 +39402,10 @@
         {
           "season": 1,
           "number": 19,
-          "name": "Terror Tales of the Park VII",
+          "name": "Spice It Up: Beyond Underdome",
           "airdate": "2026-09-19",
-          "summary": "The park crew gathers to tell scary stories in the old graveyard, but a cursed book brings their terrifying tales to life, trapping them in an anthology of horror scenarios they must survive before sunrise.",
-          "url": "https://www.imdb.com/title/tt43742786/?ref_=ttep_ep_19"
+          "summary": "A good chicken wing party needs a spicy sauce.",
+          "url": "https://www.imdb.com/title/tt41399988/?ref_=ttep_ep_11"
         },
         {
           "season": 1,
@@ -39488,9 +39552,9 @@
         {
           "season": 59,
           "number": 13,
-          "name": "Episode #59.1",
+          "name": "Shot Down Over Iran/The Pardon Economy/Battering Ram",
           "airdate": "2026-09-13",
-          "summary": null,
+          "summary": "First, U.S. Air Force officer shot down in Iran says it's a \"modern-day miracle\" he survived. Then, brokers are offering felons a path to Trump pardons — at a steep price with no guarantees. And, McVay, Stafford on Rams culture.",
           "url": "https://www.imdb.com/title/tt45081036/?ref_=ttep_ep_1"
         },
         {
@@ -40212,7 +40276,7 @@
           "number": 20,
           "name": "Lockjaw",
           "airdate": "2026-09-20",
-          "summary": null,
+          "summary": "After a surprising diagnosis, Alex deals with Ruari's graduation stunt, her ex's decision to move to Canada, and a setup with an older man.",
           "url": "https://www.imdb.com/title/tt38990496/?ref_=ttep_ep_1"
         },
         {
@@ -40220,7 +40284,7 @@
           "number": 27,
           "name": "Welcome to the Rat's Nest",
           "airdate": "2026-09-27",
-          "summary": null,
+          "summary": "At the Frankfurt Book Fair, Alex tries to keep Ruari occupied while being bombarded by the viral success of Malcom's self-published novel.",
           "url": "https://www.imdb.com/title/tt39028206/?ref_=ttep_ep_3"
         }
       ]
@@ -41651,10 +41715,18 @@
       "episodes": [
         {
           "season": 25,
+          "number": 2,
+          "name": "A Tale of Two Kitchens",
+          "airdate": "2026-10-01",
+          "summary": "The chefs receive a surprise from Chef Ramsay before the red and blue teams battle it out in an extensive three-round challenge. Later, they face their first dinner service, cooking for a room full of influencers.",
+          "url": "https://www.imdb.com/title/tt42593422/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 25,
           "number": 24,
-          "name": "Episode #25.1",
+          "name": "25th Premiere Party",
           "airdate": "2026-09-24",
-          "summary": null,
+          "summary": "With Hell's Kitchen in its historic Season 25 there is an entire generation of chefs too young to know a world without Hell's Kitchen that have been inspired by the series setting out to impress Chef Ramsay in the Signature Dish Challenge.",
           "url": "https://www.imdb.com/title/tt42593420/?ref_=ttep_ep_1"
         },
         {
@@ -42091,7 +42163,7 @@
         {
           "season": 1,
           "number": 7,
-          "name": "Episode #1.7",
+          "name": "Take the shot",
           "airdate": "2026-11-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38227921/?ref_=ttep_ep_7"
@@ -42099,7 +42171,7 @@
         {
           "season": 1,
           "number": 8,
-          "name": "Episode #1.8",
+          "name": "The vault",
           "airdate": "2026-11-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38227925/?ref_=ttep_ep_8"
@@ -42107,7 +42179,7 @@
         {
           "season": 1,
           "number": 9,
-          "name": "Episode #1.9",
+          "name": "Burn zone",
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt38227922/?ref_=ttep_ep_9"
@@ -42115,7 +42187,7 @@
         {
           "season": 1,
           "number": 10,
-          "name": "Episode #1.10",
+          "name": "Hard exit",
           "airdate": "2026-11-27",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38227931/?ref_=ttep_ep_10"
@@ -42127,6 +42199,204 @@
           "airdate": "2026-09-25",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38227829/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt0072562": {
+      "imdbId": "tt0072562",
+      "title": "Saturday Night Live",
+      "episodes": [
+        {
+          "season": 52,
+          "number": 2,
+          "name": "Dakota Johnson/Turnstile",
+          "airdate": "2026-10-03",
+          "summary": "Host Dakota Johnson; Turnstile performs.",
+          "url": "https://www.imdb.com/title/tt45472012/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 52,
+          "number": 3,
+          "name": "Shane Gillis/Rosalía",
+          "airdate": "2026-10-10",
+          "summary": "Host Shane Gillis; Rosalía performs.",
+          "url": "https://www.imdb.com/title/tt45472013/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 52,
+          "number": 4,
+          "name": "Inde Navarrette/Gracie Abrams",
+          "airdate": "2026-10-31",
+          "summary": "Host Inde Navarrette; Gracie Abrams performs.",
+          "url": "https://www.imdb.com/title/tt45472386/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 52,
+          "number": 26,
+          "name": "Jalen Brunson/Katseye",
+          "airdate": "2026-09-26",
+          "summary": "Host Jalen Brunson; Katseye performs.",
+          "url": "https://www.imdb.com/title/tt44064578/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 51,
+          "number": 1,
+          "name": "Bad Bunny/Doja Cat",
+          "airdate": "2025-10-04",
+          "summary": "Host Bad Bunny; Doja Cat performs.",
+          "url": "https://www.imdb.com/title/tt37158920/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 51,
+          "number": 2,
+          "name": "Amy Poehler/Role Model",
+          "airdate": "2025-10-11",
+          "summary": "Host Amy Poehler; Role Model performs.",
+          "url": "https://www.imdb.com/title/tt38359648/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 51,
+          "number": 3,
+          "name": "Sabrina Carpenter",
+          "airdate": "2025-10-18",
+          "summary": "Sabrina Carpenter hosts and performs.",
+          "url": "https://www.imdb.com/title/tt38359653/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 51,
+          "number": 4,
+          "name": "Miles Teller/Brandi Carlile",
+          "airdate": "2025-11-01",
+          "summary": "Host Miles Teller; Brandi Carlile performs.",
+          "url": "https://www.imdb.com/title/tt38711456/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 51,
+          "number": 5,
+          "name": "Nikki Glaser/Sombr",
+          "airdate": "2025-11-08",
+          "summary": "Host Nikki Glaser; Sombr performs.",
+          "url": "https://www.imdb.com/title/tt38711458/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 51,
+          "number": 6,
+          "name": "Glen Powell/Olivia Dean",
+          "airdate": "2025-11-15",
+          "summary": "Host Glen Powell; Olivia Dean performs.",
+          "url": "https://www.imdb.com/title/tt38711459/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 51,
+          "number": 7,
+          "name": "Melissa McCarthy/Dijon",
+          "airdate": "2025-12-06",
+          "summary": "Host Melissa McCarthy; Dijon performs.",
+          "url": "https://www.imdb.com/title/tt38953052/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 51,
+          "number": 8,
+          "name": "Josh O'Connor/Lily Allen",
+          "airdate": "2025-12-13",
+          "summary": "Host Josh O'Connor; Lily Allen performs.",
+          "url": "https://www.imdb.com/title/tt38968779/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 51,
+          "number": 9,
+          "name": "Ariana Grande/Cher",
+          "airdate": "2025-12-20",
+          "summary": "Host Ariana Grande; Cher performs.",
+          "url": "https://www.imdb.com/title/tt38968975/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 51,
+          "number": 10,
+          "name": "Finn Wolfhard/A$AP Rocky",
+          "airdate": "2026-01-17",
+          "summary": "Host Finn Wolfhard; A$AP Rocky performs.",
+          "url": "https://www.imdb.com/title/tt39123812/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 51,
+          "number": 11,
+          "name": "Teyana Taylor/Geese",
+          "airdate": "2026-01-24",
+          "summary": "Host Teyana Taylor; Geese performs.",
+          "url": "https://www.imdb.com/title/tt39123814/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 51,
+          "number": 12,
+          "name": "Alexander Skarsgard/Cardi B",
+          "airdate": "2026-01-31",
+          "summary": "Host Alexander Skarsgard; Cardi B performs.",
+          "url": "https://www.imdb.com/title/tt39123813/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 51,
+          "number": 13,
+          "name": "Connor Storrie/Mumford & Sons",
+          "airdate": "2026-02-28",
+          "summary": "Host Connor Storrie; Mumford and Sons perform.",
+          "url": "https://www.imdb.com/title/tt39547708/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 51,
+          "number": 14,
+          "name": "Ryan Gosling / Gorillaz",
+          "airdate": "2026-03-07",
+          "summary": "Host Ryan Gosling; Gorillaz perform.",
+          "url": "https://www.imdb.com/title/tt39602573/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 51,
+          "number": 15,
+          "name": "Harry Styles",
+          "airdate": "2026-03-14",
+          "summary": "Harry Styles hosts and performs.",
+          "url": "https://www.imdb.com/title/tt39602574/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 51,
+          "number": 16,
+          "name": "Jack Black/Jack White",
+          "airdate": "2026-04-04",
+          "summary": "Host Jack Black; Jack White performs.",
+          "url": "https://www.imdb.com/title/tt40422402/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 51,
+          "number": 17,
+          "name": "Colman Domingo/Anitta",
+          "airdate": "2026-04-11",
+          "summary": "Host Colman Domingo; Anitta performs.",
+          "url": "https://www.imdb.com/title/tt40422405/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 51,
+          "number": 18,
+          "name": "Olivia Rodrigo",
+          "airdate": "2026-05-02",
+          "summary": "Olivia Rodrigo hosts and performs.",
+          "url": "https://www.imdb.com/title/tt40422404/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 51,
+          "number": 19,
+          "name": "Matt Damon/Noah Kahan",
+          "airdate": "2026-05-09",
+          "summary": "Host Matt Damon; Noah Kahan performs.",
+          "url": "https://www.imdb.com/title/tt40422407/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 51,
+          "number": 20,
+          "name": "Will Ferrell/Paul McCartney",
+          "airdate": "2026-05-16",
+          "summary": "Host Will Ferrell; Paul McCartney performs.",
+          "url": "https://www.imdb.com/title/tt40422409/?ref_=ttep_ep_20"
         }
       ]
     }
