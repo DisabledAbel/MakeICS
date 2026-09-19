@@ -3536,7 +3536,7 @@
       "genres": [
         "Action",
         "Adventure",
-        "Thriller"
+        "Drama"
       ],
       "people": [
         {
@@ -3826,7 +3826,7 @@
     {
       "id": "tt43641694",
       "title": "Mitrata",
-      "image": "https://m.media-amazon.com/images/M/MV5BNTAxMTFiNjAtMThkYS00MmEwLWIzNTYtZjU2MDgwZWNiMDgzXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmViYTQ0NmItMGE5Zi00NTMxLWEyZTctNzhmNTc2ZDFkMGNiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Sep 2026 00:00:00 GMT",
       "genres": [
         "Drama"
@@ -4457,6 +4457,35 @@
       "label": "Oct 09, 2026"
     },
     {
+      "id": "tt34386754",
+      "title": "Once Upon a Time in the Middle East",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDllNjIxZTYtYjIxZi00ZGNmLTliYTAtOTM0NTQ0OThkN2E4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "people": [
+        {
+          "id": "nm7613067",
+          "name": "Teng Shen"
+        },
+        {
+          "id": "nm12966858",
+          "name": "Qiming Jiang"
+        },
+        {
+          "id": "nm11611180",
+          "name": "Peter Daniel Adams"
+        },
+        {
+          "id": "nm8822643",
+          "name": "Barret Coates"
+        }
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
       "id": "tt32324552",
       "title": "Ranabaali",
       "image": "https://m.media-amazon.com/images/M/MV5BNDBmY2M5ODAtOTU0Yi00MTY5LTk2MGQtZDc1Mjg4MWEzNjkzXkEyXkFqcGc@._V1_.jpg",
@@ -4730,6 +4759,31 @@
         {
           "id": "nm0000285",
           "name": "Alec Baldwin"
+        }
+      ],
+      "label": "Oct 16, 2026"
+    },
+    {
+      "id": "tt45368240",
+      "title": "You Can See Everything",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Biography"
+      ],
+      "people": [
+        {
+          "id": "nm14476965",
+          "name": "Billy Evans"
+        },
+        {
+          "id": "nm2358709",
+          "name": "Nathan Fielder"
+        },
+        {
+          "id": "nm7266010",
+          "name": "Elizabeth Holmes"
         }
       ],
       "label": "Oct 16, 2026"
@@ -6645,7 +6699,8 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMDVhOGE4MzItMmEyYi00ZWNiLTk0YTUtODM1YWIwNmVmMWIyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
       "genres": [
-        "Horror"
+        "Horror",
+        "Thriller"
       ],
       "people": [
         {
@@ -8592,6 +8647,30 @@
         "Romance"
       ],
       "people": [],
+      "label": "Jul 16, 2027"
+    },
+    {
+      "id": "tt33378087",
+      "title": "Crawl 2",
+      "releaseDate": "Fri, 16 Jul 2027 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm2864252",
+          "name": "Mason Gooding"
+        },
+        {
+          "id": "nm6185683",
+          "name": "Emily Rudd"
+        },
+        {
+          "id": "nm10333820",
+          "name": "Jake Zahradnik"
+        }
+      ],
       "label": "Jul 16, 2027"
     },
     {
