@@ -45,7 +45,7 @@ test('combines TV and sports and all three types in chronological order', async 
 });
 
 test('loads multiple shows and teams and removes duplicate sources', async () => {
-  const parsed = parseCalendarRequest(url('shows=Alpha,Alpha,Beta&teamIds=1,1,2'));
+  const parsed = parseCalendarRequest(url('shows=Alpha&shows=Alpha&shows=Beta&teamIds=1&teamIds=1&teamIds=2'));
   assert.deepEqual(parsed.shows, ['Alpha', 'Beta']); assert.deepEqual(parsed.teamIds, ['1', '2']);
   const result = await buildCalendar({ ...parsed, loaders }); assert.equal(result.sources.tv.length, 2); assert.equal(result.sources.sports.length, 2);
 });
@@ -54,8 +54,14 @@ test('validates empty input, timezone, team IDs and source limits', () => {
   assert.throws(() => parseCalendarRequest(url('')), /At least one/);
   assert.throws(() => parseCalendarRequest(url('shows=A&tz=Mars%2FOlympus')), /Unsupported timezone/);
   assert.throws(() => parseCalendarRequest(url('teamIds=bad%20id')), /team IDs/);
-  assert.throws(() => parseCalendarRequest(url(`shows=${Array.from({ length: 11 }, (_, i) => `s${i}`).join(',')}`)), /maximum of 10/);
-  assert.throws(() => parseCalendarRequest(url(`movies=${Array.from({ length: 6 }, (_, i) => `m${i}`).join(',')}`)), /maximum of 5/);
+  assert.throws(() => parseCalendarRequest(url(Array.from({ length: 11 }, (_, i) => `shows=s${i}`).join('&'))), /maximum of 10/);
+  assert.throws(() => parseCalendarRequest(url(Array.from({ length: 6 }, (_, i) => `movies=m${i}`).join('&'))), /maximum of 5/);
+});
+
+test('preserves commas within repeated source values', () => {
+  const parsed = parseCalendarRequest(url('shows=Law%20%26%20Order%2C%20SVU&shows=Alpha&movies=Earth%2C%20Wind%20%26%20Fire'));
+  assert.deepEqual(parsed.shows, ['Law & Order, SVU', 'Alpha']);
+  assert.deepEqual(parsed.movies, ['Earth, Wind & Fire']);
 });
 
 test('partial failures retain good events and hide internal errors', async () => {
@@ -78,6 +84,13 @@ test('ICS is one valid escaped calendar with all-day movies', async () => {
   assert.match(ics, /SUMMARY:Alpha\\, finale\\; \\\\ cut\\nnext/);
   assert.match(ics, /DTSTART;VALUE=DATE:20260921\r\nDTEND;VALUE=DATE:20260922/);
   assert.match(ics, /X-WR-TIMEZONE:America\/Los_Angeles/); assert.match(ics, /END:VCALENDAR\r\n$/);
+});
+
+test('ignores impossible movie dates without throwing', async () => {
+  const invalidLoaders = { ...loaders, async getMovies() { return { query: 'Invalid', movies: [{ id: 'bad', title: 'Invalid', date: '2026-13-40', genres: [], people: [] }] }; } };
+  const result = await buildCalendar({ movies: ['Invalid'], loaders: invalidLoaders });
+  assert.deepEqual(result.events, []);
+  assert.equal(result.sources.movies[0].status, 'success');
 });
 
 test('handler serves JSON and ICS content types and 400 for no sources', async () => {

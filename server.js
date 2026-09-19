@@ -90,7 +90,7 @@ function validateQueryParams(req, res) {
         return false;
       }
 
-      if (key === 'q' || key === 'show') {
+      if (['q', 'show', 'shows', 'movies'].includes(key)) {
         if (/[\0\r\n]/.test(val)) {
           res.writeHead(400, { 'Content-Type': 'application/json' });
           res.end(JSON.stringify({ error: `Parameter '${key}' contains invalid or unsafe characters.` }));
