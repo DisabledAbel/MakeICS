@@ -11,7 +11,7 @@ function sendJson(res, statusCode, payload, cache = false) {
 }
 
 function list(params, key) {
-  const values = params.getAll(key).flatMap(value => value.split(',')).map(value => value.trim()).filter(Boolean);
+  const values = params.getAll(key).map(value => value.trim()).filter(Boolean);
   return [...new Map(values.map(value => [value.toLocaleLowerCase(), value])).values()];
 }
 

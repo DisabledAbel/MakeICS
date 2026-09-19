@@ -45,15 +45,15 @@ The **Calendar Builder** tab combines several TV shows, sports teams, and movie 
 ```http
 GET /api/calendar?shows=Sofia%20the%20First&format=ics
 GET /api/calendar?teamIds=136450&format=ics
-GET /api/calendar?shows=Sofia%20the%20First&teamIds=136450&tz=America/Los_Angeles&format=ics
+GET /api/calendar?shows=Sofia%20the%20First&shows=The%20Last%20of%20Us&teamIds=136450&tz=America/Los_Angeles&format=ics
 GET /api/calendar?shows=Sofia%20the%20First&teamIds=136450&movies=Disney&movieType=studio
 ```
 
 | Parameter | Description |
 | --- | --- |
-| `shows` | Comma-separated TV show names (maximum 10). |
-| `teamIds` | Comma-separated IDs selected through sports search (maximum 10). |
-| `movies` | Comma-separated movie searches (maximum 5). |
+| `shows` | Repeat once per TV show name (maximum 10). |
+| `teamIds` | Repeat once per sports team ID (maximum 10). |
+| `movies` | Repeat once per movie search (maximum 5). |
 | `movieType` | `all`, `studio`, `genre`, or `character`; applies to the movie searches. |
 | `tz` | IANA timezone, defaulting to `UTC` (for example, `America/Los_Angeles`). Timed events remain absolute instants and therefore follow daylight-saving changes in calendar clients; date-only movie releases remain all-day events. |
 | `since` | Optional date passed to each selected source's existing date filter. |
@@ -128,7 +128,7 @@ GET /api/movies?q=Animation&type=genre&format=ics
 
 ### Combined calendars
 ```http
-GET /api/calendar?shows=The%20Last%20of%20Us&teamIds=136450&movies=Disney&movieType=studio&tz=America/Los_Angeles&format=ics
+GET /api/calendar?shows=The%20Last%20of%20Us&shows=Sofia%20the%20First&teamIds=136450&movies=Disney&movieType=studio&tz=America/Los_Angeles&format=ics
 ```
 
 ### JSON response shape (TV)

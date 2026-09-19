@@ -860,9 +860,10 @@ function combinedUrl(format = 'ics') {
   const shows = selectedSources.filter(item => item.type === 'tv').map(item => item.name).sort((a, b) => a.localeCompare(b));
   const teams = selectedSources.filter(item => item.type === 'sports').map(item => item.id).sort();
   const movieSources = selectedSources.filter(item => item.type === 'movie').sort((a, b) => a.query.localeCompare(b.query));
-  if (shows.length) params.set('shows', shows.join(','));
-  if (teams.length) params.set('teamIds', teams.join(','));
-  if (movieSources.length) { params.set('movies', movieSources.map(item => item.query).join(',')); params.set('movieType', movieSources[0].movieType); }
+  shows.forEach(show => params.append('shows', show));
+  teams.forEach(teamId => params.append('teamIds', teamId));
+  movieSources.forEach(source => params.append('movies', source.query));
+  if (movieSources.length) params.set('movieType', movieSources[0].movieType);
   params.set('tz', builderTimezone.value);
   if (format) params.set('format', format);
   url.search = params.toString();
@@ -926,7 +927,9 @@ document.querySelector('#builder-copy').addEventListener('click', async () => {
 });
 document.querySelector('#builder-subscribe').addEventListener('click', () => {
   if (!selectedSources.length) return setStatus('Add at least one source first.', true);
-  const url = combinedUrl(); url.protocol = 'webcal:'; window.location.href = url.href;
+  const url = combinedUrl();
+  const webcalUrl = url.href.replace(/^https?:/, 'webcal:');
+  window.location.href = webcalUrl;
 });
 document.querySelector('#builder-preview').addEventListener('click', async () => {
   if (!selectedSources.length) return setStatus('Add at least one source first.', true);
