@@ -252,13 +252,14 @@ test('toIcs creates a daily-refreshing calendar event feed for episodes', async 
   });
 
   const ics = toIcs(result, { timezone: 'America/New_York' });
+  const unfoldedIcs = ics.replace(/\r\n[ \t]/g, '');
   assert.match(ics, /BEGIN:VCALENDAR/);
   assert.match(ics, /X-PUBLISHED-TTL:PT24H/);
   assert.match(ics, /REFRESH-INTERVAL;VALUE=DURATION:PT24H/);
   assert.match(ics, /SUMMARY:Example Show S01E01 Already Aired/);
   assert.match(ics, /SUMMARY:Example Show S02E03 Future episode./);
   assert.match(ics, /SUMMARY:Example Show S02E04 Too Far Away/);
-  assert.match(ics, /DESCRIPTION:.*Time: 9:00 PM EDT \/ 6:00 PM PDT.*/);
+  assert.match(unfoldedIcs, /DESCRIPTION:.*Time: 9:00 PM EDT \/ 6:00 PM PDT.*/);
   assert.match(ics, /END:VCALENDAR/);
 });
 
@@ -313,7 +314,8 @@ test('toIcs appends Google Search verify schedule links', async () => {
   });
 
   const ics = toIcs(result, { timezone: 'America/New_York' });
-  assert.match(ics, /Verify schedule: https:\/\/www\.google\.com\/search\?q=Example%20Show%20S02E03%20episode/);
+  const unfoldedIcs = ics.replace(/\r\n[ \t]/g, '');
+  assert.match(unfoldedIcs, /Verify schedule: https:\/\/www\.google\.com\/search\?q=Example%20Show%20S02E03%20episode/);
 });
 
 test('frontend offers one all-time copied ICS URL instead of dated feeds', async () => {
