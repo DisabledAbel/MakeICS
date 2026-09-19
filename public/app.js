@@ -13,6 +13,7 @@ const tabs = document.querySelectorAll('.tab-btn');
 const categoryFields = document.querySelectorAll('.category-field');
 const categoryHint = document.querySelector('#category-hint');
 const timezoneInput = document.querySelector('#timezone-input');
+const builderEl = document.querySelector('#calendar-builder');
 
 let currentCategory = 'tv';
 let suggestionDebounce;
@@ -22,7 +23,8 @@ let activeSuggestionIndex = -1;
 const CATEGORY_HINTS = {
   tv: 'Start typing to see TV show suggestions below the search bar. The feed includes all episodes from today onwards once added.',
   sports: 'Search for sports teams from TheSportsDB. Copy the ICS URL to track matches from today onwards once added.',
-  movies: 'Search for movies, studios, genres, or characters. Copy the ICS URL to track release dates.'
+  movies: 'Search for movies, studios, genres, or characters. Copy the ICS URL to track release dates.',
+  builder: 'Add several sources to make one permanent calendar subscription.'
 };
 
 // --- Tab Logic ---
@@ -30,8 +32,12 @@ const CATEGORY_HINTS = {
 tabs.forEach(tab => {
   tab.addEventListener('click', () => {
     tabs.forEach(t => t.classList.remove('active'));
+    tabs.forEach(t => t.setAttribute('aria-selected', 'false'));
     tab.classList.add('active');
+    tab.setAttribute('aria-selected', 'true');
     currentCategory = tab.dataset.category;
+    form.hidden = currentCategory === 'builder';
+    builderEl.hidden = currentCategory !== 'builder';
 
     if (suggestionAbortController) {
       suggestionAbortController.abort();
@@ -787,4 +793,156 @@ resultEl.addEventListener('click', async (event) => {
     return;
   }
   setTimeout(() => { button.textContent = originalText; }, 2000);
+});
+
+// --- Combined Calendar Builder ---
+
+const builderInputs = {
+  tv: document.querySelector('#builder-tv'),
+  sports: document.querySelector('#builder-sports'),
+  movie: document.querySelector('#builder-movie')
+};
+const builderSuggestionEls = {
+  tv: document.querySelector('#builder-tv-suggestions'),
+  sports: document.querySelector('#builder-sports-suggestions'),
+  movie: document.querySelector('#builder-movie-suggestions')
+};
+const builderSourcesEl = document.querySelector('#builder-sources');
+const builderTimezone = document.querySelector('#builder-timezone');
+const builderMovieType = document.querySelector('#builder-movie-type');
+const builderPreview = document.querySelector('#builder-preview-results');
+const selectedSources = [];
+let builderDebounce;
+let builderAbort;
+
+function sourceKey(source) {
+  if (source.type === 'sports') return `sports:${source.id}`;
+  if (source.type === 'movie') return `movie:${source.movieType}:${source.query.toLocaleLowerCase()}`;
+  return `tv:${source.name.toLocaleLowerCase()}`;
+}
+
+function renderBuilderSources() {
+  builderSourcesEl.replaceChildren();
+  if (!selectedSources.length) {
+    const empty = document.createElement('li'); empty.className = 'empty-source'; empty.textContent = 'No sources added yet.'; builderSourcesEl.append(empty); return;
+  }
+  const labels = { tv: 'TV', sports: 'Sports', movie: 'Movie' };
+  const icons = { tv: '📺', sports: '🏀', movie: '🎬' };
+  selectedSources.forEach((source, index) => {
+    const item = document.createElement('li');
+    const text = document.createElement('span');
+    const name = source.name || source.query;
+    text.textContent = `${icons[source.type]} ${labels[source.type]}: ${name}${source.type === 'movie' ? ` — ${source.movieType}` : ''}`;
+    const remove = document.createElement('button'); remove.type = 'button'; remove.textContent = 'Remove'; remove.setAttribute('aria-label', `Remove ${labels[source.type]} source ${name}`);
+    remove.addEventListener('click', () => { selectedSources.splice(index, 1); renderBuilderSources(); });
+    item.append(text, remove); builderSourcesEl.append(item);
+  });
+}
+
+function addBuilderSource(source) {
+  if (!source || selectedSources.some(existing => sourceKey(existing) === sourceKey(source))) {
+    setStatus('That source is already in your calendar.', true); return;
+  }
+  if (selectedSources.length >= 20) { setStatus('A calendar can contain at most 20 sources.', true); return; }
+  const counts = selectedSources.filter(item => item.type === source.type).length;
+  const limit = source.type === 'movie' ? 5 : 10;
+  if (counts >= limit) { setStatus(`You can add at most ${limit} ${source.type} sources.`, true); return; }
+  if (source.type === 'movie') {
+    const existingMovie = selectedSources.find(item => item.type === 'movie');
+    if (existingMovie && existingMovie.movieType !== source.movieType) { setStatus('All movie searches in one calendar must use the same search type.', true); return; }
+  }
+  selectedSources.push(source); renderBuilderSources(); setStatus(`${source.name || source.query} added.`);
+}
+
+function combinedUrl(format = 'ics') {
+  const url = new URL('/api/calendar', window.location.origin);
+  const params = new URLSearchParams();
+  const shows = selectedSources.filter(item => item.type === 'tv').map(item => item.name).sort((a, b) => a.localeCompare(b));
+  const teams = selectedSources.filter(item => item.type === 'sports').map(item => item.id).sort();
+  const movieSources = selectedSources.filter(item => item.type === 'movie').sort((a, b) => a.query.localeCompare(b.query));
+  if (shows.length) params.set('shows', shows.join(','));
+  if (teams.length) params.set('teamIds', teams.join(','));
+  if (movieSources.length) { params.set('movies', movieSources.map(item => item.query).join(',')); params.set('movieType', movieSources[0].movieType); }
+  params.set('tz', builderTimezone.value);
+  if (format) params.set('format', format);
+  url.search = params.toString();
+  return url;
+}
+
+async function getBuilderSuggestions(type, query) {
+  builderAbort?.abort(); builderAbort = new AbortController();
+  let endpoint = type === 'tv' ? '/api/search' : '/api/sports-search';
+  if (type === 'movie') endpoint = `/api/movies-search?type=${encodeURIComponent(builderMovieType.value)}`;
+  const response = await fetch(`${endpoint}${endpoint.includes('?') ? '&' : '?'}q=${encodeURIComponent(query)}`, { signal: builderAbort.signal });
+  const payload = await response.json();
+  if (!response.ok) throw new Error(payload.error || 'Unable to load suggestions.');
+  const el = builderSuggestionEls[type]; const input = builderInputs[type]; el.replaceChildren();
+  (payload.suggestions || []).forEach(suggestion => {
+    const button = document.createElement('button'); button.type = 'button'; button.className = 'suggestion-option'; button.setAttribute('role', 'option'); button.textContent = suggestion.name;
+    button.addEventListener('click', () => {
+      input.value = suggestion.name;
+      if (type === 'sports') input.dataset.teamId = suggestion.id;
+      el.hidden = true; input.setAttribute('aria-expanded', 'false');
+    });
+    button.addEventListener('keydown', event => {
+      const options = [...el.querySelectorAll('.suggestion-option')]; const index = options.indexOf(button);
+      if (event.key === 'ArrowDown' || event.key === 'ArrowUp') { event.preventDefault(); options[(index + (event.key === 'ArrowDown' ? 1 : -1) + options.length) % options.length]?.focus(); }
+      if (event.key === 'Escape') { el.hidden = true; input.setAttribute('aria-expanded', 'false'); input.focus(); }
+    });
+    el.append(button);
+  });
+  el.hidden = false; input.setAttribute('aria-expanded', 'true');
+}
+
+['tv', 'sports', 'movie'].forEach(type => {
+  const input = builderInputs[type];
+  input.addEventListener('input', () => {
+    if (type === 'sports') delete input.dataset.teamId;
+    clearTimeout(builderDebounce); const query = input.value.trim();
+    if (query.length < 2) { builderSuggestionEls[type].hidden = true; input.setAttribute('aria-expanded', 'false'); return; }
+    builderDebounce = setTimeout(() => getBuilderSuggestions(type, query).catch(error => { if (error.name !== 'AbortError') setStatus(error.message, true); }), 250);
+  });
+  input.addEventListener('keydown', event => {
+    if (event.key === 'ArrowDown' && !builderSuggestionEls[type].hidden) { event.preventDefault(); builderSuggestionEls[type].querySelector('.suggestion-option')?.focus(); }
+    if (event.key === 'Escape') { builderSuggestionEls[type].hidden = true; input.setAttribute('aria-expanded', 'false'); }
+  });
+});
+
+document.querySelector('#builder-add-tv').addEventListener('click', () => {
+  const name = builderInputs.tv.value.trim(); if (!name) return setStatus('Enter a TV show name.', true); addBuilderSource({ type: 'tv', name }); builderInputs.tv.value = '';
+});
+document.querySelector('#builder-add-sports').addEventListener('click', () => {
+  const { value } = builderInputs.sports; const id = builderInputs.sports.dataset.teamId;
+  if (!id) return setStatus('Select a sports team from the suggestions.', true);
+  addBuilderSource({ type: 'sports', id, name: value.trim() }); builderInputs.sports.value = ''; delete builderInputs.sports.dataset.teamId;
+});
+document.querySelector('#builder-add-movie').addEventListener('click', () => {
+  const query = builderInputs.movie.value.trim(); if (!query) return setStatus('Enter a movie search.', true);
+  addBuilderSource({ type: 'movie', query, movieType: builderMovieType.value }); builderInputs.movie.value = '';
+});
+document.querySelector('#builder-copy').addEventListener('click', async () => {
+  if (!selectedSources.length) return setStatus('Add at least one source first.', true);
+  try { await copyText(combinedUrl().href); setStatus('Calendar URL copied.'); } catch (error) { setStatus(`Unable to copy calendar URL: ${error.message}`, true); }
+});
+document.querySelector('#builder-subscribe').addEventListener('click', () => {
+  if (!selectedSources.length) return setStatus('Add at least one source first.', true);
+  const url = combinedUrl(); url.protocol = 'webcal:'; window.location.href = url.href;
+});
+document.querySelector('#builder-preview').addEventListener('click', async () => {
+  if (!selectedSources.length) return setStatus('Add at least one source first.', true);
+  setStatus('Loading combined calendar preview…');
+  try {
+    const response = await fetch(combinedUrl('').href); const payload = await response.json();
+    if (!response.ok) throw new Error(payload.error || 'Unable to preview calendar.');
+    const list = builderPreview.querySelector('ol'); list.replaceChildren();
+    const category = { tv: ['📺', 'TV'], sports: ['🏀', 'Sports'], movie: ['🎬', 'Movie'] };
+    payload.events.forEach(event => {
+      const item = document.createElement('li'); const label = document.createElement('strong'); const time = document.createElement('time');
+      label.textContent = `${category[event.type][0]} ${category[event.type][1]}: ${event.title}`;
+      time.dateTime = event.start; time.textContent = event.allDay ? event.start : new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short', timeZone: payload.calendar.timezone }).format(new Date(event.start));
+      item.append(label, time); list.append(item);
+    });
+    if (!payload.events.length) { const item = document.createElement('li'); item.textContent = 'No matching events were found.'; list.append(item); }
+    builderPreview.hidden = false; setStatus(payload.failures.length ? `Preview loaded with ${payload.failures.length} unavailable source(s).` : 'Calendar preview loaded.');
+  } catch (error) { setStatus(error.message, true); }
 });

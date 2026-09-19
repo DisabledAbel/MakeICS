@@ -16,10 +16,11 @@
         </p>
       </section>
 
-      <div class="tabs">
-        <button type="button" class="tab-btn active" data-category="tv">TV Shows</button>
-        <button type="button" class="tab-btn" data-category="sports">Sports Teams</button>
-        <button type="button" class="tab-btn" data-category="movies">Movies</button>
+      <div class="tabs" role="tablist" aria-label="Calendar tools">
+        <button type="button" role="tab" aria-selected="true" class="tab-btn active" data-category="tv">TV Shows</button>
+        <button type="button" role="tab" aria-selected="false" class="tab-btn" data-category="sports">Sports Teams</button>
+        <button type="button" role="tab" aria-selected="false" class="tab-btn" data-category="movies">Movies</button>
+        <button type="button" role="tab" aria-selected="false" class="tab-btn" data-category="builder">Calendar Builder</button>
       </div>
 
       <form id="search-form" class="search-card">
@@ -109,6 +110,36 @@
           Start typing to see TV show suggestions below the search bar. The all-time feed uses TVMaze for show and episode schedules.
         </p>
       </form>
+
+      <section id="calendar-builder" class="search-card builder" aria-labelledby="builder-title" hidden>
+        <h2 id="builder-title">My Calendar</h2>
+        <p class="hint">Add up to 10 shows, 10 teams, and 5 movie searches to one permanent subscription.</p>
+        <div class="builder-grid">
+          <div class="builder-source">
+            <label for="builder-tv">TV show</label>
+            <div class="input-row"><input id="builder-tv" type="search" autocomplete="off" aria-autocomplete="list" aria-controls="builder-tv-suggestions" aria-expanded="false" placeholder="Sofia the First"><button id="builder-add-tv" type="button">Add</button></div>
+            <div id="builder-tv-suggestions" class="search-suggestions builder-suggestions" role="listbox" hidden></div>
+          </div>
+          <div class="builder-source">
+            <label for="builder-sports">Sports team</label>
+            <div class="input-row"><input id="builder-sports" type="search" autocomplete="off" aria-autocomplete="list" aria-controls="builder-sports-suggestions" aria-expanded="false" placeholder="Portland Trail Blazers"><button id="builder-add-sports" type="button">Add</button></div>
+            <div id="builder-sports-suggestions" class="search-suggestions builder-suggestions" role="listbox" hidden></div>
+          </div>
+          <div class="builder-source">
+            <label for="builder-movie">Movie search</label>
+            <input id="builder-movie" type="search" autocomplete="off" aria-autocomplete="list" aria-controls="builder-movie-suggestions" aria-expanded="false" placeholder="Disney">
+            <div id="builder-movie-suggestions" class="search-suggestions builder-suggestions builder-movie-suggestions" role="listbox" hidden></div>
+            <label for="builder-movie-type">Search by</label>
+            <div class="input-row"><select id="builder-movie-type" class="movie-type-select"><option value="all">All</option><option value="studio">Studio</option><option value="genre">Genre</option><option value="character">Actors</option></select><button id="builder-add-movie" type="button">Add</button></div>
+          </div>
+        </div>
+        <h3>Added Sources</h3>
+        <ul id="builder-sources" class="selected-sources"><li class="empty-source">No sources added yet.</li></ul>
+        <label for="builder-timezone">Timezone</label>
+        <select id="builder-timezone" class="timezone-select"><option value="America/New_York">ET (Eastern)</option><option value="America/Chicago">CT (Central)</option><option value="America/Denver">MT (Mountain)</option><option value="America/Los_Angeles" selected>PT (Pacific)</option><option value="UTC">UTC</option></select>
+        <div class="actions builder-actions"><button id="builder-preview" type="button">Preview Calendar</button><button id="builder-copy" type="button">Copy ICS URL</button><button id="builder-subscribe" type="button">Subscribe to Calendar</button></div>
+        <section id="builder-preview-results" class="builder-preview" aria-labelledby="builder-preview-title" hidden><h3 id="builder-preview-title">Upcoming combined events</h3><ol></ol></section>
+      </section>
 
       <section id="status" class="status" role="status" aria-live="polite"></section>
       <section id="result" class="result" hidden></section>

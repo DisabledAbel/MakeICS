@@ -39,6 +39,30 @@ Upcoming movie releases scraped from the [IMDb US Release Calendar](https://www.
 - **Search**: `/api/movies-search?q={query}&type={type}`
 - **ICS Feed**: `/api/movies?q={query}&type={type}&format=ics`
 
+### 🗓 Combined Calendar Builder
+The **Calendar Builder** tab combines several TV shows, sports teams, and movie searches into one deterministic subscription URL. The URL is the configuration—there is no account or database—and it continues to refresh as upstream schedules change.
+
+```http
+GET /api/calendar?shows=Sofia%20the%20First&format=ics
+GET /api/calendar?teamIds=136450&format=ics
+GET /api/calendar?shows=Sofia%20the%20First&teamIds=136450&tz=America/Los_Angeles&format=ics
+GET /api/calendar?shows=Sofia%20the%20First&teamIds=136450&movies=Disney&movieType=studio
+```
+
+| Parameter | Description |
+| --- | --- |
+| `shows` | Comma-separated TV show names (maximum 10). |
+| `teamIds` | Comma-separated IDs selected through sports search (maximum 10). |
+| `movies` | Comma-separated movie searches (maximum 5). |
+| `movieType` | `all`, `studio`, `genre`, or `character`; applies to the movie searches. |
+| `tz` | IANA timezone, defaulting to `UTC` (for example, `America/Los_Angeles`). Timed events remain absolute instants and therefore follow daylight-saving changes in calendar clients; date-only movie releases remain all-day events. |
+| `since` | Optional date passed to each selected source's existing date filter. |
+| `format` | Set to `ics` for an ICS feed. Omit it for normalized JSON, including per-source status and partial failures. |
+
+At least one source is required. A combined calendar accepts at most 20 total sources, and source values and the overall query string are length-limited. Independent sources load concurrently; if one fails, successful sources are still returned. Duplicate selections are removed and events are sorted chronologically with stable UIDs.
+
+Use **Copy ICS URL** for the HTTPS URL or **Subscribe to Calendar** to open the same query as a `webcal://` URL in compatible calendar applications.
+
 ---
 
 ## ▶️ Running Locally
@@ -100,6 +124,11 @@ GET /api/sports-events?teamId=136450&format=ics
 GET /api/movies-search?q=Spider-Man&type=movie
 GET /api/movies?q=Spider-Man&type=movie
 GET /api/movies?q=Animation&type=genre&format=ics
+```
+
+### Combined calendars
+```http
+GET /api/calendar?shows=The%20Last%20of%20Us&teamIds=136450&movies=Disney&movieType=studio&tz=America/Los_Angeles&format=ics
 ```
 
 ### JSON response shape (TV)

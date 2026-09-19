@@ -10,6 +10,7 @@ import sportsSearchHandler from './api/sports-search.js';
 import sportsEventsHandler from './api/sports-events.js';
 import moviesSearchHandler from './api/movies-search.js';
 import moviesHandler from './api/movies.js';
+import calendarHandler from './api/calendar.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const publicDir = path.resolve(__dirname, 'public');
@@ -76,7 +77,7 @@ function validateQueryParams(req, res) {
 
       if (typeof val !== 'string') continue;
 
-      let maxLen = 120;
+      let maxLen = ['shows', 'teamIds', 'movies'].includes(key) ? 2200 : 120;
       if (key === 'tz' || key === 'timezone') maxLen = 50;
       else if (key === 'since') maxLen = 30;
       else if (key === 'type') maxLen = 30;
@@ -133,6 +134,10 @@ const server = http.createServer((req, res) => {
 
   if (url.startsWith('/api/episodes')) {
     handleRoute(episodesHandler, req, res);
+    return;
+  }
+  if (url.startsWith('/api/calendar')) {
+    handleRoute(calendarHandler, req, res);
     return;
   }
   if (url.startsWith('/api/search')) {
