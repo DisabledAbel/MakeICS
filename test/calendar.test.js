@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { buildCalendar, createEventFingerprint, normalizeSportsStatus, toIcs } from '../lib/calendar.js';
 import { createCalendarHandler, parseCalendarRequest } from '../api/calendar.js';
+import { foldIcsLine } from '../lib/utils/ics.js';
 
 const calls = [];
 const loaders = {
@@ -123,6 +124,15 @@ test('fingerprints ignore render metadata but cover material changes', () => {
   for (const change of [{ title: 'New name' }, { start: '2026-09-20T20:00:00Z' }, { location: 'New arena' }, { status: 'Cancelled' }, { metadata: { broadcast: 'ABC' } }]) {
     assert.notEqual(createEventFingerprint(base), createEventFingerprint({ ...base, ...change }));
   }
+});
+
+test('line folding respects 75 UTF-8 bytes without splitting surrogate pairs', () => {
+  const folded = foldIcsLine(`DESCRIPTION:${'😀'.repeat(30)} ${'schedule'.repeat(12)}`);
+  const physicalLines = folded.split('\r\n');
+  assert.ok(physicalLines.length > 1);
+  assert.ok(physicalLines.every(line => Buffer.byteLength(line, 'utf8') <= 75));
+  assert.equal(folded.includes('\uFFFD'), false);
+  assert.equal(folded.replace(/\r\n /g, ''), `DESCRIPTION:${'😀'.repeat(30)} ${'schedule'.repeat(12)}`);
 });
 
 test('ICS is one valid escaped calendar with all-day movies', async () => {

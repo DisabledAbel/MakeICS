@@ -943,7 +943,7 @@ document.querySelector('#builder-preview').addEventListener('click', async () =>
       const item = document.createElement('li'); const label = document.createElement('strong'); const time = document.createElement('time'); const status = document.createElement('span');
       label.textContent = `${category[event.type][0]} ${category[event.type][1]}: ${event.title}`;
       time.dateTime = event.start; time.textContent = event.allDay ? event.start : new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short', timeZone: payload.calendar.timezone }).format(new Date(event.start));
-      const state = event.sourceStatus || ({ CONFIRMED: 'Confirmed', TENTATIVE: 'Tentative', CANCELLED: 'Cancelled' }[event.status] || 'Confirmed');
+      const state = ({ CONFIRMED: 'Confirmed', TENTATIVE: 'Tentative', CANCELLED: 'Cancelled' }[event.status] || 'Confirmed');
       status.className = 'event-status'; status.textContent = event.type === 'sports' ? `Game ${state.toLowerCase()}` : state;
       item.dataset.status = event.status || 'CONFIRMED'; item.append(label, time, status); list.append(item);
     });
