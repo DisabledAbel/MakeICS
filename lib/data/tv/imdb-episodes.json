@@ -1555,7 +1555,7 @@
           "number": 14,
           "name": "Find Your Way Back",
           "airdate": "2026-09-14",
-          "summary": null,
+          "summary": "Olivia sends Jordan on a quest that forces Jordan and Layla to confront both their past and the future that lies ahead for them; the search for Spencer continues; Coop and Amina fight to bring Preach home.",
           "url": "https://www.imdb.com/title/tt37156739/?ref_=ttep_ep_11"
         },
         {
@@ -1563,7 +1563,7 @@
           "number": 21,
           "name": "Finish Line",
           "airdate": "2026-09-21",
-          "summary": null,
+          "summary": "KJ lays it all on the line at the Beverly and Crenshaw showcase; Cassius and Ava worry about KJ's future; Amina clears a path for the future she wants; Coop sets out to right a wrong from her past.",
           "url": "https://www.imdb.com/title/tt37156741/?ref_=ttep_ep_12"
         },
         {
@@ -20653,14 +20653,6 @@
         },
         {
           "season": 4,
-          "number": 42,
-          "name": "Episode #4.42",
-          "airdate": "2026-10-03",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44863301/?ref_=ttep_ep_42"
-        },
-        {
-          "season": 4,
           "number": 43,
           "name": "Grand Slam Paris 2026",
           "airdate": "2026-10-10",
@@ -24085,86 +24077,6 @@
           "url": "https://www.imdb.com/title/tt42603303/?ref_=ttep_ep_12"
         },
         {
-          "season": 13,
-          "number": 13,
-          "name": "Presidential Pardons",
-          "airdate": "2026-05-31",
-          "summary": "John Oliver covers the Freedom 250 event controversy, Trump's controversial use of presidential pardons in his second term, and praises Ghanaian artists.",
-          "url": "https://www.imdb.com/title/tt42775792/?ref_=ttep_ep_13"
-        },
-        {
-          "season": 13,
-          "number": 14,
-          "name": "New College of Florida",
-          "airdate": "2026-06-07",
-          "summary": "John Oliver discusses an unusual Colorado primary resembling a true crime finale, then examines New College of Florida—the liberal arts school taken over by Governor Ron DeSantis—and why marine biology is unmatched.",
-          "url": "https://www.imdb.com/title/tt42775794/?ref_=ttep_ep_14"
-        },
-        {
-          "season": 13,
-          "number": 15,
-          "name": "UK & Makerfield Election",
-          "airdate": "2026-06-14",
-          "summary": "John Oliver covers the UK elections, why 76,000 Makerfield voters will decide the Prime Minister, and which party leader looks like he first said \"British East India Company.\"",
-          "url": "https://www.imdb.com/title/tt43438434/?ref_=ttep_ep_15"
-        },
-        {
-          "season": 13,
-          "number": 16,
-          "name": "Feral Hogs",
-          "airdate": "2026-06-21",
-          "summary": "John Oliver explores feral hogs, one of America's most destructive invasive species. He covers their origins, the damage they cause, and why Discovery Channel should do \"Cow Week.\"",
-          "url": "https://www.imdb.com/title/tt43583704/?ref_=ttep_ep_16"
-        },
-        {
-          "season": 13,
-          "number": 17,
-          "name": "Redistricting",
-          "airdate": "2026-06-28",
-          "summary": "John Oliver discusses how the Supreme Court has paved the way for the redrawing of congressional maps across the country, and what it means for the midterm elections. Plus, an urgent update on Gavin Newsom's summer reading.",
-          "url": "https://www.imdb.com/title/tt43609537/?ref_=ttep_ep_17"
-        },
-        {
-          "season": 13,
-          "number": 18,
-          "name": "Trump & Crypto",
-          "airdate": "2026-07-26",
-          "summary": "John Oliver discusses how the Trump family's cryptocurrency ventures have overshadowed their other businesses, how they've created massive conflicts of interest for the Trump administration, and what it all has to do with Fartcoin.",
-          "url": "https://www.imdb.com/title/tt43630205/?ref_=ttep_ep_18"
-        },
-        {
-          "season": 13,
-          "number": 19,
-          "name": "Police Tools",
-          "airdate": "2026-08-02",
-          "summary": "John Oliver discusses the tools police are using to keep track of civilians - whether or not they're suspected of a crime - and some creative ideas about how to use wigs.",
-          "url": "https://www.imdb.com/title/tt43736318/?ref_=ttep_ep_19"
-        },
-        {
-          "season": 13,
-          "number": 20,
-          "name": "Department of Justice",
-          "airdate": "2026-08-09",
-          "summary": "John Oliver discusses how the Department of Justice has changed since Trump took office for his second term.",
-          "url": "https://www.imdb.com/title/tt43905235/?ref_=ttep_ep_20"
-        },
-        {
-          "season": 13,
-          "number": 21,
-          "name": "Fetal Personhood",
-          "airdate": "2026-08-16",
-          "summary": "John Oliver discusses how some states in the U.S. have given rights to fetuses, where the idea came from, and where things could be headed next.",
-          "url": "https://www.imdb.com/title/tt44203270/?ref_=ttep_ep_21"
-        },
-        {
-          "season": 13,
-          "number": 22,
-          "name": "Subscriptions",
-          "airdate": "2026-08-23",
-          "summary": "John Oliver discusses why more and more companies are shifting to a subscription model, how it's impacting consumers, and what could possibly be more embarrassing than liking Madame Web.",
-          "url": "https://www.imdb.com/title/tt44536509/?ref_=ttep_ep_22"
-        },
-        {
           "season": 12,
           "number": 1,
           "name": "Trump 2.0",
@@ -27050,8 +26962,16 @@
           "number": 13,
           "name": "Father's Day Fury",
           "airdate": "2026-09-13",
-          "summary": null,
+          "summary": "A spring tornado outbreak over Father's Day weekend spawns 80+ tornadoes across 14 states, starting with a Texas Panhandle storm. A deadly EF3 knocks out power and tornado sirens as people flee for safety.",
           "url": "https://www.imdb.com/title/tt44931448/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 4,
+          "number": 27,
+          "name": "The 40-State Storm",
+          "airdate": "2026-09-27",
+          "summary": "In January 2026, a monstrous 2,000-mile winter storm unleashes chaos across 40 states. A 100-car pileup traps motorists in Michigan, a freight train smashes a stranded semi, and first responders race to save a driver sinking in a frozen pond.",
+          "url": "https://www.imdb.com/title/tt45929112/?ref_=ttep_ep_12"
         },
         {
           "season": 3,
@@ -30756,7 +30676,7 @@
         {
           "season": 1,
           "number": 20,
-          "name": "Episode #1.6",
+          "name": "Bad Optics",
           "airdate": "2026-09-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt32752609/?ref_=ttep_ep_6"
@@ -35732,14 +35652,6 @@
         },
         {
           "season": 10,
-          "number": 5,
-          "name": "One False Move/Personal Train Wreck",
-          "airdate": "2026-12-31",
-          "summary": "Lincoln and Shelby work to persuade her family to become their neighbors. Lynn gets a job as a junior trainer at her uncle's gym.",
-          "url": "https://www.imdb.com/title/tt37969695/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 10,
           "number": 8,
           "name": "My Phony Valentine/Man of My Schemes",
           "airdate": "2026-02-13",
@@ -35765,10 +35677,10 @@
         {
           "season": 10,
           "number": 11,
-          "name": "Shane or Shine/My Science Fair Lady",
-          "airdate": "2026-07-24",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt39426898/?ref_=ttep_ep_11"
+          "name": "One False Move/Personal Train Wreck",
+          "airdate": "2026-09-11",
+          "summary": "Lincoln and Shelby work to persuade her family to become their neighbors. Lynn gets a job as a junior trainer at her uncle's gym.",
+          "url": "https://www.imdb.com/title/tt37969695/?ref_=ttep_ep_5"
         },
         {
           "season": 10,
@@ -35912,6 +35824,46 @@
       "imdbId": "tt37286022",
       "title": "Betting on Beloit",
       "episodes": [
+        {
+          "season": 2,
+          "number": 7,
+          "name": "The Break-Even House",
+          "airdate": "2026-10-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46233978/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Perfectly Imperfect",
+          "airdate": "2026-10-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46233991/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "More to Do",
+          "airdate": "2026-09-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46230251/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "name": "Bidding on Beloit",
+          "airdate": "2026-09-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46230660/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 26,
+          "name": "Home Starts Here",
+          "airdate": "2026-09-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46233974/?ref_=ttep_ep_5"
+        },
         {
           "season": 1,
           "number": 1,
@@ -40013,7 +39965,7 @@
           "season": 2,
           "number": 3,
           "name": "Episode #2.3",
-          "airdate": null,
+          "airdate": "2026-10-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt40336401/?ref_=ttep_ep_3"
         },
@@ -40786,7 +40738,7 @@
           "season": 3,
           "number": 3,
           "name": "Episode #3.3",
-          "airdate": null,
+          "airdate": "2026-10-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt40548581/?ref_=ttep_ep_3"
         },
@@ -42397,6 +42349,1210 @@
           "airdate": "2026-05-16",
           "summary": "Host Will Ferrell; Paul McCartney performs.",
           "url": "https://www.imdb.com/title/tt40422409/?ref_=ttep_ep_20"
+        }
+      ]
+    },
+    "tt0098740": {
+      "imdbId": "tt0098740",
+      "title": "America's Funniest Home Videos",
+      "episodes": [
+        {
+          "season": 36,
+          "number": 0,
+          "name": "Episode #36.0",
+          "airdate": "2026-01-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39055183/?ref_=ttep_ep"
+        },
+        {
+          "season": 36,
+          "number": 2,
+          "name": "Melodrama-rama, Sports Report, and Golden Agers",
+          "airdate": "2025-10-13",
+          "summary": "Elderly people's amusing mistakes, social media stars' fails, and surprising errors during athletic competitions.",
+          "url": "https://www.imdb.com/title/tt38594984/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 36,
+          "number": 3,
+          "name": "Farm Follies, Food Freak-outs, and Birthday Blunders",
+          "airdate": "2025-10-20",
+          "summary": "Farm mishaps, birthday party disasters, and children having meltdowns over food.",
+          "url": "https://www.imdb.com/title/tt38594985/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 36,
+          "number": 4,
+          "name": "Episode #36.4",
+          "airdate": "2025-10-26",
+          "summary": "In this frightfully funny Halloween-themed episode, kids battle spooky decorations, deliver laugh-out-loud oneliners while trick-or-treating, and adults face unexpected frights from creepy-crawly surprises.",
+          "url": "https://www.imdb.com/title/tt38594986/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 36,
+          "number": 5,
+          "name": "Episode #36.5",
+          "airdate": "2025-11-02",
+          "summary": "Kids' messy mishaps; winter woes on icy porches; unexpected animal antics.",
+          "url": "https://www.imdb.com/title/tt39377718/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 36,
+          "number": 6,
+          "name": "Twice on Ice, Messes, and Animal House",
+          "airdate": "2025-11-09",
+          "summary": "Kids create laugh-out-loud moments; pranksters cause lighthearted fun; wedding day \"I do's\" turn into unexpected surprises.",
+          "url": "https://www.imdb.com/title/tt39396359/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 36,
+          "number": 7,
+          "name": "Senior-itis, Tooth Pulls, and That's an Unusual Problem",
+          "airdate": "2025-11-16",
+          "summary": "Senior slip-ups; kids turning tooth-pulling into an extreme sport; cats stealing the spotlight as the true household comedians.",
+          "url": "https://www.imdb.com/title/tt39453192/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 36,
+          "number": 8,
+          "name": "Animal Antics, Zoomies, and Nice One Dad!",
+          "airdate": "2025-11-23",
+          "summary": "Pups get the zoomies; dads make mistakes; birthday celebrations go awry; solved mysteries reveal hilarious truths.",
+          "url": "https://www.imdb.com/title/tt39453198/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 36,
+          "number": 9,
+          "name": "Close Calls, Magic Trick Fails, and Virtual Insanity",
+          "airdate": "2025-11-30",
+          "summary": "Belly-laughing close calls and epic fails; a man sprints from a moose on the loose; amateur magicians fumble tricks; gamers stumble through the funniest virtual reality disasters.",
+          "url": "https://www.imdb.com/title/tt39453202/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 36,
+          "number": 10,
+          "name": "Holiday Hoots, Santa Shenanigans, and Festive Funnies",
+          "airdate": "2025-12-07",
+          "summary": "Kids react to unwanted gifts; pets create Christmas tree chaos; families fumble through festive fun; nine of the season's top winners face off for the $100,000 prize.",
+          "url": "https://www.imdb.com/title/tt38870062/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 36,
+          "number": 11,
+          "name": "Episode #36.11",
+          "airdate": "2026-01-04",
+          "summary": "Siblings engage in silly squabbles; mischievous animals create chaos; friends and family find themselves in goofy shenanigans.",
+          "url": "https://www.imdb.com/title/tt39306129/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 36,
+          "number": 12,
+          "name": "Episode #36.12",
+          "airdate": "2026-03-01",
+          "summary": "Pint-sized meltdowns, bedtime blunders and dramatic freak-outs.",
+          "url": "https://www.imdb.com/title/tt40833217/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 36,
+          "number": 13,
+          "name": "Episode #36.13",
+          "airdate": "2026-03-08",
+          "summary": "The 800th episode: Furry foes, quick-witted kids, sneaky rebels and epic beach blunders create laughable chaos.",
+          "url": "https://www.imdb.com/title/tt40834894/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 36,
+          "number": 14,
+          "name": "Dance Disasters, Stumblebums, and Playground Problems",
+          "airdate": "2026-03-22",
+          "summary": "A week full of playground problems, dads fumbling, kitty attacks and dance disasters.",
+          "url": "https://www.imdb.com/title/tt40527313/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 36,
+          "number": 15,
+          "name": "Episode #36.15",
+          "airdate": "2026-03-29",
+          "summary": "Chaotic influencer fails; wacky wedding proposals; hungry animals.",
+          "url": "https://www.imdb.com/title/tt40838699/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 36,
+          "number": 16,
+          "name": "Episode #36.16",
+          "airdate": "2026-04-05",
+          "summary": "Birthday blunders; epic pranksters; a little girl cries tears of joy over her new pet.",
+          "url": "https://www.imdb.com/title/tt40839167/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 36,
+          "number": 17,
+          "name": "Episode #36.17",
+          "airdate": "2026-04-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40841087/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 36,
+          "number": 18,
+          "name": "Episode #36.18",
+          "airdate": "2026-04-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41054273/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 36,
+          "number": 19,
+          "name": "Episode #36.19",
+          "airdate": "2026-04-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41159882/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 36,
+          "number": 20,
+          "name": "Episode #36.20",
+          "airdate": "2026-05-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41159906/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 36,
+          "number": 28,
+          "name": "Back to School, Vacation Misadventures, and Purr-fect Cats",
+          "airdate": "2025-09-28",
+          "summary": "Hilarious mishaps featuring school day disasters, travel fails, and mischievous cats wreaking havoc.",
+          "url": "https://www.imdb.com/title/tt36885475/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt0096697": {
+      "imdbId": "tt0096697",
+      "title": "The Simpsons",
+      "episodes": [
+        {
+          "season": 38,
+          "number": 2,
+          "name": "Diary of a Chimpy Kid",
+          "airdate": "2026-10-04",
+          "summary": "Bart and Lisa adopt a baby chimp, which Homer fears will rip off his face.",
+          "url": "https://www.imdb.com/title/tt36431517/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 38,
+          "number": 3,
+          "name": "Episode #38.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431507/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 38,
+          "number": 4,
+          "name": "Episode #38.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431513/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 38,
+          "number": 5,
+          "name": "Episode #38.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431514/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 38,
+          "number": 6,
+          "name": "Episode #38.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431516/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 38,
+          "number": 7,
+          "name": "Episode #38.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431508/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 38,
+          "number": 8,
+          "name": "Episode #38.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431510/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 38,
+          "number": 9,
+          "name": "Episode #38.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431519/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 38,
+          "number": 10,
+          "name": "Episode #38.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431515/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 38,
+          "number": 11,
+          "name": "Episode #38.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431520/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 38,
+          "number": 12,
+          "name": "Episode #38.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431509/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 38,
+          "number": 13,
+          "name": "Episode #38.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431511/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 38,
+          "number": 14,
+          "name": "Episode #38.14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431512/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 38,
+          "number": 15,
+          "name": "Episode #38.15",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431518/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 38,
+          "number": 16,
+          "name": "Episode #38.16",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37274523/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 38,
+          "number": 17,
+          "name": "Episode #38.17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37274528/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 38,
+          "number": 27,
+          "name": "The Children's Book Job",
+          "airdate": "2026-09-27",
+          "summary": "A British author's visit to Springfield goes awry when Homer picks her up from the airport.",
+          "url": "https://www.imdb.com/title/tt36414313/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 37,
+          "number": 2,
+          "name": "Keep Chalm and Gary On",
+          "airdate": "2025-10-05",
+          "summary": "Homer gets Superintendent Chalmers a job at the power plant, where Chalmers discovers huge mutated snails that produce valuable slime, launching the superintendent's new career as a man-o-sphere guru.",
+          "url": "https://www.imdb.com/title/tt36431497/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 37,
+          "number": 3,
+          "name": "Treehouse of Horror XXXVI",
+          "airdate": "2025-10-19",
+          "summary": "The 36th annual Treehouse of Horror features a mysterious murdering monster from out of the sewers, a demonic guest on Krusty's live Halloween special and Springfield's poseable plastic post-apocalyptic future.",
+          "url": "https://www.imdb.com/title/tt36431490/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 37,
+          "number": 4,
+          "name": "Men Behaving Manly",
+          "airdate": "2025-10-26",
+          "summary": "On the recommendation of Alexa, the women of Springfield send the men and boys to camps to learn to be \"manly\" and become the husbands, sons and fathers they want them to be.",
+          "url": "https://www.imdb.com/title/tt36431485/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 37,
+          "number": 5,
+          "name": "Bad Boys... For Life?",
+          "airdate": "2025-11-02",
+          "summary": "Homer and Marge must find out if Bart is truly a bad seed.",
+          "url": "https://www.imdb.com/title/tt36431494/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 37,
+          "number": 6,
+          "name": "Bart 'N' Frink",
+          "airdate": "2025-11-09",
+          "summary": "Bart becomes Professor Frink's lab assistant, sending the Simpsons into a world of tech billionaires determined to live forever, which puts the future of the internet at stake.",
+          "url": "https://www.imdb.com/title/tt36431498/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 37,
+          "number": 7,
+          "name": "Sashes to Sashes",
+          "airdate": "2025-11-16",
+          "summary": "Bart runs against Mayor Quimby's son for student council president, while Lisa learns troubling secrets about the Quimby clan - and about the Simpsons.",
+          "url": "https://www.imdb.com/title/tt36431489/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 37,
+          "number": 8,
+          "name": "The Day of the Jack-up",
+          "airdate": "2025-11-23",
+          "summary": "Lisa wants to go to a K-pop concert, but every ticket is purchased by an online reseller.",
+          "url": "https://www.imdb.com/title/tt36431486/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 37,
+          "number": 9,
+          "name": "Aunt Misbehavin'",
+          "airdate": "2025-11-30",
+          "summary": "Patty and Bart have Homer declared legally dead as a prank, but Homer welcoming his fake death leads Patty to have a huge fight with Selma and move to Palm Springfield.",
+          "url": "https://www.imdb.com/title/tt36431488/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 37,
+          "number": 10,
+          "name": "Guess Who's Coming to Skinner",
+          "airdate": "2025-12-07",
+          "summary": "Principal Skinner is forced to be a parent to a runaway student he finds living in the school library and takes into his home.",
+          "url": "https://www.imdb.com/title/tt36431496/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 37,
+          "number": 11,
+          "name": "Parahormonal Activity",
+          "airdate": "2025-12-14",
+          "summary": "Marge copes with the hormonal onslaught hitting her teenage kids in the near future when she's struck by a change in her own life, leaving Homer the only sane person in the family - apparently.",
+          "url": "https://www.imdb.com/title/tt36431493/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 37,
+          "number": 12,
+          "name": "¡The Fall Guy-Yi-Yi!",
+          "airdate": "2025-12-28",
+          "summary": "Homer revitalizes the career of Bumblebee Man by becoming his secret stuntman, but there's only so much punishment a Stunt-Bee can take before it stings.",
+          "url": "https://www.imdb.com/title/tt36431495/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 37,
+          "number": 13,
+          "name": "Seperance",
+          "airdate": "2026-01-04",
+          "summary": "Homer gets a job at a secretive company with a mind-altering agenda.",
+          "url": "https://www.imdb.com/title/tt36431492/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 37,
+          "number": 14,
+          "name": "Irrational Treasure",
+          "airdate": "2026-02-15",
+          "summary": "Marge's crusade to get Santa's Little Helper in better shape results in a trip to the National Dog Show in Philadelphia, where Marge and Homer find themselves - and their dog - mixed up in a historical conspiracy adventure.",
+          "url": "https://www.imdb.com/title/tt36431487/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 37,
+          "number": 15,
+          "name": "Homer? A Cracker Bro?",
+          "airdate": "2026-02-15",
+          "summary": "Homer and Kirk Van Houten launch a successful business selling \"crumbless\" crackers, but Homer is forced to choose between family and fortune when Kirk's darkest secrets are revealed.",
+          "url": "https://www.imdb.com/title/tt36431491/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 37,
+          "number": 16,
+          "name": "Extreme Makeover: Homer Edition",
+          "airdate": "2026-06-17",
+          "summary": "Follows Marge who, frustrated after learning Homer left the kids with only a doorbell camera, stirs up fantasies of a different Homer during a couples' date night gone wrong.",
+          "url": "https://www.imdb.com/title/tt43140112/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 37,
+          "number": 17,
+          "name": "Simpsley",
+          "airdate": "2026-07-03",
+          "summary": "Follows con-artist Marge sent to Italy to convince wealthy Skinner to return home, but she's tempted by his lifestyle and complicated by his houseguest, Homer Simpsley.",
+          "url": "https://www.imdb.com/title/tt43140642/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 37,
+          "number": 18,
+          "name": "Yellow Mirror",
+          "airdate": "2026-08-26",
+          "summary": "Follows the Simpsons through two dark tales: a defective lamp reveals truth about Homer's reality, while an AI-powered tablet befriends and controls Maggie.",
+          "url": "https://www.imdb.com/title/tt43141030/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 37,
+          "number": 28,
+          "name": "Thrifty Ways to Thieve Your Mother",
+          "airdate": "2025-09-28",
+          "summary": "Lisa is welcomed into the school's super-elite fashion club when she wears Marge's \"vintage\" clothes from the '90s.",
+          "url": "https://www.imdb.com/title/tt36414305/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt39031930": {
+      "imdbId": "tt39031930",
+      "title": "Baddies USA",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Founder's Day",
+          "airdate": "2025-11-23",
+          "summary": "Baddies USA kicks off in DC with a reunion of OG Bad Girls and a Ballroom Dinner.",
+          "url": "https://www.imdb.com/title/tt39049423/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Man Down",
+          "airdate": "2025-11-30",
+          "summary": "The Ballroom Dinner takes a drastic turn as the ladies put their issues on the frontline.",
+          "url": "https://www.imdb.com/title/tt39093483/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "The Executive Branch",
+          "airdate": "2025-12-07",
+          "summary": "Chaos ensues when the ladies pull up to the Baddies mansion in DC.",
+          "url": "https://www.imdb.com/title/tt39132466/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Bad Meets Wild",
+          "airdate": "2025-12-14",
+          "summary": "BGW star Daisy, pops up at the Baddies D.C. mansion to confront Rollie.",
+          "url": "https://www.imdb.com/title/tt39200419/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Unlikely Alliances",
+          "airdate": "2025-12-21",
+          "summary": "Bonds are tested and unlikely friendships form as the baddies head to the Big Apple.",
+          "url": "https://www.imdb.com/title/tt39293183/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "A Big Fight in the Big Apple",
+          "airdate": "2025-12-28",
+          "summary": "The Baddies struggle to tame drama as they prepare for their first performance in New York.",
+          "url": "https://www.imdb.com/title/tt39293189/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Family Matters",
+          "airdate": "2026-01-04",
+          "summary": "Tesehki and Chrisean's sisterhood is tested as they clash while trying to work together.",
+          "url": "https://www.imdb.com/title/tt39308557/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Watch Your Mouth!",
+          "airdate": "2026-01-11",
+          "summary": "Suki and Gretchen come to blows at the New York show.",
+          "url": "https://www.imdb.com/title/tt39365060/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Windy City Welcome",
+          "airdate": "2026-01-18",
+          "summary": "Drama hits the fan between Suki, Gretchen, and Sapphire in Chicago.",
+          "url": "https://www.imdb.com/title/tt39383607/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Baddie Fragmentation",
+          "airdate": "2026-01-25",
+          "summary": "Alliances collapse as The Big 3 disbands and Biggie confronts Tommie.",
+          "url": "https://www.imdb.com/title/tt39404496/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Get In Formation",
+          "airdate": "2026-02-01",
+          "summary": "The Baddie CEO addresses concerns as the ladies prepare for their Chicago concert.",
+          "url": "https://www.imdb.com/title/tt39577589/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "What Up Doe",
+          "airdate": "2026-02-08",
+          "summary": "Dolly turns things up a notch as the Baddies arrive in Detroit.",
+          "url": "https://www.imdb.com/title/tt39773389/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "Big ME",
+          "airdate": "2026-02-15",
+          "summary": "The relationship between Dolly, Summer, and Big Lex officially closes out with a bang.",
+          "url": "https://www.imdb.com/title/tt39956486/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "Cabinet Meeting",
+          "airdate": "2026-02-22",
+          "summary": "A surprise Baddie arrives as issues escalate in Atlanta.",
+          "url": "https://www.imdb.com/title/tt40185379/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "name": "Maced",
+          "airdate": "2026-03-01",
+          "summary": "Suki uses a trick up her sleeve to clear out the ATL concert.",
+          "url": "https://www.imdb.com/title/tt40386710/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "name": "Dinner For Two",
+          "airdate": "2026-03-08",
+          "summary": "Natalie and Diamond finally meet up for a sit down.",
+          "url": "https://www.imdb.com/title/tt40548450/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 1,
+          "number": 17,
+          "name": "Shaking The Table",
+          "airdate": "2026-03-15",
+          "summary": "Friendships are tested after opinions spark debates about the Baddies CEO.",
+          "url": "https://www.imdb.com/title/tt40754870/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 1,
+          "number": 18,
+          "name": "Baddie Invasion",
+          "airdate": "2026-03-22",
+          "summary": "A brawl breaks out after an outsider sneak Biggie at a Houston restaurant.",
+          "url": "https://www.imdb.com/title/tt41057521/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 1,
+          "number": 19,
+          "name": "Shattered Glass",
+          "airdate": "2026-03-29",
+          "summary": "The Baddies make headlines during their final show in Houston.",
+          "url": "https://www.imdb.com/title/tt41302230/?ref_=ttep_ep_19"
+        }
+      ]
+    },
+    "tt21376524": {
+      "imdbId": "tt21376524",
+      "title": "Animal Control",
+      "episodes": [
+        {
+          "season": 5,
+          "number": 2,
+          "name": "Crows and Lizard Legs",
+          "airdate": "2026-10-04",
+          "summary": "Shred spirals when he discovers a negative online review about him that could reflect poorly on the precinct. Meanwhile, Patel, Victoria and Emily try to break up Addy's new relationship.",
+          "url": "https://www.imdb.com/title/tt46023374/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "name": "Tortoises and Billy Goats",
+          "airdate": "2026-10-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45915289/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 5,
+          "number": 27,
+          "name": "Seahawks and Piglets",
+          "airdate": "2026-09-27",
+          "summary": "Frank leads the team in a work stoppage, but abandons his cause for the ultimate call - recovering the Seahawks' missing mascot.",
+          "url": "https://www.imdb.com/title/tt40235146/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 1,
+          "name": "Bear Cubs and Broncos",
+          "airdate": "2025-12-28",
+          "summary": "Tensions rise when budget cuts force the two Animal Control precincts to merge; Frank and Templeton wrestle for control during a bear rescue; Emily and Shred try to hide their romance.",
+          "url": "https://www.imdb.com/title/tt36852322/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Bagged Birds and Alley Dogs",
+          "airdate": "2026-01-15",
+          "summary": "Frank spends the day with Roman Park before the precinct's new annex kennel has its grand opening; friction arises when Emily assigns Templeton, Shred and Patel to work together and pairs Victoria with Daisy.",
+          "url": "https://www.imdb.com/title/tt38932707/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Dragons and Dognappers",
+          "airdate": "2026-01-22",
+          "summary": "Rob Gronkowski asks the team for help rezoning a zebra; Emily and Shred's first date goes awry when they run into Daisy and Patel on their night out; Frank must defend Templeton against accusations of dognapping.",
+          "url": "https://www.imdb.com/title/tt38932719/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Lost Dogs and Bar Flies",
+          "airdate": "2026-01-29",
+          "summary": "Roman Park takes Frank's beloved dog away from him; in an effort to get his dog back, Frank and Shred find themselves on a late-night rescue mission; Patel's house sale spirals.",
+          "url": "https://www.imdb.com/title/tt39220975/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "French Bulldogs and White Broncos",
+          "airdate": "2026-02-05",
+          "summary": "Frank scrambles to find a last-minute date for a romantic sunset horse ride. Meanwhile, Patel hosts a \"sip 'n snip\" fundraising event which takes an unexpected turn when a prize-winning breeder dog is accidentally neutered.",
+          "url": "https://www.imdb.com/title/tt39377735/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "Roosters and Moles",
+          "airdate": "2026-02-26",
+          "summary": "When Templeton is nominated for Animal Control officer of the year, Frank sets out to rescue 24 animals in 24 hours. Victoria steps in for Shred after he's bitten by a kitten. Meanwhile, Templeton tries to sabotage Frank's mission.",
+          "url": "https://www.imdb.com/title/tt39225157/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Donkeys and Weasels",
+          "airdate": "2026-03-05",
+          "summary": "Frank's dad temporarily moves into Frank's house following a heart attack. Meanwhile, Victoria and Patel try to find ways to replace pet food that was destroyed in a fire.",
+          "url": "https://www.imdb.com/title/tt39225246/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "Squirrels and Fat Cats",
+          "airdate": "2026-03-12",
+          "summary": "Frank uncovers Emily and Shred's secret romance during a break-in at city supply. Meanwhile, Victoria and Patel confront his daughter's school bully.",
+          "url": "https://www.imdb.com/title/tt39255830/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "name": "Bats and Camels",
+          "airdate": "2026-04-02",
+          "summary": "Templeton and Frank compete for the endorsement of a legendary Animal Control officer in an effort to win Animal Control officer of the year. Meanwhile, Emily spirals when Shred goes on a date with Daisy's friend.",
+          "url": "https://www.imdb.com/title/tt39225154/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 4,
+          "number": 10,
+          "name": "Scaredy Cats and Card Sharks",
+          "airdate": "2026-04-09",
+          "summary": "When Frank and Daisy lose $5,000 in union funds, they try to win the money back by gambling. Meanwhile, Shred and Patel cover the late-night shift at the precinct.",
+          "url": "https://www.imdb.com/title/tt39255831/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 4,
+          "number": 11,
+          "name": "Coyotes and Eagles",
+          "airdate": "2026-04-16",
+          "summary": "A movie star shadows Frank for his upcoming role as an Animal Control officer. Meanwhile, Shred and Patel go on a juice cleanse and Emily forgets Templeton's birthday.",
+          "url": "https://www.imdb.com/title/tt39377739/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 4,
+          "number": 12,
+          "name": "Golden Moose and Wiener Dogs",
+          "airdate": "2026-04-23",
+          "summary": "The team arrives at the Animal Control Officer of the Year (ACOOTY) awards and party ahead of the ceremony. It's Frank vs. Templeton for the big prize, and Shred and Emily's secret romance is finally exposed when they are caught kissing.",
+          "url": "https://www.imdb.com/title/tt41190500/?ref_=ttep_ep_12"
+        }
+      ]
+    },
+    "tt23469464": {
+      "imdbId": "tt23469464",
+      "title": "Universal Basic Guys",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 2,
+          "name": "La Gloire Du Bouffon",
+          "airdate": "2026-10-04",
+          "summary": "After Mark becomes a self-proclaimed calliope prodigy and accidentally summons a troupe of clowns, including the elegant French clown Plonque Honque, he sets out to stage a prestigious clown ballet.",
+          "url": "https://www.imdb.com/title/tt41712264/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "Episode #3.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41712280/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "Episode #3.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41713410/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "name": "Episode #3.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41714599/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "name": "Episode #3.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41714718/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "name": "Episode #3.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41714808/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "name": "Episode #3.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41714849/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "name": "Episode #3.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41715174/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "name": "Episode #3.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41715197/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 3,
+          "number": 11,
+          "name": "Episode #3.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41715238/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 3,
+          "number": 12,
+          "name": "Episode #3.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41715280/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 3,
+          "number": 13,
+          "name": "Episode #3.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41715294/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 3,
+          "number": 27,
+          "name": "Rhoda",
+          "airdate": "2026-09-27",
+          "summary": "Mark and Hank's mom returns to Glantontown. Tammy pursues a new painting hobby.",
+          "url": "https://www.imdb.com/title/tt36907259/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "I Am Jar",
+          "airdate": "2025-10-05",
+          "summary": "Mark gets in a magician's duel. Tammy tries to win a nursing award.",
+          "url": "https://www.imdb.com/title/tt33163856/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Golden Beans",
+          "airdate": "2025-10-19",
+          "summary": "Mark and David start a coffee shop in the garage. Tammy and Hank struggle to keep Mernft Man from bothering customers.",
+          "url": "https://www.imdb.com/title/tt33163864/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Down the Shore",
+          "airdate": "2025-10-26",
+          "summary": "The Hoagies go down the shore. Tammy tries to make amends with her estranged sister.",
+          "url": "https://www.imdb.com/title/tt33163867/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Well Done",
+          "airdate": "2025-11-02",
+          "summary": "Mark digs a well to get out of paying the water bill, leaving Tammy to battle the water company bureaucracy.",
+          "url": "https://www.imdb.com/title/tt33163882/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Hoagie Jones",
+          "airdate": "2025-11-09",
+          "summary": "Mark and Hank buy a horse together. Tammy invests in a painting.",
+          "url": "https://www.imdb.com/title/tt33163887/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Medieval Knights",
+          "airdate": "2025-11-16",
+          "summary": "Mark goes medieval in an effort to bond with Darren. Tammy and Andrea test-drive an autonomous car.",
+          "url": "https://www.imdb.com/title/tt33163900/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Spectrum Slam",
+          "airdate": "2025-11-23",
+          "summary": "Mark trains to win a charity basketball tournament. David tries to find a teammate.",
+          "url": "https://www.imdb.com/title/tt33164545/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Machine Yearning",
+          "airdate": "2025-11-30",
+          "summary": "Mark and Tammy discover that Darren's girlfriend is AI and struggle with the new technology.",
+          "url": "https://www.imdb.com/title/tt33165318/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Good Marks",
+          "airdate": "2025-12-07",
+          "summary": "Mark goes back to high school to prove he is smart. Hank tries to pass Advanced Woodshop.",
+          "url": "https://www.imdb.com/title/tt33182363/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "Two Marks",
+          "airdate": "2025-12-14",
+          "summary": "Mark enrolls in a dangerous science experiment to win a Super Bowl ticket.",
+          "url": "https://www.imdb.com/title/tt33182366/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "Skyboys",
+          "airdate": "2025-12-21",
+          "summary": "Mark buys a jetpack. David wants to serve omakase at a soup kitchen.",
+          "url": "https://www.imdb.com/title/tt33194537/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "name": "Little the Netherlands",
+          "airdate": "2026-02-15",
+          "summary": "Mark learns to ride a bike and finds a hidden Dutch enclave; Tammy helps Leanne plan her \"divorce-lorette\" party.",
+          "url": "https://www.imdb.com/title/tt39304178/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "name": "Shorty Hoagies",
+          "airdate": "2026-02-22",
+          "summary": "Mark and Tammy get adventurous on a date night at the Philadelphia Flower Show. Darren and JD prank David.",
+          "url": "https://www.imdb.com/title/tt33195461/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "name": "Go Fund Mernft",
+          "airdate": "2026-03-01",
+          "summary": "Mark helps Mernft Man build the house of his dreams, while Tammy's fundraising campaign reveals a surprising side of Mernft.",
+          "url": "https://www.imdb.com/title/tt39320269/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 2,
+          "number": 16,
+          "name": "That Dog in You",
+          "airdate": "2026-03-08",
+          "summary": "Mark trains Hank to become a professional eater. Tammy joins Darren's video game squad.",
+          "url": "https://www.imdb.com/title/tt39375784/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 2,
+          "number": 17,
+          "name": "Markumentary",
+          "airdate": "2026-03-15",
+          "summary": "Mark wants to be the star of David's UBI documentary.",
+          "url": "https://www.imdb.com/title/tt39715004/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "name": "Crowmaster",
+          "airdate": "2026-04-12",
+          "summary": "Mark trains crows to bring him valuable sports cards and Darren faces off with a gaming nemesis.",
+          "url": "https://www.imdb.com/title/tt39961058/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 2,
+          "number": 28,
+          "name": "The Goofballs",
+          "airdate": "2025-09-28",
+          "summary": "Darren shows interest in playing hockey. Mark creates a team for him.",
+          "url": "https://www.imdb.com/title/tt32378874/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt15791752": {
+      "imdbId": "tt15791752",
+      "title": "Grimsburg",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 2,
+          "name": "Stanbiscuit",
+          "airdate": "2026-10-04",
+          "summary": "Flute intervenes when Stan receives an alarming superlative. Wynona undergoes a brain procedure to improve her dating life outside of work.",
+          "url": "https://www.imdb.com/title/tt36997629/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "How the Other Half Lives",
+          "airdate": "2026-10-11",
+          "summary": "Flute is suspicious of Summers' new cyborg friend. Martinez joins the Satanic church for the childcare perks.",
+          "url": "https://www.imdb.com/title/tt36911075/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "name": "Episode #3.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36999572/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "name": "Episode #3.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36999604/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "name": "Episode #3.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37017138/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "name": "Episode #3.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37017769/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "name": "Episode #3.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37023416/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "name": "Episode #3.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37023489/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 3,
+          "number": 11,
+          "name": "Episode #3.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37023508/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 3,
+          "number": 12,
+          "name": "Episode #3.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37271930/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 3,
+          "number": 13,
+          "name": "Episode #3.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37271933/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 3,
+          "number": 27,
+          "name": "The Zast of Zus",
+          "airdate": "2026-09-27",
+          "summary": "In this apocalyptic parody, a ruggedly handsome, well-dressed stranger passes through Grimsburg and infects the town with a Zaddy virus.",
+          "url": "https://www.imdb.com/title/tt36997412/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Haunted Housewife",
+          "airdate": "2025-02-16",
+          "summary": "Flute moves into a house haunted by the ghost of a doting housewife.",
+          "url": "https://www.imdb.com/title/tt22808892/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Mo11y",
+          "airdate": "2025-02-23",
+          "summary": "Flute forgets to buy a gift for Stan's birthday and steals an A.I. doll from the evidence locker, unaware that it's a murderer.",
+          "url": "https://www.imdb.com/title/tt34969900/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Training Wheels Day",
+          "airdate": "2025-03-02",
+          "summary": "Otis the Kid Detective is put on the force per pressure from the mayor and Flute makes it his mission to get Otis to quit, but soon grows a soft spot for him just as his plan goes too far.",
+          "url": "https://www.imdb.com/title/tt34970418/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Granddaddy Issues",
+          "airdate": "2025-03-09",
+          "summary": "Flute and Kang butt heads over Flute's relationship with Kang's great-great-great granddaughter; Wynona coaches Summers for his posing as a contestant in Grimsburg's annual Virgin Contest when it receives a bomb threat.",
+          "url": "https://www.imdb.com/title/tt34970430/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Daddy Daddy Bang Bang",
+          "airdate": "2025-03-16",
+          "summary": "Flute tries to get rid of his father's talking car when his father returns to town, leaving his fellow detectives to teach Stan about the birds and the bees.",
+          "url": "https://www.imdb.com/title/tt34970954/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "CrimeCon",
+          "airdate": "2025-03-23",
+          "summary": "Flute makes it his mission to prove that a celebrity criminal is not the reformed cannibal he claims to be at CrimeCon - Grimsburg's famed crime-themed convention; Pentos meets an Acapella group that idolized him.",
+          "url": "https://www.imdb.com/title/tt34971185/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Crystal Ball",
+          "airdate": "2025-04-30",
+          "summary": "Flute is able to see into the future when he has a second testicle put in; Summers and Pentos get into shenanigans of their own when they're mistaken for doctors.",
+          "url": "https://www.imdb.com/title/tt34971239/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Blue Light District",
+          "airdate": "2025-05-29",
+          "summary": "Roles get reversed in Flute and Summers' partnership after male sex workers start turning up dead.",
+          "url": "https://www.imdb.com/title/tt34971248/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "The Undies",
+          "airdate": "2025-06-05",
+          "summary": "In order to win this year's Undies Award for best undercover operation, Flute infiltrates the Preggo crime family.",
+          "url": "https://www.imdb.com/title/tt34981230/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Loosey Goosey",
+          "airdate": "2025-06-12",
+          "summary": "Flute and Martinez butt heads when they're sent on a literal \"wild goose chase\" to retrieve a sentient goose that was given a Limitless pill and is now on a crime spree in Grimsburg.",
+          "url": "https://www.imdb.com/title/tt34981793/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "Evidence Locker",
+          "airdate": "2025-06-19",
+          "summary": "Memories are sparked when Grimsburg PD cleans an evidence locker.",
+          "url": "https://www.imdb.com/title/tt34982207/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "How to Lose an Ankle Monitor in 10 Days",
+          "airdate": "2025-07-10",
+          "summary": "The police force gets furloughed when the criminals of Grimsburg go on strike.",
+          "url": "https://www.imdb.com/title/tt34982458/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "name": "Across the Flutiverse",
+          "airdate": "2025-07-17",
+          "summary": "An elite squad of Flutes from different dimensions emerges through an interdimensional rift.",
+          "url": "https://www.imdb.com/title/tt34983241/?ref_=ttep_ep_13"
         }
       ]
     }
