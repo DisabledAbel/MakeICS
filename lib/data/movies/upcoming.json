@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T07:23:16.224Z",
+  "generatedAt": "2026-09-20T09:38:13.491Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -3907,7 +3907,7 @@
     {
       "id": "tt33184695",
       "title": "Rolling Loud",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWJlZDBmMGQtNjFiYy00ZGUwLTk5ZjMtNzYzNDU5MWIyY2I1XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWQ4MmQ2NzAtMDZhOC00MWNmLTljOTgtODRjZjI0M2VhMWJlXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
       "genres": [
         "Comedy"
@@ -4961,7 +4961,7 @@
     {
       "id": "tt27041231",
       "title": "Musk",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjA0MjMyZjAtZjE0OC00MWY1LThjNDktM2QzMjFjNmQxMzM4XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU2ZGE5YjgtMGRiMC00MDIyLTk4N2EtYTk3NTFiYWI4YWFhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
       "genres": [
         "Documentary",
@@ -5081,7 +5081,7 @@
     {
       "id": "tt42588704",
       "title": "Christmas at the Kringles",
-      "image": "https://m.media-amazon.com/images/M/MV5BZjk4ZTkyNTktMzRmOC00MDMzLTk4N2YtN2VlZTYyMmJjNzVlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDczMmIwYTItMGFmNC00YmFlLTg5NWUtZTQ0YWJlY2UzMjE5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -5344,20 +5344,20 @@
       ],
       "people": [
         {
-          "id": "nm1126340",
-          "name": "Ryûnosuke Kamiki"
-        },
-        {
           "id": "nm4947538",
           "name": "Minami Hamabe"
         },
         {
-          "id": "nm7918123",
-          "name": "Miou Tanaka"
-        },
-        {
           "id": "nm0619178",
           "name": "Masami Nagasawa"
+        },
+        {
+          "id": "nm1126340",
+          "name": "Ryûnosuke Kamiki"
+        },
+        {
+          "id": "nm0475165",
+          "name": "Jun Kunimura"
         }
       ],
       "label": "Nov 06, 2026"
@@ -5755,16 +5755,16 @@
       ],
       "people": [
         {
-          "id": "nm1679778",
-          "name": "Sylvia Hoeks"
-        },
-        {
           "id": "nm0243233",
           "name": "Mark Duplass"
         },
         {
           "id": "nm0000456",
           "name": "Holly Hunter"
+        },
+        {
+          "id": "nm1679778",
+          "name": "Sylvia Hoeks"
         },
         {
           "id": "nm0839934",
@@ -9013,6 +9013,34 @@
         {
           "id": "nm1664542",
           "name": "Michael Irvin"
+        }
+      ],
+      "label": "Sep 10, 2027"
+    },
+    {
+      "id": "tt38804736",
+      "title": "The Conjuring: First Communion",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGQxOTdkODUtZmUzYi00MDhlLTgxZjAtZjFhYmVmOTQ0YmFlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 10 Sep 2027 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm6136318",
+          "name": "Garrett Wareing"
+        },
+        {
+          "id": "nm0777788",
+          "name": "Matthias Schweighöfer"
+        },
+        {
+          "id": "nm9931958",
+          "name": "Amanda Fix"
+        },
+        {
+          "id": "nm7814433",
+          "name": "Marta Kessler"
         }
       ],
       "label": "Sep 10, 2027"
