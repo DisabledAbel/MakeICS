@@ -340,6 +340,14 @@
           "url": "https://www.imdb.com/title/tt43715656/?ref_=ttep_ep_9"
         },
         {
+          "season": 30,
+          "number": 21,
+          "name": "Gov. Andy Beshear/View Your Deal: Oprah Daily Edition/",
+          "airdate": "2026-09-21",
+          "summary": "Gov. Andy Beshears (D-Ky); Andy Glassman shows hot deals;",
+          "url": "https://www.imdb.com/title/tt46486263/?ref_=ttep_ep_10"
+        },
+        {
           "season": 29,
           "number": 8,
           "name": "Episode #29.1",
@@ -27998,9 +28006,9 @@
         },
         {
           "season": 1,
-          "number": 25,
+          "number": 28,
           "name": "Halloween",
-          "airdate": null,
+          "airdate": "2026-09-28",
           "summary": "It's Halloween and AJ can't decide what to wear. She has an amazing imagination, but she doesn't know which of her many personas is the best for the night.",
           "url": "https://www.imdb.com/title/tt42850189/?ref_=ttep_ep_25"
         }
@@ -30678,7 +30686,7 @@
           "number": 20,
           "name": "Bad Optics",
           "airdate": "2026-09-20",
-          "summary": null,
+          "summary": "John partners with brother Marcus to land a major investor for his panic room innovation, but an unexpected call pulls him back to Rushville and his past.",
           "url": "https://www.imdb.com/title/tt32752609/?ref_=ttep_ep_6"
         },
         {
@@ -34960,7 +34968,7 @@
         {
           "season": 1,
           "number": 5,
-          "name": "Episode #1.5",
+          "name": "Homecoming",
           "airdate": "2026-10-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43617220/?ref_=ttep_ep_5"
@@ -34968,7 +34976,7 @@
         {
           "season": 1,
           "number": 6,
-          "name": "Episode #1.6",
+          "name": "Exit Wounds",
           "airdate": "2026-10-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43617221/?ref_=ttep_ep_6"
@@ -34976,7 +34984,7 @@
         {
           "season": 1,
           "number": 7,
-          "name": "Episode #1.7",
+          "name": "Blood In, Blood Out",
           "airdate": "2026-10-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43617224/?ref_=ttep_ep_7"
@@ -36524,6 +36532,14 @@
           "url": "https://www.imdb.com/title/tt45853548/?ref_=ttep_ep_1"
         },
         {
+          "season": 16,
+          "number": 20,
+          "name": "Back from the Dead: Things That Go Buzz in the Night",
+          "airdate": "2026-09-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46447274/?ref_=ttep_ep_2"
+        },
+        {
           "season": 15,
           "number": 3,
           "name": "The Scary Square-Off",
@@ -37529,7 +37545,7 @@
         {
           "season": 35,
           "number": 3,
-          "name": "Episode #35.3",
+          "name": "Viral Hits Night",
           "airdate": null,
           "summary": null,
           "url": "https://www.imdb.com/title/tt45920345/?ref_=ttep_ep_3"
@@ -37729,7 +37745,7 @@
           "number": 22,
           "name": "Manos: Hands of Fate",
           "airdate": "2026-09-22",
-          "summary": null,
+          "summary": "A missing man, mysterious item, and dangerous stranger in a pickup pull R.J. into a strange case while someone close faces their own mystery.",
           "url": "https://www.imdb.com/title/tt45537340/?ref_=ttep_ep_2"
         },
         {
@@ -40188,7 +40204,7 @@
           "number": 4,
           "name": "Episode #1.4",
           "airdate": "2026-10-04",
-          "summary": null,
+          "summary": "Sam gives Alex the unsavory task of getting Malcom back as a client. Later, Alex leans on Michael at a family dinner.",
           "url": "https://www.imdb.com/title/tt39028208/?ref_=ttep_ep_4"
         },
         {
@@ -40245,6 +40261,14 @@
       "imdbId": "tt1536749",
       "title": "Let's Make a Deal",
       "episodes": [
+        {
+          "season": 18,
+          "number": 21,
+          "name": "Episode #18.1",
+          "airdate": "2026-09-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42156394/?ref_=ttep_ep_1"
+        },
         {
           "season": 17,
           "number": 8,
@@ -40648,56 +40672,8 @@
           "number": 5,
           "name": "High School Reunion",
           "airdate": "2025-10-13",
-          "summary": "Jane Lynch hosts celebrity pairs who were teen actors. Tatyana Ali, Shenae Grimes, Matt Lanter, Beverly Mitchell, Scott Porter, Daphne Reid, Aimeé Teegarden and Barry Watson compete in trivia, voting out players each round.",
+          "summary": "Jane Lynch hosts celebrity pairs who were teen actors. Tatyana",
           "url": "https://www.imdb.com/title/tt38188590/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 1,
-          "number": 6,
-          "name": "Football Legends",
-          "airdate": "2025-11-03",
-          "summary": "Touchdown! Eight football greats battle it out in a very different arena.",
-          "url": "https://www.imdb.com/title/tt38188891/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 1,
-          "number": 7,
-          "name": "Special Forces",
-          "airdate": "2025-11-10",
-          "summary": "Jane Lynch hosts celebrities on FOX's 'Special Forces: World's Toughest Test'. After each round, contestants vote to eliminate who they see as the weakest link.",
-          "url": "https://www.imdb.com/title/tt38188623/?ref_=ttep_ep_7"
-        },
-        {
-          "season": 1,
-          "number": 8,
-          "name": "8 Degrees of Jane",
-          "airdate": "2025-11-17",
-          "summary": "Jane Lynch hosts celebs Joel Kim Booster, Laverne Cox, Ron Funches, Carson Kressley, Jon Lovitz, Cheri Oteri, Adam Pally and Andy Richter. After each round, players vote out who they think is weakest.",
-          "url": "https://www.imdb.com/title/tt38188626/?ref_=ttep_ep_8"
-        },
-        {
-          "season": 1,
-          "number": 9,
-          "name": "Ex-Wives Club",
-          "airdate": "2025-11-24",
-          "summary": "Jane Lynch hosts celebs Bailey, Braxton, Gosselin, Gunvalson, Medley, Moakler, Wilkinson and Zarin. After each trivia round, contestants vote to eliminate the weakest player, whom Lynch dismisses.",
-          "url": "https://www.imdb.com/title/tt38188629/?ref_=ttep_ep_9"
-        },
-        {
-          "season": 1,
-          "number": 10,
-          "name": "Holiday Heroes",
-          "airdate": "2025-12-01",
-          "summary": "Ho, ho, ho! Jane has these stars trading mistletoe for mind games! Stars of beloved holiday movies battle it out.",
-          "url": "https://www.imdb.com/title/tt38188635/?ref_=ttep_ep_10"
-        },
-        {
-          "season": 1,
-          "number": 11,
-          "name": "TV Doctors",
-          "airdate": "2025-12-08",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt39166629/?ref_=ttep_ep_11"
         },
         {
           "season": 1,
@@ -40737,7 +40713,7 @@
         {
           "season": 3,
           "number": 3,
-          "name": "Episode #3.3",
+          "name": "I Know What I Want",
           "airdate": "2026-10-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt40548581/?ref_=ttep_ep_3"
@@ -43553,6 +43529,428 @@
           "airdate": "2025-07-17",
           "summary": "An elite squad of Flutes from different dimensions emerges through an interdimensional rift.",
           "url": "https://www.imdb.com/title/tt34983241/?ref_=ttep_ep_13"
+        }
+      ]
+    },
+    "tt6966758": {
+      "imdbId": "tt6966758",
+      "title": "Funny You Should Ask",
+      "episodes": [
+        {
+          "season": 6,
+          "number": 1,
+          "name": "Episode #6.1",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999026/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 6,
+          "number": 2,
+          "name": "Episode #6.2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999113/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 6,
+          "number": 3,
+          "name": "Episode #6.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999125/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 6,
+          "number": 4,
+          "name": "Episode #6.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999133/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 6,
+          "number": 5,
+          "name": "Episode #6.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999134/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 6,
+          "number": 6,
+          "name": "Episode #6.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999135/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 6,
+          "number": 7,
+          "name": "Episode #6.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999139/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 6,
+          "number": 8,
+          "name": "Episode #6.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999142/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 6,
+          "number": 9,
+          "name": "Episode #6.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999144/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 6,
+          "number": 10,
+          "name": "Episode #6.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999147/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 6,
+          "number": 11,
+          "name": "Episode #6.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999173/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 6,
+          "number": 12,
+          "name": "Episode #6.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999175/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 6,
+          "number": 13,
+          "name": "Episode #6.13",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999176/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 6,
+          "number": 14,
+          "name": "Episode #6.14",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999177/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 6,
+          "number": 15,
+          "name": "Episode #6.15",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999179/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 6,
+          "number": 16,
+          "name": "Episode #6.16",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999180/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 6,
+          "number": 17,
+          "name": "Episode #6.17",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999182/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 6,
+          "number": 18,
+          "name": "Episode #6.18",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999184/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 6,
+          "number": 19,
+          "name": "Episode #6.19",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999187/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 6,
+          "number": 20,
+          "name": "Episode #6.20",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999190/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 6,
+          "number": 21,
+          "name": "Episode #6.21",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999204/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 6,
+          "number": 22,
+          "name": "Episode #6.22",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999206/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 6,
+          "number": 23,
+          "name": "Episode #6.23",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999207/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 6,
+          "number": 24,
+          "name": "Episode #6.24",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999209/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 6,
+          "number": 25,
+          "name": "Episode #6.25",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999210/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 6,
+          "number": 26,
+          "name": "Episode #6.26",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999212/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 6,
+          "number": 27,
+          "name": "Episode #6.27",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999214/?ref_=ttep_ep_27"
+        },
+        {
+          "season": 6,
+          "number": 28,
+          "name": "Episode #6.28",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999215/?ref_=ttep_ep_28"
+        },
+        {
+          "season": 6,
+          "number": 29,
+          "name": "Episode #6.29",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999217/?ref_=ttep_ep_29"
+        },
+        {
+          "season": 6,
+          "number": 30,
+          "name": "Episode #6.30",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999218/?ref_=ttep_ep_30"
+        },
+        {
+          "season": 6,
+          "number": 31,
+          "name": "Episode #6.31",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999799/?ref_=ttep_ep_31"
+        },
+        {
+          "season": 6,
+          "number": 32,
+          "name": "Episode #6.32",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999864/?ref_=ttep_ep_32"
+        },
+        {
+          "season": 6,
+          "number": 33,
+          "name": "Episode #6.33",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999937/?ref_=ttep_ep_33"
+        },
+        {
+          "season": 6,
+          "number": 34,
+          "name": "Episode #6.34",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt31999981/?ref_=ttep_ep_34"
+        },
+        {
+          "season": 6,
+          "number": 35,
+          "name": "Episode #6.35",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32000000/?ref_=ttep_ep_35"
+        },
+        {
+          "season": 6,
+          "number": 36,
+          "name": "Episode #6.36",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32000054/?ref_=ttep_ep_36"
+        },
+        {
+          "season": 6,
+          "number": 37,
+          "name": "Episode #6.37",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32000137/?ref_=ttep_ep_37"
+        },
+        {
+          "season": 6,
+          "number": 38,
+          "name": "Episode #6.38",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32000189/?ref_=ttep_ep_38"
+        },
+        {
+          "season": 6,
+          "number": 39,
+          "name": "Episode #6.39",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32000230/?ref_=ttep_ep_39"
+        },
+        {
+          "season": 6,
+          "number": 40,
+          "name": "Episode #6.40",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32000277/?ref_=ttep_ep_40"
+        },
+        {
+          "season": 6,
+          "number": 41,
+          "name": "Episode #6.41",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32001035/?ref_=ttep_ep_41"
+        },
+        {
+          "season": 6,
+          "number": 42,
+          "name": "Episode #6.42",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32001065/?ref_=ttep_ep_42"
+        },
+        {
+          "season": 6,
+          "number": 43,
+          "name": "Episode #6.43",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32001149/?ref_=ttep_ep_43"
+        },
+        {
+          "season": 6,
+          "number": 44,
+          "name": "Episode #6.44",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32001184/?ref_=ttep_ep_44"
+        },
+        {
+          "season": 6,
+          "number": 45,
+          "name": "Episode #6.45",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32001192/?ref_=ttep_ep_45"
+        },
+        {
+          "season": 6,
+          "number": 46,
+          "name": "Episode #6.46",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32001274/?ref_=ttep_ep_46"
+        },
+        {
+          "season": 6,
+          "number": 47,
+          "name": "Episode #6.47",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32001315/?ref_=ttep_ep_47"
+        },
+        {
+          "season": 6,
+          "number": 48,
+          "name": "Episode #6.48",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32001339/?ref_=ttep_ep_48"
+        },
+        {
+          "season": 6,
+          "number": 49,
+          "name": "Episode #6.49",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32001431/?ref_=ttep_ep_49"
+        },
+        {
+          "season": 6,
+          "number": 50,
+          "name": "Episode #6.50",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32001447/?ref_=ttep_ep_50"
+        },
+        {
+          "season": 5,
+          "number": 79,
+          "name": "Episode #5.79",
+          "airdate": "2023-02-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39388877/?ref_=ttep_ep_79"
+        },
+        {
+          "season": 5,
+          "number": 94,
+          "name": "Episode #5.94",
+          "airdate": "2023-05-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt32272119/?ref_=ttep_ep_94"
         }
       ]
     }
