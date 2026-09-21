@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T09:38:13.491Z",
+  "generatedAt": "2026-09-21T10:27:13.945Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -3607,8 +3607,8 @@
           "name": "Manny Jacinto"
         },
         {
-          "id": "nm5307044",
-          "name": "Ronny Chieng"
+          "id": "nm4715046",
+          "name": "Liza Soberano"
         }
       ],
       "label": "Sep 25, 2026"
@@ -4616,12 +4616,12 @@
           "name": "Jason Momoa"
         },
         {
-          "id": "nm3170207",
-          "name": "Noah Centineo"
+          "id": "nm2810287",
+          "name": "David Dastmalchian"
         },
         {
-          "id": "nm13153010",
-          "name": "Callina Liang"
+          "id": "nm3170207",
+          "name": "Noah Centineo"
         },
         {
           "id": "nm3689528",
@@ -5558,12 +5558,12 @@
           "name": "Jim Caviezel"
         },
         {
-          "id": "nm1880888",
-          "name": "Olivia Thirlby"
-        },
-        {
           "id": "nm0924154",
           "name": "Shea Whigham"
+        },
+        {
+          "id": "nm1880888",
+          "name": "Olivia Thirlby"
         }
       ],
       "label": "Nov 11, 2026"
@@ -5955,8 +5955,8 @@
       "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
       "genres": [
         "Biography",
-        "Drama",
-        "Sport"
+        "Comedy",
+        "Drama"
       ],
       "people": [
         {
@@ -7313,6 +7313,10 @@
       ],
       "people": [
         {
+          "id": "nm1659547",
+          "name": "Carey Mulligan"
+        },
+        {
           "id": "nm0000658",
           "name": "Meryl Streep"
         },
@@ -7321,12 +7325,8 @@
           "name": "Daniel Craig"
         },
         {
-          "id": "nm1659547",
-          "name": "Carey Mulligan"
-        },
-        {
-          "id": "nm0001354",
-          "name": "Ciarán Hinds"
+          "id": "nm8076281",
+          "name": "Emma Mackey"
         }
       ],
       "label": "Feb 12, 2027"
@@ -7439,12 +7439,12 @@
       ],
       "people": [
         {
-          "id": "nm1055302",
-          "name": "Rhys Darby"
-        },
-        {
           "id": "nm0396558",
           "name": "Nicholas Hoult"
+        },
+        {
+          "id": "nm1055302",
+          "name": "Rhys Darby"
         },
         {
           "id": "nm0054697",
@@ -8162,8 +8162,8 @@
           "name": "Jason Clarke"
         },
         {
-          "id": "nm3147751",
-          "name": "LaKeith Stanfield"
+          "id": "nm1569067",
+          "name": "Wilson Bethel"
         }
       ],
       "label": "May 14, 2027"
@@ -8697,8 +8697,8 @@
           "name": "Jack Black"
         },
         {
-          "id": "nm1546196",
-          "name": "Matt Berry"
+          "id": "nm5335029",
+          "name": "Danielle Brooks"
         }
       ],
       "label": "Jul 23, 2027"
