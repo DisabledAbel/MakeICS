@@ -1,4 +1,4 @@
-name: PR Tests
+name: PR Unit Tests
 
 on:
   pull_request:
