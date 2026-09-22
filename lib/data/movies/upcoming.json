@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T10:27:13.945Z",
+  "generatedAt": "2026-09-22T09:40:20.038Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -3805,12 +3805,12 @@
       ],
       "people": [
         {
-          "id": "nm3289096",
-          "name": "Sidharth Malhotra"
-        },
-        {
           "id": "nm1961459",
           "name": "Tamannaah Bhatia"
+        },
+        {
+          "id": "nm3289096",
+          "name": "Sidharth Malhotra"
         },
         {
           "id": "nm1748819",
@@ -4237,12 +4237,12 @@
       ],
       "people": [
         {
-          "id": "nm2087739",
-          "name": "Jeremy Allen White"
-        },
-        {
           "id": "nm2365811",
           "name": "Betty Gilpin"
+        },
+        {
+          "id": "nm2087739",
+          "name": "Jeremy Allen White"
         },
         {
           "id": "nm5700898",
@@ -4798,20 +4798,20 @@
       ],
       "people": [
         {
-          "id": "nm0010736",
-          "name": "Amy Adams"
+          "id": "nm15588612",
+          "name": "Aran Murphy"
         },
         {
-          "id": "nm0000114",
-          "name": "Steve Buscemi"
+          "id": "nm0010736",
+          "name": "Amy Adams"
         },
         {
           "id": "nm4911194",
           "name": "Jenna Ortega"
         },
         {
-          "id": "nm15588612",
-          "name": "Aran Murphy"
+          "id": "nm0000114",
+          "name": "Steve Buscemi"
         }
       ],
       "label": "Oct 23, 2026"
@@ -5825,8 +5825,8 @@
           "name": "Rob Delaney"
         },
         {
-          "id": "nm3978118",
-          "name": "Ruth Madeley"
+          "id": "nm3482690",
+          "name": "Jon Beavers"
         }
       ],
       "label": "Nov 13, 2026"
@@ -5900,12 +5900,12 @@
       ],
       "people": [
         {
-          "id": "nm2225369",
-          "name": "Jennifer Lawrence"
-        },
-        {
           "id": "nm5085683",
           "name": "Mckenna Grace"
+        },
+        {
+          "id": "nm2225369",
+          "name": "Jennifer Lawrence"
         },
         {
           "id": "nm1102577",
@@ -5921,7 +5921,7 @@
     {
       "id": "tt34385689",
       "title": "Paper Tiger",
-      "image": "https://m.media-amazon.com/images/M/MV5BOTE2NWQwZTktZGZjNS00ZmQ0LWIzYjctOGY0NDBjNzY0MjZkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWU2MTI0M2MtZjc3My00MzhlLWJkMDMtN2E4ODNlYTg3ODJlXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
       "genres": [
         "Crime",
@@ -6023,16 +6023,16 @@
           "name": "Vladyslav Buriak"
         },
         {
+          "id": "nm5571029",
+          "name": "Pope Francis"
+        },
+        {
           "id": "nm16269331",
           "name": "Roman Oleksiv"
         },
         {
           "id": "nm15064979",
           "name": "Oleksandra Paskal"
-        },
-        {
-          "id": "nm13677205",
-          "name": "Yana Stepanenko"
         }
       ],
       "label": "Nov 20, 2026"
@@ -6053,12 +6053,12 @@
           "name": "Tracey Ullman"
         },
         {
-          "id": "nm0324658",
-          "name": "Walton Goggins"
-        },
-        {
           "id": "nm2794962",
           "name": "Hailee Steinfeld"
+        },
+        {
+          "id": "nm0324658",
+          "name": "Walton Goggins"
         },
         {
           "id": "nm0876138",
@@ -6185,8 +6185,8 @@
           "name": "Carla Gugino"
         },
         {
-          "id": "nm5584344",
-          "name": "Yahya Abdul-Mateen II"
+          "id": "nm0004790",
+          "name": "Scott Caan"
         }
       ],
       "label": "Nov 25, 2026"
@@ -6961,8 +6961,8 @@
           "name": "Matt Lucas"
         },
         {
-          "id": "nm3002919",
-          "name": "Blake Harrison"
+          "id": "nm0746896",
+          "name": "Richard Roxburgh"
         }
       ],
       "label": "Jan 15, 2027"
@@ -7252,8 +7252,8 @@
           "name": "Phoebe Dynevor"
         },
         {
-          "id": "nm0353546",
-          "name": "Julie Hagerty"
+          "id": "nm3287940",
+          "name": "Tracy Ifeachor"
         }
       ],
       "label": "Feb 05, 2027"
@@ -7343,16 +7343,16 @@
       ],
       "people": [
         {
-          "id": "nm12642168",
-          "name": "Amita Rao"
-        },
-        {
           "id": "nm5730649",
           "name": "Lewis Pullman"
         },
         {
           "id": "nm1638321",
           "name": "Maya Hawke"
+        },
+        {
+          "id": "nm12642168",
+          "name": "Amita Rao"
         },
         {
           "id": "nm1320827",
@@ -7862,12 +7862,12 @@
       ],
       "people": [
         {
-          "id": "nm14949577",
-          "name": "Acston Luca Porto"
-        },
-        {
           "id": "nm0190441",
           "name": "Raymond Cruz"
+        },
+        {
+          "id": "nm14949577",
+          "name": "Acston Luca Porto"
         },
         {
           "id": "nm0379596",
@@ -8033,12 +8033,12 @@
       ],
       "people": [
         {
-          "id": "nm1551130",
-          "name": "Keke Palmer"
-        },
-        {
           "id": "nm5730649",
           "name": "Lewis Pullman"
+        },
+        {
+          "id": "nm1551130",
+          "name": "Keke Palmer"
         },
         {
           "id": "nm0000597",
@@ -8620,20 +8620,20 @@
       ],
       "people": [
         {
-          "id": "nm7543974",
-          "name": "Aaron Pierre"
-        },
-        {
-          "id": "nm5245722",
-          "name": "Adria Arjona"
+          "id": "nm4825178",
+          "name": "David Corenswet"
         },
         {
           "id": "nm6854116",
           "name": "Milly Alcock"
         },
         {
-          "id": "nm0277213",
-          "name": "Nathan Fillion"
+          "id": "nm7543974",
+          "name": "Aaron Pierre"
+        },
+        {
+          "id": "nm5245722",
+          "name": "Adria Arjona"
         }
       ],
       "label": "Jul 09, 2027"
@@ -8659,12 +8659,12 @@
       ],
       "people": [
         {
-          "id": "nm2864252",
-          "name": "Mason Gooding"
-        },
-        {
           "id": "nm6185683",
           "name": "Emily Rudd"
+        },
+        {
+          "id": "nm2864252",
+          "name": "Mason Gooding"
         },
         {
           "id": "nm10333820",
@@ -8782,8 +8782,8 @@
           "name": "Daniel Ings"
         },
         {
-          "id": "nm14330474",
-          "name": "Artie Wilkinson-Hunt"
+          "id": "nm6329927",
+          "name": "Rebecca Bellavia"
         }
       ],
       "label": "Aug 06, 2027"
@@ -8833,8 +8833,8 @@
           "name": "Algee Smith"
         },
         {
-          "id": "nm1988575",
-          "name": "Lauren London"
+          "id": "nm1296458",
+          "name": "Mustafa Shakir"
         }
       ],
       "label": "Aug 06, 2027"
@@ -8888,8 +8888,8 @@
           "name": "Steven Waddington"
         },
         {
-          "id": "nm6554076",
-          "name": "Abraham Popoola"
+          "id": "nm8424510",
+          "name": "Callie Cooke"
         }
       ],
       "label": "Aug 13, 2027"
@@ -9031,12 +9031,12 @@
           "name": "Garrett Wareing"
         },
         {
-          "id": "nm0777788",
-          "name": "Matthias Schweighöfer"
-        },
-        {
           "id": "nm9931958",
           "name": "Amanda Fix"
+        },
+        {
+          "id": "nm0777788",
+          "name": "Matthias Schweighöfer"
         },
         {
           "id": "nm7814433",
