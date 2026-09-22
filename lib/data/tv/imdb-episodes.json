@@ -342,10 +342,18 @@
         {
           "season": 30,
           "number": 21,
-          "name": "Gov. Andy Beshear/View Your Deal: Oprah Daily Edition/",
+          "name": "Gov. Andy Beshear/View Your Deal: Oprah Daily Edition",
           "airdate": "2026-09-21",
-          "summary": "Gov. Andy Beshears (D-Ky); Andy Glassman shows hot deals;",
+          "summary": "Gov. Andy Beshear (D-Ky); Andy Glassman shows hot deals.",
           "url": "https://www.imdb.com/title/tt46486263/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 30,
+          "number": 22,
+          "name": "Sarah Paulson/View Your Deal",
+          "airdate": "2026-09-22",
+          "summary": "Guest co-host Star Jones; actress Sarah Paulson (TV series, \"American Horror Story\");",
+          "url": "https://www.imdb.com/title/tt46486349/?ref_=ttep_ep_11"
         },
         {
           "season": 29,
@@ -1579,7 +1587,7 @@
           "number": 28,
           "name": "To Live and Die in L.A.",
           "airdate": "2026-09-28",
-          "summary": null,
+          "summary": "Spencer navigates one of the toughest and most important days of his life. Meanwhile, Olivia leans on her mom to help her make the right decision. Friends and family, old and new, gather as one chapter ends and new chapters begin for our favorite Crenshaw and Beverly natives.",
           "url": "https://www.imdb.com/title/tt37156740/?ref_=ttep_ep_13"
         },
         {
@@ -2480,7 +2488,7 @@
           "number": 21,
           "name": "Tell All Part 1",
           "airdate": "2026-09-21",
-          "summary": "The couples reunite for the first time since returning from England. Patrick and Thais share a shocking relationship update, Guillermo accuses Kara of destroying their marriage, and a man who crossed romantic boundaries with Pao confronts Russ.",
+          "summary": "Couples reunite for the first time since England. Patrick and Thais share shocking news, and Guillermo accuses Kara of destroying their marriage.",
           "url": "https://www.imdb.com/title/tt43751171/?ref_=ttep_ep_17"
         },
         {
@@ -20663,7 +20671,7 @@
           "season": 4,
           "number": 43,
           "name": "Grand Slam Paris 2026",
-          "airdate": "2026-10-10",
+          "airdate": "2026-10-03",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44863305/?ref_=ttep_ep_43"
         },
@@ -28760,9 +28768,41 @@
           "season": 1,
           "number": 3,
           "name": "Episode #1.3",
-          "airdate": null,
+          "airdate": "2026-09-03",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44689041/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "The Mystery Pistol Packer",
+          "airdate": "2026-08-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46656800/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "The Bumper Sticker Brawl",
+          "airdate": "2026-09-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46656805/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 17,
+          "name": "Road Rage on the Underage",
+          "airdate": "2026-09-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46656808/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 24,
+          "name": "Beverly Hills Banger",
+          "airdate": "2026-09-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46656811/?ref_=ttep_ep_8"
         }
       ]
     },
@@ -30312,7 +30352,7 @@
         {
           "season": 5,
           "number": 20,
-          "name": "Sisterhood Of The Traveling Housewives",
+          "name": "Sisterhood of the Traveling Housewives",
           "airdate": "2026-09-20",
           "summary": "Miami brings the heat at Lisa Hochstein's lingerie party. In the Big Apple, Dorinda brings back the iconic Gangster Brunch. A moving reading from Carole has the women reflecting on the sisterhood forged through years in the spotlight.",
           "url": "https://www.imdb.com/title/tt43620002/?ref_=ttep_ep_7"
@@ -30662,7 +30702,7 @@
           "number": 6,
           "name": "The Weenie",
           "airdate": "2026-09-06",
-          "summary": "With the 48-hour deadline about to expire, John develops a new theory about the whereabouts of the Cosmic Hunter, which leads him and Hal to present their next plan to Sheriff Kane. Meanwhile, Hal's visit to Sinestro has consequences",
+          "summary": "With the 48-hour deadline about to expire, John develops a new theory about the whereabouts of the Cosmic Hunter, which leads him and Hal to present their next plan to Sheriff Kane. Meanwhile, Hal's visit to Sinestro has consequences.",
           "url": "https://www.imdb.com/title/tt32752610/?ref_=ttep_ep_4"
         },
         {
@@ -34670,6 +34710,14 @@
       "episodes": [
         {
           "season": 1,
+          "number": 4,
+          "name": "Resurrection Man",
+          "airdate": "2026-10-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41050806/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
           "number": 6,
           "name": "Recalled to Life",
           "airdate": "2026-09-06",
@@ -34686,19 +34734,11 @@
         },
         {
           "season": 1,
-          "number": 20,
-          "name": "Mother's Ruin",
-          "airdate": "2026-09-20",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt41050808/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 1,
           "number": 27,
-          "name": "Resurrection Man",
+          "name": "Mother's Ruin",
           "airdate": "2026-09-27",
           "summary": null,
-          "url": "https://www.imdb.com/title/tt41050806/?ref_=ttep_ep_4"
+          "url": "https://www.imdb.com/title/tt41050808/?ref_=ttep_ep_3"
         }
       ]
     },
@@ -36528,7 +36568,7 @@
           "number": 13,
           "name": "Back from the Dead: Halloween All Stars",
           "airdate": "2026-09-13",
-          "summary": null,
+          "summary": "Eight all-star teams of pumpkin carvers, cake artists, and sugar masters return for head-to-head battles.",
           "url": "https://www.imdb.com/title/tt45853548/?ref_=ttep_ep_1"
         },
         {
@@ -36568,7 +36608,7 @@
           "number": 6,
           "name": "Spellbound",
           "airdate": "2025-10-26",
-          "summary": "The final two teams create modern spell-casting scenes that include one special effect and three complete characters. Then, it's up to Jonathan Bennett,Shinmin Li and Aarti Sequeira to decide who will be crowned Halloween Wars champion and win $25,000.",
+          "summary": "The final two teams create modern spell-casting scenes with one special effect and three characters. Bennett, Li, and Sequeira crown the Halloween Wars champion, who wins $25,000.",
           "url": "https://www.imdb.com/title/tt38274641/?ref_=ttep_ep_6"
         },
         {
@@ -39010,7 +39050,7 @@
           "season": 2,
           "number": 3,
           "name": "Episode #2.3",
-          "airdate": null,
+          "airdate": "2026-10-03",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602055/?ref_=ttep_ep_3"
         },
@@ -39018,7 +39058,7 @@
           "season": 2,
           "number": 4,
           "name": "Episode #2.4",
-          "airdate": null,
+          "airdate": "2026-10-10",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602072/?ref_=ttep_ep_4"
         },
@@ -39026,7 +39066,7 @@
           "season": 2,
           "number": 5,
           "name": "Episode #2.5",
-          "airdate": null,
+          "airdate": "2026-10-17",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602086/?ref_=ttep_ep_5"
         },
@@ -39034,7 +39074,7 @@
           "season": 2,
           "number": 6,
           "name": "Episode #2.6",
-          "airdate": null,
+          "airdate": "2026-10-24",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602105/?ref_=ttep_ep_6"
         },
@@ -39042,7 +39082,7 @@
           "season": 2,
           "number": 7,
           "name": "Episode #2.7",
-          "airdate": null,
+          "airdate": "2026-10-31",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602115/?ref_=ttep_ep_7"
         },
@@ -39050,7 +39090,7 @@
           "season": 2,
           "number": 8,
           "name": "Episode #2.8",
-          "airdate": null,
+          "airdate": "2026-11-07",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602123/?ref_=ttep_ep_8"
         },
@@ -39058,7 +39098,7 @@
           "season": 2,
           "number": 9,
           "name": "Episode #2.9",
-          "airdate": null,
+          "airdate": "2026-11-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39745527/?ref_=ttep_ep_9"
         },
@@ -39066,7 +39106,7 @@
           "season": 2,
           "number": 10,
           "name": "Episode #2.10",
-          "airdate": null,
+          "airdate": "2026-11-21",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39745529/?ref_=ttep_ep_10"
         },
@@ -39980,7 +40020,7 @@
         {
           "season": 2,
           "number": 3,
-          "name": "Episode #2.3",
+          "name": "Crate Expectations",
           "airdate": "2026-10-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt40336401/?ref_=ttep_ep_3"
@@ -40075,16 +40115,16 @@
         },
         {
           "season": 2,
-          "number": 22,
+          "number": 20,
           "name": "Be Careful What You Fish For",
-          "airdate": "2026-09-22",
-          "summary": null,
+          "airdate": "2026-09-20",
+          "summary": "Martin struggles with his blood phobia as a mermaid washes ashore, amazing the entire town of Port Wenn.",
           "url": "https://www.imdb.com/title/tt40336400/?ref_=ttep_ep_1"
         },
         {
           "season": 2,
           "number": 29,
-          "name": "Breakin' In is Hard to Do",
+          "name": "Breakin' in Is Hard to Do",
           "airdate": "2026-09-29",
           "summary": null,
           "url": "https://www.imdb.com/title/tt40336406/?ref_=ttep_ep_2"
@@ -40672,8 +40712,56 @@
           "number": 5,
           "name": "High School Reunion",
           "airdate": "2025-10-13",
-          "summary": "Jane Lynch hosts celebrity pairs who were teen actors. Tatyana",
+          "summary": "Jane Lynch hosts celebrity pairs who were teen actors. Tatyana Ali, Shenae Grimes, Matt Lanter, Beverly Mitchell, Scott Porter, Daphne Reid, Aimeé Teegarden and Barry Watson compete in trivia, voting out players each round.",
           "url": "https://www.imdb.com/title/tt38188590/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Football Legends",
+          "airdate": "2025-11-03",
+          "summary": "Touchdown! Eight football greats battle it out in a very different arena.",
+          "url": "https://www.imdb.com/title/tt38188891/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Special Forces",
+          "airdate": "2025-11-10",
+          "summary": "Jane Lynch hosts celebrities on FOX's 'Special Forces: World's Toughest Test'. After each round, contestants vote to eliminate who they see as the weakest link.",
+          "url": "https://www.imdb.com/title/tt38188623/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "8 Degrees of Jane",
+          "airdate": "2025-11-17",
+          "summary": "Jane Lynch hosts celebs Joel Kim Booster, Laverne Cox, Ron Funches, Carson Kressley, Jon Lovitz, Cheri Oteri, Adam Pally and Andy Richter. After each round, players vote out who they think is weakest.",
+          "url": "https://www.imdb.com/title/tt38188626/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Ex-Wives Club",
+          "airdate": "2025-11-24",
+          "summary": "Jane Lynch hosts celebs Bailey, Braxton, Gosselin, Gunvalson, Medley, Moakler, Wilkinson and Zarin. After each trivia round, contestants vote to eliminate the weakest player, whom Lynch dismisses.",
+          "url": "https://www.imdb.com/title/tt38188629/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Holiday Heroes",
+          "airdate": "2025-12-01",
+          "summary": "Ho, ho, ho! Jane has these stars trading mistletoe for mind games! Stars of beloved holiday movies battle it out.",
+          "url": "https://www.imdb.com/title/tt38188635/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "TV Doctors",
+          "airdate": "2025-12-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39166629/?ref_=ttep_ep_11"
         },
         {
           "season": 1,
@@ -43081,7 +43169,7 @@
           "number": 2,
           "name": "La Gloire Du Bouffon",
           "airdate": "2026-10-04",
-          "summary": "After Mark becomes a self-proclaimed calliope prodigy and accidentally summons a troupe of clowns, including the elegant French clown Plonque Honque, he sets out to stage a prestigious clown ballet.",
+          "summary": "Mark learns to play a new instrument. Tammy confronts her fear of clowns.",
           "url": "https://www.imdb.com/title/tt41712264/?ref_=ttep_ep_2"
         },
         {
@@ -43342,9 +43430,17 @@
           "season": 3,
           "number": 3,
           "name": "How the Other Half Lives",
-          "airdate": "2026-10-11",
+          "airdate": "2026-10-18",
           "summary": "Flute is suspicious of Summers' new cyborg friend. Martinez joins the Satanic church for the childcare perks.",
           "url": "https://www.imdb.com/title/tt36911075/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "Episode #3.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46656926/?ref_=ttep_ep_4"
         },
         {
           "season": 3,
@@ -43953,6 +44049,381 @@
           "url": "https://www.imdb.com/title/tt32272119/?ref_=ttep_ep_94"
         }
       ]
+    },
+    "tt45335545": {
+      "imdbId": "tt45335545",
+      "title": "The Detour with David Chang",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Nashville to Madisonville with Christina Tosi",
+          "airdate": "2026-09-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46658142/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "LA to Vegas with Cord Jefferson",
+          "airdate": "2026-09-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46658133/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Dallas to San Antonio with Cristela Alonzo",
+          "airdate": "2026-09-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46658147/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt1877005": {
+      "imdbId": "tt1877005",
+      "title": "Moonshiners",
+      "episodes": [
+        {
+          "season": 16,
+          "number": 29,
+          "name": "Life, Liberty, and Tax-free Liquor",
+          "airdate": "2026-09-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46261428/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 15,
+          "number": 1,
+          "name": "Born Tax-Free",
+          "airdate": "2026-01-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39195049/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 15,
+          "number": 2,
+          "name": "Outlaw Redemption",
+          "airdate": "2026-01-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39325502/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 15,
+          "number": 3,
+          "name": "Proof or Consequences",
+          "airdate": "2026-01-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39325504/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 15,
+          "number": 4,
+          "name": "Stashes to Ashes",
+          "airdate": "2026-01-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39638953/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 15,
+          "number": 5,
+          "name": "Dead Drops Don't Lie",
+          "airdate": "2026-02-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39638957/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 15,
+          "number": 6,
+          "name": "Goldshiner",
+          "airdate": "2026-02-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39850600/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 15,
+          "number": 7,
+          "name": "A New Tariff in Town",
+          "airdate": "2026-02-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40014463/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 15,
+          "number": 8,
+          "name": "Kentucky Kingpin",
+          "airdate": "2026-02-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40237572/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 15,
+          "number": 9,
+          "name": "Run for the Border",
+          "airdate": "2026-03-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40428583/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 15,
+          "number": 10,
+          "name": "Confiscated Copper Conundrum",
+          "airdate": "2026-03-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40628248/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 15,
+          "number": 11,
+          "name": "Penny Wise, Impound Foolish",
+          "airdate": "2026-03-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40844118/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 15,
+          "number": 12,
+          "name": "Braking Badly",
+          "airdate": "2026-03-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41094143/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 15,
+          "number": 13,
+          "name": "Spirit Animal",
+          "airdate": "2026-03-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41382047/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 15,
+          "number": 14,
+          "name": "Cocke County Crackdown",
+          "airdate": "2026-04-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41580358/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 15,
+          "number": 15,
+          "name": "Wanted Drunk or Alive",
+          "airdate": "2026-04-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41580360/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 15,
+          "number": 16,
+          "name": "Outlaw & Order",
+          "airdate": "2026-04-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42007337/?ref_=ttep_ep_16"
+        }
+      ]
+    },
+    "tt0285335": {
+      "imdbId": "tt0285335",
+      "title": "The Amazing Race",
+      "episodes": [
+        {
+          "season": 39,
+          "number": 2,
+          "name": "Episode #39.2",
+          "airdate": "2026-10-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44091199/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 39,
+          "number": 3,
+          "name": "Episode #39.3",
+          "airdate": "2026-10-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44091309/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 39,
+          "number": 4,
+          "name": "Episode #39.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920655/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 39,
+          "number": 5,
+          "name": "Episode #39.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920656/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 39,
+          "number": 6,
+          "name": "Episode #39.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920657/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 39,
+          "number": 7,
+          "name": "Episode #39.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920658/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 39,
+          "number": 8,
+          "name": "Episode #39.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920659/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 39,
+          "number": 9,
+          "name": "Episode #39.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920660/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 39,
+          "number": 10,
+          "name": "Episode #39.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920661/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 39,
+          "number": 11,
+          "name": "Episode #39.11",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920662/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 39,
+          "number": 12,
+          "name": "Episode #39.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920663/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 39,
+          "number": 30,
+          "name": "Sorry Guys, We Used Our Express Pass",
+          "airdate": "2026-09-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39389703/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 38,
+          "number": 2,
+          "name": "Mom's Gonna Have the Willies",
+          "airdate": "2025-10-01",
+          "summary": "Teams depart for Prague, Czech Republic, where they must walk across a narrow plank hundreds of feet above the Zizkov Television Tower to retrieve their next clue.",
+          "url": "https://www.imdb.com/title/tt38431347/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 38,
+          "number": 3,
+          "name": "Cry and Rally",
+          "airdate": "2025-10-08",
+          "summary": "Racers travel to Kutná Hora, Czech Republic, where a new alliance takes control.",
+          "url": "https://www.imdb.com/title/tt38431348/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 38,
+          "number": 4,
+          "name": "What Would Houdini Do?",
+          "airdate": "2025-10-15",
+          "summary": "Racers travel to illusionist Harry Houdini's birthplace, Budapest, Hungary, where a puzzling Fast Forward puts one team to the test; a horse drawn carriage has teams racing against the clock.",
+          "url": "https://www.imdb.com/title/tt38431349/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 38,
+          "number": 5,
+          "name": "I Wanna Be a Little Angry Right Now",
+          "airdate": "2025-10-22",
+          "summary": "Teams travel to Croatia; a frustrating roadblock brings some teams to tears.",
+          "url": "https://www.imdb.com/title/tt38431351/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 38,
+          "number": 6,
+          "name": "The System Hacked Me",
+          "airdate": "2025-10-29",
+          "summary": "The race intensifies in Croatia where one team reconsiders their alliance and another team's Roadblock strategy falls apart.",
+          "url": "https://www.imdb.com/title/tt38431352/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 38,
+          "number": 7,
+          "name": "It Feels Like Falling the Whole Time",
+          "airdate": "2025-11-05",
+          "summary": "Teams skydive through the clouds of Romania and one team must catch up after struggling during a sheep herding challenge.",
+          "url": "https://www.imdb.com/title/tt38431354/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 38,
+          "number": 8,
+          "name": "Oh Egg, Where Art Thou",
+          "airdate": "2025-11-12",
+          "summary": "In Bucharest, two teams strategically use their Express Pass, eager to gain an advantage; navigational frustration reaches a boiling point for another team.",
+          "url": "https://www.imdb.com/title/tt38431355/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 38,
+          "number": 9,
+          "name": "I'm Not a Big Fan of Olives",
+          "airdate": "2025-11-19",
+          "summary": "Phil sends the teams off to race through Athens, Greece.",
+          "url": "https://www.imdb.com/title/tt38431356/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 38,
+          "number": 10,
+          "name": "It's Hard Not to Feel Hopeless",
+          "airdate": "2025-11-26",
+          "summary": "Racers visit Milan, Italy, where one team faces a major setback when they're forced to travel an hour behind the pack; heat exhaustion threatens to end the race for another team.",
+          "url": "https://www.imdb.com/title/tt38431357/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 38,
+          "number": 11,
+          "name": "The Can't Can't",
+          "airdate": "2025-12-03",
+          "summary": "The final four teams race through Moulin Rouge, the Eiffel Tower and other iconic Paris locations.",
+          "url": "https://www.imdb.com/title/tt38717849/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 38,
+          "number": 12,
+          "name": "One Million Cookies",
+          "airdate": "2025-12-10",
+          "summary": "The final three teams race through New York City where they rappel down the Empire State Building and host Phil Keoghan crowns one team the winner.",
+          "url": "https://www.imdb.com/title/tt38717851/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 38,
+          "number": 25,
+          "name": "Two Worlds Colliding",
+          "airdate": "2025-09-25",
+          "summary": "The racers kick off the season in Amsterdam, where they face classic game pieces and unexpected twists right off the bat.",
+          "url": "https://www.imdb.com/title/tt36482657/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt0133302": {
+      "imdbId": "tt0133302",
+      "title": "Frontline",
+      "episodes": []
     }
   }
 }
