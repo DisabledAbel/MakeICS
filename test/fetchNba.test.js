@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
-import { fetchNbaSchedules, parseUpcomingGames } from '../scripts/fetch-nba.js';
+import { fetchJson, fetchNbaSchedules, parseUpcomingGames } from '../scripts/fetch-nba.js';
 
 const games = [
   {
@@ -19,6 +19,117 @@ const games = [
   }
 ];
 const schedule = { leagueSchedule: { gameDates: [{ games }] } };
+
+test('fetchJson retries timeouts with a fresh signal and retries transient HTTP errors', async () => {
+  const signals = [];
+  const fetchImpl = async (_url, { signal }) => {
+    signals.push(signal);
+    if (signals.length === 1) return new Promise((_resolve, reject) => {
+      signal.addEventListener('abort', () => reject(new DOMException('aborted', 'AbortError')), { once: true });
+    });
+    if (signals.length === 2) return new Response('', { status: 503 });
+    return Response.json({ recovered: true });
+  };
+  assert.deepEqual(await fetchJson('https://example.test/schedule', fetchImpl, { timeoutMs: 10, retryDelayMs: 0 }), { recovered: true });
+  assert.equal(signals.length, 3);
+  assert.equal(signals[0].aborted, true);
+  assert.equal(signals[1].aborted, false);
+  assert.notEqual(signals[0], signals[1]);
+});
+
+test('fetchJson reports the failing URL and does not retry permanent HTTP failures', async () => {
+  let calls = 0;
+  await assert.rejects(fetchJson('https://example.test/schedule', async () => {
+    calls++;
+    return new Response('', { status: 403 });
+  }), /https:\/\/example.test\/schedule: HTTP 403/);
+  assert.equal(calls, 1);
+});
+
+function fallbackFixture({ failTeam = false } = {}) {
+  const teams = Array.from({ length: 30 }, (_, index) => ({
+    idTeam: String(100000 + index),
+    strTeam: index === 0 ? 'Boston Celtics' : index === 1 ? 'New York Knicks' : `Inactive Team ${index}`
+  }));
+  const calls = [];
+  const event = {
+    id: '401000001', date: games[0].gameDateTimeUTC,
+    competitions: [{
+      status: { type: { state: 'pre' } },
+      competitors: [{ homeAway: 'home', team: { id: '1' } }, { homeAway: 'away', team: { id: '2' } }],
+      venue: { fullName: 'Test Arena' }, broadcasts: [{ media: { shortName: 'NBA TV' } }]
+    }]
+  };
+  const fetchImpl = async url => {
+    calls.push(url);
+    if (url.includes('thesportsdb')) return Response.json({ teams });
+    if (url.includes('cdn.nba.com')) throw new DOMException('aborted', 'AbortError');
+    if (url.endsWith('/teams?limit=100')) return Response.json({ sports: [{ leagues: [{ teams: teams.map((team, index) => ({ team: { id: String(index + 1), displayName: team.strTeam } })) }] }] });
+    if (failTeam && url.includes('/teams/30/')) return new Response('', { status: 503 });
+    return Response.json({ events: url.includes('seasontype=2') ? [event] : [] });
+  };
+  return { fetchImpl, calls };
+}
+
+test('NBA timeout falls back to all ESPN team schedules, deduplicates games and retains calendar IDs', async () => {
+  const outputDir = await fs.mkdtemp(path.join(os.tmpdir(), 'makeics-nba-fallback-'));
+  const { fetchImpl, calls } = fallbackFixture();
+  const options = { fetchImpl, outputDir, now: new Date('2026-09-23T00:00:00Z'), requestOptions: { attempts: 1 } };
+  try {
+    const result = await fetchNbaSchedules(options);
+    assert.equal(result.games, 1);
+    assert.equal(result.writtenTeams, 2);
+    assert.equal(calls.filter(url => url.includes('/schedule?season=2027')).length, 90);
+    const filePath = path.join(outputDir, '100000.json');
+    const data = JSON.parse(await fs.readFile(filePath, 'utf8'));
+    assert.equal(data.events[0].dateEvent, '2026-10-02');
+    assert.equal(data.events[0].strTVStation, 'NBA TV');
+    data.events[0].idEvent = 'scraped-original-nba-id';
+    await fs.writeFile(filePath, JSON.stringify(data));
+    const before = await fs.readFile(filePath, 'utf8');
+    assert.equal((await fetchNbaSchedules(options)).writtenTeams, 0);
+    assert.equal(await fs.readFile(filePath, 'utf8'), before);
+  } finally {
+    await fs.rm(outputDir, { recursive: true, force: true });
+  }
+});
+
+test('a partial ESPN failure leaves every saved schedule unchanged', async () => {
+  const outputDir = await fs.mkdtemp(path.join(os.tmpdir(), 'makeics-nba-failure-'));
+  const { fetchImpl } = fallbackFixture({ failTeam: true });
+  const filePath = path.join(outputDir, '100000.json');
+  const original = '{"events":[{"idEvent":"saved"}]}\n';
+  try {
+    await fs.writeFile(filePath, original);
+    await assert.rejects(fetchNbaSchedules({ fetchImpl, outputDir, now: new Date('2026-09-23T00:00:00Z'), requestOptions: { attempts: 1 } }), /Both NBA and ESPN schedule sources failed/);
+    assert.deepEqual(await fs.readdir(outputDir), ['100000.json']);
+    assert.equal(await fs.readFile(filePath, 'utf8'), original);
+  } finally {
+    await fs.rm(outputDir, { recursive: true, force: true });
+  }
+});
+
+test('truncated team lookup uses saved NBA IDs and rejects an incomplete saved mapping', async () => {
+  const outputDir = await fs.mkdtemp(path.join(os.tmpdir(), 'makeics-nba-teams-'));
+  const leagueFile = path.join(outputDir, 'league.json');
+  const events = Array.from({ length: 30 }, (_, index) => ({
+    idHomeTeam: String(100000 + index),
+    strHomeTeam: index === 0 ? 'Boston Celtics' : index === 1 ? 'New York Knicks' : `Inactive Team ${index}`
+  }));
+  const fetchImpl = async url => Response.json(url.includes('thesportsdb') ? { teams: [] } : schedule);
+  try {
+    await fs.writeFile(leagueFile, JSON.stringify({ leagueId: '4387', events }));
+    const result = await fetchNbaSchedules({ fetchImpl, leagueFile, outputDir, now: new Date('2026-09-23T00:00:00Z') });
+    assert.equal(result.teams, 30);
+    assert.equal(result.writtenTeams, 2);
+    const before = await fs.readFile(path.join(outputDir, '100000.json'), 'utf8');
+    await fs.writeFile(leagueFile, JSON.stringify({ leagueId: '4387', events: events.slice(0, 10) }));
+    await assert.rejects(fetchNbaSchedules({ fetchImpl, leagueFile, outputDir }), /Expected 30 saved NBA team IDs, received 10/);
+    assert.equal(await fs.readFile(path.join(outputDir, '100000.json'), 'utf8'), before);
+  } finally {
+    await fs.rm(outputDir, { recursive: true, force: true });
+  }
+});
 
 test('parseUpcomingGames keeps every scheduled future game and excludes completed games', () => {
   const result = parseUpcomingGames(schedule, new Date('2026-09-23T00:00:00Z'));
