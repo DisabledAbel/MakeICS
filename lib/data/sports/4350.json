@@ -2118,7 +2118,7 @@
     {
       "idEvent": "2487538",
       "idAPIfootball": "1550980",
-      "strTimestamp": "2026-09-26T23:00:00",
+      "strTimestamp": "2026-09-26T22:50:00",
       "strEvent": "Cruz Azul vs Toluca",
       "strEventAlternate": "Toluca @ Cruz Azul",
       "strFilename": "Mexican Liga MX 2026-09-26 Cruz Azul vs Toluca",
@@ -2136,7 +2136,7 @@
       "strWeather": "",
       "dateEvent": "2026-09-26",
       "dateEventLocal": "2026-09-26",
-      "strTime": "23:00:00",
+      "strTime": "22:50:00",
       "strTimeLocal": "22:00:00",
       "strGroup": "",
       "idHomeTeam": "134196",
