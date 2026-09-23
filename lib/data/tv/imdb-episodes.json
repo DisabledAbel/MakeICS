@@ -356,6 +356,14 @@
           "url": "https://www.imdb.com/title/tt46486349/?ref_=ttep_ep_11"
         },
         {
+          "season": 30,
+          "number": 23,
+          "name": "Star Jones/Jessica Lange/View Your Deal/",
+          "airdate": "2026-09-23",
+          "summary": "Guest co-hosts Star Jones; actress Jessica Lange (TV series, \"American Horror Story\");",
+          "url": "https://www.imdb.com/title/tt46486513/?ref_=ttep_ep_12"
+        },
+        {
           "season": 29,
           "number": 8,
           "name": "Episode #29.1",
@@ -1996,7 +2004,7 @@
           "number": 21,
           "name": "The Babysitter's Club",
           "airdate": "2026-09-21",
-          "summary": null,
+          "summary": "The crew takes on a medical emergency. Gen is forced to face the consequences of her actions. Cooper tries a new strategy with Kat. Aesha babysits Kayden.",
           "url": "https://www.imdb.com/title/tt46023370/?ref_=ttep_ep_16"
         },
         {
@@ -4814,14 +4822,6 @@
           "url": "https://www.imdb.com/title/tt44075388/?ref_=ttep_ep_14"
         },
         {
-          "season": 2,
-          "number": 21,
-          "name": "Episode #2.17",
-          "airdate": "2026-09-21",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt44075391/?ref_=ttep_ep_17"
-        },
-        {
           "season": 1,
           "number": 1,
           "name": "Built to Last?",
@@ -6960,8 +6960,24 @@
           "number": 16,
           "name": "Semifinals Results",
           "airdate": "2026-09-16",
-          "summary": null,
+          "summary": "America's votes determine which six acts from last night advance to the finals, joining four acts who earned Golden Buzzers for direct entry.",
           "url": "https://www.imdb.com/title/tt45748852/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 21,
+          "number": 22,
+          "name": "Finale",
+          "airdate": "2026-09-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46661216/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 21,
+          "number": 23,
+          "name": "Finale Results",
+          "airdate": "2026-09-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46661341/?ref_=ttep_ep_23"
         },
         {
           "season": 20,
@@ -16154,6 +16170,14 @@
           "url": "https://www.imdb.com/title/tt46180372/?ref_=ttep_ep_18"
         },
         {
+          "season": 22,
+          "number": 25,
+          "name": "Father, Brother, Sailor, Son",
+          "airdate": "2026-09-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46662648/?ref_=ttep_ep_19"
+        },
+        {
           "season": 21,
           "number": 1,
           "name": "The Wild West",
@@ -20670,7 +20694,7 @@
         {
           "season": 4,
           "number": 43,
-          "name": "Grand Slam Paris 2026",
+          "name": "Episode #4.43",
           "airdate": "2026-10-03",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44863305/?ref_=ttep_ep_43"
@@ -25569,6 +25593,46 @@
       "title": "Mickey Mouse Clubhouse+",
       "episodes": [
         {
+          "season": 2,
+          "number": 9,
+          "name": "Beauty and the Goof",
+          "airdate": "2027-04-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43715216/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Martian Mickey's CookOff",
+          "airdate": "2027-04-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43715218/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "Mickey's Construction Crew",
+          "airdate": "2027-04-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43715219/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "Goofy the Firefighter",
+          "airdate": "2027-04-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43715221/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 30,
+          "name": "Mickey's Animal Pictures",
+          "airdate": "2026-09-30",
+          "summary": "Since Dale caught the sniffles on the big acorn hunt day, Mickey and Pals help Chip gather acorns with Professor Von Drake's Nifty Nutty Acorn Collector.",
+          "url": "https://www.imdb.com/title/tt37848747/?ref_=ttep_ep_1"
+        },
+        {
           "season": 1,
           "number": 1,
           "name": "Mickey's New Helper",
@@ -25783,14 +25847,6 @@
           "airdate": "2026-07-03",
           "summary": "Mickey, Minnie, and Donald pick blueberries in Fairy Tale Forest. Donald takes a bite out of Wizard Pete's candy cottage. The pals gather candy to fix it.",
           "url": "https://www.imdb.com/title/tt42029138/?ref_=ttep_ep_28"
-        },
-        {
-          "season": 1,
-          "number": 29,
-          "name": "Mickey's Country Farm",
-          "airdate": "2026-07-30",
-          "summary": "Mickey and friends use their new farm vehicles to build the Fairest Farm Fair ever — hoping Daisy's cowgirl idol, Lasso Lucy, will stop by for a visit.",
-          "url": "https://www.imdb.com/title/tt43387938/?ref_=ttep_ep_29"
         }
       ]
     },
@@ -26710,7 +26766,7 @@
           "number": 25,
           "name": "You Won't See Me Coming",
           "airdate": "2026-09-25",
-          "summary": null,
+          "summary": "An explosive showdown reveals a surprising truth that rocks Duke, while an audacious move captures global attention.",
           "url": "https://www.imdb.com/title/tt38599083/?ref_=ttep_ep_8"
         }
       ]
@@ -29359,6 +29415,54 @@
       "imdbId": "tt13530014",
       "title": "Signs of a Psychopath",
       "episodes": [
+        {
+          "season": 11,
+          "number": 1,
+          "name": "I Guess I am a Maniac",
+          "airdate": "2026-09-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46659730/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 11,
+          "number": 2,
+          "name": "I Dont Belong Out Here",
+          "airdate": "2026-09-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46659820/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 11,
+          "number": 3,
+          "name": "I Cant Stop Myself",
+          "airdate": "2026-09-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46659825/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 11,
+          "number": 4,
+          "name": "Violence is What Im Fixed On",
+          "airdate": "2026-09-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46659839/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 11,
+          "number": 5,
+          "name": "I Think I Can Outsmart God",
+          "airdate": "2026-09-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46659840/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 11,
+          "number": 6,
+          "name": "I Just Wanted to Hurt Her",
+          "airdate": "2026-09-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46659842/?ref_=ttep_ep_6"
+        },
         {
           "season": 10,
           "number": 1,
@@ -33877,7 +33981,7 @@
         {
           "season": 1,
           "number": 23,
-          "name": "Episode #1.6",
+          "name": "Teratoma, Teeth and All",
           "airdate": "2026-09-23",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43744758/?ref_=ttep_ep_6"
@@ -33885,7 +33989,7 @@
         {
           "season": 1,
           "number": 30,
-          "name": "Episode #1.7",
+          "name": "Glass Table + No Pants = ER",
           "airdate": "2026-09-30",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43744764/?ref_=ttep_ep_7"
@@ -34729,7 +34833,7 @@
           "number": 13,
           "name": "Malunion",
           "airdate": "2026-09-13",
-          "summary": null,
+          "summary": "Lucie and Charles travel to Paris seeking her father. They bond until Charles' past emerges. In London, Lucie connects with troubled Sydney Carton. Thérèse Defarge schemes vengeance against the Marquis.",
           "url": "https://www.imdb.com/title/tt41050807/?ref_=ttep_ep_2"
         },
         {
@@ -35010,7 +35114,7 @@
           "number": 5,
           "name": "Homecoming",
           "airdate": "2026-10-06",
-          "summary": null,
+          "summary": "In hopes of ending Lamar's music dreams, Gerty and Big Daddy call a meeting and reveal a shocking family secret that changes everything.",
           "url": "https://www.imdb.com/title/tt43617220/?ref_=ttep_ep_5"
         },
         {
@@ -36396,8 +36500,16 @@
           "number": 13,
           "name": "100 Champions Enter the Ring",
           "airdate": "2026-09-13",
-          "summary": null,
+          "summary": "The new season kicks off with 100 experts battling it for a chance to win $250,000.",
           "url": "https://www.imdb.com/title/tt43677493/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 6,
+          "number": 30,
+          "name": "Episode #6.2",
+          "airdate": "2026-09-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46023380/?ref_=ttep_ep_2"
         },
         {
           "season": 5,
@@ -36890,6 +37002,14 @@
           "airdate": "2026-09-14",
           "summary": "Amy and Billy face off in game one. Eric, a business director, plays Matt, a software engineer, in game two.",
           "url": "https://www.imdb.com/title/tt46065394/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 6,
+          "number": 20,
+          "name": "Battle of the Icons",
+          "airdate": "2026-09-20",
+          "summary": "In S6, Ice-T battles Tony Hawk in a musical duel. Philly dad Nick goes against Name That Tune fanatic, Suria, raising the stakes.",
+          "url": "https://www.imdb.com/title/tt46662360/?ref_=ttep_ep_3"
         },
         {
           "season": 6,
@@ -37584,25 +37704,9 @@
       "episodes": [
         {
           "season": 35,
-          "number": 3,
-          "name": "Viral Hits Night",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt45920345/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 35,
-          "number": 4,
-          "name": "Episode #35.4",
-          "airdate": null,
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt45920346/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 35,
           "number": 5,
-          "name": "Episode #35.5",
-          "airdate": null,
+          "name": "Mariah Carey Night",
+          "airdate": "2026-10-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45920351/?ref_=ttep_ep_5"
         },
@@ -37610,23 +37714,23 @@
           "season": 35,
           "number": 6,
           "name": "Episode #35.6",
-          "airdate": null,
+          "airdate": "2026-10-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45920373/?ref_=ttep_ep_6"
         },
         {
           "season": 35,
           "number": 7,
-          "name": "Episode #35.7",
-          "airdate": null,
+          "name": "Dedication Night",
+          "airdate": "2026-10-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45920379/?ref_=ttep_ep_7"
         },
         {
           "season": 35,
           "number": 8,
-          "name": "Episode #35.8",
-          "airdate": null,
+          "name": "Horror Movie Night",
+          "airdate": "2026-10-27",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45920388/?ref_=ttep_ep_8"
         },
@@ -37656,6 +37760,14 @@
         },
         {
           "season": 35,
+          "number": 12,
+          "name": "Episode #35.12",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46665038/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 35,
           "number": 15,
           "name": "Premiere: Night One",
           "airdate": "2026-09-15",
@@ -37667,8 +37779,24 @@
           "number": 16,
           "name": "DWTS After Party",
           "airdate": "2026-09-16",
-          "summary": "The female celebrities make their competition debut, performing to a number one song from the year they were born.",
+          "summary": "Host Robert Irwin checks in with eliminated contestants and breaks down the best moments with \"Dancing With the Stars\" alumni with never-before-seen footage and special teases.",
           "url": "https://www.imdb.com/title/tt46023267/?ref_=ttep_ep"
+        },
+        {
+          "season": 35,
+          "number": 22,
+          "name": "Viral Hits Night",
+          "airdate": "2026-09-22",
+          "summary": "The 14 remaining couples hit the dance floor with performances inspired by some of the biggest viral hits and unforgettable moments that have taken the internet by storm.",
+          "url": "https://www.imdb.com/title/tt45920345/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 35,
+          "number": 29,
+          "name": "Yacht Music Night",
+          "airdate": "2026-09-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45920346/?ref_=ttep_ep_4"
         },
         {
           "season": 34,
@@ -39049,7 +39177,7 @@
         {
           "season": 2,
           "number": 3,
-          "name": "Episode #2.3",
+          "name": "Rabbits Don't Swim",
           "airdate": "2026-10-03",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602055/?ref_=ttep_ep_3"
@@ -39057,7 +39185,7 @@
         {
           "season": 2,
           "number": 4,
-          "name": "Episode #2.4",
+          "name": "A Portion of My Soul",
           "airdate": "2026-10-10",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602072/?ref_=ttep_ep_4"
@@ -39065,7 +39193,7 @@
         {
           "season": 2,
           "number": 5,
-          "name": "Episode #2.5",
+          "name": "Forgive Me, Father",
           "airdate": "2026-10-17",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602086/?ref_=ttep_ep_5"
@@ -39073,7 +39201,7 @@
         {
           "season": 2,
           "number": 6,
-          "name": "Episode #2.6",
+          "name": "Small Mercies",
           "airdate": "2026-10-24",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602105/?ref_=ttep_ep_6"
@@ -39081,7 +39209,7 @@
         {
           "season": 2,
           "number": 7,
-          "name": "Episode #2.7",
+          "name": "Heart of the Highlands",
           "airdate": "2026-10-31",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602115/?ref_=ttep_ep_7"
@@ -39089,7 +39217,7 @@
         {
           "season": 2,
           "number": 8,
-          "name": "Episode #2.8",
+          "name": "The Dance",
           "airdate": "2026-11-07",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602123/?ref_=ttep_ep_8"
@@ -39097,7 +39225,7 @@
         {
           "season": 2,
           "number": 9,
-          "name": "Episode #2.9",
+          "name": "Another Man's Shadow",
           "airdate": "2026-11-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39745527/?ref_=ttep_ep_9"
@@ -39105,7 +39233,7 @@
         {
           "season": 2,
           "number": 10,
-          "name": "Episode #2.10",
+          "name": "Twelfth Night",
           "airdate": "2026-11-21",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39745529/?ref_=ttep_ep_10"
@@ -40242,7 +40370,7 @@
         {
           "season": 1,
           "number": 4,
-          "name": "Episode #1.4",
+          "name": "Michael Man",
           "airdate": "2026-10-04",
           "summary": "Sam gives Alex the unsavory task of getting Malcom back as a client. Later, Alex leans on Michael at a family dinner.",
           "url": "https://www.imdb.com/title/tt39028208/?ref_=ttep_ep_4"
@@ -40696,7 +40824,7 @@
           "number": 21,
           "name": "Reality Villains",
           "airdate": "2026-09-21",
-          "summary": null,
+          "summary": "Eight notorious reality TV villains compete for $1 million for charity. Who among Omarosa, Richard Hatch, or Tom Sandoval will outwit the rest?",
           "url": "https://www.imdb.com/title/tt42593412/?ref_=ttep_ep_1"
         },
         {
@@ -41940,7 +42068,7 @@
           "number": 11,
           "name": "Episode #13.11",
           "airdate": "2026-10-22",
-          "summary": null,
+          "summary": "When a charming stranger draws close to the Coven, Madison discovers an unexpected side to him.",
           "url": "https://www.imdb.com/title/tt43685219/?ref_=ttep_ep_11"
         },
         {
@@ -41948,7 +42076,7 @@
           "number": 12,
           "name": "Episode #13.12",
           "airdate": "2026-10-22",
-          "summary": null,
+          "summary": "Fiona confronts a family secret, while the Coven prepares for a foe worse than they've ever faced.",
           "url": "https://www.imdb.com/title/tt43718787/?ref_=ttep_ep_12"
         },
         {
@@ -43176,7 +43304,7 @@
           "season": 3,
           "number": 3,
           "name": "Episode #3.3",
-          "airdate": null,
+          "airdate": "2026-10-18",
           "summary": null,
           "url": "https://www.imdb.com/title/tt41712280/?ref_=ttep_ep_3"
         },
@@ -43430,7 +43558,7 @@
           "season": 3,
           "number": 3,
           "name": "How the Other Half Lives",
-          "airdate": "2026-10-18",
+          "airdate": "2026-10-11",
           "summary": "Flute is suspicious of Summers' new cyborg friend. Martinez joins the Satanic church for the childcare perks.",
           "url": "https://www.imdb.com/title/tt36911075/?ref_=ttep_ep_3"
         },
@@ -44423,6 +44551,349 @@
     "tt0133302": {
       "imdbId": "tt0133302",
       "title": "Frontline",
+      "episodes": []
+    },
+    "tt35880295": {
+      "imdbId": "tt35880295",
+      "title": "Ages of Ice",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "The Frozen Heart",
+          "airdate": "2026-09-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38589031/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Episode #1.2",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38589032/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38589033/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt40197357": {
+      "imdbId": "tt40197357",
+      "title": "Scrubs",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 3,
+          "name": "My Ex's Ex",
+          "airdate": "2026-10-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624410/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Episode #2.4",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624411/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Episode #2.5",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624412/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Episode #2.6",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624413/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Episode #2.7",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624414/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Episode #2.8",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624416/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Episode #2.9",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624417/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Episode #2.10",
+          "airdate": null,
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624419/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 30,
+          "name": "My First Time in a While",
+          "airdate": "2026-09-30",
+          "summary": "J.D. enlists Turk and Elliot to help with Dr. Cox's care. Meanwhile, Elliot finds an unexpected burst of confidence years in the making.",
+          "url": "https://www.imdb.com/title/tt42624407/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "My Return",
+          "airdate": "2026-02-25",
+          "summary": "John \"J.D.\" Dorian unexpectedly finds himself back at Sacred Heart, reuniting him with new and old faces.",
+          "url": "https://www.imdb.com/title/tt38789454/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "My 2nd First Day",
+          "airdate": "2026-02-25",
+          "summary": "J.D. navigates a new normal, while Elliot and Turk clash over the budget.",
+          "url": "https://www.imdb.com/title/tt38789459/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "My Rom-Com",
+          "airdate": "2026-03-04",
+          "summary": "Elliot faces a dilemma with a stubborn patient, while J.D. discovers online doctor reviews. Meanwhile, Turk teaches his interns about new surgical technology and unexpected life lessons.",
+          "url": "https://www.imdb.com/title/tt39758825/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "My Poker Face",
+          "airdate": "2026-03-11",
+          "summary": "J.D. organizes a poker night with Turk to recapture old times. Medical and surgical interns compete, and Elliot deals with a patient obsessed with social media.",
+          "url": "https://www.imdb.com/title/tt39758827/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "My Angel",
+          "airdate": "2026-03-18",
+          "summary": "J.D. ventures into the world of post-divorce dating with Turk's guidance; Elliot gets creative when sourcing an organ for a beloved elderly patient; the interns learn about the unspoken rules of the hospital.",
+          "url": "https://www.imdb.com/title/tt39761231/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "My V.I.P.",
+          "airdate": "2026-03-25",
+          "summary": "J.D. and Dr. Park are forced to work together when a member of the hospital board experiences a mysterious health crisis; Turk helps Elliot navigate a newfound romance; the interns practice vulnerability with patients.",
+          "url": "https://www.imdb.com/title/tt39761235/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "My Best Friend's Barbecue",
+          "airdate": "2026-04-01",
+          "summary": "While J.D. is upset to not be invited to Turk and Carla's annual barbecue, he takes the opportunity to nurture his friendship with Carla at work; Turk teaches the surgical interns how to deliver bad news.",
+          "url": "https://www.imdb.com/title/tt39761241/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "My Odds",
+          "airdate": "2026-04-08",
+          "summary": "J.D. has finally hit his stride as the new chief of medicine, only to be shaken by an unexpected visit; Elliot grapples with being a good mentor for the interns while still holding them accountable.",
+          "url": "https://www.imdb.com/title/tt39761246/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "My Celebration",
+          "airdate": "2026-04-15",
+          "summary": "A chaotic day at Sacred Heart forces the doctors and interns to face burnout, life-changing decisions and their relationships with one another.",
+          "url": "https://www.imdb.com/title/tt39761256/?ref_=ttep_ep_9"
+        }
+      ]
+    },
+    "tt1442550": {
+      "imdbId": "tt1442550",
+      "title": "Shark Tank",
+      "episodes": [
+        {
+          "season": 18,
+          "number": 30,
+          "name": "Episode #18.1",
+          "airdate": "2026-09-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43649197/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 17,
+          "number": 2,
+          "name": "Episode #17.2",
+          "airdate": "2025-10-01",
+          "summary": "An anti-snoring pillow; a chair that converts into a football game; an emotional support doll for dogs; ready-to-eat packaged chicken; Michael Strahan makes his Guest Shark debut.",
+          "url": "https://www.imdb.com/title/tt38587232/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 17,
+          "number": 3,
+          "name": "Episode #17.3",
+          "airdate": "2025-10-08",
+          "summary": "A cleaning device for homegrown eggs; a reusable paint tray; a line of superfood seasoning; customizable fundraising blankets; Chip and Joanna Gaines make their Guest Shark debut.",
+          "url": "https://www.imdb.com/title/tt38633263/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 17,
+          "number": 4,
+          "name": "Episode #17.4",
+          "airdate": "2025-10-22",
+          "summary": "Gear for female fighters; an at-home sprout grower; high-protein ice cream bars; an airline for pets and their humans; guest shark Alexis Ohanian.",
+          "url": "https://www.imdb.com/title/tt38646994/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 17,
+          "number": 5,
+          "name": "Episode #17.5",
+          "airdate": "2025-11-05",
+          "summary": "Portable olive snacks, fashionable maternity/labor clothing line, children's first-aid kit, flower-based medicinal teas, and guest investor Allison Ellsworth.",
+          "url": "https://www.imdb.com/title/tt38778216/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 17,
+          "number": 6,
+          "name": "Episode #17.6",
+          "airdate": "2025-11-12",
+          "summary": "A surf helmet, crunchy pasta snacks, 3D-printed stringed instruments, and a DIY signature ramen recipe.",
+          "url": "https://www.imdb.com/title/tt38778218/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 17,
+          "number": 7,
+          "name": "Cash or Coal?: The Sharks Get Into the Holiday Spirit with Festive Pitches & Products",
+          "airdate": "2025-12-10",
+          "summary": "Entrepreneurs showcase seasonal products seeking investment deals with the Sharks.",
+          "url": "https://www.imdb.com/title/tt38870308/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 17,
+          "number": 8,
+          "name": "Urine for a Surprise: Would NFL Legend Michael Strahan use this Personal Product in Public?",
+          "airdate": "2026-01-07",
+          "summary": "A portable relief bottle, precision golf tees, a nosebleed solution, and wellness-focused digital windows are pitched to the Sharks as guest Shark Michael Strahan joins the panel.",
+          "url": "https://www.imdb.com/title/tt38870321/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 17,
+          "number": 9,
+          "name": "Shark Tank: 5 Sharks and a Baby: Can This New Invention Provide Sleep for Newborns and Their Parents?",
+          "airdate": "2026-01-14",
+          "summary": "Entrepreneurs pitch a baby-soothing device, date-sweetened chocolate, a DIY craft studio, and a poolside party service to the Sharks, hoping to secure an investment.",
+          "url": "https://www.imdb.com/title/tt39056799/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 17,
+          "number": 10,
+          "name": "Dating in the Wild: Will the Sharks Say Yes to a Unique Dating App? Alexis Ohanian Returns",
+          "airdate": "2026-01-21",
+          "summary": "Entrepreneurs pitch an e-compass for finding friends without cell service, a no-swipe dating app, customizable screen protectors, and an app for organizing pickup soccer games, as guest Shark Alexis Ohanian returns.",
+          "url": "https://www.imdb.com/title/tt39318422/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 17,
+          "number": 11,
+          "name": "Snooze You Lose: Do the Sharks Wake Up to this Ingenious New Dorm Bed? Chip & Joanna Gaines Return",
+          "airdate": "2026-01-28",
+          "summary": "Guest Sharks Chip and Joanna Gaines return to the Tank as entrepreneurs pitch a dorm bed extender, a marriage proposal-planning service, a backyard game mashup, and a rechargeable cordless box cutter.",
+          "url": "https://www.imdb.com/title/tt39319863/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 17,
+          "number": 12,
+          "name": "New Guest Shark: Fawn Weaver, Founder of One of the Fastest Growing Premium Whiskeys Joins the Tank!",
+          "airdate": "2026-03-04",
+          "summary": "Cranberry wellness shots; a cozy chair cover; shoelaces that stay tied; kitty litter made from olive pits; Fawn Weaver guest judges.",
+          "url": "https://www.imdb.com/title/tt40449352/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 17,
+          "number": 13,
+          "name": "Pop or Fizzle? Will Guest Shark, Beverage Billionaire Allison Ellsworth Take a Chance on a Soda Newbie?",
+          "airdate": "2026-03-11",
+          "summary": "Entrepreneurs pitch the Sharks on aloe vera soda with low sugar, a package-free grocery store, recycled golf balls, and tangle-free hair ties. Allison Ellsworth makes a return appearance.",
+          "url": "https://www.imdb.com/title/tt40593145/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 17,
+          "number": 14,
+          "name": "Girl Power: Will Guest Shark, Beverage Mogul Fawn Weaver, Buy Into a Beer Made for Women?",
+          "airdate": "2026-03-18",
+          "summary": "Entrepreneurs pitch the Sharks innovative products including bloat-free beer, an anti-snoring straw, mushroom earplugs, and expressive press-on nails. Fawn Weaver makes a return appearance.",
+          "url": "https://www.imdb.com/title/tt40593146/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 17,
+          "number": 15,
+          "name": "Good Hang!: Mark Cuban's Back with an Exciting Update. Plus, Will a Picture-Hanging Invention Hook a Shark?",
+          "airdate": "2026-03-25",
+          "summary": "Entrepreneurs pitch the Sharks innovative ideas: interactive tutoring centers, a picture-hanging tool, a car camping bed, and oversized collapsible building blocks. Mark Cuban gives a business update.",
+          "url": "https://www.imdb.com/title/tt40593147/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 17,
+          "number": 16,
+          "name": "The Sharks Battle Over a Game-Changer Product for Athletes. Who Wins?",
+          "airdate": "2026-04-08",
+          "summary": "An app to curb phone distractions; a revolutionary baseball bat grip; all-fruit tropical ice pops; clean glam products for the next generation.",
+          "url": "https://www.imdb.com/title/tt41597249/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 17,
+          "number": 17,
+          "name": "Million Dollar Offer: See Which Shark Makes a Million Dollar Offer for a Never-Before-Seen Idea!",
+          "airdate": "2026-04-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41610459/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 17,
+          "number": 18,
+          "name": "Season Finale: Which Shark Will Get a Slice of a Unique Family Based Pizza Business? Plus an Update on Pete Davidson's Sock Company.",
+          "airdate": "2026-04-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41610645/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 17,
+          "number": 24,
+          "name": "Episode #17.1",
+          "airdate": "2025-09-24",
+          "summary": "Expressive eco-friendly socks; shock-absorbing shoes; a high-tech jet ski; a line of low-alcohol beer.",
+          "url": "https://www.imdb.com/title/tt36885473/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt1319900": {
+      "imdbId": "tt1319900",
+      "title": "Ghost Adventures",
       "episodes": []
     }
   }
