@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T09:40:20.038Z",
+  "generatedAt": "2026-09-23T09:47:37.665Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -3514,16 +3514,16 @@
           "name": "Nani"
         },
         {
-          "id": "nm5644335",
-          "name": "Raghav Juyal"
-        },
-        {
           "id": "nm11469931",
           "name": "Kayadu Lohar"
         },
         {
-          "id": "nm0006764",
-          "name": "Sonali Kulkarni"
+          "id": "nm5644335",
+          "name": "Raghav Juyal"
+        },
+        {
+          "id": "nm7146337",
+          "name": "Keerthy Suresh"
         }
       ],
       "label": "Sep 24, 2026"
@@ -4328,16 +4328,16 @@
           "name": "Jessica Chastain"
         },
         {
+          "id": "nm1901842",
+          "name": "Dichen Lachman"
+        },
+        {
+          "id": "nm0000261",
+          "name": "Karen Allen"
+        },
+        {
           "id": "nm0243231",
           "name": "Jay Duplass"
-        },
-        {
-          "id": "nm10995094",
-          "name": "Arabella Olivia Clark"
-        },
-        {
-          "id": "nm4363958",
-          "name": "Alejandro Nieves"
         }
       ],
       "label": "Oct 09, 2026"
@@ -4481,6 +4481,36 @@
         {
           "id": "nm8822643",
           "name": "Barret Coates"
+        }
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt29256561",
+      "title": "The Beast",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTNmMTRlNTItYWExMC00ZDRjLWI1ZWItOGRlNGJhMDE0NTQ0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0000168",
+          "name": "Samuel L. Jackson"
+        },
+        {
+          "id": "nm1172478",
+          "name": "Joel Kinnaman"
+        },
+        {
+          "id": "nm1298458",
+          "name": "Guy Burnet"
+        },
+        {
+          "id": "nm2151126",
+          "name": "Eoin Macken"
         }
       ],
       "label": "Oct 09, 2026"
@@ -4789,6 +4819,36 @@
       "label": "Oct 16, 2026"
     },
     {
+      "id": "tt39233100",
+      "title": "Tazza: The Song of Beelzebub",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2YzMDNiNmMtNWMwMi00YTA4LWIyYzItZjRiMGY0MzM5NDdkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm5374796",
+          "name": "Byun Yo-han"
+        },
+        {
+          "id": "nm15799690",
+          "name": "Roh Jae-won"
+        },
+        {
+          "id": "nm3834378",
+          "name": "Ayaka Miyoshi"
+        },
+        {
+          "id": "nm17769956",
+          "name": "Yoo Da Hye"
+        }
+      ],
+      "label": "Oct 16, 2026"
+    },
+    {
       "id": "tt14371256",
       "title": "Klara and the Sun",
       "image": "https://m.media-amazon.com/images/M/MV5BNjQ1YzgwMTMtZDRhNC00MDE0LWFmODctM2ZlNjg5MmNiMDI1XkEyXkFqcGc@._V1_.jpg",
@@ -4836,12 +4896,12 @@
           "name": "Eddie Marsan"
         },
         {
-          "id": "nm7609875",
-          "name": "Naomi Ackie"
-        },
-        {
           "id": "nm1540404",
           "name": "Max Minghella"
+        },
+        {
+          "id": "nm4151189",
+          "name": "Tom Rhys Harries"
         }
       ],
       "label": "Oct 23, 2026"
@@ -5127,8 +5187,8 @@
           "name": "Marisa Tomei"
         },
         {
-          "id": "nm0000609",
-          "name": "Ving Rhames"
+          "id": "nm2706152",
+          "name": "Stella Stocker"
         },
         {
           "id": "nm0004821",
@@ -5241,6 +5301,23 @@
         {
           "id": "nm2254878",
           "name": "Sixx King"
+        }
+      ],
+      "label": "Oct 30, 2026"
+    },
+    {
+      "id": "tt45591708",
+      "title": "BTS World Tour 'Arirang' in São Paulo: Live Viewing",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI5ZmI5NDgtZjY1NS00NzM5LWE4MTEtMTJmMzMzYTFiNzIwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm7808003",
+          "name": "BTS"
         }
       ],
       "label": "Oct 30, 2026"
@@ -5483,7 +5560,7 @@
     {
       "id": "tt27988879",
       "title": "Ramayana",
-      "image": "https://m.media-amazon.com/images/M/MV5BZjc3Zjg4ZDEtMGYzYS00YjNhLWFmOGQtMDhmMjExZDI4OGYzXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWE4NWVmZjItN2Y0ZC00YmMzLThhNWEtM2VkZjA3MmFlNjdmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -5608,12 +5685,12 @@
       ],
       "people": [
         {
-          "id": "nm2140860",
-          "name": "Maika Monroe"
-        },
-        {
           "id": "nm5057169",
           "name": "Thomasin McKenzie"
+        },
+        {
+          "id": "nm2140860",
+          "name": "Maika Monroe"
         },
         {
           "id": "nm0005042",
@@ -5629,7 +5706,7 @@
     {
       "id": "tt35866986",
       "title": "How to Rob a Bank",
-      "image": "https://m.media-amazon.com/images/M/MV5BODY5YWIzZTAtMzA5OC00MDgwLTgxZjQtZGIwZTg2YTk3YWE1XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk5MTAxYTItZjUzMC00NDk3LWI0OWMtZjM0YTU3ODUyMDk3XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -6260,20 +6337,20 @@
       ],
       "people": [
         {
-          "id": "nm0068338",
-          "name": "Kristen Bell"
-        },
-        {
-          "id": "nm0001592",
-          "name": "Joe Pantoliano"
-        },
-        {
           "id": "nm1092086",
           "name": "David Harbour"
         },
         {
+          "id": "nm0068338",
+          "name": "Kristen Bell"
+        },
+        {
           "id": "nm0364813",
           "name": "Jared Harris"
+        },
+        {
+          "id": "nm0001592",
+          "name": "Joe Pantoliano"
         }
       ],
       "label": "Dec 04, 2026"
@@ -6738,16 +6815,16 @@
           "name": "Dwayne Johnson"
         },
         {
-          "id": "nm1055302",
-          "name": "Rhys Darby"
-        },
-        {
           "id": "nm2394794",
           "name": "Karen Gillan"
         },
         {
           "id": "nm0085312",
           "name": "Jack Black"
+        },
+        {
+          "id": "nm1055302",
+          "name": "Rhys Darby"
         }
       ],
       "label": "Dec 25, 2026"
@@ -6768,12 +6845,12 @@
           "name": "David Corenswet"
         },
         {
-          "id": "nm0472710",
-          "name": "David Krumholtz"
-        },
-        {
           "id": "nm8908475",
           "name": "Isabel May"
+        },
+        {
+          "id": "nm0472710",
+          "name": "David Krumholtz"
         },
         {
           "id": "nm0788335",
@@ -6923,12 +7000,12 @@
           "name": "Jason Statham"
         },
         {
-          "id": "nm2962353",
-          "name": "Pom Klementieff"
-        },
-        {
           "id": "nm0000460",
           "name": "Jeremy Irons"
+        },
+        {
+          "id": "nm2962353",
+          "name": "Pom Klementieff"
         },
         {
           "id": "nm8287501",
@@ -7711,16 +7788,16 @@
           "name": "Keanu Reeves"
         },
         {
+          "id": "nm0005188",
+          "name": "James Marsden"
+        },
+        {
           "id": "nm0000120",
           "name": "Jim Carrey"
         },
         {
           "id": "nm0252961",
           "name": "Idris Elba"
-        },
-        {
-          "id": "nm0005188",
-          "name": "James Marsden"
         }
       ],
       "label": "Mar 19, 2027"
@@ -8101,12 +8178,12 @@
           "name": "Jaakko Ohtonen"
         },
         {
-          "id": "nm12484660",
-          "name": "Phoenix Laroche"
-        },
-        {
           "id": "nm1249052",
           "name": "Riccardo Scamarcio"
+        },
+        {
+          "id": "nm12484660",
+          "name": "Phoenix Laroche"
         }
       ],
       "label": "May 06, 2027"
@@ -8514,6 +8591,10 @@
       ],
       "people": [
         {
+          "id": "nm3043279",
+          "name": "Vicky Krieps"
+        },
+        {
           "id": "nm4834815",
           "name": "Monica Barbaro"
         },
@@ -8524,10 +8605,6 @@
         {
           "id": "nm0177896",
           "name": "Bradley Cooper"
-        },
-        {
-          "id": "nm0609944",
-          "name": "Wagner Moura"
         }
       ],
       "label": "Jun 25, 2027"
