@@ -44,12 +44,12 @@ export function parseUpcomingGames(payload, now = new Date()) {
       const homeTeam = `${game.homeTeam?.teamCity || ''} ${game.homeTeam?.teamName || ''}`.trim();
       const awayTeam = `${game.awayTeam?.teamCity || ''} ${game.awayTeam?.teamName || ''}`.trim();
       const localDate = game.gameDateTimeEst?.slice(0, 10);
+      const gameDate = game.gameDate?.slice(0, 10);
       return {
         id: game.gameId,
         date: game.gameDateTimeUTC,
-        officialDate: /^\d{4}-\d{2}-\d{2}$/.test(localDate || '')
-          ? localDate
-          : game.gameDateTimeUTC.slice(0, 10),
+        officialDate: [gameDate, localDate].find(date => /^\d{4}-\d{2}-\d{2}$/.test(date || ''))
+          || game.gameDateTimeUTC.slice(0, 10),
         name: `${homeTeam} vs ${awayTeam}`,
         homeTeam,
         awayTeam,
@@ -76,6 +76,22 @@ function belongsToTeam(game, team) {
   return names.some(name => gameNames.includes(name) || tricodes.includes(name));
 }
 
+function eventsEqual(first, second) {
+  const withoutUpdateMetadata = events => events.map(({ updatedAt, ...event }) => event);
+  return JSON.stringify(withoutUpdateMetadata(first)) === JSON.stringify(withoutUpdateMetadata(second));
+}
+
+function retainEventUpdateMetadata(events, existingEvents, updatedAt) {
+  const existingById = new Map(existingEvents.map(event => [event.idEvent, event]));
+  return events.map(event => {
+    const existing = existingById.get(event.idEvent);
+    if (existing && eventsEqual([event], [existing])) {
+      return { ...event, updatedAt: existing.updatedAt || updatedAt };
+    }
+    return { ...event, updatedAt };
+  });
+}
+
 export async function fetchNbaSchedules({
   fetchImpl = globalThis.fetch,
   outputDir = SUPPLEMENTAL_DATA_DIR,
@@ -91,35 +107,61 @@ export async function fetchNbaSchedules({
   if (teams.length < 30) throw new Error(`Expected all 30 NBA teams, received ${teams.length}`);
   if (games.length === 0) throw new Error('NBA schedule contained no upcoming games');
 
+  for (const team of teams) {
+    if (!/^\d{6}$/.test(String(team.idTeam || ''))) {
+      throw new Error(`Invalid NBA team ID for ${team.strTeam || 'unknown team'}: ${team.idTeam}`);
+    }
+  }
+
+  const unmatchedGames = games.filter(game => teams.filter(team => belongsToTeam(game, team)).length !== 2);
+  if (unmatchedGames.length > 0) {
+    throw new Error(`Could not match both NBA teams for ${unmatchedGames.length} upcoming games`);
+  }
+
   await fs.mkdir(outputDir, { recursive: true });
-  let savedTeams = 0;
+  let activeTeams = 0;
+  let writtenTeams = 0;
+  let skippedTeams = 0;
   for (const team of teams) {
     const teamGames = games.filter(game => belongsToTeam(game, team));
     if (teamGames.length === 0) {
       console.warn(`No upcoming games matched ${team.strTeam}; skipping its existing file.`);
+      skippedTeams++;
       continue;
     }
 
+    activeTeams++;
+    const filePath = path.join(outputDir, `${team.idTeam}.json`);
     const events = teamGames.map(game => normalizeScrapedEvent(game, team.strTeam));
-    await fs.writeFile(path.join(outputDir, `${team.idTeam}.json`), `${JSON.stringify({
+    let existing = null;
+    try {
+      existing = JSON.parse(await fs.readFile(filePath, 'utf8'));
+    } catch (error) {
+      if (error.code !== 'ENOENT') throw error;
+    }
+
+    if (existing && eventsEqual(events, existing.events || [])) {
+      continue;
+    }
+
+    const updatedAt = now.toISOString();
+    const eventsWithMetadata = retainEventUpdateMetadata(events, existing?.events || [], updatedAt);
+    await fs.writeFile(filePath, `${JSON.stringify({
       teamId: team.idTeam,
       teamName: team.strTeam,
-      updatedAt: now.toISOString(),
-      events
+      updatedAt,
+      events: eventsWithMetadata
     }, null, 2)}\n`);
-    savedTeams++;
+    writtenTeams++;
   }
 
-  if (savedTeams !== teams.length) {
-    throw new Error(`Saved schedules for ${savedTeams} of ${teams.length} NBA teams`);
-  }
-  return { teams: savedTeams, games: games.length };
+  return { teams: teams.length, activeTeams, writtenTeams, skippedTeams, games: games.length };
 }
 
 async function main() {
   console.log('Fetching every upcoming NBA game...');
   const result = await fetchNbaSchedules();
-  console.log(`Saved ${result.games} upcoming games across ${result.teams} NBA teams.`);
+  console.log(`Found ${result.games} upcoming games for ${result.activeTeams} NBA teams; wrote ${result.writtenTeams} schedules and retained ${result.skippedTeams} empty schedules.`);
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
