@@ -89,11 +89,6 @@
     "name": "Do You Want to Build a... Music Video?",
     "verifiedAt": "2026-09-16T17:32:23.278Z"
   },
-  "The View-30-11": {
-    "airdate": "2026-09-22",
-    "name": "Maisie Williams",
-    "verifiedAt": "2026-09-18T16:58:15.276Z"
-  },
   "The View-30-14": {
     "airdate": "2026-09-25",
     "name": "Colin Kaepernick/View Your Deal",
@@ -183,5 +178,45 @@
     "airdate": "2026-10-04",
     "name": "Father's Day Fury",
     "verifiedAt": "2026-09-21T18:31:53.309Z"
+  },
+  "Outlander: Blood of My Blood-2-3": {
+    "airdate": "2026-10-02",
+    "name": "Episode #2.3",
+    "verifiedAt": "2026-09-23T17:47:13.643Z"
+  },
+  "Outlander: Blood of My Blood-2-4": {
+    "airdate": "2026-10-09",
+    "name": "Episode #2.4",
+    "verifiedAt": "2026-09-23T17:47:16.444Z"
+  },
+  "Outlander: Blood of My Blood-2-5": {
+    "airdate": "2026-10-16",
+    "name": "Episode #2.5",
+    "verifiedAt": "2026-09-23T17:47:19.146Z"
+  },
+  "Outlander: Blood of My Blood-2-6": {
+    "airdate": "2026-10-23",
+    "name": "Episode #2.6",
+    "verifiedAt": "2026-09-23T17:47:21.735Z"
+  },
+  "Outlander: Blood of My Blood-2-7": {
+    "airdate": "2026-10-30",
+    "name": "Episode #2.7",
+    "verifiedAt": "2026-09-23T17:47:24.366Z"
+  },
+  "Outlander: Blood of My Blood-2-8": {
+    "airdate": "2026-11-06",
+    "name": "Episode #2.8",
+    "verifiedAt": "2026-09-23T17:47:27.080Z"
+  },
+  "Outlander: Blood of My Blood-2-9": {
+    "airdate": "2026-11-13",
+    "name": "Episode #2.9",
+    "verifiedAt": "2026-09-23T17:47:29.836Z"
+  },
+  "Outlander: Blood of My Blood-2-10": {
+    "airdate": "2026-11-20",
+    "name": "Episode #2.10",
+    "verifiedAt": "2026-09-23T17:47:32.476Z"
   }
 }
