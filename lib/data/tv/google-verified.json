@@ -1,16 +1,11 @@
 {
-  "Tyler Perry's The Oval-7-21": {
-    "airdate": "2026-09-23",
-    "name": "Agent Stan Bennett",
-    "verifiedAt": "2026-07-29T15:10:25.169Z"
-  },
   "The Ark-3-10": {
     "airdate": "2026-09-30",
     "name": "Episode #3.7",
     "verifiedAt": "2026-08-18T13:44:24.308Z"
   },
   "The Ark-3-12": {
-    "airdate": "2026-10-14",
+    "airdate": "2026-10-15",
     "name": "Episode #3.12",
     "verifiedAt": "2026-08-18T13:44:26.909Z"
   },
@@ -19,14 +14,9 @@
     "name": "Grand Slam Paris 2026",
     "verifiedAt": "2026-08-28T22:55:13.598Z"
   },
-  "AEW: Collision-4-42": {
-    "airdate": "2026-09-23",
-    "name": "Episode #4.42",
-    "verifiedAt": "2026-08-28T22:56:46.292Z"
-  },
   "AEW: Collision-4-43": {
-    "airdate": "2026-09-26",
-    "name": "Grand Slam Paris 2026",
+    "airdate": "2026-10-03",
+    "name": "Episode #4.43",
     "verifiedAt": "2026-08-28T22:56:49.253Z"
   },
   "Tyler Perry's The Oval-7-22": {
@@ -48,16 +38,6 @@
     "airdate": "2026-10-23",
     "name": "Storm of Deceit",
     "verifiedAt": "2026-09-12T16:01:26.198Z"
-  },
-  "The Ark-3-9": {
-    "airdate": "2026-09-23",
-    "name": "I Have Nightmares",
-    "verifiedAt": "2026-09-12T16:02:04.444Z"
-  },
-  "The Great American Road Rally: Celebrity Edition-1-2": {
-    "airdate": "2026-09-23",
-    "name": "Episode #1.2",
-    "verifiedAt": "2026-09-12T16:02:40.646Z"
   },
   "The Great American Road Rally: Celebrity Edition-1-3": {
     "airdate": "2026-09-30",
@@ -140,7 +120,7 @@
     "verifiedAt": "2026-09-19T16:17:09.261Z"
   },
   "WWE Friday Night SmackDown-27-50": {
-    "airdate": "2026-12-11",
+    "airdate": "2025-12-12",
     "name": "Terror of Terror Twins",
     "verifiedAt": "2026-09-19T16:17:11.667Z"
   },
@@ -150,17 +130,17 @@
     "verifiedAt": "2026-09-19T16:18:23.313Z"
   },
   "Austin City Limits-52-4": {
-    "airdate": "2026-09-26",
+    "airdate": "2026-09-04",
     "name": "Carlos Vives y La Provincia",
     "verifiedAt": "2026-09-19T16:18:26.425Z"
   },
   "Marble Hall Murders-1-6": {
-    "airdate": "2026-10-11",
+    "airdate": "2026-09-06",
     "name": "Episode #1.1",
     "verifiedAt": "2026-09-19T16:18:29.711Z"
   },
   "The Drop: A Snowfall Saga-1-8": {
-    "airdate": "2026-10-27",
+    "airdate": "2026-09-08",
     "name": "Click Pop",
     "verifiedAt": "2026-09-19T16:18:34.242Z"
   },
@@ -181,42 +161,42 @@
   },
   "Outlander: Blood of My Blood-2-3": {
     "airdate": "2026-10-02",
-    "name": "Episode #2.3",
+    "name": "Rabbits Don't Swim",
     "verifiedAt": "2026-09-23T17:47:13.643Z"
   },
   "Outlander: Blood of My Blood-2-4": {
     "airdate": "2026-10-09",
-    "name": "Episode #2.4",
+    "name": "A Portion of My Soul",
     "verifiedAt": "2026-09-23T17:47:16.444Z"
   },
   "Outlander: Blood of My Blood-2-5": {
     "airdate": "2026-10-16",
-    "name": "Episode #2.5",
+    "name": "Forgive Me, Father",
     "verifiedAt": "2026-09-23T17:47:19.146Z"
   },
   "Outlander: Blood of My Blood-2-6": {
     "airdate": "2026-10-23",
-    "name": "Episode #2.6",
+    "name": "Small Mercies",
     "verifiedAt": "2026-09-23T17:47:21.735Z"
   },
   "Outlander: Blood of My Blood-2-7": {
     "airdate": "2026-10-30",
-    "name": "Episode #2.7",
+    "name": "Heart of the Highlands",
     "verifiedAt": "2026-09-23T17:47:24.366Z"
   },
   "Outlander: Blood of My Blood-2-8": {
     "airdate": "2026-11-06",
-    "name": "Episode #2.8",
+    "name": "The Dance",
     "verifiedAt": "2026-09-23T17:47:27.080Z"
   },
   "Outlander: Blood of My Blood-2-9": {
     "airdate": "2026-11-13",
-    "name": "Episode #2.9",
+    "name": "Another Man's Shadow",
     "verifiedAt": "2026-09-23T17:47:29.836Z"
   },
   "Outlander: Blood of My Blood-2-10": {
     "airdate": "2026-11-20",
-    "name": "Episode #2.10",
+    "name": "Twelfth Night",
     "verifiedAt": "2026-09-23T17:47:32.476Z"
   }
 }
