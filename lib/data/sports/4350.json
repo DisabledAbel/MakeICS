@@ -2162,7 +2162,7 @@
     {
       "idEvent": "2487536",
       "idAPIfootball": "1550979",
-      "strTimestamp": "2026-09-27T01:00:00",
+      "strTimestamp": "2026-09-27T03:10:00",
       "strEvent": "Tigres UANL vs Puebla",
       "strEventAlternate": "Puebla @ Tigres UANL",
       "strFilename": "Mexican Liga MX 2026-09-27 Tigres UANL vs Puebla",
@@ -2180,7 +2180,7 @@
       "strWeather": "",
       "dateEvent": "2026-09-27",
       "dateEventLocal": "2026-09-26",
-      "strTime": "01:00:00",
+      "strTime": "03:10:00",
       "strTimeLocal": "20:00:00",
       "strGroup": "",
       "idHomeTeam": "134197",
