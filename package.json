@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "check:feeds": "node scripts/check-feed-health.js",
+    "check:freshness": "node scripts/check-schedule-freshness.js",
     "dev": "node server.js",
     "start": "node server.js",
     "test": "node --test"
