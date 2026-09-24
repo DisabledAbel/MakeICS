@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
-      FEED_HEALTH_BASE_URL: ${{ vars.FEED_HEALTH_BASE_URL || 'https://makeics.vercel.app' }}
+      FEED_HEALTH_BASE_URL: ${{ vars.FEED_HEALTH_BASE_URL || 'https://make-ics.vercel.app' }}
       FEED_HEALTH_REPORT: ${{ github.workspace }}/feed-health.json
     steps:
       - uses: actions/checkout@v4
