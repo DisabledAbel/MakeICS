@@ -27,6 +27,15 @@ test('rejects impossible and malformed dates', () => {
   assert.equal(errors.filter(message => message.includes('invalid date')).length, 2);
 });
 
+test('requires strict ISO date prefixes on timestamps', () => {
+  const current = schedule([
+    { idEvent: 'loose', strTimestamp: 'May 2, 2026 10:00 UTC', strLeague: 'NBA' },
+    { idEvent: 'impossible', strTimestamp: '2026-02-30T10:00:00Z', strLeague: 'NBA' }
+  ]);
+  const errors = validateData({ file: 'team.json', current, rule: SOURCE_RULES.nba, now });
+  assert.equal(errors.filter(message => message.includes('invalid date')).length, 2);
+});
+
 test('rejects a suspicious drop in upcoming events', () => {
   const previous = schedule(Array.from({ length: 10 }, (_, i) => event(String(i), `2026-06-${String(i + 1).padStart(2, '0')}`)));
   const errors = validateData({ file: 'team.json', current: schedule([event('0', '2026-06-01')]), previous, rule: SOURCE_RULES.nba, now });
