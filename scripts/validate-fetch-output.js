@@ -31,9 +31,16 @@ function eventDate(item) {
 }
 
 function validEventDate(item) {
-  const value = eventDate(item);
-  if (typeof value !== 'string' || !value) return false;
-  return /^\d{4}-\d{2}-\d{2}$/.test(value) ? strictDate(value) : Number.isFinite(Date.parse(value));
+  const dateOnly = item.dateEvent || item.airdate;
+  if (dateOnly && !strictDate(dateOnly)) return false;
+
+  if (item.strTimestamp) {
+    const isoDate = /^(\d{4}-\d{2}-\d{2})T/.exec(item.strTimestamp)?.[1];
+    if (!isoDate || !strictDate(isoDate) || !Number.isFinite(Date.parse(item.strTimestamp))) return false;
+  }
+
+  if (item.releaseDate && !Number.isFinite(Date.parse(item.releaseDate))) return false;
+  return Boolean(dateOnly || item.strTimestamp || item.releaseDate);
 }
 
 function records(data) {
@@ -87,7 +94,7 @@ export function validateData({ file, current, previous = null, rule, now = new D
 }
 
 async function git(args, options = {}) {
-  return (await execFile('git', args, { encoding: 'utf8', ...options })).stdout;
+  return (await execFile('git', args, { encoding: 'utf8', maxBuffer: 50 * 1024 * 1024, ...options })).stdout;
 }
 
 async function changedDataFiles() {
@@ -99,11 +106,9 @@ async function changedDataFiles() {
 }
 
 async function previousJson(file) {
-  try {
-    return JSON.parse(await git(['show', `HEAD:${file}`]));
-  } catch {
-    return null;
-  }
+  const match = await git(['ls-tree', '--name-only', 'HEAD', '--', file]);
+  if (!match.trim()) return null;
+  return JSON.parse(await git(['show', `HEAD:${file}`]));
 }
 
 async function restore(files) {

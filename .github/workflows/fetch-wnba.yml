@@ -45,12 +45,21 @@ jobs:
         run: node scripts/fetch-wnba.js
         continue-on-error: true
 
+      - name: Restore partial WNBA output after fetch failure
+        if: steps.fetch-wnba.outcome != 'success'
+        run: |
+          git restore --worktree -- lib/data/sports/supplemental
+          git clean -f -- lib/data/sports/supplemental
+
       - name: Validate and stage WNBA data
+        id: validate-wnba
         if: steps.fetch-wnba.outcome == 'success'
         run: node scripts/validate-fetch-output.js wnba --stage
+        continue-on-error: true
 
       - name: Commit and Push WNBA
-        if: steps.fetch-wnba.outcome == 'success'
+        id: commit-wnba
+        if: steps.fetch-wnba.outcome == 'success' && steps.validate-wnba.outcome == 'success'
         env:
           REF_NAME: ${{ github.ref_name }}
         run: |
@@ -68,15 +77,18 @@ jobs:
 
       - name: Fetch Portland Fire Schedule
         id: fetch-portland-fire
+        if: always() && steps.commit-wnba.outcome != 'failure'
         run: node scripts/fetch-portland-fire.js
         continue-on-error: true
 
       - name: Validate and stage Portland Fire data
+        id: validate-portland-fire
         if: steps.fetch-portland-fire.outcome == 'success'
         run: node scripts/validate-fetch-output.js portland-fire --stage
+        continue-on-error: true
 
       - name: Commit and Push Portland Fire
-        if: steps.fetch-portland-fire.outcome == 'success'
+        if: steps.fetch-portland-fire.outcome == 'success' && steps.validate-portland-fire.outcome == 'success'
         env:
           REF_NAME: ${{ github.ref_name }}
         run: |
@@ -93,7 +105,7 @@ jobs:
           git push origin HEAD:"$REF_NAME"
 
       - name: Check for failures
-        if: steps.fetch-wnba.outcome != 'success' || steps.fetch-portland-fire.outcome != 'success'
+        if: always() && (steps.fetch-wnba.outcome != 'success' || steps.validate-wnba.outcome != 'success' || steps.fetch-portland-fire.outcome != 'success' || steps.validate-portland-fire.outcome != 'success')
         run: |
           echo "One or more fetch steps failed."
           exit 1
