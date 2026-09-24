@@ -1,6 +1,11 @@
 name: Fetch NBA Schedules
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/fetch-nba.js
+      - .github/workflows/fetch-nba.yml
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:

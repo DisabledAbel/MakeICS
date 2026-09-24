@@ -80,6 +80,7 @@ test('NBA timeout falls back to all ESPN team schedules, deduplicates games and 
     assert.equal(result.games, 1);
     assert.equal(result.writtenTeams, 2);
     assert.equal(calls.filter(url => url.includes('/schedule?season=2027')).length, 90);
+    assert.ok(calls.some(url => url.startsWith('https://site.web.api.espn.com/')));
     const filePath = path.join(outputDir, '100000.json');
     const data = JSON.parse(await fs.readFile(filePath, 'utf8'));
     assert.equal(data.events[0].dateEvent, '2026-10-02');

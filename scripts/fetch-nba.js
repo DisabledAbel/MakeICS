@@ -7,7 +7,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SUPPLEMENTAL_DATA_DIR = path.join(__dirname, '../lib/data/sports/supplemental');
 const SPORTSDB_TEAMS_URL = 'https://www.thesportsdb.com/api/v1/json/3/search_all_teams.php?l=NBA';
 const NBA_SCHEDULE_URL = 'https://cdn.nba.com/static/json/staticData/scheduleLeagueV2_1.json';
-const ESPN_BASE_URL = 'https://site.api.espn.com/apis/site/v2/sports/basketball/nba';
+// ESPN's web API serves the same team schedule data when its site API denies CI runners.
+const ESPN_BASE_URL = 'https://site.web.api.espn.com/apis/site/v2/sports/basketball/nba';
 const FETCH_TIMEOUT_MS = 30_000;
 const NBA_LEAGUE_FILE = path.join(__dirname, '../lib/data/sports/4387.json');
 
@@ -208,7 +209,12 @@ export async function fetchNbaSchedules({
 
   let games;
   try {
-    games = parseUpcomingGames(await fetchJson(NBA_SCHEDULE_URL, fetchImpl, requestOptions), now);
+    // The NBA CDN can hang on CI; move promptly to the complete ESPN schedule.
+    games = parseUpcomingGames(await fetchJson(NBA_SCHEDULE_URL, fetchImpl, {
+      timeoutMs: 12_000,
+      attempts: 2,
+      ...requestOptions
+    }), now);
     if (games.length === 0) throw new Error('NBA schedule contained no upcoming games');
   } catch (error) {
     console.warn(`NBA feed unavailable: ${error.message}. Trying ESPN team schedules.`);
