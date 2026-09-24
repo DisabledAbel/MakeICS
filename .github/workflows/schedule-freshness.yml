@@ -1,0 +1,60 @@
+name: Schedule Source Freshness
+
+on:
+  schedule:
+    - cron: '43 14 * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: read
+  contents: read
+  issues: write
+
+concurrency:
+  group: schedule-source-freshness
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SCHEDULE_FRESHNESS_REPORT: ${{ runner.temp }}/schedule-freshness.json
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci
+      - name: Check source freshness
+        id: freshness
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: npm run check:freshness
+      - name: Synchronize schedule-freshness issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const crypto = require('crypto');
+            const marker = '<!-- makeics-schedule-freshness -->';
+            const report = JSON.parse(fs.readFileSync(process.env.SCHEDULE_FRESHNESS_REPORT, 'utf8'));
+            const stale = report.results.filter(item => item.status === 'stale');
+            // The set of stale sources is the status. Volatile timestamps and
+            // horizon wording must not cause a duplicate issue update daily.
+            const fingerprint = crypto.createHash('sha256').update(JSON.stringify(stale.map(item => item.id).sort())).digest('hex');
+            const issues = await github.paginate(github.rest.issues.listForRepo, { owner: context.repo.owner, repo: context.repo.repo, state: 'all', per_page: 100 });
+            const issue = issues.find(item => !item.pull_request && item.body?.includes(marker));
+            if (stale.length) {
+              const rows = stale.map(item => `| ${item.source} | ${item.lastSuccess || 'Never'} | ${item.signal.replaceAll('|', '\\|')} | ${item.reason.replaceAll('|', '\\|')} |`).join('\n');
+              const body = `${marker}\n<!-- fingerprint:${fingerprint} -->\nThe daily source-data check found ${stale.length} stale schedule source(s). This is separate from deployed calendar feed health.\n\n| Source | Last confirmed successful fetch | Freshness signal | Why flagged |\n| --- | --- | --- | --- |\n${rows}\n\nWorkflow: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+              if (!issue) await github.rest.issues.create({ owner: context.repo.owner, repo: context.repo.repo, title: 'Stale schedule source data', body });
+              else if (issue.state === 'closed' || !issue.body.includes(`<!-- fingerprint:${fingerprint} -->`)) await github.rest.issues.update({ owner: context.repo.owner, repo: context.repo.repo, issue_number: issue.number, title: 'Stale schedule source data', body, state: 'open' });
+            } else if (issue?.state === 'open') await github.rest.issues.update({ owner: context.repo.owner, repo: context.repo.repo, issue_number: issue.number, state: 'closed' });
+      - name: Fail when a source is stale
+        if: steps.freshness.outcome == 'failure'
+        run: exit 1
