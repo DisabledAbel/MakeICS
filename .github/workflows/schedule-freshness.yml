@@ -18,8 +18,6 @@ jobs:
   check:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    env:
-      SCHEDULE_FRESHNESS_REPORT: ${{ runner.temp }}/schedule-freshness.json
     steps:
       - uses: actions/checkout@v4
         with:
@@ -29,6 +27,8 @@ jobs:
           node-version: '20'
           cache: npm
       - run: npm ci
+      - name: Configure report path
+        run: echo "SCHEDULE_FRESHNESS_REPORT=$RUNNER_TEMP/schedule-freshness.json" >> "$GITHUB_ENV"
       - name: Check source freshness
         id: freshness
         continue-on-error: true
@@ -44,9 +44,10 @@ jobs:
             const marker = '<!-- makeics-schedule-freshness -->';
             const report = JSON.parse(fs.readFileSync(process.env.SCHEDULE_FRESHNESS_REPORT, 'utf8'));
             const stale = report.results.filter(item => item.status === 'stale');
-            // The set of stale sources is the status. Volatile timestamps and
-            // horizon wording must not cause a duplicate issue update daily.
-            const fingerprint = crypto.createHash('sha256').update(JSON.stringify(stale.map(item => item.id).sort())).digest('hex');
+            // IDs and stable categories capture status changes while excluding
+            // volatile timestamps and daily horizon wording.
+            const fingerprintInput = stale.map(item => ({ id: item.id, reasons: [...item.reasonCategories].sort() })).sort((a, b) => a.id.localeCompare(b.id));
+            const fingerprint = crypto.createHash('sha256').update(JSON.stringify(fingerprintInput)).digest('hex');
             const issues = await github.paginate(github.rest.issues.listForRepo, { owner: context.repo.owner, repo: context.repo.repo, state: 'all', per_page: 100 });
             const issue = issues.find(item => !item.pull_request && item.body?.includes(marker));
             if (stale.length) {
