@@ -1,0 +1,77 @@
+name: Deployed Feed Health
+
+on:
+  schedule:
+    - cron: '17 14 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: deployed-feed-health
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      FEED_HEALTH_BASE_URL: ${{ vars.FEED_HEALTH_BASE_URL || 'https://makeics.vercel.app' }}
+      FEED_HEALTH_REPORT: ${{ runner.temp }}/feed-health.json
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - run: npm ci
+
+      - name: Check deployed feeds
+        id: health
+        continue-on-error: true
+        run: npm run check:feeds
+
+      - name: Synchronize feed-health issue
+        uses: actions/github-script@v7
+        env:
+          CHECK_OUTCOME: ${{ steps.health.outcome }}
+        with:
+          script: |
+            const fs = require('fs');
+            const crypto = require('crypto');
+            const marker = '<!-- makeics-feed-health -->';
+            const title = 'Deployed calendar feed health failure';
+            const report = JSON.parse(fs.readFileSync(process.env.FEED_HEALTH_REPORT, 'utf8'));
+            const failures = report.results.filter(result => !result.ok);
+            const fingerprint = crypto.createHash('sha256')
+              .update(JSON.stringify(failures.map(({ name, url, reason }) => ({ name, url, reason }))))
+              .digest('hex');
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner: context.repo.owner, repo: context.repo.repo, state: 'all', per_page: 100
+            });
+            const issue = issues.find(candidate => !candidate.pull_request && candidate.body?.includes(marker));
+
+            if (failures.length) {
+              const rows = failures.map(item => `| ${item.name} | ${item.url} | ${item.reason.replaceAll('|', '\\|')} |`).join('\n');
+              const body = `${marker}\n<!-- fingerprint:${fingerprint} -->\n` +
+                `The daily deployed-feed check found ${failures.length} unhealthy feed(s).\n\n` +
+                `| Feed | URL | Failure |\n| --- | --- | --- |\n${rows}\n\n` +
+                `Last changed: ${report.checkedAt}\n\nWorkflow: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+              if (!issue) {
+                await github.rest.issues.create({ owner: context.repo.owner, repo: context.repo.repo, title, body });
+              } else if (issue.state === 'closed' || !issue.body.includes(`<!-- fingerprint:${fingerprint} -->`)) {
+                await github.rest.issues.update({ owner: context.repo.owner, repo: context.repo.repo, issue_number: issue.number, title, body, state: 'open' });
+              }
+            } else if (issue?.state === 'open') {
+              await github.rest.issues.update({ owner: context.repo.owner, repo: context.repo.repo, issue_number: issue.number, state: 'closed' });
+            }
+
+      - name: Fail workflow when a feed is unhealthy
+        if: steps.health.outcome == 'failure'
+        run: exit 1
