@@ -5,6 +5,7 @@
   "description": "Fetch upcoming TV show episodes from TVMaze with public IMDb enrichment and optional Firecrawl scraping, with local and Vercel support.",
   "type": "module",
   "scripts": {
+    "check:feeds": "node scripts/check-feed-health.js",
     "dev": "node server.js",
     "start": "node server.js",
     "test": "node --test"
