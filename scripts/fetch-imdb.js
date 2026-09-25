@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { fetchImdbEpisodes } from '../lib/imdbEpisodes.js';
+import { fetchImdbEpisodes, sanitizeImdbEpisodes } from '../lib/imdbEpisodes.js';
 import { closeBrowser } from '../lib/scraper.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -22,7 +22,25 @@ async function fetchWithTimeout(url, timeoutMs = 15000) {
   }
 }
 
-async function main() {
+export function sanitizeCachedShows(shows) {
+  if (!shows || typeof shows !== 'object' || Array.isArray(shows)) return {};
+
+  return Object.fromEntries(Object.entries(shows).map(([imdbId, show]) => [
+    imdbId,
+    {
+      ...show,
+      episodes: sanitizeImdbEpisodes(show?.episodes)
+    }
+  ]));
+}
+
+export function episodesForCache(cachedEpisodes, fetchedEpisodes) {
+  const cached = sanitizeImdbEpisodes(cachedEpisodes);
+  const fetched = sanitizeImdbEpisodes(fetchedEpisodes);
+  return fetched.length > 0 ? fetched : cached;
+}
+
+export async function main() {
   console.log('Starting IMDb TV schedule pre-cache fetcher...');
   try {
     await fs.mkdir(TV_DATA_DIR, { recursive: true });
@@ -94,7 +112,9 @@ async function main() {
     const showsToFetch = Array.from(showSet);
     console.log(`Discovered ${showsToFetch.length} unique TV shows to process:`, showsToFetch);
 
-    const showsData = { ...existingData.shows };
+    // Clean the entire cache first, including shows that are not rediscovered in
+    // this run. Otherwise an old TBD episode can fail the quality gate forever.
+    const showsData = sanitizeCachedShows(existingData.shows);
 
     for (const query of showsToFetch) {
       console.log(`Processing TV show: "${query}"`);
@@ -142,11 +162,12 @@ async function main() {
           }
         }
 
-        if (imdbEpisodesList.length > 0 || !showsData[imdbId]) {
+        const usableEpisodes = sanitizeImdbEpisodes(imdbEpisodesList);
+        if (usableEpisodes.length > 0 || !showsData[imdbId]) {
           showsData[imdbId] = {
             imdbId,
             title: query,
-            episodes: imdbEpisodesList
+            episodes: episodesForCache(showsData[imdbId]?.episodes, usableEpisodes)
           };
         } else {
           console.log(`  IMDb fetch returned no episodes. Preserving existing cached entry for ${imdbId}.`);
@@ -175,7 +196,9 @@ async function main() {
   }
 }
 
-main().catch(err => {
-  console.error('Unhandled error in fetch-imdb main:', err);
-  process.exit(1);
-});
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+  main().catch(err => {
+    console.error('Unhandled error in fetch-imdb main:', err);
+    process.exit(1);
+  });
+}
