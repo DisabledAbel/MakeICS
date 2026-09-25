@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T09:44:46.436Z",
+  "generatedAt": "2026-09-25T10:02:40.086Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -4174,7 +4174,6 @@
       "title": "Vampire Carnival",
       "releaseDate": "Wed, 07 Oct 2026 00:00:00 GMT",
       "genres": [
-        "Fantasy",
         "Horror",
         "Romance"
       ],
@@ -4442,20 +4441,20 @@
       ],
       "people": [
         {
-          "id": "nm6224672",
-          "name": "Sophie Simnett"
-        },
-        {
           "id": "nm8908475",
           "name": "Isabel May"
         },
         {
-          "id": "nm10058940",
-          "name": "Emma Laird"
+          "id": "nm6224672",
+          "name": "Sophie Simnett"
         },
         {
           "id": "nm6216001",
           "name": "KJ Apa"
+        },
+        {
+          "id": "nm10058940",
+          "name": "Emma Laird"
         }
       ],
       "label": "Oct 09, 2026"
@@ -4544,6 +4543,26 @@
         {
           "id": "nm2151126",
           "name": "Eoin Macken"
+        }
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
+      "id": "tt36363878",
+      "title": "World Without Cows",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTExZjZlNzEtMTUzMC00MmU1LWI5ZGQtMjYwMGMwNTRjMzQ1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary"
+      ],
+      "people": [
+        {
+          "id": "nm17098831",
+          "name": "Michelle Michael"
+        },
+        {
+          "id": "nm17165192",
+          "name": "Brandon Whitworth"
         }
       ],
       "label": "Oct 09, 2026"
@@ -6482,20 +6501,20 @@
       ],
       "people": [
         {
-          "id": "nm2359658",
-          "name": "Kate O'Flynn"
-        },
-        {
-          "id": "nm1054648",
-          "name": "Amanda Lawrence"
-        },
-        {
           "id": "nm0047392",
           "name": "Marion Bailey"
         },
         {
-          "id": "nm0929977",
-          "name": "Alan Williams"
+          "id": "nm0422234",
+          "name": "Paul Jesson"
+        },
+        {
+          "id": "nm2359658",
+          "name": "Kate O'Flynn"
+        },
+        {
+          "id": "nm0424484",
+          "name": "Alice Bailey Johnson"
         }
       ],
       "label": "Dec 04, 2026"
@@ -6949,7 +6968,7 @@
     {
       "id": "tt39328391",
       "title": "Coward",
-      "image": "https://m.media-amazon.com/images/M/MV5BZWI4MjlhNWMtNDQ1NS00NzFlLTljZTktNTkxNjMwMmNkMWJlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWM0MDEwMTctY2NhYy00ODFhLWEwZGUtZjBmYTUxNGEwZjc4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -7290,20 +7309,20 @@
       ],
       "people": [
         {
-          "id": "nm0002064",
-          "name": "Giancarlo Esposito"
-        },
-        {
           "id": "nm8908475",
           "name": "Isabel May"
+        },
+        {
+          "id": "nm0002064",
+          "name": "Giancarlo Esposito"
         },
         {
           "id": "nm7248827",
           "name": "Cynthia Erivo"
         },
         {
-          "id": "nm0131966",
-          "name": "Bill Camp"
+          "id": "nm2113653",
+          "name": "Richard Harmon"
         }
       ],
       "label": "Jan 29, 2027"
@@ -7952,7 +7971,7 @@
     {
       "id": "tt18795088",
       "title": "Day Drinker",
-      "image": "https://m.media-amazon.com/images/M/MV5BMGJkYWM5ZDgtNmUyNS00ZDdiLTliODMtNDhmNzYyMTEzMzM0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDhhYzBkYzktNGE5OS00ZmU5LTg4N2UtOTE4OGMyYTA4MWQ5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 26 Mar 2027 00:00:00 GMT",
       "genres": [
         "Action",
@@ -8810,7 +8829,16 @@
         "Comedy",
         "Romance"
       ],
-      "people": [],
+      "people": [
+        {
+          "id": "nm10550834",
+          "name": "Amélie Hoeferle"
+        },
+        {
+          "id": "nm14553465",
+          "name": "Graham Campbell"
+        }
+      ],
       "label": "Jul 16, 2027"
     },
     {
