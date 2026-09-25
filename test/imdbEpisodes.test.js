@@ -95,6 +95,7 @@ test('parseImdbDate correctly handles ISO dates, localized dates, and fallbacks'
   assert.equal(parseImdbDate('not-a-date'), null);
   assert.equal(parseImdbDate('TBD'), null);
   assert.equal(parseImdbDate('2026-02-30'), null);
+  assert.equal(parseImdbDate('02/30/2014'), null);
 });
 
 test('parseImdbDate correctly parses custom airdate patterns', () => {
