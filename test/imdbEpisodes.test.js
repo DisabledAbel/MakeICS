@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseImdbDate, parseImdbEpisodesFromHtml, fetchImdbEpisodes } from '../lib/imdbEpisodes.js';
+import { parseImdbDate, parseImdbEpisodesFromHtml, fetchImdbEpisodes, sanitizeImdbEpisodes } from '../lib/imdbEpisodes.js';
+import { episodesForCache, sanitizeCachedShows } from '../scripts/fetch-imdb.js';
 import { getEpisodes, toIcs } from '../lib/tvEpisodes.js';
 
 // Define the environment variable to mock the browser page in scraper.js
@@ -92,12 +93,45 @@ test('parseImdbDate correctly handles ISO dates, localized dates, and fallbacks'
   assert.equal(parseImdbDate(null), null);
   assert.equal(parseImdbDate(''), null);
   assert.equal(parseImdbDate('not-a-date'), null);
+  assert.equal(parseImdbDate('TBD'), null);
+  assert.equal(parseImdbDate('2026-02-30'), null);
 });
 
 test('parseImdbDate correctly parses custom airdate patterns', () => {
   assert.equal(parseImdbDate('Mon, May 25, 2026'), '2026-05-25');
   assert.equal(parseImdbDate('Aug 2026'), null);
+  assert.equal(parseImdbDate('August 2026'), null);
   assert.equal(parseImdbDate('2026'), null);
+});
+
+test('sanitizes mixed IMDb results while retaining stable episode fields', () => {
+  const valid = { season: 1, number: 1, name: 'Premiere', airdate: '2026-05-02', url: 'https://www.imdb.com/title/tt1/' };
+  const episodes = sanitizeImdbEpisodes([
+    valid,
+    { season: 1, number: 2, name: 'TBD', airdate: null },
+    { season: 1, number: 3, name: 'Missing date' },
+    { season: 1, number: 4, name: 'Placeholder', airdate: 'August 2026' }
+  ]);
+
+  assert.deepEqual(episodes, [valid]);
+  assert.equal(episodes[0].url, valid.url);
+});
+
+test('sanitizes invalid episodes from every previously cached IMDb show', () => {
+  const valid = { season: 2, number: 3, name: 'Scheduled', airdate: '2026-06-11', url: 'https://www.imdb.com/title/tt1/' };
+  const shows = sanitizeCachedShows({
+    tt1: { imdbId: 'tt1', title: 'Cached Show', episodes: [valid, { season: 2, number: 4, airdate: null }] },
+    tt2: { imdbId: 'tt2', title: 'Undated Show', episodes: [{ season: 1, number: 1 }] }
+  });
+
+  assert.deepEqual(shows.tt1.episodes, [valid]);
+  assert.deepEqual(shows.tt2.episodes, []);
+});
+
+test('an empty scrape can preserve sanitized cached IMDb episodes', () => {
+  const cached = { season: 1, number: 1, name: 'Known episode', airdate: '2026-05-02', url: 'https://www.imdb.com/title/tt1/' };
+  const selected = episodesForCache([cached, { season: 1, number: 2, airdate: null }], []);
+  assert.deepEqual(selected, [cached]);
 });
 
 test('parseImdbEpisodesFromHtml extracts episode schemas from JSON-LD tags', () => {
