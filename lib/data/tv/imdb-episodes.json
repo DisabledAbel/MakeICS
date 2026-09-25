@@ -166,7 +166,7 @@
         {
           "season": 30,
           "number": 10,
-          "name": "Sherri Shepherd/Andrew Garfield",
+          "name": "Sherri Shepherd",
           "airdate": "2026-09-10",
           "summary": "Actress Sherri Shepherd (movie, \"Angel in the Rubble\");",
           "url": "https://www.imdb.com/title/tt43017585/?ref_=ttep_ep_3"
@@ -242,6 +242,22 @@
           "airdate": "2026-09-23",
           "summary": "Guest co-hosts Star Jones; actress Jessica Lange (TV series, \"American Horror Story\");",
           "url": "https://www.imdb.com/title/tt46486513/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 30,
+          "number": 24,
+          "name": "Lisa Ling/Billie Lourd/Chelsea Handler/View Your Deal",
+          "airdate": "2026-09-24",
+          "summary": "Guest co-host Lisa Ling; actress Billie Lourd (TV series \"American Horror Story\" and \"Monster\"); comic Chelsea Handler;",
+          "url": "https://www.imdb.com/title/tt46486618/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 30,
+          "number": 25,
+          "name": "Heidi Skolnick/Deborah Roberts/View Your Deal: Oprah Daily Edition/",
+          "airdate": "2026-09-25",
+          "summary": "Author Heidi Skolnick; anchor Deborah Roberts (TV series, \"20/20\"); Adam Glassman shows hot deals;",
+          "url": "https://www.imdb.com/title/tt46486773/?ref_=ttep_ep_14"
         },
         {
           "season": 29,
@@ -9330,8 +9346,16 @@
         {
           "season": 28,
           "number": 27,
-          "name": "Episode #28.41",
+          "name": "Episode #28.40",
           "airdate": "2026-09-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45391563/?ref_=ttep_ep_40"
+        },
+        {
+          "season": 28,
+          "number": 41,
+          "name": "Episode #28.41",
+          "airdate": "2026-10-01",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45391595/?ref_=ttep_ep_41"
         },
@@ -11133,7 +11157,7 @@
           "number": 18,
           "name": "Riding the Troubled Waters",
           "airdate": "2026-04-15",
-          "summary": null,
+          "summary": "Hunter's bill granting police immunity has unintended consequences.",
           "url": "https://www.imdb.com/title/tt41810743/?ref_=ttep_ep_18"
         },
         {
@@ -11141,7 +11165,7 @@
           "number": 19,
           "name": "In a Heartbeat",
           "airdate": "2026-04-15",
-          "summary": null,
+          "summary": "Donald and Dilva uncover the White House moles.",
           "url": "https://www.imdb.com/title/tt41810753/?ref_=ttep_ep_19"
         },
         {
@@ -11149,7 +11173,7 @@
           "number": 20,
           "name": "Twenty-Four Hours",
           "airdate": "2026-04-15",
-          "summary": null,
+          "summary": "Terry expects Hunter to reveal the truth about Masruga.",
           "url": "https://www.imdb.com/title/tt41810758/?ref_=ttep_ep_20"
         },
         {
@@ -11157,7 +11181,7 @@
           "number": 21,
           "name": "Agent Stan Bennett",
           "airdate": "2026-04-15",
-          "summary": null,
+          "summary": "Priscilla urges Eli to contact Senator Harding.",
           "url": "https://www.imdb.com/title/tt41810762/?ref_=ttep_ep_21"
         },
         {
@@ -12273,7 +12297,7 @@
         {
           "season": 20,
           "number": 24,
-          "name": "Episode #20.12",
+          "name": "Lei it on me",
           "airdate": "2026-09-24",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43683900/?ref_=ttep_ep_12"
@@ -23286,7 +23310,7 @@
           "number": 10,
           "name": "Stacked: Inside the Enhancement Craze",
           "airdate": "2026-08-16",
-          "summary": null,
+          "summary": "CNN's Isobel Yeung digs into the once taboo world of performance enhancing drugs and how they are becoming increasingly popular not only among athletes, but also among young men who are using them to enhance their physical appearance.",
           "url": "https://www.imdb.com/title/tt41453975/?ref_=ttep_ep_10"
         },
         {
@@ -23294,7 +23318,7 @@
           "number": 11,
           "name": "The End of the World As We Know It",
           "airdate": "2026-08-30",
-          "summary": null,
+          "summary": "CNN's Nick Paton Walsh explores the doomsday prepper movement, a once fringe subculture now embraced by 20 million Americans. Drawing on his experience covering conflict, he tests his survival skills with those preparing for disaster.",
           "url": "https://www.imdb.com/title/tt44047318/?ref_=ttep_ep_11"
         },
         {
@@ -23706,7 +23730,7 @@
           "number": 16,
           "name": "By Any Means Necessary",
           "airdate": "2026-09-16",
-          "summary": null,
+          "summary": "Brice reaches his limit as the crew probes a secret organization.",
           "url": "https://www.imdb.com/title/tt37519720/?ref_=ttep_ep_8"
         },
         {
@@ -23714,8 +23738,16 @@
           "number": 23,
           "name": "Critical Failure",
           "airdate": "2026-09-23",
-          "summary": null,
+          "summary": "Scientific research points to a billionaire's space station as Homebase connects the dots.",
           "url": "https://www.imdb.com/title/tt37519722/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 3,
+          "number": 30,
+          "name": "The Lucky Ones",
+          "airdate": "2026-09-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37519723/?ref_=ttep_ep_10"
         },
         {
           "season": 2,
@@ -24390,7 +24422,7 @@
           "number": 24,
           "name": "Hunter Biden/Jeremy Peters/Dana Bash",
           "airdate": "2026-08-21",
-          "summary": null,
+          "summary": "Hunter Biden, artist, author, and recovery advocate, is interviewed. Panel: Jeremy Peters, New York Times correspondent and author of \"Insurgency,\" and Dana Bash, CNN anchor and author of \"The Elections That Changed the World.\"",
           "url": "https://www.imdb.com/title/tt44658833/?ref_=ttep_ep_24"
         },
         {
@@ -24398,7 +24430,7 @@
           "number": 25,
           "name": "Michael S. Roth/Molly Jong-Fast/Byron Donalds",
           "airdate": "2026-08-28",
-          "summary": null,
+          "summary": "Michael S. Roth, Wesleyan University president and author of \"The Student: A Short History,\" is interviewed. Panel: Molly Jong-Fast, \"Fast Politics\" host, and Rep. Byron Donalds, Florida congressman and GOP gubernatorial nominee.",
           "url": "https://www.imdb.com/title/tt44895234/?ref_=ttep_ep_25"
         },
         {
@@ -24732,7 +24764,7 @@
           "number": 25,
           "name": "The Death Grin",
           "airdate": "2026-09-25",
-          "summary": null,
+          "summary": "A body discovered in the river pulls Anna into a celebrated artist's complicated world.",
           "url": "https://www.imdb.com/title/tt37775051/?ref_=ttep_ep_8"
         }
       ]
@@ -27552,7 +27584,7 @@
           "number": 2,
           "name": "I Dont Belong Out Here",
           "airdate": "2026-09-02",
-          "summary": null,
+          "summary": "When a psychopath slaughters three generations of a family, investigators uncover a decades-old revenge plot driven by parasitic tendencies.",
           "url": "https://www.imdb.com/title/tt46659820/?ref_=ttep_ep_2"
         },
         {
@@ -27560,7 +27592,7 @@
           "number": 3,
           "name": "I Cant Stop Myself",
           "airdate": "2026-09-03",
-          "summary": null,
+          "summary": "When a 15 year old Florida girl runs away with her older troubled boyfriend, a 66 year old disabled man is murdered.",
           "url": "https://www.imdb.com/title/tt46659825/?ref_=ttep_ep_3"
         },
         {
@@ -27568,7 +27600,7 @@
           "number": 4,
           "name": "Violence is What Im Fixed On",
           "airdate": "2026-09-04",
-          "summary": null,
+          "summary": "After a mother of three mysteriously vanishes following a night out on the town, investigators discover a sexual psychopath's nightmarish desires.",
           "url": "https://www.imdb.com/title/tt46659839/?ref_=ttep_ep_4"
         },
         {
@@ -28552,7 +28584,7 @@
         {
           "season": 1,
           "number": 27,
-          "name": "Episode #1.7",
+          "name": "The Jordan Boys Legacy",
           "airdate": "2026-09-27",
           "summary": null,
           "url": "https://www.imdb.com/title/tt32752614/?ref_=ttep_ep_7"
@@ -30026,7 +30058,7 @@
           "number": 1,
           "name": "Titans vs Alex Stupak",
           "airdate": "2026-08-25",
-          "summary": null,
+          "summary": "Michael Voltaggio is stunned when friend Alex Stupak arrives in Bobby Flay's kitchen. The culinary rebel aims to defeat the Titans, but Michelin-star chef Buddha Lo will decide the outcome.",
           "url": "https://www.imdb.com/title/tt45749599/?ref_=ttep_ep_1"
         },
         {
@@ -30034,7 +30066,7 @@
           "number": 8,
           "name": "Titans vs Competition Legend",
           "airdate": "2026-09-08",
-          "summary": null,
+          "summary": "Bobby Flay tricks a close friend into appearing on Triple Threat, shocking the Titans. Italian chef Stefano Secchi is in control.",
           "url": "https://www.imdb.com/title/tt45749840/?ref_=ttep_ep_3"
         },
         {
@@ -30042,7 +30074,7 @@
           "number": 15,
           "name": "Titans vs. Danny Garcia",
           "airdate": "2026-09-15",
-          "summary": null,
+          "summary": "Brooklyn chef and Top Chef winner Danny Garcia challenges Bobby Flay's Titans with Dominican and Puerto Rican cuisine. Cosme Aguilar, chef of NYC's first Michelin-starred Mexican restaurant, serves as judge.",
           "url": "https://www.imdb.com/title/tt46100860/?ref_=ttep_ep_4"
         },
         {
@@ -30090,7 +30122,7 @@
           "number": 10,
           "name": "Titans vs Karen Akunowicz",
           "airdate": "2025-11-04",
-          "summary": "For a shot at $25,000, savvy competition veteran Chef Karen Akunowicz lights up Bobby Flay's kitchen with her fiery personality and battles the Titans with her \"modern grandma\" cuisine. Judge Scott Conant doesn't go easy on anyone with his high standards.",
+          "summary": "Competition veteran Chef Karen Akunowicz brings her fiery personality and \"modern grandma\" cuisine to Bobby Flay's kitchen, competing for $25,000 against the Titans while Judge Scott Conant maintains his high standards.",
           "url": "https://www.imdb.com/title/tt38875407/?ref_=ttep_ep_10"
         },
         {
@@ -30243,11 +30275,27 @@
         },
         {
           "season": 2,
+          "number": 7,
+          "name": "Sole Searching",
+          "airdate": "2026-10-06",
+          "summary": "Nesha's BBW speed dating event gets off to a rocky start. Jaz pushes for independence and attempts to train Nesha and Nana for their 5K. But on race day, a ferry ramp disaster threatens to derail it all.",
+          "url": "https://www.imdb.com/title/tt46668581/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
           "number": 8,
           "name": "Abs-olutely Not",
           "airdate": "2026-09-08",
           "summary": "Jaz must face reality after learning that she has gained weight... but she decides to delay a painful lecture from Dr. Nouri until after her birthday party and a first date. Meanwhile, Nesha goes to a cult support group and must confront her painful past.",
           "url": "https://www.imdb.com/title/tt44645909/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Mexico in Motion",
+          "airdate": "2026-10-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46668585/?ref_=ttep_ep_9"
         },
         {
           "season": 2,
@@ -30264,6 +30312,14 @@
           "airdate": "2026-09-22",
           "summary": "Facing a potential move to a nursing home, Jaz battles her fear and self-doubt in rehab. Meanwhile, Nesha's ambitious new venture sparks fresh tension with her mother.",
           "url": "https://www.imdb.com/title/tt44645959/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 29,
+          "name": "Waddle We Do Now?",
+          "airdate": "2026-09-29",
+          "summary": "Jaz faces a final test that will determine whether she can return home to her daughter or be sent to a nursing home. Nesha scrambles to make her SSBBW speed-dating event a success. And Brandon and Jaz take things to the next level.",
+          "url": "https://www.imdb.com/title/tt46668579/?ref_=ttep_ep_6"
         },
         {
           "season": 1,
@@ -31522,7 +31578,7 @@
           "number": 23,
           "name": "Teratoma, Teeth and All",
           "airdate": "2026-09-23",
-          "summary": null,
+          "summary": "A young woman discovers an evil twin tumor. A pet-lover loses her nose when her dog attacks. Door cameras capture a rescue. A terrifying illness suddenly afflicts a healthy young patient. A condition causes one person hundreds of trips to the ER.",
           "url": "https://www.imdb.com/title/tt43744758/?ref_=ttep_ep_6"
         },
         {
@@ -31530,7 +31586,7 @@
           "number": 30,
           "name": "Glass Table + No Pants = ER",
           "airdate": "2026-09-30",
-          "summary": null,
+          "summary": "Pimple popping can be deadly. A stroke tries to take her husband, so she locks in to save his life. An influencer with something eating her eye. A video game leads to an impaled buttock. A man run over by a train wakes up a month later with no legs.",
           "url": "https://www.imdb.com/title/tt43744764/?ref_=ttep_ep_7"
         }
       ]
@@ -31549,11 +31605,35 @@
         },
         {
           "season": 9,
+          "number": 6,
+          "name": "Episode #9.6",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46668592/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 9,
+          "number": 7,
+          "name": "Episode #9.7",
+          "airdate": "2026-10-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46668593/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 9,
           "number": 8,
           "name": "Do You Want to Build a... Music Video?",
           "airdate": "2026-09-08",
           "summary": "Tammy and Amy embrace new opportunities, personal growth, major life changes and strengthen their sister bond. Tammy and Andrea's relationship enters an exciting new chapter. Amy pursues becoming a top songwriter with AI assistance.",
           "url": "https://www.imdb.com/title/tt44890194/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 9,
+          "number": 9,
+          "name": "Episode #9.9",
+          "airdate": "2026-10-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46668595/?ref_=ttep_ep_9"
         },
         {
           "season": 9,
@@ -31568,15 +31648,15 @@
           "number": 22,
           "name": "Another BBQ Bites the Dust",
           "airdate": "2026-09-22",
-          "summary": "While the older siblings try to mend fences with the younger ones, Tammy is less forgiving. Tammy and Andrea go on a double date with Amy and Brian, but Brian's misgivings about Tammy make things awkward. Amy makes a big decision about her health journey.",
+          "summary": "Older siblings try mending fences while Tammy stays unforgiving. A double date with Amy, Brian, Tammy and Andrea turns awkward due to Brian's doubts. Amy makes a major health decision.",
           "url": "https://www.imdb.com/title/tt44890217/?ref_=ttep_ep_4"
         },
         {
           "season": 9,
           "number": 29,
-          "name": "Episode #9.5",
+          "name": "Amy Was Afraid, She Was Petrified",
           "airdate": "2026-09-29",
-          "summary": null,
+          "summary": "Amy finally steps into the recording studio, but life throws her a curveball. Chris and Brittany get some answers on their first steps toward parenthood. Tammy and Andrea's relationship goes under the microscope while in therapy.",
           "url": "https://www.imdb.com/title/tt44890220/?ref_=ttep_ep_5"
         },
         {
@@ -33198,6 +33278,54 @@
       "title": "The Loud House",
       "episodes": [
         {
+          "season": 11,
+          "number": 1,
+          "name": "Living the Dream Boat",
+          "airdate": "2026-02-27",
+          "summary": "When Lori becomes the star of The Dream Boat to find her soulmate, a desperate Bobby goes undercover as a contestant to win her back from a \"perfect\" rival suitor.",
+          "url": "https://www.imdb.com/title/tt39614116/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 11,
+          "number": 2,
+          "name": "Graveyard Rift/The Big Leap",
+          "airdate": "2026-08-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39639347/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 11,
+          "number": 3,
+          "name": "Table for None/Kindergarten Flop",
+          "airdate": "2026-08-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39639348/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 11,
+          "number": 4,
+          "name": "Going Coconuts/Smotherhood",
+          "airdate": "2026-08-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39639349/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 11,
+          "number": 5,
+          "name": "Trend Fretter/This Is My Fight Song",
+          "airdate": "2026-08-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39639351/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 11,
+          "number": 19,
+          "name": "Emotional Rollercoaster",
+          "airdate": "2026-09-19",
+          "summary": "When the Loud family gets trapped upside down on a malfunctioning roller coaster at Dairyland, they must rely on their memories of past wild adventures to stay calm and find a way down.",
+          "url": "https://www.imdb.com/title/tt43629454/?ref_=ttep_ep_13"
+        },
+        {
           "season": 10,
           "number": 1,
           "name": "Summer Camp: The Grate Outdoors/Summer Camp: Don't Lose Your Cool",
@@ -33292,62 +33420,6 @@
           "airdate": "2026-09-25",
           "summary": "Lana takes on her toughest pet-matching client yet. After scoring a perfect test result, Zach's ego balloons.",
           "url": "https://www.imdb.com/title/tt39426728/?ref_=ttep_ep_7"
-        },
-        {
-          "season": 9,
-          "number": 1,
-          "name": "Crystal Ballin/The Most Dangerous Gamer",
-          "airdate": "2025-11-08",
-          "summary": "Lynn uses a crystal ball to see her future and then goes totally bananas trying to control what the future will be. / Lincoln, Clyde and Kara win a gaming contest put on by a streamer named Thumbz.",
-          "url": "https://www.imdb.com/title/tt34710205/?ref_=ttep_ep_1"
-        },
-        {
-          "season": 9,
-          "number": 2,
-          "name": "Merry Diss-mas/Just Snow with It",
-          "airdate": "2024-11-30",
-          "summary": "Lynn is excited for her Swiss friend Henrik to visit, but she grows nervous when people think they're more than friends. / Lincoln and friends start a shoveling business to raise money for David Steele on Ice tickets.",
-          "url": "https://www.imdb.com/title/tt34718851/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 9,
-          "number": 3,
-          "name": "Meet the Purrents/Apartment Complex",
-          "airdate": "2026-01-09",
-          "summary": "When Lori and Bobby find a kitten, they decide to co-parent and swap the kitten back and forth between their homes. / After telling her family how great her apartment is, Lori unknowingly entices her sisters to secretly take over her space",
-          "url": "https://www.imdb.com/title/tt34710210/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 9,
-          "number": 4,
-          "name": "Pet Project/Cuff Break",
-          "airdate": "2026-01-16",
-          "summary": "When Mom and the twins win a raffle to spend a weekend at a resort, Lana struggles to leave her pets behind. / After Lincoln tests a magic trick on Grouse, they get handcuffed together and Grouse has to spend the day at middle school.",
-          "url": "https://www.imdb.com/title/tt34718862/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 9,
-          "number": 5,
-          "name": "Prom-Com/Scene Steeler",
-          "airdate": "2026-01-23",
-          "summary": "When Leni is put in charge of the school's prom, she is determined to make it the most memorable night ever. / Lincoln and Clyde cast Luan as the villain, Bee Trayal, in their David Steele film and have to deal with her method acting.",
-          "url": "https://www.imdb.com/title/tt34720380/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 9,
-          "number": 6,
-          "name": "Rough Patch/The GLOAT",
-          "airdate": "2026-01-30",
-          "summary": "To earn her next patch and become a golden Snickerdoodle, Lola must spend quality time with Bernie. / After Lynn sees cousin Shiloh's athletic skills, she gets overly competitive to prove she's the greatest Loud of all time.",
-          "url": "https://www.imdb.com/title/tt34720384/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 9,
-          "number": 13,
-          "name": "Summer Camp: Ticked Off",
-          "airdate": "2025-08-01",
-          "summary": "The Loud family and Clyde arrive for a fun-filled summer at Camp Mastodon, but Lincoln and Clyde quickly find themselves in a battle against the toughest bunk at camp.",
-          "url": "https://www.imdb.com/title/tt37565766/?ref_=ttep_ep_13"
         }
       ]
     },
@@ -33502,7 +33574,7 @@
           "number": 12,
           "name": "A New Era",
           "airdate": "2026-09-12",
-          "summary": null,
+          "summary": "Tensions rise as Marsau and Tisha face business failure, while Martell celebrates and invites a shocking guest. Kimmi and Maurice worry about Monster, and Kimmi confronts Destiny over shady comments.",
           "url": "https://www.imdb.com/title/tt44052893/?ref_=ttep_ep_1"
         },
         {
@@ -33510,7 +33582,7 @@
           "number": 19,
           "name": "Guess Who's Coming to Dinner",
           "airdate": "2026-09-19",
-          "summary": null,
+          "summary": "Destiny and Nell gossip about both Scotts. Maurice and Kimmi seek a new path with Monster. Martell confides in Chris about the women. Tensions rise between Destiny and Arionne at dinner.",
           "url": "https://www.imdb.com/title/tt46082231/?ref_=ttep_ep_2"
         },
         {
@@ -33518,7 +33590,7 @@
           "number": 1,
           "name": "The Streets Are Talking",
           "airdate": "2026-03-07",
-          "summary": null,
+          "summary": "The Fletchers handle fallout from Chris losing his real estate license. Ken and Tricia's relationship faces social media backlash. Destiny and Tisha argue about loyalty and rehash their winery disagreement.",
           "url": "https://www.imdb.com/title/tt40185435/?ref_=ttep_ep_1"
         },
         {
@@ -33534,7 +33606,7 @@
           "number": 17,
           "name": "Reunion Part 2: DNA, NDA & DUI",
           "airdate": "2026-06-13",
-          "summary": null,
+          "summary": "Destiny and Tisha's relationship stalls; Maurice and Marsau confront Martell's cheating claims; Maurice addresses DUI rumors; Marsau and Tisha have a heart-to-heart; Destiny and Lance reveal the truth about their relationship.",
           "url": "https://www.imdb.com/title/tt43079950/?ref_=ttep_ep_17"
         }
       ]
@@ -33835,7 +33907,7 @@
         {
           "season": 1,
           "number": 8,
-          "name": "Episode #1.8",
+          "name": "Debriefing the President",
           "airdate": "2026-10-04",
           "summary": "John becomes a pariah in Washington by trying to save Saddam and warning about the coming threat of Iran. A meeting in the White House gives John one last chance to convince President Bush to alter the course of the Middle East.",
           "url": "https://www.imdb.com/title/tt43746688/?ref_=ttep_ep_8"
@@ -34273,7 +34345,7 @@
           "number": 21,
           "name": "Into the Wild",
           "airdate": "2026-09-21",
-          "summary": null,
+          "summary": "John Henson challenges nine bakers to create reanimated taxidermy desserts for $1,000. Bottom six make possessed pest desserts inspired by demonic insects. One baker is eliminated.",
           "url": "https://www.imdb.com/title/tt44847087/?ref_=ttep_ep_2"
         },
         {
@@ -34860,7 +34932,7 @@
         {
           "season": 35,
           "number": 29,
-          "name": "Yacht Music Night",
+          "name": "Yacht Rock Night",
           "airdate": "2026-09-29",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45920346/?ref_=ttep_ep_4"
@@ -34967,6 +35039,14 @@
       "imdbId": "tt37063558",
       "title": "R.J. Decker",
       "episodes": [
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Episode #2.4",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46669920/?ref_=ttep_ep_4"
+        },
         {
           "season": 2,
           "number": 15,
@@ -35332,6 +35412,14 @@
           "url": "https://www.imdb.com/title/tt43619089/?ref_=ttep_ep_9"
         },
         {
+          "season": 53,
+          "number": 23,
+          "name": "Knowledge Keepers",
+          "airdate": "2026-09-23",
+          "summary": "In a fascinating exploration of human ingenuity, see how indigenous communities in North America have long practiced a distinct version of science and engineering.",
+          "url": "https://www.imdb.com/title/tt43697142/?ref_=ttep_ep_10"
+        },
+        {
           "season": 52,
           "number": 1,
           "name": "What Are UFOs?",
@@ -35590,6 +35678,14 @@
           "airdate": "2026-09-17",
           "summary": null,
           "url": "https://www.imdb.com/title/tt46091464/?ref_=ttep_ep"
+        },
+        {
+          "season": 30,
+          "number": 21,
+          "name": "Episode #30.1",
+          "airdate": "2026-09-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42468320/?ref_=ttep_ep_1"
         },
         {
           "season": 30,
@@ -36181,7 +36277,7 @@
           "season": 2,
           "number": 3,
           "name": "Rabbits Don't Swim",
-          "airdate": "2026-10-03",
+          "airdate": "2026-10-02",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602055/?ref_=ttep_ep_3"
         },
@@ -36377,7 +36473,7 @@
           "number": 18,
           "name": "The Wretched Road Trip Begins",
           "airdate": "2026-09-18",
-          "summary": "Retta's journey to find scary begins with a road trip where four homes compete for a chance at a $150,000 makeover by designer Alison Victoria. It includes a creepy concrete home, a haunted observatory and a home that's too haunted to live in.",
+          "summary": "Retta's road trip features four homes competing for a $150,000 makeover by Alison Victoria, including a creepy concrete house, haunted observatory, and an uninhabitable haunted home.",
           "url": "https://www.imdb.com/title/tt44076283/?ref_=ttep_ep_1"
         },
         {
@@ -37694,7 +37790,7 @@
           "number": 22,
           "name": "Wherefore Art Thou",
           "airdate": "2026-09-22",
-          "summary": null,
+          "summary": "On Amy and Sonya's first day as co-chief resident, they must coach a fresh crop of interns through a mysterious case that seems to defy medical logic; Jake and TJ adjust to new roles within the hospital; Dr. Ben Grant returns to Westside.",
           "url": "https://www.imdb.com/title/tt40548578/?ref_=ttep_ep_1"
         },
         {
@@ -37886,6 +37982,14 @@
           "airdate": "2026-09-15",
           "summary": "Six designers renovate, and live in, a haunted house for the chance to win $50,000. Deadlines are tight, tensions are high, and the ghosts are real.",
           "url": "https://www.imdb.com/title/tt44536164/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 22,
+          "name": "Ghosts in the Gathering Rooms",
+          "airdate": "2026-09-22",
+          "summary": "The five remaining designers divide into teams to revive Bihl Manor's living room and parlor; as ambitious feature projects test their skills, they'll fight to honor the home's storied past and avoid becoming the next design casualty.",
+          "url": "https://www.imdb.com/title/tt44536162/?ref_=ttep_ep_2"
         }
       ]
     },
@@ -38243,6 +38347,14 @@
       "episodes": [
         {
           "season": 2,
+          "number": 3,
+          "name": "Families on the Edge",
+          "airdate": "2026-10-07",
+          "summary": "The remaining contestants compete in five games, \"Pick A Flower\", \"Cold Hearted\", \"On the Edge\", \"Measuring Up\", and \"Hands Off\".",
+          "url": "https://www.imdb.com/title/tt46860679/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
           "number": 23,
           "name": "Do You Believe in Miracles?",
           "airdate": "2026-09-23",
@@ -38565,7 +38677,7 @@
         {
           "season": 13,
           "number": 11,
-          "name": "Episode #13.11",
+          "name": "Madison's Happy Ending",
           "airdate": "2026-10-22",
           "summary": "When a charming stranger draws close to the Coven, Madison discovers an unexpected side to him.",
           "url": "https://www.imdb.com/title/tt43685219/?ref_=ttep_ep_11"
@@ -38573,7 +38685,7 @@
         {
           "season": 13,
           "number": 12,
-          "name": "Episode #13.12",
+          "name": "Sisters in Arms",
           "airdate": "2026-10-22",
           "summary": "Fiona confronts a family secret, while the Coven prepares for a foe worse than they've ever faced.",
           "url": "https://www.imdb.com/title/tt43718787/?ref_=ttep_ep_12"
@@ -38675,7 +38787,7 @@
         {
           "season": 5,
           "number": 24,
-          "name": "Episode #5.1",
+          "name": "Jungle Warfare",
           "airdate": "2026-09-24",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42441204/?ref_=ttep_ep_1"
@@ -39555,6 +39667,14 @@
         },
         {
           "season": 5,
+          "number": 4,
+          "name": "Bugs and Rabid Dogs",
+          "airdate": "2026-10-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46666951/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 5,
           "number": 27,
           "name": "Seahawks and Piglets",
           "airdate": "2026-09-27",
@@ -39678,6 +39798,14 @@
           "airdate": "2026-10-18",
           "summary": null,
           "url": "https://www.imdb.com/title/tt41712280/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "Episode #3.4",
+          "airdate": "2026-10-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41713410/?ref_=ttep_ep_4"
         },
         {
           "season": 3,
@@ -40298,10 +40426,10 @@
       "episodes": [
         {
           "season": 1,
-          "number": 1,
+          "number": 22,
           "name": "The Frozen Heart",
           "airdate": "2026-09-22",
-          "summary": null,
+          "summary": "At our planet's extremes, scientists venture into the ice to unlock the story of Earth's climate. Scaling jagged peaks, skiing across frozen deserts and descending deep into the icesheet, scientists track how the polar world is transforming.",
           "url": "https://www.imdb.com/title/tt38589031/?ref_=ttep_ep_1"
         }
       ]
@@ -40315,8 +40443,16 @@
           "number": 3,
           "name": "My Ex's Ex",
           "airdate": "2026-10-07",
-          "summary": null,
+          "summary": "J.D. reintroduces an old flame into Elliot's life, as his new relationship continues to blossom. Meanwhile, Turk tries a new approach to keeping the spark alive at home.",
           "url": "https://www.imdb.com/title/tt42624410/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Episode #2.4",
+          "airdate": "2026-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624411/?ref_=ttep_ep_4"
         },
         {
           "season": 2,
@@ -40562,6 +40698,1734 @@
       "imdbId": "tt1319900",
       "title": "Ghost Adventures",
       "episodes": []
+    },
+    "tt45124639": {
+      "imdbId": "tt45124639",
+      "title": "Chilean Mine Rescue: Race Against Time",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 25,
+          "name": "Episode #1.1",
+          "airdate": "2026-09-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45474022/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt0124932": {
+      "imdbId": "tt0124932",
+      "title": "20/20",
+      "episodes": []
+    },
+    "tt43739678": {
+      "imdbId": "tt43739678",
+      "title": "The Arena: Saturday",
+      "episodes": []
+    },
+    "tt28099507": {
+      "imdbId": "tt28099507",
+      "title": "Married to Evil",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "A Deadly Dose",
+          "airdate": "2024-08-25",
+          "summary": "Maria's world shatters when her husband Joel, starts an affair; she fights to save their marriage, but Joel refuses to give up his mistress, and Maria's patience runs out; when she threatens divorce, Joel makes a deadly plan to stop her.",
+          "url": "https://www.imdb.com/title/tt29033462/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Deadly Delivery",
+          "airdate": "2024-09-08",
+          "summary": "A successful Florida family has their American dream shattered when a mysterious figure dressed as a clown shoots a loving mother on her doorstep; the case goes cold for decades until an unexpected break helps bring the killer clown to justice.",
+          "url": "https://www.imdb.com/title/tt29141761/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "name": "What Lies Beneath",
+          "airdate": "2024-09-15",
+          "summary": "When Heidi's alcoholic husband, Chris, goes missing, she searches far and wide to find him, getting help from Chris' wider family; after a missing person's report is filed, police uncover a dark secret hidden in the basement of the marital home.",
+          "url": "https://www.imdb.com/title/tt29033385/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 22,
+          "name": "Out of Control",
+          "airdate": "2024-09-22",
+          "summary": "When Angie falls for Joe, their relationship baffles her friends and family. They marry and have kids, but Angie grows isolated, trapped in an abusive cycle leading to a tragic triple murder.",
+          "url": "https://www.imdb.com/title/tt29141766/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 29,
+          "name": "Dying to Leave",
+          "airdate": "2024-09-29",
+          "summary": "Cheryl leaves her abusive and controlling husband after years of suffering. Unable to accept the loss of power, Thom stalks her and torments their children. When Cheryl discovers new love, Thom sets a deadly trap in a final act of revenge.",
+          "url": "https://www.imdb.com/title/tt33513282/?ref_=ttep_ep_6"
+        }
+      ]
+    },
+    "tt26735683": {
+      "imdbId": "tt26735683",
+      "title": "Toxic",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Episode #2.4",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46253182/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "name": "Don't Go Home",
+          "airdate": "2026-09-15",
+          "summary": "A dangerous lover calls his ex with chilling news: he killed someone.",
+          "url": "https://www.imdb.com/title/tt44431234/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 22,
+          "name": "Until There's Blood",
+          "airdate": "2026-09-22",
+          "summary": "After a breakup, a stalker's obsession destroys a woman's entire life.",
+          "url": "https://www.imdb.com/title/tt46253180/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 29,
+          "name": "Blame It on Daddy",
+          "airdate": "2026-09-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46253181/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Sleeping with a Stranger",
+          "airdate": "2025-05-05",
+          "summary": "Kelly Sutliff's marriage ends in violence after Elizabeth Chambers exposes lies and manipulation. Following a brutal attack, Kelly seeks protection from an unexpected ally while living under constant threat.",
+          "url": "https://www.imdb.com/title/tt36495674/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Three's a Crowd",
+          "airdate": "2025-05-12",
+          "summary": "Elizabeth Chambers untangles the web of lies that leaves Michelle Hadley sitting in jail for 88 days. Michelle finally sets the record straight.",
+          "url": "https://www.imdb.com/title/tt37055246/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "The Depraved Heart",
+          "airdate": "2025-05-19",
+          "summary": "Elizabeth joins the Harris family in their fight for justice against the doctor who uses power, privilege and drugs to control their daughter, Sarah.",
+          "url": "https://www.imdb.com/title/tt37055250/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Don't Shoot Mommy",
+          "airdate": "2025-06-02",
+          "summary": "A vengeful and violent ex attacks three generations in one night.",
+          "url": "https://www.imdb.com/title/tt37196179/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Surviving, Strangis",
+          "airdate": "2025-06-09",
+          "summary": "Elizabeth Chambers investigates conman Anthony Strangis, meeting his ex-wife Sarma Melngailis and discovering new alleged victims, including his sister, as she tracks him down.",
+          "url": "https://www.imdb.com/title/tt37232981/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Chasing a Ghost",
+          "airdate": "2025-06-16",
+          "summary": "Elizabeth Chambers investigates convicted conman Anthony Strangis after finding new alleged victims. With a former DOJ Agent and fresh information, she confronts the alleged scammer in person.",
+          "url": "https://www.imdb.com/title/tt37232984/?ref_=ttep_ep_6"
+        }
+      ]
+    },
+    "tt43706317": {
+      "imdbId": "tt43706317",
+      "title": "Unmasking a Monster: Aileen Wuornos",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 30,
+          "name": "Face to Face With the Monster",
+          "airdate": "2026-09-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43720409/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt32382422": {
+      "imdbId": "tt32382422",
+      "title": "Scrabble",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Season Two Premiere",
+          "airdate": "2026-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985526/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Hit Me",
+          "airdate": "2026-01-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985527/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Conan the Librarian",
+          "airdate": "2026-02-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985525/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Bookworms",
+          "airdate": "2026-02-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985529/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Like Rugby, but with Words",
+          "airdate": "2026-02-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985528/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Suit & Tile",
+          "airdate": "2026-02-26",
+          "summary": "A college professor puts his Scrabble tie to the test in pursuit of $10,000",
+          "url": "https://www.imdb.com/title/tt36985522/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "World Series of Words",
+          "airdate": "2026-03-05",
+          "summary": "Players from rival cities try to hit the best bonus squares for a chance to take home the $10,000 prize.",
+          "url": "https://www.imdb.com/title/tt36985531/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Thread Lightly",
+          "airdate": "2026-03-12",
+          "summary": "Players with lettered sweaters and socks hope to stitch the best words together for a chance of taking home $10,000.",
+          "url": "https://www.imdb.com/title/tt36985524/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Reign Check",
+          "airdate": "2026-04-02",
+          "summary": "Players engage in a noble word battle in pursuit of capturing the $10,000 throne.",
+          "url": "https://www.imdb.com/title/tt36985523/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "The Machine",
+          "airdate": "2026-04-09",
+          "summary": "Two word wizards slug it out to see who will move on to play for $10,000.",
+          "url": "https://www.imdb.com/title/tt36985530/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "Scrabble Club",
+          "airdate": "2026-04-16",
+          "summary": "contestants try to knock out their opponents and clinch a spot on the final round for a chance to win $10,000.",
+          "url": "https://www.imdb.com/title/tt36985541/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "Feeling Pumped",
+          "airdate": "2026-04-23",
+          "summary": "Word enthusiasts compete for the chance to cartwheel into the final round to play for $10,000.",
+          "url": "https://www.imdb.com/title/tt36985547/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "name": "Hannibal Letters",
+          "airdate": "2026-04-30",
+          "summary": "Contestants hunt for the best bonus squares to take out their opponents and take home $10,000.",
+          "url": "https://www.imdb.com/title/tt36985544/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "name": "Cautiously Optimistic",
+          "airdate": "2026-05-07",
+          "summary": "Three contestants hope their strong word play can get them into the final round in pursuit of $10,000.",
+          "url": "https://www.imdb.com/title/tt36985550/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "name": "Ruthless with Words",
+          "airdate": "2026-05-14",
+          "summary": "Word lovers battle it out to claim the best bonus squares and play for $10,000.",
+          "url": "https://www.imdb.com/title/tt36985549/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 2,
+          "number": 16,
+          "name": "Playing a Dangerous Game",
+          "airdate": "2026-05-21",
+          "summary": "Contestants engage in a war of words for their chance to win $10,000.",
+          "url": "https://www.imdb.com/title/tt36985545/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 2,
+          "number": 17,
+          "name": "Drawn to the Quest",
+          "airdate": "2026-05-28",
+          "summary": "Contestants engage in a war of words for their chance to win $10,000.",
+          "url": "https://www.imdb.com/title/tt36985543/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "name": "Scrabble Hands",
+          "airdate": "2026-06-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985548/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "name": "Awesome Scrabblin'",
+          "airdate": "2026-06-11",
+          "summary": "Contestants compete in an epic word battle for the chance to win $10,000.",
+          "url": "https://www.imdb.com/title/tt36985546/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 2,
+          "number": 20,
+          "name": "Manifest Destiny",
+          "airdate": "2026-06-18",
+          "summary": "Players hope the right bonus tiles will align to give them a chance at $10,000.",
+          "url": "https://www.imdb.com/title/tt36985542/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 2,
+          "number": 21,
+          "name": "Special Squares",
+          "airdate": "2026-06-25",
+          "summary": "Word lovers try to take advantage of the supersized Scrabble board as they compete for a chance to win $10,000.",
+          "url": "https://www.imdb.com/title/tt36985570/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 2,
+          "number": 22,
+          "name": "Episode #2.22",
+          "airdate": "2026-10-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985562/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Scrabble Fashionista",
+          "airdate": "2024-10-03",
+          "summary": "Hosted by Raven-Symoné (\"That's So Raven,\" \"The Cheetah Girls\"), players compete to place their words on the right bonus squares in their pursuit of the $10,000 prize.",
+          "url": "https://www.imdb.com/title/tt32384069/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Lets Get Ready to Scrabble",
+          "airdate": "2024-10-10",
+          "summary": "There really isn't a plot! It's Scrabble with different challenges per round!",
+          "url": "https://www.imdb.com/title/tt33480405/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Word Wizards",
+          "airdate": "2024-10-17",
+          "summary": "Hosted by Raven-Symoné (\"That's So Raven,\" \"The Cheetah Girls\"), contestants engage in some tasty wordplay in the hopes of creating the right words and taking home $10,000 (#111).",
+          "url": "https://www.imdb.com/title/tt33502845/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "T is for Tap Dancing",
+          "airdate": "2024-10-24",
+          "summary": "Hosted by Raven-Symoné (\"That's So Raven,\" \"The Cheetah Girls\"), a former dancer looks to find the right letter tiles and bonus squares to tap dance towards $10,000 (#104).",
+          "url": "https://www.imdb.com/title/tt33669097/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Scabbleiscious",
+          "airdate": "2024-10-31",
+          "summary": "Hosted by Raven-Symoné (\"That's So Raven,\" \"The Cheetah Girls\"), contestants engage in some tasty wordplay in the hopes of creating the right words and taking home $10,000.",
+          "url": "https://www.imdb.com/title/tt33806507/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Dictionary Divas",
+          "airdate": "2024-11-07",
+          "summary": "Hosted by Raven-Symoné (\"That's So Raven,\" \"The Cheetah Girls\"), word lovers do battle placing their letter tiles on the supersized Scrabble board in the hopes of taking home the $10,000 prize (#108).",
+          "url": "https://www.imdb.com/title/tt34095153/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Word Warriors",
+          "airdate": "2024-11-14",
+          "summary": "Hosted by Raven-Symoné (\"That's So Raven,\" \"The Cheetah Girls\"), contestants rearrange their letter tiles to find the right words in their effort to take home the $10,000 prize (#102).",
+          "url": "https://www.imdb.com/title/tt34281447/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Triple Play",
+          "airdate": "2024-11-21",
+          "summary": "Hosted by Raven-Symoné (\"That's So Raven,\" \"The Cheetah Girls\"), players compete to place their words on the right bonus squares in their pursuit of the $10,000 prize (#105).",
+          "url": "https://www.imdb.com/title/tt34382252/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Human Dictionary",
+          "airdate": "2024-12-05",
+          "summary": "Hosted by Raven-Symoné (\"That's So Raven,\" \"The Cheetah Girls\"), players compete to place their words on the right bonus squares in their pursuit of the $10,000 prize.",
+          "url": "https://www.imdb.com/title/tt34748833/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Vowel Play",
+          "airdate": "2024-12-12",
+          "summary": "Hosted by Raven-Symoné (\"That's So Raven,\" \"The Cheetah Girls\"), players compete to place their words on the right bonus squares in their pursuit of the $10,000 prize (#112).",
+          "url": "https://www.imdb.com/title/tt34748834/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Get Wordy with It",
+          "airdate": "2024-12-19",
+          "summary": "Hosted by Raven-Symoné (\"That's So Raven,\" \"The Cheetah Girls\"), players face off looking to find the best words on their letter tile racks in pursuit of $10,000 (#106).",
+          "url": "https://www.imdb.com/title/tt34807675/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "Letterheads",
+          "airdate": "2024-12-26",
+          "summary": "Hosted by Raven-Symoné (\"That's So Raven,\" \"The Cheetah Girls\"), letter tile titans compete to put the best words up on the supersized game board in hopes of going home with $10,000 (#101).",
+          "url": "https://www.imdb.com/title/tt34919851/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "Aba vs. Jeffrey",
+          "airdate": "2025-02-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36997619/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "Amanda vs. Jeremy",
+          "airdate": "2025-02-17",
+          "summary": "Word lovers do battle placing their letter tiles on the supersized Scrabble board in the hopes of taking home the $10,000 prize",
+          "url": "https://www.imdb.com/title/tt35822699/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "name": "Hannah vs. Nick",
+          "airdate": "2025-04-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36997620/?ref_=ttep_ep_15"
+        }
+      ]
+    },
+    "tt0369081": {
+      "imdbId": "tt0369081",
+      "title": "Ask This Old House",
+      "episodes": [
+        {
+          "season": 25,
+          "number": 1,
+          "name": "Adobe Bricks and Miter Tricks",
+          "airdate": "2026-10-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44936173/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 24,
+          "number": 2,
+          "name": "Seashell Driveway; Radon System",
+          "airdate": "2025-10-02",
+          "summary": "Swapping a coastal home's gravel driveway for seashells; installing a radon mitigation system.",
+          "url": "https://www.imdb.com/title/tt38494854/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 24,
+          "number": 3,
+          "name": "Houseplant Soil; Spot Point Brick",
+          "airdate": "2025-10-09",
+          "summary": "Removing ring stains from a wooden table; breaking down the types of soil and fertilizer needed for common indoor plants; repairing a brick floor's crumbling mortar using spot pointing rather than a full repoint job.",
+          "url": "https://www.imdb.com/title/tt38689436/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 24,
+          "number": 4,
+          "name": "Washer Dryer Relocation",
+          "airdate": "2025-10-16",
+          "summary": "Kevin meets with an audiologist to discuss the importance of hearing protection; Richard, Nathan and Heath team up to help a couple age in place by relocating their washer and dryer to the main floor.",
+          "url": "https://www.imdb.com/title/tt38715980/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 24,
+          "number": 5,
+          "name": "Planting Arborvitaes, Storage Rack",
+          "airdate": "2025-10-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38779113/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 24,
+          "number": 6,
+          "name": "Sustainable Grass, Driveway Lights",
+          "airdate": "2025-10-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38814273/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 24,
+          "number": 7,
+          "name": "Seabees; Paint Galvanized Railing",
+          "airdate": "2025-11-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38891397/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 24,
+          "number": 8,
+          "name": "Regrade Lawn; Solid Core Doors",
+          "airdate": "2025-11-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38960734/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 24,
+          "number": 9,
+          "name": "Garage Storage; Anode Rod",
+          "airdate": "2026-01-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39302847/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 24,
+          "number": 10,
+          "name": "Idaho Backyard Makeover",
+          "airdate": "2026-01-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39325265/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 24,
+          "number": 11,
+          "name": "Speakeasy Hidden Door",
+          "airdate": "2026-01-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39374246/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 24,
+          "number": 12,
+          "name": "Paint Ceiling; Squeaky Floor",
+          "airdate": "2026-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39377817/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 24,
+          "number": 13,
+          "name": "Split Water Heater; Attic Ladder",
+          "airdate": "2026-01-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39377818/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 24,
+          "number": 14,
+          "name": "3-Way Switch; Split Rail Fence",
+          "airdate": "2026-02-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39709702/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 24,
+          "number": 15,
+          "name": "Toys and Color; Air Switch",
+          "airdate": "2026-02-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39862903/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 24,
+          "number": 16,
+          "name": "Grass Seed Facility; Porch Swing",
+          "airdate": "2026-02-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40147129/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 24,
+          "number": 17,
+          "name": "Lead Testing; Hillside Steps",
+          "airdate": "2026-03-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41121802/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 24,
+          "number": 18,
+          "name": "NOLA Shutters; Hardwired Alarms",
+          "airdate": "2026-04-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41121804/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 24,
+          "number": 19,
+          "name": "Arch Accent; Pea Stone Patio",
+          "airdate": "2026-04-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41678914/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 24,
+          "number": 20,
+          "name": "Hang Shades; Steep Landscaping",
+          "airdate": "2026-04-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41678916/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 24,
+          "number": 21,
+          "name": "Running Power to a Shed",
+          "airdate": "2026-04-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42006152/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 24,
+          "number": 22,
+          "name": "Flower Vase; Smart Garage Opener",
+          "airdate": "2026-04-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42006153/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 24,
+          "number": 23,
+          "name": "Paver Walkway; Mowing a Lawn 101",
+          "airdate": "2026-05-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42194061/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 24,
+          "number": 24,
+          "name": "Tile Soap Holders; Swirl Ceiling",
+          "airdate": "2026-05-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42194195/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 24,
+          "number": 25,
+          "name": "NOLA Lantern; Rusty Patio Set",
+          "airdate": "2025-09-25",
+          "summary": "NOLA copper lantern fixtures; why toilets overflow; restoring rusty outdoor furniture.",
+          "url": "https://www.imdb.com/title/tt38126686/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 24,
+          "number": 26,
+          "name": "Outdoor TV; Granite Firepit",
+          "airdate": "2026-05-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42581275/?ref_=ttep_ep_26"
+        }
+      ]
+    },
+    "tt37972251": {
+      "imdbId": "tt37972251",
+      "title": "War",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "It's Done",
+          "airdate": "2026-10-01",
+          "summary": "As Morgan and Carla's 10-year marriage hurtles toward divorce, their respective attorneys begin to ramp up their war rooms.",
+          "url": "https://www.imdb.com/title/tt37976593/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "No More Nasty Surprises",
+          "airdate": "2026-10-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39269626/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": "2026-10-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38962307/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Episode #1.4",
+          "airdate": "2026-10-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38962497/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode #1.5",
+          "airdate": "2026-10-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38962917/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode #1.6",
+          "airdate": "2026-11-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38963332/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Episode #1.7",
+          "airdate": "2026-11-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38963562/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Episode #1.8",
+          "airdate": "2026-11-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38968118/?ref_=ttep_ep_8"
+        }
+      ]
+    },
+    "tt16116866": {
+      "imdbId": "tt16116866",
+      "title": "Trivial Pursuit",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Season Two Premiere",
+          "airdate": "2026-01-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985582/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Teacher's Pet",
+          "airdate": "2026-01-29",
+          "summary": "A pair of teachers go head-to-head in the six iconic Trivial Pursuit categories in hopes of winning $20,000. LeVar Burton serves as host",
+          "url": "https://www.imdb.com/title/tt36985579/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Law and Orders",
+          "airdate": "2026-02-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985578/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Hot Buttered Biscuits",
+          "airdate": "2026-02-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985585/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "The Greatest Showman",
+          "airdate": "2026-02-19",
+          "summary": "A party clown plays to win.",
+          "url": "https://www.imdb.com/title/tt36985580/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "A Numbers Game",
+          "airdate": "2026-02-26",
+          "summary": "A pair of contestants from the world of analytics go head to head.",
+          "url": "https://www.imdb.com/title/tt36985584/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Pop Quiz",
+          "airdate": "2026-03-05",
+          "summary": "A former high school quiz bowl coach sees if he can ace the test.",
+          "url": "https://www.imdb.com/title/tt36985581/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "History of the World",
+          "airdate": "2026-03-12",
+          "summary": "An archivist and anthropologist battle it out in the six iconic categories in hopes of winning $20,000.",
+          "url": "https://www.imdb.com/title/tt36985587/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Weird Science",
+          "airdate": "2026-04-02",
+          "summary": "A scientist and a hypnotist take their shot in six iconic categories in hopes of winning $20,000.",
+          "url": "https://www.imdb.com/title/tt36985583/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Major League",
+          "airdate": "2026-04-09",
+          "summary": "A player who once declared seven majors takes on the six iconic categories in hope of winning $20,000.",
+          "url": "https://www.imdb.com/title/tt36985586/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "Breaking Good",
+          "airdate": "2026-04-16",
+          "summary": "A tiebreaker is needed to determine who will take on the six iconic Trivial Pursuit categories in hopes of winning $20,000.",
+          "url": "https://www.imdb.com/title/tt36985599/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "House Rules",
+          "airdate": "2026-04-23",
+          "summary": "A new homeowner competes in six iconic categories in hopes of winning $20,000.",
+          "url": "https://www.imdb.com/title/tt36985606/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "name": "Shake It Off",
+          "airdate": "2026-04-30",
+          "summary": "A Taylor Swift superfan tries to fill the blank space in six iconic categories in hope of winning $20,000.",
+          "url": "https://www.imdb.com/title/tt36985604/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "name": "The Main Event",
+          "airdate": "2026-05-07",
+          "summary": "An events planner and chemical engineer square off in the six iconic categories in hope of winning $20,000.",
+          "url": "https://www.imdb.com/title/tt36985608/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "name": "First Class",
+          "airdate": "2026-05-14",
+          "summary": "An English teacher and travel consultant get tested in the six iconic Trivial Pursuit categories in hope of winning $20,000.",
+          "url": "https://www.imdb.com/title/tt36985607/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 2,
+          "number": 16,
+          "name": "Heart of Gold",
+          "airdate": "2026-05-21",
+          "summary": "A college professor tackles the six iconic categories in hope of winning $20,000 for his parents' 50th anniversary.",
+          "url": "https://www.imdb.com/title/tt36985601/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 2,
+          "number": 17,
+          "name": "By the Numbers",
+          "airdate": "2026-05-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985605/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "name": "Queen of the Pop Up",
+          "airdate": "2026-06-04",
+          "summary": "A social media advertising director competes.",
+          "url": "https://www.imdb.com/title/tt36985600/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "name": "On Thin Ice",
+          "airdate": "2026-06-11",
+          "summary": "A hockey enthusiast and bar trivia player face off.",
+          "url": "https://www.imdb.com/title/tt36985603/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 2,
+          "number": 20,
+          "name": "School Ties",
+          "airdate": "2026-06-18",
+          "summary": "A pair of college professors go head to head in six Trivial Pursuit categories in hopes of winning $20,000.",
+          "url": "https://www.imdb.com/title/tt36985602/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 2,
+          "number": 21,
+          "name": "Simply the Best",
+          "airdate": "2026-06-25",
+          "summary": "A four-time defending champion looks to defend her title.",
+          "url": "https://www.imdb.com/title/tt36985615/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 2,
+          "number": 22,
+          "name": "Episode #2.22",
+          "airdate": "2026-10-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985618/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "The Pursuit",
+          "airdate": "2024-10-03",
+          "summary": "Hosted by LeVar Burton, players compete in 3 rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000",
+          "url": "https://www.imdb.com/title/tt16149826/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Checkmate",
+          "airdate": "2024-10-10",
+          "summary": "Players compete in 3 rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000.",
+          "url": "https://www.imdb.com/title/tt33480404/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Battle of the Teachers",
+          "airdate": "2024-10-17",
+          "summary": "Teachers and others battle in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000. The series is hosted by LeVar Burton (#103).",
+          "url": "https://www.imdb.com/title/tt33502819/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Squidword",
+          "airdate": "2024-10-24",
+          "summary": "A quirky math teacher enters a high-stakes trivia competition, hoping his unconventional squid tattoo will bring him luck across six categories and a $20,000 prize.",
+          "url": "https://www.imdb.com/title/tt33668953/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "The T.P. Open",
+          "airdate": "2024-10-31",
+          "summary": "A tennis enthusiast looks to win big on center court while competing in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000. The series is hosted by LeVar Burton (#106).",
+          "url": "https://www.imdb.com/title/tt33806506/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Take That, Coach K!",
+          "airdate": "2024-11-07",
+          "summary": "A college basket hopeful looks to slam dunk the competition in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000. The series is hosted by LeVar Burton.",
+          "url": "https://www.imdb.com/title/tt34095149/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "NXT Superstars",
+          "airdate": "2024-11-14",
+          "summary": "The superstars of NXT Wrestling drop by to tag team some trivia with host LeVar Burton while players compete for the $20,000 prize (#112).",
+          "url": "https://www.imdb.com/title/tt34281435/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Miss Trivial Pursuit",
+          "airdate": "2024-11-21",
+          "summary": "A former beauty queen looks to take home the crown in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000. The series is hosted by LeVar Burton (#110).",
+          "url": "https://www.imdb.com/title/tt34382242/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Easy Rider",
+          "airdate": "2024-12-02",
+          "summary": "A motorcycle enthusiast looks to ride home with $20,000 competing in three rounds of trivia in the six iconic Trivial Pursuit categories. The series is hosted by LeVar Burton (#104).",
+          "url": "https://www.imdb.com/title/tt34748821/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Bar Trivia",
+          "airdate": "2024-12-05",
+          "summary": "A tennis enthusiast looks to win big on center court while competing in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000. The series is hosted by LeVar Burton (#106).",
+          "url": "https://www.imdb.com/title/tt34748823/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Bend and Snap",
+          "airdate": "2024-12-12",
+          "summary": "Contestants battle on a massive game board, answering questions across categories to conquer wedges and race to the center, outwitting rivals",
+          "url": "https://www.imdb.com/title/tt34748825/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "Is There a Doctor in the House?",
+          "airdate": "2024-12-19",
+          "summary": "A doctor tests her patience as she competes in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000. The series is hosted by LeVar Burton.",
+          "url": "https://www.imdb.com/title/tt34807667/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "Trivial Dispute",
+          "airdate": "2024-12-26",
+          "summary": "Hosted by LeVar Burton (\"Reading Rainbow,\" \"Roots\"), a paralegal, project manager, and professor compete in three rounds of trivia in the six iconic Trivial Pursuit categories for a chance at winning $20,000.",
+          "url": "https://www.imdb.com/title/tt34919842/?ref_=ttep_ep_13"
+        }
+      ]
+    },
+    "tt13438882": {
+      "imdbId": "tt13438882",
+      "title": "Celebrity Wheel of Fortune",
+      "episodes": [
+        {
+          "season": 7,
+          "number": 1,
+          "name": "Episode #7.1",
+          "airdate": "2026-10-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44387770/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 6,
+          "number": 2,
+          "name": "Joey McIntyre, Retta, Oliver Hudson",
+          "airdate": "2025-10-03",
+          "summary": "Celebrity contestants Joey McIntyre, Retta and Oliver Hudson.",
+          "url": "https://www.imdb.com/title/tt38199320/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 6,
+          "number": 3,
+          "name": "Katie Lowes, Malin Akerman, Jaime Ray Newman",
+          "airdate": "2025-10-17",
+          "summary": "Celebrity contestants are Katie Lowes, Malin Akerman, and Jamie Ray Newman (TV series, \"The Hunting Wives\");",
+          "url": "https://www.imdb.com/title/tt38523236/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 6,
+          "number": 4,
+          "name": "Alex Borstein, Paul Feig, Michael Zegen",
+          "airdate": "2025-10-24",
+          "summary": "Celebrity contestants are actress Alex Borstein, director Paul Feig, and actor Michael Zegen;",
+          "url": "https://www.imdb.com/title/tt38595893/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 6,
+          "number": 5,
+          "name": "Candace Parker, Dwight Howard and Rich Eisen",
+          "airdate": "2025-10-31",
+          "summary": "Celebrity contestants are WNBA champion/author Candace Parker, NBA Hall of Famer Dwight Howard, and sportscaster/radio host Rich Eisen;",
+          "url": "https://www.imdb.com/title/tt38650200/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 6,
+          "number": 6,
+          "name": "Big Sean, Tori Kelly and 2 Chainz",
+          "airdate": "2025-11-07",
+          "summary": "Celebrity contestants are Big Sean, Toni Kelly, and 2 Chainz;",
+          "url": "https://www.imdb.com/title/tt38714407/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 6,
+          "number": 7,
+          "name": "Liza Koshy, Paul Walter Hauser, Phoebe Robinson",
+          "airdate": "2025-11-14",
+          "summary": "Celebrity contestants are YouTuber Liz Koshy, actor Paul Walter Hauser, and comic Phoebe Robinson;",
+          "url": "https://www.imdb.com/title/tt38907691/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 6,
+          "number": 8,
+          "name": "Sebastian Maniscalco, Meghan Trainor and Taye Diggs",
+          "airdate": "2025-12-11",
+          "summary": "Celebrity contestants Sebastian Maniscalo, Meghan Trainor and Taye Diggs.",
+          "url": "https://www.imdb.com/title/tt38870352/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 6,
+          "number": 9,
+          "name": "Max Greenfield, D'Arcy Carden and Timothy Simons",
+          "airdate": "2026-01-09",
+          "summary": "Celebrity contestants Max Greenfield, D'Arcy Carden, and Timothy Simons;",
+          "url": "https://www.imdb.com/title/tt39221161/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 6,
+          "number": 10,
+          "name": "Kathy Hilton, Rick Ross and Riki Lindhome",
+          "airdate": "2026-01-16",
+          "summary": "Celebrity contestants Kathy Hilton, Rick Ross, and Riki Lindhome;",
+          "url": "https://www.imdb.com/title/tt39221181/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 6,
+          "number": 11,
+          "name": "Hannah Simone, Lamorne Morris, Jake Johnson",
+          "airdate": "2026-06-12",
+          "summary": "New Girl castmates Hannah Simone, Lamorne Morris and Jake Johnson compete.",
+          "url": "https://www.imdb.com/title/tt43542075/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 6,
+          "number": 12,
+          "name": "Miguel Rojas, Freddie Freeman, Kike Hernandez",
+          "airdate": "2026-06-12",
+          "summary": "World Series Champions Los Angeles Dodgers Miguel Rijos, Freddie Freeman and Kike Hernandez.",
+          "url": "https://www.imdb.com/title/tt43542076/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 6,
+          "number": 13,
+          "name": "Adam Conover, Vanessa Lachey, Simon Rex",
+          "airdate": "2026-06-12",
+          "summary": "Celebrity contestants Adam Conover, Vanessa Lachey and Simon Rex.",
+          "url": "https://www.imdb.com/title/tt43542077/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 6,
+          "number": 14,
+          "name": "Kristen Kish, Rashid Shaheed, Action Bronson",
+          "airdate": "2026-06-12",
+          "summary": "Celebrity contestants Kristen Kish, Rashid Shaheed and Action Bronson.",
+          "url": "https://www.imdb.com/title/tt43542078/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 6,
+          "number": 15,
+          "name": "Nat Faxon, Sarah Chalke, Joel Kim Booster",
+          "airdate": "2026-06-12",
+          "summary": "Celebrity contestants Nat Faxon, Sarah Chalke and Joel Kim Booster.",
+          "url": "https://www.imdb.com/title/tt43542079/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 6,
+          "number": 16,
+          "name": "Jamie Lynn Sigler, Dan Bucatinsky, Nikki Bella",
+          "airdate": "2026-06-12",
+          "summary": "Celebrity contestants Jamie Lynn Sigler, Dan Bucatinksy and Nikki Bella.",
+          "url": "https://www.imdb.com/title/tt43542080/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 6,
+          "number": 17,
+          "name": "Andrea Savage, Brian Austin Green, Cam Heyward",
+          "airdate": "2026-06-12",
+          "summary": "Celebrity contestants Andrea Savage, Brian Austin Green and Cam Heyward.",
+          "url": "https://www.imdb.com/title/tt43542081/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 6,
+          "number": 18,
+          "name": "Jordin Sparks, Scott Auckerman, Brett Gelman",
+          "airdate": "2026-06-12",
+          "summary": "Celebrity contestants Jordin Sparks, Scott Aukerman and Brett Gelman.",
+          "url": "https://www.imdb.com/title/tt43542082/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 6,
+          "number": 19,
+          "name": "Michael Urie, Yvonne Orji, Hasan Minhaj",
+          "airdate": "2026-06-12",
+          "summary": "Celebrity contestants Michael Urie, Yvonne Orji and Hasan Minhaj.",
+          "url": "https://www.imdb.com/title/tt43542083/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 6,
+          "number": 20,
+          "name": "Kelly McCreary, Billy Gardell, Mary Elizabeth Ellis",
+          "airdate": "2026-06-12",
+          "summary": "Celebrity contestants Kelly McCreary, Billy Gardell and Mary Elizabeth Ellis.",
+          "url": "https://www.imdb.com/title/tt43542085/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 6,
+          "number": 26,
+          "name": "Derek Hough, Bruno Tonioli and Jenna Johnson Chmerkovskiy",
+          "airdate": "2025-09-26",
+          "summary": "Celebrities Jenna Johnson Chmerkovskiy, Derek Hough and Bruno Tonioli compete,",
+          "url": "https://www.imdb.com/title/tt36885472/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt1800864": {
+      "imdbId": "tt1800864",
+      "title": "Gold Rush",
+      "episodes": [
+        {
+          "season": 17,
+          "number": 1,
+          "name": "Episode #17.1",
+          "airdate": "2026-10-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46080788/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 16,
+          "number": 1,
+          "name": "Records Will be Broken",
+          "airdate": "2025-11-07",
+          "summary": "Parker schemes for a $35M heist and recruits from a competitor's team. Tony scores a major early payday. Rick rushes to secure new territory.",
+          "url": "https://www.imdb.com/title/tt38623936/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 16,
+          "number": 2,
+          "name": "Eager Beavers",
+          "airdate": "2025-11-14",
+          "summary": "Tony fights huge beaver for gold access. Parker recruits more workers, doubling gold output. Rick negotiates for new claim.",
+          "url": "https://www.imdb.com/title/tt38907123/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 16,
+          "number": 3,
+          "name": "Rick's Bold Call",
+          "airdate": "2025-11-21",
+          "summary": "Rick balks at the terms for his new claim and makes a bold move. Parker's foreman, Tyson, battles a flooded cut and a batch of new recruits. Tony explodes on a batch of rookies flipping over trucks.",
+          "url": "https://www.imdb.com/title/tt39006363/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 16,
+          "number": 4,
+          "name": "Buzz in the Hills",
+          "airdate": "2025-11-28",
+          "summary": "Parker pushes Mitch to deliver Sulphur Creek gold and records a big score. Buzz lands on an unlikely claim. Tony's pressure tests a new foreman.",
+          "url": "https://www.imdb.com/title/tt39006370/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 16,
+          "number": 5,
+          "name": "Pick Me Someone to Fire",
+          "airdate": "2025-12-05",
+          "summary": "Parker tasks Tyson with finding the weakest link in the crew. Tony approaches Parker to make a deal and raids his son Mike's operation. Rick fires up on Lightning Creek for the first time.",
+          "url": "https://www.imdb.com/title/tt39060460/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 16,
+          "number": 6,
+          "name": "The Weasel",
+          "airdate": "2025-12-12",
+          "summary": "Tony hunts down an insubordinate crew member. Rick gets his first gold from Lightning Creek. Kevin's parents pressure him to get his new Pyramid Cut running.",
+          "url": "https://www.imdb.com/title/tt39109615/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 16,
+          "number": 7,
+          "name": "Surprise Fortunes",
+          "airdate": "2025-12-19",
+          "summary": "While searching for better ground on Lightning Creek, Rick is rocked by surprising news. Parker gets greedy and expands his Sulphur claim. Mike pivots on Paradise Hill in an effort to impress Tony.",
+          "url": "https://www.imdb.com/title/tt39228908/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 16,
+          "number": 8,
+          "name": "No Off Days",
+          "airdate": "2025-12-26",
+          "summary": "Parker's season rides on a critical decision on which ground to open next. Doumitt designs a new gold coin, and Parker cashes in a pile of gold.",
+          "url": "https://www.imdb.com/title/tt39228910/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 16,
+          "number": 9,
+          "name": "Parker Comes Calling",
+          "airdate": "2026-01-02",
+          "summary": "Kevin is sent reeling when Parker shows up demanding the money he's owed; Parker discovers he's losing gold from a wash plant on Dominion Creek; Tony's son Mike puts new recruits through boot camp on Paradise Hill.",
+          "url": "https://www.imdb.com/title/tt39228915/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 16,
+          "number": 10,
+          "name": "Playing with Fire",
+          "airdate": "2026-01-09",
+          "summary": "Forest fires threaten to shut down Parker's Sulphur Creek claim before he can get all the gold out. Rick decides whether to move back to Duncan Creek. Tony loses nearly $750,000 in gold fighting a wash plant issue.",
+          "url": "https://www.imdb.com/title/tt39287004/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 16,
+          "number": 11,
+          "name": "New Levels of Chaos",
+          "airdate": "2026-01-16",
+          "summary": "Parker unleashes chaos as the team tries to get four wash plants running. Tony splurges on a new wash plant to get more gold. Kevin tries to broker a deal with his dad. Rick fires up at Vegas Valley.",
+          "url": "https://www.imdb.com/title/tt39373412/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 16,
+          "number": 12,
+          "name": "Cleaning Up in Vegas",
+          "airdate": "2026-01-23",
+          "summary": "Rick plows through Vegas Valley paydirt and makes a big score, but an obstacle threatens to stall him. Parker's four-plant blitz stumbles. To keep his hot streak going, Tony pilfers more gear from his son Mike.",
+          "url": "https://www.imdb.com/title/tt39395629/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 16,
+          "number": 13,
+          "name": "On Shaky Ground",
+          "airdate": "2026-01-30",
+          "summary": "Parker drops the hammer as he tries to stop his gold slide. Rick makes a discovery that could end his Vegas Valley dreams. Kevin hires a new free agent and makes a big score at his new Sphinx Cut.",
+          "url": "https://www.imdb.com/title/tt39525155/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 16,
+          "number": 14,
+          "name": "The King of Keno",
+          "airdate": "2026-02-06",
+          "summary": "Rick goes on a midnight run to stake new ground for his empire. While fixing one of the wash plants, Monster Red, he discovers she's hiding a surprising amount of gold.",
+          "url": "https://www.imdb.com/title/tt39395098/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 16,
+          "number": 15,
+          "name": "Valhalla or Bust",
+          "airdate": "2026-02-13",
+          "summary": "Rick makes a shocking $1M call to open a new cut.",
+          "url": "https://www.imdb.com/title/tt39525159/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 16,
+          "number": 16,
+          "name": "The Defectors",
+          "airdate": "2026-02-20",
+          "summary": "Tony's crew defects to Parker's side; Tony relies on inexperienced operators; Parker's new hires cause friction within the team; the group faces animosity as they open a new cut.",
+          "url": "https://www.imdb.com/title/tt40065238/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 16,
+          "number": 17,
+          "name": "Trommel Around and Find Out",
+          "airdate": "2026-02-27",
+          "summary": "Tony blows up at Mike to get the trommel running. Two of Rick's crew face off while trying to dig out Valhalla. Kevin leans on Buzz to get more gold.",
+          "url": "https://www.imdb.com/title/tt40065242/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 16,
+          "number": 18,
+          "name": "The Silence of the Sluice",
+          "airdate": "2026-03-06",
+          "summary": "Parker does the unthinkable to get all of the Golden Mile's paydirt. Rick's mechanic Ryan considers leaving. Mike Beets finally fires up the trommel on the hill.",
+          "url": "https://www.imdb.com/title/tt40065442/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 16,
+          "number": 19,
+          "name": "Rick's Mess",
+          "airdate": "2026-03-13",
+          "summary": "Rick's shaken by his find at the bottom of Valhalla. Tony bears down on his 6,500-ounce goal. Parker taps Brennan for a big job at the Golden Mile.",
+          "url": "https://www.imdb.com/title/tt40672985/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 16,
+          "number": 20,
+          "name": "Like Brother, Like Brother",
+          "airdate": "2026-03-20",
+          "summary": "Tony Beets' brother Klaas visits from The Netherlands and reunites with his son Mike, who's worked for Tony for 4 years. Tony and Minnie go on a rare date. Tony's friend smelts gold into small bars worth about $1 million.",
+          "url": "https://www.imdb.com/title/tt40998993/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 16,
+          "number": 21,
+          "name": "Golden Goose, Wounded Moose",
+          "airdate": "2026-03-27",
+          "summary": "Tony aims for over 1,000 ounces in a week. Parker purchases new equipment to expand operations. Rick's team spends heavily during a successful run.",
+          "url": "https://www.imdb.com/title/tt41240870/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 16,
+          "number": 22,
+          "name": "Dig Deep or Cash Out",
+          "airdate": "2026-04-03",
+          "summary": "Parker and Tony race to break the 10,000-ounce mark. Rick works to open the Last Chance cut before his Vegas Valley pay dirt runs out.",
+          "url": "https://www.imdb.com/title/tt41549115/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 16,
+          "number": 23,
+          "name": "Musical Washplants",
+          "airdate": "2026-04-10",
+          "summary": "Parker brings Sluicifer out of retirement for a big week. Rick prays that Vegas Valley still pays out big. Kevin staffs up for the final push.",
+          "url": "https://www.imdb.com/title/tt41704615/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 16,
+          "number": 24,
+          "name": "1,000 Ounce Week",
+          "airdate": "2026-04-17",
+          "summary": "Tony aims for over 1,000 ounces in a week. Parker purchases new equipment to expand operations. Rick's team spends heavily during a successful run.",
+          "url": "https://www.imdb.com/title/tt39888222/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 16,
+          "number": 25,
+          "name": "The Gold Ceiling",
+          "airdate": "2026-04-24",
+          "summary": "Parker and Tony both try to bust through the 10,000-ounce barrier. Rick tries to get the Last Chance cut open before he runs out of Vegas Valley pay dirt.",
+          "url": "https://www.imdb.com/title/tt41704627/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 16,
+          "number": 26,
+          "name": "Klondike Shoot-out",
+          "airdate": "2026-05-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42361367/?ref_=ttep_ep_26"
+        }
+      ]
+    },
+    "tt9165508": {
+      "imdbId": "tt9165508",
+      "title": "Ready to Love",
+      "episodes": [
+        {
+          "season": 12,
+          "number": 1,
+          "name": "Episode #12.1",
+          "airdate": "2026-10-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45595450/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 11,
+          "number": 1,
+          "name": "Detroit is Lit!\"",
+          "airdate": "2025-11-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38634212/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 11,
+          "number": 2,
+          "name": "Second Chance Mixer",
+          "airdate": "2025-11-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38811436/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 11,
+          "number": 3,
+          "name": "Tommy's Skate Jam",
+          "airdate": "2025-11-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38811435/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 11,
+          "number": 4,
+          "name": "Up Close and Personal",
+          "airdate": "2025-11-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38811437/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 11,
+          "number": 5,
+          "name": "Soul Train & Soul Mates",
+          "airdate": "2025-12-05",
+          "summary": "The men tour Aretha Franklin's house before a Motown party. Christina discusses her priorities with several men. Vince opens up to Lauren. Donnah expresses feeling misunderstood.",
+          "url": "https://www.imdb.com/title/tt39049074/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 11,
+          "number": 6,
+          "name": "Diddy Pose",
+          "airdate": "2025-12-12",
+          "summary": "After Motown's exit, women regain control and probe deeper with the men. Bello shares questionable details about his child with Lauren. Nicole's anticipated date with Ed arrives - but will it meet her hopes?",
+          "url": "https://www.imdb.com/title/tt39049075/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 11,
+          "number": 7,
+          "name": "Meet the Detroit Exes",
+          "airdate": "2025-12-19",
+          "summary": "Men have control and women meet former flames. Carde's ex sends Ashante to the doghouse. Darius dates a fox. Devon's gifts upset Nicole. Donnah shares rushed plans. Kisses occur.",
+          "url": "https://www.imdb.com/title/tt39049073/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 11,
+          "number": 8,
+          "name": "Meet the Detroit Friends",
+          "airdate": "2025-12-19",
+          "summary": "Women introduce BFFs to key contacts while men try proving their worth as partners. Some fail to live up to expectations and can't be the heroes their connections hoped for.",
+          "url": "https://www.imdb.com/title/tt39049076/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 11,
+          "number": 10,
+          "name": "Detroit Getaway Part 2",
+          "airdate": "2026-01-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39223538/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 11,
+          "number": 11,
+          "name": "Engaged and Confused",
+          "airdate": "2026-01-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39223545/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 11,
+          "number": 12,
+          "name": "The Detroit Finale",
+          "airdate": "2026-01-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39223548/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 11,
+          "number": 13,
+          "name": "Detroit Reunion Part 1",
+          "airdate": "2026-01-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39223551/?ref_=ttep_ep_13"
+        }
+      ]
+    },
+    "tt45584297": {
+      "imdbId": "tt45584297",
+      "title": "Africa: Earth's Wild Home",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Episode #1.1",
+          "airdate": "2026-10-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45592648/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt27053309": {
+      "imdbId": "tt27053309",
+      "title": "The UnBelievable with Dan Aykroyd",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 1,
+          "name": "Strange Sightings",
+          "airdate": "2025-11-07",
+          "summary": "They say seeing is believing-but these sightings will make you question everything.",
+          "url": "https://www.imdb.com/title/tt38866832/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "name": "Freak Accidents",
+          "airdate": "2025-11-14",
+          "summary": "Accidents happen all the time, but every so often, a few defy logic and leave the world stunned.",
+          "url": "https://www.imdb.com/title/tt38907720/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "Shocking Missions",
+          "airdate": "2025-11-21",
+          "summary": "History is full of legendary missions-but some are so bizarre, they sound like fiction.",
+          "url": "https://www.imdb.com/title/tt38907731/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "Astonishing Feats",
+          "airdate": "2025-11-28",
+          "summary": "History is full of people pushing the limits, but some are more astonishing than others.",
+          "url": "https://www.imdb.com/title/tt38961446/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "name": "Man vs. Nature",
+          "airdate": "2025-12-05",
+          "summary": "Mother Nature may be breathtaking-but she doesn't always play nice.",
+          "url": "https://www.imdb.com/title/tt38961449/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "name": "Outlandish Ideas",
+          "airdate": "2025-12-12",
+          "summary": "When the world throws a bizarre problem your way - sometimes the solution is even more ridiculous.",
+          "url": "https://www.imdb.com/title/tt38961450/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "name": "Dodging Death",
+          "airdate": "2025-12-19",
+          "summary": "A brush with death is terrifying enough-but these stories take survival to the extreme.",
+          "url": "https://www.imdb.com/title/tt38961453/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "name": "Unusual Pastimes",
+          "airdate": "2025-12-26",
+          "summary": "The stories of history's most unusual pastimes, some fascinating, some dangerous, but each of them completely unbelievable.",
+          "url": "https://www.imdb.com/title/tt38961455/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "name": "Strangest Places",
+          "airdate": "2026-01-02",
+          "summary": "The world is full of strange and mind-bending places, but some take the cake.",
+          "url": "https://www.imdb.com/title/tt39180883/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "name": "Wildest Weapons",
+          "airdate": "2026-01-09",
+          "summary": "Weapons rank among humanity's most powerful-and wildest-inventions.",
+          "url": "https://www.imdb.com/title/tt39232697/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 3,
+          "number": 11,
+          "name": "Spectacular Cons",
+          "airdate": "2026-03-09",
+          "summary": "The Unbelievable delves into some of histories most daring con artists, from the original snake oil salesman to a WWII operation.",
+          "url": "https://www.imdb.com/title/tt40626906/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 3,
+          "number": 12,
+          "name": "Strange Machines",
+          "airdate": "2026-03-16",
+          "summary": "From the kitchen to the battlefield, some machines are just too strange to believe. Like an appliance that runs on pup power. Whether brilliant or baffling, these devices push the limits of what you thought possible.",
+          "url": "https://www.imdb.com/title/tt40840249/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 3,
+          "number": 13,
+          "name": "Unimaginable Disasters",
+          "airdate": "2026-03-20",
+          "summary": "Disasters that quickly got out of hand, from an eternal burning pit in Turkmenistan to the deadliest firework display in history.",
+          "url": "https://www.imdb.com/title/tt41091735/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 3,
+          "number": 14,
+          "name": "Out of this World",
+          "airdate": "2026-04-03",
+          "summary": "From a piece of the International Space Station crashing into a Florida home, to the first chimpanzee blasted into space, to a mind-bending time slip experienced by two women in Versailles.",
+          "url": "https://www.imdb.com/title/tt41475630/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 3,
+          "number": 15,
+          "name": "When Darkness Falls",
+          "airdate": "2026-04-10",
+          "summary": "When the sun sets, strange things come alive. Imagine a full-scale war waged against thousands of frogs, an artist who only paints while sleepwalking, and battlefield wounds that glow in the dark.",
+          "url": "https://www.imdb.com/title/tt42004824/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 3,
+          "number": 16,
+          "name": "Unlikely Heroes",
+          "airdate": "2026-04-17",
+          "summary": "How did a pet pig spring into action to save its owner's life? Which mysterious spirits became the unlikely heroes that turned the tide for a doomed flight? What shocking move did a carjacker make to rescue a baby from a scorching car?",
+          "url": "https://www.imdb.com/title/tt41896103/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 3,
+          "number": 17,
+          "name": "Odd Origins",
+          "airdate": "2026-04-24",
+          "summary": "Uncover the wild beginnings behind ordinary objects, legendary figures, and even sayings we use every day. Why did Abraham Lincoln once step into the wrestling ring? How do million-dollar birds procreate?",
+          "url": "https://www.imdb.com/title/tt42092540/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 3,
+          "number": 18,
+          "name": "Most Astonishing Creatures",
+          "airdate": "2026-05-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42281325/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 3,
+          "number": 19,
+          "name": "Maddest Minds",
+          "airdate": "2026-05-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42498449/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 3,
+          "number": 20,
+          "name": "Most Shocking Dances with Death",
+          "airdate": "2026-05-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42724355/?ref_=ttep_ep_20"
+        }
+      ]
     }
   }
 }
