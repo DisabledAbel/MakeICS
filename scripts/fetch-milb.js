@@ -19,6 +19,49 @@ const MILB_LEAGUES = [
 
 const CURRENT_YEAR = new Date().getFullYear();
 
+function gameQuality(game) {
+  const timestampDate = typeof game.date === 'string' ? game.date.slice(0, 10) : null;
+  const scheduleMatchesOfficial = game.scheduleDate && game.scheduleDate === game.officialDate;
+  const timestampMatchesSchedule = game.scheduleDate && game.scheduleDate === timestampDate;
+  const populatedFields = ['date', 'officialDate', 'name', 'homeTeam', 'awayTeam', 'venue', 'broadcast', 'status']
+    .filter(field => game[field] !== null && game[field] !== undefined && game[field] !== '').length;
+  return (scheduleMatchesOfficial ? 100 : 0) + (timestampMatchesSchedule ? 20 : 0) + populatedFields;
+}
+
+function stableGameValue(game) {
+  return JSON.stringify(Object.keys(game).sort().map(key => [key, game[key]]));
+}
+
+/**
+ * Collapse repeated MLB API records by gamePk. Schedule-date consistency and
+ * completeness select the best record; a stable value breaks exact ties.
+ */
+export function deduplicateMlbGames(games, { warn = console.warn } = {}) {
+  const unique = new Map();
+
+  for (const game of games) {
+    const key = String(game.gamePk ?? game.id);
+    const existing = unique.get(key);
+    if (!existing) {
+      unique.set(key, game);
+      continue;
+    }
+
+    const existingQuality = gameQuality(existing);
+    const candidateQuality = gameQuality(game);
+    const selected = candidateQuality > existingQuality ||
+      (candidateQuality === existingQuality && stableGameValue(game) < stableGameValue(existing))
+      ? game
+      : existing;
+    unique.set(key, selected);
+
+    const discarded = selected === game ? existing : game;
+    warn(`  MLB API returned duplicate gamePk ${key}; kept ${selected.date} (official ${selected.officialDate}, schedule ${selected.scheduleDate}) and discarded ${discarded.date} (official ${discarded.officialDate}, schedule ${discarded.scheduleDate}).`);
+  }
+
+  return [...unique.values()];
+}
+
 async function fetchJson(url) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
@@ -76,6 +119,7 @@ async function main() {
           for (const date of scheduleData.dates) {
             for (const game of date.games) {
               games.push({
+                scheduleDate: date.date,
                 date: game.gameDate,
                 officialDate: game.officialDate,
                 name: `${game.teams.home.team.name} vs ${game.teams.away.team.name}`,
@@ -83,14 +127,17 @@ async function main() {
                 awayTeam: game.teams.away.team.name,
                 venue: game.venue?.name || null,
                 broadcast: game.broadcasts?.[0]?.name || null,
+                status: game.status?.detailedState || null,
                 league: league.name,
+                gamePk: game.gamePk,
                 id: game.gamePk
               });
             }
           }
         }
-        levelSchedules.set(cacheKey, games);
-        console.log(`  Found ${games.length} games in MLB API for ${league.name} (level ${league.sportId}).`);
+        const uniqueGames = deduplicateMlbGames(games);
+        levelSchedules.set(cacheKey, uniqueGames);
+        console.log(`  Found ${uniqueGames.length} unique games in MLB API for ${league.name} (level ${league.sportId}).`);
       }
 
       const allGames = levelSchedules.get(cacheKey);
@@ -138,4 +185,6 @@ async function main() {
   console.log('MiLB schedule fetch complete.');
 }
 
-main().catch(console.error);
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+  main().catch(error => { console.error(error); process.exitCode = 1; });
+}
