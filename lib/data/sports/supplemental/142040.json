@@ -13,7 +13,7 @@
       "strTimestamp": "2026-03-24T00:10:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Daikin Park",
-      "strStatus": "NS",
+      "strStatus": "Completed Early",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -28,7 +28,7 @@
       "strTimestamp": "2026-03-25T00:10:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Daikin Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -43,7 +43,7 @@
       "strTimestamp": "2026-03-28T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -58,7 +58,7 @@
       "strTimestamp": "2026-03-28T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -73,7 +73,7 @@
       "strTimestamp": "2026-03-29T19:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -88,7 +88,7 @@
       "strTimestamp": "2026-03-31T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Vystar Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -103,7 +103,7 @@
       "strTimestamp": "2026-04-01T16:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Vystar Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -118,7 +118,7 @@
       "strTimestamp": "2026-04-02T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Vystar Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -133,7 +133,7 @@
       "strTimestamp": "2026-04-03T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Vystar Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -148,7 +148,7 @@
       "strTimestamp": "2026-04-04T22:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Vystar Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -163,7 +163,7 @@
       "strTimestamp": "2026-04-05T18:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Vystar Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -178,7 +178,7 @@
       "strTimestamp": "2026-04-08T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -193,7 +193,7 @@
       "strTimestamp": "2026-04-09T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -208,7 +208,7 @@
       "strTimestamp": "2026-04-10T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -223,7 +223,7 @@
       "strTimestamp": "2026-04-11T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -238,7 +238,7 @@
       "strTimestamp": "2026-04-11T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -253,7 +253,7 @@
       "strTimestamp": "2026-04-12T19:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -268,7 +268,7 @@
       "strTimestamp": "2026-04-15T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "The Ballpark at America First Square",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -283,52 +283,7 @@
       "strTimestamp": "2026-04-16T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "The Ballpark at America First Square",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": null,
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-814940",
-      "strEvent": "Salt Lake Bees vs Sugar Land Space Cowboys",
-      "strHomeTeam": "Salt Lake Bees",
-      "strAwayTeam": "Sugar Land Space Cowboys",
-      "dateEvent": "2026-04-18",
-      "strTime": "00:35:00",
-      "strTimestamp": "2026-04-17T00:35:00Z",
-      "strLeague": "Pacific Coast League",
-      "strVenue": "The Ballpark at America First Square",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": null,
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-814946",
-      "strEvent": "Salt Lake Bees vs Sugar Land Space Cowboys",
-      "strHomeTeam": "Salt Lake Bees",
-      "strAwayTeam": "Sugar Land Space Cowboys",
-      "dateEvent": "2026-04-17",
-      "strTime": "00:35:00",
-      "strTimestamp": "2026-04-18T00:35:00Z",
-      "strLeague": "Pacific Coast League",
-      "strVenue": "The Ballpark at America First Square",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": null,
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-814944",
-      "strEvent": "Salt Lake Bees vs Sugar Land Space Cowboys",
-      "strHomeTeam": "Salt Lake Bees",
-      "strAwayTeam": "Sugar Land Space Cowboys",
-      "dateEvent": "2026-04-18",
-      "strTime": "22:05:00",
-      "strTimestamp": "2026-04-18T22:05:00Z",
-      "strLeague": "Pacific Coast League",
-      "strVenue": "The Ballpark at America First Square",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -343,7 +298,37 @@
       "strTimestamp": "2026-04-18T22:10:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "The Ballpark at America First Square",
-      "strStatus": "NS",
+      "strStatus": "Final",
+      "strTVStation": null,
+      "updatedAt": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-814946",
+      "strEvent": "Salt Lake Bees vs Sugar Land Space Cowboys",
+      "strHomeTeam": "Salt Lake Bees",
+      "strAwayTeam": "Sugar Land Space Cowboys",
+      "dateEvent": "2026-04-17",
+      "strTime": "00:35:00",
+      "strTimestamp": "2026-04-18T00:35:00Z",
+      "strLeague": "Pacific Coast League",
+      "strVenue": "The Ballpark at America First Square",
+      "strStatus": "Final",
+      "strTVStation": null,
+      "updatedAt": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-814944",
+      "strEvent": "Salt Lake Bees vs Sugar Land Space Cowboys",
+      "strHomeTeam": "Salt Lake Bees",
+      "strAwayTeam": "Sugar Land Space Cowboys",
+      "dateEvent": "2026-04-18",
+      "strTime": "22:05:00",
+      "strTimestamp": "2026-04-18T22:05:00Z",
+      "strLeague": "Pacific Coast League",
+      "strVenue": "The Ballpark at America First Square",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -358,52 +343,7 @@
       "strTimestamp": "2026-04-19T20:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "The Ballpark at America First Square",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": null,
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-814867",
-      "strEvent": "Sugar Land Space Cowboys vs Round Rock Express",
-      "strHomeTeam": "Sugar Land Space Cowboys",
-      "strAwayTeam": "Round Rock Express",
-      "dateEvent": "2026-04-23",
-      "strTime": "23:05:00",
-      "strTimestamp": "2026-04-21T23:05:00Z",
-      "strLeague": "Pacific Coast League",
-      "strVenue": "Constellation Field",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": null,
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-814866",
-      "strEvent": "Sugar Land Space Cowboys vs Round Rock Express",
-      "strHomeTeam": "Sugar Land Space Cowboys",
-      "strAwayTeam": "Round Rock Express",
-      "dateEvent": "2026-04-25",
-      "strTime": "16:05:00",
-      "strTimestamp": "2026-04-22T16:05:00Z",
-      "strLeague": "Pacific Coast League",
-      "strVenue": "Constellation Field",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": null,
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-814862",
-      "strEvent": "Sugar Land Space Cowboys vs Round Rock Express",
-      "strHomeTeam": "Sugar Land Space Cowboys",
-      "strAwayTeam": "Round Rock Express",
-      "dateEvent": "2026-04-23",
-      "strTime": "22:05:00",
-      "strTimestamp": "2026-04-23T22:05:00Z",
-      "strLeague": "Pacific Coast League",
-      "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -418,37 +358,7 @@
       "strTimestamp": "2026-04-23T22:10:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": null,
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-814863",
-      "strEvent": "Sugar Land Space Cowboys vs Round Rock Express",
-      "strHomeTeam": "Sugar Land Space Cowboys",
-      "strAwayTeam": "Round Rock Express",
-      "dateEvent": "2026-04-24",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-04-25T00:05:00Z",
-      "strLeague": "Pacific Coast League",
-      "strVenue": "Constellation Field",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": null,
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-814864",
-      "strEvent": "Sugar Land Space Cowboys vs Round Rock Express",
-      "strHomeTeam": "Sugar Land Space Cowboys",
-      "strAwayTeam": "Round Rock Express",
-      "dateEvent": "2026-04-25",
-      "strTime": "21:35:00",
-      "strTimestamp": "2026-04-25T21:35:00Z",
-      "strLeague": "Pacific Coast League",
-      "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -463,7 +373,52 @@
       "strTimestamp": "2026-04-25T21:40:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
+      "strTVStation": null,
+      "updatedAt": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-814862",
+      "strEvent": "Sugar Land Space Cowboys vs Round Rock Express",
+      "strHomeTeam": "Sugar Land Space Cowboys",
+      "strAwayTeam": "Round Rock Express",
+      "dateEvent": "2026-04-23",
+      "strTime": "22:05:00",
+      "strTimestamp": "2026-04-23T22:05:00Z",
+      "strLeague": "Pacific Coast League",
+      "strVenue": "Constellation Field",
+      "strStatus": "Final",
+      "strTVStation": null,
+      "updatedAt": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-814863",
+      "strEvent": "Sugar Land Space Cowboys vs Round Rock Express",
+      "strHomeTeam": "Sugar Land Space Cowboys",
+      "strAwayTeam": "Round Rock Express",
+      "dateEvent": "2026-04-24",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-04-25T00:05:00Z",
+      "strLeague": "Pacific Coast League",
+      "strVenue": "Constellation Field",
+      "strStatus": "Final",
+      "strTVStation": null,
+      "updatedAt": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-814864",
+      "strEvent": "Sugar Land Space Cowboys vs Round Rock Express",
+      "strHomeTeam": "Sugar Land Space Cowboys",
+      "strAwayTeam": "Round Rock Express",
+      "dateEvent": "2026-04-25",
+      "strTime": "21:35:00",
+      "strTimestamp": "2026-04-25T21:35:00Z",
+      "strLeague": "Pacific Coast League",
+      "strVenue": "Constellation Field",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -478,7 +433,7 @@
       "strTimestamp": "2026-04-26T19:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -493,7 +448,7 @@
       "strTimestamp": "2026-04-28T18:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Greater Nevada Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -508,7 +463,7 @@
       "strTimestamp": "2026-04-30T01:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Greater Nevada Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -523,7 +478,7 @@
       "strTimestamp": "2026-05-01T01:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Greater Nevada Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -538,7 +493,7 @@
       "strTimestamp": "2026-05-02T01:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Greater Nevada Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -553,7 +508,7 @@
       "strTimestamp": "2026-05-02T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Greater Nevada Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -568,7 +523,7 @@
       "strTimestamp": "2026-05-03T20:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Greater Nevada Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -583,7 +538,7 @@
       "strTimestamp": "2026-05-05T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -598,7 +553,7 @@
       "strTimestamp": "2026-05-06T16:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -613,7 +568,7 @@
       "strTimestamp": "2026-05-08T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -628,7 +583,7 @@
       "strTimestamp": "2026-05-09T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -643,7 +598,7 @@
       "strTimestamp": "2026-05-09T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -658,7 +613,7 @@
       "strTimestamp": "2026-05-10T19:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -673,7 +628,7 @@
       "strTimestamp": "2026-05-12T18:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Cheney Stadium",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -688,7 +643,7 @@
       "strTimestamp": "2026-05-14T01:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Cheney Stadium",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -703,7 +658,7 @@
       "strTimestamp": "2026-05-15T02:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Cheney Stadium",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -718,7 +673,7 @@
       "strTimestamp": "2026-05-16T02:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Cheney Stadium",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -733,7 +688,7 @@
       "strTimestamp": "2026-05-17T01:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Cheney Stadium",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -748,7 +703,7 @@
       "strTimestamp": "2026-05-17T20:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Cheney Stadium",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -763,7 +718,7 @@
       "strTimestamp": "2026-05-19T19:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Sutter Health Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -778,7 +733,7 @@
       "strTimestamp": "2026-05-21T01:45:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Sutter Health Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -793,7 +748,7 @@
       "strTimestamp": "2026-05-22T01:45:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Sutter Health Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -808,7 +763,7 @@
       "strTimestamp": "2026-05-23T01:45:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Sutter Health Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -823,7 +778,7 @@
       "strTimestamp": "2026-05-24T01:37:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Sutter Health Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -838,7 +793,7 @@
       "strTimestamp": "2026-05-24T20:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Sutter Health Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -853,7 +808,7 @@
       "strTimestamp": "2026-05-27T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -868,7 +823,7 @@
       "strTimestamp": "2026-05-28T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -883,7 +838,7 @@
       "strTimestamp": "2026-05-29T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -898,7 +853,7 @@
       "strTimestamp": "2026-05-30T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -913,7 +868,7 @@
       "strTimestamp": "2026-05-30T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -928,7 +883,7 @@
       "strTimestamp": "2026-05-31T19:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -943,7 +898,7 @@
       "strTimestamp": "2026-06-03T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Southwest University Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -958,7 +913,7 @@
       "strTimestamp": "2026-06-04T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Southwest University Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -973,7 +928,7 @@
       "strTimestamp": "2026-06-05T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Southwest University Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -988,7 +943,7 @@
       "strTimestamp": "2026-06-06T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Southwest University Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1003,7 +958,7 @@
       "strTimestamp": "2026-06-07T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Southwest University Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1018,7 +973,7 @@
       "strTimestamp": "2026-06-08T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Southwest University Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1033,7 +988,7 @@
       "strTimestamp": "2026-06-10T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1048,7 +1003,7 @@
       "strTimestamp": "2026-06-11T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1063,7 +1018,7 @@
       "strTimestamp": "2026-06-12T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1078,7 +1033,7 @@
       "strTimestamp": "2026-06-13T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1093,7 +1048,7 @@
       "strTimestamp": "2026-06-14T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1108,7 +1063,7 @@
       "strTimestamp": "2026-06-14T23:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Cancelled",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1123,7 +1078,7 @@
       "strTimestamp": "2026-06-17T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Isotopes Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1138,7 +1093,7 @@
       "strTimestamp": "2026-06-18T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Isotopes Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1153,7 +1108,7 @@
       "strTimestamp": "2026-06-18T18:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Isotopes Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1168,7 +1123,7 @@
       "strTimestamp": "2026-06-20T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Isotopes Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1183,7 +1138,7 @@
       "strTimestamp": "2026-06-21T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Isotopes Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1198,7 +1153,7 @@
       "strTimestamp": "2026-06-22T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Isotopes Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1213,7 +1168,7 @@
       "strTimestamp": "2026-06-23T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1228,7 +1183,7 @@
       "strTimestamp": "2026-06-24T16:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1243,7 +1198,7 @@
       "strTimestamp": "2026-06-26T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1258,7 +1213,7 @@
       "strTimestamp": "2026-06-27T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1273,7 +1228,7 @@
       "strTimestamp": "2026-06-28T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1288,7 +1243,7 @@
       "strTimestamp": "2026-06-28T23:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1303,7 +1258,7 @@
       "strTimestamp": "2026-07-01T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Chickasaw Bricktown Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1318,7 +1273,7 @@
       "strTimestamp": "2026-07-02T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Chickasaw Bricktown Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1333,7 +1288,7 @@
       "strTimestamp": "2026-07-03T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Chickasaw Bricktown Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1348,7 +1303,7 @@
       "strTimestamp": "2026-07-04T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Chickasaw Bricktown Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1363,7 +1318,7 @@
       "strTimestamp": "2026-07-05T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Chickasaw Bricktown Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Completed Early",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1378,7 +1333,7 @@
       "strTimestamp": "2026-07-05T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Chickasaw Bricktown Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1393,7 +1348,7 @@
       "strTimestamp": "2026-07-08T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Completed Early",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1408,7 +1363,7 @@
       "strTimestamp": "2026-07-09T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1423,7 +1378,7 @@
       "strTimestamp": "2026-07-10T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1438,7 +1393,7 @@
       "strTimestamp": "2026-07-11T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1453,7 +1408,7 @@
       "strTimestamp": "2026-07-12T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1468,7 +1423,7 @@
       "strTimestamp": "2026-07-12T19:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1483,7 +1438,7 @@
       "strTimestamp": "2026-07-18T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Southwest University Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1498,7 +1453,7 @@
       "strTimestamp": "2026-07-19T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Southwest University Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1513,7 +1468,7 @@
       "strTimestamp": "2026-07-20T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Southwest University Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1528,7 +1483,7 @@
       "strTimestamp": "2026-07-22T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1543,52 +1498,7 @@
       "strTimestamp": "2026-07-23T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": null,
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-814827",
-      "strEvent": "Sugar Land Space Cowboys vs Nashville Sounds",
-      "strHomeTeam": "Sugar Land Space Cowboys",
-      "strAwayTeam": "Nashville Sounds",
-      "dateEvent": "2026-07-25",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-07-24T00:05:00Z",
-      "strLeague": "Pacific Coast League",
-      "strVenue": "Constellation Field",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": null,
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-814823",
-      "strEvent": "Sugar Land Space Cowboys vs Nashville Sounds",
-      "strHomeTeam": "Sugar Land Space Cowboys",
-      "strAwayTeam": "Nashville Sounds",
-      "dateEvent": "2026-07-24",
-      "strTime": "00:05:00",
-      "strTimestamp": "2026-07-25T00:05:00Z",
-      "strLeague": "Pacific Coast League",
-      "strVenue": "Constellation Field",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": null,
-      "source": "scraped"
-    },
-    {
-      "idEvent": "scraped-814826",
-      "strEvent": "Sugar Land Space Cowboys vs Nashville Sounds",
-      "strHomeTeam": "Sugar Land Space Cowboys",
-      "strAwayTeam": "Nashville Sounds",
-      "dateEvent": "2026-07-25",
-      "strTime": "22:05:00",
-      "strTimestamp": "2026-07-25T22:05:00Z",
-      "strLeague": "Pacific Coast League",
-      "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1603,7 +1513,37 @@
       "strTimestamp": "2026-07-25T22:10:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
+      "strTVStation": null,
+      "updatedAt": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-814823",
+      "strEvent": "Sugar Land Space Cowboys vs Nashville Sounds",
+      "strHomeTeam": "Sugar Land Space Cowboys",
+      "strAwayTeam": "Nashville Sounds",
+      "dateEvent": "2026-07-24",
+      "strTime": "00:05:00",
+      "strTimestamp": "2026-07-25T00:05:00Z",
+      "strLeague": "Pacific Coast League",
+      "strVenue": "Constellation Field",
+      "strStatus": "Final",
+      "strTVStation": null,
+      "updatedAt": null,
+      "source": "scraped"
+    },
+    {
+      "idEvent": "scraped-814826",
+      "strEvent": "Sugar Land Space Cowboys vs Nashville Sounds",
+      "strHomeTeam": "Sugar Land Space Cowboys",
+      "strAwayTeam": "Nashville Sounds",
+      "dateEvent": "2026-07-25",
+      "strTime": "22:05:00",
+      "strTimestamp": "2026-07-25T22:05:00Z",
+      "strLeague": "Pacific Coast League",
+      "strVenue": "Constellation Field",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1618,7 +1558,7 @@
       "strTimestamp": "2026-07-26T23:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1633,7 +1573,7 @@
       "strTimestamp": "2026-07-29T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1648,7 +1588,7 @@
       "strTimestamp": "2026-07-30T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1663,7 +1603,7 @@
       "strTimestamp": "2026-07-31T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1678,7 +1618,7 @@
       "strTimestamp": "2026-08-01T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1693,7 +1633,7 @@
       "strTimestamp": "2026-08-02T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1708,7 +1648,7 @@
       "strTimestamp": "2026-08-02T23:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1723,7 +1663,7 @@
       "strTimestamp": "2026-08-05T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Isotopes Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1738,7 +1678,7 @@
       "strTimestamp": "2026-08-06T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Isotopes Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1753,7 +1693,7 @@
       "strTimestamp": "2026-08-06T18:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Isotopes Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1768,7 +1708,7 @@
       "strTimestamp": "2026-08-08T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Isotopes Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1783,7 +1723,7 @@
       "strTimestamp": "2026-08-09T00:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Isotopes Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1798,7 +1738,7 @@
       "strTimestamp": "2026-08-09T19:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Isotopes Park",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1813,7 +1753,7 @@
       "strTimestamp": "2026-08-11T23:45:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Dell Diamond",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1828,7 +1768,7 @@
       "strTimestamp": "2026-08-12T23:45:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Dell Diamond",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1843,7 +1783,7 @@
       "strTimestamp": "2026-08-13T23:45:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Dell Diamond",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1858,7 +1798,7 @@
       "strTimestamp": "2026-08-15T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Dell Diamond",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1873,7 +1813,7 @@
       "strTimestamp": "2026-08-16T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Dell Diamond",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1888,7 +1828,7 @@
       "strTimestamp": "2026-08-16T18:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Dell Diamond",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1903,7 +1843,7 @@
       "strTimestamp": "2026-08-19T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1918,7 +1858,7 @@
       "strTimestamp": "2026-08-20T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1933,7 +1873,7 @@
       "strTimestamp": "2026-08-21T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1948,7 +1888,7 @@
       "strTimestamp": "2026-08-22T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1963,7 +1903,7 @@
       "strTimestamp": "2026-08-23T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1978,7 +1918,7 @@
       "strTimestamp": "2026-08-23T19:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -1993,7 +1933,7 @@
       "strTimestamp": "2026-08-26T02:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Las Vegas Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2008,7 +1948,7 @@
       "strTimestamp": "2026-08-27T02:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Las Vegas Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2023,7 +1963,7 @@
       "strTimestamp": "2026-08-28T02:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Las Vegas Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2038,7 +1978,7 @@
       "strTimestamp": "2026-08-29T02:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Las Vegas Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2053,7 +1993,7 @@
       "strTimestamp": "2026-08-30T02:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Las Vegas Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2068,7 +2008,7 @@
       "strTimestamp": "2026-08-31T01:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Las Vegas Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2083,7 +2023,7 @@
       "strTimestamp": "2026-09-02T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2098,7 +2038,7 @@
       "strTimestamp": "2026-09-03T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2113,7 +2053,7 @@
       "strTimestamp": "2026-09-04T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2128,7 +2068,7 @@
       "strTimestamp": "2026-09-05T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2143,7 +2083,7 @@
       "strTimestamp": "2026-09-06T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2158,7 +2098,7 @@
       "strTimestamp": "2026-09-06T23:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2173,7 +2113,7 @@
       "strTimestamp": "2026-09-08T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Chickasaw Bricktown Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2188,7 +2128,7 @@
       "strTimestamp": "2026-09-09T17:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Chickasaw Bricktown Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2203,7 +2143,7 @@
       "strTimestamp": "2026-09-10T23:35:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Chickasaw Bricktown Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2218,7 +2158,7 @@
       "strTimestamp": "2026-09-12T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Chickasaw Bricktown Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2233,7 +2173,7 @@
       "strTimestamp": "2026-09-12T23:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Chickasaw Bricktown Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2248,7 +2188,7 @@
       "strTimestamp": "2026-09-13T19:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Chickasaw Bricktown Ballpark",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2263,7 +2203,7 @@
       "strTimestamp": "2026-09-16T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2278,7 +2218,7 @@
       "strTimestamp": "2026-09-17T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2293,7 +2233,7 @@
       "strTimestamp": "2026-09-18T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2308,7 +2248,7 @@
       "strTimestamp": "2026-09-19T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2323,7 +2263,7 @@
       "strTimestamp": "2026-09-20T00:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
@@ -2338,7 +2278,7 @@
       "strTimestamp": "2026-09-20T19:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Constellation Field",
-      "strStatus": "NS",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
