@@ -2066,7 +2066,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=HUVRHuElnVM",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -2110,7 +2110,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=bgh_Izwp1zA",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -2154,7 +2154,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=9JqVjRq6ruk",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -2165,7 +2165,7 @@
       "strTimestamp": "2026-09-27T03:10:00",
       "strEvent": "Tigres UANL vs Puebla",
       "strEventAlternate": "Puebla @ Tigres UANL",
-      "strFilename": "Mexican Primera League 2026-09-27 Tigres UANL vs Puebla",
+      "strFilename": "Mexican Liga MX 2026-09-27 Tigres UANL vs Puebla",
       "strSport": "Soccer",
       "idLeague": "4350",
       "strLeague": "Mexican Primera League",
@@ -2180,7 +2180,7 @@
       "strWeather": "",
       "dateEvent": "2026-09-27",
       "dateEventLocal": "2026-09-26",
-      "strTime": "03:10",
+      "strTime": "03:10:00",
       "strTimeLocal": "20:00:00",
       "strGroup": "",
       "idHomeTeam": "134197",
@@ -2198,7 +2198,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=mmO7fR6k6kk",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
