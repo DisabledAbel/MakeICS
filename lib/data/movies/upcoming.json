@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T09:44:05.261Z",
+  "generatedAt": "2026-09-27T10:23:59.109Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -4172,6 +4172,7 @@
     {
       "id": "tt39649289",
       "title": "Vampire Carnival",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWI1NzUzODItZDgzNC00NDk2LWEzMWItMmNjZjEzZDBhZjEwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 07 Oct 2026 00:00:00 GMT",
       "genres": [
         "Horror",
@@ -4904,12 +4905,12 @@
     {
       "id": "tt39233100",
       "title": "Tazza: The Song of Beelzebub",
-      "image": "https://m.media-amazon.com/images/M/MV5BM2YzMDNiNmMtNWMwMi00YTA4LWIyYzItZjRiMGY0MzM5NDdkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWUzMTRiOTgtOWFjZC00NDZkLTk2MzctYzllMWRkOGI5NzcwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
       "genres": [
+        "Action",
         "Crime",
-        "Drama",
-        "Thriller"
+        "Drama"
       ],
       "people": [
         {
@@ -5499,8 +5500,8 @@
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
-        "Horror",
-        "Sci-Fi"
+        "Drama",
+        "Horror"
       ],
       "people": [
         {
@@ -5643,7 +5644,7 @@
     {
       "id": "tt27988879",
       "title": "Ramayana",
-      "image": "https://m.media-amazon.com/images/M/MV5BYWE4NWVmZjItN2Y0ZC00YmMzLThhNWEtM2VkZjA3MmFlNjdmXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzUyZWNmZTktZmE0OS00YjY4LWFjY2QtMTgzNTM5MjBlNzJlXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -6798,20 +6799,20 @@
       ],
       "people": [
         {
-          "id": "nm0837177",
-          "name": "Jason Sudeikis"
+          "id": "nm10826558",
+          "name": "Maitreyi Ramakrishnan"
         },
         {
-          "id": "nm1551130",
-          "name": "Keke Palmer"
+          "id": "nm0837177",
+          "name": "Jason Sudeikis"
         },
         {
           "id": "nm4141252",
           "name": "Lily James"
         },
         {
-          "id": "nm3528821",
-          "name": "Emma Myers"
+          "id": "nm1551130",
+          "name": "Keke Palmer"
         }
       ],
       "label": "Dec 23, 2026"
@@ -7273,6 +7274,7 @@
     {
       "id": "tt35606013",
       "title": "The Rescue",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWNhMWI5NjUtYWJiMi00MWYwLWI2NmMtNzdiYzlkYWYyYTljXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
       "genres": [
         "Action",
