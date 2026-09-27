@@ -2308,7 +2308,7 @@
       "strTimestamp": "2026-09-27T02:05:00Z",
       "strLeague": "Pacific Coast League",
       "strVenue": "Las Vegas Ballpark",
-      "strStatus": "Game Over",
+      "strStatus": "Final",
       "strTVStation": null,
       "updatedAt": null,
       "source": "scraped"
