@@ -1,7 +1,7 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-09-24T00:04:30.106Z",
+  "updatedAt": "2026-09-28T22:57:23.599Z",
   "events": [
     {
       "idEvent": "scraped-espn-401918010",
@@ -12,10 +12,10 @@
       "strTime": "23:00:00",
       "strTimestamp": "2026-10-04T23:00:00Z",
       "strLeague": "NBA",
-      "strVenue": "Intuit Dome",
+      "strVenue": "Stan Sheriff Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
+      "updatedAt": "2026-09-28T22:57:23.599Z",
       "source": "scraped"
     },
     {
