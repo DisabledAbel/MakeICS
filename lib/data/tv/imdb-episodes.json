@@ -9348,7 +9348,7 @@
           "number": 27,
           "name": "Episode #28.40",
           "airdate": "2026-09-27",
-          "summary": null,
+          "summary": "The summer's BB Time Trip theme sends Houseguests on an unprecedented journey through prehistoric times, iconic decades, and unforgettable Big Brother moments.",
           "url": "https://www.imdb.com/title/tt45391563/?ref_=ttep_ep_40"
         },
         {
@@ -19009,6 +19009,22 @@
           "url": "https://www.imdb.com/title/tt44863305/?ref_=ttep_ep_43"
         },
         {
+          "season": 4,
+          "number": 44,
+          "name": "Grand Slam Paris 2026",
+          "airdate": "2026-10-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47597065/?ref_=ttep_ep_44"
+        },
+        {
+          "season": 4,
+          "number": 45,
+          "name": "Episode #4.45",
+          "airdate": "2026-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47597070/?ref_=ttep_ep_45"
+        },
+        {
           "season": 3,
           "number": 1,
           "name": "Retribution from an Old Friend",
@@ -22504,6 +22520,14 @@
           "airdate": "2026-08-23",
           "summary": "John Oliver discusses why more and more companies are shifting to a subscription model, how it's impacting consumers, and what could possibly be more embarrassing than liking Madame Web.",
           "url": "https://www.imdb.com/title/tt44536509/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 13,
+          "number": 27,
+          "name": "Brazil Elections",
+          "airdate": "2026-09-27",
+          "summary": "John Oliver discusses Brazil's upcoming presidential election, the baggage associated with the two leading candidates, and some insight into acting from John — a person who has acted. Twice.",
+          "url": "https://www.imdb.com/title/tt47596266/?ref_=ttep_ep_24"
         },
         {
           "season": 12,
@@ -28672,9 +28696,9 @@
         {
           "season": 1,
           "number": 27,
-          "name": "The Jordan Boys Legacy",
+          "name": "The Jordan Boys' Legacy",
           "airdate": "2026-09-27",
-          "summary": null,
+          "summary": "Hal and John find themselves on another planet and must put aside their past to solve a murder. Meanwhile, they are forced to confront the way their childhood shaped who they are today.",
           "url": "https://www.imdb.com/title/tt32752614/?ref_=ttep_ep_7"
         }
       ]
@@ -35164,7 +35188,7 @@
           "number": 29,
           "name": "Arms and Armadillos",
           "airdate": "2026-09-29",
-          "summary": null,
+          "summary": "With Emi charged for her father's murder, R.J. and Mel suspect there's more to uncover. A mysterious stranger offers help, but at a cost.",
           "url": "https://www.imdb.com/title/tt46065911/?ref_=ttep_ep_3"
         },
         {
@@ -37233,7 +37257,7 @@
           "number": 29,
           "name": "Breakin' in Is Hard to Do",
           "airdate": "2026-09-29",
-          "summary": null,
+          "summary": "When the pharmacy is robbed, including Louisa's critical medicine, Martin realizes the thief needs help. Greg and George clash with a rival food truck owner, Sarah bonds with Eden, and Martin receives Port Wenn's special affection.",
           "url": "https://www.imdb.com/title/tt40336406/?ref_=ttep_ep_2"
         },
         {
@@ -37894,7 +37918,7 @@
           "number": 29,
           "name": "Ready or Not",
           "airdate": "2026-09-29",
-          "summary": null,
+          "summary": "A horrific accident sends three family members to Westside in critical condition. The staff bands together to save them while Amy confronts emotional memories facing mysterious newcomer Dr. Ben Grant.",
           "url": "https://www.imdb.com/title/tt40548580/?ref_=ttep_ep_2"
         },
         {
@@ -38949,7 +38973,7 @@
           "number": 9,
           "name": "Interrogation",
           "airdate": "2025-11-20",
-          "summary": null,
+          "summary": "During the final selection week, recruits face multi-stage interrogations under escalating pressure.",
           "url": "https://www.imdb.com/title/tt38813073/?ref_=ttep_ep_9"
         },
         {
@@ -40219,26 +40243,26 @@
       "episodes": [
         {
           "season": 1,
-          "number": 1,
+          "number": 5,
+          "name": "Sonoma to the Pacific with Chris Ying",
+          "airdate": "2026-10-04",
+          "summary": "David Chang joins best friend and creative partner Chris Ying for a wine-soaked romp through Northern California, where Chris tries to convince Chang to love the region's cuisine as they debate whether Mother Nature is behind its quality.",
+          "url": "https://www.imdb.com/title/tt47599676/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 20,
           "name": "Nashville to Madisonville with Christina Tosi",
           "airdate": "2026-09-20",
-          "summary": null,
+          "summary": "David Chang and longtime friend Christina Tosi, founder of Milk Bar, make a pilgrimage to the legendary Benton's smokehouse in Madisonville, Tennessee that helped shape their early careers. The two eat everything they see along the way.",
           "url": "https://www.imdb.com/title/tt46658142/?ref_=ttep_ep_1"
         },
         {
           "season": 1,
-          "number": 2,
-          "name": "LA to Vegas with Cord Jefferson",
-          "airdate": "2026-09-20",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt46658133/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 1,
-          "number": 3,
+          "number": 27,
           "name": "Dallas to San Antonio with Cristela Alonzo",
           "airdate": "2026-09-27",
-          "summary": null,
+          "summary": "David Chang is driving through Texas to find out what's new with barbecue, while his companion, comedian and Texas native Cristela Alonzo, introduces him to her side of the Lone Star State and the cuisine she grew up eating.",
           "url": "https://www.imdb.com/title/tt46658147/?ref_=ttep_ep_3"
         }
       ]
@@ -43698,6 +43722,882 @@
           "airdate": "2025-09-28",
           "summary": "Christine and David see Janelle at her new North Carolina property; Kody and Robyn talk about their monogamous status and adding another wife; Meri starts dating again.",
           "url": "https://www.imdb.com/title/tt37983394/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt0200325": {
+      "imdbId": "tt0200325",
+      "title": "Antiques Roadshow",
+      "episodes": [
+        {
+          "season": 49,
+          "number": 1,
+          "name": "Treasures of Sport",
+          "airdate": "2026-06-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45891324/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 49,
+          "number": 2,
+          "name": "Remembering Queen Elizabeth II",
+          "airdate": "2026-04-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45891448/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 49,
+          "number": 13,
+          "name": "Dartington Estate 1",
+          "airdate": "2026-09-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45891544/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 49,
+          "number": 20,
+          "name": "Valentines Mansion & Gardens 1",
+          "airdate": "2026-09-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45891546/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 49,
+          "number": 27,
+          "name": "Souter Lighthouse 1",
+          "airdate": "2026-09-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077258/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 48,
+          "number": 1,
+          "name": "VE Day Special",
+          "airdate": "2025-05-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37975745/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 48,
+          "number": 2,
+          "name": "VJ Day Special",
+          "airdate": "2025-08-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37975747/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 48,
+          "number": 3,
+          "name": "Shuttleworth House 1",
+          "airdate": "2025-08-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37975750/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 48,
+          "number": 4,
+          "name": "Stephens House & Gardens 1",
+          "airdate": "2025-08-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37975751/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 48,
+          "number": 7,
+          "name": "Lister Park and Cartwright Hall 1",
+          "airdate": "2025-09-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077267/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 48,
+          "number": 9,
+          "name": "Shuttleworth House 3",
+          "airdate": "2025-10-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077279/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 48,
+          "number": 10,
+          "name": "Hill of Tarvit Mansion & Garden 1",
+          "airdate": "2025-10-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077281/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 48,
+          "number": 11,
+          "name": "National Waterfront Museum, Swansea 1",
+          "airdate": "2025-10-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077283/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 48,
+          "number": 12,
+          "name": "Stephens House & Gardens 3",
+          "airdate": "2025-10-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077284/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 48,
+          "number": 13,
+          "name": "Hill of Tarvit Mansion & Garden 2",
+          "airdate": "2025-11-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077285/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 48,
+          "number": 14,
+          "name": "Shuttleworth House 2",
+          "airdate": "2025-09-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077270/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 48,
+          "number": 15,
+          "name": "National Waterfront Museum, Swansea 2",
+          "airdate": "2025-11-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46218234/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 48,
+          "number": 16,
+          "name": "Hill of Tarvit Mansion & Garden 3",
+          "airdate": "2025-11-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077290/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 48,
+          "number": 17,
+          "name": "Unseen Treasures 1",
+          "airdate": "2025-11-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077291/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 48,
+          "number": 18,
+          "name": "Unseen Treasures 2",
+          "airdate": "2025-12-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077292/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 48,
+          "number": 19,
+          "name": "Unseen Treasures 3",
+          "airdate": "2025-12-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077294/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 48,
+          "number": 20,
+          "name": "National Waterfront Museum, Swansea 3",
+          "airdate": "2026-01-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077296/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 48,
+          "number": 21,
+          "name": "Stephens House & Gardens 2",
+          "airdate": "2025-09-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077275/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 48,
+          "number": 28,
+          "name": "Lister Park and Cartwright Hall 2",
+          "airdate": "2025-09-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46077278/?ref_=ttep_ep_8"
+        }
+      ]
+    },
+    "tt11349896": {
+      "imdbId": "tt11349896",
+      "title": "Max & the Midknights",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 1,
+          "name": "A Restless Knight, Part One",
+          "airdate": "2026-04-20",
+          "summary": "After defeating Fendra and Gastley, Max and the Midknights are living their best lives in Byjovia. Although things seem perfect, Max is itching to go on another quest. Her desire for a new adventure is answered when Queen Nerelia of Tresk shows up begging for help.",
+          "url": "https://www.imdb.com/title/tt41656469/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "name": "A Restless Knight, Part Two",
+          "airdate": "2026-04-21",
+          "summary": "When the Gnomes of Tresk are kidnapped by a mysterious evil, Max and the Midknights volunteer to save them; Max's plans for her second quest go awry when she learns not all the Midknights are as eager as she is to go on the mission.",
+          "url": "https://www.imdb.com/title/tt41656470/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "The Spirit of the Sea",
+          "airdate": "2026-04-22",
+          "summary": "As Max and the Midknights sail across the sea on their quest, they get spooked when Uncle Budrick claims there's a ghost on board their ship; Mumblin fears someone is out to get him.",
+          "url": "https://www.imdb.com/title/tt41656484/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "The Trial of Mumblin the Magician",
+          "airdate": "2026-04-23",
+          "summary": "After being blown off course, the Midknights navigate a set of treacherous waterfalls as they try to reach the Gnomes of Tresk; Mumblin pleads for his freedom in Wizard Court where the odds are stacked against him.",
+          "url": "https://www.imdb.com/title/tt41656567/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "name": "Honksgiving!",
+          "airdate": "2026-04-24",
+          "summary": "Max and the Midknights wash up on the shore of strange lands where a local holiday puts their party in danger; Sir Gadabout ventures out to clatterback territory and makes a shocking discovery.",
+          "url": "https://www.imdb.com/title/tt41656790/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "name": "Gnomeward Bound",
+          "airdate": "2026-04-27",
+          "summary": "Max and the Midknights have a breakthrough in their quest when they meet a runaway Gnome, but finding the other kidnapped Gnomes is trickier than they think; Mumblin starts his community service in a mysterious building with even stranger employees.",
+          "url": "https://www.imdb.com/title/tt41656917/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "name": "Stuck in a Hole",
+          "airdate": "2026-04-28",
+          "summary": "Max and the Midknights find the missing Gnomes of Tresk; the Gnomes are terrified of their captors and Max realizes she needs to inspire them to fight back if they're ever going to escape.",
+          "url": "https://www.imdb.com/title/tt41657055/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "name": "Shale Break",
+          "airdate": "2026-04-29",
+          "summary": "In a high stakes jailbreak, Max and the Midknights pull out all the stops to get the Gnomes of Tresk to safety; dead set on escaping Outpost 71, Mumblin tries to reach the elevator Lenny mentioned.",
+          "url": "https://www.imdb.com/title/tt41657225/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "name": "A False Victory",
+          "airdate": "2026-04-30",
+          "summary": "Max and the Midknights victoriously return to Byjovia with the missing Gnomes of Tresk, but Max feels that their mission isn't over yet; Millie and Kevyn's sibling rivalry hits a low point when Millie reveals a major secret about Kevyn's new book.",
+          "url": "https://www.imdb.com/title/tt41657240/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "name": "Tomb of the Bodkin",
+          "airdate": "2026-05-01",
+          "summary": "Max and the Midknights journey to an ancient tomb to investigate the legend of King Torin and his Bodkin, where they make several unexpected discoveries; Mumblin learns more about operations at the Tower of Time.",
+          "url": "https://www.imdb.com/title/tt41657242/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Here Be Dragons",
+          "airdate": "2025-11-18",
+          "summary": "As Max is trapped in a haunting fever dream, the rest of the Midknights race to save her life.",
+          "url": "https://www.imdb.com/title/tt38955130/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Thoroughly Malevolent Millie",
+          "airdate": "2025-11-19",
+          "summary": "The Midknights' quest to find King Conrad gets delayed when they encounter a strange boy.",
+          "url": "https://www.imdb.com/title/tt38955167/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Fens & Enemies",
+          "airdate": "2025-11-20",
+          "summary": "As Max and the Midknights struggle to complete their quest, Mumblin reappears with shocking news.",
+          "url": "https://www.imdb.com/title/tt38955170/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Dark Knight of the Soul",
+          "airdate": "2025-11-21",
+          "summary": "As Max reels from failing her quest, Millie learns how Fendra became a sorceress.",
+          "url": "https://www.imdb.com/title/tt38960036/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Homeward Bound",
+          "airdate": "2025-12-07",
+          "summary": "Max, Simon, and Uncle Budrick search for Kevyn. Fendra collects items for her spell.",
+          "url": "https://www.imdb.com/title/tt39244082/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "And Joust Like That",
+          "airdate": "2025-12-08",
+          "summary": "Max and the Midknights get swept into Fendra's tournament to find a true knight's courage.",
+          "url": "https://www.imdb.com/title/tt39260369/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Before the Storm",
+          "airdate": "2025-12-09",
+          "summary": "Max and the Midknights break into the castle to find King Conrad. Fendra finds her courage.",
+          "url": "https://www.imdb.com/title/tt39260410/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "So Slayeth the Prophecy",
+          "airdate": "2025-09-09",
+          "summary": "Max comes face-to-face with an imprisoned dragon and must decide between slaying the dragon to fulfill the prophecy, or doing the right thing and freeing him.",
+          "url": "https://www.imdb.com/title/tt38954970/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "A True Knights Courage",
+          "airdate": "2025-12-11",
+          "summary": "Fendra completes her spell, victorious over Max, the Midknights, and all of Byjovia.",
+          "url": "https://www.imdb.com/title/tt39260467/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt7491982": {
+      "imdbId": "tt7491982",
+      "title": "FBI",
+      "episodes": [
+        {
+          "season": 9,
+          "number": 1,
+          "name": "Rendition",
+          "airdate": "2026-10-05",
+          "summary": "After a young traveler is found shot dead in a state park, the team discovers she was witness to an execution of a person involved in a top-secret government-sponsored project. Meanwhile, Maggie struggles to bond with her new partner, Isai",
+          "url": "https://www.imdb.com/title/tt36106944/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 9,
+          "number": 2,
+          "name": "Omissions",
+          "airdate": "2026-10-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43747905/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 9,
+          "number": 3,
+          "name": "Episode #9.3",
+          "airdate": "2026-10-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44113572/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 8,
+          "number": 1,
+          "name": "Takeover",
+          "airdate": "2025-10-13",
+          "summary": "After a federal judge disappears, a routine investigation takes a dark turn as the team uncovers that the judge had been searching for his missing son.",
+          "url": "https://www.imdb.com/title/tt36106942/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 8,
+          "number": 2,
+          "name": "Captured",
+          "airdate": "2025-10-20",
+          "summary": "When paintings from a high-profile international cultural exchange are stolen, the team races to recover the priceless artworks.",
+          "url": "https://www.imdb.com/title/tt38126292/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 8,
+          "number": 3,
+          "name": "Boy Scout",
+          "airdate": "2025-10-27",
+          "summary": "After a young man is found beaten to death, Scola and Special Agent Eva Ramos hit a roadblock when their case intersects with a DEA operation.",
+          "url": "https://www.imdb.com/title/tt38164704/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 8,
+          "number": 4,
+          "name": "Manifest",
+          "airdate": "2025-11-03",
+          "summary": "Following an assassination attempt on a senator, OA and Maggie are tasked with escorting her back to D.C. on a flight that becomes more perilous than imagined.",
+          "url": "https://www.imdb.com/title/tt38164705/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 8,
+          "number": 5,
+          "name": "Falsetto",
+          "airdate": "2025-11-10",
+          "summary": "Maggie partners with Eva to hunt a killer after a shocking daytime stabbing. After a subsequent murder, they realise the assassin has a hit list.",
+          "url": "https://www.imdb.com/title/tt38164706/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 8,
+          "number": 6,
+          "name": "Parental",
+          "airdate": "2025-11-17",
+          "summary": "When a clinic robbery turns deadly, the team investigates a drug trafficking crew and soon uncovers that a doctor may be more involved than they thought.",
+          "url": "https://www.imdb.com/title/tt38164708/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 8,
+          "number": 7,
+          "name": "Fadeaway",
+          "airdate": "2025-12-01",
+          "summary": "When a large-scale explosion rocks a Brooklyn apartment complex, the team quickly locates the perpetrator and discovers he's acting on orders. Isobel must name her successor.",
+          "url": "https://www.imdb.com/title/tt38164709/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 8,
+          "number": 8,
+          "name": "Ratlined",
+          "airdate": "2025-12-08",
+          "summary": "When a journalist is shot while interviewing a Prime Minister, all fingers point to an assassination attempt, but the team uncovers a deeper conspiracy after the assassin is also targeted.",
+          "url": "https://www.imdb.com/title/tt38164710/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 8,
+          "number": 9,
+          "name": "Lone Wolf",
+          "airdate": "2025-12-15",
+          "summary": "The team makes holiday plans while a seemingly straightforward murder investigation takes a shocking turn, putting the entire city of New York at stake.",
+          "url": "https://www.imdb.com/title/tt38164712/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 8,
+          "number": 10,
+          "name": "Wolf Pack",
+          "airdate": "2025-12-15",
+          "summary": "Chaos erupts in the city and as the team races to uncover the culprits, they learn the group responsible is a radical accelerationist movement fixated on resetting society.",
+          "url": "https://www.imdb.com/title/tt38164713/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 8,
+          "number": 11,
+          "name": "Confetti",
+          "airdate": "2026-02-23",
+          "summary": "When Nina's undercover operation goes sideways, the team works to flip their only witness. Nina and Scola make a big decision.",
+          "url": "https://www.imdb.com/title/tt38206283/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 8,
+          "number": 12,
+          "name": "Daybreak",
+          "airdate": "2026-03-02",
+          "summary": "When a federal whistleblower is murdered while in FBI custody along with two agents, the team is stunned to find a familiar perpetrator has resurfaced. Meanwhile, OA wrestles with telling the team what is happening in his personal life.",
+          "url": "https://www.imdb.com/title/tt38206285/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 8,
+          "number": 13,
+          "name": "Fanatics",
+          "airdate": "2026-03-09",
+          "summary": "After the son of a professional basketball team owner is taken for ransom, Jubal and the team race to catch the kidnappers. Soon, they discover the perpetrators have been planning a larger revenge plot that they must act quickly to stop.",
+          "url": "https://www.imdb.com/title/tt38206287/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 8,
+          "number": 14,
+          "name": "Forgiven",
+          "airdate": "2026-03-16",
+          "summary": "After Maggie's sister, Erin, goes missing, the team begins an all-out search to recover her. But when Maggie discovers Erin was kidnapped by a sinister figure from her past, she must race to save her before it's too late.",
+          "url": "https://www.imdb.com/title/tt38206290/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 8,
+          "number": 15,
+          "name": "Crusader",
+          "airdate": "2026-03-23",
+          "summary": "A drug kingpin from Eva's past returns after two children and a daycare worker die from accidental drug exposure. As the team investigates, Eva struggles between her duty as an agent and her desire for revenge.",
+          "url": "https://www.imdb.com/title/tt38206293/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 8,
+          "number": 16,
+          "name": "3 Up, 3 Down",
+          "airdate": "2026-03-30",
+          "summary": "A double homicide in Brooklyn sets the team after a corrupt longshoreman but they soon discover something sinister has been smuggled into NY. As they race to stop the threat, Isobel enlists the help of CIA's Deputy Chief of Station Nikki.",
+          "url": "https://www.imdb.com/title/tt38206295/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 8,
+          "number": 17,
+          "name": "Shahadah",
+          "airdate": "2026-04-13",
+          "summary": "When a psychiatrist is found tortured and deceased under an overpass, the team is led to a suspicious religious leader with a hefty online presence.",
+          "url": "https://www.imdb.com/title/tt38206298/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 8,
+          "number": 18,
+          "name": "Behavior",
+          "airdate": "2026-04-20",
+          "summary": "A mother and son vanish at a state park. Maggie enlists Peter Olsen to profile the abductor. During the investigation, the team uncovers disturbing information linked to a previous case.",
+          "url": "https://www.imdb.com/title/tt38206299/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 8,
+          "number": 19,
+          "name": "Fidelity",
+          "airdate": "2026-04-27",
+          "summary": "When an FBI evidence locker is robbed, the team discovers a vigilante duo looking to take down a pedophile ring. Isobel meets the new ADIC.",
+          "url": "https://www.imdb.com/title/tt38206305/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 8,
+          "number": 20,
+          "name": "Roleplay",
+          "airdate": "2026-05-04",
+          "summary": "When a city donor is murdered, the killer leads the team into a crypto scam he's been running with one of his victims, looking to seek revenge on his family.",
+          "url": "https://www.imdb.com/title/tt38206307/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 8,
+          "number": 21,
+          "name": "Long Shot",
+          "airdate": "2026-05-11",
+          "summary": "Following the assassination of a corporate executive, the team races to find leaders of a terrorist organization. Meanwhile, OA is temporarily reassigned.",
+          "url": "https://www.imdb.com/title/tt38206314/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 8,
+          "number": 22,
+          "name": "Defector",
+          "airdate": "2026-05-18",
+          "summary": "The theft of a bioweapon from an unwitting defector forces the team to work with an old foe to secure the lethal pathogen and prevent an outbreak.",
+          "url": "https://www.imdb.com/title/tt38206315/?ref_=ttep_ep_22"
+        }
+      ]
+    },
+    "tt36694933": {
+      "imdbId": "tt36694933",
+      "title": "90 Day: Hunt for Love",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Episode #2.1",
+          "airdate": "2026-10-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45591658/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Episode #2.2",
+          "airdate": "2026-10-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45671255/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Episode #2.3",
+          "airdate": "2026-10-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45697606/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "The Girl Who Showed Her Butt",
+          "airdate": "2025-05-26",
+          "summary": "Eight 90-day singles are ready to give love another shot, but not everyone can escape their past. Tim is shocked by a familiar face. Usman and Cortney have history, and Chantel's harboring a secret that could change everything.",
+          "url": "https://www.imdb.com/title/tt36694954/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "The Boy Who Fell in the Hot Tub",
+          "airdate": "2025-06-02",
+          "summary": "Tiffany hits it off at flirting 101 while Cortney struggles. Colt drops a bombshell crush. Rob's eye is on someone new, ruffling feathers, while Chantel calls out Usman. Meanwhile, Jen and Tim share a hot tub.",
+          "url": "https://www.imdb.com/title/tt36958426/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "The Boy Who Loved His Own Face",
+          "airdate": "2025-06-09",
+          "summary": "Cortney drops a bomb on Tim. Colt takes his shot with Mei. Jen brings the heat. Elise confronts Rob, but Rob has his sights set on someone else. On a night out, secrets surface and the evening spirals into a showdown no one expected.",
+          "url": "https://www.imdb.com/title/tt37022752/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "The Girl Who Played Mario Kart",
+          "airdate": "2025-06-16",
+          "summary": "In the middle of a fierce fight between Jen and Tim, everyone is affected. Cortney leaves with Colt, which upsets Usman. Jen sets her sights on someone else. At the hotel, tension mounts until one decision changes everything.",
+          "url": "https://www.imdb.com/title/tt37022770/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "The Boy Who's Still Married",
+          "airdate": "2025-06-23",
+          "summary": "Jen learns something that makes her question everything. Tiffany lets her guard down with Carlo. Tim's curiosity sparks with someone unexpected. Cortney is torn, and Chantel shocks everyone with a kiss no one saw coming.",
+          "url": "https://www.imdb.com/title/tt37181407/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "The Girl Who Heard Too Much",
+          "airdate": "2025-06-30",
+          "summary": "Colt reveals feelings to Cortney while Usman seeks a first date. Tiffany shares life-changing news. Cole questions Rob about Jen rumors. A Social Media workshop leads to exposed secrets and conflicts.",
+          "url": "https://www.imdb.com/title/tt37339286/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "The Boy Who Didn't Know What Bi Meant",
+          "airdate": "2025-07-07",
+          "summary": "Cole confronts Jen, who remains defiant. Usman's secret date shocks Cortney. Colt's confidence wavers as competition arrives. Chantel bonds with Joe. An injury threatens a budding romance.",
+          "url": "https://www.imdb.com/title/tt37339290/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "The Boy Who Fell for Her (Literally)",
+          "airdate": "2025-07-14",
+          "summary": "After an injury, Jen heads to hospital while Cortney breaks down. Tim admits fig fears at cooking class. During separate girls and guys nights out, Tiffany reveals big news as Carlo and Jay almost fight.",
+          "url": "https://www.imdb.com/title/tt37513757/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "The Girl in a Love Square",
+          "airdate": "2025-07-21",
+          "summary": "Elise confronts Jen and Cole about a rumor. Tiffany takes blame, Chantel defends her. Tim's odd flirting has Jen reconsidering relationships, while Cortney shares emotional news about Colt.",
+          "url": "https://www.imdb.com/title/tt37513756/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "The Boy with Pepperoni Nipples",
+          "airdate": "2025-07-28",
+          "summary": "Jen turns the tables on Cole and she and Elise team up. Chantel lands a date with someone unexpected. Usman drops the L-word, leaving Cortney stunned, and Tiffany's date with Jay ends with a surprising question.",
+          "url": "https://www.imdb.com/title/tt37538662/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "The Girl Who Treated It Like an Interview",
+          "airdate": "2025-08-04",
+          "summary": "After her date with Jay, Tiffany's ready to be exclusive. Colt and Cortney get closer. Chantel's date with Rocky shows her where her heart belongs. Rob and Jeniffer plan their future, while Carlo has something he needs to confess.",
+          "url": "https://www.imdb.com/title/tt37540817/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "The Boy Who Painted Her Like a French Girl",
+          "airdate": "2025-08-11",
+          "summary": "Tiffany questions giving Carlo another shot after his betrayal. Tim and Mei grow closer. Cortney makes a choice after her date with Colt. Chantel opens up. Jen accuses Rob of seeing someone else, and tensions explode between Rob and Cole.",
+          "url": "https://www.imdb.com/title/tt37545578/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "The Girl Who Made Her Choice",
+          "airdate": "2025-08-18",
+          "summary": "Rocky and Tiffany bond while Usman doubts Colt's intentions with Cortney. Rob makes his last appeal to Jen. Tim opens up to Mei. Chantel prepares for a crucial moment. Singles make their final choices.",
+          "url": "https://www.imdb.com/title/tt37545614/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "Tell All, Part 1",
+          "airdate": "2025-08-25",
+          "summary": "The cast of 90 Day: Hunt for Love reunites in NYC to dish on what really went down in Tulum-and what happened next. No one's holding back as connections are tested and shocking truths come to light. We have the receipts.",
+          "url": "https://www.imdb.com/title/tt37727167/?ref_=ttep_ep_14"
+        }
+      ]
+    },
+    "tt35515227": {
+      "imdbId": "tt35515227",
+      "title": "CIA",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "The Deep",
+          "airdate": "2026-10-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41022088/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Dead Drop",
+          "airdate": "2026-10-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43720420/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Directed Energy",
+          "airdate": "2026-02-23",
+          "summary": "The Agency & the Bureau collide when a top-secret weapon is stolen in broad daylight from a U.S. defense contractor.",
+          "url": "https://www.imdb.com/title/tt36733286/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Fatal Defect",
+          "airdate": "2026-03-02",
+          "summary": "Colin and Bill enlist the help of a foreign intelligence officer and head upstate to track a known smuggler.",
+          "url": "https://www.imdb.com/title/tt37526983/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Bridge of Lies",
+          "airdate": "2026-03-09",
+          "summary": "When an embedded officer is detained in Hong Kong, the team must work tirelessly to get her back to New York",
+          "url": "https://www.imdb.com/title/tt37526984/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Forced Labor",
+          "airdate": "2026-03-16",
+          "summary": "When a wanted Belarusian poses as an expecting father, Colin and Bill work to expose an illegal baby smuggling ring.",
+          "url": "https://www.imdb.com/title/tt37526985/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Deep Cover",
+          "airdate": "2026-03-23",
+          "summary": "When a cyber engineer and her family are murdered in a deliberate strike, Colin and Bill race to catch those responsible before another attack occurs.",
+          "url": "https://www.imdb.com/title/tt37526986/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Pledge of Allegiance",
+          "airdate": "2026-03-30",
+          "summary": "Colin gets a tip about a terror plot. The team finds a young man who was thought dead after having been kidnapped in Türkiye nine years ago while only age 15, and tries to prevent the attack. Bill investigates someone close to Colin.",
+          "url": "https://www.imdb.com/title/tt37526987/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Elimination Game",
+          "airdate": "2026-04-13",
+          "summary": "While securing an international soccer match, Colin and Bill investigate a bomb threat that leads them to two missing players being pursued. The team seeks help from FBI Special Agent in Charge Isobel Castille.",
+          "url": "https://www.imdb.com/title/tt37526989/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Orbital",
+          "airdate": "2026-04-20",
+          "summary": "Bill and Colin team up, going undercover with analyst Gina and an asset's help, to locate a stolen crashed satellite component carrying extremely dangerous nuclear material, which they fear will be sold to terrorists.",
+          "url": "https://www.imdb.com/title/tt37526991/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Blood Money",
+          "airdate": "2026-04-27",
+          "summary": "A woman's intelligence about a terror leader leads Colin and Bill to a family-run terror network. They must recruit a new informant to dismantle the operation while Bill uncovers something startling.",
+          "url": "https://www.imdb.com/title/tt37526992/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Rare Earth",
+          "airdate": "2026-05-04",
+          "summary": "A foreign diplomat is killed after sneaking into the US, under unknown circumstances.",
+          "url": "https://www.imdb.com/title/tt37526994/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Forbidden Eye",
+          "airdate": "2026-05-11",
+          "summary": "Colin's CIA mentor disappears, prompting him to recruit Bill and the team for a search. Their investigation uncovers crucial details about the mole's identity.",
+          "url": "https://www.imdb.com/title/tt42026984/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "Broken Glass",
+          "airdate": "2026-05-18",
+          "summary": "Colin and Bill race to stop a company from covering up their intelligence theft while taking down a dangerous person from Colin's past.",
+          "url": "https://www.imdb.com/title/tt42026987/?ref_=ttep_ep_12"
+        }
+      ]
+    },
+    "tt36852013": {
+      "imdbId": "tt36852013",
+      "title": "Harlan Coben's Final Twist",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Betsy Faria",
+          "airdate": "2026-10-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41814574/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Billy & Billie Jean",
+          "airdate": "2026-01-07",
+          "summary": "Police investigating a couple's murder uncover a Facebook-linked cyberbullying feud between neighbors and a vengeful CIA agent's secret role.",
+          "url": "https://www.imdb.com/title/tt38969748/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Gambler's Debt",
+          "airdate": "2026-01-14",
+          "summary": "A murdered businesswoman's case puzzles detectives as they navigate suspects, casinos, debts, and a family-connected fugitive. Each promising lead raises more questions than answers.",
+          "url": "https://www.imdb.com/title/tt39217735/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "No Sign of Nancy",
+          "airdate": "2026-01-21",
+          "summary": "Everyone loved Nancy, living in wine country, but when she vanishes from her property while hosting a wedding, dozens of workers and guests are all suspects.",
+          "url": "https://www.imdb.com/title/tt39217736/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Who Killed Joy?",
+          "airdate": "2026-01-28",
+          "summary": "Joy Hibbs' husband and two children are devastated when they learn she died following a fire; they would later discover that the fire had not been the cause of her death -- police instead found Hibbs had been stabbed multiple times.",
+          "url": "https://www.imdb.com/title/tt39314414/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Shot in the Dark",
+          "airdate": "2026-02-04",
+          "summary": "At dawn, Melissa Oxley wakes up for work and finds herself in a nightmare -- her husband has been shot in the head while sleeping beside her.",
+          "url": "https://www.imdb.com/title/tt39314415/?ref_=ttep_ep_5"
         }
       ]
     }
