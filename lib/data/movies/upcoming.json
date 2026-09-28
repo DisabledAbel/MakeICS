@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T10:23:59.109Z",
+  "generatedAt": "2026-09-28T11:30:43.643Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -4172,7 +4172,7 @@
     {
       "id": "tt39649289",
       "title": "Vampire Carnival",
-      "image": "https://m.media-amazon.com/images/M/MV5BYWI1NzUzODItZDgzNC00NDk2LWEzMWItMmNjZjEzZDBhZjEwXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ1YmNkMWYtNTRjZC00NGE4LWJmYzMtNDY0NDg0NWM4MzBhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 07 Oct 2026 00:00:00 GMT",
       "genres": [
         "Horror",
@@ -4197,6 +4197,34 @@
         }
       ],
       "label": "Oct 07, 2026"
+    },
+    {
+      "id": "tt44932755",
+      "title": "SB19 Wakas at Simula: The Trilogy Concert Finale In Cinemas",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzU0MWU5MTAtZDVjYy00YWU2LTg1NjItNTI1MjM3YzQ1MGQxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm11052925",
+          "name": "Stell Ajero"
+        },
+        {
+          "id": "nm11052928",
+          "name": "Justin De Dios"
+        },
+        {
+          "id": "nm11052924",
+          "name": "Pablo Nase"
+        },
+        {
+          "id": "nm11052927",
+          "name": "Josh Cullen Santos"
+        }
+      ],
+      "label": "Oct 08, 2026"
     },
     {
       "id": "tt35856037",
@@ -4569,6 +4597,34 @@
       "label": "Oct 09, 2026"
     },
     {
+      "id": "tt46665146",
+      "title": "Fresh Meat",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjljNDU1MjItZDdiMy00YzgzLWIzMzctNjg3NjM3MmUxNzljXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Mon, 12 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm3558077",
+          "name": "Béla Baptiste"
+        },
+        {
+          "id": "nm18944133",
+          "name": "Benjamin Baraad"
+        },
+        {
+          "id": "nm6397847",
+          "name": "Finn Bell"
+        },
+        {
+          "id": "nm7680749",
+          "name": "Joshua Chislett"
+        }
+      ],
+      "label": "Oct 12, 2026"
+    },
+    {
       "id": "tt33318732",
       "title": "Jailer 2",
       "image": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_.jpg",
@@ -4729,16 +4785,16 @@
           "name": "Jason Momoa"
         },
         {
+          "id": "nm13153010",
+          "name": "Callina Liang"
+        },
+        {
           "id": "nm2810287",
           "name": "David Dastmalchian"
         },
         {
           "id": "nm3170207",
           "name": "Noah Centineo"
-        },
-        {
-          "id": "nm3689528",
-          "name": "Olivier Richters"
         }
       ],
       "label": "Oct 16, 2026"
@@ -4976,16 +5032,16 @@
           "name": "Ruby Sear"
         },
         {
+          "id": "nm4151189",
+          "name": "Tom Rhys Harries"
+        },
+        {
           "id": "nm0550371",
           "name": "Eddie Marsan"
         },
         {
           "id": "nm1540404",
           "name": "Max Minghella"
-        },
-        {
-          "id": "nm4151189",
-          "name": "Tom Rhys Harries"
         }
       ],
       "label": "Oct 23, 2026"
@@ -5212,12 +5268,12 @@
           "name": "Olivia Colman"
         },
         {
-          "id": "nm0227759",
-          "name": "Peter Dinklage"
-        },
-        {
           "id": "nm4456120",
           "name": "Elizabeth Debicki"
+        },
+        {
+          "id": "nm0227759",
+          "name": "Peter Dinklage"
         }
       ],
       "label": "Oct 30, 2026"
@@ -5833,8 +5889,8 @@
           "name": "Zoë Kravitz"
         },
         {
-          "id": "nm0000604",
-          "name": "John C. Reilly"
+          "id": "nm3660091",
+          "name": "Anna Sawai"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6233,12 +6289,12 @@
       ],
       "people": [
         {
-          "id": "nm0001808",
-          "name": "Tracey Ullman"
-        },
-        {
           "id": "nm2794962",
           "name": "Hailee Steinfeld"
+        },
+        {
+          "id": "nm0001808",
+          "name": "Tracey Ullman"
         },
         {
           "id": "nm0324658",
@@ -6265,16 +6321,16 @@
           "name": "Robert De Niro"
         },
         {
+          "id": "nm1711114",
+          "name": "Skyler Gisondo"
+        },
+        {
           "id": "nm0005562",
           "name": "Owen Wilson"
         },
         {
           "id": "nm0001774",
           "name": "Ben Stiller"
-        },
-        {
-          "id": "nm1711114",
-          "name": "Skyler Gisondo"
         }
       ],
       "label": "Nov 25, 2026"
@@ -6896,12 +6952,12 @@
           "name": "Willem Dafoe"
         },
         {
-          "id": "nm0408591",
-          "name": "Ralph Ineson"
-        },
-        {
           "id": "nm11417004",
           "name": "Bodhi Rae Breathnach"
+        },
+        {
+          "id": "nm6675440",
+          "name": "Lily-Rose Depp"
         }
       ],
       "label": "Dec 25, 2026"
@@ -6918,20 +6974,20 @@
       ],
       "people": [
         {
-          "id": "nm0425005",
-          "name": "Dwayne Johnson"
-        },
-        {
           "id": "nm2394794",
           "name": "Karen Gillan"
         },
         {
-          "id": "nm0085312",
-          "name": "Jack Black"
+          "id": "nm0425005",
+          "name": "Dwayne Johnson"
         },
         {
-          "id": "nm1055302",
-          "name": "Rhys Darby"
+          "id": "nm0001372",
+          "name": "Bonnie Hunt"
+        },
+        {
+          "id": "nm0085312",
+          "name": "Jack Black"
         }
       ],
       "label": "Dec 25, 2026"
@@ -6948,12 +7004,12 @@
       ],
       "people": [
         {
-          "id": "nm4825178",
-          "name": "David Corenswet"
-        },
-        {
           "id": "nm8908475",
           "name": "Isabel May"
+        },
+        {
+          "id": "nm4825178",
+          "name": "David Corenswet"
         },
         {
           "id": "nm0472710",
@@ -7107,12 +7163,12 @@
           "name": "Jason Statham"
         },
         {
-          "id": "nm0000460",
-          "name": "Jeremy Irons"
-        },
-        {
           "id": "nm2962353",
           "name": "Pom Klementieff"
+        },
+        {
+          "id": "nm0000460",
+          "name": "Jeremy Irons"
         },
         {
           "id": "nm8287501",
@@ -7283,20 +7339,20 @@
       ],
       "people": [
         {
-          "id": "nm6076950",
-          "name": "Hassie Harrison"
-        },
-        {
           "id": "nm3996999",
           "name": "Brandon Sklenar"
+        },
+        {
+          "id": "nm6076950",
+          "name": "Hassie Harrison"
         },
         {
           "id": "nm0241049",
           "name": "Josh Duhamel"
         },
         {
-          "id": "nm0625789",
-          "name": "Tim Blake Nelson"
+          "id": "nm0004829",
+          "name": "Spencer Treat Clark"
         }
       ],
       "label": "Jan 29, 2027"
@@ -7510,8 +7566,8 @@
           "name": "Daniel Craig"
         },
         {
-          "id": "nm8076281",
-          "name": "Emma Mackey"
+          "id": "nm0001354",
+          "name": "Ciarán Hinds"
         }
       ],
       "label": "Feb 12, 2027"
@@ -7540,8 +7596,8 @@
           "name": "Amita Rao"
         },
         {
-          "id": "nm1320827",
-          "name": "Randall Park"
+          "id": "nm0448486",
+          "name": "Kerri Kenney"
         }
       ],
       "label": "Feb 12, 2027"
@@ -7852,6 +7908,16 @@
       "label": "Mar 12, 2027"
     },
     {
+      "id": "tt42833482",
+      "title": "The Chosen: The Crucifixion",
+      "releaseDate": "Fri, 12 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [],
+      "label": "Mar 12, 2027"
+    },
+    {
       "id": "tt4540534",
       "title": "The Nightingale",
       "releaseDate": "Fri, 19 Mar 2027 00:00:00 GMT",
@@ -7985,12 +8051,12 @@
           "name": "Johnny Depp"
         },
         {
-          "id": "nm0004851",
-          "name": "Penélope Cruz"
-        },
-        {
           "id": "nm3218692",
           "name": "Madelyn Cline"
+        },
+        {
+          "id": "nm0004851",
+          "name": "Penélope Cruz"
         },
         {
           "id": "nm1989536",
@@ -8286,12 +8352,12 @@
           "name": "Jaakko Ohtonen"
         },
         {
-          "id": "nm1249052",
-          "name": "Riccardo Scamarcio"
-        },
-        {
           "id": "nm12484660",
           "name": "Phoenix Laroche"
+        },
+        {
+          "id": "nm0810738",
+          "name": "Kasia Smutniak"
         }
       ],
       "label": "May 06, 2027"
@@ -8540,16 +8606,16 @@
       ],
       "people": [
         {
-          "id": "nm1092086",
-          "name": "David Harbour"
-        },
-        {
           "id": "nm0290556",
           "name": "James Franco"
         },
         {
           "id": "nm3170207",
           "name": "Noah Centineo"
+        },
+        {
+          "id": "nm1092086",
+          "name": "David Harbour"
         },
         {
           "id": "nm6366417",
@@ -8573,12 +8639,12 @@
           "name": "Willa Fitzgerald"
         },
         {
-          "id": "nm0488953",
-          "name": "Brie Larson"
-        },
-        {
           "id": "nm0000422",
           "name": "John Goodman"
+        },
+        {
+          "id": "nm0488953",
+          "name": "Brie Larson"
         },
         {
           "id": "nm0973177",
@@ -8879,20 +8945,20 @@
       ],
       "people": [
         {
-          "id": "nm0597388",
-          "name": "Jason Momoa"
-        },
-        {
           "id": "nm0000379",
           "name": "Kirsten Dunst"
+        },
+        {
+          "id": "nm0597388",
+          "name": "Jason Momoa"
         },
         {
           "id": "nm0085312",
           "name": "Jack Black"
         },
         {
-          "id": "nm5335029",
-          "name": "Danielle Brooks"
+          "id": "nm0177639",
+          "name": "Jennifer Coolidge"
         }
       ],
       "label": "Jul 23, 2027"
