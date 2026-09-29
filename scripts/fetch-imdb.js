@@ -115,6 +115,8 @@ export async function main() {
     // Clean the entire cache first, including shows that are not rediscovered in
     // this run. Otherwise an old TBD episode can fail the quality gate forever.
     const showsData = sanitizeCachedShows(existingData.shows);
+    let successfulShows = 0;
+    const failures = [];
 
     for (const query of showsToFetch) {
       console.log(`Processing TV show: "${query}"`);
@@ -163,6 +165,11 @@ export async function main() {
         }
 
         const usableEpisodes = sanitizeImdbEpisodes(imdbEpisodesList);
+        if (usableEpisodes.length === 0) {
+          failures.push(`${query}: IMDb returned no valid episodes`);
+        } else {
+          successfulShows++;
+        }
         if (usableEpisodes.length > 0 || !showsData[imdbId]) {
           showsData[imdbId] = {
             imdbId,
@@ -175,7 +182,12 @@ export async function main() {
 
       } catch (err) {
         console.error(`Error processing "${query}":`, err.message);
+        failures.push(`${query}: ${err.message}`);
       }
+    }
+
+    if (successfulShows === 0 || failures.length === showsToFetch.length) {
+      throw new Error(`IMDb refresh produced no confirmed show updates (${failures.join('; ')})`);
     }
 
     const payload = {

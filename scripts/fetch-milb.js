@@ -89,11 +89,13 @@ async function fetchJson(url) {
 /**
  * Fetches current-year MiLB schedules and saves normalized team event data.
  */
-async function main() {
+export async function main() {
   console.log('Starting MiLB schedule fetch via MLB API...');
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });
 
   const levelSchedules = new Map();
+  const failures = [];
+  let successfulLeagues = 0;
 
   for (const league of MILB_LEAGUES) {
     console.log(`Processing league: ${league.name} (${league.id})`);
@@ -103,7 +105,7 @@ async function main() {
       const teams = teamsData.teams || [];
       console.log(`  Found ${teams.length} teams in TSDB.`);
 
-      if (teams.length === 0) continue;
+      if (teams.length === 0) throw new Error('TheSportsDB returned no teams');
 
       // Fetch global schedule for this level if not already fetched
       const cacheKey = `${league.sportId}-${league.id}`;
@@ -113,9 +115,10 @@ async function main() {
         const scheduleUrl = `${MLB_API_BASE_URL}/schedule?sportId=${league.sportId}&season=${CURRENT_YEAR}&startDate=${startDate}&endDate=${endDate}`;
         console.log(`  Fetching level ${league.sportId} schedule for ${league.name} from MLB API...`);
         const scheduleData = await fetchJson(scheduleUrl);
+        if (!Array.isArray(scheduleData.dates)) throw new Error('MLB API returned a malformed schedule response');
 
         const games = [];
-        if (scheduleData.dates) {
+        {
           for (const date of scheduleData.dates) {
             for (const game of date.games) {
               games.push({
@@ -136,6 +139,9 @@ async function main() {
           }
         }
         const uniqueGames = deduplicateMlbGames(games);
+        if (uniqueGames.length === 0 && ![10, 11, 12, 1, 2].includes(new Date().getUTCMonth() + 1)) {
+          throw new Error(`MLB API returned no ${CURRENT_YEAR} games during the MiLB season`);
+        }
         levelSchedules.set(cacheKey, uniqueGames);
         console.log(`  Found ${uniqueGames.length} unique games in MLB API for ${league.name} (level ${league.sportId}).`);
       }
@@ -177,9 +183,15 @@ async function main() {
           console.log(`    No games found for ${team.strTeam} in MLB API.`);
         }
       }
+      successfulLeagues++;
     } catch (err) {
       console.error(`  Error processing league ${league.name}:`, err.message);
+      failures.push(`${league.name}: ${err.message}`);
     }
+  }
+
+  if (failures.length || successfulLeagues !== MILB_LEAGUES.length) {
+    throw new Error(`MiLB refresh incomplete (${successfulLeagues}/${MILB_LEAGUES.length} leagues): ${failures.join('; ')}`);
   }
 
   console.log('MiLB schedule fetch complete.');

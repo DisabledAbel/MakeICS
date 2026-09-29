@@ -5,7 +5,10 @@ import { chromium } from 'playwright';
 import { decodeUnicodeEscapes } from '../../lib/utils/unicode.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const SUPPLEMENTAL_DATA_DIR = path.join(__dirname, '../lib/data/sports/supplemental');
+// This file lives one directory deeper than the other fetchers.  The old path
+// wrote into scripts/lib, so the validator saw no changed schedule files and a
+// completely ineffective run could still be green.
+const SUPPLEMENTAL_DATA_DIR = path.join(__dirname, '../../lib/data/sports/supplemental');
 
 const NFL_TEAMS = {
   '134918': { name: 'Buffalo Bills', abbr: 'BUF' },
@@ -42,6 +45,10 @@ const NFL_TEAMS = {
   '135908': { name: 'Los Angeles Chargers', abbr: 'LAC' }
 };
 
+export function nflSeasonYear(now = new Date()) {
+  return now.getUTCMonth() < 2 ? now.getUTCFullYear() - 1 : now.getUTCFullYear();
+}
+
 const findTeamIdByName = (fullName) => {
   const trimmed = fullName.toLowerCase().trim();
   const entry = Object.entries(NFL_TEAMS).find(([id, config]) => config.name.toLowerCase().trim() === trimmed);
@@ -54,7 +61,7 @@ async function scrapeNFLSchedules() {
 
   try {
     const page = await browser.newPage();
-    const currentYear = 2026; // Match current schedule year
+    const currentYear = nflSeasonYear();
 
     for (let weekNum = 1; weekNum <= 18; weekNum++) {
       const url = `https://www.nfl.com/schedules/${currentYear}/by-week/week-${weekNum}`;
@@ -292,4 +299,6 @@ async function main() {
   }
 }
 
-main();
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+  main().catch(error => { console.error(error); process.exitCode = 1; });
+}
