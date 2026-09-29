@@ -354,6 +354,7 @@ async function fetchLeagueSupplementalCSV(league, teams) {
     } else {
       console.error(`  Error fetching ${league.name} supplemental data:`, error.message);
     }
+    throw error;
   } finally {
     clearTimeout(timeout);
   }
@@ -365,6 +366,7 @@ async function fetchLeagueEvents(leagueId) {
   // 1. Get current season
   const leagueUrl = `${SPORTSDB_BASE_URL}/lookupleague.php?id=${leagueId}`;
   const leagueData = await fetchJson(leagueUrl);
+  if (!Array.isArray(leagueData.leagues)) throw new Error(`Malformed league response for ${leagueId}`);
   const season = leagueData.leagues?.[0]?.strCurrentSeason;
 
   if (!season) {
@@ -439,6 +441,7 @@ async function main() {
   await fs.mkdir(DATA_DIR, { recursive: true });
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });
 
+  const failures = [];
   for (const league of LEAGUES) {
     try {
       // 1. Fetch League Events (Legacy)
@@ -472,7 +475,10 @@ async function main() {
         ? `${SPORTSDB_BASE_URL}/search_all_teams.php?l=American%20AHL`
         : `${SPORTSDB_BASE_URL}/lookup_all_teams.php?id=${league.id}`;
       const teamsData = await fetchJson(teamsUrl);
-      const teams = teamsData.teams || [];
+      if (!Array.isArray(teamsData.teams) || teamsData.teams.length === 0) {
+        throw new Error(`TheSportsDB returned no valid teams for ${league.name}`);
+      }
+      const teams = teamsData.teams;
 
       if (SUPPLEMENTAL_CONFIGS[league.id]) {
         await fetchLeagueSupplementalCSV(league, teams);
@@ -548,10 +554,12 @@ async function main() {
       }
     } catch (error) {
       console.error(`Error fetching ${league.name}:`, error.message);
+      failures.push(`${league.name}: ${error.message}`);
     }
     // Significant inter-league delay
     await sleep(5000);
   }
+  if (failures.length) throw new Error(`Sports refresh incomplete (${failures.length}/${LEAGUES.length} leagues failed): ${failures.join('; ')}`);
 }
 
-main().catch(console.error);
+main().catch(error => { console.error(error.message); process.exitCode = 1; });
