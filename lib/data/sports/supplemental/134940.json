@@ -1,7 +1,7 @@
 {
   "teamId": "134940",
   "teamName": "Green Bay Packers",
-  "updatedAt": "2026-09-29T05:46:42.445Z",
+  "updatedAt": "2026-09-29T18:06:58.325Z",
   "generatedAt": "2026-07-18T06:13:33.280Z",
   "generateAt": "2026-07-18T06:13:33.280Z",
   "events": [
@@ -25,8 +25,8 @@
       "strHomeTeam": "Green Bay Packers",
       "strAwayTeam": "Chicago Bears",
       "dateEvent": "2026-10-11",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-11T20:25:00Z",
+      "strTime": "17:00:00Z",
+      "strTimestamp": "2026-10-11T17:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Lambeau Field",
       "strTVStation": null,
