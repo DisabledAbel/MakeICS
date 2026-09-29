@@ -62,6 +62,14 @@ export function deduplicateMlbGames(games, { warn = console.warn } = {}) {
   return [...unique.values()];
 }
 
+export function normalizeTeams(value) {
+  return Array.isArray(value) ? value : [];
+}
+
+export function requireLeagueOutput(leagueName, writtenFiles) {
+  if (writtenFiles === 0) throw new Error(`${leagueName}: no team schedule files were produced`);
+}
+
 async function fetchJson(url) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
@@ -102,7 +110,7 @@ export async function main() {
     try {
       const teamsUrl = `${SPORTSDB_BASE_URL}/search_all_teams.php?l=${encodeURIComponent(league.name)}`;
       const teamsData = await fetchJson(teamsUrl);
-      const teams = teamsData.teams || [];
+      const teams = normalizeTeams(teamsData.teams);
       console.log(`  Found ${teams.length} teams in TSDB.`);
 
       if (teams.length === 0) throw new Error('TheSportsDB returned no teams');
@@ -147,6 +155,7 @@ export async function main() {
       }
 
       const allGames = levelSchedules.get(cacheKey);
+      let writtenFiles = 0;
 
       for (const team of teams) {
         if (!team.idTeam || !/^[a-z0-9-]+$/i.test(team.idTeam)) {
@@ -178,11 +187,13 @@ export async function main() {
             updatedAt: existingUpdatedAt || new Date().toISOString(),
             events: normalizedEvents
           }, null, 2));
+          writtenFiles++;
           console.log(`    Saved ${normalizedEvents.length} events to ${filePath}`);
         } else {
           console.log(`    No games found for ${team.strTeam} in MLB API.`);
         }
       }
+      requireLeagueOutput(league.name, writtenFiles);
       successfulLeagues++;
     } catch (err) {
       console.error(`  Error processing league ${league.name}:`, err.message);

@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { deduplicateMlbGames } from '../scripts/fetch-milb.js';
+import { deduplicateMlbGames, normalizeTeams, requireLeagueOutput } from '../scripts/fetch-milb.js';
 import { normalizeScrapedEvent } from '../lib/sports.js';
 
 const game = (id, overrides = {}) => ({
@@ -52,4 +52,12 @@ test('deduplicated MiLB output has one normalized idEvent per gamePk', () => {
   assert.deepEqual(events.map(event => event.idEvent), ['scraped-815200', 'scraped-815329']);
   assert.equal(events[0].strVenue, 'Chickasaw Bricktown Ballpark');
   assert.equal(new Set(events.map(event => event.idEvent)).size, events.length);
+});
+
+test('normalizes malformed team payloads and requires league output', () => {
+  assert.deepEqual(normalizeTeams('not-an-array'), []);
+  const teams = [{ idTeam: '1' }];
+  assert.equal(normalizeTeams(teams), teams);
+  assert.throws(() => requireLeagueOutput('International League', 0), /no team schedule files were produced/);
+  assert.doesNotThrow(() => requireLeagueOutput('International League', 1));
 });
