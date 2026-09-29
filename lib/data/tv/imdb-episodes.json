@@ -260,6 +260,22 @@
           "url": "https://www.imdb.com/title/tt46486773/?ref_=ttep_ep_14"
         },
         {
+          "season": 30,
+          "number": 28,
+          "name": "Kate McKinnon/View Your Deal: Oprah Daily Edition",
+          "airdate": "2026-09-28",
+          "summary": "Author Kate McKinnon; Adam Glassman shows hot deals;",
+          "url": "https://www.imdb.com/title/tt47596922/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 30,
+          "number": 29,
+          "name": "Lisa Ling/Evan Gershkovich/View Your Deal",
+          "airdate": "2026-09-29",
+          "summary": "Guest co-host Lisa Ling; author Evan Gershkovich;",
+          "url": "https://www.imdb.com/title/tt47596923/?ref_=ttep_ep_16"
+        },
+        {
           "season": 29,
           "number": 8,
           "name": "Episode #29.1",
@@ -1906,9 +1922,9 @@
         {
           "season": 11,
           "number": 28,
-          "name": "Episode #11.17",
+          "name": "Money Can Buy Me Love",
           "airdate": "2026-09-28",
-          "summary": null,
+          "summary": "The crew welcomes a billionaire, his fiancée, and five boyfriends aboard. Massi takes interest in Joy. Gen pushes a new agenda. Nathan and Joe's relationship nears a breaking point.",
           "url": "https://www.imdb.com/title/tt46023371/?ref_=ttep_ep_17"
         },
         {
@@ -3337,6 +3353,14 @@
       "imdbId": "tt2912216",
       "title": "Fatal Attraction",
       "episodes": [
+        {
+          "season": 17,
+          "number": 14,
+          "name": "Deadly Delivery",
+          "airdate": "2026-09-14",
+          "summary": "In an upscale Atlanta neighborhood, a woman's life ends in a shocking act of violence. As detectives dig deeper into her glittering world, they uncover a story of wealth, control, and a betrayal that turns deadly.",
+          "url": "https://www.imdb.com/title/tt38090926/?ref_=ttep_ep_6"
+        },
         {
           "season": 16,
           "number": 1,
@@ -8300,7 +8324,7 @@
           "season": 8,
           "number": 4,
           "name": "Iced Out",
-          "airdate": "2023-01-01",
+          "airdate": "2026-03-17",
           "summary": "On a train in New York City, a woman becomes upset after hearing a group of tourists speak in their native language. In Key West, Florida, police intervene at a local bar where two men get into a confrontation with another customer.",
           "url": "https://www.imdb.com/title/tt32526698/?ref_=ttep_ep_4"
         },
@@ -9348,7 +9372,7 @@
           "number": 27,
           "name": "Episode #28.40",
           "airdate": "2026-09-27",
-          "summary": "The summer's BB Time Trip theme sends Houseguests on an unprecedented journey through prehistoric times, iconic decades, and unforgettable Big Brother moments.",
+          "summary": "It's the fallout from Dee's eviction. Then, hilarious moments from the summer you haven't seen. And Melody's Jury House arrival erupts into fireworks. Plus, Part 1 of the three-part, final Head of Household Competition kicks off.",
           "url": "https://www.imdb.com/title/tt45391563/?ref_=ttep_ep_40"
         },
         {
@@ -9358,14 +9382,6 @@
           "airdate": "2026-10-01",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45391595/?ref_=ttep_ep_41"
-        },
-        {
-          "season": 28,
-          "number": 42,
-          "name": "Episode #28.42",
-          "airdate": "2026-10-01",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt45391607/?ref_=ttep_ep_42"
         },
         {
           "season": 27,
@@ -16356,11 +16372,51 @@
         },
         {
           "season": 5,
+          "number": 15,
+          "name": "Episode #5.15",
+          "airdate": "2026-08-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39386712/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 5,
+          "number": 16,
+          "name": "Episode #5.16",
+          "airdate": "2026-08-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39386699/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 5,
           "number": 18,
           "name": "Episode #5.17",
           "airdate": "2026-09-18",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39386703/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 5,
+          "number": 19,
+          "name": "Episode #5.18",
+          "airdate": "2026-09-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39386701/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 5,
+          "number": 25,
+          "name": "Episode #5.19",
+          "airdate": "2026-09-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39386698/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 5,
+          "number": 26,
+          "name": "Episode #5.20",
+          "airdate": "2026-09-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39386709/?ref_=ttep_ep_20"
         },
         {
           "season": 4,
@@ -22520,6 +22576,14 @@
           "airdate": "2026-08-23",
           "summary": "John Oliver discusses why more and more companies are shifting to a subscription model, how it's impacting consumers, and what could possibly be more embarrassing than liking Madame Web.",
           "url": "https://www.imdb.com/title/tt44536509/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 13,
+          "number": 25,
+          "name": "Episode #13.25",
+          "airdate": "2026-10-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47599037/?ref_=ttep_ep_25"
         },
         {
           "season": 13,
@@ -30298,78 +30362,6 @@
           "airdate": "2026-05-19",
           "summary": "From his birth, just five years after the Emancipation Proclamation; to his death, on the eve of the March on Washington in 1963, W.E.B. Du Bois's legacy as an activist continues to resonate today.",
           "url": "https://www.imdb.com/title/tt34232132/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 39,
-          "number": 1,
-          "name": "The Disappearance of Miss Scott",
-          "airdate": "2025-02-21",
-          "summary": "Jazz virtuoso and screen superstar Hazel Scott was the first Black American to have their own television show. An early civil rights pioneer, she faced down the Red Scare at the risk of losing her career and was a champion for equality.",
-          "url": "https://www.imdb.com/title/tt35108457/?ref_=ttep_ep_1"
-        },
-        {
-          "season": 39,
-          "number": 2,
-          "name": "LIZA: A Truly Terrific Absolutely True Story",
-          "airdate": "2025-04-01",
-          "summary": "Take an intimate look into the life of Liza Minnelli, best known for her Oscar-winning role in Cabaret. Following in the footsteps of her mother Judy Garland, Minnelli used her boundless raw talent to build her own legacy in showbiz.",
-          "url": "https://www.imdb.com/title/tt36600372/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 39,
-          "number": 3,
-          "name": "Art Spiegelman: Disaster is My Muse",
-          "airdate": "2025-04-15",
-          "summary": "The career of cartoonist Art Spiegelman, and the impact of his Pulitzer Prize-winning graphic novel, \"Maus: A Survivor's Tale,\" which he describes as his parents' survival of the Holocaust.",
-          "url": "https://www.imdb.com/title/tt35934610/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 39,
-          "number": 4,
-          "name": "Janis Ian: Breaking Silence",
-          "airdate": "2025-06-20",
-          "summary": "A journey through the life of singer songwriter Janis Ian and how she rose as a folk icon and gay rights advocate.",
-          "url": "https://www.imdb.com/title/tt36263106/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 39,
-          "number": 5,
-          "name": "Ten Times Better",
-          "airdate": "2025-05-05",
-          "summary": "The astonishing and heartwarming story of George Lee, a pioneering Asian dancer who originated a featured role in George Balanchine's The Nutcracker 70 years ago as a teenage immigrant from China.",
-          "url": "https://www.imdb.com/title/tt39292513/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 39,
-          "number": 6,
-          "name": "Hannah Arendt: Facing Tyranny",
-          "airdate": "2025-06-27",
-          "summary": "Hannah Arendt, bold 20th century political thinker, drew from her WWII experiences as prisoner and refugee to develop influential theories on totalitarianism that remain relevant today.",
-          "url": "https://www.imdb.com/title/tt36263107/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 39,
-          "number": 7,
-          "name": "Marcella",
-          "airdate": "2025-07-13",
-          "summary": "Marcella Hazan revolutionized Italian cooking in America after moving to NY in the '50s, sharing authentic recipes from her heritage through influential cookbooks.",
-          "url": "https://www.imdb.com/title/tt36967246/?ref_=ttep_ep_7"
-        },
-        {
-          "season": 39,
-          "number": 8,
-          "name": "Marlee Matlin: Not Alone Anymore",
-          "airdate": "2025-10-14",
-          "summary": "Follow the life and career of 4-time Emmy nominee Marlee Matlin as she shares her story in her native American Sign Language. Known for roles in The West Wing and CODA, at 21 years old, Matlin became the first Deaf actor to win an Oscar.",
-          "url": "https://www.imdb.com/title/tt38780340/?ref_=ttep_ep_8"
-        },
-        {
-          "season": 39,
-          "number": 9,
-          "name": "Starring Dick Van Dyke",
-          "airdate": "2025-12-12",
-          "summary": "A celebration of the life and career of actor Dick Van Dyke on his 100th birthday, featuring never before seen footage, photos, and home movies that detail his legacy in show business.",
-          "url": "https://www.imdb.com/title/tt39172514/?ref_=ttep_ep_9"
         }
       ]
     },
@@ -32165,6 +32157,14 @@
       "episodes": [
         {
           "season": 2,
+          "number": 5,
+          "name": "The Waiting Game",
+          "airdate": "2026-10-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47657313/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
           "number": 12,
           "name": "The Dust Settles",
           "airdate": "2026-09-12",
@@ -33908,6 +33908,14 @@
       "episodes": [
         {
           "season": 6,
+          "number": 3,
+          "name": "In the Crosshairs",
+          "airdate": "2026-10-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47656660/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 6,
           "number": 13,
           "name": "100 Champions Enter the Ring",
           "airdate": "2026-09-13",
@@ -33917,9 +33925,9 @@
         {
           "season": 6,
           "number": 30,
-          "name": "Episode #6.2",
+          "name": "The $20,000 Advantage",
           "airdate": "2026-09-30",
-          "summary": null,
+          "summary": "America's high-stakes trivia show returns with 100 champions competing for $250,000 on The Floor, hosted by Rob Lowe. One champion uses the new Power Shot to battle for this week's $20,000.",
           "url": "https://www.imdb.com/title/tt46023380/?ref_=ttep_ep_2"
         },
         {
@@ -34288,6 +34296,14 @@
       "episodes": [
         {
           "season": 6,
+          "number": 5,
+          "name": "A Military Musical Mission",
+          "airdate": "2026-10-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47657866/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 6,
           "number": 14,
           "name": "Teachers, Tech & Tunes",
           "airdate": "2026-09-14",
@@ -34309,6 +34325,14 @@
           "airdate": "2026-09-21",
           "summary": "Matthew from Philadelphia faces Paul from New Jersey. Tome from Detroit plays Robin from Northern Virginia.",
           "url": "https://www.imdb.com/title/tt42594565/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 6,
+          "number": 28,
+          "name": "Comedy Clash!",
+          "airdate": "2026-09-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47657840/?ref_=ttep_ep_4"
         },
         {
           "season": 5,
@@ -35793,6 +35817,30 @@
       "episodes": [
         {
           "season": 30,
+          "number": 5,
+          "name": "The Blind Auditions Part 5",
+          "airdate": "2026-10-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47657977/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 30,
+          "number": 6,
+          "name": "The Blind Auditions Part 6",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47657984/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 30,
+          "number": 7,
+          "name": "The Battles Premiere",
+          "airdate": "2026-10-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47657990/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 30,
           "number": 17,
           "name": "The Voice 30th Season Celebration",
           "airdate": "2026-09-17",
@@ -35822,6 +35870,14 @@
           "airdate": "2026-09-23",
           "summary": null,
           "url": "https://www.imdb.com/title/tt46077444/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 30,
+          "number": 28,
+          "name": "Blind Auditions 4",
+          "airdate": "2026-09-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47657897/?ref_=ttep_ep_4"
         },
         {
           "season": 29,
@@ -37381,9 +37437,9 @@
         {
           "season": 1,
           "number": 5,
-          "name": "Episode #1.5",
+          "name": "The Holiday",
           "airdate": "2026-10-11",
-          "summary": null,
+          "summary": "In Ibiza for Sam and Frank's 10-year anniversary, Alex finds herself on a couples' holiday with her ex-husband Lorcan and ex-fling Patrick, both of their new girlfriends, and Ruari as her plus one.",
           "url": "https://www.imdb.com/title/tt44879080/?ref_=ttep_ep_5"
         },
         {
@@ -38352,7 +38408,7 @@
           "number": 30,
           "name": "Weaponized Honesty",
           "airdate": "2026-09-30",
-          "summary": "A chilling injury at camp threatens to send one player home. Two tribes face off in a daunting immunity challenge at sea where one tribe struggles to keep afloat. Then, tribal council takes a wild turn when one player attempts a never-before-seen move to save an ally.",
+          "summary": "A camp injury may eliminate a player. Two tribes compete in a challenging ocean immunity test where one struggles. At tribal council, a contestant tries an unprecedented strategy to protect a teammate.",
           "url": "https://www.imdb.com/title/tt44851855/?ref_=ttep_ep_2"
         },
         {
@@ -38595,6 +38651,14 @@
           "airdate": "2026-10-01",
           "summary": "The chefs receive a surprise from Chef Ramsay before the red and blue teams battle it out in an extensive three-round challenge. Later, they face their first dinner service, cooking for a room full of influencers.",
           "url": "https://www.imdb.com/title/tt42593422/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 25,
+          "number": 3,
+          "name": "Sliding Into Hell",
+          "airdate": "2026-10-08",
+          "summary": "After an intense dinner final, Chef Ramsay gives the teams a break with a day full of water slides and burger sliders at Great Wolf Lodge. What begins as a holiday turns into flames with a fierce red vs. blue team slider stakeout judged by Paul Wahlberg, co-founder of Wahlburgers.",
+          "url": "https://www.imdb.com/title/tt47276998/?ref_=ttep_ep_3"
         },
         {
           "season": 25,
@@ -38904,6 +38968,22 @@
       "imdbId": "tt22003362",
       "title": "Special Forces: World's Toughest Test",
       "episodes": [
+        {
+          "season": 5,
+          "number": 2,
+          "name": "Duty",
+          "airdate": "2026-10-01",
+          "summary": "It's day two, and the recruits work together to retrieve a supply drop while dangling from a ladder three hundred feet above the jungle canopy. Next, they must navigate a grueling obstacle course through the dense jungle to test their mental and physical stamina.",
+          "url": "https://www.imdb.com/title/tt47323590/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "name": "Trust",
+          "airdate": "2026-10-08",
+          "summary": "On day three, the recruits will brave their toughest obstacle yet: each other. In their first challenge, the recruits pair off in a punishing round of hand-to-hand combat. Later, they must put the utmost trust in one another as their fate hangs off the steep edge of a cliff.",
+          "url": "https://www.imdb.com/title/tt47324089/?ref_=ttep_ep_3"
+        },
         {
           "season": 5,
           "number": 24,
@@ -40551,6 +40631,22 @@
           "airdate": "2026-09-22",
           "summary": "At our planet's extremes, scientists venture into the ice to unlock the story of Earth's climate. Scaling jagged peaks, skiing across frozen deserts and descending deep into the icesheet, scientists track how the polar world is transforming.",
           "url": "https://www.imdb.com/title/tt38589031/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 24,
+          "name": "Polar Seas",
+          "airdate": "2026-09-24",
+          "summary": "The polar seas are one of Earth's great superpowers, helping to steady the planet's climate. But polar oceans are getting warmer. Sea Ice is disappearing. Despite these changes, can polar seas continue to shield the planet?",
+          "url": "https://www.imdb.com/title/tt38589032/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 30,
+          "name": "The Incubator of Life",
+          "airdate": "2026-09-30",
+          "summary": "Beneath the polar ice, scientists are discovering lifeforms that are rewriting the rules of biology. As they study earth's frozen realm, the search for life elsewhere in the cosmos suddenly feels a lot less like science fiction.",
+          "url": "https://www.imdb.com/title/tt38589033/?ref_=ttep_ep_3"
         }
       ]
     },
@@ -43194,7 +43290,7 @@
         {
           "season": 2,
           "number": 2,
-          "name": "Episode #2.2",
+          "name": "End of Watch",
           "airdate": "2026-10-11",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42003443/?ref_=ttep_ep_2"
@@ -44294,17 +44390,17 @@
         {
           "season": 2,
           "number": 1,
-          "name": "Episode #2.1",
+          "name": "The Girl Who Got the Ick",
           "airdate": "2026-10-05",
-          "summary": null,
+          "summary": "The 90 Day singles hit Puerto Rico looking for love. Michael is ready for a fresh start, Chloe sets her sights on a cowboy, and Brittany takes a chance on a promising connection. Kara confronts Emma over welcome party drama before a shocking secret comes to light.",
           "url": "https://www.imdb.com/title/tt45591658/?ref_=ttep_ep_1"
         },
         {
           "season": 2,
           "number": 2,
-          "name": "Episode #2.2",
+          "name": "The Boy Who Got Caught Kissing",
           "airdate": "2026-10-12",
-          "summary": null,
+          "summary": "Jamal pursues Ericka but can't shake his feelings for Emma. Steven and Iris grow closer, leaving Michael worried. Brittany learns a secret about Malik, Chloe fears losing Brian to Emma, and Kara finds herself torn between two men.",
           "url": "https://www.imdb.com/title/tt45671255/?ref_=ttep_ep_2"
         },
         {
@@ -44448,6 +44544,22 @@
           "airdate": "2026-10-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43720420/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Episode #2.3",
+          "airdate": "2026-10-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43985940/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Episode #2.4",
+          "airdate": "2026-10-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44177776/?ref_=ttep_ep_4"
         },
         {
           "season": 1,
@@ -44598,6 +44710,1331 @@
           "airdate": "2026-02-04",
           "summary": "At dawn, Melissa Oxley wakes up for work and finds herself in a nightmare -- her husband has been shot in the head while sleeping beside her.",
           "url": "https://www.imdb.com/title/tt39314415/?ref_=ttep_ep_5"
+        }
+      ]
+    },
+    "tt7426142": {
+      "imdbId": "tt7426142",
+      "title": "Milk Street Television",
+      "episodes": [
+        {
+          "season": 9,
+          "number": 5,
+          "name": "Hong Kong Classics",
+          "airdate": "2025-10-04",
+          "summary": "Sweet and sour pork; Cantonese stir-fried black pepper beef and potatoes; hot oil-flashed garlic-ginger shrimp.",
+          "url": "https://www.imdb.com/title/tt38558195/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 9,
+          "number": 6,
+          "name": "The Real Spaghetti and Meatballs",
+          "airdate": "2025-09-06",
+          "summary": "The ancient origins of spaghetti and meatballs; charred red-sauce spaghetti and slow-cooked short rib ragu with pasta.",
+          "url": "https://www.imdb.com/title/tt38282879/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 9,
+          "number": 7,
+          "name": "Apple Strudel & Schnitzel",
+          "airdate": "2025-10-18",
+          "summary": "The secrets of great strudel and schnitzel; making Austrian pork schnitzel; how to make homemade spatzle.",
+          "url": "https://www.imdb.com/title/tt38687525/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 9,
+          "number": 8,
+          "name": "Coconut Curry and Stir-Fried Chicken",
+          "airdate": "2025-10-25",
+          "summary": "Malaysian-style chicken and coconut curry; coconut ginger rice; Malaysian twice-cooked turmeric chicken with lemongrass and sweet soy; fried chicken tossed in an umami-rich glaze.",
+          "url": "https://www.imdb.com/title/tt38957003/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 9,
+          "number": 9,
+          "name": "Everyone Is Wrong About Pie!",
+          "airdate": "2025-11-01",
+          "summary": "Pie pastry; pumpkin pie with a caramelized pumpkin filling; blind baking; pie pan performance; a freeform three berry crostata.",
+          "url": "https://www.imdb.com/title/tt39044797/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 9,
+          "number": 10,
+          "name": "Cheese Bread & Garlic Chicken",
+          "airdate": "2025-11-08",
+          "summary": "The Republic of Georgia's cheese bread; puff pastry khachapuri; red ajika and Georgian tomato and cucumber salad with walnuts; Georgian creamy-garlic chicken; sour cream and herb sauce.",
+          "url": "https://www.imdb.com/title/tt39044799/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 9,
+          "number": 11,
+          "name": "New Holiday Vegetables",
+          "airdate": "2025-11-15",
+          "summary": "Buttery hazelnut and winter squash tian; crisp oven-fried cauliflower with tahini-yogurt sauce; Moroccan-spiced glazed carrots flavored with garlic, honey and cumin.",
+          "url": "https://www.imdb.com/title/tt39044804/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 9,
+          "number": 12,
+          "name": "Best Italian Desserts",
+          "airdate": "2025-11-22",
+          "summary": "A six-ingredient no-cook recipe; a rustic ricotta and cherry jam tart from Rome; a biscotti bakery; a recipe for almond and citrus biscotti.",
+          "url": "https://www.imdb.com/title/tt39044805/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 9,
+          "number": 13,
+          "name": "New Salads",
+          "airdate": "2025-09-13",
+          "summary": "Vietnamese chicken salad with sweet lime-garlic dressing; Greek bean salad; romaine with Manchego and smoky pepper dressing.",
+          "url": "https://www.imdb.com/title/tt38558190/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 9,
+          "number": 14,
+          "name": "New Christmas Cookies",
+          "airdate": "2025-12-06",
+          "summary": "Linzer bars with raspberry jam; chocolate-dipped tahini and browned butter cookies; Polish gingerbread cookies with honey and rye.",
+          "url": "https://www.imdb.com/title/tt39306348/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 9,
+          "number": 15,
+          "name": "Backroads Romania",
+          "airdate": "2025-12-13",
+          "summary": "Recipes for Romanian meatball soup, Romanian baked polenta with sour cream and cheese and Romanian musaca.",
+          "url": "https://www.imdb.com/title/tt39306351/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 9,
+          "number": 16,
+          "name": "Professional Breads at Home",
+          "airdate": "2025-12-20",
+          "summary": "Three-seed beer pretzels; olive oil challah; kneading; the best way to sharpen serrated knives.",
+          "url": "https://www.imdb.com/title/tt39306352/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 9,
+          "number": 17,
+          "name": "Favorite Italian Soups",
+          "airdate": "2025-12-27",
+          "summary": "Exploring Italy's repertoire of simple soups; Italian wedding soup; bread and tomato soup with poached eggs and ribollita; four ways to boost store-bought broth.",
+          "url": "https://www.imdb.com/title/tt39306353/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 9,
+          "number": 18,
+          "name": "Fearless Fish",
+          "airdate": "2026-01-03",
+          "summary": "Crisp-skinned broiled salmon with cucumber-sesame salad; Italian seafood stew with scallops and clams; sautéed cod fillets with spicy cilantro sauce; the best ways to sear shrimp and steam white fish fillets.",
+          "url": "https://www.imdb.com/title/tt39306355/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 9,
+          "number": 19,
+          "name": "Easy Enchiladas",
+          "airdate": "2026-01-10",
+          "summary": "Cheese enchiladas with salsa roja; Mexican cowboy beans flavored with bacon and chipotle; Mexican-style corn with chili and lime.",
+          "url": "https://www.imdb.com/title/tt39306357/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 9,
+          "number": 20,
+          "name": "Best Romanian Desserts",
+          "airdate": "2025-09-20",
+          "summary": "Romanian creme fraiche cake; a new spin on apple pie -- Romanian apple pie with cinnamon and walnuts; meringue-topped cake wtih cherries.",
+          "url": "https://www.imdb.com/title/tt38558192/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 9,
+          "number": 21,
+          "name": "The Secrets of Curry",
+          "airdate": "2026-01-20",
+          "summary": "Sri Lankan spinach and coconut dal with tomato tarka; a tangy Sri Lankan deviled shrimp; a lesson on blending curry powder; Sri Lankan chicken and coconut curry.",
+          "url": "https://www.imdb.com/title/tt41516394/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 9,
+          "number": 22,
+          "name": "Eggs Around the World",
+          "airdate": "2026-01-27",
+          "summary": "Velvety Turkish scrambled eggs with yogurt; recipes for wok-fried eggs and soy sauce eggs; Cantonese-style shrimp omelet on rice.",
+          "url": "https://www.imdb.com/title/tt41516395/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 9,
+          "number": 23,
+          "name": "Simple Italian Pastas",
+          "airdate": "2026-02-03",
+          "summary": "Spaghetti with garlic and walnut breadcrumbs; pasta with sun-dried tomato and red pepper pesto; pasta with \"fake\" sauce.",
+          "url": "https://www.imdb.com/title/tt41516398/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 9,
+          "number": 27,
+          "name": "Tomato Makeovers",
+          "airdate": "2025-09-27",
+          "summary": "Calabrian panzanella; Burmese tomato salad with shallots and peanuts; tomato conserva; upside-down tomato tart with Parmesan pastry.",
+          "url": "https://www.imdb.com/title/tt38558194/?ref_=ttep_ep_4"
+        }
+      ]
+    },
+    "tt29721305": {
+      "imdbId": "tt29721305",
+      "title": "Prosecuting Evil with Kelly Siegler",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Long Road to Justice",
+          "airdate": "2025-01-25",
+          "summary": "The murder of Belinda Temple and her unborn baby was Kelly's most contentious case. After years of silence, she sets the record straight about what it took to finally get justice for the victims and their family against an unrelenting defense team.",
+          "url": "https://www.imdb.com/title/tt35400433/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Murdered in the Line of Duty",
+          "airdate": "2025-02-01",
+          "summary": "A deadly crime spree hits rural Kaufman, Texas, taking the lives of two prosecutors. The murders set off fear in the community about who is targeting the protectors of justice. The truth hits much closer to home than expected.",
+          "url": "https://www.imdb.com/title/tt35400435/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Prosecuting the Mastermind",
+          "airdate": "2025-02-08",
+          "summary": "Prosecutor Kelly Siegler and her co-counsel unravel the mysterious hit-style murder of young suburban mom Farah Fratta.",
+          "url": "https://www.imdb.com/title/tt35488407/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Senior Citizen Serial Killer",
+          "airdate": "2025-02-15",
+          "summary": "When an elderly woman survives an attempted murder, investigators connect the dots on the deaths of other local senior citizens where families reported missing jewelry.",
+          "url": "https://www.imdb.com/title/tt35488413/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "The Windshield Murder",
+          "airdate": "2025-02-22",
+          "summary": "Fort Worth, TX-Gregory Biggs, was hit by a car on the freeway. He is stuck in the windshield, seriously injured, and what happens next is a horrific night for Gregory Biggs. Why did the nurse who struck him not try to save him?",
+          "url": "https://www.imdb.com/title/tt35488420/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "A Family Divided",
+          "airdate": "2025-03-01",
+          "summary": "When former NFL star Antonio Armstrong and his wife, Dawn, are murdered in their own bed, detectives uncover a stray bullet, threatening note and web of complicated family dynamics that ultimately unravel, revealing a dark betrayal.",
+          "url": "https://www.imdb.com/title/tt35488422/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Too close to home",
+          "airdate": "2025-03-08",
+          "summary": "Wharton Co.-TX A Game Warden is in pursuit of someone who seems to be randomly shooting stop signs. This escalates to a car chase, and a heavy shootout with the 21 y.o suspect. Justin Hurst is killed, but how and why did this happen?",
+          "url": "https://www.imdb.com/title/tt35488423/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Evil At Large",
+          "airdate": "2025-03-15",
+          "summary": "Waco, TX-A serial killer Kenneth McDuff is released from prison due to overcrowding. It's not long before he starts killing and bringing more pain and misery to the community again.",
+          "url": "https://www.imdb.com/title/tt35488426/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "The Honor Killings",
+          "airdate": "2025-03-22",
+          "summary": "The ambush-style murder of a human rights activist confuses investigators.",
+          "url": "https://www.imdb.com/title/tt35488428/?ref_=ttep_ep_9"
+        }
+      ]
+    },
+    "tt5761026": {
+      "imdbId": "tt5761026",
+      "title": "Relative Race",
+      "episodes": [
+        {
+          "season": 17,
+          "number": 4,
+          "name": "Episode 4",
+          "airdate": "2026-10-04",
+          "summary": "Team Black falters in the latest challenge, but regains momentum when teammate Nikia realizes the competition is far more personal than just supporting Meyet.",
+          "url": "https://www.imdb.com/title/tt39282873/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 17,
+          "number": 5,
+          "name": "Episode 5",
+          "airdate": "2026-10-11",
+          "summary": "Information about his father brings Matt to a relative that holds the key to his own past. The latest challenge tests all four teams' bonds and forces Sean to reevaluate his goals.",
+          "url": "https://www.imdb.com/title/tt39282875/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 17,
+          "number": 6,
+          "name": "Episode 6",
+          "airdate": "2026-10-18",
+          "summary": "Meyet discovers a unique connection to Dr. Martin Luther King Jr. Sean learns why he was unable to find his father. After decades, Jeremy finally finds the person he's been searching for.",
+          "url": "https://www.imdb.com/title/tt39282877/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 17,
+          "number": 7,
+          "name": "Episode 7",
+          "airdate": "2026-10-25",
+          "summary": "Matt makes a connection that will change his life forever. Meyet's accuracy in the throwing challenge and Nakia's precision in the blade-swinging challenge may not be enough to lift them to victory.",
+          "url": "https://www.imdb.com/title/tt39282878/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 17,
+          "number": 8,
+          "name": "Episode 8",
+          "airdate": "2026-11-01",
+          "summary": "Matt attends a family event for the first time. Meyet and Sean find relatives they've spent decades searching for. Team Green attempts to secure the prize money in today's challenge.",
+          "url": "https://www.imdb.com/title/tt39282885/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 17,
+          "number": 9,
+          "name": "Episode 9",
+          "airdate": "2026-11-08",
+          "summary": "Sean finds a relative who has traveled thousands of miles just to meet him. Meyet experiences her most special meeting on the race. The Red Team pushes themselves in their most difficult challenge yet.",
+          "url": "https://www.imdb.com/title/tt39282887/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 17,
+          "number": 10,
+          "name": "Episode 10",
+          "airdate": "2026-11-15",
+          "summary": "As the competition wraps up, the teams gather at Natural Bridge Caverns in San Antonio, Texas to reflect on their journeys. Then, the race for $50,000 culminates in a series of challenges that will decide everything.",
+          "url": "https://www.imdb.com/title/tt39282888/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 17,
+          "number": 13,
+          "name": "Episode 13",
+          "airdate": "2026-09-13",
+          "summary": "Season 17 launches with a treasure hunt deep in the caverns of Luray, Virginia. As the contestants start their road trips across the country in search of family and $50,000, they reflect on what a newfound family would mean to them.",
+          "url": "https://www.imdb.com/title/tt39282865/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 17,
+          "number": 20,
+          "name": "Episode 20",
+          "airdate": "2026-09-20",
+          "summary": "Team Red makes their first misstep, while Team Green dodges a mystery penalty. Jeremy's first relative shares some heartbreaking news that alters his goals for the competition.",
+          "url": "https://www.imdb.com/title/tt39282867/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 17,
+          "number": 27,
+          "name": "Episode 27",
+          "airdate": "2026-09-27",
+          "summary": "Reeling from the previous day, Jeremy finds hope in his newest relative. Matt meets a relative he never thought existed. Team Green manages to stay on top of the latest challenge, giving the other teams something to buzz about.",
+          "url": "https://www.imdb.com/title/tt39282869/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 16,
+          "number": 3,
+          "name": "Episode 3",
+          "airdate": "2025-10-05",
+          "summary": "Jerry meets someone from his father's side of the family, the side that he least knows about. Hillary receives some devastating news.",
+          "url": "https://www.imdb.com/title/tt38784392/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 16,
+          "number": 4,
+          "name": "Episode 4",
+          "airdate": "2025-10-12",
+          "summary": "Team Black meets some relatives from a branch they weren't expecting. Jerry receives a special treat from two maternal cousins.",
+          "url": "https://www.imdb.com/title/tt38784393/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 16,
+          "number": 5,
+          "name": "Episode 5",
+          "airdate": "2025-10-19",
+          "summary": "The birth name of one of the participants is revealed by her namesake. A family genealogist helps identify another's newly found connections.",
+          "url": "https://www.imdb.com/title/tt38784395/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 16,
+          "number": 6,
+          "name": "Episode 6",
+          "airdate": "2025-10-26",
+          "summary": "A wish comes true when a participant reconnects with a family member that has not been seen since they both her small children.",
+          "url": "https://www.imdb.com/title/tt38784399/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 16,
+          "number": 7,
+          "name": "Episode 7",
+          "airdate": "2025-11-02",
+          "summary": "Hillary gains insight about her mother from a person she never expected to meet. Jerry reverses roles and shares insights with a close relative of their common ancestry. Meanwhile, Candis and Sadie make instant connections with kinfolk.",
+          "url": "https://www.imdb.com/title/tt38784402/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 16,
+          "number": 8,
+          "name": "Episode 8",
+          "airdate": "2025-11-09",
+          "summary": "As the end of the competition nears, tensions are high for everyone. For the last place team, one strike could virtually guarantee facing the elimination round. One the other hand, a win could keep them in the running for first place.",
+          "url": "https://www.imdb.com/title/tt38784405/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 16,
+          "number": 9,
+          "name": "Episode 9",
+          "airdate": "2025-11-16",
+          "summary": "During the last day of the competition before the final challenge, participants seek to gain a greater understanding of complex family relationships.",
+          "url": "https://www.imdb.com/title/tt38784407/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 16,
+          "number": 10,
+          "name": "Episode 10",
+          "airdate": "2025-11-23",
+          "summary": "At the U.S. Space and Rocket Center in Huntsville, Alabama, all four teams meet to compete in a final series of challenges with the ultimate goal of winning the $50,000 grand prize.",
+          "url": "https://www.imdb.com/title/tt38784408/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 16,
+          "number": 21,
+          "name": "Episode 21",
+          "airdate": "2025-09-21",
+          "summary": "Four teams: Black (Sadie and Jake), Red (Candis and Andrae'a), Blue (Jerry and Shauna), and Green (Hillary and Danita) travel from Centre, Alabama to various locations in the South to meet relatives that they didn't know they had.",
+          "url": "https://www.imdb.com/title/tt38784390/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 16,
+          "number": 28,
+          "name": "Episode 28",
+          "airdate": "2025-09-28",
+          "summary": "Participants respectively meet a cousin, an aunt and two siblings. One participant appears in a relative's TikTok video.",
+          "url": "https://www.imdb.com/title/tt38784391/?ref_=ttep_ep_2"
+        }
+      ]
+    },
+    "tt0364845": {
+      "imdbId": "tt0364845",
+      "title": "NCIS",
+      "episodes": [
+        {
+          "season": 24,
+          "number": 1,
+          "name": "Wayward Son",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39389825/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 24,
+          "number": 2,
+          "name": "Clean Slate",
+          "airdate": "2026-10-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44111688/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 24,
+          "number": 3,
+          "name": "Sleeping Dogs",
+          "airdate": "2026-10-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44772098/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 23,
+          "number": 1,
+          "name": "Prodigal Son: Part 1",
+          "airdate": "2025-10-14",
+          "summary": "Devastated by his father's killing, Parker recklessly pursues mob boss Carla Marino for revenge, putting himself and the team at risk.",
+          "url": "https://www.imdb.com/title/tt37544772/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 23,
+          "number": 2,
+          "name": "Prodigal Son: Part 2",
+          "airdate": "2025-10-21",
+          "summary": "Parker's pursuit of vengeance for his father's murder could have deadly consequences; Parker's sister faces an impossible choice.",
+          "url": "https://www.imdb.com/title/tt38510842/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 23,
+          "number": 3,
+          "name": "The Sound and the Fury",
+          "airdate": "2025-10-28",
+          "summary": "A petty officer's death linked to blackmail leads the team to work with Agent Sawyer. Torres faces danger during the case, while Knight receives an NCIS Elite training offer.",
+          "url": "https://www.imdb.com/title/tt38510847/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 23,
+          "number": 4,
+          "name": "Gone Girls",
+          "airdate": "2025-11-04",
+          "summary": "The team investigates a U.S. Marine who is believed to have kidnapped the wife of one of the most powerful men at the Department of Justice.",
+          "url": "https://www.imdb.com/title/tt38510852/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 23,
+          "number": 5,
+          "name": "Now and Then",
+          "airdate": "2025-11-11",
+          "summary": "Prison break by an inmate who has just a soon-to-be released, compels the team to reopen the case of a naval officer's death that was originally investigated by Gibbs and Franks in the '90s and enlist the help of Vera Strickland.",
+          "url": "https://www.imdb.com/title/tt38744524/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 23,
+          "number": 6,
+          "name": "Page-Turner",
+          "airdate": "2025-11-18",
+          "summary": "During a promotional event for his latest Deep Six novel, McGee gets kidnapped. The team investigates his \"biggest fan\" while uncovering links to stolen classified documents.",
+          "url": "https://www.imdb.com/title/tt38876002/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 23,
+          "number": 7,
+          "name": "God Only Knows",
+          "airdate": "2025-12-02",
+          "summary": "A teen's kidnapping connects to a Navy SEAL Taliban survivor who might have killed after coming home. Jimmy reveals to his superior what he discovered about Parker's mother's death.",
+          "url": "https://www.imdb.com/title/tt38890385/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 23,
+          "number": 8,
+          "name": "Stolen Moments",
+          "airdate": "2025-12-09",
+          "summary": "After Secret Service shoots a man near VP's residence, NCIS investigates with help from their newest team member - a DOJ test-phase AI chatbot.",
+          "url": "https://www.imdb.com/title/tt38934467/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 23,
+          "number": 9,
+          "name": "Heaven and Nature",
+          "airdate": "2025-12-16",
+          "summary": "McGee and Torres hunt a stolen truck of Christmas toys meant for Navy families. Parker's mother's story comes to light, and Knight begins her first NCIS: Elite assignment.",
+          "url": "https://www.imdb.com/title/tt38952882/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 23,
+          "number": 10,
+          "name": "Her",
+          "airdate": "2026-03-03",
+          "summary": "Knight's first Elite mission: capture ex-NCIS agent Eleanor Bishop, now a wanted cyber-terrorist. Bishop seeks help from Torres, reuniting them for the first time since her sudden departure five years earlier.",
+          "url": "https://www.imdb.com/title/tt38996265/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 23,
+          "number": 11,
+          "name": "Army of One",
+          "airdate": "2026-03-10",
+          "summary": "When a desperate man barricades himself inside an ammo warehouse, Knight is the only negotiator he'll talk to, claiming she once saved him before; as explosives tick and trust frays, Knight clashes with the CID officer running the standoff",
+          "url": "https://www.imdb.com/title/tt39008822/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 23,
+          "number": 12,
+          "name": "In Too Deep",
+          "airdate": "2026-03-17",
+          "summary": "A murdered drone pilot leads the team to a missing woman from McGee's past and a relationship he thought was long behind him.",
+          "url": "https://www.imdb.com/title/tt39008824/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 23,
+          "number": 13,
+          "name": "All Good Things",
+          "airdate": "2026-03-24",
+          "summary": "When the son of a Marine that Gibbs once helped comes to NCIS in desperation, the fractured team reunites off the books. But chasing justice without a badge may cost them more than their careers.",
+          "url": "https://www.imdb.com/title/tt39008825/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 23,
+          "number": 14,
+          "name": "Fleeting",
+          "airdate": "2026-03-31",
+          "summary": "A stolen squad car flips during Navy Week, revealing a stabbed sailor in the trunk. As chaos engulfs D.C., the team hunts the killer while dealing with the aftermath of recent events.",
+          "url": "https://www.imdb.com/title/tt39008828/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 23,
+          "number": 15,
+          "name": "Knick-Knack",
+          "airdate": "2026-04-07",
+          "summary": "A Navy Captain is murdered on a historic vessel, and his final cryptic message launches an investigation that transforms into a dangerous search for hidden riches.",
+          "url": "https://www.imdb.com/title/tt39008830/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 23,
+          "number": 16,
+          "name": "S.O.S.",
+          "airdate": "2026-04-14",
+          "summary": "A Navy lieutenant reappears six months after her plane disappeared, but her account raises questions. The team investigates the crash and discovers it wasn't an accident, uncovering new surprises at every turn.",
+          "url": "https://www.imdb.com/title/tt39008832/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 23,
+          "number": 17,
+          "name": "Reboot",
+          "airdate": "2026-04-21",
+          "summary": "With most NCIS agents gone and the mainframe offline for upgrades, Kasie and a small team are hunted by a threat in the darkened building. A simple reboot becomes a deadly game until Sam Hanna arrives.",
+          "url": "https://www.imdb.com/title/tt39008834/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 23,
+          "number": 18,
+          "name": "Bad Impressions",
+          "airdate": "2026-04-28",
+          "summary": "The team rushes to assist a member who's been falsely accused of murder.",
+          "url": "https://www.imdb.com/title/tt39008836/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 23,
+          "number": 19,
+          "name": "Deal with the Devil",
+          "airdate": "2026-05-05",
+          "summary": "A secret immunity deal may free a suspect. Parker battles to save the case, but his estranged sister's arrival reopens old family wounds, making his fight for justice personal.",
+          "url": "https://www.imdb.com/title/tt39008837/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 23,
+          "number": 20,
+          "name": "Sons and Daughters",
+          "airdate": "2026-05-12",
+          "summary": "A year after a fatal coffee shop bombing, another blast reveals the attack wasn't by a lone perpetrator, forcing the team to grapple with questions of legacy and loyalty.",
+          "url": "https://www.imdb.com/title/tt39008838/?ref_=ttep_ep_20"
+        }
+      ]
+    },
+    "tt34385400": {
+      "imdbId": "tt34385400",
+      "title": "Vampirina: Teenage Vampire",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Second to Breathe",
+          "airdate": "2026-10-06",
+          "summary": "Vee and Demi save Zach and Vick.",
+          "url": "https://www.imdb.com/title/tt39167241/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "On Second Thought, Bro",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42988129/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Second Verse",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43515088/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Second Banana",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43515092/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Second Guessing",
+          "airdate": "2026-10-06",
+          "summary": "Vee reveals to everyone at Wilson Hall that she's a vampire.",
+          "url": "https://www.imdb.com/title/tt43621547/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "The Last Second",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43621560/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "First Halloween",
+          "airdate": "2025-10-03",
+          "summary": "Vee wishes on a Blood Moon to redo Halloween with the help of a Moon Imp. Elijah helps Demi prove that he can still be scary in his \"real boy\" form.",
+          "url": "https://www.imdb.com/title/tt38207626/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "First Nightmare",
+          "airdate": "2025-10-03",
+          "summary": "A visit from a gargoyle keeps Elijah from telling Vee a secret. Meanwhile, Sophie and Demi use a skeleton toy to help Elijah with a dance assignment.",
+          "url": "https://www.imdb.com/title/tt38351333/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "First Final",
+          "airdate": "2025-10-10",
+          "summary": "When Vee asks for Demi's help on a class presentation, his ghostly secret is put in danger. Meanwhile, Elijah is invited to an underground rap cypher.",
+          "url": "https://www.imdb.com/title/tt38220759/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "First Holiday",
+          "airdate": "2025-10-10",
+          "summary": "When Vee's at a loss for what to get her Secret Santa recipient, she enlists some Transylvanian help. Meanwhile, Elijah and Demi struggle to find the perfect gift for Sophie.",
+          "url": "https://www.imdb.com/title/tt38207635/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "First Vampire Friend",
+          "airdate": "2025-10-17",
+          "summary": "When Vee's fritzing knocks out a fang, an unexpected chain of events draws her and Britney closer--just as Elijah and Sophie race to fix the situation.",
+          "url": "https://www.imdb.com/title/tt38364155/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "First Year to Watch",
+          "airdate": "2025-09-12",
+          "summary": "As Vee arrives at Wilson Hall, she learns that a performing arts boarding school might have more challenges than she thought. Demi vows to protect Vee from Van Helsings.",
+          "url": "https://www.imdb.com/title/tt34422748/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "First Power Trip",
+          "airdate": "2025-10-24",
+          "summary": "Vee, Sophie, Elijah and Britney compete to be Millie Eyelash's opening act. Meanwhile, Demi is forced to protect Dean Merriweather.",
+          "url": "https://www.imdb.com/title/tt38208903/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "First Pet",
+          "airdate": "2025-10-31",
+          "summary": "While Vee struggles to tell her friends her diagnosis, Sophie brings her pet bunny to school; Demi and Britney invite Dean Merriweather to join their a cappella group.",
+          "url": "https://www.imdb.com/title/tt38207804/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "name": "First Villain",
+          "airdate": "2025-11-07",
+          "summary": "When Sophie directs Vee and Elijah in a romantic scene, a new student from Transylvania, Lucien, disrupts the chemistry. Meanwhile, Demi and Britney have kitchen duties.",
+          "url": "https://www.imdb.com/title/tt38629709/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "name": "First Full Vampire",
+          "airdate": "2025-11-14",
+          "summary": "Lucien plots as Sophie, Elijah and Demi reflect on their situation. Britney tries to meet Millie Eyelash and Vee learns a new way to channel her power.",
+          "url": "https://www.imdb.com/title/tt38641080/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 1,
+          "number": 17,
+          "name": "First Christmas",
+          "airdate": "2025-12-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39177787/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 1,
+          "number": 19,
+          "name": "First Dance",
+          "airdate": "2025-09-19",
+          "summary": "In the lead-up to the Wilson Hall Welcome Dance, Vee and Elijah struggle with power imbalances. Meanwhile, Sophie searches for her DJ persona.",
+          "url": "https://www.imdb.com/title/tt37577337/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 26,
+          "name": "First Enemy",
+          "airdate": "2025-09-26",
+          "summary": "Vee and Sophie try to impress Elijah's sister Moriah, who invites the friends over for dinner. Meanwhile, Demi and Britney form an unlikely bond.",
+          "url": "https://www.imdb.com/title/tt36590965/?ref_=ttep_ep_5"
+        }
+      ]
+    },
+    "tt41814911": {
+      "imdbId": "tt41814911",
+      "title": "NCIS: New York",
+      "episodes": []
+    },
+    "tt21824196": {
+      "imdbId": "tt21824196",
+      "title": "Road Wars",
+      "episodes": [
+        {
+          "season": 7,
+          "number": 1,
+          "name": "Battling a Bear",
+          "airdate": "2026-03-10",
+          "summary": "A rideshare driver and his two passengers are pursued by an unknown vehicle on Long Island. An elderly woman in Serbia is hit by a reversing ambulance.",
+          "url": "https://www.imdb.com/title/tt43027026/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 7,
+          "number": 2,
+          "name": "Rainy Day Rage-Off",
+          "airdate": "2026-03-10",
+          "summary": "A near miss during a lane change in Michigan triggers a hard-hitting showdown. A Florida biker riding without tags has a run-in with police. Drivers on a highway in England try to help corral a swerving car.",
+          "url": "https://www.imdb.com/title/tt43027027/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 7,
+          "number": 3,
+          "name": "Watch Your Back",
+          "airdate": "2026-03-17",
+          "summary": "New Jersey police pull over a city councilman. A semi barrels through a busy intersection in Washington. A motorist in Utah is challenged by a driver who appears to be brake checking.",
+          "url": "https://www.imdb.com/title/tt43027028/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 7,
+          "number": 4,
+          "name": "Drawbridge Disaster",
+          "airdate": "2026-03-17",
+          "summary": "A fistfight at an intersection in Ohio takes an odd turn when a third person jumps in. A snowy-weather police chase lands in an icy creek in Wisconsin. A woman in Vietnam leaving work on her scooter gets pinned under a closing security gate.",
+          "url": "https://www.imdb.com/title/tt43027029/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 7,
+          "number": 5,
+          "name": "Taser Vs. Hatchet",
+          "airdate": "2026-03-24",
+          "summary": "A tow truck driver in Connecticut confronts another motorist. Police struggle to subdue a hatchet-wielding suspect in Ontario. An accident scene on an Oklahoma highway is crashed by another motorist.",
+          "url": "https://www.imdb.com/title/tt43027031/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 7,
+          "number": 6,
+          "name": "Road Rage Poker Face",
+          "airdate": "2026-03-24",
+          "summary": "In New Jersey, a woman's boyfriend intervenes in her traffic stop. A woman in Nevada is subjected to an expletive-laden tirade from a road raging driver. When a driver gets rammed on a Texas highway, her driving skills are put to the test.",
+          "url": "https://www.imdb.com/title/tt43027033/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 7,
+          "number": 7,
+          "name": "No Helmet, Big Problem",
+          "airdate": "2026-03-31",
+          "summary": "A woman confronts fellow motorists while stuck in a packed parking lot in Texas. A fight between acquaintances in Australia leads to a trail of collisions. A pickup struggles to escape a slippery snow-covered highway median in Oklahoma.",
+          "url": "https://www.imdb.com/title/tt43027044/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 7,
+          "number": 8,
+          "name": "Overpass Disaster",
+          "airdate": "2026-03-31",
+          "summary": "A cyclist and a biker confront each other in Minnesota. Shots are fired during a road rage altercation at a gas station in Florida. A toddler in Oklahoma has a run-in with the law. A station wagon and a pickup face off in Missouri.",
+          "url": "https://www.imdb.com/title/tt43027045/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 7,
+          "number": 9,
+          "name": "Fender Bender Fallout",
+          "airdate": "2026-04-07",
+          "summary": "An angry driver in Arizona follows up a rear-end crash with a dangerous decision. Two motorists clash over the right of way at a roundabout in Virginia. A luxury car collides with another vehicle at a \"calming island\" in England.",
+          "url": "https://www.imdb.com/title/tt43027046/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 7,
+          "number": 10,
+          "name": "A Karmic Cycle",
+          "airdate": "2026-04-07",
+          "summary": "A dispute at a stop sign leads to a man pulling a gun and flashing a badge in Ohio. In Canada, a driver pursues a vehicle he feels endangered him on the highway.",
+          "url": "https://www.imdb.com/title/tt43027048/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 7,
+          "number": 11,
+          "name": "Zip It!",
+          "airdate": "2026-04-14",
+          "summary": "A showboating motorcyclist is confronted by a pickup driver in Las Vegas. A tow truck operator in Miami Beach is accused of stealing from an impounded vehicle.",
+          "url": "https://www.imdb.com/title/tt43027050/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 7,
+          "number": 12,
+          "name": "22-Point Turn",
+          "airdate": "2026-04-14",
+          "summary": "A motorist brandishes a knife at a semi driver after they collide on an Albuquerque highway. Police in Ohio utilize multiple PIT maneuvers during a high-speed chase.",
+          "url": "https://www.imdb.com/title/tt43027051/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 7,
+          "number": 13,
+          "name": "Cut to the Chase",
+          "airdate": "2026-04-21",
+          "summary": "A motorist struggles to break up a fistfight between drivers in New Jersey. A cyclist turns traffic vigilante in England and clashes with commuters. A runaway circling car heads toward its ejected driver in Montana.",
+          "url": "https://www.imdb.com/title/tt43027052/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 7,
+          "number": 14,
+          "name": "Clash on the Causeway",
+          "airdate": "2026-04-21",
+          "summary": "A dispute over a saved parking space leads to a brawl in New York. On a bridge in Connecticut, a confrontation between a driver and pedestrians escalates quickly. A sportscar driver in Georgia turns off his traction control and pays the price.",
+          "url": "https://www.imdb.com/title/tt43027053/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 7,
+          "number": 15,
+          "name": "Hot Rod, Hotter Temper",
+          "airdate": "2026-04-28",
+          "summary": "A man unleashes a tirade at a female motorist after a rear-end collision in Florida. A worker servicing a stoplight over a road gets nailed by a semi in Louisiana. A gun-wielding sports car driver confronts a family in Florida.",
+          "url": "https://www.imdb.com/title/tt43027055/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 7,
+          "number": 16,
+          "name": "Freeway Dodger",
+          "airdate": "2026-04-28",
+          "summary": "A woman's outburst in the street causes a roadblock in Maryland. A wreck on a Chicago highway leaves a trooper in the crosshairs of traffic.",
+          "url": "https://www.imdb.com/title/tt43027073/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 7,
+          "number": 17,
+          "name": "Stop That Tow Truck!",
+          "airdate": "2026-05-05",
+          "summary": "A sideswipe on a Texas freeway leads to a heated confrontation. A motorist rear-ends a biker in Australia, then snatches his bag. A pedestrian takes a swing at a trooper on a Florida highway. A right-of-way mix-up causes a collision in Texas; and more.",
+          "url": "https://www.imdb.com/title/tt43027151/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 7,
+          "number": 18,
+          "name": "Driving Through Hell",
+          "airdate": "2026-05-05",
+          "summary": "A traffic jam spat on a California freeway between a motorcyclist and driver turns destructive. In Minnesota, two bicyclists square off with a driver over a right-of-way dispute.",
+          "url": "https://www.imdb.com/title/tt43027203/?ref_=ttep_ep_18"
+        }
+      ]
+    },
+    "tt31961684": {
+      "imdbId": "tt31961684",
+      "title": "The UnXplained Special Presentation",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Mysterious America",
+          "airdate": "2025-10-07",
+          "summary": "There are many mysteries left unsolved right in our backyard. From strange UFO sightings witnessed by thousands to missing civilizations with terrifying evidence left in their wake, North America is filled with many unresolved questions.",
+          "url": "https://www.imdb.com/title/tt39013935/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Legendary Weapons",
+          "airdate": "2025-10-07",
+          "summary": "From legendary armaments like swords and daggers to weapons of Biblical proportions, incredible weapons have been utilized to change the tides of war for centuries.",
+          "url": "https://www.imdb.com/title/tt39013942/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "Powerful Predictions",
+          "airdate": "2025-10-14",
+          "summary": "Is predicting the future really something to inherit, or something that can be learned? Is it a trait that only a select few possess, or one that is accessible to every one of us by simply opening our minds?",
+          "url": "https://www.imdb.com/title/tt39013945/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Unstoppable Outbreaks",
+          "airdate": "2025-10-14",
+          "summary": "From strange afflictions to infections that ravage populations, it's frightening to think that one of us can contract these dangerous and often deadly diseases. But how did they originate? Can we do anything to stop them?",
+          "url": "https://www.imdb.com/title/tt39013947/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Creatures of the Night",
+          "airdate": "2025-10-21",
+          "summary": "Some see monsters as constructions of pure fantasy, made to entertain us or simply teach us moral lessons about the world around us. But some encounters may be more real- and terrifying- than local legends might suggest.",
+          "url": "https://www.imdb.com/title/tt39013949/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Primal Fears",
+          "airdate": "2025-10-21",
+          "summary": "Among the myriad emotions humans have experienced over centuries, perhaps the most easily identifiable is fear. This is because it is essential to our very survival.",
+          "url": "https://www.imdb.com/title/tt39013951/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Shadows of the Ancient Past",
+          "airdate": "2025-10-28",
+          "summary": "All over the world archaeologists, scientists, and researchers are exploring ancient sites and collecting clues from civilizations that came before us. Are we unearthing the evidence of societies like Atlantis and the Island of Mu?",
+          "url": "https://www.imdb.com/title/tt39013956/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Diabolical Killers",
+          "airdate": "2025-10-28",
+          "summary": "It's a terrifying thought that there are those among us who have the urge to stalk, manipulate, and eventually kill to satisfy some dark craving.",
+          "url": "https://www.imdb.com/title/tt39013957/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Mystical Structures",
+          "airdate": "2023-10-03",
+          "summary": "Do incredible structures like the Men-an-Tol Monolith or the colossal Olmec heads somehow harness mystical powers beyond our comprehension?",
+          "url": "https://www.imdb.com/title/tt32095235/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Defying Death",
+          "airdate": "2023-10-10",
+          "summary": "How do some people live through the impossible? Do we have a hidden reserve of inexplicable energy locked away inside us that can be released when the situation calls for it?",
+          "url": "https://www.imdb.com/title/tt32095378/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Biblical Artifacts",
+          "airdate": "2023-10-17",
+          "summary": "From relics like the Ark of the Covenant and the Holy Grail, to a tower that could touch heaven, is it possible to uncover the real history of these biblical artifacts and the possible powers that they possess?",
+          "url": "https://www.imdb.com/title/tt32095423/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Extraordinary Abilities",
+          "airdate": "2023-10-24",
+          "summary": "History is full of incredible individuals who prove that seemingly ordinary people can accomplish what many of us would define as impossible. Which begs the question, how do people develop such extraordinary abilities?",
+          "url": "https://www.imdb.com/title/tt32095457/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Dark Forces",
+          "airdate": "2023-10-31",
+          "summary": "Whether it's the eerie atmosphere of a mansion that's been visited by the dead, the tomb of an ancient warlord, or even a cursed painting--are many who believe that dark, powerful energies permeate our existence.",
+          "url": "https://www.imdb.com/title/tt32095502/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Signs of Alien Life",
+          "airdate": "2024-03-22",
+          "summary": "From UFO sightings by the military, to strange structures on Mars, the evidence is mounting that we may not be alone. But if extraterrestrials exist, what are their views toward humanity? And should we see them as friend...or foe?",
+          "url": "https://www.imdb.com/title/tt32253373/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Glimpses of the Future",
+          "airdate": "2023-03-29",
+          "summary": "Throughout recorded history, many people have claimed to be able to see the future and can predict, or even influence, events they first witness in their mind's eye. Is it possible that some of us really do possess the gift of foresight?",
+          "url": "https://www.imdb.com/title/tt32095904/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Mysterious Disappearances",
+          "airdate": "2024-04-05",
+          "summary": "Most disappearances can be explained by either foul play or bad luck. However, there are some cases that defy conventional wisdom. How can a modern jetliner simply drop off radar screens?",
+          "url": "https://www.imdb.com/title/tt32096170/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Legends Unveiled",
+          "airdate": "2024-04-12",
+          "summary": "Is it possible that ancient stories we consider to be fictional--legends, myths, and folklore--are actually fragments of a larger historical record that's been lost? Do some mythical stories have a basis in reality?",
+          "url": "https://www.imdb.com/title/tt32096859/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Decoding Genius",
+          "airdate": "2024-04-22",
+          "summary": "Throughout history, geniuses have had a profound impact on societies all over the world. From science, to music, to mathematics, their achievements have shaped the evolution of human civilization. But how does a person become a genius?",
+          "url": "https://www.imdb.com/title/tt32097029/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Secrets of Ancient Civilizations",
+          "airdate": "2024-04-26",
+          "summary": "Uncovering ruins from the past has been integral to our understanding of ancient civilizations. But sometimes, what remains of these cultures raise more questions than answers.",
+          "url": "https://www.imdb.com/title/tt32097149/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "Criminal Masterminds",
+          "airdate": "2024-04-29",
+          "summary": "What makes the criminal mind tick? From elusive imposters disguised as foreign doctors or socialites, to dangerous killers--what drives certain people to deceive and execute outrageous and daring plots?",
+          "url": "https://www.imdb.com/title/tt32097372/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "America's Unsolved Mysteries",
+          "airdate": "2024-05-06",
+          "summary": "From the very founding of the United States, there have been many bizarre--and unsolved--mysteries that continue to capture our imagination. Did a divine encounter between George Washington and an angel influence a great victory in the American Revolution? What was the strange, green glow that seemed to heal wounded soldiers during the Civil War? And could America's most notorious assassin have led a double life... after death?",
+          "url": "https://www.imdb.com/title/tt32097677/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "Beyond Earth",
+          "airdate": "2024-05-13",
+          "summary": "Humanity has long been fascinated with the galactic worlds beyond our planet. What mysteries are yet to be solved about the surface of the Moon? And what would happen to Earth if our lunar neighbor disappear?",
+          "url": "https://www.imdb.com/title/tt32253276/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "name": "Monster Mayhem",
+          "airdate": "2024-05-20",
+          "summary": "Are there monsters in our midst? Creatures who lurk in dense forests or fly over our largest cities? For centuries, monsters like Mothman, the Thunderbird, and Bigfoot have mystified witnesses, skeptics, and scientists alike.",
+          "url": "https://www.imdb.com/title/tt32628361/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "name": "Natural World Phenomena",
+          "airdate": "2024-04-27",
+          "summary": "Explore the phenomena and undefinable events in the natural world that continue to pique interest and stoke fears, including powerful earthquakes that might have a human-involved origin.",
+          "url": "https://www.imdb.com/title/tt36755919/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 1,
+          "number": 17,
+          "name": "The End of Days",
+          "airdate": "2024-10-01",
+          "summary": "Since the dawn of civilization, people have expressed a deep interest in understanding what might lead to their own demise. This time The Unxplained will delve into various theories and beliefs surrounding apocalyptic events throughout history.",
+          "url": "https://www.imdb.com/title/tt36757276/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 1,
+          "number": 18,
+          "name": "Ancient Ruins Revealed",
+          "airdate": "2024-10-28",
+          "summary": "What else can we uncover from ancient sites? Are there hidden meanings or revelations we can bring to the surface that can change our understanding on how certain people lived, thrived...or disappeared? Who were the ancient civilization in Peru that built incredible structures at the time of the Pyramids of Egypt, and why do we know nothing about them? And what was the famous megalithic Stonehenge really built for: an astronomical device or sound influencing ritual mechanism?",
+          "url": "https://www.imdb.com/title/tt36757169/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 1,
+          "number": 23,
+          "name": "The Mystery of Faith",
+          "airdate": "2024-10-22",
+          "summary": "Faith seekers study ancient texts for meaning and truth. They question what's fact vs fiction in religious writings, wonder about holy relics' powers, and seek proof of biblical events like plagues and parted seas.",
+          "url": "https://www.imdb.com/title/tt36757263/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 1,
+          "number": 25,
+          "name": "Beyond Death",
+          "airdate": "2024-10-29",
+          "summary": "Throughout human history, how the dead are treated is as important as how the living are treated, and questions of both death and the afterlife have been at the heart of every known culture.",
+          "url": "https://www.imdb.com/title/tt36757142/?ref_=ttep_ep_25"
+        }
+      ]
+    },
+    "tt30796986": {
+      "imdbId": "tt30796986",
+      "title": "NCIS: Origins",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 1,
+          "name": "Don't You Forget About Me",
+          "airdate": "2026-10-06",
+          "summary": "Ghosts from Gibbs' past shatter his peaceful retirement in Alaska. In 1992, the team races to rescue kidnapped Randy while Gibbs and Lala deal with the aftermath of their kiss.",
+          "url": "https://www.imdb.com/title/tt39389827/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "name": "My Own Worst Enemy",
+          "airdate": "2026-10-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43587378/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "Return of the Mack",
+          "airdate": "2026-10-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43720421/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "Episode #3.4",
+          "airdate": "2026-10-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43985938/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 1,
+          "name": "The Funky Bunch",
+          "airdate": "2025-10-14",
+          "summary": "Gibbs and Franks investigate the disappearance of a young Marine connected to a mysterious compound with a charismatic leader, and Lala's fate is revealed.",
+          "url": "https://www.imdb.com/title/tt35856973/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Who by Fire",
+          "airdate": "2025-10-21",
+          "summary": "When the body of a college swimmer washes up on the beach, the team must determine if it was an accident or murder. Meanwhile, Gibbs prepares for his first interrogation.",
+          "url": "https://www.imdb.com/title/tt38124095/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "The Edge",
+          "airdate": "2025-10-28",
+          "summary": "When Dr. Donald 'Ducky' Mallard, a liaison from D.C. headquarters and an old acquaintance of Gibbs, arrives to evaluate whether Pendleton needs an in-house medical examiner, not everyone trusts that's the real reason behind his visit.",
+          "url": "https://www.imdb.com/title/tt38476738/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "No Man Left Behind",
+          "airdate": "2025-11-04",
+          "summary": "The team investigates the robbery of a Navy bank while Franks' brother blows into town desperate for help after hitting rock bottom and Lala, still struggling after her accident, makes a decision about her future.",
+          "url": "https://www.imdb.com/title/tt38593666/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Funny How Time Slips Away",
+          "airdate": "2025-11-11",
+          "summary": "When a naval officer mysteriously dies, the team travel to the small dust-blown town of Serenity, where they encounter secret-harboring residents, an uncooperative sheriff and an investigation that will reverberate for decades.",
+          "url": "https://www.imdb.com/title/tt38593667/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Happy Birthday",
+          "airdate": "2025-11-18",
+          "summary": "When an anonymous tip leads to the body of a young Marine at a horrendous crime scene, Randy believes there may be a connection to a previous case where a coin was left in the victim's throat.",
+          "url": "https://www.imdb.com/title/tt38689354/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Crazy Little Thing Called Love",
+          "airdate": "2025-12-02",
+          "summary": "The team investigates the murder of a Marine who had recently been handpicked for a classified mission as Wheeler's personal life is upended, Lala is thrown by unexpected news from Vera, and Gibbs and Diane double-date with Randy and Junie",
+          "url": "https://www.imdb.com/title/tt38934458/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "End of the Road",
+          "airdate": "2025-12-09",
+          "summary": "After Lala's favorite CI is shot, the team works with Oceanside PD to find the culprit. Franks visits his brother Mason at the Range compound. Gibbs and Diane's relationship faces difficulties after she gets a job offer in Los Angeles.",
+          "url": "https://www.imdb.com/title/tt38952898/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Fools Rush In",
+          "airdate": "2026-03-03",
+          "summary": "As the team discovers Gibbs' drunken Vegas elopement with Diane, the newlyweds contemplate their future; the team investigates a fatal movie theatre bombing with a connection to the Pruitt compound where Franks' brother Mason is staying...",
+          "url": "https://www.imdb.com/title/tt39008841/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Lean on Me",
+          "airdate": "2026-03-10",
+          "summary": "When a marine captain shows up at Camp Pendleton exhibiting symptoms of a fatal virus, NIS goes on lockdown and Gibbs is forced to take charge. Team races to determine whether it really is a deadly outbreak or something else entirely.",
+          "url": "https://www.imdb.com/title/tt39008842/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "Feelin' Alright?",
+          "airdate": "2026-03-17",
+          "summary": "When a lieutenant's water-logged body is discovered with a potential connection to an international smuggling ring, NIS Panama agents are called in to assist, and Gibbs comes face-to-face with an old nemesis: Special Agent Dwayne Pride.",
+          "url": "https://www.imdb.com/title/tt39008843/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "The Gambler",
+          "airdate": "2026-03-24",
+          "summary": "Mary Jo reconnects with an old friend from Atlantic City to investigate two Marines' roadside deaths when the NIS Regional Director attempts to transfer her.",
+          "url": "https://www.imdb.com/title/tt39008845/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "name": "Homeward Bound",
+          "airdate": "2026-03-31",
+          "summary": "Dr. Tango faces arrest for theft of human remains from a national park. Dr. Donald \"Ducky\" Mallard comes back to help the team prove he's innocent.",
+          "url": "https://www.imdb.com/title/tt39008846/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "name": "The Beautiful Ballad of Gary Callahan",
+          "airdate": "2026-04-07",
+          "summary": "After trusted K-9 agent Gary Callahan is critically injured at a crime scene, NIS hunts for the perpetrator while an unexpected chapter from Franks' past before Pendleton comes to light.",
+          "url": "https://www.imdb.com/title/tt39008848/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "name": "Johnny B. Goode",
+          "airdate": "2026-04-14",
+          "summary": "Lala's determination to get Manny out of gang life lands the team in the middle of a turf war.",
+          "url": "https://www.imdb.com/title/tt39008849/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 2,
+          "number": 16,
+          "name": "Who's Gonna Drive You Home?",
+          "airdate": "2026-04-21",
+          "summary": "Gibbs and Lala bond while working a case together. Meanwhile, Gibbs' remote romance with Diane faces new challenges when his father Jackson shows up unexpectedly.",
+          "url": "https://www.imdb.com/title/tt39008851/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 2,
+          "number": 17,
+          "name": "Rule 13",
+          "airdate": "2026-04-28",
+          "summary": "Wheeler takes command when a car bomb goes off outside NIS headquarters. Also, the truth about Franks' distaste for lawyers is revealed.",
+          "url": "https://www.imdb.com/title/tt39008852/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "name": "Hollywood Ending",
+          "airdate": "2026-05-05",
+          "summary": "With the Camp Pendleton office in danger of being shut down, the team confronts an uncertain future.",
+          "url": "https://www.imdb.com/title/tt39008853/?ref_=ttep_ep_18"
         }
       ]
     }
