@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { fetchScheduleFromWebsite, fetchScheduleFromESPN, normalizeScrapedEvent } from '../lib/sports.js';
+import { SOURCE_RULES, validateData } from './validate-fetch-output.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, '../lib/data/sports');
@@ -23,6 +24,8 @@ const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/3';
 const FETCH_TIMEOUT_MS = 15000;
 const MAX_RETRIES = 5;
 const INITIAL_BACKOFF_MS = 2000;
+const REQUEST_INTERVAL_MS = 2500;
+const RATE_LIMIT_COOLDOWN_MS = 60_000;
 
 const LEAGUE_TO_ESPN_SLUG = {
   '4328': 'soccer/league/_/name/eng.1', // EPL
@@ -98,7 +101,7 @@ const SUPPLEMENTAL_CONFIGS = {
 };
 
 // Major leagues to track
-const LEAGUES = [
+export const LEAGUES = [
   { id: '4328', name: 'EPL' },
   { id: '4391', name: 'NFL' },
   { id: '4387', name: 'NBA' },
@@ -117,7 +120,7 @@ const LEAGUES = [
   { id: '4339', name: 'Turkish Super Lig' },
   { id: '4330', name: 'Scottish Premiership' },
   { id: '4351', name: 'Brazilian Serie A' },
-  { id: '4392', name: 'NCAA Football' },
+  { id: '4479', name: 'NCAA Football' },
   { id: '4408', name: 'NCAA Basketball' },
   { id: '4480', name: 'UEFA Champions League' },
   { id: '4481', name: 'UEFA Europa League' },
@@ -131,6 +134,10 @@ export function currentSeasonFromResponse(leagueId, leagueData) {
   if (!Array.isArray(leagueData?.leagues) || leagueData.leagues.length === 0) {
     throw new Error(`Malformed league response for ${leagueId}: no league record`);
   }
+  const returnedId = leagueData.leagues[0]?.idLeague;
+  if (returnedId && String(returnedId) !== String(leagueId)) {
+    throw new Error(`Malformed league response for ${leagueId}: received league ${returnedId}`);
+  }
   const season = leagueData.leagues[0]?.strCurrentSeason;
   if (typeof season !== 'string' || !season.trim()) {
     throw new Error(`Malformed league response for ${leagueId}: no current season`);
@@ -142,48 +149,82 @@ async function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-async function fetchJson(url, retryCount = 0) {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+// One queue covers every request, including empty rounds, lookups and retries.
+// Sleeping only after populated rounds allowed bursts above the free API limit.
+export function createSportsDbClient({
+  fetchImpl = globalThis.fetch,
+  sleepImpl = sleep,
+  now = Date.now,
+  requestIntervalMs = REQUEST_INTERVAL_MS,
+  timeoutMs = FETCH_TIMEOUT_MS,
+  maxRetries = MAX_RETRIES,
+  rateLimitCooldownMs = RATE_LIMIT_COOLDOWN_MS,
+  logger = console
+} = {}) {
+  let queue = Promise.resolve();
+  let nextRequestAt = 0;
 
-  try {
-    const response = await fetch(url, {
-      signal: controller.signal,
-      headers: {
-        Accept: 'application/json',
-        'User-Agent': 'MakeICS-Data-Fetcher/1.0'
+  async function request(url) {
+    for (let attempt = 0; attempt <= maxRetries; attempt++) {
+      const wait = Math.max(0, nextRequestAt - now());
+      if (wait) await sleepImpl(wait);
+      nextRequestAt = now() + requestIntervalMs;
+
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), timeoutMs);
+      let failure;
+      let retryDelay = INITIAL_BACKOFF_MS * 2 ** attempt;
+      try {
+        const response = await fetchImpl(url, {
+          signal: controller.signal,
+          headers: { Accept: 'application/json', 'User-Agent': 'MakeICS-Data-Fetcher/1.0' }
+        });
+        if (response.ok) return await response.json();
+
+        const retryable = response.status === 408 || response.status === 429 || response.status >= 500;
+        if (response.status === 429) {
+          const header = response.headers?.get('retry-after');
+          const seconds = header?.trim() ? Number(header) : NaN;
+          const retryAfter = Number.isFinite(seconds)
+            ? seconds * 1000
+            : Math.max(0, Date.parse(header) - now()) || 0;
+          retryDelay = Math.max(retryDelay, rateLimitCooldownMs, retryAfter);
+        }
+        await response.body?.cancel();
+        failure = new Error(`Request failed (${response.status}) for ${url}`);
+        failure.retryable = retryable;
+      } catch (error) {
+        failure = new Error(`${controller.signal.aborted ? `Request timed out after ${timeoutMs}ms` : error.message} for ${url}`, { cause: error });
+        failure.retryable = controller.signal.aborted || error instanceof TypeError;
+      } finally {
+        // The next attempt gets a fresh timeout after the cooldown has ended.
+        clearTimeout(timeout);
       }
-    });
-
-    if (response.status === 429) {
-      if (retryCount < MAX_RETRIES) {
-        const backoff = INITIAL_BACKOFF_MS * Math.pow(2, retryCount);
-        console.warn(`Rate limited (429) for ${url}. Retrying in ${backoff}ms...`);
-        await sleep(backoff);
-        return await fetchJson(url, retryCount + 1);
-      }
-      throw new Error(`Rate limit exceeded for ${url} after ${MAX_RETRIES} retries.`);
+      if (!failure.retryable || attempt === maxRetries) throw failure;
+      logger.warn(`${failure.message}. Retrying in ${retryDelay}ms (${attempt + 1}/${maxRetries})...`);
+      await sleepImpl(retryDelay);
     }
-
-    if (!response.ok) {
-      throw new Error(`Request failed (${response.status}) for ${url}`);
-    }
-
-    return await response.json();
-  } catch (error) {
-    if (error.name === 'AbortError') {
-      if (retryCount < MAX_RETRIES) {
-        const backoff = INITIAL_BACKOFF_MS * Math.pow(2, retryCount);
-        console.warn(`Timeout for ${url}. Retrying in ${backoff}ms...`);
-        await sleep(backoff);
-        return await fetchJson(url, retryCount + 1);
-      }
-      throw new Error(`Request timed out for ${url} after ${MAX_RETRIES} retries.`);
-    }
-    throw error;
-  } finally {
-    clearTimeout(timeout);
   }
+
+  return url => {
+    const result = queue.then(() => request(url));
+    queue = result.catch(() => {});
+    return result;
+  };
+}
+
+const fetchJson = createSportsDbClient();
+
+export async function saveSupplementalSchedule(filePath, data) {
+  let previous = null;
+  try { previous = JSON.parse(await fs.readFile(filePath, 'utf8')); }
+  catch (error) {
+    if (error.code !== 'ENOENT' && !(error instanceof SyntaxError)) throw error;
+  }
+  const current = { ...data, updatedAt: previous?.updatedAt || new Date().toISOString() };
+  const errors = validateData({ file: filePath, current, previous, rule: SOURCE_RULES.sports });
+  if (errors.length) throw new Error(`Rejected optional supplemental output: ${errors.join('; ')}`);
+  await fs.writeFile(filePath, JSON.stringify(current, null, 2));
 }
 
 /**
@@ -191,7 +232,7 @@ async function fetchJson(url, retryCount = 0) {
  * @param {Object} league - The league whose supplemental data should be fetched.
  * @param {Array<Object>} teams - The league's teams to associate with supplemental events.
  */
-async function fetchLeagueSupplementalCSV(league, teams) {
+async function fetchLeagueSupplementalCSV(league, teams, { dataDir = SUPPLEMENTAL_DATA_DIR } = {}) {
   const config = SUPPLEMENTAL_CONFIGS[league.id];
   if (!config) return;
 
@@ -340,20 +381,12 @@ async function fetchLeagueSupplementalCSV(league, teams) {
 
       if (teamEvents) {
         sanitizeScores(teamEvents);
-        const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
-        let existingUpdatedAt = null;
-        try {
-          const content = await fs.readFile(filePath, 'utf8');
-          const existingData = JSON.parse(content);
-          existingUpdatedAt = existingData.updatedAt;
-        } catch (e) {}
-
-        await fs.writeFile(filePath, JSON.stringify({
+        const filePath = path.join(dataDir, `${team.idTeam}.json`);
+        await saveSupplementalSchedule(filePath, {
           teamId: team.idTeam,
           teamName: team.strTeam,
-          updatedAt: existingUpdatedAt || new Date().toISOString(),
           events: teamEvents
-        }, null, 2));
+        });
         console.log(`    Saved ${teamEvents.length} supplemental events for ${team.strTeam} (${team.idTeam})`);
       } else {
         console.warn(`    No supplemental events found for ${team.strTeam} (${team.idTeam})`);
@@ -371,17 +404,17 @@ async function fetchLeagueSupplementalCSV(league, teams) {
   }
 }
 
-async function fetchLeagueEvents(leagueId) {
+export async function fetchLeagueSchedule(leagueId, { fetchJsonImpl = fetchJson } = {}) {
   console.log(`Fetching league ${leagueId}...`);
 
   // 1. Get current season
   const leagueUrl = `${SPORTSDB_BASE_URL}/lookupleague.php?id=${leagueId}`;
-  const leagueData = await fetchJson(leagueUrl);
+  const leagueData = await fetchJsonImpl(leagueUrl);
   const season = currentSeasonFromResponse(leagueId, leagueData);
 
   console.log(`Current season for ${leagueId}: ${season}`);
 
-  const allEvents = [];
+  const allEvents = new Map();
   let emptyRoundCount = 0;
   const EMPTY_ROUND_THRESHOLD = 3;
 
@@ -389,7 +422,11 @@ async function fetchLeagueEvents(leagueId) {
   // Most leagues don't have more than 50 rounds/weeks
   for (let r = 1; r <= 50; r++) {
     const roundUrl = `${SPORTSDB_BASE_URL}/eventsround.php?id=${leagueId}&r=${r}&s=${season}`;
-    const roundData = await fetchJson(roundUrl);
+    const roundData = await fetchJsonImpl(roundUrl);
+
+    if (!roundData || !Object.hasOwn(roundData, 'events') || (roundData.events !== null && !Array.isArray(roundData.events))) {
+      throw new Error(`Malformed round ${r} response for ${leagueId}: expected an events array or null`);
+    }
 
     if (!roundData.events || roundData.events.length === 0) {
       emptyRoundCount++;
@@ -401,14 +438,28 @@ async function fetchLeagueEvents(leagueId) {
     }
 
     emptyRoundCount = 0;
-    allEvents.push(...roundData.events);
+    for (const event of roundData.events) {
+      if (!event?.idEvent || (event.idLeague && String(event.idLeague) !== String(leagueId))) {
+        throw new Error(`Malformed event in round ${r} for ${leagueId}: missing ID or wrong league`);
+      }
+      allEvents.set(String(event.idEvent), event);
+    }
     console.log(`  Round ${r}: ${roundData.events.length} events`);
 
-    // Increased throttle to be more respectful of the free API key limit (~30 req/min)
-    await sleep(2500);
   }
 
-  return allEvents;
+  return { events: [...allEvents.values()], leagueName: leagueData.leagues[0].strLeague };
+}
+
+export function teamsFromResponse(leagueId, teamsData) {
+  const teams = teamsData?.teams;
+  if (!Array.isArray(teams) || !teams.length) {
+    throw new Error(`TheSportsDB returned no valid teams for league ${leagueId}`);
+  }
+  if (teams.some(team => !/^\d+$/.test(String(team?.idTeam || '')) || typeof team.strTeam !== 'string' || !team.strTeam.trim() || String(team.idLeague) !== String(leagueId))) {
+    throw new Error(`TheSportsDB returned invalid or unrelated teams for league ${leagueId}`);
+  }
+  return teams;
 }
 
 function getESPNTeamSlug(team) {
@@ -418,9 +469,9 @@ function getESPNTeamSlug(team) {
   return team.strTeamShort?.toLowerCase() || team.strTeam?.toLowerCase().replace(/\s+/g, '-');
 }
 
-async function isSupplementalStale(teamId) {
+async function isSupplementalStale(teamId, dataDir = SUPPLEMENTAL_DATA_DIR) {
   try {
-    const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${teamId}.json`);
+    const filePath = path.join(dataDir, `${teamId}.json`);
     const content = await fs.readFile(filePath, 'utf8');
     const data = JSON.parse(content);
     if (!data.updatedAt) return true;
@@ -440,20 +491,29 @@ async function isSupplementalStale(teamId) {
 /**
  * Fetches, processes, and stores league events and team supplemental schedules.
  *
- * Continues processing subsequent leagues when an individual league fails and throttles requests between leagues.
+ * Required league failures fail the run; optional enrichment preserves saved data.
+ * The shared API client paces requests across rounds and leagues.
  */
-async function main() {
-  await fs.mkdir(DATA_DIR, { recursive: true });
-  await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });
+export async function main({
+  leagues = LEAGUES,
+  dataDir = DATA_DIR,
+  fetchJsonImpl = fetchJson,
+  supplementalFetcher = fetchLeagueSupplementalCSV,
+  firecrawlApiKey = process.env.FIRECRAWL_API_KEY,
+  sleepImpl = sleep
+} = {}) {
+  const supplementalDataDir = path.join(dataDir, 'supplemental');
+  await fs.mkdir(dataDir, { recursive: true });
+  await fs.mkdir(supplementalDataDir, { recursive: true });
 
   const failures = [];
-  for (const league of LEAGUES) {
+  for (const league of leagues) {
     try {
       // 1. Fetch League Events (Legacy)
-      const events = await fetchLeagueEvents(league.id);
+      const { events, leagueName } = await fetchLeagueSchedule(league.id, { fetchJsonImpl });
       if (events.length > 0) {
         sanitizeScores(events);
-        const filePath = path.join(DATA_DIR, `${league.id}.json`);
+        const filePath = path.join(dataDir, `${league.id}.json`);
         let existingUpdatedAt = null;
         try {
           const content = await fs.readFile(filePath, 'utf8');
@@ -470,101 +530,91 @@ async function main() {
         console.log(`Saved ${events.length} events for ${league.name} to ${filePath}`);
       }
 
-      // 2. Discover Teams and Scrape (New)
-      console.log(`Discovering teams for ${league.name}...`);
-      // Note: lookup_all_teams.php?id=4516 incorrectly returns English soccer teams on TSDB.
-      // We use search_all_teams.php?l=WNBA as a reliable alternative for this league.
-      const teamsUrl = league.id === '4516'
-        ? `${SPORTSDB_BASE_URL}/search_all_teams.php?l=WNBA`
-        : league.id === '4738'
-        ? `${SPORTSDB_BASE_URL}/search_all_teams.php?l=American%20AHL`
-        : `${SPORTSDB_BASE_URL}/lookup_all_teams.php?id=${league.id}`;
-      const teamsData = await fetchJson(teamsUrl);
-      if (!Array.isArray(teamsData.teams) || teamsData.teams.length === 0) {
-        throw new Error(`TheSportsDB returned no valid teams for ${league.name}`);
-      }
-      const teams = teamsData.teams;
+      // Team discovery is only needed for optional supplemental sources.
+      // A failed enrichment must not prevent publishing a valid league schedule.
+      if (!SUPPLEMENTAL_CONFIGS[league.id] && !firecrawlApiKey) continue;
+      try {
+        console.log(`Discovering teams for ${league.name}...`);
+        // The provider's canonical name avoids aliases, and search_all_teams
+        // avoids lookup_all_teams returning English soccer teams for other sports.
+        if (typeof leagueName !== 'string' || !leagueName.trim()) throw new Error('Missing canonical league name');
+        const teamsUrl = `${SPORTSDB_BASE_URL}/search_all_teams.php?l=${encodeURIComponent(leagueName)}`;
+        const teams = teamsFromResponse(league.id, await fetchJsonImpl(teamsUrl));
 
-      if (SUPPLEMENTAL_CONFIGS[league.id]) {
-        await fetchLeagueSupplementalCSV(league, teams);
-      }
+        if (SUPPLEMENTAL_CONFIGS[league.id]) {
+          await supplementalFetcher(league, teams, { dataDir: supplementalDataDir });
+        }
 
-      if (process.env.FIRECRAWL_API_KEY) {
-        for (const team of teams) {
-          const isStale = await isSupplementalStale(team.idTeam);
-          if (!isStale) {
-            console.log(`  Supplemental data for ${team.strTeam} is fresh.`);
-            continue;
-          }
-
-          let allScrapedGames = [];
-
-          // 2a. Scrape ESPN (Priority)
-          const espnLeagueSlug = LEAGUE_TO_ESPN_SLUG[league.id];
-          if (espnLeagueSlug) {
-            const teamSlug = getESPNTeamSlug(team);
-            console.log(`  Scraping ESPN for ${team.strTeam} (${teamSlug})...`);
-            try {
-              const espnGames = await fetchScheduleFromESPN(espnLeagueSlug, teamSlug);
-              if (espnGames.length > 0) {
-                allScrapedGames.push(...espnGames);
-                console.log(`    Found ${espnGames.length} games on ESPN.`);
-              }
-            } catch (error) {
-              console.error(`    Error scraping ESPN for ${team.strTeam}:`, error.message);
+        if (firecrawlApiKey) {
+          for (const team of teams) {
+            const isStale = await isSupplementalStale(team.idTeam, supplementalDataDir);
+            if (!isStale) {
+              console.log(`  Supplemental data for ${team.strTeam} is fresh.`);
+              continue;
             }
-          }
 
-          // 2b. Scrape Official Website (Fallback/Additional)
-          if (team.strWebsite && allScrapedGames.length === 0) {
-            console.log(`  Scraping ${team.strTeam} official website: ${team.strWebsite}...`);
-            try {
-              const websiteGames = await fetchScheduleFromWebsite(team.strWebsite);
-              if (websiteGames.length > 0) {
-                allScrapedGames.push(...websiteGames);
-                console.log(`    Found ${websiteGames.length} games on official website.`);
+            let allScrapedGames = [];
+
+            // 2a. Scrape ESPN (Priority)
+            const espnLeagueSlug = LEAGUE_TO_ESPN_SLUG[league.id];
+            if (espnLeagueSlug) {
+              const teamSlug = getESPNTeamSlug(team);
+              console.log(`  Scraping ESPN for ${team.strTeam} (${teamSlug})...`);
+              try {
+                const espnGames = await fetchScheduleFromESPN(espnLeagueSlug, teamSlug);
+                if (espnGames.length > 0) {
+                  allScrapedGames.push(...espnGames);
+                  console.log(`    Found ${espnGames.length} games on ESPN.`);
+                }
+              } catch (error) {
+                console.error(`    Error scraping ESPN for ${team.strTeam}:`, error.message);
               }
-            } catch (error) {
-              console.error(`    Error scraping official website for ${team.strTeam}:`, error.message);
             }
-          }
 
-          // 2c. Save Merged Results (Always write to mark as fresh)
-          const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${team.idTeam}.json`);
-          const normalizedEvents = allScrapedGames.map(g => normalizeScrapedEvent(g, team.strTeam));
-          sanitizeScores(normalizedEvents);
+            // 2b. Scrape Official Website (Fallback/Additional)
+            if (team.strWebsite && allScrapedGames.length === 0) {
+              console.log(`  Scraping ${team.strTeam} official website: ${team.strWebsite}...`);
+              try {
+                const websiteGames = await fetchScheduleFromWebsite(team.strWebsite);
+                if (websiteGames.length > 0) {
+                  allScrapedGames.push(...websiteGames);
+                  console.log(`    Found ${websiteGames.length} games on official website.`);
+                }
+              } catch (error) {
+                console.error(`    Error scraping official website for ${team.strTeam}:`, error.message);
+              }
+            }
 
-          let existingUpdatedAt = null;
-          try {
-            const content = await fs.readFile(filePath, 'utf8');
-            const existingData = JSON.parse(content);
-            existingUpdatedAt = existingData.updatedAt;
-          } catch (e) {}
+            if (!allScrapedGames.length) {
+              console.warn(`    No supplemental games found for ${team.strTeam}; keeping saved data.`);
+              continue;
+            }
 
-          await fs.writeFile(filePath, JSON.stringify({
-            teamId: team.idTeam,
-            teamName: team.strTeam,
-            updatedAt: existingUpdatedAt || new Date().toISOString(),
-            events: normalizedEvents
-          }, null, 2));
+            // 2c. Save successfully scraped results.
+            const filePath = path.join(supplementalDataDir, `${team.idTeam}.json`);
+            const normalizedEvents = allScrapedGames.map(g => normalizeScrapedEvent(g, team.strTeam));
+            sanitizeScores(normalizedEvents);
 
-          if (allScrapedGames.length > 0) {
+            await saveSupplementalSchedule(filePath, {
+              teamId: team.idTeam,
+              teamName: team.strTeam,
+              events: normalizedEvents
+            });
+
             console.log(`    Saved ${normalizedEvents.length} total supplemental events for ${team.strTeam}`);
-            // Significant throttle for Firecrawl only if we actually did work
-            await sleep(8000);
-          } else {
-            console.log(`    No supplemental games found for ${team.strTeam}.`);
+            await sleepImpl(8000);
           }
         }
+      } catch (error) {
+        console.warn(`Optional supplemental refresh for ${league.name} failed: ${error.message}. Keeping saved supplemental data.`);
       }
     } catch (error) {
       console.error(`Error fetching ${league.name}:`, error.message);
       failures.push(`${league.name}: ${error.message}`);
     }
-    // Significant inter-league delay
-    await sleep(5000);
   }
-  if (failures.length) throw new Error(`Sports refresh incomplete (${failures.length}/${LEAGUES.length} leagues failed): ${failures.join('; ')}`);
+  if (failures.length) throw new Error(`Sports refresh incomplete (${failures.length}/${leagues.length} leagues failed): ${failures.join('; ')}`);
+  console.log(`Sports refresh complete (${leagues.length} leagues).`);
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {

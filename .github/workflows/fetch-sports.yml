@@ -1,6 +1,14 @@
 name: Fetch Sports Schedules
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fetch-sports.yml'
+      - 'scripts/fetch-sports.js'
+      - 'scripts/validate-fetch-output.js'
+      - 'test/fetchSports.test.js'
+      - 'test/validateFetchOutput.test.js'
   schedule:
     - cron: '10 */6 * * *'
   workflow_dispatch:
@@ -27,7 +35,10 @@ jobs:
           cache: npm
 
       - name: Install Dependencies
-        run: npm install
+        run: npm ci
+
+      - name: Test sports fetcher
+        run: node --test test/fetchSports.test.js test/validateFetchOutput.test.js
 
       - name: Cache Playwright browsers
         uses: actions/cache@v4
