@@ -14,7 +14,7 @@
       "strLeague": "WNBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": null,
+      "strTVStation": "ESPN2",
       "updatedAt": null,
       "source": "scraped"
     },
