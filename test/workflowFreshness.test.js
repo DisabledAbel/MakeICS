@@ -29,6 +29,13 @@ test('does not count validation that failed or was skipped', async () => {
   assert.equal(await findLastValidatedRun({ repository: 'o/r', token: 'x', workflow: 'fetch-nfl.yml', fetchImpl }), null);
 });
 
+test('fails closed when a workflow has no required-step configuration', async () => {
+  const fetchImpl = async url => url.includes('/jobs')
+    ? response({ jobs: [{ steps: [{ name: 'Fetch something', conclusion: 'success' }] }] })
+    : response({ workflow_runs: [{ id: 1, status: 'completed', conclusion: 'success' }] });
+  assert.equal(await findLastValidatedRun({ repository: 'o/r', token: 'x', workflow: 'unknown.yml', fetchImpl }), null);
+});
+
 test('surfaces GitHub API errors instead of reporting every source stale', async () => {
   const fetchImpl = async () => response({ message: 'rate limited' }, { ok: false, status: 403 });
   await assert.rejects(

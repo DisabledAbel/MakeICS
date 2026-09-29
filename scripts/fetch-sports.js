@@ -127,6 +127,17 @@ const LEAGUES = [
   { id: '4738', name: 'American AHL' }
 ];
 
+export function currentSeasonFromResponse(leagueId, leagueData) {
+  if (!Array.isArray(leagueData?.leagues) || leagueData.leagues.length === 0) {
+    throw new Error(`Malformed league response for ${leagueId}: no league record`);
+  }
+  const season = leagueData.leagues[0]?.strCurrentSeason;
+  if (typeof season !== 'string' || !season.trim()) {
+    throw new Error(`Malformed league response for ${leagueId}: no current season`);
+  }
+  return season;
+}
+
 async function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -366,13 +377,7 @@ async function fetchLeagueEvents(leagueId) {
   // 1. Get current season
   const leagueUrl = `${SPORTSDB_BASE_URL}/lookupleague.php?id=${leagueId}`;
   const leagueData = await fetchJson(leagueUrl);
-  if (!Array.isArray(leagueData.leagues)) throw new Error(`Malformed league response for ${leagueId}`);
-  const season = leagueData.leagues?.[0]?.strCurrentSeason;
-
-  if (!season) {
-    console.log(`No current season found for league ${leagueId}`);
-    return [];
-  }
+  const season = currentSeasonFromResponse(leagueId, leagueData);
 
   console.log(`Current season for ${leagueId}: ${season}`);
 
@@ -562,4 +567,6 @@ async function main() {
   if (failures.length) throw new Error(`Sports refresh incomplete (${failures.length}/${LEAGUES.length} leagues failed): ${failures.join('; ')}`);
 }
 
-main().catch(error => { console.error(error.message); process.exitCode = 1; });
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+  main().catch(error => { console.error(error.message); process.exitCode = 1; });
+}
