@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T11:30:43.643Z",
+  "generatedAt": "2026-09-29T11:10:50.760Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -3926,12 +3926,12 @@
           "name": "Christian Convery"
         },
         {
-          "id": "nm6346805",
-          "name": "Travis Scott"
-        },
-        {
           "id": "nm0086883",
           "name": "Jolene"
+        },
+        {
+          "id": "nm6346805",
+          "name": "Travis Scott"
         }
       ],
       "label": "Oct 02, 2026"
@@ -4107,6 +4107,34 @@
         {
           "id": "nm18191344",
           "name": "John Snorri Sigurjónsson"
+        }
+      ],
+      "label": "Oct 02, 2026"
+    },
+    {
+      "id": "tt42643242",
+      "title": "The Influencer Project",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGU1NGU3N2ItZjBmNi00MDYxLTgyMTQtYzc0OWVkNjZjZTNiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm6366217",
+          "name": "Gemma Karlsen"
+        },
+        {
+          "id": "nm5446755",
+          "name": "Eos Karlsson"
+        },
+        {
+          "id": "nm10434819",
+          "name": "Chiara King"
+        },
+        {
+          "id": "nm6394651",
+          "name": "Mike Nybroe"
         }
       ],
       "label": "Oct 02, 2026"
@@ -4306,12 +4334,12 @@
           "name": "Jeremy Allen White"
         },
         {
-          "id": "nm5700898",
-          "name": "Mikey Madison"
+          "id": "nm9268179",
+          "name": "Anna Lambe"
         },
         {
-          "id": "nm2915105",
-          "name": "Billy Magnussen"
+          "id": "nm5700898",
+          "name": "Mikey Madison"
         }
       ],
       "label": "Oct 09, 2026"
@@ -4474,16 +4502,16 @@
           "name": "Isabel May"
         },
         {
+          "id": "nm10058940",
+          "name": "Emma Laird"
+        },
+        {
           "id": "nm6224672",
           "name": "Sophie Simnett"
         },
         {
           "id": "nm6216001",
           "name": "KJ Apa"
-        },
-        {
-          "id": "nm10058940",
-          "name": "Emma Laird"
         }
       ],
       "label": "Oct 09, 2026"
@@ -4606,6 +4634,10 @@
       ],
       "people": [
         {
+          "id": "nm13997209",
+          "name": "Elle Riot Fox"
+        },
+        {
           "id": "nm3558077",
           "name": "Béla Baptiste"
         },
@@ -4616,10 +4648,6 @@
         {
           "id": "nm6397847",
           "name": "Finn Bell"
-        },
-        {
-          "id": "nm7680749",
-          "name": "Joshua Chislett"
         }
       ],
       "label": "Oct 12, 2026"
@@ -5019,7 +5047,7 @@
     {
       "id": "tt34890576",
       "title": "Clayface",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTAyMjgxZjctMjRjNC00Zjg1LWJiNzctMDkxYzk0NWVmODMwXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjNlMjM4NTAtYjE5YS00ZGYyLWEyMTYtNjFlMmIxZDEzYjhhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
       "genres": [
         "Horror",
@@ -5327,8 +5355,8 @@
           "name": "Marisa Tomei"
         },
         {
-          "id": "nm2706152",
-          "name": "Stella Stocker"
+          "id": "nm0000609",
+          "name": "Ving Rhames"
         },
         {
           "id": "nm0004821",
@@ -5565,16 +5593,16 @@
           "name": "Minami Hamabe"
         },
         {
+          "id": "nm1126340",
+          "name": "Ryûnosuke Kamiki"
+        },
+        {
           "id": "nm0475165",
           "name": "Jun Kunimura"
         },
         {
           "id": "nm0619178",
           "name": "Masami Nagasawa"
-        },
-        {
-          "id": "nm1126340",
-          "name": "Ryûnosuke Kamiki"
         }
       ],
       "label": "Nov 06, 2026"
@@ -5700,7 +5728,7 @@
     {
       "id": "tt27988879",
       "title": "Ramayana",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzUyZWNmZTktZmE0OS00YjY4LWFjY2QtMTgzNTM5MjBlNzJlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDVmMjZiNjktMGMzZi00M2QxLWI3YzEtZjMxYTdiZWYwNTQ1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -5789,20 +5817,20 @@
       ],
       "people": [
         {
-          "id": "nm0226813",
-          "name": "Garret Dillahunt"
-        },
-        {
           "id": "nm0001029",
           "name": "Jim Caviezel"
         },
         {
-          "id": "nm0924154",
-          "name": "Shea Whigham"
+          "id": "nm0226813",
+          "name": "Garret Dillahunt"
         },
         {
           "id": "nm1880888",
           "name": "Olivia Thirlby"
+        },
+        {
+          "id": "nm0924154",
+          "name": "Shea Whigham"
         }
       ],
       "label": "Nov 11, 2026"
@@ -5940,12 +5968,12 @@
           "name": "Johnny Depp"
         },
         {
-          "id": "nm3510471",
-          "name": "Sam Claflin"
-        },
-        {
           "id": "nm5397459",
           "name": "Daisy Ridley"
+        },
+        {
+          "id": "nm3510471",
+          "name": "Sam Claflin"
         },
         {
           "id": "nm0005212",
@@ -6341,9 +6369,9 @@
       "image": "https://m.media-amazon.com/images/M/MV5BN2ViZTQ2N2QtZDRmMC00MTU2LTlhM2EtZjg2YzA0YzI4NzRkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
       "genres": [
+        "Biography",
         "Drama",
-        "History",
-        "Romance"
+        "History"
       ],
       "people": [
         {
@@ -6355,12 +6383,12 @@
           "name": "Alan Ruck"
         },
         {
-          "id": "nm0454236",
-          "name": "Richard Kind"
-        },
-        {
           "id": "nm1587729",
           "name": "Finn Wittrock"
+        },
+        {
+          "id": "nm0454236",
+          "name": "Richard Kind"
         }
       ],
       "label": "Nov 25, 2026"
@@ -6417,16 +6445,16 @@
           "name": "Brad Pitt"
         },
         {
+          "id": "nm6855458",
+          "name": "Hannah Christine Shetler"
+        },
+        {
           "id": "nm0648249",
           "name": "Timothy Olyphant"
         },
         {
           "id": "nm0001303",
           "name": "Carla Gugino"
-        },
-        {
-          "id": "nm0004790",
-          "name": "Scott Caan"
         }
       ],
       "label": "Nov 25, 2026"
@@ -7455,16 +7483,16 @@
           "name": "Glen Powell"
         },
         {
-          "id": "nm2129662",
-          "name": "Cristin Milioti"
-        },
-        {
           "id": "nm3218692",
           "name": "Madelyn Cline"
         },
         {
-          "id": "nm6254064",
-          "name": "Stavros Halkias"
+          "id": "nm2129662",
+          "name": "Cristin Milioti"
+        },
+        {
+          "id": "nm3529685",
+          "name": "Kumail Nanjiani"
         }
       ],
       "label": "Feb 05, 2027"
@@ -7770,12 +7798,12 @@
       ],
       "people": [
         {
-          "id": "nm8901592",
-          "name": "Renata Vaca"
-        },
-        {
           "id": "nm1727825",
           "name": "Tony Revolori"
+        },
+        {
+          "id": "nm8901592",
+          "name": "Renata Vaca"
         },
         {
           "id": "nm7175730",
@@ -7901,8 +7929,8 @@
           "name": "Chiwetel Ejiofor"
         },
         {
-          "id": "nm0000491",
-          "name": "John Leguizamo"
+          "id": "nm0001303",
+          "name": "Carla Gugino"
         }
       ],
       "label": "Mar 12, 2027"
@@ -7936,12 +7964,12 @@
           "name": "Dakota Fanning"
         },
         {
-          "id": "nm0753314",
-          "name": "Mark Rylance"
-        },
-        {
           "id": "nm0388061",
           "name": "Douglas Hodge"
+        },
+        {
+          "id": "nm0753314",
+          "name": "Mark Rylance"
         }
       ],
       "label": "Mar 19, 2027"
@@ -7962,12 +7990,12 @@
           "name": "Keanu Reeves"
         },
         {
-          "id": "nm0005188",
-          "name": "James Marsden"
-        },
-        {
           "id": "nm0000120",
           "name": "Jim Carrey"
+        },
+        {
+          "id": "nm0068338",
+          "name": "Kristen Bell"
         },
         {
           "id": "nm0252961",
@@ -8445,16 +8473,16 @@
           "name": "Emma Stone"
         },
         {
-          "id": "nm0000209",
-          "name": "Tim Robbins"
-        },
-        {
           "id": "nm1517976",
           "name": "Chris Pine"
         },
         {
-          "id": "nm0000651",
-          "name": "Sissy Spacek"
+          "id": "nm0000209",
+          "name": "Tim Robbins"
+        },
+        {
+          "id": "nm5455952",
+          "name": "Ashley Padilla"
         }
       ],
       "label": "May 21, 2027"
@@ -8665,6 +8693,10 @@
       ],
       "people": [
         {
+          "id": "nm9296746",
+          "name": "Mason Thames"
+        },
+        {
           "id": "nm0124930",
           "name": "Gerard Butler"
         },
@@ -8675,10 +8707,6 @@
         {
           "id": "nm4651633",
           "name": "Phil Dunster"
-        },
-        {
-          "id": "nm9296746",
-          "name": "Mason Thames"
         }
       ],
       "label": "Jun 11, 2027"
@@ -8769,12 +8797,12 @@
           "name": "Vicky Krieps"
         },
         {
-          "id": "nm4834815",
-          "name": "Monica Barbaro"
-        },
-        {
           "id": "nm3053338",
           "name": "Margot Robbie"
+        },
+        {
+          "id": "nm4834815",
+          "name": "Monica Barbaro"
         },
         {
           "id": "nm0177896",
@@ -8871,20 +8899,20 @@
       ],
       "people": [
         {
-          "id": "nm4825178",
-          "name": "David Corenswet"
+          "id": "nm7543974",
+          "name": "Aaron Pierre"
+        },
+        {
+          "id": "nm0277213",
+          "name": "Nathan Fillion"
         },
         {
           "id": "nm6854116",
           "name": "Milly Alcock"
         },
         {
-          "id": "nm7543974",
-          "name": "Aaron Pierre"
-        },
-        {
-          "id": "nm5245722",
-          "name": "Adria Arjona"
+          "id": "nm1711114",
+          "name": "Skyler Gisondo"
         }
       ],
       "label": "Jul 09, 2027"
@@ -8986,8 +9014,8 @@
           "name": "Jack O'Connell"
         },
         {
-          "id": "nm6884042",
-          "name": "Katy O'Brian"
+          "id": "nm0164809",
+          "name": "Jason Clarke"
         }
       ],
       "label": "Jul 30, 2027"
@@ -9089,8 +9117,8 @@
           "name": "J.D."
         },
         {
-          "id": "nm4861346",
-          "name": "Algee Smith"
+          "id": "nm1988575",
+          "name": "Lauren London"
         },
         {
           "id": "nm1296458",
@@ -9287,12 +9315,12 @@
       ],
       "people": [
         {
-          "id": "nm6136318",
-          "name": "Garrett Wareing"
-        },
-        {
           "id": "nm9931958",
           "name": "Amanda Fix"
+        },
+        {
+          "id": "nm6136318",
+          "name": "Garrett Wareing"
         },
         {
           "id": "nm0777788",
