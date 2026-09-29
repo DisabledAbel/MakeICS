@@ -1,52 +1,10 @@
 {
   "teamId": "134937",
   "teamName": "Washington Commanders",
-  "updatedAt": "2026-07-18T16:31:49.727Z",
+  "updatedAt": "2026-09-29T05:46:42.443Z",
   "generatedAt": "2026-07-18T06:13:33.276Z",
   "generateAt": "2026-07-18T06:13:33.276Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a9a889dd-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Philadelphia Eagles vs Washington Commanders",
-      "strHomeTeam": "Philadelphia Eagles",
-      "strAwayTeam": "Washington Commanders",
-      "dateEvent": "2026-09-13",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-13T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lincoln Financial Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0eb90-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Dallas Cowboys vs Washington Commanders",
-      "strHomeTeam": "Dallas Cowboys",
-      "strAwayTeam": "Washington Commanders",
-      "dateEvent": "2026-09-20",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-20T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "AT&T Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa29c0fa-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Washington Commanders vs Seattle Seahawks",
-      "strHomeTeam": "Washington Commanders",
-      "strAwayTeam": "Seattle Seahawks",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Northwest Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa29dd21-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Washington Commanders vs Indianapolis Colts",

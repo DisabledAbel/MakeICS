@@ -1,52 +1,10 @@
 {
   "teamId": "134946",
   "teamName": "Arizona Cardinals",
-  "updatedAt": "2026-07-18T16:31:49.745Z",
+  "updatedAt": "2026-09-29T05:46:42.452Z",
   "generatedAt": "2026-07-18T06:13:33.287Z",
   "generateAt": "2026-07-18T06:13:33.287Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a9a87603-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Los Angeles Chargers vs Arizona Cardinals",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "Arizona Cardinals",
-      "dateEvent": "2026-09-13",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-13T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0e78e-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Arizona Cardinals vs Seattle Seahawks",
-      "strHomeTeam": "Arizona Cardinals",
-      "strAwayTeam": "Seattle Seahawks",
-      "dateEvent": "2026-09-20",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-20T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "State Farm Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa29c59c-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "San Francisco 49ers vs Arizona Cardinals",
-      "strHomeTeam": "San Francisco 49ers",
-      "strAwayTeam": "Arizona Cardinals",
-      "dateEvent": "2026-09-27",
-      "strTime": "20:05:00Z",
-      "strTimestamp": "2026-09-27T20:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Levi's® Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa4b607b-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New York Giants vs Arizona Cardinals",
@@ -154,7 +112,7 @@
       "strTime": "18:00:00Z",
       "strTimestamp": "2026-11-22T18:00:00Z",
       "strLeague": "NFL",
-      "strVenue": "GEHA Field at Arrowhead Stadium",
+      "strVenue": "Arrowhead Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

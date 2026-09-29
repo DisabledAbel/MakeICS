@@ -1,52 +1,10 @@
 {
   "teamId": "134929",
   "teamName": "Tennessee Titans",
-  "updatedAt": "2026-07-18T16:31:49.711Z",
+  "updatedAt": "2026-09-29T05:46:42.435Z",
   "generatedAt": "2026-07-18T06:13:33.267Z",
   "generateAt": "2026-07-18T06:13:33.267Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a8fc1998-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Tennessee Titans vs New York Jets",
-      "strHomeTeam": "Tennessee Titans",
-      "strAwayTeam": "New York Jets",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Nissan Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0dc7c-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Tennessee Titans vs Philadelphia Eagles",
-      "strHomeTeam": "Tennessee Titans",
-      "strAwayTeam": "Philadelphia Eagles",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Nissan Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa04b4d9-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New York Giants vs Tennessee Titans",
-      "strHomeTeam": "New York Giants",
-      "strAwayTeam": "Tennessee Titans",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "MetLife Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa4b4811-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Baltimore Ravens vs Tennessee Titans",

@@ -1,52 +1,10 @@
 {
   "teamId": "134919",
   "teamName": "Miami Dolphins",
-  "updatedAt": "2026-07-18T16:31:49.682Z",
+  "updatedAt": "2026-09-29T05:46:42.424Z",
   "generatedAt": "2026-07-18T06:13:33.252Z",
   "generateAt": "2026-07-18T06:13:33.252Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a9a881ca-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Las Vegas Raiders vs Miami Dolphins",
-      "strHomeTeam": "Las Vegas Raiders",
-      "strAwayTeam": "Miami Dolphins",
-      "dateEvent": "2026-09-13",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-13T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0ef5d-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "San Francisco 49ers vs Miami Dolphins",
-      "strHomeTeam": "San Francisco 49ers",
-      "strAwayTeam": "Miami Dolphins",
-      "dateEvent": "2026-09-20",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-20T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Levi's® Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa04b0d8-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Miami Dolphins vs Kansas City Chiefs",
-      "strHomeTeam": "Miami Dolphins",
-      "strAwayTeam": "Kansas City Chiefs",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Hard Rock Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa4b6a4b-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Minnesota Vikings vs Miami Dolphins",

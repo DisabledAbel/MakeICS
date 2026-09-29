@@ -1,52 +1,10 @@
 {
   "teamId": "134927",
   "teamName": "Indianapolis Colts",
-  "updatedAt": "2026-07-18T16:31:49.707Z",
+  "updatedAt": "2026-09-29T05:46:42.433Z",
   "generatedAt": "2026-07-18T06:13:33.265Z",
   "generateAt": "2026-07-18T06:13:33.265Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a8fc15bd-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Indianapolis Colts vs Baltimore Ravens",
-      "strHomeTeam": "Indianapolis Colts",
-      "strAwayTeam": "Baltimore Ravens",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lucas Oil Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa048ee1-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Kansas City Chiefs vs Indianapolis Colts",
-      "strHomeTeam": "Kansas City Chiefs",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-09-21",
-      "strTime": "00:20:00Z",
-      "strTimestamp": "2026-09-21T00:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "GEHA Field at Arrowhead Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa04aa26-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Indianapolis Colts vs Houston Texans",
-      "strHomeTeam": "Indianapolis Colts",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lucas Oil Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa29dd21-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Washington Commanders vs Indianapolis Colts",

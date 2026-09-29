@@ -1,52 +1,10 @@
 {
   "teamId": "134939",
   "teamName": "Detroit Lions",
-  "updatedAt": "2026-07-18T16:31:49.731Z",
+  "updatedAt": "2026-09-29T05:46:42.444Z",
   "generatedAt": "2026-07-18T06:13:33.279Z",
   "generateAt": "2026-07-18T06:13:33.279Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a8fc1203-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Detroit Lions vs New Orleans Saints",
-      "strHomeTeam": "Detroit Lions",
-      "strAwayTeam": "New Orleans Saints",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Ford Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9a8944e-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Buffalo Bills vs Detroit Lions",
-      "strHomeTeam": "Buffalo Bills",
-      "strAwayTeam": "Detroit Lions",
-      "dateEvent": "2026-09-18",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-09-18T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Highmark Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa04a6ca-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Detroit Lions vs New York Jets",
-      "strHomeTeam": "Detroit Lions",
-      "strAwayTeam": "New York Jets",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Ford Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa6b512d-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Carolina Panthers vs Detroit Lions",

@@ -1,52 +1,10 @@
 {
   "teamId": "134943",
   "teamName": "Carolina Panthers",
-  "updatedAt": "2026-07-18T16:31:49.739Z",
+  "updatedAt": "2026-09-29T05:46:42.450Z",
   "generatedAt": "2026-07-18T06:13:33.283Z",
   "generateAt": "2026-07-18T06:13:33.283Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a8fc0e5c-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Carolina Panthers vs Chicago Bears",
-      "strHomeTeam": "Carolina Panthers",
-      "strAwayTeam": "Chicago Bears",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Bank of America Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9a89841-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Atlanta Falcons vs Carolina Panthers",
-      "strHomeTeam": "Atlanta Falcons",
-      "strAwayTeam": "Carolina Panthers",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Mercedes-Benz Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa04a395-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Cleveland Browns vs Carolina Panthers",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Carolina Panthers",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa6b512d-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Carolina Panthers vs Detroit Lions",

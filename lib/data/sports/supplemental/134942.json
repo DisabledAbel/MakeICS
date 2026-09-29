@@ -1,52 +1,10 @@
 {
   "teamId": "134942",
   "teamName": "Atlanta Falcons",
-  "updatedAt": "2026-07-18T16:31:49.737Z",
+  "updatedAt": "2026-09-29T05:46:42.449Z",
   "generatedAt": "2026-07-18T06:13:33.282Z",
   "generateAt": "2026-07-18T06:13:33.282Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a8fc1864-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Pittsburgh Steelers vs Atlanta Falcons",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9a89841-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Atlanta Falcons vs Carolina Panthers",
-      "strHomeTeam": "Atlanta Falcons",
-      "strAwayTeam": "Carolina Panthers",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Mercedes-Benz Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa049c95-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Green Bay Packers vs Atlanta Falcons",
-      "strHomeTeam": "Green Bay Packers",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-09-25",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-09-25T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lambeau Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa6b5517-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New Orleans Saints vs Atlanta Falcons",

@@ -1,52 +1,10 @@
 {
   "teamId": "135908",
   "teamName": "Los Angeles Chargers",
-  "updatedAt": "2026-07-18T16:31:49.754Z",
+  "updatedAt": "2026-09-29T05:46:42.455Z",
   "generatedAt": "2026-07-18T06:13:33.292Z",
   "generateAt": "2026-07-18T06:13:33.292Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a9a87603-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Los Angeles Chargers vs Arizona Cardinals",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "Arizona Cardinals",
-      "dateEvent": "2026-09-13",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-13T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0e3dd-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Los Angeles Chargers vs Las Vegas Raiders",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-09-20",
-      "strTime": "20:05:00Z",
-      "strTimestamp": "2026-09-20T20:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa04a02f-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Buffalo Bills vs Los Angeles Chargers",
-      "strHomeTeam": "Buffalo Bills",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Highmark Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa6b4255-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Seattle Seahawks vs Los Angeles Chargers",
@@ -84,7 +42,7 @@
       "strTime": "20:25:00Z",
       "strTimestamp": "2026-10-18T20:25:00Z",
       "strLeague": "NFL",
-      "strVenue": "GEHA Field at Arrowhead Stadium",
+      "strVenue": "Arrowhead Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

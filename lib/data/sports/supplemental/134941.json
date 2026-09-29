@@ -1,52 +1,10 @@
 {
   "teamId": "134941",
   "teamName": "Minnesota Vikings",
-  "updatedAt": "2026-07-18T16:31:49.736Z",
+  "updatedAt": "2026-09-29T05:46:42.448Z",
   "generatedAt": "2026-07-18T06:13:33.281Z",
   "generateAt": "2026-07-18T06:13:33.281Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a9a88631-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Minnesota Vikings vs Green Bay Packers",
-      "strHomeTeam": "Minnesota Vikings",
-      "strAwayTeam": "Green Bay Packers",
-      "dateEvent": "2026-09-13",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-13T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9a89edd-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Chicago Bears vs Minnesota Vikings",
-      "strHomeTeam": "Chicago Bears",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Soldier Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa29c929-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Tampa Bay Buccaneers vs Minnesota Vikings",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-09-27",
-      "strTime": "20:05:00Z",
-      "strTimestamp": "2026-09-27T20:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa4b6a4b-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Minnesota Vikings vs Miami Dolphins",

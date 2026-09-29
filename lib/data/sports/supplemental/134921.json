@@ -1,52 +1,10 @@
 {
   "teamId": "134921",
   "teamName": "New York Jets",
-  "updatedAt": "2026-07-18T16:31:49.687Z",
+  "updatedAt": "2026-09-29T05:46:42.426Z",
   "generatedAt": "2026-07-18T06:13:33.255Z",
   "generateAt": "2026-07-18T06:13:33.255Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a8fc1998-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Tennessee Titans vs New York Jets",
-      "strHomeTeam": "Tennessee Titans",
-      "strAwayTeam": "New York Jets",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Nissan Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0d5a5-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New York Jets vs Green Bay Packers",
-      "strHomeTeam": "New York Jets",
-      "strAwayTeam": "Green Bay Packers",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "MetLife Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa04a6ca-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Detroit Lions vs New York Jets",
-      "strHomeTeam": "Detroit Lions",
-      "strAwayTeam": "New York Jets",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Ford Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa4b55ce-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Chicago Bears vs New York Jets",
@@ -126,7 +84,7 @@
       "strTime": "18:00:00Z",
       "strTimestamp": "2026-11-08T18:00:00Z",
       "strLeague": "NFL",
-      "strVenue": "GEHA Field at Arrowhead Stadium",
+      "strVenue": "Arrowhead Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

@@ -1,52 +1,10 @@
 {
   "teamId": "134924",
   "teamName": "Cleveland Browns",
-  "updatedAt": "2026-07-18T16:31:49.699Z",
+  "updatedAt": "2026-09-29T05:46:42.428Z",
   "generatedAt": "2026-07-18T06:13:33.260Z",
   "generateAt": "2026-07-18T06:13:33.260Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a8fc1728-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Jacksonville Jaguars vs Cleveland Browns",
-      "strHomeTeam": "Jacksonville Jaguars",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "EverBank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0d930-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Tampa Bay Buccaneers vs Cleveland Browns",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa04a395-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Cleveland Browns vs Carolina Panthers",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Carolina Panthers",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa29da01-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cleveland Browns vs Pittsburgh Steelers",

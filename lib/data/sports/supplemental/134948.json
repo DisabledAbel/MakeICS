@@ -1,52 +1,10 @@
 {
   "teamId": "134948",
   "teamName": "San Francisco 49ers",
-  "updatedAt": "2026-07-18T16:31:49.748Z",
+  "updatedAt": "2026-09-29T05:46:42.453Z",
   "generatedAt": "2026-07-18T06:13:33.288Z",
   "generateAt": "2026-07-18T06:13:33.288Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a8fc08da-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Los Angeles Rams vs San Francisco 49ers",
-      "strHomeTeam": "Los Angeles Rams",
-      "strAwayTeam": "San Francisco 49ers",
-      "dateEvent": "2026-09-11",
-      "strTime": "00:35:00Z",
-      "strTimestamp": "2026-09-11T00:35:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Melbourne Cricket Ground",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0ef5d-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "San Francisco 49ers vs Miami Dolphins",
-      "strHomeTeam": "San Francisco 49ers",
-      "strAwayTeam": "Miami Dolphins",
-      "dateEvent": "2026-09-20",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-20T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Levi's® Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa29c59c-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "San Francisco 49ers vs Arizona Cardinals",
-      "strHomeTeam": "San Francisco 49ers",
-      "strAwayTeam": "Arizona Cardinals",
-      "dateEvent": "2026-09-27",
-      "strTime": "20:05:00Z",
-      "strTimestamp": "2026-09-27T20:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Levi's® Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa6b4cf4-4feb-11f1-abca-2c54536568a9",
       "strEvent": "San Francisco 49ers vs Denver Broncos",
@@ -210,7 +168,7 @@
       "strTime": "21:25:00Z",
       "strTimestamp": "2026-12-27T21:25:00Z",
       "strLeague": "NFL",
-      "strVenue": "GEHA Field at Arrowhead Stadium",
+      "strVenue": "Arrowhead Stadium",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

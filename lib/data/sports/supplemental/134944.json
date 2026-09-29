@@ -1,52 +1,10 @@
 {
   "teamId": "134944",
   "teamName": "New Orleans Saints",
-  "updatedAt": "2026-07-18T16:31:49.741Z",
+  "updatedAt": "2026-09-29T05:46:42.451Z",
   "generatedAt": "2026-07-18T06:13:33.285Z",
   "generateAt": "2026-07-18T06:13:33.285Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a8fc1203-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Detroit Lions vs New Orleans Saints",
-      "strHomeTeam": "Detroit Lions",
-      "strAwayTeam": "New Orleans Saints",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Ford Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9a89baa-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Baltimore Ravens vs New Orleans Saints",
-      "strHomeTeam": "Baltimore Ravens",
-      "strAwayTeam": "New Orleans Saints",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "M&T Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa29d062-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New Orleans Saints vs Las Vegas Raiders",
-      "strHomeTeam": "New Orleans Saints",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-09-27",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-27T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Caesars Superdome",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa6b5517-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New Orleans Saints vs Atlanta Falcons",

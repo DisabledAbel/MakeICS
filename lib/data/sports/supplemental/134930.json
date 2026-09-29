@@ -1,52 +1,10 @@
 {
   "teamId": "134930",
   "teamName": "Denver Broncos",
-  "updatedAt": "2026-07-18T16:31:49.714Z",
+  "updatedAt": "2026-09-29T05:46:42.437Z",
   "generatedAt": "2026-07-18T06:13:33.269Z",
   "generateAt": "2026-07-18T06:13:33.269Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a9a890ed-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Kansas City Chiefs vs Denver Broncos",
-      "strHomeTeam": "Kansas City Chiefs",
-      "strAwayTeam": "Denver Broncos",
-      "dateEvent": "2026-09-15",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-09-15T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "GEHA Field at Arrowhead Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0dff8-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Denver Broncos vs Jacksonville Jaguars",
-      "strHomeTeam": "Denver Broncos",
-      "strAwayTeam": "Jacksonville Jaguars",
-      "dateEvent": "2026-09-20",
-      "strTime": "20:05:00Z",
-      "strTimestamp": "2026-09-20T20:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Empower Field at Mile High",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa29d387-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Denver Broncos vs Los Angeles Rams",
-      "strHomeTeam": "Denver Broncos",
-      "strAwayTeam": "Los Angeles Rams",
-      "dateEvent": "2026-09-28",
-      "strTime": "00:20:00Z",
-      "strTimestamp": "2026-09-28T00:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Empower Field at Mile High",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa6b4cf4-4feb-11f1-abca-2c54536568a9",
       "strEvent": "San Francisco 49ers vs Denver Broncos",

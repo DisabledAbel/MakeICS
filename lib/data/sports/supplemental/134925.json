@@ -1,52 +1,10 @@
 {
   "teamId": "134925",
   "teamName": "Pittsburgh Steelers",
-  "updatedAt": "2026-07-18T16:31:49.702Z",
+  "updatedAt": "2026-09-29T05:46:42.429Z",
   "generatedAt": "2026-07-18T06:13:33.261Z",
   "generateAt": "2026-07-18T06:13:33.261Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a8fc1864-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Pittsburgh Steelers vs Atlanta Falcons",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0d18f-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New England Patriots vs Pittsburgh Steelers",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Gillette Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa29b6b0-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Pittsburgh Steelers vs Cincinnati Bengals",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Cincinnati Bengals",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa29da01-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cleveland Browns vs Pittsburgh Steelers",

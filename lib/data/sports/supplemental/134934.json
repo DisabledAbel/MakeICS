@@ -1,52 +1,10 @@
 {
   "teamId": "134934",
   "teamName": "Dallas Cowboys",
-  "updatedAt": "2026-07-18T16:31:49.720Z",
+  "updatedAt": "2026-09-29T05:46:42.439Z",
   "generatedAt": "2026-07-18T06:13:33.272Z",
   "generateAt": "2026-07-18T06:13:33.272Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a9a88d52-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New York Giants vs Dallas Cowboys",
-      "strHomeTeam": "New York Giants",
-      "strAwayTeam": "Dallas Cowboys",
-      "dateEvent": "2026-09-14",
-      "strTime": "00:20:00Z",
-      "strTimestamp": "2026-09-14T00:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "MetLife Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0eb90-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Dallas Cowboys vs Washington Commanders",
-      "strHomeTeam": "Dallas Cowboys",
-      "strAwayTeam": "Washington Commanders",
-      "dateEvent": "2026-09-20",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-20T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "AT&T Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa29cd02-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Dallas Cowboys vs Baltimore Ravens",
-      "strHomeTeam": "Dallas Cowboys",
-      "strAwayTeam": "Baltimore Ravens",
-      "dateEvent": "2026-09-27",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-27T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Maracana Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa4b5c96-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Houston Texans vs Dallas Cowboys",

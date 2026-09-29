@@ -1,52 +1,10 @@
 {
   "teamId": "134923",
   "teamName": "Cincinnati Bengals",
-  "updatedAt": "2026-07-18T16:31:49.693Z",
+  "updatedAt": "2026-09-29T05:46:42.428Z",
   "generatedAt": "2026-07-18T06:13:33.258Z",
   "generateAt": "2026-07-18T06:13:33.258Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a8fc106b-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Cincinnati Bengals vs Tampa Bay Buccaneers",
-      "strHomeTeam": "Cincinnati Bengals",
-      "strAwayTeam": "Tampa Bay Buccaneers",
-      "dateEvent": "2026-09-13",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-13T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Paycor Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0c7c0-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Houston Texans vs Cincinnati Bengals",
-      "strHomeTeam": "Houston Texans",
-      "strAwayTeam": "Cincinnati Bengals",
-      "dateEvent": "2026-09-20",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-20T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Reliant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa29b6b0-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Pittsburgh Steelers vs Cincinnati Bengals",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Cincinnati Bengals",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa4b5943-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cincinnati Bengals vs Jacksonville Jaguars",

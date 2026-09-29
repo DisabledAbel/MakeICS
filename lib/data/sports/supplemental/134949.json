@@ -1,52 +1,10 @@
 {
   "teamId": "134949",
   "teamName": "Seattle Seahawks",
-  "updatedAt": "2026-07-18T16:31:49.750Z",
+  "updatedAt": "2026-09-29T05:46:42.453Z",
   "generatedAt": "2026-07-18T06:13:33.289Z",
   "generateAt": "2026-07-18T06:13:33.289Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-a8fb0d78-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Seattle Seahawks vs New England Patriots",
-      "strHomeTeam": "Seattle Seahawks",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-09-10",
-      "strTime": "00:20:00Z",
-      "strTimestamp": "2026-09-10T00:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lumen Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-a9e0e78e-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Arizona Cardinals vs Seattle Seahawks",
-      "strHomeTeam": "Arizona Cardinals",
-      "strAwayTeam": "Seattle Seahawks",
-      "dateEvent": "2026-09-20",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-09-20T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "State Farm Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
-    {
-      "idEvent": "sdv-nfl-aa29c0fa-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Washington Commanders vs Seattle Seahawks",
-      "strHomeTeam": "Washington Commanders",
-      "strAwayTeam": "Seattle Seahawks",
-      "dateEvent": "2026-09-27",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-09-27T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Northwest Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa6b4255-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Seattle Seahawks vs Los Angeles Chargers",
