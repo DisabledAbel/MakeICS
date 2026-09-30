@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T11:10:50.760Z",
+  "generatedAt": "2026-09-30T10:58:03.719Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5068,8 +5068,8 @@
           "name": "Eddie Marsan"
         },
         {
-          "id": "nm1540404",
-          "name": "Max Minghella"
+          "id": "nm7609875",
+          "name": "Naomi Ackie"
         }
       ],
       "label": "Oct 23, 2026"
@@ -5279,7 +5279,7 @@
     {
       "id": "tt29611136",
       "title": "Wicker",
-      "image": "https://m.media-amazon.com/images/M/MV5BNTM2MmRkNGEtMjY4Mi00MjFjLWIyZWYtZWVlYWNhYmQ2ZTA1XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BODliMTEzMTUtOGFlZS00NTgxLThjODEtMzcwNTE1OWE5Mzg2XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -5486,6 +5486,34 @@
         {
           "id": "nm7808003",
           "name": "BTS"
+        }
+      ],
+      "label": "Oct 30, 2026"
+    },
+    {
+      "id": "tt39773403",
+      "title": "The Canvas",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzQ0MTI0MmEtZTVmOS00NzBmLTlkNjEtNWRmOGQzZjE2ZGVhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm0005171",
+          "name": "Angus Macfadyen"
+        },
+        {
+          "id": "nm4261164",
+          "name": "John Real"
+        },
+        {
+          "id": "nm4342283",
+          "name": "Nicolette McKeown"
+        },
+        {
+          "id": "nm0191747",
+          "name": "Sabrina Culver"
         }
       ],
       "label": "Oct 30, 2026"
@@ -6616,6 +6644,10 @@
       ],
       "people": [
         {
+          "id": "nm0001876",
+          "name": "Catherine Zeta-Jones"
+        },
+        {
           "id": "nm0000204",
           "name": "Natalie Portman"
         },
@@ -6626,10 +6658,6 @@
         {
           "id": "nm1250791",
           "name": "Sterling K. Brown"
-        },
-        {
-          "id": "nm0001876",
-          "name": "Catherine Zeta-Jones"
         }
       ],
       "label": "Dec 04, 2026"
@@ -7678,12 +7706,12 @@
       ],
       "people": [
         {
-          "id": "nm0683253",
-          "name": "Rosamund Pike"
+          "id": "nm0175916",
+          "name": "Paddy Considine"
         },
         {
-          "id": "nm3584268",
-          "name": "James Norton"
+          "id": "nm0683253",
+          "name": "Rosamund Pike"
         },
         {
           "id": "nm0000164",
@@ -7780,8 +7808,8 @@
           "name": "Angel Rosario Jr."
         },
         {
-          "id": "nm3450051",
-          "name": "Richard Cabral"
+          "id": "nm1883803",
+          "name": "Jesse Garcia"
         }
       ],
       "label": "Feb 26, 2027"
@@ -8141,20 +8169,20 @@
       ],
       "people": [
         {
-          "id": "nm0190441",
-          "name": "Raymond Cruz"
-        },
-        {
-          "id": "nm14949577",
-          "name": "Acston Luca Porto"
-        },
-        {
           "id": "nm0379596",
           "name": "Jay Hernandez"
         },
         {
+          "id": "nm0190441",
+          "name": "Raymond Cruz"
+        },
+        {
           "id": "nm2834669",
           "name": "Monica Raymund"
+        },
+        {
+          "id": "nm14949577",
+          "name": "Acston Luca Porto"
         }
       ],
       "label": "Apr 09, 2027"
@@ -8333,7 +8361,7 @@
     {
       "id": "tt29873948",
       "title": "The Legend of Zelda",
-      "image": "https://m.media-amazon.com/images/M/MV5BMmZkMjMwYWYtYWU0YS00MjEyLWJhZGMtNDgzZThkN2M1NDdiXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQyMDk5MDgtODAxMi00ZGM3LWFmMGUtNWFlNjEzY2FlZWVhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 30 Apr 2027 00:00:00 GMT",
       "genres": [
         "Action",
@@ -8414,6 +8442,35 @@
         {
           "id": "nm0000510",
           "name": "Andie MacDowell"
+        }
+      ],
+      "label": "May 07, 2027"
+    },
+    {
+      "id": "tt38120758",
+      "title": "Anything But Ghosts",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWQ3ZGY0YTItZTFkMi00ZjdlLWJmNzAtMTVkNjBlODA1ZWQ4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 07 May 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm10533874",
+          "name": "Curry Barker"
+        },
+        {
+          "id": "nm0397171",
+          "name": "Bryce Dallas Howard"
+        },
+        {
+          "id": "nm0666739",
+          "name": "Aaron Paul"
+        },
+        {
+          "id": "nm7831367",
+          "name": "Cooper Tomlinson"
         }
       ],
       "label": "May 07, 2027"
@@ -8508,8 +8565,8 @@
           "name": "Drew Nelson"
         },
         {
-          "id": "nm3524780",
-          "name": "Chase Yi"
+          "id": "nm11071631",
+          "name": "Seled Calderon"
         }
       ],
       "label": "May 21, 2027"
@@ -8733,8 +8790,8 @@
           "name": "Paul Dano"
         },
         {
-          "id": "nm5483400",
-          "name": "Madeline Brewer"
+          "id": "nm12560173",
+          "name": "Nicholas Alexander Chavez"
         }
       ],
       "label": "Jun 11, 2027"
