@@ -215,6 +215,31 @@ export function createSportsDbClient({
 
 const fetchJson = createSportsDbClient();
 
+// nflverse gameday/gametime are Eastern wall-clock values, including DST.
+const easternClock = new Intl.DateTimeFormat('en-US', {
+  timeZone: 'America/New_York', year: 'numeric', month: '2-digit', day: '2-digit',
+  hour: '2-digit', minute: '2-digit', second: '2-digit', hourCycle: 'h23'
+});
+
+export function nflKickoffTimestamp(date, time) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || !/^([01]\d|2[0-3]):[0-5]\d(?::[0-5]\d)?$/.test(time)) {
+    throw new Error(`Invalid NFL kickoff ${date} ${time}`);
+  }
+  const wallClock = Date.parse(`${date}T${time.length === 5 ? `${time}:00` : time}Z`);
+  if (!Number.isFinite(wallClock) || new Date(wallClock).toISOString().slice(0, 10) !== date) {
+    throw new Error(`Invalid NFL kickoff date ${date}`);
+  }
+  let instant = wallClock;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    const parts = Object.fromEntries(easternClock.formatToParts(new Date(instant)).map(({ type, value }) => [type, value]));
+    const eastern = Date.UTC(+parts.year, +parts.month - 1, +parts.day, +parts.hour, +parts.minute, +parts.second);
+    const adjustment = wallClock - eastern;
+    if (!adjustment) return new Date(instant).toISOString().replace('.000Z', 'Z');
+    instant += adjustment;
+  }
+  throw new Error(`Unresolvable Eastern kickoff ${date} ${time}`);
+}
+
 export async function saveSupplementalSchedule(filePath, data) {
   let previous = null;
   try { previous = JSON.parse(await fs.readFile(filePath, 'utf8')); }
@@ -223,7 +248,7 @@ export async function saveSupplementalSchedule(filePath, data) {
   }
   const current = { ...data, updatedAt: previous?.updatedAt || new Date().toISOString() };
   const errors = validateData({ file: filePath, current, previous, rule: SOURCE_RULES.sports });
-  if (errors.length) throw new Error(`Rejected optional supplemental output: ${errors.join('; ')}`);
+  if (errors.length) throw new Error(`Rejected optional supplemental output: ${errors.slice(0, 3).join('; ')}${errors.length > 3 ? `; ${errors.length - 3} more validation errors` : ''}`);
   await fs.writeFile(filePath, JSON.stringify(current, null, 2));
 }
 
@@ -305,6 +330,8 @@ async function fetchLeagueSupplementalCSV(league, teams, { dataDir = SUPPLEMENTA
       const timeRaw = indices.time !== -1 ? parts[indices.time] : null;
 
       if (!dateRaw || !homeRaw || !awayRaw) continue;
+      // Unknown kickoffs must not be invented as midnight games.
+      if (league.id === '4391' && (!timeRaw || ['NA', 'TBD'].includes(timeRaw))) continue;
 
       let dateEvent = dateRaw;
       let strTime = '00:00:00';
@@ -336,6 +363,12 @@ async function fetchLeagueSupplementalCSV(league, teams, { dataDir = SUPPLEMENTA
         }
       } else if (!strTimestamp.endsWith('Z') && !/[-+]\d{2}:?\d{2}$/.test(strTimestamp)) {
         strTimestamp += 'Z';
+      }
+
+      if (league.id === '4391') {
+        strTimestamp = nflKickoffTimestamp(dateEvent, timeRaw);
+        dateEvent = strTimestamp.slice(0, 10);
+        strTime = strTimestamp.slice(11, 19);
       }
 
       const event = {

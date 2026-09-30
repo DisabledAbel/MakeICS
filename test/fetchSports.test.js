@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
-import { createSportsDbClient, currentSeasonFromResponse, fetchLeagueSchedule, LEAGUES, main, saveSupplementalSchedule, teamsFromResponse } from '../scripts/fetch-sports.js';
+import { createSportsDbClient, currentSeasonFromResponse, fetchLeagueSchedule, LEAGUES, main, nflKickoffTimestamp, saveSupplementalSchedule, teamsFromResponse } from '../scripts/fetch-sports.js';
 import { SOURCE_RULES, validateData } from '../scripts/validate-fetch-output.js';
 
 const jsonResponse = (data, status = 200, headers = {}) => new Response(JSON.stringify(data), { status, headers });
@@ -61,6 +61,21 @@ test('requires a non-empty league response with a usable current season', () => 
 test('uses the verified NCAA Division 1 Football league ID', () => {
   assert.equal(LEAGUES.find(league => league.name === 'NCAA Football').id, '4479');
   assert.ok(!LEAGUES.some(league => league.id === '4392'));
+});
+
+test('converts NFL Eastern kickoff times to UTC in both daylight and standard time', () => {
+  assert.equal(nflKickoffTimestamp('2026-10-04', '13:00'), '2026-10-04T17:00:00Z');
+  assert.equal(nflKickoffTimestamp('2026-11-08', '13:00:00'), '2026-11-08T18:00:00Z');
+  assert.equal(nflKickoffTimestamp('2026-10-08', '20:15'), '2026-10-09T00:15:00Z');
+  assert.equal(nflKickoffTimestamp('2026-12-10', '20:15'), '2026-12-11T01:15:00Z');
+});
+
+test('handles a DST transition and rejects invalid NFL kickoff values', () => {
+  assert.equal(nflKickoffTimestamp('2026-03-08', '03:30'), '2026-03-08T07:30:00Z');
+  assert.throws(() => nflKickoffTimestamp('2026-02-30', '13:00'), /Invalid NFL kickoff date/);
+  assert.throws(() => nflKickoffTimestamp('2026-10-04', '25:00'), /Invalid NFL kickoff/);
+  assert.throws(() => nflKickoffTimestamp('2026-10-04', 'TBD'), /Invalid NFL kickoff/);
+  assert.throws(() => nflKickoffTimestamp('2026-03-08', '02:30'), /Unresolvable Eastern kickoff/);
 });
 
 test('paces concurrent lookups and all three empty round requests', async () => {
