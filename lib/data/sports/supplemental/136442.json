@@ -4,21 +4,6 @@
   "updatedAt": "2026-07-17T01:30:28.274Z",
   "events": [
     {
-      "idEvent": "scraped-401918021",
-      "strEvent": "Minnesota Lynx vs New York Liberty",
-      "strHomeTeam": "Minnesota Lynx",
-      "strAwayTeam": "New York Liberty",
-      "dateEvent": "2026-10-01",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-01T23:00:00Z",
-      "strLeague": "WNBA",
-      "strVenue": "Target Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": null,
-      "source": "scraped"
-    },
-    {
       "idEvent": "scraped-401918017",
       "strEvent": "New York Liberty vs Minnesota Lynx",
       "strHomeTeam": "New York Liberty",
