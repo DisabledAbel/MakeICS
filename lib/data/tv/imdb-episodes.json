@@ -276,6 +276,14 @@
           "url": "https://www.imdb.com/title/tt47596923/?ref_=ttep_ep_16"
         },
         {
+          "season": 30,
+          "number": 30,
+          "name": "Debbie Matenopoulos/Florence Pugh, Christopher Abbott, Mike Faist, Zoe Kazan/View Your Deal/",
+          "airdate": "2026-09-30",
+          "summary": "Guest co-host Debbie Matenopoulos; actors Florence Pugh, Christopher Abbott, and Mike Faist and executive producer Zoe Kazan (TV mini-series, \"East of Eden);",
+          "url": "https://www.imdb.com/title/tt47596926/?ref_=ttep_ep_17"
+        },
+        {
           "season": 29,
           "number": 8,
           "name": "Episode #29.1",
@@ -11170,43 +11178,19 @@
         },
         {
           "season": 7,
-          "number": 18,
-          "name": "Riding the Troubled Waters",
-          "airdate": "2026-04-15",
-          "summary": "Hunter's bill granting police immunity has unintended consequences.",
-          "url": "https://www.imdb.com/title/tt41810743/?ref_=ttep_ep_18"
-        },
-        {
-          "season": 7,
-          "number": 19,
-          "name": "In a Heartbeat",
-          "airdate": "2026-04-15",
-          "summary": "Donald and Dilva uncover the White House moles.",
-          "url": "https://www.imdb.com/title/tt41810753/?ref_=ttep_ep_19"
-        },
-        {
-          "season": 7,
-          "number": 20,
-          "name": "Twenty-Four Hours",
-          "airdate": "2026-04-15",
-          "summary": "Terry expects Hunter to reveal the truth about Masruga.",
-          "url": "https://www.imdb.com/title/tt41810758/?ref_=ttep_ep_20"
-        },
-        {
-          "season": 7,
-          "number": 21,
-          "name": "Agent Stan Bennett",
-          "airdate": "2026-04-15",
-          "summary": "Priscilla urges Eli to contact Senator Harding.",
-          "url": "https://www.imdb.com/title/tt41810762/?ref_=ttep_ep_21"
-        },
-        {
-          "season": 7,
           "number": 22,
           "name": "The Filthy Rat",
           "airdate": "2026-04-15",
           "summary": null,
           "url": "https://www.imdb.com/title/tt41810763/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 7,
+          "number": 23,
+          "name": "Agent Stan Bennett",
+          "airdate": "2026-09-23",
+          "summary": "Priscilla urges Eli to contact Senator Harding.",
+          "url": "https://www.imdb.com/title/tt41810762/?ref_=ttep_ep_21"
         },
         {
           "season": 6,
@@ -24031,6 +24015,14 @@
       "episodes": [
         {
           "season": 2,
+          "number": 8,
+          "name": "Daisy's Puppies",
+          "airdate": "2026-10-30",
+          "summary": "Mickey and his friends go to Magic Island and have an magical adventure together.",
+          "url": "https://www.imdb.com/title/tt43715215/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
           "number": 9,
           "name": "Beauty and the Goof",
           "airdate": "2027-04-03",
@@ -34331,7 +34323,7 @@
           "number": 28,
           "name": "Comedy Clash!",
           "airdate": "2026-09-28",
-          "summary": null,
+          "summary": "Thomas Lennon as Jim Dangle in Reno 911 faces Darcy Carden. Caleb, a drama teacher, battles Jackie, an incident investigator and \"Queen of NTT\".",
           "url": "https://www.imdb.com/title/tt47657840/?ref_=ttep_ep_4"
         },
         {
@@ -35078,7 +35070,7 @@
           "number": 29,
           "name": "Yacht Rock Night",
           "airdate": "2026-09-29",
-          "summary": null,
+          "summary": "Thirteen remaining couples cruise into \"Yacht Rock Night,\" with performances set to smooth grooves, soft-rock classics and iconic hits that defined the yacht rock era.",
           "url": "https://www.imdb.com/title/tt45920346/?ref_=ttep_ep_4"
         },
         {
@@ -36834,11 +36826,27 @@
       "episodes": [
         {
           "season": 59,
+          "number": 3,
+          "name": "Episode #59.3",
+          "airdate": "2026-10-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47722934/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 59,
           "number": 13,
           "name": "Shot Down Over Iran/The Pardon Economy/Battering Ram",
           "airdate": "2026-09-13",
           "summary": "First, U.S. Air Force officer shot down in Iran says it's a \"modern-day miracle\" he survived. Then, brokers are offering felons a path to Trump pardons — at a steep price with no guarantees. And, McVay, Stafford on Rams culture.",
           "url": "https://www.imdb.com/title/tt45081036/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 59,
+          "number": 20,
+          "name": "Patrick Clancy/AI Data Centers/Shergar, Where are you?",
+          "airdate": "2026-09-20",
+          "summary": "First, Patrick Clancy: The 60 Minutes Interview. Then, data center plans boom despite heavy backlash. And, inside the unsolved kidnapping of Shergar.",
+          "url": "https://www.imdb.com/title/tt47722932/?ref_=ttep_ep_2"
         },
         {
           "season": 58,
@@ -37853,6 +37861,14 @@
           "airdate": "2026-09-21",
           "summary": "Eight notorious reality TV villains compete for $1 million for charity. Who among Omarosa, Richard Hatch, or Tom Sandoval will outwit the rest?",
           "url": "https://www.imdb.com/title/tt42593412/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 28,
+          "name": "8 More Degrees of Jane",
+          "airdate": "2026-09-28",
+          "summary": "Celebrities reunite with Jane Lynch as eight familiar faces compete for $1,000,000 for charity. Friendship won't save them from tough questions.",
+          "url": "https://www.imdb.com/title/tt44326106/?ref_=ttep_ep_2"
         },
         {
           "season": 1,
@@ -38877,9 +38893,9 @@
         {
           "season": 13,
           "number": 13,
-          "name": "Episode #13.13",
+          "name": "Devil of a Good Time",
           "airdate": "2026-10-29",
-          "summary": null,
+          "summary": "Cordelia's witches try their hardest to come together as their chances to save the world grow dim.",
           "url": "https://www.imdb.com/title/tt43718789/?ref_=ttep_ep_13"
         },
         {
@@ -39535,6 +39551,22 @@
         },
         {
           "season": 38,
+          "number": 3,
+          "name": "Treehouse of Horror Presents: The Revengening",
+          "airdate": "2026-10-18",
+          "summary": "All hell breaks loose on Halloween when a killer comes to Springfield and hacks their way through town.",
+          "url": "https://www.imdb.com/title/tt36431507/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 38,
+          "number": 4,
+          "name": "Treehouse of Horror XXXVII",
+          "airdate": "2026-10-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36431513/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 38,
           "number": 27,
           "name": "The Children's Book Job",
           "airdate": "2026-09-27",
@@ -39860,18 +39892,18 @@
         {
           "season": 5,
           "number": 3,
-          "name": "Tortoises and Billy Goats",
-          "airdate": "2026-10-11",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt45915289/?ref_=ttep_ep_3"
+          "name": "Bugs and Rabid Dogs",
+          "airdate": "2026-10-18",
+          "summary": "Frank goes undercover at Roman's new privatized animal control company, Pax Romana.",
+          "url": "https://www.imdb.com/title/tt46666951/?ref_=ttep_ep_3"
         },
         {
           "season": 5,
           "number": 4,
-          "name": "Bugs and Rabid Dogs",
-          "airdate": "2026-10-18",
+          "name": "Tortoises and Billy Goats",
+          "airdate": "2026-10-25",
           "summary": null,
-          "url": "https://www.imdb.com/title/tt46666951/?ref_=ttep_ep_4"
+          "url": "https://www.imdb.com/title/tt45915289/?ref_=ttep_ep_4"
         },
         {
           "season": 5,
@@ -39994,9 +40026,9 @@
         {
           "season": 3,
           "number": 3,
-          "name": "Episode #3.3",
+          "name": "Lake Piney",
           "airdate": "2026-10-18",
-          "summary": null,
+          "summary": "Darren becomes a summer camp lifeguard. Mark and Hank get into magnet fishing.",
           "url": "https://www.imdb.com/title/tt41712280/?ref_=ttep_ep_3"
         },
         {
@@ -40176,10 +40208,18 @@
         {
           "season": 3,
           "number": 3,
+          "name": "Breaking Badly",
+          "airdate": "2026-10-18",
+          "summary": "Stan breaks bad to help Dr. Pentos sell illegal candy to students at the middle school. Flute mentors Otis for his first undercover operation.",
+          "url": "https://www.imdb.com/title/tt46656926/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
           "name": "How the Other Half Lives",
-          "airdate": "2026-10-11",
+          "airdate": "2026-10-25",
           "summary": "Flute is suspicious of Summers' new cyborg friend. Martinez joins the Satanic church for the childcare perks.",
-          "url": "https://www.imdb.com/title/tt36911075/?ref_=ttep_ep_3"
+          "url": "https://www.imdb.com/title/tt36911075/?ref_=ttep_ep_4"
         },
         {
           "season": 3,
@@ -40498,7 +40538,7 @@
           "number": 2,
           "name": "Are Tomatoes Good for Skin Care?",
           "airdate": "2026-10-01",
-          "summary": null,
+          "summary": "Racers head to Madrid, Spain, where a new alliance forms and one team immediately regrets their Express Pass decision.",
           "url": "https://www.imdb.com/title/tt44091199/?ref_=ttep_ep_2"
         },
         {
@@ -40514,7 +40554,7 @@
           "number": 30,
           "name": "Sorry Guys, We Used Our Express Pass",
           "airdate": "2026-09-30",
-          "summary": null,
+          "summary": "Phil Keoghan reveals an unprecedented twist in Vancouver: 13 Express Passes are available this season, a first for \"Amazing Race.\"",
           "url": "https://www.imdb.com/title/tt39389703/?ref_=ttep_ep_1"
         },
         {
@@ -40667,7 +40707,7 @@
           "number": 4,
           "name": "My Chief",
           "airdate": "2026-10-14",
-          "summary": null,
+          "summary": "After uncovering a costly mistake made by Turk, J.D. must decide whether to report him or let it slide. Meanwhile, Elliot grows her responsibilities at Sacred Heart by leading a new initiative.",
           "url": "https://www.imdb.com/title/tt42624411/?ref_=ttep_ep_4"
         },
         {
@@ -40999,6 +41039,14 @@
         },
         {
           "season": 2,
+          "number": 5,
+          "name": "Episode #2.5",
+          "airdate": "2026-10-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47660478/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
           "number": 15,
           "name": "Don't Go Home",
           "airdate": "2026-09-15",
@@ -41018,7 +41066,7 @@
           "number": 29,
           "name": "Blame It on Daddy",
           "airdate": "2026-09-29",
-          "summary": null,
+          "summary": "A romance based on lies turns into a dangerous web of false accusations and violence, ending in a shocking confrontation with gunfire.",
           "url": "https://www.imdb.com/title/tt46253181/?ref_=ttep_ep_3"
         },
         {
@@ -46035,6 +46083,1361 @@
           "airdate": "2026-05-05",
           "summary": "With the Camp Pendleton office in danger of being shut down, the team confronts an uncertain future.",
           "url": "https://www.imdb.com/title/tt39008853/?ref_=ttep_ep_18"
+        }
+      ]
+    },
+    "tt15483602": {
+      "imdbId": "tt15483602",
+      "title": "Reincarnated as a Sword",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 30,
+          "name": "Sora ni Ukanderu no wa Shima Deshita",
+          "airdate": "2026-09-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44121449/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "The Hellish Trial at the Adventurer's Guild",
+          "airdate": "2022-10-05",
+          "summary": "In Alessa town at the Adventurers' Guild, Nell, a receptionist, informs Fran she must pass a battle simulation to join the Guild. The examiner is Donadrond, a powerful Oni.",
+          "url": "https://www.imdb.com/title/tt22439892/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "The Arcane Blacksmith is Suspicious",
+          "airdate": "2022-10-12",
+          "summary": "Garrus, a dwarf, invites Fran to his shop, explaining he is the famous Wandering Blacksmith of Granzell. After selling Fran enchanted armour, Garrus asks about Teacher. Teacher worries he is not as strong as other swords but Garrus reveals that what makes Teacher powerful is his ultra-high mana conductivity; the more magic Fran puts into him the more powerful he becomes.",
+          "url": "https://www.imdb.com/title/tt22499078/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "A Goblin Stampede Is an Emergency",
+          "airdate": "2022-10-19",
+          "summary": "Fran kills all the goblins present, saying she must become stronger. The next day, Klimt organizes a party to raid a dungeon.",
+          "url": "https://www.imdb.com/title/tt22775172/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "A Perfect Dungeon Debut",
+          "airdate": "2022-10-26",
+          "summary": "Fran and Teacher find the Goblin King and Queen, but kill them with one attack to their surprise. They realize the dungeon goes deeper and fight their way through a swarm of giant beetles. They enter a hidden door where they find the Dungeon Master.",
+          "url": "https://www.imdb.com/title/tt22889250/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "The Greater Demon Was a Cheater",
+          "airdate": "2022-11-02",
+          "summary": "Fran and Teacher continue to fight the Greater Demon. Teacher then remembers a Dungeon Master's summon cannot survive without him and tells Fran to aim her attacks at him.",
+          "url": "https://www.imdb.com/title/tt23063110/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "The Vice Captain of the Knights is Annoying",
+          "airdate": "2022-11-09",
+          "summary": "August Allsand, vice-captain of Alessa's knights, uses his skill Falsehood to identify Fran's lies. Teacher appraises him and finds he abuses his skills to falsely accuse commoners and charm his superiors. August then demands all the dungeon loot as a fine for Fran lying to a noble.",
+          "url": "https://www.imdb.com/title/tt23326436/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Blue Cats Are Enemies",
+          "airdate": "2022-11-16",
+          "summary": "Fran reveals it was the Blue Cats who systematically made the Black Cats weaker and discriminated against over centuries. The Blue Cat, Gyuran, gleefully describes torturing and murdering Black Cats. Fran is afraid until Teacher reminds her she is not alone.",
+          "url": "https://www.imdb.com/title/tt23583458/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "The A-Rank Adventurer Is a Monster",
+          "airdate": "2022-11-23",
+          "summary": "Fran begins her investigation to the spider dungeon, which is also a promotion exam for two E-rank teams, Dragons Roar and Forest Eyes, overseen by the examiners Cruise, Rig and Eizelle.",
+          "url": "https://www.imdb.com/title/tt23746920/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "The Trap of the Trap Spiders",
+          "airdate": "2022-11-30",
+          "summary": "Amanda gives Fran combat and magic lessons while noting how unusual it is that Fran can use three elements. Deeper in the dungeon, the Trap Spiders have evolved into Trick Spiders with deadlier venom and greater strength and speed.",
+          "url": "https://www.imdb.com/title/tt23831272/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "name": "Summoning the Demon Wolf",
+          "airdate": "2022-12-07",
+          "summary": "The Trickster Spider toys with Fran, Bart, and Victor by triggering booby traps on them. The party splits up to look for them while Amanda goes by herself while carrying Teacher. With little options, Teacher reveals he can speak and move to Amanda and summons an Onyx Wolf as a Familiar to try to find Fran.",
+          "url": "https://www.imdb.com/title/tt23941666/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "name": "Fran Is Looking Forward to a New Adventure",
+          "airdate": "2022-12-14",
+          "summary": "After clearing the dungeon, Klimt gives Fran permission to go to Ulmutt and she is promoted. Garrus gives Fran new armor, and says he is going to Ulmutt too. Later, she says goodbye to everyone she met in Alessa.",
+          "url": "https://www.imdb.com/title/tt24229382/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 28,
+          "name": "Catgirl Meets Sword",
+          "airdate": "2022-09-28",
+          "summary": "An man is killed and reincarnates in another world as a magical sword. As he is capable of telekinesis he is able to fly and learn skills by killing monsters. He decides to continue slaying monsters and become the most powerful sword in the world while waiting for his destined wielder. Elsewhere, a Black Cat Girl named Fran lives as an abused slave but dreams of greatness.",
+          "url": "https://www.imdb.com/title/tt19120572/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt45602692": {
+      "imdbId": "tt45602692",
+      "title": "Secret Life of a Vegas Casino",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "The Good, the Bad and the Unlucky",
+          "airdate": "2026-09-29",
+          "summary": "As the first weekend of the busy season kicks off at the Golden Nugget, a missing $1,000 chip sparks a high-tech and hotel-wide hunt to find the person who took it.",
+          "url": "https://www.imdb.com/title/tt45774039/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt4655480": {
+      "imdbId": "tt4655480",
+      "title": "Chicago Med",
+      "episodes": [
+        {
+          "season": 12,
+          "number": 1,
+          "name": "Shots Fired",
+          "airdate": "2026-10-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41158380/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 12,
+          "number": 2,
+          "name": "Episode #12.2",
+          "airdate": "2026-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43703310/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 12,
+          "number": 3,
+          "name": "Episode #12.3",
+          "airdate": "2026-10-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44772094/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 12,
+          "number": 4,
+          "name": "Episode #12.4",
+          "airdate": "2026-10-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46107152/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 11,
+          "number": 1,
+          "name": "We All Fall Down",
+          "airdate": "2025-10-01",
+          "summary": "A family of victims from a house fire is rushed to Gaffney; Lenox fights to save two sisters injured in an all-night rave turned tragedy; tensions mount between Goodwin and Abrams over difficult staffing changes.",
+          "url": "https://www.imdb.com/title/tt36827803/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 11,
+          "number": 2,
+          "name": "A Game of Inches",
+          "airdate": "2025-10-08",
+          "summary": "Things get personal when Ripley and Archer butt heads over the treatment plans tied to an unusual case. Asher makes a surprising discovery with an expectant couple. A patient throws the hospital into chaos.",
+          "url": "https://www.imdb.com/title/tt37801841/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 11,
+          "number": 3,
+          "name": "Horseshoes and Hand Grenades",
+          "airdate": "2025-10-15",
+          "summary": "Lenox and Frost receive an unusual request from the parents of a patient on life support. Ripley and Charles work with a man who can't remember who he is.",
+          "url": "https://www.imdb.com/title/tt37898797/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 11,
+          "number": 4,
+          "name": "Found Family",
+          "airdate": "2025-10-22",
+          "summary": "Charles races to convince a patient to accept treatment before it's too late. Frost bonds with a young girl battling immunodeficiency. Lenox makes a chilling discovery.",
+          "url": "https://www.imdb.com/title/tt37923446/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 11,
+          "number": 5,
+          "name": "What's Hiding in the Dark",
+          "airdate": "2025-10-29",
+          "summary": "A personal clash between Asher and Archer reaches a breaking point. Charles and Ripley uncover a rare neurological disorder in a patient. Goodwin's personal life is put to the test.",
+          "url": "https://www.imdb.com/title/tt38236747/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 11,
+          "number": 6,
+          "name": "The Story of Us",
+          "airdate": "2025-11-05",
+          "summary": "Secrets are uncovered when Goodwin's family comes together for Bert. Ripley and Frost treat two children stung by hornets in a treehouse. A member of the team struggles with relationship woes.",
+          "url": "https://www.imdb.com/title/tt38598318/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 11,
+          "number": 7,
+          "name": "Double Down",
+          "airdate": "2025-11-12",
+          "summary": "Charles grows increasingly suspicious of a colleague's intentions; Lenox crosses a line to protect a patient; Asher and Archer treat a soon-to-be father battling cancer.",
+          "url": "https://www.imdb.com/title/tt38598323/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 11,
+          "number": 8,
+          "name": "Triple Threat",
+          "airdate": "2026-01-07",
+          "summary": "The doctors deal with the professional and personal fallout from the choices made during the citywide blackout.",
+          "url": "https://www.imdb.com/title/tt38627925/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 11,
+          "number": 9,
+          "name": "Blindsided",
+          "airdate": "2026-01-14",
+          "summary": "Tensions spike when a road rage incident sends three patients into the E.D. Frost's former television co-star resurfaces. An unexpected arrival catches Asher and Archer off guard.",
+          "url": "https://www.imdb.com/title/tt38627930/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 11,
+          "number": 10,
+          "name": "Frost on Fire",
+          "airdate": "2026-01-21",
+          "summary": "Frost and Archer face a troubling medical mystery while treating a college basketball star. Lennox's treatment of a surrogate patient leads to complications for the patient and her best friend.",
+          "url": "https://www.imdb.com/title/tt38744559/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 11,
+          "number": 11,
+          "name": "Our So-Called Lives",
+          "airdate": "2026-01-28",
+          "summary": "Old resentments stir up Charles when old friends from medical school visit. Asher is forced to overcome obstacles in the treatment of one of her patients. Ripley looks to honor his old friend, Sully.",
+          "url": "https://www.imdb.com/title/tt38744562/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 11,
+          "number": 12,
+          "name": "Spill Your Guts",
+          "airdate": "2026-02-04",
+          "summary": "Charles mentors three medical students for a day. Goodwin prepares for a crucial board meeting. Frost confronts his past.",
+          "url": "https://www.imdb.com/title/tt38744563/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 11,
+          "number": 13,
+          "name": "Reckoning, Part II",
+          "airdate": "2026-03-04",
+          "summary": "A fire crew responds to an airfield when a passenger plane goes silent. What they discover reveals a far larger and deadlier secret with far-reaching consequences that threatens countless lives.",
+          "url": "https://www.imdb.com/title/tt38744566/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 11,
+          "number": 14,
+          "name": "Twist & Shout",
+          "airdate": "2026-03-11",
+          "summary": "Archer and Lenox care for two friends hurt during St. Patrick's Day celebrations, while Hannah and Ripley treat a woman going through a difficult divorce.",
+          "url": "https://www.imdb.com/title/tt38744567/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 11,
+          "number": 15,
+          "name": "The Cost of Living",
+          "airdate": "2026-03-18",
+          "summary": "Archer confronts his own mortality while on a complex case. One patient's quirky habit baffles Charles and Theo. A fatal diagnosis shocks one of the doctors at Gaffney.",
+          "url": "https://www.imdb.com/title/tt38744568/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 11,
+          "number": 16,
+          "name": "The Book of Charles",
+          "airdate": "2026-04-01",
+          "summary": "Dr. Charles grapples with his own mental health after working the suicide prevention line.",
+          "url": "https://www.imdb.com/title/tt38744573/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 11,
+          "number": 17,
+          "name": "Altered States",
+          "airdate": "2026-04-08",
+          "summary": "The Gaffney medical team fights to save a colleague in critical condition. Hannah clashes with the ob-gyn covering her maternity leave.",
+          "url": "https://www.imdb.com/title/tt38744577/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 11,
+          "number": 18,
+          "name": "Things Left Unsaid",
+          "airdate": "2026-04-22",
+          "summary": "A devastating car crash leaves a family's survival dependent on the Gaffney medical team. Ripley confronts Lenox about her growing pattern of dangerous decisions.",
+          "url": "https://www.imdb.com/title/tt38744581/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 11,
+          "number": 19,
+          "name": "Exit Strategies",
+          "airdate": "2026-04-29",
+          "summary": "A high-risk delivery compels Hannah to face her history while Lenox's sibling arrives at Gaffney.",
+          "url": "https://www.imdb.com/title/tt38744583/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 11,
+          "number": 20,
+          "name": "Hell Breaks Loose",
+          "airdate": "2026-05-06",
+          "summary": "Gaffney is thrown into chaos when a prison riot overwhelms the E.D. Goodwin and Charles prepare for a high-stakes board meeting.",
+          "url": "https://www.imdb.com/title/tt38744587/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 11,
+          "number": 21,
+          "name": "Heaven Help Us",
+          "airdate": "2026-05-13",
+          "summary": "Hannah faces one of the most challenging deliveries of her career. Frost navigates demanding times.",
+          "url": "https://www.imdb.com/title/tt38744588/?ref_=ttep_ep_21"
+        }
+      ]
+    },
+    "tt1492088": {
+      "imdbId": "tt1492088",
+      "title": "Pawn Stars",
+      "episodes": []
+    },
+    "tt14218830": {
+      "imdbId": "tt14218830",
+      "title": "Abbott Elementary",
+      "episodes": [
+        {
+          "season": 6,
+          "number": 1,
+          "name": "Jungle Classroom",
+          "airdate": "2026-10-07",
+          "summary": "Gregory and Ava adjust to a new dynamic, while Barbara turns to Jacob for help. Meanwhile, Janine gives her classroom a makeover, and Melissa works to win hers back.",
+          "url": "https://www.imdb.com/title/tt40417174/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 6,
+          "number": 2,
+          "name": "Check-Ins",
+          "airdate": "2026-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44082821/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 1,
+          "name": "Team Building",
+          "airdate": "2025-10-01",
+          "summary": "The teachers prepare for the upcoming school year with new faces and big changes on the horizon.",
+          "url": "https://www.imdb.com/title/tt35505522/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 2,
+          "name": "Cheating",
+          "airdate": "2025-10-08",
+          "summary": "Melissa tries to outsmart her students; Tariq causes chaos in Janine's class, and a new guidance counselor joins the school.",
+          "url": "https://www.imdb.com/title/tt38090167/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "name": "Ballgame",
+          "airdate": "2025-10-15",
+          "summary": "The Abbott crew heads to the ballpark for Teachers' Appreciation Night at the Philadelphia Phillies game.",
+          "url": "https://www.imdb.com/title/tt38090169/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 5,
+          "number": 4,
+          "name": "Game Night",
+          "airdate": "2025-10-22",
+          "summary": "Gregory steps in to host game night at his apartment; Mr. Johnson, Ava, Barbara and Melissa head to the DMV to renew their licenses.",
+          "url": "https://www.imdb.com/title/tt38090227/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 5,
+          "number": 5,
+          "name": "Camping",
+          "airdate": "2025-10-29",
+          "summary": "Barbara organizes a Halloween camping trip for older kids.",
+          "url": "https://www.imdb.com/title/tt38090230/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 5,
+          "number": 6,
+          "name": "No Phones",
+          "airdate": "2025-11-05",
+          "summary": "Abbott Elementary participates in the district's \"No Phones Day\" initiative.",
+          "url": "https://www.imdb.com/title/tt38090233/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
+          "number": 7,
+          "name": "Goofgirl",
+          "airdate": "2025-12-03",
+          "summary": "A new member joins Gregory's Garden Goofballs, and Janine pitches a new club idea to Ava.",
+          "url": "https://www.imdb.com/title/tt38090237/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 5,
+          "number": 8,
+          "name": "Birthday",
+          "airdate": "2025-12-10",
+          "summary": "Jacob takes the lead on organizing Abbott's annual winter show and Janine celebrates her 30th birthday.",
+          "url": "https://www.imdb.com/title/tt38090238/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 5,
+          "number": 9,
+          "name": "Mall",
+          "airdate": "2026-01-07",
+          "summary": "Abbott Elementary returns from winter break at their new temporary school: an abandoned mall; the teachers deal with unique challenges that come with teaching in the new location.",
+          "url": "https://www.imdb.com/title/tt38090239/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 5,
+          "number": 10,
+          "name": "Mall Part 2: Questions & Concerns",
+          "airdate": "2026-01-14",
+          "summary": "Growing pains hit Abbott Elementary as the PTA pressures Janine and Gregory for answers; Jacob and Barbara become suspicious of Mr. Morton.",
+          "url": "https://www.imdb.com/title/tt38090242/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 5,
+          "number": 11,
+          "name": "Mall Part 3: Heroes",
+          "airdate": "2026-01-21",
+          "summary": "After the faculty finds surprising success operating the school in the mall, they quickly realize they are being taken advantage of; a new custodian arrives to join Mr. Johnson.",
+          "url": "https://www.imdb.com/title/tt39232252/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 5,
+          "number": 12,
+          "name": "Picture Day",
+          "airdate": "2026-01-28",
+          "summary": "When picture day catches the teachers at Abbott by surprise, chaos ensues.",
+          "url": "https://www.imdb.com/title/tt39306019/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 5,
+          "number": 13,
+          "name": "Candygrams",
+          "airdate": "2026-02-04",
+          "summary": "It's Valentine's Day at Abbott and the teachers find themselves meddling in students' love lives while navigating their own.",
+          "url": "https://www.imdb.com/title/tt39320368/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 5,
+          "number": 14,
+          "name": "Aide",
+          "airdate": "2026-03-04",
+          "summary": "Janine asks Ava for a classroom aide; the school seeks out a new gym teacher; Dominic confides in Jacob.",
+          "url": "https://www.imdb.com/title/tt39764166/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 5,
+          "number": 15,
+          "name": "Safety Day",
+          "airdate": "2026-03-11",
+          "summary": "An antidrug campaign visits the school; Jacob is outraged by an unfair district election.",
+          "url": "https://www.imdb.com/title/tt40011402/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 5,
+          "number": 16,
+          "name": "Campaign",
+          "airdate": "2026-03-18",
+          "summary": "Jacob and Ava team up for an initiative; Melissa and Janine help Mr. Johnson get ready for the Janitor's Ball.",
+          "url": "https://www.imdb.com/title/tt40252768/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 5,
+          "number": 17,
+          "name": "No Homework",
+          "airdate": "2026-03-25",
+          "summary": "Ava implements a no-homework policy at Abbott, sparking debate amongst the teachers.",
+          "url": "https://www.imdb.com/title/tt40252773/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 5,
+          "number": 18,
+          "name": "April Fools",
+          "airdate": "2026-04-01",
+          "summary": "It's April Fools' Day, and while the Abbott teachers suffer pranks, Gregory makes a plan to make it through the day.",
+          "url": "https://www.imdb.com/title/tt40595441/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 5,
+          "number": 19,
+          "name": "Trip",
+          "airdate": "2026-04-08",
+          "summary": "Janine and Gregory plan a vacation; one of Melissa's most successful former students comes back for a visit.",
+          "url": "https://www.imdb.com/title/tt41018262/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 5,
+          "number": 20,
+          "name": "Night Out",
+          "airdate": "2026-04-15",
+          "summary": "Janine and Gregory have a night out; Melissa, Barbara and Mr. Johnson have a movie night.",
+          "url": "https://www.imdb.com/title/tt41018264/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 5,
+          "number": 21,
+          "name": "Ava & Fest",
+          "airdate": "2026-04-22",
+          "summary": "Ava is determined to make this Ava Fest her biggest yet.",
+          "url": "https://www.imdb.com/title/tt41018267/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 5,
+          "number": 22,
+          "name": "Miami",
+          "airdate": "2026-04-22",
+          "summary": "Rumors begin to swirl when the Abbott crew is in Miami for PECSA weekend.",
+          "url": "https://www.imdb.com/title/tt41018270/?ref_=ttep_ep_22"
+        }
+      ]
+    },
+    "tt2261391": {
+      "imdbId": "tt2261391",
+      "title": "Chicago Fire",
+      "episodes": [
+        {
+          "season": 15,
+          "number": 1,
+          "name": "New Blood",
+          "airdate": "2026-10-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41158142/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 15,
+          "number": 2,
+          "name": "Episode #15.2",
+          "airdate": "2026-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45088102/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 15,
+          "number": 3,
+          "name": "Episode #15.3",
+          "airdate": "2026-10-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45115471/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 15,
+          "number": 4,
+          "name": "Episode #15.4",
+          "airdate": "2026-10-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45273051/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 15,
+          "number": 5,
+          "name": "Episode #15.5",
+          "airdate": "2026-11-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt45088103/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 14,
+          "number": 1,
+          "name": "Kicking Down Doors",
+          "airdate": "2025-10-01",
+          "summary": "A new face at Firehouse 51 causes tension, while rising chaos in the city brings new challenges to the team; Herrmann stalls on plans of relinquishing his office to Mouch.",
+          "url": "https://www.imdb.com/title/tt36827799/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 14,
+          "number": 2,
+          "name": "Primary Search",
+          "airdate": "2025-10-08",
+          "summary": "Vasquez strives to prove his worth at 51, while Violet and Novak investigate a disturbing case. Meanwhile, Herrmann works to maintain Molly's success.",
+          "url": "https://www.imdb.com/title/tt38091150/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 14,
+          "number": 3,
+          "name": "In the Blood",
+          "airdate": "2025-10-15",
+          "summary": "When city budget cuts stretch crews thin, Pascal takes matters into his own hands. Vasquez looks to an old friend for help. An incident in the field hits close to home for Violet.",
+          "url": "https://www.imdb.com/title/tt38120280/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 14,
+          "number": 4,
+          "name": "Mercy",
+          "airdate": "2025-10-22",
+          "summary": "Firehouse 51 must band together after a devastating fire catches them off guard. Vasquez continues his quest for answers. Violet and Novak face an unexpected roadblock in the new training protocol.",
+          "url": "https://www.imdb.com/title/tt38523854/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 14,
+          "number": 5,
+          "name": "Ghosts",
+          "airdate": "2025-10-29",
+          "summary": "Cruz hunts for the identity of an unknown ally. Mouch takes steps to help a friend. Vasquez must make a difficult choice.",
+          "url": "https://www.imdb.com/title/tt38668156/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 14,
+          "number": 6,
+          "name": "Broken Things",
+          "airdate": "2025-11-05",
+          "summary": "A traffic jam puts Violet and Novak in a tough spot with a patient. Severide spends a day with Pascal. Kidd makes special efforts to help Isaiah.",
+          "url": "https://www.imdb.com/title/tt38744593/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 14,
+          "number": 7,
+          "name": "Pierce the Vein",
+          "airdate": "2025-11-12",
+          "summary": "Severide probes a suspicious fire at a high school. Novak receives an unexpected call. Violet has a 51 firefighter join her for an ambulance shift.",
+          "url": "https://www.imdb.com/title/tt38744597/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 14,
+          "number": 8,
+          "name": "A Man Possessed",
+          "airdate": "2026-01-07",
+          "summary": "After arson affects someone close to Firehouse 51, Severide hunts for the culprit. Meanwhile, Mouch and Pascal seek innovative solutions to face looming budget cuts.",
+          "url": "https://www.imdb.com/title/tt38744599/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 14,
+          "number": 9,
+          "name": "Crime of Passion",
+          "airdate": "2026-01-14",
+          "summary": "A Firehouse 51 crew member is still in danger. Cruz helps Severide investigate.",
+          "url": "https://www.imdb.com/title/tt38744601/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 14,
+          "number": 10,
+          "name": "Carry a Torch",
+          "airdate": "2026-01-21",
+          "summary": "Novak begins a new romance while Vasquez copes with his father's recent release.",
+          "url": "https://www.imdb.com/title/tt38744603/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 14,
+          "number": 11,
+          "name": "Frostbite Blue",
+          "airdate": "2026-01-28",
+          "summary": "Herrmann feels uncomfortable when a neighborhood injury lawyer involves himself in a standard call. Station 51 receives a guest.",
+          "url": "https://www.imdb.com/title/tt38744604/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 14,
+          "number": 12,
+          "name": "Coming in Hot",
+          "airdate": "2026-02-04",
+          "summary": "Pacal faces intense scrutiny after a firehouse member gets injured on a call. Herrmann deals with family issues.",
+          "url": "https://www.imdb.com/title/tt38744605/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 14,
+          "number": 13,
+          "name": "Reckoning, Part I",
+          "airdate": "2026-03-04",
+          "summary": "Firehouse 51A responds to an airport when a passenger jet suddenly goes silent. Their discovery reveals a larger, deadly secret with consequences that could reach far beyond the runway.",
+          "url": "https://www.imdb.com/title/tt38744609/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 14,
+          "number": 14,
+          "name": "Hit and Run",
+          "airdate": "2026-03-11",
+          "summary": "Severide is on high alert to track down a reckless driver who puts one of their own in harm's way. A member of Firehouse 51 struggles with a potentially life-changing decision.",
+          "url": "https://www.imdb.com/title/tt38744613/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 14,
+          "number": 15,
+          "name": "Do Not Resuscitate",
+          "airdate": "2026-03-18",
+          "summary": "A car crash puzzles Kidd and Vasquez. Herrmann gets his chance in the spotlight. Violet and Novak deal with a moral dilemma",
+          "url": "https://www.imdb.com/title/tt38744615/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 14,
+          "number": 16,
+          "name": "Firehouse 66",
+          "airdate": "2026-04-01",
+          "summary": "Severide overcomes new obstacles at the firehouse. Cruz finds himself at a loss amid family changes.",
+          "url": "https://www.imdb.com/title/tt38744617/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 14,
+          "number": 17,
+          "name": "Sway",
+          "airdate": "2026-04-08",
+          "summary": "After a devastating fire erupts at a surgery center, Kidd works to hunt down the true cause. Violet, Novak and Vasquez grapple with shifting relationships. Molly's hosts its first trivia night.",
+          "url": "https://www.imdb.com/title/tt38744620/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 14,
+          "number": 18,
+          "name": "Instinct",
+          "airdate": "2026-04-22",
+          "summary": "While in the field, Violet and Novak are thrust into a dangerous and rapidly escalating situation, forcing them to rely on their instincts to protect both themselves and a vulnerable patient.",
+          "url": "https://www.imdb.com/title/tt38744623/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 14,
+          "number": 19,
+          "name": "Exit Point",
+          "airdate": "2026-04-29",
+          "summary": "Severide looks into a fire at a vacant store where squatters live. Mouch writes a memoir about his life.",
+          "url": "https://www.imdb.com/title/tt38744626/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 14,
+          "number": 20,
+          "name": "Speak of the Devil",
+          "airdate": "2026-05-06",
+          "summary": "The brave crew of Firehouse 51 puts their lives on the line to protect and rescue the people of their city.",
+          "url": "https://www.imdb.com/title/tt38744629/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 14,
+          "number": 21,
+          "name": "Thank You",
+          "airdate": "2026-05-13",
+          "summary": "Severide and Kidd welcome a surprise visitor. Herrmann and Cindy renew their vows. Mouch receives some encouraging news.",
+          "url": "https://www.imdb.com/title/tt38744633/?ref_=ttep_ep_21"
+        }
+      ]
+    },
+    "tt10752770": {
+      "imdbId": "tt10752770",
+      "title": "Tyler Perry's Sistas",
+      "episodes": [
+        {
+          "season": 10,
+          "number": 1,
+          "name": "Next of Kin",
+          "airdate": "2026-01-07",
+          "summary": "In the aftermath of the explosive threat against Andi, it becomes apparent that Karen isn't the only one missing from the circle. As everyone discovers the truth of the dire situation, priorities shift for all",
+          "url": "https://www.imdb.com/title/tt39206581/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 10,
+          "number": 2,
+          "name": "Guilty",
+          "airdate": "2026-01-14",
+          "summary": "Grief begets guilt as the reality of the situation becomes dire, but just because one horrible event takes priority, it doesn't mean the others go away and it can seem impossible trying to balance the bad.",
+          "url": "https://www.imdb.com/title/tt39383496/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 10,
+          "number": 3,
+          "name": "With or Without You",
+          "airdate": "2026-01-21",
+          "summary": "Andi receives a call from the Police Station and is forced to act. Fatima comes clean about her suspicions of Mr. Keyes. Officer Green shows Danni his true colors after she turns him down.",
+          "url": "https://www.imdb.com/title/tt39383511/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 10,
+          "number": 4,
+          "name": "Safety Blanket",
+          "airdate": "2026-01-28",
+          "summary": "When a single act of violence shatters their world, a group of friends must confront buried truths, broken systems, and the silence threatening to destroy them from within.",
+          "url": "https://www.imdb.com/title/tt39538730/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 10,
+          "number": 5,
+          "name": "Misery Loves Company",
+          "airdate": "2026-02-04",
+          "summary": "As buried trauma resurfaces, Danni, Andi, and Fatima must unravel denial, secrets, and challenges of supporting one another through personal crises.",
+          "url": "https://www.imdb.com/title/tt39538736/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 10,
+          "number": 6,
+          "name": "Anything But Shy",
+          "airdate": "2026-02-09",
+          "summary": "There's a difference between a Sista and a sister and while two Sistas need help with uncontrollable troubles, Andi's sister isn't shy when it comes to messing around where she doesn't belong.",
+          "url": "https://www.imdb.com/title/tt39538738/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 10,
+          "number": 7,
+          "name": "Leaving to Stay",
+          "airdate": "2026-02-18",
+          "summary": "Some will have to make the choice to leave what they know to stay with what they want, while others feel like they have no choice but to stay when all they really want is to leave certain things behind.",
+          "url": "https://www.imdb.com/title/tt39538743/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 10,
+          "number": 8,
+          "name": "Best Laid Plans",
+          "airdate": "2026-02-25",
+          "summary": "Danni learns that she doesn't have decision making authority in Sabrina's care. Fatima gains new information putting her one step closer to finding out who bombed Andi's car.",
+          "url": "https://www.imdb.com/title/tt40335146/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 10,
+          "number": 9,
+          "name": "Visiting Ours",
+          "airdate": "2026-03-04",
+          "summary": "During a quiet dinner with Dr. Vaughn, Andi locks eyes with a familiar face across the room, setting off a chain of uneasy encounters and buried truths.",
+          "url": "https://www.imdb.com/title/tt40335171/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 10,
+          "number": 10,
+          "name": "Big as Us",
+          "airdate": "2026-03-11",
+          "summary": "Amidst a whirlwind of personal conflicts and hidden truths, Danni struggles to stay away from Officer Green, while those around her grapple with love, betrayal, and the weight of their choices.",
+          "url": "https://www.imdb.com/title/tt41052846/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 10,
+          "number": 11,
+          "name": "Three Sided Circle",
+          "airdate": "2026-03-18",
+          "summary": "Circles are a steady loop but there are still sides to every story and, when a circle is broken, the sides of a triangle become sharp and clear.",
+          "url": "https://www.imdb.com/title/tt41052862/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 10,
+          "number": 12,
+          "name": "Episode #10.12",
+          "airdate": "2026-10-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44866784/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 9,
+          "number": 1,
+          "name": "No Time to Wait",
+          "airdate": "2025-07-16",
+          "summary": "The Sistas must put their current individual problems and traumas aside when they learn something is wrong with Karen's pregnancy; it's a mad dash to the hospital in a city recovering from a blackout.",
+          "url": "https://www.imdb.com/title/tt36142099/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 9,
+          "number": 2,
+          "name": "Do No Harm",
+          "airdate": "2025-07-23",
+          "summary": "With Karen's pain and suffering being ignored by a dismissive doctor, desperation sets in as the Sistas search for a doctor who cares; when Karen receives the needed attention, a shocking medical discovery is made.",
+          "url": "https://www.imdb.com/title/tt37535913/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 9,
+          "number": 3,
+          "name": "Having Faith",
+          "airdate": "2025-07-30",
+          "summary": "A fed-up Sabrina takes control of her life and goes searching for direction on the wild side; Andi discovers deep, dark secrets during her deep dive into Dr. Cruise.",
+          "url": "https://www.imdb.com/title/tt37535915/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 9,
+          "number": 4,
+          "name": "One is the Loneliest Number",
+          "airdate": "2025-08-06",
+          "summary": "Despite best efforts, Karen refuses any kind of comforting company while the rest of the Sistas confront their own individual problems as they all rear their ugly heads again.",
+          "url": "https://www.imdb.com/title/tt37545134/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 9,
+          "number": 5,
+          "name": "Heavy is the Crown",
+          "airdate": "2025-08-13",
+          "summary": "As Sabrina confronts her betrayers and Andi digs into a grave case, Karen sinks deeper into postpartum struggles; Danni, Fatima, and Zac face unexpected turns that test their limits.",
+          "url": "https://www.imdb.com/title/tt37599866/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 9,
+          "number": 6,
+          "name": "New Normal",
+          "airdate": "2025-08-20",
+          "summary": "Every loved one requires a different kind of care to truly feel that love; for some, it's a slow ride and, for others, it might be a hoe ride; either way, where there's love, there's help and family.",
+          "url": "https://www.imdb.com/title/tt37599872/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 9,
+          "number": 7,
+          "name": "Cutting Ties",
+          "airdate": "2025-08-27",
+          "summary": "Some attempt to heal by providing comfort as the path to moving on while others choose fresh starts to move away from them; in the long run, it seems some knots are too tangled to untie.",
+          "url": "https://www.imdb.com/title/tt37599892/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 9,
+          "number": 10,
+          "name": "Return to Sender",
+          "airdate": "2025-09-10",
+          "summary": "There are many ways to handle rejection: brush it off and carry on, ignore and persist, accept and fall into despair, and then there's the Sistas way.",
+          "url": "https://www.imdb.com/title/tt37933644/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 9,
+          "number": 12,
+          "name": "Search Party",
+          "airdate": "2025-10-08",
+          "summary": "When searching for loved ones in dangerous situations, priorities must be clear. The common thread remains protecting one another.",
+          "url": "https://www.imdb.com/title/tt38584286/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 9,
+          "number": 13,
+          "name": "On My Own",
+          "airdate": "2025-10-15",
+          "summary": "When Karen disappears with Faith, a cryptic call sends Fatima on a tense search. Meanwhile, when Karen's whereabouts are revealed, everyone must confront how their own actions drove her away.",
+          "url": "https://www.imdb.com/title/tt38806236/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 9,
+          "number": 14,
+          "name": "Pull up on Me!",
+          "airdate": "2025-10-22",
+          "summary": "Some relationships become stronger when troubles arise, and some run from troubles right into new ones; the grass isn't always greener on the other side when you take care of the grass you got.",
+          "url": "https://www.imdb.com/title/tt38806237/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 9,
+          "number": 15,
+          "name": "family Affair",
+          "airdate": "2025-10-29",
+          "summary": "Some people have to learn the hard way that they don't want to mess with a Momma Bear's cubs, or Sistas, for that matter. Mess around with a Momma Bear and find out.",
+          "url": "https://www.imdb.com/title/tt38806238/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 9,
+          "number": 16,
+          "name": "Unbreakable Bond",
+          "airdate": "2025-11-05",
+          "summary": "Maurice faces off with Paige about how quickly her brother, Dylan, seems to be falling for him; Gary continues trying to make amends, but he realizes it may all be for nothing when he gets cornered by Fatima, Zac, and Hayden.",
+          "url": "https://www.imdb.com/title/tt38806239/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 9,
+          "number": 17,
+          "name": "Backshot",
+          "airdate": "2025-09-17",
+          "summary": "Zac reverts to his old ways when he allows jealousy to creep in and lead him to confront one of Fatima's clients; Karen surprises Pam at the salon and finds it running a little different than she left it.",
+          "url": "https://www.imdb.com/title/tt38084528/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 9,
+          "number": 18,
+          "name": "Diamonds Are Forever",
+          "airdate": "2025-11-19",
+          "summary": "There's the kind of power that corrupts with evil and the kind of power that binds with love; it's not always easy to see what kind of power people have; even a weakened bond can become more powerful if it's made with love.",
+          "url": "https://www.imdb.com/title/tt38941195/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 9,
+          "number": 19,
+          "name": "Taking It All Back",
+          "airdate": "2025-11-26",
+          "summary": "Andi and Karen present the stories of all those who suffered abuse under Dr. Cruise in an effort to solidify the case against him; the other Sistas seek justice of their own.",
+          "url": "https://www.imdb.com/title/tt38941201/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 9,
+          "number": 20,
+          "name": "Bon Voyage",
+          "airdate": "2025-12-03",
+          "summary": "The tension between Andi and Danni hits a boiling point at Karen's goodbye party, Maurice and Pam reveal their plans for the salon, and Andi faces an enemy after a night of confrontations.",
+          "url": "https://www.imdb.com/title/tt38954408/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 9,
+          "number": 21,
+          "name": "Girls Just Wanna Have Fun",
+          "airdate": "2025-12-10",
+          "summary": "It's Karen's going away party but, even with tensions between the Sistas, they'll always have each other's backs when somebody messes with the Sista circle. Sometimes, drama can still bring people together.",
+          "url": "https://www.imdb.com/title/tt38954414/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 9,
+          "number": 22,
+          "name": "The Hangover",
+          "airdate": "2025-12-17",
+          "summary": "After a night out, some wake up happy, some wake up confused and shocked; nothing could prepare the Sistas for whats to come after what was supposed to be a joyous send-off cookout.",
+          "url": "https://www.imdb.com/title/tt39126406/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 9,
+          "number": 24,
+          "name": "Surprise, Surprise",
+          "airdate": "2025-09-24",
+          "summary": "When one of their own vanishes, all other troubles are suspended as the group faces the disturbing details surrounding the disappearance.",
+          "url": "https://www.imdb.com/title/tt38084532/?ref_=ttep_ep_11"
+        }
+      ]
+    },
+    "tt2202488": {
+      "imdbId": "tt2202488",
+      "title": "Mountain Men",
+      "episodes": [
+        {
+          "season": 14,
+          "number": 3,
+          "name": "Life on the Line",
+          "airdate": "2025-09-03",
+          "summary": "Marty guides daughter Noah through her first bush plane landing at a remote caribou camp and Mike hauls a 50-foot gangway across land and sea to his Kodiak homestead; Bret and Ivy fend off a hungry brown bear raiding their salmon nets.",
+          "url": "https://www.imdb.com/title/tt38128764/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 14,
+          "number": 5,
+          "name": "No Way Down",
+          "airdate": "2025-10-01",
+          "summary": "Lauro guides his dog team through frozen wilderness to reach Neil at a remote trapping camp. Ivy hunts grouse while Bret preps for the upcoming season by building and boiling his gear.",
+          "url": "https://www.imdb.com/title/tt38575411/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 14,
+          "number": 6,
+          "name": "Double Impact",
+          "airdate": "2025-10-08",
+          "summary": "While hunting for meat, Mike crosses paths with a prowling brown bear and her cub. Chance races the first snow to finish his livestock barn. Lauro and Neil smash through thick river ice to harvest beaver and fish.",
+          "url": "https://www.imdb.com/title/tt38690956/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 14,
+          "number": 7,
+          "name": "The Thundering Herd",
+          "airdate": "2025-10-15",
+          "summary": "Mike journeys to an uninhabited island to hunt a herd of wild buffalo with help from the local natives; Lauro pushes himself training for the upcoming Iditarod with a grueling 260-mile run through the Alaskan wilderness.",
+          "url": "https://www.imdb.com/title/tt38734112/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 14,
+          "number": 8,
+          "name": "Freefall",
+          "airdate": "2025-10-23",
+          "summary": "Lauro begins the longest Iditarod in the history of the famous sled dog race; Mike hunts elusive and rare silver foxes along the shoreline of Kodiak Island.",
+          "url": "https://www.imdb.com/title/tt39242720/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 14,
+          "number": 9,
+          "name": "Into the Unknown",
+          "airdate": "2025-10-30",
+          "summary": "Marty rebuilds a snowmobile from scratch, before facing off with a wolverine menace on his trapline; Lauro feels the fatigue on the Iditarod trail and makes a costly wrong turn in the dark",
+          "url": "https://www.imdb.com/title/tt39243057/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 14,
+          "number": 10,
+          "name": "Family Tradition",
+          "airdate": "2025-09-10",
+          "summary": "Marty flies to new hunting grounds in search of an elusive caribou herd and Lauro and Neil build a trapping and fishing camp to help feed their sled dogs.",
+          "url": "https://www.imdb.com/title/tt38219996/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 14,
+          "number": 11,
+          "name": "Backcountry Call",
+          "airdate": "2025-11-12",
+          "summary": "Lauro embarks on a new solo adventure with his dog team across the unforgiving Arctic wilderness; Bret and Ivy run into trouble when their traps vanish under several feet of solid ice.",
+          "url": "https://www.imdb.com/title/tt39246939/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 14,
+          "number": 12,
+          "name": "Changing of the Guard",
+          "airdate": "2025-11-19",
+          "summary": "Tom goes for one final ride on the trap line to pull his last sets before passing the torch to Sean and Hank; Jake has a showdown for the ages when three lions are cornered in a single tree.",
+          "url": "https://www.imdb.com/title/tt39246944/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 14,
+          "number": 13,
+          "name": "Tom Oar's Secrets from the Wild",
+          "airdate": "2025-11-26",
+          "summary": "Tom Oar shares his hard-earned survival secrets forged through a lifetime of experience living in the wild.",
+          "url": "https://www.imdb.com/title/tt39257866/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 14,
+          "number": 17,
+          "name": "Bloodline",
+          "airdate": "2025-09-17",
+          "summary": "Chance and Soraya slaughter a ram to provide meat for their growing family while Lauro begins preparation for this year's Iditarod by taking his team on a fall training run.",
+          "url": "https://www.imdb.com/title/tt38229554/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 14,
+          "number": 24,
+          "name": "Icebreaker",
+          "airdate": "2025-09-24",
+          "summary": "Bret and Ivy bust through sheets of lake ice to ferry critical equipment to their cabin by boat and Lauro and Virginia use the dog team to haul fresh cut timber from the forest for a log cabin build.",
+          "url": "https://www.imdb.com/title/tt38571505/?ref_=ttep_ep_4"
+        }
+      ]
+    },
+    "tt0354333": {
+      "imdbId": "tt0354333",
+      "title": "Secrets of the Dead",
+      "episodes": [
+        {
+          "season": 23,
+          "number": 1,
+          "name": "China's Bronze Kingdom",
+          "airdate": "2025-11-05",
+          "summary": "A mysterious ancient city lies hidden in the mountains of Sichuan – remnants of a kingdom consigned to oblivion for thousands of years, until the chance discovery of a jade artifact in 1986. Could this be the capital of an ancient kingdom?",
+          "url": "https://www.imdb.com/title/tt38581872/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 23,
+          "number": 2,
+          "name": "Picturing Shakespeare",
+          "airdate": "2025-11-12",
+          "summary": "British window washer Steven Wadlow, whose father bought a 16th Century of an unidentified man in the 1960s, is on the hunt to prove the painting is a genuine painting of stage actor William Shakespeare which could be worth $200 million.",
+          "url": "https://www.imdb.com/title/tt38581874/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 23,
+          "number": 3,
+          "name": "Queens of Combat",
+          "airdate": "2026-01-28",
+          "summary": "What if women were hidden among the ranks of Ancient Rome's fearsome gladiators? A group of experts searches for evidence to prove women once fought in the arena just like men.",
+          "url": "https://www.imdb.com/title/tt39371083/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 23,
+          "number": 4,
+          "name": "The Quest for Camelot",
+          "airdate": "2026-02-04",
+          "summary": "Can the stories about King Arthur be proven true? Was the legendary court of Camelot a real place? Join Prof. Mark Horton on his journey across Britain to prove real events and places inspired the chivalric myths.",
+          "url": "https://www.imdb.com/title/tt39371085/?ref_=ttep_ep_4"
+        }
+      ]
+    },
+    "tt2805096": {
+      "imdbId": "tt2805096",
+      "title": "Chicago P.D.",
+      "episodes": [
+        {
+          "season": 14,
+          "number": 1,
+          "name": "Demolition",
+          "airdate": "2026-10-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41158377/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 14,
+          "number": 2,
+          "name": "Episode #14.2",
+          "airdate": "2026-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43985937/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 14,
+          "number": 3,
+          "name": "Episode #14.3",
+          "airdate": "2026-10-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44930900/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 14,
+          "number": 4,
+          "name": "Episode #14.4",
+          "airdate": "2026-10-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46107311/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 13,
+          "number": 1,
+          "name": "Consequences",
+          "airdate": "2025-10-01",
+          "summary": "Voight teams up with an unlikely ally to take a killer off the streets while fighting to bring his Intelligence unit back together.",
+          "url": "https://www.imdb.com/title/tt36827800/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 13,
+          "number": 2,
+          "name": "Open Wounds",
+          "airdate": "2025-10-08",
+          "summary": "The Intelligence Unit is in a race against time when a man from Torres' neighborhood is violently abducted.",
+          "url": "https://www.imdb.com/title/tt37801844/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 13,
+          "number": 3,
+          "name": "Canaryville",
+          "airdate": "2025-10-15",
+          "summary": "A murder near Burgess and Ruzek's neighborhood leads the team to probe complex relationships in their close community.",
+          "url": "https://www.imdb.com/title/tt37956121/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 13,
+          "number": 4,
+          "name": "Root Cause",
+          "airdate": "2025-10-22",
+          "summary": "A string of violent robberies across the city digs up one family's secrets; a surprising detail of Voight's past resurfaces.",
+          "url": "https://www.imdb.com/title/tt38236735/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 13,
+          "number": 5,
+          "name": "Miami",
+          "airdate": "2025-10-29",
+          "summary": "After a bombing in downtown Chicago, Atwater meets up with a former friend from his academy days.",
+          "url": "https://www.imdb.com/title/tt38236745/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 13,
+          "number": 6,
+          "name": "Send Me",
+          "airdate": "2025-11-05",
+          "summary": "Torres is dragged into a deadly conspiracy when a routine assignment takes a violent turn.",
+          "url": "https://www.imdb.com/title/tt38487545/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 13,
+          "number": 7,
+          "name": "Impulse Control",
+          "airdate": "2025-11-12",
+          "summary": "When a violent break-in occurs, Voight's suspicions lead the team back to a disturbing figure from a past investigation.",
+          "url": "https://www.imdb.com/title/tt38598325/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 13,
+          "number": 8,
+          "name": "Born Screaming",
+          "airdate": "2026-01-07",
+          "summary": "Voight and the team race to solve the Bell case to prevent further deaths.",
+          "url": "https://www.imdb.com/title/tt38627934/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 13,
+          "number": 9,
+          "name": "Heroes",
+          "airdate": "2026-01-14",
+          "summary": "Platt faces trouble after a basic favor for an ex-recruit turns into a catastrophic situation.",
+          "url": "https://www.imdb.com/title/tt38627940/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 13,
+          "number": 10,
+          "name": "Faith",
+          "airdate": "2026-01-21",
+          "summary": "Torres probes the Morgan case conspiracy, pulling Intelligence into a complex maze of hidden truths.",
+          "url": "https://www.imdb.com/title/tt38739489/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 13,
+          "number": 11,
+          "name": "On the Way",
+          "airdate": "2026-01-28",
+          "summary": "Kevin goes undercover to investigate the world of car jacking.",
+          "url": "https://www.imdb.com/title/tt38744668/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 13,
+          "number": 12,
+          "name": "Missing",
+          "airdate": "2026-02-04",
+          "summary": "Details about Imani's past emerge as the Intelligence Unit seeks the truth behind the sudden resurfacing of a decades-old missing child case.d",
+          "url": "https://www.imdb.com/title/tt38744672/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 13,
+          "number": 13,
+          "name": "Reckoning, Part III",
+          "airdate": "2026-03-04",
+          "summary": "An airport crisis reveals a larger conspiracy tied to a passenger jet, launching the Intelligence Unit into a dangerous chase for the suspect while the FBI watches closely.",
+          "url": "https://www.imdb.com/title/tt38744673/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 13,
+          "number": 14,
+          "name": "Meant to Be",
+          "airdate": "2026-03-11",
+          "summary": "Burgess mentors a new officer while the team works on a dangerous drug investigation.",
+          "url": "https://www.imdb.com/title/tt38744678/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 13,
+          "number": 15,
+          "name": "Live or Die by Your CI",
+          "airdate": "2026-03-18",
+          "summary": "Ruzek becomes suspicious after a DEA agent reaches out to him asking about a missing informant.",
+          "url": "https://www.imdb.com/title/tt38744679/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 13,
+          "number": 16,
+          "name": "Restored",
+          "airdate": "2026-04-01",
+          "summary": "Torres works to end a revenge killing cycle after a teen's death.",
+          "url": "https://www.imdb.com/title/tt38744681/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 13,
+          "number": 17,
+          "name": "Partners",
+          "airdate": "2026-04-08",
+          "summary": "Tensions between Voight and Imani begin to form when a series of ATM robberies hits the city.",
+          "url": "https://www.imdb.com/title/tt38744685/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 13,
+          "number": 18,
+          "name": "The Wicked River",
+          "airdate": "2026-04-22",
+          "summary": "A fatal house party prompts the Intelligence Unit to discover a family's disturbing secret. Atwater reaches a crucial personal crossroads.",
+          "url": "https://www.imdb.com/title/tt38744688/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 13,
+          "number": 19,
+          "name": "Going Back",
+          "airdate": "2026-04-29",
+          "summary": "Ruzek examines a VHS tape from his father's possessions, leading to unforeseen results.",
+          "url": "https://www.imdb.com/title/tt38744689/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 13,
+          "number": 20,
+          "name": "The Lost Years",
+          "airdate": "2026-05-06",
+          "summary": "Imani struggles to maintain her composure when a new lead reignites her investigation into her sister's disappearance.",
+          "url": "https://www.imdb.com/title/tt38744692/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 13,
+          "number": 21,
+          "name": "Born or Made",
+          "airdate": "2026-05-13",
+          "summary": "When a key witness refuses to cooperate, the Intelligence Unit is forced to rethink their strategy to locate a fleeing suspect. Imani must confront her past before it's too late.",
+          "url": "https://www.imdb.com/title/tt38744695/?ref_=ttep_ep_21"
         }
       ]
     }
