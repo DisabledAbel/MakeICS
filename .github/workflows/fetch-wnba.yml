@@ -45,7 +45,7 @@ jobs:
         run: node scripts/fetch-wnba.js
 
       - name: Restore partial WNBA output after fetch failure
-        if: steps.fetch-wnba.outcome != 'success'
+        if: failure() && steps.fetch-wnba.outcome == 'failure'
         run: |
           git restore --worktree -- lib/data/sports/supplemental
           git clean -f -- lib/data/sports/supplemental
