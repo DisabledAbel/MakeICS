@@ -157,15 +157,27 @@ export async function fetchNhlSchedules({ fetchImpl = globalThis.fetch, outputDi
     const file = path.join(outputDir, `${team.id}.json`);
     let existing;
     try { existing = JSON.parse(await fs.readFile(file, 'utf8')); } catch (error) { if (error.code !== 'ENOENT') throw error; }
-    let events = teamGames.map(game => ({ ...normalizeScrapedEvent(game, team.name), idEvent: `nhl-${game.id}`, sourceEventId: String(game.id), idHomeTeam: game.homeId, idAwayTeam: game.awayId }));
-    // One-time migration from non-NHL IDs only when date and participants identify exactly one fixture.
-    events = events.map(event => {
-      const identityMatch = (existing?.events || []).find(old => old.idEvent === event.idEvent || old.sourceEventId === event.sourceEventId);
-      if (identityMatch) return { ...event, idEvent: identityMatch.idEvent };
-      const matches = (existing?.events || []).filter(old => old.dateEvent === event.dateEvent && old.strHomeTeam === event.strHomeTeam && old.strAwayTeam === event.strAwayTeam);
-      return matches.length === 1 ? { ...event, idEvent: matches[0].idEvent } : event;
-    });
     const existingEvents = existing?.events || [];
+    let events = teamGames.map(game => ({ ...normalizeScrapedEvent(game, team.name), idEvent: `nhl-${game.id}`, sourceEventId: String(game.id), idHomeTeam: game.homeId, idAwayTeam: game.awayId }));
+    const legacyCandidates = events.map(event => existingEvents.filter(old =>
+      old.dateEvent === event.dateEvent && old.strHomeTeam === event.strHomeTeam && old.strAwayTeam === event.strAwayTeam));
+    const legacyClaimCounts = new Map();
+    for (const candidates of legacyCandidates) for (const old of candidates) {
+      legacyClaimCounts.set(old.idEvent, (legacyClaimCounts.get(old.idEvent) || 0) + 1);
+    }
+    const claimedIds = new Set();
+    events = events.map((event, index) => {
+      const identityMatches = existingEvents.filter(old => old.idEvent === event.idEvent || old.sourceEventId === event.sourceEventId);
+      let match = identityMatches.length === 1 ? identityMatches[0] : null;
+      if (!match && legacyCandidates[index].length === 1 && legacyClaimCounts.get(legacyCandidates[index][0].idEvent) === 1) {
+        match = legacyCandidates[index][0];
+      }
+      // A legacy UID can migrate only once. Ambiguous many-to-one and
+      // one-to-many matches retain the NHL game ID rather than collapsing games.
+      if (!match || claimedIds.has(match.idEvent)) return event;
+      claimedIds.add(match.idEvent);
+      return { ...event, idEvent: match.idEvent };
+    });
     const unchanged = events.length === existingEvents.length && events.every((event, index) => equalEvent(event, existingEvents[index]));
     if (unchanged) continue;
     const updatedAt = now.toISOString();

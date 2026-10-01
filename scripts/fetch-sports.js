@@ -554,6 +554,9 @@ export async function main({
 
       // Team discovery is only needed for optional supplemental sources.
       // A failed enrichment must not prevent publishing a valid league schedule.
+      // The dedicated official NHL fetcher exclusively owns NHL supplemental
+      // files; this generic job still refreshes the league cache above.
+      if (league.id === '4380') continue;
       if (!SUPPLEMENTAL_CONFIGS[league.id] && !firecrawlApiKey) continue;
       try {
         console.log(`Discovering teams for ${league.name}...`);

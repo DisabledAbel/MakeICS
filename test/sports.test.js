@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { searchTeamSuggestions, getEvents, toIcs, normalizeScrapedEvent } from '../lib/sports.js';
+import { searchTeamSuggestions, getEvents, toIcs, normalizeScrapedEvent, deduplicateSportsEvents } from '../lib/sports.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE_DIR = path.join(__dirname, '../lib/data/sports');
@@ -293,6 +293,21 @@ test('getEvents merges supplemental (scraped) data', async (t) => {
   } finally {
     await fs.unlink(supplementalFilePath).catch(() => {});
   }
+});
+
+test('NHL reconciliation uses league game identity and does not merge distinct fixtures', () => {
+  const nhlEvent = (idEvent, sourceEventId, timestamp) => ({
+    idEvent, sourceEventId, strLeague: 'NHL', strEvent: 'Seattle Kraken vs Anaheim Ducks',
+    strHomeTeam: 'Seattle Kraken', strAwayTeam: 'Anaheim Ducks', dateEvent: timestamp.slice(0, 10),
+    strTime: timestamp.slice(11, 19), strTimestamp: timestamp, strStatus: 'NS'
+  });
+  const events = deduplicateSportsEvents([
+    nhlEvent('selected-calendar-id', '2026020001', '2026-10-12T03:30:00Z'),
+    nhlEvent('provider-specific-id', '2026020001', '2026-10-12T02:30:00Z'),
+    nhlEvent('different-game', '2026020002', '2026-10-12T03:35:00Z')
+  ]);
+  assert.deepEqual(events.map(event => event.id), ['selected-calendar-id', 'different-game']);
+  assert.equal(events[0].timestamp, '2026-10-12T03:30:00Z');
 });
 
 test('toIcs creates ICS for sports events', async (t) => {
