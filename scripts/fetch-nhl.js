@@ -25,9 +25,19 @@ export const NHL_TEAMS = Object.freeze([
   ['VGK','Vegas Golden Knights','135913'], ['WSH','Washington Capitals','134845'], ['WPG','Winnipeg Jets','134851']
 ].map(([abbrev, name, id, aliases = []]) => ({ abbrev, name, id, aliases })));
 
+/** Normalize team names for exact comparisons, ignoring accents and punctuation. */
 const normalizeName = value => String(value || '').normalize('NFKD').replace(/\p{Diacritic}/gu, '').toLowerCase().replace(/[^a-z0-9]/g, '');
+/** Read a string or prefer its default translation, then French, then an empty string. */
 const localized = value => typeof value === 'string' ? value : value?.default || value?.fr || '';
 
+/**
+ * Fetch a non-null JSON object or array with bounded attempts and exponential backoff.
+ * timeoutMs and baseDelayMs are milliseconds; attempts includes the initial request
+ * and should be a positive integer. fetchImpl must honor the abort signal for timeouts.
+ * Retries request/JSON failures and HTTP 408, 429, and 5xx responses; other HTTP
+ * failures reject immediately. Final request failures include the URL and original
+ * cause. Rejections from the injected sleep function propagate unchanged.
+ */
 export async function fetchJson(url, fetchImpl = globalThis.fetch, {
   timeoutMs = 20_000, attempts = 4, baseDelayMs = 500, sleep = ms => new Promise(resolve => setTimeout(resolve, ms))
 } = {}) {
@@ -55,6 +65,12 @@ export async function fetchJson(url, fetchImpl = globalThis.fetch, {
   throw last;
 }
 
+/**
+ * Map standings to configured MakeICS teams, sorted by NHL abbreviation.
+ * Matches use abbreviations or normalized names and explicit aliases.
+ * Throws for missing/short standings, ambiguous aliases or matches, unknown teams,
+ * duplicate teams, or a result that does not cover every configured team.
+ */
 export function mapActiveTeams(payload) {
   if (!Array.isArray(payload?.standings) || payload.standings.length < 32) throw new Error(`NHL standings response contained ${payload?.standings?.length || 0} teams; expected at least 32`);
   const configured = new Map();
@@ -76,6 +92,7 @@ export function mapActiveTeams(payload) {
   return [...result.values()].sort((a, b) => a.abbrev.localeCompare(b.abbrev));
 }
 
+/** Return NHL season IDs starting in the previous, current, and next UTC year of now. */
 export function seasonCandidates(now = new Date()) {
   const year = now.getUTCFullYear();
   // Query the seasons on either side of the summer boundary. The API confirms
@@ -84,6 +101,10 @@ export function seasonCandidates(now = new Date()) {
   return [year - 1, year, year + 1].map(start => `${start}${start + 1}`);
 }
 
+/**
+ * Map NHL states to schedule status, prioritizing postponed, canceled, live, and final
+ * games over unknown start times; otherwise return TBD or NS (not started).
+ */
 function statusFor(game) {
   const state = String(game.gameState || '').toUpperCase();
   const scheduleState = String(game.gameScheduleState || '').toUpperCase();
@@ -95,6 +116,14 @@ function statusFor(game) {
   return 'NS';
 }
 
+/**
+ * Return normalized preseason, regular-season, and playoff games in source order.
+ * Games before now are omitted unless postponed or TBD; games exactly at now remain.
+ * teams supplies abbreviation-to-MakeICS mappings. Dates are UTC instants, falling
+ * back to midnight UTC when startTimeUTC is absent; officialDate retains gameDate.
+ * Throws for a missing games array, invalid IDs/date formats/start times in supported
+ * game types, or unmapped participants in retained games. Does not deduplicate games.
+ */
 export function parseSchedule(payload, teams, now = new Date()) {
   if (!Array.isArray(payload?.games)) throw new Error('NHL club schedule response did not contain games');
   const byAbbrev = new Map(teams.map(team => [team.abbrev, team]));
@@ -120,6 +149,10 @@ export function parseSchedule(payload, teams, now = new Date()) {
   return games;
 }
 
+/**
+ * Apply worker with a positive integer concurrency limit and return results in input
+ * order. Propagates worker failures without canceling work already in progress.
+ */
 async function pooled(items, limit, worker) {
   let next = 0;
   const output = [];
@@ -129,9 +162,24 @@ async function pooled(items, limit, worker) {
   return output;
 }
 
+/** Copy an event without its updatedAt field for change detection. */
 const withoutRevision = ({ updatedAt, ...event }) => event;
+/** Compare serialized event fields, including property order, while ignoring updatedAt. */
 const equalEvent = (a, b) => JSON.stringify(withoutRevision(a)) === JSON.stringify(withoutRevision(b));
 
+/**
+ * Refresh official NHL schedules in outputDir and return teams, unique games, and
+ * writtenTeams counts. now controls season selection, filtering, and revision times;
+ * requestOptions is forwarded to fetchJson for each request.
+ * Writes one JSON file per team with games, ordered by start time then NHL game ID.
+ * Reuses saved calendar IDs for unique identity matches or unambiguous same-date,
+ * same-participant legacy matches. Unchanged schedules and teams without games are
+ * left untouched.
+ * Fetch, mapping, parsing, conflicting-game, and empty-schedule failures reject
+ * before writes; an empty schedule is allowed only in July and August (UTC).
+ * Missing saved files are treated as new schedules. Other read, JSON parse, and
+ * write errors propagate, and earlier team writes are not rolled back.
+ */
 export async function fetchNhlSchedules({ fetchImpl = globalThis.fetch, outputDir = OUTPUT_DIR, now = new Date(), requestOptions = {} } = {}) {
   const teams = mapActiveTeams(await fetchJson(ACTIVE_TEAMS_URL, fetchImpl, requestOptions));
   const requests = teams.flatMap(team => seasonCandidates(now).map(season => ({ team, season })));
@@ -191,6 +239,7 @@ export async function fetchNhlSchedules({ fetchImpl = globalThis.fetch, outputDi
   return { teams: teams.length, games: parsed.length, writtenTeams };
 }
 
+/** Refresh NHL schedules with defaults and report counts; fetch failures propagate. */
 async function main() {
   const result = await fetchNhlSchedules();
   console.log(`Found ${result.games} upcoming NHL games for ${result.teams} teams; wrote ${result.writtenTeams} schedules.`);

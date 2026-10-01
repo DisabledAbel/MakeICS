@@ -513,7 +513,10 @@ async function isSupplementalStale(teamId, dataDir = SUPPLEMENTAL_DATA_DIR) {
 /**
  * Fetches, processes, and stores league events and team supplemental schedules.
  *
- * Required league failures fail the run; optional enrichment preserves saved data.
+ * NHL refreshes only the league cache; its supplemental files have a dedicated fetcher.
+ * Required league failures reject after all leagues are attempted; optional enrichment
+ * failures are caught. Directory creation errors propagate, and completed writes are
+ * not rolled back on later failures.
  * The shared API client paces requests across rounds and leagues.
  */
 export async function main({

@@ -1,8 +1,10 @@
 import { getEvents, toIcs } from '../lib/sports.js';
 
+/** Return a shared-cache policy: six hours with NHL events, otherwise 24, plus one stale hour. */
 function cacheFor(payload) {
   return payload?.events?.some(event => event.league === 'NHL') ? 's-maxage=21600, stale-while-revalidate=3600' : 's-maxage=86400, stale-while-revalidate=3600';
 }
+/** End the response with JSON, the supplied status, and the payload's sports cache policy. */
 function sendJson(res, statusCode, payload) {
   res.statusCode = statusCode;
   res.setHeader('Content-Type', 'application/json; charset=utf-8');
@@ -10,6 +12,13 @@ function sendJson(res, statusCode, payload) {
   res.end(JSON.stringify(payload));
 }
 
+/**
+ * Serve teamId events as JSON or format=ics for GET/HEAD, forwarding since and tz.
+ * Writes a body for either method. Missing teamId returns 400; other methods get 405.
+ * Load/serialization errors become 404 when their message contains "found", otherwise
+ * 500; URL construction errors propagate. NHL event results use a six-hour shared
+ * cache, while other results and error JSON use 24 hours.
+ */
 export default async function handler(req, res) {
   if (!['GET', 'HEAD'].includes(req.method)) {
     res.setHeader('Allow', 'GET, HEAD');

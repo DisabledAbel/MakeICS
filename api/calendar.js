@@ -37,6 +37,14 @@ export function parseCalendarRequest(requestUrl) {
   return { shows, teamIds, movies, movieType, timezone, since };
 }
 
+/**
+ * Create a GET/HEAD calendar handler with optional getEpisodes/getEvents/getMovies
+ * loader overrides. Serves JSON or format=ics and omits successful HEAD bodies.
+ * Returns HTTP 400 for invalid requests, 405 for unsupported methods, and 502 when
+ * every source rejects; partial source failures remain in successful JSON responses.
+ * Successful responses use a six-hour shared cache when NHL events are present,
+ * otherwise 24 hours. Uncaught build/serialization errors reject the handler promise.
+ */
 export function createCalendarHandler(loaders) {
   return async function handler(req, res) {
   if (!['GET', 'HEAD'].includes(req.method)) {
