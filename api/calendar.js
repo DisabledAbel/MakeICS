@@ -1,6 +1,7 @@
 import { buildCalendar, toIcs } from '../lib/calendar.js';
 
 const CACHE = 's-maxage=86400, stale-while-revalidate=3600';
+const NHL_CACHE = 's-maxage=21600, stale-while-revalidate=3600';
 const TYPES = new Set(['all', 'studio', 'genre', 'character']);
 
 function sendJson(res, statusCode, payload, cache = false) {
@@ -51,17 +52,19 @@ export function createCalendarHandler(loaders) {
     return sendJson(res, 400, { error: error.message });
   }
   const result = await buildCalendar({ ...options, loaders });
+  const cache = result.events?.some(event => event.type === 'sports' && event.metadata?.league === 'NHL') ? NHL_CACHE : CACHE;
   if (!result.successfulSources) return sendJson(res, 502, { error: 'Unable to load any requested calendar source.', failures: result.failures });
   if (requestUrl.searchParams.get('format') === 'ics') {
     res.statusCode = 200;
     res.setHeader('Content-Type', 'text/calendar; charset=utf-8');
-    res.setHeader('Cache-Control', CACHE);
+    res.setHeader('Cache-Control', cache);
     return res.end(req.method === 'HEAD' ? '' : toIcs(result));
   }
   if (req.method === 'HEAD') {
-    res.statusCode = 200; res.setHeader('Content-Type', 'application/json; charset=utf-8'); res.setHeader('Cache-Control', CACHE); return res.end();
+    res.statusCode = 200; res.setHeader('Content-Type', 'application/json; charset=utf-8'); res.setHeader('Cache-Control', cache); return res.end();
   }
-  return sendJson(res, 200, { calendar: result.calendar, sources: result.sources, failures: result.failures, events: result.events }, true);
+  res.statusCode = 200; res.setHeader('Content-Type', 'application/json; charset=utf-8'); res.setHeader('Cache-Control', cache);
+  return res.end(JSON.stringify({ calendar: result.calendar, sources: result.sources, failures: result.failures, events: result.events }));
   };
 }
 
