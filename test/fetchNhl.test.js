@@ -31,6 +31,71 @@ test('normalizes Pacific date, UTC instant, broadcast, status, and retains disti
   assert.equal(games.length, 2);
 });
 
+test('normalizes broadcast networks independently of club ordering and duplicates', () => {
+  const homeBroadcasts = [{ network: 'Prime Video' }, { network: 'KCOP-13' }, { network: 'NESN' }];
+  const awayBroadcasts = [{ network: 'NESN' }, { network: 'Prime Video' }, { network: 'KCOP-13' }, { network: 'NESN' }, {}];
+  const now = new Date('2026-10-01T00:00:00Z');
+  const home = parseSchedule({ games: [game({ tvBroadcasts: homeBroadcasts })] }, NHL_TEAMS, now);
+  const away = parseSchedule({ games: [game({ tvBroadcasts: awayBroadcasts })] }, NHL_TEAMS, now);
+  assert.deepEqual(home, away);
+  assert.equal(home[0].broadcast, 'KCOP-13, NESN, Prime Video');
+  assert.equal(parseSchedule({ games: [game({ tvBroadcasts: [] })] }, NHL_TEAMS, now)[0].broadcast, null);
+});
+
+test('different club broadcast order deduplicates the game and does not rewrite schedules', async t => {
+  const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'nhl-broadcast-'));
+  t.after(() => fs.rm(dir, { recursive: true, force: true }));
+  let networks = ['Prime Video', 'KCOP-13', 'NESN'];
+  const fetchImpl = async url => {
+    if (url.endsWith('/standings/now')) return response(standings());
+    const isHome = url.includes('/SEA/');
+    const games = (isHome || url.includes('/ANA/')) && url.endsWith('/20262027')
+      ? [game({ id: 2026020120, tvBroadcasts: (isHome ? networks : [...networks].reverse()).map(network => ({ network })) })]
+      : [];
+    return response({ games });
+  };
+  const first = await fetchNhlSchedules({ fetchImpl, outputDir: dir, now: new Date('2026-10-01T00:00:00Z'), requestOptions: { attempts: 1 } });
+  assert.equal(first.games, 1);
+  assert.equal(first.writtenTeams, 2);
+  const files = ['140082.json', '134846.json'];
+  const before = await Promise.all(files.map(file => fs.readFile(path.join(dir, file), 'utf8')));
+  for (const contents of before) {
+    const { events } = JSON.parse(contents);
+    assert.equal(events.length, 1);
+    assert.equal(events[0].idEvent, 'nhl-2026020120');
+    assert.equal(events[0].strTVStation, 'KCOP-13, NESN, Prime Video');
+  }
+  networks = ['NESN', 'Prime Video', 'KCOP-13'];
+  const second = await fetchNhlSchedules({ fetchImpl, outputDir: dir, now: new Date('2026-10-01T06:00:00Z'), requestOptions: { attempts: 1 } });
+  assert.equal(second.writtenTeams, 0);
+  assert.deepEqual(await Promise.all(files.map(file => fs.readFile(path.join(dir, file), 'utf8'))), before);
+});
+
+test('genuine duplicate game conflicts still reject the fetch before any schedules are written', async t => {
+  for (const overrides of [
+    { startTimeUTC: '2026-10-12T03:30:00Z' },
+    { awayTeam: { abbrev: 'BOS' } },
+    { tvBroadcasts: [{ network: 'NESN' }] }
+  ]) {
+    await t.test(JSON.stringify(overrides), async t => {
+      const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'nhl-conflict-'));
+      t.after(() => fs.rm(dir, { recursive: true, force: true }));
+      const file = path.join(dir, '140082.json');
+      await fs.writeFile(file, 'saved');
+      const fetchImpl = async url => {
+        if (url.endsWith('/standings/now')) return response(standings());
+        const games = url.endsWith('/20262027')
+          ? url.includes('/SEA/') ? [game()] : url.includes('/ANA/') ? [game(overrides)] : []
+          : [];
+        return response({ games });
+      };
+      await assert.rejects(fetchNhlSchedules({ fetchImpl, outputDir: dir, now: new Date('2026-10-01'), requestOptions: { attempts: 1 } }), /Conflicting NHL records for game 2026020001/);
+      assert.equal(await fs.readFile(file, 'utf8'), 'saved');
+      assert.deepEqual(await fs.readdir(dir), ['140082.json']);
+    });
+  }
+});
+
 test('complete club schedules deduplicate by NHL ID, are unchanged on rerun, and reschedule in place', async () => {
   const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'nhl-'));
   const now = new Date('2026-10-01T00:00:00Z');

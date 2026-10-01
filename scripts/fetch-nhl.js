@@ -121,6 +121,8 @@ function statusFor(game) {
  * Games before now are omitted unless postponed or TBD; games exactly at now remain.
  * teams supplies abbreviation-to-MakeICS mappings. Dates are UTC instants, falling
  * back to midnight UTC when startTimeUTC is absent; officialDate retains gameDate.
+ * Broadcast networks are deduplicated and sorted because club responses order
+ * the same networks differently for the home and away teams.
  * Throws for a missing games array, invalid IDs/date formats/start times in supported
  * game types, or unmapped participants in retained games. Does not deduplicate games.
  */
@@ -142,7 +144,7 @@ export function parseSchedule(payload, teams, now = new Date()) {
       id: String(game.id), date: new Date(timestamp).toISOString().replace('.000Z', 'Z'), officialDate: game.gameDate,
       name: `${home.name} vs ${away.name}`, homeTeam: home.name, awayTeam: away.name,
       homeId: home.id, awayId: away.id, league: 'NHL', venue: localized(game.venue) || null,
-      broadcast: Array.isArray(game.tvBroadcasts) ? [...new Set(game.tvBroadcasts.map(item => item.network).filter(Boolean))].join(', ') || null : null,
+      broadcast: Array.isArray(game.tvBroadcasts) ? [...new Set(game.tvBroadcasts.map(item => item.network).filter(Boolean))].sort().join(', ') || null : null,
       status
     });
   }
