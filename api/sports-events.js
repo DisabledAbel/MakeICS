@@ -1,9 +1,12 @@
 import { getEvents, toIcs } from '../lib/sports.js';
 
+function cacheFor(payload) {
+  return payload?.events?.some(event => event.league === 'NHL') ? 's-maxage=21600, stale-while-revalidate=3600' : 's-maxage=86400, stale-while-revalidate=3600';
+}
 function sendJson(res, statusCode, payload) {
   res.statusCode = statusCode;
   res.setHeader('Content-Type', 'application/json; charset=utf-8');
-  res.setHeader('Cache-Control', 's-maxage=86400, stale-while-revalidate=3600');
+  res.setHeader('Cache-Control', cacheFor(payload));
   res.end(JSON.stringify(payload));
 }
 
@@ -29,7 +32,7 @@ export default async function handler(req, res) {
     if (format === 'ics') {
       res.statusCode = 200;
       res.setHeader('Content-Type', 'text/calendar; charset=utf-8');
-      res.setHeader('Cache-Control', 's-maxage=86400, stale-while-revalidate=3600');
+      res.setHeader('Cache-Control', cacheFor(result));
       return res.end(toIcs(result, { timezone }));
     }
 

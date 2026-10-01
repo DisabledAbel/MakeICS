@@ -85,19 +85,8 @@ const SUPPLEMENTAL_CONFIGS = {
       broadcast: 'network'
     }
   },
-  // NHL
-  '4380': {
-    url: 'https://github.com/sportsdataverse/sportsdataverse-data/releases/download/nhl_schedules/nhl_schedule_2026.csv',
-    mapping: {
-      date: 'game_date',
-      time: 'game_time',
-      home: 'home_team_name',
-      away: 'away_team_name',
-      venue: 'venue',
-      id: 'game_id',
-      broadcast: 'broadcast'
-    }
-  }
+  // NHL is intentionally absent. scripts/fetch-nhl.js exclusively owns NHL
+  // supplemental files using the league's official, complete schedule feed.
 };
 
 // Major leagues to track
