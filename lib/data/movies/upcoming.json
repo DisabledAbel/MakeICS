@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:58:03.719Z",
+  "generatedAt": "2026-10-01T11:25:49.199Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -3989,8 +3989,8 @@
           "name": "Josh Hartnett"
         },
         {
-          "id": "nm3033454",
-          "name": "Ismael Cruz Cordova"
+          "id": "nm16916120",
+          "name": "Brady Wagner"
         }
       ],
       "label": "Oct 02, 2026"
@@ -4625,6 +4625,36 @@
       "label": "Oct 09, 2026"
     },
     {
+      "id": "tt29549490",
+      "title": "California Schemin'",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWM0ZWNkOTEtNWViNC00MzQ2LThlYjYtMjE3YzVkYmExMjBiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "people": [
+        {
+          "id": "nm0564215",
+          "name": "James McAvoy"
+        },
+        {
+          "id": "nm3890987",
+          "name": "Samuel Bottomley"
+        },
+        {
+          "id": "nm5901379",
+          "name": "James Harkness"
+        },
+        {
+          "id": "nm0179479",
+          "name": "James Corden"
+        }
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
       "id": "tt46665146",
       "title": "Fresh Meat",
       "image": "https://m.media-amazon.com/images/M/MV5BMjljNDU1MjItZDdiMy00YzgzLWIzMzctNjg3NjM3MmUxNzljXkEyXkFqcGc@._V1_.jpg",
@@ -4852,36 +4882,6 @@
         {
           "id": "nm9135274",
           "name": "Nico Parker"
-        }
-      ],
-      "label": "Oct 16, 2026"
-    },
-    {
-      "id": "tt29549490",
-      "title": "California Schemin'",
-      "image": "https://m.media-amazon.com/images/M/MV5BOWM0ZWNkOTEtNWViNC00MzQ2LThlYjYtMjE3YzVkYmExMjBiXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "genres": [
-        "Biography",
-        "Drama",
-        "History"
-      ],
-      "people": [
-        {
-          "id": "nm0564215",
-          "name": "James McAvoy"
-        },
-        {
-          "id": "nm5901379",
-          "name": "James Harkness"
-        },
-        {
-          "id": "nm13633111",
-          "name": "Lucy Halliday"
-        },
-        {
-          "id": "nm0179479",
-          "name": "James Corden"
         }
       ],
       "label": "Oct 16, 2026"
@@ -5903,16 +5903,16 @@
       ],
       "people": [
         {
-          "id": "nm5057169",
-          "name": "Thomasin McKenzie"
-        },
-        {
           "id": "nm2140860",
           "name": "Maika Monroe"
         },
         {
           "id": "nm0005042",
           "name": "Jason Isaacs"
+        },
+        {
+          "id": "nm5057169",
+          "name": "Thomasin McKenzie"
         },
         {
           "id": "nm2235721",
@@ -5947,35 +5947,6 @@
         {
           "id": "nm3660091",
           "name": "Anna Sawai"
-        }
-      ],
-      "label": "Nov 13, 2026"
-    },
-    {
-      "id": "tt33075482",
-      "title": "The Great Beyond",
-      "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Mystery"
-      ],
-      "people": [
-        {
-          "id": "nm1412974",
-          "name": "Glen Powell"
-        },
-        {
-          "id": "nm4911194",
-          "name": "Jenna Ortega"
-        },
-        {
-          "id": "nm0000168",
-          "name": "Samuel L. Jackson"
-        },
-        {
-          "id": "nm0923266",
-          "name": "Merritt Wever"
         }
       ],
       "label": "Nov 13, 2026"
@@ -7253,12 +7224,12 @@
           "name": "Mia Wasikowska"
         },
         {
-          "id": "nm0524240",
-          "name": "Matt Lucas"
-        },
-        {
           "id": "nm0746896",
           "name": "Richard Roxburgh"
+        },
+        {
+          "id": "nm0524240",
+          "name": "Matt Lucas"
         }
       ],
       "label": "Jan 15, 2027"
@@ -7386,7 +7357,7 @@
     {
       "id": "tt35606013",
       "title": "The Rescue",
-      "image": "https://m.media-amazon.com/images/M/MV5BOWNhMWI5NjUtYWJiMi00MWYwLWI2NmMtNzdiYzlkYWYyYTljXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2I5MWI4ODAtNmZlOS00MWY4LWFiYjktZWFlNTMwMjhjOGRjXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
       "genres": [
         "Action",
@@ -7533,7 +7504,7 @@
       "genres": [
         "Drama",
         "Fantasy",
-        "Mystery"
+        "Horror"
       ],
       "people": [
         {
@@ -7787,7 +7758,7 @@
     {
       "id": "tt38593232",
       "title": "Live Like That",
-      "image": "https://m.media-amazon.com/images/M/MV5BY2Y2ZDUxNWQtZjMxZi00M2Q0LWIwZGYtMTE1MzY0YWE5M2ExXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmYyNmJjZDktNDY2Yi00ZWU2LWE3NzgtY2NjY2RlMDExMTY5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 26 Feb 2027 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -8160,6 +8131,35 @@
       "label": "Apr 02, 2027"
     },
     {
+      "id": "tt36923931",
+      "title": "The Surgeon",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDcxN2ViNTUtN2YwOC00ZDE2LWFhMGItZjAyZTEwOTAyYzJhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 02 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0293509",
+          "name": "Martin Freeman"
+        },
+        {
+          "id": "nm0000706",
+          "name": "Michelle Yeoh"
+        },
+        {
+          "id": "nm5685224",
+          "name": "Laurie Davidson"
+        },
+        {
+          "id": "nm0464305",
+          "name": "Yuri Kolokolnikov"
+        }
+      ],
+      "label": "Apr 02, 2027"
+    },
+    {
       "id": "tt37897207",
       "title": "The Revenge of La Llorona",
       "image": "https://m.media-amazon.com/images/M/MV5BYjZlZThhY2EtNGRkMC00YWJlLTgwN2YtODExZWVlYjYwOGFiXkEyXkFqcGc@._V1_.jpg",
@@ -8204,12 +8204,12 @@
           "name": "Elizabeth Olsen"
         },
         {
-          "id": "nm0318821",
-          "name": "Aidan Gillen"
-        },
-        {
           "id": "nm1519666",
           "name": "Eddie Redmayne"
+        },
+        {
+          "id": "nm0318821",
+          "name": "Aidan Gillen"
         }
       ],
       "label": "Apr 09, 2027"
@@ -8361,7 +8361,7 @@
     {
       "id": "tt29873948",
       "title": "The Legend of Zelda",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjQyMDk5MDgtODAxMi00ZGM3LWFmMGUtNWFlNjEzY2FlZWVhXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmZkMjMwYWYtYWU0YS00MjEyLWJhZGMtNDgzZThkN2M1NDdiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 30 Apr 2027 00:00:00 GMT",
       "genres": [
         "Action",
@@ -9268,6 +9268,25 @@
       "label": "Aug 20, 2027"
     },
     {
+      "id": "tt43617184",
+      "title": "Narcs",
+      "releaseDate": "Fri, 20 Aug 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm9296746",
+          "name": "Mason Thames"
+        },
+        {
+          "id": "nm8855592",
+          "name": "Ella Bright"
+        }
+      ],
+      "label": "Aug 20, 2027"
+    },
+    {
       "id": "tt38561132",
       "title": "The New Simpsons Movie",
       "image": "https://m.media-amazon.com/images/M/MV5BMjdhZjIwMGQtOWE4NC00YTA3LThiNjMtM2MyNjRiNTM1OWU3XkEyXkFqcGc@._V1_.jpg",
@@ -9356,8 +9375,8 @@
           "name": "Stephen Baldwin"
         },
         {
-          "id": "nm1664542",
-          "name": "Michael Irvin"
+          "id": "nm0420966",
+          "name": "Sam Sorbo"
         }
       ],
       "label": "Sep 10, 2027"
@@ -9428,6 +9447,35 @@
       ],
       "people": [],
       "label": "Sep 24, 2027"
+    },
+    {
+      "id": "tt33075482",
+      "title": "The Great Beyond",
+      "releaseDate": "Fri, 01 Oct 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "people": [
+        {
+          "id": "nm0923266",
+          "name": "Merritt Wever"
+        },
+        {
+          "id": "nm1412974",
+          "name": "Glen Powell"
+        },
+        {
+          "id": "nm0000168",
+          "name": "Samuel L. Jackson"
+        },
+        {
+          "id": "nm4911194",
+          "name": "Jenna Ortega"
+        }
+      ],
+      "label": "Oct 01, 2027"
     }
   ]
 }
