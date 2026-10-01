@@ -1,7 +1,7 @@
 {
   "teamId": "134886",
   "teamName": "Minnesota Timberwolves",
-  "updatedAt": "2026-09-24T00:04:30.106Z",
+  "updatedAt": "2026-10-01T12:29:55.537Z",
   "events": [
     {
       "idEvent": "scraped-espn-401914102",
@@ -29,8 +29,8 @@
       "strLeague": "NBA",
       "strVenue": "Hilton Coliseum",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
+      "strTVStation": "NBA TV",
+      "updatedAt": "2026-10-01T12:29:55.537Z",
       "source": "scraped"
     },
     {
@@ -59,8 +59,8 @@
       "strLeague": "NBA",
       "strVenue": "Madison Square Garden",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
+      "strTVStation": "NBA TV",
+      "updatedAt": "2026-10-01T12:29:55.537Z",
       "source": "scraped"
     },
     {

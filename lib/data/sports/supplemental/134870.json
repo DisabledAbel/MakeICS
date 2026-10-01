@@ -1,7 +1,7 @@
 {
   "teamId": "134870",
   "teamName": "Chicago Bulls",
-  "updatedAt": "2026-09-24T00:04:30.106Z",
+  "updatedAt": "2026-10-01T12:29:55.537Z",
   "events": [
     {
       "idEvent": "scraped-espn-401908939",
@@ -29,8 +29,8 @@
       "strLeague": "NBA",
       "strVenue": "United Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
+      "strTVStation": "NBA TV",
+      "updatedAt": "2026-10-01T12:29:55.537Z",
       "source": "scraped"
     },
     {
