@@ -33,3 +33,66 @@ test('stable reason categories distinguish fetch age from data horizon failures'
   const result = evaluateSource(source, { now: '2026-06-10T00:00:00Z', lastSuccess: '2026-06-01T00:00:00Z', signal: signal('2026-06-01T00:00:00Z') });
   assert.deepEqual(result.reasonCategories, ['fetch-age', 'data-horizon']);
 });
+
+const finiteTeamSchedule = {
+  ...source,
+  id: 'finite-team',
+  allowEndedSchedule: true,
+  requireDatedRecords: true
+};
+
+test('a recent successful fetch confirms a team schedule that recently ended', () => {
+  const result = evaluateSource(finiteTeamSchedule, {
+    now: '2026-06-10T00:00:00Z',
+    lastSuccess: '2026-06-10T00:00:00Z',
+    signal: signal('2026-06-01T00:00:00Z')
+  });
+  assert.equal(result.status, 'schedule-ended');
+  assert.deepEqual(result.reasonCategories, []);
+  assert.match(result.reason, /no remaining future events/);
+});
+
+test('an ended schedule with an old fetch is stale', () => {
+  const result = evaluateSource(finiteTeamSchedule, {
+    now: '2026-06-10T00:00:00Z',
+    lastSuccess: '2026-06-01T00:00:00Z',
+    signal: signal('2026-06-01T00:00:00Z')
+  });
+  assert.equal(result.status, 'stale');
+  assert.ok(result.reasonCategories.includes('fetch-age'));
+  assert.ok(result.reasonCategories.includes('data-horizon'));
+});
+
+test('an active finite source with missing or undated data is stale', () => {
+  for (const missingSignal of [
+    { newest: null, datedRecords: 0, matchedFiles: 0 },
+    { newest: null, datedRecords: 0, matchedFiles: 1 }
+  ]) {
+    const result = evaluateSource(finiteTeamSchedule, {
+      now: '2026-06-10T00:00:00Z',
+      lastSuccess: '2026-06-10T00:00:00Z',
+      signal: missingSignal
+    });
+    assert.equal(result.status, 'stale');
+    assert.deepEqual(result.reasonCategories, ['missing-data']);
+  }
+});
+
+test('an ended schedule is reported as offseason outside its active months', () => {
+  const result = evaluateSource(finiteTeamSchedule, {
+    now: '2026-12-10T00:00:00Z',
+    lastSuccess: '2026-12-09T00:00:00Z',
+    signal: signal('2026-06-01T00:00:00Z')
+  });
+  assert.equal(result.status, 'offseason');
+});
+
+test('existing active sources still enforce their configured horizon', () => {
+  const result = evaluateSource(source, {
+    now: '2026-06-10T00:00:00Z',
+    lastSuccess: '2026-06-10T00:00:00Z',
+    signal: signal('2026-06-01T00:00:00Z')
+  });
+  assert.equal(result.status, 'stale');
+  assert.deepEqual(result.reasonCategories, ['data-horizon']);
+});

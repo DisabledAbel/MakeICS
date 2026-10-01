@@ -43,7 +43,6 @@ jobs:
       - name: Fetch WNBA Schedules
         id: fetch-wnba
         run: node scripts/fetch-wnba.js
-        continue-on-error: true
 
       - name: Restore partial WNBA output after fetch failure
         if: steps.fetch-wnba.outcome != 'success'
@@ -53,13 +52,12 @@ jobs:
 
       - name: Validate and stage WNBA data
         id: validate-wnba
-        if: steps.fetch-wnba.outcome == 'success'
+        if: always() && steps.fetch-wnba.outcome == 'success'
         run: node scripts/validate-fetch-output.js wnba --stage
-        continue-on-error: true
 
       - name: Commit and Push WNBA
         id: commit-wnba
-        if: steps.fetch-wnba.outcome == 'success' && steps.validate-wnba.outcome == 'success'
+        if: always() && steps.fetch-wnba.outcome == 'success' && steps.validate-wnba.outcome == 'success'
         env:
           REF_NAME: ${{ github.ref_name }}
         run: |
@@ -79,16 +77,14 @@ jobs:
         id: fetch-portland-fire
         if: always() && steps.commit-wnba.outcome != 'failure'
         run: node scripts/fetch-portland-fire.js
-        continue-on-error: true
 
       - name: Validate and stage Portland Fire data
         id: validate-portland-fire
-        if: steps.fetch-portland-fire.outcome == 'success'
+        if: always() && steps.fetch-portland-fire.outcome == 'success'
         run: node scripts/validate-fetch-output.js portland-fire --stage
-        continue-on-error: true
 
       - name: Commit and Push Portland Fire
-        if: steps.fetch-portland-fire.outcome == 'success' && steps.validate-portland-fire.outcome == 'success'
+        if: always() && steps.fetch-portland-fire.outcome == 'success' && steps.validate-portland-fire.outcome == 'success'
         env:
           REF_NAME: ${{ github.ref_name }}
         run: |
