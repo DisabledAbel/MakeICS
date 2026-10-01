@@ -52,6 +52,16 @@ test('a recent successful fetch confirms a team schedule that recently ended', (
   assert.match(result.reason, /no remaining future events/);
 });
 
+test('incomplete future coverage is stale rather than an ended schedule', () => {
+  const result = evaluateSource(finiteTeamSchedule, {
+    now: '2026-06-10T00:00:00Z',
+    lastSuccess: '2026-06-10T00:00:00Z',
+    signal: signal('2026-06-12T00:00:00Z')
+  });
+  assert.equal(result.status, 'stale');
+  assert.deepEqual(result.reasonCategories, ['data-horizon']);
+});
+
 test('an ended schedule with an old fetch is stale', () => {
   const result = evaluateSource(finiteTeamSchedule, {
     now: '2026-06-10T00:00:00Z',
