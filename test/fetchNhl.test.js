@@ -73,6 +73,17 @@ test('a migrated legacy UID remains stable when the NHL later reschedules the ga
   assert.equal(saved.events[0].sourceEventId, '2026020001');
 });
 
+test('legacy migration never assigns one saved UID to competing NHL games', async () => {
+  const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'nhl-ambiguous-'));
+  const file = path.join(dir, '140082.json');
+  await fs.writeFile(file, JSON.stringify({ teamId: '140082', events: [{ idEvent: 'legacy-uid', dateEvent: '2026-10-11', strHomeTeam: 'Seattle Kraken', strAwayTeam: 'Anaheim Ducks' }] }));
+  const games = [game(), game({ id: 2026020002, startTimeUTC: '2026-10-12T05:30:00Z' })];
+  const fetchImpl = async url => response(url.endsWith('/standings/now') ? standings() : { games: url.includes('/SEA/') || url.includes('/ANA/') ? games : [] });
+  await fetchNhlSchedules({ fetchImpl, outputDir: dir, now: new Date('2026-10-01'), requestOptions: { attempts: 1 } });
+  const saved = JSON.parse(await fs.readFile(file));
+  assert.deepEqual(saved.events.map(event => event.idEvent), ['nhl-2026020001', 'nhl-2026020002']);
+});
+
 test('NHL team and combined calendars advertise six-hour refreshes', () => {
   const sports = sportsToIcs({ team: { sport: 'Ice Hockey' }, events: [{ id: '1', name: 'Game', league: 'NHL', timestamp: '2026-10-12T02:30:00Z', date: '2026-10-11', time: '19:30:00' }] });
   assert.match(sports, /X-PUBLISHED-TTL:PT6H/);

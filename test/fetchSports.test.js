@@ -204,6 +204,18 @@ test('refreshes Europa League without an unnecessary team lookup and produces va
   assert.equal(await fs.readFile(file, 'utf8'), before);
 });
 
+test('refreshes the NHL league cache without entering legacy supplemental discovery', async t => {
+  const dataDir = await tempDataDir(t);
+  const calls = [];
+  await main({
+    leagues: [{ id: '4380', name: 'NHL' }], dataDir, firecrawlApiKey: 'configured',
+    fetchJsonImpl: scheduleApi('4380', { calls }),
+    supplementalFetcher: () => assert.fail('dedicated NHL fetcher owns supplemental output')
+  });
+  assert.ok(await fs.readFile(path.join(dataDir, '4380.json'), 'utf8'));
+  assert.ok(!calls.some(url => url.pathname.includes('teams')));
+});
+
 test('a failed optional team lookup keeps saved supplemental data and permits league output', async t => {
   const dataDir = await tempDataDir(t);
   const supplementalDir = path.join(dataDir, 'supplemental');
