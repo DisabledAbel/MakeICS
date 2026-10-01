@@ -23879,6 +23879,14 @@
         },
         {
           "season": 3,
+          "number": 11,
+          "name": "Episode #3.11",
+          "airdate": "2026-10-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt37519724/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 3,
           "number": 12,
           "name": "Episode #3.12",
           "airdate": "2026-10-15",
@@ -31648,7 +31656,7 @@
         {
           "season": 1,
           "number": 8,
-          "name": "Episode #1.8",
+          "name": "A Midsummer Nightmare",
           "airdate": "2026-10-07",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43744759/?ref_=ttep_ep_8"
@@ -32151,7 +32159,7 @@
           "season": 2,
           "number": 5,
           "name": "The Waiting Game",
-          "airdate": "2026-10-01",
+          "airdate": "2026-10-03",
           "summary": null,
           "url": "https://www.imdb.com/title/tt47657313/?ref_=ttep_ep_5"
         },
@@ -32275,7 +32283,7 @@
           "number": 6,
           "name": "Episode #1.1",
           "airdate": "2026-09-06",
-          "summary": "Back in London, Susan Ryeland is once again corralled into the world of Atticus Pünd as he investigates a mystery in Corfu.",
+          "summary": "Back in London, Susan Ryeland (LESLEY MANVILLE) is once again corralled into the world of Atticus Pünd (TIM McMULLAN) as he investigates the death of Lady Margaret Chalfont (PATRICIA HODGE) in the Greek isle of Corfu.",
           "url": "https://www.imdb.com/title/tt42006187/?ref_=ttep_ep_1"
         },
         {
@@ -32299,7 +32307,7 @@
           "number": 27,
           "name": "Episode #1.4",
           "airdate": "2026-09-27",
-          "summary": "The murderer in Corfu claims another victim as Eliot's condition worsens and Susan finds herself under suspicion.",
+          "summary": "The murderer in Corfu claims another victim; Eliot's condition worsens and Susan unexpectedly a suspect in the murder case.",
           "url": "https://www.imdb.com/title/tt42185887/?ref_=ttep_ep_4"
         }
       ]
@@ -32741,7 +32749,7 @@
           "number": 6,
           "name": "Exit Wounds",
           "airdate": "2026-10-13",
-          "summary": null,
+          "summary": "Reeling from family revelations, Lamar falls out with Wanda and Artillery, as pressure to deliver an album builds. Searching for their own answers, Leon and James join forces.",
           "url": "https://www.imdb.com/title/tt43617221/?ref_=ttep_ep_6"
         },
         {
@@ -34673,150 +34681,6 @@
           "airdate": "2026-07-13",
           "summary": "A filmmaker revisits her evangelical roots to find connection with her estranged father.",
           "url": "https://www.imdb.com/title/tt42373174/?ref_=ttep_ep_15"
-        },
-        {
-          "season": 26,
-          "number": 1,
-          "name": "Dallas, 2019 - Ep. 1",
-          "airdate": "2025-01-03",
-          "summary": "Tornados. Drive-by shootings. Environmental racism, The stark North-South Dallas economic divide. Dallas residents and city workers like City Manager T.C. Broadnax respond to the causal effects of natural and human-caused disasters.",
-          "url": "https://www.imdb.com/title/tt34088831/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 26,
-          "number": 2,
-          "name": "Make Peace or Die: Honor the Fallen",
-          "airdate": "2024-11-11",
-          "summary": "U.S. Marine Veteran Anthony Marquez hand-carves battlefield crosses to reconnect with Gold Star families in his search for healing and peace.",
-          "url": "https://www.imdb.com/title/tt33643577/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 26,
-          "number": 3,
-          "name": "Dallas, 2019 - Ep. 3",
-          "airdate": "2025-01-03",
-          "summary": "Three spirits with longstanding Texas roots struggle with their place in the world: a transgender woman working at an LGBTQ organization; a Dallas County Court commissioner; and the director of Health and Human Services.",
-          "url": "https://www.imdb.com/title/tt34088832/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 26,
-          "number": 4,
-          "name": "Dallas, 2019 - Ep. 4",
-          "airdate": "2025-01-03",
-          "summary": "Meet a criminal district attorney bringing reform to the justice system; a judge who is dedicated to breaking cycles of incarceration; the owner of the largest bail bonds company in Dallas; and a community organizer with a mighty voice.",
-          "url": "https://www.imdb.com/title/tt34669451/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 26,
-          "number": 5,
-          "name": "Dallas, 2019 - Ep. 5",
-          "airdate": "2025-01-03",
-          "summary": "Featuring intimate stories of workers and young people-the chief medical examiner, a hospital worker, an auto body shop owner, and a high school senior-who all in their own ways make Dallas what it is.",
-          "url": "https://www.imdb.com/title/tt34669449/?ref_=ttep_ep_7"
-        },
-        {
-          "season": 26,
-          "number": 8,
-          "name": "Minted",
-          "airdate": "2025-01-06",
-          "summary": "An insider's look at the rise and fall of the NFT (non-fungible token) phenomenon and how technology transformed the traditional art world, for better and worse.",
-          "url": "https://www.imdb.com/title/tt34061703/?ref_=ttep_ep_8"
-        },
-        {
-          "season": 26,
-          "number": 9,
-          "name": "Without Arrows",
-          "airdate": "2025-01-13",
-          "summary": "After 13 years living in Philadelphia, Delwin Fiddler Jr., a champion grass dancer, embraces indigenous culture by returning to his ancestral home on the Cheyenne River Reservation in South Dakota.",
-          "url": "https://www.imdb.com/title/tt34061704/?ref_=ttep_ep_9"
-        },
-        {
-          "season": 26,
-          "number": 10,
-          "name": "The Strike",
-          "airdate": "2025-02-03",
-          "summary": "The Pelican Bay prison was designed for mass-scale solitary confinement, often for a decade or more, and with little due process. In 2013, 30,000 prisoners went on a hunger strike that spread into a feat of unity across California prisons.",
-          "url": "https://www.imdb.com/title/tt35418103/?ref_=ttep_ep_10"
-        },
-        {
-          "season": 26,
-          "number": 11,
-          "name": "The In Between",
-          "airdate": "2025-02-10",
-          "summary": "Following her brother's death, a filmmaker returns to Eagle Pass, the Texas bordertown where she grew up, to document the places that shaped their family.",
-          "url": "https://www.imdb.com/title/tt34861506/?ref_=ttep_ep_11"
-        },
-        {
-          "season": 26,
-          "number": 12,
-          "name": "Skin of Glass",
-          "airdate": "2025-02-17",
-          "summary": "A filmmaker discovers that her architect father's building in Sao Paulo, the 24 story \"Pelr de Vidro\" is inhabited by unhoused people.",
-          "url": "https://www.imdb.com/title/tt34778695/?ref_=ttep_ep_12"
-        },
-        {
-          "season": 26,
-          "number": 13,
-          "name": "Bike Vessel",
-          "airdate": "2025-02-24",
-          "summary": "After several health crises, a 70-year-old man embarks on a transformative long-distance cycling trip with his son.",
-          "url": "https://www.imdb.com/title/tt34778708/?ref_=ttep_ep_13"
-        },
-        {
-          "season": 26,
-          "number": 14,
-          "name": "Home Court",
-          "airdate": "2025-03-24",
-          "summary": "Home Court is the coming-of-age story of Ashley Chea, a Cambodian American basketball prodigy in Southern California whose life intensifies as recruitment heats up.",
-          "url": "https://www.imdb.com/title/tt35153945/?ref_=ttep_ep_14"
-        },
-        {
-          "season": 26,
-          "number": 15,
-          "name": "We Want the Funk!",
-          "airdate": "2025-04-08",
-          "summary": "A musical journey exploring funk's evolution from African, soul and jazz origins through James Brown, Parliament Funkadelic, Labelle and Fela Kuti, showing its impact on new wave and hip-hop.",
-          "url": "https://www.imdb.com/title/tt36325769/?ref_=ttep_ep_15"
-        },
-        {
-          "season": 26,
-          "number": 16,
-          "name": "Free for All: The Public Library",
-          "airdate": "2025-04-29",
-          "summary": "The women behind the \"Free Library Movement\" to the librarians who service the public amid the age of closures and book bans, create a civic institution that is free and open to all.",
-          "url": "https://www.imdb.com/title/tt35728299/?ref_=ttep_ep_16"
-        },
-        {
-          "season": 26,
-          "number": 17,
-          "name": "Matter of Mind: My Alzheimer's",
-          "airdate": "2025-05-05",
-          "summary": "A portrayal of three families confronting the unique challenges of Alzheimer's, and how the disease transforms roles and relationships.",
-          "url": "https://www.imdb.com/title/tt35838377/?ref_=ttep_ep_17"
-        },
-        {
-          "season": 26,
-          "number": 18,
-          "name": "And So It Begins",
-          "airdate": "2025-05-12",
-          "summary": "See how the Philippines' tense race for president in 2022 became the nation's fight for its soul.",
-          "url": "https://www.imdb.com/title/tt35838378/?ref_=ttep_ep_18"
-        },
-        {
-          "season": 26,
-          "number": 19,
-          "name": "Who Is Michael Jang?",
-          "airdate": "2025-05-19",
-          "summary": "San Francisco photographer Michael Jang sat for decades on a hidden treasure of pictures taken in his 20s. Until now.",
-          "url": "https://www.imdb.com/title/tt35838379/?ref_=ttep_ep_19"
-        },
-        {
-          "season": 26,
-          "number": 30,
-          "name": "One Person, One Vote?",
-          "airdate": "2024-09-30",
-          "summary": "One Person, One Vote? unveils the complexities of the Electoral College, the uniquely American and often misunderstood mechanism for electing a president.",
-          "url": "https://www.imdb.com/title/tt33582386/?ref_=ttep_ep_1"
         }
       ]
     },
@@ -35180,8 +35044,16 @@
           "number": 4,
           "name": "The Angler",
           "airdate": "2026-10-06",
-          "summary": null,
+          "summary": "A murder at a fishing tournament reels R.J. into a case that becomes deeply personal when a figure from his past resurfaces.",
           "url": "https://www.imdb.com/title/tt46669920/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Better Luck Tomorrow",
+          "airdate": "2026-10-13",
+          "summary": "R.J. and his dad must discover who has been gas lighting the caretaker at a senior living community. They'll have to unwind a murderous scheme that has R.J.'s client convinced he's living the same day in a loop.",
+          "url": "https://www.imdb.com/title/tt47723141/?ref_=ttep_ep_5"
         },
         {
           "season": 2,
@@ -35554,6 +35426,14 @@
           "airdate": "2026-09-23",
           "summary": "In a fascinating exploration of human ingenuity, see how indigenous communities in North America have long practiced a distinct version of science and engineering.",
           "url": "https://www.imdb.com/title/tt43697142/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 53,
+          "number": 30,
+          "name": "Stone Age Masterpiece",
+          "airdate": "2026-09-30",
+          "summary": "In southern France lies the Chauvet Cave, an archaeological treasure hidden from the world. Sealed by a rockfall 20,000 years ago, and rediscovered in 1994. Step into the stunning cave that's reshaping our understanding of prehistoric art.",
+          "url": "https://www.imdb.com/title/tt43619077/?ref_=ttep_ep_11"
         },
         {
           "season": 52,
@@ -36843,7 +36723,7 @@
         {
           "season": 59,
           "number": 20,
-          "name": "Patrick Clancy/AI Data Centers/Shergar, Where are you?",
+          "name": "Patrick Clancy/The Data Center Next Door/Shergar, Where are you?",
           "airdate": "2026-09-20",
           "summary": "First, Patrick Clancy: The 60 Minutes Interview. Then, data center plans boom despite heavy backlash. And, inside the unsolved kidnapping of Shergar.",
           "url": "https://www.imdb.com/title/tt47722932/?ref_=ttep_ep_2"
@@ -37307,6 +37187,14 @@
           "airdate": "2026-10-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt40336401/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Episode #2.4",
+          "airdate": "2026-10-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40336404/?ref_=ttep_ep_4"
         },
         {
           "season": 2,
@@ -37979,6 +37867,14 @@
         },
         {
           "season": 3,
+          "number": 4,
+          "name": "Episode #3.4",
+          "airdate": "2026-10-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40548583/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
           "number": 22,
           "name": "Wherefore Art Thou",
           "airdate": "2026-09-22",
@@ -38547,6 +38443,14 @@
         },
         {
           "season": 2,
+          "number": 4,
+          "name": "It's All About the Balance",
+          "airdate": "2026-10-14",
+          "summary": "The remaining contestants compete in five games, \"Tangled Up\", \"Ball Balance\", \"No Mean Feet\", \"Pizza Stack\" and \"Piggy Bank Roll\".",
+          "url": "https://www.imdb.com/title/tt47786931/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
           "number": 23,
           "name": "Do You Believe in Miracles?",
           "airdate": "2026-09-23",
@@ -38675,6 +38579,14 @@
           "airdate": "2026-10-08",
           "summary": "After an intense dinner final, Chef Ramsay gives the teams a break with a day full of water slides and burger sliders at Great Wolf Lodge. What begins as a holiday turns into flames with a fierce red vs. blue team slider stakeout judged by Paul Wahlberg, co-founder of Wahlburgers.",
           "url": "https://www.imdb.com/title/tt47276998/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 25,
+          "number": 4,
+          "name": "Hell's Kitchen University",
+          "airdate": "2026-10-15",
+          "summary": "The chefs get a glimpse of college life and compete in a beer pong-themed challenge to decide who can best pair alcohol with their protein.",
+          "url": "https://www.imdb.com/title/tt47737482/?ref_=ttep_ep_4"
         },
         {
           "season": 25,
@@ -40712,6 +40624,38 @@
         },
         {
           "season": 2,
+          "number": 5,
+          "name": "Episode #2.5",
+          "airdate": "2026-10-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624412/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Episode #2.6",
+          "airdate": "2026-10-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624413/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Episode #2.7",
+          "airdate": "2026-11-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624414/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Episode #2.8",
+          "airdate": "2026-11-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624416/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
           "number": 30,
           "name": "My First Time in a While",
           "airdate": "2026-09-30",
@@ -42408,10 +42352,42 @@
         {
           "season": 12,
           "number": 1,
-          "name": "Episode #12.1",
+          "name": "Don't Be Shy in the Chi",
           "airdate": "2026-10-02",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45595450/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 12,
+          "number": 2,
+          "name": "Second Chances in the Second City",
+          "airdate": "2026-10-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47816521/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 12,
+          "number": 3,
+          "name": "Stepping Into Your Chicago",
+          "airdate": "2026-10-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47816533/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 12,
+          "number": 4,
+          "name": "Exes and Ohs",
+          "airdate": "2026-10-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47816545/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 12,
+          "number": 5,
+          "name": "Curious About the Pickle",
+          "airdate": "2026-10-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47816556/?ref_=ttep_ep_5"
         },
         {
           "season": 11,
@@ -46202,7 +46178,7 @@
       "episodes": [
         {
           "season": 1,
-          "number": 1,
+          "number": 29,
           "name": "The Good, the Bad and the Unlucky",
           "airdate": "2026-09-29",
           "summary": "As the first weekend of the busy season kicks off at the Golden Nugget, a missing $1,000 chip sparks a high-tech and hotel-wide hunt to find the person who took it.",
@@ -47250,7 +47226,7 @@
         {
           "season": 14,
           "number": 2,
-          "name": "Episode #14.2",
+          "name": "Don't Blink",
           "airdate": "2026-10-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43985937/?ref_=ttep_ep_2"
@@ -47438,6 +47414,968 @@
           "airdate": "2026-05-13",
           "summary": "When a key witness refuses to cooperate, the Intelligence Unit is forced to rethink their strategy to locate a fleeing suspect. Imani must confront her past before it's too late.",
           "url": "https://www.imdb.com/title/tt38744695/?ref_=ttep_ep_21"
+        }
+      ]
+    },
+    "tt31589662": {
+      "imdbId": "tt31589662",
+      "title": "Georgie & Mandy's First Marriage",
+      "episodes": [
+        {
+          "season": 3,
+          "number": 1,
+          "name": "Episode #3.1",
+          "airdate": "2026-10-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39389679/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 1,
+          "name": "A Tie Breaker and a Huge Mistake",
+          "airdate": "2025-10-16",
+          "summary": "Tensions rise in the tire store when new co-owners Georgie and Ruben realize they can't agree on anything; Jim struggles to find his purpose now that he's retired.",
+          "url": "https://www.imdb.com/title/tt35856959/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "name": "Fan Mail and Old-Timey Organ Music",
+          "airdate": "2025-10-23",
+          "summary": "Georgie is upset when Mandy's new role as weekend weather girl gets her more attention from the men in town; Connor turns to Jim for help when he's asked to play the organ at the high school baseball game.",
+          "url": "https://www.imdb.com/title/tt38626654/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "name": "A Will and a Dead Man's Wife",
+          "airdate": "2025-10-30",
+          "summary": "Georgie has difficulty accepting his mom's return to dating. At the same time, Jim and Audrey face challenges creating their wills.",
+          "url": "https://www.imdb.com/title/tt38689231/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Dirty Hands and a Barbed-Wire Fence",
+          "airdate": "2025-11-06",
+          "summary": "Georgie and Ruben must fight back when Fred Fagenbacher threatens their business, while Mandy starts doubting Georgie's honesty.",
+          "url": "https://www.imdb.com/title/tt38689232/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "A Pregnancy Test and an Old Man's Gallbladder",
+          "airdate": "2025-11-13",
+          "summary": "Georgie's jealousy rears its head when Mandy gets sent on an overnight work trip with her ex and current boss, Scott; Jim and Audrey panic when they find a pregnancy test in Connor's trash.",
+          "url": "https://www.imdb.com/title/tt38689233/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Heartbreak and the Refuge of the Downtrodden",
+          "airdate": "2025-11-20",
+          "summary": "Georgie, Mandy and the family do their best to lift Connor's spirits during a rough patch; Connor tries to figure out a plan for his life.",
+          "url": "https://www.imdb.com/title/tt38689234/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "A Bus Bench and Faith out the Wazoo",
+          "airdate": "2025-12-04",
+          "summary": "Audrey and Mary's rivalry resurfaces as Georgie seeks their help at the tire store, while Jim faces aging concerns after going to the DMV.",
+          "url": "https://www.imdb.com/title/tt38689235/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "name": "Bitin', Spankin' and a Load of Yankee Psychobabble",
+          "airdate": "2025-12-11",
+          "summary": "Georgie and Mandy get upset when Audrey disciplines CeeCee without their permission.",
+          "url": "https://www.imdb.com/title/tt38689236/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "name": "Payback and a Partial Shebang",
+          "airdate": "2025-12-18",
+          "summary": "Georgie's feud with a rival store threatens his partnership with Ruben; Mandy finds out Georgie's been keeping secrets from her.",
+          "url": "https://www.imdb.com/title/tt38689237/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Miami Beach and a Magical Family Christmas",
+          "airdate": "2025-12-18",
+          "summary": "Georgie and Mandy juggle their work and family when Audrey announces a surprise Christmas trip.",
+          "url": "https://www.imdb.com/title/tt38689238/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "A New Hobby, a Pervert and a Part-Time Job",
+          "airdate": "2026-02-26",
+          "summary": "Audrey and Mandy urge Jim to find a new hobby now that he's retired and driving them crazy.",
+          "url": "https://www.imdb.com/title/tt38996341/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "name": "The G Word and a Blaspheming Bimbo",
+          "airdate": "2026-03-05",
+          "summary": "Mandy makes a controversial remark on live TV that puts her job, Georgie's business and the family's reputation at risk.",
+          "url": "https://www.imdb.com/title/tt39377751/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "name": "A Big Birthday and Tequila Shots",
+          "airdate": "2026-03-12",
+          "summary": "Mandy struggles to celebrate Georgie's 21st birthday after hitting a rough patch in her career.",
+          "url": "https://www.imdb.com/title/tt39377753/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "name": "Three Angry Women and a Prophylactic",
+          "airdate": "2026-04-02",
+          "summary": "Mandy's attempt to help Missy with boys backfires when Mary finds out and Georgie is caught in the crossfire.",
+          "url": "https://www.imdb.com/title/tt39377758/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "name": "A Stuffed Monkey and an Ex-Girlfriend",
+          "airdate": "2026-04-09",
+          "summary": "When CeeCee loses her favorite toy, Mandy and Meemaw take it as an opportunity to make some money; Connor contemplates revisiting an old relationship.",
+          "url": "https://www.imdb.com/title/tt39365575/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 2,
+          "number": 16,
+          "name": "Alpha Males and the Power of Prayer",
+          "airdate": "2026-04-16",
+          "summary": "Mandy tries to make things right with Pastor Jeff when she learns her controversial comments have hurt the tire store's business; Jim and Audrey butt heads over Connor's allowance.",
+          "url": "https://www.imdb.com/title/tt39389491/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 2,
+          "number": 17,
+          "name": "A Country Club, a Yokel and a New Boss",
+          "airdate": "2026-04-23",
+          "summary": "Georgie's plan to make new clients at the local country club backfires when its outdated policies upset Audrey; Mandy struggles to prove herself at work.",
+          "url": "https://www.imdb.com/title/tt39389480/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "name": "A New Scoreboard and a Horse's You Know What",
+          "airdate": "2026-04-30",
+          "summary": "Georgie and Fagenbacher go head to head when Fagenbacher tries to sabotage Georgie's attempt to honor his dad.",
+          "url": "https://www.imdb.com/title/tt39389477/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "name": "A Little Schmoozin' and a Nose for the News",
+          "airdate": "2026-05-07",
+          "summary": "Georgie's plan to get on the news sparks a feud between Mandy and a rival weather girl; Mandy tries to use the conflict to help her career.",
+          "url": "https://www.imdb.com/title/tt39389482/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 2,
+          "number": 20,
+          "name": "Splurges and Secrets",
+          "airdate": "2026-05-14",
+          "summary": "Georgie receives unexpected money and buys something questionable. Audrey and Jim clash over secrets from the past.",
+          "url": "https://www.imdb.com/title/tt39389466/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 2,
+          "number": 21,
+          "name": "Funky Chili and Friends Who Take Their Clothes Off",
+          "airdate": "2026-05-21",
+          "summary": "Mandy and Jim butt heads when they take over the store for a sick Georgie and Ruben. Meanwhile, Audrey panics when Connor rekindles an old flame.",
+          "url": "https://www.imdb.com/title/tt41616830/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 2,
+          "number": 22,
+          "name": "A New Beau and Someone Else's Mom's House",
+          "airdate": "2026-05-21",
+          "summary": "Georgie and Mandy take matters into their own hands when Mary starts warming up to Fagenbacher. Also, Audrey struggles to cope with Connor's absence.",
+          "url": "https://www.imdb.com/title/tt41702505/?ref_=ttep_ep_22"
+        }
+      ]
+    },
+    "tt33078239": {
+      "imdbId": "tt33078239",
+      "title": "Eternally Yours",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Pilot",
+          "airdate": "2026-10-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40337132/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt0203259": {
+      "imdbId": "tt0203259",
+      "title": "Law & Order: Special Victims Unit",
+      "episodes": [
+        {
+          "season": 28,
+          "number": 1,
+          "name": "Volition",
+          "airdate": "2026-10-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41856365/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 28,
+          "number": 2,
+          "name": "Midway",
+          "airdate": "2026-10-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42205965/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 28,
+          "number": 3,
+          "name": "Episode #28.3",
+          "airdate": "2026-10-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42222353/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 28,
+          "number": 4,
+          "name": "Episode #28.4",
+          "airdate": "2026-10-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42257885/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 28,
+          "number": 5,
+          "name": "Episode #28.5",
+          "airdate": "2026-11-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42257887/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 27,
+          "number": 2,
+          "name": "A Waiver of Consent",
+          "airdate": "2025-10-02",
+          "summary": "When a member of an elite social club is assaulted, Carisi must convince other members to testify despite the club's strict confidentiality policy.",
+          "url": "https://www.imdb.com/title/tt37748414/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 27,
+          "number": 3,
+          "name": "A Vicious Circle",
+          "airdate": "2025-10-09",
+          "summary": "Bruno suspects a bomb was planted in a lab to destroy DNA evidence and Benson takes on a murder investigation related to the bombing.",
+          "url": "https://www.imdb.com/title/tt37793162/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 27,
+          "number": 4,
+          "name": "Clickbait",
+          "airdate": "2025-10-16",
+          "summary": "After a tween's near-fatal miscarriage, SVU investigates online deceptions to find the culprit, while Rollins considers her professional future.",
+          "url": "https://www.imdb.com/title/tt37855564/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 27,
+          "number": 5,
+          "name": "Feed the Craving",
+          "airdate": "2025-10-23",
+          "summary": "A laboring woman is kidnapped. Rollins and Curry seek her doula's testimony while Carisi works to secure a confession during jury proceedings.",
+          "url": "https://www.imdb.com/title/tt37994226/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 27,
+          "number": 6,
+          "name": "Under the Influence",
+          "airdate": "2025-10-30",
+          "summary": "The squad investigates an assault at a house party where no one can identify the assailant. When two suspects are detained for questioning, Rollins takes the chance to turn one against the other.",
+          "url": "https://www.imdb.com/title/tt38274681/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 27,
+          "number": 7,
+          "name": "False Idols",
+          "airdate": "2025-11-13",
+          "summary": "The SVU must determine fact from fiction when a famous author twists the details of a serious crime. Fin has a challenging day at work.",
+          "url": "https://www.imdb.com/title/tt38534041/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 27,
+          "number": 8,
+          "name": "Showdown",
+          "airdate": "2025-11-20",
+          "summary": "A detective investigates inconsistencies when a man reports his girlfriend's kidnapping, while Tynan confronts Benson and Griffin faces scrutiny over his police work.",
+          "url": "https://www.imdb.com/title/tt38593342/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 27,
+          "number": 9,
+          "name": "Purity",
+          "airdate": "2026-01-08",
+          "summary": "A murder suspect's pursuit reveals a crime with disturbing legal implications. During a raid, Bruno protects his team while Carisi and Price join forces in court.",
+          "url": "https://www.imdb.com/title/tt38607235/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 27,
+          "number": 10,
+          "name": "Fidelis Ad Mortem",
+          "airdate": "2026-01-15",
+          "summary": "When Curry's son finds a disturbing cassette tape in a thrift store haul, she and Benson must investigate a decades-old missing persons case; Griffin learns a disturbing rumor about his father.",
+          "url": "https://www.imdb.com/title/tt39205091/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 27,
+          "number": 11,
+          "name": "Career Psychopath",
+          "airdate": "2026-01-22",
+          "summary": "When a stranger threatens Rollins and Carisi's lives, they suspect it's connected to a case they worked together; Benson asks an old friend to come out of retirement for help with an investigation.",
+          "url": "https://www.imdb.com/title/tt39205101/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 27,
+          "number": 12,
+          "name": "Hubris",
+          "airdate": "2026-01-29",
+          "summary": "A teen saved from danger pleads with Benson to reunite her with her father. Carisi and CJ challenge the foster system for splitting up families without adequate evidence.",
+          "url": "https://www.imdb.com/title/tt39239470/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 27,
+          "number": 13,
+          "name": "Corrosive",
+          "airdate": "2026-02-26",
+          "summary": "A judge survives an attack linked to an anonymous video sent to SVU. Rollins supports a victim struggling to accept what happened to them.",
+          "url": "https://www.imdb.com/title/tt38681608/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 27,
+          "number": 14,
+          "name": "Frequency",
+          "airdate": "2026-03-05",
+          "summary": "A family's baby monitor picks up a rogue signal showing a boy in danger. Griffin searches desperately for his location while Rollins faces a predator alone.",
+          "url": "https://www.imdb.com/title/tt39317107/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 27,
+          "number": 15,
+          "name": "Thirsty",
+          "airdate": "2026-03-12",
+          "summary": "An assault report at a fan convention escalates into a murder case; Tynan offers Capt. Curry a career advancement.",
+          "url": "https://www.imdb.com/title/tt39366093/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 27,
+          "number": 16,
+          "name": "Vivid",
+          "airdate": "2026-04-02",
+          "summary": "With little evidence to guide them, the SVU steps in when a woman undergoing psychedelic-assisted therapy recovers a buried memory of assault. Curry starts a new position at SVU.",
+          "url": "https://www.imdb.com/title/tt39402077/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 27,
+          "number": 17,
+          "name": "Deep Under",
+          "airdate": "2026-04-09",
+          "summary": "Benson is shocked to find undercover Detective Velasco at the center of a sex trafficking bust; when more women are smuggled into the city, a rescued victim begs SVU to help save her sister.",
+          "url": "https://www.imdb.com/title/tt39392379/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 27,
+          "number": 18,
+          "name": "Gimmick",
+          "airdate": "2026-04-23",
+          "summary": "A hotel death draws the squad into professional fighting. Benson urges a victim to speak up to help a friend.",
+          "url": "https://www.imdb.com/title/tt39469487/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 27,
+          "number": 19,
+          "name": "Impropriety",
+          "airdate": "2026-04-30",
+          "summary": "An unconscious, injured teen left at a hospital prompts SVU to find those responsible. Benson faces serious repercussions when she protects a victim's secret during cross-examination.",
+          "url": "https://www.imdb.com/title/tt39753143/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 27,
+          "number": 20,
+          "name": "Old Friends",
+          "airdate": "2026-05-07",
+          "summary": "A drug-fueled college reunion ends in sexual assault. The squad investigates conflicting stories and buried secrets. Fin leads the squadroom through turmoil and keeps the case moving despite internal pressure from Tynan.",
+          "url": "https://www.imdb.com/title/tt40259908/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 27,
+          "number": 21,
+          "name": "Monster",
+          "airdate": "2026-05-14",
+          "summary": "A procedural error during a kidnapped boy's rescue causes the case to fail in court. Griffin's investigation into Tynan puts him in serious danger.",
+          "url": "https://www.imdb.com/title/tt40298201/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 27,
+          "number": 25,
+          "name": "In the Wind",
+          "airdate": "2025-09-25",
+          "summary": "Danger swirls around the squad as they investigate a suspect for rape and try to protect their key witness; a new chief of detectives puts Benson to the test; an off-duty Fin tries to stop an assault in progress.",
+          "url": "https://www.imdb.com/title/tt36861469/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt15557874": {
+      "imdbId": "tt15557874",
+      "title": "The Traitors",
+      "episodes": [
+        {
+          "season": 5,
+          "number": 5,
+          "name": "Episode #5.5",
+          "airdate": "2026-10-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39242459/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 5,
+          "number": 6,
+          "name": "Episode #5.6",
+          "airdate": "2026-10-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39242460/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
+          "number": 7,
+          "name": "Episode #5.7",
+          "airdate": "2026-10-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39242461/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 5,
+          "number": 8,
+          "name": "Episode #5.8",
+          "airdate": "2026-10-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39242462/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 5,
+          "number": 9,
+          "name": "Episode #5.9",
+          "airdate": "2026-11-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39242464/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 5,
+          "number": 10,
+          "name": "Episode #5.10",
+          "airdate": "2026-11-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39242465/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 5,
+          "number": 11,
+          "name": "Episode #5.11",
+          "airdate": "2026-11-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46104641/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 5,
+          "number": 12,
+          "name": "Episode #5.12",
+          "airdate": "2026-11-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt46104654/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 5,
+          "number": 17,
+          "name": "A New Dawn Is Rising",
+          "airdate": "2026-09-17",
+          "summary": "Alan Cumming opens the doors of his castle to 22 everyday Americans for the ultimate game of deception and a chance to win up to $250,000; the Traitors are chosen, the Faithful are under pressure and things get off to an explosive start.",
+          "url": "https://www.imdb.com/title/tt33098995/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 24,
+          "name": "The Traitors Are Watching",
+          "airdate": "2026-09-24",
+          "summary": "The Traitors are forced to make a difficult decision that could change the fate of the entire game; in a high-stakes mission, the players face a series of dilemmas and critical information that threatens to put the Traitors at risk.",
+          "url": "https://www.imdb.com/title/tt39242457/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt26591110": {
+      "imdbId": "tt26591110",
+      "title": "Elsbeth",
+      "episodes": [
+        {
+          "season": 4,
+          "number": 1,
+          "name": "Crazy in Love",
+          "airdate": "2026-10-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39389742/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Death of a Playwright",
+          "airdate": "2026-10-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43081940/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Episode #4.3",
+          "airdate": "2026-10-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43296439/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Episode #4.4",
+          "airdate": "2026-10-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43328542/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "Episode #4.5",
+          "airdate": "2026-11-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43637533/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 1,
+          "name": "Yes, And...",
+          "airdate": "2025-10-12",
+          "summary": "Elsbeth dives into the world of late-night comedy when tensions rise between a talk-show host, his head writer Laurel, and her on-air sidekick husband Mickey; she also meets a new police officer who is an aspiring stand-up comic.",
+          "url": "https://www.imdb.com/title/tt35856948/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "name": "Doll Day Afternoon",
+          "airdate": "2025-10-16",
+          "summary": "When a murder investigation at a famous New York toy store turns into a hostage crisis, Elsbeth must negotiate with Nolan, the hapless ex-con inside. Outside, Captain Wagner clashes with a reckless rival who could turn the standoff deadly.",
+          "url": "https://www.imdb.com/title/tt37544785/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "Good Grief",
+          "airdate": "2025-10-23",
+          "summary": "When \"grief influencer\" Raquel Drabowski's presumed-dead husband makes a miraculous return, their reunion takes a fatal plunge. Meanwhile, Elsbeth's surprise reunion with an old friend could expose a dangerous undercover operation.",
+          "url": "https://www.imdb.com/title/tt37956058/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "Ick, A Bod",
+          "airdate": "2025-10-30",
+          "summary": "Elsbeth must separate trick from treat when a rivalry reaches a ghoulish climax on Halloween night after a suburban homemaker butts heads with a new neighbor; Captain Wagner makes a frightening discovery about his daughter.",
+          "url": "https://www.imdb.com/title/tt38145366/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "name": "Poetic Justice",
+          "airdate": "2025-11-06",
+          "summary": "After a donor's death shakes New York City art scene, Elsbeth questions the motives of the victim's friend Gary, the founder of a poetry journal; Elsbeth runs into her old friend Marissa Gold, who is working for a mayoral candidate.",
+          "url": "https://www.imdb.com/title/tt38593351/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "name": "Bunker Down",
+          "airdate": "2025-11-13",
+          "summary": "When a crisis manager vanishes inside a billionaire's panic room, Elsbeth unravels the highly-equipped fortresses that blur the lines between security and paranoia; Elsbeth meets the late Judge Crawford's widow, Winnie.",
+          "url": "https://www.imdb.com/title/tt38593685/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "name": "And Then There Were Nuns",
+          "airdate": "2025-11-20",
+          "summary": "A pop star's purchase of a failing convent turns divine real estate into a murder scene as Elsbeth takes on the Mother of all nuns. Meanwhile, Teddy digs into Alec Bloom's past for a feature he's writing.",
+          "url": "https://www.imdb.com/title/tt38607228/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "name": "Basket Case",
+          "airdate": "2025-12-04",
+          "summary": "Elsbeth goes from the squad room to the locker room when a campus murder rocks the world of college basketball after an athletic director winds up dead following a heated confrontation with his basketball coach's 22-year-old girlfriend.",
+          "url": "https://www.imdb.com/title/tt38681599/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "name": "Glamazons",
+          "airdate": "2025-12-11",
+          "summary": "A fallen '90s supermodel returns to New York for a reunion and revenge, leading Elsbeth to sort through old grudges and lies to catch a killer. Meanwhile, Officer Hackett takes her turn in the spotlight",
+          "url": "https://www.imdb.com/title/tt38947350/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "name": "A Hard Nut to Crack",
+          "airdate": "2025-12-18",
+          "summary": "When an avant-garde choreographer's \"Nutcracker\" rehearsal turns deadly, Elsbeth leaps into the cutthroat world of New York ballet.",
+          "url": "https://www.imdb.com/title/tt38914021/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 3,
+          "number": 11,
+          "name": "Ol' Man Liver",
+          "airdate": "2026-02-26",
+          "summary": "Elsbeth battles a wealthy biohacker who will do anything to stay young, including an extreme diet, vigorous exercise, and murder.",
+          "url": "https://www.imdb.com/title/tt38970867/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 3,
+          "number": 12,
+          "name": "All's Hair",
+          "airdate": "2026-03-05",
+          "summary": "When a celebrity wigmaker is murdered, Elsbeth must comb through a tangled mess of suspects, and some drag brunch mayhem, to clip a killer",
+          "url": "https://www.imdb.com/title/tt39008910/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 3,
+          "number": 13,
+          "name": "Murder Six Across",
+          "airdate": "2026-03-12",
+          "summary": "After the famed editor of the daily puzzle is murdered at the annual crossword championship, Elsbeth infiltrates the world of elite puzzle solvers to find the champion who will do whatever it takes to win.",
+          "url": "https://www.imdb.com/title/tt39008915/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 3,
+          "number": 14,
+          "name": "Deadutante",
+          "airdate": "2026-04-02",
+          "summary": "After a powerful patriarch is stabbed with a sword at New York's most exclusive debutante ball, Elsbeth must engage in hand in glove combat with the imperious ball director",
+          "url": "https://www.imdb.com/title/tt39008918/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 3,
+          "number": 15,
+          "name": "Otherwise Enraged",
+          "airdate": "2026-04-09",
+          "summary": "When a serial bride is found bludgeoned in her apartment, Elsbeth investigates the victim's best friend, a particularly experienced, and bitter bridesmaid.",
+          "url": "https://www.imdb.com/title/tt39008921/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 3,
+          "number": 16,
+          "name": "Murder, He Wrote",
+          "airdate": "2026-04-16",
+          "summary": "Elsbeth organizes a book club to investigate a celebrated novelist who may have written the perfect crime",
+          "url": "https://www.imdb.com/title/tt39008926/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 3,
+          "number": 17,
+          "name": "High Class Problems",
+          "airdate": "2026-04-30",
+          "summary": "After a billionaire's son dies in a motorcycle crash, Elsbeth investigates a wealth therapist whose knowledge of her patients' secrets led to murder.",
+          "url": "https://www.imdb.com/title/tt39008930/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 3,
+          "number": 18,
+          "name": "Murder from Scratch",
+          "airdate": "2026-05-07",
+          "summary": "When an ambitious filmmaker dies in a suspicious cleaning accident, Elsbeth focuses on the subject of her final documentary: a \"trad wife\" whose from-scratch lifestyle included a deadly ingredient.",
+          "url": "https://www.imdb.com/title/tt39008932/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 3,
+          "number": 19,
+          "name": "Catch and Kill",
+          "airdate": "2026-05-14",
+          "summary": "Elsbeth battles a veteran gossip columnist who trades in people's secrets, and may have killed to keep her own.",
+          "url": "https://www.imdb.com/title/tt39008940/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 3,
+          "number": 20,
+          "name": "That's All",
+          "airdate": "2026-05-21",
+          "summary": "A minor royal's mysterious death at New York's most legendary hotel brings Elsbeth into a world of faded elegance, cabaret, and murder.",
+          "url": "https://www.imdb.com/title/tt39008941/?ref_=ttep_ep_20"
+        }
+      ]
+    },
+    "tt0098844": {
+      "imdbId": "tt0098844",
+      "title": "Law & Order",
+      "episodes": [
+        {
+          "season": 26,
+          "number": 1,
+          "name": "Ghost in the Machine",
+          "airdate": "2026-10-08",
+          "summary": "A software engineer's murder sends Riley and Walker into the rapidly evolving world of A.I. As Baxter pursues justice in a groundbreaking case, he's confronted with a technology advancing faster than the laws designed to govern it.",
+          "url": "https://www.imdb.com/title/tt42576866/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 26,
+          "number": 2,
+          "name": "Into the Mystic",
+          "airdate": "2026-10-15",
+          "summary": "Price and Walker are forced off a high-stakes case when their connection to a murder suspect creates a conflict of interest. Baxter faces mounting pressure when a key witness for the prosecution suddenly changes their story.",
+          "url": "https://www.imdb.com/title/tt42625204/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 26,
+          "number": 3,
+          "name": "Episode #26.3",
+          "airdate": "2026-10-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43081641/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 26,
+          "number": 4,
+          "name": "Episode #26.4",
+          "airdate": "2026-10-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43296541/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 26,
+          "number": 5,
+          "name": "Episode #26.5",
+          "airdate": "2026-11-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43328546/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 25,
+          "number": 2,
+          "name": "Hindsight",
+          "airdate": "2025-10-02",
+          "summary": "Brady and Riley must sort through a list of rivals to pinpoint a suspect when a star music student is murdered on the way home from school; Price finds a surprising name on the defense's witness list.",
+          "url": "https://www.imdb.com/title/tt37894480/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 25,
+          "number": 3,
+          "name": "White Lies",
+          "airdate": "2025-10-09",
+          "summary": "A bulldog investment fund manager is murdered in the midst of a client's big takeover. Price goes to desperate lengths to prove the suspect's motive.",
+          "url": "https://www.imdb.com/title/tt37956054/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 25,
+          "number": 4,
+          "name": "Two and Twenty",
+          "airdate": "2025-10-16",
+          "summary": "A billionaire banker is murdered and the 2-7 must investigate his many clients and employees. Price and Maroun struggle to keep the jury's focus on the crime and not the victim's darker side.",
+          "url": "https://www.imdb.com/title/tt37994221/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 25,
+          "number": 5,
+          "name": "Bend the Knee",
+          "airdate": "2025-10-23",
+          "summary": "A law partner with prominent government clients is murdered. Baxter must consider making political concessions for the case to be a success.",
+          "url": "https://www.imdb.com/title/tt37778861/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 25,
+          "number": 6,
+          "name": "Brotherly Love",
+          "airdate": "2025-10-30",
+          "summary": "A respected restauranteur with a gambling problem is murdered, and Baxter and Price disagree on the best approach to a conviction. Meanwhile, Riley's brother is released from prison.",
+          "url": "https://www.imdb.com/title/tt38274686/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 25,
+          "number": 7,
+          "name": "Guardian",
+          "airdate": "2025-11-13",
+          "summary": "When a high school sports star is murdered, the police find several suspects trying to make money off the victim's talent. Riley gets a new partner in Detective Theo Walker.",
+          "url": "https://www.imdb.com/title/tt38592708/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 25,
+          "number": 8,
+          "name": "Parasite",
+          "airdate": "2025-11-20",
+          "summary": "When a rich CEO is murdered the night before his wedding, Riley and Walker suspect the key to an arrest are the details of the victim's will. Price and Maroun argue the benefits and drawbacks of damaging the suspect's reputation in court.",
+          "url": "https://www.imdb.com/title/tt38646921/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 25,
+          "number": 9,
+          "name": "Snowflakes",
+          "airdate": "2026-01-08",
+          "summary": "Brady teams up with Benson's SVU to figure out why a murder was committed.",
+          "url": "https://www.imdb.com/title/tt38681610/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 25,
+          "number": 10,
+          "name": "Dream On",
+          "airdate": "2026-01-15",
+          "summary": "Brady's son is suspected of murder, endangering her; Price works to disprove the defendant's alibi.",
+          "url": "https://www.imdb.com/title/tt39044884/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 25,
+          "number": 11,
+          "name": "The Enemy of All Women",
+          "airdate": "2026-01-22",
+          "summary": "A woman's mysterious death sets the detectives up against a suspect using high-tech surveillance against them. Maroun suspects a witness knows more about the defendant than she lets on.",
+          "url": "https://www.imdb.com/title/tt39044890/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 25,
+          "number": 12,
+          "name": "Never Say Goodbye",
+          "airdate": "2026-01-29",
+          "summary": "After investigating a flight attendant's murder, Walker's methods are scrutinized during the trial. Meanwhile, Price and Maroun try to reveal the defendant's state of mind.",
+          "url": "https://www.imdb.com/title/tt39086443/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 25,
+          "number": 13,
+          "name": "New Normal",
+          "airdate": "2026-02-26",
+          "summary": "Walker revisits his undercover identity to get details on a gang-related murder; saddled with a weak case, Baxter and Price weigh the consequences of ruining another department's investigation to get their conviction.",
+          "url": "https://www.imdb.com/title/tt39147788/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 25,
+          "number": 14,
+          "name": "Remedies",
+          "airdate": "2026-03-05",
+          "summary": "The 2-7 arrests an unlikely suspect when a popular wellness personality is murdered; Price and Maroun must determine if revealing the victim's past will help or hurt their case.",
+          "url": "https://www.imdb.com/title/tt39346174/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 25,
+          "number": 15,
+          "name": "Bright Lights",
+          "airdate": "2026-03-12",
+          "summary": "A fashion designer is murdered with a stolen gun. With only circumstantial evidence supporting the case, Price and Maroun must expose a witness' private life to get a conviction.",
+          "url": "https://www.imdb.com/title/tt39402067/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 25,
+          "number": 16,
+          "name": "Fate's Cruel Joke",
+          "airdate": "2026-04-02",
+          "summary": "After a woman's body is discovered in a suitcase, Price and Maroun disagree over the charges to bring against the prime suspect. Meanwhile, Riley faces scrutiny when he's involved in an on-duty car accident.",
+          "url": "https://www.imdb.com/title/tt39528017/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 25,
+          "number": 17,
+          "name": "Beyond Measure",
+          "airdate": "2026-04-09",
+          "summary": "Riley and Walker probe a cherished museum guard's killing and an artifact heist. Baxter and Price weigh justice against public demands to recover the stolen piece.",
+          "url": "https://www.imdb.com/title/tt39753117/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 25,
+          "number": 18,
+          "name": "Ride or Die",
+          "airdate": "2026-04-23",
+          "summary": "A talented local news reporter is brutally murdered. Maroun's mentor takes the case for the defense, pitting Maroun against the woman who shaped her career.",
+          "url": "https://www.imdb.com/title/tt40061015/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 25,
+          "number": 19,
+          "name": "Accidentally Like a Martyr",
+          "airdate": "2026-04-30",
+          "summary": "A woman from a famous family is found dead on her birthday; Price and Maroun have an uphill battle in court when the defense presents two viable suspects in the crime.",
+          "url": "https://www.imdb.com/title/tt40259918/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 25,
+          "number": 20,
+          "name": "Once Burned",
+          "airdate": "2026-05-07",
+          "summary": "After a hero fire chief is found dead, Riley and Walker must break through his squad's closed ranks to uncover the truth. When the defense presents a plausible alternate timeline of events, Price and Maroun must fight to win the jury over.",
+          "url": "https://www.imdb.com/title/tt40484331/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 25,
+          "number": 21,
+          "name": "Liberty",
+          "airdate": "2026-05-14",
+          "summary": "The FBI joins Brady's case after a military hero is killed. With Baxter's reelection underway, Price and Maroun suspect the judge may be compromised due to questionable rulings.",
+          "url": "https://www.imdb.com/title/tt40586076/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 25,
+          "number": 25,
+          "name": "Street Justice",
+          "airdate": "2025-09-25",
+          "summary": "Brady's squad investigates the death of an exonerated murder suspect and a major lead points to ADA Maroun. Price wrestles with the potential consequences of a guilty verdict.",
+          "url": "https://www.imdb.com/title/tt36861478/?ref_=ttep_ep_1"
+        }
+      ]
+    },
+    "tt33270224": {
+      "imdbId": "tt33270224",
+      "title": "Cupertino",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Michael & Olivia",
+          "airdate": "2026-10-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39386462/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Vik & Bo",
+          "airdate": "2026-10-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42299472/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": "2026-10-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43081944/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Episode #1.4",
+          "airdate": "2026-10-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43082171/?ref_=ttep_ep_4"
         }
       ]
     }
