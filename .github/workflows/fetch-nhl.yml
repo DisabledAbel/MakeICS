@@ -52,6 +52,6 @@ jobs:
             echo "No NHL schedule changes to commit."
             exit 0
           fi
-          git commit -m "📅 Update NHL schedules"
+          git commit -m "📅 Update NHL schedules🏒”
           git pull --rebase origin "$REF_NAME"
           git push origin HEAD:"$REF_NAME"
