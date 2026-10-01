@@ -21,8 +21,7 @@ async function main() {
     const games = await fetchScheduleFromESPN('wnba', 'por');
 
     if (games.length === 0) {
-      console.warn(`  No games found for ${TEAM_NAME} on ESPN.`);
-      return;
+      throw new Error(`No games found for ${TEAM_NAME} on ESPN.`);
     }
 
     console.log(`  Found ${games.length} games. Normalizing...`);
@@ -43,17 +42,12 @@ async function main() {
     }
 
     const filePath = path.join(SUPPLEMENTAL_DATA_DIR, `${PORTLAND_FIRE_ID}.json`);
-    let existingUpdatedAt = null;
-    try {
-      const content = await fs.readFile(filePath, 'utf8');
-      const existingData = JSON.parse(content);
-      existingUpdatedAt = existingData.updatedAt;
-    } catch (e) {}
-
     await fs.writeFile(filePath, JSON.stringify({
       teamId: PORTLAND_FIRE_ID,
       teamName: TEAM_NAME,
-      updatedAt: existingUpdatedAt || new Date().toISOString(),
+      // This is deliberately the successful scrape time. It is written only
+      // after fetching and normalizing succeeds, so it can never mask failure.
+      updatedAt: new Date().toISOString(),
       events: uniqueEvents
     }, null, 2));
 
