@@ -71,11 +71,14 @@ test('parses upcoming playoff-compatible fixtures and rejects malformed season o
   assert.throws(() => parseSchedule({ ...schedule([]), league: { name: 'Premier League' } }, { season: 2026, byEspnId }), /did not identify/);
 });
 
-test('deduplicates club responses, keeps identity through reschedules, and leaves unchanged reruns untouched', async () => {
+test('deduplicates responses, clears inactive teams, preserves reschedule identity, and leaves unchanged reruns untouched', async () => {
   const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'makeics-mls-'));
   const now = new Date('2026-04-01T00:00:00Z');
+  const inactiveFile = path.join(dir, '135851.json');
+  await fs.writeFile(inactiveFile, `${JSON.stringify({ teamId: '135851', teamName: 'Atlanta United', events: [{ idEvent: 'stale-fixture' }] })}\n`);
   const first = await fetchMlsSchedules({ fetchImpl: fetcher(), outputDir: dir, now });
-  assert.deepEqual(first, { teams: 30, fixtures: 1, writtenTeams: 2 });
+  assert.deepEqual(first, { teams: 30, fixtures: 1, writtenTeams: 30 });
+  assert.deepEqual(JSON.parse(await fs.readFile(inactiveFile, 'utf8')).events, []);
   const file = path.join(dir, '134155.json');
   const original = await fs.readFile(file, 'utf8');
   const rerun = await fetchMlsSchedules({ fetchImpl: fetcher(), outputDir: dir, now: new Date('2026-04-02T00:00:00Z') });
