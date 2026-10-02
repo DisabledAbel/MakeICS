@@ -1,7 +1,7 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-10-02T05:50:22.456Z",
+  "updatedAt": "2026-10-02T22:20:16.710Z",
   "events": [
     {
       "idEvent": "nhl-2026020027",
@@ -32,8 +32,8 @@
       "strLeague": "NHL",
       "strVenue": "Madison Square Garden",
       "strStatus": "NS",
-      "strTVStation": "MSG, SN360, TVAS, Utah16",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "MSG, TVAS, Utah16",
+      "updatedAt": "2026-10-02T22:20:16.710Z",
       "source": "scraped",
       "sourceEventId": "2026020036",
       "idHomeTeam": "134842",
