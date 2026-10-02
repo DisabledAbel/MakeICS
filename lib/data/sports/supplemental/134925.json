@@ -1,24 +1,10 @@
 {
   "teamId": "134925",
   "teamName": "Pittsburgh Steelers",
-  "updatedAt": "2026-09-29T05:46:42.429Z",
+  "updatedAt": "2026-10-02T05:41:06.454Z",
   "generatedAt": "2026-07-18T06:13:33.261Z",
   "generateAt": "2026-07-18T06:13:33.261Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa29da01-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Cleveland Browns vs Pittsburgh Steelers",
-      "strHomeTeam": "Cleveland Browns",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-10-02",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-02T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Huntington Bank Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa94ac06-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Pittsburgh Steelers vs Indianapolis Colts",
