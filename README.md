@@ -26,7 +26,6 @@ Feeds generated using [TVMaze](https://www.tvmaze.com/api) and enriched with IMD
 ### 🏀 Sports
 Comprehensive sports coverage using [TheSportsDB](https://www.thesportsdb.com/), ESPN scraping, and specialized data for:
 - **Major Leagues**: NBA, NFL, MLB, NHL, MLS, etc.
-- **NHL**: Complete official schedules from the NHL public JSON API, refreshed every six hours. Run **Fetch NHL Schedules** from the repository's Actions tab for a manual refresh.
 - **WNBA**: Enhanced support via SportsDataverse and ESPN.
 - **AHL**: American Hockey League schedules.
 - **MiLB**: Minor League Baseball schedules.
