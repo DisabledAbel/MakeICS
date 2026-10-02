@@ -159,7 +159,6 @@ export async function fetchMlsSchedules({ fetchImpl = globalThis.fetch, outputDi
   let writtenTeams = 0;
   for (const team of teams) {
     let teamEvents = events.filter(event => event.idHomeTeam === team.id || event.idAwayTeam === team.id);
-    if (!teamEvents.length) continue;
     const file = path.join(outputDir, `${team.id}.json`);
     let existing;
     try { existing = JSON.parse(await fs.readFile(file, 'utf8')); } catch (error) { if (error.code !== 'ENOENT') throw error; }
@@ -169,7 +168,7 @@ export async function fetchMlsSchedules({ fetchImpl = globalThis.fetch, outputDi
       const old = oldEvents.find(item => item.sourceEventId === event.sourceEventId || item.idEvent === event.idEvent);
       return old ? { ...event, idEvent: old.idEvent } : event;
     });
-    if (teamEvents.length === oldEvents.length && teamEvents.every((event, index) => equalEvent(event, oldEvents[index]))) continue;
+    if (existing && teamEvents.length === oldEvents.length && teamEvents.every((event, index) => equalEvent(event, oldEvents[index]))) continue;
     const updatedAt = now.toISOString();
     teamEvents = teamEvents.map(event => {
       const old = oldEvents.find(item => item.idEvent === event.idEvent);
