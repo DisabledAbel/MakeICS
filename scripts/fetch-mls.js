@@ -24,8 +24,17 @@ export const MLS_TEAMS = Object.freeze([
   ['Toronto FC', '134148'], ['Vancouver Whitecaps', '134147', ['Vancouver Whitecaps FC']]
 ].map(([name, id, aliases = []]) => ({ name, id, aliases })));
 
+/** Normalize names for matching, removing diacritics and keeping only lowercase ASCII letters and digits. */
 const normalizeName = value => String(value || '').normalize('NFKD').replace(/\p{Diacritic}/gu, '').toLowerCase().replace(/[^a-z0-9]/g, '');
 
+/**
+ * Fetch a non-null JSON object or array with bounded attempts and exponential backoff.
+ * timeoutMs and baseDelayMs are milliseconds; attempts includes the initial request
+ * and should be a positive integer. fetchImpl must honor the abort signal for timeouts.
+ * Retries request/JSON failures and HTTP 408, 429, and responses with status >= 500;
+ * errors marked retryable: false reject immediately. Final request failures include
+ * the URL and original cause. Rejections from the injected sleep propagate unchanged.
+ */
 export async function fetchJson(url, fetchImpl = globalThis.fetch, {
   timeoutMs = 20_000, attempts = 4, baseDelayMs = 500,
   sleep = ms => new Promise(resolve => setTimeout(resolve, ms))
@@ -54,7 +63,13 @@ export async function fetchJson(url, fetchImpl = globalThis.fetch, {
   throw last;
 }
 
-/** Resolve all active ESPN clubs to one explicit TheSportsDB identity each. */
+/**
+ * Resolve all active ESPN clubs to one explicit TheSportsDB identity each.
+ * Returns configured team records with string espnId values, sorted by team name.
+ * Matches normalized names and aliases; throws for a non-MLS or malformed directory,
+ * an incorrect team count, ambiguous or unknown matches, invalid ESPN IDs, or duplicate
+ * configured teams. Malformed nested values may propagate TypeErrors.
+ */
 export function mapActiveTeams(payload) {
   const league = payload?.sports?.[0]?.leagues?.[0];
   if (league?.slug !== 'usa.1' && !/major league soccer/i.test(league?.name || '')) throw new Error('ESPN team directory was not Major League Soccer');
@@ -79,12 +94,16 @@ export function mapActiveTeams(payload) {
   return [...mapped.values()].sort((a, b) => a.name.localeCompare(b.name));
 }
 
-/** MLS seasons are calendar years; begin probing next year late in the offseason. */
+/** Return the current UTC calendar year, plus next year during November and December. */
 export function seasonCandidates(now = new Date()) {
   const year = now.getUTCFullYear();
   return now.getUTCMonth() >= 10 ? [year, year + 1] : [year];
 }
 
+/**
+ * Map ESPN status to Postponed, Cancelled, In Progress, FT, TBD, or NS (not started).
+ * Postponement and cancellation take precedence; missing or unrecognized status is NS.
+ */
 function statusFor(competition) {
   const status = competition?.status?.type || {};
   const text = `${status.name || ''} ${status.description || ''} ${status.detail || ''}`.toLowerCase();
@@ -96,7 +115,16 @@ function statusFor(competition) {
   return 'NS';
 }
 
-/** Parse an ESPN fixture response after verifying its requested season and league. */
+/**
+ * Parse an ESPN fixture response after verifying its requested season and league.
+ * byEspnId maps string ESPN team IDs to configured teams with TheSportsDB IDs and names.
+ * Returns normalized events with UTC kickoffs and IDs derived from ESPN event IDs,
+ * preserving input order and duplicates. Kickoffs before now are excluded unless
+ * Postponed or TBD; kickoffs exactly at now are retained.
+ * Throws for a season/league mismatch, missing events array, invalid fixture ID,
+ * missing competition, invalid kickoff, or unmapped participants in retained fixtures.
+ * Malformed nested values may propagate TypeErrors.
+ */
 export function parseSchedule(payload, { season, byEspnId, now = new Date() }) {
   const returnedSeason = Number(payload?.season?.year);
   const leagueText = `${payload?.league?.slug || ''} ${payload?.league?.name || ''} ${payload?.league?.abbreviation || ''}`;
@@ -125,6 +153,10 @@ export function parseSchedule(payload, { season, byEspnId, now = new Date() }) {
   });
 }
 
+/**
+ * Apply worker with at most limit concurrent calls, returning results in input order.
+ * limit should be a positive integer. Worker failures reject without canceling other workers.
+ */
 async function pooled(items, limit, worker) {
   let next = 0;
   const results = [];
@@ -134,9 +166,24 @@ async function pooled(items, limit, worker) {
   return results;
 }
 
+/** Return a shallow event copy without its updatedAt revision timestamp. */
 const withoutRevision = ({ updatedAt, ...event }) => event;
+/** Compare serialized event content, ignoring updatedAt but retaining property-order sensitivity. */
 const equalEvent = (a, b) => JSON.stringify(withoutRevision(a)) === JSON.stringify(withoutRevision(b));
 
+/**
+ * Fetch MLS fixtures and write per-team JSON schedules under outputDir, creating it if needed.
+ * now controls UTC season selection, the kickoff cutoff, and revision timestamps;
+ * requestOptions supplies fetchJson retry/timeout settings for the injected fetchImpl.
+ * Deduplicates by ESPN event ID and sorts by kickoff, preserving saved event identities
+ * across reschedules. Unchanged event lists are not rewritten; teams with no retained
+ * fixtures receive empty lists. Unchanged events retain their saved revision when present.
+ * Returns counts: teams mapped, fixtures retained after deduplication, and writtenTeams.
+ * Request, mapping, parsing, conflicting-duplicate, and empty-result errors occur before
+ * writes; an empty result is allowed only in December and January (UTC).
+ * Missing saved files are created; other read errors, invalid saved JSON, and write
+ * errors propagate. Writes completed before a later failure are not rolled back.
+ */
 export async function fetchMlsSchedules({ fetchImpl = globalThis.fetch, outputDir = OUTPUT_DIR, now = new Date(), requestOptions = {} } = {}) {
   const teams = mapActiveTeams(await fetchJson(DIRECTORY_URL, fetchImpl, requestOptions));
   const byEspnId = new Map(teams.map(team => [team.espnId, team]));
@@ -180,6 +227,7 @@ export async function fetchMlsSchedules({ fetchImpl = globalThis.fetch, outputDi
   return { teams: teams.length, fixtures: events.length, writtenTeams };
 }
 
+/** Refresh MLS supplemental schedules using default options; fetch and file errors propagate. */
 async function main() {
   const result = await fetchMlsSchedules();
   console.log(`Found ${result.fixtures} upcoming MLS fixtures for ${result.teams} teams; wrote ${result.writtenTeams} schedules.`);
