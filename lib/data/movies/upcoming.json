@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T11:25:49.199Z",
+  "generatedAt": "2026-10-02T10:55:34.356Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -4406,7 +4406,7 @@
     {
       "id": "tt36586020",
       "title": "Other Mommy",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWU2MzZlNmItYzVmYi00Y2Y4LWI4NTktNTg3NDE0MGE5NGRkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGUyODYyYTctMmY0Mi00ZWIwLThjYWItZDJmODY4NGU1YjY1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
       "genres": [
         "Horror"
@@ -4803,7 +4803,7 @@
     {
       "id": "tt13609648",
       "title": "Sense and Sensibility",
-      "image": "https://m.media-amazon.com/images/M/MV5BY2U1N2ExYTMtNGM2NS00ZmNiLTlkODktNzZmMjhjZGEzYjgyXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzNmM2E0OWItZWU2MC00M2I3LWEyZTQtYWIyYmZhOGEyOTY1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -5236,7 +5236,7 @@
     {
       "id": "tt39075417",
       "title": "Closure",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTk1OTgzZTAtNzRkYi00MjM0LTkwYmYtMTQyZWY5ZTk4MWE3XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDU4MTQzNjktMDUwZi00NGJmLTk1MTUtNzJmYWI2OTRhNzJkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 28 Oct 2026 00:00:00 GMT",
       "genres": [
         "Documentary",
@@ -5545,6 +5545,64 @@
         }
       ],
       "label": "Oct 31, 2026"
+    },
+    {
+      "id": "tt34375721",
+      "title": "Operation Kabul",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzA3NjQ4YmMtMmNlOS00NzJjLTk1YzgtMjYzMDRkMzRhYjNlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Action"
+      ],
+      "people": [
+        {
+          "id": "nm5393410",
+          "name": "Gábor Jászberényi"
+        },
+        {
+          "id": "nm7259735",
+          "name": "Blanka Mészáros"
+        },
+        {
+          "id": "nm17901459",
+          "name": "Klarissza Lakatos"
+        },
+        {
+          "id": "nm1891456",
+          "name": "Nóra Trokán"
+        }
+      ],
+      "label": "Nov 03, 2026"
+    },
+    {
+      "id": "tt40210362",
+      "title": "The Last Temptation of Becky",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGU0NTI1YjktNmUxNS00NDdmLWI5MDMtMTlhOTA0NGI2YjY0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm5157662",
+          "name": "Lulu Wilson"
+        },
+        {
+          "id": "nm0000439",
+          "name": "Neil Patrick Harris"
+        },
+        {
+          "id": "nm2318089",
+          "name": "Kate Siegel"
+        },
+        {
+          "id": "nm0172082",
+          "name": "James Urbaniak"
+        }
+      ],
+      "label": "Nov 04, 2026"
     },
     {
       "id": "tt34446639",
@@ -6890,12 +6948,12 @@
           "name": "Jason Sudeikis"
         },
         {
-          "id": "nm4141252",
-          "name": "Lily James"
-        },
-        {
           "id": "nm1551130",
           "name": "Keke Palmer"
+        },
+        {
+          "id": "nm4141252",
+          "name": "Lily James"
         }
       ],
       "label": "Dec 23, 2026"
@@ -7157,16 +7215,16 @@
       ],
       "people": [
         {
+          "id": "nm8165602",
+          "name": "Bella Ramsey"
+        },
+        {
           "id": "nm4141252",
           "name": "Lily James"
         },
         {
           "id": "nm4689420",
           "name": "Carrie Coon"
-        },
-        {
-          "id": "nm8165602",
-          "name": "Bella Ramsey"
         },
         {
           "id": "nm0628120",
@@ -7230,6 +7288,35 @@
         {
           "id": "nm0524240",
           "name": "Matt Lucas"
+        }
+      ],
+      "label": "Jan 15, 2027"
+    },
+    {
+      "id": "tt33085567",
+      "title": "River",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzI4YzcyMzctMWVmMi00YzFjLTkyNGMtZjFjZDQ4ODhmYWY3XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 15 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm3994408",
+          "name": "Jane Levy"
+        },
+        {
+          "id": "nm1557329",
+          "name": "Jessica Rothe"
+        },
+        {
+          "id": "nm12245280",
+          "name": "Max Mattern"
+        },
+        {
+          "id": "nm10867068",
+          "name": "Dane DiLiegro"
         }
       ],
       "label": "Jan 15, 2027"
@@ -7310,12 +7397,12 @@
           "name": "Tracy Ifeachor"
         },
         {
-          "id": "nm0281956",
-          "name": "Brendan Fletcher"
-        },
-        {
           "id": "nm0479527",
           "name": "Tyler Labine"
+        },
+        {
+          "id": "nm0281956",
+          "name": "Brendan Fletcher"
         },
         {
           "id": "nm3958148",
@@ -8449,7 +8536,7 @@
     {
       "id": "tt38120758",
       "title": "Anything But Ghosts",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWQ3ZGY0YTItZTFkMi00ZjdlLWJmNzAtMTVkNjBlODA1ZWQ4XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNlYmQ1YTItZWE4MS00ZWNjLWI5ODItNmU0ZjM2OTI1NzIxXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 07 May 2027 00:00:00 GMT",
       "genres": [
         "Comedy",
