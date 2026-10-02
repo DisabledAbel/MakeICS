@@ -1,26 +1,8 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-10-01T23:56:52.194Z",
+  "updatedAt": "2026-10-02T05:50:22.456Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020013",
-      "strEvent": "Utah Mammoth vs Chicago Blackhawks",
-      "strHomeTeam": "Utah Mammoth",
-      "strAwayTeam": "Chicago Blackhawks",
-      "dateEvent": "2026-10-01",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-10-02T01:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Delta Center",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020013",
-      "idHomeTeam": "148494",
-      "idAwayTeam": "134854"
-    },
     {
       "idEvent": "nhl-2026020027",
       "strEvent": "Columbus Blue Jackets vs Utah Mammoth",

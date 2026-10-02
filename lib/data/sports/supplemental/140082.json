@@ -1,26 +1,8 @@
 {
   "teamId": "140082",
   "teamName": "Seattle Kraken",
-  "updatedAt": "2026-10-01T23:56:52.194Z",
+  "updatedAt": "2026-10-02T05:50:22.456Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020014",
-      "strEvent": "Calgary Flames vs Seattle Kraken",
-      "strHomeTeam": "Calgary Flames",
-      "strAwayTeam": "Seattle Kraken",
-      "dateEvent": "2026-10-01",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-02T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Saddledome",
-      "strStatus": "NS",
-      "strTVStation": "KONG, Prime Video, SNW",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020014",
-      "idHomeTeam": "134848",
-      "idAwayTeam": "140082"
-    },
     {
       "idEvent": "nhl-2026020028",
       "strEvent": "Edmonton Oilers vs Seattle Kraken",

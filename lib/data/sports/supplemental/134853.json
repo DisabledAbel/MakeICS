@@ -1,26 +1,8 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-10-01T23:56:52.194Z",
+  "updatedAt": "2026-10-02T05:50:22.456Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020016",
-      "strEvent": "San Jose Sharks vs Florida Panthers",
-      "strHomeTeam": "San Jose Sharks",
-      "strAwayTeam": "Florida Panthers",
-      "dateEvent": "2026-10-01",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-02T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "SAP Center at San Jose",
-      "strStatus": "NS",
-      "strTVStation": "NBCSCA, SCRIPPS, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020016",
-      "idHomeTeam": "134853",
-      "idAwayTeam": "134833"
-    },
     {
       "idEvent": "nhl-2026020034",
       "strEvent": "San Jose Sharks vs Los Angeles Kings",

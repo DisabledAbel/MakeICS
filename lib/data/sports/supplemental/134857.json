@@ -1,26 +1,8 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-10-01T23:56:52.194Z",
+  "updatedAt": "2026-10-02T05:50:22.456Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020012",
-      "strEvent": "Nashville Predators vs Minnesota Wild",
-      "strHomeTeam": "Nashville Predators",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-10-01",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-02T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Bridgestone Arena",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, SCRIPPS, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020012",
-      "idHomeTeam": "134858",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020031",
       "strEvent": "Minnesota Wild vs Boston Bruins",
