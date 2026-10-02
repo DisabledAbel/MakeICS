@@ -7,6 +7,7 @@ on:
       - scripts/fetch-mls.js
       - .github/workflows/fetch-mls.yml
       - test/fetchMls.test.js
+      - test/fixtures/mls-espn.json
   schedule:
     - cron: '35 */6 * * *'
   workflow_dispatch:
@@ -58,6 +59,6 @@ jobs:
             echo "No MLS schedule changes to commit."
             exit 0
           fi
-          git commit -m "📅 Update MLS schedules⚽"
+          git commit -m "📅 Update MLS schedules ⚽"
           git pull --rebase origin "$REF_NAME"
           git push origin HEAD:"$REF_NAME"

@@ -11,7 +11,7 @@ const MAX_CONCURRENCY = 5;
 // Public calendar URLs use TheSportsDB IDs. Keep this mapping explicit so an
 // upstream rename cannot silently move a schedule to another subscription URL.
 export const MLS_TEAMS = Object.freeze([
-  ['Atlanta United', '135851'], ['Austin FC', '140079'], ['CF Montréal', '134150', ['CF Montreal', 'Montreal Impact']],
+  ['Atlanta United', '135851', ['Atlanta United FC']], ['Austin FC', '140079'], ['CF Montréal', '134150', ['CF Montreal', 'Montreal Impact']],
   ['Charlotte FC', '140078'], ['Chicago Fire', '134154', ['Chicago Fire FC']], ['Colorado Rapids', '134794'],
   ['Columbus Crew', '134152'], ['D.C. United', '134145', ['DC United']], ['FC Cincinnati', '136688'],
   ['FC Dallas', '134146'], ['Houston Dynamo', '134144', ['Houston Dynamo FC']], ['Inter Miami', '137699', ['Inter Miami CF']],
@@ -115,8 +115,16 @@ function statusFor(competition) {
   return 'NS';
 }
 
+/** Check explicit ESPN league metadata, giving a supplied league slug precedence. */
+function isMlsLeague(league) {
+  if (league?.slug) return league.slug === 'usa.1';
+  return [league?.name, league?.abbreviation].some(value => /^(?:MLS|(?:American )?Major League Soccer)$/i.test(value || ''));
+}
+
 /**
  * Parse an ESPN fixture response after verifying its requested season and league.
+ * ESPN identifies the league on each event; MLS season labels identify empty
+ * schedules. A supplied top-level league is also checked when present.
  * byEspnId maps string ESPN team IDs to configured teams with TheSportsDB IDs and names.
  * Returns normalized events with UTC kickoffs and IDs derived from ESPN event IDs,
  * preserving input order and duplicates. Kickoffs before now are excluded unless
@@ -127,11 +135,17 @@ function statusFor(competition) {
  */
 export function parseSchedule(payload, { season, byEspnId, now = new Date() }) {
   const returnedSeason = Number(payload?.season?.year);
-  const leagueText = `${payload?.league?.slug || ''} ${payload?.league?.name || ''} ${payload?.league?.abbreviation || ''}`;
   if (returnedSeason !== Number(season)) throw new Error(`MLS schedule returned season ${payload?.season?.year ?? '(missing)'} instead of ${season}`);
-  if (!/(usa\.1|major league soccer|\bMLS\b)/i.test(leagueText)) throw new Error('MLS schedule response did not identify Major League Soccer');
   if (!Array.isArray(payload?.events)) throw new Error('MLS schedule response did not contain events');
+  const identifiesMls = isMlsLeague(payload.league) || [payload.season?.displayName, payload.requestedSeason?.displayName]
+    .some(value => /^\d{4} MLS(?:\s|$)/i.test(value || ''));
+  if ((payload.league && !isMlsLeague(payload.league)) || (!payload.events.length && !identifiesMls)) {
+    throw new Error('MLS schedule response did not identify Major League Soccer');
+  }
   return payload.events.flatMap(event => {
+    if (event?.league ? !isMlsLeague(event.league) : !identifiesMls) {
+      throw new Error('MLS fixture did not identify Major League Soccer');
+    }
     const competition = event?.competitions?.[0];
     if (!/^\d+$/.test(String(event?.id || '')) || !competition || !Number.isFinite(Date.parse(event.date))) throw new Error('MLS fixture has an invalid ID, competition, or kickoff');
     const status = statusFor(competition);

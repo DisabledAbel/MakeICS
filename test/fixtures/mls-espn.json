@@ -1,0 +1,360 @@
+{
+  "directory": {
+    "sports": [
+      {
+        "leagues": [
+          {
+            "slug": "usa.1",
+            "name": "MLS",
+            "season": {
+              "displayName": "2026",
+              "year": 2026
+            },
+            "teams": [
+              {
+                "team": {
+                  "id": "18418",
+                  "displayName": "Atlanta United FC",
+                  "name": "Atlanta United FC",
+                  "shortDisplayName": "Atlanta"
+                }
+              },
+              {
+                "team": {
+                  "id": "20906",
+                  "displayName": "Austin FC",
+                  "name": "Austin FC",
+                  "shortDisplayName": "Austin"
+                }
+              },
+              {
+                "team": {
+                  "id": "9720",
+                  "displayName": "CF Montréal",
+                  "name": "CF Montréal",
+                  "shortDisplayName": "CF Montréal"
+                }
+              },
+              {
+                "team": {
+                  "id": "21300",
+                  "displayName": "Charlotte FC",
+                  "name": "Charlotte FC",
+                  "shortDisplayName": "Charlotte"
+                }
+              },
+              {
+                "team": {
+                  "id": "182",
+                  "displayName": "Chicago Fire FC",
+                  "name": "Chicago Fire FC",
+                  "shortDisplayName": "Chicago"
+                }
+              },
+              {
+                "team": {
+                  "id": "184",
+                  "displayName": "Colorado Rapids",
+                  "name": "Colorado Rapids",
+                  "shortDisplayName": "Colorado"
+                }
+              },
+              {
+                "team": {
+                  "id": "183",
+                  "displayName": "Columbus Crew",
+                  "name": "Columbus Crew",
+                  "shortDisplayName": "Columbus"
+                }
+              },
+              {
+                "team": {
+                  "id": "193",
+                  "displayName": "D.C. United",
+                  "name": "D.C. United",
+                  "shortDisplayName": "D.C. United"
+                }
+              },
+              {
+                "team": {
+                  "id": "18267",
+                  "displayName": "FC Cincinnati",
+                  "name": "FC Cincinnati",
+                  "shortDisplayName": "Cincinnati"
+                }
+              },
+              {
+                "team": {
+                  "id": "185",
+                  "displayName": "FC Dallas",
+                  "name": "FC Dallas",
+                  "shortDisplayName": "Dallas"
+                }
+              },
+              {
+                "team": {
+                  "id": "6077",
+                  "displayName": "Houston Dynamo FC",
+                  "name": "Houston Dynamo FC",
+                  "shortDisplayName": "Houston"
+                }
+              },
+              {
+                "team": {
+                  "id": "20232",
+                  "displayName": "Inter Miami CF",
+                  "name": "Inter Miami CF",
+                  "shortDisplayName": "Miami"
+                }
+              },
+              {
+                "team": {
+                  "id": "187",
+                  "displayName": "LA Galaxy",
+                  "name": "LA Galaxy",
+                  "shortDisplayName": "LA Galaxy"
+                }
+              },
+              {
+                "team": {
+                  "id": "18966",
+                  "displayName": "LAFC",
+                  "name": "LAFC",
+                  "shortDisplayName": "LAFC"
+                }
+              },
+              {
+                "team": {
+                  "id": "17362",
+                  "displayName": "Minnesota United FC",
+                  "name": "Minnesota United FC",
+                  "shortDisplayName": "Minnesota"
+                }
+              },
+              {
+                "team": {
+                  "id": "18986",
+                  "displayName": "Nashville SC",
+                  "name": "Nashville SC",
+                  "shortDisplayName": "Nashville"
+                }
+              },
+              {
+                "team": {
+                  "id": "189",
+                  "displayName": "New England Revolution",
+                  "name": "New England Revolution",
+                  "shortDisplayName": "New England"
+                }
+              },
+              {
+                "team": {
+                  "id": "17606",
+                  "displayName": "New York City FC",
+                  "name": "New York City FC",
+                  "shortDisplayName": "NYCFC"
+                }
+              },
+              {
+                "team": {
+                  "id": "12011",
+                  "displayName": "Orlando City SC",
+                  "name": "Orlando City SC",
+                  "shortDisplayName": "Orlando"
+                }
+              },
+              {
+                "team": {
+                  "id": "10739",
+                  "displayName": "Philadelphia Union",
+                  "name": "Philadelphia Union",
+                  "shortDisplayName": "Philadelphia"
+                }
+              },
+              {
+                "team": {
+                  "id": "9723",
+                  "displayName": "Portland Timbers",
+                  "name": "Portland Timbers",
+                  "shortDisplayName": "Portland"
+                }
+              },
+              {
+                "team": {
+                  "id": "4771",
+                  "displayName": "Real Salt Lake",
+                  "name": "Real Salt Lake",
+                  "shortDisplayName": "Salt Lake"
+                }
+              },
+              {
+                "team": {
+                  "id": "190",
+                  "displayName": "Red Bull New York",
+                  "name": "Red Bull New York",
+                  "shortDisplayName": "Red Bull NY"
+                }
+              },
+              {
+                "team": {
+                  "id": "22529",
+                  "displayName": "San Diego FC",
+                  "name": "San Diego FC",
+                  "shortDisplayName": "San Diego"
+                }
+              },
+              {
+                "team": {
+                  "id": "191",
+                  "displayName": "San Jose Earthquakes",
+                  "name": "San Jose Earthquakes",
+                  "shortDisplayName": "San Jose"
+                }
+              },
+              {
+                "team": {
+                  "id": "9726",
+                  "displayName": "Seattle Sounders FC",
+                  "name": "Seattle Sounders FC",
+                  "shortDisplayName": "Seattle"
+                }
+              },
+              {
+                "team": {
+                  "id": "186",
+                  "displayName": "Sporting Kansas City",
+                  "name": "Sporting Kansas City",
+                  "shortDisplayName": "Kansas City"
+                }
+              },
+              {
+                "team": {
+                  "id": "21812",
+                  "displayName": "St. Louis CITY SC",
+                  "name": "St. Louis CITY SC",
+                  "shortDisplayName": "St. Louis"
+                }
+              },
+              {
+                "team": {
+                  "id": "7318",
+                  "displayName": "Toronto FC",
+                  "name": "Toronto FC",
+                  "shortDisplayName": "Toronto"
+                }
+              },
+              {
+                "team": {
+                  "id": "9727",
+                  "displayName": "Vancouver Whitecaps",
+                  "name": "Vancouver Whitecaps",
+                  "shortDisplayName": "Vancouver"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule": {
+    "status": "success",
+    "season": {
+      "year": 2026,
+      "type": 13846,
+      "name": "Regular Season",
+      "displayName": "2026 MLS",
+      "half": 1
+    },
+    "requestedSeason": {
+      "year": 2026,
+      "type": 13846,
+      "name": "Regular Season",
+      "displayName": "2026 MLS"
+    },
+    "events": [
+      {
+        "id": "761855",
+        "date": "2026-10-11T00:30Z",
+        "season": {
+          "year": 2026,
+          "displayName": "2026 MLS"
+        },
+        "seasonType": {
+          "id": "1",
+          "type": 13846,
+          "name": "Regular Season",
+          "abbreviation": "2026 MLS"
+        },
+        "league": {
+          "id": "770",
+          "alternateId": "19",
+          "name": "MLS",
+          "abbreviation": "MLS",
+          "shortName": "MLS",
+          "midsizeName": "USA.1",
+          "slug": "usa.1",
+          "isTournament": false
+        },
+        "timeValid": true,
+        "competitions": [
+          {
+            "date": "2026-10-11T00:30Z",
+            "status": {
+              "clock": 0.0,
+              "addedClock": 0.0,
+              "displayClock": "0'",
+              "period": 0,
+              "type": {
+                "id": "1",
+                "name": "STATUS_SCHEDULED",
+                "state": "pre",
+                "completed": false,
+                "description": "Scheduled",
+                "detail": "Sat, October 10th at 8:30 PM EDT",
+                "shortDetail": "10/10 - 8:30 PM EDT"
+              }
+            },
+            "timeValid": true,
+            "venue": {
+              "fullName": "Sporting Park",
+              "address": {
+                "city": "Kansas City, Kansas",
+                "country": "USA"
+              }
+            },
+            "broadcasts": [
+              {
+                "type": {
+                  "id": "4",
+                  "shortName": "STREAMING"
+                },
+                "media": {
+                  "shortName": "Apple TV"
+                },
+                "lang": "en",
+                "region": "us"
+              }
+            ],
+            "competitors": [
+              {
+                "homeAway": "home",
+                "team": {
+                  "id": "186",
+                  "displayName": "Sporting Kansas City"
+                }
+              },
+              {
+                "homeAway": "away",
+                "team": {
+                  "id": "9723",
+                  "displayName": "Portland Timbers"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -8,6 +8,9 @@ import { toIcs as sportsToIcs } from '../lib/sports.js';
 import { toIcs as combinedToIcs } from '../lib/calendar.js';
 
 const response = body => ({ ok: true, status: 200, json: async () => body });
+// Captured from ESPN's MLS directory and Portland fixture endpoint. Provider
+// names and response structure are independent of the configured MLS mapping.
+const espnFixture = JSON.parse(await fs.readFile(new URL('./fixtures/mls-espn.json', import.meta.url), 'utf8'));
 const directory = () => ({ sports: [{ leagues: [{ slug: 'usa.1', name: 'Major League Soccer', teams: MLS_TEAMS.map((team, index) => ({ team: {
   id: String(9000 + index),
   // Exercise the explicitly required provider-name differences.
@@ -45,6 +48,37 @@ test('maps every active MLS club to stable TheSportsDB IDs with explicit aliases
   const ambiguous = directory();
   ambiguous.sports[0].leagues[0].teams[0].team.displayName = 'Unknown FC';
   assert.throws(() => mapActiveTeams(ambiguous), /not found/);
+});
+
+test('maps the real ESPN MLS directory including Atlanta United FC', () => {
+  const teams = mapActiveTeams(espnFixture.directory);
+  assert.equal(teams.length, 30);
+  assert.equal(teams.find(team => team.espnId === '18418').id, '135851');
+  assert.equal(teams.find(team => team.espnId === '185').id, '134146');
+  assert.equal(teams.find(team => team.espnId === '190').id, '134156');
+});
+
+test('parses real ESPN fixtures with event-level league metadata and no top-level league', () => {
+  const payload = espnFixture.schedule;
+  assert.equal(payload.league, undefined);
+  const byEspnId = new Map([
+    ['186', { id: '134143', name: 'Sporting Kansas City' }],
+    ['9723', { id: '134155', name: 'Portland Timbers' }]
+  ]);
+  const options = { season: 2026, byEspnId, now: new Date('2026-10-01') };
+  const events = parseSchedule(payload, options);
+  assert.equal(events.length, 1);
+  assert.equal(events[0].idEvent, 'mls-761855');
+  assert.equal(events[0].idHomeTeam, '134143');
+  assert.equal(events[0].idAwayTeam, '134155');
+  assert.equal(events[0].strTimestamp, '2026-10-11T00:30:00Z');
+  assert.equal(events[0].strTVStation, 'Apple TV');
+  assert.deepEqual(parseSchedule({ ...payload, events: [] }, options), []);
+
+  const wrongLeague = structuredClone(payload);
+  wrongLeague.events[0].league = { slug: 'eng.1', name: 'Premier League' };
+  assert.throws(() => parseSchedule(wrongLeague, options), /did not identify Major League Soccer/);
+  assert.throws(() => parseSchedule({ season: { year: 2026 }, events: [] }, options), /did not identify Major League Soccer/);
 });
 
 test('uses fixture=true, calendar-year seasons, and starts next-season discovery in November', async () => {
