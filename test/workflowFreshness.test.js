@@ -43,3 +43,11 @@ test('surfaces GitHub API errors instead of reporting every source stale', async
     /403.*rate limited/
   );
 });
+
+test('recognizes the exact MLS fetch and validation step names', async () => {
+  const fetchImpl = async url => url.includes('/jobs')
+    ? response({ jobs: [{ steps: [{ name: 'Fetch MLS schedules', conclusion: 'success' }, { name: 'Validate and stage fetched data', conclusion: 'success' }] }] })
+    : response({ workflow_runs: [{ id: 35, status: 'completed', conclusion: 'success', updated_at: '2026-10-02T00:00:00Z' }] });
+  const run = await findLastValidatedRun({ repository: 'o/r', token: 'x', workflow: 'fetch-mls.yml', fetchImpl });
+  assert.equal(run.id, 35);
+});
