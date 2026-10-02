@@ -1,0 +1,63 @@
+name: Fetch MLS Schedules
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/fetch-mls.js
+      - .github/workflows/fetch-mls.yml
+      - test/fetchMls.test.js
+  schedule:
+    - cron: '35 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-updates-fetch-mls
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN || github.token }}
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run MLS tests
+        run: node --test test/fetchMls.test.js test/sports.test.js test/calendar.test.js test/validateFetchOutput.test.js test/scheduleFreshness.test.js test/workflowFreshness.test.js
+
+      - name: Fetch MLS schedules
+        run: node scripts/fetch-mls.js
+
+      - name: Validate and stage fetched data
+        run: node scripts/validate-fetch-output.js mls --stage
+
+      - name: Commit and push schedules
+        env:
+          REF_NAME: ${{ github.ref_name }}
+        run: |
+          git config user.name "DisabledAbel"
+          git config user.email "196466003+DisabledAbel@users.noreply.github.com"
+          if git diff --cached --quiet; then
+            echo "No MLS schedule changes to commit."
+            exit 0
+          fi
+          git commit -m "📅 Update MLS schedules⚽"
+          git pull --rebase origin "$REF_NAME"
+          git push origin HEAD:"$REF_NAME"

@@ -11,6 +11,7 @@ export const SOURCE_RULES = {
   milb: { paths: [/^lib\/data\/sports\/supplemental\/[^/]+\.json$/], leagues: ['International League', 'Pacific Coast League', 'Northwest League'], minPrevious: 20, maxDrop: 0.65, emptyMonths: [10, 11, 12, 1, 2] },
   nba: { paths: [/^lib\/data\/sports\/supplemental\/\d+\.json$/], leagues: ['NBA'], minPrevious: 8, maxDrop: 0.6, emptyMonths: [7, 8] },
   nhl: { paths: [/^lib\/data\/sports\/supplemental\/\d+\.json$/], leagues: ['NHL'], minPrevious: 8, maxDrop: 0.6, emptyMonths: [7, 8] },
+  mls: { paths: [/^lib\/data\/sports\/supplemental\/\d+\.json$/], leagues: ['MLS'], minPrevious: 5, maxDrop: 0.65, emptyMonths: [12, 1] },
   nfl: { paths: [/^lib\/data\/sports\/supplemental\/\d+\.json$/], leagues: ['NFL'], minPrevious: 4, maxDrop: 0.6, emptyMonths: [2, 3, 4] },
   wnba: { paths: [/^lib\/data\/sports\/supplemental\/\d+\.json$/], leagues: ['WNBA'], minPrevious: 5, maxDrop: 0.65, emptyMonths: [11, 12, 1, 2, 3] },
   'portland-fire': { paths: [/^lib\/data\/sports\/supplemental\/152565\.json$/], leagues: ['WNBA'], minPrevious: 5, maxDrop: 0.65, emptyMonths: [11, 12, 1, 2, 3] },

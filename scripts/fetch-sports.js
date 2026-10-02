@@ -85,8 +85,8 @@ const SUPPLEMENTAL_CONFIGS = {
       broadcast: 'network'
     }
   },
-  // NHL is intentionally absent. scripts/fetch-nhl.js exclusively owns NHL
-  // supplemental files using the league's official, complete schedule feed.
+  // NHL and MLS are intentionally absent. Their dedicated fetchers exclusively
+  // own supplemental files using complete structured league feeds.
 };
 
 // Major leagues to track
@@ -513,7 +513,8 @@ async function isSupplementalStale(teamId, dataDir = SUPPLEMENTAL_DATA_DIR) {
 /**
  * Fetches, processes, and stores league events and team supplemental schedules.
  *
- * NHL refreshes only the league cache; its supplemental files have a dedicated fetcher.
+ * NHL and MLS refresh only their league caches; dedicated fetchers own their
+ * supplemental files.
  * Required league failures reject after all leagues are attempted; optional enrichment
  * failures are caught. Directory creation errors propagate, and completed writes are
  * not rolled back on later failures.
@@ -557,9 +558,9 @@ export async function main({
 
       // Team discovery is only needed for optional supplemental sources.
       // A failed enrichment must not prevent publishing a valid league schedule.
-      // The dedicated official NHL fetcher exclusively owns NHL supplemental
-      // files; this generic job still refreshes the league cache above.
-      if (league.id === '4380') continue;
+      // Dedicated structured fetchers exclusively own NHL and MLS supplemental
+      // files; this generic job still refreshes each league cache above.
+      if (['4380', '4346'].includes(league.id)) continue;
       if (!SUPPLEMENTAL_CONFIGS[league.id] && !firecrawlApiKey) continue;
       try {
         console.log(`Discovering teams for ${league.name}...`);

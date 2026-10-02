@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { evaluateSource } from '../lib/schedule-freshness.js';
+import { evaluateSource, SOURCES } from '../lib/schedule-freshness.js';
 
 const source = { id: 'demo', name: 'Demo', workflow: 'fetch-demo.yml', activeMonths: [6], horizonDays: 7, fetchGraceDays: 3 };
 const signal = newest => ({ newest, datedRecords: 10, matchedFiles: 1 });
@@ -105,4 +105,11 @@ test('existing active sources still enforce their configured horizon', () => {
   });
   assert.equal(result.status, 'stale');
   assert.deepEqual(result.reasonCategories, ['data-horizon']);
+});
+
+test('MLS freshness follows its February-November season and dedicated workflow', () => {
+  const mls = SOURCES.find(item => item.id === 'mls');
+  assert.equal(mls.workflow, 'fetch-mls.yml');
+  assert.equal(mls.matchLeague, 'MLS');
+  assert.deepEqual(mls.activeMonths, [2,3,4,5,6,7,8,9,10,11]);
 });
