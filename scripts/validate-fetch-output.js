@@ -152,10 +152,21 @@ export async function validateChangedFiles(source, { stage = false, now = new Da
   // A fetcher is allowed to replace its upcoming view only after every displaced
   // record has reached the permanent archive. This comparison includes untracked
   // files and runs before staging/committing.
-  await preserveAndValidate({ baseline: process.env.CALENDAR_HISTORY_BASELINE || 'HEAD', archive: stage });
+  try {
+    await preserveAndValidate({ baseline: process.env.CALENDAR_HISTORY_BASELINE || 'HEAD', archive: stage });
+  } catch (error) {
+    await restore([...new Set([...allChanged, ARCHIVE_FILE])]);
+    throw error;
+  }
   if (stage) {
     if (files.length) await git(['add', '--', ...files]);
-    try { await fs.access(ARCHIVE_FILE); await git(['add', '--', ARCHIVE_FILE]); } catch {}
+    try {
+      await fs.access(ARCHIVE_FILE);
+    } catch (error) {
+      if (error.code !== 'ENOENT') throw error;
+      return files;
+    }
+    await git(['add', '--', ARCHIVE_FILE]);
   }
   return files;
 }
