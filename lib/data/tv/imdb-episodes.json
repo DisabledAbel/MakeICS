@@ -97,9 +97,25 @@
           "season": 1,
           "number": 12,
           "name": "Hallow's Eve Hijinks/Costume Clash",
-          "airdate": "2026-08-19",
+          "airdate": "2026-10-02",
           "summary": "Zane releases a mischievous goblin to help win a Hallow's Eve decoration contest. Lucinda the Witch and Camila spend All Hallow's Eve with Sofia.",
           "url": "https://www.imdb.com/title/tt39364974/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "name": "The Enchanted Lake/Tricky Trixie",
+          "airdate": "2026-11-06",
+          "summary": "Zane accidentally loses Layla's treasured notebook in the Charmswell lake. Camila lets a friendly troll borrow her wand, and the troll runs away with it.",
+          "url": "https://www.imdb.com/title/tt39365193/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "name": "Holiday at Charmswell",
+          "airdate": "2026-11-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39365230/?ref_=ttep_ep_14"
         }
       ]
     },
@@ -23498,6 +23514,14 @@
           "url": "https://www.imdb.com/title/tt44047318/?ref_=ttep_ep_11"
         },
         {
+          "season": 4,
+          "number": 13,
+          "name": "30 Days Inside: Hospitals and the Immigrant Workforce",
+          "airdate": "2026-10-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44047325/?ref_=ttep_ep_13"
+        },
+        {
           "season": 3,
           "number": 1,
           "name": "K-Pop: A Star Is Made",
@@ -27768,7 +27792,7 @@
           "number": 1,
           "name": "I Guess I am a Maniac",
           "airdate": "2026-09-01",
-          "summary": null,
+          "summary": "A Sarasota, Florida woman is found partially clothed and strangled in a wooded ditch. No leads, no suspects, no breaks — until a surprise confession arrives nearly a decade later.",
           "url": "https://www.imdb.com/title/tt46659730/?ref_=ttep_ep_1"
         },
         {
@@ -27776,7 +27800,7 @@
           "number": 2,
           "name": "I Dont Belong Out Here",
           "airdate": "2026-09-02",
-          "summary": "When a psychopath slaughters three generations of a family, investigators uncover a decades-old revenge plot driven by parasitic tendencies.",
+          "summary": "During a routine patrol, a man flags down a police car and confesses that he killed his a family in their Cleveland home. At the station, he shocks them with another confession of a decade old cold case from Camden, New Jersey.",
           "url": "https://www.imdb.com/title/tt46659820/?ref_=ttep_ep_2"
         },
         {
@@ -27792,7 +27816,7 @@
           "number": 4,
           "name": "Violence is What Im Fixed On",
           "airdate": "2026-09-04",
-          "summary": "After a mother of three mysteriously vanishes following a night out on the town, investigators discover a sexual psychopath's nightmarish desires.",
+          "summary": "A mother of three mysteriously vanishes following a night out in Jensen Beach, Florida. Days later, investigators discover her body in the septic tank, revealing how callous her murderer is.",
           "url": "https://www.imdb.com/title/tt46659839/?ref_=ttep_ep_4"
         },
         {
@@ -27800,7 +27824,7 @@
           "number": 5,
           "name": "I Think I Can Outsmart God",
           "airdate": "2026-09-05",
-          "summary": "In the morning hours of Christmas Eve, motorists are horrified when the discover two bodies along the I-85",
+          "summary": "In the morning hours of Christmas Eve, motorists are horrified when they discover two bodies along the I-85 near Anderson, South Carolina. Detectives uncover a man with a penchant for guns and violent fantasies.",
           "url": "https://www.imdb.com/title/tt46659840/?ref_=ttep_ep_5"
         },
         {
@@ -27808,7 +27832,7 @@
           "number": 6,
           "name": "I Just Wanted to Hurt Her",
           "airdate": "2026-09-06",
-          "summary": "When a woman vanishes, it doesn't take detectives long to suspect her estranged husband.",
+          "summary": "When a woman vanishes from Shelby, Ohio, it doesn't take detectives long to suspect her estranged husband. When questioned, he appears eerily calm and casual, when in fact he cannot tolerate rejection.",
           "url": "https://www.imdb.com/title/tt46659842/?ref_=ttep_ep_6"
         },
         {
@@ -29072,6 +29096,38 @@
           "airdate": "2026-02-10",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39752035/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 4,
+          "number": 18,
+          "name": "Bleu Sees Red",
+          "airdate": "2026-08-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47948481/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 4,
+          "number": 19,
+          "name": "You Know What I'm About to See",
+          "airdate": "2026-08-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47948486/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 4,
+          "number": 20,
+          "name": "He Lied Day One",
+          "airdate": "2026-08-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47948490/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 4,
+          "number": 28,
+          "name": "Fishing tor the Truth",
+          "airdate": "2026-09-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47948506/?ref_=ttep_ep_24"
         },
         {
           "season": 3,
@@ -31734,9 +31790,9 @@
         {
           "season": 9,
           "number": 7,
-          "name": "I Came, I Saw, I Needed a Break",
+          "name": "(Don't) Lean on Me",
           "airdate": "2026-10-13",
-          "summary": "Jaz struggles to board the boat to Catalina Island while Nesha's anxiety about the race sets in. As Nesha makes plans to host her next event, Jaz starts to feel left behind. Later, the girls plan their first international trip.",
+          "summary": "Andrea and Tammy get bad news about their wedding. Chris and Brittany try to add some spice to their relationship. Amy's opportunity-of-a-lifetime may tear the family apart as Tammy makes a surprise request.",
           "url": "https://www.imdb.com/title/tt46668593/?ref_=ttep_ep_7"
         },
         {
@@ -36390,15 +36446,15 @@
           "number": 3,
           "name": "Rabbits Don't Swim",
           "airdate": "2026-10-02",
-          "summary": null,
+          "summary": "Julia welcomes a new staff member to Leathers. Brian and Dougal prepare their men for combat. Ellen defends her family and clan with cleverness.",
           "url": "https://www.imdb.com/title/tt39602055/?ref_=ttep_ep_3"
         },
         {
           "season": 2,
           "number": 4,
           "name": "A Portion of My Soul",
-          "airdate": "2026-10-10",
-          "summary": null,
+          "airdate": "2026-10-09",
+          "summary": "Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.",
           "url": "https://www.imdb.com/title/tt39602072/?ref_=ttep_ep_4"
         },
         {
@@ -38358,7 +38414,7 @@
         {
           "season": 51,
           "number": 3,
-          "name": "Episode #51.3",
+          "name": "What I'm Smellin' is Stinky",
           "airdate": "2026-10-07",
           "summary": "In the wake of a rocky tribal council, a castaway makes a shocking move; a mysterious Tree Mail delivers a game-changing twist; two castaways secretly bond at tribal council in an attempt to change the course of the vote.",
           "url": "https://www.imdb.com/title/tt45920637/?ref_=ttep_ep_3"
@@ -40697,7 +40753,7 @@
         {
           "season": 2,
           "number": 5,
-          "name": "Episode #2.5",
+          "name": "My Best Friend's Birthday",
           "airdate": "2026-10-21",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42624412/?ref_=ttep_ep_5"
@@ -40817,7 +40873,7 @@
           "number": 30,
           "name": "Beast Mode",
           "airdate": "2026-09-30",
-          "summary": null,
+          "summary": "MrBeast and Jeff Housenbold guest as Sharks. Entrepreneurs pitch a DIY wedding video service, a finger-shaped caulking tool, an AI-powered ball, and a mystery box of returned goods.",
           "url": "https://www.imdb.com/title/tt43649197/?ref_=ttep_ep_1"
         },
         {
@@ -40945,7 +41001,7 @@
           "number": 17,
           "name": "Million Dollar Offer: See Which Shark Makes a Million Dollar Offer for a Never-Before-Seen Idea!",
           "airdate": "2026-04-15",
-          "summary": null,
+          "summary": "Disaster-resistant housing; scented body moisturizer; allergen-free restaurant; grip pads designed for athletic use.",
           "url": "https://www.imdb.com/title/tt41610459/?ref_=ttep_ep_17"
         },
         {
@@ -40953,7 +41009,7 @@
           "number": 18,
           "name": "Season Finale: Which Shark Will Get a Slice of a Unique Family Based Pizza Business? Plus an Update on Pete Davidson's Sock Company.",
           "airdate": "2026-04-22",
-          "summary": null,
+          "summary": "The Sharks review pitches for a beginner social investing platform, low-calorie sweets, a shipping service for over-packers, and a frozen pizza brand supporting the deaf community.",
           "url": "https://www.imdb.com/title/tt41610645/?ref_=ttep_ep_18"
         },
         {
@@ -41324,9 +41380,9 @@
         {
           "season": 2,
           "number": 22,
-          "name": "Episode #2.22",
+          "name": "Mt. ScrabbleMore",
           "airdate": "2026-10-01",
-          "summary": null,
+          "summary": "Three contestants face off in a word battle as they climb their way to the final round to play for $10,000.",
           "url": "https://www.imdb.com/title/tt36985562/?ref_=ttep_ep_22"
         },
         {
@@ -41688,15 +41744,15 @@
         {
           "season": 1,
           "number": 3,
-          "name": "Episode #1.3",
+          "name": "Chip Off the Block",
           "airdate": "2026-10-15",
-          "summary": null,
+          "summary": "With the prenup thrown into question, Morgan's relationship with his stepson, Gabe, becomes central to both firms' plans.",
           "url": "https://www.imdb.com/title/tt38962307/?ref_=ttep_ep_3"
         },
         {
           "season": 1,
           "number": 4,
-          "name": "Episode #1.4",
+          "name": "Sing",
           "airdate": "2026-10-22",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38962497/?ref_=ttep_ep_4"
@@ -41704,7 +41760,7 @@
         {
           "season": 1,
           "number": 5,
-          "name": "Episode #1.5",
+          "name": "Every Little Thing She Does",
           "airdate": "2026-10-29",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38962917/?ref_=ttep_ep_5"
@@ -41712,7 +41768,7 @@
         {
           "season": 1,
           "number": 6,
-          "name": "Episode #1.6",
+          "name": "The Simple Act of Paying Attention",
           "airdate": "2026-11-05",
           "summary": null,
           "url": "https://www.imdb.com/title/tt38963332/?ref_=ttep_ep_6"
@@ -41910,7 +41966,7 @@
         {
           "season": 2,
           "number": 22,
-          "name": "Episode #2.22",
+          "name": "Science and Nurture",
           "airdate": "2026-10-01",
           "summary": null,
           "url": "https://www.imdb.com/title/tt36985618/?ref_=ttep_ep_22"
@@ -42028,9 +42084,9 @@
         {
           "season": 7,
           "number": 1,
-          "name": "Episode #7.1",
+          "name": "Gillian Jacobs/Omarion/Matt Iseman/",
           "airdate": "2026-10-02",
-          "summary": null,
+          "summary": "Celebrity contestants Gillian Jacobs, Omarion, and Matt Iseman;",
           "url": "https://www.imdb.com/title/tt44387770/?ref_=ttep_ep_1"
         },
         {
@@ -42202,7 +42258,7 @@
         {
           "season": 17,
           "number": 1,
-          "name": "Episode #17.1",
+          "name": "The Most Gold Wins",
           "airdate": "2026-10-02",
           "summary": null,
           "url": "https://www.imdb.com/title/tt46080788/?ref_=ttep_ep_1"
@@ -43762,6 +43818,38 @@
           "airdate": "2026-10-04",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45901420/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 21,
+          "number": 2,
+          "name": "Episode #21.2",
+          "airdate": "2026-10-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47943751/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 21,
+          "number": 3,
+          "name": "Episode #21.3",
+          "airdate": "2026-10-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47949137/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 21,
+          "number": 4,
+          "name": "Episode #21.4",
+          "airdate": "2026-10-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47949138/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 21,
+          "number": 5,
+          "name": "Episode #21.5",
+          "airdate": "2026-11-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47949139/?ref_=ttep_ep_5"
         },
         {
           "season": 20,
@@ -46492,7 +46580,7 @@
         {
           "season": 6,
           "number": 3,
-          "name": "Episode #6.3",
+          "name": "Tryouts",
           "airdate": "2026-10-21",
           "summary": null,
           "url": "https://www.imdb.com/title/tt47884471/?ref_=ttep_ep_3"
@@ -47510,6 +47598,14 @@
           "url": "https://www.imdb.com/title/tt39389679/?ref_=ttep_ep_1"
         },
         {
+          "season": 3,
+          "number": 2,
+          "name": "A Serious Journalist and Your Brain on Drugs",
+          "airdate": "2026-10-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47953877/?ref_=ttep_ep_2"
+        },
+        {
           "season": 2,
           "number": 1,
           "name": "A Tie Breaker and a Huge Mistake",
@@ -47698,6 +47794,30 @@
           "airdate": "2026-10-08",
           "summary": null,
           "url": "https://www.imdb.com/title/tt40337132/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Baby Vampire",
+          "airdate": "2026-10-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47805013/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "The Mistake",
+          "airdate": "2026-10-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47730936/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Halloween",
+          "airdate": "2026-10-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47805481/?ref_=ttep_ep_4"
         }
       ]
     },
@@ -49404,6 +49524,666 @@
           "airdate": "2026-05-22",
           "summary": "A high-stakes case intersects with crucial personal and career choices, testing the team. With the D.A. race approaching, changing relationships and a surprise event intensify pressure and spark questions.",
           "url": "https://www.imdb.com/title/tt39008989/?ref_=ttep_ep_20"
+        }
+      ]
+    },
+    "tt0078701": {
+      "imdbId": "tt0078701",
+      "title": "This Old House",
+      "episodes": [
+        {
+          "season": 48,
+          "number": 1,
+          "name": "Essex County Colonial: Garden State of Mind",
+          "airdate": "2026-10-01",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43437192/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 47,
+          "number": 2,
+          "name": "Asheville: Rising Out of the Muck",
+          "airdate": "2025-10-02",
+          "summary": "The builders start putting the homes back together in Asheville; rough-ins begin; meteorologist Stephanie Abrams explains why the storm hit Asheville so hard.",
+          "url": "https://www.imdb.com/title/tt38494851/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 47,
+          "number": 3,
+          "name": "Asheville: All Clear",
+          "airdate": "2025-10-09",
+          "summary": "Mark meets with a local mason to investigate the depth of damage caused to a chimney by a fallen tree; siding starts to go up at Paula's; Kevin meets with Army Corp to discuss their continued relief efforts.",
+          "url": "https://www.imdb.com/title/tt38645918/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 47,
+          "number": 4,
+          "name": "Asheville: Waterproof Work",
+          "airdate": "2025-10-16",
+          "summary": "In Swannanoa, Kevin helps Jim's brother Bill tile a bathroom; father and son roofers JD and Jayden; removing rot and replacing the damaged area of Paula's deck.",
+          "url": "https://www.imdb.com/title/tt38715998/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 47,
+          "number": 5,
+          "name": "Asheville: Out of the Mountains",
+          "airdate": "2025-10-23",
+          "summary": "Kevin helps in Swannanoa while Jenn checks in with homeowner Melinda as FEMA clears damaged trees; Mark tours an historic Inn; Richard joins building science experts who air seal Paula's house.",
+          "url": "https://www.imdb.com/title/tt38778176/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 47,
+          "number": 6,
+          "name": "Asheville: Community Carpenters",
+          "airdate": "2025-10-30",
+          "summary": "Kevin visits a high school carpentry program that's helping the community; meeting with an electrician in North Asheville; Tommy helps homeowner Paula turn an antique chest into a bathroom vanity.",
+          "url": "https://www.imdb.com/title/tt38814428/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 47,
+          "number": 7,
+          "name": "Asheville: Boulder Dash",
+          "airdate": "2025-11-06",
+          "summary": "Mauro helps Paula stain her front door; Jenn meets with the North Asheville landscaper who is using boulders to make a new retaining wall and steps; Kevin helps project manager Noah install an interior door.",
+          "url": "https://www.imdb.com/title/tt38891407/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 47,
+          "number": 8,
+          "name": "Asheville: Bricks, Blinds and Brews",
+          "airdate": "2025-11-13",
+          "summary": "Kevin takes a tour of the restaurants and breweries that are opening back up after Hurricane Helene; prepping homeowners Jim and Allies' house to be painted; Mark installs a fireplace at the North Asheville project.",
+          "url": "https://www.imdb.com/title/tt38951571/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 47,
+          "number": 9,
+          "name": "Asheville: Silt and Stone",
+          "airdate": "2026-01-03",
+          "summary": "Kevin visits a local workshop that is building a vanity top for homeowner Paula; Jenn has the Swannanoa soil tested after the flood and delivers the news to homeowners Jim and Allie.",
+          "url": "https://www.imdb.com/title/tt39282462/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 47,
+          "number": 10,
+          "name": "Asheville: Putting Down Roots",
+          "airdate": "2026-01-08",
+          "summary": "Jenn takes Swannanoa homeowners shopping and then helps with landscaping in North Asheville. Kevin heads to Georgia for a carpet factory tour. Zack helps install a butcher block counter at Miah's.",
+          "url": "https://www.imdb.com/title/tt39325270/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 47,
+          "number": 11,
+          "name": "Asheville: Coming Home",
+          "airdate": "2026-01-15",
+          "summary": "It's a celebration in Western North Carolina as five families return to their homes after rebuilding from Hurricane Helene. The crew tours the houses and connects with each family.",
+          "url": "https://www.imdb.com/title/tt39333750/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 47,
+          "number": 12,
+          "name": "Needham: Needed in Needham",
+          "airdate": "2026-01-22",
+          "summary": "The team explores plans for a new layout and rear addition for an 1896 Queen Anne; removing and saving an old brick walkway.",
+          "url": "https://www.imdb.com/title/tt39333752/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 47,
+          "number": 13,
+          "name": "Needham: Pouring It On",
+          "airdate": "2026-01-29",
+          "summary": "Kevin and Tom remove and save the kitchen cabinets for reuse. Up on the roof, Charlie and Mark tackle the chimney teardown.Kevin meets with the architect to learn the homeowner's vision before checking in on foundation plans with Charlie.",
+          "url": "https://www.imdb.com/title/tt39523379/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 47,
+          "number": 14,
+          "name": "Needham: Reduce, Reside, Recycle",
+          "airdate": "2026-02-05",
+          "summary": "Kevin and Charlie remove aluminum siding from the house. Kevin heads off site to visit the company that takes the aluminum away to be recycled. Back at the house, a new steel beam is installed.",
+          "url": "https://www.imdb.com/title/tt39710061/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 47,
+          "number": 15,
+          "name": "Needham: Getting Our Ducts in a Row",
+          "airdate": "2026-02-12",
+          "summary": "Re-ducting the house to make the system more efficient; demolishing the third-floor ceiling for the new insulation; installing a double-hung window in the dining room.",
+          "url": "https://www.imdb.com/title/tt39862734/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 47,
+          "number": 16,
+          "name": "Needham: Trim and Proper",
+          "airdate": "2026-02-19",
+          "summary": "A made-to-order window trim factory; installing edge boards on a new deck; finishing the tongue-and-groove decking; landscaping plans.",
+          "url": "https://www.imdb.com/title/tt39862745/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 47,
+          "number": 17,
+          "name": "Suburban Victorian: Foot Traffic",
+          "airdate": "2026-03-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41121799/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 47,
+          "number": 18,
+          "name": "Suburban Victorian: Going Through Customs",
+          "airdate": "2026-04-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41121801/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 47,
+          "number": 19,
+          "name": "Suburban Victorian: Everything Old Is New Again",
+          "airdate": "2026-04-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41423540/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 47,
+          "number": 20,
+          "name": "Suburban Victorian: Let It Show",
+          "airdate": "2026-04-16",
+          "summary": "The renovation of the 1890s Victorian wraps up; touring the house, including its new back extension; the location of the next project is revealed.",
+          "url": "https://www.imdb.com/title/tt40929928/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 47,
+          "number": 21,
+          "name": "Walpole ADU: Welcome to Walpole",
+          "airdate": "2026-04-23",
+          "summary": "A Walpole ranch is reimagined with an ADU for ageing parents, a primary suite bump-out, smarter baths and better flow from garage to new mudroom and kitchen.",
+          "url": "https://www.imdb.com/title/tt41850352/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 47,
+          "number": 22,
+          "name": "Walpole ADU: An ADU Takes Shape",
+          "airdate": "2026-04-30",
+          "summary": "Kevin demos a wall in the primary bedroom; framing an exterior wall to tie old and new spaces together; reviewing shared plumbing for the ADU; burying a new 400-amp service to feed both homes.",
+          "url": "https://www.imdb.com/title/tt42104191/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 47,
+          "number": 23,
+          "name": "Walpole ADU: Retro Vibes",
+          "airdate": "2026-05-07",
+          "summary": "Installing vinyl siding on the main house and ADU; revealing the ADU's framed layout; reviewing basement HVAC; installing a three-panel slider to connect indoor and outdoor living.",
+          "url": "https://www.imdb.com/title/tt42541610/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 47,
+          "number": 24,
+          "name": "Walpole ADU: An Attic ADU",
+          "airdate": "2026-05-14",
+          "summary": "Touring a new attic apartment ADU in Dorchester, Mass.; plumbing update.",
+          "url": "https://www.imdb.com/title/tt42541612/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 47,
+          "number": 25,
+          "name": "Asheville Rebuilds",
+          "airdate": "2025-09-25",
+          "summary": "Five families work to rebuild their lives in the wake of Hurricane Helene.",
+          "url": "https://www.imdb.com/title/tt38126679/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 47,
+          "number": 26,
+          "name": "Walpole ADU: A Double Homecoming",
+          "airdate": "2026-05-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42990648/?ref_=ttep_ep_26"
+        }
+      ]
+    },
+    "tt0271894": {
+      "imdbId": "tt0271894",
+      "title": "48 Hours",
+      "episodes": [
+        {
+          "season": 39,
+          "number": 2,
+          "name": "Murder in the Parking Garage",
+          "airdate": "2025-10-04",
+          "summary": "The 2023 murder of Kenneth Fandrich in a Hillsboro, Oregon, corporate parking garage, a case solved by detectives who used security footage of a masked killer spray-painting cameras to identify the perpetrator.",
+          "url": "https://www.imdb.com/title/tt38607830/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 39,
+          "number": 3,
+          "name": "A Death in the Stairwell",
+          "airdate": "2025-10-11",
+          "summary": "A wife becomes a murder suspect after her husband is discovered near death at the bottom of stairs. She battles to prove her innocence as \"48 Hours\" reporter Peter Van Sant covers the case.",
+          "url": "https://www.imdb.com/title/tt38702197/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 39,
+          "number": 4,
+          "name": "My Uncle Joe's Murder",
+          "airdate": "2025-10-18",
+          "summary": "Well known Washington DC photographer Joe Skymanski goes missing and is later found murdered. While researching the story, Nikki Battiste discovers she has a connection to the case.",
+          "url": "https://www.imdb.com/title/tt38702198/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 39,
+          "number": 5,
+          "name": "Closing the Cold Case of Robin Lawrence",
+          "airdate": "2025-10-25",
+          "summary": "A mother was murdered at home with only her 2-year-old present in Springfield, Va. The child survived alone for 2 days until the body was found. 30 years later, detectives identified an unexpected suspect.",
+          "url": "https://www.imdb.com/title/tt38773334/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 39,
+          "number": 6,
+          "name": "The Han Family Murders",
+          "airdate": "2025-11-08",
+          "summary": "The murders of a beloved doctor, his wife and their young daughter leave their Santa Barbara CA community reeling; a manhunt leads to the arrest of a suspect who prosecutors say is a conman.",
+          "url": "https://www.imdb.com/title/tt38952416/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 39,
+          "number": 7,
+          "name": "Tracker Dakota Black",
+          "airdate": "2025-11-15",
+          "summary": "When a young mother goes missing, trained tracker and detective Dakota Black launches an investigation that locates the murdered woman.",
+          "url": "https://www.imdb.com/title/tt39015695/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 39,
+          "number": 8,
+          "name": "The Setup Murder of Kristil Krug",
+          "airdate": "2025-11-29",
+          "summary": "The murder of a Colorado mother seems to indicate an obvious suspect but further investigation shows a web of secrets and deception.",
+          "url": "https://www.imdb.com/title/tt39035973/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 39,
+          "number": 9,
+          "name": "Help Find Molly Bish's Killer",
+          "airdate": "2025-12-06",
+          "summary": "Decades after 16-year-old Molly Bish vanished, her sister turns to TikTok for answers.",
+          "url": "https://www.imdb.com/title/tt39378093/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 39,
+          "number": 10,
+          "name": "Joe Hunter's Mission",
+          "airdate": "2025-12-13",
+          "summary": "\"Survivor\" contestant Joe Hunter says his sister, whose death was officially ruled a suicide, was murdered.",
+          "url": "https://www.imdb.com/title/tt39238460/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 39,
+          "number": 11,
+          "name": "Coached to Kill",
+          "airdate": "2026-01-03",
+          "summary": "Did a softball coach try to get an ex-player to commit murder? Anne-Marie Green investigates.",
+          "url": "https://www.imdb.com/title/tt39296890/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 39,
+          "number": 12,
+          "name": "The Gaslighting of Hannah Pettey",
+          "airdate": "2026-01-10",
+          "summary": "An Alabama mother falls critically ill from deliberate lead poisoning and police search for who among her family and friends was responsible.",
+          "url": "https://www.imdb.com/title/tt39328332/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 39,
+          "number": 13,
+          "name": "Melissa Rocuba's Final Moments",
+          "airdate": "2026-01-17",
+          "summary": "On a steamy August night in 2013, Melissa Rocuba was airlifted to a hospital still clinging to life with a bullet wound to her head.",
+          "url": "https://www.imdb.com/title/tt39393635/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 39,
+          "number": 14,
+          "name": "The Mother I Wish I Knew",
+          "airdate": "2026-01-24",
+          "summary": "After 37 years, prosecutors feel they have enough evidence to bring the main suspect in the murder of a young Oregon mother to trial.",
+          "url": "https://www.imdb.com/title/tt39393703/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 39,
+          "number": 15,
+          "name": "The Sneak Attack on Katlyn Lyon",
+          "airdate": "2026-01-31",
+          "summary": "When Katlyn Lyon Montgomery dies in October 2022, her mother turns to TikTok to share her grief and demand justice, building an online community to help hold Katlyn's killer accountable.",
+          "url": "https://www.imdb.com/title/tt39734542/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 39,
+          "number": 16,
+          "name": "The Rx Defense",
+          "airdate": "2026-02-07",
+          "summary": "When a teenager shoots two of his friends, he claims the shooting was triggered by a reaction to a popular prescription acne medication that caused him to experience homicidal thoughts.",
+          "url": "https://www.imdb.com/title/tt39736439/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 39,
+          "number": 17,
+          "name": "The Girl From Wahoo",
+          "airdate": "2026-02-14",
+          "summary": "Police work to solve the 1969 cold case murder of a 17 year-old girl in a cornfield in Yahoo, Nebraska.",
+          "url": "https://www.imdb.com/title/tt39797580/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 39,
+          "number": 18,
+          "name": "Sade Robinson and the Secret Beach",
+          "airdate": "2026-02-21",
+          "summary": "A Milwaukee college student disappears after a first date. Investigators use phone app data to track her movements and identify suspect Maxwell Anderson. Security footage and beach evidence emerge in the search for Sade Robinson.",
+          "url": "https://www.imdb.com/title/tt39875796/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 39,
+          "number": 19,
+          "name": "The Woman Who Died Twice",
+          "airdate": "2026-02-28",
+          "summary": "A woman's body is found in a swamp, murdered. Impossible, say friends, who learned she'd died in a hospital five months earlier.",
+          "url": "https://www.imdb.com/title/tt40231146/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 39,
+          "number": 20,
+          "name": "Jocelyn Peters and the Notebook",
+          "airdate": "2026-03-14",
+          "summary": "In March 2016, St. Louis teacher Jocelyn Peters, 30 and pregnant, was found murdered in her apartment after friends reported her missing. Investigators searched her relationships and recent activities to uncover who killed her and why.",
+          "url": "https://www.imdb.com/title/tt40500494/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 39,
+          "number": 21,
+          "name": "What the Neighbors Saw",
+          "airdate": "2026-03-21",
+          "summary": "A Minnesota man goes missing in 2014 and it isn't until six years later that his body is found and the mystery of his disappearance is solved.",
+          "url": "https://www.imdb.com/title/tt40588747/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 39,
+          "number": 22,
+          "name": "Denise and Aaron Quinn Get the Last Word",
+          "airdate": "2026-03-28",
+          "summary": "Denise Huskins Quinn and Aaron Quinn share how they worked with law enforcement to help uncover additional crimes committed by their attacker, helping to bring justice to other victims.",
+          "url": "https://www.imdb.com/title/tt40908877/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 39,
+          "number": 24,
+          "name": "Kimberly Langwell's Hidden Grave",
+          "airdate": "2026-04-11",
+          "summary": "When a mother vanishes, her daughter is desperate for answers; decades later, a secret grave solves the mystery.",
+          "url": "https://www.imdb.com/title/tt37183184/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 39,
+          "number": 27,
+          "name": "The Boy Who Killed His Twin",
+          "airdate": "2025-09-27",
+          "summary": "The case of 17-year-old Benjamin Elliott, whose defense team says he was sleepwalking when he fatally stabbed his twin sister.",
+          "url": "https://www.imdb.com/title/tt37158896/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 39,
+          "number": 28,
+          "name": "Beverly Hills 911",
+          "airdate": "2026-05-09",
+          "summary": "When a widow is found dead below a staircase in her Beverly Hills mansion, detectives search for answers.",
+          "url": "https://www.imdb.com/title/tt42102792/?ref_=ttep_ep_28"
+        },
+        {
+          "season": 39,
+          "number": 29,
+          "name": "The Man With Two Names",
+          "airdate": "2026-05-16",
+          "summary": "A dangerous secret spans from a deadly Monaco arson to a murder plan, New Mexico.",
+          "url": "https://www.imdb.com/title/tt42720756/?ref_=ttep_ep_29"
+        },
+        {
+          "season": 39,
+          "number": 30,
+          "name": "Kouri Richins: Behind the Façade",
+          "airdate": "2026-05-23",
+          "summary": "Children of convicted killer Kouri Richins fear their own mother and want her to remain imprisoned.",
+          "url": "https://www.imdb.com/title/tt42751074/?ref_=ttep_ep_30"
+        },
+        {
+          "season": 38,
+          "number": 3,
+          "name": "The Depraved Heart Murder",
+          "airdate": "2024-10-05",
+          "summary": "In 2022, 25-year-old Sarah Harris was found dead from an overdose at the house of her boyfriend, Dr. James Ryan - who employed her as his dental assistant. Sarah's family are not convinced it was suicide or an accidental death.",
+          "url": "https://www.imdb.com/title/tt33589254/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 38,
+          "number": 4,
+          "name": "Where is Jermain Charlo?",
+          "airdate": "2024-10-12",
+          "summary": "Police release last known images of 23-year-old missing mom Jermain Charlo, who went missing in Missoula, Montana in 2018. Can this security camera video help reveal what happened to her?",
+          "url": "https://www.imdb.com/title/tt33829550/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 38,
+          "number": 5,
+          "name": "Who Killed Aileen Seiden in Room 15?",
+          "airdate": "2024-10-19",
+          "summary": "In April 2018, Aileen Seiden's body was found in Eastpoint, Florida. The next day, a bloody motel room was discovered. Investigators looked into whether the two scenes were connected, involving a killer who had struck the Gulf Coast town.",
+          "url": "https://www.imdb.com/title/tt34089043/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 38,
+          "number": 6,
+          "name": "The Strange Shooting of Alex Pennig",
+          "airdate": "2024-10-26",
+          "summary": "In December 2022, in St. Paul, Minnesota, detectives investigate the death of 32-year-old Alexandra Pennig, who was found dead in her bathtub from a single gunshot to the head. Was it suicide, or something more sinister?",
+          "url": "https://www.imdb.com/title/tt34306596/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 38,
+          "number": 7,
+          "name": "Fatal First Date",
+          "airdate": "2024-11-02",
+          "summary": "In 2021, Leslie Reeves and Chris Smith were enjoying their first date when they were ambushed at Smith's home by an intruder. Leslie was fatally shot and Chris was critically injured, leaving him in a coma for weeks. Who was responsible?",
+          "url": "https://www.imdb.com/title/tt34385280/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 38,
+          "number": 8,
+          "name": "Tracking the Killer of Mary Catherine Edwards",
+          "airdate": "2024-11-09",
+          "summary": "In 1995, Mary Catherine Edwards - a 31-year-old elementary school teacher - was found murdered in her own home. For years, the case went cold, but with the help of forensic evidence, police discover a suspect decades later.",
+          "url": "https://www.imdb.com/title/tt34509494/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 38,
+          "number": 9,
+          "name": "The Plot to Eliminate Alyssa Burkett",
+          "airdate": "2024-11-16",
+          "summary": "In a small Texas town, a mother's worst nightmare becomes a tragic reality.",
+          "url": "https://www.imdb.com/title/tt34614060/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 38,
+          "number": 10,
+          "name": "The Firefighter's Secret",
+          "airdate": "2024-11-30",
+          "summary": "A woman is found dead in her burning Illinois home in 2020, but it is not clear if the fire is what killed her.",
+          "url": "https://www.imdb.com/title/tt34822003/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 38,
+          "number": 11,
+          "name": "The 'Batman' Intruder",
+          "airdate": "2024-12-14",
+          "summary": "On New Year's Day, 2021, Morgan Metzer woke up to find a masked intruder in her home, speaking in a low, gravelly voice that resembled Batman. Investigators try and find out who this 'Batman' impersonator was.",
+          "url": "https://www.imdb.com/title/tt35017148/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 38,
+          "number": 12,
+          "name": "The Search for JonBenét's Killer",
+          "airdate": "2024-12-21",
+          "summary": "28 years on from the murder of JonBenét's Ramsey, the case remains unsolved. 48 Hours correspondent Erin Moriarty has covered the case since 1999, and here, she explores new clues and theories.",
+          "url": "https://www.imdb.com/title/tt35075647/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 38,
+          "number": 13,
+          "name": "The Blackout Murder of Livye Lewis",
+          "airdate": "2025-01-04",
+          "summary": "In October 2020, Livye Lewis is found dead in her car at the side of a road in Hemphill, Texas. Her bloodied ex-boyfriend is found in the fetal position behind the car, but he says he no memory of what happened.",
+          "url": "https://www.imdb.com/title/tt35286398/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 38,
+          "number": 14,
+          "name": "Deputy Spivey on Trial",
+          "airdate": "2025-01-11",
+          "summary": "Known to people as the bailiff from the TV show 'Justice for All with Judge Christina Perez', Renard Spivey was charged with fatally shooting his wife in 2019. In an exclusive interview, he tells 48 Hours he is innocent.",
+          "url": "https://www.imdb.com/title/tt35358179/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 38,
+          "number": 15,
+          "name": "Unraveling the Case Against Melissa",
+          "airdate": "2025-01-18",
+          "summary": "In 2009, 22-year-old Melissa Calusinski was convicted of the murder of 16-month-old Benjamin Kingan at a Chicago day-care center. Erin Moriarty, who has covered the case for 48 Hours in the intervening years, returns with new details.",
+          "url": "https://www.imdb.com/title/tt35471291/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 38,
+          "number": 16,
+          "name": "The Ivy League Murder",
+          "airdate": "2025-01-25",
+          "summary": "Detectives investigate the shooting of 26-year-old Kevin Jiang, a Yale graduate student and former Army National Guardsman, in what first appears to be a road rage incident.",
+          "url": "https://www.imdb.com/title/tt35553243/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 38,
+          "number": 17,
+          "name": "The 'No Body' Case of Dee Warner",
+          "airdate": "2025-02-01",
+          "summary": "In 2021, Michigan mother and businesswoman Dee Warner vanished and was presumed dead. Her family are convinced she was murdered, but with no body, the investigation remains cold.",
+          "url": "https://www.imdb.com/title/tt35680009/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 38,
+          "number": 18,
+          "name": "It's About Danni",
+          "airdate": "2025-02-08",
+          "summary": "In 1996, 15-year-old Danni Houchins was found lying face down in a swamp, with the police ruling it an accident. The family, however, always suspected it was something more sinister.",
+          "url": "https://www.imdb.com/title/tt35680015/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 38,
+          "number": 19,
+          "name": "Justine's Voice",
+          "airdate": "2025-02-15",
+          "summary": "48 Hours returns to the story of the family of Justine Vanderschoot, who, in 2003, was brutally murdered. Her parents, Don and Lynnette, and her sister, Christine, continue to fight to keep the murderers in prison.",
+          "url": "https://www.imdb.com/title/tt35747923/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 38,
+          "number": 20,
+          "name": "The Hit-and-Run Homicide of Davis McClendon",
+          "airdate": "2025-03-01",
+          "summary": "When South Carolina authorities find Davis McClendon dead by the road near his wrecked car, they suspect a hit-and-run; an oil trail leads them to a local businessman.",
+          "url": "https://www.imdb.com/title/tt35934505/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 38,
+          "number": 21,
+          "name": "The Unending Search for Sara Anne Wood",
+          "airdate": "2024-09-21",
+          "summary": "In 1993, 12-year-old Sara Anne Wood vanished while she was riding her bike. Three years later, Lewis S. Lent Jr. confessed to her murder, but for the past 28 years, he has refused to tell authorities where Sara's remains are.",
+          "url": "https://www.imdb.com/title/tt33474525/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 38,
+          "number": 22,
+          "name": "Could Angela Prichard Have Been Saved",
+          "airdate": "2025-03-15",
+          "summary": "In 2022, Angela Prichard was murdered by her estranged husband Christopher, in Bellevue, Iowa. Could more have been done to protect her?",
+          "url": "https://www.imdb.com/title/tt36164702/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 38,
+          "number": 23,
+          "name": "Dead Girls Don't Talk",
+          "airdate": "2025-03-29",
+          "summary": "A Los Angeles man awaits sentencing after he was found guilty last month of murdering two young women and sexually assaulting seven others.",
+          "url": "https://www.imdb.com/title/tt36374658/?ref_=ttep_ep_23"
+        },
+        {
+          "season": 38,
+          "number": 24,
+          "name": "The Day My Mother Never Came Home",
+          "airdate": "2025-04-12",
+          "summary": "Reggie Reed grew up under the care of his father, Reginald Reed Sr., following the tragic murder of his mother decades earlier. However, a new investigation into the case uncovers evidence that points to his father as a suspect.",
+          "url": "https://www.imdb.com/title/tt36474010/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 38,
+          "number": 25,
+          "name": "First Love, Then Murder",
+          "airdate": "2025-04-19",
+          "summary": "Natalie Morales reports on the investigation into the disappearance of Aaron Friar and his 15-year-old daughter Ellie from their home in Medford, Oregon.",
+          "url": "https://www.imdb.com/title/tt36474011/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 38,
+          "number": 26,
+          "name": "The Farris Wheel",
+          "airdate": "2025-04-26",
+          "summary": "Correspondent Peter Van Sant interviews Melody Farris from prison, where she resides after she was convicted of murdering her husband at their farm in Cherokee County, Georgia, in 2018.",
+          "url": "https://www.imdb.com/title/tt36648747/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 38,
+          "number": 27,
+          "name": "The Boy Across the Street",
+          "airdate": "2025-05-03",
+          "summary": "In 1979, college student Catina Salarno was murdered by her high school boyfriend who lived across the street. As her killer faces his 13th parole hearing in 2025, Catina's family are determined to keep him behind bars.",
+          "url": "https://www.imdb.com/title/tt36770823/?ref_=ttep_ep_27"
+        },
+        {
+          "season": 38,
+          "number": 28,
+          "name": "The Bathtub Murder of Kendy Howard",
+          "airdate": "2024-09-28",
+          "summary": "On the night of 2nd February, 2021, a frantic 911 call is made from the home of former Idaho State Trooper Dan Howard. He claims his wife, Kendy, shot herself while she was in the bath.",
+          "url": "https://www.imdb.com/title/tt33508368/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 38,
+          "number": 29,
+          "name": "The Footprint",
+          "airdate": "2025-05-17",
+          "summary": "In 1993, 35-year-old Jeanie Childs was found murdered in her apartment. With no DNA, all the police had to go on was a set bloody bare footprints.",
+          "url": "https://www.imdb.com/title/tt36981022/?ref_=ttep_ep_29"
+        },
+        {
+          "season": 38,
+          "number": 30,
+          "name": "My Mother's Murder Trials - Part 1",
+          "airdate": "2025-05-31",
+          "summary": "A woman suspects her mother of a double murder; years later, courtroom drama and new testimony reignite the case; featuring extensive testimony from defendant Dana Chandler, along with new and archival interviews.",
+          "url": "https://www.imdb.com/title/tt37233234/?ref_=ttep_ep_30"
+        },
+        {
+          "season": 38,
+          "number": 31,
+          "name": "My Mother's Murder Trials - Part 2",
+          "airdate": "2025-05-31",
+          "summary": "A woman suspects her mother of a double murder; years later, courtroom drama and new testimony reignite the case; featuring extensive testimony from defendant Dana Chandler, along with new and archival interviews.",
+          "url": "https://www.imdb.com/title/tt37233239/?ref_=ttep_ep_31"
         }
       ]
     }
