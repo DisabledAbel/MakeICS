@@ -1,7 +1,7 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-10-02T05:50:22.456Z",
+  "updatedAt": "2026-10-03T16:29:31.804Z",
   "events": [
     {
       "idEvent": "nhl-2026020031",
@@ -14,8 +14,8 @@
       "strLeague": "NHL",
       "strVenue": "Grand Casino Arena",
       "strStatus": "NS",
-      "strTVStation": "MINNHL, NESN, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "KSTC, MINNHL, NESN, Wild+",
+      "updatedAt": "2026-10-03T16:29:31.804Z",
       "source": "scraped",
       "sourceEventId": "2026020031",
       "idHomeTeam": "134857",
