@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:55:34.356Z",
+  "generatedAt": "2026-10-03T10:15:18.308Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5212,6 +5212,36 @@
         {
           "id": "nm2425576",
           "name": "Kara Swisher"
+        }
+      ],
+      "label": "Oct 23, 2026"
+    },
+    {
+      "id": "tt23472798",
+      "title": "Little Thomas",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzI0OWQxZWMtZTM4MS00OTY5LTk1NDYtMjBmNmMxNzJhNTY2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "people": [
+        {
+          "id": "nm3761132",
+          "name": "Gulshan Devaiah"
+        },
+        {
+          "id": "nm2975619",
+          "name": "Rasika Dugal"
+        },
+        {
+          "id": "nm14333063",
+          "name": "Hridansh Parekh"
+        },
+        {
+          "id": "nm6100765",
+          "name": "Ashok Sen"
         }
       ],
       "label": "Oct 23, 2026"
