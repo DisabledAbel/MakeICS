@@ -1,26 +1,8 @@
 {
   "teamId": "134856",
   "teamName": "Dallas Stars",
-  "updatedAt": "2026-10-01T23:56:52.194Z",
+  "updatedAt": "2026-10-03T05:26:49.829Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020020",
-      "strEvent": "Dallas Stars vs St. Louis Blues",
-      "strHomeTeam": "Dallas Stars",
-      "strAwayTeam": "St. Louis Blues",
-      "dateEvent": "2026-10-02",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-03T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN1, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020020",
-      "idHomeTeam": "134856",
-      "idAwayTeam": "134859"
-    },
     {
       "idEvent": "nhl-2026020030",
       "strEvent": "Nashville Predators vs Dallas Stars",

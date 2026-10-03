@@ -1,26 +1,8 @@
 {
   "teamId": "134832",
   "teamName": "Detroit Red Wings",
-  "updatedAt": "2026-10-01T23:56:52.194Z",
+  "updatedAt": "2026-10-03T05:26:49.829Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020017",
-      "strEvent": "Detroit Red Wings vs New York Rangers",
-      "strHomeTeam": "Detroit Red Wings",
-      "strAwayTeam": "New York Rangers",
-      "dateEvent": "2026-10-02",
-      "strTime": "22:30:00",
-      "strTimestamp": "2026-10-02T22:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN1, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020017",
-      "idHomeTeam": "134832",
-      "idAwayTeam": "134842"
-    },
     {
       "idEvent": "nhl-2026020035",
       "strEvent": "Detroit Red Wings vs Winnipeg Jets",

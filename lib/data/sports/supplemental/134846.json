@@ -1,26 +1,8 @@
 {
   "teamId": "134846",
   "teamName": "Anaheim Ducks",
-  "updatedAt": "2026-10-01T23:56:52.194Z",
+  "updatedAt": "2026-10-03T05:26:49.829Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020021",
-      "strEvent": "Vegas Golden Knights vs Anaheim Ducks",
-      "strHomeTeam": "Vegas Golden Knights",
-      "strAwayTeam": "Anaheim Ducks",
-      "dateEvent": "2026-10-02",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-03T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "T-Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "KCOP-13, Prime Video, SCRIPPS, SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020021",
-      "idHomeTeam": "135913",
-      "idAwayTeam": "134846"
-    },
     {
       "idEvent": "nhl-2026020037",
       "strEvent": "Anaheim Ducks vs Florida Panthers",

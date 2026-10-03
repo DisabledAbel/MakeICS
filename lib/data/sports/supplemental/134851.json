@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-10-01T23:56:52.194Z",
+  "updatedAt": "2026-10-03T05:26:49.829Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020019",
-      "strEvent": "Winnipeg Jets vs Boston Bruins",
-      "strHomeTeam": "Winnipeg Jets",
-      "strAwayTeam": "Boston Bruins",
-      "dateEvent": "2026-10-02",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-03T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canada Life Centre",
-      "strStatus": "NS",
-      "strTVStation": "NESN, TSN3",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020019",
-      "idHomeTeam": "134851",
-      "idAwayTeam": "134830"
-    },
     {
       "idEvent": "nhl-2026020035",
       "strEvent": "Detroit Red Wings vs Winnipeg Jets",
