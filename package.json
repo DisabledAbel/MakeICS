@@ -7,6 +7,7 @@
   "scripts": {
     "check:feeds": "node scripts/check-feed-health.js",
     "check:freshness": "node scripts/check-schedule-freshness.js",
+    "check:calendar-history": "node scripts/calendar-history.js",
     "dev": "node server.js",
     "start": "node server.js",
     "test": "node --test"
