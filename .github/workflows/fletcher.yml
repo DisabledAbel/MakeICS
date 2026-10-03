@@ -16,6 +16,9 @@ jobs:
           persist-credentials: true
           fetch-depth: 0
 
+      - name: Capture history baseline
+        run: echo "CALENDAR_HISTORY_BASELINE=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -23,6 +26,9 @@ jobs:
 
       - name: Run Fletcher Script
         run: node scripts/fletcher.js
+
+      - name: Validate calendar history
+        run: node scripts/calendar-history.js --baseline="$CALENDAR_HISTORY_BASELINE" --archive --stage
 
       - name: Commit and Push
         env:
