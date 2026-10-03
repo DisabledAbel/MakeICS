@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { compareHistory } from '../scripts/calendar-history.js';
-import { toIcs as sportsToIcs } from '../lib/sports.js';
+import { getEvents, toIcs as sportsToIcs } from '../lib/sports.js';
 import { buildCalendar, toIcs as combinedToIcs } from '../lib/calendar.js';
 
 const sports = (id, date = '2025-01-02', extra = {}) => ({
@@ -43,4 +43,17 @@ test('individual and combined ICS feeds retain archived event UIDs', async () =>
   const result = await buildCalendar({ teamIds: ['7'], loaders: { getEvents: async () => ({ team: { name: 'A', sport: 'Basketball' }, events: [raw] }) } });
   const combined = combinedToIcs(result, { now: new Date('2026-01-01T00:00:00Z') });
   assert.match(combined, /UID:makeics-sports-7-42@makeics/);
+});
+
+test('real sports loading merges a requested team archive into its ICS feed', async () => {
+  const teamId = '136438';
+  const fetchImpl = async url => {
+    if (url.includes('lookupteam.php')) return Response.json({ teams: [{ idTeam: teamId, strTeam: 'Connecticut Sun', strSport: 'Basketball' }] });
+    if (url.includes('eventsnext.php')) return Response.json({ events: [] });
+    throw new Error(`Unexpected request: ${url}`);
+  };
+  const result = await getEvents({ teamId, now: new Date('2026-10-03T00:00:00Z'), fetchImpl });
+  const archived = result.events.find(event => event.id === 'scraped-401856890');
+  assert.ok(archived, 'expected the committed archive record to be merged');
+  assert.match(sportsToIcs(result), /UID:sportsdb-scraped-401856890@makeics\.local/);
 });
