@@ -1,0 +1,42 @@
+name: Calendar History
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  calendar-history:
+    name: calendar-history
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout complete history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci
+      - name: Select trustworthy baseline
+        id: baseline
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          PR_BASE: ${{ github.event.pull_request.base.sha }}
+          PUSH_BEFORE: ${{ github.event.before }}
+        run: |
+          if [ "$EVENT_NAME" = pull_request ]; then baseline="$PR_BASE"; else baseline="$PUSH_BEFORE"; fi
+          if [ -z "$baseline" ] || [ "$baseline" = "0000000000000000000000000000000000000000" ]; then
+            echo "A readable PR base or previous push commit is required." >&2
+            exit 1
+          fi
+          git cat-file -e "$baseline^{commit}" || { echo "Baseline commit $baseline is unavailable despite full checkout." >&2; exit 1; }
+          echo "sha=$baseline" >> "$GITHUB_OUTPUT"
+      - name: Protect calendar history
+        run: node scripts/calendar-history.js --baseline=${{ steps.baseline.outputs.sha }}

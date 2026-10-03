@@ -3,6 +3,7 @@ import path from 'node:path';
 import { execFile as execFileCallback } from 'node:child_process';
 import { promisify } from 'node:util';
 import { fileURLToPath } from 'node:url';
+import { ARCHIVE_FILE, preserveAndValidate } from './calendar-history.js';
 
 const execFile = promisify(execFileCallback);
 
@@ -101,7 +102,7 @@ async function git(args, options = {}) {
 
 async function changedDataFiles() {
   const [tracked, untracked] = await Promise.all([
-    git(['diff', '--name-only', '--diff-filter=ACMRT', '-z', '--', 'lib/data']),
+    git(['diff', '--name-only', '--diff-filter=ACMRTD', '-z', '--', 'lib/data']),
     git(['ls-files', '--others', '--exclude-standard', '-z', '--', 'lib/data'])
   ]);
   return [...new Set(`${tracked}${untracked}`.split('\0').filter(Boolean))];
@@ -135,7 +136,12 @@ export async function validateChangedFiles(source, { stage = false, now = new Da
   for (const file of files) {
     let current;
     try { current = JSON.parse(await fs.readFile(file, 'utf8')); }
-    catch (error) { errors.push(`${file}: malformed JSON (${error.message})`); continue; }
+    catch (error) {
+      // A deleted file is handled across the complete dataset below: its events
+      // may have moved elsewhere or will be archived before the deletion is staged.
+      if (error.code === 'ENOENT') continue;
+      errors.push(`${file}: malformed JSON (${error.message})`); continue;
+    }
     errors.push(...validateData({ file, current, previous: await previousJson(file), rule, now }));
   }
 
@@ -143,7 +149,14 @@ export async function validateChangedFiles(source, { stage = false, now = new Da
     await restore(allChanged);
     throw new Error(`Data quality gate rejected the ${source} update; restored committed data:\n- ${errors.join('\n- ')}`);
   }
-  if (stage && files.length) await git(['add', '--', ...files]);
+  // A fetcher is allowed to replace its upcoming view only after every displaced
+  // record has reached the permanent archive. This comparison includes untracked
+  // files and runs before staging/committing.
+  await preserveAndValidate({ baseline: process.env.CALENDAR_HISTORY_BASELINE || 'HEAD', archive: stage });
+  if (stage) {
+    if (files.length) await git(['add', '--', ...files]);
+    try { await fs.access(ARCHIVE_FILE); await git(['add', '--', ARCHIVE_FILE]); } catch {}
+  }
   return files;
 }
 
