@@ -1,24 +1,10 @@
 {
   "teamId": "134927",
   "teamName": "Indianapolis Colts",
-  "updatedAt": "2026-09-29T05:46:42.433Z",
+  "updatedAt": "2026-10-04T16:52:48.535Z",
   "generatedAt": "2026-07-18T06:13:33.265Z",
   "generateAt": "2026-07-18T06:13:33.265Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa29dd21-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Washington Commanders vs Indianapolis Colts",
-      "strHomeTeam": "Washington Commanders",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-10-04",
-      "strTime": "13:30:00Z",
-      "strTimestamp": "2026-10-04T13:30:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Tottenham Hotspur Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa94ac06-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Pittsburgh Steelers vs Indianapolis Colts",
