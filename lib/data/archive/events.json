@@ -6728,6 +6728,27 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-401918296",
+      "uid": "sportsdb-scraped-401918296@makeics.local",
+      "source": "lib/data/sports/supplemental/136437.json",
+      "record": {
+        "idEvent": "scraped-401918296",
+        "strEvent": "Golden State Valkyries vs Las Vegas Aces",
+        "strHomeTeam": "Golden State Valkyries",
+        "strAwayTeam": "Las Vegas Aces",
+        "dateEvent": "2026-10-04",
+        "strTime": "20:00:00",
+        "strTimestamp": "2026-10-04T20:00:00Z",
+        "strLeague": "WNBA",
+        "strVenue": "Chase Center",
+        "strStatus": "NS",
+        "strTVStation": "NBC/Peacock",
+        "updatedAt": null,
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-401918297",
       "uid": "sportsdb-scraped-401918297@makeics.local",
       "source": "lib/data/sports/supplemental/136438.json",
@@ -6743,6 +6764,27 @@
         "strVenue": "Gateway Center",
         "strStatus": "NS",
         "strTVStation": null,
+        "updatedAt": null,
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-401918298",
+      "uid": "sportsdb-scraped-401918298@makeics.local",
+      "source": "lib/data/sports/supplemental/136437.json",
+      "record": {
+        "idEvent": "scraped-401918298",
+        "strEvent": "Golden State Valkyries vs Las Vegas Aces",
+        "strHomeTeam": "Golden State Valkyries",
+        "strAwayTeam": "Las Vegas Aces",
+        "dateEvent": "2026-10-08",
+        "strTime": "01:30:00",
+        "strTimestamp": "2026-10-08T01:30:00Z",
+        "strLeague": "WNBA",
+        "strVenue": "Chase Center",
+        "strStatus": "NS",
+        "strTVStation": "Peacock/NBCSN",
         "updatedAt": null,
         "source": "scraped"
       }
@@ -6770,6 +6812,27 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-401918300",
+      "uid": "sportsdb-scraped-401918300@makeics.local",
+      "source": "lib/data/sports/supplemental/136437.json",
+      "record": {
+        "idEvent": "scraped-401918300",
+        "strEvent": "Las Vegas Aces vs Golden State Valkyries",
+        "strHomeTeam": "Las Vegas Aces",
+        "strAwayTeam": "Golden State Valkyries",
+        "dateEvent": "2026-10-10",
+        "strTime": "01:30:00",
+        "strTimestamp": "2026-10-10T01:30:00Z",
+        "strLeague": "WNBA",
+        "strVenue": "Michelob ULTRA Arena",
+        "strStatus": "NS",
+        "strTVStation": "Peacock/NBCSN",
+        "updatedAt": null,
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-401918301",
       "uid": "sportsdb-scraped-401918301@makeics.local",
       "source": "lib/data/sports/supplemental/136438.json",
@@ -6791,6 +6854,27 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-401918302",
+      "uid": "sportsdb-scraped-401918302@makeics.local",
+      "source": "lib/data/sports/supplemental/136437.json",
+      "record": {
+        "idEvent": "scraped-401918302",
+        "strEvent": "Las Vegas Aces vs Golden State Valkyries",
+        "strHomeTeam": "Las Vegas Aces",
+        "strAwayTeam": "Golden State Valkyries",
+        "dateEvent": "2026-10-11",
+        "strTime": "04:00:00",
+        "strTimestamp": "2026-10-11T04:00:00Z",
+        "strLeague": "WNBA",
+        "strVenue": "Michelob ULTRA Arena",
+        "strStatus": "NS",
+        "strTVStation": "NBC/Peacock",
+        "updatedAt": null,
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-401918303",
       "uid": "sportsdb-scraped-401918303@makeics.local",
       "source": "lib/data/sports/supplemental/136438.json",
@@ -6806,6 +6890,27 @@
         "strVenue": "Gateway Center",
         "strStatus": "NS",
         "strTVStation": null,
+        "updatedAt": null,
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-401918304",
+      "uid": "sportsdb-scraped-401918304@makeics.local",
+      "source": "lib/data/sports/supplemental/136437.json",
+      "record": {
+        "idEvent": "scraped-401918304",
+        "strEvent": "Golden State Valkyries vs Las Vegas Aces",
+        "strHomeTeam": "Golden State Valkyries",
+        "strAwayTeam": "Las Vegas Aces",
+        "dateEvent": "2026-10-14",
+        "strTime": "04:00:00",
+        "strTimestamp": "2026-10-14T04:00:00Z",
+        "strLeague": "WNBA",
+        "strVenue": "Chase Center",
+        "strStatus": "NS",
+        "strTVStation": "Peacock/NBCSN",
         "updatedAt": null,
         "source": "scraped"
       }
