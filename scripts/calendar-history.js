@@ -8,6 +8,7 @@ const execFile = promisify(execFileCallback);
 export const ARCHIVE_FILE = 'lib/data/archive/events.json';
 const DATA_PREFIX = 'lib/data/';
 
+/** Run Git in the working directory and return stdout, adding baseline context to failures. */
 async function git(args) {
   try {
     return (await execFile('git', args, { encoding: 'utf8', maxBuffer: 100 * 1024 * 1024 })).stdout;
@@ -16,9 +17,16 @@ async function git(args) {
   }
 }
 
+/** Test whether a non-null value has a nonblank string representation. */
 function nonempty(value) { return value !== null && value !== undefined && String(value).trim() !== ''; }
+/** Return the first truthy date field from a sports, TV, or movie record. */
 function recordDate(record) { return record.dateEvent || record.airdate || record.releaseDate || record.strTimestamp || record.airstamp; }
 
+/**
+ * Convert a parsed event document at the repository-relative file path into
+ * entries containing kind, identity, UID, source, and raw record. Mark archive
+ * entries as archived, reject malformed archives, and ignore auxiliary documents.
+ */
 export function entriesFromDocument(file, data) {
   if (file === ARCHIVE_FILE) {
     if (!data || data.version !== 1 || !Array.isArray(data.events)) throw new Error(`${file}: expected a version 1 events archive`);
@@ -45,6 +53,7 @@ export function entriesFromDocument(file, data) {
   return [];
 }
 
+/** Return labeled errors for missing identity, UID, kind-specific fields, or invalid dates. */
 function validateEntry(entry, label) {
   const errors = [];
   if (!nonempty(entry.identity) || /:(?:undefined|null)?$/.test(entry.identity)) errors.push(`${label}: missing stable event identity`);
@@ -58,11 +67,13 @@ function validateEntry(entry, label) {
   return errors;
 }
 
+/** List tracked JSON paths under lib/data at the given Git revision. */
 async function filesAt(ref) {
   const output = await git(['ls-tree', '-r', '--name-only', '-z', ref, '--', 'lib/data']);
   return output.split('\0').filter(file => file.endsWith('.json'));
 }
 
+/** Load event entries from a Git commit, rejecting unreadable revisions or documents. */
 async function baselineDataset(ref) {
   // Resolve first so a shallow/mistyped SHA cannot be interpreted as an empty tree.
   await git(['cat-file', '-e', `${ref}^{commit}`]);
@@ -76,6 +87,10 @@ async function baselineDataset(ref) {
   return entries;
 }
 
+/**
+ * Load entries from tracked and nonignored untracked data files in the working
+ * directory. Skip deleted files and reject unreadable or malformed documents.
+ */
 async function workspaceDataset() {
   const tracked = (await git(['ls-files', '-z', '--', 'lib/data'])).split('\0').filter(Boolean);
   const untracked = (await git(['ls-files', '--others', '--exclude-standard', '-z', '--', 'lib/data'])).split('\0').filter(Boolean);
@@ -92,6 +107,10 @@ async function workspaceDataset() {
   return entries;
 }
 
+/**
+ * Return validation errors for the resulting entries and any baseline identities
+ * or UIDs they fail to retain, including duplicate archive identities and UID conflicts.
+ */
 export function compareHistory(before, after) {
   const errors = [];
   const current = new Map();
@@ -112,6 +131,12 @@ export function compareHistory(before, after) {
   return errors;
 }
 
+/**
+ * Compare the working dataset with a Git baseline (HEAD by default). When archive
+ * is true, write missing baseline entries to the permanent archive before checking.
+ * Return the baseline and entry counts, or reject on read or validation errors;
+ * archive writes are not rolled back if validation fails.
+ */
 export async function preserveAndValidate({ baseline = 'HEAD', archive = false } = {}) {
   const before = await baselineDataset(baseline);
   let after = await workspaceDataset();
@@ -137,6 +162,7 @@ export async function preserveAndValidate({ baseline = 'HEAD', archive = false }
   return { baseline, previous: before.length, current: after.length };
 }
 
+/** Validate history using CLI options, optionally archive and stage data, and log counts. */
 async function main() {
   const baselineArg = process.argv.find(value => value.startsWith('--baseline='))?.slice(11);
   const result = await preserveAndValidate({ baseline: baselineArg || process.env.CALENDAR_HISTORY_BASELINE || 'HEAD^', archive: process.argv.includes('--archive') });
