@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-10-03T05:26:49.829Z",
+  "updatedAt": "2026-10-04T21:37:04.811Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020035",
-      "strEvent": "Detroit Red Wings vs Winnipeg Jets",
-      "strHomeTeam": "Detroit Red Wings",
-      "strAwayTeam": "Winnipeg Jets",
-      "dateEvent": "2026-10-04",
-      "strTime": "17:00:00",
-      "strTimestamp": "2026-10-04T17:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "DSN, NHLN, TSN3",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020035",
-      "idHomeTeam": "134832",
-      "idAwayTeam": "134851"
-    },
     {
       "idEvent": "nhl-2026020042",
       "strEvent": "Pittsburgh Penguins vs Winnipeg Jets",
