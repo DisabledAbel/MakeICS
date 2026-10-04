@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T10:15:18.308Z",
+  "generatedAt": "2026-10-04T10:58:25.417Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -4889,7 +4889,7 @@
     {
       "id": "tt42004484",
       "title": "Flywheel: Ignition of the Soul",
-      "image": "https://m.media-amazon.com/images/M/MV5BYjhmODI4ZDItYzQ5NC00YjE2LTg1YzktYTMwYTExZjcwNTc2XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIxNjVmNTQtZmQxMC00ZDk3LTliNmYtY2ZmMDFkYmI0ODMxXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
       "genres": [
         "Drama"
@@ -5012,6 +5012,36 @@
         {
           "id": "nm17769956",
           "name": "Yoo Da Hye"
+        }
+      ],
+      "label": "Oct 16, 2026"
+    },
+    {
+      "id": "tt42192423",
+      "title": "You Can't Leave",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU1Y2Q5OWQtZWFiZi00YTI2LWEyMDctZWE2MmVmYzI0MDYwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm3418619",
+          "name": "Spencer Boldman"
+        },
+        {
+          "id": "nm4005194",
+          "name": "Paola Andino"
+        },
+        {
+          "id": "nm18451338",
+          "name": "Thomas Bauer"
+        },
+        {
+          "id": "nm4139368",
+          "name": "Taylor Murphy"
         }
       ],
       "label": "Oct 16, 2026"
@@ -8545,20 +8575,20 @@
       ],
       "people": [
         {
-          "id": "nm3697443",
-          "name": "Phoebe Dynevor"
-        },
-        {
           "id": "nm0000102",
           "name": "Kevin Bacon"
         },
         {
-          "id": "nm2200639",
-          "name": "Patrick Schwarzenegger"
+          "id": "nm3697443",
+          "name": "Phoebe Dynevor"
         },
         {
           "id": "nm0000510",
           "name": "Andie MacDowell"
+        },
+        {
+          "id": "nm0449299",
+          "name": "Tig Notaro"
         }
       ],
       "label": "May 07, 2027"
@@ -8890,8 +8920,8 @@
       "title": "Possession",
       "releaseDate": "Fri, 11 Jun 2027 00:00:00 GMT",
       "genres": [
-        "Horror",
-        "Thriller"
+        "Drama",
+        "Horror"
       ],
       "people": [
         {
