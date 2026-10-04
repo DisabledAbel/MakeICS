@@ -1,6 +1,6 @@
 {
   "The Ark-3-12": {
-    "airdate": "2026-10-14",
+    "airdate": "2026-10-15",
     "name": "Episode #3.12",
     "verifiedAt": "2026-08-18T13:44:26.909Z"
   },
@@ -8,11 +8,6 @@
     "airdate": "2026-10-06",
     "name": "Grand Slam Paris 2026",
     "verifiedAt": "2026-08-28T22:55:13.598Z"
-  },
-  "AEW: Collision-4-43": {
-    "airdate": "2026-10-03",
-    "name": "Episode #4.43",
-    "verifiedAt": "2026-08-28T22:56:49.253Z"
   },
   "1000-lb Roomies-2-8": {
     "airdate": "2026-10-13",
@@ -35,7 +30,7 @@
     "verifiedAt": "2026-09-23T17:47:16.444Z"
   },
   "Outlander: Blood of My Blood-2-5": {
-    "airdate": "2026-10-16",
+    "airdate": "2026-10-17",
     "name": "Forgive Me, Father",
     "verifiedAt": "2026-09-23T17:47:19.146Z"
   },
@@ -79,11 +74,6 @@
     "name": "Episode #27.6",
     "verifiedAt": "2026-09-27T17:35:43.196Z"
   },
-  "AEW: Collision-4-44": {
-    "airdate": "2026-10-03",
-    "name": "Grand Slam Paris 2026",
-    "verifiedAt": "2026-09-29T18:29:51.220Z"
-  },
   "AEW: Collision-4-45": {
     "airdate": "2026-10-10",
     "name": "Episode #4.45",
@@ -120,7 +110,7 @@
     "verifiedAt": "2026-09-30T18:22:13.645Z"
   },
   "Max & the Midknights-3-6": {
-    "airdate": "2026-10-15",
+    "airdate": "2026-04-27",
     "name": "Gnomeward Bound",
     "verifiedAt": "2026-10-01T18:47:13.887Z"
   },
@@ -145,7 +135,7 @@
     "verifiedAt": "2026-10-02T18:16:15.662Z"
   },
   "Max & the Midknights-2-8": {
-    "airdate": "2026-10-08",
+    "airdate": "2025-12-09",
     "name": "Before the Storm",
     "verifiedAt": "2026-10-02T18:17:11.489Z"
   },
@@ -155,7 +145,7 @@
     "verifiedAt": "2026-10-03T17:00:30.426Z"
   },
   "The View-30-22": {
-    "airdate": "2026-10-07",
+    "airdate": "2026-09-22",
     "name": "Sarah Paulson/View Your Deal",
     "verifiedAt": "2026-10-03T17:00:32.944Z"
   },
@@ -188,5 +178,140 @@
     "airdate": "2026-10-07",
     "name": "We Got a Serial Killer",
     "verifiedAt": "2026-10-03T17:04:51.733Z"
+  },
+  "Customer Wars-9-1": {
+    "airdate": "2026-07-21",
+    "name": "Gate Clash",
+    "verifiedAt": "2026-10-04T17:19:47.434Z"
+  },
+  "Customer Wars-9-2": {
+    "airdate": "2026-07-21",
+    "name": "Last Call",
+    "verifiedAt": "2026-10-04T17:19:49.996Z"
+  },
+  "Customer Wars-9-3": {
+    "airdate": "2026-07-28",
+    "name": "Guard Down",
+    "verifiedAt": "2026-10-04T17:19:52.560Z"
+  },
+  "Customer Wars-9-4": {
+    "airdate": "2026-07-28",
+    "name": "Check Please",
+    "verifiedAt": "2026-10-04T17:19:55.072Z"
+  },
+  "WWE Friday Night SmackDown-27-41": {
+    "airdate": "2025-10-10",
+    "name": "Australian Anarchy",
+    "verifiedAt": "2026-10-04T17:20:06.267Z"
+  },
+  "WWE Friday Night SmackDown-27-42": {
+    "airdate": "2025-10-17",
+    "name": "Crown Jewel 2025 Fallout",
+    "verifiedAt": "2026-10-04T17:20:08.732Z"
+  },
+  "WWE Friday Night SmackDown-27-44": {
+    "airdate": "2025-10-31",
+    "name": "Signed, Sealed, Smashed",
+    "verifiedAt": "2026-10-04T17:20:13.630Z"
+  },
+  "WWE Friday Night SmackDown-27-45": {
+    "airdate": "2026-11-06",
+    "name": "The Scottish Exile",
+    "verifiedAt": "2026-10-04T17:20:16.114Z"
+  },
+  "WWE Friday Night SmackDown-27-47": {
+    "airdate": "2025-11-21",
+    "name": "WarGames Wildcard",
+    "verifiedAt": "2026-10-04T17:20:21.045Z"
+  },
+  "WWE Friday Night SmackDown-27-48": {
+    "airdate": "2026-11-27",
+    "name": "Final Countdown to War",
+    "verifiedAt": "2026-10-04T17:20:23.630Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2025-12-05",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-10-04T17:20:26.092Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-10-04T17:20:28.530Z"
+  },
+  "Bobby's Triple Threat-5-8": {
+    "airdate": "2026-09-08",
+    "name": "Titans vs Competition Legend",
+    "verifiedAt": "2026-10-04T17:21:09.071Z"
+  },
+  "Marble Hall Murders-1-6": {
+    "airdate": "2026-09-06",
+    "name": "Episode #1.1",
+    "verifiedAt": "2026-10-04T17:21:25.033Z"
+  },
+  "The Drop: A Snowfall Saga-1-8": {
+    "airdate": "2026-09-08",
+    "name": "Click Pop",
+    "verifiedAt": "2026-10-04T17:21:29.353Z"
+  },
+  "America's Test Kitchen-27-4": {
+    "airdate": "2026-10-10",
+    "name": "Tuscan Feast",
+    "verifiedAt": "2026-10-04T17:22:10.104Z"
+  },
+  "America's Test Kitchen-27-5": {
+    "airdate": "2026-10-17",
+    "name": "Soup and Bread, the Italian Way",
+    "verifiedAt": "2026-10-04T17:22:12.708Z"
+  },
+  "Max & the Midknights-2-2": {
+    "airdate": "2025-11-18",
+    "name": "Here Be Dragons",
+    "verifiedAt": "2026-10-04T17:22:20.159Z"
+  },
+  "Max & the Midknights-2-4": {
+    "airdate": "2025-11-20",
+    "name": "Fens & Enemies",
+    "verifiedAt": "2026-10-04T17:22:25.290Z"
+  },
+  "Max & the Midknights-2-7": {
+    "airdate": "2025-12-08",
+    "name": "And Joust Like That",
+    "verifiedAt": "2026-10-04T17:22:32.603Z"
+  },
+  "Max & the Midknights-2-9": {
+    "airdate": "2026-10-08",
+    "name": "So Slayeth the Prophecy",
+    "verifiedAt": "2026-10-04T17:22:37.510Z"
+  },
+  "Max & the Midknights-3-1": {
+    "airdate": "2026-04-20",
+    "name": "A Restless Knight, Part One",
+    "verifiedAt": "2026-10-04T17:22:42.369Z"
+  },
+  "Max & the Midknights-3-2": {
+    "airdate": "2026-04-21",
+    "name": "A Restless Knight, Part Two",
+    "verifiedAt": "2026-10-04T17:22:44.720Z"
+  },
+  "Max & the Midknights-3-3": {
+    "airdate": "2026-04-22",
+    "name": "The Spirit of the Sea",
+    "verifiedAt": "2026-10-04T17:22:47.291Z"
+  },
+  "Max & the Midknights-3-4": {
+    "airdate": "2026-10-14",
+    "name": "The Trial of Mumblin the Magician",
+    "verifiedAt": "2026-10-04T17:22:49.673Z"
+  },
+  "Max & the Midknights-3-5": {
+    "airdate": "2026-04-24",
+    "name": "Honksgiving!",
+    "verifiedAt": "2026-10-04T17:22:52.051Z"
+  },
+  "Max & the Midknights-3-7": {
+    "airdate": "2026-04-28",
+    "name": "Stuck in a Hole",
+    "verifiedAt": "2026-10-04T17:22:57.271Z"
   }
 }
