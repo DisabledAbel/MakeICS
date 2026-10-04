@@ -306,6 +306,53 @@ test('getEpisodes applies IMDb and Google-verified overrides correctly', async (
   }
 });
 
+test('getEpisodes preserves supplemental IMDb airstamps and falls back to airtime', async () => {
+  const fs = await import('node:fs/promises');
+  const imdbEpisodesPath = new URL('../lib/data/tv/imdb-episodes.json', import.meta.url);
+  const originalContent = await fs.readFile(imdbEpisodesPath, 'utf8');
+
+  try {
+    await fs.writeFile(imdbEpisodesPath, JSON.stringify({
+      shows: {
+        tt1234567: {
+          episodes: [
+            {
+              season: 8,
+              number: 1,
+              name: 'Archived with timestamp',
+              airdate: '2020-03-04',
+              airtime: '20:00',
+              airstamp: '2020-03-05T01:00:00+00:00'
+            },
+            {
+              season: 8,
+              number: 2,
+              name: 'Archived with airtime',
+              airdate: '2020-03-11',
+              airtime: '21:30'
+            }
+          ]
+        }
+      }
+    }), 'utf8');
+
+    const result = await getEpisodes({
+      query: 'Example Show',
+      fetchImpl: createFetchMock(),
+      env: { NODE_ENV: 'test' }
+    });
+
+    const preserved = result.episodes.find(episode => episode.season === 8 && episode.number === 1);
+    const reconstructed = result.episodes.find(episode => episode.season === 8 && episode.number === 2);
+    assert.equal(preserved.airstamp, '2020-03-05T01:00:00+00:00');
+    assert.equal(preserved.airtime, '20:00');
+    assert.equal(reconstructed.airstamp, '2020-03-11T21:30:00Z');
+    assert.equal(reconstructed.airtime, '21:30');
+  } finally {
+    await fs.writeFile(imdbEpisodesPath, originalContent, 'utf8');
+  }
+});
+
 test('toIcs appends Google Search verify schedule links', async () => {
   const result = await getEpisodes({
     query: 'Example Show',
