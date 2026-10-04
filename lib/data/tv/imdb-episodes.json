@@ -24948,13 +24948,13 @@
           "number": 9,
           "name": "Nature vs. Nurture",
           "airdate": "2026-10-02",
-          "summary": null,
+          "summary": "A shooting hits close to home as Molly visits to find Anna's life more complicated than it seems.",
           "url": "https://www.imdb.com/title/tt37775049/?ref_=ttep_ep_9"
         },
         {
           "season": 1,
           "number": 10,
-          "name": "Episode #1.10",
+          "name": "SOS",
           "airdate": "2026-10-09",
           "summary": null,
           "url": "https://www.imdb.com/title/tt37775048/?ref_=ttep_ep_10"
@@ -26653,6 +26653,14 @@
           "airdate": "2026-10-09",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45121807/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 2,
+          "number": 26,
+          "name": "Stop that Shipwreck!/Hermés' New Shell",
+          "airdate": "2026-11-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47954481/?ref_=ttep_ep_26"
         },
         {
           "season": 1,
@@ -28776,7 +28784,7 @@
         {
           "season": 1,
           "number": 8,
-          "name": "Episode #1.8",
+          "name": "Dirt and Stars",
           "airdate": "2026-10-04",
           "summary": null,
           "url": "https://www.imdb.com/title/tt32752615/?ref_=ttep_ep_8"
@@ -32629,9 +32637,9 @@
         {
           "season": 16,
           "number": 5,
-          "name": "Episode #16.5",
+          "name": "Trouble in Paradise",
           "airdate": "2026-10-06",
-          "summary": null,
+          "summary": "The ladies go on a luxurious getaway to Moskito Island, but paradise isn't always perfect. Erin is shocked when Daisy reveals that Jessel and Erika gossiped about her flooded Hamptons house. Sai's marriage issues become public knowledge.",
           "url": "https://www.imdb.com/title/tt45211890/?ref_=ttep_ep_5"
         },
         {
@@ -33470,54 +33478,6 @@
       "title": "The Loud House",
       "episodes": [
         {
-          "season": 11,
-          "number": 1,
-          "name": "Living the Dream Boat",
-          "airdate": "2026-02-27",
-          "summary": "When Lori becomes the star of The Dream Boat to find her soulmate, a desperate Bobby goes undercover as a contestant to win her back from a \"perfect\" rival suitor.",
-          "url": "https://www.imdb.com/title/tt39614116/?ref_=ttep_ep_1"
-        },
-        {
-          "season": 11,
-          "number": 2,
-          "name": "Graveyard Rift/The Big Leap",
-          "airdate": "2026-08-07",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt39639347/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 11,
-          "number": 3,
-          "name": "Table for None/Kindergarten Flop",
-          "airdate": "2026-08-14",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt39639348/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 11,
-          "number": 4,
-          "name": "Going Coconuts/Smotherhood",
-          "airdate": "2026-08-21",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt39639349/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 11,
-          "number": 5,
-          "name": "Trend Fretter/This Is My Fight Song",
-          "airdate": "2026-08-28",
-          "summary": null,
-          "url": "https://www.imdb.com/title/tt39639351/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 11,
-          "number": 19,
-          "name": "Emotional Rollercoaster",
-          "airdate": "2026-09-19",
-          "summary": "When the Loud family gets trapped upside down on a malfunctioning roller coaster at Dairyland, they must rely on their memories of past wild adventures to stay calm and find a way down.",
-          "url": "https://www.imdb.com/title/tt43629454/?ref_=ttep_ep_13"
-        },
-        {
           "season": 10,
           "number": 1,
           "name": "Summer Camp: The Grate Outdoors/Summer Camp: Don't Lose Your Cool",
@@ -33612,6 +33572,62 @@
           "airdate": "2026-09-25",
           "summary": "Lana takes on her toughest pet-matching client yet. After scoring a perfect test result, Zach's ego balloons.",
           "url": "https://www.imdb.com/title/tt39426728/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 9,
+          "number": 1,
+          "name": "Crystal Ballin/The Most Dangerous Gamer",
+          "airdate": "2025-11-08",
+          "summary": "Lynn uses a crystal ball to see her future and then goes totally bananas trying to control what the future will be. / Lincoln, Clyde and Kara win a gaming contest put on by a streamer named Thumbz.",
+          "url": "https://www.imdb.com/title/tt34710205/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 9,
+          "number": 2,
+          "name": "Merry Diss-mas/Just Snow with It",
+          "airdate": "2024-11-30",
+          "summary": "Lynn is excited for her Swiss friend Henrik to visit, but she grows nervous when people think they're more than friends. / Lincoln and friends start a shoveling business to raise money for David Steele on Ice tickets.",
+          "url": "https://www.imdb.com/title/tt34718851/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 9,
+          "number": 3,
+          "name": "Meet the Purrents/Apartment Complex",
+          "airdate": "2026-01-09",
+          "summary": "When Lori and Bobby find a kitten, they decide to co-parent and swap the kitten back and forth between their homes. / After telling her family how great her apartment is, Lori unknowingly entices her sisters to secretly take over her space",
+          "url": "https://www.imdb.com/title/tt34710210/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 9,
+          "number": 4,
+          "name": "Pet Project/Cuff Break",
+          "airdate": "2026-01-16",
+          "summary": "When Mom and the twins win a raffle to spend a weekend at a resort, Lana struggles to leave her pets behind. / After Lincoln tests a magic trick on Grouse, they get handcuffed together and Grouse has to spend the day at middle school.",
+          "url": "https://www.imdb.com/title/tt34718862/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 9,
+          "number": 5,
+          "name": "Prom-Com/Scene Steeler",
+          "airdate": "2026-01-23",
+          "summary": "When Leni is put in charge of the school's prom, she is determined to make it the most memorable night ever. / Lincoln and Clyde cast Luan as the villain, Bee Trayal, in their David Steele film and have to deal with her method acting.",
+          "url": "https://www.imdb.com/title/tt34720380/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 9,
+          "number": 6,
+          "name": "Rough Patch/The GLOAT",
+          "airdate": "2026-01-30",
+          "summary": "To earn her next patch and become a golden Snickerdoodle, Lola must spend quality time with Bernie. / After Lynn sees cousin Shiloh's athletic skills, she gets overly competitive to prove she's the greatest Loud of all time.",
+          "url": "https://www.imdb.com/title/tt34720384/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 9,
+          "number": 13,
+          "name": "Summer Camp: Ticked Off",
+          "airdate": "2025-08-01",
+          "summary": "The Loud family and Clyde arrive for a fun-filled summer at Camp Mastodon, but Lincoln and Clyde quickly find themselves in a battle against the toughest bunk at camp.",
+          "url": "https://www.imdb.com/title/tt37565766/?ref_=ttep_ep_13"
         }
       ]
     },
@@ -35280,15 +35296,15 @@
         {
           "season": 7,
           "number": 4,
-          "name": "Episode #7.4",
+          "name": "Fortune and Misfortune",
           "airdate": "2026-10-07",
-          "summary": null,
+          "summary": "The ladies continue with good vibrations in San Francisco, but Whitney's relationship with Quai is put to the test. The women have questions for Bronwyn after Britani digs up receipts. Angie confides in Heather with a shocking secret.",
           "url": "https://www.imdb.com/title/tt45664150/?ref_=ttep_ep_4"
         },
         {
           "season": 7,
           "number": 5,
-          "name": "Episode #7.5",
+          "name": "Hypocrisy and Bull...",
           "airdate": "2026-10-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45664171/?ref_=ttep_ep_5"
@@ -38185,6 +38201,30 @@
       "episodes": [
         {
           "season": 1,
+          "number": 4,
+          "name": "Episode #1.4",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44536165/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode #1.5",
+          "airdate": "2026-10-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44536167/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode #1.6",
+          "airdate": "2026-10-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44536163/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
           "number": 15,
           "name": "Welcome to the Haunted House",
           "airdate": "2026-09-15",
@@ -38198,6 +38238,14 @@
           "airdate": "2026-09-22",
           "summary": "The five remaining designers divide into teams to revive Bihl Manor's living room and parlor; as ambitious feature projects test their skills, they'll fight to honor the home's storied past and avoid becoming the next design casualty.",
           "url": "https://www.imdb.com/title/tt44536162/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 29,
+          "name": "Enter if You Dare",
+          "airdate": "2026-09-29",
+          "summary": "Four designers remain in the competition to bring the once-grand Bihl Manor back to life; split into two teams, they'll revive the haunted halls on the first and second floors, but will the spirits and judges approve?",
+          "url": "https://www.imdb.com/title/tt44536166/?ref_=ttep_ep_3"
         }
       ]
     },
@@ -40584,7 +40632,7 @@
         {
           "season": 39,
           "number": 3,
-          "name": "Episode #39.3",
+          "name": "This is Sick and Twisted",
           "airdate": "2026-10-07",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44091309/?ref_=ttep_ep_3"
@@ -42634,6 +42682,38 @@
       "title": "The UnBelievable with Dan Aykroyd",
       "episodes": [
         {
+          "season": 4,
+          "number": 1,
+          "name": "Epic Fails",
+          "airdate": "2026-10-02",
+          "summary": "A miracle cure with a deadly catch; A romantic gesture explodes in a president's face; A simple home repair spirals wildly out of control; Sometimes the biggest disasters begin with the best intentions.",
+          "url": "https://www.imdb.com/title/tt48018985/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Peculiar Places",
+          "airdate": "2026-10-09",
+          "summary": "A bleeding house; a near-boiling river; a desert of unexplained encounters; these are peculiar places on Earth.",
+          "url": "https://www.imdb.com/title/tt48019192/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Incredible Spectacles",
+          "airdate": "2026-10-16",
+          "summary": "From donkey baseball and octopus wrestling to a scientist who swallows uranium, these are the jaw-dropping spectacles that left crowds in awe.",
+          "url": "https://www.imdb.com/title/tt48019401/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Astonishing Beings",
+          "airdate": "2026-10-23",
+          "summary": "The world is full of creatures who make you look twice; from a baboon who becomes a reliable employee at a 19th-century train station, to a Moulin Rouge performer who builds a career on controlled flatulence.",
+          "url": "https://www.imdb.com/title/tt48019942/?ref_=ttep_ep_4"
+        },
+        {
           "season": 3,
           "number": 1,
           "name": "Strange Sightings",
@@ -43037,6 +43117,14 @@
       "imdbId": "tt18270066",
       "title": "Be My Guest with Ina Garten",
       "episodes": [
+        {
+          "season": 8,
+          "number": 1,
+          "name": "Christina Tosi",
+          "airdate": "2026-10-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48173111/?ref_=ttep_ep_1"
+        },
         {
           "season": 7,
           "number": 1,
@@ -48804,54 +48892,6 @@
           "airdate": "2025-09-30",
           "summary": "In rural Pennsylvania, a young family discovers a mysterious skeleton buried in their basement; archaeologists come in to identify the body, uncovering the truth about a decades-old missing person's case and a family secret.",
           "url": "https://www.imdb.com/title/tt38530754/?ref_=ttep_ep_7"
-        },
-        {
-          "season": 1,
-          "number": 1,
-          "name": "Killer in the New Neighborhood",
-          "airdate": "2023-07-19",
-          "summary": "In 1978, a shocking murder in broad daylight terrifies a small Illinois town. The brutal crime goes unsolved for years, until an elite team of law enforcement investigators uses cutting-edge technology to dig up new clues and lay a cunning trap to catch a killer.",
-          "url": "https://www.imdb.com/title/tt28515492/?ref_=ttep_ep_1"
-        },
-        {
-          "season": 1,
-          "number": 2,
-          "name": "Ice Cold Killers",
-          "airdate": "2023-07-27",
-          "summary": "Youngstown, Ohio, 2017; Shannon Graves, age 28, went missing under mysterious circumstances. Months later, her partially dissected remains were discovered stuffed into a chest freezer in the basement of a rental home. Who put her there, and why did they store the freezer in someone else's basement? Why was she murdered so cruelly and discarded so heinously? In the end, the three culprits responsible for her disappearance and murder were Shannon's former boyfriend, Arturo Novoa, Arturo's current girlfriend, Katrina Layton, and Arturo's friend, Andrew Herrmann. Novoa, Layton and Herrmann were all arrested and convicted of various crimes regarding the death of Shannon Graves. They were all sentenced to varying amounts of time in prison.",
-          "url": "https://www.imdb.com/title/tt28506230/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 1,
-          "number": 3,
-          "name": "Murder on Repeat",
-          "airdate": "2023-08-02",
-          "summary": "In 2001, Barbara Purcell was found murdered in her basement. Her husband Willard was convicted in 2003 and died in prison in 2015. The case revealed links to his first wife Crystal's 1987 basement stair death in Rockford.",
-          "url": "https://www.imdb.com/title/tt28515489/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 1,
-          "number": 4,
-          "name": "Chase and Lies",
-          "airdate": "2023-08-09",
-          "summary": "When 32-year-old Adam Chase goes missing, police comb the woods and fields of Ontario County, New York, but come up with nothing. Adam's disappearance takes a months-long efforts of a private investigator to at last reveal the truth and Adam's terrifying fate.",
-          "url": "https://www.imdb.com/title/tt28546515/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 1,
-          "number": 5,
-          "name": "Missing Means Murder",
-          "airdate": "2023-08-16",
-          "summary": "A man vanishes from a small town, leaving behind a trail of strange clues that stumps law enforcement detectives and leads the missing man's neighbors to believe that a deadly imposter is living among them. When the man's body is found, the truth is more shocking than anyone imagined.",
-          "url": "https://www.imdb.com/title/tt28602117/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 1,
-          "number": 6,
-          "name": "Deadly Invitation",
-          "airdate": "2023-08-23",
-          "summary": "In 1999, a killer brutally murders an activist and member of the gay community Dennis Dolinger in the basement of his Washington, DC, home. With DNA technology in its infancy, the race is on to find the culprit before they strike again.",
-          "url": "https://www.imdb.com/title/tt28602106/?ref_=ttep_ep_6"
         }
       ]
     },
@@ -48918,7 +48958,7 @@
           "number": 1,
           "name": "Cyclone",
           "airdate": "2026-10-09",
-          "summary": "As Sheriff Mickey Fox struggles to process a shocking revelation about her family, she races to save a troubled young woman whose descent into a dangerous criminal operation uncovers a growing threat to all of Edgewater.",
+          "summary": "As Mickey struggles to process a shocking revelation about her family, she races to save a troubled young woman whose descent into a dangerous criminal operation uncovers a growing threat to all of Edgewater.",
           "url": "https://www.imdb.com/title/tt39105200/?ref_=ttep_ep_1"
         },
         {
@@ -48934,7 +48974,7 @@
           "number": 3,
           "name": "Episode #2.3",
           "airdate": "2026-10-23",
-          "summary": null,
+          "summary": "When a dangerous new drug begins spreading through Edgewater's college community, Mickey races to stop a growing crisis before more lives are put at risk.",
           "url": "https://www.imdb.com/title/tt46014504/?ref_=ttep_ep_3"
         },
         {
@@ -50184,6 +50224,210 @@
           "airdate": "2025-05-31",
           "summary": "A woman suspects her mother of a double murder; years later, courtroom drama and new testimony reignite the case; featuring extensive testimony from defendant Dana Chandler, along with new and archival interviews.",
           "url": "https://www.imdb.com/title/tt37233239/?ref_=ttep_ep_31"
+        }
+      ]
+    },
+    "tt5327970": {
+      "imdbId": "tt5327970",
+      "title": "The Real Housewives of Potomac",
+      "episodes": [
+        {
+          "season": 11,
+          "number": 1,
+          "name": "Episode #11.1",
+          "airdate": "2026-10-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41635046/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 10,
+          "number": 1,
+          "name": "Second Bloom",
+          "airdate": "2025-10-05",
+          "summary": "Gizelle brings the group together to process Karen's trial and sentencing, but the conversation shifts toward relationships; Keiarna and Stacey circle the block on love; Ashley hosts her first big outing as newly divorced woman.",
+          "url": "https://www.imdb.com/title/tt35931941/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 10,
+          "number": 2,
+          "name": "Mint to Be Shady",
+          "airdate": "2025-10-12",
+          "summary": "Stacey finds herself in hot water with the ladies who try and separate her facts from fiction; Keiarna's frustrations with Wendy affect her friendship with Angel; Angel hosts a retreat to try and mend.",
+          "url": "https://www.imdb.com/title/tt37793184/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 10,
+          "number": 3,
+          "name": "Chin Checked",
+          "airdate": "2025-10-19",
+          "summary": "Wendy and Keiarna try to find common ground, but dueling events put them at odds with one another; Stacey discovers a secret Gizelle has been hiding from the group; tensions boil over at brunch when Angel's loyalty is called into question.",
+          "url": "https://www.imdb.com/title/tt37793186/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 10,
+          "number": 4,
+          "name": "Tropic Like It's Hot",
+          "airdate": "2025-10-26",
+          "summary": "The ladies jet to Nevis; Angel struggles to find her place in the group while Gizelle questions her and Stacey; Keiarna deals with the fallout of her feuds with Wendy and Jassi; Stacey claps back at Gizelle with swirling rumors of a tryst.",
+          "url": "https://www.imdb.com/title/tt37793189/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 10,
+          "number": 5,
+          "name": "Sunshine and Sexts",
+          "airdate": "2025-11-02",
+          "summary": "The ladies end their first night in Nevis with a celebration; a day filled with sunshine, history and shopping isn't enough to shake Keiarna and Angel's feelings of uneasiness within the group.",
+          "url": "https://www.imdb.com/title/tt37793192/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 10,
+          "number": 6,
+          "name": "Suns Out, Buns Out",
+          "airdate": "2025-11-09",
+          "summary": "On the final day in Nevis, the group hits the high seas; Gizelle attempts to broker peace between several of the women; Tia has a surprising confrontation at dinner; the ladies throw a raunchy bachelorette party to celebrate Jassi.",
+          "url": "https://www.imdb.com/title/tt37793193/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 10,
+          "number": 7,
+          "name": "Guess Who's Back?",
+          "airdate": "2025-11-16",
+          "summary": "Stacey unveils her new line of gummies, but the brand name gives the ladies cause for pause; Wendy gets candid about her father; Keiarna and Greg discuss the state of their relationship; Angel and Tia connect with their families.",
+          "url": "https://www.imdb.com/title/tt37793195/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 10,
+          "number": 8,
+          "name": "Pride and Pettiness",
+          "airdate": "2025-11-23",
+          "summary": "Monique gets reacquainted with her Potomac crew, but gets more than she bargained for with some of the ladies. Stacey introduces Tia to Thiemo with interesting results. At Gizelle's Reasonably Shady party, Keiarna and Tia confront Stacey about her pattern of inconsistency.",
+          "url": "https://www.imdb.com/title/tt37793196/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 10,
+          "number": 9,
+          "name": "Leak What You Speak",
+          "airdate": "2025-11-30",
+          "summary": "The ladies continue to press Stacey about spreading rumors; Angel confronts Wendy about their strained relationship; Ashley worries about her mother's well being; Wendy contemplates her future with her father.",
+          "url": "https://www.imdb.com/title/tt37793197/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 10,
+          "number": 10,
+          "name": "Blunt Truths",
+          "airdate": "2025-12-07",
+          "summary": "Gizelle and Monique sit down for a long overdue one-on-one. Ashley has a heart-to-heart with Josh and navigates familial issues. Stacey hosts a launch event for her gummy line, but a notable absence and additional scrutiny from Tia heighten tensions in the group.",
+          "url": "https://www.imdb.com/title/tt37793199/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 10,
+          "number": 11,
+          "name": "Lease Is Up, Giddy Up",
+          "airdate": "2025-12-14",
+          "summary": "Tia treats the ladies to a proper day of polo; Angel is blindsided by a sudden change to her move-in plans; Gizelle and Wendy organize a \"Potomac and Ponies\" theme day, but the gossip about one rumor reaches a boiling point.",
+          "url": "https://www.imdb.com/title/tt37793202/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 10,
+          "number": 12,
+          "name": "Potomac and Ponies and Problems",
+          "airdate": "2025-12-21",
+          "summary": "Ashley reconnects with an old flame at the \"Potomac and Ponies\" event; Keiarna and Greg celebrate a milestone; Tia seeks to repair her relationship with her half-sister; Wendy's attempt to make peace with her father sparks a blowout.",
+          "url": "https://www.imdb.com/title/tt37793203/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 10,
+          "number": 13,
+          "name": "Altitude with Attitude",
+          "airdate": "2026-01-04",
+          "summary": "As Angel and her family prepare to move back to Colorado, she shifts her focus to hosting the ladies for their upcoming getaway. Tia goes down a tearful memory lane with her sister. Monique stirs the pot with a shady binder reveal event that sends allegations flying and puts Angel and Ashley at odds. Tensions rise as the women travel to Colorado with hopes that Angel can meet their expectations.",
+          "url": "https://www.imdb.com/title/tt37793205/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 10,
+          "number": 14,
+          "name": "High and Dry",
+          "airdate": "2026-01-11",
+          "summary": "The ladies continue their trip to Colorado with a welcome mixer at Angel's picturesque home; Monique draws unique parallels between her life and Angel's; Chaos ensues when the guest house girls encounter a problem with their accommodations, leaving them feeling like they've been left high and dry by their host.",
+          "url": "https://www.imdb.com/title/tt37793209/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 10,
+          "number": 15,
+          "name": "The Rocky Road to Sisterhood",
+          "airdate": "2026-01-18",
+          "summary": "On day two of the Colorado getaway, the group heads to Aspen for a day of fun, but not before a confrontation over the guest house accommodations; Monique voices her opinions about Angel's personal life; Gizelle sets her sights on taking over as host for the remainder of the trip.",
+          "url": "https://www.imdb.com/title/tt37793210/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 10,
+          "number": 16,
+          "name": "Driving on Empty",
+          "airdate": "2026-01-25",
+          "summary": "As the Colorado trip comes to an end, the ladies are racing against the clock to make it to their final excursion, but things don't go as planned after Angel takes a wrong turn; Stacey's character is once again questioned, but this time by one of her closest allies.",
+          "url": "https://www.imdb.com/title/tt37793212/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 10,
+          "number": 17,
+          "name": "Karen Comes Home",
+          "airdate": "2026-02-01",
+          "summary": "Newly released from prison, Karen Huger sits down for a no-holds barred interview with Andy Cohen to discuss what led to her arrest, the realities of prison life and what's next.",
+          "url": "https://www.imdb.com/title/tt37793213/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 10,
+          "number": 18,
+          "name": "Reunion Part 1",
+          "airdate": "2026-02-15",
+          "summary": "The Potomac women gather to discuss Season 10. Wendy's recent challenges dominate conversation. Stacey faces accountability for alleged dishonesty. Angel confronts the group about her treatment. Tensions with Ashley escalate.",
+          "url": "https://www.imdb.com/title/tt37793216/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 10,
+          "number": 19,
+          "name": "Reunion Part 2",
+          "airdate": "2026-02-22",
+          "summary": "Ashley defends her reaction to Wendy's legal issues and faces questions about past controversies. Keiarna updates on life with Greg before Jassi reveals alleged relationship details. Monique arrives with evidence against Stacey.",
+          "url": "https://www.imdb.com/title/tt38489521/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 10,
+          "number": 20,
+          "name": "Reunion Part 3",
+          "airdate": "2026-03-01",
+          "summary": "The women discuss the Colorado trip and Angel shares what could've been done differently. Karen returns with her season reactions and life updates post-release. Andy asks Wendy about her pending case while Karen offers shocking advice.",
+          "url": "https://www.imdb.com/title/tt38489523/?ref_=ttep_ep_20"
+        }
+      ]
+    },
+    "tt46683025": {
+      "imdbId": "tt46683025",
+      "title": "The Pet Cemetery Murders: A Ghost Story",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Episode #1.1",
+          "airdate": "2026-10-11",
+          "summary": "A decades-old Louisiana cold case involving the gruesome death of Dorothy Lou Thompson, the owner of a pet cemetery, gains traction after a startling account launches investigators down various haunting leads.",
+          "url": "https://www.imdb.com/title/tt46862291/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Episode #1.2",
+          "airdate": "2026-10-18",
+          "summary": "Detectives make strides in Dorothy's case and an unlikely witness emerges with a vexing admission.",
+          "url": "https://www.imdb.com/title/tt46862339/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": "2026-10-25",
+          "summary": "Although Dorothy's murder gets solved, what was unearthed in her case is a trail of murders, mobsters, and a horrific history that still haunts this community.",
+          "url": "https://www.imdb.com/title/tt46862397/?ref_=ttep_ep_3"
         }
       ]
     }

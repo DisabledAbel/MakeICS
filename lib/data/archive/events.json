@@ -80545,6 +80545,198 @@
         "strStatus": "NS",
         "source": "sportsdataverse"
       }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt28453452:https://www.imdb.com/title/tt28506230/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt28506230/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 2,
+        "name": "Ice Cold Killers",
+        "airdate": "2023-07-27",
+        "summary": "Youngstown, Ohio, 2017; Shannon Graves, age 28, went missing under mysterious circumstances. Months later, her partially dissected remains were discovered stuffed into a chest freezer in the basement of a rental home. Who put her there, and why did they store the freezer in someone else's basement? Why was she murdered so cruelly and discarded so heinously? In the end, the three culprits responsible for her disappearance and murder were Shannon's former boyfriend, Arturo Novoa, Arturo's current girlfriend, Katrina Layton, and Arturo's friend, Andrew Herrmann. Novoa, Layton and Herrmann were all arrested and convicted of various crimes regarding the death of Shannon Graves. They were all sentenced to varying amounts of time in prison.",
+        "url": "https://www.imdb.com/title/tt28506230/?ref_=ttep_ep_2",
+        "showId": "tt28453452",
+        "showName": "A Body in the Basement"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt28453452:https://www.imdb.com/title/tt28515489/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt28515489/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 3,
+        "name": "Murder on Repeat",
+        "airdate": "2023-08-02",
+        "summary": "In 2001, Barbara Purcell was found murdered in her basement. Her husband Willard was convicted in 2003 and died in prison in 2015. The case revealed links to his first wife Crystal's 1987 basement stair death in Rockford.",
+        "url": "https://www.imdb.com/title/tt28515489/?ref_=ttep_ep_3",
+        "showId": "tt28453452",
+        "showName": "A Body in the Basement"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt28453452:https://www.imdb.com/title/tt28515492/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt28515492/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 1,
+        "name": "Killer in the New Neighborhood",
+        "airdate": "2023-07-19",
+        "summary": "In 1978, a shocking murder in broad daylight terrifies a small Illinois town. The brutal crime goes unsolved for years, until an elite team of law enforcement investigators uses cutting-edge technology to dig up new clues and lay a cunning trap to catch a killer.",
+        "url": "https://www.imdb.com/title/tt28515492/?ref_=ttep_ep_1",
+        "showId": "tt28453452",
+        "showName": "A Body in the Basement"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt28453452:https://www.imdb.com/title/tt28546515/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt28546515/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 4,
+        "name": "Chase and Lies",
+        "airdate": "2023-08-09",
+        "summary": "When 32-year-old Adam Chase goes missing, police comb the woods and fields of Ontario County, New York, but come up with nothing. Adam's disappearance takes a months-long efforts of a private investigator to at last reveal the truth and Adam's terrifying fate.",
+        "url": "https://www.imdb.com/title/tt28546515/?ref_=ttep_ep_4",
+        "showId": "tt28453452",
+        "showName": "A Body in the Basement"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt28453452:https://www.imdb.com/title/tt28602106/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt28602106/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 6,
+        "name": "Deadly Invitation",
+        "airdate": "2023-08-23",
+        "summary": "In 1999, a killer brutally murders an activist and member of the gay community Dennis Dolinger in the basement of his Washington, DC, home. With DNA technology in its infancy, the race is on to find the culprit before they strike again.",
+        "url": "https://www.imdb.com/title/tt28602106/?ref_=ttep_ep_6",
+        "showId": "tt28453452",
+        "showName": "A Body in the Basement"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt28453452:https://www.imdb.com/title/tt28602117/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt28602117/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 5,
+        "name": "Missing Means Murder",
+        "airdate": "2023-08-16",
+        "summary": "A man vanishes from a small town, leaving behind a trail of strange clues that stumps law enforcement detectives and leads the missing man's neighbors to believe that a deadly imposter is living among them. When the man's body is found, the truth is more shocking than anyone imagined.",
+        "url": "https://www.imdb.com/title/tt28602117/?ref_=ttep_ep_5",
+        "showId": "tt28453452",
+        "showName": "A Body in the Basement"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4859164:https://www.imdb.com/title/tt39614116/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39614116/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 11,
+        "number": 1,
+        "name": "Living the Dream Boat",
+        "airdate": "2026-02-27",
+        "summary": "When Lori becomes the star of The Dream Boat to find her soulmate, a desperate Bobby goes undercover as a contestant to win her back from a \"perfect\" rival suitor.",
+        "url": "https://www.imdb.com/title/tt39614116/?ref_=ttep_ep_1",
+        "showId": "tt4859164",
+        "showName": "The Loud House"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4859164:https://www.imdb.com/title/tt39639347/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39639347/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 11,
+        "number": 2,
+        "name": "Graveyard Rift/The Big Leap",
+        "airdate": "2026-08-07",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt39639347/?ref_=ttep_ep_2",
+        "showId": "tt4859164",
+        "showName": "The Loud House"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4859164:https://www.imdb.com/title/tt39639348/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39639348/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 11,
+        "number": 3,
+        "name": "Table for None/Kindergarten Flop",
+        "airdate": "2026-08-14",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt39639348/?ref_=ttep_ep_3",
+        "showId": "tt4859164",
+        "showName": "The Loud House"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4859164:https://www.imdb.com/title/tt39639349/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39639349/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 11,
+        "number": 4,
+        "name": "Going Coconuts/Smotherhood",
+        "airdate": "2026-08-21",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt39639349/?ref_=ttep_ep_4",
+        "showId": "tt4859164",
+        "showName": "The Loud House"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4859164:https://www.imdb.com/title/tt39639351/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39639351/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 11,
+        "number": 5,
+        "name": "Trend Fretter/This Is My Fight Song",
+        "airdate": "2026-08-28",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt39639351/?ref_=ttep_ep_5",
+        "showId": "tt4859164",
+        "showName": "The Loud House"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4859164:https://www.imdb.com/title/tt43629454/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43629454/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 11,
+        "number": 19,
+        "name": "Emotional Rollercoaster",
+        "airdate": "2026-09-19",
+        "summary": "When the Loud family gets trapped upside down on a malfunctioning roller coaster at Dairyland, they must rely on their memories of past wild adventures to stay calm and find a way down.",
+        "url": "https://www.imdb.com/title/tt43629454/?ref_=ttep_ep_13",
+        "showId": "tt4859164",
+        "showName": "The Loud House"
+      }
     }
   ]
 }
