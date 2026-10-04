@@ -3,6 +3,56 @@
   "events": [
     {
       "kind": "sports",
+      "identity": "sports:2571734",
+      "uid": "sportsdb-2571734@makeics.local",
+      "source": "lib/data/sports/4408.json",
+      "record": {
+        "idEvent": "2571734",
+        "idAPIfootball": "512999",
+        "strTimestamp": "2026-10-03T16:00:00",
+        "strEvent": "Joventut Badalona vs BC Andorra",
+        "strEventAlternate": "BC Andorra @ Joventut Badalona",
+        "strFilename": "Spanish Liga ACB 2026-10-03 Joventut Badalona vs BC Andorra",
+        "strSport": "Basketball",
+        "idLeague": "4408",
+        "strLeague": "Spanish Liga ACB",
+        "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/4n3h6z1572778356.png",
+        "strSeason": "2026-2027",
+        "strDescriptionEN": "",
+        "strHomeTeam": "Joventut Badalona",
+        "strAwayTeam": "BC Andorra",
+        "intRound": "2",
+        "intSpectators": null,
+        "strOfficial": "",
+        "strWeather": "",
+        "dateEvent": "2026-10-03",
+        "dateEventLocal": "2026-10-03",
+        "strTime": "16:00:00",
+        "strTimeLocal": "18:00:00",
+        "strGroup": "",
+        "idHomeTeam": "135083",
+        "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/vuqqry1425410580.png",
+        "idAwayTeam": "135090",
+        "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/4oyjtu1538210898.png",
+        "idVenue": "30808",
+        "strVenue": "Palau Municipal d'Esports de Badalona",
+        "strCountry": "Spain",
+        "strCity": "",
+        "strPoster": "",
+        "strSquare": "https://r2.thesportsdb.com/images/media/event/square/c8bsqp1757146567.jpg",
+        "strFanart": null,
+        "strThumb": "https://r2.thesportsdb.com/images/media/event/thumb/e3q4q11786723233.jpg",
+        "strBanner": "",
+        "strMap": null,
+        "strTweet1": "",
+        "strVideo": "",
+        "strStatus": "NS",
+        "strPostponed": "yes",
+        "strLocked": "unlocked"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:nhl-2026020017",
       "uid": "sportsdb-nhl-2026020017@makeics.local",
       "source": "lib/data/sports/supplemental/134832.json",
@@ -6734,6 +6784,346 @@
         "strTVStation": null,
         "updatedAt": null,
         "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aa94c94d-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aa94c94d-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134922.json",
+      "record": {
+        "idEvent": "sdv-nfl-aa94c94d-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Atlanta Falcons vs Baltimore Ravens",
+        "strHomeTeam": "Atlanta Falcons",
+        "strAwayTeam": "Baltimore Ravens",
+        "dateEvent": "2026-10-12",
+        "strTime": "00:20:00Z",
+        "strTimestamp": "2026-10-12T00:20:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Mercedes-Benz Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aab577eb-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aab577eb-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134938.json",
+      "record": {
+        "idEvent": "sdv-nfl-aab577eb-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Atlanta Falcons vs Chicago Bears",
+        "strHomeTeam": "Atlanta Falcons",
+        "strAwayTeam": "Chicago Bears",
+        "dateEvent": "2026-10-18",
+        "strTime": "17:00:00Z",
+        "strTimestamp": "2026-10-18T17:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Mercedes-Benz Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aab57bb8-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aab57bb8-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134922.json",
+      "record": {
+        "idEvent": "sdv-nfl-aab57bb8-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Cleveland Browns vs Baltimore Ravens",
+        "strHomeTeam": "Cleveland Browns",
+        "strAwayTeam": "Baltimore Ravens",
+        "dateEvent": "2026-10-18",
+        "strTime": "17:00:00Z",
+        "strTimestamp": "2026-10-18T17:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Huntington Bank Field",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aad594ee-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aad594ee-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134922.json",
+      "record": {
+        "idEvent": "sdv-nfl-aad594ee-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Baltimore Ravens vs Cincinnati Bengals",
+        "strHomeTeam": "Baltimore Ravens",
+        "strAwayTeam": "Cincinnati Bengals",
+        "dateEvent": "2026-10-25",
+        "strTime": "17:00:00Z",
+        "strTimestamp": "2026-10-25T17:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "M&T Bank Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aaf6fa3b-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aaf6fa3b-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134930.json",
+      "record": {
+        "idEvent": "sdv-nfl-aaf6fa3b-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Arizona Cardinals vs Denver Broncos",
+        "strHomeTeam": "Arizona Cardinals",
+        "strAwayTeam": "Denver Broncos",
+        "dateEvent": "2026-10-25",
+        "strTime": "20:05:00Z",
+        "strTimestamp": "2026-10-25T20:05:00Z",
+        "strLeague": "NFL",
+        "strVenue": "State Farm Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aaf70dac-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aaf70dac-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134918.json",
+      "record": {
+        "idEvent": "sdv-nfl-aaf70dac-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Buffalo Bills vs Baltimore Ravens",
+        "strHomeTeam": "Buffalo Bills",
+        "strAwayTeam": "Baltimore Ravens",
+        "dateEvent": "2026-11-01",
+        "strTime": "18:00:00Z",
+        "strTimestamp": "2026-11-01T18:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Highmark Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-ab16512c-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ab16512c-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134934.json",
+      "record": {
+        "idEvent": "sdv-nfl-ab16512c-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Dallas Cowboys vs Arizona Cardinals",
+        "strHomeTeam": "Dallas Cowboys",
+        "strAwayTeam": "Arizona Cardinals",
+        "dateEvent": "2026-11-01",
+        "strTime": "18:00:00Z",
+        "strTimestamp": "2026-11-01T18:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "AT&T Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-ab380bc7-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ab380bc7-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134923.json",
+      "record": {
+        "idEvent": "sdv-nfl-ab380bc7-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Atlanta Falcons vs Cincinnati Bengals",
+        "strHomeTeam": "Atlanta Falcons",
+        "strAwayTeam": "Cincinnati Bengals",
+        "dateEvent": "2026-11-08",
+        "strTime": "14:30:00Z",
+        "strTimestamp": "2026-11-08T14:30:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Bernabeu",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-ab380efd-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ab380efd-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134930.json",
+      "record": {
+        "idEvent": "sdv-nfl-ab380efd-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Carolina Panthers vs Denver Broncos",
+        "strHomeTeam": "Carolina Panthers",
+        "strAwayTeam": "Denver Broncos",
+        "dateEvent": "2026-11-08",
+        "strTime": "18:00:00Z",
+        "strTimestamp": "2026-11-08T18:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Bank of America Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-ab998b7f-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ab998b7f-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134922.json",
+      "record": {
+        "idEvent": "sdv-nfl-ab998b7f-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Carolina Panthers vs Baltimore Ravens",
+        "strHomeTeam": "Carolina Panthers",
+        "strAwayTeam": "Baltimore Ravens",
+        "dateEvent": "2026-11-22",
+        "strTime": "18:00:00Z",
+        "strTimestamp": "2026-11-22T18:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Bank of America Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134923.json",
+      "record": {
+        "idEvent": "sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Cleveland Browns vs Cincinnati Bengals",
+        "strHomeTeam": "Cleveland Browns",
+        "strAwayTeam": "Cincinnati Bengals",
+        "dateEvent": "2026-12-06",
+        "strTime": "18:00:00Z",
+        "strTimestamp": "2026-12-06T18:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Huntington Bank Field",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-ac208bad-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ac208bad-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134924.json",
+      "record": {
+        "idEvent": "sdv-nfl-ac208bad-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Cleveland Browns vs Atlanta Falcons",
+        "strHomeTeam": "Cleveland Browns",
+        "strAwayTeam": "Atlanta Falcons",
+        "dateEvent": "2026-12-13",
+        "strTime": "18:00:00Z",
+        "strTimestamp": "2026-12-13T18:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Huntington Bank Field",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-ac603d57-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ac603d57-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134918.json",
+      "record": {
+        "idEvent": "sdv-nfl-ac603d57-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Buffalo Bills vs Chicago Bears",
+        "strHomeTeam": "Buffalo Bills",
+        "strAwayTeam": "Chicago Bears",
+        "dateEvent": "2026-12-20",
+        "strTime": "01:20:00Z",
+        "strTimestamp": "2026-12-20T01:20:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Highmark Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-ac6046a8-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ac6046a8-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134923.json",
+      "record": {
+        "idEvent": "sdv-nfl-ac6046a8-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Carolina Panthers vs Cincinnati Bengals",
+        "strHomeTeam": "Carolina Panthers",
+        "strAwayTeam": "Cincinnati Bengals",
+        "dateEvent": "2026-12-20",
+        "strTime": "18:00:00Z",
+        "strTimestamp": "2026-12-20T18:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Bank of America Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-ac7f74ca-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ac7f74ca-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134918.json",
+      "record": {
+        "idEvent": "sdv-nfl-ac7f74ca-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Denver Broncos vs Buffalo Bills",
+        "strHomeTeam": "Denver Broncos",
+        "strAwayTeam": "Buffalo Bills",
+        "dateEvent": "2026-12-25",
+        "strTime": "21:30:00Z",
+        "strTimestamp": "2026-12-25T21:30:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Empower Field at Mile High",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-ac9e36ff-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ac9e36ff-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134922.json",
+      "record": {
+        "idEvent": "sdv-nfl-ac9e36ff-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Baltimore Ravens vs Cleveland Browns",
+        "strHomeTeam": "Baltimore Ravens",
+        "strAwayTeam": "Cleveland Browns",
+        "dateEvent": "2026-12-27",
+        "strTime": "18:00:00Z",
+        "strTimestamp": "2026-12-27T18:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "M&T Bank Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-acc1d288-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-acc1d288-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134922.json",
+      "record": {
+        "idEvent": "sdv-nfl-acc1d288-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Cincinnati Bengals vs Baltimore Ravens",
+        "strHomeTeam": "Cincinnati Bengals",
+        "strAwayTeam": "Baltimore Ravens",
+        "dateEvent": "2027-01-01",
+        "strTime": "01:15:00Z",
+        "strTimestamp": "2027-01-01T01:15:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Paycor Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
       }
     }
   ]
