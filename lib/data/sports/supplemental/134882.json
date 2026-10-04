@@ -1,23 +1,8 @@
 {
   "teamId": "134882",
   "teamName": "Miami Heat",
-  "updatedAt": "2026-10-01T12:29:55.537Z",
+  "updatedAt": "2026-10-04T04:27:33.854Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401902644",
-      "strEvent": "Toronto Raptors vs Miami Heat",
-      "strHomeTeam": "Toronto Raptors",
-      "strAwayTeam": "Miami Heat",
-      "dateEvent": "2026-10-03",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-03T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Videotron Centre",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-01T12:29:55.537Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401898393",
       "strEvent": "Miami Heat vs New Orleans Pelicans",
