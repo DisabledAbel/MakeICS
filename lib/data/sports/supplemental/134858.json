@@ -1,26 +1,8 @@
 {
   "teamId": "134858",
   "teamName": "Nashville Predators",
-  "updatedAt": "2026-10-02T05:50:22.456Z",
+  "updatedAt": "2026-10-04T06:02:16.534Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020030",
-      "strEvent": "Nashville Predators vs Dallas Stars",
-      "strHomeTeam": "Nashville Predators",
-      "strAwayTeam": "Dallas Stars",
-      "dateEvent": "2026-10-03",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-04T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Bridgestone Arena",
-      "strStatus": "NS",
-      "strTVStation": "Prime Video, SCRIPPS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020030",
-      "idHomeTeam": "134858",
-      "idAwayTeam": "134856"
-    },
     {
       "idEvent": "nhl-2026020044",
       "strEvent": "Toronto Maple Leafs vs Nashville Predators",

@@ -1,26 +1,8 @@
 {
   "teamId": "134859",
   "teamName": "St. Louis Blues",
-  "updatedAt": "2026-10-03T05:26:49.829Z",
+  "updatedAt": "2026-10-04T06:02:16.534Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020032",
-      "strEvent": "Colorado Avalanche vs St. Louis Blues",
-      "strHomeTeam": "Colorado Avalanche",
-      "strAwayTeam": "St. Louis Blues",
-      "dateEvent": "2026-10-03",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-04T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "ALT, BN+, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020032",
-      "idHomeTeam": "134855",
-      "idAwayTeam": "134859"
-    },
     {
       "idEvent": "nhl-2026020050",
       "strEvent": "Chicago Blackhawks vs St. Louis Blues",

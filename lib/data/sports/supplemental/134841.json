@@ -1,26 +1,8 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-10-01T23:56:52.194Z",
+  "updatedAt": "2026-10-04T06:02:16.534Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020029",
-      "strEvent": "New York Islanders vs New Jersey Devils",
-      "strHomeTeam": "New York Islanders",
-      "strAwayTeam": "New Jersey Devils",
-      "dateEvent": "2026-10-03",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-03T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "UBS Arena",
-      "strStatus": "NS",
-      "strTVStation": "MSG, MSGSN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020029",
-      "idHomeTeam": "134841",
-      "idAwayTeam": "134840"
-    },
     {
       "idEvent": "nhl-2026020048",
       "strEvent": "New York Rangers vs New York Islanders",

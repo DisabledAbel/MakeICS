@@ -1,26 +1,8 @@
 {
   "teamId": "134838",
   "teamName": "Carolina Hurricanes",
-  "updatedAt": "2026-10-03T05:26:49.829Z",
+  "updatedAt": "2026-10-04T06:02:16.534Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020025",
-      "strEvent": "Philadelphia Flyers vs Carolina Hurricanes",
-      "strHomeTeam": "Philadelphia Flyers",
-      "strAwayTeam": "Carolina Hurricanes",
-      "dateEvent": "2026-10-03",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-03T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, NBCSP",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020025",
-      "idHomeTeam": "134843",
-      "idAwayTeam": "134838"
-    },
     {
       "idEvent": "nhl-2026020045",
       "strEvent": "Montreal Canadiens vs Carolina Hurricanes",

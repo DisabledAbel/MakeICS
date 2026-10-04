@@ -1,26 +1,8 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-10-02T05:50:22.456Z",
+  "updatedAt": "2026-10-04T06:02:16.534Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020033",
-      "strEvent": "Vancouver Canucks vs Calgary Flames",
-      "strHomeTeam": "Vancouver Canucks",
-      "strAwayTeam": "Calgary Flames",
-      "dateEvent": "2026-10-03",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-04T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Arena",
-      "strStatus": "NS",
-      "strTVStation": "SN, TVAS2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020033",
-      "idHomeTeam": "134850",
-      "idAwayTeam": "134848"
-    },
     {
       "idEvent": "nhl-2026020038",
       "strEvent": "Seattle Kraken vs Calgary Flames",

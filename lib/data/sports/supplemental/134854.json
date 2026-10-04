@@ -1,26 +1,8 @@
 {
   "teamId": "134854",
   "teamName": "Chicago Blackhawks",
-  "updatedAt": "2026-10-02T05:50:22.456Z",
+  "updatedAt": "2026-10-04T06:02:16.534Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020022",
-      "strEvent": "Buffalo Sabres vs Chicago Blackhawks",
-      "strHomeTeam": "Buffalo Sabres",
-      "strAwayTeam": "Chicago Blackhawks",
-      "dateEvent": "2026-10-03",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-03T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "KeyBank Center",
-      "strStatus": "NS",
-      "strTVStation": "CHSN, MSG-B",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020022",
-      "idHomeTeam": "134831",
-      "idAwayTeam": "134854"
-    },
     {
       "idEvent": "nhl-2026020050",
       "strEvent": "Chicago Blackhawks vs St. Louis Blues",

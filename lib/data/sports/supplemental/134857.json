@@ -1,26 +1,8 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-10-03T16:29:31.804Z",
+  "updatedAt": "2026-10-04T06:02:16.534Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020031",
-      "strEvent": "Minnesota Wild vs Boston Bruins",
-      "strHomeTeam": "Minnesota Wild",
-      "strAwayTeam": "Boston Bruins",
-      "dateEvent": "2026-10-03",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-04T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Grand Casino Arena",
-      "strStatus": "NS",
-      "strTVStation": "KSTC, MINNHL, NESN, Wild+",
-      "updatedAt": "2026-10-03T16:29:31.804Z",
-      "source": "scraped",
-      "sourceEventId": "2026020031",
-      "idHomeTeam": "134857",
-      "idAwayTeam": "134830"
-    },
     {
       "idEvent": "nhl-2026020049",
       "strEvent": "Buffalo Sabres vs Minnesota Wild",

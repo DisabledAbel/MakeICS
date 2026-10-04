@@ -1,26 +1,8 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-10-01T23:56:52.194Z",
+  "updatedAt": "2026-10-04T06:02:16.534Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020023",
-      "strEvent": "Toronto Maple Leafs vs Ottawa Senators",
-      "strHomeTeam": "Toronto Maple Leafs",
-      "strAwayTeam": "Ottawa Senators",
-      "dateEvent": "2026-10-03",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-03T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": "SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020023",
-      "idHomeTeam": "134837",
-      "idAwayTeam": "134835"
-    },
     {
       "idEvent": "nhl-2026020041",
       "strEvent": "Boston Bruins vs Ottawa Senators",

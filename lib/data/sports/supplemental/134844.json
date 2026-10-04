@@ -1,26 +1,8 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-10-01T23:56:52.194Z",
+  "updatedAt": "2026-10-04T06:02:16.534Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020026",
-      "strEvent": "Pittsburgh Penguins vs Montreal Canadiens",
-      "strHomeTeam": "Pittsburgh Penguins",
-      "strAwayTeam": "Montreal Canadiens",
-      "dateEvent": "2026-10-03",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-03T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "PPG Paints Arena",
-      "strStatus": "NS",
-      "strTVStation": "SN-PIT, SNE, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020026",
-      "idHomeTeam": "134844",
-      "idAwayTeam": "134834"
-    },
     {
       "idEvent": "nhl-2026020042",
       "strEvent": "Pittsburgh Penguins vs Winnipeg Jets",

@@ -1,26 +1,8 @@
 {
   "teamId": "134839",
   "teamName": "Columbus Blue Jackets",
-  "updatedAt": "2026-10-01T23:56:52.194Z",
+  "updatedAt": "2026-10-04T06:02:16.534Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020027",
-      "strEvent": "Columbus Blue Jackets vs Utah Mammoth",
-      "strHomeTeam": "Columbus Blue Jackets",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-10-03",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-03T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Nationwide Arena",
-      "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, Utah16",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020027",
-      "idHomeTeam": "134839",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020068",
       "strEvent": "Columbus Blue Jackets vs Pittsburgh Penguins",

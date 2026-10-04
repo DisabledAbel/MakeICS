@@ -1,26 +1,8 @@
 {
   "teamId": "134849",
   "teamName": "Edmonton Oilers",
-  "updatedAt": "2026-10-02T05:50:22.456Z",
+  "updatedAt": "2026-10-04T06:02:16.534Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020028",
-      "strEvent": "Edmonton Oilers vs Seattle Kraken",
-      "strHomeTeam": "Edmonton Oilers",
-      "strAwayTeam": "Seattle Kraken",
-      "dateEvent": "2026-10-03",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-03T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Place",
-      "strStatus": "NS",
-      "strTVStation": "KONG, NHLN, Prime Video, SNW",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020028",
-      "idHomeTeam": "134849",
-      "idAwayTeam": "140082"
-    },
     {
       "idEvent": "nhl-2026020055",
       "strEvent": "Anaheim Ducks vs Edmonton Oilers",
