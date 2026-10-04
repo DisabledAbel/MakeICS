@@ -100,6 +100,7 @@ async function git(args, options = {}) {
   return (await execFile('git', args, { encoding: 'utf8', maxBuffer: 50 * 1024 * 1024, ...options })).stdout;
 }
 
+/** List unique data paths changed against the index or present as nonignored untracked files. */
 async function changedDataFiles() {
   const [tracked, untracked] = await Promise.all([
     git(['diff', '--name-only', '--diff-filter=ACMRTD', '-z', '--', 'lib/data']),
@@ -125,6 +126,12 @@ async function restore(files) {
   await Promise.all(untracked.map(file => fs.rm(file, { force: true })));
 }
 
+/**
+ * Validate a fetch source's changed files and dataset history, returning owned paths.
+ * Use now for upcoming-event checks; stage also archives displaced events and stages
+ * accepted changes. Reject unknown sources or invalid updates, restoring affected
+ * working files when data-quality or history validation fails.
+ */
 export async function validateChangedFiles(source, { stage = false, now = new Date() } = {}) {
   const rule = SOURCE_RULES[source];
   if (!rule) throw new Error(`Unknown fetch source ${source}`);

@@ -4,6 +4,7 @@ import { compareHistory } from '../scripts/calendar-history.js';
 import { getEvents, toIcs as sportsToIcs } from '../lib/sports.js';
 import { buildCalendar, toIcs as combinedToIcs } from '../lib/calendar.js';
 
+/** Build a sports history entry with a stable identity and UID plus raw record overrides. */
 const sports = (id, date = '2025-01-02', extra = {}) => ({
   kind: 'sports', identity: `sports:${id}`, uid: `sportsdb-${id}@makeics.local`, source: 'lib/data/sports/1.json',
   record: { idEvent: id, strEvent: 'A vs B', dateEvent: date, ...extra }
@@ -47,6 +48,7 @@ test('individual and combined ICS feeds retain archived event UIDs', async () =>
 
 test('real sports loading merges a requested team archive into its ICS feed', async () => {
   const teamId = '136438';
+  /** Stub team and upcoming-event lookups, rejecting unexpected provider requests. */
   const fetchImpl = async url => {
     if (url.includes('lookupteam.php')) return Response.json({ teams: [{ idTeam: teamId, strTeam: 'Connecticut Sun', strSport: 'Basketball' }] });
     if (url.includes('eventsnext.php')) return Response.json({ events: [] });
