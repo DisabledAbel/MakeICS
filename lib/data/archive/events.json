@@ -7363,6 +7363,69 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401898388",
+      "uid": "sportsdb-scraped-espn-401898388@makeics.local",
+      "source": "lib/data/sports/supplemental/134877.json",
+      "record": {
+        "idEvent": "scraped-espn-401898388",
+        "strEvent": "Atlanta Hawks vs Memphis Grizzlies",
+        "strHomeTeam": "Atlanta Hawks",
+        "strAwayTeam": "Memphis Grizzlies",
+        "dateEvent": "2026-10-05",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-05T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "State Farm Arena",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-09-24T00:04:30.106Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401908947",
+      "uid": "sportsdb-scraped-espn-401908947@makeics.local",
+      "source": "lib/data/sports/supplemental/134868.json",
+      "record": {
+        "idEvent": "scraped-espn-401908947",
+        "strEvent": "Detroit Pistons vs Phoenix Suns",
+        "strHomeTeam": "Detroit Pistons",
+        "strAwayTeam": "Phoenix Suns",
+        "dateEvent": "2026-10-05",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-05T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Little Caesars Arena",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-09-24T00:04:30.106Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401914101",
+      "uid": "sportsdb-scraped-espn-401914101@makeics.local",
+      "source": "lib/data/sports/supplemental/134862.json",
+      "record": {
+        "idEvent": "scraped-espn-401914101",
+        "strEvent": "Philadelphia 76ers vs New York Knicks",
+        "strHomeTeam": "Philadelphia 76ers",
+        "strAwayTeam": "New York Knicks",
+        "dateEvent": "2026-10-05",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-05T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Xfinity Mobile Arena",
+        "strStatus": "NS",
+        "strTVStation": "NBA TV",
+        "updatedAt": "2026-10-01T12:29:55.537Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401914127",
       "uid": "sportsdb-scraped-espn-401914127@makeics.local",
       "source": "lib/data/sports/supplemental/134885.json",

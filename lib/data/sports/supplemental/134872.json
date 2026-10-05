@@ -1,23 +1,8 @@
 {
   "teamId": "134872",
   "teamName": "Detroit Pistons",
-  "updatedAt": "2026-09-24T00:04:30.106Z",
+  "updatedAt": "2026-10-05T23:46:37.603Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401908947",
-      "strEvent": "Detroit Pistons vs Phoenix Suns",
-      "strHomeTeam": "Detroit Pistons",
-      "strAwayTeam": "Phoenix Suns",
-      "dateEvent": "2026-10-05",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-05T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401906510",
       "strEvent": "Washington Wizards vs Detroit Pistons",
