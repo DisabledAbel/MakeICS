@@ -1,24 +1,10 @@
 {
   "teamId": "134929",
   "teamName": "Tennessee Titans",
-  "updatedAt": "2026-09-29T05:46:42.435Z",
+  "updatedAt": "2026-10-05T05:44:32.226Z",
   "generatedAt": "2026-07-18T06:13:33.267Z",
   "generateAt": "2026-07-18T06:13:33.267Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa4b4811-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Baltimore Ravens vs Tennessee Titans",
-      "strHomeTeam": "Baltimore Ravens",
-      "strAwayTeam": "Tennessee Titans",
-      "dateEvent": "2026-10-04",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-04T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "M&T Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa94b527-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Tennessee Titans vs Houston Texans",

@@ -1,24 +1,10 @@
 {
   "teamId": "135907",
   "teamName": "Los Angeles Rams",
-  "updatedAt": "2026-09-29T05:46:42.454Z",
+  "updatedAt": "2026-10-05T05:44:32.251Z",
   "generatedAt": "2026-07-18T06:13:33.291Z",
   "generateAt": "2026-07-18T06:13:33.291Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa4b63de-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Philadelphia Eagles vs Los Angeles Rams",
-      "strHomeTeam": "Philadelphia Eagles",
-      "strAwayTeam": "Los Angeles Rams",
-      "dateEvent": "2026-10-04",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-04T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lincoln Financial Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa94ccd3-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Los Angeles Rams vs Buffalo Bills",

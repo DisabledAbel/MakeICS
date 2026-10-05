@@ -1,24 +1,10 @@
 {
   "teamId": "134920",
   "teamName": "New England Patriots",
-  "updatedAt": "2026-09-29T05:46:42.425Z",
+  "updatedAt": "2026-10-05T05:44:32.213Z",
   "generatedAt": "2026-07-18T06:13:33.253Z",
   "generateAt": "2026-07-18T06:13:33.253Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa4b51c9-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Buffalo Bills vs New England Patriots",
-      "strHomeTeam": "Buffalo Bills",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-10-04",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-04T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Highmark Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa6b6286-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New England Patriots vs Las Vegas Raiders",

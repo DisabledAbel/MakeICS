@@ -1,24 +1,10 @@
 {
   "teamId": "134928",
   "teamName": "Jacksonville Jaguars",
-  "updatedAt": "2026-09-29T05:46:42.435Z",
+  "updatedAt": "2026-10-05T05:44:32.225Z",
   "generatedAt": "2026-07-18T06:13:33.266Z",
   "generateAt": "2026-07-18T06:13:33.266Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa4b5943-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Cincinnati Bengals vs Jacksonville Jaguars",
-      "strHomeTeam": "Cincinnati Bengals",
-      "strAwayTeam": "Jacksonville Jaguars",
-      "dateEvent": "2026-10-04",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-04T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Paycor Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa6b5c2b-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Jacksonville Jaguars vs Philadelphia Eagles",

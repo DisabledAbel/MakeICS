@@ -1,24 +1,10 @@
 {
   "teamId": "134935",
   "teamName": "New York Giants",
-  "updatedAt": "2026-09-29T05:46:42.441Z",
+  "updatedAt": "2026-10-05T05:44:32.235Z",
   "generatedAt": "2026-07-18T06:13:33.274Z",
   "generateAt": "2026-07-18T06:13:33.274Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa4b607b-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New York Giants vs Arizona Cardinals",
-      "strHomeTeam": "New York Giants",
-      "strAwayTeam": "Arizona Cardinals",
-      "dateEvent": "2026-10-04",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-04T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "MetLife Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa94b906-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Washington Commanders vs New York Giants",

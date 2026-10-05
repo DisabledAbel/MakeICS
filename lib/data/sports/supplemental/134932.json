@@ -1,24 +1,10 @@
 {
   "teamId": "134932",
   "teamName": "Las Vegas Raiders",
-  "updatedAt": "2026-09-29T05:46:42.438Z",
+  "updatedAt": "2026-10-05T05:44:32.232Z",
   "generatedAt": "2026-07-18T06:13:33.271Z",
   "generateAt": "2026-07-18T06:13:33.271Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa4b6d71-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Las Vegas Raiders vs Kansas City Chiefs",
-      "strHomeTeam": "Las Vegas Raiders",
-      "strAwayTeam": "Kansas City Chiefs",
-      "dateEvent": "2026-10-04",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-04T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa6b6286-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New England Patriots vs Las Vegas Raiders",

@@ -1,24 +1,10 @@
 {
   "teamId": "134940",
   "teamName": "Green Bay Packers",
-  "updatedAt": "2026-09-29T18:06:58.325Z",
+  "updatedAt": "2026-10-05T05:44:32.241Z",
   "generatedAt": "2026-07-18T06:13:33.280Z",
   "generateAt": "2026-07-18T06:13:33.280Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa4b671b-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Tampa Bay Buccaneers vs Green Bay Packers",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Green Bay Packers",
-      "dateEvent": "2026-10-04",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-04T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa94c2ef-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Green Bay Packers vs Chicago Bears",
