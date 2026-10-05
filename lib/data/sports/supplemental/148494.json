@@ -1,26 +1,8 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-10-04T06:02:16.534Z",
+  "updatedAt": "2026-10-05T05:52:23.258Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020036",
-      "strEvent": "New York Rangers vs Utah Mammoth",
-      "strHomeTeam": "New York Rangers",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-10-04",
-      "strTime": "22:00:00",
-      "strTimestamp": "2026-10-04T22:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "MSG, TVAS, Utah16",
-      "updatedAt": "2026-10-02T22:20:16.710Z",
-      "source": "scraped",
-      "sourceEventId": "2026020036",
-      "idHomeTeam": "134842",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020047",
       "strEvent": "New Jersey Devils vs Utah Mammoth",

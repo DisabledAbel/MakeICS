@@ -1,26 +1,8 @@
 {
   "teamId": "140082",
   "teamName": "Seattle Kraken",
-  "updatedAt": "2026-10-04T06:02:16.534Z",
+  "updatedAt": "2026-10-05T05:52:23.258Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020038",
-      "strEvent": "Seattle Kraken vs Calgary Flames",
-      "strHomeTeam": "Seattle Kraken",
-      "strAwayTeam": "Calgary Flames",
-      "dateEvent": "2026-10-04",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-05T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Climate Pledge Arena",
-      "strStatus": "NS",
-      "strTVStation": "KONG, Prime Video, SNW",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020038",
-      "idHomeTeam": "140082",
-      "idAwayTeam": "134848"
-    },
     {
       "idEvent": "nhl-2026020051",
       "strEvent": "Seattle Kraken vs Vegas Golden Knights",
