@@ -1,7 +1,7 @@
 {
   "teamId": "134630",
   "teamName": "New York City FC",
-  "updatedAt": "2026-10-02T01:11:02.847Z",
+  "updatedAt": "2026-10-05T15:10:27.572Z",
   "events": [
     {
       "idEvent": "mls-761846",
@@ -105,11 +105,11 @@
       "strTime": "18:00:00",
       "strTimestamp": "2026-10-31T18:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "Yankee Stadium",
+      "strVenue": "Citi Field",
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
+      "updatedAt": "2026-10-05T15:10:27.572Z"
     },
     {
       "idEvent": "mls-761936",
