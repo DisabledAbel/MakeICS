@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T10:58:25.417Z",
+  "generatedAt": "2026-10-05T12:06:10.821Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -4409,7 +4409,8 @@
       "image": "https://m.media-amazon.com/images/M/MV5BOGUyODYyYTctMmY0Mi00ZWIwLThjYWItZDJmODY4NGU1YjY1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
       "genres": [
-        "Horror"
+        "Horror",
+        "Thriller"
       ],
       "people": [
         {
@@ -4843,16 +4844,16 @@
           "name": "Jason Momoa"
         },
         {
-          "id": "nm13153010",
-          "name": "Callina Liang"
+          "id": "nm3170207",
+          "name": "Noah Centineo"
         },
         {
           "id": "nm2810287",
           "name": "David Dastmalchian"
         },
         {
-          "id": "nm3170207",
-          "name": "Noah Centineo"
+          "id": "nm13153010",
+          "name": "Callina Liang"
         }
       ],
       "label": "Oct 16, 2026"
@@ -5579,6 +5580,57 @@
       "label": "Oct 30, 2026"
     },
     {
+      "id": "tt47647390",
+      "title": "Paging Hezbollah",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjc5MWE4MGQtNzk3My00Mzk3LWExZWMtMWJkM2JhOTRjY2M2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary"
+      ],
+      "people": [
+        {
+          "id": "nm15678815",
+          "name": "David Barnea"
+        },
+        {
+          "id": "nm3486001",
+          "name": "Matthew Levitt"
+        },
+        {
+          "id": "nm1386592",
+          "name": "Benjamin Netanyahu"
+        },
+        {
+          "id": "nm2520211",
+          "name": "Michael Oren"
+        }
+      ],
+      "label": "Oct 30, 2026"
+    },
+    {
+      "id": "tt47599036",
+      "title": "Paging Hazbollah",
+      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary"
+      ],
+      "people": [
+        {
+          "id": "nm15678815",
+          "name": "David Barnea"
+        },
+        {
+          "id": "nm1386592",
+          "name": "Benjamin Netanyahu"
+        },
+        {
+          "id": "nm2697292",
+          "name": "David Petraeus"
+        }
+      ],
+      "label": "Oct 30, 2026"
+    },
+    {
       "id": "tt36465142",
       "title": "Holy Father",
       "image": "https://m.media-amazon.com/images/M/MV5BYTAzZjgxNzUtZGUwYi00MGRjLWJjNGItODAyNDdmYWExNDE5XkEyXkFqcGc@._V1_.jpg",
@@ -6063,8 +6115,8 @@
           "name": "Zoë Kravitz"
         },
         {
-          "id": "nm3660091",
-          "name": "Anna Sawai"
+          "id": "nm0203457",
+          "name": "Pete Davidson"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6209,8 +6261,8 @@
           "name": "Rob Delaney"
         },
         {
-          "id": "nm3482690",
-          "name": "Jon Beavers"
+          "id": "nm3310289",
+          "name": "Daniel Durant"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6244,6 +6296,18 @@
         }
       ],
       "label": "Nov 13, 2026"
+    },
+    {
+      "id": "tt46666063",
+      "title": "Festive Fun with Peppa Cinema Experience",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmE1ODkyZTMtMDc3Yy00MWI2LWE0NTctOGYwMmEyZTI1YjAzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 14 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "people": [],
+      "label": "Nov 14, 2026"
     },
     {
       "id": "tt42870035",
@@ -6285,20 +6349,20 @@
       ],
       "people": [
         {
-          "id": "nm5085683",
-          "name": "Mckenna Grace"
-        },
-        {
           "id": "nm2225369",
           "name": "Jennifer Lawrence"
         },
         {
-          "id": "nm1102577",
-          "name": "Elle Fanning"
+          "id": "nm5085683",
+          "name": "Mckenna Grace"
         },
         {
           "id": "nm0687146",
           "name": "Jesse Plemons"
+        },
+        {
+          "id": "nm10511461",
+          "name": "Joseph Zada"
         }
       ],
       "label": "Nov 20, 2026"
@@ -6982,8 +7046,8 @@
           "name": "Jason Momoa"
         },
         {
-          "id": "nm1500155",
-          "name": "Robert Pattinson"
+          "id": "nm6073955",
+          "name": "Florence Pugh"
         }
       ],
       "label": "Dec 18, 2026"
@@ -7157,12 +7221,12 @@
           "name": "David Corenswet"
         },
         {
-          "id": "nm0472710",
-          "name": "David Krumholtz"
-        },
-        {
           "id": "nm0788335",
           "name": "Michael Shannon"
+        },
+        {
+          "id": "nm0472710",
+          "name": "David Krumholtz"
         }
       ],
       "label": "Dec 25, 2026"
@@ -7435,8 +7499,8 @@
           "name": "Aubrey Plaza"
         },
         {
-          "id": "nm2391794",
-          "name": "Dan Levy"
+          "id": "nm5166444",
+          "name": "Ellie Bamber"
         }
       ],
       "label": "Jan 22, 2027"
@@ -7525,8 +7589,8 @@
           "name": "Josh Duhamel"
         },
         {
-          "id": "nm0004829",
-          "name": "Spencer Treat Clark"
+          "id": "nm0524197",
+          "name": "Josh Lucas"
         }
       ],
       "label": "Jan 29, 2027"
@@ -7702,6 +7766,35 @@
       "label": "Feb 05, 2027"
     },
     {
+      "id": "tt27706987",
+      "title": "Lords of War",
+      "releaseDate": "Fri, 05 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0000115",
+          "name": "Nicolas Cage"
+        },
+        {
+          "id": "nm0803889",
+          "name": "Bill Skarsgård"
+        },
+        {
+          "id": "nm1679778",
+          "name": "Sylvia Hoeks"
+        },
+        {
+          "id": "nm5637553",
+          "name": "Laura Harrier"
+        }
+      ],
+      "label": "Feb 05, 2027"
+    },
+    {
       "id": "tt37541372",
       "title": "The Garfield Movie 2",
       "releaseDate": "Mon, 08 Feb 2027 00:00:00 GMT",
@@ -7732,16 +7825,16 @@
           "name": "Carey Mulligan"
         },
         {
-          "id": "nm0000658",
-          "name": "Meryl Streep"
+          "id": "nm0001354",
+          "name": "Ciarán Hinds"
         },
         {
           "id": "nm0185819",
           "name": "Daniel Craig"
         },
         {
-          "id": "nm0001354",
-          "name": "Ciarán Hinds"
+          "id": "nm0000658",
+          "name": "Meryl Streep"
         }
       ],
       "label": "Feb 12, 2027"
@@ -7824,12 +7917,12 @@
       ],
       "people": [
         {
-          "id": "nm0175916",
-          "name": "Paddy Considine"
-        },
-        {
           "id": "nm0683253",
           "name": "Rosamund Pike"
+        },
+        {
+          "id": "nm0175916",
+          "name": "Paddy Considine"
         },
         {
           "id": "nm0000164",
@@ -7958,6 +8051,34 @@
         {
           "id": "nm10955564",
           "name": "Ji-young Yoo"
+        }
+      ],
+      "label": "Feb 26, 2027"
+    },
+    {
+      "id": "tt37897207",
+      "title": "The Revenge of La Llorona",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjZlZThhY2EtNGRkMC00YWJlLTgwN2YtODExZWVlYjYwOGFiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 26 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm0379596",
+          "name": "Jay Hernandez"
+        },
+        {
+          "id": "nm0190441",
+          "name": "Raymond Cruz"
+        },
+        {
+          "id": "nm2834669",
+          "name": "Monica Raymund"
+        },
+        {
+          "id": "nm14949577",
+          "name": "Acston Luca Porto"
         }
       ],
       "label": "Feb 26, 2027"
@@ -8225,12 +8346,12 @@
           "name": "Johnny Depp"
         },
         {
-          "id": "nm3218692",
-          "name": "Madelyn Cline"
-        },
-        {
           "id": "nm0004851",
           "name": "Penélope Cruz"
+        },
+        {
+          "id": "nm3218692",
+          "name": "Madelyn Cline"
         },
         {
           "id": "nm1989536",
@@ -8307,34 +8428,6 @@
       "label": "Apr 02, 2027"
     },
     {
-      "id": "tt37897207",
-      "title": "The Revenge of La Llorona",
-      "image": "https://m.media-amazon.com/images/M/MV5BYjZlZThhY2EtNGRkMC00YWJlLTgwN2YtODExZWVlYjYwOGFiXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 09 Apr 2027 00:00:00 GMT",
-      "genres": [
-        "Horror"
-      ],
-      "people": [
-        {
-          "id": "nm0379596",
-          "name": "Jay Hernandez"
-        },
-        {
-          "id": "nm0190441",
-          "name": "Raymond Cruz"
-        },
-        {
-          "id": "nm2834669",
-          "name": "Monica Raymund"
-        },
-        {
-          "id": "nm14949577",
-          "name": "Acston Luca Porto"
-        }
-      ],
-      "label": "Apr 09, 2027"
-    },
-    {
       "id": "tt34900169",
       "title": "Panic Carefully",
       "releaseDate": "Fri, 09 Apr 2027 00:00:00 GMT",
@@ -8343,12 +8436,12 @@
       ],
       "people": [
         {
-          "id": "nm0000210",
-          "name": "Julia Roberts"
-        },
-        {
           "id": "nm0647634",
           "name": "Elizabeth Olsen"
+        },
+        {
+          "id": "nm0000210",
+          "name": "Julia Roberts"
         },
         {
           "id": "nm1519666",
@@ -8645,8 +8738,8 @@
           "name": "Jason Clarke"
         },
         {
-          "id": "nm1569067",
-          "name": "Wilson Bethel"
+          "id": "nm3147751",
+          "name": "LaKeith Stanfield"
         }
       ],
       "label": "May 14, 2027"
@@ -9321,12 +9414,12 @@
           "name": "J.D."
         },
         {
-          "id": "nm1988575",
-          "name": "Lauren London"
-        },
-        {
           "id": "nm1296458",
           "name": "Mustafa Shakir"
+        },
+        {
+          "id": "nm1988575",
+          "name": "Lauren London"
         }
       ],
       "label": "Aug 06, 2027"
@@ -9610,16 +9703,16 @@
           "name": "Merritt Wever"
         },
         {
+          "id": "nm4911194",
+          "name": "Jenna Ortega"
+        },
+        {
           "id": "nm1412974",
           "name": "Glen Powell"
         },
         {
           "id": "nm0000168",
           "name": "Samuel L. Jackson"
-        },
-        {
-          "id": "nm4911194",
-          "name": "Jenna Ortega"
         }
       ],
       "label": "Oct 01, 2027"
