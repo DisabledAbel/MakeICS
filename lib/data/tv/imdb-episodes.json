@@ -245,6 +245,14 @@
         },
         {
           "season": 30,
+          "number": 20,
+          "name": "Sen. Thom Tillis/View Your Deal/",
+          "airdate": "2026-10-05",
+          "summary": "Sen. Thom Tillis (R-N.C.), U.S. Senate Judiciary Committee; Gretta Monahan shows hot deals;",
+          "url": "https://www.imdb.com/title/tt48240505/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 30,
           "number": 21,
           "name": "Gov. Andy Beshear/View Your Deal: Oprah Daily Edition",
           "airdate": "2026-09-21",
@@ -19077,7 +19085,7 @@
           "number": 43,
           "name": "Episode #4.43",
           "airdate": "2026-10-03",
-          "summary": null,
+          "summary": "The Dogs and The Death Riders take on The Bang Bang Gang in an eight-man tag.",
           "url": "https://www.imdb.com/title/tt44863305/?ref_=ttep_ep_43"
         },
         {
@@ -24648,6 +24656,14 @@
           "airdate": "2026-08-28",
           "summary": "Michael S. Roth, Wesleyan University president and author of \"The Student: A Short History,\" is interviewed. Panel: Molly Jong-Fast, \"Fast Politics\" host, and Rep. Byron Donalds, Florida congressman and GOP gubernatorial nominee.",
           "url": "https://www.imdb.com/title/tt44895234/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 24,
+          "number": 29,
+          "name": "Malcolm Gladwell/Fareed Zakaria/Anand Giridharadas",
+          "airdate": "2026-10-02",
+          "summary": "A one-on-one interview with Malcolm Gladwell, host of the podcast \"Revisionist History\" and bestselling author; this week's panel discussion includes Fareed Zakaria, host of CNN's \"Fareed Zakaria GPS,\" columnist at The Washington Post and author of the book \"Age of Revolutions: Progress and Backlash from 1600 to the Present\"; and Anand Giridharadas, publisher of the Substack newsletter \"The Ink\" and author of the book \"Man in the Mirror: Hope, Struggle, and Belonging in an American City.\"",
+          "url": "https://www.imdb.com/title/tt48241226/?ref_=ttep_ep_29"
         },
         {
           "season": 23,
@@ -32899,7 +32915,7 @@
           "number": 1,
           "name": "The Last Days",
           "airdate": "2025-04-30",
-          "summary": "A shocking truth is revealed as Jeremy and Leah force Phillip and Sandra to come clean; Mr. Brown takes a deep dive into conspiracy theories.",
+          "summary": "A shocking truth is revealed as Jeremy and Leah force Philip and Sandra to come clean; Mr. Brown takes a deep dive into conspiracy theories.",
           "url": "https://www.imdb.com/title/tt37028093/?ref_=ttep_ep_1"
         },
         {
@@ -32915,7 +32931,7 @@
           "number": 3,
           "name": "Spare The Rod",
           "airdate": "2025-05-14",
-          "summary": "Jeremy and Leah are forced to put their foot down upon receiving disappointing news concerning Phillip.",
+          "summary": "Jeremy and Leah are forced to stand firm upon receiving disappointing news concerning Philip.",
           "url": "https://www.imdb.com/title/tt37028098/?ref_=ttep_ep_3"
         },
         {
@@ -32931,7 +32947,7 @@
           "number": 5,
           "name": "Parental Woes",
           "airdate": "2025-05-28",
-          "summary": "Tension escalates as tempers flare between Reginald and Brandon's rocky relationship",
+          "summary": "Tension escalates as tempers flare between Reginald and Brandon in their rocky relationship",
           "url": "https://www.imdb.com/title/tt37028102/?ref_=ttep_ep_5"
         },
         {
@@ -32939,7 +32955,7 @@
           "number": 6,
           "name": "Parental Progress",
           "airdate": "2025-06-04",
-          "summary": "Reginald is being honored with a Lifetime Achievement Award. Reginald and Jeremy focus on fine-tuning their parental relationships with their sons.",
+          "summary": "Reginald is being honored with a Lifetime Achievement Award; he and Jeremy focus on fine-tuning their paternal relationships with their sons.",
           "url": "https://www.imdb.com/title/tt37028104/?ref_=ttep_ep_6"
         },
         {
@@ -32947,7 +32963,7 @@
           "number": 7,
           "name": "Writing the Next Chapter",
           "airdate": "2025-06-11",
-          "summary": "Cora and Leah tell Reginald he's still on thin ice with Brandon. Vinny attempts to have the facility join his Ponzi scheme.",
+          "summary": "Cora and Leah tell Reginald that he's still on thin ice with Brandon; Vinny attempts to have the facility join his Ponzi scheme.",
           "url": "https://www.imdb.com/title/tt37028106/?ref_=ttep_ep_7"
         },
         {
@@ -33878,6 +33894,22 @@
           "airdate": "2026-10-02",
           "summary": null,
           "url": "https://www.imdb.com/title/tt46077463/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 72,
+          "number": 2,
+          "name": "Episode #72.2",
+          "airdate": "2026-10-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48306194/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 72,
+          "number": 3,
+          "name": "Episode #72.3",
+          "airdate": "2026-10-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48306199/?ref_=ttep_ep_3"
         },
         {
           "season": 71,
@@ -35306,7 +35338,7 @@
           "number": 5,
           "name": "Hypocrisy and Bull...",
           "airdate": "2026-10-14",
-          "summary": null,
+          "summary": "As the San Francisco trip comes to a close, Whitney and Bronwyn reflect on their marriages and the group sets sail on a boat ride.",
           "url": "https://www.imdb.com/title/tt45664171/?ref_=ttep_ep_5"
         },
         {
@@ -36477,7 +36509,7 @@
           "season": 2,
           "number": 5,
           "name": "Forgive Me, Father",
-          "airdate": "2026-10-17",
+          "airdate": "2026-10-16",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602086/?ref_=ttep_ep_5"
         },
@@ -36517,7 +36549,7 @@
           "season": 2,
           "number": 10,
           "name": "Twelfth Night",
-          "airdate": "2026-10-27",
+          "airdate": "2026-11-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39745529/?ref_=ttep_ep_10"
         },
@@ -37321,7 +37353,7 @@
           "number": 3,
           "name": "Crate Expectations",
           "airdate": "2026-10-06",
-          "summary": null,
+          "summary": "Port Wenn citizens compete in their annual floating crate race. Martin investigates when three men have positive pregnancy tests. Former record-holder Sarah coaches Peter in crate racing.",
           "url": "https://www.imdb.com/title/tt40336401/?ref_=ttep_ep_3"
         },
         {
@@ -37479,7 +37511,7 @@
           "number": 6,
           "name": "Episode #1.6",
           "airdate": "2026-10-18",
-          "summary": null,
+          "summary": "After getting asked out on a date, Alex tries to make sense of where things stand with Patrick. As Ruari starts his internship at the agency, Sam and Alex attempt to win back Malcolm before Grayson swoops in.",
           "url": "https://www.imdb.com/title/tt44879081/?ref_=ttep_ep_6"
         },
         {
@@ -39069,7 +39101,7 @@
           "number": 2,
           "name": "Duty",
           "airdate": "2026-10-01",
-          "summary": "It's day two, and the recruits work together to retrieve a supply drop while dangling from a ladder three hundred feet above the jungle canopy. Next, they must navigate a grueling obstacle course through the dense jungle to test their mental and physical stamina.",
+          "summary": "Day two: recruits work together to retrieve a supply drop while dangling from a ladder 300 feet above the jungle canopy.",
           "url": "https://www.imdb.com/title/tt47323590/?ref_=ttep_ep_2"
         },
         {
@@ -39077,7 +39109,7 @@
           "number": 3,
           "name": "Trust",
           "airdate": "2026-10-08",
-          "summary": "On day three, the recruits will brave their toughest obstacle yet: each other. In their first challenge, the recruits pair off in a punishing round of hand-to-hand combat. Later, they must put the utmost trust in one another as their fate hangs off the steep edge of a cliff.",
+          "summary": "Day three: recruits face their toughest obstacle yet—each other.",
           "url": "https://www.imdb.com/title/tt47324089/?ref_=ttep_ep_3"
         },
         {
@@ -39085,7 +39117,7 @@
           "number": 24,
           "name": "Jungle Warfare",
           "airdate": "2026-09-24",
-          "summary": "FOX's ultimate celebrity social experiment returns, enlisting fifteen new recruits to endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. This season, the recruits will be deployed deep in the Malaysian jungle. Upon arrival, they must plunge backwards from a hovering helicopter into the water below or risk failing.",
+          "summary": "FOX's ultimate celebrity social experiment returns, enlisting fifteen new recruits to endure some of the harshest, most grueling challenges from the actual Special Forces selection process.",
           "url": "https://www.imdb.com/title/tt42441204/?ref_=ttep_ep_1"
         },
         {
@@ -40634,7 +40666,7 @@
           "number": 3,
           "name": "This is Sick and Twisted",
           "airdate": "2026-10-07",
-          "summary": null,
+          "summary": "A new advantage is up for grabs in the Moroccan desert, and a fruit-stacking challenge has teams falling apart.",
           "url": "https://www.imdb.com/title/tt44091309/?ref_=ttep_ep_3"
         },
         {
@@ -41164,6 +41196,14 @@
           "airdate": "2026-10-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt47660478/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "name": "Episode #2.6",
+          "airdate": "2026-10-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48241785/?ref_=ttep_ep_6"
         },
         {
           "season": 2,
@@ -43524,7 +43564,7 @@
           "number": 1,
           "name": "All Hat No Cattle",
           "airdate": "2026-10-04",
-          "summary": null,
+          "summary": "When Kayce realizes Tate has been taken hostage, he goes rogue in a desperate race to save his son as the Marshals uncover a powerful criminal operation tied to the East Camp land grab.",
           "url": "https://www.imdb.com/title/tt40622037/?ref_=ttep_ep_1"
         },
         {
@@ -44684,6 +44724,22 @@
           "url": "https://www.imdb.com/title/tt45697606/?ref_=ttep_ep_3"
         },
         {
+          "season": 2,
+          "number": 4,
+          "name": "Episode #2.4",
+          "airdate": "2026-10-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48241368/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Episode #2.5",
+          "airdate": "2026-11-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48241369/?ref_=ttep_ep_5"
+        },
+        {
           "season": 1,
           "number": 1,
           "name": "The Girl Who Showed Her Butt",
@@ -45404,7 +45460,7 @@
           "number": 1,
           "name": "Wayward Son",
           "airdate": "2026-10-06",
-          "summary": null,
+          "summary": "While handling the aftermath of a shooting involving McGee's son, the team investigates a threat against the Secretary of the Navy and gets help from Tony DiNozzo, who just arrived in D.C.",
           "url": "https://www.imdb.com/title/tt39389825/?ref_=ttep_ep_1"
         },
         {
@@ -47918,7 +47974,7 @@
           "number": 1,
           "name": "Volition",
           "airdate": "2026-10-08",
-          "summary": null,
+          "summary": "When a sexual assault victim struggles to prove her case amid questions of consent and intoxication, Benson pursues a controversial strategy. A meeting with a jury consultant threatens her partnership with Carisi.",
           "url": "https://www.imdb.com/title/tt41856365/?ref_=ttep_ep_1"
         },
         {
@@ -48972,7 +49028,7 @@
         {
           "season": 2,
           "number": 3,
-          "name": "Episode #2.3",
+          "name": "Ulysses",
           "airdate": "2026-10-23",
           "summary": "When a dangerous new drug begins spreading through Edgewater's college community, Mickey races to stop a growing crisis before more lives are put at risk.",
           "url": "https://www.imdb.com/title/tt46014504/?ref_=ttep_ep_3"
@@ -49166,6 +49222,14 @@
           "airdate": "2026-10-16",
           "summary": "When a fast-moving wildfire threatens Edgewater, Station 42 and Three Rock battle increasingly dangerous conditions in an effort to contain the blaze.",
           "url": "https://www.imdb.com/title/tt47095410/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "name": "Episode #5.3",
+          "airdate": "2026-10-23",
+          "summary": "As financial pressures continue to mount at Station 42, Bode fights to prove that Edgewater's new volunteer firefighting program can make a difference.",
+          "url": "https://www.imdb.com/title/tt48160286/?ref_=ttep_ep_3"
         },
         {
           "season": 5,
@@ -49576,7 +49640,7 @@
           "number": 1,
           "name": "Essex County Colonial: Garden State of Mind",
           "airdate": "2026-10-01",
-          "summary": null,
+          "summary": "An 1893 Dutch Colonial Revival home that will undergo an extensive renovation to accommodate its new owners' growing family.",
           "url": "https://www.imdb.com/title/tt43437192/?ref_=ttep_ep_1"
         },
         {
