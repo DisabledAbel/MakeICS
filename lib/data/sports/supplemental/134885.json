@@ -1,23 +1,8 @@
 {
   "teamId": "134885",
   "teamName": "Denver Nuggets",
-  "updatedAt": "2026-10-01T12:29:55.537Z",
+  "updatedAt": "2026-10-05T04:12:59.951Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401914127",
-      "strEvent": "Denver Nuggets vs Utah Jazz",
-      "strHomeTeam": "Denver Nuggets",
-      "strAwayTeam": "Utah Jazz",
-      "dateEvent": "2026-10-04",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-04T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "CU Events Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-01T12:29:55.537Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401914128",
       "strEvent": "Utah Jazz vs Denver Nuggets",

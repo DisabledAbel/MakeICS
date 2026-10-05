@@ -1,23 +1,8 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-10-01T12:29:55.537Z",
+  "updatedAt": "2026-10-05T04:12:59.951Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401918010",
-      "strEvent": "Los Angeles Clippers vs Golden State Warriors",
-      "strHomeTeam": "Los Angeles Clippers",
-      "strAwayTeam": "Golden State Warriors",
-      "dateEvent": "2026-10-04",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-04T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Stan Sheriff Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-09-28T22:57:23.599Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401902645",
       "strEvent": "Toronto Raptors vs Los Angeles Clippers",
