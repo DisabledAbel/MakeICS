@@ -1,26 +1,8 @@
 {
   "teamId": "134836",
   "teamName": "Tampa Bay Lightning",
-  "updatedAt": "2026-10-04T06:02:16.534Z",
+  "updatedAt": "2026-10-06T00:08:53.814Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020040",
-      "strEvent": "Tampa Bay Lightning vs Philadelphia Flyers",
-      "strHomeTeam": "Tampa Bay Lightning",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-10-05",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-05T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Benchmark International Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBCSP, NHLN, The Spot",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020040",
-      "idHomeTeam": "134836",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020060",
       "strEvent": "Tampa Bay Lightning vs Minnesota Wild",

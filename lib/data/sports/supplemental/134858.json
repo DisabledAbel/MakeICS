@@ -1,7 +1,7 @@
 {
   "teamId": "134858",
   "teamName": "Nashville Predators",
-  "updatedAt": "2026-10-04T06:02:16.534Z",
+  "updatedAt": "2026-10-06T00:08:53.814Z",
   "events": [
     {
       "idEvent": "nhl-2026020044",
@@ -356,8 +356,8 @@
       "strLeague": "NHL",
       "strVenue": "Grand Casino Arena",
       "strStatus": "NS",
-      "strTVStation": "MINNHL, SCRIPPS, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "KSTC, MINNHL, SCRIPPS, Wild+",
+      "updatedAt": "2026-10-06T00:08:53.814Z",
       "source": "scraped",
       "sourceEventId": "2026020340",
       "idHomeTeam": "134857",

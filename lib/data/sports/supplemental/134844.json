@@ -1,26 +1,8 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-10-04T06:02:16.534Z",
+  "updatedAt": "2026-10-06T00:08:53.814Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020042",
-      "strEvent": "Pittsburgh Penguins vs Winnipeg Jets",
-      "strHomeTeam": "Pittsburgh Penguins",
-      "strAwayTeam": "Winnipeg Jets",
-      "dateEvent": "2026-10-05",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-05T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "PPG Paints Arena",
-      "strStatus": "NS",
-      "strTVStation": "SN+, SN-PIT",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020042",
-      "idHomeTeam": "134844",
-      "idAwayTeam": "134851"
-    },
     {
       "idEvent": "nhl-2026020053",
       "strEvent": "Washington Capitals vs Pittsburgh Penguins",

@@ -1,26 +1,8 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-10-04T06:02:16.534Z",
+  "updatedAt": "2026-10-06T00:08:53.814Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020041",
-      "strEvent": "Boston Bruins vs Ottawa Senators",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Ottawa Senators",
-      "dateEvent": "2026-10-05",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-05T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NESN, SN+, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020041",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "134835"
-    },
     {
       "idEvent": "nhl-2026020046",
       "strEvent": "Detroit Red Wings vs Ottawa Senators",

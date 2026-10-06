@@ -1,26 +1,8 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-10-04T06:02:16.534Z",
+  "updatedAt": "2026-10-06T00:08:53.814Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020043",
-      "strEvent": "Dallas Stars vs San Jose Sharks",
-      "strHomeTeam": "Dallas Stars",
-      "strAwayTeam": "San Jose Sharks",
-      "dateEvent": "2026-10-05",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-06T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "NBCSCA, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020043",
-      "idHomeTeam": "134856",
-      "idAwayTeam": "134853"
-    },
     {
       "idEvent": "nhl-2026020063",
       "strEvent": "St. Louis Blues vs San Jose Sharks",
@@ -284,8 +266,8 @@
       "strLeague": "NHL",
       "strVenue": "Grand Casino Arena",
       "strStatus": "NS",
-      "strTVStation": "MINNHL, NBCSCA, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "KSTP, MINNHL, NBCSCA, Wild+",
+      "updatedAt": "2026-10-06T00:08:53.814Z",
       "source": "scraped",
       "sourceEventId": "2026020263",
       "idHomeTeam": "134857",

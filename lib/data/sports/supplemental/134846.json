@@ -1,7 +1,7 @@
 {
   "teamId": "134846",
   "teamName": "Anaheim Ducks",
-  "updatedAt": "2026-10-05T05:52:23.258Z",
+  "updatedAt": "2026-10-06T00:08:53.814Z",
   "events": [
     {
       "idEvent": "nhl-2026020055",
@@ -626,8 +626,8 @@
       "strLeague": "NHL",
       "strVenue": "Grand Casino Arena",
       "strStatus": "NS",
-      "strTVStation": "KCOP-13, MINNHL, Prime Video, SN+, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "KCOP-13, KSTP, MINNHL, Prime Video, SN+, Wild+",
+      "updatedAt": "2026-10-06T00:08:53.814Z",
       "source": "scraped",
       "sourceEventId": "2026020564",
       "idHomeTeam": "134857",
