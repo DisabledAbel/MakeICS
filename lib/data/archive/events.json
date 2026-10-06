@@ -81646,6 +81646,150 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt11349896:https://www.imdb.com/title/tt38954970/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38954970/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 2,
+        "number": 9,
+        "name": "So Slayeth the Prophecy",
+        "airdate": "2025-09-09",
+        "summary": "Max comes face-to-face with an imprisoned dragon and must decide between slaying the dragon to fulfill the prophecy, or doing the right thing and freeing him.",
+        "url": "https://www.imdb.com/title/tt38954970/?ref_=ttep_ep_1",
+        "showId": "tt11349896",
+        "showName": "Max & the Midknights"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt11349896:https://www.imdb.com/title/tt38955130/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38955130/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 2,
+        "number": 2,
+        "name": "Here Be Dragons",
+        "airdate": "2025-11-18",
+        "summary": "As Max is trapped in a haunting fever dream, the rest of the Midknights race to save her life.",
+        "url": "https://www.imdb.com/title/tt38955130/?ref_=ttep_ep_2",
+        "showId": "tt11349896",
+        "showName": "Max & the Midknights"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt11349896:https://www.imdb.com/title/tt38955167/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38955167/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 2,
+        "number": 3,
+        "name": "Thoroughly Malevolent Millie",
+        "airdate": "2025-11-19",
+        "summary": "The Midknights' quest to find King Conrad gets delayed when they encounter a strange boy.",
+        "url": "https://www.imdb.com/title/tt38955167/?ref_=ttep_ep_3",
+        "showId": "tt11349896",
+        "showName": "Max & the Midknights"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt11349896:https://www.imdb.com/title/tt38955170/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38955170/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 2,
+        "number": 4,
+        "name": "Fens & Enemies",
+        "airdate": "2025-11-20",
+        "summary": "As Max and the Midknights struggle to complete their quest, Mumblin reappears with shocking news.",
+        "url": "https://www.imdb.com/title/tt38955170/?ref_=ttep_ep_4",
+        "showId": "tt11349896",
+        "showName": "Max & the Midknights"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt11349896:https://www.imdb.com/title/tt38960036/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38960036/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 2,
+        "number": 5,
+        "name": "Dark Knight of the Soul",
+        "airdate": "2025-11-21",
+        "summary": "As Max reels from failing her quest, Millie learns how Fendra became a sorceress.",
+        "url": "https://www.imdb.com/title/tt38960036/?ref_=ttep_ep_5",
+        "showId": "tt11349896",
+        "showName": "Max & the Midknights"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt11349896:https://www.imdb.com/title/tt39244082/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39244082/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 2,
+        "number": 6,
+        "name": "Homeward Bound",
+        "airdate": "2025-12-07",
+        "summary": "Max, Simon, and Uncle Budrick search for Kevyn. Fendra collects items for her spell.",
+        "url": "https://www.imdb.com/title/tt39244082/?ref_=ttep_ep_6",
+        "showId": "tt11349896",
+        "showName": "Max & the Midknights"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt11349896:https://www.imdb.com/title/tt39260369/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39260369/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 2,
+        "number": 7,
+        "name": "And Joust Like That",
+        "airdate": "2025-12-08",
+        "summary": "Max and the Midknights get swept into Fendra's tournament to find a true knight's courage.",
+        "url": "https://www.imdb.com/title/tt39260369/?ref_=ttep_ep_7",
+        "showId": "tt11349896",
+        "showName": "Max & the Midknights"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt11349896:https://www.imdb.com/title/tt39260410/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39260410/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 2,
+        "number": 8,
+        "name": "Before the Storm",
+        "airdate": "2025-12-09",
+        "summary": "Max and the Midknights break into the castle to find King Conrad. Fendra finds her courage.",
+        "url": "https://www.imdb.com/title/tt39260410/?ref_=ttep_ep_8",
+        "showId": "tt11349896",
+        "showName": "Max & the Midknights"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt11349896:https://www.imdb.com/title/tt39260467/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39260467/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 2,
+        "number": 10,
+        "name": "A True Knights Courage",
+        "airdate": "2025-12-11",
+        "summary": "Fendra completes her spell, victorious over Max, the Midknights, and all of Byjovia.",
+        "url": "https://www.imdb.com/title/tt39260467/?ref_=ttep_ep_10",
+        "showId": "tt11349896",
+        "showName": "Max & the Midknights"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt28453452:https://www.imdb.com/title/tt28506230/?ref_=ttep_ep_2",
       "uid": "tvmaze-https://www.imdb.com/title/tt28506230/?ref_=ttep_ep_2@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
@@ -81834,6 +81978,262 @@
         "url": "https://www.imdb.com/title/tt43629454/?ref_=ttep_ep_13",
         "showId": "tt4859164",
         "showName": "The Loud House"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt33053539/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33053539/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 1,
+        "name": "Blood Money",
+        "airdate": "2024-05-29",
+        "summary": "A deadly plot unfolds as love and desperation collide in Detroit. Amber Hunter and her beau, Javontae Wakefield, are driven to a gruesome act against her own mother, Tiffany Hunter, in a harrowing quest for cash.",
+        "url": "https://www.imdb.com/title/tt33053539/?ref_=ttep_ep_1",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt33060577/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33060577/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 2,
+        "name": "Vendetta",
+        "airdate": "2024-06-05",
+        "summary": "In Suffolk County, a romantic entanglement spirals into a sinister trap. Dequanna Bates and Joshua Nickens' vendetta against Alan Moore leads to deadly consequences, as love blinds and dark intentions take over.",
+        "url": "https://www.imdb.com/title/tt33060577/?ref_=ttep_ep_2",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt33060613/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33060613/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 3,
+        "name": "Club Jealousy",
+        "airdate": "2024-06-12",
+        "summary": "A flirtatious comment at a club turns deadly. Gina Conway and rapper boyfriend Max B's love story twists into a grim plot, culminating in tragedy over jealousy and betrayal.",
+        "url": "https://www.imdb.com/title/tt33060613/?ref_=ttep_ep_3",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt33060658/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33060658/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 4,
+        "name": "Vengeance in Louisville",
+        "airdate": "2024-06-19",
+        "summary": "Love and loss drive Cheetara Goldsmith to a devastating act of vengeance. In Louisville, a tale of heartbreak transforms into a dark pursuit of retribution.",
+        "url": "https://www.imdb.com/title/tt33060658/?ref_=ttep_ep_4",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt33060737/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33060737/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 5,
+        "name": "Betrayal Bound",
+        "airdate": "2024-06-26",
+        "summary": "In Dearborn, Patricia Jernigan, entangled in her boyfriend's schemes, targets a childhood friend in a harrowing plot. Depths of betrayal and coercion are revealed.",
+        "url": "https://www.imdb.com/title/tt33060737/?ref_=ttep_ep_5",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt33060756/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33060756/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 6,
+        "name": "Loyalty's Price",
+        "airdate": "2024-07-03",
+        "summary": "Chicago's gritty hip-hop scene sets the stage for Breanna Patterson's deep loyalty to Charles Smith. Their twisted love leads to a disastrous home invasion, changing lives forever.",
+        "url": "https://www.imdb.com/title/tt33060756/?ref_=ttep_ep_6",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt33071012/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33071012/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 7,
+        "name": "Family Deception",
+        "airdate": "2024-07-18",
+        "summary": "A chilling family betrayal unfolds as Terica Ellis aids her lover Tim Norman in a dark web of deception and greed in St. Louis, proving fatal for a close relative.",
+        "url": "https://www.imdb.com/title/tt33071012/?ref_=ttep_ep_7",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt33071040/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33071040/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 8,
+        "name": "Deadly Triangle",
+        "airdate": "2024-07-17",
+        "summary": "Jealousy and a fraught love triangle lead to irreversible loss in Detroit. Gabrielle Brantley's toxic blend of love and betrayal ends in tragedy for an aspiring nurse.",
+        "url": "https://www.imdb.com/title/tt33071040/?ref_=ttep_ep_8",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt33071089/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33071089/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 10,
+        "name": "Love's Lethal Lies",
+        "airdate": "2024-07-31",
+        "summary": "In South Bend, Tiaira Miller's bid to protect her man embroils her in deceit. Her tangled web of lies and hidden evidence leads to a tragic unraveling.",
+        "url": "https://www.imdb.com/title/tt33071089/?ref_=ttep_ep_10",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt33071106/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33071106/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 11,
+        "name": "Loyalty's Deadly Price",
+        "airdate": "2024-08-07",
+        "summary": "In La Crosse, Brittany Jones' rush to aid her boyfriend after a violent encounter plunges her into a legal nightmare, with loyalty leading to harsh consequences.",
+        "url": "https://www.imdb.com/title/tt33071106/?ref_=ttep_ep_11",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt33241797/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33241797/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 14,
+        "name": "Silencing for Love",
+        "airdate": "2024-08-28",
+        "summary": "Brianna Smith's love for Romando Williams leads her into a deadly plot to silence a rival. Blinded by her devotion, she helps Romando carry out a fatal plan, but the price of loyalty is too high. Will Brianna's love cost her everything?",
+        "url": "https://www.imdb.com/title/tt33241797/?ref_=ttep_ep_14",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt33253052/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33253052/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 12,
+        "name": "Fatal Jealousy",
+        "airdate": "2024-08-14",
+        "summary": "A manipulative love triangle turns deadly in Las Vegas. Shamiya Todd's jealousy, influenced by her ex-husband's deceit, leads to dire consequences.",
+        "url": "https://www.imdb.com/title/tt33253052/?ref_=ttep_ep_12",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt34229461/?ref_=ttep_ep_20",
+      "uid": "tvmaze-https://www.imdb.com/title/tt34229461/?ref_=ttep_ep_20@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 20,
+        "name": "Deadly Devotion",
+        "airdate": "2025-02-19",
+        "summary": "Storyline: Summer of 2009 - Jasmine helps her man carry out the murder of his rival, putting her bright future on hold.\n\nJasmine Rivera seemed like an ordinary teenager from Scranton, Pennsylvania. She played sports, attended school, and had dreams like many other girls her age. But underneath the surface, Jasmine's life was far more complicated. From a young age, she sought love and belonging, something she never truly found in her broken family life. By the time she was 17, Jasmine had already become a mother and was living with her boyfriend, Tonie Future, in a small apartment in the projects. What started as a teenage romance soon turned into a life of crime, as Jasmine found herself ensnared in the world of the notorious Bloods street gang. Tonie Future, Jasmine's high school sweetheart and father to her child, had recently fallen under the influence of his older brother, Jeff Future, a high-ranking member of the Bloods. While Jasmine had reservations about the lifestyle Tonie was falling into, her love for him-and the makeshift family they had built-kept her from leaving. As their relationship deepened, Jasmine found herself drawn into criminal activities, participating in robberies and burglaries, all in an effort to prove her loyalty to Tonie and the gang.\n\nOn July 30, 2009, the gang's violent underworld caught up with them in the most tragic way. That night, a group of women driving on a remote road outside Scranton discovered a body lying in the middle of the street. They immediately called the police, but what was first reported as a hit-and-run soon turned into a murder investigation. The victim, 29-year-old Allen Fernandez, had been shot 12 times at close range in what police would later describe as a professional hit. As detectives began piecing together the evidence, they discovered that Fernandez, a former Bloods gang member, had recently been released from a halfway house in Hazleton, PA, where he had been trying to distance himself from his criminal past. His family believed he had left the gang life behind, but the circumstances of his death suggested otherwise. The number of gunshot wounds, combined with the shell casings found at the scene from both a .40 caliber and 9mm weapon, indicated multiple shooters-and pointed to a gang-related execution. The investigation took a significant turn when detectives uncovered cellphone records linking Fernandez to a number belonging to Barbara Future, the mother of Jeff and Tonie. With this connection, investigators began to focus on the Future brothers, and Jasmine soon became a key figure in their web of criminal activity. Surveillance footage and interviews with residents of\n\nthe halfway house revealed that Fernandez had purchased a burner phone just hours before his murder and had received several calls from Barbara Future's phone. It became clear that the brothers had lured Fernandez to Scranton, where they ambushed him. Despite their efforts to cover their tracks, the pressure mounted on Jasmine, Tonie, and Jeff as police began closing in on them. Under interrogation, Jasmine confessed to her role in a series of other crimes, including the robbery of a Dunkin Donuts and the burglary of a Pennsylvania State Trooper's home, where a .40 caliber Beretta service weapon had been stolen. That same weapon was later used in the murder of Allen Fernandez. Jasmine's devotion to Tonie and her involvement in these crimes stemmed from a misguided sense of loyalty and love. She had been willing to do anything to support Tonie, even if it meant participating in violent acts that would ultimately destroy her life. In the end, Jasmine's testimony helped prosecutors secure convictions against both Jeff and Tonie Future for first-degree murder, and Christian Kenyon, another accomplice, for his role in the crime. Jasmine herself was sentenced to prison for her part in the burglary and robbery.\n\nFor Allen Fernandez's family, the loss was devastating. He had been trying to turn his life around, only to be brutally murdered by the very people he had once been associated with. For Jasmine, the cost of her loyalty to Tonie Future was high. She lost her freedom, her future, and any chance of a normal life, all because of her love for a man who led her down a dangerous path.",
+        "url": "https://www.imdb.com/title/tt34229461/?ref_=ttep_ep_20",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt34539745/?ref_=ttep_ep_24",
+      "uid": "tvmaze-https://www.imdb.com/title/tt34539745/?ref_=ttep_ep_24@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 24,
+        "name": "Web of Deception",
+        "airdate": "2025-03-19",
+        "summary": "Noriella Santos is drawn into Daniel Greenspan's dangerous world; blinded by love, she helps set up a murder in the name of loyalty; as her role in the crime is revealed, Noriella must face the devastating consequences of her devotion.",
+        "url": "https://www.imdb.com/title/tt34539745/?ref_=ttep_ep_24",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt35981657/?ref_=ttep_ep_21",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35981657/?ref_=ttep_ep_21@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 21,
+        "name": "The Cost of Obsession",
+        "airdate": "2025-02-26",
+        "summary": "Tiara Burnett's devotion to Quinn James pulls her into a dark world. When he commits a heinous crime, Tiara helps cover up the murder in the name of love. Will her loyalty to Quinn lead to redemption or her ultimate downfall?",
+        "url": "https://www.imdb.com/title/tt35981657/?ref_=ttep_ep_21",
+        "showId": "tt4864850",
+        "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt4864850:https://www.imdb.com/title/tt41951698/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41951698/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 8,
+        "number": 15,
+        "name": "Lured by Loyalty",
+        "airdate": "2025-01-15",
+        "summary": "Terreona Horton's love for Lydell Sparks leads her to participate in a fatal ambush. Blinded by her loyalty, she lures an innocent man into a trap, sealing her fate. Can love push her to make the ultimate sacrifice?",
+        "url": "https://www.imdb.com/title/tt41951698/?ref_=ttep_ep_15",
+        "showId": "tt4864850",
+        "showName": "For My Man"
       }
     }
   ]
