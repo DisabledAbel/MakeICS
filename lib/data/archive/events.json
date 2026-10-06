@@ -74886,6 +74886,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-aa6b5517-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aa6b5517-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134944.json",
+      "record": {
+        "idEvent": "sdv-nfl-aa6b5517-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "New Orleans Saints vs Atlanta Falcons",
+        "strHomeTeam": "New Orleans Saints",
+        "strAwayTeam": "Atlanta Falcons",
+        "dateEvent": "2026-10-06",
+        "strTime": "00:15:00Z",
+        "strTimestamp": "2026-10-06T00:15:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Caesars Superdome",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-aa94c94d-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-aa94c94d-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134922.json",

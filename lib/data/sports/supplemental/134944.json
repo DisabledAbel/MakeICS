@@ -1,24 +1,10 @@
 {
   "teamId": "134944",
   "teamName": "New Orleans Saints",
-  "updatedAt": "2026-09-29T05:46:42.451Z",
+  "updatedAt": "2026-10-06T06:24:21.986Z",
   "generatedAt": "2026-07-18T06:13:33.285Z",
   "generateAt": "2026-07-18T06:13:33.285Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa6b5517-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New Orleans Saints vs Atlanta Falcons",
-      "strHomeTeam": "New Orleans Saints",
-      "strAwayTeam": "Atlanta Falcons",
-      "dateEvent": "2026-10-06",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-06T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Caesars Superdome",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa6b65b1-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New Orleans Saints vs Minnesota Vikings",
