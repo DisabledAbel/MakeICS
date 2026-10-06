@@ -1,23 +1,8 @@
 {
   "teamId": "134867",
   "teamName": "Los Angeles Lakers",
-  "updatedAt": "2026-10-01T12:29:55.537Z",
+  "updatedAt": "2026-10-06T05:01:08.851Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898716",
-      "strEvent": "Sacramento Kings vs Los Angeles Lakers",
-      "strHomeTeam": "Sacramento Kings",
-      "strAwayTeam": "Los Angeles Lakers",
-      "dateEvent": "2026-10-05",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-06T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Golden 1 Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-01T12:29:55.537Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401898390",
       "strEvent": "Golden State Warriors vs Los Angeles Lakers",

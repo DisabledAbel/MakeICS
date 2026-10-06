@@ -1,23 +1,8 @@
 {
   "teamId": "134886",
   "teamName": "Minnesota Timberwolves",
-  "updatedAt": "2026-10-01T12:29:55.537Z",
+  "updatedAt": "2026-10-06T05:01:08.851Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401914102",
-      "strEvent": "Milwaukee Bucks vs Minnesota Timberwolves",
-      "strHomeTeam": "Milwaukee Bucks",
-      "strAwayTeam": "Minnesota Timberwolves",
-      "dateEvent": "2026-10-05",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-06T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Fiserv Forum",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401914123",
       "strEvent": "Indiana Pacers vs Minnesota Timberwolves",
