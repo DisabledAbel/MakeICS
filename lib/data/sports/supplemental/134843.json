@@ -1,7 +1,7 @@
 {
   "teamId": "134843",
   "teamName": "Philadelphia Flyers",
-  "updatedAt": "2026-10-06T00:08:53.814Z",
+  "updatedAt": "2026-10-07T23:11:05.895Z",
   "events": [
     {
       "idEvent": "nhl-2026020059",
@@ -104,8 +104,8 @@
       "strLeague": "NHL",
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
-      "strTVStation": "NBCSP, SN1",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "NBCSP, SN1, TVAS-D",
+      "updatedAt": "2026-10-07T23:11:05.895Z",
       "source": "scraped",
       "sourceEventId": "2026020128",
       "idHomeTeam": "134843",
