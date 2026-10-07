@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T11:50:39.950Z",
+  "generatedAt": "2026-10-07T11:35:46.808Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -4345,35 +4345,6 @@
       "label": "Oct 09, 2026"
     },
     {
-      "id": "tt35410859",
-      "title": "Fjord",
-      "image": "https://m.media-amazon.com/images/M/MV5BOGQwZTQ0YzgtZjk5Mi00NTg1LTg0MmMtZmNjNGUwYjhjNWJhXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "people": [
-        {
-          "id": "nm1659221",
-          "name": "Sebastian Stan"
-        },
-        {
-          "id": "nm4561559",
-          "name": "Renate Reinsve"
-        },
-        {
-          "id": "nm2527686",
-          "name": "Lisa Carlehed"
-        },
-        {
-          "id": "nm2717241",
-          "name": "Ellen Dorrit Petersen"
-        }
-      ],
-      "label": "Oct 09, 2026"
-    },
-    {
       "id": "tt39850240",
       "title": "Angel and the Badman",
       "image": "https://m.media-amazon.com/images/M/MV5BZmJhNjU3ODUtOTI1YS00M2RlLWJiZDEtZGU0NjRhYTBiNWNhXkEyXkFqcGc@._V1_.jpg",
@@ -5074,6 +5045,35 @@
         }
       ],
       "label": "Oct 21, 2026"
+    },
+    {
+      "id": "tt35410859",
+      "title": "Fjord",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGQwZTQ0YzgtZjk5Mi00NTg1LTg0MmMtZmNjNGUwYjhjNWJhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm1659221",
+          "name": "Sebastian Stan"
+        },
+        {
+          "id": "nm4561559",
+          "name": "Renate Reinsve"
+        },
+        {
+          "id": "nm2527686",
+          "name": "Lisa Carlehed"
+        },
+        {
+          "id": "nm2717241",
+          "name": "Ellen Dorrit Petersen"
+        }
+      ],
+      "label": "Oct 23, 2026"
     },
     {
       "id": "tt14371256",
@@ -5954,7 +5954,7 @@
     {
       "id": "tt27988879",
       "title": "Ramayana",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDVmMjZiNjktMGMzZi00M2QxLWI3YzEtZjMxYTdiZWYwNTQ1XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWE4NWVmZjItN2Y0ZC00YmMzLThhNWEtM2VkZjA3MmFlNjdmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -6028,6 +6028,35 @@
         {
           "id": "nm11437019",
           "name": "Bae Hyun-Sung"
+        }
+      ],
+      "label": "Nov 06, 2026"
+    },
+    {
+      "id": "tt37694048",
+      "title": "New Group",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmM3ZDI3ZjQtOTQ1ZC00YTNkLWI1OGUtYmUwNmJmNGU4OWVhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm14637771",
+          "name": "Arisa Sasaki"
+        },
+        {
+          "id": "nm6137155",
+          "name": "Yuzu Aoki"
+        },
+        {
+          "id": "nm0847651",
+          "name": "Pierre Taki"
+        },
+        {
+          "id": "nm6046412",
+          "name": "Anna Yamada"
         }
       ],
       "label": "Nov 06, 2026"
@@ -6268,7 +6297,7 @@
     {
       "id": "tt15095848",
       "title": "Being Heumann",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDk0YjMxYjUtNTE4YS00NjEyLThjYTItMWVhY2NjZjk1NmJmXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTgyNTZmNTItZjYxOS00Nzk0LWE4MGMtZWE1M2ZkZTk0MmU2XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -6492,7 +6521,8 @@
       "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
       "genres": [
         "Documentary",
-        "Animation"
+        "Animation",
+        "War"
       ],
       "people": [
         {
@@ -7092,20 +7122,20 @@
       ],
       "people": [
         {
-          "id": "nm10826558",
-          "name": "Maitreyi Ramakrishnan"
-        },
-        {
           "id": "nm0837177",
           "name": "Jason Sudeikis"
         },
         {
-          "id": "nm1551130",
-          "name": "Keke Palmer"
+          "id": "nm10826558",
+          "name": "Maitreyi Ramakrishnan"
         },
         {
           "id": "nm4141252",
           "name": "Lily James"
+        },
+        {
+          "id": "nm1551130",
+          "name": "Keke Palmer"
         }
       ],
       "label": "Dec 23, 2026"
@@ -7463,12 +7493,12 @@
           "name": "Jessica Rothe"
         },
         {
-          "id": "nm12245280",
-          "name": "Max Mattern"
-        },
-        {
           "id": "nm10867068",
           "name": "Dane DiLiegro"
+        },
+        {
+          "id": "nm12245280",
+          "name": "Max Mattern"
         }
       ],
       "label": "Jan 15, 2027"
@@ -7887,12 +7917,12 @@
           "name": "Maya Hawke"
         },
         {
-          "id": "nm12642168",
-          "name": "Amita Rao"
+          "id": "nm2547958",
+          "name": "Kate Berlant"
         },
         {
-          "id": "nm0448486",
-          "name": "Kerri Kenney"
+          "id": "nm1320827",
+          "name": "Randall Park"
         }
       ],
       "label": "Feb 12, 2027"
@@ -8212,16 +8242,16 @@
       ],
       "people": [
         {
-          "id": "nm0512934",
-          "name": "Hamish Linklater"
+          "id": "nm0252230",
+          "name": "Chiwetel Ejiofor"
         },
         {
           "id": "nm0424060",
           "name": "Scarlett Johansson"
         },
         {
-          "id": "nm0252230",
-          "name": "Chiwetel Ejiofor"
+          "id": "nm0512934",
+          "name": "Hamish Linklater"
         },
         {
           "id": "nm0001303",
@@ -8959,12 +8989,12 @@
       ],
       "people": [
         {
-          "id": "nm0290556",
-          "name": "James Franco"
-        },
-        {
           "id": "nm3170207",
           "name": "Noah Centineo"
+        },
+        {
+          "id": "nm0290556",
+          "name": "James Franco"
         },
         {
           "id": "nm1092086",
@@ -8988,16 +9018,16 @@
       ],
       "people": [
         {
+          "id": "nm0488953",
+          "name": "Brie Larson"
+        },
+        {
           "id": "nm2560618",
           "name": "Willa Fitzgerald"
         },
         {
           "id": "nm0000422",
           "name": "John Goodman"
-        },
-        {
-          "id": "nm0488953",
-          "name": "Brie Larson"
         },
         {
           "id": "nm0973177",
