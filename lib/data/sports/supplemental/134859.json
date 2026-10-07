@@ -1,26 +1,8 @@
 {
   "teamId": "134859",
   "teamName": "St. Louis Blues",
-  "updatedAt": "2026-10-06T00:08:53.814Z",
+  "updatedAt": "2026-10-07T06:09:51.884Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020050",
-      "strEvent": "Chicago Blackhawks vs St. Louis Blues",
-      "strHomeTeam": "Chicago Blackhawks",
-      "strAwayTeam": "St. Louis Blues",
-      "dateEvent": "2026-10-06",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-07T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "BN+, CHSN, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020050",
-      "idHomeTeam": "134854",
-      "idAwayTeam": "134859"
-    },
     {
       "idEvent": "nhl-2026020063",
       "strEvent": "St. Louis Blues vs San Jose Sharks",

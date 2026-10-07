@@ -1,7 +1,7 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-10-06T00:08:53.814Z",
+  "updatedAt": "2026-10-07T06:09:51.884Z",
   "events": [
     {
       "idEvent": "nhl-2026020063",
@@ -590,8 +590,8 @@
       "strLeague": "NHL",
       "strVenue": "SAP Center at San Jose",
       "strStatus": "NS",
-      "strTVStation": "ABTV , NBCSCA, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "ABTV , NBCSCA, SN, TVAS",
+      "updatedAt": "2026-10-07T06:09:51.884Z",
       "source": "scraped",
       "sourceEventId": "2026020513",
       "idHomeTeam": "134853",

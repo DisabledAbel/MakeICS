@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-10-04T06:02:16.534Z",
+  "updatedAt": "2026-10-07T06:09:51.884Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020045",
-      "strEvent": "Montreal Canadiens vs Carolina Hurricanes",
-      "strHomeTeam": "Montreal Canadiens",
-      "strAwayTeam": "Carolina Hurricanes",
-      "dateEvent": "2026-10-06",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-06T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Centre Bell",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, RDS, TSN2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020045",
-      "idHomeTeam": "134834",
-      "idAwayTeam": "134838"
-    },
     {
       "idEvent": "nhl-2026020058",
       "strEvent": "Montreal Canadiens vs Nashville Predators",

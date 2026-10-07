@@ -1,7 +1,7 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-10-06T00:08:53.814Z",
+  "updatedAt": "2026-10-07T06:09:51.884Z",
   "events": [
     {
       "idEvent": "nhl-2026020053",
@@ -536,8 +536,8 @@
       "strLeague": "NHL",
       "strVenue": "Benchmark International Arena",
       "strStatus": "NS",
-      "strTVStation": "SN-PIT, The Spot",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "SN-PIT, TVAS, The Spot",
+      "updatedAt": "2026-10-07T06:09:51.884Z",
       "source": "scraped",
       "sourceEventId": "2026020516",
       "idHomeTeam": "134836",

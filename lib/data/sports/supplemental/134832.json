@@ -1,26 +1,8 @@
 {
   "teamId": "134832",
   "teamName": "Detroit Red Wings",
-  "updatedAt": "2026-10-04T21:37:04.811Z",
+  "updatedAt": "2026-10-07T06:09:51.884Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020046",
-      "strEvent": "Detroit Red Wings vs Ottawa Senators",
-      "strHomeTeam": "Detroit Red Wings",
-      "strAwayTeam": "Ottawa Senators",
-      "dateEvent": "2026-10-06",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-06T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "DSN, RDS2, TSN5",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020046",
-      "idHomeTeam": "134832",
-      "idAwayTeam": "134835"
-    },
     {
       "idEvent": "nhl-2026020066",
       "strEvent": "Detroit Red Wings vs Seattle Kraken",
@@ -518,8 +500,8 @@
       "strLeague": "NHL",
       "strVenue": "Little Caesars Arena",
       "strStatus": "NS",
-      "strTVStation": "DSN, MSG",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "DSN, MSG, TVAS",
+      "updatedAt": "2026-10-07T06:09:51.884Z",
       "source": "scraped",
       "sourceEventId": "2026020510",
       "idHomeTeam": "134832",

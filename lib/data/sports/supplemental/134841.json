@@ -1,26 +1,8 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-10-04T06:02:16.534Z",
+  "updatedAt": "2026-10-07T06:09:51.884Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020048",
-      "strEvent": "New York Rangers vs New York Islanders",
-      "strHomeTeam": "New York Rangers",
-      "strAwayTeam": "New York Islanders",
-      "dateEvent": "2026-10-06",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-06T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "ESPN, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020048",
-      "idHomeTeam": "134842",
-      "idAwayTeam": "134841"
-    },
     {
       "idEvent": "nhl-2026020062",
       "strEvent": "New York Islanders vs Chicago Blackhawks",

@@ -1,26 +1,8 @@
 {
   "teamId": "134840",
   "teamName": "New Jersey Devils",
-  "updatedAt": "2026-10-04T06:02:16.534Z",
+  "updatedAt": "2026-10-07T06:09:51.884Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020047",
-      "strEvent": "New Jersey Devils vs Utah Mammoth",
-      "strHomeTeam": "New Jersey Devils",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-10-06",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-06T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Prudential Center",
-      "strStatus": "NS",
-      "strTVStation": "MSGSN, Utah16",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020047",
-      "idHomeTeam": "134840",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020071",
       "strEvent": "New Jersey Devils vs Vancouver Canucks",

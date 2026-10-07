@@ -1,26 +1,8 @@
 {
   "teamId": "134858",
   "teamName": "Nashville Predators",
-  "updatedAt": "2026-10-06T00:08:53.814Z",
+  "updatedAt": "2026-10-07T06:09:51.884Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020044",
-      "strEvent": "Toronto Maple Leafs vs Nashville Predators",
-      "strHomeTeam": "Toronto Maple Leafs",
-      "strAwayTeam": "Nashville Predators",
-      "dateEvent": "2026-10-06",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-06T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": "SCRIPPS, TSN4",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020044",
-      "idHomeTeam": "134837",
-      "idAwayTeam": "134858"
-    },
     {
       "idEvent": "nhl-2026020058",
       "strEvent": "Montreal Canadiens vs Nashville Predators",
@@ -50,8 +32,8 @@
       "strLeague": "NHL",
       "strVenue": "Canadian Tire Centre",
       "strStatus": "NS",
-      "strTVStation": "SCRIPPS, SN1",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "SCRIPPS, SN1, TVAS-D",
+      "updatedAt": "2026-10-07T06:09:51.884Z",
       "source": "scraped",
       "sourceEventId": "2026020076",
       "idHomeTeam": "134835",

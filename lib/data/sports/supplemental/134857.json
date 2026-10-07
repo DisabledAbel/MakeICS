@@ -1,26 +1,8 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-10-06T00:08:53.814Z",
+  "updatedAt": "2026-10-07T06:09:51.884Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020049",
-      "strEvent": "Buffalo Sabres vs Minnesota Wild",
-      "strHomeTeam": "Buffalo Sabres",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-10-06",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-06T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "KeyBank Center",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, MSG-B, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020049",
-      "idHomeTeam": "134831",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020060",
       "strEvent": "Tampa Bay Lightning vs Minnesota Wild",
