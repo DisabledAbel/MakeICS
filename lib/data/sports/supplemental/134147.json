@@ -1,26 +1,8 @@
 {
   "teamId": "134147",
   "teamName": "Vancouver Whitecaps",
-  "updatedAt": "2026-10-02T01:11:02.847Z",
+  "updatedAt": "2026-10-07T06:20:16.578Z",
   "events": [
-    {
-      "idEvent": "mls-761660",
-      "sourceEventId": "761660",
-      "strEvent": "Chicago Fire vs Vancouver Whitecaps",
-      "strHomeTeam": "Chicago Fire",
-      "strAwayTeam": "Vancouver Whitecaps",
-      "idHomeTeam": "134154",
-      "idAwayTeam": "134147",
-      "dateEvent": "2026-10-07",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-07T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Soldier Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761858",
       "sourceEventId": "761858",

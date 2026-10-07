@@ -403,6 +403,30 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:mls-761660",
+      "uid": "sportsdb-mls-761660@makeics.local",
+      "source": "lib/data/sports/supplemental/134147.json",
+      "record": {
+        "idEvent": "mls-761660",
+        "sourceEventId": "761660",
+        "strEvent": "Chicago Fire vs Vancouver Whitecaps",
+        "strHomeTeam": "Chicago Fire",
+        "strAwayTeam": "Vancouver Whitecaps",
+        "idHomeTeam": "134154",
+        "idAwayTeam": "134147",
+        "dateEvent": "2026-10-07",
+        "strTime": "00:30:00",
+        "strTimestamp": "2026-10-07T00:30:00Z",
+        "strLeague": "MLS",
+        "strVenue": "Soldier Field",
+        "strStatus": "NS",
+        "strTVStation": "Apple TV",
+        "source": "espn",
+        "updatedAt": "2026-10-02T01:11:02.847Z"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:nhl-2026020017",
       "uid": "sportsdb-nhl-2026020017@makeics.local",
       "source": "lib/data/sports/supplemental/134832.json",
