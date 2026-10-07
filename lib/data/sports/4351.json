@@ -6386,7 +6386,7 @@
     {
       "idEvent": "2398490",
       "idAPIfootball": "1492409",
-      "strTimestamp": "2026-10-10T20:00:00",
+      "strTimestamp": "2026-10-10T21:00:00",
       "strEvent": "Vasco da Gama vs Remo",
       "strEventAlternate": "Remo @ Vasco da Gama",
       "strFilename": "Brazilian Serie A 2026-10-10 Vasco da Gama vs Remo",
@@ -6404,7 +6404,7 @@
       "strWeather": null,
       "dateEvent": "2026-10-10",
       "dateEventLocal": null,
-      "strTime": "20:00:00",
+      "strTime": "21:00:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "134282",

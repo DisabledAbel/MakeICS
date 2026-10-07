@@ -2206,7 +2206,7 @@
     {
       "idEvent": "2487542",
       "idAPIfootball": "1550985",
-      "strTimestamp": "2026-10-10T01:00:00",
+      "strTimestamp": "2026-10-10T23:00:00",
       "strEvent": "Querétaro vs Atlante",
       "strEventAlternate": "Atlante @ Querétaro",
       "strFilename": "Mexican Liga MX 2026-10-10 Querétaro vs Atlante",
@@ -2224,7 +2224,7 @@
       "strWeather": "",
       "dateEvent": "2026-10-10",
       "dateEventLocal": "2026-10-09",
-      "strTime": "01:00:00",
+      "strTime": "23:00:00",
       "strTimeLocal": "",
       "strGroup": "",
       "idHomeTeam": "134194",
