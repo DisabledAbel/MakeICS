@@ -7480,6 +7480,48 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401898389",
+      "uid": "sportsdb-scraped-espn-401898389@makeics.local",
+      "source": "lib/data/sports/supplemental/134878.json",
+      "record": {
+        "idEvent": "scraped-espn-401898389",
+        "strEvent": "Oklahoma City Thunder vs New Orleans Pelicans",
+        "strHomeTeam": "Oklahoma City Thunder",
+        "strAwayTeam": "New Orleans Pelicans",
+        "dateEvent": "2026-10-06",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-07T00:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "BOK Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-09-24T00:04:30.106Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401898390",
+      "uid": "sportsdb-scraped-espn-401898390@makeics.local",
+      "source": "lib/data/sports/supplemental/134865.json",
+      "record": {
+        "idEvent": "scraped-espn-401898390",
+        "strEvent": "Golden State Warriors vs Los Angeles Lakers",
+        "strHomeTeam": "Golden State Warriors",
+        "strAwayTeam": "Los Angeles Lakers",
+        "dateEvent": "2026-10-06",
+        "strTime": "02:00:00",
+        "strTimestamp": "2026-10-07T02:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Chase Center",
+        "strStatus": "NS",
+        "strTVStation": "NBA TV",
+        "updatedAt": "2026-10-01T12:29:55.537Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401898716",
       "uid": "sportsdb-scraped-espn-401898716@makeics.local",
       "source": "lib/data/sports/supplemental/134867.json",
@@ -7493,6 +7535,27 @@
         "strTimestamp": "2026-10-06T02:00:00Z",
         "strLeague": "NBA",
         "strVenue": "Golden 1 Center",
+        "strStatus": "NS",
+        "strTVStation": "NBA TV",
+        "updatedAt": "2026-10-01T12:29:55.537Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401901820",
+      "uid": "sportsdb-scraped-espn-401901820@makeics.local",
+      "source": "lib/data/sports/supplemental/134861.json",
+      "record": {
+        "idEvent": "scraped-espn-401901820",
+        "strEvent": "Charlotte Hornets vs Brooklyn Nets",
+        "strHomeTeam": "Charlotte Hornets",
+        "strAwayTeam": "Brooklyn Nets",
+        "dateEvent": "2026-10-06",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-06T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Spectrum Center",
         "strStatus": "NS",
         "strTVStation": "NBA TV",
         "updatedAt": "2026-10-01T12:29:55.537Z",
@@ -7580,6 +7643,27 @@
         "strStatus": "NS",
         "strTVStation": "NBA TV",
         "updatedAt": "2026-10-01T12:29:55.537Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401914128",
+      "uid": "sportsdb-scraped-espn-401914128@makeics.local",
+      "source": "lib/data/sports/supplemental/134885.json",
+      "record": {
+        "idEvent": "scraped-espn-401914128",
+        "strEvent": "Utah Jazz vs Denver Nuggets",
+        "strHomeTeam": "Utah Jazz",
+        "strAwayTeam": "Denver Nuggets",
+        "dateEvent": "2026-10-06",
+        "strTime": "01:00:00",
+        "strTimestamp": "2026-10-07T01:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Delta Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-09-24T00:04:30.106Z",
         "source": "scraped"
       }
     },

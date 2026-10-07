@@ -1,23 +1,8 @@
 {
   "teamId": "134861",
   "teamName": "Brooklyn Nets",
-  "updatedAt": "2026-10-01T12:29:55.537Z",
+  "updatedAt": "2026-10-07T04:28:15.168Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401901820",
-      "strEvent": "Charlotte Hornets vs Brooklyn Nets",
-      "strHomeTeam": "Charlotte Hornets",
-      "strAwayTeam": "Brooklyn Nets",
-      "dateEvent": "2026-10-06",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-06T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Spectrum Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-01T12:29:55.537Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401901823",
       "strEvent": "Brooklyn Nets vs Philadelphia 76ers",
