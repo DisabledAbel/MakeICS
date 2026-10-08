@@ -1,7 +1,7 @@
 {
   "teamId": "134840",
   "teamName": "New Jersey Devils",
-  "updatedAt": "2026-10-07T06:09:51.884Z",
+  "updatedAt": "2026-10-08T13:41:00.401Z",
   "events": [
     {
       "idEvent": "nhl-2026020071",
@@ -86,8 +86,8 @@
       "strLeague": "NHL",
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
-      "strTVStation": "MNMT, MSGSN, NHLN, SNP",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "MNMT, MSGSN, NHLN, SN",
+      "updatedAt": "2026-10-08T13:41:00.401Z",
       "source": "scraped",
       "sourceEventId": "2026020121",
       "idHomeTeam": "134845",

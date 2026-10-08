@@ -1,7 +1,7 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-10-08T06:17:07.221Z",
+  "updatedAt": "2026-10-08T13:41:00.401Z",
   "events": [
     {
       "idEvent": "nhl-2026020069",
@@ -14,8 +14,8 @@
       "strLeague": "NHL",
       "strVenue": "Canada Life Centre",
       "strStatus": "NS",
-      "strTVStation": "KCOP-13, Prime Video, SN1",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "KCOP-13, Prime Video, SN, SN1",
+      "updatedAt": "2026-10-08T13:41:00.401Z",
       "source": "scraped",
       "sourceEventId": "2026020069",
       "idHomeTeam": "134851",
