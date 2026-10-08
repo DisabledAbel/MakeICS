@@ -1,26 +1,8 @@
 {
   "teamId": "134845",
   "teamName": "Washington Capitals",
-  "updatedAt": "2026-10-04T06:02:16.534Z",
+  "updatedAt": "2026-10-08T06:17:07.221Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020053",
-      "strEvent": "Washington Capitals vs Pittsburgh Penguins",
-      "strHomeTeam": "Washington Capitals",
-      "strAwayTeam": "Pittsburgh Penguins",
-      "dateEvent": "2026-10-07",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-07T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, TNT",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020053",
-      "idHomeTeam": "134845",
-      "idAwayTeam": "134844"
-    },
     {
       "idEvent": "nhl-2026020067",
       "strEvent": "Washington Capitals vs New York Rangers",

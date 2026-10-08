@@ -1,26 +1,8 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-10-04T06:02:16.534Z",
+  "updatedAt": "2026-10-08T06:17:07.221Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020054",
-      "strEvent": "Winnipeg Jets vs Colorado Avalanche",
-      "strHomeTeam": "Winnipeg Jets",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-10-07",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-07T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canada Life Centre",
-      "strStatus": "NS",
-      "strTVStation": "ALT, Prime",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020054",
-      "idHomeTeam": "134851",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020064",
       "strEvent": "Calgary Flames vs Colorado Avalanche",

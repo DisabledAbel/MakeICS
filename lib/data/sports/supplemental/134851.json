@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-10-06T00:08:53.814Z",
+  "updatedAt": "2026-10-08T06:17:07.221Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020054",
-      "strEvent": "Winnipeg Jets vs Colorado Avalanche",
-      "strHomeTeam": "Winnipeg Jets",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-10-07",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-07T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canada Life Centre",
-      "strStatus": "NS",
-      "strTVStation": "ALT, Prime",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020054",
-      "idHomeTeam": "134851",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020069",
       "strEvent": "Winnipeg Jets vs Anaheim Ducks",
