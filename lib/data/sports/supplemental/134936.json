@@ -1,7 +1,7 @@
 {
   "teamId": "134936",
   "teamName": "Philadelphia Eagles",
-  "updatedAt": "2026-10-07T19:00:47.244Z",
+  "updatedAt": "2026-10-08T18:53:03.657Z",
   "generatedAt": "2026-07-18T06:13:33.275Z",
   "generateAt": "2026-07-18T06:13:33.275Z",
   "events": [
@@ -42,7 +42,7 @@
       "strTime": "00:15:00Z",
       "strTimestamp": "2026-10-27T00:15:00Z",
       "strLeague": "NFL",
-      "strVenue": "",
+      "strVenue": null,
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
