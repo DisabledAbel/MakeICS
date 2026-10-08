@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T11:35:46.808Z",
+  "generatedAt": "2026-10-08T11:50:45.618Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -4627,6 +4627,36 @@
       "label": "Oct 09, 2026"
     },
     {
+      "id": "tt33381528",
+      "title": "Premada Oorali",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDg2M2E5NWUtM2FlYS00OGRlLTk3YWEtMWU5MDhlMWIyMDEyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Family",
+        "Musical"
+      ],
+      "people": [
+        {
+          "id": "nm10625538",
+          "name": "Shri Mahadev"
+        },
+        {
+          "id": "nm1679254",
+          "name": "Rangayana Raghu"
+        },
+        {
+          "id": "nm13217882",
+          "name": "Thapaswini Poonacha"
+        },
+        {
+          "id": "nm18293134",
+          "name": "Ramika Shivu"
+        }
+      ],
+      "label": "Oct 09, 2026"
+    },
+    {
       "id": "tt46665146",
       "title": "Fresh Meat",
       "image": "https://m.media-amazon.com/images/M/MV5BMjljNDU1MjItZDdiMy00YzgzLWIzMzctNjg3NjM3MmUxNzljXkEyXkFqcGc@._V1_.jpg",
@@ -4640,16 +4670,16 @@
           "name": "Elle Riot Fox"
         },
         {
+          "id": "nm10928234",
+          "name": "Aidan Armstrong"
+        },
+        {
           "id": "nm3558077",
           "name": "Béla Baptiste"
         },
         {
           "id": "nm18944133",
           "name": "Benjamin Baraad"
-        },
-        {
-          "id": "nm6397847",
-          "name": "Finn Bell"
         }
       ],
       "label": "Oct 12, 2026"
@@ -4936,7 +4966,7 @@
     {
       "id": "tt45368240",
       "title": "You Can See Everything",
-      "image": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
       "genres": [
         "Documentary",
@@ -5014,6 +5044,66 @@
         {
           "id": "nm4139368",
           "name": "Taylor Murphy"
+        }
+      ],
+      "label": "Oct 16, 2026"
+    },
+    {
+      "id": "tt27041231",
+      "title": "Musk",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU2ZGE5YjgtMGRiMC00MDIyLTk4N2EtYTk3NTFiYWI4YWFhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Biography",
+        "History"
+      ],
+      "people": [
+        {
+          "id": "nm1907769",
+          "name": "Elon Musk"
+        },
+        {
+          "id": "nm5717772",
+          "name": "Justine Musk"
+        },
+        {
+          "id": "nm12218633",
+          "name": "Ashley St. Clair"
+        },
+        {
+          "id": "nm2425576",
+          "name": "Kara Swisher"
+        }
+      ],
+      "label": "Oct 16, 2026"
+    },
+    {
+      "id": "tt28773062",
+      "title": "Prahaar: The Untold Story of Ujjwal Nikam",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjU3OWNhNGQtNTZiYy00Zjk4LWJjZjQtZjYzYzhmZDhjMWU1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm3844346",
+          "name": "Wamiqa Gabbi"
+        },
+        {
+          "id": "nm4188433",
+          "name": "Jaideep Ahlawat"
+        },
+        {
+          "id": "nm3822770",
+          "name": "Rajkummar Rao"
+        },
+        {
+          "id": "nm8963423",
+          "name": "Lalit Prabhakar"
         }
       ],
       "label": "Oct 16, 2026"
@@ -5246,36 +5336,6 @@
       "label": "Oct 23, 2026"
     },
     {
-      "id": "tt27041231",
-      "title": "Musk",
-      "image": "https://m.media-amazon.com/images/M/MV5BMzU2ZGE5YjgtMGRiMC00MDIyLTk4N2EtYTk3NTFiYWI4YWFhXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
-      "genres": [
-        "Documentary",
-        "Biography",
-        "History"
-      ],
-      "people": [
-        {
-          "id": "nm1907769",
-          "name": "Elon Musk"
-        },
-        {
-          "id": "nm5717772",
-          "name": "Justine Musk"
-        },
-        {
-          "id": "nm12218633",
-          "name": "Ashley St. Clair"
-        },
-        {
-          "id": "nm2425576",
-          "name": "Kara Swisher"
-        }
-      ],
-      "label": "Oct 23, 2026"
-    },
-    {
       "id": "tt23472798",
       "title": "Little Thomas",
       "image": "https://m.media-amazon.com/images/M/MV5BYzI0OWQxZWMtZTM4MS00OTY5LTk1NDYtMjBmNmMxNzJhNTY2XkEyXkFqcGc@._V1_.jpg",
@@ -5377,16 +5437,16 @@
       ],
       "people": [
         {
+          "id": "nm0001290",
+          "name": "Richard E. Grant"
+        },
+        {
           "id": "nm0002907",
           "name": "Alexander Skarsgård"
         },
         {
           "id": "nm1469236",
           "name": "Olivia Colman"
-        },
-        {
-          "id": "nm4456120",
-          "name": "Elizabeth Debicki"
         },
         {
           "id": "nm0227759",
@@ -5898,9 +5958,9 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMjBkOGM3ZjMtYjcxMy00ZDAzLTllYTgtYjMxOTJjNTVjNTM0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
-        "Action",
         "Family",
-        "Musical"
+        "Musical",
+        "Romance"
       ],
       "people": [
         {
@@ -6080,12 +6140,12 @@
           "name": "Garret Dillahunt"
         },
         {
-          "id": "nm1880888",
-          "name": "Olivia Thirlby"
-        },
-        {
           "id": "nm0924154",
           "name": "Shea Whigham"
+        },
+        {
+          "id": "nm1880888",
+          "name": "Olivia Thirlby"
         }
       ],
       "label": "Nov 11, 2026"
@@ -6096,7 +6156,8 @@
       "image": "https://m.media-amazon.com/images/M/MV5BZjJjMDBkOTctNGM3Yy00ZjhhLWJmYzItNTZhNzFhMDZiZjJjXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 11 Nov 2026 00:00:00 GMT",
       "genres": [
-        "Documentary"
+        "Documentary",
+        "War"
       ],
       "people": [
         {
@@ -6134,12 +6195,12 @@
           "name": "Maika Monroe"
         },
         {
-          "id": "nm0005042",
-          "name": "Jason Isaacs"
-        },
-        {
           "id": "nm5057169",
           "name": "Thomasin McKenzie"
+        },
+        {
+          "id": "nm0005042",
+          "name": "Jason Isaacs"
         },
         {
           "id": "nm2235721",
@@ -6517,7 +6578,7 @@
     {
       "id": "tt43586637",
       "title": "Ash and Crayons",
-      "image": "https://m.media-amazon.com/images/M/MV5BM2FiZDEyN2EtOTYwNS00ZmM2LWEwNDQtODJlMWE0NjY4YjYyXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmIxOGM4ZTQtYjNlYi00OWM4LTgzZDMtMjU4YjdkMmViZmRmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
       "genres": [
         "Documentary",
@@ -6618,12 +6679,12 @@
           "name": "Alexandra Daddario"
         },
         {
-          "id": "nm0001688",
-          "name": "Alan Ruck"
-        },
-        {
           "id": "nm1587729",
           "name": "Finn Wittrock"
+        },
+        {
+          "id": "nm0001688",
+          "name": "Alan Ruck"
         },
         {
           "id": "nm0454236",
@@ -6855,6 +6916,10 @@
       ],
       "people": [
         {
+          "id": "nm4911194",
+          "name": "Jenna Ortega"
+        },
+        {
           "id": "nm0001876",
           "name": "Catherine Zeta-Jones"
         },
@@ -6863,12 +6928,8 @@
           "name": "Natalie Portman"
         },
         {
-          "id": "nm4911194",
-          "name": "Jenna Ortega"
-        },
-        {
-          "id": "nm1250791",
-          "name": "Sterling K. Brown"
+          "id": "nm0302108",
+          "name": "Zach Galifianakis"
         }
       ],
       "label": "Dec 04, 2026"
@@ -7594,6 +7655,35 @@
       "label": "Jan 22, 2027"
     },
     {
+      "id": "tt22183852",
+      "title": "Tangles",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWJlNDYwYmQtMDE4Ny00MTZjLWI2NzQtZTQwNjBkOGIzMjQzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 22 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm0736622",
+          "name": "Seth Rogen"
+        },
+        {
+          "id": "nm0186505",
+          "name": "Bryan Cranston"
+        },
+        {
+          "id": "nm0000506",
+          "name": "Julia Louis-Dreyfus"
+        },
+        {
+          "id": "nm0781899",
+          "name": "Pamela Adlon"
+        }
+      ],
+      "label": "Jan 22, 2027"
+    },
+    {
       "id": "tt35893068",
       "title": "Drag",
       "image": "https://m.media-amazon.com/images/M/MV5BMDcxNDZmMTUtZjE1Ni00NmNkLWFjNmUtMTU2NDIzYjY4NTA0XkEyXkFqcGc@._V1_.jpg",
@@ -8273,6 +8363,7 @@
     {
       "id": "tt4540534",
       "title": "The Nightingale",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWZlY2YyN2EtNjU5Ni00Y2U3LWJhNmMtZjNhZjk4ZjYzYmQxXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 19 Mar 2027 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -8281,12 +8372,12 @@
       ],
       "people": [
         {
-          "id": "nm1102577",
-          "name": "Elle Fanning"
-        },
-        {
           "id": "nm0266824",
           "name": "Dakota Fanning"
+        },
+        {
+          "id": "nm1102577",
+          "name": "Elle Fanning"
         },
         {
           "id": "nm0388061",
@@ -9778,6 +9869,39 @@
         }
       ],
       "label": "Oct 01, 2027"
+    },
+    {
+      "id": "tt43674934",
+      "title": "The Haunting of Hotel Transylvania",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDc4NDJiYzAtZDY4NS00Mjg3LTljYTQtNGJkZGVmM2M1MTQ2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 08 Oct 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "people": [],
+      "label": "Oct 08, 2027"
+    },
+    {
+      "id": "tt30017708",
+      "title": "Sleepover",
+      "releaseDate": "Fri, 08 Oct 2027 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [],
+      "label": "Oct 08, 2027"
+    },
+    {
+      "id": "tt5851754",
+      "title": "Untitled Sony Pictures Animation Project",
+      "releaseDate": "Fri, 08 Oct 2027 00:00:00 GMT",
+      "genres": [
+        "Animation"
+      ],
+      "people": [],
+      "label": "Oct 08, 2027"
     }
   ]
 }
