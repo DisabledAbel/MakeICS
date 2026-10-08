@@ -1,26 +1,8 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-10-07T06:09:51.884Z",
+  "updatedAt": "2026-10-08T23:26:19.500Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020056",
-      "strEvent": "Boston Bruins vs Utah Mammoth",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-10-08",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-08T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NESN, Utah16",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020056",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020074",
       "strEvent": "Buffalo Sabres vs Utah Mammoth",

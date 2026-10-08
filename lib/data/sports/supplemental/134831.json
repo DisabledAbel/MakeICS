@@ -1,26 +1,8 @@
 {
   "teamId": "134831",
   "teamName": "Buffalo Sabres",
-  "updatedAt": "2026-10-07T06:09:51.884Z",
+  "updatedAt": "2026-10-08T23:26:19.500Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020057",
-      "strEvent": "Buffalo Sabres vs Dallas Stars",
-      "strHomeTeam": "Buffalo Sabres",
-      "strAwayTeam": "Dallas Stars",
-      "dateEvent": "2026-10-08",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-08T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "KeyBank Center",
-      "strStatus": "NS",
-      "strTVStation": "MSG-B, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020057",
-      "idHomeTeam": "134831",
-      "idAwayTeam": "134856"
-    },
     {
       "idEvent": "nhl-2026020074",
       "strEvent": "Buffalo Sabres vs Utah Mammoth",

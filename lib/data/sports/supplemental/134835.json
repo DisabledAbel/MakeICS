@@ -1,26 +1,8 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-10-07T23:11:05.895Z",
+  "updatedAt": "2026-10-08T23:26:19.500Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020059",
-      "strEvent": "Ottawa Senators vs Philadelphia Flyers",
-      "strHomeTeam": "Ottawa Senators",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-10-08",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-08T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canadian Tire Centre",
-      "strStatus": "NS",
-      "strTVStation": "NBCSP, RDSI, TSN5",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020059",
-      "idHomeTeam": "134835",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020076",
       "strEvent": "Ottawa Senators vs Nashville Predators",

@@ -1,26 +1,8 @@
 {
   "teamId": "134830",
   "teamName": "Boston Bruins",
-  "updatedAt": "2026-10-06T00:08:53.814Z",
+  "updatedAt": "2026-10-08T23:26:19.500Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020056",
-      "strEvent": "Boston Bruins vs Utah Mammoth",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-10-08",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-08T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NESN, Utah16",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020056",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020070",
       "strEvent": "Boston Bruins vs Philadelphia Flyers",

@@ -1,26 +1,8 @@
 {
   "teamId": "134838",
   "teamName": "Carolina Hurricanes",
-  "updatedAt": "2026-10-07T06:09:51.884Z",
+  "updatedAt": "2026-10-08T23:26:19.500Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020061",
-      "strEvent": "Carolina Hurricanes vs Vancouver Canucks",
-      "strHomeTeam": "Carolina Hurricanes",
-      "strAwayTeam": "Vancouver Canucks",
-      "dateEvent": "2026-10-08",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-08T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Lenovo Center",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, SNP",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020061",
-      "idHomeTeam": "134838",
-      "idAwayTeam": "134850"
-    },
     {
       "idEvent": "nhl-2026020078",
       "strEvent": "Chicago Blackhawks vs Carolina Hurricanes",

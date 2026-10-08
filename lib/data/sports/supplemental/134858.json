@@ -1,26 +1,8 @@
 {
   "teamId": "134858",
   "teamName": "Nashville Predators",
-  "updatedAt": "2026-10-07T06:09:51.884Z",
+  "updatedAt": "2026-10-08T23:26:19.500Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020058",
-      "strEvent": "Montreal Canadiens vs Nashville Predators",
-      "strHomeTeam": "Montreal Canadiens",
-      "strAwayTeam": "Nashville Predators",
-      "dateEvent": "2026-10-08",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-08T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Centre Bell",
-      "strStatus": "NS",
-      "strTVStation": "RDS, SCRIPPS, TSN2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020058",
-      "idHomeTeam": "134834",
-      "idAwayTeam": "134858"
-    },
     {
       "idEvent": "nhl-2026020076",
       "strEvent": "Ottawa Senators vs Nashville Predators",

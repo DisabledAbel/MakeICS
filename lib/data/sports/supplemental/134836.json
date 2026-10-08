@@ -1,26 +1,8 @@
 {
   "teamId": "134836",
   "teamName": "Tampa Bay Lightning",
-  "updatedAt": "2026-10-07T06:09:51.884Z",
+  "updatedAt": "2026-10-08T23:26:19.500Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020060",
-      "strEvent": "Tampa Bay Lightning vs Minnesota Wild",
-      "strHomeTeam": "Tampa Bay Lightning",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-10-08",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-08T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Benchmark International Arena",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, The Spot, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020060",
-      "idHomeTeam": "134836",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020081",
       "strEvent": "New York Islanders vs Tampa Bay Lightning",
