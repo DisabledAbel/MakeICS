@@ -1,23 +1,8 @@
 {
   "teamId": "134883",
   "teamName": "Orlando Magic",
-  "updatedAt": "2026-09-24T00:04:30.106Z",
+  "updatedAt": "2026-10-08T04:39:21.074Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898391",
-      "strEvent": "Memphis Grizzlies vs Orlando Magic",
-      "strHomeTeam": "Memphis Grizzlies",
-      "strAwayTeam": "Orlando Magic",
-      "dateEvent": "2026-10-07",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-08T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "FedExForum",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401898401",
       "strEvent": "Cleveland Cavaliers vs Orlando Magic",

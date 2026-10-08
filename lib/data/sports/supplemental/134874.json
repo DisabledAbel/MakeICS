@@ -1,23 +1,8 @@
 {
   "teamId": "134874",
   "teamName": "Milwaukee Bucks",
-  "updatedAt": "2026-10-06T05:01:08.851Z",
+  "updatedAt": "2026-10-08T04:39:21.074Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401908620",
-      "strEvent": "Oklahoma City Thunder vs Milwaukee Bucks",
-      "strHomeTeam": "Oklahoma City Thunder",
-      "strAwayTeam": "Milwaukee Bucks",
-      "dateEvent": "2026-10-07",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-08T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Paycom Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401901821",
       "strEvent": "Charlotte Hornets vs Milwaukee Bucks",

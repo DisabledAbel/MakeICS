@@ -7962,6 +7962,27 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401898391",
+      "uid": "sportsdb-scraped-espn-401898391@makeics.local",
+      "source": "lib/data/sports/supplemental/134877.json",
+      "record": {
+        "idEvent": "scraped-espn-401898391",
+        "strEvent": "Memphis Grizzlies vs Orlando Magic",
+        "strHomeTeam": "Memphis Grizzlies",
+        "strAwayTeam": "Orlando Magic",
+        "dateEvent": "2026-10-07",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-08T00:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "FedExForum",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-09-24T00:04:30.106Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401898716",
       "uid": "sportsdb-scraped-espn-401898716@makeics.local",
       "source": "lib/data/sports/supplemental/134867.json",
@@ -7999,6 +8020,48 @@
         "strStatus": "NS",
         "strTVStation": "NBA TV",
         "updatedAt": "2026-10-01T12:29:55.537Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401908620",
+      "uid": "sportsdb-scraped-espn-401908620@makeics.local",
+      "source": "lib/data/sports/supplemental/134874.json",
+      "record": {
+        "idEvent": "scraped-espn-401908620",
+        "strEvent": "Oklahoma City Thunder vs Milwaukee Bucks",
+        "strHomeTeam": "Oklahoma City Thunder",
+        "strAwayTeam": "Milwaukee Bucks",
+        "dateEvent": "2026-10-07",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-08T00:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Paycom Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-09-24T00:04:30.106Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401908939",
+      "uid": "sportsdb-scraped-espn-401908939@makeics.local",
+      "source": "lib/data/sports/supplemental/134868.json",
+      "record": {
+        "idEvent": "scraped-espn-401908939",
+        "strEvent": "Chicago Bulls vs Phoenix Suns",
+        "strHomeTeam": "Chicago Bulls",
+        "strAwayTeam": "Phoenix Suns",
+        "dateEvent": "2026-10-07",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-08T00:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "United Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-09-24T00:04:30.106Z",
         "source": "scraped"
       }
     },
@@ -8067,6 +8130,27 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401914123",
+      "uid": "sportsdb-scraped-espn-401914123@makeics.local",
+      "source": "lib/data/sports/supplemental/134873.json",
+      "record": {
+        "idEvent": "scraped-espn-401914123",
+        "strEvent": "Indiana Pacers vs Minnesota Timberwolves",
+        "strHomeTeam": "Indiana Pacers",
+        "strAwayTeam": "Minnesota Timberwolves",
+        "dateEvent": "2026-10-07",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-07T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Hilton Coliseum",
+        "strStatus": "NS",
+        "strTVStation": "NBA TV",
+        "updatedAt": "2026-10-01T12:29:55.537Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401914127",
       "uid": "sportsdb-scraped-espn-401914127@makeics.local",
       "source": "lib/data/sports/supplemental/134885.json",
@@ -8104,6 +8188,27 @@
         "strStatus": "NS",
         "strTVStation": null,
         "updatedAt": "2026-09-24T00:04:30.106Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401914129",
+      "uid": "sportsdb-scraped-espn-401914129@makeics.local",
+      "source": "lib/data/sports/supplemental/134865.json",
+      "record": {
+        "idEvent": "scraped-espn-401914129",
+        "strEvent": "Portland Trail Blazers vs Golden State Warriors",
+        "strHomeTeam": "Portland Trail Blazers",
+        "strAwayTeam": "Golden State Warriors",
+        "dateEvent": "2026-10-07",
+        "strTime": "02:00:00",
+        "strTimestamp": "2026-10-08T02:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Moda Center",
+        "strStatus": "NS",
+        "strTVStation": "NBA TV",
+        "updatedAt": "2026-10-01T12:29:55.537Z",
         "source": "scraped"
       }
     },

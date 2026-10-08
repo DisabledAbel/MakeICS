@@ -1,23 +1,8 @@
 {
   "teamId": "134888",
   "teamName": "Portland Trail Blazers",
-  "updatedAt": "2026-10-01T12:29:55.537Z",
+  "updatedAt": "2026-10-08T04:39:21.074Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401914129",
-      "strEvent": "Portland Trail Blazers vs Golden State Warriors",
-      "strHomeTeam": "Portland Trail Blazers",
-      "strAwayTeam": "Golden State Warriors",
-      "dateEvent": "2026-10-07",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-08T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Moda Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-01T12:29:55.537Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401901826",
       "strEvent": "Sacramento Kings vs Portland Trail Blazers",
