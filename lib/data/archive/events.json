@@ -75877,6 +75877,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-aa6b58bf-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aa6b58bf-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134945.json",
+      "record": {
+        "idEvent": "sdv-nfl-aa6b58bf-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Dallas Cowboys vs Tampa Bay Buccaneers",
+        "strHomeTeam": "Dallas Cowboys",
+        "strAwayTeam": "Tampa Bay Buccaneers",
+        "dateEvent": "2026-10-09",
+        "strTime": "00:15:00Z",
+        "strTimestamp": "2026-10-09T00:15:00Z",
+        "strLeague": "NFL",
+        "strVenue": "AT&T Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-aa94c94d-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-aa94c94d-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134922.json",

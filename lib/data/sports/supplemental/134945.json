@@ -1,24 +1,10 @@
 {
   "teamId": "134945",
   "teamName": "Tampa Bay Buccaneers",
-  "updatedAt": "2026-10-05T05:44:32.247Z",
+  "updatedAt": "2026-10-09T06:12:05.266Z",
   "generatedAt": "2026-07-18T06:13:33.286Z",
   "generateAt": "2026-07-18T06:13:33.286Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa6b58bf-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Dallas Cowboys vs Tampa Bay Buccaneers",
-      "strHomeTeam": "Dallas Cowboys",
-      "strAwayTeam": "Tampa Bay Buccaneers",
-      "dateEvent": "2026-10-09",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-09T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "AT&T Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aab58c4b-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Tampa Bay Buccaneers vs Pittsburgh Steelers",
