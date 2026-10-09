@@ -1,23 +1,8 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-10-01T12:29:55.537Z",
+  "updatedAt": "2026-10-09T04:42:26.139Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401906508",
-      "strEvent": "New York Knicks vs Washington Wizards",
-      "strHomeTeam": "New York Knicks",
-      "strAwayTeam": "Washington Wizards",
-      "dateEvent": "2026-10-08",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-08T23:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-01T12:29:55.537Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401906510",
       "strEvent": "Washington Wizards vs Detroit Pistons",

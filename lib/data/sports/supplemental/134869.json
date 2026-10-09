@@ -1,23 +1,8 @@
 {
   "teamId": "134869",
   "teamName": "Sacramento Kings",
-  "updatedAt": "2026-10-06T05:01:08.851Z",
+  "updatedAt": "2026-10-09T04:42:26.139Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898717",
-      "strEvent": "Los Angeles Lakers vs Sacramento Kings",
-      "strHomeTeam": "Los Angeles Lakers",
-      "strAwayTeam": "Sacramento Kings",
-      "dateEvent": "2026-10-08",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-09T02:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "ESPN2",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401898399",
       "strEvent": "Golden State Warriors vs Sacramento Kings",

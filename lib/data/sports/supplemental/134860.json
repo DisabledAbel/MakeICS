@@ -1,23 +1,8 @@
 {
   "teamId": "134860",
   "teamName": "Boston Celtics",
-  "updatedAt": "2026-10-01T12:29:55.537Z",
+  "updatedAt": "2026-10-09T04:42:26.139Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898392",
-      "strEvent": "Cleveland Cavaliers vs Boston Celtics",
-      "strHomeTeam": "Cleveland Cavaliers",
-      "strAwayTeam": "Boston Celtics",
-      "dateEvent": "2026-10-08",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-08T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Rocket Arena",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401898398",
       "strEvent": "Boston Celtics vs Philadelphia 76ers",

@@ -1,23 +1,8 @@
 {
   "teamId": "134878",
   "teamName": "New Orleans Pelicans",
-  "updatedAt": "2026-10-07T04:28:15.168Z",
+  "updatedAt": "2026-10-09T04:42:26.139Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898393",
-      "strEvent": "Miami Heat vs New Orleans Pelicans",
-      "strHomeTeam": "Miami Heat",
-      "strAwayTeam": "New Orleans Pelicans",
-      "dateEvent": "2026-10-08",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-08T23:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Kaseya Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401901825",
       "strEvent": "Dallas Mavericks vs New Orleans Pelicans",

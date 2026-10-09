@@ -8199,6 +8199,69 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401898392",
+      "uid": "sportsdb-scraped-espn-401898392@makeics.local",
+      "source": "lib/data/sports/supplemental/134860.json",
+      "record": {
+        "idEvent": "scraped-espn-401898392",
+        "strEvent": "Cleveland Cavaliers vs Boston Celtics",
+        "strHomeTeam": "Cleveland Cavaliers",
+        "strAwayTeam": "Boston Celtics",
+        "dateEvent": "2026-10-08",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-08T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Rocket Arena",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-09-24T00:04:30.106Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401898393",
+      "uid": "sportsdb-scraped-espn-401898393@makeics.local",
+      "source": "lib/data/sports/supplemental/134878.json",
+      "record": {
+        "idEvent": "scraped-espn-401898393",
+        "strEvent": "Miami Heat vs New Orleans Pelicans",
+        "strHomeTeam": "Miami Heat",
+        "strAwayTeam": "New Orleans Pelicans",
+        "dateEvent": "2026-10-08",
+        "strTime": "23:30:00",
+        "strTimestamp": "2026-10-08T23:30:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Kaseya Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-09-24T00:04:30.106Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401898394",
+      "uid": "sportsdb-scraped-espn-401898394@makeics.local",
+      "source": "lib/data/sports/supplemental/134879.json",
+      "record": {
+        "idEvent": "scraped-espn-401898394",
+        "strEvent": "San Antonio Spurs vs Atlanta Hawks",
+        "strHomeTeam": "San Antonio Spurs",
+        "strAwayTeam": "Atlanta Hawks",
+        "dateEvent": "2026-10-08",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-09T00:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Frost Bank Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-09-24T00:04:30.106Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401898716",
       "uid": "sportsdb-scraped-espn-401898716@makeics.local",
       "source": "lib/data/sports/supplemental/134867.json",
@@ -8220,6 +8283,27 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401898717",
+      "uid": "sportsdb-scraped-espn-401898717@makeics.local",
+      "source": "lib/data/sports/supplemental/134867.json",
+      "record": {
+        "idEvent": "scraped-espn-401898717",
+        "strEvent": "Los Angeles Lakers vs Sacramento Kings",
+        "strHomeTeam": "Los Angeles Lakers",
+        "strAwayTeam": "Sacramento Kings",
+        "dateEvent": "2026-10-08",
+        "strTime": "02:30:00",
+        "strTimestamp": "2026-10-09T02:30:00Z",
+        "strLeague": "NBA",
+        "strVenue": "crypto.com Arena",
+        "strStatus": "NS",
+        "strTVStation": "ESPN2",
+        "updatedAt": "2026-09-24T00:04:30.106Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401901820",
       "uid": "sportsdb-scraped-espn-401901820@makeics.local",
       "source": "lib/data/sports/supplemental/134861.json",
@@ -8233,6 +8317,48 @@
         "strTimestamp": "2026-10-06T23:00:00Z",
         "strLeague": "NBA",
         "strVenue": "Spectrum Center",
+        "strStatus": "NS",
+        "strTVStation": "NBA TV",
+        "updatedAt": "2026-10-01T12:29:55.537Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401901823",
+      "uid": "sportsdb-scraped-espn-401901823@makeics.local",
+      "source": "lib/data/sports/supplemental/134861.json",
+      "record": {
+        "idEvent": "scraped-espn-401901823",
+        "strEvent": "Brooklyn Nets vs Philadelphia 76ers",
+        "strHomeTeam": "Brooklyn Nets",
+        "strAwayTeam": "Philadelphia 76ers",
+        "dateEvent": "2026-10-08",
+        "strTime": "23:30:00",
+        "strTimestamp": "2026-10-08T23:30:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Barclays Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-09-24T00:04:30.106Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401906508",
+      "uid": "sportsdb-scraped-espn-401906508@makeics.local",
+      "source": "lib/data/sports/supplemental/134862.json",
+      "record": {
+        "idEvent": "scraped-espn-401906508",
+        "strEvent": "New York Knicks vs Washington Wizards",
+        "strHomeTeam": "New York Knicks",
+        "strAwayTeam": "Washington Wizards",
+        "dateEvent": "2026-10-08",
+        "strTime": "23:30:00",
+        "strTimestamp": "2026-10-08T23:30:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Madison Square Garden",
         "strStatus": "NS",
         "strTVStation": "NBA TV",
         "updatedAt": "2026-10-01T12:29:55.537Z",
