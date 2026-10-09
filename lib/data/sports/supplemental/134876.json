@@ -1,23 +1,8 @@
 {
   "teamId": "134876",
   "teamName": "Houston Rockets",
-  "updatedAt": "2026-10-01T12:29:55.537Z",
+  "updatedAt": "2026-10-09T12:37:26.078Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898395",
-      "strEvent": "Dallas Mavericks vs Houston Rockets",
-      "strHomeTeam": "Dallas Mavericks",
-      "strAwayTeam": "Houston Rockets",
-      "dateEvent": "2026-10-09",
-      "strTime": "12:00:00",
-      "strTimestamp": "2026-10-09T12:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Venetian Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-01T12:29:55.537Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401898400",
       "strEvent": "Houston Rockets vs Dallas Mavericks",

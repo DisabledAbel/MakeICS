@@ -8358,6 +8358,27 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401898395",
+      "uid": "sportsdb-scraped-espn-401898395@makeics.local",
+      "source": "lib/data/sports/supplemental/134875.json",
+      "record": {
+        "idEvent": "scraped-espn-401898395",
+        "strEvent": "Dallas Mavericks vs Houston Rockets",
+        "strHomeTeam": "Dallas Mavericks",
+        "strAwayTeam": "Houston Rockets",
+        "dateEvent": "2026-10-09",
+        "strTime": "12:00:00",
+        "strTimestamp": "2026-10-09T12:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Venetian Arena",
+        "strStatus": "NS",
+        "strTVStation": "NBA TV",
+        "updatedAt": "2026-10-01T12:29:55.537Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401898716",
       "uid": "sportsdb-scraped-espn-401898716@makeics.local",
       "source": "lib/data/sports/supplemental/134867.json",
