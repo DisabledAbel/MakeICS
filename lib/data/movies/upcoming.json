@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T11:50:45.618Z",
+  "generatedAt": "2026-10-09T11:42:18.734Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -4317,7 +4317,7 @@
     {
       "id": "tt37510326",
       "title": "The Social Reckoning",
-      "image": "https://m.media-amazon.com/images/M/MV5BOGNjNjJjMjMtYzBjNy00ZmEyLWEzNWMtYzE2ODRkNjk3OGZlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjdlZTgzZDUtMmVjYy00M2EyLWFlNGMtNjVhYjM2ODNmZjEzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 09 Oct 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -5926,7 +5926,7 @@
     {
       "id": "tt31179962",
       "title": "Jimmy",
-      "image": "https://m.media-amazon.com/images/M/MV5BYmJmZTZjZDktYzJlYi00OGNkLWJhMmQtNWUwODkzMTA5YmQzXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGU1NTI4MWUtZWZhMi00ZTgwLWJkYTAtY2Q4YWEwZGNlNDgyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -7053,6 +7053,66 @@
       "label": "Dec 04, 2026"
     },
     {
+      "id": "tt28553375",
+      "title": "De Gaulle: Résistance",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTc1ZWJjMDEtYjY3Yy00ZjQ3LTk5ZjMtOTczNGQ3YjU3M2ZhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "people": [
+        {
+          "id": "nm0008787",
+          "name": "Simon Abkarian"
+        },
+        {
+          "id": "nm0750971",
+          "name": "Simon Russell Beale"
+        },
+        {
+          "id": "nm11849704",
+          "name": "Florian Lesieur"
+        },
+        {
+          "id": "nm0536095",
+          "name": "Benoît Magimel"
+        }
+      ],
+      "label": "Dec 04, 2026"
+    },
+    {
+      "id": "tt11662534",
+      "title": "Flavia",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjYxNGZhYWQtNTEyMC00M2ZmLTliZmMtNjVhNTc2ZWM5MDY4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "people": [
+        {
+          "id": "nm11793826",
+          "name": "Molly Belle Wright"
+        },
+        {
+          "id": "nm0293509",
+          "name": "Martin Freeman"
+        },
+        {
+          "id": "nm4026222",
+          "name": "Hannah New"
+        },
+        {
+          "id": "nm17091705",
+          "name": "Attila Hanzel"
+        }
+      ],
+      "label": "Dec 04, 2026"
+    },
+    {
       "id": "tt34718200",
       "title": "The Debut",
       "image": "https://m.media-amazon.com/images/M/MV5BM2Q5ZTdmN2UtYzJjZi00ZjZjLWJmMWMtMjFjMmM5M2VmOWY4XkEyXkFqcGc@._V1_.jpg",
@@ -7863,7 +7923,7 @@
       "genres": [
         "Drama",
         "Fantasy",
-        "Horror"
+        "Mystery"
       ],
       "people": [
         {
@@ -8155,12 +8215,12 @@
       ],
       "people": [
         {
-          "id": "nm0761052",
-          "name": "Roselyn Sanchez"
-        },
-        {
           "id": "nm0005246",
           "name": "Esai Morales"
+        },
+        {
+          "id": "nm0761052",
+          "name": "Roselyn Sanchez"
         },
         {
           "id": "nm7639977",
@@ -8821,16 +8881,16 @@
           "name": "Kevin Bacon"
         },
         {
-          "id": "nm3697443",
-          "name": "Phoebe Dynevor"
-        },
-        {
           "id": "nm0000510",
           "name": "Andie MacDowell"
         },
         {
-          "id": "nm0449299",
-          "name": "Tig Notaro"
+          "id": "nm3697443",
+          "name": "Phoebe Dynevor"
+        },
+        {
+          "id": "nm2200639",
+          "name": "Patrick Schwarzenegger"
         }
       ],
       "label": "May 07, 2027"
@@ -9492,8 +9552,8 @@
           "name": "Amy Madigan"
         },
         {
-          "id": "nm0165101",
-          "name": "Patricia Clarkson"
+          "id": "nm1250791",
+          "name": "Sterling K. Brown"
         }
       ],
       "label": "Jul 30, 2027"
@@ -9768,8 +9828,8 @@
           "name": "Stephen Baldwin"
         },
         {
-          "id": "nm0420966",
-          "name": "Sam Sorbo"
+          "id": "nm1664542",
+          "name": "Michael Irvin"
         }
       ],
       "label": "Sep 10, 2027"
