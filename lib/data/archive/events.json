@@ -82994,6 +82994,22 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt45335545:https://www.imdb.com/title/tt47599676/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt47599676/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 5,
+        "name": "Sonoma to the Pacific with Chris Ying",
+        "airdate": "2026-10-04",
+        "summary": "David Chang joins best friend and creative partner Chris Ying for a wine-soaked romp through Northern California, where Chris tries to convince Chang to love the region's cuisine as they debate whether Mother Nature is behind its quality.",
+        "url": "https://www.imdb.com/title/tt47599676/?ref_=ttep_ep_5",
+        "showId": "tt45335545",
+        "showName": "The Detour with David Chang"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt4859164:https://www.imdb.com/title/tt39614116/?ref_=ttep_ep_1",
       "uid": "tvmaze-https://www.imdb.com/title/tt39614116/?ref_=ttep_ep_1@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
