@@ -1344,7 +1344,7 @@
       "strWeather": null,
       "dateEvent": "2026-10-09",
       "dateEventLocal": null,
-      "strTime": "17:00:00",
+      "strTime": "17:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "133804",
@@ -1363,7 +1363,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
