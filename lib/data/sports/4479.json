@@ -1325,7 +1325,7 @@
     },
     {
       "idEvent": "2499007",
-      "idAPIfootball": "23662",
+      "idAPIfootball": "24671",
       "strTimestamp": "2026-10-13T23:00:00",
       "strEvent": "Middle Tennessee vs Delaware",
       "strEventAlternate": "Delaware @ Middle Tennessee",
@@ -1369,7 +1369,7 @@
     },
     {
       "idEvent": "2499008",
-      "idAPIfootball": "23663",
+      "idAPIfootball": "24672",
       "strTimestamp": "2026-10-14T00:00:00",
       "strEvent": "Jacksonville State vs FIU",
       "strEventAlternate": "FIU @ Jacksonville State",
@@ -1413,7 +1413,7 @@
     },
     {
       "idEvent": "2499009",
-      "idAPIfootball": "23664",
+      "idAPIfootball": "24673",
       "strTimestamp": "2026-10-14T23:30:00",
       "strEvent": "Missouri State vs Kennesaw State",
       "strEventAlternate": "Kennesaw State @ Missouri State",
@@ -1457,7 +1457,7 @@
     },
     {
       "idEvent": "2499010",
-      "idAPIfootball": "23665",
+      "idAPIfootball": "24674",
       "strTimestamp": "2026-10-15T00:00:00",
       "strEvent": "Sam Houston State vs Western Kentucky",
       "strEventAlternate": "Western Kentucky @ Sam Houston State",
@@ -1501,7 +1501,7 @@
     },
     {
       "idEvent": "2499011",
-      "idAPIfootball": "23666",
+      "idAPIfootball": "24675",
       "strTimestamp": "2026-10-15T23:30:00",
       "strEvent": "UAB vs East Carolina",
       "strEventAlternate": "East Carolina @ UAB",
@@ -1545,7 +1545,7 @@
     },
     {
       "idEvent": "2499069",
-      "idAPIfootball": "23724",
+      "idAPIfootball": "24733",
       "strTimestamp": "2026-10-20T23:00:00",
       "strEvent": "FIU vs Middle Tennessee",
       "strEventAlternate": "Middle Tennessee @ FIU",
@@ -1589,7 +1589,7 @@
     },
     {
       "idEvent": "2499070",
-      "idAPIfootball": "23725",
+      "idAPIfootball": "24734",
       "strTimestamp": "2026-10-20T23:00:00",
       "strEvent": "Delaware vs Missouri State",
       "strEventAlternate": "Missouri State @ Delaware",
@@ -1633,7 +1633,7 @@
     },
     {
       "idEvent": "2499071",
-      "idAPIfootball": "23726",
+      "idAPIfootball": "24735",
       "strTimestamp": "2026-10-20T23:30:00",
       "strEvent": "Marshall vs South Alabama",
       "strEventAlternate": "South Alabama @ Marshall",
@@ -1677,7 +1677,7 @@
     },
     {
       "idEvent": "2499072",
-      "idAPIfootball": "23727",
+      "idAPIfootball": "24736",
       "strTimestamp": "2026-10-22T00:00:00",
       "strEvent": "Sam Houston State vs New Mexico State",
       "strEventAlternate": "New Mexico State @ Sam Houston State",
@@ -1721,7 +1721,7 @@
     },
     {
       "idEvent": "2499073",
-      "idAPIfootball": "23728",
+      "idAPIfootball": "24737",
       "strTimestamp": "2026-10-22T23:00:00",
       "strEvent": "Appalachian State vs James Madison",
       "strEventAlternate": "James Madison @ Appalachian State",
@@ -1765,7 +1765,7 @@
     },
     {
       "idEvent": "2499125",
-      "idAPIfootball": "23780",
+      "idAPIfootball": "24789",
       "strTimestamp": "2026-10-27T23:00:00",
       "strEvent": "Western Kentucky vs Delaware",
       "strEventAlternate": "Delaware @ Western Kentucky",
@@ -1809,7 +1809,7 @@
     },
     {
       "idEvent": "2499126",
-      "idAPIfootball": "23781",
+      "idAPIfootball": "24790",
       "strTimestamp": "2026-10-28T00:00:00",
       "strEvent": "Missouri State vs Sam Houston State",
       "strEventAlternate": "Sam Houston State @ Missouri State",
@@ -1853,7 +1853,7 @@
     },
     {
       "idEvent": "2499127",
-      "idAPIfootball": "23782",
+      "idAPIfootball": "24791",
       "strTimestamp": "2026-10-28T23:00:00",
       "strEvent": "Middle Tennessee vs Kennesaw State",
       "strEventAlternate": "Kennesaw State @ Middle Tennessee",
@@ -1897,7 +1897,7 @@
     },
     {
       "idEvent": "2499128",
-      "idAPIfootball": "23783",
+      "idAPIfootball": "24792",
       "strTimestamp": "2026-10-29T00:00:00",
       "strEvent": "New Mexico State vs Jacksonville State",
       "strEventAlternate": "Jacksonville State @ New Mexico State",
@@ -1941,7 +1941,7 @@
     },
     {
       "idEvent": "2499129",
-      "idAPIfootball": "23784",
+      "idAPIfootball": "24793",
       "strTimestamp": "2026-10-29T23:30:00",
       "strEvent": "North Texas vs Florida Atlantic",
       "strEventAlternate": "Florida Atlantic @ North Texas",
@@ -1985,7 +1985,7 @@
     },
     {
       "idEvent": "2499180",
-      "idAPIfootball": "23835",
+      "idAPIfootball": "24844",
       "strTimestamp": "2026-11-03T23:00:00",
       "strEvent": "Akron vs Ohio",
       "strEventAlternate": "Ohio @ Akron",
@@ -2029,7 +2029,7 @@
     },
     {
       "idEvent": "2499181",
-      "idAPIfootball": "23836",
+      "idAPIfootball": "24845",
       "strTimestamp": "2026-11-03T23:00:00",
       "strEvent": "Miami (OH) vs Buffalo",
       "strEventAlternate": "Buffalo @ Miami (OH)",
@@ -2073,7 +2073,7 @@
     },
     {
       "idEvent": "2499182",
-      "idAPIfootball": "23837",
+      "idAPIfootball": "24846",
       "strTimestamp": "2026-11-04T04:00:00",
       "strEvent": "UMass vs Ball State",
       "strEventAlternate": "Ball State @ UMass",
@@ -2117,7 +2117,7 @@
     },
     {
       "idEvent": "2499183",
-      "idAPIfootball": "23838",
+      "idAPIfootball": "24847",
       "strTimestamp": "2026-11-04T04:00:00",
       "strEvent": "Eastern Michigan vs Central Michigan",
       "strEventAlternate": "Central Michigan @ Eastern Michigan",
@@ -2161,7 +2161,7 @@
     },
     {
       "idEvent": "2499184",
-      "idAPIfootball": "23839",
+      "idAPIfootball": "24848",
       "strTimestamp": "2026-11-04T04:00:00",
       "strEvent": "Sacramento State vs Toledo",
       "strEventAlternate": "Toledo @ Sacramento State",
@@ -2205,7 +2205,7 @@
     },
     {
       "idEvent": "2499242",
-      "idAPIfootball": "23897",
+      "idAPIfootball": "24906",
       "strTimestamp": "2026-11-10T23:00:00",
       "strEvent": "Akron vs Western Michigan",
       "strEventAlternate": "Western Michigan @ Akron",
@@ -2249,7 +2249,7 @@
     },
     {
       "idEvent": "2499243",
-      "idAPIfootball": "23898",
+      "idAPIfootball": "24907",
       "strTimestamp": "2026-11-10T23:00:00",
       "strEvent": "Bowling Green vs Kent State",
       "strEventAlternate": "Kent State @ Bowling Green",
@@ -2293,7 +2293,7 @@
     },
     {
       "idEvent": "2499244",
-      "idAPIfootball": "23899",
+      "idAPIfootball": "24908",
       "strTimestamp": "2026-11-10T23:00:00",
       "strEvent": "Miami (OH) vs Ohio",
       "strEventAlternate": "Ohio @ Miami (OH)",
@@ -2337,7 +2337,7 @@
     },
     {
       "idEvent": "2499245",
-      "idAPIfootball": "23900",
+      "idAPIfootball": "24909",
       "strTimestamp": "2026-11-11T04:00:00",
       "strEvent": "Ball State vs Buffalo",
       "strEventAlternate": "Buffalo @ Ball State",
@@ -2381,7 +2381,7 @@
     },
     {
       "idEvent": "2499246",
-      "idAPIfootball": "23901",
+      "idAPIfootball": "24910",
       "strTimestamp": "2026-11-11T04:00:00",
       "strEvent": "Central Michigan vs Sacramento State",
       "strEventAlternate": "Sacramento State @ Central Michigan",
@@ -2425,7 +2425,7 @@
     },
     {
       "idEvent": "2499309",
-      "idAPIfootball": "23964",
+      "idAPIfootball": "24973",
       "strTimestamp": "2026-11-17T23:00:00",
       "strEvent": "Ohio vs Ball State",
       "strEventAlternate": "Ball State @ Ohio",
@@ -2469,7 +2469,7 @@
     },
     {
       "idEvent": "2499310",
-      "idAPIfootball": "23965",
+      "idAPIfootball": "24974",
       "strTimestamp": "2026-11-17T23:00:00",
       "strEvent": "Western Michigan vs Eastern Michigan",
       "strEventAlternate": "Eastern Michigan @ Western Michigan",
@@ -2513,7 +2513,7 @@
     },
     {
       "idEvent": "2499311",
-      "idAPIfootball": "23966",
+      "idAPIfootball": "24975",
       "strTimestamp": "2026-11-17T23:00:00",
       "strEvent": "Kent State vs Miami (OH)",
       "strEventAlternate": "Miami (OH) @ Kent State",
@@ -2557,7 +2557,7 @@
     },
     {
       "idEvent": "2499312",
-      "idAPIfootball": "23967",
+      "idAPIfootball": "24976",
       "strTimestamp": "2026-11-18T04:00:00",
       "strEvent": "UMass vs Akron",
       "strEventAlternate": "Akron @ UMass",
@@ -2601,7 +2601,7 @@
     },
     {
       "idEvent": "2499313",
-      "idAPIfootball": "23968",
+      "idAPIfootball": "24977",
       "strTimestamp": "2026-11-18T04:00:00",
       "strEvent": "Buffalo vs Central Michigan",
       "strEventAlternate": "Central Michigan @ Buffalo",
@@ -2645,7 +2645,7 @@
     },
     {
       "idEvent": "2499378",
-      "idAPIfootball": "24034",
+      "idAPIfootball": "25043",
       "strTimestamp": "2026-11-24T23:00:00",
       "strEvent": "Eastern Michigan vs Kent State",
       "strEventAlternate": "Kent State @ Eastern Michigan",
@@ -2689,7 +2689,7 @@
     },
     {
       "idEvent": "2499379",
-      "idAPIfootball": "24033",
+      "idAPIfootball": "25042",
       "strTimestamp": "2026-11-24T04:00:00",
       "strEvent": "Western Michigan vs Miami (OH)",
       "strEventAlternate": "Miami (OH) @ Western Michigan",
@@ -2777,7 +2777,7 @@
     },
     {
       "idEvent": "2499380",
-      "idAPIfootball": "24036",
+      "idAPIfootball": "25045",
       "strTimestamp": "2026-11-27T04:00:00",
       "strEvent": "East Carolina vs Florida Atlantic",
       "strEventAlternate": "Florida Atlantic @ East Carolina",
@@ -2821,7 +2821,7 @@
     },
     {
       "idEvent": "2499381",
-      "idAPIfootball": "24037",
+      "idAPIfootball": "25046",
       "strTimestamp": "2026-11-27T04:00:00",
       "strEvent": "Memphis vs Temple",
       "strEventAlternate": "Temple @ Memphis",
@@ -2865,7 +2865,7 @@
     },
     {
       "idEvent": "2499436",
-      "idAPIfootball": "24095",
+      "idAPIfootball": "25104",
       "strTimestamp": "2026-12-12T19:00:00",
       "strEvent": "Army vs Navy",
       "strEventAlternate": "Navy @ Army",
