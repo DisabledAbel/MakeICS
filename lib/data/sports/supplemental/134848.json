@@ -1,26 +1,8 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-10-06T00:08:53.814Z",
+  "updatedAt": "2026-10-09T06:19:08.657Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020064",
-      "strEvent": "Calgary Flames vs Colorado Avalanche",
-      "strHomeTeam": "Calgary Flames",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-10-08",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-09T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Saddledome",
-      "strStatus": "NS",
-      "strTVStation": "ALT, KTVD, SNW",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020064",
-      "idHomeTeam": "134848",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020082",
       "strEvent": "Calgary Flames vs Anaheim Ducks",

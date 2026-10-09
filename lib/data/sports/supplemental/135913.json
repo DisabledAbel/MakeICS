@@ -1,26 +1,8 @@
 {
   "teamId": "135913",
   "teamName": "Vegas Golden Knights",
-  "updatedAt": "2026-10-07T06:09:51.884Z",
+  "updatedAt": "2026-10-09T06:19:08.657Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020065",
-      "strEvent": "Vegas Golden Knights vs Toronto Maple Leafs",
-      "strHomeTeam": "Vegas Golden Knights",
-      "strAwayTeam": "Toronto Maple Leafs",
-      "dateEvent": "2026-10-08",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-09T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "T-Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "SCRIPPS, TSN4",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020065",
-      "idHomeTeam": "135913",
-      "idAwayTeam": "134837"
-    },
     {
       "idEvent": "nhl-2026020083",
       "strEvent": "Vegas Golden Knights vs Los Angeles Kings",

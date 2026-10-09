@@ -1,26 +1,8 @@
 {
   "teamId": "134859",
   "teamName": "St. Louis Blues",
-  "updatedAt": "2026-10-07T06:09:51.884Z",
+  "updatedAt": "2026-10-09T06:19:08.657Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020063",
-      "strEvent": "St. Louis Blues vs San Jose Sharks",
-      "strHomeTeam": "St. Louis Blues",
-      "strAwayTeam": "San Jose Sharks",
-      "dateEvent": "2026-10-08",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-09T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Enterprise Center",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020063",
-      "idHomeTeam": "134859",
-      "idAwayTeam": "134853"
-    },
     {
       "idEvent": "nhl-2026020079",
       "strEvent": "St. Louis Blues vs Columbus Blue Jackets",
