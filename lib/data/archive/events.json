@@ -8307,6 +8307,153 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-401918305",
+      "uid": "sportsdb-scraped-401918305@makeics.local",
+      "source": "lib/data/sports/supplemental/136447.json",
+      "record": {
+        "idEvent": "scraped-401918305",
+        "strEvent": "Golden State Valkyries vs Atlanta Dream",
+        "strHomeTeam": "Golden State Valkyries",
+        "strAwayTeam": "Atlanta Dream",
+        "dateEvent": "2026-10-17",
+        "strTime": "19:30:00",
+        "strTimestamp": "2026-10-17T19:30:00Z",
+        "strLeague": "WNBA",
+        "strVenue": "Chase Center",
+        "strStatus": "NS",
+        "strTVStation": "NBC",
+        "updatedAt": null,
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-401918306",
+      "uid": "sportsdb-scraped-401918306@makeics.local",
+      "source": "lib/data/sports/supplemental/136447.json",
+      "record": {
+        "idEvent": "scraped-401918306",
+        "strEvent": "Golden State Valkyries vs Atlanta Dream",
+        "strHomeTeam": "Golden State Valkyries",
+        "strAwayTeam": "Atlanta Dream",
+        "dateEvent": "2026-10-20",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-20T00:00:00Z",
+        "strLeague": "WNBA",
+        "strVenue": "Chase Center",
+        "strStatus": "NS",
+        "strTVStation": "USA Net/CNBC",
+        "updatedAt": null,
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-401918307",
+      "uid": "sportsdb-scraped-401918307@makeics.local",
+      "source": "lib/data/sports/supplemental/136447.json",
+      "record": {
+        "idEvent": "scraped-401918307",
+        "strEvent": "Atlanta Dream vs Golden State Valkyries",
+        "strHomeTeam": "Atlanta Dream",
+        "strAwayTeam": "Golden State Valkyries",
+        "dateEvent": "2026-10-23",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-23T00:00:00Z",
+        "strLeague": "WNBA",
+        "strVenue": "Gateway Center",
+        "strStatus": "NS",
+        "strTVStation": "USA Net/CNBC",
+        "updatedAt": null,
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-401918308",
+      "uid": "sportsdb-scraped-401918308@makeics.local",
+      "source": "lib/data/sports/supplemental/136447.json",
+      "record": {
+        "idEvent": "scraped-401918308",
+        "strEvent": "Atlanta Dream vs Golden State Valkyries",
+        "strHomeTeam": "Atlanta Dream",
+        "strAwayTeam": "Golden State Valkyries",
+        "dateEvent": "2026-10-24",
+        "strTime": "19:30:00",
+        "strTimestamp": "2026-10-24T19:30:00Z",
+        "strLeague": "WNBA",
+        "strVenue": "Gateway Center",
+        "strStatus": "NS",
+        "strTVStation": "NBC",
+        "updatedAt": null,
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-401918309",
+      "uid": "sportsdb-scraped-401918309@makeics.local",
+      "source": "lib/data/sports/supplemental/136447.json",
+      "record": {
+        "idEvent": "scraped-401918309",
+        "strEvent": "Golden State Valkyries vs Atlanta Dream",
+        "strHomeTeam": "Golden State Valkyries",
+        "strAwayTeam": "Atlanta Dream",
+        "dateEvent": "2026-10-27",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-27T00:00:00Z",
+        "strLeague": "WNBA",
+        "strVenue": "Chase Center",
+        "strStatus": "NS",
+        "strTVStation": "USA Net/CNBC",
+        "updatedAt": null,
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-401918310",
+      "uid": "sportsdb-scraped-401918310@makeics.local",
+      "source": "lib/data/sports/supplemental/136447.json",
+      "record": {
+        "idEvent": "scraped-401918310",
+        "strEvent": "Atlanta Dream vs Golden State Valkyries",
+        "strHomeTeam": "Atlanta Dream",
+        "strAwayTeam": "Golden State Valkyries",
+        "dateEvent": "2026-10-30",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-30T00:00:00Z",
+        "strLeague": "WNBA",
+        "strVenue": "Gateway Center",
+        "strStatus": "NS",
+        "strTVStation": "USA Net/CNBC",
+        "updatedAt": null,
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-401918311",
+      "uid": "sportsdb-scraped-401918311@makeics.local",
+      "source": "lib/data/sports/supplemental/136447.json",
+      "record": {
+        "idEvent": "scraped-401918311",
+        "strEvent": "Golden State Valkyries vs Atlanta Dream",
+        "strHomeTeam": "Golden State Valkyries",
+        "strAwayTeam": "Atlanta Dream",
+        "dateEvent": "2026-11-01",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-11-01T00:00:00Z",
+        "strLeague": "WNBA",
+        "strVenue": "Chase Center",
+        "strStatus": "NS",
+        "strTVStation": "USA Net/CNBC",
+        "updatedAt": null,
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401898388",
       "uid": "sportsdb-scraped-espn-401898388@makeics.local",
       "source": "lib/data/sports/supplemental/134877.json",

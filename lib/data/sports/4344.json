@@ -1722,7 +1722,7 @@
     {
       "idEvent": "2514005",
       "idAPIfootball": "1575513",
-      "strTimestamp": "2026-10-10T14:30:00",
+      "strTimestamp": "2026-10-10T19:30:00",
       "strEvent": "Casa Pia vs Santa Clara",
       "strEventAlternate": "Santa Clara @ Casa Pia",
       "strFilename": "Portuguese Primeira Liga 2026-10-10 Casa Pia vs Santa Clara",
@@ -1740,7 +1740,7 @@
       "strWeather": null,
       "dateEvent": "2026-10-10",
       "dateEventLocal": null,
-      "strTime": "14:30:00",
+      "strTime": "19:30:00",
       "strTimeLocal": null,
       "strGroup": null,
       "idHomeTeam": "138864",
