@@ -45,7 +45,7 @@
     "verifiedAt": "2026-09-23T17:47:32.476Z"
   },
   "The Loud House-10-25": {
-    "airdate": "2026-10-16",
+    "airdate": "2026-09-25",
     "name": "All Pets Are Off/Brain Man",
     "verifiedAt": "2026-09-25T17:51:02.665Z"
   },
@@ -74,23 +74,18 @@
     "name": "Queens of Combat",
     "verifiedAt": "2026-10-01T18:47:27.992Z"
   },
-  "The View-30-24": {
-    "airdate": "2026-10-09",
-    "name": "Lisa Ling/Billie Lourd/Chelsea Handler/View Your Deal",
-    "verifiedAt": "2026-10-03T17:00:37.917Z"
-  },
   "On Patrol: Live-5-25": {
-    "airdate": "2026-10-16",
+    "airdate": "2026-09-25",
     "name": "Episode #5.19",
     "verifiedAt": "2026-10-05T21:12:08.102Z"
   },
   "On Patrol: Live-5-26": {
-    "airdate": "2026-10-17",
+    "airdate": "2026-09-26",
     "name": "Episode #5.20",
     "verifiedAt": "2026-10-05T21:12:10.712Z"
   },
   "Max & the Midknights-3-5": {
-    "airdate": "2026-10-14",
+    "airdate": "2026-04-24",
     "name": "Honksgiving!",
     "verifiedAt": "2026-10-05T21:16:24.176Z"
   },
@@ -110,12 +105,12 @@
     "verifiedAt": "2026-10-07T19:15:56.725Z"
   },
   "NOVA-53-16": {
-    "airdate": "2026-11-04",
+    "airdate": "2026-09-16",
     "name": "The Battle to Breathe",
     "verifiedAt": "2026-10-07T19:16:22.450Z"
   },
   "The Voice-30-17": {
-    "airdate": "2026-12-08",
+    "airdate": "2026-09-17",
     "name": "The Voice 30th Season Celebration",
     "verifiedAt": "2026-10-07T19:16:30.182Z"
   },
@@ -125,32 +120,32 @@
     "verifiedAt": "2026-10-07T19:16:44.995Z"
   },
   "America's Test Kitchen-27-4": {
-    "airdate": "2026-10-10",
+    "airdate": "2026-08-21",
     "name": "Tuscan Feast",
     "verifiedAt": "2026-10-07T19:16:56.705Z"
   },
   "America's Test Kitchen-27-5": {
-    "airdate": "2026-10-17",
+    "airdate": "2026-08-24",
     "name": "Soup and Bread, the Italian Way",
     "verifiedAt": "2026-10-07T19:16:59.255Z"
   },
   "Max & the Midknights-3-4": {
-    "airdate": "2026-10-14",
+    "airdate": "2026-04-23",
     "name": "The Trial of Mumblin the Magician",
     "verifiedAt": "2026-10-07T19:17:13.990Z"
   },
   "Max & the Midknights-3-6": {
-    "airdate": "2026-10-15",
+    "airdate": "2026-04-27",
     "name": "Gnomeward Bound",
     "verifiedAt": "2026-10-07T19:17:19.030Z"
   },
   "Max & the Midknights-4-1": {
-    "airdate": "2026-10-19",
+    "airdate": "2026-09-01",
     "name": "Odds Bodkins, Part One",
     "verifiedAt": "2026-10-08T19:13:30.901Z"
   },
   "Secrets of the Dead-23-4": {
-    "airdate": "2026-10-14",
+    "airdate": "2026-02-04",
     "name": "The Quest for Camelot",
     "verifiedAt": "2026-10-01T18:47:30.567Z"
   },
@@ -160,7 +155,7 @@
     "verifiedAt": "2026-10-08T19:13:50.763Z"
   },
   "The View-30-25": {
-    "airdate": "2026-10-12",
+    "airdate": "2026-09-25",
     "name": "Heidi Skolnick/Deborah Roberts/View Your Deal: Oprah Daily Edition/",
     "verifiedAt": "2026-10-09T18:40:29.640Z"
   },
@@ -180,7 +175,7 @@
     "verifiedAt": "2026-10-09T18:41:17.933Z"
   },
   "The Great American Road Rally: Celebrity Edition-1-5": {
-    "airdate": "2026-10-14",
+    "airdate": "2026-06-10",
     "name": "Episode #1.5",
     "verifiedAt": "2026-10-09T18:42:55.110Z"
   },
@@ -190,7 +185,7 @@
     "verifiedAt": "2026-10-09T18:42:57.647Z"
   },
   "Max & the Midknights-3-7": {
-    "airdate": "2026-10-15",
+    "airdate": "2026-04-28",
     "name": "Stuck in a Hole",
     "verifiedAt": "2026-10-09T18:44:23.167Z"
   },
@@ -200,8 +195,108 @@
     "verifiedAt": "2026-10-09T18:44:25.624Z"
   },
   "Max & the Midknights-3-10": {
-    "airdate": "2026-10-19",
+    "airdate": "2026-05-01",
     "name": "Tomb of the Bodkin",
     "verifiedAt": "2026-10-09T18:44:30.663Z"
+  },
+  "Customer Wars-9-3": {
+    "airdate": "2026-10-13",
+    "name": "Guard Down",
+    "verifiedAt": "2026-10-10T17:40:39.288Z"
+  },
+  "Customer Wars-9-4": {
+    "airdate": "2026-07-28",
+    "name": "Check Please",
+    "verifiedAt": "2026-10-10T17:40:41.667Z"
+  },
+  "WWE Friday Night SmackDown-27-42": {
+    "airdate": "2025-10-17",
+    "name": "Crown Jewel 2025 Fallout",
+    "verifiedAt": "2026-10-10T17:40:59.165Z"
+  },
+  "WWE Friday Night SmackDown-27-43": {
+    "airdate": "2025-10-24",
+    "name": "Storm of Deceit",
+    "verifiedAt": "2026-10-10T17:41:01.556Z"
+  },
+  "WWE Friday Night SmackDown-27-44": {
+    "airdate": "2025-10-31",
+    "name": "Signed, Sealed, Smashed",
+    "verifiedAt": "2026-10-10T17:41:04.086Z"
+  },
+  "WWE Friday Night SmackDown-27-45": {
+    "airdate": "2025-11-07",
+    "name": "The Scottish Exile",
+    "verifiedAt": "2026-10-10T17:41:06.516Z"
+  },
+  "WWE Friday Night SmackDown-27-46": {
+    "airdate": "2025-11-14",
+    "name": "Vision of Vengeance",
+    "verifiedAt": "2026-10-10T17:41:09.082Z"
+  },
+  "WWE Friday Night SmackDown-27-47": {
+    "airdate": "2025-11-21",
+    "name": "WarGames Wildcard",
+    "verifiedAt": "2026-10-10T17:41:11.531Z"
+  },
+  "WWE Friday Night SmackDown-27-48": {
+    "airdate": "2025-11-28",
+    "name": "Final Countdown to War",
+    "verifiedAt": "2026-10-10T17:41:13.982Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2025-12-05",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-10-10T17:41:16.655Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-10-10T17:41:19.090Z"
+  },
+  "Marble Hall Murders-1-6": {
+    "airdate": "2026-09-06",
+    "name": "Episode #1.1",
+    "verifiedAt": "2026-10-10T17:42:30.063Z"
+  },
+  "The Real Housewives of New York City-16-8": {
+    "airdate": "2026-09-08",
+    "name": "The Price of Perfection",
+    "verifiedAt": "2026-10-10T17:42:34.564Z"
+  },
+  "The Drop: A Snowfall Saga-1-8": {
+    "airdate": "2026-09-08",
+    "name": "Click Pop",
+    "verifiedAt": "2026-10-10T17:42:37.350Z"
+  },
+  "Let's Make a Deal-18-21": {
+    "airdate": "2026-09-21",
+    "name": "Episode #18.1",
+    "verifiedAt": "2026-10-10T17:43:05.344Z"
+  },
+  "Max & the Midknights-3-2": {
+    "airdate": "2026-04-21",
+    "name": "A Restless Knight, Part Two",
+    "verifiedAt": "2026-10-10T17:43:33.378Z"
+  },
+  "Max & the Midknights-3-3": {
+    "airdate": "2026-04-22",
+    "name": "The Spirit of the Sea",
+    "verifiedAt": "2026-10-10T17:43:35.859Z"
+  },
+  "Max & the Midknights-3-9": {
+    "airdate": "2026-04-30",
+    "name": "A False Victory",
+    "verifiedAt": "2026-10-10T17:43:50.788Z"
+  },
+  "The Rainmaker-2-9": {
+    "airdate": "2026-12-11",
+    "name": "Episode #2.9",
+    "verifiedAt": "2026-10-10T17:44:22.231Z"
+  },
+  "The Rainmaker-2-10": {
+    "airdate": "2026-12-25",
+    "name": "Episode #2.10",
+    "verifiedAt": "2026-10-10T17:44:24.669Z"
   }
 }
