@@ -83018,6 +83018,742 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt30576406/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt30576406/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 1,
+        "name": "New Year's Revolution",
+        "airdate": "2024-01-05",
+        "summary": "Randy Orton, AJ Styles, and LA Knight battle for an opportunity to challenge Roman Reigns. ~Peacock episode description",
+        "url": "https://www.imdb.com/title/tt30576406/?ref_=ttep_ep_1",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt30828017/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt30828017/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 2,
+        "name": "Dirty Work",
+        "airdate": "2024-01-12",
+        "summary": "Bianca Belair vs Bayley. Cameron Grimes vs Grayson Waller. Angel Garza, Humberto vs LWO.",
+        "url": "https://www.imdb.com/title/tt30828017/?ref_=ttep_ep_2",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt30828018/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt30828018/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 3,
+        "name": "Sign On The Dotted Line",
+        "airdate": "2024-01-19",
+        "summary": "LA Knight, AJ Styles, Randy Orton, Roman Reigns sign their Fatal 4-Way contract. Garza, Humberto, Escobar vs LWO. Women's Tag titles: Katana Chance, Kayden Carter vs Alba Fyre, Isle Dawn. Tyler Bate, Pete Dunn vs Pretty Deadly.",
+        "url": "https://www.imdb.com/title/tt30828018/?ref_=ttep_ep_3",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt30828021/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt30828021/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 4,
+        "name": "Ready To Rumble",
+        "airdate": "2024-01-26",
+        "summary": "Womens Tag titles: Kayden, Katana vs Asuka, Kairi. Carmelo Hayes vs Austin Theory. Final Testament face to face with the Street Profits. Carlito vs Santos Escobar.",
+        "url": "https://www.imdb.com/title/tt30828021/?ref_=ttep_ep_4",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt30828024/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt30828024/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 5,
+        "name": "WWE Royal Rumble 2024 Fallout: The Decision",
+        "airdate": "2024-02-02",
+        "summary": "With the Royal Rumble in the rearview, Cody Rhodes and Bayley choose their WrestleMania opponent.",
+        "url": "https://www.imdb.com/title/tt30828024/?ref_=ttep_ep_5",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt30828025/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt30828025/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 6,
+        "name": "Different Roads, Same Destination",
+        "airdate": "2024-02-09",
+        "summary": "Triple H addresses the fallout from the WrestleMania press conference. Gargano, Tommaso vs Pete Dunn, Tyler Bate. Bianca Belair vs Michin. Bayley talks Damage CTRL.",
+        "url": "https://www.imdb.com/title/tt30828025/?ref_=ttep_ep_6",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt30828029/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt30828029/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 7,
+        "name": "Bloodline Cooks",
+        "airdate": "2024-02-16",
+        "summary": "The Rock and Roman Reigns look for an explanation. Kevin Owens vs Dominik. The Miz vs Logan Paul. Zelina Vega vs Tiffany Stratton. Alba Fyre vs Naomi.",
+        "url": "https://www.imdb.com/title/tt30828029/?ref_=ttep_ep_7",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt30828030/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt30828030/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 8,
+        "name": "Heading Into Perth",
+        "airdate": "2024-02-23",
+        "summary": "LA Knight vs Drew McIntyre. Bron Breakker makes his Smackdown in-ring debut. Tyler Bate, Pete Dunne vs Dominik, JD McDonagh. Street Profits vs Authors of Pain.",
+        "url": "https://www.imdb.com/title/tt30828030/?ref_=ttep_ep_8",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt31243339/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt31243339/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 9,
+        "name": "Elimination Chamber 2024 Fallout",
+        "airdate": "2024-03-01",
+        "summary": "The Rock responded to Cody Rhodes with a counter challenge for a high-stakes tag team match on Wrestle Mania Saturday. Plus, Randy Orton got a hand from Kevin Owens against Austin Theory and so much more.",
+        "url": "https://www.imdb.com/title/tt31243339/?ref_=ttep_ep_9",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt31243341/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt31243341/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 10,
+        "name": "The Answer",
+        "airdate": "2024-03-08",
+        "summary": "Randy Orton, Kevin Owens vs Austin Theory, Grayson Waller. Cody Rhodes, Seth Rollins answer The Bloodlines challenge. Bobby Lashley vs Karrion Kross.",
+        "url": "https://www.imdb.com/title/tt31243341/?ref_=ttep_ep_10",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt31243343/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt31243343/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 11,
+        "name": "Home of the Blues",
+        "airdate": "2024-03-15",
+        "summary": "Dakota Kai vs Bayley. Randy Orton vs Grayson Waller. LWO vs Legado Del Fantasma. Pretty Deadly vs Catch Republic. Rey Mysterio returns.",
+        "url": "https://www.imdb.com/title/tt31243343/?ref_=ttep_ep_11",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt31243345/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt31243345/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 12,
+        "name": "Once Again",
+        "airdate": "2024-03-22",
+        "summary": "Roman Reigns, Cody Rhodes come face-to-face. Iyo Sky vs Naomi. Rey Mysterio vs Santos Escobar. Street Profits vs AOP. Grayson Waller, Austin Theory vs The OC.",
+        "url": "https://www.imdb.com/title/tt31243345/?ref_=ttep_ep_12",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt31243352/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt31243352/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 13,
+        "name": "The Arrival",
+        "airdate": "2024-03-29",
+        "summary": "Bianca Belair vs Dakota Kai. Randy Orton, Kevin Owens vs Pretty Deadly. Tag Team Championship Qualifying matches. Jade Cargill makes an appearance.",
+        "url": "https://www.imdb.com/title/tt31243352/?ref_=ttep_ep_13",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt31797088/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt31797088/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 14,
+        "name": "WrestleMania SmackDown",
+        "airdate": "2024-04-05",
+        "summary": "Jey Uso vs Solo Sikoa. Andre The Giant Battle Royal. KO Show with Randy Orton. Zelina Vega vs Elektra Lopez. New Catch Republic vs Waller, Theory.",
+        "url": "https://www.imdb.com/title/tt31797088/?ref_=ttep_ep_14",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt31797089/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt31797089/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 15,
+        "name": "WrestleMania XL Fallout/Motor City Celebration",
+        "airdate": "2024-04-12",
+        "summary": "WrestleMania 40 Fallout. Triple Threat: Rey Mysterio vs Kevin Owens vs AJ Styles. Triple Threat: LA Knight vs Bobby Lashley vs Santos Escobar.",
+        "url": "https://www.imdb.com/title/tt31797089/?ref_=ttep_ep_15",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt31797091/?ref_=ttep_ep_16",
+      "uid": "tvmaze-https://www.imdb.com/title/tt31797091/?ref_=ttep_ep_16@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 16,
+        "name": "On a Mission",
+        "airdate": "2024-04-19",
+        "summary": "Smackdown Women's title: Bayley vs Naomi. AJ Styles vs LA Knight. Fatal 4-Way Tag: Authors of Pain vs Street Profits vs Pete Dunne, Tyler Bate vs Umberto, Garza.",
+        "url": "https://www.imdb.com/title/tt31797091/?ref_=ttep_ep_16",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt31797092/?ref_=ttep_ep_17",
+      "uid": "tvmaze-https://www.imdb.com/title/tt31797092/?ref_=ttep_ep_17@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 17,
+        "name": "2024 WWE Draft: Night 1",
+        "airdate": "2024-04-26",
+        "summary": "Cody Rhodes, AJ Styles sign their Backlash contract. Rey Mysterio, Dragon Lee vs Humberto, Garza. Night 1 of the 2024 Draft.",
+        "url": "https://www.imdb.com/title/tt31797092/?ref_=ttep_ep_17",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32151429/?ref_=ttep_ep_18",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32151429/?ref_=ttep_ep_18@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 18,
+        "name": "Friday in France",
+        "airdate": "2024-05-03",
+        "summary": "Kevin Owens, Randy Orton present The RKO Show. Cody Rhodes, AJ Styles come face to face. WWE Tag titles: A-Town Down Under vs Street Profits. Authors of Pain vs New Catch Republic.",
+        "url": "https://www.imdb.com/title/tt32151429/?ref_=ttep_ep_18",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32151433/?ref_=ttep_ep_19",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32151433/?ref_=ttep_ep_19@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 19,
+        "name": "King and Queen of the Ring Continues",
+        "airdate": "2024-05-10",
+        "summary": "Randy Orton vs AJ Styles. Bianca Belair vs Candice LeRae. Jade Cargill vs Piper Niven. Carmelo Hayes vs Baron Corbin.",
+        "url": "https://www.imdb.com/title/tt32151433/?ref_=ttep_ep_19",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32151436/?ref_=ttep_ep_20",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32151436/?ref_=ttep_ep_20@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 20,
+        "name": "King and Queen of the Ring Quarterfinals",
+        "airdate": "2024-05-17",
+        "summary": "Randy Orton vs Carmelo Hayes. Bianca Belair vs Tiffany Stratton. LA Knight vs Tama Tonga. Jade Cargill vs Nia Jax.",
+        "url": "https://www.imdb.com/title/tt32151436/?ref_=ttep_ep_20",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32151440/?ref_=ttep_ep_21",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32151440/?ref_=ttep_ep_21@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 21,
+        "name": "King and Queen of the Ring Semifinals",
+        "airdate": "2024-05-24",
+        "summary": "Randy Orton vs Tama Tonga. Grayson Waller effect with LA Knight. Bayley vs Chelsea Green. Bianca Belair vs Nia Jax.",
+        "url": "https://www.imdb.com/title/tt32151440/?ref_=ttep_ep_21",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32151442/?ref_=ttep_ep_22",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32151442/?ref_=ttep_ep_22@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 22,
+        "name": "King and Queen of the Ring Fallout",
+        "airdate": "2024-05-31",
+        "summary": "The Bloodline vs The Street Profits. Andrade vs Apollo. Nia Jax's Queen of the Ring Coronation.",
+        "url": "https://www.imdb.com/title/tt32151442/?ref_=ttep_ep_22",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32383775/?ref_=ttep_ep_23",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32383775/?ref_=ttep_ep_23@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 23,
+        "name": "The Right Hand Man",
+        "airdate": "2024-06-07",
+        "summary": "A Bloodline Anointment Ceremony. Grayson Waller vs Johnny Gargano. Indi Hartwell vs Jade Cargill. Apollo vs Angel Garza.",
+        "url": "https://www.imdb.com/title/tt32383775/?ref_=ttep_ep_23",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32461763/?ref_=ttep_ep_24",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32461763/?ref_=ttep_ep_24@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 24,
+        "name": "Clash at the Castle SmackDown",
+        "airdate": "2024-06-14",
+        "summary": "Michin vs Nia Jax. The Grayson Waller Effect with DIY. Naomi vs Chelsea Green.",
+        "url": "https://www.imdb.com/title/tt32461763/?ref_=ttep_ep_24",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32461766/?ref_=ttep_ep_25",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32461766/?ref_=ttep_ep_25@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 25,
+        "name": "CM Punk Returns to Chicago",
+        "airdate": "2024-06-21",
+        "summary": "CM Punk returns to Chicago. Randy Orton vs Carmelo Hayes vs Tama Tonga. Michin vs Chelsea Green vs Bianca Belair. Kevin Owens vs Grayson Waller vs Andrade.",
+        "url": "https://www.imdb.com/title/tt32461766/?ref_=ttep_ep_25",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32461772/?ref_=ttep_ep_26",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32461772/?ref_=ttep_ep_26@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 26,
+        "name": "Bloodline Acknowledgement Ceremony/The Road to Money in the Bank",
+        "airdate": "2024-06-28",
+        "summary": "Candice LeRae vs Jade Cargill vs Tiffany Stratton. Naomi vs Blair Davenport vs Indi Hartwell. LA Knight vs Santos Escobar.",
+        "url": "https://www.imdb.com/title/tt32461772/?ref_=ttep_ep_26",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32461775/?ref_=ttep_ep_27",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32461775/?ref_=ttep_ep_27@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 27,
+        "name": "Last Stop Before Money in the Bank",
+        "airdate": "2024-07-05",
+        "summary": "Tag titles: A-Town Down vs DIY. Bianca Belair, Jade Cargill vs Candice LeRae, Indi Hartwell. Street Profits vs Pretty Deadly.",
+        "url": "https://www.imdb.com/title/tt32461775/?ref_=ttep_ep_27",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32461777/?ref_=ttep_ep_28",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32461777/?ref_=ttep_ep_28@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 28,
+        "name": "Money in the Bank 2024 Fallout",
+        "airdate": "2024-07-12",
+        "summary": "WWE Tag titles: DIY vs A-Town Down. Michin vs Nia Jax. Apollo Crews, Baron Corbin vs Angel, Berto. MITB Fallout.",
+        "url": "https://www.imdb.com/title/tt32461777/?ref_=ttep_ep_28",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32750684/?ref_=ttep_ep_29",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32750684/?ref_=ttep_ep_29@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 29,
+        "name": "Warning Shot",
+        "airdate": "2024-07-19",
+        "summary": "Michin vs Tiffany Stratton. Andrade vs Carmelo Hayes. Cody Rhodes kicks off the show. Featuring LA Knight.",
+        "url": "https://www.imdb.com/title/tt32750684/?ref_=ttep_ep_29",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32750686/?ref_=ttep_ep_30",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32750686/?ref_=ttep_ep_30@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 30,
+        "name": "Six-tandem Gauntlet Match",
+        "airdate": "2024-07-26",
+        "summary": "As the smoke cleared on an explosive six-tandem Gauntlet Match, Jacob Fatu and Tama Tonga emerged as the new No. 1 Contenders to WWE Tag Team Champions #DIY. Plus, Nia Jax and Tiffany Stratton overcame Bayley and Michin in controversial fashion, and undefeated two-time undisputed boxing champion Terence Crawford laid out Austin Theory with one punch.",
+        "url": "https://www.imdb.com/title/tt32750686/?ref_=ttep_ep_30",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32750688/?ref_=ttep_ep_31",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32750688/?ref_=ttep_ep_31@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 31,
+        "name": "Last Stop Before SummerSlam",
+        "airdate": "2024-08-02",
+        "summary": "WWE Tag titles: DIY vs The Bloodline. Andrade vs Carmelo Hayes. Apollo vs Santos Escobar. LA Knight talks with Pretty Deadly. Cody Rhodes face-to-face with Solo Sikoa.",
+        "url": "https://www.imdb.com/title/tt32750688/?ref_=ttep_ep_31",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32750691/?ref_=ttep_ep_32",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32750691/?ref_=ttep_ep_32@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 32,
+        "name": "SummerSlam 2024 Fallout/Roman Returns",
+        "airdate": "2024-08-09",
+        "summary": "DIY vs Pretty Deadly. A-Town Down vs Street Profits. Andrade vs Santos Escobar. Jade Cargill vs Alba Fyre.",
+        "url": "https://www.imdb.com/title/tt32750691/?ref_=ttep_ep_32",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32750695/?ref_=ttep_ep_33",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32750695/?ref_=ttep_ep_33@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 33,
+        "name": "Vicious onslaught on OTC",
+        "airdate": "2024-08-16",
+        "summary": "Grayson Waller vs Kevin Owens. Nia Jax championship celebration. Blair Davenport vs Naomi.",
+        "url": "https://www.imdb.com/title/tt32750695/?ref_=ttep_ep_33",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32750697/?ref_=ttep_ep_34",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32750697/?ref_=ttep_ep_34@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 34,
+        "name": "A History of Violence",
+        "airdate": "2024-08-23",
+        "summary": "Grayson Waller Effect with Cody Rhodes. US title: LA Knight vs Santos Escobar. WWE Tag titles: Bloodline vs Street Profits.",
+        "url": "https://www.imdb.com/title/tt32750697/?ref_=ttep_ep_34",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt32750702/?ref_=ttep_ep_35",
+      "uid": "tvmaze-https://www.imdb.com/title/tt32750702/?ref_=ttep_ep_35@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 35,
+        "name": "Street Fight in Berlin",
+        "airdate": "2024-08-30",
+        "summary": "Street Fight: Nia Jax vs Michin. LA Knight vs Ludwig Kaiser. Cody Rhodes, Kevin Owens face-to-face.",
+        "url": "https://www.imdb.com/title/tt32750702/?ref_=ttep_ep_35",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt33063369/?ref_=ttep_ep_40",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33063369/?ref_=ttep_ep_40@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 40,
+        "name": "SmackDown's 25th Anniversary",
+        "airdate": "2024-10-04",
+        "summary": "Dumpster match: Michin vs Chelsea Green. AJ Styles returns. WWE Tag titles (Triple Threat Ladder): DIY vs Bloodline vs Street Profits.",
+        "url": "https://www.imdb.com/title/tt33063369/?ref_=ttep_ep_40",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt33318358/?ref_=ttep_ep_41",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33318358/?ref_=ttep_ep_41@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 41,
+        "name": "\"We need help\"",
+        "airdate": "2024-10-11",
+        "summary": "Kevin Owens will not let his suspension stop him from explaining his attack on Cody Rhodes; confronting Solo Sikoa; LA Knight defends the United States Title against Carmelo Hayes. ~DISH Network episode description",
+        "url": "https://www.imdb.com/title/tt33318358/?ref_=ttep_ep_41",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt33318359/?ref_=ttep_ep_42",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33318359/?ref_=ttep_ep_42@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 42,
+        "name": "Not The Ones",
+        "airdate": "2024-10-18",
+        "summary": "Jey Uso confronts The Bloodline. WWE Tag title #1 Contender: DIY vs Street Profits vs Pretty Deadly. Bayley, Naomi vs Nia Jax, Tiffany Stratton.",
+        "url": "https://www.imdb.com/title/tt33318359/?ref_=ttep_ep_42",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt33318360/?ref_=ttep_ep_43",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33318360/?ref_=ttep_ep_43@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 43,
+        "name": "The Motor City Machine Guns capture the Tag Team Titles",
+        "airdate": "2024-10-25",
+        "summary": "Cody Rhodes, Gunther face to face. Motor City Machine Guns vs DIY. Andrade vs Carmelo.",
+        "url": "https://www.imdb.com/title/tt33318360/?ref_=ttep_ep_43",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt33318362/?ref_=ttep_ep_44",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33318362/?ref_=ttep_ep_44@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 44,
+        "name": "Countdown to WWE Crown Jewel 2024",
+        "airdate": "2024-11-01",
+        "summary": "The Viper Randy Orton and the WWE Champion Cody Rhodes will team up tonight to face Imperium ahead of their respective matches at Crown Jewel on Saturday.",
+        "url": "https://www.imdb.com/title/tt33318362/?ref_=ttep_ep_44",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt33318363/?ref_=ttep_ep_45",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33318363/?ref_=ttep_ep_45@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 45,
+        "name": "The original Bloodline reunited!",
+        "airdate": "2024-11-08",
+        "summary": "Roman Reigns, Sami Zayn, Jey Uso and Jimmy Uso reunited as they stood against Solo Sikoa's Bloodline. Plus, the Women's United States Title was introduced, Kevin Owens executed a piledriver on Randy Orton to send The Viper to the hospital and so much more.",
+        "url": "https://www.imdb.com/title/tt33318363/?ref_=ttep_ep_45",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt33318364/?ref_=ttep_ep_46",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33318364/?ref_=ttep_ep_46@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 46,
+        "name": "Call the Wiseman",
+        "airdate": "2024-11-15",
+        "summary": "Bronson Reed joined The Bloodline to destroy Roman Reigns, Sami Zayn and The Usos. Later Roman Reigns is left looking for answers after Paul Heyman's cell phone is disconnected. Plus Nia Jax used a ton of chaos to retain the WWE Women's Championship against Naomi in the main event. Cody Rhodes demanded Kevin Owens get the beatdown that he deserves. Bayley is one step closer to history and becoming the first-ever Women's United States Champion after she defeated Candice LeRae and B-Fab in a Triple Threat Match. Legado del Fantasma's Berto answered LA Knight's Open Challenge, but he fell to The Megastar in front of a raucous Milwaukee crowd. The WWE Tag Team Championship remains with The Motor City Machine Guns after Tommaso Ciampa snapped and attacked The Street Profits.",
+        "url": "https://www.imdb.com/title/tt33318364/?ref_=ttep_ep_46",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt33318365/?ref_=ttep_ep_47",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33318365/?ref_=ttep_ep_47@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 47,
+        "name": "Paul Heyman returns with OG Bloodline's fifth man",
+        "airdate": "2024-11-22",
+        "summary": "Paul Heyman makes his shocking return, announcing that CM Punk will be the fifth member for The OG Bloodline's team at Survivor Series. Fed up with the constant blindside attacks, Undisputed WWE Champion Cody Rhodes challenges Kevin Owens to a match at Saturday Night's Main Event. During LA Knight's United States Title Match against Santos Escobar, Shinsuke Nakamura blindsides The Megastar for the second week in a row. After his outburst last week, Tommaso Ciampa collides with Montez Ford. After Jade Cargill is mysteriously attacked backstage, Bianca Belair takes herself out of the Women's United States Title First-Round Match, allowing Chelsea Green to defeat Blair Davenport and advance.",
+        "url": "https://www.imdb.com/title/tt33318365/?ref_=ttep_ep_47",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt33318366/?ref_=ttep_ep_48",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33318366/?ref_=ttep_ep_48@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 48,
+        "name": "Heading Toward War",
+        "airdate": "2024-11-29",
+        "summary": "On the final SmackDown before Survivor Series: WarGames, The Samoan Werewolf Jacob Fatu scored a critical victory over Jey Uso. Plus Paul Heyman sits down with Roman Reigns and CM Punk to find common ground ahead of Survivor Series: WarGames, the combatants of the Women's WarGames Match engaged in a fierce brawl, Undisputed WWE Champion Cody Rhodes blasted Carmelo Hayes with the Cross Rhodes for a hard-fought victory, Michin advanced in the Women's United States Championship Tournament, and more.",
+        "url": "https://www.imdb.com/title/tt33318366/?ref_=ttep_ep_48",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt33318367/?ref_=ttep_ep_49",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33318367/?ref_=ttep_ep_49@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 49,
+        "name": "Chaos unleased",
+        "airdate": "2024-12-06",
+        "summary": "WWE Tag titles: Motor City Machine Guns vs DIY. Cody Rhodes vs Chad Gable. Tiffany Stratton vs Naomi vs Elektra Lopez.",
+        "url": "https://www.imdb.com/title/tt33318367/?ref_=ttep_ep_49",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0227972:https://www.imdb.com/title/tt33318368/?ref_=ttep_ep_50",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33318368/?ref_=ttep_ep_50@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 50,
+        "name": "Vintage Owens",
+        "airdate": "2024-12-13",
+        "summary": "Cody Rhodes, Kevin Owens face-to-face. Women's U.S. title tournament Semi Finals: Bayley vs Chelsea Green, Michin vs Tiffany Stratton. Carmelo Hayes goes one-on-one with a mystery opponent.",
+        "url": "https://www.imdb.com/title/tt33318368/?ref_=ttep_ep_50",
+        "showId": "tt0227972",
+        "showName": "WWE Friday Night SmackDown"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt11349896:https://www.imdb.com/title/tt38954970/?ref_=ttep_ep_1",
       "uid": "tvmaze-https://www.imdb.com/title/tt38954970/?ref_=ttep_ep_1@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
