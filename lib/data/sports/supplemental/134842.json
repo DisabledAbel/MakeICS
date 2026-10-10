@@ -1,26 +1,8 @@
 {
   "teamId": "134842",
   "teamName": "New York Rangers",
-  "updatedAt": "2026-10-07T06:09:51.884Z",
+  "updatedAt": "2026-10-10T06:01:37.444Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020067",
-      "strEvent": "Washington Capitals vs New York Rangers",
-      "strHomeTeam": "Washington Capitals",
-      "strAwayTeam": "New York Rangers",
-      "dateEvent": "2026-10-09",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-09T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT, MSG, NHLN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020067",
-      "idHomeTeam": "134845",
-      "idAwayTeam": "134842"
-    },
     {
       "idEvent": "nhl-2026020085",
       "strEvent": "New York Rangers vs Vancouver Canucks",

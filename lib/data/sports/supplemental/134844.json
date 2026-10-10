@@ -1,26 +1,8 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-10-08T06:17:07.221Z",
+  "updatedAt": "2026-10-10T06:01:37.444Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020068",
-      "strEvent": "Columbus Blue Jackets vs Pittsburgh Penguins",
-      "strHomeTeam": "Columbus Blue Jackets",
-      "strAwayTeam": "Pittsburgh Penguins",
-      "dateEvent": "2026-10-09",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-09T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Nationwide Arena",
-      "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, SN+, SN-PIT, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020068",
-      "idHomeTeam": "134839",
-      "idAwayTeam": "134844"
-    },
     {
       "idEvent": "nhl-2026020077",
       "strEvent": "Pittsburgh Penguins vs Dallas Stars",

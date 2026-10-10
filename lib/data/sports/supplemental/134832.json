@@ -1,26 +1,8 @@
 {
   "teamId": "134832",
   "teamName": "Detroit Red Wings",
-  "updatedAt": "2026-10-07T06:09:51.884Z",
+  "updatedAt": "2026-10-10T06:01:37.444Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020066",
-      "strEvent": "Detroit Red Wings vs Seattle Kraken",
-      "strHomeTeam": "Detroit Red Wings",
-      "strAwayTeam": "Seattle Kraken",
-      "dateEvent": "2026-10-09",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-09T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "DSN, KING, KONG, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020066",
-      "idHomeTeam": "134832",
-      "idAwayTeam": "140082"
-    },
     {
       "idEvent": "nhl-2026020075",
       "strEvent": "Montreal Canadiens vs Detroit Red Wings",

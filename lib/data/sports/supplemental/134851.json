@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-10-08T13:41:00.401Z",
+  "updatedAt": "2026-10-10T06:01:37.444Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020069",
-      "strEvent": "Winnipeg Jets vs Anaheim Ducks",
-      "strHomeTeam": "Winnipeg Jets",
-      "strAwayTeam": "Anaheim Ducks",
-      "dateEvent": "2026-10-09",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-10T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canada Life Centre",
-      "strStatus": "NS",
-      "strTVStation": "KCOP-13, Prime Video, SN, SN1",
-      "updatedAt": "2026-10-08T13:41:00.401Z",
-      "source": "scraped",
-      "sourceEventId": "2026020069",
-      "idHomeTeam": "134851",
-      "idAwayTeam": "134846"
-    },
     {
       "idEvent": "nhl-2026020099",
       "strEvent": "Winnipeg Jets vs Minnesota Wild",
