@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T11:42:18.734Z",
+  "generatedAt": "2026-10-10T11:00:11.325Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5426,6 +5426,35 @@
       "label": "Oct 28, 2026"
     },
     {
+      "id": "tt9213874",
+      "title": "Breeder",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmQ0ZjVlNmQtYTAwNS00MTg5LTljNDktZWMwZGY4MzZhZTE0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 28 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0427963",
+          "name": "Dot-Marie Jones"
+        },
+        {
+          "id": "nm5828485",
+          "name": "Maddie Phillips"
+        },
+        {
+          "id": "nm4496161",
+          "name": "Tanaya Beatty"
+        },
+        {
+          "id": "nm2352362",
+          "name": "Paige McGarvin"
+        }
+      ],
+      "label": "Oct 28, 2026"
+    },
+    {
       "id": "tt29611136",
       "title": "Wicker",
       "image": "https://m.media-amazon.com/images/M/MV5BODliMTEzMTUtOGFlZS00NTgxLThjODEtMzcwNTE1OWE5Mzg2XkEyXkFqcGc@._V1_.jpg",
@@ -5732,16 +5761,16 @@
           "name": "Eric Roberts"
         },
         {
+          "id": "nm5849305",
+          "name": "Dorothy Hadley Joly"
+        },
+        {
           "id": "nm9653729",
           "name": "Mary Lirette"
         },
         {
           "id": "nm3008691",
           "name": "Robert Gunton"
-        },
-        {
-          "id": "nm10380800",
-          "name": "Austin Lampe"
         }
       ],
       "label": "Oct 31, 2026"
@@ -6272,9 +6301,10 @@
     {
       "id": "tt13652154",
       "title": "Mouse",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDc2YmUxNDYtNDFjMS00NWMwLWJmZGEtNTdjMTkyMTNmMTU5XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzVjNzY1ZDAtZjk5NS00OTRjLTkzYjktZjk3NDMyZmRlNmNjXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
       "genres": [
+        "Comedy",
         "Drama"
       ],
       "people": [
@@ -7084,7 +7114,7 @@
     },
     {
       "id": "tt11662534",
-      "title": "Flavia",
+      "title": "Flavia de Luce: Girl Detective",
       "image": "https://m.media-amazon.com/images/M/MV5BNjYxNGZhYWQtNTEyMC00M2ZmLTliZmMtNjVhNTc2ZWM5MDY4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
       "genres": [
@@ -7602,7 +7632,8 @@
       "releaseDate": "Fri, 15 Jan 2027 00:00:00 GMT",
       "genres": [
         "Drama",
-        "Horror"
+        "Horror",
+        "Thriller"
       ],
       "people": [
         {
@@ -8020,7 +8051,6 @@
     {
       "id": "tt9077514",
       "title": "Narnia: The Magician's Nephew",
-      "image": "https://m.media-amazon.com/images/M/MV5BZmJiNzIxNDQtNzhhMC00NGNmLWJkY2MtOWI1MDdmNzFmZTE3XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 12 Feb 2027 00:00:00 GMT",
       "genres": [
         "Adventure",
@@ -8384,6 +8414,7 @@
     {
       "id": "tt32492552",
       "title": "The Exorcist: Martyrs",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGIxYWMwNzgtYTkzNy00MjU2LWFlN2QtZTM5YzQ5NDM4YmQwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 12 Mar 2027 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -8898,7 +8929,7 @@
     {
       "id": "tt38120758",
       "title": "Anything But Ghosts",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTNlYmQ1YTItZWE4MS00ZWNjLWI5ODItNmU0ZjM2OTI1NzIxXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2FkNTUyMTEtMzYyNS00OTZhLWIxOGItZWRjNzg4MDZiNmU5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 07 May 2027 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -9729,15 +9760,39 @@
       ],
       "people": [
         {
-          "id": "nm9296746",
-          "name": "Mason Thames"
-        },
-        {
           "id": "nm8855592",
           "name": "Ella Bright"
+        },
+        {
+          "id": "nm9296746",
+          "name": "Mason Thames"
         }
       ],
       "label": "Aug 20, 2027"
+    },
+    {
+      "id": "tt34381444",
+      "title": "Molepeople",
+      "releaseDate": "Fri, 27 Aug 2027 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0578853",
+          "name": "Ben Mendelsohn"
+        },
+        {
+          "id": "nm6588867",
+          "name": "Anthony Ramos"
+        },
+        {
+          "id": "nm3147751",
+          "name": "LaKeith Stanfield"
+        }
+      ],
+      "label": "Aug 27, 2027"
     },
     {
       "id": "tt38561132",
