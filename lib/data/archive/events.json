@@ -8526,6 +8526,27 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401908940",
+      "uid": "sportsdb-scraped-espn-401908940@makeics.local",
+      "source": "lib/data/sports/supplemental/134870.json",
+      "record": {
+        "idEvent": "scraped-espn-401908940",
+        "strEvent": "Chicago Bulls vs Memphis Grizzlies",
+        "strHomeTeam": "Chicago Bulls",
+        "strAwayTeam": "Memphis Grizzlies",
+        "dateEvent": "2026-10-09",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-10T00:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "United Center",
+        "strStatus": "NS",
+        "strTVStation": "NBA TV",
+        "updatedAt": "2026-10-01T12:29:55.537Z",
+        "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401908947",
       "uid": "sportsdb-scraped-espn-401908947@makeics.local",
       "source": "lib/data/sports/supplemental/134868.json",

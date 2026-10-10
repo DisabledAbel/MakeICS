@@ -1,23 +1,8 @@
 {
   "teamId": "134877",
   "teamName": "Memphis Grizzlies",
-  "updatedAt": "2026-10-08T04:39:21.074Z",
+  "updatedAt": "2026-10-10T04:28:09.570Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401908940",
-      "strEvent": "Chicago Bulls vs Memphis Grizzlies",
-      "strHomeTeam": "Chicago Bulls",
-      "strAwayTeam": "Memphis Grizzlies",
-      "dateEvent": "2026-10-09",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-10T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-01T12:29:55.537Z",
-      "source": "scraped"
-    },
     {
       "idEvent": "scraped-espn-401901822",
       "strEvent": "Memphis Grizzlies vs Charlotte Hornets",
