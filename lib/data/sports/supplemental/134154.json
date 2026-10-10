@@ -1,26 +1,8 @@
 {
   "teamId": "134154",
   "teamName": "Chicago Fire",
-  "updatedAt": "2026-10-07T06:20:16.578Z",
+  "updatedAt": "2026-10-10T21:56:10.305Z",
   "events": [
-    {
-      "idEvent": "mls-761846",
-      "sourceEventId": "761846",
-      "strEvent": "Chicago Fire vs New York City FC",
-      "strHomeTeam": "Chicago Fire",
-      "strAwayTeam": "New York City FC",
-      "idHomeTeam": "134154",
-      "idAwayTeam": "134630",
-      "dateEvent": "2026-10-10",
-      "strTime": "18:30:00",
-      "strTimestamp": "2026-10-10T18:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Soldier Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761869",
       "sourceEventId": "761869",

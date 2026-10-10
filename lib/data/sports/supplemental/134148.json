@@ -1,26 +1,8 @@
 {
   "teamId": "134148",
   "teamName": "Toronto FC",
-  "updatedAt": "2026-10-02T01:11:02.847Z",
+  "updatedAt": "2026-10-10T21:56:10.305Z",
   "events": [
-    {
-      "idEvent": "mls-761845",
-      "sourceEventId": "761845",
-      "strEvent": "Toronto FC vs CF Montréal",
-      "strHomeTeam": "Toronto FC",
-      "strAwayTeam": "CF Montréal",
-      "idHomeTeam": "134148",
-      "idAwayTeam": "134150",
-      "dateEvent": "2026-10-10",
-      "strTime": "17:00:00",
-      "strTimestamp": "2026-10-10T17:00:00Z",
-      "strLeague": "MLS",
-      "strVenue": "BMO Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761860",
       "sourceEventId": "761860",
