@@ -1,7 +1,7 @@
 {
   "teamId": "134860",
   "teamName": "Boston Celtics",
-  "updatedAt": "2026-10-09T04:42:26.139Z",
+  "updatedAt": "2026-10-10T06:13:46.235Z",
   "events": [
     {
       "idEvent": "scraped-espn-401898398",
@@ -15,8 +15,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-01T12:29:55.537Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134863"
     },
     {
       "idEvent": "scraped-espn-401898405",
@@ -30,8 +32,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134881"
     },
     {
       "idEvent": "scraped-espn-401898407",
@@ -45,8 +49,10 @@
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
       "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-01T12:29:55.537Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134863",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401909088",
@@ -60,8 +66,10 @@
       "strVenue": "Little Caesars Arena",
       "strStatus": "NS",
       "strTVStation": "NBC",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134872",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401909095",
@@ -75,8 +83,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "Prime Video",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134862"
     },
     {
       "idEvent": "scraped-espn-401909870",
@@ -90,8 +100,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134870"
     },
     {
       "idEvent": "scraped-espn-401909877",
@@ -105,8 +117,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134861"
     },
     {
       "idEvent": "scraped-espn-401909278",
@@ -120,8 +134,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134870"
     },
     {
       "idEvent": "scraped-espn-401909903",
@@ -135,8 +151,10 @@
       "strVenue": "Kia Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134883",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401909916",
@@ -150,8 +168,10 @@
       "strVenue": "Toyota Center (Houston)",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134876",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401909924",
@@ -165,8 +185,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134874"
     },
     {
       "idEvent": "scraped-espn-401909288",
@@ -180,8 +202,10 @@
       "strVenue": "Spectrum Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134881",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401909949",
@@ -195,8 +219,10 @@
       "strVenue": "Fiserv Forum",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134874",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401909961",
@@ -210,8 +236,10 @@
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
       "strTVStation": "NBC",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134863",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401909968",
@@ -225,8 +253,10 @@
       "strVenue": "Scotiabank Arena",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134864",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401909989",
@@ -240,8 +270,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134875"
     },
     {
       "idEvent": "scraped-espn-401909994",
@@ -255,8 +287,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "NBCSN",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134883"
     },
     {
       "idEvent": "scraped-espn-401910015",
@@ -270,8 +304,10 @@
       "strVenue": "Ball Arena",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134885",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910028",
@@ -285,8 +321,10 @@
       "strVenue": "Golden 1 Center",
       "strStatus": "NS",
       "strTVStation": "NBA TV",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134869",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910035",
@@ -300,8 +338,10 @@
       "strVenue": "Chase Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134865",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401909315",
@@ -315,8 +355,10 @@
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
       "strTVStation": "NBC",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134884",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401909330",
@@ -330,8 +372,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134880"
     },
     {
       "idEvent": "scraped-espn-401910052",
@@ -345,8 +389,10 @@
       "strVenue": "Frost Bank Center",
       "strStatus": "NS",
       "strTVStation": "NBA TV",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134879",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910065",
@@ -360,8 +406,10 @@
       "strVenue": "American Airlines Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134875",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910078",
@@ -375,8 +423,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134881"
     },
     {
       "idEvent": "scraped-espn-401910098",
@@ -390,8 +440,10 @@
       "strVenue": "Barclays Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134861",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910107",
@@ -405,8 +457,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "MNMT",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134884"
     },
     {
       "idEvent": "scraped-espn-401910117",
@@ -420,8 +474,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "ESPN",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134884"
     },
     {
       "idEvent": "scraped-espn-401910136",
@@ -435,8 +491,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134889"
     },
     {
       "idEvent": "scraped-espn-401910156",
@@ -450,8 +508,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134872"
     },
     {
       "idEvent": "scraped-espn-401910175",
@@ -465,8 +525,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134888"
     },
     {
       "idEvent": "scraped-espn-401909098",
@@ -480,8 +542,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "ABC",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134882"
     },
     {
       "idEvent": "scraped-espn-401910208",
@@ -495,8 +559,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "NBC",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134871"
     },
     {
       "idEvent": "scraped-espn-401910222",
@@ -510,8 +576,10 @@
       "strVenue": "United Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134870",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910240",
@@ -525,8 +593,10 @@
       "strVenue": "Delta Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134889",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910250",
@@ -540,8 +610,10 @@
       "strVenue": "Moda Center",
       "strStatus": "NS",
       "strTVStation": "NBA TV",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134888",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910262",
@@ -555,8 +627,10 @@
       "strVenue": "Mortgage Matchup Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134868",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910289",
@@ -570,8 +644,10 @@
       "strVenue": "crypto.com Arena",
       "strStatus": "NS",
       "strTVStation": "Prime Video",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134867",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910304",
@@ -585,8 +661,10 @@
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134866",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910315",
@@ -600,8 +678,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134876"
     },
     {
       "idEvent": "scraped-espn-401910328",
@@ -615,8 +695,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "ESPN",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134862"
     },
     {
       "idEvent": "scraped-espn-401910352",
@@ -630,8 +712,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134861"
     },
     {
       "idEvent": "scraped-espn-401910365",
@@ -645,8 +729,10 @@
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
       "strTVStation": "MNMT",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134884",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910377",
@@ -660,8 +746,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134873"
     },
     {
       "idEvent": "scraped-espn-401910385",
@@ -675,8 +763,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "Prime Video",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134863"
     },
     {
       "idEvent": "scraped-espn-401910402",
@@ -690,8 +780,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134881"
     },
     {
       "idEvent": "scraped-espn-401910413",
@@ -705,8 +797,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "NBCSN",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134864"
     },
     {
       "idEvent": "scraped-espn-401910430",
@@ -720,8 +814,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134866"
     },
     {
       "idEvent": "scraped-espn-401910446",
@@ -735,8 +831,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134868"
     },
     {
       "idEvent": "scraped-espn-401910461",
@@ -750,8 +848,10 @@
       "strVenue": "Scotiabank Arena",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134864",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910477",
@@ -765,8 +865,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "NBC",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134867"
     },
     {
       "idEvent": "scraped-espn-401910490",
@@ -780,8 +882,10 @@
       "strVenue": "Spectrum Center",
       "strStatus": "NS",
       "strTVStation": "Prime Video",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134881",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910498",
@@ -795,8 +899,10 @@
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134880",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910518",
@@ -810,8 +916,10 @@
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
       "strTVStation": "NBC",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134863",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910529",
@@ -825,8 +933,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134885"
     },
     {
       "idEvent": "scraped-espn-401910541",
@@ -840,8 +950,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "ESPN",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134865"
     },
     {
       "idEvent": "scraped-espn-401910556",
@@ -855,8 +967,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "Prime Video",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134886"
     },
     {
       "idEvent": "scraped-espn-401910568",
@@ -870,8 +984,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134864"
     },
     {
       "idEvent": "scraped-espn-401910592",
@@ -885,8 +1001,10 @@
       "strVenue": "Paycom Center",
       "strStatus": "NS",
       "strTVStation": "ESPN",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134887",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910597",
@@ -900,8 +1018,10 @@
       "strVenue": "FedExForum",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134877",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910610",
@@ -915,8 +1035,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "ESPN",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134871"
     },
     {
       "idEvent": "scraped-espn-401910628",
@@ -930,8 +1052,10 @@
       "strVenue": "Target Center",
       "strStatus": "NS",
       "strTVStation": "NBC",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134886",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910638",
@@ -945,8 +1069,10 @@
       "strVenue": "Gainbridge Fieldhouse",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134873",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910662",
@@ -960,8 +1086,10 @@
       "strVenue": "Little Caesars Arena",
       "strStatus": "NS",
       "strTVStation": "ESPN",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134872",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910675",
@@ -975,8 +1103,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "ABC",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134863"
     },
     {
       "idEvent": "scraped-espn-401910692",
@@ -990,8 +1120,10 @@
       "strVenue": "United Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134870",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910706",
@@ -1005,8 +1137,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134877"
     },
     {
       "idEvent": "scraped-espn-401910713",
@@ -1020,8 +1154,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "Prime Video",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134887"
     },
     {
       "idEvent": "scraped-espn-401910727",
@@ -1035,8 +1171,10 @@
       "strVenue": "Madison Square Garden",
       "strStatus": "NS",
       "strTVStation": "ABC",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134862",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910740",
@@ -1050,8 +1188,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134869"
     },
     {
       "idEvent": "scraped-espn-401910759",
@@ -1065,8 +1205,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134883"
     },
     {
       "idEvent": "scraped-espn-401910779",
@@ -1080,8 +1222,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134878"
     },
     {
       "idEvent": "scraped-espn-401910794",
@@ -1095,8 +1239,10 @@
       "strVenue": "Barclays Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134861",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910803",
@@ -1110,8 +1256,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": "ESPN",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134879"
     },
     {
       "idEvent": "scraped-espn-401910827",
@@ -1125,8 +1273,10 @@
       "strVenue": "Kaseya Center",
       "strStatus": "NS",
       "strTVStation": "NBA TV",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134882",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910836",
@@ -1140,8 +1290,10 @@
       "strVenue": "Smoothie King Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134878",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910849",
@@ -1155,8 +1307,10 @@
       "strVenue": "Gainbridge Fieldhouse",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134873",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910864",
@@ -1170,8 +1324,10 @@
       "strVenue": "Rocket Arena",
       "strStatus": "NS",
       "strTVStation": "Prime Video",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134871",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910869",
@@ -1185,8 +1341,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134882"
     },
     {
       "idEvent": "scraped-espn-401910893",
@@ -1200,8 +1358,10 @@
       "strVenue": "Madison Square Garden",
       "strStatus": "NS",
       "strTVStation": "NBC",
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134862",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910910",
@@ -1215,8 +1375,10 @@
       "strVenue": "Kia Center",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134883",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910923",
@@ -1230,8 +1392,10 @@
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134880",
+      "idAwayTeam": "134860"
     },
     {
       "idEvent": "scraped-espn-401910937",
@@ -1245,8 +1409,10 @@
       "strVenue": "TD Garden",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-09-24T00:04:30.106Z",
-      "source": "scraped"
+      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "source": "scraped",
+      "idHomeTeam": "134860",
+      "idAwayTeam": "134874"
     }
   ]
 }
