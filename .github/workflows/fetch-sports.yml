@@ -67,11 +67,39 @@ jobs:
           git config --global user.name "DisabledAbel"
           git config --global user.email "196466003+DisabledAbel@users.noreply.github.com"
 
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
+          for attempt in 1 2 3; do
+            if git diff --cached --quiet; then
+              echo "No changes to commit."
+              exit 0
+            fi
 
-          git commit -m "📅 Update sports schedules"
-          git pull --rebase origin "$REF_NAME"
-          git push origin HEAD:"$REF_NAME"
+            git commit -m "📅 Update sports schedules"
+            if git push origin "HEAD:refs/heads/$REF_NAME"; then
+              exit 0
+            fi
+
+            git fetch origin "refs/heads/$REF_NAME"
+            if git merge-base --is-ancestor HEAD FETCH_HEAD; then
+              echo "Update is already on the remote branch."
+              exit 0
+            fi
+            if [ "$(git rev-parse FETCH_HEAD)" = "$(git rev-parse HEAD^)" ]; then
+              echo "::error::Push failed without a concurrent branch update."
+              exit 1
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "::error::Unable to push sports data after 3 attempts."
+              exit 1
+            fi
+
+            # Regenerate on the latest data instead of rebasing generated JSON.
+            # This keeps concurrent updates and their permanent archive intact.
+            echo "Branch advanced; regenerating sports data (attempt $((attempt + 1))/3)."
+            git reset --hard FETCH_HEAD
+            export CALENDAR_HISTORY_BASELINE="$(git rev-parse HEAD)"
+            npm ci
+            node --test test/fetchSports.test.js test/validateFetchOutput.test.js
+            npx playwright install chromium --with-deps
+            node scripts/fetch-sports.js
+            node scripts/validate-fetch-output.js sports --stage
+          done
