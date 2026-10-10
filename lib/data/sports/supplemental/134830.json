@@ -1,26 +1,8 @@
 {
   "teamId": "134830",
   "teamName": "Boston Bruins",
-  "updatedAt": "2026-10-08T23:26:19.500Z",
+  "updatedAt": "2026-10-10T21:51:41.399Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020070",
-      "strEvent": "Boston Bruins vs Philadelphia Flyers",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-10-10",
-      "strTime": "17:00:00",
-      "strTimestamp": "2026-10-10T17:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NBCSP, NESN, NHLN, SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020070",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020105",
       "strEvent": "San Jose Sharks vs Boston Bruins",

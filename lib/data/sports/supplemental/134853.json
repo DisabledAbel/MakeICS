@@ -1,26 +1,8 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-10-09T06:19:08.657Z",
+  "updatedAt": "2026-10-10T21:51:41.399Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020072",
-      "strEvent": "San Jose Sharks vs Edmonton Oilers",
-      "strHomeTeam": "San Jose Sharks",
-      "strAwayTeam": "Edmonton Oilers",
-      "dateEvent": "2026-10-10",
-      "strTime": "20:00:00",
-      "strTimestamp": "2026-10-10T20:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "SAP Center at San Jose",
-      "strStatus": "NS",
-      "strTVStation": "NBCSCA, SN1, SNW",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020072",
-      "idHomeTeam": "134853",
-      "idAwayTeam": "134849"
-    },
     {
       "idEvent": "nhl-2026020105",
       "strEvent": "San Jose Sharks vs Boston Bruins",
