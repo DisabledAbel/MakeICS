@@ -59,3 +59,29 @@ test('real sports loading merges a requested team archive into its ICS feed', as
   assert.ok(archived, 'expected the committed archive record to be merged');
   assert.match(sportsToIcs(result), /UID:sportsdb-scraped-401856890@makeics\.local/);
 });
+
+test('an archived NBA game without team IDs remains in both opponents calendars', async () => {
+  for (const [teamId, strTeam] of [['134888', 'Portland Trail Blazers'], ['134865', 'Golden State Warriors']]) {
+    const fetchImpl = async url => {
+      if (url.includes('lookupteam.php')) return Response.json({ teams: [{ idTeam: teamId, strTeam, strSport: 'Basketball', strLeague: 'NBA', idLeague: '4387' }] });
+      if (url.includes('eventsnext.php')) return Response.json({ events: [] });
+      throw new Error(`Unexpected request: ${url}`);
+    };
+    const result = await getEvents({ teamId, now: new Date('2026-10-10T00:00:00Z'), fetchImpl });
+    assert.ok(result.events.some(event => event.id === 'scraped-espn-401914129'), `missing archived game for ${strTeam}`);
+    assert.match(sportsToIcs(result), /UID:sportsdb-scraped-espn-401914129@makeics\.local/);
+
+    const combined = await buildCalendar({ teamIds: [teamId], loaders: { getEvents: async () => result } });
+    assert.ok(combinedToIcs(combined).includes(`UID:makeics-sports-${teamId}-scraped-espn-401914129@makeics`));
+  }
+});
+
+test('legacy archive name matching does not include games from another league', async () => {
+  const fetchImpl = async url => {
+    if (url.includes('lookupteam.php')) return Response.json({ teams: [{ idTeam: '000000', strTeam: 'Portland Trail Blazers', strLeague: 'Other League' }] });
+    if (url.includes('eventsnext.php')) return Response.json({ events: [] });
+    throw new Error(`Unexpected request: ${url}`);
+  };
+  const result = await getEvents({ teamId: '000000', fetchImpl });
+  assert.deepEqual(result.events, []);
+});

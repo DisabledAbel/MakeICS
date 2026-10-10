@@ -85,6 +85,8 @@ test('NBA timeout falls back to all ESPN team schedules, deduplicates games and 
     const data = JSON.parse(await fs.readFile(filePath, 'utf8'));
     assert.equal(data.events[0].dateEvent, '2026-10-02');
     assert.equal(data.events[0].strTVStation, 'NBA TV');
+    assert.equal(data.events[0].idHomeTeam, '100000');
+    assert.equal(data.events[0].idAwayTeam, '100001');
     data.events[0].idEvent = 'scraped-original-nba-id';
     await fs.writeFile(filePath, JSON.stringify(data));
     const before = await fs.readFile(filePath, 'utf8');
@@ -157,6 +159,11 @@ test('fetchNbaSchedules writes normalized schedules for every NBA team', async (
     assert.equal(data.events.length, 1);
     assert.equal(data.events[0].strTimestamp, '2026-10-02T23:30:00Z');
     assert.equal(data.events[0].strVenue, 'Test Arena');
+    assert.equal(data.events[0].idHomeTeam, '100000');
+    assert.equal(data.events[0].idAwayTeam, '100001');
+    const awayData = JSON.parse(await fs.readFile(path.join(outputDir, '100001.json'), 'utf8'));
+    assert.equal(awayData.events[0].idHomeTeam, data.events[0].idHomeTeam);
+    assert.equal(awayData.events[0].idAwayTeam, data.events[0].idAwayTeam);
 
     const firstUpdatedAt = data.events[0].updatedAt;
     const secondResult = await fetchNbaSchedules({ fetchImpl, outputDir, now: new Date('2026-09-24T00:00:00Z') });

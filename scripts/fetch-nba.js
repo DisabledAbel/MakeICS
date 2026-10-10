@@ -167,11 +167,9 @@ function normalizeName(value) {
   return String(value || '').toLowerCase().replace(/[^a-z0-9]/g, '');
 }
 
-function belongsToTeam(game, team) {
+function matchesTeam(name, tricode, team) {
   const names = [team.strTeam, team.strTeamShort].map(normalizeName).filter(Boolean);
-  const gameNames = [game.homeTeam, game.awayTeam].map(normalizeName);
-  const tricodes = [game.homeTricode, game.awayTricode].map(normalizeName);
-  return names.some(name => gameNames.includes(name) || tricodes.includes(name));
+  return names.includes(normalizeName(name)) || names.includes(normalizeName(tricode));
 }
 
 function eventsEqual(first, second) {
@@ -226,18 +224,27 @@ export async function fetchNbaSchedules({
     }
   }
 
-  const unmatchedGames = games.filter(game => teams.filter(team => belongsToTeam(game, team)).length !== 2);
-  if (unmatchedGames.length > 0) {
-    throw new Error(`Could not match both NBA teams for ${unmatchedGames.length} upcoming games`);
-  }
+  const normalizedEvents = games.map(game => {
+    const home = teams.filter(team => matchesTeam(game.homeTeam, game.homeTricode, team));
+    const away = teams.filter(team => matchesTeam(game.awayTeam, game.awayTricode, team));
+    if (home.length !== 1 || away.length !== 1 || String(home[0].idTeam) === String(away[0].idTeam)) {
+      throw new Error(`Could not match both NBA teams for upcoming game ${game.id}`);
+    }
+    // The permanent archive stores one record per game, shared by both calendars.
+    return {
+      ...normalizeScrapedEvent(game, home[0].strTeam),
+      idHomeTeam: String(home[0].idTeam),
+      idAwayTeam: String(away[0].idTeam)
+    };
+  });
 
   await fs.mkdir(outputDir, { recursive: true });
   let activeTeams = 0;
   let writtenTeams = 0;
   let skippedTeams = 0;
   for (const team of teams) {
-    const teamGames = games.filter(game => belongsToTeam(game, team));
-    if (teamGames.length === 0) {
+    let events = normalizedEvents.filter(event => event.idHomeTeam === String(team.idTeam) || event.idAwayTeam === String(team.idTeam));
+    if (events.length === 0) {
       console.warn(`No upcoming games matched ${team.strTeam}; skipping its existing file.`);
       skippedTeams++;
       continue;
@@ -245,7 +252,6 @@ export async function fetchNbaSchedules({
 
     activeTeams++;
     const filePath = path.join(outputDir, `${team.idTeam}.json`);
-    let events = teamGames.map(game => normalizeScrapedEvent(game, team.strTeam));
     let existing = null;
     try {
       existing = JSON.parse(await fs.readFile(filePath, 'utf8'));
