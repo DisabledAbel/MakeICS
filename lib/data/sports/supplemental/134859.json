@@ -1,26 +1,8 @@
 {
   "teamId": "134859",
   "teamName": "St. Louis Blues",
-  "updatedAt": "2026-10-09T06:19:08.657Z",
+  "updatedAt": "2026-10-11T05:59:10.288Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020079",
-      "strEvent": "St. Louis Blues vs Columbus Blue Jackets",
-      "strHomeTeam": "St. Louis Blues",
-      "strAwayTeam": "Columbus Blue Jackets",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-10T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Enterprise Center",
-      "strStatus": "NS",
-      "strTVStation": "BN+, CBJHN, CBJNHL, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020079",
-      "idHomeTeam": "134859",
-      "idAwayTeam": "134839"
-    },
     {
       "idEvent": "nhl-2026020096",
       "strEvent": "Ottawa Senators vs St. Louis Blues",

@@ -1,26 +1,8 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-10-09T06:19:08.657Z",
+  "updatedAt": "2026-10-11T05:59:10.288Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020081",
-      "strEvent": "New York Islanders vs Tampa Bay Lightning",
-      "strHomeTeam": "New York Islanders",
-      "strAwayTeam": "Tampa Bay Lightning",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-10T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "UBS Arena",
-      "strStatus": "NS",
-      "strTVStation": "MSGSN, The Spot",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020081",
-      "idHomeTeam": "134841",
-      "idAwayTeam": "134836"
-    },
     {
       "idEvent": "nhl-2026020097",
       "strEvent": "New York Islanders vs Vancouver Canucks",

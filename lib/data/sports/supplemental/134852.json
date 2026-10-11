@@ -1,26 +1,8 @@
 {
   "teamId": "134852",
   "teamName": "Los Angeles Kings",
-  "updatedAt": "2026-10-07T06:09:51.884Z",
+  "updatedAt": "2026-10-11T05:59:10.288Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020083",
-      "strEvent": "Vegas Golden Knights vs Los Angeles Kings",
-      "strHomeTeam": "Vegas Golden Knights",
-      "strAwayTeam": "Los Angeles Kings",
-      "dateEvent": "2026-10-10",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-11T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "T-Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "ABTV , SCRIPPS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020083",
-      "idHomeTeam": "135913",
-      "idAwayTeam": "134852"
-    },
     {
       "idEvent": "nhl-2026020104",
       "strEvent": "Los Angeles Kings vs Edmonton Oilers",

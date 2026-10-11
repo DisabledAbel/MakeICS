@@ -1,26 +1,8 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-10-09T06:19:08.657Z",
+  "updatedAt": "2026-10-11T05:59:10.288Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020080",
-      "strEvent": "Colorado Avalanche vs Toronto Maple Leafs",
-      "strHomeTeam": "Colorado Avalanche",
-      "strAwayTeam": "Toronto Maple Leafs",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-10T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "ALT, NHLN, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020080",
-      "idHomeTeam": "134855",
-      "idAwayTeam": "134837"
-    },
     {
       "idEvent": "nhl-2026020100",
       "strEvent": "Dallas Stars vs Colorado Avalanche",

@@ -1,26 +1,8 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-10-08T23:26:19.500Z",
+  "updatedAt": "2026-10-11T05:59:10.288Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020074",
-      "strEvent": "Buffalo Sabres vs Utah Mammoth",
-      "strHomeTeam": "Buffalo Sabres",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-10T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "KeyBank Center",
-      "strStatus": "NS",
-      "strTVStation": "MSG-B, Utah16",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020074",
-      "idHomeTeam": "134831",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020102",
       "strEvent": "Utah Mammoth vs Toronto Maple Leafs",

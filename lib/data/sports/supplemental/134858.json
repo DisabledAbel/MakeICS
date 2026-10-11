@@ -1,26 +1,8 @@
 {
   "teamId": "134858",
   "teamName": "Nashville Predators",
-  "updatedAt": "2026-10-08T23:26:19.500Z",
+  "updatedAt": "2026-10-11T05:59:10.288Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020076",
-      "strEvent": "Ottawa Senators vs Nashville Predators",
-      "strHomeTeam": "Ottawa Senators",
-      "strAwayTeam": "Nashville Predators",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-10T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canadian Tire Centre",
-      "strStatus": "NS",
-      "strTVStation": "SCRIPPS, SN1, TVAS-D",
-      "updatedAt": "2026-10-07T06:09:51.884Z",
-      "source": "scraped",
-      "sourceEventId": "2026020076",
-      "idHomeTeam": "134835",
-      "idAwayTeam": "134858"
-    },
     {
       "idEvent": "nhl-2026020101",
       "strEvent": "Nashville Predators vs Vegas Golden Knights",

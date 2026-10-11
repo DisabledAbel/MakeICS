@@ -1,26 +1,8 @@
 {
   "teamId": "134838",
   "teamName": "Carolina Hurricanes",
-  "updatedAt": "2026-10-08T23:26:19.500Z",
+  "updatedAt": "2026-10-11T05:59:10.288Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020078",
-      "strEvent": "Chicago Blackhawks vs Carolina Hurricanes",
-      "strHomeTeam": "Chicago Blackhawks",
-      "strAwayTeam": "Carolina Hurricanes",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-10T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, CHSN, HHN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020078",
-      "idHomeTeam": "134854",
-      "idAwayTeam": "134838"
-    },
     {
       "idEvent": "nhl-2026020086",
       "strEvent": "Philadelphia Flyers vs Carolina Hurricanes",

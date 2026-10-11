@@ -1,26 +1,8 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-10-08T23:26:19.500Z",
+  "updatedAt": "2026-10-11T05:59:10.288Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020073",
-      "strEvent": "Florida Panthers vs Minnesota Wild",
-      "strHomeTeam": "Florida Panthers",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-10-10",
-      "strTime": "22:00:00",
-      "strTimestamp": "2026-10-10T22:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Amerant Bank Arena",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, SCRIPPS, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020073",
-      "idHomeTeam": "134833",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020089",
       "strEvent": "Minnesota Wild vs Vegas Golden Knights",

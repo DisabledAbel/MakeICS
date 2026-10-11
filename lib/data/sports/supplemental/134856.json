@@ -1,26 +1,8 @@
 {
   "teamId": "134856",
   "teamName": "Dallas Stars",
-  "updatedAt": "2026-10-08T23:26:19.500Z",
+  "updatedAt": "2026-10-11T05:59:10.288Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020077",
-      "strEvent": "Pittsburgh Penguins vs Dallas Stars",
-      "strHomeTeam": "Pittsburgh Penguins",
-      "strAwayTeam": "Dallas Stars",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-10T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "PPG Paints Arena",
-      "strStatus": "NS",
-      "strTVStation": "Prime Video, SN-PIT",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020077",
-      "idHomeTeam": "134844",
-      "idAwayTeam": "134856"
-    },
     {
       "idEvent": "nhl-2026020100",
       "strEvent": "Dallas Stars vs Colorado Avalanche",
