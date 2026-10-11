@@ -1,26 +1,8 @@
 {
   "teamId": "134157",
   "teamName": "San Jose Earthquakes",
-  "updatedAt": "2026-10-02T01:11:02.847Z",
+  "updatedAt": "2026-10-11T06:14:42.936Z",
   "events": [
-    {
-      "idEvent": "mls-761857",
-      "sourceEventId": "761857",
-      "strEvent": "Colorado Rapids vs San Jose Earthquakes",
-      "strHomeTeam": "Colorado Rapids",
-      "strAwayTeam": "San Jose Earthquakes",
-      "idHomeTeam": "134794",
-      "idAwayTeam": "134157",
-      "dateEvent": "2026-10-11",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-10-11T01:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Dick's Sporting Goods Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761870",
       "sourceEventId": "761870",

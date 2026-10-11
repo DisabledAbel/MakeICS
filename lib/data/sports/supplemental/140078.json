@@ -1,26 +1,8 @@
 {
   "teamId": "140078",
   "teamName": "Charlotte FC",
-  "updatedAt": "2026-10-02T01:11:02.847Z",
+  "updatedAt": "2026-10-11T06:14:42.936Z",
   "events": [
-    {
-      "idEvent": "mls-761852",
-      "sourceEventId": "761852",
-      "strEvent": "Charlotte FC vs FC Dallas",
-      "strHomeTeam": "Charlotte FC",
-      "strAwayTeam": "FC Dallas",
-      "idHomeTeam": "140078",
-      "idAwayTeam": "134146",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-10T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Bank of America Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761865",
       "sourceEventId": "761865",

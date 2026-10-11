@@ -1,26 +1,8 @@
 {
   "teamId": "134155",
   "teamName": "Portland Timbers",
-  "updatedAt": "2026-10-02T01:11:02.847Z",
+  "updatedAt": "2026-10-11T06:14:42.936Z",
   "events": [
-    {
-      "idEvent": "mls-761855",
-      "sourceEventId": "761855",
-      "strEvent": "Sporting Kansas City vs Portland Timbers",
-      "strHomeTeam": "Sporting Kansas City",
-      "strAwayTeam": "Portland Timbers",
-      "idHomeTeam": "134143",
-      "idAwayTeam": "134155",
-      "dateEvent": "2026-10-11",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-11T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Sporting Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761874",
       "sourceEventId": "761874",

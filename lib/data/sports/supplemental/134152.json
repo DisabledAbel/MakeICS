@@ -1,26 +1,8 @@
 {
   "teamId": "134152",
   "teamName": "Columbus Crew",
-  "updatedAt": "2026-10-02T01:11:02.847Z",
+  "updatedAt": "2026-10-11T06:14:42.936Z",
   "events": [
-    {
-      "idEvent": "mls-761848",
-      "sourceEventId": "761848",
-      "strEvent": "Orlando City vs Columbus Crew",
-      "strHomeTeam": "Orlando City",
-      "strAwayTeam": "Columbus Crew",
-      "idHomeTeam": "135292",
-      "idAwayTeam": "134152",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-10T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Inter&Co Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761865",
       "sourceEventId": "761865",

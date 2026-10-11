@@ -1,26 +1,8 @@
 {
   "teamId": "134156",
   "teamName": "New York Red Bulls",
-  "updatedAt": "2026-10-02T01:11:02.847Z",
+  "updatedAt": "2026-10-11T06:14:42.936Z",
   "events": [
-    {
-      "idEvent": "mls-761853",
-      "sourceEventId": "761853",
-      "strEvent": "New York Red Bulls vs San Diego FC",
-      "strHomeTeam": "New York Red Bulls",
-      "strAwayTeam": "San Diego FC",
-      "idHomeTeam": "134156",
-      "idAwayTeam": "150261",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-10T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Sports Illustrated Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761863",
       "sourceEventId": "761863",

@@ -1,26 +1,8 @@
 {
   "teamId": "134147",
   "teamName": "Vancouver Whitecaps",
-  "updatedAt": "2026-10-07T06:20:16.578Z",
+  "updatedAt": "2026-10-11T06:14:42.936Z",
   "events": [
-    {
-      "idEvent": "mls-761858",
-      "sourceEventId": "761858",
-      "strEvent": "Los Angeles FC vs Vancouver Whitecaps",
-      "strHomeTeam": "Los Angeles FC",
-      "strAwayTeam": "Vancouver Whitecaps",
-      "idHomeTeam": "136050",
-      "idAwayTeam": "134147",
-      "dateEvent": "2026-10-11",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-11T02:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "BMO Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761868",
       "sourceEventId": "761868",

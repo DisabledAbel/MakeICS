@@ -1,26 +1,8 @@
 {
   "teamId": "134145",
   "teamName": "D.C. United",
-  "updatedAt": "2026-10-02T01:11:02.847Z",
+  "updatedAt": "2026-10-11T06:14:42.936Z",
   "events": [
-    {
-      "idEvent": "mls-761847",
-      "sourceEventId": "761847",
-      "strEvent": "Inter Miami vs D.C. United",
-      "strHomeTeam": "Inter Miami",
-      "strAwayTeam": "D.C. United",
-      "idHomeTeam": "137699",
-      "idAwayTeam": "134145",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-10T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Nu Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761863",
       "sourceEventId": "761863",

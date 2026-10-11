@@ -1,26 +1,8 @@
 {
   "teamId": "134149",
   "teamName": "Seattle Sounders",
-  "updatedAt": "2026-10-02T13:01:52.456Z",
+  "updatedAt": "2026-10-11T06:14:42.936Z",
   "events": [
-    {
-      "idEvent": "mls-761851",
-      "sourceEventId": "761851",
-      "strEvent": "New England Revolution vs Seattle Sounders",
-      "strHomeTeam": "New England Revolution",
-      "strAwayTeam": "Seattle Sounders",
-      "idHomeTeam": "134159",
-      "idAwayTeam": "134149",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-10T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Gillette Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761867",
       "sourceEventId": "761867",

@@ -1,26 +1,8 @@
 {
   "teamId": "135852",
   "teamName": "Minnesota United",
-  "updatedAt": "2026-10-02T01:11:02.847Z",
+  "updatedAt": "2026-10-11T06:14:42.936Z",
   "events": [
-    {
-      "idEvent": "mls-761854",
-      "sourceEventId": "761854",
-      "strEvent": "Minnesota United vs Houston Dynamo",
-      "strHomeTeam": "Minnesota United",
-      "strAwayTeam": "Houston Dynamo",
-      "idHomeTeam": "135852",
-      "idAwayTeam": "134144",
-      "dateEvent": "2026-10-11",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-11T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Allianz Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761871",
       "sourceEventId": "761871",

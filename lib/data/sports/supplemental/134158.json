@@ -1,26 +1,8 @@
 {
   "teamId": "134158",
   "teamName": "Real Salt Lake",
-  "updatedAt": "2026-10-02T01:11:02.847Z",
+  "updatedAt": "2026-10-11T06:14:42.936Z",
   "events": [
-    {
-      "idEvent": "mls-761849",
-      "sourceEventId": "761849",
-      "strEvent": "Philadelphia Union vs Real Salt Lake",
-      "strHomeTeam": "Philadelphia Union",
-      "strAwayTeam": "Real Salt Lake",
-      "idHomeTeam": "134142",
-      "idAwayTeam": "134158",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-10T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Subaru Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761870",
       "sourceEventId": "761870",
