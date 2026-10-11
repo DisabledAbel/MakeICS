@@ -25,7 +25,7 @@
       "strTime": "00:00:00",
       "strTimestamp": "2026-10-30T00:00Z",
       "strLeague": "WNBA",
-      "strVenue": "",
+      "strVenue": "TBD",
       "strTVStation": "USA Net/CNBC/Peacock",
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -53,7 +53,7 @@
       "strTime": "19:30:00",
       "strTimestamp": "2026-10-24T19:30Z",
       "strLeague": "WNBA",
-      "strVenue": "",
+      "strVenue": "TBD",
       "strTVStation": "NBC/Peacock",
       "strStatus": "NS",
       "source": "sportsdataverse"
@@ -67,7 +67,7 @@
       "strTime": "00:00:00",
       "strTimestamp": "2026-10-23T00:00Z",
       "strLeague": "WNBA",
-      "strVenue": "",
+      "strVenue": "TBD",
       "strTVStation": "USA Net/CNBC/Peacock",
       "strStatus": "NS",
       "source": "sportsdataverse"
