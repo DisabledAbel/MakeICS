@@ -1,26 +1,8 @@
 {
   "teamId": "134842",
   "teamName": "New York Rangers",
-  "updatedAt": "2026-10-10T06:01:37.444Z",
+  "updatedAt": "2026-10-11T22:06:50.800Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020085",
-      "strEvent": "New York Rangers vs Vancouver Canucks",
-      "strHomeTeam": "New York Rangers",
-      "strAwayTeam": "Vancouver Canucks",
-      "dateEvent": "2026-10-11",
-      "strTime": "22:00:00",
-      "strTimestamp": "2026-10-11T22:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "MSG, SNP",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020085",
-      "idHomeTeam": "134842",
-      "idAwayTeam": "134850"
-    },
     {
       "idEvent": "nhl-2026020095",
       "strEvent": "New York Rangers vs Tampa Bay Lightning",

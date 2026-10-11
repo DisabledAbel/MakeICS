@@ -1,26 +1,8 @@
 {
   "teamId": "134845",
   "teamName": "Washington Capitals",
-  "updatedAt": "2026-10-10T06:01:37.444Z",
+  "updatedAt": "2026-10-11T22:06:50.800Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020084",
-      "strEvent": "Washington Capitals vs Seattle Kraken",
-      "strHomeTeam": "Washington Capitals",
-      "strAwayTeam": "Seattle Kraken",
-      "dateEvent": "2026-10-11",
-      "strTime": "21:00:00",
-      "strTimestamp": "2026-10-11T21:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "KONG, MNMT, Prime Video, SN+, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020084",
-      "idHomeTeam": "134845",
-      "idAwayTeam": "140082"
-    },
     {
       "idEvent": "nhl-2026020093",
       "strEvent": "Carolina Hurricanes vs Washington Capitals",
