@@ -85074,6 +85074,198 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt12915960:https://www.imdb.com/title/tt33475962/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33475962/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 1,
+        "name": "Sitcom Stars/The Show Must Go Yawn",
+        "airdate": "2025-03-21",
+        "summary": "The Star family get trapped in a sitcom, where Cecil must keep his two bosses away from each other/Patrick struggles to keep his show going when Squidina gets injured.",
+        "url": "https://www.imdb.com/title/tt33475962/?ref_=ttep_ep_1",
+        "showId": "tt12915960",
+        "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12915960:https://www.imdb.com/title/tt35727411/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35727411/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 3,
+        "name": "A Tinkle in Time/TV or Not TV",
+        "airdate": "2025-04-11",
+        "summary": "Tinkle gets stuck in a time traveling adventure, traveling from one time period to another/Bunny and Cecil try spending \"Spend Time with One of Your Kids Day\" but Patrick and Squidina only want to watch TV.",
+        "url": "https://www.imdb.com/title/tt35727411/?ref_=ttep_ep_3",
+        "showId": "tt12915960",
+        "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12915960:https://www.imdb.com/title/tt35727413/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35727413/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 4,
+        "name": "Two Pests in a Teapot/Partial Recall",
+        "airdate": "2025-04-18",
+        "summary": "As part of his neighborly duties, Patrick house sits for Granny Tentacles but everything goes wrong when he accidentally lets a pest loose/Plankton gets amnesia and gets adopted by the Dartfish family.",
+        "url": "https://www.imdb.com/title/tt35727413/?ref_=ttep_ep_4",
+        "showId": "tt12915960",
+        "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12915960:https://www.imdb.com/title/tt35727414/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35727414/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 5,
+        "name": "The Haunting of Flim-Flam House/Rube Tube",
+        "airdate": "2025-04-25",
+        "summary": "The Flim-Flam Brothers are being haunted so Patrick and Squdina try to help them catch the mysterious ghost/ Squidina directs Rube's Show, causing Patrick to get jealous.",
+        "url": "https://www.imdb.com/title/tt35727414/?ref_=ttep_ep_5",
+        "showId": "tt12915960",
+        "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12915960:https://www.imdb.com/title/tt36196875/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36196875/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 2,
+        "name": "The Dated Game/Ice Cream Headache",
+        "airdate": "2025-03-28",
+        "summary": "When Granny Tentacles and Grandpat break up, Patrick and Squidina try to get them back together through a dating show/A savage beast is rampaging through Bikini Bottom eating all the ice cream",
+        "url": "https://www.imdb.com/title/tt36196875/?ref_=ttep_ep_2",
+        "showId": "tt12915960",
+        "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12915960:https://www.imdb.com/title/tt38268875/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38268875/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 12,
+        "name": "Sea Haw/Li'l Past-Cals",
+        "airdate": "2025-09-12",
+        "summary": "The Patrick Show is countrified/The Kelpbed Kids travel to the future to retrieve their kicking can, but are met with one obstacle; themselves.",
+        "url": "https://www.imdb.com/title/tt38268875/?ref_=ttep_ep_6",
+        "showId": "tt12915960",
+        "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12915960:https://www.imdb.com/title/tt38457031/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38457031/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 19,
+        "name": "Zoo U/A Remembrance of Grand-Past",
+        "airdate": "2025-09-19",
+        "summary": "The Stars visit the zoo; GrandPat spoils every movie.",
+        "url": "https://www.imdb.com/title/tt38457031/?ref_=ttep_ep_7",
+        "showId": "tt12915960",
+        "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12915960:https://www.imdb.com/title/tt38486744/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38486744/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 26,
+        "name": "Pat-tathlon/Upturn's Downturn",
+        "airdate": "2025-09-26",
+        "summary": "The Patricks battle for control of the TV/Lady Upturn is given a court order to stay with the Star family for a week after a hit and run.",
+        "url": "https://www.imdb.com/title/tt38486744/?ref_=ttep_ep_8",
+        "showId": "tt12915960",
+        "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12915960:https://www.imdb.com/title/tt38593556/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38593556/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 9,
+        "name": "Terror on Tape",
+        "airdate": "2025-10-03",
+        "summary": "The Stars rent haunted video tapes.",
+        "url": "https://www.imdb.com/title/tt38593556/?ref_=ttep_ep_9",
+        "showId": "tt12915960",
+        "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12915960:https://www.imdb.com/title/tt38646623/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38646623/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 10,
+        "name": "Visiting Vikings/It's Too Late... With Plankton",
+        "airdate": "2025-10-10",
+        "summary": "Spongebob and Patrick travel to Viking times; Plankton hosts a talk show at the Chum Bucket.",
+        "url": "https://www.imdb.com/title/tt38646623/?ref_=ttep_ep_10",
+        "showId": "tt12915960",
+        "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12915960:https://www.imdb.com/title/tt38719675/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38719675/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 11,
+        "name": "In a Space Pickle/Stare Wars",
+        "airdate": "2025-10-17",
+        "summary": "Captain Quasar uses Patrick to communicate with Aliens/ Grandpat and Patrick have a stare off",
+        "url": "https://www.imdb.com/title/tt38719675/?ref_=ttep_ep_11",
+        "showId": "tt12915960",
+        "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12915960:https://www.imdb.com/title/tt38719906/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38719906/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 13,
+        "name": "Slumber Party Stars/Doctor Patrick",
+        "airdate": "2025-11-05",
+        "summary": "After accidentally putting on doctor's clothes, Patrick believes he's a medical professional/After Pearl can no longer have a sleepover with Squidina, the Stars throw Squidina a slumber party on their own",
+        "url": "https://www.imdb.com/title/tt38719906/?ref_=ttep_ep_13",
+        "showId": "tt12915960",
+        "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt28453452:https://www.imdb.com/title/tt28506230/?ref_=ttep_ep_2",
       "uid": "tvmaze-https://www.imdb.com/title/tt28506230/?ref_=ttep_ep_2@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",

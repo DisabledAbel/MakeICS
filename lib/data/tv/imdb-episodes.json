@@ -8701,6 +8701,38 @@
           "url": "https://www.imdb.com/title/tt44863278/?ref_=ttep_ep_41"
         },
         {
+          "season": 8,
+          "number": 42,
+          "name": "Episode #8.42",
+          "airdate": "2026-10-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48730761/?ref_=ttep_ep_42"
+        },
+        {
+          "season": 8,
+          "number": 43,
+          "name": "Fright Night Dynamite 2026",
+          "airdate": "2026-10-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48730875/?ref_=ttep_ep_43"
+        },
+        {
+          "season": 8,
+          "number": 44,
+          "name": "Blood & Guts 2026",
+          "airdate": "2026-11-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48730910/?ref_=ttep_ep_44"
+        },
+        {
+          "season": 8,
+          "number": 45,
+          "name": "Episode #8.45",
+          "airdate": "2026-11-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48730911/?ref_=ttep_ep_45"
+        },
+        {
           "season": 7,
           "number": 1,
           "name": "Fight For the Fallen 2025: The Mother of All Simulcasts",
@@ -13928,6 +13960,22 @@
       "title": "The Patrick Star Show",
       "episodes": [
         {
+          "season": 6,
+          "number": 1,
+          "name": "Scary Tales",
+          "airdate": "2026-02-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43731496/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 6,
+          "number": 2,
+          "name": "Squidina and the Brain/Day of the Snail",
+          "airdate": "2026-11-30",
+          "summary": "When Patrick accidentally leaves his brain at home, Squidina needs to work with it to help find his body. Throughout their journey, Squidina and Patrick's brain retrace Patrick body's footsteps, discovering all the damage it has cause around Bikini Bottom while stumbling around like a zombie./ When SpongeBob goes on a trip with his parents for a day, he has Squidina pet sit Gary. Gary takes advantage of this new opportunity to find salt in the Star home, despite the \"low sodium diet\" rules SpongeBob imposes on him. Gary's journey throughout the house leads him to the Dartfish family, who must fight for their lives to avoid the threat of a \"giant\" snail.",
+          "url": "https://www.imdb.com/title/tt44866379/?ref_=ttep_ep_2"
+        },
+        {
           "season": 5,
           "number": 1,
           "name": "Retreat!/Sidekick Search",
@@ -14030,102 +14078,6 @@
           "airdate": "2026-08-21",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42862249/?ref_=ttep_ep_13"
-        },
-        {
-          "season": 4,
-          "number": 1,
-          "name": "Sitcom Stars/The Show Must Go Yawn",
-          "airdate": "2025-03-21",
-          "summary": "The Star family get trapped in a sitcom, where Cecil must keep his two bosses away from each other/Patrick struggles to keep his show going when Squidina gets injured.",
-          "url": "https://www.imdb.com/title/tt33475962/?ref_=ttep_ep_1"
-        },
-        {
-          "season": 4,
-          "number": 2,
-          "name": "The Dated Game/Ice Cream Headache",
-          "airdate": "2025-03-28",
-          "summary": "When Granny Tentacles and Grandpat break up, Patrick and Squidina try to get them back together through a dating show/A savage beast is rampaging through Bikini Bottom eating all the ice cream",
-          "url": "https://www.imdb.com/title/tt36196875/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 4,
-          "number": 3,
-          "name": "A Tinkle in Time/TV or Not TV",
-          "airdate": "2025-04-11",
-          "summary": "Tinkle gets stuck in a time traveling adventure, traveling from one time period to another/Bunny and Cecil try spending \"Spend Time with One of Your Kids Day\" but Patrick and Squidina only want to watch TV.",
-          "url": "https://www.imdb.com/title/tt35727411/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 4,
-          "number": 4,
-          "name": "Two Pests in a Teapot/Partial Recall",
-          "airdate": "2025-04-18",
-          "summary": "As part of his neighborly duties, Patrick house sits for Granny Tentacles but everything goes wrong when he accidentally lets a pest loose/Plankton gets amnesia and gets adopted by the Dartfish family.",
-          "url": "https://www.imdb.com/title/tt35727413/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 4,
-          "number": 5,
-          "name": "The Haunting of Flim-Flam House/Rube Tube",
-          "airdate": "2025-04-25",
-          "summary": "The Flim-Flam Brothers are being haunted so Patrick and Squdina try to help them catch the mysterious ghost/ Squidina directs Rube's Show, causing Patrick to get jealous.",
-          "url": "https://www.imdb.com/title/tt35727414/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 4,
-          "number": 9,
-          "name": "Terror on Tape",
-          "airdate": "2025-10-03",
-          "summary": "The Stars rent haunted video tapes.",
-          "url": "https://www.imdb.com/title/tt38593556/?ref_=ttep_ep_9"
-        },
-        {
-          "season": 4,
-          "number": 10,
-          "name": "Visiting Vikings/It's Too Late... With Plankton",
-          "airdate": "2025-10-10",
-          "summary": "Spongebob and Patrick travel to Viking times; Plankton hosts a talk show at the Chum Bucket.",
-          "url": "https://www.imdb.com/title/tt38646623/?ref_=ttep_ep_10"
-        },
-        {
-          "season": 4,
-          "number": 11,
-          "name": "In a Space Pickle/Stare Wars",
-          "airdate": "2025-10-17",
-          "summary": "Captain Quasar uses Patrick to communicate with Aliens/ Grandpat and Patrick have a stare off",
-          "url": "https://www.imdb.com/title/tt38719675/?ref_=ttep_ep_11"
-        },
-        {
-          "season": 4,
-          "number": 12,
-          "name": "Sea Haw/Li'l Past-Cals",
-          "airdate": "2025-09-12",
-          "summary": "The Patrick Show is countrified/The Kelpbed Kids travel to the future to retrieve their kicking can, but are met with one obstacle; themselves.",
-          "url": "https://www.imdb.com/title/tt38268875/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 4,
-          "number": 13,
-          "name": "Slumber Party Stars/Doctor Patrick",
-          "airdate": "2025-11-05",
-          "summary": "After accidentally putting on doctor's clothes, Patrick believes he's a medical professional/After Pearl can no longer have a sleepover with Squidina, the Stars throw Squidina a slumber party on their own",
-          "url": "https://www.imdb.com/title/tt38719906/?ref_=ttep_ep_13"
-        },
-        {
-          "season": 4,
-          "number": 19,
-          "name": "Zoo U/A Remembrance of Grand-Past",
-          "airdate": "2025-09-19",
-          "summary": "The Stars visit the zoo; GrandPat spoils every movie.",
-          "url": "https://www.imdb.com/title/tt38457031/?ref_=ttep_ep_7"
-        },
-        {
-          "season": 4,
-          "number": 26,
-          "name": "Pat-tathlon/Upturn's Downturn",
-          "airdate": "2025-09-26",
-          "summary": "The Patricks battle for control of the TV/Lady Upturn is given a court order to stay with the Star family for a week after a hit and run.",
-          "url": "https://www.imdb.com/title/tt38486744/?ref_=ttep_ep_8"
         }
       ]
     },
@@ -16265,6 +16217,14 @@
           "airdate": "2026-10-03",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39386744/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 5,
+          "number": 23,
+          "name": "Episode #5.23",
+          "airdate": "2026-10-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39386738/?ref_=ttep_ep_23"
         },
         {
           "season": 5,
@@ -18941,7 +18901,7 @@
           "number": 44,
           "name": "Grand Slam Paris 2026",
           "airdate": "2026-10-10",
-          "summary": null,
+          "summary": "AEW Grand Slam France continues, as Young Bucks defend their World Tag Team Championship against The Dogs; Andrade El Idolo puts his National Title on the line; Harley Cameron & Kris Statlander battle The Sisters of Sin and Divine Dominion",
           "url": "https://www.imdb.com/title/tt47597065/?ref_=ttep_ep_44"
         },
         {
@@ -18951,6 +18911,38 @@
           "airdate": "2026-10-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt47597070/?ref_=ttep_ep_45"
+        },
+        {
+          "season": 4,
+          "number": 46,
+          "name": "Saturday Tailgate Brawl: WrestleDream 2026",
+          "airdate": "2026-10-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48729861/?ref_=ttep_ep_46"
+        },
+        {
+          "season": 4,
+          "number": 47,
+          "name": "Episode #4.47",
+          "airdate": "2026-10-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48730052/?ref_=ttep_ep_47"
+        },
+        {
+          "season": 4,
+          "number": 48,
+          "name": "Fright Night Collision 2026",
+          "airdate": "2026-10-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48730187/?ref_=ttep_ep_48"
+        },
+        {
+          "season": 4,
+          "number": 49,
+          "name": "Chris Jericho's Rock N' Wrestling Rager",
+          "airdate": "2026-11-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48730354/?ref_=ttep_ep_49"
         },
         {
           "season": 3,
@@ -32229,6 +32221,14 @@
         },
         {
           "season": 2,
+          "number": 6,
+          "name": "Best Laid Plans",
+          "airdate": "2026-10-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48390251/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
           "number": 12,
           "name": "The Dust Settles",
           "airdate": "2026-09-12",
@@ -33892,7 +33892,7 @@
           "number": 2,
           "name": "Episode #72.2",
           "airdate": "2026-10-09",
-          "summary": null,
+          "summary": "Team captains Ian Hislop and Paul Merton delve into the news once again.",
           "url": "https://www.imdb.com/title/tt48306194/?ref_=ttep_ep_2"
         },
         {
@@ -37035,10 +37035,34 @@
         {
           "season": 59,
           "number": 3,
-          "name": "Episode #59.3",
+          "name": "Who Needs Humans?/The Thom Tillis Tightrope/Saint Francis in the Cloud",
           "airdate": "2026-10-04",
-          "summary": null,
+          "summary": "First, Will AI take your job? Or will it transform the way you work? Then, Sen. Tillis warns that without checks and balances, U.S. democracy is at risk. And, restoring the Basilica of Saint Francis.",
           "url": "https://www.imdb.com/title/tt47722934/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 59,
+          "number": 4,
+          "name": "Episode #59.4",
+          "airdate": "2026-10-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48375118/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 59,
+          "number": 5,
+          "name": "Episode #59.5",
+          "airdate": "2026-10-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48375119/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 59,
+          "number": 6,
+          "name": "Episode #59.6",
+          "airdate": "2026-10-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48375120/?ref_=ttep_ep_6"
         },
         {
           "season": 59,
@@ -38798,7 +38822,7 @@
         {
           "season": 51,
           "number": 4,
-          "name": "Episode #51.4",
+          "name": "That's the Magic of Survivor",
           "airdate": "2026-10-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45920636/?ref_=ttep_ep_4"
@@ -39107,6 +39131,14 @@
           "airdate": "2026-10-15",
           "summary": "The chefs get a glimpse of college life and compete in a beer pong-themed challenge to decide who can best pair alcohol with their protein.",
           "url": "https://www.imdb.com/title/tt47737482/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 25,
+          "number": 5,
+          "name": "The Meat of the Matter",
+          "airdate": "2026-10-22",
+          "summary": "Tensions begin to rise on both the red and blue teams as personal relationships start to fracture. After a high-speed Protein Relay challenge, one team revels in victory while the other pays the price, and a shaky dinner service costs one chef their spot in the competition.",
+          "url": "https://www.imdb.com/title/tt48790410/?ref_=ttep_ep_5"
         },
         {
           "season": 25,
@@ -40002,7 +40034,7 @@
           "number": 4,
           "name": "Treehouse of Horror XXXVII",
           "airdate": "2026-10-25",
-          "summary": null,
+          "summary": "In this year's extra-scary, ultra-spooky Treehouse of Horror, Marge gets a horrifying new perspective on marriage; Bart and Santa's Little Helper embark on a bone-chilling adventure; and Homer takes a driving lesson.",
           "url": "https://www.imdb.com/title/tt36431513/?ref_=ttep_ep_4"
         },
         {
@@ -40342,7 +40374,7 @@
           "number": 4,
           "name": "Tortoises and Billy Goats",
           "airdate": "2026-10-25",
-          "summary": null,
+          "summary": "Frank appoints himself as Emily's inspector when her HR review threatens her reinstatement.",
           "url": "https://www.imdb.com/title/tt45915289/?ref_=ttep_ep_4"
         },
         {
@@ -40474,9 +40506,9 @@
         {
           "season": 3,
           "number": 4,
-          "name": "Episode #3.4",
+          "name": "Oedipus Flex",
           "airdate": "2026-10-25",
-          "summary": null,
+          "summary": "Mark and Rhoda team up to beat the DelVecchios in a dance competition. Tammy and Kardgen help with an organ delivery.",
           "url": "https://www.imdb.com/title/tt41713410/?ref_=ttep_ep_4"
         },
         {
@@ -40813,7 +40845,7 @@
           "season": 1,
           "number": 4,
           "name": "Sonoma to the Pacific with Chris Ying",
-          "airdate": "2026-10-04",
+          "airdate": "2026-10-03",
           "summary": "David Chang joins best friend and creative partner Chris Ying for a wine-soaked romp through Northern California, where Chris tries to convince Chang to love the region's cuisine as they debate whether Mother Nature is behind its quality.",
           "url": "https://www.imdb.com/title/tt47599676/?ref_=ttep_ep_4"
         },
@@ -40824,6 +40856,14 @@
           "airdate": "2026-10-10",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48501881/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Miami to Key West with Eric André",
+          "airdate": "2026-10-17",
+          "summary": "David Chang is dead set on visiting the Florida Keys without stopping in Miami, but actor and comedian Eric André blows up the itinerary and leads him on an adventure through Jewish delis, Haitian kitchens, rum bars and alligator farms.",
+          "url": "https://www.imdb.com/title/tt47599675/?ref_=ttep_ep_6"
         },
         {
           "season": 1,
@@ -41008,7 +41048,7 @@
         {
           "season": 39,
           "number": 4,
-          "name": "Episode #39.4",
+          "name": "Deception and Sleight of Hand",
           "airdate": "2026-10-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45920655/?ref_=ttep_ep_4"
@@ -42210,7 +42250,7 @@
           "number": 4,
           "name": "Sing",
           "airdate": "2026-10-22",
-          "summary": null,
+          "summary": "Nick's insecurities resurface during a crucial arbitration session. Morgan begins to question Cathcarts' tactics.",
           "url": "https://www.imdb.com/title/tt38962497/?ref_=ttep_ep_4"
         },
         {
@@ -45378,7 +45418,7 @@
         {
           "season": 2,
           "number": 1,
-          "name": "Betsy Faria",
+          "name": "Betsy's Trust",
           "airdate": "2026-10-05",
           "summary": "Church-going Betsy Faria is stabbed to death at home. Police first think suicide, but evidence points to her husband. He's convicted. Then new bodies and twists emerge, unraveling what seemed like a solved case.",
           "url": "https://www.imdb.com/title/tt41814574/?ref_=ttep_ep_1"
@@ -47163,6 +47203,14 @@
           "url": "https://www.imdb.com/title/tt47884471/?ref_=ttep_ep_3"
         },
         {
+          "season": 6,
+          "number": 4,
+          "name": "Episode #6.4",
+          "airdate": "2026-10-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48391371/?ref_=ttep_ep_4"
+        },
+        {
           "season": 5,
           "number": 1,
           "name": "Team Building",
@@ -48249,7 +48297,7 @@
         {
           "season": 3,
           "number": 1,
-          "name": "Episode #3.1",
+          "name": "Feminine Wiles and Some Tire Thing in Lubbock",
           "airdate": "2026-10-08",
           "summary": "Tensions rise when Mandy and her family side against Georgie in his fight with Mary; Connor turns to Georgie when he gets himself into trouble.",
           "url": "https://www.imdb.com/title/tt39389679/?ref_=ttep_ep_1"
@@ -48265,7 +48313,7 @@
         {
           "season": 3,
           "number": 3,
-          "name": "Episode #3.3",
+          "name": "A Germ Factory and a Good Mother",
           "airdate": "2026-10-22",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48391358/?ref_=ttep_ep_3"
@@ -48509,7 +48557,7 @@
         {
           "season": 28,
           "number": 3,
-          "name": "Episode #28.3",
+          "name": "Anonymity",
           "airdate": "2026-10-22",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42222353/?ref_=ttep_ep_3"
@@ -49023,7 +49071,7 @@
         {
           "season": 26,
           "number": 3,
-          "name": "Episode #26.3",
+          "name": "Bad News",
           "airdate": "2026-10-22",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43081641/?ref_=ttep_ep_3"
@@ -49565,7 +49613,7 @@
         {
           "season": 2,
           "number": 4,
-          "name": "Episode #2.4",
+          "name": "Maria",
           "airdate": "2026-10-30",
           "summary": "As a dangerous manhunt intensifies across Deadwater, Mickey races against time to protect vulnerable lives while long-buried family wounds force her to confront the past.",
           "url": "https://www.imdb.com/title/tt48500198/?ref_=ttep_ep_4"
@@ -49963,7 +50011,7 @@
           "number": 1,
           "name": "The Crash",
           "airdate": "2026-10-09",
-          "summary": null,
+          "summary": "A series of murders mirror the Boston Strangled case from the 1960s and Danny and Lena try to track down the copycat before he can strike again.",
           "url": "https://www.imdb.com/title/tt39105201/?ref_=ttep_ep_1"
         },
         {
@@ -51530,6 +51578,14 @@
           "url": "https://www.imdb.com/title/tt48017931/?ref_=ttep_ep_3"
         },
         {
+          "season": 4,
+          "number": 4,
+          "name": "Schlongmerica/Hot Car",
+          "airdate": "2026-10-28",
+          "summary": "Beavis and Butt-Head get lost in the woods and start their own civilization./Old Butt-Head must save Beavis when he gets locked in a hot car.",
+          "url": "https://www.imdb.com/title/tt48677211/?ref_=ttep_ep_4"
+        },
+        {
           "season": 3,
           "number": 3,
           "name": "Braces/Heart Attack",
@@ -51720,7 +51776,7 @@
         {
           "season": 10,
           "number": 2,
-          "name": "Episode #10.2",
+          "name": "Fire in the Hole",
           "airdate": "2026-10-22",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48611201/?ref_=ttep_ep_2"
@@ -52527,6 +52583,264 @@
           "airdate": "2026-10-07",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48396879/?ref_=ttep_ep_8"
+        }
+      ]
+    },
+    "tt31027900": {
+      "imdbId": "tt31027900",
+      "title": "Rocky Mountain Wreckers",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Episode #2.1",
+          "airdate": "2026-10-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48556726/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Dangerous Spot To Be",
+          "airdate": "2025-04-13",
+          "summary": "Semi erupts in flames, forcing Jesse's team to rush recovery before morning traffic. Storm hampers Mountain Recovery's efforts to clear jackknifed truck . Driver's evasive maneuver leads to devastating crash, putting his life at risk.",
+          "url": "https://www.imdb.com/title/tt35448238/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Dead Man's Curve",
+          "airdate": "2025-01-21",
+          "summary": "A tractor with double trailers crashes in a snowstorm, causing huge damage at Mountain Recovery. Meanwhile, fierce winds on I-80 in Wyoming shut down the highway as Jim and rookie Brendan struggle.",
+          "url": "https://www.imdb.com/title/tt35620358/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Looks Like a Wreck",
+          "airdate": "2025-01-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35643503/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Heavyweight Battle",
+          "airdate": "2025-02-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35645586/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Taking Names and Clearing Names",
+          "airdate": "2025-02-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35647000/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "A Slippery Situation",
+          "airdate": "2025-02-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35648473/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Problems on Top of Problems",
+          "airdate": "2025-02-25",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35650324/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Weight is My Enemy",
+          "airdate": "2025-03-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35664183/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Out of Nowhere",
+          "airdate": "2025-03-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35664330/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "We Don't Give Up",
+          "airdate": "2025-03-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt35664423/?ref_=ttep_ep_10"
+        }
+      ]
+    },
+    "tt5937362": {
+      "imdbId": "tt5937362",
+      "title": "Woodsmith Shop",
+      "episodes": [
+        {
+          "season": 20,
+          "number": 1,
+          "name": "Ultimate Table Saw Upgrade",
+          "airdate": "2026-10-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48624484/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 19,
+          "number": 1,
+          "name": "Hokkaido Sideboard",
+          "airdate": "2025-11-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt38949178/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 19,
+          "number": 3,
+          "name": "Tools & Techniques",
+          "airdate": "2025-12-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39173549/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 19,
+          "number": 4,
+          "name": "Round-Top Bookcase",
+          "airdate": "2025-12-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43689254/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 19,
+          "number": 5,
+          "name": "Easy-to-Build Shop Projects",
+          "airdate": "2025-12-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43710850/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 19,
+          "number": 6,
+          "name": "Two Garden Projects",
+          "airdate": "2026-01-03",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39303005/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 19,
+          "number": 7,
+          "name": "Level-Up Game Night",
+          "airdate": "2026-01-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39325615/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 19,
+          "number": 8,
+          "name": "Two Boxes, Too Fun",
+          "airdate": "2026-01-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39374469/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 19,
+          "number": 9,
+          "name": "Atomic Bar",
+          "airdate": "2026-01-24",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39393287/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 19,
+          "number": 10,
+          "name": "Special Guest: Mike Pekovich",
+          "airdate": "2026-01-31",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt39518667/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 19,
+          "number": 12,
+          "name": "Home Office Accessories",
+          "airdate": "2025-12-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47311718/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 19,
+          "number": 13,
+          "name": "Routed Picture Frames",
+          "airdate": "2026-03-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40672725/?ref_=ttep_ep_13"
+        }
+      ]
+    },
+    "tt33359676": {
+      "imdbId": "tt33359676",
+      "title": "Maigret",
+      "episodes": [
+        {
+          "season": 2,
+          "number": 1,
+          "name": "Episode #2.1",
+          "airdate": "2026-10-18",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41856378/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 1,
+          "name": "The Lazy Burglar - Part One",
+          "airdate": "2025-10-05",
+          "summary": "Maigret investigates Paris bank robberies. He turns his attention to the murder of a burglar, Honoré Cuendet, until the robbers strike again.",
+          "url": "https://www.imdb.com/title/tt34305423/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "The Lazy Burglar - Part Two",
+          "airdate": "2025-10-12",
+          "summary": "Maigret anticipates the robbers' next move and gets the chance to confront Cuendet's killers. But, the robbers have a larger master plan.",
+          "url": "https://www.imdb.com/title/tt38493545/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Maigret's Failure - Part One",
+          "airdate": "2025-10-19",
+          "summary": "The team is interrupted when Maigret is ordered to investigate death threats received by a billionaire businessman, Ferdinand Fumal.",
+          "url": "https://www.imdb.com/title/tt38493543/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Maigret's Failure - Part Two",
+          "airdate": "2025-10-26",
+          "summary": "As Maigret reels from regret, he suffers a blow in his personal life. Maigret digs into Fumal's life in order to understand him better.",
+          "url": "https://www.imdb.com/title/tt38493544/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Maigret Comes Home - Part One",
+          "airdate": "2025-11-02",
+          "summary": "A student is stabbed to death in the street. Maigret digs into the killer's psychology. Countess Sophie calls, fearing for her life.",
+          "url": "https://www.imdb.com/title/tt38493546/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Maigret Comes Home - Part Two",
+          "airdate": "2025-11-09",
+          "summary": "Tragedy strikes in Saint-Fiacre as Maigret digs into secrets. Back in Paris, Maigret's talks with the killer have terrifying consequences.",
+          "url": "https://www.imdb.com/title/tt38493542/?ref_=ttep_ep_6"
         }
       ]
     }
