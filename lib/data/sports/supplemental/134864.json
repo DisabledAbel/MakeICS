@@ -1,25 +1,8 @@
 {
   "teamId": "134864",
   "teamName": "Toronto Raptors",
-  "updatedAt": "2026-10-10T06:13:46.235Z",
+  "updatedAt": "2026-10-11T04:10:41.141Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401902645",
-      "strEvent": "Toronto Raptors vs Los Angeles Clippers",
-      "strHomeTeam": "Toronto Raptors",
-      "strAwayTeam": "Los Angeles Clippers",
-      "dateEvent": "2026-10-10",
-      "strTime": "22:30:00",
-      "strTimestamp": "2026-10-10T22:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Rogers Arena",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134864",
-      "idAwayTeam": "134866"
-    },
     {
       "idEvent": "scraped-espn-401908944",
       "strEvent": "Toronto Raptors vs New York Knicks",

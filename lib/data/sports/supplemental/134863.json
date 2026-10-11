@@ -1,25 +1,8 @@
 {
   "teamId": "134863",
   "teamName": "Philadelphia 76ers",
-  "updatedAt": "2026-10-10T06:13:46.235Z",
+  "updatedAt": "2026-10-11T04:10:41.141Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898398",
-      "strEvent": "Boston Celtics vs Philadelphia 76ers",
-      "strHomeTeam": "Boston Celtics",
-      "strAwayTeam": "Philadelphia 76ers",
-      "dateEvent": "2026-10-10",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-11T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134860",
-      "idAwayTeam": "134863"
-    },
     {
       "idEvent": "scraped-espn-401898407",
       "strEvent": "Philadelphia 76ers vs Boston Celtics",

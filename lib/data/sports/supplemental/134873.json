@@ -1,25 +1,8 @@
 {
   "teamId": "134873",
   "teamName": "Indiana Pacers",
-  "updatedAt": "2026-10-10T06:13:46.235Z",
+  "updatedAt": "2026-10-11T04:10:41.141Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898396",
-      "strEvent": "Indiana Pacers vs Atlanta Hawks",
-      "strHomeTeam": "Indiana Pacers",
-      "strAwayTeam": "Atlanta Hawks",
-      "dateEvent": "2026-10-10",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-10T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Gainbridge Fieldhouse",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134873",
-      "idAwayTeam": "134880"
-    },
     {
       "idEvent": "scraped-espn-401908621",
       "strEvent": "Oklahoma City Thunder vs Indiana Pacers",

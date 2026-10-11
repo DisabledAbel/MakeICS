@@ -1,25 +1,8 @@
 {
   "teamId": "134886",
   "teamName": "Minnesota Timberwolves",
-  "updatedAt": "2026-10-10T06:13:46.235Z",
+  "updatedAt": "2026-10-11T04:10:41.141Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898397",
-      "strEvent": "Miami Heat vs Minnesota Timberwolves",
-      "strHomeTeam": "Miami Heat",
-      "strAwayTeam": "Minnesota Timberwolves",
-      "dateEvent": "2026-10-10",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-11T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Kaseya Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134882",
-      "idAwayTeam": "134886"
-    },
     {
       "idEvent": "scraped-espn-401914124",
       "strEvent": "New York Knicks vs Minnesota Timberwolves",

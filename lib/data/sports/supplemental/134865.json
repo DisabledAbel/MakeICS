@@ -1,25 +1,8 @@
 {
   "teamId": "134865",
   "teamName": "Golden State Warriors",
-  "updatedAt": "2026-10-10T06:13:46.235Z",
+  "updatedAt": "2026-10-11T04:10:41.141Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898399",
-      "strEvent": "Golden State Warriors vs Sacramento Kings",
-      "strHomeTeam": "Golden State Warriors",
-      "strAwayTeam": "Sacramento Kings",
-      "dateEvent": "2026-10-10",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-11T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Chase Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134865",
-      "idAwayTeam": "134869"
-    },
     {
       "idEvent": "scraped-espn-401898718",
       "strEvent": "Los Angeles Lakers vs Golden State Warriors",
