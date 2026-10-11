@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:00:11.325Z",
+  "generatedAt": "2026-10-11T11:17:03.397Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -7656,6 +7656,36 @@
       "label": "Jan 15, 2027"
     },
     {
+      "id": "tt14521412",
+      "title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjliZjkyNGQtMDgxOS00N2I1LWFmODAtMGQ0OTI4MGNiZjRlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 16 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "people": [
+        {
+          "id": "nm2571848",
+          "name": "Kana Asumi"
+        },
+        {
+          "id": "nm2235310",
+          "name": "Emiri Kato"
+        },
+        {
+          "id": "nm1543296",
+          "name": "Eri Kitamura"
+        },
+        {
+          "id": "nm3961240",
+          "name": "Tomoyo Kurosawa"
+        }
+      ],
+      "label": "Jan 16, 2027"
+    },
+    {
       "id": "tt8702454",
       "title": "The Third Parent",
       "image": "https://m.media-amazon.com/images/M/MV5BYmRlNWRkNGMtNDZkMi00Mjg3LWI1YTMtMTIxZTQ5N2NmOWE0XkEyXkFqcGc@._V1_.jpg",
@@ -8113,6 +8143,34 @@
       "releaseDate": "Fri, 12 Feb 2027 00:00:00 GMT",
       "genres": [],
       "people": [],
+      "label": "Feb 12, 2027"
+    },
+    {
+      "id": "tt33042320",
+      "title": "In a Violent Nature 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWMxNThjNDQtMjgyMS00MGJmLTk3YzEtMTRmNTM4NzY2NzU5XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 12 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm12505128",
+          "name": "Ema Ines"
+        },
+        {
+          "id": "nm9781891",
+          "name": "Ivano DiCaro"
+        },
+        {
+          "id": "nm10021823",
+          "name": "Donald MacLean Jr."
+        },
+        {
+          "id": "nm2028004",
+          "name": "Ry Barrett"
+        }
+      ],
       "label": "Feb 12, 2027"
     },
     {
@@ -9724,6 +9782,18 @@
       "label": "Aug 13, 2027"
     },
     {
+      "id": "tt41027215",
+      "title": "Shiver",
+      "releaseDate": "Fri, 13 Aug 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "people": [],
+      "label": "Aug 13, 2027"
+    },
+    {
       "id": "tt13655056",
       "title": "Get Lite",
       "releaseDate": "Fri, 20 Aug 2027 00:00:00 GMT",
@@ -9782,10 +9852,6 @@
         {
           "id": "nm0578853",
           "name": "Ben Mendelsohn"
-        },
-        {
-          "id": "nm6588867",
-          "name": "Anthony Ramos"
         },
         {
           "id": "nm3147751",
