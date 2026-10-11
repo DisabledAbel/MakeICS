@@ -1,24 +1,10 @@
 {
   "teamId": "134926",
   "teamName": "Houston Texans",
-  "updatedAt": "2026-10-05T05:44:32.222Z",
+  "updatedAt": "2026-10-11T17:42:48.620Z",
   "generatedAt": "2026-07-18T06:13:33.263Z",
   "generateAt": "2026-07-18T06:13:33.263Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa94b527-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Tennessee Titans vs Houston Texans",
-      "strHomeTeam": "Tennessee Titans",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-10-11",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-11T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Nissan Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aab56e82-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Jacksonville Jaguars vs Houston Texans",

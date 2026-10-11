@@ -1,24 +1,10 @@
 {
   "teamId": "134919",
   "teamName": "Miami Dolphins",
-  "updatedAt": "2026-10-05T05:44:32.212Z",
+  "updatedAt": "2026-10-11T17:42:48.609Z",
   "generatedAt": "2026-07-18T06:13:33.252Z",
   "generateAt": "2026-07-18T06:13:33.252Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa6b5f66-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Miami Dolphins vs Cincinnati Bengals",
-      "strHomeTeam": "Miami Dolphins",
-      "strAwayTeam": "Cincinnati Bengals",
-      "dateEvent": "2026-10-11",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-11T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Hard Rock Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aaf6ec9e-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New York Jets vs Miami Dolphins",

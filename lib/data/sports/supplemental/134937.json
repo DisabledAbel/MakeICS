@@ -1,24 +1,10 @@
 {
   "teamId": "134937",
   "teamName": "Washington Commanders",
-  "updatedAt": "2026-10-04T16:52:48.549Z",
+  "updatedAt": "2026-10-11T17:42:48.636Z",
   "generatedAt": "2026-07-18T06:13:33.276Z",
   "generateAt": "2026-07-18T06:13:33.276Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa94b906-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Washington Commanders vs New York Giants",
-      "strHomeTeam": "Washington Commanders",
-      "strAwayTeam": "New York Giants",
-      "dateEvent": "2026-10-11",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-11T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Northwest Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aad58635-4feb-11f1-abca-2c54536568a9",
       "strEvent": "San Francisco 49ers vs Washington Commanders",

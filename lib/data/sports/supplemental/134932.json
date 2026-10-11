@@ -1,24 +1,10 @@
 {
   "teamId": "134932",
   "teamName": "Las Vegas Raiders",
-  "updatedAt": "2026-10-05T05:44:32.232Z",
+  "updatedAt": "2026-10-11T17:42:48.631Z",
   "generatedAt": "2026-07-18T06:13:33.271Z",
   "generateAt": "2026-07-18T06:13:33.271Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa6b6286-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New England Patriots vs Las Vegas Raiders",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-10-11",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-11T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Gillette Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aad57852-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Las Vegas Raiders vs Buffalo Bills",
