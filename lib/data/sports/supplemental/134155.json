@@ -1,7 +1,7 @@
 {
   "teamId": "134155",
   "teamName": "Portland Timbers",
-  "updatedAt": "2026-10-11T06:14:42.936Z",
+  "updatedAt": "2026-10-12T15:56:25.087Z",
   "events": [
     {
       "idEvent": "mls-761874",
@@ -84,14 +84,14 @@
       "idHomeTeam": "134155",
       "idAwayTeam": "134144",
       "dateEvent": "2026-11-02",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-02T02:30:00Z",
+      "strTime": "02:45:00",
+      "strTimestamp": "2026-11-02T02:45:00Z",
       "strLeague": "MLS",
       "strVenue": "Providence Park",
       "strStatus": "NS",
       "strTVStation": "Apple TV, FS1",
       "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
+      "updatedAt": "2026-10-12T15:56:25.087Z"
     },
     {
       "idEvent": "mls-761942",
