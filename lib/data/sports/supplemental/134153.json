@@ -1,26 +1,8 @@
 {
   "teamId": "134153",
   "teamName": "LA Galaxy",
-  "updatedAt": "2026-10-02T01:11:02.847Z",
+  "updatedAt": "2026-10-12T06:22:04.701Z",
   "events": [
-    {
-      "idEvent": "mls-761859",
-      "sourceEventId": "761859",
-      "strEvent": "St. Louis City SC vs LA Galaxy",
-      "strHomeTeam": "St. Louis City SC",
-      "strAwayTeam": "LA Galaxy",
-      "idHomeTeam": "147062",
-      "idAwayTeam": "134153",
-      "dateEvent": "2026-10-11",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-11T23:00:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Energizer Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761874",
       "sourceEventId": "761874",

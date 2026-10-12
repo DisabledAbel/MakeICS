@@ -963,6 +963,30 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:mls-761859",
+      "uid": "sportsdb-mls-761859@makeics.local",
+      "source": "lib/data/sports/supplemental/134153.json",
+      "record": {
+        "idEvent": "mls-761859",
+        "sourceEventId": "761859",
+        "strEvent": "St. Louis City SC vs LA Galaxy",
+        "strHomeTeam": "St. Louis City SC",
+        "strAwayTeam": "LA Galaxy",
+        "idHomeTeam": "147062",
+        "idAwayTeam": "134153",
+        "dateEvent": "2026-10-11",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-11T23:00:00Z",
+        "strLeague": "MLS",
+        "strVenue": "Energizer Park",
+        "strStatus": "NS",
+        "strTVStation": "Apple TV",
+        "source": "espn",
+        "updatedAt": "2026-10-02T01:11:02.847Z"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:nhl-2026020017",
       "uid": "sportsdb-nhl-2026020017@makeics.local",
       "source": "lib/data/sports/supplemental/134832.json",
