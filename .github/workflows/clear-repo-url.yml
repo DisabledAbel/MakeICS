@@ -21,6 +21,9 @@ jobs:
           pip install playwright
           playwright install --with-deps chromium
 
+      - name: Test URL clearing
+        run: python test/test_clear_repo_url.py
+
       - name: Clear Website URL
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
