@@ -77411,6 +77411,46 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-aa94bc51-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aa94bc51-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/135908.json",
+      "record": {
+        "idEvent": "sdv-nfl-aa94bc51-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Los Angeles Chargers vs Denver Broncos",
+        "strHomeTeam": "Los Angeles Chargers",
+        "strAwayTeam": "Denver Broncos",
+        "dateEvent": "2026-10-11",
+        "strTime": "20:05:00Z",
+        "strTimestamp": "2026-10-11T20:05:00Z",
+        "strLeague": "NFL",
+        "strVenue": "SoFi Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aa94bfce-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aa94bfce-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134939.json",
+      "record": {
+        "idEvent": "sdv-nfl-aa94bfce-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Arizona Cardinals vs Detroit Lions",
+        "strHomeTeam": "Arizona Cardinals",
+        "strAwayTeam": "Detroit Lions",
+        "dateEvent": "2026-10-11",
+        "strTime": "20:25:00Z",
+        "strTimestamp": "2026-10-11T20:25:00Z",
+        "strLeague": "NFL",
+        "strVenue": "State Farm Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-aa94c2ef-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-aa94c2ef-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134940.json",
@@ -77424,6 +77464,26 @@
         "strTimestamp": "2026-10-11T17:00:00Z",
         "strLeague": "NFL",
         "strVenue": "Lambeau Field",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aa94c647-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aa94c647-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134948.json",
+      "record": {
+        "idEvent": "sdv-nfl-aa94c647-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Seattle Seahawks vs San Francisco 49ers",
+        "strHomeTeam": "Seattle Seahawks",
+        "strAwayTeam": "San Francisco 49ers",
+        "dateEvent": "2026-10-11",
+        "strTime": "20:25:00Z",
+        "strTimestamp": "2026-10-11T20:25:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Lumen Field",
         "strTVStation": null,
         "strStatus": "NS",
         "source": "sportsdataverse"

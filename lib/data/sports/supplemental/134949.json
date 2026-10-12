@@ -1,24 +1,10 @@
 {
   "teamId": "134949",
   "teamName": "Seattle Seahawks",
-  "updatedAt": "2026-10-05T05:44:32.251Z",
+  "updatedAt": "2026-10-12T06:01:37.024Z",
   "generatedAt": "2026-07-18T06:13:33.289Z",
   "generateAt": "2026-07-18T06:13:33.289Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa94c647-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Seattle Seahawks vs San Francisco 49ers",
-      "strHomeTeam": "Seattle Seahawks",
-      "strAwayTeam": "San Francisco 49ers",
-      "dateEvent": "2026-10-11",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-11T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lumen Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aa94cffe-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Denver Broncos vs Seattle Seahawks",

@@ -1,24 +1,10 @@
 {
   "teamId": "134939",
   "teamName": "Detroit Lions",
-  "updatedAt": "2026-10-05T05:44:32.240Z",
+  "updatedAt": "2026-10-12T06:01:37.013Z",
   "generatedAt": "2026-07-18T06:13:33.279Z",
   "generateAt": "2026-07-18T06:13:33.279Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aa94bfce-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Arizona Cardinals vs Detroit Lions",
-      "strHomeTeam": "Arizona Cardinals",
-      "strAwayTeam": "Detroit Lions",
-      "dateEvent": "2026-10-11",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-11T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "State Farm Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aaf6fda2-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Detroit Lions vs Green Bay Packers",
