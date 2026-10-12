@@ -1,7 +1,7 @@
 {
   "teamId": "134831",
   "teamName": "Buffalo Sabres",
-  "updatedAt": "2026-10-11T05:59:10.288Z",
+  "updatedAt": "2026-10-12T15:42:26.679Z",
   "events": [
     {
       "idEvent": "nhl-2026020087",
@@ -860,8 +860,8 @@
       "strLeague": "NHL",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": "MSG-B, Utah16",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "MSG-B, Mammoth+, Utah16",
+      "updatedAt": "2026-10-12T15:42:26.679Z",
       "source": "scraped",
       "sourceEventId": "2026020848",
       "idHomeTeam": "148494",
@@ -932,8 +932,8 @@
       "strLeague": "NHL",
       "strVenue": "Lenovo Center",
       "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, MSG-B",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "CARNHL, HHN, MSG-B, WRAL",
+      "updatedAt": "2026-10-12T15:42:26.679Z",
       "source": "scraped",
       "sourceEventId": "2026020921",
       "idHomeTeam": "134838",
