@@ -103,6 +103,23 @@ Open <http://localhost:3000>, start typing to pick a suggested show, sports team
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDisabledAbel%2FMakeICS)
 
+## Clear Repo URL workflow
+
+The **Clear Repo URL** GitHub Actions workflow clears the website link in the
+repository's **About** section and monitors for it to be restored. It runs on
+pushes or manually from the Actions tab. Each removal is checked against the
+update response and a fresh repository read; failed updates fail the workflow.
+
+Set the repository Actions secret `PAT_TOKEN` to a token whose owner has admin
+access to this repository. A fine-grained token needs **Administration: write**
+to update the homepage and **Actions: read** to detect newer workflow runs. A
+classic token needs the appropriate `public_repo` or `repo` scope. The default
+Actions `GITHUB_TOKEN` cannot grant the repository administration permission.
+
+If a deployment integration keeps restoring the website URL, disable that
+integration's repository website updates. This workflow monitors for a bounded
+period; it cannot prevent changes made after it stops.
+
 ## API
 
 ### TV Shows
