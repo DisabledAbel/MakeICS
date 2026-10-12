@@ -123,7 +123,9 @@ def clear_homepage():
                         )
                         if not patch_response.ok:
                             raise urllib.error.HTTPError(
-                                url, patch_response.status, "Repository homepage update failed", None, None
+                                url, patch_response.status,
+                                f"Repository homepage update failed: {patch_response.text()}",
+                                None, None
                             )
                         updated_repo = patch_response.json()
                         if updated_repo["homepage"] not in (None, ""):
@@ -148,7 +150,7 @@ def clear_homepage():
 
                 except Exception as e:
                     if isinstance(e, urllib.error.HTTPError) and e.code in (401, 403, 404, 422):
-                        print(f"::error::Iteration {iteration}: GitHub API error {e.code}. Check PAT_TOKEN validity, repository access, and Administration: write permission (plus Actions: read for monitoring). Exiting.")
+                        print(f"::error::Iteration {iteration}: GitHub API error {e.code}. {e.reason}. Check PAT_TOKEN validity, repository access, and Administration: write permission (plus Actions: read for monitoring). Exiting.")
                         exit_code = 1
                         break
                     print(f"Iteration {iteration}: Error: {e}")
