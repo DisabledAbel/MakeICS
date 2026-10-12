@@ -71,6 +71,7 @@ class TestClearHomepage(unittest.TestCase):
         self.page.query_selector.return_value = None
         self.api = self.p.request.new_context.return_value
         self.api.patch.return_value.ok = True
+        self.api.patch.return_value.text.return_value = ""
         self.api.patch.return_value.json.return_value = {"homepage": ""}
         self.urlopen.return_value = _make_response({"homepage": ""})
 
@@ -163,14 +164,31 @@ class TestClearHomepage(unittest.TestCase):
     def test_authentication_and_permission_failures_fail_without_retry(self):
         self.urlopen.return_value = _make_response({"homepage": "https://example.com"})
         self.api.patch.return_value.ok = False
+        response_body = '{"message":"Resource not accessible by personal access token"}'
+        self.api.patch.return_value.text.return_value = response_body
         for status in (401, 403, 404, 422):
             with self.subTest(status=status):
                 self.clock.side_effect = MockClock([0, 0])
                 self.api.patch.return_value.status = status
                 self.assertEqual(clear_repo_url.clear_homepage(), 1)
                 self.assertIn(f"GitHub API error {status}", self.stdout.getvalue())
+                self.assertIn(f"Repository homepage update failed: {response_body}", self.stdout.getvalue())
                 self.assertIn("Administration: write", self.stdout.getvalue())
         self.sleep.assert_not_called()
+
+    def test_patch_failure_preserves_status_context_and_non_json_body(self):
+        self.urlopen.return_value = _make_response({"homepage": "https://example.com"})
+        self.api.patch.return_value.ok = False
+        self.api.patch.return_value.status = 502
+        self.api.patch.return_value.text.return_value = "<html>Bad Gateway</html>"
+
+        self.assertEqual(clear_repo_url.clear_homepage(), 1)
+        self.assertIn(
+            "HTTP Error 502: Repository homepage update failed: <html>Bad Gateway</html>",
+            self.stdout.getvalue(),
+        )
+        self.api.patch.return_value.text.assert_called_once_with()
+        self.api.patch.return_value.json.assert_not_called()
 
     def test_authenticated_read_permission_failure_fails(self):
         self.urlopen.side_effect = urllib.error.HTTPError("https://api.github.com/repos/owner/repo", 403, "Forbidden", None, None)
