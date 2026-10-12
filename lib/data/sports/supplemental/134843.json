@@ -1,26 +1,8 @@
 {
   "teamId": "134843",
   "teamName": "Philadelphia Flyers",
-  "updatedAt": "2026-10-10T21:51:41.399Z",
+  "updatedAt": "2026-10-12T06:09:23.250Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020086",
-      "strEvent": "Philadelphia Flyers vs Carolina Hurricanes",
-      "strHomeTeam": "Philadelphia Flyers",
-      "strAwayTeam": "Carolina Hurricanes",
-      "dateEvent": "2026-10-11",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-11T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, NBCSP, NHLN, SN+, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020086",
-      "idHomeTeam": "134843",
-      "idAwayTeam": "134838"
-    },
     {
       "idEvent": "nhl-2026020094",
       "strEvent": "Philadelphia Flyers vs Seattle Kraken",
