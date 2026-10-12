@@ -1,25 +1,8 @@
 {
   "teamId": "134870",
   "teamName": "Chicago Bulls",
-  "updatedAt": "2026-10-10T06:13:46.235Z",
+  "updatedAt": "2026-10-12T04:28:51.571Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401908941",
-      "strEvent": "Denver Nuggets vs Chicago Bulls",
-      "strHomeTeam": "Denver Nuggets",
-      "strAwayTeam": "Chicago Bulls",
-      "dateEvent": "2026-10-11",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-12T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134885",
-      "idAwayTeam": "134870"
-    },
     {
       "idEvent": "scraped-espn-401908942",
       "strEvent": "Milwaukee Bucks vs Chicago Bulls",

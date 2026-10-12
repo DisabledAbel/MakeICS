@@ -1,25 +1,8 @@
 {
   "teamId": "134871",
   "teamName": "Cleveland Cavaliers",
-  "updatedAt": "2026-10-10T06:13:46.235Z",
+  "updatedAt": "2026-10-12T04:28:51.571Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898401",
-      "strEvent": "Cleveland Cavaliers vs Orlando Magic",
-      "strHomeTeam": "Cleveland Cavaliers",
-      "strAwayTeam": "Orlando Magic",
-      "dateEvent": "2026-10-11",
-      "strTime": "22:30:00",
-      "strTimestamp": "2026-10-11T22:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Rocket Arena",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134871",
-      "idAwayTeam": "134883"
-    },
     {
       "idEvent": "scraped-espn-401898403",
       "strEvent": "Orlando Magic vs Cleveland Cavaliers",

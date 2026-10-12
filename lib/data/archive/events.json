@@ -9457,6 +9457,29 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401898401",
+      "uid": "sportsdb-scraped-espn-401898401@makeics.local",
+      "source": "lib/data/sports/supplemental/134871.json",
+      "record": {
+        "idEvent": "scraped-espn-401898401",
+        "strEvent": "Cleveland Cavaliers vs Orlando Magic",
+        "strHomeTeam": "Cleveland Cavaliers",
+        "strAwayTeam": "Orlando Magic",
+        "dateEvent": "2026-10-11",
+        "strTime": "22:30:00",
+        "strTimestamp": "2026-10-11T22:30:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Rocket Arena",
+        "strStatus": "NS",
+        "strTVStation": "ESPN",
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134871",
+        "idAwayTeam": "134883"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401898716",
       "uid": "sportsdb-scraped-espn-401898716@makeics.local",
       "source": "lib/data/sports/supplemental/134867.json",
@@ -9539,6 +9562,29 @@
         "strTVStation": "NBA TV",
         "updatedAt": "2026-10-01T12:29:55.537Z",
         "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401901821",
+      "uid": "sportsdb-scraped-espn-401901821@makeics.local",
+      "source": "lib/data/sports/supplemental/134874.json",
+      "record": {
+        "idEvent": "scraped-espn-401901821",
+        "strEvent": "Charlotte Hornets vs Milwaukee Bucks",
+        "strHomeTeam": "Charlotte Hornets",
+        "strAwayTeam": "Milwaukee Bucks",
+        "dateEvent": "2026-10-11",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-11T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Spectrum Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134881",
+        "idAwayTeam": "134874"
       }
     },
     {
@@ -9690,6 +9736,29 @@
         "strTVStation": "NBA TV",
         "updatedAt": "2026-10-01T12:29:55.537Z",
         "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401908941",
+      "uid": "sportsdb-scraped-espn-401908941@makeics.local",
+      "source": "lib/data/sports/supplemental/134870.json",
+      "record": {
+        "idEvent": "scraped-espn-401908941",
+        "strEvent": "Denver Nuggets vs Chicago Bulls",
+        "strHomeTeam": "Denver Nuggets",
+        "strAwayTeam": "Chicago Bulls",
+        "dateEvent": "2026-10-11",
+        "strTime": "01:00:00",
+        "strTimestamp": "2026-10-12T01:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Ball Arena",
+        "strStatus": "NS",
+        "strTVStation": "ESPN",
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134885",
+        "idAwayTeam": "134870"
       }
     },
     {

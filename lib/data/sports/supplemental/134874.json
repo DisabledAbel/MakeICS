@@ -1,25 +1,8 @@
 {
   "teamId": "134874",
   "teamName": "Milwaukee Bucks",
-  "updatedAt": "2026-10-10T06:13:46.235Z",
+  "updatedAt": "2026-10-12T04:28:51.571Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401901821",
-      "strEvent": "Charlotte Hornets vs Milwaukee Bucks",
-      "strHomeTeam": "Charlotte Hornets",
-      "strAwayTeam": "Milwaukee Bucks",
-      "dateEvent": "2026-10-11",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-11T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Spectrum Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134881",
-      "idAwayTeam": "134874"
-    },
     {
       "idEvent": "scraped-espn-401908942",
       "strEvent": "Milwaukee Bucks vs Chicago Bulls",
