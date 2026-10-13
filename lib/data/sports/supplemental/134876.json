@@ -1,7 +1,7 @@
 {
   "teamId": "134876",
   "teamName": "Houston Rockets",
-  "updatedAt": "2026-10-11T12:09:26.460Z",
+  "updatedAt": "2026-10-13T22:18:36.097Z",
   "events": [
     {
       "idEvent": "scraped-espn-401908622",
@@ -60,13 +60,13 @@
       "strHomeTeam": "Atlanta Hawks",
       "strAwayTeam": "Houston Rockets",
       "dateEvent": "2026-10-24",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-25T00:00:00Z",
+      "strTime": "00:30:00",
+      "strTimestamp": "2026-10-25T00:30:00Z",
       "strLeague": "NBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "updatedAt": "2026-10-13T22:18:36.097Z",
       "source": "scraped",
       "idHomeTeam": "134880",
       "idAwayTeam": "134876"
