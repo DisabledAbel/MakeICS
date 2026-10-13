@@ -1,26 +1,8 @@
 {
   "teamId": "135913",
   "teamName": "Vegas Golden Knights",
-  "updatedAt": "2026-10-12T15:42:26.679Z",
+  "updatedAt": "2026-10-13T00:49:14.121Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020089",
-      "strEvent": "Minnesota Wild vs Vegas Golden Knights",
-      "strHomeTeam": "Minnesota Wild",
-      "strAwayTeam": "Vegas Golden Knights",
-      "dateEvent": "2026-10-12",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-13T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Grand Casino Arena",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, SCRIPPS, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020089",
-      "idHomeTeam": "134857",
-      "idAwayTeam": "135913"
-    },
     {
       "idEvent": "nhl-2026020101",
       "strEvent": "Nashville Predators vs Vegas Golden Knights",

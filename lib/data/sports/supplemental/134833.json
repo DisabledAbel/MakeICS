@@ -1,26 +1,8 @@
 {
   "teamId": "134833",
   "teamName": "Florida Panthers",
-  "updatedAt": "2026-10-12T15:42:26.679Z",
+  "updatedAt": "2026-10-13T00:49:14.121Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020087",
-      "strEvent": "Buffalo Sabres vs Florida Panthers",
-      "strHomeTeam": "Buffalo Sabres",
-      "strAwayTeam": "Florida Panthers",
-      "dateEvent": "2026-10-12",
-      "strTime": "17:00:00",
-      "strTimestamp": "2026-10-12T17:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "KeyBank Center",
-      "strStatus": "NS",
-      "strTVStation": "MSG-B, SCRIPPS, SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020087",
-      "idHomeTeam": "134831",
-      "idAwayTeam": "134833"
-    },
     {
       "idEvent": "nhl-2026020091",
       "strEvent": "Columbus Blue Jackets vs Florida Panthers",

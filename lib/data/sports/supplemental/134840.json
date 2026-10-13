@@ -1,26 +1,8 @@
 {
   "teamId": "134840",
   "teamName": "New Jersey Devils",
-  "updatedAt": "2026-10-12T15:42:26.679Z",
+  "updatedAt": "2026-10-13T00:49:14.121Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020088",
-      "strEvent": "New Jersey Devils vs Ottawa Senators",
-      "strHomeTeam": "New Jersey Devils",
-      "strAwayTeam": "Ottawa Senators",
-      "dateEvent": "2026-10-12",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-12T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Prudential Center",
-      "strStatus": "NS",
-      "strTVStation": "MSGSN, NHLN, SN+, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020088",
-      "idHomeTeam": "134840",
-      "idAwayTeam": "134835"
-    },
     {
       "idEvent": "nhl-2026020090",
       "strEvent": "Detroit Red Wings vs New Jersey Devils",
