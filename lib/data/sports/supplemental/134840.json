@@ -1,26 +1,8 @@
 {
   "teamId": "134840",
   "teamName": "New Jersey Devils",
-  "updatedAt": "2026-10-13T14:22:30.078Z",
+  "updatedAt": "2026-10-13T22:54:19.802Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020090",
-      "strEvent": "Detroit Red Wings vs New Jersey Devils",
-      "strHomeTeam": "Detroit Red Wings",
-      "strAwayTeam": "New Jersey Devils",
-      "dateEvent": "2026-10-13",
-      "strTime": "22:00:00",
-      "strTimestamp": "2026-10-13T22:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "ESPN, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020090",
-      "idHomeTeam": "134832",
-      "idAwayTeam": "134840"
-    },
     {
       "idEvent": "nhl-2026020113",
       "strEvent": "New Jersey Devils vs New York Rangers",

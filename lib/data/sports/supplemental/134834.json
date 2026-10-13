@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-10-13T14:22:30.078Z",
+  "updatedAt": "2026-10-13T22:54:19.802Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020092",
-      "strEvent": "Montreal Canadiens vs Buffalo Sabres",
-      "strHomeTeam": "Montreal Canadiens",
-      "strAwayTeam": "Buffalo Sabres",
-      "dateEvent": "2026-10-13",
-      "strTime": "22:30:00",
-      "strTimestamp": "2026-10-13T22:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Centre Bell",
-      "strStatus": "NS",
-      "strTVStation": "MSG-B, RDS, TSN2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020092",
-      "idHomeTeam": "134834",
-      "idAwayTeam": "134831"
-    },
     {
       "idEvent": "nhl-2026020106",
       "strEvent": "Washington Capitals vs Montreal Canadiens",
