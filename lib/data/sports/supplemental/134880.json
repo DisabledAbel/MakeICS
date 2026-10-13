@@ -1,25 +1,8 @@
 {
   "teamId": "134880",
   "teamName": "Atlanta Hawks",
-  "updatedAt": "2026-10-11T04:10:41.141Z",
+  "updatedAt": "2026-10-13T00:11:02.010Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898402",
-      "strEvent": "Atlanta Hawks vs Oklahoma City Thunder",
-      "strHomeTeam": "Atlanta Hawks",
-      "strAwayTeam": "Oklahoma City Thunder",
-      "dateEvent": "2026-10-12",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-12T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "State Farm Arena",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134880",
-      "idAwayTeam": "134887"
-    },
     {
       "idEvent": "scraped-espn-401898408",
       "strEvent": "Dallas Mavericks vs Atlanta Hawks",

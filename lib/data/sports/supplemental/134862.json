@@ -1,25 +1,8 @@
 {
   "teamId": "134862",
   "teamName": "New York Knicks",
-  "updatedAt": "2026-10-10T06:13:46.235Z",
+  "updatedAt": "2026-10-13T00:11:02.010Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401914124",
-      "strEvent": "New York Knicks vs Minnesota Timberwolves",
-      "strHomeTeam": "New York Knicks",
-      "strAwayTeam": "Minnesota Timberwolves",
-      "dateEvent": "2026-10-12",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-12T23:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134862",
-      "idAwayTeam": "134886"
-    },
     {
       "idEvent": "scraped-espn-401908944",
       "strEvent": "Toronto Raptors vs New York Knicks",

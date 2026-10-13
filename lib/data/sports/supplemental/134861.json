@@ -1,25 +1,8 @@
 {
   "teamId": "134861",
   "teamName": "Brooklyn Nets",
-  "updatedAt": "2026-10-10T06:13:46.235Z",
+  "updatedAt": "2026-10-13T00:11:02.010Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401901824",
-      "strEvent": "Washington Wizards vs Brooklyn Nets",
-      "strHomeTeam": "Washington Wizards",
-      "strAwayTeam": "Brooklyn Nets",
-      "dateEvent": "2026-10-12",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-12T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134884",
-      "idAwayTeam": "134861"
-    },
     {
       "idEvent": "scraped-espn-401898404",
       "strEvent": "Miami Heat vs Brooklyn Nets",
