@@ -483,7 +483,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -527,7 +527,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "BT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -571,7 +571,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "P1",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
