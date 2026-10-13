@@ -95,12 +95,12 @@
     "verifiedAt": "2026-10-10T17:40:39.288Z"
   },
   "The Rainmaker-2-9": {
-    "airdate": "2026-12-18",
+    "airdate": "2026-12-11",
     "name": "Episode #2.9",
     "verifiedAt": "2026-10-10T17:44:22.231Z"
   },
   "The Rainmaker-2-10": {
-    "airdate": "2026-12-25",
+    "airdate": "2026-12-18",
     "name": "Episode #2.10",
     "verifiedAt": "2026-10-10T17:44:24.669Z"
   },
@@ -139,11 +139,6 @@
     "name": "The Quest for Camelot",
     "verifiedAt": "2026-10-11T17:58:31.795Z"
   },
-  "The View-30-25": {
-    "airdate": "2026-10-12",
-    "name": "Heidi Skolnick/Deborah Roberts/View Your Deal: Oprah Daily Edition/",
-    "verifiedAt": "2026-10-12T21:34:39.326Z"
-  },
   "The Patrick Star Show-6-1": {
     "airdate": "2026-10-30",
     "name": "Scary Tales",
@@ -165,7 +160,7 @@
     "verifiedAt": "2026-10-12T21:37:01.166Z"
   },
   "AEW: Collision-4-47": {
-    "airdate": "2026-10-17",
+    "airdate": "2026-10-24",
     "name": "Episode #4.47",
     "verifiedAt": "2026-10-12T21:37:03.642Z"
   },
@@ -185,7 +180,7 @@
     "verifiedAt": "2026-10-12T21:37:18.339Z"
   },
   "Max & the Midknights-3-3": {
-    "airdate": "2026-10-13",
+    "airdate": "2026-04-22",
     "name": "The Spirit of the Sea",
     "verifiedAt": "2026-10-12T21:39:31.816Z"
   },
@@ -200,7 +195,7 @@
     "verifiedAt": "2026-10-12T21:39:48.455Z"
   },
   "Max & the Midknights-3-10": {
-    "airdate": "2026-10-19",
+    "airdate": "2026-05-01",
     "name": "Tomb of the Bodkin",
     "verifiedAt": "2026-10-12T21:39:50.976Z"
   },
@@ -208,5 +203,180 @@
     "airdate": "2026-10-14",
     "name": "Schlongmerica/Hot Car",
     "verifiedAt": "2026-10-12T21:40:18.123Z"
+  },
+  "WWE Friday Night SmackDown-27-42": {
+    "airdate": "2025-10-17",
+    "name": "Crown Jewel 2025 Fallout",
+    "verifiedAt": "2026-10-13T19:46:44.890Z"
+  },
+  "WWE Friday Night SmackDown-27-43": {
+    "airdate": "2025-10-24",
+    "name": "Storm of Deceit",
+    "verifiedAt": "2026-10-13T19:46:47.338Z"
+  },
+  "WWE Friday Night SmackDown-27-44": {
+    "airdate": "2025-10-31",
+    "name": "Signed, Sealed, Smashed",
+    "verifiedAt": "2026-10-13T19:46:49.810Z"
+  },
+  "WWE Friday Night SmackDown-27-46": {
+    "airdate": "2025-11-14",
+    "name": "Vision of Vengeance",
+    "verifiedAt": "2026-10-13T19:46:54.664Z"
+  },
+  "WWE Friday Night SmackDown-27-47": {
+    "airdate": "2025-11-21",
+    "name": "WarGames Wildcard",
+    "verifiedAt": "2026-10-13T19:46:57.137Z"
+  },
+  "WWE Friday Night SmackDown-27-48": {
+    "airdate": "2025-11-28",
+    "name": "Final Countdown to War",
+    "verifiedAt": "2026-10-13T19:46:59.687Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2025-12-05",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-10-13T19:47:02.090Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-10-13T19:47:04.832Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2026-01-02",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-10-13T19:47:07.356Z"
+  },
+  "On Patrol: Live-5-25": {
+    "airdate": "2026-09-25",
+    "name": "Episode #5.19",
+    "verifiedAt": "2026-10-13T19:47:12.585Z"
+  },
+  "Bobby's Triple Threat-5-8": {
+    "airdate": "2026-10-13",
+    "name": "Titans vs Competition Legend",
+    "verifiedAt": "2026-10-13T19:47:57.983Z"
+  },
+  "1000-lb Sisters-9-8": {
+    "airdate": "2026-09-08",
+    "name": "Do You Want to Build a... Music Video?",
+    "verifiedAt": "2026-10-13T19:48:07.350Z"
+  },
+  "Crossroad Springs-2-6": {
+    "airdate": "2026-10-08",
+    "name": "Best Laid Plans",
+    "verifiedAt": "2026-10-13T19:48:16.483Z"
+  },
+  "The Real Housewives of New York City-16-8": {
+    "airdate": "2026-09-08",
+    "name": "The Price of Perfection",
+    "verifiedAt": "2026-10-13T19:48:21.139Z"
+  },
+  "The Drop: A Snowfall Saga-1-8": {
+    "airdate": "2026-09-08",
+    "name": "Click Pop",
+    "verifiedAt": "2026-10-13T19:48:24.062Z"
+  },
+  "Love & Marriage: Huntsville-12-12": {
+    "airdate": "2026-09-12",
+    "name": "A New Era",
+    "verifiedAt": "2026-10-13T19:48:31.117Z"
+  },
+  "NOVA-53-16": {
+    "airdate": "2026-11-04",
+    "name": "The Battle to Breathe",
+    "verifiedAt": "2026-10-13T19:48:42.223Z"
+  },
+  "The Voice-30-17": {
+    "airdate": "2026-12-08",
+    "name": "The Voice 30th Season Celebration",
+    "verifiedAt": "2026-10-13T19:48:45.537Z"
+  },
+  "Let's Make a Deal-18-21": {
+    "airdate": "2026-09-21",
+    "name": "Episode #18.1",
+    "verifiedAt": "2026-10-13T19:48:54.292Z"
+  },
+  "Let's Make a Deal-18-22": {
+    "airdate": "2026-10-20",
+    "name": "Episode #18.2",
+    "verifiedAt": "2026-10-13T19:48:56.902Z"
+  },
+  "Let's Make a Deal-18-24": {
+    "airdate": "2026-09-24",
+    "name": "Episode #18.4",
+    "verifiedAt": "2026-10-13T19:49:01.894Z"
+  },
+  "America's Test Kitchen-27-5": {
+    "airdate": "2026-10-17",
+    "name": "Soup and Bread, the Italian Way",
+    "verifiedAt": "2026-10-13T19:49:16.572Z"
+  },
+  "Max & the Midknights-3-2": {
+    "airdate": "2026-04-21",
+    "name": "A Restless Knight, Part Two",
+    "verifiedAt": "2026-10-13T19:49:23.964Z"
+  },
+  "Max & the Midknights-3-5": {
+    "airdate": "2026-04-24",
+    "name": "Honksgiving!",
+    "verifiedAt": "2026-10-13T19:49:31.167Z"
+  },
+  "Max & the Midknights-3-6": {
+    "airdate": "2026-04-27",
+    "name": "Gnomeward Bound",
+    "verifiedAt": "2026-10-13T19:49:34.204Z"
+  },
+  "Max & the Midknights-4-1": {
+    "airdate": "2026-10-19",
+    "name": "Odds Bodkins, Part One",
+    "verifiedAt": "2026-10-13T19:49:46.797Z"
+  },
+  "Elsbeth-4-4": {
+    "airdate": "2026-10-29",
+    "name": "Episode #4.4",
+    "verifiedAt": "2026-10-13T19:49:59.830Z"
+  },
+  "Elsbeth-4-5": {
+    "airdate": "2026-11-12",
+    "name": "Episode #4.5",
+    "verifiedAt": "2026-10-13T19:50:02.361Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-2": {
+    "airdate": "2026-10-13",
+    "name": "A Place of Fear",
+    "verifiedAt": "2026-10-13T19:50:23.250Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-3": {
+    "airdate": "2026-10-20",
+    "name": "From Dawn 'til Dusk",
+    "verifiedAt": "2026-10-13T19:50:25.899Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-4": {
+    "airdate": "2026-10-27",
+    "name": "Locked & Loaded",
+    "verifiedAt": "2026-10-13T19:50:28.276Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-5": {
+    "airdate": "2026-11-03",
+    "name": "A Big Win",
+    "verifiedAt": "2026-10-13T19:50:30.846Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-6": {
+    "airdate": "2026-11-10",
+    "name": "Winter's Reckoning",
+    "verifiedAt": "2026-10-13T19:50:33.239Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-7": {
+    "airdate": "2026-11-17",
+    "name": "Born to Run",
+    "verifiedAt": "2026-10-13T19:50:35.829Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-8": {
+    "airdate": "2026-11-24",
+    "name": "Building the Dream",
+    "verifiedAt": "2026-10-13T19:50:38.215Z"
   }
 }
