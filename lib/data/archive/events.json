@@ -77700,6 +77700,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-aa94ccd3-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aa94ccd3-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/135907.json",
+      "record": {
+        "idEvent": "sdv-nfl-aa94ccd3-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Los Angeles Rams vs Buffalo Bills",
+        "strHomeTeam": "Los Angeles Rams",
+        "strAwayTeam": "Buffalo Bills",
+        "dateEvent": "2026-10-13",
+        "strTime": "00:15:00Z",
+        "strTimestamp": "2026-10-13T00:15:00Z",
+        "strLeague": "NFL",
+        "strVenue": "SoFi Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-aab577eb-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-aab577eb-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134938.json",
