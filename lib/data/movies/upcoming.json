@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T12:49:59.521Z",
+  "generatedAt": "2026-10-13T12:30:21.191Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -4704,12 +4704,12 @@
           "name": "Hrithik Roshan"
         },
         {
-          "id": "nm0482320",
-          "name": "Mohanlal"
-        },
-        {
           "id": "nm0707425",
           "name": "Rajinikanth"
+        },
+        {
+          "id": "nm0482320",
+          "name": "Mohanlal"
         }
       ],
       "label": "Oct 15, 2026"
@@ -5090,12 +5090,12 @@
       ],
       "people": [
         {
-          "id": "nm3844346",
-          "name": "Wamiqa Gabbi"
-        },
-        {
           "id": "nm4188433",
           "name": "Jaideep Ahlawat"
+        },
+        {
+          "id": "nm3844346",
+          "name": "Wamiqa Gabbi"
         },
         {
           "id": "nm3822770",
@@ -5126,12 +5126,12 @@
           "name": "Kimberly Williams-Paisley"
         },
         {
-          "id": "nm0155693",
-          "name": "Kristin Chenoweth"
+          "id": "nm0005207",
+          "name": "Reba McEntire"
         },
         {
-          "id": "nm12510840",
-          "name": "Lainey Wilson"
+          "id": "nm0155693",
+          "name": "Kristin Chenoweth"
         }
       ],
       "label": "Oct 21, 2026"
@@ -5876,16 +5876,16 @@
           "name": "Martin Sheen"
         },
         {
-          "id": "nm1325306",
-          "name": "Jana Kramer"
-        },
-        {
           "id": "nm16309879",
           "name": "Carter Malone Harvey"
         },
         {
-          "id": "nm10288884",
-          "name": "Erin Robinson"
+          "id": "nm1325306",
+          "name": "Jana Kramer"
+        },
+        {
+          "id": "nm1214657",
+          "name": "Nick Zano"
         }
       ],
       "label": "Nov 05, 2026"
@@ -6433,12 +6433,12 @@
           "name": "Clifton Powell"
         },
         {
-          "id": "nm0930707",
-          "name": "Gregory Alan Williams"
-        },
-        {
           "id": "nm0809793",
           "name": "Roger Guenveur Smith"
+        },
+        {
+          "id": "nm0930707",
+          "name": "Gregory Alan Williams"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6696,7 +6696,7 @@
     {
       "id": "tt38077943",
       "title": "Hexed",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjQ4NDg5Y2YtZmQ3Ny00N2FjLWIyMGMtYzU1YzEyZTgyZjIwXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWM2YjUxMGUtMWNmYi00N2ZjLWI3MWEtMDJjNWQ0ZmYzMmYwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
       "genres": [
         "Animation",
@@ -6704,6 +6704,10 @@
         "Comedy"
       ],
       "people": [
+        {
+          "id": "nm1405398",
+          "name": "Dan Stevens"
+        },
         {
           "id": "nm0001808",
           "name": "Tracey Ullman"
@@ -6715,10 +6719,6 @@
         {
           "id": "nm0324658",
           "name": "Walton Goggins"
-        },
-        {
-          "id": "nm0000149",
-          "name": "Jodie Foster"
         }
       ],
       "label": "Nov 25, 2026"
@@ -7085,7 +7085,7 @@
     {
       "id": "tt38980819",
       "title": "The Friend's House Is Here",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjQ4MjhlN2UtYzA5NS00YTk1LTg2ZGUtMTlhZDBlM2FkMDhlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxNDA2MjAtNjY4Mi00M2FkLWI5YzYtMmU4ZDhkM2Y5NzgwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
       "genres": [
         "Drama"
@@ -7686,7 +7686,7 @@
     {
       "id": "tt33085567",
       "title": "River",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzI4YzcyMzctMWVmMi00YzFjLTkyNGMtZjFjZDQ4ODhmYWY3XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDk2ZWIwOTktZDY3Yy00YmE0LWI3NzItMDdiYmY5Yzk5NDY0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 15 Jan 2027 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -7840,7 +7840,8 @@
       "releaseDate": "Fri, 22 Jan 2027 00:00:00 GMT",
       "genres": [
         "Animation",
-        "Drama"
+        "Biography",
+        "Comedy"
       ],
       "people": [
         {
@@ -8139,6 +8140,7 @@
     {
       "id": "tt9077514",
       "title": "Narnia: The Magician's Nephew",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmNhODIzYTEtNTg0ZS00MmIwLWE5YzgtNWE2MmU0YzE5ZGNjXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 12 Feb 2027 00:00:00 GMT",
       "genres": [
         "Adventure",
@@ -8221,8 +8223,8 @@
           "name": "Ivano DiCaro"
         },
         {
-          "id": "nm10021823",
-          "name": "Donald MacLean Jr."
+          "id": "nm12714580",
+          "name": "Fionn Laird"
         },
         {
           "id": "nm2028004",
@@ -9032,12 +9034,12 @@
           "name": "Andie MacDowell"
         },
         {
-          "id": "nm3697443",
-          "name": "Phoebe Dynevor"
+          "id": "nm8212878",
+          "name": "Ella Balinska"
         },
         {
-          "id": "nm2200639",
-          "name": "Patrick Schwarzenegger"
+          "id": "nm3697443",
+          "name": "Phoebe Dynevor"
         }
       ],
       "label": "May 07, 2027"
@@ -9766,6 +9768,10 @@
       ],
       "people": [
         {
+          "id": "nm3109384",
+          "name": "Fatimah Hassan"
+        },
+        {
           "id": "nm6058237",
           "name": "Laya DeLeon Hayes"
         },
@@ -9776,10 +9782,6 @@
         {
           "id": "nm1296458",
           "name": "Mustafa Shakir"
-        },
-        {
-          "id": "nm1988575",
-          "name": "Lauren London"
         }
       ],
       "label": "Aug 06, 2027"
@@ -9873,8 +9875,8 @@
           "name": "Storm Reid"
         },
         {
-          "id": "nm7882673",
-          "name": "Woody McClain"
+          "id": "nm8023946",
+          "name": "Ceyair J Wright"
         }
       ],
       "label": "Aug 20, 2027"
