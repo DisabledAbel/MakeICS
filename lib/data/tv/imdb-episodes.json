@@ -301,6 +301,14 @@
         },
         {
           "season": 30,
+          "number": 27,
+          "name": "D.L. Hughley/View Your Deal/",
+          "airdate": "2026-10-14",
+          "summary": "Author D.L. Hughley (book, \"Charlie's Boy\");",
+          "url": "https://www.imdb.com/title/tt48855821/?ref_=ttep_ep_27"
+        },
+        {
+          "season": 30,
           "number": 28,
           "name": "Kate McKinnon/View Your Deal: Oprah Daily Edition",
           "airdate": "2026-09-28",
@@ -8236,7 +8244,7 @@
           "season": 9,
           "number": 1,
           "name": "Gate Clash",
-          "airdate": "2026-07-21",
+          "airdate": "2026-10-06",
           "summary": "At a hotel in Georgia, a guest causes a scene while demanding staff remove his visitor. At a Florida airport, police are called over a suspected confrontation involving two sisters and a gate agent on the jet bridge.",
           "url": "https://www.imdb.com/title/tt43661660/?ref_=ttep_ep_1"
         },
@@ -8244,7 +8252,7 @@
           "season": 9,
           "number": 2,
           "name": "Last Call",
-          "airdate": "2026-07-21",
+          "airdate": "2026-10-06",
           "summary": "In a Tampa, Florida discount store, a heated argument erupts between a customer, another patron, and staff, as employees struggle to stay composed in the face of escalating tension. In Hyannis, Massachusetts, a restaurant's closing time leads to chaos.",
           "url": "https://www.imdb.com/title/tt43661855/?ref_=ttep_ep_2"
         },
@@ -23546,6 +23554,14 @@
           "url": "https://www.imdb.com/title/tt44047325/?ref_=ttep_ep_13"
         },
         {
+          "season": 4,
+          "number": 14,
+          "name": "MAGA Ever After?",
+          "airdate": "2026-10-17",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44047329/?ref_=ttep_ep_14"
+        },
+        {
           "season": 3,
           "number": 1,
           "name": "K-Pop: A Star Is Made",
@@ -27908,6 +27924,22 @@
           "url": "https://www.imdb.com/title/tt48375308/?ref_=ttep_ep_9"
         },
         {
+          "season": 11,
+          "number": 10,
+          "name": "The Apocalyptic End",
+          "airdate": "2026-09-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49065543/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 11,
+          "number": 11,
+          "name": "Something Took Control of Me",
+          "airdate": "2026-09-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49065546/?ref_=ttep_ep_11"
+        },
+        {
           "season": 10,
           "number": 1,
           "name": "I'm Already Seeing Red",
@@ -30603,6 +30635,14 @@
         },
         {
           "season": 2,
+          "number": 10,
+          "name": "Guac This Way",
+          "airdate": "2026-10-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49081390/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
           "number": 15,
           "name": "Can't Run If You Can't Walk",
           "airdate": "2026-09-15",
@@ -32394,6 +32434,14 @@
           "airdate": "2026-10-08",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48390251/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "name": "Waiting at the Stations",
+          "airdate": "2026-10-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49001922/?ref_=ttep_ep_7"
         },
         {
           "season": 2,
@@ -36148,7 +36196,7 @@
           "number": 8,
           "name": "The Battles Part 2",
           "airdate": "2026-10-13",
-          "summary": null,
+          "summary": "The Battle Rounds enter the second night as the coaches enlist superstar Battle Advisors to help prepare their artists. Coaches will choose the pairings and songs, and each coach has one steal.",
           "url": "https://www.imdb.com/title/tt48390814/?ref_=ttep_ep_8"
         },
         {
@@ -37975,6 +38023,14 @@
           "airdate": "2026-10-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48866345/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 18,
+          "number": 17,
+          "name": "Episode #18.17",
+          "airdate": "2026-10-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48866346/?ref_=ttep_ep_17"
         },
         {
           "season": 18,
@@ -41451,7 +41507,7 @@
           "number": 6,
           "name": "My Halloween",
           "airdate": "2026-10-28",
-          "summary": null,
+          "summary": "This Halloween, J.D. helps a former colleague with a difficult patient, Elliot seeks support for her new clinic and Turk faces his family's growing pains.",
           "url": "https://www.imdb.com/title/tt42624413/?ref_=ttep_ep_6"
         },
         {
@@ -43798,6 +43854,14 @@
           "url": "https://www.imdb.com/title/tt48173111/?ref_=ttep_ep_1"
         },
         {
+          "season": 8,
+          "number": 2,
+          "name": "Jeffrey Garten",
+          "airdate": "2026-10-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49112634/?ref_=ttep_ep_2"
+        },
+        {
           "season": 7,
           "number": 1,
           "name": "Allison Janney",
@@ -45019,15 +45083,87 @@
           "season": 4,
           "number": 1,
           "name": "Odds Bodkins, Part One",
-          "airdate": "2026-09-01",
+          "airdate": "2026-10-19",
           "summary": "Motivated by discoveries made in the tomb, Max and the Midknights race to Byjovia where they are met with a strangely calm King Conrad, but not everything is as it seems; Gastley hits his head, sending him on an epic romantic quest.",
           "url": "https://www.imdb.com/title/tt46010578/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Odds Bodkins, Part Two",
+          "airdate": "2026-10-20",
+          "summary": "The Midknights try to uncover the Bodkin's ultimate plan - before they're turned into Bodkins themselves. At Outpost 71, Mumblin and Pete try to find a runaway iguana.",
+          "url": "https://www.imdb.com/title/tt46010656/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Into the Shadows",
+          "airdate": "2026-10-20",
+          "summary": "Max enters the sinister Shadow World to find and rescue her family and friends, but soon discovers that a hideous creature stands in the way of their escape. Meanwhile, Bean and Barley visit Byjovia, where a new king is taking control.",
+          "url": "https://www.imdb.com/title/tt46010726/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Out of the Shadows",
+          "airdate": "2026-10-21",
+          "summary": "Max does her best to lead her friends and family out of the Shadow World. Mumblin risks his life to power outdated technology in the Tower of Time as he seeks answers about the increasing amount of time shrapnel.",
+          "url": "https://www.imdb.com/title/tt46010817/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "Shattered",
+          "airdate": "2026-10-21",
+          "summary": "With all the Byjovians gone, Max and the Midknights face defeat. Torin tries to imprison the kids, but with some unexpected help from Bruce the dragon, they are saved. Max learns there may be a way to save everyone and stop Torin's Bodkin.",
+          "url": "https://www.imdb.com/title/tt46010971/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "Time Management",
+          "airdate": "2026-10-22",
+          "summary": "Max and the Midknights arrive at the Tower of Time, where they reunite with Mumblin. Determined to save everyone they've lost, the Midknights decide to travel back in time to prevent Torin's Bodkin from winning, despite Mumblin's warnings.",
+          "url": "https://www.imdb.com/title/tt46011008/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Time After Time",
+          "airdate": "2026-10-22",
+          "summary": "With Mumblin's help, Max and the Midknights travel to the past to stop Queen Nerelia's amulet from falling into Torin's Bodkin's hands. But when Max successfully alters the past, she creates a future that's more than she bargained for.",
+          "url": "https://www.imdb.com/title/tt46011101/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "The Great Crossover, Part One",
+          "airdate": "2026-10-23",
+          "summary": "When the Bodkin takes the form of Nate Wright and jumps into the future, the Midknights jump through time to stop him. Now in Big Nate's world, the Midknights must stop the Bodkin before he causes more damage and takes over Nate's school.",
+          "url": "https://www.imdb.com/title/tt46011270/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "name": "The Great Crossover, Part Two",
+          "airdate": "2026-10-23",
+          "summary": "As two times collide, Max and the Midknights team up with Nate and his friends to capture the Bodkin before it's too late. But they soon face a new challenge, as the Bodkin starts duplicating more and more.",
+          "url": "https://www.imdb.com/title/tt46011390/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 4,
+          "number": 10,
+          "name": "The Great Crossover, Part Three",
+          "airdate": "2026-10-23",
+          "summary": "When the Bodkin turns into a giant monster, the Midknights must stop it before it destroys all of time. If Max can stop the monster and Mumblin can figure out how to open a time portal, they might save the world from disappearing.",
+          "url": "https://www.imdb.com/title/tt46011689/?ref_=ttep_ep_10"
         },
         {
           "season": 3,
           "number": 1,
           "name": "A Restless Knight, Part One",
-          "airdate": "2026-04-20",
+          "airdate": "2026-10-09",
           "summary": "After defeating Fendra and Gastley, Max and the Midknights are living their best lives in Byjovia. Although things seem perfect, Max is itching to go on another quest. Her desire for a new adventure is answered when Queen Nerelia of Tresk shows up begging for help.",
           "url": "https://www.imdb.com/title/tt41656469/?ref_=ttep_ep_1"
         },
@@ -45035,7 +45171,7 @@
           "season": 3,
           "number": 2,
           "name": "A Restless Knight, Part Two",
-          "airdate": "2026-04-21",
+          "airdate": "2026-10-13",
           "summary": "When the Gnomes of Tresk are kidnapped by a mysterious evil, Max and the Midknights volunteer to save them; Max's plans for her second quest go awry when she learns not all the Midknights are as eager as she is to go on the mission.",
           "url": "https://www.imdb.com/title/tt41656470/?ref_=ttep_ep_2"
         },
@@ -45043,7 +45179,7 @@
           "season": 3,
           "number": 3,
           "name": "The Spirit of the Sea",
-          "airdate": "2026-04-22",
+          "airdate": "2026-10-13",
           "summary": "As Max and the Midknights sail across the sea on their quest, they get spooked when Uncle Budrick claims there's a ghost on board their ship; Mumblin fears someone is out to get him.",
           "url": "https://www.imdb.com/title/tt41656484/?ref_=ttep_ep_3"
         },
@@ -45051,7 +45187,7 @@
           "season": 3,
           "number": 4,
           "name": "The Trial of Mumblin the Magician",
-          "airdate": "2026-04-23",
+          "airdate": "2026-10-14",
           "summary": "After being blown off course, the Midknights navigate a set of treacherous waterfalls as they try to reach the Gnomes of Tresk; Mumblin pleads for his freedom in Wizard Court where the odds are stacked against him.",
           "url": "https://www.imdb.com/title/tt41656567/?ref_=ttep_ep_4"
         },
@@ -45059,7 +45195,7 @@
           "season": 3,
           "number": 5,
           "name": "Honksgiving!",
-          "airdate": "2026-04-24",
+          "airdate": "2026-10-14",
           "summary": "Max and the Midknights wash up on the shore of strange lands where a local holiday puts their party in danger; Sir Gadabout ventures out to clatterback territory and makes a shocking discovery.",
           "url": "https://www.imdb.com/title/tt41656790/?ref_=ttep_ep_5"
         },
@@ -45067,7 +45203,7 @@
           "season": 3,
           "number": 6,
           "name": "Gnomeward Bound",
-          "airdate": "2026-04-27",
+          "airdate": "2026-10-15",
           "summary": "Max and the Midknights have a breakthrough in their quest when they meet a runaway Gnome, but finding the other kidnapped Gnomes is trickier than they think; Mumblin starts his community service in a mysterious building with even stranger employees.",
           "url": "https://www.imdb.com/title/tt41656917/?ref_=ttep_ep_6"
         },
@@ -45075,7 +45211,7 @@
           "season": 3,
           "number": 7,
           "name": "Stuck in a Hole",
-          "airdate": "2026-04-28",
+          "airdate": "2026-10-15",
           "summary": "Max and the Midknights find the missing Gnomes of Tresk; the Gnomes are terrified of their captors and Max realizes she needs to inspire them to fight back if they're ever going to escape.",
           "url": "https://www.imdb.com/title/tt41657055/?ref_=ttep_ep_7"
         },
@@ -45083,7 +45219,7 @@
           "season": 3,
           "number": 8,
           "name": "Shale Break",
-          "airdate": "2026-04-29",
+          "airdate": "2026-10-16",
           "summary": "In a high stakes jailbreak, Max and the Midknights pull out all the stops to get the Gnomes of Tresk to safety; dead set on escaping Outpost 71, Mumblin tries to reach the elevator Lenny mentioned.",
           "url": "https://www.imdb.com/title/tt41657225/?ref_=ttep_ep_8"
         },
@@ -45091,7 +45227,7 @@
           "season": 3,
           "number": 9,
           "name": "A False Victory",
-          "airdate": "2026-04-30",
+          "airdate": "2026-10-16",
           "summary": "Max and the Midknights victoriously return to Byjovia with the missing Gnomes of Tresk, but Max feels that their mission isn't over yet; Millie and Kevyn's sibling rivalry hits a low point when Millie reveals a major secret about Kevyn's new book.",
           "url": "https://www.imdb.com/title/tt41657240/?ref_=ttep_ep_9"
         },
@@ -45099,7 +45235,7 @@
           "season": 3,
           "number": 10,
           "name": "Tomb of the Bodkin",
-          "airdate": "2026-05-01",
+          "airdate": "2026-10-19",
           "summary": "Max and the Midknights journey to an ancient tomb to investigate the legend of King Torin and his Bodkin, where they make several unexpected discoveries; Mumblin learns more about operations at the Tower of Time.",
           "url": "https://www.imdb.com/title/tt41657242/?ref_=ttep_ep_10"
         }
@@ -45130,8 +45266,16 @@
           "number": 3,
           "name": "White Rock",
           "airdate": "2026-10-19",
-          "summary": null,
+          "summary": "The team pulls out all stops to finally move against Anna Vorpe and her seemingly impervious Strike Team and put Anna behind bars for good.",
           "url": "https://www.imdb.com/title/tt44113572/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 9,
+          "number": 4,
+          "name": "Episode #9.4",
+          "airdate": "2026-10-26",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44126707/?ref_=ttep_ep_4"
         },
         {
           "season": 8,
@@ -45510,7 +45654,7 @@
           "number": 2,
           "name": "Dead Drop",
           "airdate": "2026-10-12",
-          "summary": null,
+          "summary": "After a Russian spy is poisoned by his own comrades, he offers to help the team neutralize a threat against U.S. assets in Russia in exchange for revenge.",
           "url": "https://www.imdb.com/title/tt43720420/?ref_=ttep_ep_2"
         },
         {
@@ -47100,6 +47244,14 @@
         },
         {
           "season": 2,
+          "number": 3,
+          "name": "Undead wa Gachigachi Deshita",
+          "airdate": "2026-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49151213/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
           "number": 30,
           "name": "Sora ni Ukanderu no wa Shima Deshita",
           "airdate": "2026-09-30",
@@ -47435,6 +47587,14 @@
           "airdate": "2026-10-14",
           "summary": "Rick checks out some basketball cards that reheat the Johnson and Bird rivalry, he and Chum take a field trip to look at some high-end watches, and rare books expert Rebecca Romney sinks her teeth into a first printing of \"Dracula.\"",
           "url": "https://www.imdb.com/title/tt48463585/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 25,
+          "number": 3,
+          "name": "Slipknot Your Average Pawn",
+          "airdate": "2026-10-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49068214/?ref_=ttep_ep_3"
         }
       ]
     },
@@ -47471,7 +47631,7 @@
           "number": 4,
           "name": "Halloween Party",
           "airdate": "2026-10-28",
-          "summary": null,
+          "summary": "Ava hosts an exclusive Halloween party, and Janine and Jacob get suspicious of Gregory.",
           "url": "https://www.imdb.com/title/tt48391371/?ref_=ttep_ep_4"
         },
         {
@@ -49351,7 +49511,7 @@
         {
           "season": 26,
           "number": 4,
-          "name": "Episode #26.4",
+          "name": "Property",
           "airdate": "2026-10-29",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43296541/?ref_=ttep_ep_4"
@@ -51458,9 +51618,9 @@
         {
           "season": 13,
           "number": 1,
-          "name": "Episode #13.1",
+          "name": "What a Thai to Be Alive",
           "airdate": "2026-10-12",
-          "summary": null,
+          "summary": "Capt. Kerry welcomes a new crew aboard Azul V this season, as power shifts between interior and exterior teams test their chemistry. Engine trouble threatens departure—can the crew unite before their first charter?",
           "url": "https://www.imdb.com/title/tt38945908/?ref_=ttep_ep_1"
         },
         {
@@ -51768,7 +51928,7 @@
           "number": 6,
           "name": "Leaving and Coming Back",
           "airdate": "2026-11-11",
-          "summary": "An old friend returns a favor.",
+          "summary": "Lee and Frog take a trip down memory lane.",
           "url": "https://www.imdb.com/title/tt43719125/?ref_=ttep_ep_6"
         },
         {
@@ -53641,6 +53801,36 @@
           "airdate": "2026-10-27",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602687/?ref_=ttep_ep_2"
+        }
+      ]
+    },
+    "tt46066662": {
+      "imdbId": "tt46066662",
+      "title": "The Serial Killer Connection",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Till Death Do Us Part",
+          "airdate": "2026-10-07",
+          "summary": "Kara Robinson Chamberlain relives her escape from a serial killer while Bonnie Lou reveals what it was like to be married to one.",
+          "url": "https://www.imdb.com/title/tt48094892/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "Episode #1.2",
+          "airdate": "2026-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48094893/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Episode #1.3",
+          "airdate": "2026-10-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48094894/?ref_=ttep_ep_3"
         }
       ]
     }
