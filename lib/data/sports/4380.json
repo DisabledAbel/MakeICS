@@ -615,7 +615,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "BT",
+      "strStatus": "AOT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -659,7 +659,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "P1",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
