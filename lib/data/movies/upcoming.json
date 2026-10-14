@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T12:30:21.191Z",
+  "generatedAt": "2026-10-14T09:57:27.882Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6244,6 +6244,7 @@
       "releaseDate": "Wed, 11 Nov 2026 00:00:00 GMT",
       "genres": [
         "Documentary",
+        "History",
         "War"
       ],
       "people": [
@@ -6945,20 +6946,20 @@
       ],
       "people": [
         {
-          "id": "nm0000498",
-          "name": "Matthew Lillard"
+          "id": "nm0050959",
+          "name": "Pedro Pascal"
         },
         {
           "id": "nm1312575",
           "name": "Olivia Wilde"
         },
         {
-          "id": "nm0050959",
-          "name": "Pedro Pascal"
+          "id": "nm6872447",
+          "name": "Eva Victor"
         },
         {
-          "id": "nm0004715",
-          "name": "Will Arnett"
+          "id": "nm5216475",
+          "name": "Alexa Swinton"
         }
       ],
       "label": "Dec 04, 2026"
@@ -8187,12 +8188,12 @@
           "name": "Maya Hawke"
         },
         {
-          "id": "nm2547958",
-          "name": "Kate Berlant"
-        },
-        {
           "id": "nm1320827",
           "name": "Randall Park"
+        },
+        {
+          "id": "nm0448486",
+          "name": "Kerri Kenney"
         }
       ],
       "label": "Feb 12, 2027"
@@ -8363,20 +8364,20 @@
       ],
       "people": [
         {
-          "id": "nm0005246",
-          "name": "Esai Morales"
-        },
-        {
           "id": "nm0761052",
           "name": "Roselyn Sanchez"
         },
         {
-          "id": "nm7639977",
-          "name": "Angel Rosario Jr."
+          "id": "nm0005246",
+          "name": "Esai Morales"
         },
         {
           "id": "nm1883803",
           "name": "Jesse Garcia"
+        },
+        {
+          "id": "nm7639977",
+          "name": "Angel Rosario Jr."
         }
       ],
       "label": "Feb 26, 2027"
@@ -8767,12 +8768,12 @@
       ],
       "people": [
         {
-          "id": "nm0293509",
-          "name": "Martin Freeman"
-        },
-        {
           "id": "nm0000706",
           "name": "Michelle Yeoh"
+        },
+        {
+          "id": "nm0293509",
+          "name": "Martin Freeman"
         },
         {
           "id": "nm5685224",
@@ -9467,6 +9468,35 @@
       "label": "Jun 25, 2027"
     },
     {
+      "id": "tt27477734",
+      "title": "The Hole",
+      "releaseDate": "Fri, 25 Jun 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm3772243",
+          "name": "Theo James"
+        },
+        {
+          "id": "nm0000225",
+          "name": "Christian Slater"
+        },
+        {
+          "id": "nm9475707",
+          "name": "Hoyeon"
+        },
+        {
+          "id": "nm1928172",
+          "name": "Kat Foster"
+        }
+      ],
+      "label": "Jun 25, 2027"
+    },
+    {
       "id": "tt7890826",
       "title": "Naya Legend of the Golden Dolphin",
       "image": "https://m.media-amazon.com/images/M/MV5BZTU2Mjc5YzMtZjk2ZC00MTkwLWEwYzItMzA0MWMxZWRkOTY3XkEyXkFqcGc@._V1_.jpg",
@@ -9896,6 +9926,14 @@
         {
           "id": "nm9296746",
           "name": "Mason Thames"
+        },
+        {
+          "id": "nm8482772",
+          "name": "Lexi Minetree"
+        },
+        {
+          "id": "nm13864435",
+          "name": "Josh Macqueen"
         }
       ],
       "label": "Aug 20, 2027"
@@ -10009,8 +10047,8 @@
           "name": "Stephen Baldwin"
         },
         {
-          "id": "nm1664542",
-          "name": "Michael Irvin"
+          "id": "nm14475796",
+          "name": "Josh Stone"
         }
       ],
       "label": "Sep 10, 2027"
@@ -10131,7 +10169,12 @@
       "genres": [
         "Horror"
       ],
-      "people": [],
+      "people": [
+        {
+          "id": "nm0000205",
+          "name": "Parker Posey"
+        }
+      ],
       "label": "Oct 08, 2027"
     },
     {
