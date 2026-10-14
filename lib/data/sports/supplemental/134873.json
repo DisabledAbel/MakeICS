@@ -1,25 +1,8 @@
 {
   "teamId": "134873",
   "teamName": "Indiana Pacers",
-  "updatedAt": "2026-10-11T04:10:41.141Z",
+  "updatedAt": "2026-10-14T03:39:37.009Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401908621",
-      "strEvent": "Oklahoma City Thunder vs Indiana Pacers",
-      "strHomeTeam": "Oklahoma City Thunder",
-      "strAwayTeam": "Indiana Pacers",
-      "dateEvent": "2026-10-13",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-14T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Paycom Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134887",
-      "idAwayTeam": "134873"
-    },
     {
       "idEvent": "scraped-espn-401914126",
       "strEvent": "Indiana Pacers vs Milwaukee Bucks",

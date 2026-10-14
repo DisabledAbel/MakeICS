@@ -1,25 +1,8 @@
 {
   "teamId": "134862",
   "teamName": "New York Knicks",
-  "updatedAt": "2026-10-13T00:11:02.010Z",
+  "updatedAt": "2026-10-14T03:39:37.009Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401908944",
-      "strEvent": "Toronto Raptors vs New York Knicks",
-      "strHomeTeam": "Toronto Raptors",
-      "strAwayTeam": "New York Knicks",
-      "dateEvent": "2026-10-13",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-13T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134864",
-      "idAwayTeam": "134862"
-    },
     {
       "idEvent": "scraped-espn-401908945",
       "strEvent": "New York Knicks vs Toronto Raptors",

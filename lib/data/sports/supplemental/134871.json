@@ -1,25 +1,8 @@
 {
   "teamId": "134871",
   "teamName": "Cleveland Cavaliers",
-  "updatedAt": "2026-10-12T04:28:51.571Z",
+  "updatedAt": "2026-10-14T03:39:37.009Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898403",
-      "strEvent": "Orlando Magic vs Cleveland Cavaliers",
-      "strHomeTeam": "Orlando Magic",
-      "strAwayTeam": "Cleveland Cavaliers",
-      "dateEvent": "2026-10-13",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-13T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Kia Center",
-      "strStatus": "NS",
-      "strTVStation": "Peacock",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134883",
-      "idAwayTeam": "134871"
-    },
     {
       "idEvent": "scraped-espn-401909093",
       "strEvent": "Philadelphia 76ers vs Cleveland Cavaliers",
