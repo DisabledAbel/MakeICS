@@ -1,26 +1,8 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-10-13T00:49:14.121Z",
+  "updatedAt": "2026-10-14T05:02:33.279Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020096",
-      "strEvent": "Ottawa Senators vs St. Louis Blues",
-      "strHomeTeam": "Ottawa Senators",
-      "strAwayTeam": "St. Louis Blues",
-      "dateEvent": "2026-10-13",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-13T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canadian Tire Centre",
-      "strStatus": "NS",
-      "strTVStation": "BN+, RDSI, STLNHL, TSN5",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020096",
-      "idHomeTeam": "134835",
-      "idAwayTeam": "134859"
-    },
     {
       "idEvent": "nhl-2026020109",
       "strEvent": "Ottawa Senators vs New York Islanders",

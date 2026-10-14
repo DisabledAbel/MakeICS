@@ -1,26 +1,8 @@
 {
   "teamId": "134850",
   "teamName": "Vancouver Canucks",
-  "updatedAt": "2026-10-13T14:22:30.078Z",
+  "updatedAt": "2026-10-14T05:02:33.279Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020097",
-      "strEvent": "New York Islanders vs Vancouver Canucks",
-      "strHomeTeam": "New York Islanders",
-      "strAwayTeam": "Vancouver Canucks",
-      "dateEvent": "2026-10-13",
-      "strTime": "23:45:00",
-      "strTimestamp": "2026-10-13T23:45:00Z",
-      "strLeague": "NHL",
-      "strVenue": "UBS Arena",
-      "strStatus": "NS",
-      "strTVStation": "MSGSN, SNP",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020097",
-      "idHomeTeam": "134841",
-      "idAwayTeam": "134850"
-    },
     {
       "idEvent": "nhl-2026020112",
       "strEvent": "Florida Panthers vs Vancouver Canucks",

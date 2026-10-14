@@ -1,26 +1,8 @@
 {
   "teamId": "134852",
   "teamName": "Los Angeles Kings",
-  "updatedAt": "2026-10-12T15:42:26.679Z",
+  "updatedAt": "2026-10-14T05:02:33.279Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020104",
-      "strEvent": "Los Angeles Kings vs Edmonton Oilers",
-      "strHomeTeam": "Los Angeles Kings",
-      "strAwayTeam": "Edmonton Oilers",
-      "dateEvent": "2026-10-13",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-14T02:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "ABTV , SN1, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020104",
-      "idHomeTeam": "134852",
-      "idAwayTeam": "134849"
-    },
     {
       "idEvent": "nhl-2026020132",
       "strEvent": "Los Angeles Kings vs Boston Bruins",

@@ -1,26 +1,8 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-10-13T14:22:30.078Z",
+  "updatedAt": "2026-10-14T05:02:33.279Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020100",
-      "strEvent": "Dallas Stars vs Colorado Avalanche",
-      "strHomeTeam": "Dallas Stars",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-10-13",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-14T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "ESPN, SN+, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020100",
-      "idHomeTeam": "134856",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020107",
       "strEvent": "Colorado Avalanche vs Dallas Stars",

@@ -1,26 +1,8 @@
 {
   "teamId": "134836",
   "teamName": "Tampa Bay Lightning",
-  "updatedAt": "2026-10-12T15:42:26.679Z",
+  "updatedAt": "2026-10-14T05:02:33.279Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020095",
-      "strEvent": "New York Rangers vs Tampa Bay Lightning",
-      "strHomeTeam": "New York Rangers",
-      "strAwayTeam": "Tampa Bay Lightning",
-      "dateEvent": "2026-10-13",
-      "strTime": "23:15:00",
-      "strTimestamp": "2026-10-13T23:15:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "MSG, The Spot",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020095",
-      "idHomeTeam": "134842",
-      "idAwayTeam": "134836"
-    },
     {
       "idEvent": "nhl-2026020111",
       "strEvent": "Tampa Bay Lightning vs Seattle Kraken",

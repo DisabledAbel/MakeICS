@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-10-12T15:42:26.679Z",
+  "updatedAt": "2026-10-14T05:02:33.279Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020099",
-      "strEvent": "Winnipeg Jets vs Minnesota Wild",
-      "strHomeTeam": "Winnipeg Jets",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-10-13",
-      "strTime": "00:15:00",
-      "strTimestamp": "2026-10-14T00:15:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canada Life Centre",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, TSN3, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020099",
-      "idHomeTeam": "134851",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020114",
       "strEvent": "Chicago Blackhawks vs Winnipeg Jets",

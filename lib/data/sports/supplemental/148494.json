@@ -1,26 +1,8 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-10-12T15:42:26.679Z",
+  "updatedAt": "2026-10-14T05:02:33.279Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020102",
-      "strEvent": "Utah Mammoth vs Toronto Maple Leafs",
-      "strHomeTeam": "Utah Mammoth",
-      "strAwayTeam": "Toronto Maple Leafs",
-      "dateEvent": "2026-10-13",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-14T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Delta Center",
-      "strStatus": "NS",
-      "strTVStation": "Mammoth+, TSN4, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
-      "source": "scraped",
-      "sourceEventId": "2026020102",
-      "idHomeTeam": "148494",
-      "idAwayTeam": "134837"
-    },
     {
       "idEvent": "nhl-2026020117",
       "strEvent": "Edmonton Oilers vs Utah Mammoth",

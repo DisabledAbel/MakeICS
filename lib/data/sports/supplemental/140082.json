@@ -1,26 +1,8 @@
 {
   "teamId": "140082",
   "teamName": "Seattle Kraken",
-  "updatedAt": "2026-10-12T15:42:26.679Z",
+  "updatedAt": "2026-10-14T05:02:33.279Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020094",
-      "strEvent": "Philadelphia Flyers vs Seattle Kraken",
-      "strHomeTeam": "Philadelphia Flyers",
-      "strAwayTeam": "Seattle Kraken",
-      "dateEvent": "2026-10-13",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-13T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "KING, KONG, NBCSP, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020094",
-      "idHomeTeam": "134843",
-      "idAwayTeam": "140082"
-    },
     {
       "idEvent": "nhl-2026020111",
       "strEvent": "Tampa Bay Lightning vs Seattle Kraken",
