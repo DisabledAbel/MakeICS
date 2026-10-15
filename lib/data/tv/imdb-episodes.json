@@ -8260,7 +8260,7 @@
           "season": 9,
           "number": 3,
           "name": "Guard Down",
-          "airdate": "2026-07-28",
+          "airdate": "2026-10-13",
           "summary": "In a restaurant in Georgia, a mother confronts a male customer who she claims complained about her child's volume. At a Florida bar, an allegedly intoxicated woman who is being escorted out by police answers a call from her dad.",
           "url": "https://www.imdb.com/title/tt43662956/?ref_=ttep_ep_3"
         },
@@ -8268,7 +8268,7 @@
           "season": 9,
           "number": 4,
           "name": "Check Please",
-          "airdate": "2026-07-28",
+          "airdate": "2026-10-13",
           "summary": "At a fast food restaurant in Florissant, Missouri, tensions rise when the husband of a customer accused of a bad parking job confronts her accuser.",
           "url": "https://www.imdb.com/title/tt43663212/?ref_=ttep_ep_4"
         },
@@ -8753,7 +8753,7 @@
           "number": 41,
           "name": "Episode #8.41",
           "airdate": "2026-10-14",
-          "summary": null,
+          "summary": "Five Clockwork Carnage Qualifying Matches determine the remaining challengers for AEW World Champion Will Ospreay at WrestleDream; plus, the Don Callis Family's Wardlow, Mark Davis and Jake Doyle throw down against the Death Riders.",
           "url": "https://www.imdb.com/title/tt44863278/?ref_=ttep_ep_41"
         },
         {
@@ -14019,7 +14019,7 @@
           "season": 6,
           "number": 1,
           "name": "Scary Tales",
-          "airdate": "2026-02-05",
+          "airdate": "2026-10-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43731496/?ref_=ttep_ep_1"
         },
@@ -14027,9 +14027,17 @@
           "season": 6,
           "number": 2,
           "name": "Squidina and the Brain/Day of the Snail",
-          "airdate": "2026-11-30",
+          "airdate": "2026-10-30",
           "summary": "When Patrick accidentally leaves his brain at home, Squidina needs to work with it to help find his body. Throughout their journey, Squidina and Patrick's brain retrace Patrick body's footsteps, discovering all the damage it has cause around Bikini Bottom while stumbling around like a zombie./ When SpongeBob goes on a trip with his parents for a day, he has Squidina pet sit Gary. Gary takes advantage of this new opportunity to find salt in the Star home, despite the \"low sodium diet\" rules SpongeBob imposes on him. Gary's journey throughout the house leads him to the Dartfish family, who must fight for their lives to avoid the threat of a \"giant\" snail.",
           "url": "https://www.imdb.com/title/tt44866379/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 6,
+          "number": 3,
+          "name": "Family Vide-Oh No!/The Cool Uncle",
+          "airdate": "2026-11-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44866441/?ref_=ttep_ep_3"
         },
         {
           "season": 5,
@@ -14440,7 +14448,7 @@
         {
           "season": 28,
           "number": 42,
-          "name": "Episode #28.42",
+          "name": "Money in the Bank 2026 Fallout",
           "airdate": "2026-10-16",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44934326/?ref_=ttep_ep_42"
@@ -32847,7 +32855,7 @@
           "number": 6,
           "name": "Moskito Madness",
           "airdate": "2026-10-13",
-          "summary": null,
+          "summary": "Still reeling from the news of her divorce filing, Sai grills Carole, which upsets Daisy. Jessel learns of a rumor from Sai, dragging her into the middle of Sai's argument with Erin.",
           "url": "https://www.imdb.com/title/tt46023292/?ref_=ttep_ep_6"
         },
         {
@@ -34118,6 +34126,14 @@
           "airdate": "2026-10-16",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48306199/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 72,
+          "number": 4,
+          "name": "Episode #72.4",
+          "airdate": "2026-10-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49166234/?ref_=ttep_ep_4"
         },
         {
           "season": 71,
@@ -35513,6 +35529,14 @@
         },
         {
           "season": 2,
+          "number": 7,
+          "name": "Episode #2.7",
+          "airdate": "2026-10-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49212283/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 2,
           "number": 15,
           "name": "The Point of Us Breaking",
           "airdate": "2026-09-15",
@@ -35890,6 +35914,14 @@
           "airdate": "2026-10-07",
           "summary": "A high-stakes war is silently escalating above our heads, space is now a critical battleground. Satellites, vital to our daily lives and economies, are vulnerable to attack both from adversaries and the debris that's filling crowded orbits",
           "url": "https://www.imdb.com/title/tt43744488/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 53,
+          "number": 13,
+          "name": "Evolution: Brain Power",
+          "airdate": "2026-10-14",
+          "summary": "Brains might be the most complex structures on our planet—so how did evolution build them? To find out, rewind the clock three billion years to trace the evolutionary story of the dolphin, one of the smartest animals alive today.",
+          "url": "https://www.imdb.com/title/tt43684973/?ref_=ttep_ep_13"
         },
         {
           "season": 53,
@@ -38034,6 +38066,14 @@
         },
         {
           "season": 18,
+          "number": 18,
+          "name": "Episode #18.18",
+          "airdate": "2026-10-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48866350/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 18,
           "number": 21,
           "name": "Episode #18.1",
           "airdate": "2026-09-21",
@@ -38802,15 +38842,15 @@
         {
           "season": 1,
           "number": 5,
-          "name": "Episode #1.5",
+          "name": "The Exterior Exorcism",
           "airdate": "2026-10-13",
-          "summary": null,
+          "summary": "And then there were three. Each designer tackles a space of their own as they transform Bihl Manor's neglected exterior. Battling the spirits and the elements, they're aiming to give the grounds a glow-up worthy of the judges.",
           "url": "https://www.imdb.com/title/tt44536167/?ref_=ttep_ep_5"
         },
         {
           "season": 1,
           "number": 6,
-          "name": "Episode #1.6",
+          "name": "The Final Fright",
           "airdate": "2026-10-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44536163/?ref_=ttep_ep_6"
@@ -39711,6 +39751,14 @@
           "airdate": "2026-10-15",
           "summary": "Day four challenges some recruits to lead their team in a hostage rescue in a race against time. Tensions rise when the recruits must infiltrate an enemy compound to gather information while under a powerful gas attack.",
           "url": "https://www.imdb.com/title/tt48284798/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 5,
+          "number": 5,
+          "name": "Grit",
+          "airdate": "2026-10-21",
+          "summary": "On day five, the recruits must work together and rappel down a twenty-two-story building for an enemy extraction mission; the recruits navigate the treacherous terrain of the Malaysian jungle to clear out an abandoned camp.",
+          "url": "https://www.imdb.com/title/tt49236737/?ref_=ttep_ep_5"
         },
         {
           "season": 5,
@@ -40769,6 +40817,30 @@
         },
         {
           "season": 3,
+          "number": 7,
+          "name": "Episode #3.7",
+          "airdate": "2026-11-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41714808/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "name": "Episode #3.8",
+          "airdate": "2026-11-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41714849/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "name": "Episode #3.9",
+          "airdate": "2026-11-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt41715174/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 3,
           "number": 27,
           "name": "Rhoda",
           "airdate": "2026-09-27",
@@ -41110,7 +41182,7 @@
           "number": 5,
           "name": "Pittsburgh to Philly with Gillian Jacobs",
           "airdate": "2026-10-10",
-          "summary": null,
+          "summary": "After getting called out for dismissing Pittsburgh's food scene, David Chang teams up with native Gillian Jacobs to see what else he's missed. They then hit Philly to explore his favorite spots, in a tale of two cities.",
           "url": "https://www.imdb.com/title/tt48501881/?ref_=ttep_ep_5"
         },
         {
@@ -41513,7 +41585,7 @@
         {
           "season": 2,
           "number": 7,
-          "name": "Episode #2.7",
+          "name": "My Story",
           "airdate": "2026-11-04",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42624414/?ref_=ttep_ep_7"
@@ -41856,15 +41928,15 @@
         {
           "season": 2,
           "number": 5,
-          "name": "Episode #2.5",
+          "name": "The Chosen One",
           "airdate": "2026-10-13",
-          "summary": null,
+          "summary": "A woman from a strict religious community discovers the truth about her first love and fights church members intent on silencing her.",
           "url": "https://www.imdb.com/title/tt47660478/?ref_=ttep_ep_5"
         },
         {
           "season": 2,
           "number": 6,
-          "name": "Episode #2.6",
+          "name": "Love and Rage",
           "airdate": "2026-10-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48241785/?ref_=ttep_ep_6"
@@ -43912,7 +43984,7 @@
           "number": 2,
           "name": "Kiasu, Kancheong, and Carry On",
           "airdate": "2026-10-11",
-          "summary": "Jessy arrives in Italy, only to be blindsided by news from Vittorio. Zuri gives Ben and France a second chance, as his friends voice concerns. Andi heads to Australia despite doubts. Matilda's family fumes over Niles' broken promise, while Ally questions her future with Jon.",
+          "summary": "Jessy lands in Italy and is stunned by Vittorio's news. Zuri offers Ben and France another chance despite friends' concerns. Andi heads to Australia, uncertain. Matilda's family is furious over Niles' broken promise.",
           "url": "https://www.imdb.com/title/tt45247649/?ref_=ttep_ep_2"
         },
         {
@@ -43962,6 +44034,14 @@
           "airdate": "2026-11-22",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48409284/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 8,
+          "number": 9,
+          "name": "Episode #8.9",
+          "airdate": "2026-11-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49219142/?ref_=ttep_ep_9"
         },
         {
           "season": 7,
@@ -44072,7 +44152,7 @@
           "number": 18,
           "name": "Adios",
           "airdate": "2026-01-05",
-          "summary": "Chloe uncovers devastating truths about Johny. Jenny looks for a way out of the family home. Anthony and Manon trade city life for the countryside. Dylan catches Pattiya off guard. Luke's dad rattles Madelein's trust on the eve of the wedding.",
+          "summary": "Chloe discovers shocking facts about Johny, while Jenny seeks an escape from her family home. Anthony and Manon swap city life for the countryside, Dylan surprises Pattiya, and Luke's dad shakes Madelein's trust before the wedding.",
           "url": "https://www.imdb.com/title/tt39013785/?ref_=ttep_ep_18"
         },
         {
@@ -44498,7 +44578,7 @@
           "number": 5,
           "name": "Episode #4.5",
           "airdate": "2026-11-01",
-          "summary": null,
+          "summary": "After a military contractor's wife and daughter are kidnapped, Colter discovers Russell is investigating a related lead. The Shaw brothers join forces to uncover a high-stakes cover-up.",
           "url": "https://www.imdb.com/title/tt45257880/?ref_=ttep_ep_5"
         },
         {
@@ -44696,7 +44776,7 @@
           "number": 2,
           "name": "Been There Done That",
           "airdate": "2026-10-11",
-          "summary": "Christine, Janelle and Meri get together for the first time in years to share photos, which brings up old wounds for Christine and leaves Meri wanting a deeper conversation. Janelle is moving on from her divorce and visits a relationship consultant.",
+          "summary": "Christine, Janelle and Meri reunite for the first time in years to share photos, stirring up old wounds for Christine and leaving Meri craving a deeper talk. Janelle, moving on from her divorce, visits a relationship consultant.",
           "url": "https://www.imdb.com/title/tt47943751/?ref_=ttep_ep_2"
         },
         {
@@ -45272,7 +45352,7 @@
         {
           "season": 9,
           "number": 4,
-          "name": "Episode #9.4",
+          "name": "Reticence",
           "airdate": "2026-10-26",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44126707/?ref_=ttep_ep_4"
@@ -45494,17 +45574,17 @@
         {
           "season": 2,
           "number": 5,
-          "name": "Episode #2.5",
+          "name": "The Boy Who Cried Love",
           "airdate": "2026-11-02",
-          "summary": null,
+          "summary": "Salsa night gets heated as Jamal and Emma clash with the group. Razvan makes a move, leaving Steven questioning his chances. Chloe opens up to Brian on a beach date. Kara turns her attention to Skyler after JT makes a misstep, while Michael juggles two connections.",
           "url": "https://www.imdb.com/title/tt48241369/?ref_=ttep_ep_5"
         },
         {
           "season": 2,
           "number": 6,
-          "name": "Episode #2.6",
+          "name": "The Girl Who Saw Red",
           "airdate": "2026-11-09",
-          "summary": null,
+          "summary": "A sexy double date brings some surprising revelations. Chloe and Jamal bond during a workshop, fueling Emma's jealousy. Steven breaks down over past mistakes, while Tanya's tough love forces Emma to question her future with Jamal.",
           "url": "https://www.imdb.com/title/tt48485830/?ref_=ttep_ep_6"
         },
         {
@@ -45668,7 +45748,7 @@
         {
           "season": 2,
           "number": 4,
-          "name": "Episode #2.4",
+          "name": "Black Tie Optional",
           "airdate": "2026-10-26",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44177776/?ref_=ttep_ep_4"
@@ -46310,6 +46390,14 @@
           "airdate": "2026-10-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44772098/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 24,
+          "number": 4,
+          "name": "Episode #24.4",
+          "airdate": "2026-10-27",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44930886/?ref_=ttep_ep_4"
         },
         {
           "season": 23,
@@ -47401,7 +47489,7 @@
         {
           "season": 12,
           "number": 4,
-          "name": "Episode #12.4",
+          "name": "Tomorrow, and Tomorrow, and Tomorrow",
           "airdate": "2026-10-28",
           "summary": null,
           "url": "https://www.imdb.com/title/tt46107152/?ref_=ttep_ep_4"
@@ -47593,7 +47681,7 @@
           "number": 3,
           "name": "Slipknot Your Average Pawn",
           "airdate": "2026-10-21",
-          "summary": null,
+          "summary": "Rick tries not to crack up over a joke shop sign, Chum comes face to face with a Slipknot mask, and military antiques and weapons expert Alex Cranmer takes aim at an 1849 Colt Revolver.",
           "url": "https://www.imdb.com/title/tt49068214/?ref_=ttep_ep_3"
         }
       ]
@@ -47633,6 +47721,14 @@
           "airdate": "2026-10-28",
           "summary": "Ava hosts an exclusive Halloween party, and Janine and Jacob get suspicious of Gregory.",
           "url": "https://www.imdb.com/title/tt48391371/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 6,
+          "number": 5,
+          "name": "Courtney",
+          "airdate": "2026-11-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48391372/?ref_=ttep_ep_5"
         },
         {
           "season": 5,
@@ -48525,7 +48621,7 @@
           "number": 2,
           "name": "Don't Blink",
           "airdate": "2026-10-14",
-          "summary": null,
+          "summary": "A significant event in Kevin's life forces him to make a decision about his future.",
           "url": "https://www.imdb.com/title/tt43985937/?ref_=ttep_ep_2"
         },
         {
@@ -49203,7 +49299,7 @@
         {
           "season": 5,
           "number": 6,
-          "name": "Episode #5.6",
+          "name": "Wake of the Living Dead",
           "airdate": "2026-10-15",
           "summary": "The funeral leaves the players shaken, as the Faithful race to solve who committed the murder in plain sight; a savage roundtable sees emotions boil over and loyalties shatter as friends turn against each other.",
           "url": "https://www.imdb.com/title/tt39242460/?ref_=ttep_ep_6"
@@ -49305,7 +49401,7 @@
         {
           "season": 4,
           "number": 4,
-          "name": "Episode #4.4",
+          "name": "A Bad Lie",
           "airdate": "2026-10-29",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43328542/?ref_=ttep_ep_4"
@@ -51886,7 +51982,7 @@
         {
           "season": 2,
           "number": 1,
-          "name": "Rupidoop",
+          "name": "The Rupidoop",
           "airdate": "2026-10-14",
           "summary": "Lee's acceptance speech for Citizen Journalist of the Year leaves quite an impression.",
           "url": "https://www.imdb.com/title/tt39313628/?ref_=ttep_ep_1"
@@ -51936,7 +52032,7 @@
           "number": 7,
           "name": "Episode #2.7",
           "airdate": "2026-11-18",
-          "summary": "Lee and Frog take a trip down memory lane.",
+          "summary": null,
           "url": "https://www.imdb.com/title/tt43719127/?ref_=ttep_ep_7"
         },
         {
@@ -53789,7 +53885,7 @@
         {
           "season": 1,
           "number": 1,
-          "name": "Episode #1.1",
+          "name": "Golden Years In A Golden Place",
           "airdate": "2026-10-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt39602684/?ref_=ttep_ep_1"
@@ -53819,7 +53915,7 @@
         {
           "season": 1,
           "number": 2,
-          "name": "Episode #1.2",
+          "name": "Behind Closed Doors",
           "airdate": "2026-10-14",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48094893/?ref_=ttep_ep_2"
@@ -53831,6 +53927,240 @@
           "airdate": "2026-10-21",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48094894/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt1996507": {
+      "imdbId": "tt1996507",
+      "title": "After the First 48",
+      "episodes": [
+        {
+          "season": 12,
+          "number": 1,
+          "name": "Broken Youth",
+          "airdate": "2026-05-14",
+          "summary": "When a beloved teenager is gunned down while hanging out with his friends, Tulsa Homicide Detectives depend on the public to help identify the suspects from security video.",
+          "url": "https://www.imdb.com/title/tt42348875/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 12,
+          "number": 2,
+          "name": "Little Girl Lost",
+          "airdate": "2026-05-21",
+          "summary": "After the remains of a 16-yr-old girl are found in the woods with no identification, Gwinnett County detectives have little to go on to find her killer.",
+          "url": "https://www.imdb.com/title/tt42837875/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 12,
+          "number": 3,
+          "name": "Unfair Fight",
+          "airdate": "2026-05-28",
+          "summary": "When a father of two is gunned down in broad daylight, Tulsa detectives rely on eyewitnesses to ID the suspect. At trial, the prosecutor's case hangs in the balance when the defense presents a witness challenging the identification.",
+          "url": "https://www.imdb.com/title/tt42837883/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 12,
+          "number": 4,
+          "name": "Point of No Return",
+          "airdate": "2026-06-04",
+          "summary": "In Mobile, Alabama, two young men are found murdered inside a car on a dark residential street. With no witnesses and few leads, the case stalls–until a teenage girl steps forward with information that leads to an arrest and a confession.",
+          "url": "https://www.imdb.com/title/tt42879424/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 12,
+          "number": 5,
+          "name": "The Break",
+          "airdate": "2026-06-11",
+          "summary": "A beloved son is shot dead when a $5 pool game goes awry, and Mobile detectives depend on a friend of the victim and the suspect to name the shooter. At trial, details of who was the aggressor comes into question.",
+          "url": "https://www.imdb.com/title/tt43351071/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 12,
+          "number": 6,
+          "name": "One Night in Mobile",
+          "airdate": "2026-06-18",
+          "summary": "After meeting a man from a dating app, a single mother goes missing. Mobile Homicide presses the suspect to reveal her whereabouts.",
+          "url": "https://www.imdb.com/title/tt43381203/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 12,
+          "number": 7,
+          "name": "Complex Terror",
+          "airdate": "2026-06-25",
+          "summary": "When a home invasion leaves a father shot dead, Tulsa detectives race to find a suspect known as \"Porkchop.\" A borrowed phone helps police track the killer, but without a firm eyewitness, prosecutors depend on circumstantial evidence.",
+          "url": "https://www.imdb.com/title/tt43655244/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 12,
+          "number": 8,
+          "name": "Money Move",
+          "airdate": "2026-07-02",
+          "summary": "In Gwinnett County, detectives have an array of evidence to sift through after a man was gunned down outside an apartment complex. A person at the scene leads detectives to three out-of-town suspects.",
+          "url": "https://www.imdb.com/title/tt43655246/?ref_=ttep_ep_8"
+        }
+      ]
+    },
+    "tt2445666": {
+      "imdbId": "tt2445666",
+      "title": "Studio C",
+      "episodes": [
+        {
+          "season": 23,
+          "number": 1,
+          "name": "Have I Shocked You? with Pete Holmes",
+          "airdate": "2026-10-19",
+          "summary": "A man tries out a beard. A husband reveals his wife's secrets. Phil Swift shows how Flex Tape can fix everything. The perfect first kiss needs some work. An eccentric billionaire takes his girlfriend to dinner. Pete Holmes guest stars.",
+          "url": "https://www.imdb.com/title/tt44856711/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 23,
+          "number": 2,
+          "name": "Swiss Polka Demon Hunters",
+          "airdate": "2026-10-26",
+          "summary": "Swiss polka stars fight dairy intolerant demons. Halloween complicates a car crash. There's an unexpected visitor in the Spider-Verse. Couples have differing opinions about Toy Story. Count Dracula is having problems with his bite.",
+          "url": "https://www.imdb.com/title/tt44856744/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 23,
+          "number": 3,
+          "name": "Bring Out The Brads",
+          "airdate": "2026-11-02",
+          "summary": "A family finds a bargain cruise. A man waits in the airport arrival area. A mom enthusiastically uses bug spray. The big bad wolf gets an unexpected reaction from a little pig. A woman on a dating show must choose between three bachelors.",
+          "url": "https://www.imdb.com/title/tt44856790/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 23,
+          "number": 4,
+          "name": "Elmo Doesn't Feel Anything Anymore",
+          "airdate": "2026-11-09",
+          "summary": "Cinderella's friends make her a beautiful gown. Gossipers are overheard in the bathroom. Freddy Fazbear's Pizza is re-opening. A girl dad wants to change Star Wars. Cookie Monster is cutting his consumption thanks to three letters.",
+          "url": "https://www.imdb.com/title/tt44856794/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 23,
+          "number": 5,
+          "name": "A Battle of Wits",
+          "airdate": "2026-11-16",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44856801/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 23,
+          "number": 6,
+          "name": "I'm Sick of Your Garbage Mouth with Angela Kinsey",
+          "airdate": "2026-11-23",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44856808/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 23,
+          "number": 7,
+          "name": "It's Christmas, Laugh A Little",
+          "airdate": "2026-11-30",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44856821/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 22,
+          "number": 1,
+          "name": "I'm Dead Part 435 with Rainn Wilson",
+          "airdate": "2026-04-06",
+          "summary": "A spaceship veers off course to settle a cosmic grudge. A man melts down over a brownie. A man launches a wild smear campaign. A family discovers dad's secret \"death tape.\" An angel guides Naomi through Heaven. Rainn Wilson guest stars.",
+          "url": "https://www.imdb.com/title/tt38777261/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 22,
+          "number": 2,
+          "name": "Alexa, I'll Kill You!",
+          "airdate": "2025-04-20",
+          "summary": "An Alexa goes rogue during date night. Mothers show how well they know their daughters. A weight lifter needs a spotter. A complicated board game overwhelms a group of friends. All the king's horses and all the king's men are summoned.",
+          "url": "https://www.imdb.com/title/tt38777789/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 22,
+          "number": 3,
+          "name": "Seven Ate Nine",
+          "airdate": "2026-04-20",
+          "summary": "Philosophers order the alphabet. A film festival Q&A poses unexpected questions. In a true crime special, 7 is the suspect when 9 goes missing. A cop bribes witnesses for information. Tam Flank returns, but as an exterminator.",
+          "url": "https://www.imdb.com/title/tt38777791/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 22,
+          "number": 4,
+          "name": "Salem Wizard Trials",
+          "airdate": "2026-04-30",
+          "summary": "Steve Jobs unveils the first iPhone. A joking dad can't handle a joking waitress. A man brands himself as a wizard instead of a witch. A woman tries to relate to her co-workers. Benjamin Franklin and son experiment with electricity.",
+          "url": "https://www.imdb.com/title/tt38777794/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 22,
+          "number": 5,
+          "name": "It Smells Like Hotdog Water",
+          "airdate": "2026-05-04",
+          "summary": "A confusing customer holds up the Burger Barn line. A birthday cake hides a disturbing surprise. Draco dreams of serving Voldemort. A eulogy has to be improvised from a grocery list. A hot dog loving co-worker creates chaos.",
+          "url": "https://www.imdb.com/title/tt38777787/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 22,
+          "number": 6,
+          "name": "Beef Lotion",
+          "airdate": "2026-05-11",
+          "summary": "Turbulence triggers a man's dying confessions. A restaurant has the most attentive staff. A dry-skinned dad finds a lotion manly enough for him. A woman summons Shaq to answer her questions. A parrot confuses a love struck woman.",
+          "url": "https://www.imdb.com/title/tt38777796/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 22,
+          "number": 7,
+          "name": "Don't Get on That Plane!",
+          "airdate": "2026-05-18",
+          "summary": "A man begs his girlfriend not to board a plane. A woman has zero self-awareness at dinner. Nobody dares question the Don, even when no one knows what he's saying. A new indie singer lands a record deal. Steve Harvey hosts Jeopardy.",
+          "url": "https://www.imdb.com/title/tt38777798/?ref_=ttep_ep_7"
+        }
+      ]
+    },
+    "tt38839923": {
+      "imdbId": "tt38839923",
+      "title": "Killer Investigations",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "name": "Deadly Betrayal",
+          "airdate": "2025-10-30",
+          "summary": "Celebrity hairdresser Fabio Sementilli seemed to have it all-- fame, a loving family, a luxury lifestyle. But when he was found stabbed to death in his Woodland Hills, California home, detectives uncovered a chilling murder plot.",
+          "url": "https://www.imdb.com/title/tt38864544/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "name": "The Lady in the Trash Dump",
+          "airdate": "2025-11-07",
+          "summary": "Susan Mauldin disappeared from her Fleming Island, Florida home in the middle of a renovation. A trail of bank records and surveillance footage led detectives to dark family secrets- and a killer's twisted plan.",
+          "url": "https://www.imdb.com/title/tt38938271/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "name": "Money Pit",
+          "airdate": "2025-11-14",
+          "summary": "Shanti Cooper-Tronnes was found dead in the bathtub a week before her home was selected to be on a renovation show. Her husband, David, claimed it was an accident, but Orlando, Florida detectives uncovered a tale of lies and deception.",
+          "url": "https://www.imdb.com/title/tt38952625/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Daytona Beach Serial Killer",
+          "airdate": "2025-11-21",
+          "summary": "In 2006, police found the nude bodies of three women shot dead and abandoned in secluded areas outside Daytona Beach, Florida. It took 14 years for them to solve the case because new advances in DNA technology.",
+          "url": "https://www.imdb.com/title/tt39013849/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "The Body in the River",
+          "airdate": "2025-11-21",
+          "summary": "Father of four, Gregory Rice vanished without a trace from Myrtle Beach, South Carolina. Weeks later, a fishermen discovered his body wrapped in a tarp in a river. Unraveling a murder mystery steeped in deception and a hidden affair.",
+          "url": "https://www.imdb.com/title/tt39001009/?ref_=ttep_ep_5"
         }
       ]
     }
