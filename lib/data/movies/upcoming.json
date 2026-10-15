@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T09:57:27.882Z",
+  "generatedAt": "2026-10-15T09:39:34.133Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -3856,30 +3856,6 @@
       "label": "Sep 25, 2026"
     },
     {
-      "id": "tt33457310",
-      "title": "Terrifier 4",
-      "image": "https://m.media-amazon.com/images/M/MV5BOGU0NGVlMTctODlmMS00MjdhLWFhOTgtNjkyNDkwMmQ1YzFjXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Thu, 01 Oct 2026 00:00:00 GMT",
-      "genres": [
-        "Horror"
-      ],
-      "people": [
-        {
-          "id": "nm7476686",
-          "name": "David Howard Thornton"
-        },
-        {
-          "id": "nm8367841",
-          "name": "Lauren LaVera"
-        },
-        {
-          "id": "nm9869437",
-          "name": "Elliott Fullam"
-        }
-      ],
-      "label": "Oct 01, 2026"
-    },
-    {
       "id": "tt36590599",
       "title": "The Scout",
       "image": "https://m.media-amazon.com/images/M/MV5BNzJlNDI0NmEtYjU0Yy00NTA0LTkyZDUtMjc1M2VkYzEyNGU1XkEyXkFqcGc@._V1_.jpg",
@@ -4845,16 +4821,16 @@
           "name": "Noah Centineo"
         },
         {
-          "id": "nm2810287",
-          "name": "David Dastmalchian"
-        },
-        {
-          "id": "nm0597388",
-          "name": "Jason Momoa"
+          "id": "nm4010671",
+          "name": "Andrew Koji"
         },
         {
           "id": "nm13153010",
           "name": "Callina Liang"
+        },
+        {
+          "id": "nm2810287",
+          "name": "David Dastmalchian"
         }
       ],
       "label": "Oct 16, 2026"
@@ -5394,6 +5370,36 @@
       "label": "Oct 23, 2026"
     },
     {
+      "id": "tt36103784",
+      "title": "Kung Fu Soccer",
+      "image": "https://m.media-amazon.com/images/M/MV5BODJkYmQ1YTYtMTgwZi00M2NkLThjZGQtNzU1YzAxZGI1YjYwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sport"
+      ],
+      "people": [
+        {
+          "id": "nm11212880",
+          "name": "Xiaofei Zhang"
+        },
+        {
+          "id": "nm7622097",
+          "name": "Dilraba Dilmurat"
+        },
+        {
+          "id": "nm7344694",
+          "name": "Yixing Zhang"
+        },
+        {
+          "id": "nm8661581",
+          "name": "Aimi"
+        }
+      ],
+      "label": "Oct 23, 2026"
+    },
+    {
       "id": "tt45591705",
       "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
       "image": "https://m.media-amazon.com/images/M/MV5BOTlmMTUzY2QtMTIxMy00OTQzLThiZGItZmVjYWM3YThiM2RlXkEyXkFqcGc@._V1_.jpg",
@@ -5592,35 +5598,6 @@
         {
           "id": "nm4489275",
           "name": "Mikey Schaefer"
-        }
-      ],
-      "label": "Oct 30, 2026"
-    },
-    {
-      "id": "tt27541205",
-      "title": "Queen at Sea",
-      "image": "https://m.media-amazon.com/images/M/MV5BNTIxY2M1YjMtNGQ5My00NTZiLTlhOGItNWIxNWY3YmQxNDhmXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "people": [
-        {
-          "id": "nm0000300",
-          "name": "Juliette Binoche"
-        },
-        {
-          "id": "nm0183822",
-          "name": "Tom Courtenay"
-        },
-        {
-          "id": "nm0129492",
-          "name": "Anna Calder-Marshall"
-        },
-        {
-          "id": "nm10808933",
-          "name": "Florence Hunt"
         }
       ],
       "label": "Oct 30, 2026"
@@ -5891,6 +5868,35 @@
       "label": "Nov 05, 2026"
     },
     {
+      "id": "tt27541205",
+      "title": "Queen at Sea",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIxY2M1YjMtNGQ5My00NTZiLTlhOGItNWIxNWY3YmQxNDhmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0000300",
+          "name": "Juliette Binoche"
+        },
+        {
+          "id": "nm0183822",
+          "name": "Tom Courtenay"
+        },
+        {
+          "id": "nm0129492",
+          "name": "Anna Calder-Marshall"
+        },
+        {
+          "id": "nm10808933",
+          "name": "Florence Hunt"
+        }
+      ],
+      "label": "Nov 06, 2026"
+    },
+    {
       "id": "tt15799564",
       "title": "Wild Horse Nine",
       "image": "https://m.media-amazon.com/images/M/MV5BOTlkOGFlYWYtN2VlNC00NjNhLWIxYmMtNDVhZTQ4YmQ4ZTdiXkEyXkFqcGc@._V1_.jpg",
@@ -6071,7 +6077,7 @@
     },
     {
       "id": "tt27988879",
-      "title": "Ramayana",
+      "title": "Ramayana Part 1",
       "image": "https://m.media-amazon.com/images/M/MV5BYWE4NWVmZjItN2Y0ZC00YmMzLThhNWEtM2VkZjA3MmFlNjdmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
@@ -7628,6 +7634,7 @@
     {
       "id": "tt35935357",
       "title": "The Beekeeper 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzA2OTBkNjAtODFiYS00NzM5LTg4NTctMjU1NTk0ODU2ZTZiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 15 Jan 2027 00:00:00 GMT",
       "genres": [
         "Action",
@@ -7865,6 +7872,34 @@
       "label": "Jan 22, 2027"
     },
     {
+      "id": "tt38220998",
+      "title": "A Long Winter",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTBiMzZmNTMtMTg3MC00MjI1LWExMWUtMzFmZWVlMDZhNzFlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 22 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm9538520",
+          "name": "Fred Hechinger"
+        },
+        {
+          "id": "nm0609114",
+          "name": "Ebon Moss-Bachrach"
+        },
+        {
+          "id": "nm5598573",
+          "name": "Kit Connor"
+        },
+        {
+          "id": "nm1495520",
+          "name": "Caitríona Balfe"
+        }
+      ],
+      "label": "Jan 22, 2027"
+    },
+    {
       "id": "tt35893068",
       "title": "Drag",
       "image": "https://m.media-amazon.com/images/M/MV5BMDcxNDZmMTUtZjE1Ni00NmNkLWFjNmUtMTU2NDIzYjY4NTA0XkEyXkFqcGc@._V1_.jpg",
@@ -7968,12 +8003,12 @@
           "name": "Giancarlo Esposito"
         },
         {
-          "id": "nm7248827",
-          "name": "Cynthia Erivo"
+          "id": "nm0131966",
+          "name": "Bill Camp"
         },
         {
-          "id": "nm2113653",
-          "name": "Richard Harmon"
+          "id": "nm7248827",
+          "name": "Cynthia Erivo"
         }
       ],
       "label": "Feb 05, 2027"
@@ -9182,12 +9217,12 @@
       ],
       "people": [
         {
-          "id": "nm7248827",
-          "name": "Cynthia Erivo"
-        },
-        {
           "id": "nm0048389",
           "name": "Dee Bradley Baker"
+        },
+        {
+          "id": "nm7248827",
+          "name": "Cynthia Erivo"
         },
         {
           "id": "nm4735423",
@@ -9893,20 +9928,20 @@
       ],
       "people": [
         {
+          "id": "nm10040186",
+          "name": "Asante Blackk"
+        },
+        {
+          "id": "nm3853652",
+          "name": "Jodie Turner-Smith"
+        },
+        {
+          "id": "nm0000505",
+          "name": "Nia Long"
+        },
+        {
           "id": "nm0254712",
           "name": "Aunjanue Ellis-Taylor"
-        },
-        {
-          "id": "nm1502434",
-          "name": "Leslie Odom Jr."
-        },
-        {
-          "id": "nm4977564",
-          "name": "Storm Reid"
-        },
-        {
-          "id": "nm8023946",
-          "name": "Ceyair J Wright"
         }
       ],
       "label": "Aug 20, 2027"
@@ -10148,6 +10183,30 @@
         }
       ],
       "label": "Oct 01, 2027"
+    },
+    {
+      "id": "tt33457310",
+      "title": "Terrifier 4",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGU0NGVlMTctODlmMS00MjdhLWFhOTgtNjkyNDkwMmQ1YzFjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 08 Oct 2027 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm7476686",
+          "name": "David Howard Thornton"
+        },
+        {
+          "id": "nm8367841",
+          "name": "Lauren LaVera"
+        },
+        {
+          "id": "nm9869437",
+          "name": "Elliott Fullam"
+        }
+      ],
+      "label": "Oct 08, 2027"
     },
     {
       "id": "tt43674934",
