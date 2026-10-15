@@ -1,7 +1,7 @@
 {
   "teamId": "135913",
   "teamName": "Vegas Golden Knights",
-  "updatedAt": "2026-10-14T05:02:33.279Z",
+  "updatedAt": "2026-10-15T21:31:03.866Z",
   "events": [
     {
       "idEvent": "nhl-2026020118",
@@ -1022,8 +1022,8 @@
       "strLeague": "NHL",
       "strVenue": "T-Mobile Arena",
       "strStatus": "NS",
-      "strTVStation": "KCOP-13, Prime Video, SCRIPPS, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "FOXLA+, Prime Video, SCRIPPS, SN+",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026021018",
       "idHomeTeam": "135913",
@@ -1202,8 +1202,8 @@
       "strLeague": "NHL",
       "strVenue": "Honda Center",
       "strStatus": "NS",
-      "strTVStation": "KCOP-13, Prime Video, SCRIPPS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "FOXLA+, Prime Video, SCRIPPS",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026021184",
       "idHomeTeam": "134846",

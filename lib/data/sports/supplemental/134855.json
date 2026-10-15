@@ -1,7 +1,7 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-10-15T04:51:11.191Z",
+  "updatedAt": "2026-10-15T21:31:03.866Z",
   "events": [
     {
       "idEvent": "nhl-2026020119",
@@ -284,8 +284,8 @@
       "strLeague": "NHL",
       "strVenue": "Ball Arena",
       "strStatus": "NS",
-      "strTVStation": "ALT, KCOP-13, KTVD, KUSA, Prime Video, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "ALT, FOXLA+, KTVD, KUSA, Prime Video, TVAS",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026020356",
       "idHomeTeam": "134855",
@@ -1292,8 +1292,8 @@
       "strLeague": "NHL",
       "strVenue": "Honda Center",
       "strStatus": "NS",
-      "strTVStation": "ALT, KCOP-13, Prime Video, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "ALT, FOXLA+, Prime Video, SN",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026021258",
       "idHomeTeam": "134846",

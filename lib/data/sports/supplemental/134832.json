@@ -1,7 +1,7 @@
 {
   "teamId": "134832",
   "teamName": "Detroit Red Wings",
-  "updatedAt": "2026-10-13T22:54:19.802Z",
+  "updatedAt": "2026-10-15T21:31:03.866Z",
   "events": [
     {
       "idEvent": "nhl-2026020110",
@@ -770,8 +770,8 @@
       "strLeague": "NHL",
       "strVenue": "Little Caesars Arena",
       "strStatus": "NS",
-      "strTVStation": "DSN, KCOP-13, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "DSN, FOXLA+, Prime Video",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026020786",
       "idHomeTeam": "134832",
@@ -896,8 +896,8 @@
       "strLeague": "NHL",
       "strVenue": "Honda Center",
       "strStatus": "NS",
-      "strTVStation": "DSN, KCOP-13, Prime Video, SN, SN1, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "DSN, FOXLA+, Prime Video, SN, SN1, TVAS",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026020900",
       "idHomeTeam": "134846",

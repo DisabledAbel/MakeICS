@@ -1,7 +1,7 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-10-14T05:02:33.279Z",
+  "updatedAt": "2026-10-15T21:31:03.866Z",
   "events": [
     {
       "idEvent": "nhl-2026020117",
@@ -302,8 +302,8 @@
       "strLeague": "NHL",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": "KCOP-13, Mammoth+, Prime Video, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
+      "strTVStation": "FOXLA+, Mammoth+, Prime Video, Utah16",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026020370",
       "idHomeTeam": "148494",
@@ -1292,8 +1292,8 @@
       "strLeague": "NHL",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": "KCOP-13, Mammoth+, Prime Video, SN1, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
+      "strTVStation": "FOXLA+, Mammoth+, Prime Video, SN1, Utah16",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026021271",
       "idHomeTeam": "148494",

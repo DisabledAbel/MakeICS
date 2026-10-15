@@ -1,7 +1,7 @@
 {
   "teamId": "134859",
   "teamName": "St. Louis Blues",
-  "updatedAt": "2026-10-14T05:02:33.279Z",
+  "updatedAt": "2026-10-15T21:31:03.866Z",
   "events": [
     {
       "idEvent": "nhl-2026020116",
@@ -752,8 +752,8 @@
       "strLeague": "NHL",
       "strVenue": "Honda Center",
       "strStatus": "NS",
-      "strTVStation": "BN+, KCOP-13, Prime Video, SN, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "BN+, FOXLA+, Prime Video, SN, STLNHL",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026020753",
       "idHomeTeam": "134846",
@@ -1148,8 +1148,8 @@
       "strLeague": "NHL",
       "strVenue": "Enterprise Center",
       "strStatus": "NS",
-      "strTVStation": "BN+, KCOP-13, Prime Video, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "BN+, FOXLA+, Prime Video, STLNHL",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026021123",
       "idHomeTeam": "134859",

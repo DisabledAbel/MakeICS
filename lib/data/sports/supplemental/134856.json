@@ -1,7 +1,7 @@
 {
   "teamId": "134856",
   "teamName": "Dallas Stars",
-  "updatedAt": "2026-10-15T04:51:11.191Z",
+  "updatedAt": "2026-10-15T21:31:03.866Z",
   "events": [
     {
       "idEvent": "nhl-2026020130",
@@ -644,8 +644,8 @@
       "strLeague": "NHL",
       "strVenue": "Honda Center",
       "strStatus": "NS",
-      "strTVStation": "KCOP-13, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "FOXLA+, Prime Video",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026020707",
       "idHomeTeam": "134846",
@@ -1130,8 +1130,8 @@
       "strLeague": "NHL",
       "strVenue": "American Airlines Center",
       "strStatus": "NS",
-      "strTVStation": "KCOP-13, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "FOXLA+, Prime Video",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026021106",
       "idHomeTeam": "134856",

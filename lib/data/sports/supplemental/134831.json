@@ -1,7 +1,7 @@
 {
   "teamId": "134831",
   "teamName": "Buffalo Sabres",
-  "updatedAt": "2026-10-13T22:54:19.802Z",
+  "updatedAt": "2026-10-15T21:31:03.866Z",
   "events": [
     {
       "idEvent": "nhl-2026020108",
@@ -446,8 +446,8 @@
       "strLeague": "NHL",
       "strVenue": "KeyBank Center",
       "strStatus": "NS",
-      "strTVStation": "KCOP-13, MSG-B, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "FOXLA+, MSG-B, Prime Video",
+      "updatedAt": "2026-10-15T21:31:03.866Z",
       "source": "scraped",
       "sourceEventId": "2026020518",
       "idHomeTeam": "134831",
