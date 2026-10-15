@@ -10130,6 +10130,52 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401898404",
+      "uid": "sportsdb-scraped-espn-401898404@makeics.local",
+      "source": "lib/data/sports/supplemental/134861.json",
+      "record": {
+        "idEvent": "scraped-espn-401898404",
+        "strEvent": "Miami Heat vs Brooklyn Nets",
+        "strHomeTeam": "Miami Heat",
+        "strAwayTeam": "Brooklyn Nets",
+        "dateEvent": "2026-10-14",
+        "strTime": "23:30:00",
+        "strTimestamp": "2026-10-14T23:30:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Kaseya Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134882",
+        "idAwayTeam": "134861"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401898405",
+      "uid": "sportsdb-scraped-espn-401898405@makeics.local",
+      "source": "lib/data/sports/supplemental/134860.json",
+      "record": {
+        "idEvent": "scraped-espn-401898405",
+        "strEvent": "Boston Celtics vs Charlotte Hornets",
+        "strHomeTeam": "Boston Celtics",
+        "strAwayTeam": "Charlotte Hornets",
+        "dateEvent": "2026-10-14",
+        "strTime": "23:30:00",
+        "strTimestamp": "2026-10-14T23:30:00Z",
+        "strLeague": "NBA",
+        "strVenue": "TD Garden",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134860",
+        "idAwayTeam": "134881"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401898716",
       "uid": "sportsdb-scraped-espn-401898716@makeics.local",
       "source": "lib/data/sports/supplemental/134867.json",
@@ -10241,6 +10287,29 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401898722",
+      "uid": "sportsdb-scraped-espn-401898722@makeics.local",
+      "source": "lib/data/sports/supplemental/134868.json",
+      "record": {
+        "idEvent": "scraped-espn-401898722",
+        "strEvent": "San Antonio Spurs vs Phoenix Suns",
+        "strHomeTeam": "San Antonio Spurs",
+        "strAwayTeam": "Phoenix Suns",
+        "dateEvent": "2026-10-14",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-15T00:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Frost Bank Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134879",
+        "idAwayTeam": "134868"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401901820",
       "uid": "sportsdb-scraped-espn-401901820@makeics.local",
       "source": "lib/data/sports/supplemental/134861.json",
@@ -10325,6 +10394,29 @@
         "source": "scraped",
         "idHomeTeam": "134884",
         "idAwayTeam": "134861"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401901825",
+      "uid": "sportsdb-scraped-espn-401901825@makeics.local",
+      "source": "lib/data/sports/supplemental/134875.json",
+      "record": {
+        "idEvent": "scraped-espn-401901825",
+        "strEvent": "Dallas Mavericks vs New Orleans Pelicans",
+        "strHomeTeam": "Dallas Mavericks",
+        "strAwayTeam": "New Orleans Pelicans",
+        "dateEvent": "2026-10-14",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-15T00:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "American Airlines Center",
+        "strStatus": "NS",
+        "strTVStation": "NBA TV",
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134875",
+        "idAwayTeam": "134878"
       }
     },
     {
@@ -10528,6 +10620,29 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401908942",
+      "uid": "sportsdb-scraped-espn-401908942@makeics.local",
+      "source": "lib/data/sports/supplemental/134870.json",
+      "record": {
+        "idEvent": "scraped-espn-401908942",
+        "strEvent": "Milwaukee Bucks vs Chicago Bulls",
+        "strHomeTeam": "Milwaukee Bucks",
+        "strAwayTeam": "Chicago Bulls",
+        "dateEvent": "2026-10-14",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-15T00:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Fiserv Forum",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134874",
+        "idAwayTeam": "134870"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401908944",
       "uid": "sportsdb-scraped-espn-401908944@makeics.local",
       "source": "lib/data/sports/supplemental/134862.json",
@@ -10658,6 +10773,29 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401914125",
+      "uid": "sportsdb-scraped-espn-401914125@makeics.local",
+      "source": "lib/data/sports/supplemental/134872.json",
+      "record": {
+        "idEvent": "scraped-espn-401914125",
+        "strEvent": "Minnesota Timberwolves vs Detroit Pistons",
+        "strHomeTeam": "Minnesota Timberwolves",
+        "strAwayTeam": "Detroit Pistons",
+        "dateEvent": "2026-10-14",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-10-15T00:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Target Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134886",
+        "idAwayTeam": "134872"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401914127",
       "uid": "sportsdb-scraped-espn-401914127@makeics.local",
       "source": "lib/data/sports/supplemental/134885.json",
@@ -10738,6 +10876,29 @@
         "strTVStation": null,
         "updatedAt": "2026-09-28T22:57:23.599Z",
         "source": "scraped"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401918011",
+      "uid": "sportsdb-scraped-espn-401918011@makeics.local",
+      "source": "lib/data/sports/supplemental/134866.json",
+      "record": {
+        "idEvent": "scraped-espn-401918011",
+        "strEvent": "Los Angeles Clippers vs Denver Nuggets",
+        "strHomeTeam": "Los Angeles Clippers",
+        "strAwayTeam": "Denver Nuggets",
+        "dateEvent": "2026-10-14",
+        "strTime": "02:30:00",
+        "strTimestamp": "2026-10-15T02:30:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Intuit Dome",
+        "strStatus": "NS",
+        "strTVStation": "NBA TV",
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134866",
+        "idAwayTeam": "134885"
       }
     },
     {

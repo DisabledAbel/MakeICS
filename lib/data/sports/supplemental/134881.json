@@ -1,25 +1,8 @@
 {
   "teamId": "134881",
   "teamName": "Charlotte Hornets",
-  "updatedAt": "2026-10-12T04:28:51.571Z",
+  "updatedAt": "2026-10-15T03:20:35.981Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898405",
-      "strEvent": "Boston Celtics vs Charlotte Hornets",
-      "strHomeTeam": "Boston Celtics",
-      "strAwayTeam": "Charlotte Hornets",
-      "dateEvent": "2026-10-14",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-14T23:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134860",
-      "idAwayTeam": "134881"
-    },
     {
       "idEvent": "scraped-espn-401901822",
       "strEvent": "Memphis Grizzlies vs Charlotte Hornets",

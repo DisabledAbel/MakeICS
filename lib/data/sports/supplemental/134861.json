@@ -1,25 +1,8 @@
 {
   "teamId": "134861",
   "teamName": "Brooklyn Nets",
-  "updatedAt": "2026-10-13T00:11:02.010Z",
+  "updatedAt": "2026-10-15T03:20:35.981Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898404",
-      "strEvent": "Miami Heat vs Brooklyn Nets",
-      "strHomeTeam": "Miami Heat",
-      "strAwayTeam": "Brooklyn Nets",
-      "dateEvent": "2026-10-14",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-14T23:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Kaseya Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134882",
-      "idAwayTeam": "134861"
-    },
     {
       "idEvent": "scraped-espn-401909836",
       "strEvent": "Brooklyn Nets vs Charlotte Hornets",

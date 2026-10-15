@@ -1,25 +1,8 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-10-11T04:10:41.141Z",
+  "updatedAt": "2026-10-15T03:20:35.981Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401918011",
-      "strEvent": "Los Angeles Clippers vs Denver Nuggets",
-      "strHomeTeam": "Los Angeles Clippers",
-      "strAwayTeam": "Denver Nuggets",
-      "dateEvent": "2026-10-14",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-15T02:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Intuit Dome",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134866",
-      "idAwayTeam": "134885"
-    },
     {
       "idEvent": "scraped-espn-401909842",
       "strEvent": "Los Angeles Clippers vs Sacramento Kings",

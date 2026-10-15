@@ -1,25 +1,8 @@
 {
   "teamId": "134874",
   "teamName": "Milwaukee Bucks",
-  "updatedAt": "2026-10-12T04:28:51.571Z",
+  "updatedAt": "2026-10-15T03:20:35.981Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401908942",
-      "strEvent": "Milwaukee Bucks vs Chicago Bulls",
-      "strHomeTeam": "Milwaukee Bucks",
-      "strAwayTeam": "Chicago Bulls",
-      "dateEvent": "2026-10-14",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-15T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Fiserv Forum",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134874",
-      "idAwayTeam": "134870"
-    },
     {
       "idEvent": "scraped-espn-401914126",
       "strEvent": "Indiana Pacers vs Milwaukee Bucks",
