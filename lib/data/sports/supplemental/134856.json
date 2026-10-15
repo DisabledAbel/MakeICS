@@ -1,26 +1,8 @@
 {
   "teamId": "134856",
   "teamName": "Dallas Stars",
-  "updatedAt": "2026-10-14T05:02:33.279Z",
+  "updatedAt": "2026-10-15T04:51:11.191Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020107",
-      "strEvent": "Colorado Avalanche vs Dallas Stars",
-      "strHomeTeam": "Colorado Avalanche",
-      "strAwayTeam": "Dallas Stars",
-      "dateEvent": "2026-10-14",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-15T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020107",
-      "idHomeTeam": "134855",
-      "idAwayTeam": "134856"
-    },
     {
       "idEvent": "nhl-2026020130",
       "strEvent": "Chicago Blackhawks vs Dallas Stars",
