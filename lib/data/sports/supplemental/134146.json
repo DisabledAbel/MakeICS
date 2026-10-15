@@ -1,26 +1,8 @@
 {
   "teamId": "134146",
   "teamName": "FC Dallas",
-  "updatedAt": "2026-10-11T06:14:42.936Z",
+  "updatedAt": "2026-10-15T05:01:54.467Z",
   "events": [
-    {
-      "idEvent": "mls-761867",
-      "sourceEventId": "761867",
-      "strEvent": "FC Dallas vs Seattle Sounders",
-      "strHomeTeam": "FC Dallas",
-      "strAwayTeam": "Seattle Sounders",
-      "idHomeTeam": "134146",
-      "idAwayTeam": "134149",
-      "dateEvent": "2026-10-15",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-15T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Toyota Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761883",
       "sourceEventId": "761883",

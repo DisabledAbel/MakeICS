@@ -1,26 +1,8 @@
 {
   "teamId": "137700",
   "teamName": "Nashville SC",
-  "updatedAt": "2026-10-11T06:14:42.936Z",
+  "updatedAt": "2026-10-15T05:01:54.467Z",
   "events": [
-    {
-      "idEvent": "mls-761866",
-      "sourceEventId": "761866",
-      "strEvent": "Nashville SC vs Sporting Kansas City",
-      "strHomeTeam": "Nashville SC",
-      "strAwayTeam": "Sporting Kansas City",
-      "idHomeTeam": "137700",
-      "idAwayTeam": "134143",
-      "dateEvent": "2026-10-15",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-15T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "GEODIS Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761886",
       "sourceEventId": "761886",

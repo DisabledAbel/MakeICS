@@ -1,26 +1,8 @@
 {
   "teamId": "134144",
   "teamName": "Houston Dynamo",
-  "updatedAt": "2026-10-12T15:56:25.087Z",
+  "updatedAt": "2026-10-15T05:01:54.467Z",
   "events": [
-    {
-      "idEvent": "mls-761872",
-      "sourceEventId": "761872",
-      "strEvent": "San Diego FC vs Houston Dynamo",
-      "strHomeTeam": "San Diego FC",
-      "strAwayTeam": "Houston Dynamo",
-      "idHomeTeam": "150261",
-      "idAwayTeam": "134144",
-      "dateEvent": "2026-10-15",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-15T02:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Snapdragon Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761883",
       "sourceEventId": "761883",

@@ -1,26 +1,8 @@
 {
   "teamId": "134145",
   "teamName": "D.C. United",
-  "updatedAt": "2026-10-11T06:14:42.936Z",
+  "updatedAt": "2026-10-15T05:01:54.467Z",
   "events": [
-    {
-      "idEvent": "mls-761863",
-      "sourceEventId": "761863",
-      "strEvent": "D.C. United vs New York Red Bulls",
-      "strHomeTeam": "D.C. United",
-      "strAwayTeam": "New York Red Bulls",
-      "idHomeTeam": "134145",
-      "idAwayTeam": "134156",
-      "dateEvent": "2026-10-14",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-14T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Audi Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761881",
       "sourceEventId": "761881",

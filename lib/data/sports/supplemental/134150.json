@@ -1,26 +1,8 @@
 {
   "teamId": "134150",
   "teamName": "CF Montréal",
-  "updatedAt": "2026-10-10T21:56:10.305Z",
+  "updatedAt": "2026-10-15T05:01:54.467Z",
   "events": [
-    {
-      "idEvent": "mls-761864",
-      "sourceEventId": "761864",
-      "strEvent": "CF Montréal vs Atlanta United",
-      "strHomeTeam": "CF Montréal",
-      "strAwayTeam": "Atlanta United",
-      "idHomeTeam": "134150",
-      "idAwayTeam": "135851",
-      "dateEvent": "2026-10-14",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-14T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Stade Saputo",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761885",
       "sourceEventId": "761885",

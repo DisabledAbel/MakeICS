@@ -1,26 +1,8 @@
 {
   "teamId": "134157",
   "teamName": "San Jose Earthquakes",
-  "updatedAt": "2026-10-11T06:14:42.936Z",
+  "updatedAt": "2026-10-15T05:01:54.467Z",
   "events": [
-    {
-      "idEvent": "mls-761870",
-      "sourceEventId": "761870",
-      "strEvent": "Real Salt Lake vs San Jose Earthquakes",
-      "strHomeTeam": "Real Salt Lake",
-      "strAwayTeam": "San Jose Earthquakes",
-      "idHomeTeam": "134158",
-      "idAwayTeam": "134157",
-      "dateEvent": "2026-10-15",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-10-15T01:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "America First Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761886",
       "sourceEventId": "761886",

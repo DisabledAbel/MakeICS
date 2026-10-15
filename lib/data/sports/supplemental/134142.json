@@ -1,26 +1,8 @@
 {
   "teamId": "134142",
   "teamName": "Philadelphia Union",
-  "updatedAt": "2026-10-11T06:14:42.936Z",
+  "updatedAt": "2026-10-15T05:01:54.467Z",
   "events": [
-    {
-      "idEvent": "mls-761869",
-      "sourceEventId": "761869",
-      "strEvent": "Chicago Fire vs Philadelphia Union",
-      "strHomeTeam": "Chicago Fire",
-      "strAwayTeam": "Philadelphia Union",
-      "idHomeTeam": "134154",
-      "idAwayTeam": "134142",
-      "dateEvent": "2026-10-15",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-15T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Soldier Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761875",
       "sourceEventId": "761875",

@@ -1,26 +1,8 @@
 {
   "teamId": "134148",
   "teamName": "Toronto FC",
-  "updatedAt": "2026-10-10T21:56:10.305Z",
+  "updatedAt": "2026-10-15T05:01:54.467Z",
   "events": [
-    {
-      "idEvent": "mls-761860",
-      "sourceEventId": "761860",
-      "strEvent": "Toronto FC vs Orlando City",
-      "strHomeTeam": "Toronto FC",
-      "strAwayTeam": "Orlando City",
-      "idHomeTeam": "134148",
-      "idAwayTeam": "135292",
-      "dateEvent": "2026-10-14",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-14T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "BMO Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761878",
       "sourceEventId": "761878",

@@ -1,26 +1,8 @@
 {
   "teamId": "134153",
   "teamName": "LA Galaxy",
-  "updatedAt": "2026-10-12T06:22:04.701Z",
+  "updatedAt": "2026-10-15T05:01:54.467Z",
   "events": [
-    {
-      "idEvent": "mls-761874",
-      "sourceEventId": "761874",
-      "strEvent": "LA Galaxy vs Portland Timbers",
-      "strHomeTeam": "LA Galaxy",
-      "strAwayTeam": "Portland Timbers",
-      "idHomeTeam": "134153",
-      "idAwayTeam": "134155",
-      "dateEvent": "2026-10-15",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-15T02:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Dignity Health Sports Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761887",
       "sourceEventId": "761887",

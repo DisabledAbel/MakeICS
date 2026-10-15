@@ -1,26 +1,8 @@
 {
   "teamId": "136050",
   "teamName": "Los Angeles FC",
-  "updatedAt": "2026-10-11T06:14:42.936Z",
+  "updatedAt": "2026-10-15T05:01:54.467Z",
   "events": [
-    {
-      "idEvent": "mls-761873",
-      "sourceEventId": "761873",
-      "strEvent": "Los Angeles FC vs Austin FC",
-      "strHomeTeam": "Los Angeles FC",
-      "strAwayTeam": "Austin FC",
-      "idHomeTeam": "136050",
-      "idAwayTeam": "140079",
-      "dateEvent": "2026-10-15",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-15T02:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "BMO Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761877",
       "sourceEventId": "761877",

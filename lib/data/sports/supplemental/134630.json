@@ -1,26 +1,8 @@
 {
   "teamId": "134630",
   "teamName": "New York City FC",
-  "updatedAt": "2026-10-10T21:56:10.305Z",
+  "updatedAt": "2026-10-15T05:01:54.467Z",
   "events": [
-    {
-      "idEvent": "mls-761861",
-      "sourceEventId": "761861",
-      "strEvent": "Inter Miami vs New York City FC",
-      "strHomeTeam": "Inter Miami",
-      "strAwayTeam": "New York City FC",
-      "idHomeTeam": "137699",
-      "idAwayTeam": "134630",
-      "dateEvent": "2026-10-14",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-14T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Nu Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761877",
       "sourceEventId": "761877",
