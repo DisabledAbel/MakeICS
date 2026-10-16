@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T09:39:34.133Z",
+  "generatedAt": "2026-10-16T09:32:53.606Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5363,8 +5363,8 @@
           "name": "Jackie Kelly"
         },
         {
-          "id": "nm5078893",
-          "name": "Brock Russell"
+          "id": "nm4576069",
+          "name": "Jazmin Ortiz"
         }
       ],
       "label": "Oct 23, 2026"
@@ -5484,6 +5484,35 @@
         {
           "id": "nm2352362",
           "name": "Paige McGarvin"
+        }
+      ],
+      "label": "Oct 28, 2026"
+    },
+    {
+      "id": "tt37815334",
+      "title": "The Eyes of Ghana",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmM3ODQ0OWItNzcyOC00MmRhLTlhNjAtYjgyNTY2OTVmMjg4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 28 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Biography"
+      ],
+      "people": [
+        {
+          "id": "nm13694396",
+          "name": "Edmund Addo"
+        },
+        {
+          "id": "nm10070104",
+          "name": "Anita Afonu"
+        },
+        {
+          "id": "nm17672384",
+          "name": "Chris Hesse"
+        },
+        {
+          "id": "nm1213645",
+          "name": "Kwame Nkrumah"
         }
       ],
       "label": "Oct 28, 2026"
@@ -5811,7 +5840,7 @@
     {
       "id": "tt40210362",
       "title": "The Last Temptation of Becky",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTQyODE1ZjUtMzNlNy00MjRlLWIxOTItODYwM2IyYTg4NTQ1XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGQ1N2UxMjUtOGJmMS00MWVmLWI4NTMtMzEyMmMyMTg0OWFkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 04 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -6077,7 +6106,7 @@
     },
     {
       "id": "tt27988879",
-      "title": "Ramayana Part 1",
+      "title": "Ramayana: Rise of a Legend",
       "image": "https://m.media-amazon.com/images/M/MV5BYWE4NWVmZjItN2Y0ZC00YmMzLThhNWEtM2VkZjA3MmFlNjdmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
@@ -7032,7 +7061,7 @@
     {
       "id": "tt32321285",
       "title": "Josephine",
-      "image": "https://m.media-amazon.com/images/M/MV5BYWU1MGI3OTMtNTBiZi00NDM1LWEzNTAtOWM3YzY3ZGFjMTdiXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmJhNWQ1NWUtMDhkMi00NmIxLTk5ZGItY2JkOTQ3NTE0OWY3XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
       "genres": [
         "Crime",
@@ -7359,7 +7388,7 @@
     {
       "id": "tt28228084",
       "title": "King",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDI0NDI1ZGUtNDI4MS00OWQxLWE0ZDgtYTViYmIwODdmZTdiXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTBiZjk4ZWEtNzY4OS00YWFmLWE0ODEtZjI3ZGRkNjExMGE0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Thu, 24 Dec 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -9195,12 +9224,12 @@
           "name": "Sonia Mena"
         },
         {
-          "id": "nm0625334",
-          "name": "Drew Nelson"
-        },
-        {
           "id": "nm11071631",
           "name": "Seled Calderon"
+        },
+        {
+          "id": "nm3524780",
+          "name": "Chase Yi"
         }
       ],
       "label": "May 21, 2027"
@@ -9217,6 +9246,10 @@
       ],
       "people": [
         {
+          "id": "nm2676147",
+          "name": "Jonathan Groff"
+        },
+        {
           "id": "nm0048389",
           "name": "Dee Bradley Baker"
         },
@@ -9227,10 +9260,6 @@
         {
           "id": "nm4735423",
           "name": "James Acaster"
-        },
-        {
-          "id": "nm6967441",
-          "name": "Ncuti Gatwa"
         }
       ],
       "label": "May 21, 2027"
