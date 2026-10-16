@@ -3,37 +3,13 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { fetchScheduleFromWebsite, closeBrowser } from '../lib/scraper.js';
 import { normalizeScrapedEvent } from '../lib/sports.js';
+import { teamsFromWNBASchedule } from './wnba-team-source.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SUPPLEMENTAL_DATA_DIR = path.join(__dirname, '../lib/data/sports/supplemental');
-const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/123';
 const CURRENT_YEAR = new Date().getFullYear();
 const WNBA_SCHEDULE_CSV_URL = `https://github.com/sportsdataverse/sportsdataverse-data/releases/download/espn_wnba_schedules/wnba_schedule_${CURRENT_YEAR}.csv`;
 const FETCH_TIMEOUT_MS = 15000;
-
-async function fetchJson(url) {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
-
-  try {
-    const response = await fetch(url, {
-      signal: controller.signal,
-      headers: {
-        Accept: 'application/json',
-        'User-Agent': 'MakeICS-WNBA-Fetcher/1.0'
-      }
-    });
-    if (!response.ok) throw new Error(`HTTP ${response.status} for ${url}`);
-    return await response.json();
-  } catch (error) {
-    if (error.name === 'AbortError') {
-      throw new Error(`Request timed out for ${url} after ${FETCH_TIMEOUT_MS}ms`);
-    }
-    throw error;
-  } finally {
-    clearTimeout(timeout);
-  }
-}
 
 async function fetchWNBACSV() {
   console.log(`Fetching WNBA supplemental data from SportsDataverse: ${WNBA_SCHEDULE_CSV_URL}`);
@@ -169,19 +145,18 @@ async function main() {
   await fs.mkdir(SUPPLEMENTAL_DATA_DIR, { recursive: true });
 
   try {
-    // 1. Fetch WNBA teams from TheSportsDB
-    console.log('Fetching WNBA teams...');
-    const teamsData = await fetchJson(`${SPORTSDB_BASE_URL}/search_all_teams.php?l=WNBA`);
-    const teams = teamsData.teams || [];
-    console.log(`Found ${teams.length} WNBA teams.`);
-
-    // 2. Fetch CSV schedule
+    // Derive the full 15-team roster from the season schedule; the free
+    // TheSportsDB team endpoint only returns 10 teams.
     const globalGames = await fetchWNBACSV();
     console.log(`Found ${globalGames.length} games in WNBA CSV.`);
 
     if (globalGames.length === 0) {
       throw new Error('No games found in WNBA CSV. Failing fast to prevent incomplete data.');
     }
+
+    // Validate every franchise before writing any team data.
+    const teams = teamsFromWNBASchedule(globalGames);
+    console.log(`Found all ${teams.length} WNBA teams in the schedule.`);
 
     // 3. Process each team
     for (const team of teams) {
