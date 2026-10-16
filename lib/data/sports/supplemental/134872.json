@@ -1,25 +1,8 @@
 {
   "teamId": "134872",
   "teamName": "Detroit Pistons",
-  "updatedAt": "2026-10-15T03:20:35.981Z",
+  "updatedAt": "2026-10-16T23:52:54.266Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401908946",
-      "strEvent": "Detroit Pistons vs Toronto Raptors",
-      "strHomeTeam": "Detroit Pistons",
-      "strAwayTeam": "Toronto Raptors",
-      "dateEvent": "2026-10-16",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-16T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134872",
-      "idAwayTeam": "134864"
-    },
     {
       "idEvent": "scraped-espn-401909088",
       "strEvent": "Detroit Pistons vs Boston Celtics",

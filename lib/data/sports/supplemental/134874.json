@@ -1,25 +1,8 @@
 {
   "teamId": "134874",
   "teamName": "Milwaukee Bucks",
-  "updatedAt": "2026-10-16T16:08:06.566Z",
+  "updatedAt": "2026-10-16T23:52:54.266Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401914126",
-      "strEvent": "Indiana Pacers vs Milwaukee Bucks",
-      "strHomeTeam": "Indiana Pacers",
-      "strAwayTeam": "Milwaukee Bucks",
-      "dateEvent": "2026-10-16",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-16T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Gainbridge Fieldhouse",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134873",
-      "idAwayTeam": "134874"
-    },
     {
       "idEvent": "scraped-espn-401909835",
       "strEvent": "Washington Wizards vs Milwaukee Bucks",

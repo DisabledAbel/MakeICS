@@ -10848,6 +10848,52 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401898406",
+      "uid": "sportsdb-scraped-espn-401898406@makeics.local",
+      "source": "lib/data/sports/supplemental/134882.json",
+      "record": {
+        "idEvent": "scraped-espn-401898406",
+        "strEvent": "Orlando Magic vs Miami Heat",
+        "strHomeTeam": "Orlando Magic",
+        "strAwayTeam": "Miami Heat",
+        "dateEvent": "2026-10-16",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-16T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Kia Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134883",
+        "idAwayTeam": "134882"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401898407",
+      "uid": "sportsdb-scraped-espn-401898407@makeics.local",
+      "source": "lib/data/sports/supplemental/134860.json",
+      "record": {
+        "idEvent": "scraped-espn-401898407",
+        "strEvent": "Philadelphia 76ers vs Boston Celtics",
+        "strHomeTeam": "Philadelphia 76ers",
+        "strAwayTeam": "Boston Celtics",
+        "dateEvent": "2026-10-16",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-16T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Xfinity Mobile Arena",
+        "strStatus": "NS",
+        "strTVStation": "NBA TV",
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134863",
+        "idAwayTeam": "134860"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401898716",
       "uid": "sportsdb-scraped-espn-401898716@makeics.local",
       "source": "lib/data/sports/supplemental/134867.json",
@@ -11384,6 +11430,29 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401908946",
+      "uid": "sportsdb-scraped-espn-401908946@makeics.local",
+      "source": "lib/data/sports/supplemental/134864.json",
+      "record": {
+        "idEvent": "scraped-espn-401908946",
+        "strEvent": "Detroit Pistons vs Toronto Raptors",
+        "strHomeTeam": "Detroit Pistons",
+        "strAwayTeam": "Toronto Raptors",
+        "dateEvent": "2026-10-16",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-16T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Little Caesars Arena",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134872",
+        "idAwayTeam": "134864"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401908947",
       "uid": "sportsdb-scraped-espn-401908947@makeics.local",
       "source": "lib/data/sports/supplemental/134868.json",
@@ -11510,6 +11579,29 @@
         "source": "scraped",
         "idHomeTeam": "134886",
         "idAwayTeam": "134872"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401914126",
+      "uid": "sportsdb-scraped-espn-401914126@makeics.local",
+      "source": "lib/data/sports/supplemental/134873.json",
+      "record": {
+        "idEvent": "scraped-espn-401914126",
+        "strEvent": "Indiana Pacers vs Milwaukee Bucks",
+        "strHomeTeam": "Indiana Pacers",
+        "strAwayTeam": "Milwaukee Bucks",
+        "dateEvent": "2026-10-16",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-16T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Gainbridge Fieldhouse",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134873",
+        "idAwayTeam": "134874"
       }
     },
     {
