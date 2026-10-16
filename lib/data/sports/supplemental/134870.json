@@ -1,7 +1,7 @@
 {
   "teamId": "134870",
   "teamName": "Chicago Bulls",
-  "updatedAt": "2026-10-15T03:20:35.981Z",
+  "updatedAt": "2026-10-16T16:08:06.566Z",
   "events": [
     {
       "idEvent": "scraped-espn-401908943",
@@ -43,13 +43,13 @@
       "strHomeTeam": "Milwaukee Bucks",
       "strAwayTeam": "Chicago Bulls",
       "dateEvent": "2026-10-23",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-24T00:00:00Z",
+      "strTime": "20:00:00",
+      "strTimestamp": "2026-10-23T20:00:00Z",
       "strLeague": "NBA",
       "strVenue": "Fiserv Forum",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "updatedAt": "2026-10-16T16:08:06.566Z",
       "source": "scraped",
       "idHomeTeam": "134874",
       "idAwayTeam": "134870"
