@@ -20,7 +20,7 @@ function sanitizeScores(events) {
   }
   return events;
 }
-const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/3';
+const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/123';
 const FETCH_TIMEOUT_MS = 15000;
 const MAX_RETRIES = 5;
 const INITIAL_BACKOFF_MS = 2000;
