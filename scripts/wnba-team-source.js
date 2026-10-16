@@ -25,7 +25,7 @@ export function teamsFromWNBASchedule(games) {
     for (const [name, rawId] of [[game.homeTeam, game.homeId], [game.awayTeam, game.awayId]]) {
       if (!WNBA_FRANCHISE_IDS.has(name)) continue;
       const id = String(rawId ?? '').trim();
-      if (!/^\\d+$/.test(id)) throw new Error(`Missing ESPN team ID for ${name}`);
+      if (!/^\d+$/.test(id)) throw new Error(`Missing ESPN team ID for ${name}`);
       if (scheduleIds.has(name) && scheduleIds.get(name) !== id) {
         throw new Error(`Conflicting ESPN team IDs for ${name}`);
       }
