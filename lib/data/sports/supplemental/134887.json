@@ -1,25 +1,8 @@
 {
   "teamId": "134887",
   "teamName": "Oklahoma City Thunder",
-  "updatedAt": "2026-10-14T03:39:37.009Z",
+  "updatedAt": "2026-10-16T03:15:47.908Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401908622",
-      "strEvent": "Houston Rockets vs Oklahoma City Thunder",
-      "strHomeTeam": "Houston Rockets",
-      "strAwayTeam": "Oklahoma City Thunder",
-      "dateEvent": "2026-10-15",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-16T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Toyota Center (Houston)",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134876",
-      "idAwayTeam": "134887"
-    },
     {
       "idEvent": "scraped-espn-401909090",
       "strEvent": "San Antonio Spurs vs Oklahoma City Thunder",
