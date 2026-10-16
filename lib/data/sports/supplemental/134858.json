@@ -1,26 +1,8 @@
 {
   "teamId": "134858",
   "teamName": "Nashville Predators",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-16T04:41:35.783Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020115",
-      "strEvent": "Nashville Predators vs San Jose Sharks",
-      "strHomeTeam": "Nashville Predators",
-      "strAwayTeam": "San Jose Sharks",
-      "dateEvent": "2026-10-15",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-16T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Bridgestone Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBCSCA, SCRIPPS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020115",
-      "idHomeTeam": "134858",
-      "idAwayTeam": "134853"
-    },
     {
       "idEvent": "nhl-2026020131",
       "strEvent": "Nashville Predators vs St. Louis Blues",

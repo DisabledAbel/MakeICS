@@ -1,26 +1,8 @@
 {
   "teamId": "140082",
   "teamName": "Seattle Kraken",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-16T04:41:35.783Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020111",
-      "strEvent": "Tampa Bay Lightning vs Seattle Kraken",
-      "strHomeTeam": "Tampa Bay Lightning",
-      "strAwayTeam": "Seattle Kraken",
-      "dateEvent": "2026-10-15",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-15T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Benchmark International Arena",
-      "strStatus": "NS",
-      "strTVStation": "KONG, Prime Video, The Spot",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020111",
-      "idHomeTeam": "134836",
-      "idAwayTeam": "140082"
-    },
     {
       "idEvent": "nhl-2026020124",
       "strEvent": "Florida Panthers vs Seattle Kraken",

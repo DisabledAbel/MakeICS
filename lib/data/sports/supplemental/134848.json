@@ -1,26 +1,8 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-16T04:41:35.783Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020118",
-      "strEvent": "Vegas Golden Knights vs Calgary Flames",
-      "strHomeTeam": "Vegas Golden Knights",
-      "strAwayTeam": "Calgary Flames",
-      "dateEvent": "2026-10-15",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-16T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "T-Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "SCRIPPS, SN1, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020118",
-      "idHomeTeam": "135913",
-      "idAwayTeam": "134848"
-    },
     {
       "idEvent": "nhl-2026020136",
       "strEvent": "Calgary Flames vs Carolina Hurricanes",

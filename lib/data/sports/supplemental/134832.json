@@ -1,26 +1,8 @@
 {
   "teamId": "134832",
   "teamName": "Detroit Red Wings",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-16T04:41:35.783Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020110",
-      "strEvent": "Detroit Red Wings vs Philadelphia Flyers",
-      "strHomeTeam": "Detroit Red Wings",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-10-15",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-15T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020110",
-      "idHomeTeam": "134832",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020127",
       "strEvent": "Detroit Red Wings vs San Jose Sharks",

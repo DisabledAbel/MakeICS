@@ -1,26 +1,8 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-16T04:41:35.783Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020117",
-      "strEvent": "Edmonton Oilers vs Utah Mammoth",
-      "strHomeTeam": "Edmonton Oilers",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-10-15",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-16T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Place",
-      "strStatus": "NS",
-      "strTVStation": "Mammoth+, SNW, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
-      "source": "scraped",
-      "sourceEventId": "2026020117",
-      "idHomeTeam": "134849",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020133",
       "strEvent": "Utah Mammoth vs Edmonton Oilers",

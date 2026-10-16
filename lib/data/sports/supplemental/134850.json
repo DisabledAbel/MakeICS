@@ -1,26 +1,8 @@
 {
   "teamId": "134850",
   "teamName": "Vancouver Canucks",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-16T04:41:35.783Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020112",
-      "strEvent": "Florida Panthers vs Vancouver Canucks",
-      "strHomeTeam": "Florida Panthers",
-      "strAwayTeam": "Vancouver Canucks",
-      "dateEvent": "2026-10-15",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-15T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Amerant Bank Arena",
-      "strStatus": "NS",
-      "strTVStation": "SCRIPPS, SNP, TVAS",
-      "updatedAt": "2026-10-07T06:09:51.884Z",
-      "source": "scraped",
-      "sourceEventId": "2026020112",
-      "idHomeTeam": "134833",
-      "idAwayTeam": "134850"
-    },
     {
       "idEvent": "nhl-2026020123",
       "strEvent": "Tampa Bay Lightning vs Vancouver Canucks",

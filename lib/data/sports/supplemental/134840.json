@@ -1,26 +1,8 @@
 {
   "teamId": "134840",
   "teamName": "New Jersey Devils",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-16T04:41:35.783Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020113",
-      "strEvent": "New Jersey Devils vs New York Rangers",
-      "strHomeTeam": "New Jersey Devils",
-      "strAwayTeam": "New York Rangers",
-      "dateEvent": "2026-10-15",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-15T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Prudential Center",
-      "strStatus": "NS",
-      "strTVStation": "MSG, MSGSN2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020113",
-      "idHomeTeam": "134840",
-      "idAwayTeam": "134842"
-    },
     {
       "idEvent": "nhl-2026020121",
       "strEvent": "Washington Capitals vs New Jersey Devils",

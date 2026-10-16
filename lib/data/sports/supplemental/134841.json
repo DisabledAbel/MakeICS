@@ -1,26 +1,8 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-16T04:41:35.783Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020109",
-      "strEvent": "Ottawa Senators vs New York Islanders",
-      "strHomeTeam": "Ottawa Senators",
-      "strAwayTeam": "New York Islanders",
-      "dateEvent": "2026-10-15",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-15T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canadian Tire Centre",
-      "strStatus": "NS",
-      "strTVStation": "MSGSN, RDS, TSN5",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020109",
-      "idHomeTeam": "134835",
-      "idAwayTeam": "134841"
-    },
     {
       "idEvent": "nhl-2026020125",
       "strEvent": "Toronto Maple Leafs vs New York Islanders",
