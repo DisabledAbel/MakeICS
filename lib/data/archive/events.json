@@ -86101,6 +86101,22 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt0159876:https://www.imdb.com/title/tt8069966/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt8069966/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 52,
+        "number": 15,
+        "name": "Next to Normal",
+        "airdate": "2025-05-09",
+        "summary": "A mother struggles with worsening bipolar disorder and the effects that her illness and its management have had on her family.",
+        "url": "https://www.imdb.com/title/tt8069966/?ref_=ttep_ep_15",
+        "showId": "tt0159876",
+        "showName": "Great Performances"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt0227972:https://www.imdb.com/title/tt30576406/?ref_=ttep_ep_1",
       "uid": "tvmaze-https://www.imdb.com/title/tt30576406/?ref_=ttep_ep_1@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
