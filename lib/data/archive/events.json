@@ -78957,6 +78957,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-aa94cffe-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aa94cffe-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134949.json",
+      "record": {
+        "idEvent": "sdv-nfl-aa94cffe-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Denver Broncos vs Seattle Seahawks",
+        "strHomeTeam": "Denver Broncos",
+        "strAwayTeam": "Seattle Seahawks",
+        "dateEvent": "2026-10-16",
+        "strTime": "00:15:00Z",
+        "strTimestamp": "2026-10-16T00:15:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Empower Field at Mile High",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-aab577eb-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-aab577eb-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134938.json",
