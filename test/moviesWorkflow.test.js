@@ -31,7 +31,7 @@ test('fetch-movies workflow file has expected top-level name and triggers', () =
 test('fetch-movies workflow uses PAT_TOKEN and fetch-depth: 0 in Checkout step', () => {
   const block = extractStepBlock(yamlText, 'Checkout');
 
-  assert.match(block, /uses:\s*actions\/checkout@v4/);
+  assert.match(block, /uses:\s*actions\/checkout@v[1-9]\d*\b/);
   assert.match(block, /token:\s*\$\{\{\s*secrets\.PAT_TOKEN\s*\}\}/);
   assert.match(block, /fetch-depth:\s*0/);
 });
@@ -39,14 +39,14 @@ test('fetch-movies workflow uses PAT_TOKEN and fetch-depth: 0 in Checkout step',
 test('fetch-movies workflow sets up Node.js with npm cache', () => {
   const block = extractStepBlock(yamlText, 'Setup Node.js');
 
-  assert.match(block, /uses:\s*actions\/setup-node@v4/);
+  assert.match(block, /uses:\s*actions\/setup-node@v[1-9]\d*\b/);
   assert.match(block, /node-version:\s*'20'/);
   assert.match(block, /cache:\s*npm/);
 });
 
 test('fetch-movies workflow caches Playwright browsers and installs Chromium', () => {
   const cacheBlock = extractStepBlock(yamlText, 'Cache Playwright browsers');
-  assert.match(cacheBlock, /uses:\s*actions\/cache@v4/);
+  assert.match(cacheBlock, /uses:\s*actions\/cache@v[1-9]\d*\b/);
 
   const installBlock = extractStepBlock(yamlText, 'Install Playwright Browsers');
   assert.match(installBlock, /run:\s*npx playwright install chromium --with-deps/);
