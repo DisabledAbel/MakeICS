@@ -1,26 +1,8 @@
 {
   "teamId": "134830",
   "teamName": "Boston Bruins",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-17T04:39:02.185Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020120",
-      "strEvent": "Anaheim Ducks vs Boston Bruins",
-      "strHomeTeam": "Anaheim Ducks",
-      "strAwayTeam": "Boston Bruins",
-      "dateEvent": "2026-10-16",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-17T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Honda Center",
-      "strStatus": "NS",
-      "strTVStation": "FOXLA+, NESN, Prime Video",
-      "updatedAt": "2026-10-15T21:31:03.866Z",
-      "source": "scraped",
-      "sourceEventId": "2026020120",
-      "idHomeTeam": "134846",
-      "idAwayTeam": "134830"
-    },
     {
       "idEvent": "nhl-2026020132",
       "strEvent": "Los Angeles Kings vs Boston Bruins",

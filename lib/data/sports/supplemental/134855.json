@@ -1,26 +1,8 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-17T04:39:02.185Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020119",
-      "strEvent": "Colorado Avalanche vs Pittsburgh Penguins",
-      "strHomeTeam": "Colorado Avalanche",
-      "strAwayTeam": "Pittsburgh Penguins",
-      "dateEvent": "2026-10-16",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-17T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "ALT, KTVD, SN+, SN-PIT, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020119",
-      "idHomeTeam": "134855",
-      "idAwayTeam": "134844"
-    },
     {
       "idEvent": "nhl-2026020138",
       "strEvent": "Philadelphia Flyers vs Colorado Avalanche",
