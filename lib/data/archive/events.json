@@ -87391,6 +87391,230 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt41041544/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41041544/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 71,
+        "number": 1,
+        "name": "Episode #71.1",
+        "airdate": "2026-04-03",
+        "summary": "Team captains Paul Merton and Ian Hislop are joined by guest panellists Armando Iannucci and journalist Anushka Asthana. Roy Wood Jr is host.",
+        "url": "https://www.imdb.com/title/tt41041544/?ref_=ttep_ep_1",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt41042265/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41042265/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 71,
+        "number": 2,
+        "name": "Episode #71.2",
+        "airdate": "2026-04-10",
+        "summary": "Guest panellists comedian Chris McCausland and journalist Helen Lewis join team captains Paul Merton and Ian Hislop while Monty Don hosts.",
+        "url": "https://www.imdb.com/title/tt41042265/?ref_=ttep_ep_2",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt41042268/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41042268/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 71,
+        "number": 3,
+        "name": "Episode #71.3",
+        "airdate": "2026-04-17",
+        "summary": "Gabby Logan is this week's guest presenter of the long-running, satirical, current-affairs quiz. Comedians Miles Jupp and Michelle Wolf join regular team captains Ian Hislop and Paul Merton.",
+        "url": "https://www.imdb.com/title/tt41042268/?ref_=ttep_ep_3",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt41042269/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41042269/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 71,
+        "number": 4,
+        "name": "Episode #71.4",
+        "airdate": "2026-04-24",
+        "summary": "Sue Perkins is the guest presenter for this week's edition of the satirical current-affairs quiz, with Finlay Christie and Camilla Long joining team captains Ian Hislop and Paul Merton.",
+        "url": "https://www.imdb.com/title/tt41042269/?ref_=ttep_ep_4",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt41042272/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41042272/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 71,
+        "number": 5,
+        "name": "Episode #71.5",
+        "airdate": "2026-05-01",
+        "summary": "Richard Ayoade is host. Team captains Paul Merton and Ian Hislop are joined by guest panellists actor and comedian Stephen Mangan and journalist Ava Santina Evans.",
+        "url": "https://www.imdb.com/title/tt41042272/?ref_=ttep_ep_5",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt41042276/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41042276/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 71,
+        "number": 6,
+        "name": "Episode #71.6",
+        "airdate": "2026-05-08",
+        "summary": "Steph McGovern is host. Team captains Paul Merton and Ian Hislop are joined by guest panellists comedian Jon Richardson and actress Sheila Hancock.",
+        "url": "https://www.imdb.com/title/tt41042276/?ref_=ttep_ep_6",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt41042280/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41042280/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 71,
+        "number": 8,
+        "name": "Episode #71.8",
+        "airdate": "2026-05-22",
+        "summary": "Guest panellists Phil Wang and Judi Love join team captains Ian and Paul to delve into the news. Alexander Armstrong is host.",
+        "url": "https://www.imdb.com/title/tt41042280/?ref_=ttep_ep_8",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt41042691/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41042691/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 71,
+        "number": 7,
+        "name": "Episode #71.7",
+        "airdate": "2026-05-15",
+        "summary": "Team captains Ian Hislop and Paul Merton delve into the news again. Victoria Coren Mitchell hosts.",
+        "url": "https://www.imdb.com/title/tt41042691/?ref_=ttep_ep_7",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt41042696/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41042696/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 71,
+        "number": 9,
+        "name": "Episode #71.9",
+        "airdate": "2026-05-29",
+        "summary": "On this week's edition of the satirical news quiz, comedian Katherine Ryan is the guest presenter as regular team captains Ian Hislop and Paul Merton are joined by guest panellists journalist Jo Coburn and stand-up comedian John Tothill.",
+        "url": "https://www.imdb.com/title/tt41042696/?ref_=ttep_ep_9",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt41042697/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41042697/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 71,
+        "number": 10,
+        "name": "Episode #71.10",
+        "airdate": "2026-06-05",
+        "summary": "In the final show of the 71st series, team regulars Ian Hislop and Paul Merton are joined by Lord Gove, the former Tory minister, and comedian Chloe Petts. David Tennant hosts.",
+        "url": "https://www.imdb.com/title/tt41042697/?ref_=ttep_ep_10",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt46077463/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46077463/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 72,
+        "number": 1,
+        "name": "Episode #72.1",
+        "airdate": "2026-10-02",
+        "summary": "Richard Ayoade hosts. Team captains Ian Hislop and Paul Merton delve into the news with the help of guest panellists broadcaster Gyles Brandreth and singer-songwriter Charlotte Church.",
+        "url": "https://www.imdb.com/title/tt46077463/?ref_=ttep_ep_1",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt48306194/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt48306194/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 72,
+        "number": 2,
+        "name": "Episode #72.2",
+        "airdate": "2026-10-09",
+        "summary": "Team captains Ian Hislop and Paul Merton delve into the news once again.",
+        "url": "https://www.imdb.com/title/tt48306194/?ref_=ttep_ep_2",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt48306199/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt48306199/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 72,
+        "number": 3,
+        "name": "Episode #72.3",
+        "airdate": "2026-10-16",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt48306199/?ref_=ttep_ep_3",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt49166234/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt49166234/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 72,
+        "number": 4,
+        "name": "Episode #72.4",
+        "airdate": "2026-10-23",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt49166234/?ref_=ttep_ep_4",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt0159876:https://www.imdb.com/title/tt8069966/?ref_=ttep_ep_15",
       "uid": "tvmaze-https://www.imdb.com/title/tt8069966/?ref_=ttep_ep_15@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
@@ -88143,6 +88367,1382 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt37544772/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37544772/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 1,
+        "name": "Prodigal Son: Part 1",
+        "airdate": "2025-10-14",
+        "summary": "Devastated by his father's killing, Parker recklessly pursues mob boss Carla Marino for revenge, putting himself and the team at risk.",
+        "url": "https://www.imdb.com/title/tt37544772/?ref_=ttep_ep_1",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt38510842/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38510842/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 2,
+        "name": "Prodigal Son: Part 2",
+        "airdate": "2025-10-21",
+        "summary": "Parker's pursuit of vengeance for his father's murder could have deadly consequences; Parker's sister faces an impossible choice.",
+        "url": "https://www.imdb.com/title/tt38510842/?ref_=ttep_ep_2",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt38510847/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38510847/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 3,
+        "name": "The Sound and the Fury",
+        "airdate": "2025-10-28",
+        "summary": "A petty officer's death linked to blackmail leads the team to work with Agent Sawyer. Torres faces danger during the case, while Knight receives an NCIS Elite training offer.",
+        "url": "https://www.imdb.com/title/tt38510847/?ref_=ttep_ep_3",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt38510852/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38510852/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 4,
+        "name": "Gone Girls",
+        "airdate": "2025-11-04",
+        "summary": "The team investigates a U.S. Marine who is believed to have kidnapped the wife of one of the most powerful men at the Department of Justice.",
+        "url": "https://www.imdb.com/title/tt38510852/?ref_=ttep_ep_4",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt38744524/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38744524/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 5,
+        "name": "Now and Then",
+        "airdate": "2025-11-11",
+        "summary": "Prison break by an inmate who has just a soon-to-be released, compels the team to reopen the case of a naval officer's death that was originally investigated by Gibbs and Franks in the '90s and enlist the help of Vera Strickland.",
+        "url": "https://www.imdb.com/title/tt38744524/?ref_=ttep_ep_5",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt38876002/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38876002/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 6,
+        "name": "Page-Turner",
+        "airdate": "2025-11-18",
+        "summary": "During a promotional event for his latest Deep Six novel, McGee gets kidnapped. The team investigates his \"biggest fan\" while uncovering links to stolen classified documents.",
+        "url": "https://www.imdb.com/title/tt38876002/?ref_=ttep_ep_6",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt38890385/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38890385/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 7,
+        "name": "God Only Knows",
+        "airdate": "2025-12-02",
+        "summary": "A teen's kidnapping connects to a Navy SEAL Taliban survivor who might have killed after coming home. Jimmy reveals to his superior what he discovered about Parker's mother's death.",
+        "url": "https://www.imdb.com/title/tt38890385/?ref_=ttep_ep_7",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt38934467/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38934467/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 8,
+        "name": "Stolen Moments",
+        "airdate": "2025-12-09",
+        "summary": "After Secret Service shoots a man near VP's residence, NCIS investigates with help from their newest team member - a DOJ test-phase AI chatbot.",
+        "url": "https://www.imdb.com/title/tt38934467/?ref_=ttep_ep_8",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt38952882/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38952882/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 9,
+        "name": "Heaven and Nature",
+        "airdate": "2025-12-16",
+        "summary": "McGee and Torres hunt a stolen truck of Christmas toys meant for Navy families. Parker's mother's story comes to light, and Knight begins her first NCIS: Elite assignment.",
+        "url": "https://www.imdb.com/title/tt38952882/?ref_=ttep_ep_9",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt38996265/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38996265/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 10,
+        "name": "Her",
+        "airdate": "2026-03-03",
+        "summary": "Knight's first Elite mission: capture ex-NCIS agent Eleanor Bishop, now a wanted cyber-terrorist. Bishop seeks help from Torres, reuniting them for the first time since her sudden departure five years earlier.",
+        "url": "https://www.imdb.com/title/tt38996265/?ref_=ttep_ep_10",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt39008822/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39008822/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 11,
+        "name": "Army of One",
+        "airdate": "2026-03-10",
+        "summary": "When a desperate man barricades himself inside an ammo warehouse, Knight is the only negotiator he'll talk to, claiming she once saved him before; as explosives tick and trust frays, Knight clashes with the CID officer running the standoff",
+        "url": "https://www.imdb.com/title/tt39008822/?ref_=ttep_ep_11",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt39008824/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39008824/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 12,
+        "name": "In Too Deep",
+        "airdate": "2026-03-17",
+        "summary": "A murdered drone pilot leads the team to a missing woman from McGee's past and a relationship he thought was long behind him.",
+        "url": "https://www.imdb.com/title/tt39008824/?ref_=ttep_ep_12",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt39008825/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39008825/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 13,
+        "name": "All Good Things",
+        "airdate": "2026-03-24",
+        "summary": "When the son of a Marine that Gibbs once helped comes to NCIS in desperation, the fractured team reunites off the books. But chasing justice without a badge may cost them more than their careers.",
+        "url": "https://www.imdb.com/title/tt39008825/?ref_=ttep_ep_13",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt39008828/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39008828/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 14,
+        "name": "Fleeting",
+        "airdate": "2026-03-31",
+        "summary": "A stolen squad car flips during Navy Week, revealing a stabbed sailor in the trunk. As chaos engulfs D.C., the team hunts the killer while dealing with the aftermath of recent events.",
+        "url": "https://www.imdb.com/title/tt39008828/?ref_=ttep_ep_14",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt39008830/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39008830/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 15,
+        "name": "Knick-Knack",
+        "airdate": "2026-04-07",
+        "summary": "A Navy Captain is murdered on a historic vessel, and his final cryptic message launches an investigation that transforms into a dangerous search for hidden riches.",
+        "url": "https://www.imdb.com/title/tt39008830/?ref_=ttep_ep_15",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt39008832/?ref_=ttep_ep_16",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39008832/?ref_=ttep_ep_16@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 16,
+        "name": "S.O.S.",
+        "airdate": "2026-04-14",
+        "summary": "A Navy lieutenant reappears six months after her plane disappeared, but her account raises questions. The team investigates the crash and discovers it wasn't an accident, uncovering new surprises at every turn.",
+        "url": "https://www.imdb.com/title/tt39008832/?ref_=ttep_ep_16",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt39008834/?ref_=ttep_ep_17",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39008834/?ref_=ttep_ep_17@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 17,
+        "name": "Reboot",
+        "airdate": "2026-04-21",
+        "summary": "With most NCIS agents gone and the mainframe offline for upgrades, Kasie and a small team are hunted by a threat in the darkened building. A simple reboot becomes a deadly game until Sam Hanna arrives.",
+        "url": "https://www.imdb.com/title/tt39008834/?ref_=ttep_ep_17",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt39008836/?ref_=ttep_ep_18",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39008836/?ref_=ttep_ep_18@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 18,
+        "name": "Bad Impressions",
+        "airdate": "2026-04-28",
+        "summary": "The team rushes to assist a member who's been falsely accused of murder.",
+        "url": "https://www.imdb.com/title/tt39008836/?ref_=ttep_ep_18",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt39008837/?ref_=ttep_ep_19",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39008837/?ref_=ttep_ep_19@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 19,
+        "name": "Deal with the Devil",
+        "airdate": "2026-05-05",
+        "summary": "A secret immunity deal may free a suspect. Parker battles to save the case, but his estranged sister's arrival reopens old family wounds, making his fight for justice personal.",
+        "url": "https://www.imdb.com/title/tt39008837/?ref_=ttep_ep_19",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt39008838/?ref_=ttep_ep_20",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39008838/?ref_=ttep_ep_20@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 23,
+        "number": 20,
+        "name": "Sons and Daughters",
+        "airdate": "2026-05-12",
+        "summary": "A year after a fatal coffee shop bombing, another blast reveals the attack wasn't by a lone perpetrator, forcing the team to grapple with questions of legacy and loyalty.",
+        "url": "https://www.imdb.com/title/tt39008838/?ref_=ttep_ep_20",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt39389825/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39389825/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 24,
+        "number": 1,
+        "name": "Wayward Son",
+        "airdate": "2026-10-06",
+        "summary": "While handling the aftermath of a shooting involving McGee's son, the team investigates a threat against the Secretary of the Navy and gets help from Tony DiNozzo, who just arrived in D.C.",
+        "url": "https://www.imdb.com/title/tt39389825/?ref_=ttep_ep_1",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt44111688/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt44111688/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 24,
+        "number": 2,
+        "name": "Clean Slate",
+        "airdate": "2026-10-13",
+        "summary": "After a neighborhood dinner party ends in murder, the team finds every guest lying—about a strange break-in, backyard burning, and who they truly are.",
+        "url": "https://www.imdb.com/title/tt44111688/?ref_=ttep_ep_2",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt44772098/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt44772098/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 24,
+        "number": 3,
+        "name": "Sleeping Dogs",
+        "airdate": "2026-10-20",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt44772098/?ref_=ttep_ep_3",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt44930886/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt44930886/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 24,
+        "number": 4,
+        "name": "Like and Subscribe",
+        "airdate": "2026-10-27",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt44930886/?ref_=ttep_ep_4",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt38282897/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38282897/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 20,
+        "name": "Make-Ahead Masterclass",
+        "airdate": "2025-09-20",
+        "summary": "Glazed boneless short ribs; tools and tips for easier meal prep; how to bake make-way-ahead dinner rolls.",
+        "url": "https://www.imdb.com/title/tt38282897/?ref_=ttep_ep_1",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt38558085/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38558085/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 27,
+        "name": "Flavor-Packed Pastas",
+        "airdate": "2025-09-27",
+        "summary": "Spaghetti all'assassina; a tasting of canned whole tomatoes; triple mushroom pasta.",
+        "url": "https://www.imdb.com/title/tt38558085/?ref_=ttep_ep_2",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt38649699/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38649699/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 3,
+        "name": "Corn Cakes and Chowder",
+        "airdate": "2025-10-04",
+        "summary": "Venezuelan cheese-filled corn cakes; dish towels; the importance of a sharp knife; fresh corn chowder.",
+        "url": "https://www.imdb.com/title/tt38649699/?ref_=ttep_ep_3",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt38649701/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38649701/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 4,
+        "name": "Turkey Lasagna and Chocolate Sorbet",
+        "airdate": "2025-10-11",
+        "summary": "Turkey sausage lasagna; sugar; a refreshing chocolate sorbet.",
+        "url": "https://www.imdb.com/title/tt38649701/?ref_=ttep_ep_4",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt38649704/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38649704/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 5,
+        "name": "Farmer's Brunch",
+        "airdate": "2025-10-18",
+        "summary": "A German farmer's breakfast; reviewing cookie sheets; Dutch apple pie.",
+        "url": "https://www.imdb.com/title/tt38649704/?ref_=ttep_ep_5",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt39012554/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39012554/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 9,
+        "name": "New Thanksgiving Favorites",
+        "airdate": "2025-11-15",
+        "summary": "Stuffed spatchcock turkey; slicing knives; a crisp shaved celery salad with pomegranate-honey vinaigrette.",
+        "url": "https://www.imdb.com/title/tt39012554/?ref_=ttep_ep_9",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt39279126/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39279126/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 10,
+        "name": "Taiwanese Staples",
+        "airdate": "2025-11-22",
+        "summary": "Taiwanese steamed buns with braised pork belly; hoisin sauce; a quick Taiwanese pork rice.",
+        "url": "https://www.imdb.com/title/tt39279126/?ref_=ttep_ep_10",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt39279148/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39279148/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 11,
+        "name": "The Ultimate Holiday Dinner Party",
+        "airdate": "2025-11-29",
+        "summary": "Shrimp cocktail; expensive gadgets that are worth the price; beef tenderloin with harissa rub and cilantro-mint relish.",
+        "url": "https://www.imdb.com/title/tt39279148/?ref_=ttep_ep_11",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt39308895/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39308895/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 12,
+        "name": "Zesty Salmon and Salad",
+        "airdate": "2025-12-06",
+        "summary": "Double-glazed salmon with lemon and thyme; natural cleaning sprays; tofu; kale salad with radishes, grapefruit and candied pepitas.",
+        "url": "https://www.imdb.com/title/tt39308895/?ref_=ttep_ep_12",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt39308899/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39308899/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 13,
+        "name": "Weeknight Chicken and Mashed Potatoes",
+        "airdate": "2025-12-13",
+        "summary": "Cold-start pan-seared chicken breasts with cherry and rosemary pan sauce; a review of paper towels; fast and easy mashed potatoes.",
+        "url": "https://www.imdb.com/title/tt39308899/?ref_=ttep_ep_13",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt39308902/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39308902/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 14,
+        "name": "Mediterranean Eggplant Dishes",
+        "airdate": "2025-12-20",
+        "summary": "Silky roasted eggplant with tomato and feta; a tasting of hummus; Moroccan eggplant meze.",
+        "url": "https://www.imdb.com/title/tt39308902/?ref_=ttep_ep_14",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt39308904/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39308904/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 15,
+        "name": "Catalan Supper",
+        "airdate": "2025-12-27",
+        "summary": "Spanish seafood stew; comparing disposable and reusable plastic bags; red pepper coques.",
+        "url": "https://www.imdb.com/title/tt39308904/?ref_=ttep_ep_15",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt39308908/?ref_=ttep_ep_16",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39308908/?ref_=ttep_ep_16@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 16,
+        "name": "Breakfast from Scratch",
+        "airdate": "2026-01-30",
+        "summary": "Biscuit breakfast sandwiches; picture-perfect pancakes; spiced pear, buckwheat and almond pancakes.",
+        "url": "https://www.imdb.com/title/tt39308908/?ref_=ttep_ep_16",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt39308911/?ref_=ttep_ep_17",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39308911/?ref_=ttep_ep_17@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 17,
+        "name": "A Taste of Sichuan",
+        "airdate": "2026-01-10",
+        "summary": "Dry chili chicken; breaking down different miso; sour and hot nappa cabbage.",
+        "url": "https://www.imdb.com/title/tt39308911/?ref_=ttep_ep_17",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt41487553/?ref_=ttep_ep_19",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41487553/?ref_=ttep_ep_19@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 19,
+        "name": "Savory Mexican Classics",
+        "airdate": "2026-01-24",
+        "summary": "Chiles en nogada; why oil shimmers; tacos gobernador.",
+        "url": "https://www.imdb.com/title/tt41487553/?ref_=ttep_ep_19",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt41992031/?ref_=ttep_ep_21",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41992031/?ref_=ttep_ep_21@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 21,
+        "name": "Maple Pork Chops and Squash Soup",
+        "airdate": "2026-02-07",
+        "summary": "Maple pork chops with sweet potato-bacon hash; reviewing enameled cast iron skillets; how to defrost food quickly; leek, fennel and squash soup with sausage.",
+        "url": "https://www.imdb.com/title/tt41992031/?ref_=ttep_ep_21",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt41992164/?ref_=ttep_ep_22",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41992164/?ref_=ttep_ep_22@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 22,
+        "name": "Seafood Stew and Salmon Burgers",
+        "airdate": "2026-02-14",
+        "summary": "Crab and shrimp stew; reviewing gyuto knives; fresh salmon burgers with Sriracha mayonnaise.",
+        "url": "https://www.imdb.com/title/tt41992164/?ref_=ttep_ep_22",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt41992261/?ref_=ttep_ep_23",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41992261/?ref_=ttep_ep_23@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 23,
+        "name": "New England Clambake",
+        "airdate": "2026-02-21",
+        "summary": "Grilling up a New England clambake; tips to up your grill game; grilled fresh cornbread with charred jalapeños and cheddar.",
+        "url": "https://www.imdb.com/title/tt41992261/?ref_=ttep_ep_23",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt41992326/?ref_=ttep_ep_24",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41992326/?ref_=ttep_ep_24@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 24,
+        "name": "Tandoori Salmon and Broiled Zucchini",
+        "airdate": "2026-02-28",
+        "summary": "A flavorful tandoori salmon; favorite kitchen gadgets under $15; a tasting of yogurt; broiled smashed zucchini with garlicky yogurt.",
+        "url": "https://www.imdb.com/title/tt41992326/?ref_=ttep_ep_24",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt41992329/?ref_=ttep_ep_25",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41992329/?ref_=ttep_ep_25@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 25,
+        "name": "Petite French Pastries",
+        "airdate": "2026-03-07",
+        "summary": "Macarons with raspberry buttercream; gougeres.",
+        "url": "https://www.imdb.com/title/tt41992329/?ref_=ttep_ep_25",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt41992330/?ref_=ttep_ep_26",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41992330/?ref_=ttep_ep_26@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 26,
+        "number": 26,
+        "name": "Grilled Flank Steak and Chili Crisp Noodles",
+        "airdate": "2026-03-14",
+        "summary": "Grilled flank steak; why cooking some meat to medium makes them more tender; reviewing aluminum foil; chili crisp noodles.",
+        "url": "https://www.imdb.com/title/tt41992330/?ref_=ttep_ep_26",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt46453656/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46453656/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 27,
+        "number": 1,
+        "name": "A Taste of Mexico City",
+        "airdate": "2026-08-05",
+        "summary": "Enchiladas Suizas (Swiss enchiladas); black and red rice; sopa de tortilla (tortilla soup).",
+        "url": "https://www.imdb.com/title/tt46453656/?ref_=ttep_ep_1",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt46453927/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46453927/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 27,
+        "number": 2,
+        "name": "Lemon-Braised Chicken and Fattet Hummus",
+        "airdate": "2026-08-12",
+        "summary": "Lemon-braised chicken with pearl couscous, artichokes and chickpeas; dish soap; the power of evaporative cooling; fattet hummus (crispy pita with garlicky yogurt and chickpeas).",
+        "url": "https://www.imdb.com/title/tt46453927/?ref_=ttep_ep_2",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt46454084/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46454084/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 27,
+        "number": 3,
+        "name": "Apples for Dinner and Dessert",
+        "airdate": "2026-08-19",
+        "summary": "Roasted pork tenderloin with apples and shallots; how stabilizers in whipped cream work; gateau invisible with brown sugar-cinnamon whipped cream.",
+        "url": "https://www.imdb.com/title/tt46454084/?ref_=ttep_ep_3",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt46454289/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46454289/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 27,
+        "number": 4,
+        "name": "Tuscan Feast",
+        "airdate": "2026-08-21",
+        "summary": "Pollo al mattone (chicken under a brick); wine savers; gluten-free zucchini scarpaccia.",
+        "url": "https://www.imdb.com/title/tt46454289/?ref_=ttep_ep_4",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt46454343/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46454343/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 27,
+        "number": 5,
+        "name": "Soup and Bread, the Italian Way",
+        "airdate": "2026-08-24",
+        "summary": "Zuppa Toscana; a head-to-head tasting of white bread; light and airy focaccia.",
+        "url": "https://www.imdb.com/title/tt46454343/?ref_=ttep_ep_5",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt46454456/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46454456/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 27,
+        "number": 6,
+        "name": "Episode #27.6",
+        "airdate": "2026-08-24",
+        "summary": "Peruvian beef stir-fry; chili oil and chili crisp; Peruvian green noodles.",
+        "url": "https://www.imdb.com/title/tt46454456/?ref_=ttep_ep_6",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt46454572/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46454572/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 27,
+        "number": 16,
+        "name": "Episode #27.7",
+        "airdate": "2026-09-16",
+        "summary": "Cacio e pepe; packaged pastas; pasta alla vodka.",
+        "url": "https://www.imdb.com/title/tt46454572/?ref_=ttep_ep_7",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt46454573/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46454573/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 27,
+        "number": 17,
+        "name": "British Baking",
+        "airdate": "2026-09-17",
+        "summary": "Banoffee pie; how to use air as an ingredient; browned butter shortbread.",
+        "url": "https://www.imdb.com/title/tt46454573/?ref_=ttep_ep_8",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt35077027/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35077027/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 1,
+        "name": "Revolving Door of Lies",
+        "airdate": "2025-07-10",
+        "summary": "Shannon is loving the single life as Jenn preps for her wedding; Emily reveals a heartbreaking family issue; Tamra opens up about her past trauma in therapy; Heather deals with problems at her Beverly Hills mansion.",
+        "url": "https://www.imdb.com/title/tt35077027/?ref_=ttep_ep_1",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404506/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404506/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 3,
+        "name": "Knee Deep in Lies",
+        "airdate": "2025-07-24",
+        "summary": "Heather finds herself negotiating a birthday conundrum; Jenn and Katie support their kids as they move in and out; Shannon introduces her dating bench to Emily and Gina; Katie's apology attempt to Shannon is met with an explosive reaction.",
+        "url": "https://www.imdb.com/title/tt36404506/?ref_=ttep_ep_3",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404507/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404507/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 2,
+        "name": "Old Faces, New Places",
+        "airdate": "2025-07-17",
+        "summary": "Katie extends an olive branch to the group; Tamra faces off with longtime foe Gretchen Rossi; Emily and Shane's parenting styles clash; Gina exposes a shocking allegation that leaves Shannon feeling completely betrayed.",
+        "url": "https://www.imdb.com/title/tt36404507/?ref_=ttep_ep_2",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404510/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404510/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 5,
+        "name": "The Big Uneasy",
+        "airdate": "2025-08-07",
+        "summary": "The heat builds up at Gina's housewarming party when Jenn learns that Tamra has been showing unflattering photos of her from the past; the group visits New Orleans and embarks on a riverboat cruise.",
+        "url": "https://www.imdb.com/title/tt36404510/?ref_=ttep_ep_5",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404511/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404511/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 4,
+        "name": "Judge, Jury and Jenn",
+        "airdate": "2025-07-31",
+        "summary": "Tamra's plus-one to Heather's birthday party catches Gretchen and Slade off-guard. Katie finds herself at the center of rumors regarding her connections with bloggers. Tamra and Jenn have a one-on-one that takes a turn for the worse.",
+        "url": "https://www.imdb.com/title/tt36404511/?ref_=ttep_ep_4",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404512/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404512/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 6,
+        "name": "What Voodoo You Do?",
+        "airdate": "2025-08-14",
+        "summary": "As the New Orleans trip continues, the ladies keep the festivities going by attending a dog parade and making voodoo dolls; Jenn continues to question the intention behind sharing the unflattering picture; Shannon remains cautious.",
+        "url": "https://www.imdb.com/title/tt36404512/?ref_=ttep_ep_6",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404513/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404513/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 7,
+        "name": "The Truth Will Not Set You Free",
+        "airdate": "2025-08-21",
+        "summary": "After Tamra's dramatic departure from New Orleans, Shannon finds herself in murky waters when she shows up late to a gator boat tour; Katie's explanation of contacting an influencer leaves her closest allies to question her stories.",
+        "url": "https://www.imdb.com/title/tt36404513/?ref_=ttep_ep_7",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404514/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404514/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 8,
+        "name": "Truth Tellers & Lie Detectors",
+        "airdate": "2025-08-28",
+        "summary": "Emily throws a Persian New Year party for the women, but has a surprise activity to uncover the truth behind the rumors swirling in the group; Heather's family's future is up in the air as she waits for offers on her Los Angeles mansion.",
+        "url": "https://www.imdb.com/title/tt36404514/?ref_=ttep_ep_8",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404518/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404518/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 11,
+        "name": "Whine or Champagne?",
+        "airdate": "2025-09-11",
+        "summary": "The ladies embark on dueling trips as Tamra invites Shannon, Jenn and Gina to Temecula in an effort to rebuild her friendship with Shannon; Heather takes the opportunity to host an adult sleepover in Beverly Hills with Emily and Gretchen.",
+        "url": "https://www.imdb.com/title/tt36404518/?ref_=ttep_ep_10",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404519/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404519/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 18,
+        "name": "Loose Lips Sink Trips",
+        "airdate": "2025-09-18",
+        "summary": "After dinner in Temecula, Tamra tries to turn the trip around for the ladies; Heather, Emily and Gretchen's wild night out in West Hollywood ends with Gretchen revealing tea about Tamra; Tamra's efforts to win Shannon's favor are thwarted.",
+        "url": "https://www.imdb.com/title/tt36404519/?ref_=ttep_ep_11",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404520/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404520/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 25,
+        "name": "Defense Is the Best Offense",
+        "airdate": "2025-09-25",
+        "summary": "The women return from two tense trips with most feeling the planned bonding failed to take hold. Tamra joins Sophia on a music-school tour. Jenn realizes her upcoming wedding is having a greater emotional impact on her kids than she anticipated. Everyone reunites when Gretchen hosts a tactical training event. The ladies learn self-defense, but a shocking rumor about Tamra leads to an explosive confrontation.",
+        "url": "https://www.imdb.com/title/tt36404520/?ref_=ttep_ep_12",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404521/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404521/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 13,
+        "name": "Not So Funfetti",
+        "airdate": "2025-10-02",
+        "summary": "Tamra decides to give herself some space from Gretchen; Emily and Shane are more in sync after receiving a diagnosis for Luke; Jenn expresses her concerns as Dawson preps to leave for the Marines.",
+        "url": "https://www.imdb.com/title/tt36404521/?ref_=ttep_ep_13",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404522/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404522/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 14,
+        "name": "Hoedown Throwdown",
+        "airdate": "2025-10-09",
+        "summary": "Tamra meets with Katie in hopes of uncovering the truth; Shannon and Jenn's friendship continues to blossom when they engage their dogs with a pet psychic; Heather hosts an event for the Trevor Project.",
+        "url": "https://www.imdb.com/title/tt36404522/?ref_=ttep_ep_14",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404523/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404523/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 15,
+        "name": "Going Dutch",
+        "airdate": "2025-10-16",
+        "summary": "Shannon hosts a bridal lunch for Jenn; Heather opens up about her relationship with her father; Gina and Travis celebrate their family being back together; Tamra and Eddie prep to be empty nesters; the ladies head to Amsterdam.",
+        "url": "https://www.imdb.com/title/tt36404523/?ref_=ttep_ep_15",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404524/?ref_=ttep_ep_16",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404524/?ref_=ttep_ep_16@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 16,
+        "name": "Tulip Service",
+        "airdate": "2025-10-23",
+        "summary": "As the Amsterdam trip continues, the ladies visit the famous tulip fields where Jenn and Shannon´s friendship is called into question. Emily tries one last time to broker peace between Tamra and Gretchen.",
+        "url": "https://www.imdb.com/title/tt36404524/?ref_=ttep_ep_16",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt36404526/?ref_=ttep_ep_17",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36404526/?ref_=ttep_ep_17@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 17,
+        "name": "A Source of Discontent",
+        "airdate": "2025-10-30",
+        "summary": "The ladies enjoy several local activities in Amsterdam; Emily receives a distressing call from Shane; Heather finds comfort in visiting her parents' former home before spreading her father's ashes; Gina struggles with a scandalous rumor.",
+        "url": "https://www.imdb.com/title/tt36404526/?ref_=ttep_ep_17",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt38004004/?ref_=ttep_ep_19",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38004004/?ref_=ttep_ep_19@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 19,
+        "name": "Reunion Part 2",
+        "airdate": "2025-11-13",
+        "summary": "The ladies question Tamra about Jenn's photo, Gina discusses Heather's career comments. Jenn gets Ryan's call with Katie revelations. Matt Ginella joins for a dramatic he said, she said game.",
+        "url": "https://www.imdb.com/title/tt38004004/?ref_=ttep_ep_19",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt38004016/?ref_=ttep_ep_20",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38004016/?ref_=ttep_ep_20@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 19,
+        "number": 20,
+        "name": "Reunion Part 3",
+        "airdate": "2025-11-20",
+        "summary": "Tamra and Gretchen clash over Amsterdam dinner details. Emily and Tamra question their friendship. Season finale footage sparks intense reactions, putting Tamra's honesty under scrutiny.",
+        "url": "https://www.imdb.com/title/tt38004016/?ref_=ttep_ep_20",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt38947864/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38947864/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 1,
+        "name": "Old Friends, New Era",
+        "airdate": "2026-07-09",
+        "summary": "Vicki returns as Shannon and Tamra clash after a heated confrontation. Gina questions her relationship status, Emily rebuilds her home life, and Heather adjusts when her mother relocates from New York to California.",
+        "url": "https://www.imdb.com/title/tt38947864/?ref_=ttep_ep_1",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43603872/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43603872/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 2,
+        "name": "Not on My Bingo Card",
+        "airdate": "2026-07-16",
+        "summary": "Gina throws Emily a drag bingo-themed 50th birthday party where the ladies lean into the wisdom of their age. Shannon befriends Carmella, but Vicki has questions about Carmella's past.",
+        "url": "https://www.imdb.com/title/tt43603872/?ref_=ttep_ep_2",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43641739/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43641739/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 3,
+        "name": "Why Can't We Be Friends?",
+        "airdate": "2026-07-23",
+        "summary": "Vicki plays referee in an attempt to rekindle the Tres Amigas friendship.",
+        "url": "https://www.imdb.com/title/tt43641739/?ref_=ttep_ep_3",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43641740/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43641740/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 4,
+        "name": "Boxed In",
+        "airdate": "2026-07-30",
+        "summary": "Word spreads in the OC about Carmella's lavish birthday gift to Emily as Gina questions the motive. Tamra wonders why she's excluded from Heather's TikToks while Jenn tries to understand their friendship dynamic.",
+        "url": "https://www.imdb.com/title/tt43641740/?ref_=ttep_ep_4",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43641742/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43641742/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 5,
+        "name": "Designers and Dildos",
+        "airdate": "2026-08-06",
+        "summary": "Loyalties are questioned between Heather, Emily and Gina. Tamra talks to Sophia about marriage while Shannon seeks life advice from her father.",
+        "url": "https://www.imdb.com/title/tt43641742/?ref_=ttep_ep_5",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43683785/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43683785/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 6,
+        "name": "Suite & Sour",
+        "airdate": "2026-08-13",
+        "summary": "The women of Orange County head to Las Vegas where they play showgirl for a day and showdown at night. Carmella attempts to work through a relationship betrayal while Emily tries to stabilize her rocky marriage.",
+        "url": "https://www.imdb.com/title/tt43683785/?ref_=ttep_ep_6",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43683892/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43683892/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 7,
+        "name": "All Bets Are Off",
+        "airdate": "2026-08-20",
+        "summary": "The Vegas trip continues at the Grand Canyon. Jenn attempts to redirect Shannon's frustrations, leading to a revelation about Shannon and Heather's friendship.",
+        "url": "https://www.imdb.com/title/tt43683892/?ref_=ttep_ep_7",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43683894/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43683894/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 8,
+        "name": "Sangria, Songria",
+        "airdate": "2026-08-27",
+        "summary": "Carmella hosts a pool party, introducing her kids and boyfriend. Emily and Shane mark their anniversary. Heather seeks Carmella's real estate help. Shannon gets financial tips from Vicki. The group discusses Heather's behavior.",
+        "url": "https://www.imdb.com/title/tt43683894/?ref_=ttep_ep_8",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43683897/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43683897/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 10,
+        "name": "Forbidden Fruit",
+        "airdate": "2026-09-10",
+        "summary": "The ladies divide into groups visiting Los Olivos and La Quinta. Emily, Jenn and Shannon confront host Vicki about prioritizing work over guests. Gina challenges Heather for doing business with Carmella while gossiping about her.",
+        "url": "https://www.imdb.com/title/tt43683897/?ref_=ttep_ep_10",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43683898/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43683898/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 17,
+        "name": "A Tale of Two Trips",
+        "airdate": "2026-09-17",
+        "summary": "As both group trips wrap up, Jenn and Emily make a bold statement that catches Vicki off guard.",
+        "url": "https://www.imdb.com/title/tt43683898/?ref_=ttep_ep_11",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43683900/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43683900/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 24,
+        "name": "Lei It on Me",
+        "airdate": "2026-09-24",
+        "summary": "Tamra marks her granddaughter's birthday during a rare family get-together.",
+        "url": "https://www.imdb.com/title/tt43683900/?ref_=ttep_ep_12",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43683901/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43683901/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 13,
+        "name": "Don't Look Now",
+        "airdate": "2026-10-01",
+        "summary": "Emily invites the ladies to a Persian Party.",
+        "url": "https://www.imdb.com/title/tt43683901/?ref_=ttep_ep_13",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43683902/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43683902/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 14,
+        "name": "Friends and Fortunes",
+        "airdate": "2026-10-08",
+        "summary": "Heather and Alexis hash out their unfinished business at Tamra's Vena party before the ladies travel to Tokyo. Shannon struggles with Archie's health decline. Carmella's medical issues change the course of the trip. Tamra and Jenn get closer as roommates. Emily shares that things are falling apart at home with Shane. Gina brings everyone to a temple where the ladies learn their fortunes, both good and bad.",
+        "url": "https://www.imdb.com/title/tt43683902/?ref_=ttep_ep_14",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43683903/?ref_=ttep_ep_16",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43683903/?ref_=ttep_ep_16@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 16,
+        "name": "Episode #20.16",
+        "airdate": "2026-10-22",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt43683903/?ref_=ttep_ep_16",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt43683904/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43683904/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 20,
+        "number": 15,
+        "name": "For Goodness Sake",
+        "airdate": "2026-10-15",
+        "summary": "The ladies take in all the Tokyo sites as Tamra processes her fortune about her daughter. Jenn and Emily encourage Tamra to talk to Vicki about comments made years ago. When Tamra's emotions reach their peak, Shannon is there to help, bringing them closer. Heather and Gina question Shannon and Vicki's friendship. They all gather for a sushi-making class where things get messy as they navigate being in the middle of Tamra and Vicki's historical friendship problems.",
+        "url": "https://www.imdb.com/title/tt43683904/?ref_=ttep_ep_15",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt11349896:https://www.imdb.com/title/tt38954970/?ref_=ttep_ep_1",
       "uid": "tvmaze-https://www.imdb.com/title/tt38954970/?ref_=ttep_ep_1@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
@@ -88283,6 +89883,390 @@
         "url": "https://www.imdb.com/title/tt39260467/?ref_=ttep_ep_10",
         "showId": "tt11349896",
         "showName": "Max & the Midknights"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt37028093/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37028093/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 1,
+        "name": "The Last Days",
+        "airdate": "2025-04-30",
+        "summary": "A shocking truth is revealed as Jeremy and Leah force Philip and Sandra to come clean; Mr. Brown takes a deep dive into conspiracy theories.",
+        "url": "https://www.imdb.com/title/tt37028093/?ref_=ttep_ep_1",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt37028097/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37028097/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 2,
+        "name": "Wobblewham",
+        "airdate": "2025-05-07",
+        "summary": "Reginald must face a daunting truth with his son Brandon; Vinny starts a business venture that throws Pleasant Days into a chaotic spiral.",
+        "url": "https://www.imdb.com/title/tt37028097/?ref_=ttep_ep_2",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt37028098/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37028098/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 3,
+        "name": "Spare The Rod",
+        "airdate": "2025-05-14",
+        "summary": "Jeremy and Leah are forced to stand firm upon receiving disappointing news concerning Philip.",
+        "url": "https://www.imdb.com/title/tt37028098/?ref_=ttep_ep_3",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt37028100/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37028100/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 4,
+        "name": "Dyna Woman",
+        "airdate": "2025-05-21",
+        "summary": "Anastasia relives her childhood and springs into action to combat criminal activity; the family must prepare for the increase in crime.",
+        "url": "https://www.imdb.com/title/tt37028100/?ref_=ttep_ep_4",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt37028102/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37028102/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 5,
+        "name": "Parental Woes",
+        "airdate": "2025-05-28",
+        "summary": "Tension escalates as tempers flare between Reginald and Brandon in their rocky relationship",
+        "url": "https://www.imdb.com/title/tt37028102/?ref_=ttep_ep_5",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt37028104/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37028104/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 6,
+        "name": "Parental Progress",
+        "airdate": "2025-06-04",
+        "summary": "Reginald is being honored with a Lifetime Achievement Award; he and Jeremy focus on fine-tuning their paternal relationships with their sons.",
+        "url": "https://www.imdb.com/title/tt37028104/?ref_=ttep_ep_6",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt37028106/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37028106/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 7,
+        "name": "Writing the Next Chapter",
+        "airdate": "2025-06-11",
+        "summary": "Cora and Leah tell Reginald that he's still on thin ice with Brandon; Vinny attempts to have the facility join his Ponzi scheme.",
+        "url": "https://www.imdb.com/title/tt37028106/?ref_=ttep_ep_7",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt37028107/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37028107/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 8,
+        "name": "It Takes a Village",
+        "airdate": "2025-06-18",
+        "summary": "The facility is in an uproar over their safety after the recent armed crimes around the neighborhood, and Vinny attempts to take matters into his own hands.",
+        "url": "https://www.imdb.com/title/tt37028107/?ref_=ttep_ep_8",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt37028109/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37028109/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 9,
+        "name": "Diamond in the Rough",
+        "airdate": "2025-06-25",
+        "summary": "Cora has a new romantic suitor, which causes a rift between her and Mr. Brown; everyone celebrates Philip for his recent academic achievements, and he receives an unexpected gift.",
+        "url": "https://www.imdb.com/title/tt37028109/?ref_=ttep_ep_9",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt37028110/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37028110/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 10,
+        "name": "Speed Demons",
+        "airdate": "2025-07-02",
+        "summary": "Mr. Brown is adamant about seizing the speed demons in the neighborhood; Leah is about to lose her trust in Sandra.",
+        "url": "https://www.imdb.com/title/tt37028110/?ref_=ttep_ep_10",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt39674543/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39674543/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 11,
+        "name": "Twenty-One",
+        "airdate": "2026-02-04",
+        "summary": "Sandra and Philip try to find the best way to celebrate their parents' anniversary; the assisted-living facility puts on a manhunt for the still-missing Reginald.",
+        "url": "https://www.imdb.com/title/tt39674543/?ref_=ttep_ep_11",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt39821774/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39821774/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 12,
+        "name": "The Power of Prayer",
+        "airdate": "2026-02-11",
+        "summary": "With Reginald still missing, Sandra, Philip, Vinny, Mr. Brown, and Cora post flyers around the neighborhood and online, and Reginald's son Brandon arrives in town.",
+        "url": "https://www.imdb.com/title/tt39821774/?ref_=ttep_ep_12",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt40140005/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt40140005/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 13,
+        "name": "Figuring it Out",
+        "airdate": "2026-02-18",
+        "summary": "Anastasia is conflicted about continuing her walks with Reginald because of his memory loss; Detective Elliot warns Jeremy about a new DA on the case who plans to throw the book at the young robbers.",
+        "url": "https://www.imdb.com/title/tt40140005/?ref_=ttep_ep_13",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt40987116/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt40987116/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 14,
+        "name": "Mighty in Battle",
+        "airdate": "2026-02-25",
+        "summary": "Vinny has the entire assisted-living facility reeking of his special batch of baked goods; Jeremy, Leah, and Cora team up to see what could be wrong with Philip.",
+        "url": "https://www.imdb.com/title/tt40987116/?ref_=ttep_ep_14",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt40987118/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt40987118/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 15,
+        "name": "Heaven Sent",
+        "airdate": "2026-03-04",
+        "summary": "Leah and Jeremy get their money's worth with the consultant they hired to inspect the assisted-living facility; the Pleasant Days family is concerned about the decline of Reginald's mental health.",
+        "url": "https://www.imdb.com/title/tt40987118/?ref_=ttep_ep_15",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt40987119/?ref_=ttep_ep_16",
+      "uid": "tvmaze-https://www.imdb.com/title/tt40987119/?ref_=ttep_ep_16@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 16,
+        "name": "The Secret Ingredients",
+        "airdate": "2026-03-11",
+        "summary": "Leah becomes increasingly jealous of Sandra and Anastasia's relationship; the residents compete for the crown in a special baking competition.",
+        "url": "https://www.imdb.com/title/tt40987119/?ref_=ttep_ep_16",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt40987122/?ref_=ttep_ep_17",
+      "uid": "tvmaze-https://www.imdb.com/title/tt40987122/?ref_=ttep_ep_17@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 17,
+        "name": "The Cocoon",
+        "airdate": "2026-03-18",
+        "summary": "The Pleasant Days family cares for Leah as she falls sick during her pregnancy; Philip gains new clarity on his major for college.",
+        "url": "https://www.imdb.com/title/tt40987122/?ref_=ttep_ep_17",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt40987123/?ref_=ttep_ep_18",
+      "uid": "tvmaze-https://www.imdb.com/title/tt40987123/?ref_=ttep_ep_18@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 18,
+        "name": "Voltran",
+        "airdate": "2026-03-25",
+        "summary": "Cora encourages the residents to live life to the fullest after experiencing the loss of a close friend; Sandra urges video-game-addicted Philip to get out of his comfort zone.",
+        "url": "https://www.imdb.com/title/tt40987123/?ref_=ttep_ep_18",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt41566953/?ref_=ttep_ep_19",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41566953/?ref_=ttep_ep_19@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 19,
+        "name": "A Split Tree Still Grows",
+        "airdate": "2026-04-01",
+        "summary": "Efe has a mock teaching session with the assisted-living facility to prepare him for the classroom; Jeremy is on the fence about the court system's harsh punishment of the young robbers.",
+        "url": "https://www.imdb.com/title/tt41566953/?ref_=ttep_ep_19",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt41566965/?ref_=ttep_ep_20",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41566965/?ref_=ttep_ep_20@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 20,
+        "name": "A Rolling Stone",
+        "airdate": "2026-04-08",
+        "summary": "Mr. Brown receives a surprise that brings up his sinful past; Reginald and Jeremy are at odds with the court system.",
+        "url": "https://www.imdb.com/title/tt41566965/?ref_=ttep_ep_20",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt41567269/?ref_=ttep_ep_21",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41567269/?ref_=ttep_ep_21@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 21,
+        "name": "Right is Right",
+        "airdate": "2026-04-15",
+        "summary": "Mr. Brown endorses a local politician, which causes major problems for him and the rest of the facility; Jeremy takes matters into his own hands to protect the facility against protesters.",
+        "url": "https://www.imdb.com/title/tt41567269/?ref_=ttep_ep_21",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt46023391/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46023391/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 15,
+        "name": "Killa",
+        "airdate": "2026-09-15",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt46023391/?ref_=ttep_ep_2",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt47867238/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt47867238/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 8,
+        "name": "Bedside Man",
+        "airdate": "2026-09-08",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt47867238/?ref_=ttep_ep_1",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt48461676/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt48461676/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 6,
+        "name": "Do The Right Thing",
+        "airdate": "2026-10-13",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt48461676/?ref_=ttep_ep_6",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
       }
     },
     {
@@ -88475,6 +90459,1494 @@
         "url": "https://www.imdb.com/title/tt38719906/?ref_=ttep_ep_13",
         "showId": "tt12915960",
         "showName": "The Patrick Star Show"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt36933507/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36933507/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 15,
+        "name": "Modern Family Tunes",
+        "airdate": "2025-09-15",
+        "summary": "Celebrity contestants Jesse Tyler Ferguson and Ariel Winter face off in game one; a university program director and a retired assembly worker compete in game two.",
+        "url": "https://www.imdb.com/title/tt36933507/?ref_=ttep_ep_1",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt36933510/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36933510/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 5,
+        "name": "The Medical & The Musical",
+        "airdate": "2025-11-03",
+        "summary": "\"House\" stars reunite for charity.",
+        "url": "https://www.imdb.com/title/tt36933510/?ref_=ttep_ep_5",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt38091370/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38091370/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 29,
+        "name": "A Hollywood Battle Royale",
+        "airdate": "2025-09-29",
+        "summary": "Mira Sorvino goes head-to-head with Aisha Tyler.",
+        "url": "https://www.imdb.com/title/tt38091370/?ref_=ttep_ep_3",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt38091372/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38091372/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 4,
+        "name": "Hip-Hop Hooray!",
+        "airdate": "2025-10-06",
+        "summary": "Iconic musicians battle it out.",
+        "url": "https://www.imdb.com/title/tt38091372/?ref_=ttep_ep_4",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt38351261/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38351261/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 22,
+        "name": "Real Housewives & Hilarity",
+        "airdate": "2025-09-22",
+        "summary": "Reality TV star Lisa Rinna and comic Matteo Lane compete.",
+        "url": "https://www.imdb.com/title/tt38351261/?ref_=ttep_ep_2",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt38650209/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38650209/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 6,
+        "name": "Battle of the TV Hosts",
+        "airdate": "2025-10-20",
+        "summary": "TV host and renowned performer bring the heat.",
+        "url": "https://www.imdb.com/title/tt38650209/?ref_=ttep_ep_6",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt38780062/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38780062/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 7,
+        "name": "My Big Fat Musical Showdown",
+        "airdate": "2025-11-10",
+        "summary": "Actresses compete in a musical showdown.",
+        "url": "https://www.imdb.com/title/tt38780062/?ref_=ttep_ep_7",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt38907699/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38907699/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 8,
+        "name": "Fitness vs. Funny",
+        "airdate": "2025-11-17",
+        "summary": "A fitness expert and a comedian get competitive.",
+        "url": "https://www.imdb.com/title/tt38907699/?ref_=ttep_ep_8",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt38907703/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38907703/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 9,
+        "name": "Reality Realness",
+        "airdate": "2025-11-24",
+        "summary": "A reality star and a fashion mogul compete for the spotlight.",
+        "url": "https://www.imdb.com/title/tt38907703/?ref_=ttep_ep_9",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt38907708/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38907708/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 10,
+        "name": "TV Stars on Shuffle",
+        "airdate": "2025-12-01",
+        "summary": "Debbie Mazar battles Reggie Watts in a test of musical knowledge.",
+        "url": "https://www.imdb.com/title/tt38907708/?ref_=ttep_ep_10",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt38907709/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38907709/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 11,
+        "name": "Punchlines & Playlists",
+        "airdate": "2025-12-08",
+        "summary": "Comedians compete in a battle of speed and sound.",
+        "url": "https://www.imdb.com/title/tt38907709/?ref_=ttep_ep_11",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt38907711/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38907711/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 12,
+        "name": "Just Another Day at the Office",
+        "airdate": "2025-12-15",
+        "summary": "An actress and a comedian fight to the finish.",
+        "url": "https://www.imdb.com/title/tt38907711/?ref_=ttep_ep_12",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt39289284/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39289284/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 13,
+        "name": "Hair Raising Tunes",
+        "airdate": "2025-12-15",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt39289284/?ref_=ttep_ep_13",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt39295513/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39295513/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 14,
+        "name": "Fiery Fun & Frolics",
+        "airdate": "2026-01-05",
+        "summary": "Four new music lovers battle it out.",
+        "url": "https://www.imdb.com/title/tt39295513/?ref_=ttep_ep_14",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt42594565/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt42594565/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 21,
+        "name": "Brains, Brawn & Battles",
+        "airdate": "2026-09-21",
+        "summary": "Matthew from Philadelphia faces Paul from New Jersey. Tome from Detroit plays Robin from Northern Virginia.",
+        "url": "https://www.imdb.com/title/tt42594565/?ref_=ttep_ep_1",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt46065394/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46065394/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 14,
+        "name": "Teachers, Tech & Tunes",
+        "airdate": "2026-09-14",
+        "summary": "Amy and Billy face off in game one. Eric, a business director, plays Matt, a software engineer, in game two.",
+        "url": "https://www.imdb.com/title/tt46065394/?ref_=ttep_ep_2",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt46662360/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46662360/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 20,
+        "name": "Battle of the Icons",
+        "airdate": "2026-09-20",
+        "summary": "In S6, Ice-T battles Tony Hawk in a musical duel. Philly dad Nick goes against Name That Tune fanatic, Suria, raising the stakes.",
+        "url": "https://www.imdb.com/title/tt46662360/?ref_=ttep_ep_3",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt47657840/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt47657840/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 28,
+        "name": "Comedy Clash!",
+        "airdate": "2026-09-28",
+        "summary": "Thomas Lennon as Jim Dangle in Reno 911 faces Darcy Carden. Caleb, a drama teacher, battles Jackie, an incident investigator and \"Queen of NTT\".",
+        "url": "https://www.imdb.com/title/tt47657840/?ref_=ttep_ep_4",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt47657866/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt47657866/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 6,
+        "number": 5,
+        "name": "A Military Musical Mission",
+        "airdate": "2026-10-05",
+        "summary": "Special Forces stars Billy and Foxy face off. Colin, an Ohio Air Traffic Controller, challenges Christina, an Oklahoma Navy member.",
+        "url": "https://www.imdb.com/title/tt47657866/?ref_=ttep_ep_5",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt33098995/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt33098995/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 17,
+        "name": "A New Dawn Is Rising",
+        "airdate": "2026-09-17",
+        "summary": "Alan Cumming opens the doors of his castle to 22 everyday Americans for the ultimate game of deception and a chance to win up to $250,000; the Traitors are chosen, the Faithful are under pressure and things get off to an explosive start.",
+        "url": "https://www.imdb.com/title/tt33098995/?ref_=ttep_ep_1",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt39242457/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39242457/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 24,
+        "name": "The Traitors Are Watching",
+        "airdate": "2026-09-24",
+        "summary": "The Traitors are forced to make a difficult decision that could change the fate of the entire game; in a high-stakes mission, the players face a series of dilemmas and critical information that threatens to put the Traitors at risk.",
+        "url": "https://www.imdb.com/title/tt39242457/?ref_=ttep_ep_3",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt39242459/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39242459/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 5,
+        "name": "Wake of the Living Dead",
+        "airdate": "2026-10-08",
+        "summary": "Pressure is at a boiling point as the Traitors must commit their next murder in plain sight; meanwhile, the stakes are higher than ever for the players as they face a terrifying night that could change everything.",
+        "url": "https://www.imdb.com/title/tt39242459/?ref_=ttep_ep_5",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt39242460/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39242460/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 6,
+        "name": "A Murder of Necessity",
+        "airdate": "2026-10-15",
+        "summary": "The funeral leaves the players shaken, as the Faithful race to solve who committed the murder in plain sight; a savage roundtable sees emotions boil over and loyalties shatter as friends turn against each other.",
+        "url": "https://www.imdb.com/title/tt39242460/?ref_=ttep_ep_6",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt39242461/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39242461/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 7,
+        "name": "Episode #5.7",
+        "airdate": "2026-10-22",
+        "summary": "The great fruit debate rages on as wild accusations tear through the castle and paranoia is at a fever pitch; new suspicions are aired, and an explosive mission gives one player the chance to win a game-changing power.",
+        "url": "https://www.imdb.com/title/tt39242461/?ref_=ttep_ep_7",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt39242462/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39242462/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 8,
+        "name": "Episode #5.8",
+        "airdate": "2026-10-29",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt39242462/?ref_=ttep_ep_8",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt39242464/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39242464/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 9,
+        "name": "Episode #5.9",
+        "airdate": "2026-11-05",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt39242464/?ref_=ttep_ep_9",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt39242465/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39242465/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 10,
+        "name": "Episode #5.10",
+        "airdate": "2026-11-12",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt39242465/?ref_=ttep_ep_10",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt46104641/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46104641/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 11,
+        "name": "Episode #5.11",
+        "airdate": "2026-11-19",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt46104641/?ref_=ttep_ep_11",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt46104654/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46104654/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 12,
+        "name": "Episode #5.12",
+        "airdate": "2026-11-19",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt46104654/?ref_=ttep_ep_12",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt38623936/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38623936/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 1,
+        "name": "Records Will be Broken",
+        "airdate": "2025-11-07",
+        "summary": "Parker schemes for a $35M heist and recruits from a competitor's team. Tony scores a major early payday. Rick rushes to secure new territory.",
+        "url": "https://www.imdb.com/title/tt38623936/?ref_=ttep_ep_1",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt38907123/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38907123/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 2,
+        "name": "Eager Beavers",
+        "airdate": "2025-11-14",
+        "summary": "Tony fights huge beaver for gold access. Parker recruits more workers, doubling gold output. Rick negotiates for new claim.",
+        "url": "https://www.imdb.com/title/tt38907123/?ref_=ttep_ep_2",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39006363/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39006363/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 3,
+        "name": "Rick's Bold Call",
+        "airdate": "2025-11-21",
+        "summary": "Rick balks at the terms for his new claim and makes a bold move. Parker's foreman, Tyson, battles a flooded cut and a batch of new recruits. Tony explodes on a batch of rookies flipping over trucks.",
+        "url": "https://www.imdb.com/title/tt39006363/?ref_=ttep_ep_3",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39006370/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39006370/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 4,
+        "name": "Buzz in the Hills",
+        "airdate": "2025-11-28",
+        "summary": "Parker pushes Mitch to deliver Sulphur Creek gold and records a big score. Buzz lands on an unlikely claim. Tony's pressure tests a new foreman.",
+        "url": "https://www.imdb.com/title/tt39006370/?ref_=ttep_ep_4",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39060460/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39060460/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 5,
+        "name": "Pick Me Someone to Fire",
+        "airdate": "2025-12-05",
+        "summary": "Parker tasks Tyson with finding the weakest link in the crew. Tony approaches Parker to make a deal and raids his son Mike's operation. Rick fires up on Lightning Creek for the first time.",
+        "url": "https://www.imdb.com/title/tt39060460/?ref_=ttep_ep_5",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39109615/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39109615/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 6,
+        "name": "The Weasel",
+        "airdate": "2025-12-12",
+        "summary": "Tony hunts down an insubordinate crew member. Rick gets his first gold from Lightning Creek. Kevin's parents pressure him to get his new Pyramid Cut running.",
+        "url": "https://www.imdb.com/title/tt39109615/?ref_=ttep_ep_6",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39228908/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39228908/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 7,
+        "name": "Surprise Fortunes",
+        "airdate": "2025-12-19",
+        "summary": "While searching for better ground on Lightning Creek, Rick is rocked by surprising news. Parker gets greedy and expands his Sulphur claim. Mike pivots on Paradise Hill in an effort to impress Tony.",
+        "url": "https://www.imdb.com/title/tt39228908/?ref_=ttep_ep_7",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39228910/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39228910/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 8,
+        "name": "No Off Days",
+        "airdate": "2025-12-26",
+        "summary": "Parker's season rides on a critical decision on which ground to open next. Doumitt designs a new gold coin, and Parker cashes in a pile of gold.",
+        "url": "https://www.imdb.com/title/tt39228910/?ref_=ttep_ep_8",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39228915/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39228915/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 9,
+        "name": "Parker Comes Calling",
+        "airdate": "2026-01-02",
+        "summary": "Kevin is sent reeling when Parker shows up demanding the money he's owed; Parker discovers he's losing gold from a wash plant on Dominion Creek; Tony's son Mike puts new recruits through boot camp on Paradise Hill.",
+        "url": "https://www.imdb.com/title/tt39228915/?ref_=ttep_ep_9",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39287004/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39287004/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 10,
+        "name": "Playing with Fire",
+        "airdate": "2026-01-09",
+        "summary": "Forest fires threaten to shut down Parker's Sulphur Creek claim before he can get all the gold out. Rick decides whether to move back to Duncan Creek. Tony loses nearly $750,000 in gold fighting a wash plant issue.",
+        "url": "https://www.imdb.com/title/tt39287004/?ref_=ttep_ep_10",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39373412/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39373412/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 11,
+        "name": "New Levels of Chaos",
+        "airdate": "2026-01-16",
+        "summary": "Parker unleashes chaos as the team tries to get four wash plants running. Tony splurges on a new wash plant to get more gold. Kevin tries to broker a deal with his dad. Rick fires up at Vegas Valley.",
+        "url": "https://www.imdb.com/title/tt39373412/?ref_=ttep_ep_11",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39395098/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39395098/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 14,
+        "name": "The King of Keno",
+        "airdate": "2026-02-06",
+        "summary": "Rick goes on a midnight run to stake new ground for his empire. While fixing one of the wash plants, Monster Red, he discovers she's hiding a surprising amount of gold.",
+        "url": "https://www.imdb.com/title/tt39395098/?ref_=ttep_ep_14",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39395629/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39395629/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 12,
+        "name": "Cleaning Up in Vegas",
+        "airdate": "2026-01-23",
+        "summary": "Rick plows through Vegas Valley paydirt and makes a big score, but an obstacle threatens to stall him. Parker's four-plant blitz stumbles. To keep his hot streak going, Tony pilfers more gear from his son Mike.",
+        "url": "https://www.imdb.com/title/tt39395629/?ref_=ttep_ep_12",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39525155/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39525155/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 13,
+        "name": "On Shaky Ground",
+        "airdate": "2026-01-30",
+        "summary": "Parker drops the hammer as he tries to stop his gold slide. Rick makes a discovery that could end his Vegas Valley dreams. Kevin hires a new free agent and makes a big score at his new Sphinx Cut.",
+        "url": "https://www.imdb.com/title/tt39525155/?ref_=ttep_ep_13",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39525159/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39525159/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 15,
+        "name": "Valhalla or Bust",
+        "airdate": "2026-02-13",
+        "summary": "Rick makes a shocking $1M call to open a new cut.",
+        "url": "https://www.imdb.com/title/tt39525159/?ref_=ttep_ep_15",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt39888222/?ref_=ttep_ep_24",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39888222/?ref_=ttep_ep_24@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 24,
+        "name": "1,000 Ounce Week",
+        "airdate": "2026-04-17",
+        "summary": "Tony aims for over 1,000 ounces in a week. Parker purchases new equipment to expand operations. Rick's team spends heavily during a successful run.",
+        "url": "https://www.imdb.com/title/tt39888222/?ref_=ttep_ep_24",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt40065238/?ref_=ttep_ep_16",
+      "uid": "tvmaze-https://www.imdb.com/title/tt40065238/?ref_=ttep_ep_16@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 16,
+        "name": "The Defectors",
+        "airdate": "2026-02-20",
+        "summary": "Tony's crew defects to Parker's side; Tony relies on inexperienced operators; Parker's new hires cause friction within the team; the group faces animosity as they open a new cut.",
+        "url": "https://www.imdb.com/title/tt40065238/?ref_=ttep_ep_16",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt40065242/?ref_=ttep_ep_17",
+      "uid": "tvmaze-https://www.imdb.com/title/tt40065242/?ref_=ttep_ep_17@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 17,
+        "name": "Trommel Around and Find Out",
+        "airdate": "2026-02-27",
+        "summary": "Tony blows up at Mike to get the trommel running. Two of Rick's crew face off while trying to dig out Valhalla. Kevin leans on Buzz to get more gold.",
+        "url": "https://www.imdb.com/title/tt40065242/?ref_=ttep_ep_17",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt40065442/?ref_=ttep_ep_18",
+      "uid": "tvmaze-https://www.imdb.com/title/tt40065442/?ref_=ttep_ep_18@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 18,
+        "name": "The Silence of the Sluice",
+        "airdate": "2026-03-06",
+        "summary": "Parker does the unthinkable to get all of the Golden Mile's paydirt. Rick's mechanic Ryan considers leaving. Mike Beets finally fires up the trommel on the hill.",
+        "url": "https://www.imdb.com/title/tt40065442/?ref_=ttep_ep_18",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt40672985/?ref_=ttep_ep_19",
+      "uid": "tvmaze-https://www.imdb.com/title/tt40672985/?ref_=ttep_ep_19@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 19,
+        "name": "Rick's Mess",
+        "airdate": "2026-03-13",
+        "summary": "Rick's shaken by his find at the bottom of Valhalla. Tony bears down on his 6,500-ounce goal. Parker taps Brennan for a big job at the Golden Mile.",
+        "url": "https://www.imdb.com/title/tt40672985/?ref_=ttep_ep_19",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt40998993/?ref_=ttep_ep_20",
+      "uid": "tvmaze-https://www.imdb.com/title/tt40998993/?ref_=ttep_ep_20@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 20,
+        "name": "Like Brother, Like Brother",
+        "airdate": "2026-03-20",
+        "summary": "Tony Beets' brother Klaas visits from The Netherlands and reunites with his son Mike, who's worked for Tony for 4 years. Tony and Minnie go on a rare date. Tony's friend smelts gold into small bars worth about $1 million.",
+        "url": "https://www.imdb.com/title/tt40998993/?ref_=ttep_ep_20",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt41240870/?ref_=ttep_ep_21",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41240870/?ref_=ttep_ep_21@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 21,
+        "name": "Golden Goose, Wounded Moose",
+        "airdate": "2026-03-27",
+        "summary": "Tony aims for over 1,000 ounces in a week. Parker purchases new equipment to expand operations. Rick's team spends heavily during a successful run.",
+        "url": "https://www.imdb.com/title/tt41240870/?ref_=ttep_ep_21",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt41549115/?ref_=ttep_ep_22",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41549115/?ref_=ttep_ep_22@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 22,
+        "name": "Dig Deep or Cash Out",
+        "airdate": "2026-04-03",
+        "summary": "Parker and Tony race to break the 10,000-ounce mark. Rick works to open the Last Chance cut before his Vegas Valley pay dirt runs out.",
+        "url": "https://www.imdb.com/title/tt41549115/?ref_=ttep_ep_22",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt41704615/?ref_=ttep_ep_23",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41704615/?ref_=ttep_ep_23@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 23,
+        "name": "Musical Washplants",
+        "airdate": "2026-04-10",
+        "summary": "Parker brings Sluicifer out of retirement for a big week. Rick prays that Vegas Valley still pays out big. Kevin staffs up for the final push.",
+        "url": "https://www.imdb.com/title/tt41704615/?ref_=ttep_ep_23",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt41704627/?ref_=ttep_ep_25",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41704627/?ref_=ttep_ep_25@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 25,
+        "name": "The Gold Ceiling",
+        "airdate": "2026-04-24",
+        "summary": "Parker and Tony both try to bust through the 10,000-ounce barrier. Rick tries to get the Last Chance cut open before he runs out of Vegas Valley pay dirt.",
+        "url": "https://www.imdb.com/title/tt41704627/?ref_=ttep_ep_25",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt42361367/?ref_=ttep_ep_26",
+      "uid": "tvmaze-https://www.imdb.com/title/tt42361367/?ref_=ttep_ep_26@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 16,
+        "number": 26,
+        "name": "Klondike Shoot-out",
+        "airdate": "2026-05-01",
+        "summary": "Parker faces off against Tony in a fierce competition for the season's highest gold total. Rick works hard at Lightning Creek and grows his operation to rescue his season.",
+        "url": "https://www.imdb.com/title/tt42361367/?ref_=ttep_ep_26",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt46080788/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt46080788/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 17,
+        "number": 1,
+        "name": "The Most Gold Wins",
+        "airdate": "2026-10-02",
+        "summary": "Parker and Tony set 13,000-ounce gold goals, sparking competition to mine the most and reviving an old rivalry. Rick deals with health problems and an unclear future. A newcomer joins the Klondike competition.",
+        "url": "https://www.imdb.com/title/tt46080788/?ref_=ttep_ep_1",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt49269179/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt49269179/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 17,
+        "number": 2,
+        "name": "A Midas Mess",
+        "airdate": "2026-10-09",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt49269179/?ref_=ttep_ep_2",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt35310933/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35310933/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 1,
+        "name": "K-Pop: A Star Is Made",
+        "airdate": "2025-01-05",
+        "summary": "K-Pop bands, popular worldwide, originate from South Korea and are uniquely molded in the music industry. CNN's Kyung Lah explores the intense training of seven aspiring stars, just one week before their audition for a premiere idol group.",
+        "url": "https://www.imdb.com/title/tt35310933/?ref_=ttep_ep_1",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt35313700/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35313700/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 11,
+        "name": "Saving Venice",
+        "airdate": "2025-05-11",
+        "summary": "CNN's Erica Hill explores the future of Venice, a city threatened by rising sea levels and the more immediate threat of overwhelming tourism; she speaks with locals working to preserve the city's traditions and address climate change.",
+        "url": "https://www.imdb.com/title/tt35313700/?ref_=ttep_ep_11",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt35361674/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35361674/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 2,
+        "name": "LA Burning",
+        "airdate": "2025-01-12",
+        "summary": "The worst wildfires in the history of Los Angeles are still burning. How did they start? How bad and long-lasting is the damage? And is this the start of a new era of climate disaster that we all need to face? CNN's Anderson Cooper reports.",
+        "url": "https://www.imdb.com/title/tt35361674/?ref_=ttep_ep_2",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt35554743/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35554743/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 3,
+        "name": "Operation Panda",
+        "airdate": "2025-01-26",
+        "summary": "The Smithsonian National Zoo is set to reopen its panda exhibit. CNN's David Culver covers the arrival of the first giant pandas sent from China to the U.S. in 24 years and examines the history of panda diplomacy.",
+        "url": "https://www.imdb.com/title/tt35554743/?ref_=ttep_ep_3",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt35654461/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35654461/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 4,
+        "name": "Flight Risk",
+        "airdate": "2025-02-02",
+        "summary": "The collision between a jetliner and an Army helicopter near Washington DC is the deadliest aviation disaster in the US since 2001. CNN's Anderson Cooper examines the circumstances around the crash and the airline safety issues of recent years.",
+        "url": "https://www.imdb.com/title/tt35654461/?ref_=ttep_ep_4",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt35887567/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35887567/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 5,
+        "name": "Bill Gates",
+        "airdate": "2025-02-23",
+        "summary": "CNN's Anderson Cooper interviews Bill Gates about the moments that shaped him, his career at Microsoft and the future of AI. Gates also discusses meeting with President Trump and Elon Musk's intervening with USAID.",
+        "url": "https://www.imdb.com/title/tt35887567/?ref_=ttep_ep_5",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt36297440/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36297440/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 6,
+        "name": "Adaptation Nation: A Climate Crisis Survival Guide",
+        "airdate": "2025-03-23",
+        "summary": "From the hurricane-afflicted Gulf Coast to the fire-ravaged mountains of California, communities are rebuilding in the face of disaster. CNN's Bill Weir explores the lessons learned and how we can adapt to a changing climate.",
+        "url": "https://www.imdb.com/title/tt36297440/?ref_=ttep_ep_6",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt36355319/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36355319/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 7,
+        "name": "Fentanyl in America: A Way Out",
+        "airdate": "2025-03-30",
+        "summary": "CNN's Kate Bolduan reports on America's opioid overdose epidemic, speaking with EMTs, physicians, and people struggling with addiction. As the crisis enters its \"third wave\", she examines efforts to find new solutions.",
+        "url": "https://www.imdb.com/title/tt36355319/?ref_=ttep_ep_7",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt36534663/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36534663/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 8,
+        "name": "MisinfoNation: Extreme America",
+        "airdate": "2025-04-13",
+        "summary": "CNN's Donie O'Sullivan marks 30 years since the Oklahoma City bombing by exploring how technology and social media fuel modern far-right extremism. Along the way, he encounters a newly radicalized generation justifying political violence.",
+        "url": "https://www.imdb.com/title/tt36534663/?ref_=ttep_ep_8",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt36666490/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36666490/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 9,
+        "name": "100 Days of Trump",
+        "airdate": "2025-04-27",
+        "summary": "As President Trump approaches his first 100 days back in office, he has moved with astonishing speed to issue a record number of executive actions. CNN's Abby Phillip takes a closer look at the real-world impact of his decisions on average Americans.",
+        "url": "https://www.imdb.com/title/tt36666490/?ref_=ttep_ep_9",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt36759068/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36759068/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 10,
+        "name": "The Wired Rainforest",
+        "airdate": "2025-05-04",
+        "summary": "CNN's Nick Paton Walsh reports on the impact of the internet being introduced to the Amazon jungle's indigenous Kanamari community for the first time and how its people grapple with a technology that has transformed every part of Western life.",
+        "url": "https://www.imdb.com/title/tt36759068/?ref_=ttep_ep_10",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt37314052/?ref_=ttep_ep_17",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37314052/?ref_=ttep_ep_17@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 21,
+        "name": "The Simril(l)s: A Family in Black and White",
+        "airdate": "2025-09-21",
+        "summary": "CNN's Sara Snider shares a powerful portrait of a multi-racial Southern family that confronts and explores its painful shared history and comes together in spite of it. United, they consider how they can serve as a blueprint for racial healing.",
+        "url": "https://www.imdb.com/title/tt37314052/?ref_=ttep_ep_17",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt37314054/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37314054/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 14,
+        "name": "Change Amplified: Live Music and the Climate Crisis",
+        "airdate": "2025-07-20",
+        "summary": "CNN's Bill Weir speaks with big stars working to revolutionize the environmental impact of live music; exploring their efforts to reform an industry known for its massive energy use and waste.",
+        "url": "https://www.imdb.com/title/tt37314054/?ref_=ttep_ep_14",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt37314055/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37314055/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 15,
+        "name": "Ecuador: The Narco Superhighway",
+        "airdate": "2025-08-10",
+        "summary": "Ecuador is one of the most environmentally diverse countries in South America, home to rainforests, the Andes Mountains and the Galapagos Islands. It was once considered one of the safest, most peaceful countries in the region with the lowest homicide rate. But that is quickly changing. A rise in drug trafficking has led to a rise in power for the cartels in the region. Around 70 percent of the world's cocaine moves through Ecuador now, and that has plunged the country into a state of chaos and violence. CNN's David Culver takes us inside Ecuador where he'll show you firsthand what the government forces are doing to try to contain the violence and speaks with Ecuadorians, including current gang members, about why so many civilians are getting caught up in this war, either by force or sometimes by choice.",
+        "url": "https://www.imdb.com/title/tt37314055/?ref_=ttep_ep_15",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt37529323/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37529323/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 13,
+        "name": "The Idaho Murders",
+        "airdate": "2025-07-18",
+        "summary": "CNN's John Miller examines the case against Brian Kohlberger who pled guilty to the 2022 murders of four University of Idaho students; how did police identify him and will the motive for his grisly crime ever be revealed?",
+        "url": "https://www.imdb.com/title/tt37529323/?ref_=ttep_ep_13",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt37530052/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37530052/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 12,
+        "name": "The Case Against Diddy",
+        "airdate": "2025-07-11",
+        "summary": "As the public processes the verdicts in the federal trial of Sean \"Diddy\" Combs, CNN's Laura Coates charts his rise, fall and the key moments in the case against him.",
+        "url": "https://www.imdb.com/title/tt37530052/?ref_=ttep_ep_12",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt37884705/?ref_=ttep_ep_16",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37884705/?ref_=ttep_ep_16@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 16,
+        "name": "Sports Betting: America's Big Gamble",
+        "airdate": "2025-08-24",
+        "summary": "CNN's Nick Watt takes us inside the sports betting world with those who make a living out of it and those who've lost everything. He'll also show you how these apps are designed to draw people in and why it can be so hard to quit.",
+        "url": "https://www.imdb.com/title/tt37884705/?ref_=ttep_ep_16",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt37884709/?ref_=ttep_ep_20",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37884709/?ref_=ttep_ep_20@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 20,
+        "name": "Bad Sports: When Fans Turn Violent",
+        "airdate": "2025-10-11",
+        "summary": "As violent fan behavior escalates worldwide, CNN's Ed Lavandera speaks with sports fans, officials, and authorities to investigate how the hive mentality of sports fandom, fueled by adrenaline and frustration, can erupt into violent conflict.",
+        "url": "https://www.imdb.com/title/tt37884709/?ref_=ttep_ep_20",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt38275290/?ref_=ttep_ep_18",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38275290/?ref_=ttep_ep_18@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 28,
+        "name": "No Laughing Matter: Free Speech Under Attack",
+        "airdate": "2025-09-28",
+        "summary": "CNN's Jake Tapper examines the events leading to Jimmy Kimmel's suspension from ABC and the role of government and business in the decision to take him off the air; exploring issues of freedom of speech and press under different administrations.",
+        "url": "https://www.imdb.com/title/tt38275290/?ref_=ttep_ep_18",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt38521206/?ref_=ttep_ep_23",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38521206/?ref_=ttep_ep_23@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 23,
+        "name": "The Exorcists",
+        "airdate": "2025-11-23",
+        "summary": "CNN's David Culver delves into modern exorcisms in America, revealing how old rituals of religious cleansing are being revived today as a last resort for people seeking relief from trauma and abuse.",
+        "url": "https://www.imdb.com/title/tt38521206/?ref_=ttep_ep_23",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt38521209/?ref_=ttep_ep_22",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38521209/?ref_=ttep_ep_22@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 22,
+        "name": "MisinfoNation: White Genocide",
+        "airdate": "2025-11-16",
+        "summary": "CNN's Donie O'Sullivan investigates why the narrative of alleged \"White Genocide\" in South Africa, fueled by fears of demographic change in the U.S., has gained traction among Americans, including Donald Trump; and reveals a more complex reality.",
+        "url": "https://www.imdb.com/title/tt38521209/?ref_=ttep_ep_22",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt39008783/?ref_=ttep_ep_24",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39008783/?ref_=ttep_ep_24@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 24,
+        "name": "Justice Defenders: Change Inside Prison",
+        "airdate": "2025-12-07",
+        "summary": "CNN's Anderson Cooper travels to Kenya to report on the work of Justice Defenders, a non-profit seeking to help those incarcerated in Africa's overcrowded prisons return to society, and whether their model could work in America's justice system.",
+        "url": "https://www.imdb.com/title/tt39008783/?ref_=ttep_ep_24",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt39231771/?ref_=ttep_ep_25",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39231771/?ref_=ttep_ep_25@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 25,
+        "name": "Rob Reiner: His Life & Legacy",
+        "airdate": "2025-12-21",
+        "summary": "CNN's Sara Sidner reports on the latest in the investigation and unanswered questions around the death of Rob Reiner and Michele Singer Reiner and looks at their long legacy in Hollywood and beyond.",
+        "url": "https://www.imdb.com/title/tt39231771/?ref_=ttep_ep_25",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt39329714/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39329714/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 1,
+        "name": "Inside the Raid: Venezuela's Future",
+        "airdate": "2026-01-11",
+        "summary": "CNN's David Culver reports from the border of Venezuela on the raid that ended in the capture of Nicolas Maduro; examining the country's long history with the U.S., motives behind the raid, the legal case against Maduro and what comes next.",
+        "url": "https://www.imdb.com/title/tt39329714/?ref_=ttep_ep_1",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt39869605/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39869605/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 2,
+        "name": "What Happened to Nancy Guthrie?",
+        "airdate": "2026-02-15",
+        "summary": "Nancy Guthrie was last seen at her home near Tucson on January 31, 2026. CNN's Ed Lavandera reports on the latest in the search for the mother of Today Show host, Savannah Guthrie; examining the timeline of events and key evidence in her disappearance.",
+        "url": "https://www.imdb.com/title/tt39869605/?ref_=ttep_ep_2",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt39869606/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39869606/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 4,
+        "name": "The Rise of Christian Nationalism",
+        "airdate": "2026-03-22",
+        "summary": "CNN's Pamela Brown examines the growing influence of Christian nationalism in American society; exploring how a movement once largely confined to the margins of white evangelical culture has gained new visibility and political power.",
+        "url": "https://www.imdb.com/title/tt39869606/?ref_=ttep_ep_4",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt39869607/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39869607/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 5,
+        "name": "Immigration Crackdown: A Year of Enforcement",
+        "airdate": "2026-03-29",
+        "summary": "CNN's Omar Jimenez reports on the escalation of US Immigration and Customs Enforcement tactics since Donald Trump took office and how federal immigration policies are unfolding on the ground, reshaping communities and affecting migration patterns.",
+        "url": "https://www.imdb.com/title/tt39869607/?ref_=ttep_ep_5",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt39869609/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt39869609/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 3,
+        "name": "War With Iran: The Attack and the Fallout",
+        "airdate": "2026-03-08",
+        "summary": "One week into the war, CNN's Sara Sidner traces the events of recent years inside Iran and what led to the decision to strike, examining the ripple effect of economic and security impacts to the region and what it all means for America.",
+        "url": "https://www.imdb.com/title/tt39869609/?ref_=ttep_ep_3",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt41453967/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41453967/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 6,
+        "name": "50 Years of Apple",
+        "airdate": "2026-04-04",
+        "summary": "Fifty years after its founding, CNN's Bill Weir takes viewers inside Apple, one of the most influential, profitable, and iconic companies ever, tracing its history, most consequential moments, and ongoing cultural impact.",
+        "url": "https://www.imdb.com/title/tt41453967/?ref_=ttep_ep_6",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt41453970/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41453970/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 7,
+        "name": "UFC at the White House",
+        "airdate": "2026-06-07",
+        "summary": "As the UFC prepares for an historic fight at the White House, CNN's Sara Sidner examines its rise from controversy to a powerful political force, offering an inside look at the decades-long relationship between the UFC and President Donald Trump.",
+        "url": "https://www.imdb.com/title/tt41453970/?ref_=ttep_ep_7",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt41453971/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41453971/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 8,
+        "name": "Ben Sasse Is Going Home",
+        "airdate": "2026-07-26",
+        "summary": "CNN's Jake Tapper speaks with former Nebraska Senator Ben Sasse, who is living with a terminal cancer diagnosis at the age of 54. Their decade-long history informs a deeply personal conversation on life, faith, and love in the face of mortality.",
+        "url": "https://www.imdb.com/title/tt41453971/?ref_=ttep_ep_8",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt41453973/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41453973/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 9,
+        "name": "The Left Insurgency",
+        "airdate": "2026-08-02",
+        "summary": "CNN's Donie O'Sullivan examines the growing influence of the Democratic Party's progressive movement, from grassroots activists to digital creators, and whether its rise is the party's greatest strength or greatest risk as the midterms approach.",
+        "url": "https://www.imdb.com/title/tt41453973/?ref_=ttep_ep_9",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt41453975/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt41453975/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 10,
+        "name": "Stacked: Inside the Enhancement Craze",
+        "airdate": "2026-08-16",
+        "summary": "CNN's Isobel Yeung digs into the once taboo world of performance enhancing drugs and how they are becoming increasingly popular not only among athletes, but also among young men who are using them to enhance their physical appearance.",
+        "url": "https://www.imdb.com/title/tt41453975/?ref_=ttep_ep_10",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt44047318/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt44047318/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 11,
+        "name": "The End of the World As We Know It",
+        "airdate": "2026-08-30",
+        "summary": "CNN's Nick Paton Walsh explores the doomsday prepper movement, a once fringe subculture now embraced by 20 million Americans. Drawing on his experience covering conflict, he tests his survival skills with those preparing for disaster.",
+        "url": "https://www.imdb.com/title/tt44047318/?ref_=ttep_ep_11",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt44047325/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt44047325/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 13,
+        "name": "30 Days Inside: Hospitals and the Immigrant Workforce",
+        "airdate": "2026-10-04",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt44047325/?ref_=ttep_ep_13",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27238424:https://www.imdb.com/title/tt44047329/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt44047329/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 14,
+        "name": "MAGA Ever After?",
+        "airdate": "2026-10-17",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt44047329/?ref_=ttep_ep_14",
+        "showId": "tt27238424",
+        "showName": "The Whole Story with Anderson Cooper"
       }
     },
     {
@@ -88939,6 +92411,342 @@
         "url": "https://www.imdb.com/title/tt41951698/?ref_=ttep_ep_15",
         "showId": "tt4864850",
         "showName": "For My Man"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426517/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426517/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 1,
+        "name": "Eat the Rich",
+        "airdate": "2025-10-09",
+        "summary": "In honor of Bobby Nash's sacrifice, the 118 comes together to dedicate the firehouse in his memory. Meanwhile, when a billionaire tech giant is involved in a life-or-death emergency, the team must race to his aid.",
+        "url": "https://www.imdb.com/title/tt36426517/?ref_=ttep_ep_1",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426518/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426518/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 9,
+        "name": "Fighting Back",
+        "airdate": "2026-01-22",
+        "summary": "Hen continues to seek out a diagnosis for her mysterious symptoms. Harry hits a wall in his attempts to complete the academy firefighting exam.",
+        "url": "https://www.imdb.com/title/tt36426518/?ref_=ttep_ep_9",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426519/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426519/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 8,
+        "name": "War",
+        "airdate": "2026-01-15",
+        "summary": "Following Hen's firing, Chimney grapples with his decision and how it has affected the team. Meanwhile, a new AI call center assistant, meant to help, has begun to create more complications, and the 118 must intervene.",
+        "url": "https://www.imdb.com/title/tt36426519/?ref_=ttep_ep_8",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426520/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426520/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 12,
+        "name": "Dads and Cads",
+        "airdate": "2026-03-05",
+        "summary": "Maddie and Buck are blindsided by some unexpected news that turns their world upside down. Meanwhile, Buck and Eddie head to Nashville when they are selected to participate in the national firefighting games.",
+        "url": "https://www.imdb.com/title/tt36426520/?ref_=ttep_ep_12",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426521/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426521/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 10,
+        "name": "Handle with Care",
+        "airdate": "2026-01-29",
+        "summary": "Harry's first day as a probie proves to be more challenging than Chimney expects. Meanwhile, Eddie and Hen are called into court over a former patient that brings back some old demons.",
+        "url": "https://www.imdb.com/title/tt36426521/?ref_=ttep_ep_10",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426522/?ref_=ttep_ep_17",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426522/?ref_=ttep_ep_17@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 17,
+        "name": "I Got You Babe",
+        "airdate": "2026-04-30",
+        "summary": "Buck is faced with his past after an electrical emergency call; Maddie learns to navigate her working relationships now that she has become a supervisor.",
+        "url": "https://www.imdb.com/title/tt36426522/?ref_=ttep_ep_17",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426523/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426523/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 11,
+        "name": "Going Once, Going Twice",
+        "airdate": "2026-02-26",
+        "summary": "Eddie faces an unthinkable personal crisis. Hen and Karen spring into action when thrown into a terrifying situation.",
+        "url": "https://www.imdb.com/title/tt36426523/?ref_=ttep_ep_11",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426524/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426524/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 3,
+        "name": "The Sky Is Falling",
+        "airdate": "2025-10-23",
+        "summary": "Athena and Hen face increasing dangers as friends both near and far try to get them home safely. Meanwhile, the 118 continues to help victims of the geostorm and falling debris.",
+        "url": "https://www.imdb.com/title/tt36426524/?ref_=ttep_ep_3",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426525/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426525/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 7,
+        "name": "Secrets",
+        "airdate": "2026-01-08",
+        "summary": "Hen's attempts at keeping her health issues private are starting to impact more than her physical well-being. Meanwhile Buck and Ravi decide Eddie needs a night out.",
+        "url": "https://www.imdb.com/title/tt36426525/?ref_=ttep_ep_7",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426526/?ref_=ttep_ep_18",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426526/?ref_=ttep_ep_18@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 18,
+        "name": "Hearts and Flowers",
+        "airdate": "2026-05-07",
+        "summary": "Following Athena's shooting, the 118 gathers at the hospital awaiting news. The mastermind behind the trafficking ring is determined to silence Athena and anyone who gets in his way for good.",
+        "url": "https://www.imdb.com/title/tt36426526/?ref_=ttep_ep_18",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426527/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426527/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 6,
+        "name": "Family History",
+        "airdate": "2025-11-13",
+        "summary": "Athena must revisit a painful part of her past when answering a call for help. Meanwhile, the 118 takes a big step forward.",
+        "url": "https://www.imdb.com/title/tt36426527/?ref_=ttep_ep_6",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426528/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426528/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 13,
+        "name": "Mother's Boy",
+        "airdate": "2026-03-12",
+        "summary": "Eddie and Buck's flight to Los Angeles is cancelled. For Hen's birthday they start a road trip, but they get lost and Buck disappears.",
+        "url": "https://www.imdb.com/title/tt36426528/?ref_=ttep_ep_13",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426529/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426529/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 2,
+        "name": "Spiraling",
+        "airdate": "2025-10-16",
+        "summary": "As a geostorm ravages Earth, Athena and Hen's space mission teeters on the edge. On the ground, the 118 battles chaos when technology goes rogue.",
+        "url": "https://www.imdb.com/title/tt36426529/?ref_=ttep_ep_2",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426530/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426530/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 14,
+        "name": "D.I.Y.",
+        "airdate": "2026-03-19",
+        "summary": "Buck tries to manage the trauma following his kidnapping on his own. May tries to secure her first law internship without the help of Athena. Maddie handles a personal crisis at the call center.",
+        "url": "https://www.imdb.com/title/tt36426530/?ref_=ttep_ep_14",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426531/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426531/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 5,
+        "name": "Día de los Muertos",
+        "airdate": "2025-11-06",
+        "summary": "The 118's beliefs are put to the test as they respond to emergency calls involving a Jack-o'-lantern and a few more jump scares than they were expecting on Halloween.",
+        "url": "https://www.imdb.com/title/tt36426531/?ref_=ttep_ep_5",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426532/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426532/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 15,
+        "name": "Pick Your Poison",
+        "airdate": "2026-03-26",
+        "summary": "Athena investigates a bizarre murder case when a man reports his own death at the station. The 118 responds to a car accident involving a mother and her son.",
+        "url": "https://www.imdb.com/title/tt36426532/?ref_=ttep_ep_15",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426533/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426533/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 4,
+        "name": "Reentry",
+        "airdate": "2025-10-30",
+        "summary": "As Athena and Hen navigate their way back home, Athena will be forced to confront what it means to live without Bobby.",
+        "url": "https://www.imdb.com/title/tt36426533/?ref_=ttep_ep_4",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt36426534/?ref_=ttep_ep_16",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36426534/?ref_=ttep_ep_16@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 9,
+        "number": 16,
+        "name": "Where There's Smoke",
+        "airdate": "2026-04-02",
+        "summary": "The 118 must account for every decision made during a recent fire call when the team's actions are investigated for possible mistakes. Buck works behind the scenes to support his team as he waits to learn if he can return to the station.",
+        "url": "https://www.imdb.com/title/tt36426534/?ref_=ttep_ep_16",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt40446795/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt40446795/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 10,
+        "number": 1,
+        "name": "That Sinking Feeling",
+        "airdate": "2026-10-15",
+        "summary": "The 118 faces an earth-shattering emergency that shakes Los Angeles to its core. Still finding her footing as a detective, Athena leans on instinct to crack a mysterious new case. May finds her own confidence in a new job.",
+        "url": "https://www.imdb.com/title/tt40446795/?ref_=ttep_ep_1",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt48611201/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt48611201/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 10,
+        "number": 2,
+        "name": "Fire in the Hole",
+        "airdate": "2026-10-22",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt48611201/?ref_=ttep_ep_2",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt48920163/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt48920163/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 10,
+        "number": 3,
+        "name": "Episode #10.3",
+        "airdate": "2026-10-29",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt48920163/?ref_=ttep_ep_3",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
       }
     }
   ]
