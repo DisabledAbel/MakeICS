@@ -1,26 +1,8 @@
 {
   "teamId": "147062",
   "teamName": "St. Louis City SC",
-  "updatedAt": "2026-10-15T05:01:54.467Z",
+  "updatedAt": "2026-10-17T20:51:09.941Z",
   "events": [
-    {
-      "idEvent": "mls-761876",
-      "sourceEventId": "761876",
-      "strEvent": "Minnesota United vs St. Louis City SC",
-      "strHomeTeam": "Minnesota United",
-      "strAwayTeam": "St. Louis City SC",
-      "idHomeTeam": "135852",
-      "idAwayTeam": "147062",
-      "dateEvent": "2026-10-17",
-      "strTime": "20:30:00",
-      "strTimestamp": "2026-10-17T20:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Allianz Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761898",
       "sourceEventId": "761898",

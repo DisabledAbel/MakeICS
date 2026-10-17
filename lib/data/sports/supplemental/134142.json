@@ -1,26 +1,8 @@
 {
   "teamId": "134142",
   "teamName": "Philadelphia Union",
-  "updatedAt": "2026-10-15T05:01:54.467Z",
+  "updatedAt": "2026-10-17T20:51:09.941Z",
   "events": [
-    {
-      "idEvent": "mls-761875",
-      "sourceEventId": "761875",
-      "strEvent": "Philadelphia Union vs Charlotte FC",
-      "strHomeTeam": "Philadelphia Union",
-      "strAwayTeam": "Charlotte FC",
-      "idHomeTeam": "134142",
-      "idAwayTeam": "140078",
-      "dateEvent": "2026-10-17",
-      "strTime": "18:30:00",
-      "strTimestamp": "2026-10-17T18:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Subaru Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761894",
       "sourceEventId": "761894",
