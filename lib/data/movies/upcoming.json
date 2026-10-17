@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:32:53.606Z",
+  "generatedAt": "2026-10-17T09:03:28.301Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5085,6 +5085,35 @@
       "label": "Oct 16, 2026"
     },
     {
+      "id": "tt31457111",
+      "title": "Capturing Bigfoot",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmExMWY1NjQtN2JmMS00ZmVhLWJmMjItOWM5Yjg4Y2VlMjU0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Mystery"
+      ],
+      "people": [
+        {
+          "id": "nm18917974",
+          "name": "Teresa Brooks"
+        },
+        {
+          "id": "nm18926182",
+          "name": "Sandy Collier"
+        },
+        {
+          "id": "nm0319815",
+          "name": "Bob Gimlin"
+        },
+        {
+          "id": "nm4456388",
+          "name": "Bob Heironimus"
+        }
+      ],
+      "label": "Oct 20, 2026"
+    },
+    {
       "id": "tt46078866",
       "title": "CMA Presents I Will Always Love You: A Celebration of Dolly Parton",
       "image": "https://m.media-amazon.com/images/M/MV5BN2EzNTVhNmMtNDFkNy00YmMyLWI0M2UtZDcyMWY1MzExMGI4XkEyXkFqcGc@._V1_.jpg",
@@ -6216,7 +6245,7 @@
     },
     {
       "id": "tt48391060",
-      "title": "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
+      "title": "Stray Kids World Tour 'Run It' Live Viewing",
       "image": "https://m.media-amazon.com/images/M/MV5BOTM5OTE5NzktMjE5My00MWZmLTk1MzgtNGFkNTk4YjFmMTgxXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Sat, 07 Nov 2026 00:00:00 GMT",
       "genres": [
@@ -6275,7 +6304,7 @@
     {
       "id": "tt38952225",
       "title": "Soul Patrol",
-      "image": "https://m.media-amazon.com/images/M/MV5BZjJjMDBkOTctNGM3Yy00ZjhhLWJmYzItNTZhNzFhMDZiZjJjXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzYyNDNkMjEtNzEyNi00YTY4LWIwNDMtODM4YTQ4ZmVhN2I4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 11 Nov 2026 00:00:00 GMT",
       "genres": [
         "Documentary",
@@ -6642,7 +6671,7 @@
     {
       "id": "tt11995650",
       "title": "I Play Rocky",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDBlNzdhYTktNWJkYS00YTVkLTgxNzMtMjcyZGU2ZmZkZmI0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY0MWFkODAtNDdhNS00MzIwLThhMjItMzczMDQ3OWUxMGI0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -7237,6 +7266,36 @@
       "label": "Dec 04, 2026"
     },
     {
+      "id": "tt9219630",
+      "title": "November 1963",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjc3YWE1ZDEtZjA0MS00MzRhLWJkMjYtOTdkMjMyNjI2NTExXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Crime",
+        "History"
+      ],
+      "people": [
+        {
+          "id": "nm0000237",
+          "name": "John Travolta"
+        },
+        {
+          "id": "nm0000551",
+          "name": "Dermot Mulroney"
+        },
+        {
+          "id": "nm0001597",
+          "name": "Mandy Patinkin"
+        },
+        {
+          "id": "nm0001015",
+          "name": "Robert Carlyle"
+        }
+      ],
+      "label": "Dec 04, 2026"
+    },
+    {
       "id": "tt34718200",
       "title": "The Debut",
       "image": "https://m.media-amazon.com/images/M/MV5BM2Q5ZTdmN2UtYzJjZi00ZjZjLWJmMWMtMjFjMmM5M2VmOWY4XkEyXkFqcGc@._V1_.jpg",
@@ -7659,6 +7718,36 @@
         }
       ],
       "label": "Jan 08, 2027"
+    },
+    {
+      "id": "tt34347792",
+      "title": "Everybody Digs Bill Evans",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzgxMmE2YzktOTc5My00OTgxLWI5MzItODEwMGE2NWI4Y2M0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 09 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm0509264",
+          "name": "Anders Danielsen Lie"
+        },
+        {
+          "id": "nm18281305",
+          "name": "Will Sach"
+        },
+        {
+          "id": "nm18417733",
+          "name": "Boz Martin-Jones"
+        },
+        {
+          "id": "nm0911395",
+          "name": "Barry Ward"
+        }
+      ],
+      "label": "Jan 09, 2027"
     },
     {
       "id": "tt35935357",
@@ -10282,6 +10371,36 @@
       "genres": [],
       "people": [],
       "label": "Oct 08, 2027"
+    },
+    {
+      "id": "tt22408968",
+      "title": "The Mummy: Book of the Dead",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTYwMmVkYjQtYzczZS00MzhmLThlMmEtMjE4MjVjMDI2NzhlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 15 Oct 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "people": [
+        {
+          "id": "nm0000409",
+          "name": "Brendan Fraser"
+        },
+        {
+          "id": "nm0001838",
+          "name": "Rachel Weisz"
+        },
+        {
+          "id": "nm5076257",
+          "name": "Michael Johnston"
+        },
+        {
+          "id": "nm0004912",
+          "name": "Oded Fehr"
+        }
+      ],
+      "label": "Oct 15, 2027"
     }
   ]
 }
