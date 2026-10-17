@@ -1,25 +1,8 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-10-13T00:11:02.010Z",
+  "updatedAt": "2026-10-17T03:07:01.236Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401906509",
-      "strEvent": "New Orleans Pelicans vs Washington Wizards",
-      "strHomeTeam": "New Orleans Pelicans",
-      "strAwayTeam": "Washington Wizards",
-      "dateEvent": "2026-10-16",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-17T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Smoothie King Center",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134878",
-      "idAwayTeam": "134884"
-    },
     {
       "idEvent": "scraped-espn-401909835",
       "strEvent": "Washington Wizards vs Milwaukee Bucks",

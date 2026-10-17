@@ -1,25 +1,8 @@
 {
   "teamId": "134878",
   "teamName": "New Orleans Pelicans",
-  "updatedAt": "2026-10-15T03:20:35.981Z",
+  "updatedAt": "2026-10-17T03:07:01.236Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401906509",
-      "strEvent": "New Orleans Pelicans vs Washington Wizards",
-      "strHomeTeam": "New Orleans Pelicans",
-      "strAwayTeam": "Washington Wizards",
-      "dateEvent": "2026-10-16",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-17T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Smoothie King Center",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134878",
-      "idAwayTeam": "134884"
-    },
     {
       "idEvent": "scraped-espn-401909839",
       "strEvent": "New Orleans Pelicans vs Indiana Pacers",

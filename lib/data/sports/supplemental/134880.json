@@ -1,25 +1,8 @@
 {
   "teamId": "134880",
   "teamName": "Atlanta Hawks",
-  "updatedAt": "2026-10-13T22:18:36.097Z",
+  "updatedAt": "2026-10-17T03:07:01.236Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898408",
-      "strEvent": "Dallas Mavericks vs Atlanta Hawks",
-      "strHomeTeam": "Dallas Mavericks",
-      "strAwayTeam": "Atlanta Hawks",
-      "dateEvent": "2026-10-16",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-17T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134875",
-      "idAwayTeam": "134880"
-    },
     {
       "idEvent": "scraped-espn-401909834",
       "strEvent": "Orlando Magic vs Atlanta Hawks",

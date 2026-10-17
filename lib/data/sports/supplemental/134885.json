@@ -1,25 +1,8 @@
 {
   "teamId": "134885",
   "teamName": "Denver Nuggets",
-  "updatedAt": "2026-10-15T03:20:35.981Z",
+  "updatedAt": "2026-10-17T03:07:01.236Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898719",
-      "strEvent": "Los Angeles Lakers vs Denver Nuggets",
-      "strHomeTeam": "Los Angeles Lakers",
-      "strAwayTeam": "Denver Nuggets",
-      "dateEvent": "2026-10-16",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-17T02:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134867",
-      "idAwayTeam": "134885"
-    },
     {
       "idEvent": "scraped-espn-401909094",
       "strEvent": "Oklahoma City Thunder vs Denver Nuggets",

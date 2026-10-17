@@ -1,25 +1,8 @@
 {
   "teamId": "134879",
   "teamName": "San Antonio Spurs",
-  "updatedAt": "2026-10-15T03:20:35.981Z",
+  "updatedAt": "2026-10-17T03:07:01.236Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401898843",
-      "strEvent": "San Antonio Spurs vs Sacramento Kings",
-      "strHomeTeam": "San Antonio Spurs",
-      "strAwayTeam": "Sacramento Kings",
-      "dateEvent": "2026-10-16",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-17T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Frost Bank Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134879",
-      "idAwayTeam": "134869"
-    },
     {
       "idEvent": "scraped-espn-401909090",
       "strEvent": "San Antonio Spurs vs Oklahoma City Thunder",

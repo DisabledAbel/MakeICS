@@ -1,25 +1,8 @@
 {
   "teamId": "134870",
   "teamName": "Chicago Bulls",
-  "updatedAt": "2026-10-16T16:08:06.566Z",
+  "updatedAt": "2026-10-17T03:07:01.236Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401908943",
-      "strEvent": "Chicago Bulls vs Minnesota Timberwolves",
-      "strHomeTeam": "Chicago Bulls",
-      "strAwayTeam": "Minnesota Timberwolves",
-      "dateEvent": "2026-10-16",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-17T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134870",
-      "idAwayTeam": "134886"
-    },
     {
       "idEvent": "scraped-espn-401909837",
       "strEvent": "Toronto Raptors vs Chicago Bulls",

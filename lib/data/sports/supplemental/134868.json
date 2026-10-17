@@ -1,25 +1,8 @@
 {
   "teamId": "134868",
   "teamName": "Phoenix Suns",
-  "updatedAt": "2026-10-15T03:20:35.981Z",
+  "updatedAt": "2026-10-17T03:07:01.236Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401908948",
-      "strEvent": "Phoenix Suns vs Utah Jazz",
-      "strHomeTeam": "Phoenix Suns",
-      "strAwayTeam": "Utah Jazz",
-      "dateEvent": "2026-10-16",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-17T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Mortgage Matchup Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134868",
-      "idAwayTeam": "134889"
-    },
     {
       "idEvent": "scraped-espn-401909841",
       "strEvent": "Portland Trail Blazers vs Phoenix Suns",
