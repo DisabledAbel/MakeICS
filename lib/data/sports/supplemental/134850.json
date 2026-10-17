@@ -1,26 +1,8 @@
 {
   "teamId": "134850",
   "teamName": "Vancouver Canucks",
-  "updatedAt": "2026-10-16T04:41:35.783Z",
+  "updatedAt": "2026-10-17T20:43:31.736Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020123",
-      "strEvent": "Tampa Bay Lightning vs Vancouver Canucks",
-      "strHomeTeam": "Tampa Bay Lightning",
-      "strAwayTeam": "Vancouver Canucks",
-      "dateEvent": "2026-10-17",
-      "strTime": "20:00:00",
-      "strTimestamp": "2026-10-17T20:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Benchmark International Arena",
-      "strStatus": "NS",
-      "strTVStation": "SNP, The Spot",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020123",
-      "idHomeTeam": "134836",
-      "idAwayTeam": "134850"
-    },
     {
       "idEvent": "nhl-2026020150",
       "strEvent": "Vancouver Canucks vs Carolina Hurricanes",

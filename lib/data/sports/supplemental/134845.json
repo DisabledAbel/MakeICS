@@ -1,26 +1,8 @@
 {
   "teamId": "134845",
   "teamName": "Washington Capitals",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-17T20:43:31.736Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020121",
-      "strEvent": "Washington Capitals vs New Jersey Devils",
-      "strHomeTeam": "Washington Capitals",
-      "strAwayTeam": "New Jersey Devils",
-      "dateEvent": "2026-10-17",
-      "strTime": "17:00:00",
-      "strTimestamp": "2026-10-17T17:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT, MSGSN, NHLN, SN",
-      "updatedAt": "2026-10-08T13:41:00.401Z",
-      "source": "scraped",
-      "sourceEventId": "2026020121",
-      "idHomeTeam": "134845",
-      "idAwayTeam": "134840"
-    },
     {
       "idEvent": "nhl-2026020144",
       "strEvent": "Washington Capitals vs Los Angeles Kings",

@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-10-16T04:41:35.783Z",
+  "updatedAt": "2026-10-17T20:43:31.736Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020122",
-      "strEvent": "Winnipeg Jets vs Carolina Hurricanes",
-      "strHomeTeam": "Winnipeg Jets",
-      "strAwayTeam": "Carolina Hurricanes",
-      "dateEvent": "2026-10-17",
-      "strTime": "19:30:00",
-      "strTimestamp": "2026-10-17T19:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canada Life Centre",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020122",
-      "idHomeTeam": "134851",
-      "idAwayTeam": "134838"
-    },
     {
       "idEvent": "nhl-2026020146",
       "strEvent": "St. Louis Blues vs Winnipeg Jets",
