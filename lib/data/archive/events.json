@@ -88083,6 +88083,134 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt0450435/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0450435/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 28,
+        "name": "Episode #1.1",
+        "airdate": "1990-09-28",
+        "summary": "Angus Deayton hosts while team captains Ian Hislop and Paul Merton are joined by Sandi Toksvig and Kate Saunders.",
+        "url": "https://www.imdb.com/title/tt0450435/?ref_=ttep_ep_1",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt0597715/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0597715/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 2,
+        "name": "Episode #1.2",
+        "airdate": "1990-10-05",
+        "summary": "Angus Deayton hosts while team captains Ian Hislop and Paul Merton are joined by Jan Ravens and Martin Young.",
+        "url": "https://www.imdb.com/title/tt0597715/?ref_=ttep_ep_2",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt0597716/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0597716/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 3,
+        "name": "Episode #1.3",
+        "airdate": "1990-10-12",
+        "summary": "Angus Deayton hosts while team captains Ian Hislop and Paul Merton are joined by Tony Slattery and Robert Harris.",
+        "url": "https://www.imdb.com/title/tt0597716/?ref_=ttep_ep_3",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt0597717/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0597717/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 4,
+        "name": "Episode #1.4",
+        "airdate": "1990-10-19",
+        "summary": "Angus Deayton hosts while team captains Ian Hislop and Paul Merton are joined by Arthur Smith and Gill Pyrah.",
+        "url": "https://www.imdb.com/title/tt0597717/?ref_=ttep_ep_4",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt0597718/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0597718/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 5,
+        "name": "Episode #1.5",
+        "airdate": "1990-10-26",
+        "summary": "Angus Deayton hosts while team captains Ian Hislop and Paul Merton are joined by Dillie Keane and Simon Hoggart.",
+        "url": "https://www.imdb.com/title/tt0597718/?ref_=ttep_ep_5",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt0597719/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0597719/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 6,
+        "name": "Episode #1.6",
+        "airdate": "1990-11-02",
+        "summary": "Angus Deayton hosts while team captains Ian Hislop and Paul Merton are joined by Rory McGrath and Ken Livingstone.",
+        "url": "https://www.imdb.com/title/tt0597719/?ref_=ttep_ep_6",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt0597720/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0597720/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 7,
+        "name": "Episode #1.7",
+        "airdate": "1990-11-09",
+        "summary": "Angus Deayton hosts while team captains Ian Hislop and Paul Merton are joined by Clive Anderson and Russell Davies.",
+        "url": "https://www.imdb.com/title/tt0597720/?ref_=ttep_ep_7",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0098820:https://www.imdb.com/title/tt0597721/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0597721/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 8,
+        "name": "Episode #1.8",
+        "airdate": "1990-11-16",
+        "summary": "Angus Deayton hosts while team captains Ian Hislop and Paul Merton are joined by Germaine Greer and Tony Banks.",
+        "url": "https://www.imdb.com/title/tt0597721/?ref_=ttep_ep_8",
+        "showId": "tt0098820",
+        "showName": "Have I Got News for You"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt0098820:https://www.imdb.com/title/tt41041544/?ref_=ttep_ep_1",
       "uid": "tvmaze-https://www.imdb.com/title/tt41041544/?ref_=ttep_ep_1@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
@@ -89059,6 +89187,358 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0657979/?ref_=ttep_ep_22",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0657979/?ref_=ttep_ep_22@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 22,
+        "name": "A Weak Link",
+        "airdate": "2004-05-18",
+        "summary": "A SEAL lieutenant falls to his death, due to a failed fitting in his gear, while rappelling during an exercise; Gibbs and company investigate; the CIA expresses intense interest. Abby and McGee provide answers, and the team solve the case.",
+        "url": "https://www.imdb.com/title/tt0657979/?ref_=ttep_ep_22",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0657984/?ref_=ttep_ep_16",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0657984/?ref_=ttep_ep_16@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 16,
+        "name": "Bête Noire",
+        "airdate": "2004-03-02",
+        "summary": "A foreign agent enters the autopsy room via an unconventional method; he then takes captive Ducky, Gerald, and, later, Kate. He demands evidence pertaining to a body in the room. He eventually asks to see Gibbs, who obliges him.",
+        "url": "https://www.imdb.com/title/tt0657984/?ref_=ttep_ep_16",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0657989/?ref_=ttep_ep_19",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0657989/?ref_=ttep_ep_19@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 19,
+        "name": "Dead Man Talking",
+        "airdate": "2004-04-27",
+        "summary": "A guard finds the disemboweled body of an NCIS agent in an elevator; the gang investigate. Gibbs feels responsibility. The victim has pursued a cold case involving a theft of $12M+ from the Navy.",
+        "url": "https://www.imdb.com/title/tt0657989/?ref_=ttep_ep_19",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0657992/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0657992/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 15,
+        "name": "Enigma",
+        "airdate": "2004-02-24",
+        "summary": "A Marine colonel disappears during an ambush in Iraq, as does $2M in cash; he re-enters the US under an assumed name; the FBI seeks him, and so does Gibbs, with whom he served while on active duty. Gibbs finds him.",
+        "url": "https://www.imdb.com/title/tt0657992/?ref_=ttep_ep_15",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0657993/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0657993/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 11,
+        "name": "Eye Spy",
+        "airdate": "2004-01-13",
+        "summary": "A SEAL officer, a diver, dies of a stab wound after swimming while testing a classified handheld sonar device, which disappears. An anonymous caller reports the murder. Gibbs and the gang search for the murderer and the device.",
+        "url": "https://www.imdb.com/title/tt0657993/?ref_=ttep_ep_11",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0657998/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0657998/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 6,
+        "name": "High Seas",
+        "airdate": "2003-11-04",
+        "summary": "During a port visit by USS Enterprise, a chef finds a naked sailor inside a restaurant freezer in Spain. Later at sea, while NCIS investigates, another sailor freaks out on the flight deck. After that, one of the two mysteriously dies.",
+        "url": "https://www.imdb.com/title/tt0657998/?ref_=ttep_ep_6",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658001/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658001/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 30,
+        "name": "Hung Out to Dry",
+        "airdate": "2003-09-30",
+        "summary": "During a training jump, a Marine dies when his main chute fails to open and he fails to pull his reserve chute. Kate joins the NCIS team, and together they investigate the method of the murder to find the perpetrator.",
+        "url": "https://www.imdb.com/title/tt0658001/?ref_=ttep_ep_2",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658004/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658004/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 10,
+        "name": "Left for Dead",
+        "airdate": "2004-01-06",
+        "summary": "A woman claws her way out of a shallow grave. She has no memory of her past, but she is certain that there is a bomb about to go off on a US Navy ship. While the rest of the team seeks the bomb, Kate tries to help her recover her memory.",
+        "url": "https://www.imdb.com/title/tt0658004/?ref_=ttep_ep_10",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658007/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658007/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 9,
+        "name": "Marine Down",
+        "airdate": "2003-12-16",
+        "summary": "Two Marine majors supposedly die during a classified operation in an undisclosed foreign country; one of them purports to call home. The team investigates.",
+        "url": "https://www.imdb.com/title/tt0658007/?ref_=ttep_ep_9",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658009/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658009/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 8,
+        "name": "Minimum Security",
+        "airdate": "2003-11-25",
+        "summary": "A naturalized petty officer of Egyptian descent dies in the US from massive bleeding due to an intestinal blockage caused by emeralds; he had just arrived from Camp Delta at Gitmo. To prevent another murder, the team investigates at Gitmo.",
+        "url": "https://www.imdb.com/title/tt0658009/?ref_=ttep_ep_8",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658010/?ref_=ttep_ep_20",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658010/?ref_=ttep_ep_20@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 20,
+        "name": "Missing",
+        "airdate": "2004-05-04",
+        "summary": "A Marine fails to report for duty. He's an EOD tech with a critical qualification, so the NCIS investigates.",
+        "url": "https://www.imdb.com/title/tt0658010/?ref_=ttep_ep_20",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658012/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658012/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 12,
+        "name": "My Other Left Foot",
+        "airdate": "2004-02-03",
+        "summary": "A dumpster diver finds a severed leg, apparently from a Marine, believed to be attached to a live person not more than 24 hours earlier; however, the Marine in question, according to records, died two years previously.",
+        "url": "https://www.imdb.com/title/tt0658012/?ref_=ttep_ep_12",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658013/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658013/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 13,
+        "name": "One Shot, One Kill",
+        "airdate": "2004-02-10",
+        "summary": "A Marine recruiter dies in his office from a single shot. Gibbs and the gang investigate, then a second one dies in the same manner. The Gibbs group expect a third murder, so they set a trap.",
+        "url": "https://www.imdb.com/title/tt0658013/?ref_=ttep_ep_13",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658019/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658019/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 3,
+        "name": "Seadog",
+        "airdate": "2003-10-07",
+        "summary": "A US Navy commander nicknamed \"Seadog\" washes up dead on a North Virginia beach. Two dead alleged drug dealers are found nearby. All three victims are shot. NCIS, joined by DEA and FBI, investigate.",
+        "url": "https://www.imdb.com/title/tt0658019/?ref_=ttep_ep_3",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658022/?ref_=ttep_ep_21",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658022/?ref_=ttep_ep_21@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 21,
+        "name": "Split Decision",
+        "airdate": "2004-05-11",
+        "summary": "Teenagers at play find the body of a Marine impaled on a post. The victim was an armorer at Quantico. Gibbs and the gang investigate both the murder and the theft of surplus weapons. An ATF agent takes an unusual part.",
+        "url": "https://www.imdb.com/title/tt0658022/?ref_=ttep_ep_21",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658023/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658023/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 7,
+        "name": "Sub Rosa",
+        "airdate": "2003-11-18",
+        "summary": "Workers find the decomposing body of a man, apparently a submariner, inside a drum of acid. The team treats the case as both murder and identity theft. Gibbs and Kate go aboard a sub at sea, hoping to find the killer and save the crew.",
+        "url": "https://www.imdb.com/title/tt0658023/?ref_=ttep_ep_7",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658027/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658027/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 5,
+        "name": "The Curse",
+        "airdate": "2003-10-28",
+        "summary": "A hunter finds an aircraft cargo pod containing a mummified Navy disbursing officer who disappeared from his aircraft carrier, as did 1.2 million dollars. The NCIS team investigate to see if there are old injustices to be righted.",
+        "url": "https://www.imdb.com/title/tt0658027/?ref_=ttep_ep_5",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658028/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658028/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 14,
+        "name": "The Good Samaritan",
+        "airdate": "2004-02-17",
+        "summary": "A Navy dentist from a naval air station dies of a single shot to his back, apparently in an execution-style murder. Two more men from the same station soon die identically.",
+        "url": "https://www.imdb.com/title/tt0658028/?ref_=ttep_ep_14",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658030/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658030/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 4,
+        "name": "The Immortals",
+        "airdate": "2003-10-14",
+        "summary": "A swimmer finds the weighted body of a seaman who has disappeared from a US Navy destroyer. The NCIS team investigates a petty officer connected with the victim, but a plot against the skipper is uncovered.",
+        "url": "https://www.imdb.com/title/tt0658030/?ref_=ttep_ep_4",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658032/?ref_=ttep_ep_17",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658032/?ref_=ttep_ep_17@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 17,
+        "name": "The Truth Is Out There",
+        "airdate": "2004-03-16",
+        "summary": "The body of a petty officer falls from a ceiling at a nightclub; Ducky says that someone dressed him after he died. Gibbs finds $40K in the victim's room, and the team follows the money through twists and turns, hoping to find his killer.",
+        "url": "https://www.imdb.com/title/tt0658032/?ref_=ttep_ep_17",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658035/?ref_=ttep_ep_18",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658035/?ref_=ttep_ep_18@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 18,
+        "name": "UnSEALeD",
+        "airdate": "2004-04-06",
+        "summary": "A prisoner, who was a SEAL petty officer, escapes from Fort Leavenworth while serving time for having killed his wife and a cable guy. The team, seeking to determine where he may go next, consider whether his conviction was wrong.",
+        "url": "https://www.imdb.com/title/tt0658035/?ref_=ttep_ep_18",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0364845:https://www.imdb.com/title/tt0658039/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt0658039/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 23,
+        "name": "Yankee White",
+        "airdate": "2003-09-23",
+        "summary": "Aboard Air Force One a Navy officer dies after eating with POTUS, then a Marine officer who is connected with AF1 also dies in the same way while in Georgetown. Abby identifies the cause, but does Gibbs have time to save the president?",
+        "url": "https://www.imdb.com/title/tt0658039/?ref_=ttep_ep_1",
+        "showId": "tt0364845",
+        "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt0364845:https://www.imdb.com/title/tt37544772/?ref_=ttep_ep_1",
       "uid": "tvmaze-https://www.imdb.com/title/tt37544772/?ref_=ttep_ep_1@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
@@ -89439,6 +89919,198 @@
         "url": "https://www.imdb.com/title/tt44930886/?ref_=ttep_ep_4",
         "showId": "tt0364845",
         "showName": "NCIS"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt3058422/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3058422/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 1,
+        "name": "Tomato Sauces for Pasta",
+        "airdate": "2001-08-04",
+        "summary": "Recipes: Pasta and Fresh Tomato Sauce with Garlic and Basil, Rustic Slow-Simmered Tomato Sauce with Meat Tasting Lab: Canned Diced Tomatoes Science Segment: Tasting Taste",
+        "url": "https://www.imdb.com/title/tt3058422/?ref_=ttep_ep_1",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt3058444/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3058444/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 22,
+        "name": "Sunday Dinner",
+        "airdate": "2001-09-22",
+        "summary": "Bacon-Wrapped Meatloaf with Brown Sugar-Ketchup Glaze, Garlic Mashed Potatoes, Ketchup, Garlic's Changing Flavor",
+        "url": "https://www.imdb.com/title/tt3058444/?ref_=ttep_ep_8",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt3058472/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3058472/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 3,
+        "name": "Great Roast Chicken",
+        "airdate": "2001-08-18",
+        "summary": "Recipes: Easy Roast Chicken. Equipment Reviews: roasting racks.",
+        "url": "https://www.imdb.com/title/tt3058472/?ref_=ttep_ep_3",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt3058476/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3058476/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 2,
+        "name": "The Perfect Roast Turkey",
+        "airdate": "2001-08-11",
+        "summary": "Recipe: Roast Crisped-Skin Turkey. Taste Test: turkey.",
+        "url": "https://www.imdb.com/title/tt3058476/?ref_=ttep_ep_2",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt3058490/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3058490/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 15,
+        "name": "Stir-Fry Made Easy",
+        "airdate": "2001-09-15",
+        "summary": "Stir-Fried Chicken and Zucchini in Ginger Sauce, Stir-Fried Tofu, Snow Peas, and Red Onion in Hot and Sour Sauce, Stir-Fried Shrimp, Asparagus, and Yellow Pepper in Lemon Sauce, Chef's Knives, Soy Sauce",
+        "url": "https://www.imdb.com/title/tt3058490/?ref_=ttep_ep_7",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt3058496/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3058496/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 4,
+        "name": "Beef Stew",
+        "airdate": "2001-08-25",
+        "summary": "Beef Stew with Bacon, Mushrooms, and Pearl Onions, Hearty Beef Stew, Beef Carbonnade, Beef Goulash, Dutch Ovens, Does Browning Meat Seal in Juiciness?",
+        "url": "https://www.imdb.com/title/tt3058496/?ref_=ttep_ep_4",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt3058498/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3058498/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 29,
+        "name": "Cooking Eggs",
+        "airdate": "2001-09-29",
+        "summary": "Fluffy Scrambled Eggs, Poached Eggs, Foolproof Boiled Eggs, Fried Eggs for Two, Non-stick skillets, Bacon, Understanding Egg Science",
+        "url": "https://www.imdb.com/title/tt3058498/?ref_=ttep_ep_9",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt3058504/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3058504/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 10,
+        "name": "Cookie Jar Classics",
+        "airdate": "2001-10-06",
+        "summary": "Thick and Chewy Chocolate Chip Cookies, Big Chewy Oatmeal-Raisin Cookies, Big, Super-Nutty Peanut Butter Cookies, Dark chocolate chips, Baking Soda 101",
+        "url": "https://www.imdb.com/title/tt3058504/?ref_=ttep_ep_10",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt3058520/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3058520/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 13,
+        "name": "Crisps, Cobblers, and Gratins",
+        "airdate": "2001-10-27",
+        "summary": "Fresh Berry Gratin, Fruit Crisp, Food processors, Cinnamon",
+        "url": "https://www.imdb.com/title/tt3058520/?ref_=ttep_ep_13",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt3058546/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3058546/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 8,
+        "name": "Salmon Three Ways",
+        "airdate": "2001-09-08",
+        "summary": "Simple Pan-Seared Salmon, Simple Grilled Salmon, Broiled Salmon with Mustard and Crisp Dilled Crust, Fish Fat",
+        "url": "https://www.imdb.com/title/tt3058546/?ref_=ttep_ep_6",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt3058558/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3058558/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 11,
+        "name": "The Perfect All-Purpose Cake",
+        "airdate": "2001-10-13",
+        "summary": "Yellow Layer Cake, Classic Vanilla Buttercream Frosting, Round cake pans, Protein in Flour",
+        "url": "https://www.imdb.com/title/tt3058558/?ref_=ttep_ep_11",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0437700:https://www.imdb.com/title/tt3058564/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3058564/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 12,
+        "name": "Holiday Pies",
+        "airdate": "2001-10-20",
+        "summary": "American Pie Dough, Perfect Pecan Pie, The Best Pumpkin Pie, Pie Plates",
+        "url": "https://www.imdb.com/title/tt3058564/?ref_=ttep_ep_12",
+        "showId": "tt0437700",
+        "showName": "America's Test Kitchen"
       }
     },
     {
@@ -89903,6 +90575,134 @@
         "url": "https://www.imdb.com/title/tt46454573/?ref_=ttep_ep_8",
         "showId": "tt0437700",
         "showName": "America's Test Kitchen"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt1028885/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1028885/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 3,
+        "name": "Upgrading Has Nothing to Do with You Honey",
+        "airdate": "2006-04-04",
+        "summary": "Jeana, Matt and Colton accompany Shane to a college in Arizona, Kimberly sets off for a girls-only weekend in Palm Springs and things get wild. Still trying to land Brent's business, Slade maneuvers an invitation with Jo to Brent's house for drinks. In preparation for their big convention in New Orleans, Vicki & Lauri get a home treatment of Botox and while Lauri's away, Ashley breaks the rules and has a party.",
+        "url": "https://www.imdb.com/title/tt1028885/?ref_=ttep_ep_3",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt1028886/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1028886/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 1,
+        "name": "Meet the Wives",
+        "airdate": "2006-03-21",
+        "summary": "In the first episode of 'The Real Housewives of Orange County,' Jeana's son Shane faces the stress of high school graduation and the baseball draft, where he feels pressure to become the third-generation Keough to play pro baseball. Shane's sister Kara feels the sting of sibling rivalry, and things get ugly when she demands a new car. Meanwhile, Kimberly discusses her breast implants a gift for her husband's 40th birthday ' and takes her daughter, Bianca, for professional make-up for a junior high dance. She then decides it's time to enjoy afternoon cocktails with friends and meets Jo in a chance encounter. Twenty-four-year-old Jo struggles with her new life as the fiancée of a wealthy thirty-something man. Jo and her fiancée, Slade, argue over her desire to continue partying. Jo ventures out and meets Kimberly, her first gated housewife friend. Vicki spares no expense to celebrate her daughter Briana's prom and graduation party but dreads her ex-husband's arrival for the festivities. Lauri deals with the aftermath of her divorce and lower-status life outside the gates. Things get even more complicated when her adult daughter comes home for a surprise visit.",
+        "url": "https://www.imdb.com/title/tt1028886/?ref_=ttep_ep_1",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt1028887/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1028887/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 2,
+        "name": "Is It Hunting Season, Yet?",
+        "airdate": "2006-03-28",
+        "summary": "Rabbits have overrun the gated Orange County community, and Jeana's son Shane has gained the reputation as the official 'rabbit hunter'. Kimberly is feeling neighborhood pressure to upgrade her car, meanwhile, Jo's fiance Slade plans a high-powered business meeting with a potential client. Vicki takes Briana and a group of cheerleaders on a cruise, where Vicki's wild side emerges and Lauri's troubles continue to mount and her son, Josh, gets into big trouble at school and gets arrested",
+        "url": "https://www.imdb.com/title/tt1028887/?ref_=ttep_ep_2",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt1053677/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1053677/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 5,
+        "name": "Cut the P and Lem Out of Problem and You Get ROB",
+        "airdate": "2006-04-18",
+        "summary": "Jeana's son Colton breaks his hand in a fight about drugs, Kimberly and her family hire a 'dog guru' to deal with their out-of-control dog and Jo is struggling to keep up with her responsibilities around the house. Vicki interrupts Briana's date fearing her daughter is too serious with her boyfriend, Colby, and Vicki and Lauri's attempt at after-work cocktails in the Jacuzzi is crashed by Michael and his friends, who are all smitten with Lauri.",
+        "url": "https://www.imdb.com/title/tt1053677/?ref_=ttep_ep_5",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt1053678/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1053678/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 7,
+        "name": "The Finale",
+        "airdate": "2006-05-02",
+        "summary": "Jeana decides its time to bond with her daughter Kara -- by inviting her to an exclusive diamond-shopping trip, Kimberly and Jo prepare to play a tennis match with women from the very competitive and elite Women's Tennis League, and Jo and Slade have an emotional confrontation that brings more questions than answers about the relationship. Vicki is excited to join the diamond-shopping trip, where she contemplates a new setting for her wedding ring. Doing better financially, Lauri joins Vicki and Jeana on the diamond-shopping spree in Beverly Hills, and it's time to celebrate as the 'housewives' gather for Kimberly's 45th birthday.",
+        "url": "https://www.imdb.com/title/tt1053678/?ref_=ttep_ep_7",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt1053679/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1053679/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 4,
+        "name": "Talk, Talk, Talk",
+        "airdate": "2006-04-11",
+        "summary": "Jeana takes Kimberly and Scott house hunting, then hosts a neighborhood BBQ. Sparks fly as Shane takes an interest in Jo. Kimberly comes clean with Scott about her crazy weekend in Palm Springs. Unhappy that Jo has gone back to work, Slade retaliates by hiring a sexy new assistant. Vicki and her husband Donn argue about Briana's job and Lauri continues to struggle with her children as Ashley fails to show up for work after discovering her car has disappeared.",
+        "url": "https://www.imdb.com/title/tt1053679/?ref_=ttep_ep_4",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt1053683/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1053683/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 6,
+        "name": "Shocking News",
+        "airdate": "2006-04-25",
+        "summary": "Slade's parents come visiting. Vicki attends her high school reunion and Kimberly is awaiting news from her doctor.",
+        "url": "https://www.imdb.com/title/tt1053683/?ref_=ttep_ep_6",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt0497079:https://www.imdb.com/title/tt2679940/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt2679940/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 8,
+        "name": "Reunion",
+        "airdate": "2006-05-09",
+        "summary": "Join the ladies of 'The Real Housewives of Orange County' as they sit down to reunite and reflect on such topics as wild diamond parties and unruly children in a reunion special.",
+        "url": "https://www.imdb.com/title/tt2679940/?ref_=ttep_ep_8",
+        "showId": "tt0497079",
+        "showName": "The Real Housewives of Orange County"
       }
     },
     {
@@ -90579,6 +91379,294 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt12927938/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt12927938/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 2,
+        "name": "The Pilot 101",
+        "airdate": "2020-09-02",
+        "summary": "In Tyler Perry's new sitcom about three generations making a new start in Georgia, Jeremy Washington and his family are shocked at what they find when they visit Grandpa Vinny at his Atlanta assisted-living facility.",
+        "url": "https://www.imdb.com/title/tt12927938/?ref_=ttep_ep_1",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13110666/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13110666/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 9,
+        "name": "Captain Crunch",
+        "airdate": "2020-09-09",
+        "summary": "Philip happens upon information about Jeremy that explains a bit more about their move.",
+        "url": "https://www.imdb.com/title/tt13110666/?ref_=ttep_ep_3",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13110684/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13110684/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 16,
+        "name": "For the Family",
+        "airdate": "2020-09-16",
+        "summary": "Sandra has a less-than-favorable reaction to their new circumstances.",
+        "url": "https://www.imdb.com/title/tt13110684/?ref_=ttep_ep_5",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13110704/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13110704/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 23,
+        "name": "The Weeping Willow",
+        "airdate": "2020-09-23",
+        "summary": "Vinny and Mr. Brown exchange details about their encounters with Madea.",
+        "url": "https://www.imdb.com/title/tt13110704/?ref_=ttep_ep_7",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13110716/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13110716/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 30,
+        "name": "The Monster",
+        "airdate": "2020-09-30",
+        "summary": "Vinny is reluctant to take Mr. Brown as a business partner; Jeremy's online plumber training literally backfires on him; Sandra meets someone who makes her move to a new city less unbearable.",
+        "url": "https://www.imdb.com/title/tt13110716/?ref_=ttep_ep_9",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13181172/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13181172/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 11,
+        "name": "A Lamb to Slaughter",
+        "airdate": "2020-10-07",
+        "summary": "Vinny considers going back on the business deal when Mr. Brown wants to move in; Leah and Jeremy learn that Philip and Sandra have left the facility without their permission.",
+        "url": "https://www.imdb.com/title/tt13181172/?ref_=ttep_ep_11",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13190750/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13190750/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 12,
+        "name": "Hard Decisions",
+        "airdate": "2020-10-14",
+        "summary": "Sandra confronts Philip about snitching to their parents.",
+        "url": "https://www.imdb.com/title/tt13190750/?ref_=ttep_ep_12",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13190756/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13190756/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 13,
+        "name": "Mary Jane",
+        "airdate": "2020-10-21",
+        "summary": "Leah learns that Mr. Brown has cut down Vinny's plants in the back yard.",
+        "url": "https://www.imdb.com/title/tt13190756/?ref_=ttep_ep_13",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13190766/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13190766/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 14,
+        "name": "A Huge Debt",
+        "airdate": "2020-10-28",
+        "summary": "When Sandra goes missing, Leah tries to track her cell phone.",
+        "url": "https://www.imdb.com/title/tt13190766/?ref_=ttep_ep_14",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13190770/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13190770/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 15,
+        "name": "Defiance",
+        "airdate": "2020-11-04",
+        "summary": "Cora calls Sheriff Luckett about Sandra running off with his son.",
+        "url": "https://www.imdb.com/title/tt13190770/?ref_=ttep_ep_15",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13211118/?ref_=ttep_ep_17",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13211118/?ref_=ttep_ep_17@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 17,
+        "name": "The Talk",
+        "airdate": "2020-11-18",
+        "summary": "Sandra responds to the most unlikely motivator.",
+        "url": "https://www.imdb.com/title/tt13211118/?ref_=ttep_ep_17",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13211120/?ref_=ttep_ep_18",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13211120/?ref_=ttep_ep_18@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 18,
+        "name": "Add More Color",
+        "airdate": "2020-11-25",
+        "summary": "Mr. Brown gives Sandra advice on her school outfit--and how to get what she wants.",
+        "url": "https://www.imdb.com/title/tt13211120/?ref_=ttep_ep_18",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13211124/?ref_=ttep_ep_19",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13211124/?ref_=ttep_ep_19@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 19,
+        "name": "The Brown Bomber",
+        "airdate": "2020-12-02",
+        "summary": "Jeremy and Leah agree to have Lindor over for dinner.",
+        "url": "https://www.imdb.com/title/tt13211124/?ref_=ttep_ep_19",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13211126/?ref_=ttep_ep_20",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13211126/?ref_=ttep_ep_20@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 20,
+        "name": "Open For Business",
+        "airdate": "2020-12-09",
+        "summary": "Lindor offers to be a helping hand around the living facility.",
+        "url": "https://www.imdb.com/title/tt13211126/?ref_=ttep_ep_20",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13211128/?ref_=ttep_ep_21",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13211128/?ref_=ttep_ep_21@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 21,
+        "name": "Being a Good Citizen",
+        "airdate": "2020-12-16",
+        "summary": "Mr. Brown tells Leah what Cora thinks about her cooking.",
+        "url": "https://www.imdb.com/title/tt13211128/?ref_=ttep_ep_21",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13211130/?ref_=ttep_ep_22",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13211130/?ref_=ttep_ep_22@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 22,
+        "name": "To Trust Or Not To Trust",
+        "airdate": "2020-12-23",
+        "summary": "Sandra's parents want to know why she's had a change-of-heart about Lindor.",
+        "url": "https://www.imdb.com/title/tt13211130/?ref_=ttep_ep_22",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13211134/?ref_=ttep_ep_24",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13211134/?ref_=ttep_ep_24@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 24,
+        "name": "A Dangerous Situation",
+        "airdate": "2021-01-06",
+        "summary": "Cora tries to convince Mr. Brown to help get Jeremy out of jail.",
+        "url": "https://www.imdb.com/title/tt13211134/?ref_=ttep_ep_24",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt12849834:https://www.imdb.com/title/tt13211136/?ref_=ttep_ep_25",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13211136/?ref_=ttep_ep_25@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 25,
+        "name": "The Dirty Denial",
+        "airdate": "2021-01-13",
+        "summary": "Plans to open the living facility screech to a halt when Vinny receives disturbing news.",
+        "url": "https://www.imdb.com/title/tt13211136/?ref_=ttep_ep_25",
+        "showId": "tt12849834",
+        "showName": "Tyler Perry's Assisted Living"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt12849834:https://www.imdb.com/title/tt37028093/?ref_=ttep_ep_1",
       "uid": "tvmaze-https://www.imdb.com/title/tt37028093/?ref_=ttep_ep_1@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
@@ -91155,6 +92243,166 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt13491736/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13491736/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 1,
+        "name": "Episode #1.1",
+        "airdate": "2021-01-06",
+        "summary": "A revival of the American television game show that put two contestants against each other to test their knowledge of songs.",
+        "url": "https://www.imdb.com/title/tt13491736/?ref_=ttep_ep_1",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt13504244/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13504244/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 2,
+        "name": "Episode #1.2",
+        "airdate": "2021-01-13",
+        "summary": "Four new contestants are welcomed to the stage, where their musical abilities are put to the test.",
+        "url": "https://www.imdb.com/title/tt13504244/?ref_=ttep_ep_2",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt13504246/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13504246/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 3,
+        "name": "Episode #1.3",
+        "airdate": "2021-01-20",
+        "summary": "Players compete against each other as they race around the clock to test their knowledge of songs performed by the live band.",
+        "url": "https://www.imdb.com/title/tt13504246/?ref_=ttep_ep_3",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt13504252/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt13504252/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 4,
+        "name": "Episode #1.4",
+        "airdate": "2021-01-27",
+        "summary": "Players race against the clock to test their knowledge of songs performed by the live band; the player with the most money at the end of each game gets to chance to win additional cash and potentially a whole lot of money.",
+        "url": "https://www.imdb.com/title/tt13504252/?ref_=ttep_ep_4",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt14180422/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt14180422/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 5,
+        "name": "Episode #1.5",
+        "airdate": "2021-02-04",
+        "summary": "Players race against the clock to test their knowledge of songs performed by the live band; the player with the most money at the end of each game gets a chance to win additional cash and potentially the $100,000 grand prize.",
+        "url": "https://www.imdb.com/title/tt14180422/?ref_=ttep_ep_5",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt14180460/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt14180460/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 10,
+        "name": "Episode #1.10",
+        "airdate": "2021-03-04",
+        "summary": "Eight new contestants test their musical knowledge.",
+        "url": "https://www.imdb.com/title/tt14180460/?ref_=ttep_ep_10",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt14182924/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt14182924/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 6,
+        "name": "Episode #1.6",
+        "airdate": "2021-02-10",
+        "summary": "Four new contestants compete.",
+        "url": "https://www.imdb.com/title/tt14182924/?ref_=ttep_ep_6",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt14182936/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt14182936/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 7,
+        "name": "Episode #1.7",
+        "airdate": "2021-02-24",
+        "summary": "Four new contestants battle it out in an assortment of challenging musical games for cash.",
+        "url": "https://www.imdb.com/title/tt14182936/?ref_=ttep_ep_7",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt14182976/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt14182976/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 8,
+        "name": "Episode #1.8",
+        "airdate": "2021-02-24",
+        "summary": "Eight new contestants are put to the test.",
+        "url": "https://www.imdb.com/title/tt14182976/?ref_=ttep_ep_8",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt13491734:https://www.imdb.com/title/tt14182980/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt14182980/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 9,
+        "name": "Episode #1.9",
+        "airdate": "2021-03-03",
+        "summary": "Eight new contestants are put to the test.",
+        "url": "https://www.imdb.com/title/tt14182980/?ref_=ttep_ep_9",
+        "showId": "tt13491734",
+        "showName": "Name That Tune"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt13491734:https://www.imdb.com/title/tt36933507/?ref_=ttep_ep_1",
       "uid": "tvmaze-https://www.imdb.com/title/tt36933507/?ref_=ttep_ep_1@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
@@ -91459,6 +92707,182 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt19866668/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt19866668/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 1,
+        "name": "The Game Is Afoot",
+        "airdate": "2023-01-12",
+        "summary": "Twenty contestants arrive at a castle in Scotland to play the ultimate murder mystery game.",
+        "url": "https://www.imdb.com/title/tt19866668/?ref_=ttep_ep_1",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt19866686/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt19866686/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 2,
+        "name": "Buried Alive",
+        "airdate": "2023-01-12",
+        "summary": "With suspicion rife after the first murder, the Traitors attempt to keep their cover; the mission sees some players meet an early grave; the first player is banished at the round table.",
+        "url": "https://www.imdb.com/title/tt19866686/?ref_=ttep_ep_2",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt19866688/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt19866688/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 3,
+        "name": "Murder They Wrote",
+        "airdate": "2023-01-12",
+        "summary": "A surprising victim is next on the Traitors' murder list; the bells toll to make money for the prize pot; another player is banished in a fiery round table; one Faithful makes a dramatic discovery.",
+        "url": "https://www.imdb.com/title/tt19866688/?ref_=ttep_ep_3",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt19866690/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt19866690/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 4,
+        "name": "Life or Death Situation",
+        "airdate": "2023-01-12",
+        "summary": "Cracks start to show in the treacherous trio as the pressure of the game weighs on one of them; home truths are told in the Carnival of Chaos; two more players are murdered and banished.",
+        "url": "https://www.imdb.com/title/tt19866690/?ref_=ttep_ep_4",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt19866692/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt19866692/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 5,
+        "name": "Getting Away with Murder",
+        "airdate": "2023-01-12",
+        "summary": "One Traitor brings suspicion on themselves; an ecclesiastical mission gives the players a chance to raise the prize pot over $100,000; murder and banishment hit two unexpected victims.",
+        "url": "https://www.imdb.com/title/tt19866692/?ref_=ttep_ep_5",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt19866694/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt19866694/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 6,
+        "name": "Suspicion and Sabotage",
+        "airdate": "2023-01-12",
+        "summary": "Traitors are suspected as players compete in a mission, raising tensions; a lifeline emerges, but the murder trial jeopardizes three players; Kate rallies the team against mistrusted members.",
+        "url": "https://www.imdb.com/title/tt19866694/?ref_=ttep_ep_6",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt19866696/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt19866696/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 7,
+        "name": "The Mask Is Slipping",
+        "airdate": "2023-01-12",
+        "summary": "A Traitor's mask is at risk of slipping, with suspicions flared at the round table; the mission sees the ghosts of former players return to the castle; the ultimate plot twist is revealed in the Traitors' turret.",
+        "url": "https://www.imdb.com/title/tt19866696/?ref_=ttep_ep_7",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt19866698/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt19866698/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 8,
+        "name": "Cabins in the Woods",
+        "airdate": "2023-01-12",
+        "summary": "One player must make the ultimate decision; a tall tale brings suspicion on one Traitor; the players engage in a harrowing mission while on a trip full of creepy cabins; the most brutal round table so far.",
+        "url": "https://www.imdb.com/title/tt19866698/?ref_=ttep_ep_8",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt19866700/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt19866700/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 9,
+        "name": "Trust No One",
+        "airdate": "2023-01-12",
+        "summary": "During the penultimate day in the castle, the players can add to the current prize pot of $168,800; with the end in sight, alliances are broken and trust between the Traitors is questioned.",
+        "url": "https://www.imdb.com/title/tt19866700/?ref_=ttep_ep_9",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt19866704/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt19866704/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 10,
+        "name": "The Grand Finale",
+        "airdate": "2023-01-12",
+        "summary": "On the final day of the reality competition, the remaining contestants compete in the ultimate challenge. At the elimination ceremony, the final players gather to see who will win the grand prize.",
+        "url": "https://www.imdb.com/title/tt19866704/?ref_=ttep_ep_10",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt15557874:https://www.imdb.com/title/tt26597797/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt26597797/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 11,
+        "name": "The Reunion",
+        "airdate": "2023-02-28",
+        "summary": "Season 1 reunion special with the cast of The Traitors (2023) , hosted by Andy Cohen.",
+        "url": "https://www.imdb.com/title/tt26597797/?ref_=ttep_ep_11",
+        "showId": "tt15557874",
+        "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt15557874:https://www.imdb.com/title/tt33098995/?ref_=ttep_ep_1",
       "uid": "tvmaze-https://www.imdb.com/title/tt33098995/?ref_=ttep_ep_1@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
@@ -91615,6 +93039,198 @@
         "url": "https://www.imdb.com/title/tt46104654/?ref_=ttep_ep_12",
         "showId": "tt15557874",
         "showName": "The Traitors"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt1807280/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1807280/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 9,
+        "name": "Bedrock or Bust",
+        "airdate": "2011-02-11",
+        "summary": "Desperate to get to bedrock and large quantities of gold, Todd and Jack throw caution to the wind and dig deeper than ever before. With the brutal Alaskan winter threatening, they battle floods, cave-ins and equipment breakdowns.",
+        "url": "https://www.imdb.com/title/tt1807280/?ref_=ttep_ep_9",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt1819923/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1819923/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 2,
+        "name": "Gold, Guns and Bears",
+        "airdate": "2010-12-10",
+        "summary": "The greenhorn miners are at risk when a mechanical accident threatens to close mining season.",
+        "url": "https://www.imdb.com/title/tt1819923/?ref_=ttep_ep_2",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt1819924/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1819924/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 1,
+        "name": "No Guts, No Glory",
+        "airdate": "2010-12-03",
+        "summary": "When the going gets tough, the tough seek new frontiers. Six recession-hit patriots from Oregon become greenhorn old miners and head north to Alaska to dig for gold and save themselves from financial ruin.",
+        "url": "https://www.imdb.com/title/tt1819924/?ref_=ttep_ep_1",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt1819925/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1819925/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 3,
+        "name": "Running Dirt",
+        "airdate": "2010-12-17",
+        "summary": "The crew races to set up the mining plant and start running dirt. When the families arrive from Oregon and question the lack of gold and the men's only mechanic becomes dangerously ill, the tension builds so high Dorsey and Todd come to blows",
+        "url": "https://www.imdb.com/title/tt1819925/?ref_=ttep_ep_3",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt1819926/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1819926/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 5,
+        "name": "The Pain Barrier",
+        "airdate": "2011-01-14",
+        "summary": "The miners continue to run dirt but an equipment malfunction brings the operation to a halt. Meanwhile, James Harness collapses and Jimmy Dorsey drives a wedge between himself and the crew when he takes on an extra job to earn cash.",
+        "url": "https://www.imdb.com/title/tt1819926/?ref_=ttep_ep_5",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt1819927/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1819927/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 4,
+        "name": "The Ultimate Price",
+        "airdate": "2011-01-07",
+        "summary": "The team attempts to finally run dirt through the wash plant. But a visit from the Department of Fish and Game reveals a violation, jeopardizing their vital water supply to the mine. Then disaster strikes asTodd's daughter fights for her life.",
+        "url": "https://www.imdb.com/title/tt1819927/?ref_=ttep_ep_4",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt1820935/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1820935/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 6,
+        "name": "Gold Fever",
+        "airdate": "2011-01-21",
+        "summary": "After 80 days, the miners are behind schedule and out of money. They need to find $10,000 worth of gold within two days or the families will be sent home. Meanwhile, after Dorsey struggles with the wave table, tensions flare and fists fly.",
+        "url": "https://www.imdb.com/title/tt1820935/?ref_=ttep_ep_6",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt1820936/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1820936/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 7,
+        "name": "Going for Broke",
+        "airdate": "2011-01-28",
+        "summary": "With winter weather closing in, a gold recovery expert comes to help the rookies. Todd discovers a major design flaw in the equipment and is forced to make huge modifications. With the credit cards maxed out, he is forced to take desperate measures.",
+        "url": "https://www.imdb.com/title/tt1820936/?ref_=ttep_ep_7",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt1820937/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1820937/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 8,
+        "name": "Bad Blood",
+        "airdate": "2011-02-04",
+        "summary": "After a hundred days in Porcupine Creek, the miners have dug themselves into a deep financial hole. The claim's owner wants to be paid and brings in a veteran outsider to turn the operation around, leading to high tension around the claim.",
+        "url": "https://www.imdb.com/title/tt1820937/?ref_=ttep_ep_8",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt1846089/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1846089/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 10,
+        "name": "Never Say Die",
+        "airdate": "2011-02-18",
+        "summary": "With the arctic winter looming, the crew races against the clock. Rain and thawing snow flood the mine and Jack puts his life on the line as the glory hole caves in around the massive 100,000 pound excavator.",
+        "url": "https://www.imdb.com/title/tt1846089/?ref_=ttep_ep_10",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt1853762/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt1853762/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 11,
+        "name": "Gold Rush: Full Disclosure",
+        "airdate": "2011-02-25",
+        "summary": "The Hoffman crew spent five months and over quarter of a million dollars in a desperate attempt to find gold in Alaska. This special episode reveals what went wrong and how the guys plan to hit the mother lode next season.",
+        "url": "https://www.imdb.com/title/tt1853762/?ref_=ttep_ep_11",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1800864:https://www.imdb.com/title/tt2160821/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt2160821/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 12,
+        "name": "Gold Rush Aftershow Special",
+        "airdate": "2011-12-30",
+        "summary": "This special lifts the curtain on Gold Rush and goes inside the lives of the men seeking gold and treasure in Alaska and the Klondike. All new interviews and never before seen footage present insights into the miners' unique world.",
+        "url": "https://www.imdb.com/title/tt2160821/?ref_=ttep_ep_12",
+        "showId": "tt1800864",
+        "showName": "Gold Rush"
       }
     },
     {
@@ -92063,6 +93679,38 @@
         "url": "https://www.imdb.com/title/tt49269179/?ref_=ttep_ep_2",
         "showId": "tt1800864",
         "showName": "Gold Rush"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt26591110:https://www.imdb.com/title/tt43328542/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43328542/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 4,
+        "name": "A Bad Lie",
+        "airdate": "2026-11-05",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt43328542/?ref_=ttep_ep_4",
+        "showId": "tt26591110",
+        "showName": "Elsbeth"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt26591110:https://www.imdb.com/title/tt43637533/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt43637533/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 4,
+        "number": 5,
+        "name": "Episode #4.5",
+        "airdate": "2026-11-12",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt43637533/?ref_=ttep_ep_5",
+        "showId": "tt26591110",
+        "showName": "Elsbeth"
       }
     },
     {
@@ -93437,6 +95085,166 @@
         "airdate": "2026-10-29",
         "summary": null,
         "url": "https://www.imdb.com/title/tt48920163/?ref_=ttep_ep_3",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt7415864/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt7415864/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 1,
+        "name": "Pilot",
+        "airdate": "2018-01-03",
+        "summary": "Emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.",
+        "url": "https://www.imdb.com/title/tt7415864/?ref_=ttep_ep_1",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt7598190/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt7598190/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 4,
+        "name": "Worst Day Ever",
+        "airdate": "2018-01-24",
+        "summary": "In the aftermath of a deadly plane crash, Bobby and team race to help the survivors; Athena deals with panic and chaos at the airport.",
+        "url": "https://www.imdb.com/title/tt7598190/?ref_=ttep_ep_4",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt7611364/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt7611364/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 3,
+        "name": "Next of Kin",
+        "airdate": "2018-01-17",
+        "summary": "Bobby and his team respond to an emergency at a children's birthday party; One of the crew is involved in a devastating accident.",
+        "url": "https://www.imdb.com/title/tt7611364/?ref_=ttep_ep_3",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt7612120/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt7612120/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 10,
+        "name": "A Whole New You",
+        "airdate": "2018-03-21",
+        "summary": "The first responders are sent out to assist with a peculiar domestic disturbance, a tragic motorcycle crash, and an urgent situation at a psychic's place.",
+        "url": "https://www.imdb.com/title/tt7612120/?ref_=ttep_ep_10",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt7657550/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt7657550/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 2,
+        "name": "Let Go",
+        "airdate": "2018-01-10",
+        "summary": "A roller coaster malfunctions at an amusement park; Athena and Hen respond to an unusual home invasion; a couple's dispute leads to a dramatic rescue.",
+        "url": "https://www.imdb.com/title/tt7657550/?ref_=ttep_ep_2",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt7738986/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt7738986/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 5,
+        "name": "Point of Origin",
+        "airdate": "2018-01-31",
+        "summary": "The crew races to an emergency when disaster strikes at an Indian wedding; Abby enlists the help of Buck to try and find her mother.",
+        "url": "https://www.imdb.com/title/tt7738986/?ref_=ttep_ep_5",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt7738988/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt7738988/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 6,
+        "name": "Heartbreaker",
+        "airdate": "2018-02-07",
+        "summary": "On Valentine's Day, a surprise marriage proposal goes awry; Athena attempts to help a desperate woman.",
+        "url": "https://www.imdb.com/title/tt7738988/?ref_=ttep_ep_6",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt7802454/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt7802454/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 7,
+        "name": "Full Moon (Creepy AF)",
+        "airdate": "2018-02-28",
+        "summary": "Athena investigates a potential home invasion and deals with a rabid criminal; Abby helps investigate the murder of a caller.",
+        "url": "https://www.imdb.com/title/tt7802454/?ref_=ttep_ep_7",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt7802456/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt7802456/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 8,
+        "name": "Karma's a Bitch",
+        "airdate": "2018-03-07",
+        "summary": "An unremorseful widower, an unsuspecting thief, and an arrogant fitness club owner receive a taste of karma.",
+        "url": "https://www.imdb.com/title/tt7802456/?ref_=ttep_ep_8",
+        "showId": "tt7235466",
+        "showName": "9-1-1"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt7235466:https://www.imdb.com/title/tt7802460/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt7802460/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 1,
+        "number": 9,
+        "name": "Trapped",
+        "airdate": "2018-03-14",
+        "summary": "The first responders rush to save a homeless man crushed in a garbage truck, a mother and son in a crashed elevator and extreme hoarders entombed in their house.",
+        "url": "https://www.imdb.com/title/tt7802460/?ref_=ttep_ep_9",
         "showId": "tt7235466",
         "showName": "9-1-1"
       }
