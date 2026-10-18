@@ -1,26 +1,8 @@
 {
   "teamId": "134154",
   "teamName": "Chicago Fire",
-  "updatedAt": "2026-10-15T05:01:54.467Z",
+  "updatedAt": "2026-10-18T04:59:34.121Z",
   "events": [
-    {
-      "idEvent": "mls-761879",
-      "sourceEventId": "761879",
-      "strEvent": "New England Revolution vs Chicago Fire",
-      "strHomeTeam": "New England Revolution",
-      "strAwayTeam": "Chicago Fire",
-      "idHomeTeam": "134159",
-      "idAwayTeam": "134154",
-      "dateEvent": "2026-10-17",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-17T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Gillette Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761893",
       "sourceEventId": "761893",

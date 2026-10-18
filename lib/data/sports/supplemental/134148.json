@@ -1,26 +1,8 @@
 {
   "teamId": "134148",
   "teamName": "Toronto FC",
-  "updatedAt": "2026-10-15T05:01:54.467Z",
+  "updatedAt": "2026-10-18T04:59:34.121Z",
   "events": [
-    {
-      "idEvent": "mls-761878",
-      "sourceEventId": "761878",
-      "strEvent": "New York Red Bulls vs Toronto FC",
-      "strHomeTeam": "New York Red Bulls",
-      "strAwayTeam": "Toronto FC",
-      "idHomeTeam": "134156",
-      "idAwayTeam": "134148",
-      "dateEvent": "2026-10-17",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-17T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Sports Illustrated Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761890",
       "sourceEventId": "761890",

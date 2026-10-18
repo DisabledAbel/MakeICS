@@ -1,26 +1,8 @@
 {
   "teamId": "134794",
   "teamName": "Colorado Rapids",
-  "updatedAt": "2026-10-15T05:01:54.467Z",
+  "updatedAt": "2026-10-18T04:59:34.121Z",
   "events": [
-    {
-      "idEvent": "mls-761888",
-      "sourceEventId": "761888",
-      "strEvent": "Portland Timbers vs Colorado Rapids",
-      "strHomeTeam": "Portland Timbers",
-      "strAwayTeam": "Colorado Rapids",
-      "idHomeTeam": "134155",
-      "idAwayTeam": "134794",
-      "dateEvent": "2026-10-18",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-18T02:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Providence Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761897",
       "sourceEventId": "761897",

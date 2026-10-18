@@ -1,26 +1,8 @@
 {
   "teamId": "134146",
   "teamName": "FC Dallas",
-  "updatedAt": "2026-10-15T05:01:54.467Z",
+  "updatedAt": "2026-10-18T04:59:34.121Z",
   "events": [
-    {
-      "idEvent": "mls-761883",
-      "sourceEventId": "761883",
-      "strEvent": "Houston Dynamo vs FC Dallas",
-      "strHomeTeam": "Houston Dynamo",
-      "strAwayTeam": "FC Dallas",
-      "idHomeTeam": "134144",
-      "idAwayTeam": "134146",
-      "dateEvent": "2026-10-18",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-18T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Shell Energy Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761900",
       "sourceEventId": "761900",

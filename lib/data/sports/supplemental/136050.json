@@ -1,26 +1,8 @@
 {
   "teamId": "136050",
   "teamName": "Los Angeles FC",
-  "updatedAt": "2026-10-15T05:01:54.467Z",
+  "updatedAt": "2026-10-18T04:59:34.121Z",
   "events": [
-    {
-      "idEvent": "mls-761877",
-      "sourceEventId": "761877",
-      "strEvent": "New York City FC vs Los Angeles FC",
-      "strHomeTeam": "New York City FC",
-      "strAwayTeam": "Los Angeles FC",
-      "idHomeTeam": "134630",
-      "idAwayTeam": "136050",
-      "dateEvent": "2026-10-17",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-17T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Citi Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761904",
       "sourceEventId": "761904",

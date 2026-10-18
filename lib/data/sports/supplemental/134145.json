@@ -1,26 +1,8 @@
 {
   "teamId": "134145",
   "teamName": "D.C. United",
-  "updatedAt": "2026-10-15T05:01:54.467Z",
+  "updatedAt": "2026-10-18T04:59:34.121Z",
   "events": [
-    {
-      "idEvent": "mls-761881",
-      "sourceEventId": "761881",
-      "strEvent": "Orlando City vs D.C. United",
-      "strHomeTeam": "Orlando City",
-      "strAwayTeam": "D.C. United",
-      "idHomeTeam": "135292",
-      "idAwayTeam": "134145",
-      "dateEvent": "2026-10-17",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-17T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Inter&Co Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761773",
       "sourceEventId": "761773",

@@ -1,26 +1,8 @@
 {
   "teamId": "134150",
   "teamName": "CF Montréal",
-  "updatedAt": "2026-10-15T05:01:54.467Z",
+  "updatedAt": "2026-10-18T04:59:34.121Z",
   "events": [
-    {
-      "idEvent": "mls-761885",
-      "sourceEventId": "761885",
-      "strEvent": "Seattle Sounders vs CF Montréal",
-      "strHomeTeam": "Seattle Sounders",
-      "strAwayTeam": "CF Montréal",
-      "idHomeTeam": "134149",
-      "idAwayTeam": "134150",
-      "dateEvent": "2026-10-18",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-18T02:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Lumen Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761903",
       "sourceEventId": "761903",

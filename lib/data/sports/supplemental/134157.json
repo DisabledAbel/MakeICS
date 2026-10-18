@@ -1,26 +1,8 @@
 {
   "teamId": "134157",
   "teamName": "San Jose Earthquakes",
-  "updatedAt": "2026-10-15T05:01:54.467Z",
+  "updatedAt": "2026-10-18T04:59:34.121Z",
   "events": [
-    {
-      "idEvent": "mls-761886",
-      "sourceEventId": "761886",
-      "strEvent": "San Jose Earthquakes vs Nashville SC",
-      "strHomeTeam": "San Jose Earthquakes",
-      "strAwayTeam": "Nashville SC",
-      "idHomeTeam": "134157",
-      "idAwayTeam": "137700",
-      "dateEvent": "2026-10-18",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-18T02:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "PayPal Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761900",
       "sourceEventId": "761900",

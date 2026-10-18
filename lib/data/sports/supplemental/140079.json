@@ -1,26 +1,8 @@
 {
   "teamId": "140079",
   "teamName": "Austin FC",
-  "updatedAt": "2026-10-15T05:01:54.467Z",
+  "updatedAt": "2026-10-18T04:59:34.121Z",
   "events": [
-    {
-      "idEvent": "mls-761882",
-      "sourceEventId": "761882",
-      "strEvent": "Austin FC vs Vancouver Whitecaps",
-      "strHomeTeam": "Austin FC",
-      "strAwayTeam": "Vancouver Whitecaps",
-      "idHomeTeam": "140079",
-      "idAwayTeam": "134147",
-      "dateEvent": "2026-10-18",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-18T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Q2 Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761899",
       "sourceEventId": "761899",
