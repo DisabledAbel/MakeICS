@@ -1,26 +1,8 @@
 {
   "teamId": "140082",
   "teamName": "Seattle Kraken",
-  "updatedAt": "2026-10-16T04:41:35.783Z",
+  "updatedAt": "2026-10-18T04:44:32.437Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020124",
-      "strEvent": "Florida Panthers vs Seattle Kraken",
-      "strHomeTeam": "Florida Panthers",
-      "strAwayTeam": "Seattle Kraken",
-      "dateEvent": "2026-10-17",
-      "strTime": "22:00:00",
-      "strTimestamp": "2026-10-17T22:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Amerant Bank Arena",
-      "strStatus": "NS",
-      "strTVStation": "KONG, Prime Video, SCRIPPS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020124",
-      "idHomeTeam": "134833",
-      "idAwayTeam": "140082"
-    },
     {
       "idEvent": "nhl-2026020149",
       "strEvent": "Seattle Kraken vs Detroit Red Wings",

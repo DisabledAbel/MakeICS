@@ -1,26 +1,8 @@
 {
   "teamId": "134843",
   "teamName": "Philadelphia Flyers",
-  "updatedAt": "2026-10-16T04:41:35.783Z",
+  "updatedAt": "2026-10-18T04:44:32.437Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020128",
-      "strEvent": "Philadelphia Flyers vs Ottawa Senators",
-      "strHomeTeam": "Philadelphia Flyers",
-      "strAwayTeam": "Ottawa Senators",
-      "dateEvent": "2026-10-17",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-17T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBCSP, SN1, TVAS-D",
-      "updatedAt": "2026-10-07T23:11:05.895Z",
-      "source": "scraped",
-      "sourceEventId": "2026020128",
-      "idHomeTeam": "134843",
-      "idAwayTeam": "134835"
-    },
     {
       "idEvent": "nhl-2026020138",
       "strEvent": "Philadelphia Flyers vs Colorado Avalanche",

@@ -1,26 +1,8 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-10-16T04:41:35.783Z",
+  "updatedAt": "2026-10-18T04:44:32.437Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020125",
-      "strEvent": "Toronto Maple Leafs vs New York Islanders",
-      "strHomeTeam": "Toronto Maple Leafs",
-      "strAwayTeam": "New York Islanders",
-      "dateEvent": "2026-10-17",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-17T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": "MSGSN, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020125",
-      "idHomeTeam": "134837",
-      "idAwayTeam": "134841"
-    },
     {
       "idEvent": "nhl-2026020143",
       "strEvent": "New York Islanders vs Anaheim Ducks",

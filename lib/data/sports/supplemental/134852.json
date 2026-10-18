@@ -1,26 +1,8 @@
 {
   "teamId": "134852",
   "teamName": "Los Angeles Kings",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-18T04:44:32.437Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020132",
-      "strEvent": "Los Angeles Kings vs Boston Bruins",
-      "strHomeTeam": "Los Angeles Kings",
-      "strAwayTeam": "Boston Bruins",
-      "dateEvent": "2026-10-17",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-18T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "ABTV , NESN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020132",
-      "idHomeTeam": "134852",
-      "idAwayTeam": "134830"
-    },
     {
       "idEvent": "nhl-2026020144",
       "strEvent": "Washington Capitals vs Los Angeles Kings",

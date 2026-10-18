@@ -1,26 +1,8 @@
 {
   "teamId": "134856",
   "teamName": "Dallas Stars",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-18T04:44:32.437Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020130",
-      "strEvent": "Chicago Blackhawks vs Dallas Stars",
-      "strHomeTeam": "Chicago Blackhawks",
-      "strAwayTeam": "Dallas Stars",
-      "dateEvent": "2026-10-17",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-17T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "CHSN, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020130",
-      "idHomeTeam": "134854",
-      "idAwayTeam": "134856"
-    },
     {
       "idEvent": "nhl-2026020147",
       "strEvent": "Dallas Stars vs Boston Bruins",

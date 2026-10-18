@@ -1,26 +1,8 @@
 {
   "teamId": "134839",
   "teamName": "Columbus Blue Jackets",
-  "updatedAt": "2026-10-15T21:31:03.866Z",
+  "updatedAt": "2026-10-18T04:44:32.437Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020129",
-      "strEvent": "Columbus Blue Jackets vs New York Rangers",
-      "strHomeTeam": "Columbus Blue Jackets",
-      "strAwayTeam": "New York Rangers",
-      "dateEvent": "2026-10-17",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-17T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Nationwide Arena",
-      "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, MSG",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020129",
-      "idHomeTeam": "134839",
-      "idAwayTeam": "134842"
-    },
     {
       "idEvent": "nhl-2026020135",
       "strEvent": "Minnesota Wild vs Columbus Blue Jackets",

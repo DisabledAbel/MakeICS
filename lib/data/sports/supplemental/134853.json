@@ -1,26 +1,8 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-10-16T04:41:35.783Z",
+  "updatedAt": "2026-10-18T04:44:32.437Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020127",
-      "strEvent": "Detroit Red Wings vs San Jose Sharks",
-      "strHomeTeam": "Detroit Red Wings",
-      "strAwayTeam": "San Jose Sharks",
-      "dateEvent": "2026-10-17",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-17T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "DSN, NBCSCA",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020127",
-      "idHomeTeam": "134832",
-      "idAwayTeam": "134853"
-    },
     {
       "idEvent": "nhl-2026020139",
       "strEvent": "Toronto Maple Leafs vs San Jose Sharks",
