@@ -81203,6 +81203,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-aab56e82-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aab56e82-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134926.json",
+      "record": {
+        "idEvent": "sdv-nfl-aab56e82-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Jacksonville Jaguars vs Houston Texans",
+        "strHomeTeam": "Jacksonville Jaguars",
+        "strAwayTeam": "Houston Texans",
+        "dateEvent": "2026-10-18",
+        "strTime": "13:30:00Z",
+        "strTimestamp": "2026-10-18T13:30:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Wembley Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-aab577eb-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-aab577eb-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134938.json",
