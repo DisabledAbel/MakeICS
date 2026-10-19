@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T09:22:01.136Z",
+  "generatedAt": "2026-10-19T10:33:51.738Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5176,9 +5176,14 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNjQ1YzgwMTMtZDRhNC00MDE0LWFmODctM2ZlNjg5MmNiMDI1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
       "genres": [
+        "Drama",
         "Sci-Fi"
       ],
       "people": [
+        {
+          "id": "nm15588612",
+          "name": "Aran Murphy"
+        },
         {
           "id": "nm4911194",
           "name": "Jenna Ortega"
@@ -5186,10 +5191,6 @@
         {
           "id": "nm0010736",
           "name": "Amy Adams"
-        },
-        {
-          "id": "nm15588612",
-          "name": "Aran Murphy"
         },
         {
           "id": "nm0000114",
@@ -6403,12 +6404,12 @@
       ],
       "people": [
         {
-          "id": "nm0000136",
-          "name": "Johnny Depp"
-        },
-        {
           "id": "nm14057859",
           "name": "Arthur Conti"
+        },
+        {
+          "id": "nm0000136",
+          "name": "Johnny Depp"
         },
         {
           "id": "nm6216593",
@@ -6498,12 +6499,12 @@
           "name": "Clifton Powell"
         },
         {
-          "id": "nm0809793",
-          "name": "Roger Guenveur Smith"
-        },
-        {
           "id": "nm0930707",
           "name": "Gregory Alan Williams"
+        },
+        {
+          "id": "nm0809793",
+          "name": "Roger Guenveur Smith"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6770,20 +6771,20 @@
       ],
       "people": [
         {
-          "id": "nm1405398",
-          "name": "Dan Stevens"
-        },
-        {
-          "id": "nm0001808",
-          "name": "Tracey Ullman"
-        },
-        {
           "id": "nm2794962",
           "name": "Hailee Steinfeld"
         },
         {
+          "id": "nm0000149",
+          "name": "Jodie Foster"
+        },
+        {
           "id": "nm0324658",
           "name": "Walton Goggins"
+        },
+        {
+          "id": "nm1405398",
+          "name": "Dan Stevens"
         }
       ],
       "label": "Nov 25, 2026"
@@ -6898,16 +6899,16 @@
           "name": "Brad Pitt"
         },
         {
-          "id": "nm6855458",
-          "name": "Hannah Christine Shetler"
+          "id": "nm0001303",
+          "name": "Carla Gugino"
         },
         {
           "id": "nm0004790",
           "name": "Scott Caan"
         },
         {
-          "id": "nm0001303",
-          "name": "Carla Gugino"
+          "id": "nm0648249",
+          "name": "Timothy Olyphant"
         }
       ],
       "label": "Nov 25, 2026"
@@ -7430,12 +7431,12 @@
           "name": "Jason Sudeikis"
         },
         {
-          "id": "nm4141252",
-          "name": "Lily James"
-        },
-        {
           "id": "nm3931538",
           "name": "Sam Richardson"
+        },
+        {
+          "id": "nm4141252",
+          "name": "Lily James"
         },
         {
           "id": "nm1551130",
@@ -7447,7 +7448,7 @@
     {
       "id": "tt28228084",
       "title": "King",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTBiZjk4ZWEtNzY4OS00YWFmLWE0ODEtZjI3ZGRkNjExMGE0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc3ODc0OWYtNjM5YS00MDYyLTllMDgtMTZlYmFkNzhlZTgwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Thu, 24 Dec 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -7553,12 +7554,12 @@
           "name": "Karen Gillan"
         },
         {
-          "id": "nm0085312",
-          "name": "Jack Black"
+          "id": "nm5589690",
+          "name": "Madison Iseman"
         },
         {
-          "id": "nm0366389",
-          "name": "Kevin Hart"
+          "id": "nm0085312",
+          "name": "Jack Black"
         }
       ],
       "label": "Dec 25, 2026"
@@ -7579,16 +7580,16 @@
           "name": "Isabel May"
         },
         {
-          "id": "nm4825178",
-          "name": "David Corenswet"
-        },
-        {
           "id": "nm0788335",
           "name": "Michael Shannon"
         },
         {
           "id": "nm0472710",
           "name": "David Krumholtz"
+        },
+        {
+          "id": "nm4825178",
+          "name": "David Corenswet"
         }
       ],
       "label": "Dec 25, 2026"
@@ -7923,8 +7924,8 @@
           "name": "Aubrey Plaza"
         },
         {
-          "id": "nm11290905",
-          "name": "Addison Rae"
+          "id": "nm2391794",
+          "name": "Dan Levy"
         }
       ],
       "label": "Jan 22, 2027"
@@ -7941,16 +7942,16 @@
       ],
       "people": [
         {
+          "id": "nm3287940",
+          "name": "Tracy Ifeachor"
+        },
+        {
           "id": "nm0479527",
           "name": "Tyler Labine"
         },
         {
           "id": "nm0281956",
           "name": "Brendan Fletcher"
-        },
-        {
-          "id": "nm3287940",
-          "name": "Tracy Ifeachor"
         },
         {
           "id": "nm3958148",
@@ -8213,8 +8214,8 @@
           "name": "Phoebe Dynevor"
         },
         {
-          "id": "nm0353546",
-          "name": "Julie Hagerty"
+          "id": "nm3287940",
+          "name": "Tracy Ifeachor"
         }
       ],
       "label": "Feb 05, 2027"
@@ -8303,6 +8304,10 @@
       ],
       "people": [
         {
+          "id": "nm8076281",
+          "name": "Emma Mackey"
+        },
+        {
           "id": "nm0001354",
           "name": "Ciarán Hinds"
         },
@@ -8313,10 +8318,6 @@
         {
           "id": "nm1659547",
           "name": "Carey Mulligan"
-        },
-        {
-          "id": "nm0000658",
-          "name": "Meryl Streep"
         }
       ],
       "label": "Feb 12, 2027"
@@ -8373,16 +8374,16 @@
           "name": "Ema Ines"
         },
         {
+          "id": "nm2028004",
+          "name": "Ry Barrett"
+        },
+        {
           "id": "nm9781891",
           "name": "Ivano DiCaro"
         },
         {
-          "id": "nm12714580",
-          "name": "Fionn Laird"
-        },
-        {
-          "id": "nm2028004",
-          "name": "Ry Barrett"
+          "id": "nm10021823",
+          "name": "Donald MacLean Jr."
         }
       ],
       "label": "Feb 12, 2027"
@@ -8665,16 +8666,16 @@
       ],
       "people": [
         {
-          "id": "nm5245722",
-          "name": "Adria Arjona"
-        },
-        {
           "id": "nm0000110",
           "name": "Kenneth Branagh"
         },
         {
           "id": "nm1775091",
           "name": "Danai Gurira"
+        },
+        {
+          "id": "nm5245722",
+          "name": "Adria Arjona"
         },
         {
           "id": "nm0430107",
@@ -9472,12 +9473,12 @@
       ],
       "people": [
         {
-          "id": "nm0000422",
-          "name": "John Goodman"
-        },
-        {
           "id": "nm2560618",
           "name": "Willa Fitzgerald"
+        },
+        {
+          "id": "nm0000422",
+          "name": "John Goodman"
         },
         {
           "id": "nm0488953",
@@ -9606,12 +9607,12 @@
           "name": "Vicky Krieps"
         },
         {
-          "id": "nm3053338",
-          "name": "Margot Robbie"
-        },
-        {
           "id": "nm1126657",
           "name": "George MacKay"
+        },
+        {
+          "id": "nm3053338",
+          "name": "Margot Robbie"
         },
         {
           "id": "nm0177896",
@@ -9856,8 +9857,8 @@
           "name": "Jack O'Connell"
         },
         {
-          "id": "nm6884042",
-          "name": "Katy O'Brian"
+          "id": "nm7415871",
+          "name": "Noah Jupe"
         }
       ],
       "label": "Jul 30, 2027"
@@ -9900,12 +9901,12 @@
       ],
       "people": [
         {
-          "id": "nm1821446",
-          "name": "Hannah Waddingham"
-        },
-        {
           "id": "nm0005458",
           "name": "Jason Statham"
+        },
+        {
+          "id": "nm1821446",
+          "name": "Hannah Waddingham"
         },
         {
           "id": "nm3958526",
@@ -9951,16 +9952,16 @@
       ],
       "people": [
         {
-          "id": "nm3109384",
-          "name": "Fatimah Hassan"
-        },
-        {
           "id": "nm6058237",
           "name": "Laya DeLeon Hayes"
         },
         {
           "id": "nm6043149",
           "name": "J.D."
+        },
+        {
+          "id": "nm1484000",
+          "name": "D Smoke"
         },
         {
           "id": "nm1296458",
@@ -10058,8 +10059,8 @@
           "name": "Nia Long"
         },
         {
-          "id": "nm0254712",
-          "name": "Aunjanue Ellis-Taylor"
+          "id": "nm1502434",
+          "name": "Leslie Odom Jr."
         }
       ],
       "label": "Aug 20, 2027"
@@ -10375,7 +10376,7 @@
     {
       "id": "tt22408968",
       "title": "The Mummy: Book of the Dead",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTYwMmVkYjQtYzczZS00MzhmLThlMmEtMjE4MjVjMDI2NzhlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Y3M2ZiY2YtMjA5Ny00OTU5LWJkY2YtNTg4ZDhkM2E4NjhiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 15 Oct 2027 00:00:00 GMT",
       "genres": [
         "Action",
