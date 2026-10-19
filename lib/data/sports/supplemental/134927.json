@@ -1,24 +1,10 @@
 {
   "teamId": "134927",
   "teamName": "Indianapolis Colts",
-  "updatedAt": "2026-10-11T17:42:48.623Z",
+  "updatedAt": "2026-10-19T04:43:41.770Z",
   "generatedAt": "2026-07-18T06:13:33.265Z",
   "generateAt": "2026-07-18T06:13:33.265Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aab57f15-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Indianapolis Colts vs Tennessee Titans",
-      "strHomeTeam": "Indianapolis Colts",
-      "strAwayTeam": "Tennessee Titans",
-      "dateEvent": "2026-10-18",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-18T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lucas Oil Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aad5a2ac-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Minnesota Vikings vs Indianapolis Colts",

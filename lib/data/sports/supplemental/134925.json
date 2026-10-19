@@ -1,24 +1,10 @@
 {
   "teamId": "134925",
   "teamName": "Pittsburgh Steelers",
-  "updatedAt": "2026-10-11T17:42:48.619Z",
+  "updatedAt": "2026-10-19T04:43:41.766Z",
   "generatedAt": "2026-07-18T06:13:33.261Z",
   "generateAt": "2026-07-18T06:13:33.261Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aab58c4b-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Tampa Bay Buccaneers vs Pittsburgh Steelers",
-      "strHomeTeam": "Tampa Bay Buccaneers",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-10-18",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-18T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Raymond James Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aad58d7d-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New Orleans Saints vs Pittsburgh Steelers",

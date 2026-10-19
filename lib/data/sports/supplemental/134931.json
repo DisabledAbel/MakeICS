@@ -1,24 +1,10 @@
 {
   "teamId": "134931",
   "teamName": "Kansas City Chiefs",
-  "updatedAt": "2026-10-05T05:44:32.231Z",
+  "updatedAt": "2026-10-19T04:43:41.776Z",
   "generatedAt": "2026-07-18T06:13:33.270Z",
   "generateAt": "2026-07-18T06:13:33.270Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aab59281-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Kansas City Chiefs vs Los Angeles Chargers",
-      "strHomeTeam": "Kansas City Chiefs",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-10-18",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-18T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Arrowhead Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aaf7040e-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Seattle Seahawks vs Kansas City Chiefs",

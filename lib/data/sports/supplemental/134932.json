@@ -1,24 +1,10 @@
 {
   "teamId": "134932",
   "teamName": "Las Vegas Raiders",
-  "updatedAt": "2026-10-11T17:42:48.631Z",
+  "updatedAt": "2026-10-19T04:43:41.776Z",
   "generatedAt": "2026-07-18T06:13:33.271Z",
   "generateAt": "2026-07-18T06:13:33.271Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aad57852-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Las Vegas Raiders vs Buffalo Bills",
-      "strHomeTeam": "Las Vegas Raiders",
-      "strAwayTeam": "Buffalo Bills",
-      "dateEvent": "2026-10-18",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-18T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aaf700e5-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Las Vegas Raiders vs Los Angeles Rams",

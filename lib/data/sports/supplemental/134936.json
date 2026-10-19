@@ -1,24 +1,10 @@
 {
   "teamId": "134936",
   "teamName": "Philadelphia Eagles",
-  "updatedAt": "2026-10-18T15:54:28.067Z",
+  "updatedAt": "2026-10-19T04:43:41.784Z",
   "generatedAt": "2026-07-18T06:13:33.275Z",
   "generateAt": "2026-07-18T06:13:33.275Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aab588fe-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Philadelphia Eagles vs Carolina Panthers",
-      "strHomeTeam": "Philadelphia Eagles",
-      "strAwayTeam": "Carolina Panthers",
-      "dateEvent": "2026-10-18",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-18T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lincoln Financial Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aaf70733-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Philadelphia Eagles vs Dallas Cowboys",

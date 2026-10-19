@@ -81263,6 +81263,186 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-aab57f15-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aab57f15-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134927.json",
+      "record": {
+        "idEvent": "sdv-nfl-aab57f15-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Indianapolis Colts vs Tennessee Titans",
+        "strHomeTeam": "Indianapolis Colts",
+        "strAwayTeam": "Tennessee Titans",
+        "dateEvent": "2026-10-18",
+        "strTime": "17:00:00Z",
+        "strTimestamp": "2026-10-18T17:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Lucas Oil Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aab58261-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aab58261-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134920.json",
+      "record": {
+        "idEvent": "sdv-nfl-aab58261-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "New England Patriots vs New York Jets",
+        "strHomeTeam": "New England Patriots",
+        "strAwayTeam": "New York Jets",
+        "dateEvent": "2026-10-18",
+        "strTime": "17:00:00Z",
+        "strTimestamp": "2026-10-18T17:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Gillette Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aab5857e-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aab5857e-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134935.json",
+      "record": {
+        "idEvent": "sdv-nfl-aab5857e-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "New York Giants vs New Orleans Saints",
+        "strHomeTeam": "New York Giants",
+        "strAwayTeam": "New Orleans Saints",
+        "dateEvent": "2026-10-18",
+        "strTime": "17:00:00Z",
+        "strTimestamp": "2026-10-18T17:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "MetLife Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aab588fe-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aab588fe-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134936.json",
+      "record": {
+        "idEvent": "sdv-nfl-aab588fe-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Philadelphia Eagles vs Carolina Panthers",
+        "strHomeTeam": "Philadelphia Eagles",
+        "strAwayTeam": "Carolina Panthers",
+        "dateEvent": "2026-10-18",
+        "strTime": "17:00:00Z",
+        "strTimestamp": "2026-10-18T17:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Lincoln Financial Field",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aab58c4b-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aab58c4b-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134925.json",
+      "record": {
+        "idEvent": "sdv-nfl-aab58c4b-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Tampa Bay Buccaneers vs Pittsburgh Steelers",
+        "strHomeTeam": "Tampa Bay Buccaneers",
+        "strAwayTeam": "Pittsburgh Steelers",
+        "dateEvent": "2026-10-18",
+        "strTime": "17:00:00Z",
+        "strTimestamp": "2026-10-18T17:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Raymond James Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aab58f7e-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aab58f7e-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/135907.json",
+      "record": {
+        "idEvent": "sdv-nfl-aab58f7e-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Los Angeles Rams vs Arizona Cardinals",
+        "strHomeTeam": "Los Angeles Rams",
+        "strAwayTeam": "Arizona Cardinals",
+        "dateEvent": "2026-10-18",
+        "strTime": "20:05:00Z",
+        "strTimestamp": "2026-10-18T20:05:00Z",
+        "strLeague": "NFL",
+        "strVenue": "SoFi Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aab59281-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aab59281-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134931.json",
+      "record": {
+        "idEvent": "sdv-nfl-aab59281-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Kansas City Chiefs vs Los Angeles Chargers",
+        "strHomeTeam": "Kansas City Chiefs",
+        "strAwayTeam": "Los Angeles Chargers",
+        "dateEvent": "2026-10-18",
+        "strTime": "20:25:00Z",
+        "strTimestamp": "2026-10-18T20:25:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Arrowhead Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aad57852-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aad57852-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134932.json",
+      "record": {
+        "idEvent": "sdv-nfl-aad57852-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Las Vegas Raiders vs Buffalo Bills",
+        "strHomeTeam": "Las Vegas Raiders",
+        "strAwayTeam": "Buffalo Bills",
+        "dateEvent": "2026-10-18",
+        "strTime": "20:25:00Z",
+        "strTimestamp": "2026-10-18T20:25:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Allegiant Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-aad58264-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aad58264-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134940.json",
+      "record": {
+        "idEvent": "sdv-nfl-aad58264-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Green Bay Packers vs Dallas Cowboys",
+        "strHomeTeam": "Green Bay Packers",
+        "strAwayTeam": "Dallas Cowboys",
+        "dateEvent": "2026-10-19",
+        "strTime": "00:20:00Z",
+        "strTimestamp": "2026-10-19T00:20:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Lambeau Field",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-aad594ee-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-aad594ee-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134922.json",

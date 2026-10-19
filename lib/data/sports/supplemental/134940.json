@@ -1,24 +1,10 @@
 {
   "teamId": "134940",
   "teamName": "Green Bay Packers",
-  "updatedAt": "2026-10-11T17:42:48.640Z",
+  "updatedAt": "2026-10-19T04:43:41.788Z",
   "generatedAt": "2026-07-18T06:13:33.280Z",
   "generateAt": "2026-07-18T06:13:33.280Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aad58264-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Green Bay Packers vs Dallas Cowboys",
-      "strHomeTeam": "Green Bay Packers",
-      "strAwayTeam": "Dallas Cowboys",
-      "dateEvent": "2026-10-19",
-      "strTime": "00:20:00Z",
-      "strTimestamp": "2026-10-19T00:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lambeau Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aaf6fda2-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Detroit Lions vs Green Bay Packers",
