@@ -3535,7 +3535,7 @@
       "strLeague": "NFL",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png",
       "strSeason": "2026",
-      "strDescriptionEN": "",
+      "strDescriptionEN": "Jacksonville and Houston meet at Wembley in a key AFC South matchup during the NFL’s London series. The Jaguars arrive leading the division at 4-1, while the Texans look to build momentum after a difficult 1-4 start. With divisional positioning at stake, the game carries added importance beyond the international setting.",
       "strHomeTeam": "Jacksonville Jaguars",
       "strAwayTeam": "Houston Texans",
       "intRound": "6",
@@ -3563,7 +3563,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -3607,7 +3607,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -3651,7 +3651,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -3695,7 +3695,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -3739,7 +3739,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -3783,7 +3783,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -3827,7 +3827,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -3871,7 +3871,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "AOT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -3915,7 +3915,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -3959,7 +3959,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -4003,7 +4003,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -4047,7 +4047,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "Q2",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
