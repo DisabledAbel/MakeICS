@@ -5938,7 +5938,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=MmtkRLNEGAM",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -5982,8 +5982,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "BT",
+      "strVideo": "https://www.youtube.com/watch?v=2Dmv4RqQ4CM",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
