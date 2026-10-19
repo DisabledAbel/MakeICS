@@ -1,7 +1,7 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-10-15T03:20:35.981Z",
+  "updatedAt": "2026-10-19T22:01:14.956Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909842",
@@ -14,8 +14,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134869"
@@ -31,8 +31,8 @@
       "strLeague": "NBA",
       "strVenue": "crypto.com Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134867",
       "idAwayTeam": "134866"
@@ -48,8 +48,8 @@
       "strLeague": "NBA",
       "strVenue": "Paycom Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134887",
       "idAwayTeam": "134866"
@@ -65,8 +65,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134867"
@@ -82,8 +82,8 @@
       "strLeague": "NBA",
       "strVenue": "Target Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134886",
       "idAwayTeam": "134866"
@@ -99,8 +99,8 @@
       "strLeague": "NBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134865",
       "idAwayTeam": "134866"
@@ -116,8 +116,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134864"

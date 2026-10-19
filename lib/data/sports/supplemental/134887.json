@@ -1,7 +1,7 @@
 {
   "teamId": "134887",
   "teamName": "Oklahoma City Thunder",
-  "updatedAt": "2026-10-16T03:15:47.908Z",
+  "updatedAt": "2026-10-19T22:01:14.956Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909090",
@@ -48,8 +48,8 @@
       "strLeague": "NBA",
       "strVenue": "Paycom Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134887",
       "idAwayTeam": "134866"
@@ -65,8 +65,8 @@
       "strLeague": "NBA",
       "strVenue": "Paycom Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134887",
       "idAwayTeam": "134868"

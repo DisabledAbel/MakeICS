@@ -1,7 +1,7 @@
 {
   "teamId": "134863",
   "teamName": "Philadelphia 76ers",
-  "updatedAt": "2026-10-16T23:52:54.266Z",
+  "updatedAt": "2026-10-19T22:01:14.956Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909089",
@@ -65,8 +65,8 @@
       "strLeague": "NBA",
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134863",
       "idAwayTeam": "134872"
@@ -133,8 +133,8 @@
       "strLeague": "NBA",
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134863",
       "idAwayTeam": "134870"

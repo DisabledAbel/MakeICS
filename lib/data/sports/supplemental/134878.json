@@ -1,7 +1,7 @@
 {
   "teamId": "134878",
   "teamName": "New Orleans Pelicans",
-  "updatedAt": "2026-10-17T03:07:01.236Z",
+  "updatedAt": "2026-10-19T22:01:14.956Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909839",
@@ -14,8 +14,8 @@
       "strLeague": "NBA",
       "strVenue": "Smoothie King Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134878",
       "idAwayTeam": "134873"
@@ -31,8 +31,8 @@
       "strLeague": "NBA",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134889",
       "idAwayTeam": "134878"
@@ -48,8 +48,8 @@
       "strLeague": "NBA",
       "strVenue": "Ball Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134885",
       "idAwayTeam": "134878"
@@ -65,8 +65,8 @@
       "strLeague": "NBA",
       "strVenue": "Smoothie King Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134878",
       "idAwayTeam": "134885"
@@ -82,8 +82,8 @@
       "strLeague": "NBA",
       "strVenue": "Smoothie King Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134878",
       "idAwayTeam": "134869"
@@ -99,8 +99,8 @@
       "strLeague": "NBA",
       "strVenue": "Smoothie King Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134878",
       "idAwayTeam": "134880"
@@ -116,8 +116,8 @@
       "strLeague": "NBA",
       "strVenue": "FedExForum",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134877",
       "idAwayTeam": "134878"

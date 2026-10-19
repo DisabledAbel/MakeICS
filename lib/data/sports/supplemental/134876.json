@@ -1,7 +1,7 @@
 {
   "teamId": "134876",
   "teamName": "Houston Rockets",
-  "updatedAt": "2026-10-16T03:15:47.908Z",
+  "updatedAt": "2026-10-19T22:01:14.956Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909840",
@@ -14,8 +14,8 @@
       "strLeague": "NBA",
       "strVenue": "Toyota Center (Houston)",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134876",
       "idAwayTeam": "134875"
@@ -48,8 +48,8 @@
       "strLeague": "NBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-13T22:18:36.097Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134880",
       "idAwayTeam": "134876"
@@ -65,8 +65,8 @@
       "strLeague": "NBA",
       "strVenue": "Toyota Center (Houston)",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134876",
       "idAwayTeam": "134880"
@@ -82,8 +82,8 @@
       "strLeague": "NBA",
       "strVenue": "Fiserv Forum",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134874",
       "idAwayTeam": "134876"
@@ -99,8 +99,8 @@
       "strLeague": "NBA",
       "strVenue": "American Airlines Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134875",
       "idAwayTeam": "134876"
@@ -133,8 +133,8 @@
       "strLeague": "NBA",
       "strVenue": "Toyota Center (Houston)",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134876",
       "idAwayTeam": "134860"

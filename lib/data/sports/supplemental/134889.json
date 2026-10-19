@@ -1,7 +1,7 @@
 {
   "teamId": "134889",
   "teamName": "Utah Jazz",
-  "updatedAt": "2026-10-17T03:07:01.236Z",
+  "updatedAt": "2026-10-19T22:01:14.956Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909838",
@@ -14,8 +14,8 @@
       "strLeague": "NBA",
       "strVenue": "FedExForum",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134877",
       "idAwayTeam": "134889"
@@ -31,8 +31,8 @@
       "strLeague": "NBA",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134889",
       "idAwayTeam": "134878"
@@ -48,8 +48,8 @@
       "strLeague": "NBA",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134889",
       "idAwayTeam": "134867"
@@ -65,8 +65,8 @@
       "strLeague": "NBA",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134889",
       "idAwayTeam": "134877"
@@ -82,8 +82,8 @@
       "strLeague": "NBA",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134889",
       "idAwayTeam": "134879"
@@ -99,8 +99,8 @@
       "strLeague": "NBA",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134889",
       "idAwayTeam": "134888"
@@ -116,8 +116,8 @@
       "strLeague": "NBA",
       "strVenue": "Frost Bank Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134879",
       "idAwayTeam": "134889"

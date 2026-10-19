@@ -1,7 +1,7 @@
 {
   "teamId": "134870",
   "teamName": "Chicago Bulls",
-  "updatedAt": "2026-10-17T03:07:01.236Z",
+  "updatedAt": "2026-10-19T22:01:14.956Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909837",
@@ -14,8 +14,8 @@
       "strLeague": "NBA",
       "strVenue": "Scotiabank Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134864",
       "idAwayTeam": "134870"
@@ -31,8 +31,8 @@
       "strLeague": "NBA",
       "strVenue": "Fiserv Forum",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-16T16:08:06.566Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134874",
       "idAwayTeam": "134870"
@@ -65,8 +65,8 @@
       "strLeague": "NBA",
       "strVenue": "TD Garden",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134860",
       "idAwayTeam": "134870"
@@ -82,8 +82,8 @@
       "strLeague": "NBA",
       "strVenue": "United Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134870",
       "idAwayTeam": "134862"
@@ -99,8 +99,8 @@
       "strLeague": "NBA",
       "strVenue": "TD Garden",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134860",
       "idAwayTeam": "134870"
@@ -116,8 +116,8 @@
       "strLeague": "NBA",
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134863",
       "idAwayTeam": "134870"

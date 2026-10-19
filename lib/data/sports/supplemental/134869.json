@@ -1,7 +1,7 @@
 {
   "teamId": "134869",
   "teamName": "Sacramento Kings",
-  "updatedAt": "2026-10-17T03:07:01.236Z",
+  "updatedAt": "2026-10-19T22:01:14.956Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909842",
@@ -14,8 +14,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134869"
@@ -31,8 +31,8 @@
       "strLeague": "NBA",
       "strVenue": "Golden 1 Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134869",
       "idAwayTeam": "134888"
@@ -48,8 +48,8 @@
       "strLeague": "NBA",
       "strVenue": "Golden 1 Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134869",
       "idAwayTeam": "134877"
@@ -65,8 +65,8 @@
       "strLeague": "NBA",
       "strVenue": "Frost Bank Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134879",
       "idAwayTeam": "134869"
@@ -82,8 +82,8 @@
       "strLeague": "NBA",
       "strVenue": "Smoothie King Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134878",
       "idAwayTeam": "134869"
@@ -99,8 +99,8 @@
       "strLeague": "NBA",
       "strVenue": "FedExForum",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134877",
       "idAwayTeam": "134869"
@@ -116,8 +116,8 @@
       "strLeague": "NBA",
       "strVenue": "American Airlines Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134875",
       "idAwayTeam": "134869"

@@ -1,7 +1,7 @@
 {
   "teamId": "134882",
   "teamName": "Miami Heat",
-  "updatedAt": "2026-10-16T23:52:54.266Z",
+  "updatedAt": "2026-10-19T22:01:14.956Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909091",
@@ -31,8 +31,8 @@
       "strLeague": "NBA",
       "strVenue": "Kaseya Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134882",
       "idAwayTeam": "134872"
@@ -48,8 +48,8 @@
       "strLeague": "NBA",
       "strVenue": "Spectrum Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134881",
       "idAwayTeam": "134882"
@@ -82,8 +82,8 @@
       "strLeague": "NBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134880",
       "idAwayTeam": "134882"
@@ -99,8 +99,8 @@
       "strLeague": "NBA",
       "strVenue": "Kaseya Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134882",
       "idAwayTeam": "134873"
@@ -116,8 +116,8 @@
       "strLeague": "NBA",
       "strVenue": "crypto.com Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134867",
       "idAwayTeam": "134882"

@@ -1,7 +1,7 @@
 {
   "teamId": "134861",
   "teamName": "Brooklyn Nets",
-  "updatedAt": "2026-10-15T03:20:35.981Z",
+  "updatedAt": "2026-10-19T22:01:14.956Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909836",
@@ -14,8 +14,8 @@
       "strLeague": "NBA",
       "strVenue": "Barclays Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134861",
       "idAwayTeam": "134881"
@@ -31,8 +31,8 @@
       "strLeague": "NBA",
       "strVenue": "Rocket Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134871",
       "idAwayTeam": "134861"
@@ -48,8 +48,8 @@
       "strLeague": "NBA",
       "strVenue": "Barclays Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134861",
       "idAwayTeam": "134873"
@@ -65,8 +65,8 @@
       "strLeague": "NBA",
       "strVenue": "TD Garden",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134860",
       "idAwayTeam": "134861"
@@ -82,8 +82,8 @@
       "strLeague": "NBA",
       "strVenue": "Barclays Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134861",
       "idAwayTeam": "134872"
@@ -99,8 +99,8 @@
       "strLeague": "NBA",
       "strVenue": "Gainbridge Fieldhouse",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134873",
       "idAwayTeam": "134861"
@@ -116,8 +116,8 @@
       "strLeague": "NBA",
       "strVenue": "Madison Square Garden",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBA League Pass",
+      "updatedAt": "2026-10-19T22:01:14.956Z",
       "source": "scraped",
       "idHomeTeam": "134862",
       "idAwayTeam": "134861"
