@@ -1,7 +1,7 @@
 {
   "teamId": "135851",
   "teamName": "Atlanta United",
-  "updatedAt": "2026-10-18T04:59:34.121Z",
+  "updatedAt": "2026-10-19T13:49:28.677Z",
   "events": [
     {
       "idEvent": "mls-761893",
@@ -33,11 +33,11 @@
       "strTime": "23:30:00",
       "strTimestamp": "2026-10-28T23:30:00Z",
       "strLeague": "MLS",
-      "strVenue": "Yankee Stadium",
+      "strVenue": "Citi Field",
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
+      "updatedAt": "2026-10-19T13:49:28.677Z"
     },
     {
       "idEvent": "mls-761931",
