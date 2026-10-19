@@ -1,26 +1,8 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-10-16T04:41:35.783Z",
+  "updatedAt": "2026-10-19T04:52:27.550Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020136",
-      "strEvent": "Calgary Flames vs Carolina Hurricanes",
-      "strHomeTeam": "Calgary Flames",
-      "strAwayTeam": "Carolina Hurricanes",
-      "dateEvent": "2026-10-18",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-19T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Saddledome",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, SNW, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020136",
-      "idHomeTeam": "134848",
-      "idAwayTeam": "134838"
-    },
     {
       "idEvent": "nhl-2026020162",
       "strEvent": "Calgary Flames vs Minnesota Wild",

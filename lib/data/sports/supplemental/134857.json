@@ -1,26 +1,8 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-10-16T04:41:35.783Z",
+  "updatedAt": "2026-10-19T04:52:27.550Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020135",
-      "strEvent": "Minnesota Wild vs Columbus Blue Jackets",
-      "strHomeTeam": "Minnesota Wild",
-      "strAwayTeam": "Columbus Blue Jackets",
-      "dateEvent": "2026-10-18",
-      "strTime": "22:00:00",
-      "strTimestamp": "2026-10-18T22:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Grand Casino Arena",
-      "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, MINNHL, SN+, TVAS, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020135",
-      "idHomeTeam": "134857",
-      "idAwayTeam": "134839"
-    },
     {
       "idEvent": "nhl-2026020148",
       "strEvent": "Edmonton Oilers vs Minnesota Wild",
