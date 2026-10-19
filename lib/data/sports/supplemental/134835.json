@@ -1,7 +1,7 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-10-18T04:44:32.437Z",
+  "updatedAt": "2026-10-19T22:28:16.593Z",
   "events": [
     {
       "idEvent": "nhl-2026020153",
@@ -158,8 +158,8 @@
       "strLeague": "NHL",
       "strVenue": "Canadian Tire Centre",
       "strStatus": "NS",
-      "strTVStation": "Mammoth+, SN1, TVAS-D, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
+      "strTVStation": "Mammoth+, NHLN, SN1, TVAS-D, Utah16",
+      "updatedAt": "2026-10-19T22:28:16.593Z",
       "source": "scraped",
       "sourceEventId": "2026020269",
       "idHomeTeam": "134835",
@@ -356,8 +356,8 @@
       "strLeague": "NHL",
       "strVenue": "Bridgestone Arena",
       "strStatus": "NS",
-      "strTVStation": "RDS, SCRIPPS, TSN5",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "NHLN, RDS, SCRIPPS, TSN5",
+      "updatedAt": "2026-10-19T22:28:16.593Z",
       "source": "scraped",
       "sourceEventId": "2026020430",
       "idHomeTeam": "134858",

@@ -1,7 +1,7 @@
 {
   "teamId": "134839",
   "teamName": "Columbus Blue Jackets",
-  "updatedAt": "2026-10-19T04:52:27.550Z",
+  "updatedAt": "2026-10-19T22:28:16.593Z",
   "events": [
     {
       "idEvent": "nhl-2026020145",
@@ -14,8 +14,8 @@
       "strLeague": "NHL",
       "strVenue": "Nationwide Arena",
       "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, SN, SN360",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "CBJHN, CBJNHL, SN",
+      "updatedAt": "2026-10-19T22:28:16.593Z",
       "source": "scraped",
       "sourceEventId": "2026020145",
       "idHomeTeam": "134839",
@@ -266,8 +266,8 @@
       "strLeague": "NHL",
       "strVenue": "Prudential Center",
       "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, MSG",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "CBJHN, CBJNHL, MSG, NHLN",
+      "updatedAt": "2026-10-19T22:28:16.593Z",
       "source": "scraped",
       "sourceEventId": "2026020378",
       "idHomeTeam": "134840",

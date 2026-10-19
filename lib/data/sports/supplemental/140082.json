@@ -1,7 +1,7 @@
 {
   "teamId": "140082",
   "teamName": "Seattle Kraken",
-  "updatedAt": "2026-10-18T04:44:32.437Z",
+  "updatedAt": "2026-10-19T22:28:16.593Z",
   "events": [
     {
       "idEvent": "nhl-2026020149",
@@ -140,8 +140,8 @@
       "strLeague": "NHL",
       "strVenue": "Veikkaus Arena",
       "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, KONG, Prime Video, SN+, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "CARNHL, HHN, KONG, NHLN, Prime Video, SN+, TVAS",
+      "updatedAt": "2026-10-19T22:28:16.593Z",
       "source": "scraped",
       "sourceEventId": "2026020309",
       "idHomeTeam": "140082",
@@ -158,8 +158,8 @@
       "strLeague": "NHL",
       "strVenue": "Veikkaus Arena",
       "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, KING, KONG, Prime Video, SN1",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "CARNHL, HHN, KING, KONG, NHLN, Prime Video, SN1",
+      "updatedAt": "2026-10-19T22:28:16.593Z",
       "source": "scraped",
       "sourceEventId": "2026020321",
       "idHomeTeam": "134838",

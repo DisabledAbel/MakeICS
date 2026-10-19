@@ -1,7 +1,7 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-10-19T04:52:27.550Z",
+  "updatedAt": "2026-10-19T22:28:16.593Z",
   "events": [
     {
       "idEvent": "nhl-2026020162",
@@ -356,8 +356,8 @@
       "strLeague": "NHL",
       "strVenue": "Madison Square Garden",
       "strStatus": "NS",
-      "strTVStation": "MSG, SNW",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "MSG, NHLN, SNW",
+      "updatedAt": "2026-10-19T22:28:16.593Z",
       "source": "scraped",
       "sourceEventId": "2026020419",
       "idHomeTeam": "134842",

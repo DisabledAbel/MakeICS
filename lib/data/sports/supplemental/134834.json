@@ -1,7 +1,7 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-10-18T04:44:32.437Z",
+  "updatedAt": "2026-10-19T22:28:16.593Z",
   "events": [
     {
       "idEvent": "nhl-2026020141",
@@ -284,8 +284,8 @@
       "strLeague": "NHL",
       "strVenue": "Centre Bell",
       "strStatus": "NS",
-      "strTVStation": "NBCSP, SNE, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "NBCSP, NHLN, SNE, TVAS",
+      "updatedAt": "2026-10-19T22:28:16.593Z",
       "source": "scraped",
       "sourceEventId": "2026020365",
       "idHomeTeam": "134834",
