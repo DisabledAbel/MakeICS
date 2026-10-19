@@ -1,26 +1,8 @@
 {
   "teamId": "136688",
   "teamName": "FC Cincinnati",
-  "updatedAt": "2026-10-15T05:01:54.467Z",
+  "updatedAt": "2026-10-19T05:07:15.491Z",
   "events": [
-    {
-      "idEvent": "mls-761889",
-      "sourceEventId": "761889",
-      "strEvent": "FC Cincinnati vs Columbus Crew",
-      "strHomeTeam": "FC Cincinnati",
-      "strAwayTeam": "Columbus Crew",
-      "idHomeTeam": "136688",
-      "idAwayTeam": "134152",
-      "dateEvent": "2026-10-18",
-      "strTime": "21:00:00",
-      "strTimestamp": "2026-10-18T21:00:00Z",
-      "strLeague": "MLS",
-      "strVenue": "TQL Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761773",
       "sourceEventId": "761773",

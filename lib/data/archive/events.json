@@ -1783,6 +1783,30 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:mls-761889",
+      "uid": "sportsdb-mls-761889@makeics.local",
+      "source": "lib/data/sports/supplemental/134152.json",
+      "record": {
+        "idEvent": "mls-761889",
+        "sourceEventId": "761889",
+        "strEvent": "FC Cincinnati vs Columbus Crew",
+        "strHomeTeam": "FC Cincinnati",
+        "strAwayTeam": "Columbus Crew",
+        "idHomeTeam": "136688",
+        "idAwayTeam": "134152",
+        "dateEvent": "2026-10-18",
+        "strTime": "21:00:00",
+        "strTimestamp": "2026-10-18T21:00:00Z",
+        "strLeague": "MLS",
+        "strVenue": "TQL Stadium",
+        "strStatus": "NS",
+        "strTVStation": "Apple TV",
+        "source": "espn",
+        "updatedAt": "2026-10-02T01:11:02.847Z"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:nhl-2026020017",
       "uid": "sportsdb-nhl-2026020017@makeics.local",
       "source": "lib/data/sports/supplemental/134832.json",
