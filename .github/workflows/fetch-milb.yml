@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '30 */12 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fetch-milb.js'
+      - 'lib/sports.js'
+      - '.github/workflows/fetch-milb.yml'
 
 concurrency:
   group: data-updates-${{ github.workflow }}

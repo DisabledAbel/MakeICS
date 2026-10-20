@@ -125,6 +125,7 @@ const ahlTeamsPayload = {
 
 function createFetchMock(onCall) {
   return async (url) => {
+    assert.equal(new URL(url).pathname.startsWith('/api/v1/json/123/'), true, 'use the working public API key');
     if (onCall) onCall(url);
     if (url.includes('search_all_teams.php?l=American%20AHL') || url.includes('search_all_teams.php?l=American%2520AHL')) {
       return Response.json(ahlTeamsPayload);

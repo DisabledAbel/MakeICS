@@ -264,46 +264,18 @@ test('toIcs creates a daily-refreshing calendar event feed for episodes', async 
 });
 
 test('getEpisodes applies IMDb and Google-verified overrides correctly', async () => {
-  const fs = await import('node:fs/promises');
-  const path = await import('node:path');
-  const { fileURLToPath } = await import('node:url');
-  const __dirname = path.dirname(fileURLToPath(import.meta.url));
-  const verifiedPath = path.join(__dirname, '../lib/data/tv/google-verified.json');
-
-  let originalVerifiedContent = null;
-  try {
-    originalVerifiedContent = await fs.readFile(verifiedPath, 'utf8');
-  } catch (e) {}
-
-  try {
-    // Write a mock google-verified.json
-    const mockVerified = {
-      "Example Show-2-3": {
-        "airdate": "2026-06-15",
-        "name": "Google Verified Name"
-      }
-    };
-    await fs.mkdir(path.dirname(verifiedPath), { recursive: true });
-    await fs.writeFile(verifiedPath, JSON.stringify(mockVerified, null, 2), 'utf8');
-
-    const result = await getEpisodes({
-      query: 'Example Show',
-      fetchImpl: createFetchMock(),
-      env: { NODE_ENV: 'test' }
-    });
-
-    const overriddenEp = result.episodes.find(ep => ep.season === 2 && ep.number === 3);
-    assert.ok(overriddenEp);
-    assert.equal(overriddenEp.airdate, '2026-06-15');
-    assert.equal(overriddenEp.name, 'Google Verified Name');
-  } finally {
-    // Restore original or delete
-    if (originalVerifiedContent !== null) {
-      await fs.writeFile(verifiedPath, originalVerifiedContent, 'utf8');
-    } else {
-      await fs.unlink(verifiedPath).catch(() => {});
+  const result = await getEpisodes({
+    query: 'Example Show',
+    fetchImpl: createFetchMock(),
+    env: { NODE_ENV: 'test' },
+    verifiedData: {
+      'Example Show-2-3': { airdate: '2026-06-15', name: 'Google Verified Name' }
     }
-  }
+  });
+  const overriddenEp = result.episodes.find(ep => ep.season === 2 && ep.number === 3);
+  assert.ok(overriddenEp);
+  assert.equal(overriddenEp.airdate, '2026-06-15');
+  assert.equal(overriddenEp.name, 'Google Verified Name');
 });
 
 test('toIcs appends Google Search verify schedule links', async () => {

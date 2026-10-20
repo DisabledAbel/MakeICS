@@ -6,7 +6,7 @@ import { decodeUnicodeEscapes } from '../lib/utils/unicode.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SUPPLEMENTAL_DATA_DIR = path.join(__dirname, '../lib/data/sports/supplemental');
-const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/3';
+const SPORTSDB_BASE_URL = 'https://www.thesportsdb.com/api/v1/json/123';
 const MLB_API_BASE_URL = 'https://statsapi.mlb.com/api/v1';
 const FETCH_TIMEOUT_MS = 15000;
 

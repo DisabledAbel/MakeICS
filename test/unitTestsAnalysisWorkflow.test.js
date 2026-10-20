@@ -45,18 +45,18 @@ test('workflow defines a single analyze-and-report job on ubuntu-latest', () => 
   assert.match(yamlText, /analyze-and-report:\s*\n\s*runs-on:\s*ubuntu-latest/);
 });
 
-test('Checkout Code step uses actions/checkout@v4 with full history and no persisted credentials', () => {
+test('Checkout Code step uses actions/checkout@v7 with full history and no persisted credentials', () => {
   const block = extractStepBlock(yamlText, 'Checkout Code');
 
-  assert.match(block, /uses:\s*actions\/checkout@v4/);
+  assert.match(block, /uses:\s*actions\/checkout@v7/);
   assert.match(block, /fetch-depth:\s*0/);
   assert.match(block, /persist-credentials:\s*false/);
 });
 
-test('Setup Node.js step uses actions/setup-node@v4 with Node 20 and npm cache', () => {
+test('Setup Node.js step uses actions/setup-node@v7 with Node 20 and npm cache', () => {
   const block = extractStepBlock(yamlText, 'Setup Node.js');
 
-  assert.match(block, /uses:\s*actions\/setup-node@v4/);
+  assert.match(block, /uses:\s*actions\/setup-node@v7/);
   assert.match(block, /node-version:\s*'20'/);
   assert.match(block, /cache:\s*npm/);
 });

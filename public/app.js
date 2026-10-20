@@ -1,3 +1,5 @@
+import { copyText } from './clipboard.js';
+
 const form = document.querySelector('#search-form');
 const showInput = document.querySelector('#show-input');
 const sportsInput = document.querySelector('#sports-input');
@@ -325,21 +327,6 @@ function icsUrlForCurrent() {
   return new URL(path, window.location.origin).href;
 }
 
-async function copyText(value) {
-  if (navigator.clipboard?.writeText) {
-    await navigator.clipboard.writeText(value);
-    return;
-  }
-  const textarea = document.createElement('textarea');
-  textarea.value = value;
-  textarea.setAttribute('readonly', '');
-  textarea.style.position = 'fixed';
-  textarea.style.opacity = '0';
-  document.body.append(textarea);
-  textarea.select();
-  document.execCommand('copy');
-  textarea.remove();
-}
 
 function renderResults(payload, type) {
   resultEl.hidden = false;
