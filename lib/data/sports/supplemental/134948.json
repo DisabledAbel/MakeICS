@@ -1,24 +1,10 @@
 {
   "teamId": "134948",
   "teamName": "San Francisco 49ers",
-  "updatedAt": "2026-10-12T06:01:37.023Z",
+  "updatedAt": "2026-10-20T04:54:06.318Z",
   "generatedAt": "2026-07-18T06:13:33.288Z",
   "generateAt": "2026-07-18T06:13:33.288Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aad58635-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "San Francisco 49ers vs Washington Commanders",
-      "strHomeTeam": "San Francisco 49ers",
-      "strAwayTeam": "Washington Commanders",
-      "dateEvent": "2026-10-20",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-20T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Levi's® Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aad59092-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Atlanta Falcons vs San Francisco 49ers",

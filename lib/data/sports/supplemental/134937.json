@@ -1,24 +1,10 @@
 {
   "teamId": "134937",
   "teamName": "Washington Commanders",
-  "updatedAt": "2026-10-11T17:42:48.636Z",
+  "updatedAt": "2026-10-20T04:54:06.310Z",
   "generatedAt": "2026-07-18T06:13:33.276Z",
   "generateAt": "2026-07-18T06:13:33.276Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aad58635-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "San Francisco 49ers vs Washington Commanders",
-      "strHomeTeam": "San Francisco 49ers",
-      "strAwayTeam": "Washington Commanders",
-      "dateEvent": "2026-10-20",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-20T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Levi's® Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab167386-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Washington Commanders vs Philadelphia Eagles",
