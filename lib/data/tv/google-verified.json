@@ -85,7 +85,7 @@
     "verifiedAt": "2026-10-12T21:37:06.160Z"
   },
   "AEW: Collision-4-49": {
-    "airdate": "2026-10-31",
+    "airdate": "2026-11-07",
     "name": "Chris Jericho's Rock N' Wrestling Rager",
     "verifiedAt": "2026-10-12T21:37:08.641Z"
   },
@@ -93,11 +93,6 @@
     "airdate": "2026-10-25",
     "name": "Brazil Elections",
     "verifiedAt": "2026-10-12T21:37:18.339Z"
-  },
-  "Max & the Midknights-4-1": {
-    "airdate": "2026-10-19",
-    "name": "Odds Bodkins, Part One",
-    "verifiedAt": "2026-10-13T19:49:46.797Z"
   },
   "Elsbeth-4-4": {
     "airdate": "2026-10-29",
@@ -114,23 +109,13 @@
     "name": "Episode #2.8",
     "verifiedAt": "2026-10-15T17:41:46.369Z"
   },
-  "The View-30-30": {
-    "airdate": "2026-10-19",
-    "name": "Debbie Matenopoulos/Florence Pugh, Christopher Abbott, Mike Faist, Zoe Kazan/View Your Deal",
-    "verifiedAt": "2026-10-16T17:11:05.502Z"
-  },
   "Special Forces: World's Toughest Test-5-5": {
     "airdate": "2026-10-22",
     "name": "Grit",
     "verifiedAt": "2026-10-16T17:13:45.804Z"
   },
-  "Studio C-23-1": {
-    "airdate": "2026-10-19",
-    "name": "Have I Shocked You? with Pete Holmes",
-    "verifiedAt": "2026-10-16T17:14:50.238Z"
-  },
   "Studio C-23-2": {
-    "airdate": "2026-10-29",
+    "airdate": "2026-10-26",
     "name": "Swiss Polka Demon Hunters",
     "verifiedAt": "2026-10-16T17:14:52.935Z"
   },
@@ -145,7 +130,7 @@
     "verifiedAt": "2026-10-17T16:13:06.095Z"
   },
   "Mike Judge's Beavis and Butt-Head-4-6": {
-    "airdate": "2026-11-11",
+    "airdate": "2026-10-21",
     "name": "Fender Benders/Chickens",
     "verifiedAt": "2026-10-17T16:13:08.595Z"
   },
@@ -200,13 +185,123 @@
     "verifiedAt": "2026-10-19T19:06:34.735Z"
   },
   "Surviving Alaska: Women of the Wild-1-5": {
-    "airdate": "2026-11-03",
+    "airdate": "2026-10-07",
     "name": "A Big Win",
     "verifiedAt": "2026-10-19T19:06:39.639Z"
   },
   "Vanderpump Rules: Lisa Las Vegas-1-2": {
-    "airdate": "2026-10-20",
+    "airdate": "2026-10-21",
     "name": "If It Was Easy, Everyone Would Do It",
     "verifiedAt": "2026-10-19T19:06:51.302Z"
+  },
+  "The Patrick Star Show-6-1": {
+    "airdate": "2026-10-12",
+    "name": "Scary Tales",
+    "verifiedAt": "2026-10-20T17:48:12.433Z"
+  },
+  "WWE Friday Night SmackDown-27-44": {
+    "airdate": "2025-10-31",
+    "name": "Signed, Sealed, Smashed",
+    "verifiedAt": "2026-10-20T17:48:18.265Z"
+  },
+  "WWE Friday Night SmackDown-27-46": {
+    "airdate": "2025-11-14",
+    "name": "Vision of Vengeance",
+    "verifiedAt": "2026-10-20T17:48:23.412Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2025-12-05",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-10-20T17:48:31.110Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-10-20T17:48:33.683Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2026-01-02",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-10-20T17:48:36.233Z"
+  },
+  "Crossroad Springs-2-7": {
+    "airdate": "2026-10-15",
+    "name": "Waiting at the Stations",
+    "verifiedAt": "2026-10-20T17:49:22.136Z"
+  },
+  "The Real Housewives of New York City-16-8": {
+    "airdate": "2026-09-08",
+    "name": "The Price of Perfection",
+    "verifiedAt": "2026-10-20T17:49:26.367Z"
+  },
+  "The Drop: A Snowfall Saga-1-8": {
+    "airdate": "2026-09-08",
+    "name": "Click Pop",
+    "verifiedAt": "2026-10-20T17:49:29.115Z"
+  },
+  "Tyler Perry's Assisted Living-7-8": {
+    "airdate": "2026-09-08",
+    "name": "Bedside Man",
+    "verifiedAt": "2026-10-20T17:49:31.925Z"
+  },
+  "Love & Marriage: Huntsville-12-12": {
+    "airdate": "2026-09-12",
+    "name": "A New Era",
+    "verifiedAt": "2026-10-20T17:49:35.781Z"
+  },
+  "The Voice-30-17": {
+    "airdate": "2026-12-08",
+    "name": "The Voice 30th Season Celebration",
+    "verifiedAt": "2026-10-20T17:49:47.032Z"
+  },
+  "Let's Make a Deal-18-22": {
+    "airdate": "2026-10-20",
+    "name": "Episode #18.2",
+    "verifiedAt": "2026-10-20T17:49:57.573Z"
+  },
+  "Marshals-2-6": {
+    "airdate": "2026-11-08",
+    "name": "Episode #2.6",
+    "verifiedAt": "2026-10-20T17:50:21.209Z"
+  },
+  "48 Hours-39-3": {
+    "airdate": "2025-10-11",
+    "name": "A Death in the Stairwell",
+    "verifiedAt": "2026-10-20T17:50:32.573Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-4": {
+    "airdate": "2026-10-07",
+    "name": "Locked & Loaded",
+    "verifiedAt": "2026-10-20T17:50:55.071Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-6": {
+    "airdate": "2026-10-07",
+    "name": "Winter's Reckoning",
+    "verifiedAt": "2026-10-20T17:51:00.023Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-7": {
+    "airdate": "2026-10-07",
+    "name": "Born to Run",
+    "verifiedAt": "2026-10-20T17:51:02.505Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-8": {
+    "airdate": "2026-11-24",
+    "name": "Building the Dream",
+    "verifiedAt": "2026-10-20T17:51:05.034Z"
+  },
+  "Studio C-23-1": {
+    "airdate": "2026-10-19",
+    "name": "Have I Shocked You? with Pete Holmes",
+    "verifiedAt": "2026-10-16T17:14:50.238Z"
+  },
+  "The Terrors of Jordan Mendoza-1-7": {
+    "airdate": "2026-10-26",
+    "name": "Really Interesting",
+    "verifiedAt": "2026-10-20T17:51:19.057Z"
+  },
+  "The Terrors of Jordan Mendoza-1-8": {
+    "airdate": "2026-11-02",
+    "name": "Oh, Whoa",
+    "verifiedAt": "2026-10-20T17:51:21.676Z"
   }
 }
