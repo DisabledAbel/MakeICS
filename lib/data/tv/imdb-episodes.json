@@ -332,6 +332,14 @@
           "url": "https://www.imdb.com/title/tt47596926/?ref_=ttep_ep_17"
         },
         {
+          "season": 30,
+          "number": 31,
+          "name": "Andy Cohen/",
+          "airdate": "2026-10-20",
+          "summary": "Celebrating Sunny Hostin's birthday with a performance by Dance Theatre of Harlem; author Andy Cohen (book, \"Andy's Bravo Scrapbook\");",
+          "url": "https://www.imdb.com/title/tt49522398/?ref_=ttep_ep_31"
+        },
+        {
           "season": 29,
           "number": 8,
           "name": "Episode #29.1",
@@ -29204,6 +29212,22 @@
         },
         {
           "season": 4,
+          "number": 25,
+          "name": "Real Men Don't Run from Accountability",
+          "airdate": "2026-10-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49191092/?ref_=ttep_ep_25"
+        },
+        {
+          "season": 4,
+          "number": 26,
+          "name": "Never Tell the Whole Truth",
+          "airdate": "2026-10-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49191108/?ref_=ttep_ep_26"
+        },
+        {
+          "season": 4,
           "number": 28,
           "name": "Fishing tor the Truth",
           "airdate": "2026-09-28",
@@ -32289,6 +32313,22 @@
         },
         {
           "season": 52,
+          "number": 9,
+          "name": "Ty Myers",
+          "airdate": "2026-10-31",
+          "summary": "Ty Myers makes his ACL debut, showcasing his soulful Texas sound and dynamic guitar skills. The 18-year-old singer-songwriter performs highlights from his genre-blending album 'Heavy On The Soul,' inspired by Southern rock, soul and blues.",
+          "url": "https://www.imdb.com/title/tt45382370/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 52,
+          "number": 10,
+          "name": "Sebastián Yatra",
+          "airdate": "2026-11-14",
+          "summary": "Colombian-American singer-songwriter Sebastián Yatra, a global ambassador of modern Latin pop, lights up the ACL stage. The Latin Grammy winner and Grammy nominee performs fan favorites and highlights from his acclaimed album 'Milagro.'",
+          "url": "https://www.imdb.com/title/tt45115481/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 52,
           "number": 12,
           "name": "ACL 12th Annual Hall of Fame Honors Brandi Carlile",
           "airdate": "2026-09-12",
@@ -32855,7 +32895,7 @@
         {
           "season": 16,
           "number": 7,
-          "name": "Episode #16.7",
+          "name": "Loveless Island",
           "airdate": "2026-10-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt46023293/?ref_=ttep_ep_7"
@@ -33101,8 +33141,16 @@
           "number": 6,
           "name": "Do The Right Thing",
           "airdate": "2026-10-13",
-          "summary": null,
+          "summary": "When Vince proposes hacking the school system as a prank, Philip is torn between peer pressure and doing what's right; Mr. Brown grows suspicious of Vince's character; Sandra notices Philip's odd behavior, determined to uncover the truth.",
           "url": "https://www.imdb.com/title/tt48461676/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 7,
+          "number": 7,
+          "name": "The Status Quo",
+          "airdate": "2026-10-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49645260/?ref_=ttep_ep_7"
         },
         {
           "season": 7,
@@ -35400,7 +35448,7 @@
           "number": 7,
           "name": "Dedication Night",
           "airdate": "2026-10-20",
-          "summary": null,
+          "summary": "The ballroom gets personal as the 10 remaining couples take to the dance floor to deliver heartfelt performances honoring the people and places that have shaped their lives; guest judge Kym Johnson returns to offer her expert insights.",
           "url": "https://www.imdb.com/title/tt45920379/?ref_=ttep_ep_7"
         },
         {
@@ -35590,7 +35638,7 @@
           "number": 5,
           "name": "Better Luck Tomorrow",
           "airdate": "2026-10-13",
-          "summary": "R.J. and his dad must discover who has been gas lighting the caretaker at a senior living community. They'll have to unwind a murderous scheme that has R.J.'s client convinced he's living the same day in a loop.",
+          "summary": "R.J. and his dad must discover who has been gaslighting the caretaker at a senior living community. They'll have to unwind a murderous scheme that has R.J.'s client convinced he's living the same day in a loop.",
           "url": "https://www.imdb.com/title/tt47723141/?ref_=ttep_ep_5"
         },
         {
@@ -39210,7 +39258,7 @@
           "number": 5,
           "name": "Not Here to Get a Pedicure",
           "airdate": "2026-10-21",
-          "summary": null,
+          "summary": "This week's Immunity Challenge comes with double jeopardy when two tribes face tribal council; one player receives a never-before-seen advantage; two tribal councils deliver high drama -- with tears and a shocking standoff.",
           "url": "https://www.imdb.com/title/tt45920646/?ref_=ttep_ep_5"
         },
         {
@@ -40425,6 +40473,14 @@
         },
         {
           "season": 38,
+          "number": 5,
+          "name": "Episode #38.5",
+          "airdate": "2026-11-01",
+          "summary": "In what she argues is not an attempt to get extra time on tests, Lisa has herself evaluated for three types of neurodiversity - which remind her of behaviors she's witnessed in Principal Skinner, Comic Book Guy and Homer.",
+          "url": "https://www.imdb.com/title/tt36431514/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 38,
           "number": 27,
           "name": "The Children's Book Job",
           "airdate": "2026-09-27",
@@ -40766,9 +40822,9 @@
         {
           "season": 5,
           "number": 5,
-          "name": "Episode #5.5",
+          "name": "Sled Dogs and Kitty Litter",
           "airdate": "2026-11-01",
-          "summary": null,
+          "summary": "Victoria balances pig parenting with a hot date.",
           "url": "https://www.imdb.com/title/tt48240749/?ref_=ttep_ep_5"
         },
         {
@@ -41132,8 +41188,16 @@
           "number": 5,
           "name": "CrimeShare",
           "airdate": "2026-11-01",
-          "summary": null,
+          "summary": "The precinct goes on an office retreat.",
           "url": "https://www.imdb.com/title/tt36999572/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "name": "Flutey Friday",
+          "airdate": "2026-11-08",
+          "summary": "Flute and Stan switch bodies for a day.",
+          "url": "https://www.imdb.com/title/tt36999604/?ref_=ttep_ep_6"
         },
         {
           "season": 3,
@@ -41508,7 +41572,7 @@
           "number": 5,
           "name": "That's Honestly on Them",
           "airdate": "2026-10-21",
-          "summary": "The Amazing Race travels to Albania for the first time in the show's history, where the \"Driver's Seat\" returns, twice, causing havoc and hurt feelings.",
+          "summary": "Racers travel to Albania for the first time in the show's history, where the \"Driver's Seat\" returns, twice, causing havoc and hurt feelings.",
           "url": "https://www.imdb.com/title/tt45920656/?ref_=ttep_ep_5"
         },
         {
@@ -41701,7 +41765,7 @@
           "number": 7,
           "name": "My Story",
           "airdate": "2026-11-04",
-          "summary": null,
+          "summary": "J.D. and Elliot reconnect while managing a difficult parenting conversation. Meanwhile, the interns grapple with work life balance.",
           "url": "https://www.imdb.com/title/tt42624414/?ref_=ttep_ep_7"
         },
         {
@@ -42472,6 +42536,14 @@
           "airdate": "2026-10-01",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44936173/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 25,
+          "number": 2,
+          "name": "Pull-Chain Upgrade; Sod Repair",
+          "airdate": "2026-10-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47664392/?ref_=ttep_ep_2"
         },
         {
           "season": 24,
@@ -44604,7 +44676,7 @@
         {
           "season": 2,
           "number": 5,
-          "name": "Episode #2.5",
+          "name": "Secret Weapon",
           "airdate": "2026-11-01",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42003446/?ref_=ttep_ep_5"
@@ -49519,7 +49591,7 @@
           "number": 8,
           "name": "Episode #5.8",
           "airdate": "2026-10-29",
-          "summary": null,
+          "summary": "Nerves are pushed to the limit at the roundtable as a new power hangs in the balance; theories are scrutinized and minds are changed before a brutal banishment sends emotions spiraling.",
           "url": "https://www.imdb.com/title/tt39242462/?ref_=ttep_ep_8"
         },
         {
@@ -49597,7 +49669,7 @@
           "number": 3,
           "name": "Consciously Unsistered",
           "airdate": "2026-10-22",
-          "summary": null,
+          "summary": "When a former pop star is murdered, Elsbeth probes the bitter sibling rivalry between the victim and her lifestyle mogul sister. Meanwhile, Elsbeth's mother Lydia comes to visit",
           "url": "https://www.imdb.com/title/tt43296439/?ref_=ttep_ep_3"
         },
         {
@@ -49605,7 +49677,7 @@
           "number": 4,
           "name": "A Bad Lie",
           "airdate": "2026-11-05",
-          "summary": null,
+          "summary": "A prize-winning hole-in-one by Perry Macintyre leads Elsbeth and an insurance investigator to suspect foul play behind a country club president's fatal accident. Meanwhile, Elsbeth and Lydia meet Teddy's soon-to-be mother and father-in-law",
           "url": "https://www.imdb.com/title/tt43328542/?ref_=ttep_ep_4"
         },
         {
@@ -50803,7 +50875,7 @@
         {
           "season": 2,
           "number": 5,
-          "name": "Episode #2.5",
+          "name": "Blood Diamonds",
           "airdate": "2026-11-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43706615/?ref_=ttep_ep_5"
@@ -50997,6 +51069,22 @@
           "airdate": "2026-10-01",
           "summary": "An 1893 Dutch Colonial Revival home that will undergo an extensive renovation to accommodate its new owners' growing family.",
           "url": "https://www.imdb.com/title/tt43437192/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 48,
+          "number": 2,
+          "name": "Essex County Colonial: Demolition Derby",
+          "airdate": "2026-10-10",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48618506/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 48,
+          "number": 3,
+          "name": "Essex County Colonial: Knock on Wood",
+          "airdate": "2026-10-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49344961/?ref_=ttep_ep_3"
         },
         {
           "season": 47,
@@ -51933,6 +52021,38 @@
           "airdate": "2026-10-31",
           "summary": "A flashback explores Jiro's origins in Tokyo, where he is torn between two conflicting worlds.",
           "url": "https://www.imdb.com/title/tt49331222/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Cage Free",
+          "airdate": "2026-11-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49563563/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "name": "Your Guests Have Arrived",
+          "airdate": "2026-11-14",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49563566/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "name": "Our Specials This Evening",
+          "airdate": "2026-11-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49563564/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "name": "Gochisousama",
+          "airdate": "2026-11-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49563567/?ref_=ttep_ep_10"
         }
       ]
     },
@@ -53215,7 +53335,7 @@
         {
           "season": 2,
           "number": 3,
-          "name": "Episode #2.3",
+          "name": "Chokepoint",
           "airdate": "2026-10-30",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42260109/?ref_=ttep_ep_3"
