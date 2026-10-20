@@ -10,7 +10,7 @@
     "check:calendar-history": "node scripts/calendar-history.js",
     "dev": "node server.js",
     "start": "node server.js",
-    "test": "node --test"
+    "test": "node --test test/*.test.js"
   },
   "engines": {
     "node": ">=18"
