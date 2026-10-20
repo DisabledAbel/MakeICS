@@ -1,26 +1,8 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-10-18T04:44:32.437Z",
+  "updatedAt": "2026-10-20T05:00:20.978Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020140",
-      "strEvent": "Utah Mammoth vs Pittsburgh Penguins",
-      "strHomeTeam": "Utah Mammoth",
-      "strAwayTeam": "Pittsburgh Penguins",
-      "dateEvent": "2026-10-19",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-20T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Delta Center",
-      "strStatus": "NS",
-      "strTVStation": "Mammoth+, SN+, SN-PIT, TVAS, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
-      "source": "scraped",
-      "sourceEventId": "2026020140",
-      "idHomeTeam": "148494",
-      "idAwayTeam": "134844"
-    },
     {
       "idEvent": "nhl-2026020158",
       "strEvent": "Pittsburgh Penguins vs Florida Panthers",

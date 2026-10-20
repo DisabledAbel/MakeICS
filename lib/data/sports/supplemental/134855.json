@@ -1,26 +1,8 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-10-17T04:39:02.185Z",
+  "updatedAt": "2026-10-20T05:00:20.978Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020138",
-      "strEvent": "Philadelphia Flyers vs Colorado Avalanche",
-      "strHomeTeam": "Philadelphia Flyers",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-10-19",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-19T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "ALT, NBCSP",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020138",
-      "idHomeTeam": "134843",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020142",
       "strEvent": "New Jersey Devils vs Colorado Avalanche",

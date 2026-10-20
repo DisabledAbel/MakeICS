@@ -1,26 +1,8 @@
 {
   "teamId": "134842",
   "teamName": "New York Rangers",
-  "updatedAt": "2026-10-19T22:28:16.593Z",
+  "updatedAt": "2026-10-20T05:00:20.978Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020137",
-      "strEvent": "New York Rangers vs Anaheim Ducks",
-      "strHomeTeam": "New York Rangers",
-      "strAwayTeam": "Anaheim Ducks",
-      "dateEvent": "2026-10-19",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-19T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "FOXLA+, MSG, Prime Video",
-      "updatedAt": "2026-10-15T21:31:03.866Z",
-      "source": "scraped",
-      "sourceEventId": "2026020137",
-      "idHomeTeam": "134842",
-      "idAwayTeam": "134846"
-    },
     {
       "idEvent": "nhl-2026020155",
       "strEvent": "Toronto Maple Leafs vs New York Rangers",
