@@ -1,25 +1,8 @@
 {
   "teamId": "134879",
   "teamName": "San Antonio Spurs",
-  "updatedAt": "2026-10-19T22:01:14.956Z",
+  "updatedAt": "2026-10-21T03:26:07.017Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909090",
-      "strEvent": "San Antonio Spurs vs Oklahoma City Thunder",
-      "strHomeTeam": "San Antonio Spurs",
-      "strAwayTeam": "Oklahoma City Thunder",
-      "dateEvent": "2026-10-20",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-10-21T01:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Frost Bank Center",
-      "strStatus": "NS",
-      "strTVStation": "NBC",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134879",
-      "idAwayTeam": "134887"
-    },
     {
       "idEvent": "scraped-espn-401909096",
       "strEvent": "San Antonio Spurs vs Houston Rockets",
