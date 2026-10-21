@@ -14,7 +14,7 @@
       "strLeague": "WNBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": "USA Net/CNBC/Peacock",
+      "strTVStation": "USA Net/CNBC",
       "updatedAt": null,
       "source": "scraped"
     },
@@ -29,7 +29,7 @@
       "strLeague": "WNBA",
       "strVenue": null,
       "strStatus": "NS",
-      "strTVStation": "USA Net/CNBC/Peacock",
+      "strTVStation": "USA Net/CNBC",
       "updatedAt": null,
       "source": "scraped"
     },
@@ -44,7 +44,7 @@
       "strLeague": "WNBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": "USA Net/CNBC/Peacock",
+      "strTVStation": "USA Net/CNBC",
       "updatedAt": null,
       "source": "scraped"
     },
@@ -59,7 +59,7 @@
       "strLeague": "WNBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
-      "strTVStation": "NBC/Peacock",
+      "strTVStation": "NBC",
       "updatedAt": null,
       "source": "scraped"
     },
@@ -74,7 +74,7 @@
       "strLeague": "WNBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
-      "strTVStation": "USA Net/CNBC/Peacock",
+      "strTVStation": "USA Net/CNBC",
       "updatedAt": null,
       "source": "scraped"
     },
@@ -89,7 +89,7 @@
       "strLeague": "WNBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": "USA Net/CNBC/Peacock/E!",
+      "strTVStation": "USA Net/CNBC/E!",
       "updatedAt": null,
       "source": "scraped"
     },
@@ -104,7 +104,7 @@
       "strLeague": "WNBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": "NBC/Peacock",
+      "strTVStation": "NBC",
       "updatedAt": null,
       "source": "scraped"
     },
@@ -149,7 +149,7 @@
       "strLeague": "WNBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": "NBC/Peacock",
+      "strTVStation": "NBC",
       "updatedAt": null,
       "source": "scraped"
     },
