@@ -1,7 +1,7 @@
 {
   "teamId": "134879",
   "teamName": "San Antonio Spurs",
-  "updatedAt": "2026-10-21T03:26:07.017Z",
+  "updatedAt": "2026-10-21T16:39:51.754Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909096",
@@ -133,8 +133,8 @@
       "strLeague": "NBA",
       "strVenue": "Golden 1 Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBC Sports CA",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134869",
       "idAwayTeam": "134879"
@@ -150,8 +150,8 @@
       "strLeague": "NBA",
       "strVenue": "Moda Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KUNP 16",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134888",
       "idAwayTeam": "134879"
@@ -184,8 +184,8 @@
       "strLeague": "NBA",
       "strVenue": "United Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "CHSN",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134870",
       "idAwayTeam": "134879"
@@ -286,8 +286,8 @@
       "strLeague": "NBA",
       "strVenue": "Golden 1 Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBC Sports CA",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134869",
       "idAwayTeam": "134879"
@@ -354,8 +354,8 @@
       "strLeague": "NBA",
       "strVenue": "Fiserv Forum",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MyMi",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134874",
       "idAwayTeam": "134879"
@@ -439,8 +439,8 @@
       "strLeague": "NBA",
       "strVenue": "Frost Bank Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "CHSN",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134879",
       "idAwayTeam": "134870"
@@ -490,8 +490,8 @@
       "strLeague": "NBA",
       "strVenue": "Barclays Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN (YES)",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134861",
       "idAwayTeam": "134879"
@@ -728,8 +728,8 @@
       "strLeague": "NBA",
       "strVenue": "Frost Bank Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KUNP 16",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134879",
       "idAwayTeam": "134888"
@@ -813,8 +813,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134879"
@@ -1238,8 +1238,8 @@
       "strLeague": "NBA",
       "strVenue": "Frost Bank Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "Suns Live",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134879",
       "idAwayTeam": "134868"
@@ -1340,8 +1340,8 @@
       "strLeague": "NBA",
       "strVenue": "Frost Bank Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KUNP 16",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134879",
       "idAwayTeam": "134888"

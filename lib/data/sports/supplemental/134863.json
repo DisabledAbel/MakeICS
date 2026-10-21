@@ -1,7 +1,7 @@
 {
   "teamId": "134863",
   "teamName": "Philadelphia 76ers",
-  "updatedAt": "2026-10-21T03:26:07.017Z",
+  "updatedAt": "2026-10-21T16:39:51.754Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909093",
@@ -167,8 +167,8 @@
       "strLeague": "NBA",
       "strVenue": "United Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "CHSN",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134870",
       "idAwayTeam": "134863"
@@ -235,8 +235,8 @@
       "strLeague": "NBA",
       "strVenue": "Barclays Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN (YES)",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134861",
       "idAwayTeam": "134863"
@@ -286,8 +286,8 @@
       "strLeague": "NBA",
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "BlazerVision",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134863",
       "idAwayTeam": "134888"
@@ -507,8 +507,8 @@
       "strLeague": "NBA",
       "strVenue": "Golden 1 Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "NBC Sports CA",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134869",
       "idAwayTeam": "134863"
@@ -524,8 +524,8 @@
       "strLeague": "NBA",
       "strVenue": "Mortgage Matchup Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "Suns Live",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134868",
       "idAwayTeam": "134863"
@@ -643,8 +643,8 @@
       "strLeague": "NBA",
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN (YES)",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134863",
       "idAwayTeam": "134861"
@@ -779,8 +779,8 @@
       "strLeague": "NBA",
       "strVenue": "Smoothie King Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "GCSEN",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134878",
       "idAwayTeam": "134863"
@@ -881,8 +881,8 @@
       "strLeague": "NBA",
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN (YES)",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134863",
       "idAwayTeam": "134861"
@@ -949,8 +949,8 @@
       "strLeague": "NBA",
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "Suns Live",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134863",
       "idAwayTeam": "134868"
@@ -966,8 +966,8 @@
       "strLeague": "NBA",
       "strVenue": "Barclays Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN (YES)",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134861",
       "idAwayTeam": "134863"
@@ -1136,8 +1136,8 @@
       "strLeague": "NBA",
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "CHSN",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134863",
       "idAwayTeam": "134870"

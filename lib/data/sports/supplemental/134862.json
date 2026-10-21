@@ -1,7 +1,7 @@
 {
   "teamId": "134862",
   "teamName": "New York Knicks",
-  "updatedAt": "2026-10-21T03:26:07.017Z",
+  "updatedAt": "2026-10-21T16:39:51.754Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909095",
@@ -116,8 +116,8 @@
       "strLeague": "NBA",
       "strVenue": "Madison Square Garden",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "CHSN",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134862",
       "idAwayTeam": "134870"
@@ -558,8 +558,8 @@
       "strLeague": "NBA",
       "strVenue": "Moda Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KUNP 16",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134888",
       "idAwayTeam": "134862"
@@ -728,8 +728,8 @@
       "strLeague": "NBA",
       "strVenue": "Madison Square Garden",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134862",
       "idAwayTeam": "134866"
@@ -745,8 +745,8 @@
       "strLeague": "NBA",
       "strVenue": "Madison Square Garden",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "Suns Live",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134862",
       "idAwayTeam": "134868"
@@ -1255,8 +1255,8 @@
       "strLeague": "NBA",
       "strVenue": "Barclays Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN (YES)",
+      "updatedAt": "2026-10-21T16:39:51.754Z",
       "source": "scraped",
       "idHomeTeam": "134861",
       "idAwayTeam": "134862"
