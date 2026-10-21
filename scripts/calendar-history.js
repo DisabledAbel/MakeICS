@@ -2,12 +2,25 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { execFile as execFileCallback } from 'node:child_process';
 import { promisify, isDeepStrictEqual } from 'node:util';
+import { randomUUID } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { VERIFIED_FILE, VERIFIED_ARCHIVE_FILE } from '../lib/verified-history.js';
 
 const execFile = promisify(execFileCallback);
 export const ARCHIVE_FILE = 'lib/data/archive/events.json';
 const DATA_PREFIX = 'lib/data/';
+
+/** Publish complete JSON in one rename and remove temporary files on failure. */
+export async function writeFileAtomically(file, content, fsImpl = fs) {
+  await fsImpl.mkdir(path.dirname(file), { recursive: true });
+  const temporary = path.join(path.dirname(file), `.${path.basename(file)}.${randomUUID()}.tmp`);
+  try {
+    await fsImpl.writeFile(temporary, content, { flag: 'wx' });
+    await fsImpl.rename(temporary, file);
+  } finally {
+    await fsImpl.rm(temporary, { force: true });
+  }
+}
 
 /** Run Git in the working directory and return stdout, adding baseline context to failures. */
 async function git(args) {
@@ -172,8 +185,7 @@ export async function preserveAndValidate({ baseline = 'HEAD', archive = false }
       let existing;
       try { existing = await fs.readFile(VERIFIED_ARCHIVE_FILE, 'utf8'); } catch (error) { if (error.code !== 'ENOENT') throw error; }
       if (content !== existing) {
-        await fs.mkdir(path.dirname(VERIFIED_ARCHIVE_FILE), { recursive: true });
-        await fs.writeFile(VERIFIED_ARCHIVE_FILE, content);
+        await writeFileAtomically(VERIFIED_ARCHIVE_FILE, content);
       }
       after = await workspaceDataset();
     }
