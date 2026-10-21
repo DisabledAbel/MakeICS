@@ -1,7 +1,7 @@
 {
   "teamId": "134144",
   "teamName": "Houston Dynamo",
-  "updatedAt": "2026-10-18T04:59:34.121Z",
+  "updatedAt": "2026-10-21T05:10:36.565Z",
   "events": [
     {
       "idEvent": "mls-761896",
@@ -53,9 +53,9 @@
       "strLeague": "MLS",
       "strVenue": "Providence Park",
       "strStatus": "NS",
-      "strTVStation": "Apple TV, FS1",
+      "strTVStation": "Apple TV, FOX Deportes, FS1",
       "source": "espn",
-      "updatedAt": "2026-10-12T15:56:25.087Z"
+      "updatedAt": "2026-10-21T05:10:36.565Z"
     },
     {
       "idEvent": "mls-761944",
