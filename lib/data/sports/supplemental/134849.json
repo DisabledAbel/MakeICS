@@ -1,26 +1,8 @@
 {
   "teamId": "134849",
   "teamName": "Edmonton Oilers",
-  "updatedAt": "2026-10-19T22:28:16.593Z",
+  "updatedAt": "2026-10-21T04:59:36.209Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020148",
-      "strEvent": "Edmonton Oilers vs Minnesota Wild",
-      "strHomeTeam": "Edmonton Oilers",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-10-20",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-21T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Place",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, SNW, TVAS, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020148",
-      "idHomeTeam": "134849",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020163",
       "strEvent": "Edmonton Oilers vs Carolina Hurricanes",

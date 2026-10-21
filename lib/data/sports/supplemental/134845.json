@@ -1,26 +1,8 @@
 {
   "teamId": "134845",
   "teamName": "Washington Capitals",
-  "updatedAt": "2026-10-17T20:43:31.736Z",
+  "updatedAt": "2026-10-21T04:59:36.209Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020144",
-      "strEvent": "Washington Capitals vs Los Angeles Kings",
-      "strHomeTeam": "Washington Capitals",
-      "strAwayTeam": "Los Angeles Kings",
-      "dateEvent": "2026-10-20",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-20T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "ABTV , MNMT",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020144",
-      "idHomeTeam": "134845",
-      "idAwayTeam": "134852"
-    },
     {
       "idEvent": "nhl-2026020173",
       "strEvent": "Washington Capitals vs Buffalo Sabres",

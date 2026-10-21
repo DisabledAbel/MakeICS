@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-10-19T22:28:16.593Z",
+  "updatedAt": "2026-10-21T04:59:36.209Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020141",
-      "strEvent": "Montreal Canadiens vs San Jose Sharks",
-      "strHomeTeam": "Montreal Canadiens",
-      "strAwayTeam": "San Jose Sharks",
-      "dateEvent": "2026-10-20",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-20T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Centre Bell",
-      "strStatus": "NS",
-      "strTVStation": "NBCSCA, RDS, TSN2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020141",
-      "idHomeTeam": "134834",
-      "idAwayTeam": "134853"
-    },
     {
       "idEvent": "nhl-2026020166",
       "strEvent": "Chicago Blackhawks vs Montreal Canadiens",

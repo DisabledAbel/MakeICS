@@ -1,26 +1,8 @@
 {
   "teamId": "135913",
   "teamName": "Vegas Golden Knights",
-  "updatedAt": "2026-10-19T22:28:16.593Z",
+  "updatedAt": "2026-10-21T04:59:36.209Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020151",
-      "strEvent": "Vegas Golden Knights vs Tampa Bay Lightning",
-      "strHomeTeam": "Vegas Golden Knights",
-      "strAwayTeam": "Tampa Bay Lightning",
-      "dateEvent": "2026-10-20",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-21T02:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "T-Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "ESPN, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020151",
-      "idHomeTeam": "135913",
-      "idAwayTeam": "134836"
-    },
     {
       "idEvent": "nhl-2026020160",
       "strEvent": "St. Louis Blues vs Vegas Golden Knights",

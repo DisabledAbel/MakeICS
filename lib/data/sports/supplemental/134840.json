@@ -1,26 +1,8 @@
 {
   "teamId": "134840",
   "teamName": "New Jersey Devils",
-  "updatedAt": "2026-10-19T22:28:16.593Z",
+  "updatedAt": "2026-10-21T04:59:36.209Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020142",
-      "strEvent": "New Jersey Devils vs Colorado Avalanche",
-      "strHomeTeam": "New Jersey Devils",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-10-20",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-20T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Prudential Center",
-      "strStatus": "NS",
-      "strTVStation": "ALT, KTVD, MSG, MSG 2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020142",
-      "idHomeTeam": "134840",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020157",
       "strEvent": "New Jersey Devils vs Anaheim Ducks",

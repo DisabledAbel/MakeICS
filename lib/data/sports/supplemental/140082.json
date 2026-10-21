@@ -1,26 +1,8 @@
 {
   "teamId": "140082",
   "teamName": "Seattle Kraken",
-  "updatedAt": "2026-10-19T22:28:16.593Z",
+  "updatedAt": "2026-10-21T04:59:36.209Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020149",
-      "strEvent": "Seattle Kraken vs Detroit Red Wings",
-      "strHomeTeam": "Seattle Kraken",
-      "strAwayTeam": "Detroit Red Wings",
-      "dateEvent": "2026-10-20",
-      "strTime": "01:40:00",
-      "strTimestamp": "2026-10-21T01:40:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Climate Pledge Arena",
-      "strStatus": "NS",
-      "strTVStation": "DSN, KONG, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020149",
-      "idHomeTeam": "140082",
-      "idAwayTeam": "134832"
-    },
     {
       "idEvent": "nhl-2026020164",
       "strEvent": "Seattle Kraken vs Utah Mammoth",

@@ -1,26 +1,8 @@
 {
   "teamId": "134830",
   "teamName": "Boston Bruins",
-  "updatedAt": "2026-10-19T22:28:16.593Z",
+  "updatedAt": "2026-10-21T04:59:36.209Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020147",
-      "strEvent": "Dallas Stars vs Boston Bruins",
-      "strHomeTeam": "Dallas Stars",
-      "strAwayTeam": "Boston Bruins",
-      "dateEvent": "2026-10-20",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-21T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "ESPN, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020147",
-      "idHomeTeam": "134856",
-      "idAwayTeam": "134830"
-    },
     {
       "idEvent": "nhl-2026020154",
       "strEvent": "Boston Bruins vs Nashville Predators",

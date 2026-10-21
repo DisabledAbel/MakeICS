@@ -1,26 +1,8 @@
 {
   "teamId": "134850",
   "teamName": "Vancouver Canucks",
-  "updatedAt": "2026-10-19T22:28:16.593Z",
+  "updatedAt": "2026-10-21T04:59:36.209Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020150",
-      "strEvent": "Vancouver Canucks vs Carolina Hurricanes",
-      "strHomeTeam": "Vancouver Canucks",
-      "strAwayTeam": "Carolina Hurricanes",
-      "dateEvent": "2026-10-20",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-21T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Arena",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, SN",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020150",
-      "idHomeTeam": "134850",
-      "idAwayTeam": "134838"
-    },
     {
       "idEvent": "nhl-2026020165",
       "strEvent": "Vancouver Canucks vs Detroit Red Wings",

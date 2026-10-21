@@ -1,26 +1,8 @@
 {
   "teamId": "134839",
   "teamName": "Columbus Blue Jackets",
-  "updatedAt": "2026-10-19T22:28:16.593Z",
+  "updatedAt": "2026-10-21T04:59:36.209Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020145",
-      "strEvent": "Columbus Blue Jackets vs Toronto Maple Leafs",
-      "strHomeTeam": "Columbus Blue Jackets",
-      "strAwayTeam": "Toronto Maple Leafs",
-      "dateEvent": "2026-10-20",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-20T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Nationwide Arena",
-      "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, SN",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020145",
-      "idHomeTeam": "134839",
-      "idAwayTeam": "134837"
-    },
     {
       "idEvent": "nhl-2026020174",
       "strEvent": "Columbus Blue Jackets vs Vegas Golden Knights",

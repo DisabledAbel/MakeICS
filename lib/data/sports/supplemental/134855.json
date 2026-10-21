@@ -1,26 +1,8 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-10-20T05:00:20.978Z",
+  "updatedAt": "2026-10-21T04:59:36.209Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020142",
-      "strEvent": "New Jersey Devils vs Colorado Avalanche",
-      "strHomeTeam": "New Jersey Devils",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-10-20",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-20T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Prudential Center",
-      "strStatus": "NS",
-      "strTVStation": "ALT, KTVD, MSG, MSG 2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020142",
-      "idHomeTeam": "134840",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020167",
       "strEvent": "Colorado Avalanche vs Tampa Bay Lightning",

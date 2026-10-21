@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-10-17T20:43:31.736Z",
+  "updatedAt": "2026-10-21T04:59:36.209Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020146",
-      "strEvent": "St. Louis Blues vs Winnipeg Jets",
-      "strHomeTeam": "St. Louis Blues",
-      "strAwayTeam": "Winnipeg Jets",
-      "dateEvent": "2026-10-20",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-21T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Enterprise Center",
-      "strStatus": "NS",
-      "strTVStation": "BN+, STLNHL, TSN3",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020146",
-      "idHomeTeam": "134859",
-      "idAwayTeam": "134851"
-    },
     {
       "idEvent": "nhl-2026020161",
       "strEvent": "Dallas Stars vs Winnipeg Jets",
