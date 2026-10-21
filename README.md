@@ -103,23 +103,6 @@ Open <http://localhost:3000>, start typing to pick a suggested show, sports team
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDisabledAbel%2FMakeICS)
 
-## Clear Repo URL workflow
-
-The **Clear Repo URL** GitHub Actions workflow clears the website link in the
-repository's **About** section and monitors for it to be restored. It runs on
-pushes or manually from the Actions tab. Each removal is checked against the
-update response and a fresh repository read; failed updates fail the workflow.
-
-Set the repository Actions secret `PAT_TOKEN` to a token whose owner has admin
-access to this repository. A fine-grained token needs **Administration: write**
-to update the homepage and **Actions: read** to detect newer workflow runs. A
-classic token needs the appropriate `public_repo` or `repo` scope. The default
-Actions `GITHUB_TOKEN` cannot grant the repository administration permission.
-
-If a deployment integration keeps restoring the website URL, disable that
-integration's repository website updates. This workflow monitors for a bounded
-period; it cannot prevent changes made after it stops.
-
 ## API
 
 ### TV Shows
@@ -147,6 +130,28 @@ GET /api/movies?q=Animation&type=genre&format=ics
 ```http
 GET /api/calendar?shows=The%20Last%20of%20Us&shows=Sofia%20the%20First&teamIds=136450&movies=Disney&movieType=studio&tz=America/Los_Angeles&format=ics
 ```
+
+
+## Permanent calendar history
+
+Scheduled refreshes archive removed events in `lib/data/archive/events.json`.
+Removed TV date and title verifications are saved separately in
+`lib/data/archive/google-verified.json`, including the 18 verifications removed by
+commit `b942db70ac85ab7907c4c983bd29556df5aecd4a`. Both individual TV and combined
+ICS feeds load these archived verifications before applying active corrections,
+so pruning a verification does not revert an episode's saved date or title.
+Episode UIDs remain unchanged. An explicit `since` parameter still filters history.
+
+The existing Google and Disney workflows run the history guard with `--archive --stage`
+before committing. This archives deletions automatically and only commits
+when files change. The Calendar History check also rejects unarchived verification
+deletions and stale archived copies. To preserve records after a manual data edit,
+run this command before committing:
+
+```bash
+node scripts/calendar-history.js --baseline=HEAD --archive --stage
+```
+
 
 ### Event updates and cancellations
 
@@ -205,24 +210,4 @@ Example local usage with a custom free IMDb-compatible endpoint:
 
 ```bash
 IMDB_API_URL='https://example-imdb-api.test/title/{imdbId}' npm run dev
-```
-
-## Permanent calendar history
-
-Scheduled refreshes archive removed events in `lib/data/archive/events.json`.
-Removed TV date and title verifications are saved separately in
-`lib/data/archive/google-verified.json`, including the 18 verifications removed by
-commit `b942db70ac85ab7907c4c983bd29556df5aecd4a`. Both individual TV and combined
-ICS feeds load these archived verifications before applying active corrections,
-so pruning a verification does not revert an episode's saved date or title.
-Episode UIDs remain unchanged. An explicit `since` parameter still filters history.
-
-The existing Google and Disney workflows run the history guard with `--archive --stage`
-before committing. This archives deletions automatically and only commits
-when files change. The Calendar History check also rejects unarchived verification
-deletions and stale archived copies. To preserve records after a manual data edit,
-run this command before committing:
-
-```bash
-node scripts/calendar-history.js --baseline=HEAD --archive --stage
 ```
