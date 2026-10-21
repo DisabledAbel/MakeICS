@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T09:50:39.873Z",
+  "generatedAt": "2026-10-21T09:52:51.343Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6001,12 +6001,12 @@
           "name": "Minami Hamabe"
         },
         {
-          "id": "nm1126340",
-          "name": "Ryûnosuke Kamiki"
-        },
-        {
           "id": "nm0475165",
           "name": "Jun Kunimura"
+        },
+        {
+          "id": "nm1126340",
+          "name": "Ryûnosuke Kamiki"
         },
         {
           "id": "nm0619178",
@@ -7687,7 +7687,24 @@
       "genres": [
         "Horror"
       ],
-      "people": [],
+      "people": [
+        {
+          "id": "nm16421397",
+          "name": "Brian Baliey"
+        },
+        {
+          "id": "nm16543450",
+          "name": "Little CJ"
+        },
+        {
+          "id": "nm17958362",
+          "name": "King J"
+        },
+        {
+          "id": "nm17958361",
+          "name": "Mimi Nicole"
+        }
+      ],
       "label": "Jan 08, 2027"
     },
     {
@@ -8105,6 +8122,36 @@
       "label": "Jan 29, 2027"
     },
     {
+      "id": "tt37360759",
+      "title": "Slayground",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjAzNDgxNDItMDYzYy00ZTEwLWJlZWQtZmU0ZjM5ZDI0Y2RjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm0740535",
+          "name": "Stephen Root"
+        },
+        {
+          "id": "nm0197647",
+          "name": "James Badge Dale"
+        },
+        {
+          "id": "nm1782299",
+          "name": "Imogen Poots"
+        },
+        {
+          "id": "nm12145223",
+          "name": "Sophie Wilde"
+        }
+      ],
+      "label": "Jan 29, 2027"
+    },
+    {
       "id": "tt33295857",
       "title": "Karoshi",
       "releaseDate": "Fri, 05 Feb 2027 00:00:00 GMT",
@@ -8432,16 +8479,16 @@
           "name": "Rosamund Pike"
         },
         {
-          "id": "nm0175916",
-          "name": "Paddy Considine"
-        },
-        {
           "id": "nm0000164",
           "name": "Anthony Hopkins"
         },
         {
-          "id": "nm0868476",
-          "name": "Pip Torrens"
+          "id": "nm0175916",
+          "name": "Paddy Considine"
+        },
+        {
+          "id": "nm3584268",
+          "name": "James Norton"
         }
       ],
       "label": "Feb 19, 2027"
@@ -9314,12 +9361,12 @@
           "name": "Sonia Mena"
         },
         {
-          "id": "nm11071631",
-          "name": "Seled Calderon"
+          "id": "nm0625334",
+          "name": "Drew Nelson"
         },
         {
-          "id": "nm3524780",
-          "name": "Chase Yi"
+          "id": "nm11071631",
+          "name": "Seled Calderon"
         }
       ],
       "label": "May 21, 2027"
