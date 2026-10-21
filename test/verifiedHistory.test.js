@@ -5,7 +5,7 @@ import os from 'node:os';
 import path from 'node:path';
 import { execFileSync, spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
-import { compareHistory, entriesFromDocument } from '../scripts/calendar-history.js';
+import { compareHistory, entriesFromDocument, writeFileAtomically } from '../scripts/calendar-history.js';
 import { loadVerifiedOverrides, VERIFIED_FILE, VERIFIED_ARCHIVE_FILE } from '../lib/verified-history.js';
 import { getEpisodes, toIcs } from '../lib/tvEpisodes.js';
 import { buildCalendar, toIcs as combinedToIcs } from '../lib/calendar.js';
@@ -36,7 +36,57 @@ test('verification loader merges archives and live corrections, and handles miss
   const fsImpl = { readFile: async url => JSON.stringify(url.pathname.includes('/archive/') ? { [key]: old, 'Past-1-1': old } : { [key]: newer }) };
   assert.deepEqual(await loadVerifiedOverrides(fsImpl), { [key]: newer, 'Past-1-1': old });
   assert.deepEqual(await loadVerifiedOverrides({ readFile: async () => { throw Object.assign(new Error(), { code: 'ENOENT' }); } }), {});
-  await assert.rejects(loadVerifiedOverrides({ readFile: async () => '{' }), SyntaxError);
+  assert.deepEqual(await loadVerifiedOverrides({ readFile: async () => '{' }), {});
+});
+
+test('each correction file remains usable when the other is malformed or unreadable', async () => {
+  for (const failingSource of ['/archive/', '/tv/']) {
+    for (const failure of ['malformed', 'unreadable']) {
+      const result = await loadVerifiedOverrides({ readFile: async url => {
+        if (url.pathname.includes(failingSource)) {
+          if (failure === 'malformed') return '{';
+          throw Object.assign(new Error('Permission denied'), { code: 'EACCES' });
+        }
+        return JSON.stringify({ [key]: failingSource === '/archive/' ? newer : old });
+      } });
+      assert.deepEqual(result, { [key]: failingSource === '/archive/' ? newer : old });
+    }
+  }
+});
+
+test('atomic publication keeps existing JSON readable until the complete replacement is renamed', async t => {
+  const directory = await fs.mkdtemp(path.join(os.tmpdir(), 'makeics-atomic-'));
+  t.after(() => fs.rm(directory, { recursive: true, force: true }));
+  const file = path.join(directory, 'google-verified.json');
+  const initial = JSON.stringify({ [key]: old });
+  const replacement = JSON.stringify({ [key]: newer });
+  await fs.writeFile(file, initial);
+  await writeFileAtomically(file, replacement, { ...fs, rename: async (temporary, target) => {
+    assert.equal(path.dirname(temporary), path.dirname(target));
+    assert.equal(await fs.readFile(target, 'utf8'), initial);
+    assert.equal(await fs.readFile(temporary, 'utf8'), replacement);
+    await fs.rename(temporary, target);
+  } });
+  assert.equal(await fs.readFile(file, 'utf8'), replacement);
+  assert.deepEqual(await fs.readdir(directory), ['google-verified.json']);
+});
+
+test('failed temporary writes and renames preserve the archive and clean up temporary files', async t => {
+  const directory = await fs.mkdtemp(path.join(os.tmpdir(), 'makeics-atomic-failure-'));
+  t.after(() => fs.rm(directory, { recursive: true, force: true }));
+  const file = path.join(directory, 'google-verified.json');
+  const initial = JSON.stringify({ [key]: old });
+  await fs.writeFile(file, initial);
+  for (const operation of ['writeFile', 'rename']) {
+    const failure = new Error(`Simulated ${operation} failure`);
+    const fsImpl = { ...fs, [operation]: async temporary => {
+      if (operation === 'writeFile') await fs.writeFile(temporary, '{');
+      throw failure;
+    } };
+    await assert.rejects(writeFileAtomically(file, JSON.stringify({ [key]: newer }), fsImpl), error => error === failure);
+    assert.equal(await fs.readFile(file, 'utf8'), initial);
+    assert.deepEqual(await fs.readdir(directory), ['google-verified.json']);
+  }
 });
 
 test('CLI archives pruned verifications, replaces stale copies, stages deletions and is repeatable', async t => {
