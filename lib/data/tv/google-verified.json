@@ -85,7 +85,7 @@
     "verifiedAt": "2026-10-12T21:37:06.160Z"
   },
   "AEW: Collision-4-49": {
-    "airdate": "2026-11-07",
+    "airdate": "2026-10-31",
     "name": "Chris Jericho's Rock N' Wrestling Rager",
     "verifiedAt": "2026-10-12T21:37:08.641Z"
   },
@@ -115,7 +115,7 @@
     "verifiedAt": "2026-10-16T17:13:45.804Z"
   },
   "Studio C-23-2": {
-    "airdate": "2026-10-26",
+    "airdate": "2026-10-29",
     "name": "Swiss Polka Demon Hunters",
     "verifiedAt": "2026-10-16T17:14:52.935Z"
   },
@@ -138,11 +138,6 @@
     "airdate": "2026-11-27",
     "name": "Final Countdown to War",
     "verifiedAt": "2026-10-18T16:23:31.181Z"
-  },
-  "1000-lb Sisters-9-8": {
-    "airdate": "2026-10-20",
-    "name": "Do You Want to Build a... Music Video?",
-    "verifiedAt": "2026-10-18T16:24:25.651Z"
   },
   "NOVA-53-16": {
     "airdate": "2026-11-04",
@@ -179,25 +174,15 @@
     "name": "Tokyo Story",
     "verifiedAt": "2026-10-19T19:06:16.013Z"
   },
-  "Surviving Alaska: Women of the Wild-1-3": {
-    "airdate": "2026-10-20",
-    "name": "From Dawn 'til Dusk",
-    "verifiedAt": "2026-10-19T19:06:34.735Z"
-  },
   "Vanderpump Rules: Lisa Las Vegas-1-2": {
     "airdate": "2026-10-21",
     "name": "If It Was Easy, Everyone Would Do It",
     "verifiedAt": "2026-10-19T19:06:51.302Z"
   },
   "The Voice-30-17": {
-    "airdate": "2026-12-08",
+    "airdate": "2026-09-17",
     "name": "The Voice 30th Season Celebration",
     "verifiedAt": "2026-10-20T17:49:47.032Z"
-  },
-  "Let's Make a Deal-18-22": {
-    "airdate": "2026-10-20",
-    "name": "Episode #18.2",
-    "verifiedAt": "2026-10-20T17:49:57.573Z"
   },
   "Marshals-2-6": {
     "airdate": "2026-11-08",
@@ -205,12 +190,12 @@
     "verifiedAt": "2026-10-20T17:50:21.209Z"
   },
   "Surviving Alaska: Women of the Wild-1-8": {
-    "airdate": "2026-11-24",
+    "airdate": "2026-10-07",
     "name": "Building the Dream",
     "verifiedAt": "2026-10-20T17:51:05.034Z"
   },
   "The Terrors of Jordan Mendoza-1-7": {
-    "airdate": "2026-10-26",
+    "airdate": "2026-10-25",
     "name": "Really Interesting",
     "verifiedAt": "2026-10-20T17:51:19.057Z"
   },
@@ -218,5 +203,110 @@
     "airdate": "2026-11-02",
     "name": "Oh, Whoa",
     "verifiedAt": "2026-10-20T17:51:21.676Z"
+  },
+  "The Patrick Star Show-6-1": {
+    "airdate": "2026-10-12",
+    "name": "Scary Tales",
+    "verifiedAt": "2026-10-21T17:55:51.431Z"
+  },
+  "WWE Friday Night SmackDown-27-44": {
+    "airdate": "2025-10-31",
+    "name": "Signed, Sealed, Smashed",
+    "verifiedAt": "2026-10-21T17:55:57.126Z"
+  },
+  "WWE Friday Night SmackDown-27-46": {
+    "airdate": "2025-11-14",
+    "name": "Vision of Vengeance",
+    "verifiedAt": "2026-10-21T17:56:01.978Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2026-12-04",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-10-21T17:56:09.364Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-10-21T17:56:11.848Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2026-01-02",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-10-21T17:56:14.290Z"
+  },
+  "Crossroad Springs-2-7": {
+    "airdate": "2026-10-15",
+    "name": "Waiting at the Stations",
+    "verifiedAt": "2026-10-21T17:57:12.736Z"
+  },
+  "The Real Housewives of New York City-16-8": {
+    "airdate": "2026-09-08",
+    "name": "The Price of Perfection",
+    "verifiedAt": "2026-10-21T17:57:19.127Z"
+  },
+  "The Drop: A Snowfall Saga-1-8": {
+    "airdate": "2026-09-08",
+    "name": "Click Pop",
+    "verifiedAt": "2026-10-21T17:57:21.831Z"
+  },
+  "Tyler Perry's Assisted Living-7-8": {
+    "airdate": "2026-09-08",
+    "name": "Bedside Man",
+    "verifiedAt": "2026-10-21T17:57:24.678Z"
+  },
+  "Love & Marriage: Huntsville-12-12": {
+    "airdate": "2026-09-12",
+    "name": "A New Era",
+    "verifiedAt": "2026-10-21T17:57:28.966Z"
+  },
+  "48 Hours-39-3": {
+    "airdate": "2025-10-11",
+    "name": "A Death in the Stairwell",
+    "verifiedAt": "2026-10-21T17:58:34.477Z"
+  },
+  "Get Jiro-1-7": {
+    "airdate": "2026-11-07",
+    "name": "Cage Free",
+    "verifiedAt": "2026-10-21T17:58:38.027Z"
+  },
+  "Get Jiro-1-8": {
+    "airdate": "2026-11-15",
+    "name": "Your Guests Have Arrived",
+    "verifiedAt": "2026-10-21T17:58:40.471Z"
+  },
+  "Get Jiro-1-9": {
+    "airdate": "2026-11-22",
+    "name": "Our Specials This Evening",
+    "verifiedAt": "2026-10-21T17:58:42.901Z"
+  },
+  "Get Jiro-1-10": {
+    "airdate": "2026-11-29",
+    "name": "Gochisousama",
+    "verifiedAt": "2026-10-21T17:58:45.471Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-4": {
+    "airdate": "2026-10-07",
+    "name": "Locked & Loaded",
+    "verifiedAt": "2026-10-21T17:59:06.212Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-5": {
+    "airdate": "2026-10-07",
+    "name": "A Big Win",
+    "verifiedAt": "2026-10-21T17:59:08.727Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-6": {
+    "airdate": "2026-10-07",
+    "name": "Winter's Reckoning",
+    "verifiedAt": "2026-10-21T17:59:11.147Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-7": {
+    "airdate": "2026-10-07",
+    "name": "Born to Run",
+    "verifiedAt": "2026-10-21T17:59:13.611Z"
+  },
+  "Studio C-23-1": {
+    "airdate": "2026-10-19",
+    "name": "Have I Shocked You? with Pete Holmes",
+    "verifiedAt": "2026-10-21T17:59:21.772Z"
   }
 }
