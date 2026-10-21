@@ -1,7 +1,7 @@
 {
   "teamId": "134865",
   "teamName": "Golden State Warriors",
-  "updatedAt": "2026-10-21T16:39:51.754Z",
+  "updatedAt": "2026-10-21T21:16:59.037Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909092",
@@ -337,8 +337,8 @@
       "strLeague": "NBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134865",
       "idAwayTeam": "134866"
@@ -422,8 +422,8 @@
       "strLeague": "NBA",
       "strVenue": "Scotiabank Arena",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134864",
       "idAwayTeam": "134865"
@@ -473,8 +473,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134865"
@@ -660,8 +660,8 @@
       "strLeague": "NBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134880",
       "idAwayTeam": "134865"
@@ -1170,8 +1170,8 @@
       "strLeague": "NBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134865",
       "idAwayTeam": "134880"
@@ -1204,8 +1204,8 @@
       "strLeague": "NBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134865",
       "idAwayTeam": "134864"

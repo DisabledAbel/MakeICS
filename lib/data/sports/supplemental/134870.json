@@ -1,7 +1,7 @@
 {
   "teamId": "134870",
   "teamName": "Chicago Bulls",
-  "updatedAt": "2026-10-21T16:39:51.754Z",
+  "updatedAt": "2026-10-21T21:16:59.037Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909837",
@@ -184,8 +184,8 @@
       "strLeague": "NBA",
       "strVenue": "United Center",
       "strStatus": "NS",
-      "strTVStation": "Atlanta News First",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134870",
       "idAwayTeam": "134880"
@@ -507,8 +507,8 @@
       "strLeague": "NBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
-      "strTVStation": "CHSN",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134880",
       "idAwayTeam": "134870"
@@ -677,8 +677,8 @@
       "strLeague": "NBA",
       "strVenue": "United Center",
       "strStatus": "NS",
-      "strTVStation": "CHSN",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134870",
       "idAwayTeam": "134864"
@@ -966,8 +966,8 @@
       "strLeague": "NBA",
       "strVenue": "United Center",
       "strStatus": "NS",
-      "strTVStation": "CHSN",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134870",
       "idAwayTeam": "134880"
@@ -1221,8 +1221,8 @@
       "strLeague": "NBA",
       "strVenue": "United Center",
       "strStatus": "NS",
-      "strTVStation": "CHSN",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134870",
       "idAwayTeam": "134866"

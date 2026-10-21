@@ -1,7 +1,7 @@
 {
   "teamId": "134885",
   "teamName": "Denver Nuggets",
-  "updatedAt": "2026-10-21T16:39:51.754Z",
+  "updatedAt": "2026-10-21T21:16:59.037Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909094",
@@ -388,8 +388,8 @@
       "strLeague": "NBA",
       "strVenue": "Ball Arena",
       "strStatus": "NS",
-      "strTVStation": "Atlanta News First",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134885",
       "idAwayTeam": "134880"
@@ -422,8 +422,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134885"
@@ -864,8 +864,8 @@
       "strLeague": "NBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
-      "strTVStation": "Atlanta News First",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134880",
       "idAwayTeam": "134885"
@@ -1323,8 +1323,8 @@
       "strLeague": "NBA",
       "strVenue": "Ball Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134885",
       "idAwayTeam": "134866"

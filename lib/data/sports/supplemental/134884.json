@@ -1,7 +1,7 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-10-21T16:39:51.754Z",
+  "updatedAt": "2026-10-21T21:16:59.037Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909835",
@@ -575,8 +575,8 @@
       "strLeague": "NBA",
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134884",
       "idAwayTeam": "134866"

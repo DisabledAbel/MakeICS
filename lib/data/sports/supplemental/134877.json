@@ -1,7 +1,7 @@
 {
   "teamId": "134877",
   "teamName": "Memphis Grizzlies",
-  "updatedAt": "2026-10-21T16:39:51.754Z",
+  "updatedAt": "2026-10-21T21:16:59.037Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909838",
@@ -167,8 +167,8 @@
       "strLeague": "NBA",
       "strVenue": "Scotiabank Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN MEM",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134864",
       "idAwayTeam": "134877"
@@ -524,8 +524,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134877"
@@ -1017,8 +1017,8 @@
       "strLeague": "NBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
-      "strTVStation": "Atlanta News First",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": "DAZN MEM",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134880",
       "idAwayTeam": "134877"
@@ -1051,8 +1051,8 @@
       "strLeague": "NBA",
       "strVenue": "FedExForum",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN MEM",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134877",
       "idAwayTeam": "134880"
@@ -1153,8 +1153,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134877"

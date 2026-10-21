@@ -1,7 +1,7 @@
 {
   "teamId": "134875",
   "teamName": "Dallas Mavericks",
-  "updatedAt": "2026-10-21T16:39:51.754Z",
+  "updatedAt": "2026-10-21T21:16:59.037Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909840",
@@ -269,8 +269,8 @@
       "strLeague": "NBA",
       "strVenue": "American Airlines Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KFAA-TV",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134875",
       "idAwayTeam": "134866"
@@ -796,8 +796,8 @@
       "strLeague": "NBA",
       "strVenue": "American Airlines Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KFAA-TV",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134875",
       "idAwayTeam": "134864"
@@ -847,8 +847,8 @@
       "strLeague": "NBA",
       "strVenue": "American Airlines Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KFAA-TV",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134875",
       "idAwayTeam": "134866"
@@ -1170,8 +1170,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134875"

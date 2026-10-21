@@ -1,7 +1,7 @@
 {
   "teamId": "134889",
   "teamName": "Utah Jazz",
-  "updatedAt": "2026-10-21T16:39:51.754Z",
+  "updatedAt": "2026-10-21T21:16:59.037Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909838",
@@ -626,8 +626,8 @@
       "strLeague": "NBA",
       "strVenue": "Scotiabank Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KJZZ-TV",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134864",
       "idAwayTeam": "134889"
@@ -745,8 +745,8 @@
       "strLeague": "NBA",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KJZZ-TV",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134889",
       "idAwayTeam": "134866"
@@ -1136,8 +1136,8 @@
       "strLeague": "NBA",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KJZZ-TV",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134889",
       "idAwayTeam": "134880"
@@ -1170,8 +1170,8 @@
       "strLeague": "NBA",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KJZZ-TV",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134889",
       "idAwayTeam": "134864"
@@ -1221,8 +1221,8 @@
       "strLeague": "NBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KJZZ-TV",
+      "updatedAt": "2026-10-21T21:16:59.037Z",
       "source": "scraped",
       "idHomeTeam": "134880",
       "idAwayTeam": "134889"
