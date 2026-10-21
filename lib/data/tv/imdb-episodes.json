@@ -340,6 +340,14 @@
           "url": "https://www.imdb.com/title/tt49522398/?ref_=ttep_ep_31"
         },
         {
+          "season": 30,
+          "number": 32,
+          "name": "Stephen A. Smith/View Your Deal/",
+          "airdate": "2026-10-21",
+          "summary": "TV host Stephen A. Smith (TV series, \"ESPN First Take\");",
+          "url": "https://www.imdb.com/title/tt49522399/?ref_=ttep_ep_32"
+        },
+        {
           "season": 29,
           "number": 8,
           "name": "Episode #29.1",
@@ -8800,7 +8808,7 @@
         {
           "season": 8,
           "number": 41,
-          "name": "Episode #8.41",
+          "name": "WrestleDream 2026 Go-home show",
           "airdate": "2026-10-14",
           "summary": "Five Clockwork Carnage Qualifying Matches determine the remaining challengers for AEW World Champion Will Ospreay at WrestleDream; plus, the Don Callis Family's Wardlow, Mark Davis and Jake Doyle throw down against the Death Riders.",
           "url": "https://www.imdb.com/title/tt44863278/?ref_=ttep_ep_41"
@@ -8808,7 +8816,7 @@
         {
           "season": 8,
           "number": 42,
-          "name": "Episode #8.42",
+          "name": "WrestleDream 2026 Fallout",
           "airdate": "2026-10-21",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48730761/?ref_=ttep_ep_42"
@@ -27120,56 +27128,8 @@
           "number": 1,
           "name": "Rites of Passage",
           "airdate": "2014-01-29",
-          "summary": "Karen has started secondary school but isn't settling in well; she feels academically inferior and is worried that her missing hamster is trapped under the floorboard. On the other hand, Ben is overjoyed to land the lead in his school play, a musical version of \"Spartacus\", but Jake is in disgrace for getting a tattoo that looks like a spider. Sue sends e-mails to the parents of Karen's schoolmates, which doesn't help, but Pete comforts his daughter with a heart-to-heart.",
+          "summary": "Karen has started secondary school but isn't settling in well; she feels academical",
           "url": "https://www.imdb.com/title/tt3485142/?ref_=ttep_ep_1"
-        },
-        {
-          "season": 5,
-          "number": 2,
-          "name": "K for Victory",
-          "airdate": "2014-02-05",
-          "summary": "Karen indulges her competitive instincts, Ben delves into the mysteries of human psychology, Jake appoints himself as a parenting expert, Sue falls victim to a dysfunctional printer, and a vigilant Daily Mail reader hounds Pete.",
-          "url": "https://www.imdb.com/title/tt3500514/?ref_=ttep_ep_2"
-        },
-        {
-          "season": 5,
-          "number": 3,
-          "name": "House of Hormones",
-          "airdate": "2014-02-12",
-          "summary": "Pete's 21-year-old goddaughter Stacey from Australia is staying and sets Ben's pulse racing as she walks around the house in only a towel. Pete thinks it's time for Ben to have a chat about the facts of life--from Jake--but Jake is more interested in persuading his parents to let his girlfriend Alex stay over. Everybody except Pete is delighted when Sue agrees to mind a friend's baby--nicknamed the Werewolf--overnight, prompting Karen to ask awkward questions about childbirth and again raise the topic of her lost hamster. Jake regrets his decision when other girlfriends get in touch, possibly tipped off by Sue, while Pete is happy to give the baby back to his mother and Ben is happy with a final revealing glimpse of Stacey.",
-          "url": "https://www.imdb.com/title/tt3514498/?ref_=ttep_ep_3"
-        },
-        {
-          "season": 5,
-          "number": 4,
-          "name": "Into the Wilderness",
-          "airdate": "2014-02-19",
-          "summary": "Pete and Ben go on a bonding trip, camping in the woods, while Sue and Stacey don't exactly see eye-to-eye over the empowerment of women.",
-          "url": "https://www.imdb.com/title/tt3551104/?ref_=ttep_ep_4"
-        },
-        {
-          "season": 5,
-          "number": 5,
-          "name": "Communication Skills",
-          "airdate": "2014-02-26",
-          "summary": "Sue is trying to organize a conference so she asks Pete to let Karen in after school, but he must go to buy a central-heating pump so he rings Jake to come home. Jake has lost his Oyster card and has no cash, so this requires a call to Ben--only for Pete to find himself speaking to a Chinese tourist who has found Ben's lost phone. The headmistress keeps Karen back to upbraid her for rubbishing the school rules, but she still manages to get home ahead of Pete, while Ben invites the Chinese man and his wife round to tea.",
-          "url": "https://www.imdb.com/title/tt3548006/?ref_=ttep_ep_5"
-        },
-        {
-          "season": 5,
-          "number": 6,
-          "name": "Spartacus the Musical",
-          "airdate": "2014-03-05",
-          "summary": "Granddad is very ill, bringing Angela back from America with toyboy Tommy, whom she met at Sunday school. Sue is immediately rattled when Angela makes plans for their father as well as claiming that he recognized her when he failed to recognize Sue. After Tommy and Stacey decide to tour Europe, Angela returns to the States and the family goes to see Ben in his school musical, \"Spartacus\". He's surprisingly nervous, but a pep talk from Karen gives him the confidence to put on a good show. Sue and Pete also learn that, thanks to Jake, Angela has been persuaded to write a huge cheque that will solve all their worries about Granddad.",
-          "url": "https://www.imdb.com/title/tt3565284/?ref_=ttep_ep_6"
-        },
-        {
-          "season": 5,
-          "number": 7,
-          "name": "Christmas Special 2016",
-          "airdate": "2016-12-26",
-          "summary": "The Brockmans are on a special mission at Christmastime.",
-          "url": "https://www.imdb.com/title/tt6262758/?ref_=ttep_ep_7"
         },
         {
           "season": 4,
@@ -32897,7 +32857,7 @@
           "number": 7,
           "name": "Loveless Island",
           "airdate": "2026-10-20",
-          "summary": null,
+          "summary": "Erin tries to clear her name regarding accusations that she spread rumors about Jessel and Sai's marriages. Carole confronts Sai for her invasive questions about the past. Hailey finds herself under a microscope.",
           "url": "https://www.imdb.com/title/tt46023293/?ref_=ttep_ep_7"
         },
         {
@@ -33149,7 +33109,7 @@
           "number": 7,
           "name": "The Status Quo",
           "airdate": "2026-10-20",
-          "summary": null,
+          "summary": "Standing at a crossroads, Philip grapples with fear, revenge, and courage; with support from his community and justice within reach, he begins reclaiming his voice while danger still looms.",
           "url": "https://www.imdb.com/title/tt49645260/?ref_=ttep_ep_7"
         },
         {
@@ -35646,7 +35606,7 @@
           "number": 6,
           "name": "Blame It on the Rain",
           "airdate": "2026-10-20",
-          "summary": null,
+          "summary": "R.J. faces tough odds and turbulent circumstances as he investigates the violent death of a woman who seemingly perished in a hurricane that never actually made landfall.",
           "url": "https://www.imdb.com/title/tt47992511/?ref_=ttep_ep_6"
         },
         {
@@ -36230,9 +36190,9 @@
         {
           "season": 29,
           "number": 3,
-          "name": "Episode #29.3",
+          "name": "You Like That on Your Face",
           "airdate": "2026-10-14",
-          "summary": null,
+          "summary": "When aura battles take over South America, Kyle tries to help his little brother not be cringe.",
           "url": "https://www.imdb.com/title/tt42834563/?ref_=ttep_ep_3"
         },
         {
@@ -36358,7 +36318,7 @@
           "number": 9,
           "name": "The Battles Part 2",
           "airdate": "2026-10-19",
-          "summary": null,
+          "summary": "The Battle Rounds enter the third night as the coaches enlist superstar Battle Advisors to help prepare their artists. Coaches will choose the pairings and songs, and each coach has one steal.",
           "url": "https://www.imdb.com/title/tt48390816/?ref_=ttep_ep_9"
         },
         {
@@ -37040,7 +37000,7 @@
           "number": 5,
           "name": "Forgive Me, Father",
           "airdate": "2026-10-16",
-          "summary": null,
+          "summary": "The Jacobite Army clashes with loyalists at the Battle of Sheriffmuir, as men on both sides fight for their lives and Scotland's future.",
           "url": "https://www.imdb.com/title/tt39602086/?ref_=ttep_ep_5"
         },
         {
@@ -37048,7 +37008,7 @@
           "number": 6,
           "name": "Small Mercies",
           "airdate": "2026-10-23",
-          "summary": null,
+          "summary": "Ellen finds herself in unexpected company as a guest, while Brian and Murtagh attempt a daring rescue. Colum anxiously awaits news of the war, and Henry forms an alliance with a former enemy.",
           "url": "https://www.imdb.com/title/tt39602105/?ref_=ttep_ep_6"
         },
         {
@@ -40474,7 +40434,7 @@
         {
           "season": 38,
           "number": 5,
-          "name": "Episode #38.5",
+          "name": "Testing 1-2-3",
           "airdate": "2026-11-01",
           "summary": "In what she argues is not an attempt to get extra time on tests, Lisa has herself evaluated for three types of neurodiversity - which remind her of behaviors she's witnessed in Principal Skinner, Comic Book Guy and Homer.",
           "url": "https://www.imdb.com/title/tt36431514/?ref_=ttep_ep_5"
@@ -41778,6 +41738,22 @@
         },
         {
           "season": 2,
+          "number": 9,
+          "name": "Episode #2.9",
+          "airdate": "2026-12-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624417/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "name": "Episode #2.10",
+          "airdate": "2026-12-09",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42624419/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
           "number": 30,
           "name": "My First Time in a While",
           "airdate": "2026-09-30",
@@ -41862,6 +41838,14 @@
       "imdbId": "tt1442550",
       "title": "Shark Tank",
       "episodes": [
+        {
+          "season": 18,
+          "number": 3,
+          "name": "Diary of a Shark",
+          "airdate": "2026-10-07",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49351583/?ref_=ttep_ep_3"
+        },
         {
           "season": 18,
           "number": 30,
@@ -43334,7 +43318,7 @@
           "number": 3,
           "name": "Diagnosing Rick",
           "airdate": "2026-10-16",
-          "summary": null,
+          "summary": "Rick receives a life-altering diagnosis; Greenhorns push Tony to his breaking point; Parker fires up a third plant and gets surprising gold results.",
           "url": "https://www.imdb.com/title/tt49470990/?ref_=ttep_ep_3"
         },
         {
@@ -43342,7 +43326,7 @@
           "number": 4,
           "name": "Keno City Conclave",
           "airdate": "2026-10-23",
-          "summary": null,
+          "summary": "Tony ambushes Rick with a secret offer. With high hopes, Parker's crew fires up a fourth plant in the Quagmire Cut. Buzz bets on White Channel pay.",
           "url": "https://www.imdb.com/title/tt49470996/?ref_=ttep_ep_4"
         },
         {
@@ -45632,6 +45616,14 @@
           "url": "https://www.imdb.com/title/tt44126707/?ref_=ttep_ep_4"
         },
         {
+          "season": 9,
+          "number": 5,
+          "name": "Episode #9.5",
+          "airdate": "2026-11-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44126710/?ref_=ttep_ep_5"
+        },
+        {
           "season": 8,
           "number": 1,
           "name": "Takeover",
@@ -46016,7 +46008,7 @@
           "number": 3,
           "name": "Radio Active",
           "airdate": "2026-10-19",
-          "summary": null,
+          "summary": "To take down a terrorist cell, the team teams up with a veteran codebreaker.",
           "url": "https://www.imdb.com/title/tt43985940/?ref_=ttep_ep_3"
         },
         {
@@ -46026,6 +46018,14 @@
           "airdate": "2026-10-26",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44177776/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Episode #2.5",
+          "airdate": "2026-11-02",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44177778/?ref_=ttep_ep_5"
         },
         {
           "season": 1,
@@ -46142,7 +46142,7 @@
           "number": 2,
           "name": "A Mother's Crusade",
           "airdate": "2026-10-12",
-          "summary": null,
+          "summary": "For 18-year-old Bonnie Craig, what begins as a routine walk to the school bus takes a tragic turn when she disappears; Bonnie's body is found in the water near a trail, and with no signs of foul play police initially rule her death a hiking accident.",
           "url": "https://www.imdb.com/title/tt48683496/?ref_=ttep_ep_2"
         },
         {
@@ -46150,7 +46150,7 @@
           "number": 3,
           "name": "Camilo's Secret",
           "airdate": "2026-10-19",
-          "summary": null,
+          "summary": "In 2011, two Miami businessmen disappear; when police connect the two missing-person cases, the investigation stretches from one man's tight-knit family into South Florida's business elite and the world of professional mixed martial arts fighting.",
           "url": "https://www.imdb.com/title/tt48683643/?ref_=ttep_ep_3"
         },
         {
@@ -46662,7 +46662,7 @@
           "number": 3,
           "name": "Sleeping Dogs",
           "airdate": "2026-10-20",
-          "summary": null,
+          "summary": "When Torres' retired undercover identity is used to commit a string of murders, he teams up with his grizzled former handler, Walt Keller, to confront a darker version of himself he thought was long gone.",
           "url": "https://www.imdb.com/title/tt44772098/?ref_=ttep_ep_3"
         },
         {
@@ -47614,6 +47614,22 @@
         },
         {
           "season": 2,
+          "number": 4,
+          "name": "Shiryou no Ou wa Zetsubou Deshita",
+          "airdate": "2026-10-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49668792/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Wakare no Toki wa Egao Deshita",
+          "airdate": "2026-10-28",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49668802/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 2,
           "number": 30,
           "name": "Sora ni Ukanderu no wa Shima Deshita",
           "airdate": "2026-09-30",
@@ -47757,7 +47773,7 @@
           "number": 3,
           "name": "They Call Me Ms. Goodwin",
           "airdate": "2026-10-21",
-          "summary": null,
+          "summary": "Frost and Charles work to shield a young burn victim, while Ripley and Hannah think outside the box after helping an unhoused pregnant woman, and Archer receives troubling news.",
           "url": "https://www.imdb.com/title/tt44772094/?ref_=ttep_ep_3"
         },
         {
@@ -48221,7 +48237,7 @@
         {
           "season": 15,
           "number": 5,
-          "name": "Episode #15.5",
+          "name": "Three Hundred",
           "airdate": "2026-11-04",
           "summary": null,
           "url": "https://www.imdb.com/title/tt45088103/?ref_=ttep_ep_5"
@@ -49323,7 +49339,7 @@
           "number": 3,
           "name": "The Mistake",
           "airdate": "2026-10-22",
-          "summary": null,
+          "summary": "The coven hosts an initiation party for a new vampire, inviting prominent members of their community, while Jesse's origin story as a vampire comes to light.",
           "url": "https://www.imdb.com/title/tt47730936/?ref_=ttep_ep_3"
         },
         {
@@ -49375,7 +49391,7 @@
         {
           "season": 28,
           "number": 5,
-          "name": "Episode #28.5",
+          "name": "Forsaken",
           "airdate": "2026-11-05",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42257887/?ref_=ttep_ep_5"
@@ -49581,7 +49597,7 @@
         {
           "season": 5,
           "number": 7,
-          "name": "Episode #5.7",
+          "name": "It's Like Fighting Two Pigs Under a Blanket",
           "airdate": "2026-10-22",
           "summary": "The great fruit debate rages on as wild accusations tear through the castle and paranoia is at a fever pitch; new suspicions are aired, and an explosive mission gives one player the chance to win a game-changing power.",
           "url": "https://www.imdb.com/title/tt39242461/?ref_=ttep_ep_7"
@@ -49889,7 +49905,7 @@
         {
           "season": 26,
           "number": 5,
-          "name": "Episode #26.5",
+          "name": "Rage Bait",
           "airdate": "2026-11-05",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43328546/?ref_=ttep_ep_5"
@@ -50285,7 +50301,7 @@
           "number": 2,
           "name": "Her Last Steps",
           "airdate": "2026-10-14",
-          "summary": null,
+          "summary": "A home invasion in Connecticut leaves a mother dead in the basement.",
           "url": "https://www.imdb.com/title/tt49481203/?ref_=ttep_ep_2"
         },
         {
@@ -50861,7 +50877,7 @@
           "number": 3,
           "name": "Fire in the Hole",
           "airdate": "2026-10-23",
-          "summary": null,
+          "summary": "When a subway shootout leaves a detective critically injured, Danny and Lena race to uncover the truth, while Sean confronts how police work impacts those closest to him.",
           "url": "https://www.imdb.com/title/tt43700838/?ref_=ttep_ep_3"
         },
         {
@@ -52076,9 +52092,9 @@
         {
           "season": 13,
           "number": 2,
-          "name": "Episode #13.2",
+          "name": "Pier Pressure",
           "airdate": "2026-10-19",
-          "summary": null,
+          "summary": "Rainbeau's management style causes tension with the interior. Chef Moe plays cupid and his arrow strikes several crew members, but not everyone is feeling the love.",
           "url": "https://www.imdb.com/title/tt48501318/?ref_=ttep_ep_2"
         },
         {
@@ -53048,7 +53064,7 @@
           "number": 2,
           "name": "Slippin' and Slidin'",
           "airdate": "2026-10-22",
-          "summary": null,
+          "summary": "As Bailey adjusts to student life, she and Blue respond to a fraternity hazing mishap. Meredith juggles Boston and Seattle while advocating for a young patient, and Amelia and Toni support Jo.",
           "url": "https://www.imdb.com/title/tt47816839/?ref_=ttep_ep_2"
         },
         {
@@ -54381,9 +54397,9 @@
         {
           "season": 1,
           "number": 3,
-          "name": "Episode #1.3",
+          "name": "The Final Secret",
           "airdate": "2026-10-21",
-          "summary": null,
+          "summary": "The final chapter of their investigation as survivors identify a notorious serial killer, investigators revisit his known victims, and the women reflect on their search for justice after decades of unanswered questions.",
           "url": "https://www.imdb.com/title/tt48094894/?ref_=ttep_ep_3"
         }
       ]

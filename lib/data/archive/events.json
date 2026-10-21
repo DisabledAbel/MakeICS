@@ -91936,6 +91936,102 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt1086191:https://www.imdb.com/title/tt3500514/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3500514/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 2,
+        "name": "K for Victory",
+        "airdate": "2014-02-05",
+        "summary": "Karen indulges her competitive instincts, Ben delves into the mysteries of human psychology, Jake appoints himself as a parenting expert, Sue falls victim to a dysfunctional printer, and a vigilant Daily Mail reader hounds Pete.",
+        "url": "https://www.imdb.com/title/tt3500514/?ref_=ttep_ep_2",
+        "showId": "tt1086191",
+        "showName": "Outnumbered"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1086191:https://www.imdb.com/title/tt3514498/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3514498/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 3,
+        "name": "House of Hormones",
+        "airdate": "2014-02-12",
+        "summary": "Pete's 21-year-old goddaughter Stacey from Australia is staying and sets Ben's pulse racing as she walks around the house in only a towel. Pete thinks it's time for Ben to have a chat about the facts of life--from Jake--but Jake is more interested in persuading his parents to let his girlfriend Alex stay over. Everybody except Pete is delighted when Sue agrees to mind a friend's baby--nicknamed the Werewolf--overnight, prompting Karen to ask awkward questions about childbirth and again raise the topic of her lost hamster. Jake regrets his decision when other girlfriends get in touch, possibly tipped off by Sue, while Pete is happy to give the baby back to his mother and Ben is happy with a final revealing glimpse of Stacey.",
+        "url": "https://www.imdb.com/title/tt3514498/?ref_=ttep_ep_3",
+        "showId": "tt1086191",
+        "showName": "Outnumbered"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1086191:https://www.imdb.com/title/tt3548006/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3548006/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 5,
+        "name": "Communication Skills",
+        "airdate": "2014-02-26",
+        "summary": "Sue is trying to organize a conference so she asks Pete to let Karen in after school, but he must go to buy a central-heating pump so he rings Jake to come home. Jake has lost his Oyster card and has no cash, so this requires a call to Ben--only for Pete to find himself speaking to a Chinese tourist who has found Ben's lost phone. The headmistress keeps Karen back to upbraid her for rubbishing the school rules, but she still manages to get home ahead of Pete, while Ben invites the Chinese man and his wife round to tea.",
+        "url": "https://www.imdb.com/title/tt3548006/?ref_=ttep_ep_5",
+        "showId": "tt1086191",
+        "showName": "Outnumbered"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1086191:https://www.imdb.com/title/tt3551104/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3551104/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 4,
+        "name": "Into the Wilderness",
+        "airdate": "2014-02-19",
+        "summary": "Pete and Ben go on a bonding trip, camping in the woods, while Sue and Stacey don't exactly see eye-to-eye over the empowerment of women.",
+        "url": "https://www.imdb.com/title/tt3551104/?ref_=ttep_ep_4",
+        "showId": "tt1086191",
+        "showName": "Outnumbered"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1086191:https://www.imdb.com/title/tt3565284/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt3565284/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 6,
+        "name": "Spartacus the Musical",
+        "airdate": "2014-03-05",
+        "summary": "Granddad is very ill, bringing Angela back from America with toyboy Tommy, whom she met at Sunday school. Sue is immediately rattled when Angela makes plans for their father as well as claiming that he recognized her when he failed to recognize Sue. After Tommy and Stacey decide to tour Europe, Angela returns to the States and the family goes to see Ben in his school musical, \"Spartacus\". He's surprisingly nervous, but a pep talk from Karen gives him the confidence to put on a good show. Sue and Pete also learn that, thanks to Jake, Angela has been persuaded to write a huge cheque that will solve all their worries about Granddad.",
+        "url": "https://www.imdb.com/title/tt3565284/?ref_=ttep_ep_6",
+        "showId": "tt1086191",
+        "showName": "Outnumbered"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt1086191:https://www.imdb.com/title/tt6262758/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt6262758/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 5,
+        "number": 7,
+        "name": "Christmas Special 2016",
+        "airdate": "2016-12-26",
+        "summary": "The Brockmans are on a special mission at Christmastime.",
+        "url": "https://www.imdb.com/title/tt6262758/?ref_=ttep_ep_7",
+        "showId": "tt1086191",
+        "showName": "Outnumbered"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt11349896:https://www.imdb.com/title/tt38954970/?ref_=ttep_ep_1",
       "uid": "tvmaze-https://www.imdb.com/title/tt38954970/?ref_=ttep_ep_1@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
