@@ -1,8 +1,9 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { execFile as execFileCallback } from 'node:child_process';
-import { promisify } from 'node:util';
+import { promisify, isDeepStrictEqual } from 'node:util';
 import { fileURLToPath } from 'node:url';
+import { VERIFIED_FILE, VERIFIED_ARCHIVE_FILE } from '../lib/verified-history.js';
 
 const execFile = promisify(execFileCallback);
 export const ARCHIVE_FILE = 'lib/data/archive/events.json';
@@ -28,6 +29,14 @@ function recordDate(record) { return record.dateEvent || record.airdate || recor
  * entries as archived, reject malformed archives, and ignore auxiliary documents.
  */
 export function entriesFromDocument(file, data) {
+  if (file === VERIFIED_FILE || file === VERIFIED_ARCHIVE_FILE) {
+    if (!data || typeof data !== 'object' || Array.isArray(data)) throw new Error(`${file}: expected a TV verification map`);
+    // These are verification identities, not VEVENT UIDs. Actual episode UIDs stay unchanged.
+    return Object.entries(data).map(([key, record]) => ({
+      kind: 'tv-override', identity: `tv-override:${key}`, uid: `tv-override:${key}`,
+      source: file, record, archived: file === VERIFIED_ARCHIVE_FILE
+    }));
+  }
   if (file === ARCHIVE_FILE) {
     if (!data || data.version !== 1 || !Array.isArray(data.events)) throw new Error(`${file}: expected a version 1 events archive`);
     return data.events.map((entry, index) => {
@@ -49,7 +58,7 @@ export function entriesFromDocument(file, data) {
   if (Array.isArray(data?.events)) return data.events.map(record => ({
     kind: 'sports', identity: `sports:${record.idEvent}`, uid: `sportsdb-${record.idEvent}@makeics.local`, source: file, record
   }));
-  // Auxiliary data (for example TV date overrides) is not an event store.
+  // Other auxiliary data is not an event store.
   return [];
 }
 
@@ -63,6 +72,7 @@ function validateEntry(entry, label) {
   if (entry.kind === 'sports' && (!nonempty(record.idEvent) || !nonempty(record.strEvent))) errors.push(`${label}: sports event requires idEvent and strEvent`);
   if (entry.kind === 'movie' && (!nonempty(record.id) || !nonempty(record.title))) errors.push(`${label}: movie requires id and title`);
   if (entry.kind === 'tv' && (!nonempty(record.id || record.url || (nonempty(record.season) && nonempty(record.number))) || !nonempty(record.name))) errors.push(`${label}: TV episode requires identity and name`);
+  if (entry.kind === 'tv-override' && (!/^tv-override:.+-\d+-\d+$/.test(entry.identity) || !/^\d{4}-\d{2}-\d{2}$/.test(record.airdate || ''))) errors.push(`${label}: TV verification requires a show-season-episode key and airdate`);
   if (!Number.isFinite(Date.parse(recordDate(record)))) errors.push(`${label}: invalid event date ${JSON.stringify(recordDate(record))}`);
   return errors;
 }
@@ -121,12 +131,16 @@ export function compareHistory(before, after) {
     if (entry.archived) archived.add(entry.identity);
     const existing = current.get(entry.identity);
     if (existing && existing.uid !== entry.uid) errors.push(`${entry.identity}: conflicting calendar UIDs (${existing.uid}, ${entry.uid})`);
-    current.set(entry.identity, entry);
+    // A live correction supersedes an older archived value, regardless of file order.
+    if (!existing || !entry.archived) current.set(entry.identity, entry);
   }
-  for (const old of before) {
+  const previous = new Map();
+  for (const entry of before) if (!previous.has(entry.identity) || !entry.archived) previous.set(entry.identity, entry);
+  for (const old of previous.values()) {
     const retained = current.get(old.identity);
     if (!retained) errors.push(`${old.identity}: previously saved event is missing from live data and permanent archive`);
     else if (retained.uid !== old.uid) errors.push(`${old.identity}: calendar UID changed from ${old.uid} to ${retained.uid}`);
+    else if (old.kind === 'tv-override' && retained.archived && !isDeepStrictEqual(retained.record, old.record)) errors.push(`${old.identity}: archived TV verification must retain the latest saved correction`);
   }
   return errors;
 }
@@ -141,8 +155,30 @@ export async function preserveAndValidate({ baseline = 'HEAD', archive = false }
   const before = await baselineDataset(baseline);
   let after = await workspaceDataset();
   if (archive) {
+    // Preserve removed verification metadata separately from raw episode records.
+    // Always use the latest live baseline correction when an older archive exists.
+    const activeOverrides = new Set(after.filter(entry => entry.kind === 'tv-override' && !entry.archived).map(entry => entry.identity));
+    const previousOverrides = new Map();
+    for (const entry of before.filter(entry => entry.kind === 'tv-override')) {
+      if (!previousOverrides.has(entry.identity) || !entry.archived) previousOverrides.set(entry.identity, entry);
+    }
+    const removedOverrides = [...previousOverrides.values()].filter(entry => !activeOverrides.has(entry.identity));
+    if (removedOverrides.length) {
+      let document = {};
+      try { document = JSON.parse(await fs.readFile(VERIFIED_ARCHIVE_FILE, 'utf8')); } catch (error) { if (error.code !== 'ENOENT') throw error; }
+      for (const entry of removedOverrides) document[entry.identity.slice('tv-override:'.length)] = entry.record;
+      document = Object.fromEntries(Object.entries(document).sort(([a], [b]) => a.localeCompare(b)));
+      const content = `${JSON.stringify(document, null, 2)}\n`;
+      let existing;
+      try { existing = await fs.readFile(VERIFIED_ARCHIVE_FILE, 'utf8'); } catch (error) { if (error.code !== 'ENOENT') throw error; }
+      if (content !== existing) {
+        await fs.mkdir(path.dirname(VERIFIED_ARCHIVE_FILE), { recursive: true });
+        await fs.writeFile(VERIFIED_ARCHIVE_FILE, content);
+      }
+      after = await workspaceDataset();
+    }
     const currentIds = new Set(after.map(entry => entry.identity));
-    const lost = before.filter(entry => !currentIds.has(entry.identity));
+    const lost = before.filter(entry => entry.kind !== 'tv-override' && !currentIds.has(entry.identity));
     if (lost.length) {
       let document = { version: 1, events: [] };
       try { document = JSON.parse(await fs.readFile(ARCHIVE_FILE, 'utf8')); } catch (error) { if (error.code !== 'ENOENT') throw error; }
@@ -167,7 +203,7 @@ async function main() {
   const baselineArg = process.argv.find(value => value.startsWith('--baseline='))?.slice(11);
   const result = await preserveAndValidate({ baseline: baselineArg || process.env.CALENDAR_HISTORY_BASELINE || 'HEAD^', archive: process.argv.includes('--archive') });
   if (process.argv.includes('--stage')) await git(['add', '--', 'lib/data']);
-  console.log(`Calendar history preserved: ${result.previous} baseline event(s), ${result.current} resulting event(s).`);
+  console.log(`Calendar history preserved: ${result.previous} baseline record(s), ${result.current} resulting record(s).`);
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) main().catch(error => { console.error(error.message); process.exitCode = 1; });

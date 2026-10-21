@@ -206,3 +206,23 @@ Example local usage with a custom free IMDb-compatible endpoint:
 ```bash
 IMDB_API_URL='https://example-imdb-api.test/title/{imdbId}' npm run dev
 ```
+
+## Permanent calendar history
+
+Scheduled refreshes archive removed events in `lib/data/archive/events.json`.
+Removed TV date and title verifications are saved separately in
+`lib/data/archive/google-verified.json`, including the 18 verifications removed by
+commit `b942db70ac85ab7907c4c983bd29556df5aecd4a`. Both individual TV and combined
+ICS feeds load these archived verifications before applying active corrections,
+so pruning a verification does not revert an episode's saved date or title.
+Episode UIDs remain unchanged. An explicit `since` parameter still filters history.
+
+The existing Google and Disney workflows run the history guard with `--archive --stage`
+before committing. This archives deletions automatically and only commits
+when files change. The Calendar History check also rejects unarchived verification
+deletions and stale archived copies. To preserve records after a manual data edit,
+run this command before committing:
+
+```bash
+node scripts/calendar-history.js --baseline=HEAD --archive --stage
+```
