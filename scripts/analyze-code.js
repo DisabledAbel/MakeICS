@@ -150,7 +150,7 @@ async function main() {
 - **JS Tests**: ${jsTestResult.success ? 'PASSED' : 'FAILED'}
 - **Python Tests**: ${pyTestResult.success ? 'PASSED' : 'FAILED'}
 
-AI analysis is unavailable or disabled. Download the workflow's analysis artifacts for complete test logs.
+These suite results and logs are confirmed by the test runner. Optional AI analysis is appended separately below when available. Download the workflow's analysis artifacts for complete test logs.
 
 ## JavaScript output (last 12,000 characters)
 \`\`\`text
@@ -268,7 +268,7 @@ ${file.content}
       throw new Error('Received empty or invalid completion from OpenRouter API.');
     }
 
-    await fs.writeFile(REPORT_PATH, resultText, 'utf8');
+    await fs.appendFile(REPORT_PATH, `\n\n---\n\n## AI analysis (unverified)\n\n${resultText}\n`, 'utf8');
     console.log(`Success! Analysis report written to ${REPORT_PATH}`);
   } catch (err) {
     console.error('Failed to complete OpenRouter analysis:', err.message);
