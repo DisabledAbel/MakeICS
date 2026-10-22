@@ -727,6 +727,30 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:mls-761773",
+      "uid": "sportsdb-mls-761773@makeics.local",
+      "source": "lib/data/sports/supplemental/134145.json",
+      "record": {
+        "idEvent": "mls-761773",
+        "sourceEventId": "761773",
+        "strEvent": "FC Cincinnati vs D.C. United",
+        "strHomeTeam": "FC Cincinnati",
+        "strAwayTeam": "D.C. United",
+        "idHomeTeam": "136688",
+        "idAwayTeam": "134145",
+        "dateEvent": "2026-10-21",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-21T23:00:00Z",
+        "strLeague": "MLS",
+        "strVenue": "TQL Stadium",
+        "strStatus": "NS",
+        "strTVStation": "Apple TV",
+        "source": "espn",
+        "updatedAt": "2026-10-02T01:11:02.847Z"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:mls-761845",
       "uid": "sportsdb-mls-761845@makeics.local",
       "source": "lib/data/sports/supplemental/134148.json",
