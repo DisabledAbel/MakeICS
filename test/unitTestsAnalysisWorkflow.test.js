@@ -1,120 +1,88 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
-import path from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { spawnSync } from 'node:child_process';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const WORKFLOW_PATH = path.join(__dirname, '..', '.github', 'workflows', 'unit-tests-analysis.yml');
+const yamlText = await fs.readFile(new URL('../.github/workflows/unit-tests-analysis.yml', import.meta.url), 'utf8');
 
-let yamlText;
-
-test.before(async () => {
-  yamlText = await fs.readFile(WORKFLOW_PATH, 'utf8');
-});
-
-// Extracts the raw text block for a step, from its "- name: <name>" line up to
-// (but not including) the next step or the end of the file. This lets tests
-// assert on step-specific content without needing a YAML parser dependency.
-function extractStepBlock(text, stepName) {
-  const startMarker = `- name: ${stepName}`;
-  const startIdx = text.indexOf(startMarker);
-  assert.notEqual(startIdx, -1, `Step "${stepName}" not found in workflow file`);
-  const rest = text.slice(startIdx + startMarker.length);
-  const nextStepIdx = rest.indexOf('\n      - name:');
-  return nextStepIdx === -1 ? rest : rest.slice(0, nextStepIdx);
+function step(name) {
+  const marker = `- name: ${name}`;
+  const index = yamlText.indexOf(marker);
+  assert.notEqual(index, -1, `Missing step: ${name}`);
+  return yamlText.slice(index + marker.length).split('\n      - name:')[0];
 }
 
-test('workflow file has the expected top-level name', () => {
-  assert.match(yamlText, /^name: Daily Unit Tests & Bug Scanning Analysis/m);
-});
-
-test('workflow is triggered on a daily schedule and manual dispatch', () => {
-  assert.match(yamlText, /schedule:\s*\n\s*- cron: '0 12 \* \* \*'/);
+test('daily/manual runs are serialized and have a time limit', () => {
+  assert.match(yamlText, /cron: '0 12 \* \* \*'/);
   assert.match(yamlText, /workflow_dispatch:/);
+  assert.match(yamlText, /group: unit-tests-analysis-\$\{\{ github.ref \}\}/);
+  assert.match(yamlText, /cancel-in-progress: false/);
+  assert.match(yamlText, /timeout-minutes: 30/);
 });
 
-test('workflow grants contents:write and issues:write permissions', () => {
-  const permsSection = yamlText.slice(yamlText.indexOf('permissions:'), yamlText.indexOf('jobs:'));
-
-  assert.match(permsSection, /contents:\s*write/);
-  assert.match(permsSection, /issues:\s*write/);
-});
-
-test('workflow defines a single analyze-and-report job on ubuntu-latest', () => {
-  assert.match(yamlText, /analyze-and-report:\s*\n\s*runs-on:\s*ubuntu-latest/);
-});
-
-test('Checkout Code step uses actions/checkout@v7 with full history and no persisted credentials', () => {
-  const block = extractStepBlock(yamlText, 'Checkout Code');
-
-  assert.match(block, /uses:\s*actions\/checkout@v7/);
-  assert.match(block, /fetch-depth:\s*0/);
-  assert.match(block, /persist-credentials:\s*false/);
-});
-
-test('Setup Node.js step uses actions/setup-node@v7 with Node 20 and npm cache', () => {
-  const block = extractStepBlock(yamlText, 'Setup Node.js');
-
-  assert.match(block, /uses:\s*actions\/setup-node@v7/);
-  assert.match(block, /node-version:\s*'20'/);
-  assert.match(block, /cache:\s*npm/);
-});
-
-test('Install dependencies step runs npm ci', () => {
-  const block = extractStepBlock(yamlText, 'Install dependencies');
-
-  assert.match(block, /run:\s*npm ci/);
-});
-
-test('Install Playwright Browsers step installs chromium with system deps', () => {
-  const block = extractStepBlock(yamlText, 'Install Playwright Browsers');
-
-  assert.match(block, /run:\s*npx playwright install chromium --with-deps/);
-});
-
-test('Run Scan and OpenRouter Analysis step invokes the analyzer script with required secrets', () => {
-  const block = extractStepBlock(yamlText, 'Run Scan and OpenRouter Analysis');
-
-  assert.match(block, /OPENROUTER_API_KEY:\s*\$\{\{\s*secrets\.OPENROUTER_API_KEY\s*\}\}/);
-  assert.match(block, /GH_TOKEN:\s*\$\{\{\s*secrets\.GITHUB_TOKEN\s*\}\}/);
-  assert.match(block, /run:\s*node scripts\/analyze-code\.js/);
-});
-
-test('Create GitHub Issue with Findings step only runs on success and gates on the report file', () => {
-  const block = extractStepBlock(yamlText, 'Create GitHub Issue with Findings');
-
-  assert.match(block, /if:\s*success\(\)/);
-  assert.match(block, /GH_TOKEN:\s*\$\{\{\s*secrets\.GITHUB_TOKEN\s*\}\}/);
-  assert.match(block, /if \[ -f "analysis-report\.md" \]; then/);
-  assert.match(block, /else\s*\n\s*echo "No analysis report file found to generate an issue\."/);
-});
-
-test('Create GitHub Issue with Findings step creates an issue with the bug and documentation labels', () => {
-  const block = extractStepBlock(yamlText, 'Create GitHub Issue with Findings');
-
-  assert.match(block, /gh issue create/);
-  assert.match(block, /--body-file analysis-report\.md/);
-  assert.match(block, /--label "bug"/);
-  assert.match(block, /--label "documentation"/);
-});
-
-test('workflow steps appear in the expected execution order', () => {
-  const stepNames = [
-    'Checkout Code',
-    'Setup Node.js',
-    'Install dependencies',
-    'Install Playwright Browsers',
-    'Run Scan and OpenRouter Analysis',
-    'Create GitHub Issue with Findings'
-  ];
-
-  const indices = stepNames.map((name) => yamlText.indexOf(`- name: ${name}`));
-
-  for (const idx of indices) {
-    assert.notEqual(idx, -1);
-  }
-  for (let i = 1; i < indices.length; i++) {
-    assert.ok(indices[i] > indices[i - 1], `expected "${stepNames[i]}" to appear after "${stepNames[i - 1]}"`);
+test('only issue writes are allowed; checkout credentials are not persisted', () => {
+  assert.doesNotMatch(yamlText, /contents: write/);
+  assert.match(yamlText, /issues: write/);
+  assert.match(step('Checkout Code'), /persist-credentials: false/);
+  assert.doesNotMatch(step('Checkout Code'), /fetch-depth: 0/);
+  for (const use of yamlText.matchAll(/uses: (.+)/g)) {
+    assert.match(use[1], /@[a-f0-9]{40} # v\d+$/);
   }
 });
+
+test('both language runtimes and Python Playwright are installed before analysis', () => {
+  assert.match(step('Setup Node.js'), /node-version: '24'/);
+  assert.match(step('Setup Python'), /python-version: '3.12'/);
+  assert.match(step('Install dependencies'), /npm ci/);
+  assert.match(step('Install dependencies'), /python -m pip install playwright/);
+  assert.match(step('Install Playwright Browsers'), /npx playwright install chromium --with-deps/);
+  assert.match(step('Run Scan and OpenRouter Analysis'), /id: analysis/);
+  assert.doesNotMatch(step('Run Scan and OpenRouter Analysis'), /continue-on-error/);
+});
+
+test('logs are retained after failure and issue publication cannot hide the failure', () => {
+  assert.match(step('Upload analysis artifacts'), /always\(\)/);
+  assert.match(step('Upload analysis artifacts'), /analysis-logs\/\*\.log/);
+  const publish = step('Create or update GitHub Issue with Findings');
+  assert.match(publish, /!cancelled\(\).*steps.analysis.outcome == 'failure'/);
+  assert.match(publish, /hashFiles\('analysis-report.md'\)/);
+  assert.match(publish, /gh api --paginate/);
+  assert.match(publish, /creator=github-actions%5Bbot%5D/);
+  assert.match(publish, /gh issue edit/);
+  assert.match(publish, /gh issue create/);
+  assert.doesNotMatch(publish, /--label/);
+  const shell = publish.split('        run: |\n')[1].replace(/^          /gm, '');
+  assert.equal(spawnSync('bash', ['-n'], { input: shell }).status, 0);
+});
+
+for (const existing of [false, true]) {
+  test(`issue publication ${existing ? 'updates an existing issue' : 'creates an issue'} without executing report content`, async (t) => {
+    const os = await import('node:os');
+    const path = await import('node:path');
+    const root = await fs.mkdtemp(path.join(os.tmpdir(), 'makeics-publish-'));
+    t.after(() => fs.rm(root, { recursive: true, force: true }));
+    const branch = 'branch-with-"quotes';
+    const title = `🔍 Codebase Analysis Report: ${branch}`;
+    await fs.writeFile(path.join(root, 'analysis-report.md'), 'Untrusted: $(touch injected)');
+    await fs.writeFile(path.join(root, 'gh'), `#!/bin/sh
+if [ "$1" = api ]; then
+  printf '%s\\n' '${JSON.stringify({ number: 42, title: existing ? title : 'Unrelated issue' })}'
+else
+  printf '%s\\n' "$@" > "$PWD/gh-args"
+fi
+`, { mode: 0o755 });
+    const shell = step('Create or update GitHub Issue with Findings').split('        run: |\n')[1].replace(/^          /gm, '');
+    const result = spawnSync('bash', ['-e', '-o', 'pipefail', '-c', shell], {
+      cwd: root, encoding: 'utf8',
+      env: { ...process.env, PATH: `${root}:${process.env.PATH}`, GITHUB_REF_NAME: branch,
+        GITHUB_SERVER_URL: 'https://github.com', GITHUB_REPOSITORY: 'owner/repo',
+        GITHUB_RUN_ID: '123', GITHUB_SHA: 'abc', GH_REPO: 'owner/repo', GH_TOKEN: '' }
+    });
+    assert.equal(result.status, 0, result.stderr);
+    const args = await fs.readFile(path.join(root, 'gh-args'), 'utf8');
+    assert.match(args, existing ? /issue\nedit\n42/ : /issue\ncreate\n--title/);
+    assert.match(args, /--body-file\nanalysis-report.md/);
+    await assert.rejects(fs.access(path.join(root, 'injected')), { code: 'ENOENT' });
+    assert.match(await fs.readFile(path.join(root, 'analysis-report.md'), 'utf8'), /actions\/runs\/123/);
+  });
+}
