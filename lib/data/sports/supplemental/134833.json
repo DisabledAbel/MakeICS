@@ -1,26 +1,8 @@
 {
   "teamId": "134833",
   "teamName": "Florida Panthers",
-  "updatedAt": "2026-10-19T22:28:16.593Z",
+  "updatedAt": "2026-10-22T05:01:21.737Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020153",
-      "strEvent": "Ottawa Senators vs Florida Panthers",
-      "strHomeTeam": "Ottawa Senators",
-      "strAwayTeam": "Florida Panthers",
-      "dateEvent": "2026-10-21",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-21T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canadian Tire Centre",
-      "strStatus": "NS",
-      "strTVStation": "Prime, SCRIPPS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020153",
-      "idHomeTeam": "134835",
-      "idAwayTeam": "134833"
-    },
     {
       "idEvent": "nhl-2026020158",
       "strEvent": "Pittsburgh Penguins vs Florida Panthers",

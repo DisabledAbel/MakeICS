@@ -1,26 +1,8 @@
 {
   "teamId": "134843",
   "teamName": "Philadelphia Flyers",
-  "updatedAt": "2026-10-20T05:00:20.978Z",
+  "updatedAt": "2026-10-22T05:01:21.737Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020152",
-      "strEvent": "Buffalo Sabres vs Philadelphia Flyers",
-      "strHomeTeam": "Buffalo Sabres",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-10-21",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-21T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "KeyBank Center",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020152",
-      "idHomeTeam": "134831",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020168",
       "strEvent": "Philadelphia Flyers vs Anaheim Ducks",
