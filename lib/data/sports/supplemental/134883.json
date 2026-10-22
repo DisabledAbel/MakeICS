@@ -1,25 +1,8 @@
 {
   "teamId": "134883",
   "teamName": "Orlando Magic",
-  "updatedAt": "2026-10-21T21:16:59.037Z",
+  "updatedAt": "2026-10-22T03:25:05.748Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909834",
-      "strEvent": "Orlando Magic vs Atlanta Hawks",
-      "strHomeTeam": "Orlando Magic",
-      "strAwayTeam": "Atlanta Hawks",
-      "dateEvent": "2026-10-21",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-21T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Kia Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134883",
-      "idAwayTeam": "134880"
-    },
     {
       "idEvent": "scraped-espn-401909845",
       "strEvent": "Orlando Magic vs Minnesota Timberwolves",
@@ -847,8 +830,8 @@
       "strLeague": "NBA",
       "strVenue": "Frost Bank Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN SAS",
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134879",
       "idAwayTeam": "134883"
@@ -932,8 +915,8 @@
       "strLeague": "NBA",
       "strVenue": "Kia Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN SAS",
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134883",
       "idAwayTeam": "134879"
@@ -1153,8 +1136,8 @@
       "strLeague": "NBA",
       "strVenue": "TD Garden",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BO",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134860",
       "idAwayTeam": "134883"
@@ -1323,8 +1306,8 @@
       "strLeague": "NBA",
       "strVenue": "Kia Center",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BO",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134883",
       "idAwayTeam": "134860"
@@ -1357,8 +1340,8 @@
       "strLeague": "NBA",
       "strVenue": "Kaseya Center",
       "strStatus": "NS",
-      "strTVStation": "WPLG",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134882",
       "idAwayTeam": "134883"

@@ -1,25 +1,8 @@
 {
   "teamId": "134882",
   "teamName": "Miami Heat",
-  "updatedAt": "2026-10-21T21:16:59.037Z",
+  "updatedAt": "2026-10-22T03:25:05.748Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909091",
-      "strEvent": "Miami Heat vs Minnesota Timberwolves",
-      "strHomeTeam": "Miami Heat",
-      "strAwayTeam": "Minnesota Timberwolves",
-      "dateEvent": "2026-10-21",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-21T23:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Kaseya Center",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134882",
-      "idAwayTeam": "134886"
-    },
     {
       "idEvent": "scraped-espn-401909847",
       "strEvent": "Miami Heat vs Detroit Pistons",
@@ -643,8 +626,8 @@
       "strLeague": "NBA",
       "strVenue": "Kaseya Center",
       "strStatus": "NS",
-      "strTVStation": "WPLG",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": "DAZN (YES)",
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134882",
       "idAwayTeam": "134861"
@@ -983,8 +966,8 @@
       "strLeague": "NBA",
       "strVenue": "Little Caesars Arena",
       "strStatus": "NS",
-      "strTVStation": "WPLG",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134872",
       "idAwayTeam": "134882"
@@ -1272,8 +1255,8 @@
       "strLeague": "NBA",
       "strVenue": "TD Garden",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BO",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134860",
       "idAwayTeam": "134882"
@@ -1289,8 +1272,8 @@
       "strLeague": "NBA",
       "strVenue": "Little Caesars Arena",
       "strStatus": "NS",
-      "strTVStation": "WPLG",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134872",
       "idAwayTeam": "134882"
@@ -1357,8 +1340,8 @@
       "strLeague": "NBA",
       "strVenue": "Kaseya Center",
       "strStatus": "NS",
-      "strTVStation": "WPLG",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134882",
       "idAwayTeam": "134883"

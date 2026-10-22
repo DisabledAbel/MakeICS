@@ -1,7 +1,7 @@
 {
   "teamId": "134871",
   "teamName": "Cleveland Cavaliers",
-  "updatedAt": "2026-10-21T21:16:59.037Z",
+  "updatedAt": "2026-10-22T03:25:05.748Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909093",
@@ -320,8 +320,8 @@
       "strLeague": "NBA",
       "strVenue": "Madison Square Garden",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN CLE",
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134862",
       "idAwayTeam": "134871"

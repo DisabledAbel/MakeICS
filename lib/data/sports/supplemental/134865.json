@@ -1,25 +1,8 @@
 {
   "teamId": "134865",
   "teamName": "Golden State Warriors",
-  "updatedAt": "2026-10-21T21:16:59.037Z",
+  "updatedAt": "2026-10-22T03:25:05.748Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909092",
-      "strEvent": "Los Angeles Lakers vs Golden State Warriors",
-      "strHomeTeam": "Los Angeles Lakers",
-      "strAwayTeam": "Golden State Warriors",
-      "dateEvent": "2026-10-21",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-22T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134867",
-      "idAwayTeam": "134865"
-    },
     {
       "idEvent": "scraped-espn-401909850",
       "strEvent": "Golden State Warriors vs Memphis Grizzlies",
@@ -286,8 +269,8 @@
       "strLeague": "NBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134865",
       "idAwayTeam": "134860"
@@ -592,8 +575,8 @@
       "strLeague": "NBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134865",
       "idAwayTeam": "134872"

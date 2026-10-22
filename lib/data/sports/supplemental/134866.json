@@ -1,25 +1,8 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-10-21T21:16:59.037Z",
+  "updatedAt": "2026-10-22T03:25:05.748Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909842",
-      "strEvent": "Los Angeles Clippers vs Sacramento Kings",
-      "strHomeTeam": "Los Angeles Clippers",
-      "strAwayTeam": "Sacramento Kings",
-      "dateEvent": "2026-10-21",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-22T02:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Intuit Dome",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134866",
-      "idAwayTeam": "134869"
-    },
     {
       "idEvent": "scraped-espn-401909851",
       "strEvent": "Los Angeles Lakers vs Los Angeles Clippers",
@@ -490,8 +473,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134863"
@@ -745,8 +728,8 @@
       "strLeague": "NBA",
       "strVenue": "Xfinity Mobile Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KTLA",
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134863",
       "idAwayTeam": "134866"
@@ -1068,8 +1051,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KTLA",
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134862"
@@ -1238,8 +1221,8 @@
       "strLeague": "NBA",
       "strVenue": "Little Caesars Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134872",
       "idAwayTeam": "134866"

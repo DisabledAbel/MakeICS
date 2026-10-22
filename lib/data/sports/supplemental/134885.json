@@ -1,7 +1,7 @@
 {
   "teamId": "134885",
   "teamName": "Denver Nuggets",
-  "updatedAt": "2026-10-21T21:16:59.037Z",
+  "updatedAt": "2026-10-22T03:25:05.748Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909094",
@@ -218,8 +218,8 @@
       "strLeague": "NBA",
       "strVenue": "Ball Arena",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BO",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134885",
       "idAwayTeam": "134860"
@@ -881,8 +881,8 @@
       "strLeague": "NBA",
       "strVenue": "TD Garden",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BO",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": null,
+      "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134860",
       "idAwayTeam": "134885"
