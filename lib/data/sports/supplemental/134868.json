@@ -1,7 +1,7 @@
 {
   "teamId": "134868",
   "teamName": "Phoenix Suns",
-  "updatedAt": "2026-10-22T03:25:05.748Z",
+  "updatedAt": "2026-10-22T11:12:29.193Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909860",
@@ -133,8 +133,8 @@
       "strLeague": "NBA",
       "strVenue": "Mortgage Matchup Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "Arizona's Family 3TV",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134868",
       "idAwayTeam": "134879"

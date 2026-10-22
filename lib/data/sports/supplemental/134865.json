@@ -1,7 +1,7 @@
 {
   "teamId": "134865",
   "teamName": "Golden State Warriors",
-  "updatedAt": "2026-10-22T03:25:05.748Z",
+  "updatedAt": "2026-10-22T11:12:29.193Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909850",
@@ -1323,8 +1323,8 @@
       "strLeague": "NBA",
       "strVenue": "Paycom Center",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports BA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": "Thunder App",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134887",
       "idAwayTeam": "134865"

@@ -1,7 +1,7 @@
 {
   "teamId": "134879",
   "teamName": "San Antonio Spurs",
-  "updatedAt": "2026-10-22T03:25:05.748Z",
+  "updatedAt": "2026-10-22T11:12:29.193Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909096",
@@ -133,8 +133,8 @@
       "strLeague": "NBA",
       "strVenue": "Golden 1 Center",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports CA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": "DAZN SAS",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134869",
       "idAwayTeam": "134879"
@@ -167,8 +167,8 @@
       "strLeague": "NBA",
       "strVenue": "Mortgage Matchup Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "Arizona's Family 3TV",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134868",
       "idAwayTeam": "134879"
@@ -252,8 +252,8 @@
       "strLeague": "NBA",
       "strVenue": "Frost Bank Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN SAS",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134879",
       "idAwayTeam": "134866"
@@ -286,8 +286,8 @@
       "strLeague": "NBA",
       "strVenue": "Golden 1 Center",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports CA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": "DAZN SAS",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134869",
       "idAwayTeam": "134879"
@@ -388,8 +388,8 @@
       "strLeague": "NBA",
       "strVenue": "Frost Bank Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN SAS",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134879",
       "idAwayTeam": "134866"
@@ -1102,8 +1102,8 @@
       "strLeague": "NBA",
       "strVenue": "Toyota Center (Houston)",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN SAS",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134876",
       "idAwayTeam": "134879"
@@ -1255,8 +1255,8 @@
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KTLA",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134879"
@@ -1289,8 +1289,8 @@
       "strLeague": "NBA",
       "strVenue": "Frost Bank Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN SAS",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134879",
       "idAwayTeam": "134869"

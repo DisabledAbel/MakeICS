@@ -1,7 +1,7 @@
 {
   "teamId": "134869",
   "teamName": "Sacramento Kings",
-  "updatedAt": "2026-10-22T03:25:05.748Z",
+  "updatedAt": "2026-10-22T11:12:29.193Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909852",
@@ -133,8 +133,8 @@
       "strLeague": "NBA",
       "strVenue": "Golden 1 Center",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports CA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": "DAZN SAS",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134869",
       "idAwayTeam": "134879"
@@ -269,8 +269,8 @@
       "strLeague": "NBA",
       "strVenue": "Golden 1 Center",
       "strStatus": "NS",
-      "strTVStation": "NBC Sports CA",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": "DAZN SAS",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134869",
       "idAwayTeam": "134879"
@@ -1289,8 +1289,8 @@
       "strLeague": "NBA",
       "strVenue": "Frost Bank Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "DAZN SAS",
+      "updatedAt": "2026-10-22T11:12:29.193Z",
       "source": "scraped",
       "idHomeTeam": "134879",
       "idAwayTeam": "134869"
