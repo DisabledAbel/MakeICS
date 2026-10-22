@@ -60,7 +60,17 @@ for (const provider of ['error', 'success']) {
     const { root, result } = await scan(t, { js: 1, provider });
     assert.equal(result.status, 1, result.stderr);
     const report = await fs.readFile(path.join(root, 'analysis-report.md'), 'utf8');
-    assert.match(report, provider === 'error' ? /test failure report/ : /Evidence-based AI report/);
+    assert.match(report, /test failure report/);
+    assert.match(report, /\*\*JS Tests\*\*: FAILED/);
+    assert.match(report, /\*\*Python Tests\*\*: PASSED/);
+    assert.match(report, /JS fixture/);
+    assert.match(report, /Python fixture/);
+    if (provider === 'success') {
+      assert.match(report, /## AI analysis \(unverified\)\n\n# Evidence-based AI report/);
+      assert.ok(report.indexOf('**JS Tests**: FAILED') < report.indexOf('## AI analysis'));
+    } else {
+      assert.doesNotMatch(report, /## AI analysis/);
+    }
   });
 }
 
