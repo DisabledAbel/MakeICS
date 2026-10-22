@@ -348,6 +348,14 @@
           "url": "https://www.imdb.com/title/tt49522399/?ref_=ttep_ep_32"
         },
         {
+          "season": 30,
+          "number": 33,
+          "name": "Ice-T/Collin Gosselin/View Your Deal/",
+          "airdate": "2026-10-22",
+          "summary": "Actor Ice-T; author Collin Gosselin (memoir, \"In the Shadow of Eight\");",
+          "url": "https://www.imdb.com/title/tt49522401/?ref_=ttep_ep_33"
+        },
+        {
           "season": 29,
           "number": 8,
           "name": "Episode #29.1",
@@ -5452,7 +5460,7 @@
           "number": 5,
           "name": "Episode #20.5",
           "airdate": "2026-02-03",
-          "summary": null,
+          "summary": "A new NXT Champion rises from a Six-Man Ladder Match; Thea Hail, Lola Vice, and Izzi Dame battle for the NXT Women's North American Title; ZaRuca take on the Elegance Brand for the TNA Knockouts World Tag Team Championship.",
           "url": "https://www.imdb.com/title/tt39390326/?ref_=ttep_ep_5"
         },
         {
@@ -5460,7 +5468,7 @@
           "number": 6,
           "name": "Episode #20.6",
           "airdate": "2026-02-10",
-          "summary": null,
+          "summary": "Wren Sinclair and Kendal Grey battle ZaRuca in a match to determine the No. 1 Contender to the NXT Women's Title; Joe Hendry begins his NXT Championship reign by addressing the WWE Universe; Jaida Parker clashes with Blake Monroe.",
           "url": "https://www.imdb.com/title/tt39390328/?ref_=ttep_ep_6"
         },
         {
@@ -5468,7 +5476,7 @@
           "number": 7,
           "name": "Episode #20.7",
           "airdate": "2026-02-17",
-          "summary": null,
+          "summary": "Ethan Page's quest for a new opponent leads to an NXT North American Title bout against Shiloh Hill; Tony D'Angelo continues his crusade against Dark State in a showdown with Cutler James; the Men's Speed Tournament reaches the finale.",
           "url": "https://www.imdb.com/title/tt39390330/?ref_=ttep_ep_7"
         },
         {
@@ -5476,7 +5484,7 @@
           "number": 8,
           "name": "Episode #20.8",
           "airdate": "2026-02-24",
-          "summary": null,
+          "summary": "Compeition at Center Stage Theater in Atlanta; the NXT Universe prepares for seismic changes to the title picture when four championships are on the line on the same night; Sean Legacy steps up to challenge the dangerous Keanu Carver.",
           "url": "https://www.imdb.com/title/tt39390332/?ref_=ttep_ep_8"
         },
         {
@@ -5484,7 +5492,7 @@
           "number": 9,
           "name": "Vengeance Day Go-Home",
           "airdate": "2026-03-03",
-          "summary": null,
+          "summary": "Jacy Jayne accepts Zaria's challenge for an NXT Women's Championship Match; Ricky Saints hosts \"An Absolute Experience\" as NXT Vengeance Day draws near; Shiloh Hill teams up with Hank and Tank to take on The Vanity Project.",
           "url": "https://www.imdb.com/title/tt39944276/?ref_=ttep_ep_9"
         },
         {
@@ -5996,7 +6004,7 @@
           "number": 32,
           "name": "Episode #19.32",
           "airdate": "2025-08-12",
-          "summary": null,
+          "summary": "Oba Femi, Trick Williams, Je'Von Evans, and TNA's Moose put aside their issues to battle DarkState in a colossal 8-Man Tag Team Match; Lash Legend collides with \"The Irresistible Force\" Nia Jax; Joe Hendry goes 1-on-1 with Charlie Dempsey.",
           "url": "https://www.imdb.com/title/tt37471497/?ref_=ttep_ep_32"
         },
         {
@@ -8818,7 +8826,7 @@
           "number": 42,
           "name": "WrestleDream 2026 Fallout",
           "airdate": "2026-10-21",
-          "summary": null,
+          "summary": "Ilja Dragunov makes his in-ring debut against Speedball Mike Bailey; after facing off in Clockwork Carnage, Will Ospreay teams with Adam Copeland against Kyle Fletcher and Kevin Knight.",
           "url": "https://www.imdb.com/title/tt48730761/?ref_=ttep_ep_42"
         },
         {
@@ -27128,8 +27136,56 @@
           "number": 1,
           "name": "Rites of Passage",
           "airdate": "2014-01-29",
-          "summary": "Karen has started secondary school but isn't settling in well; she feels academical",
+          "summary": "Karen has started secondary school but isn't settling in well; she feels academically inferior and is worried that her missing hamster is trapped under the floorboard. On the other hand, Ben is overjoyed to land the lead in his school play, a musical version of \"Spartacus\", but Jake is in disgrace for getting a tattoo that looks like a spider. Sue sends e-mails to the parents of Karen's schoolmates, which doesn't help, but Pete comforts his daughter with a heart-to-heart.",
           "url": "https://www.imdb.com/title/tt3485142/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 2,
+          "name": "K for Victory",
+          "airdate": "2014-02-05",
+          "summary": "Karen indulges her competitive instincts, Ben delves into the mysteries of human psychology, Jake appoints himself as a parenting expert, Sue falls victim to a dysfunctional printer, and a vigilant Daily Mail reader hounds Pete.",
+          "url": "https://www.imdb.com/title/tt3500514/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "name": "House of Hormones",
+          "airdate": "2014-02-12",
+          "summary": "Pete's 21-year-old goddaughter Stacey from Australia is staying and sets Ben's pulse racing as she walks around the house in only a towel. Pete thinks it's time for Ben to have a chat about the facts of life--from Jake--but Jake is more interested in persuading his parents to let his girlfriend Alex stay over. Everybody except Pete is delighted when Sue agrees to mind a friend's baby--nicknamed the Werewolf--overnight, prompting Karen to ask awkward questions about childbirth and again raise the topic of her lost hamster. Jake regrets his decision when other girlfriends get in touch, possibly tipped off by Sue, while Pete is happy to give the baby back to his mother and Ben is happy with a final revealing glimpse of Stacey.",
+          "url": "https://www.imdb.com/title/tt3514498/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 5,
+          "number": 4,
+          "name": "Into the Wilderness",
+          "airdate": "2014-02-19",
+          "summary": "Pete and Ben go on a bonding trip, camping in the woods, while Sue and Stacey don't exactly see eye-to-eye over the empowerment of women.",
+          "url": "https://www.imdb.com/title/tt3551104/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 5,
+          "number": 5,
+          "name": "Communication Skills",
+          "airdate": "2014-02-26",
+          "summary": "Sue is trying to organize a conference so she asks Pete to let Karen in after school, but he must go to buy a central-heating pump so he rings Jake to come home. Jake has lost his Oyster card and has no cash, so this requires a call to Ben--only for Pete to find himself speaking to a Chinese tourist who has found Ben's lost phone. The headmistress keeps Karen back to upbraid her for rubbishing the school rules, but she still manages to get home ahead of Pete, while Ben invites the Chinese man and his wife round to tea.",
+          "url": "https://www.imdb.com/title/tt3548006/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 5,
+          "number": 6,
+          "name": "Spartacus the Musical",
+          "airdate": "2014-03-05",
+          "summary": "Granddad is very ill, bringing Angela back from America with toyboy Tommy, whom she met at Sunday school. Sue is immediately rattled when Angela makes plans for their father as well as claiming that he recognized her when he failed to recognize Sue. After Tommy and Stacey decide to tour Europe, Angela returns to the States and the family goes to see Ben in his school musical, \"Spartacus\". He's surprisingly nervous, but a pep talk from Karen gives him the confidence to put on a good show. Sue and Pete also learn that, thanks to Jake, Angela has been persuaded to write a huge cheque that will solve all their worries about Granddad.",
+          "url": "https://www.imdb.com/title/tt3565284/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
+          "number": 7,
+          "name": "Christmas Special 2016",
+          "airdate": "2016-12-26",
+          "summary": "The Brockmans are on a special mission at Christmastime.",
+          "url": "https://www.imdb.com/title/tt6262758/?ref_=ttep_ep_7"
         },
         {
           "season": 4,
@@ -30615,7 +30671,7 @@
           "number": 9,
           "name": "Mexico in Motion",
           "airdate": "2026-10-20",
-          "summary": null,
+          "summary": "Jaz and Nesha set out to make their Cabo trip a reality, but trip planning brings major challenges. Jaz navigates the realities of accessible travel while Nesha faces fears about her weight, her first flight and whether they'll make it.",
           "url": "https://www.imdb.com/title/tt46668585/?ref_=ttep_ep_9"
         },
         {
@@ -30623,8 +30679,16 @@
           "number": 10,
           "name": "Guac This Way",
           "airdate": "2026-10-27",
-          "summary": null,
+          "summary": "Jaz and Nesha's girls' trip to Mexico gets off to a rocky start. After a stressful flight, accessibility challenges, and beach mishaps, tensions rise between the roomies. A poolside argument tests their friendship.",
           "url": "https://www.imdb.com/title/tt49081390/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "name": "Blood, Sweat, and Sisterhood",
+          "airdate": "2026-11-03",
+          "summary": "Jaz and Nesha return from Cabo with a fresh start, but Nesha's surprise roommate proposal tests their bond. Jaz learns she might need three additional surgeries. Nesha's empowerment event brings emotional revelations and tough conversations.",
+          "url": "https://www.imdb.com/title/tt49761696/?ref_=ttep_ep_11"
         },
         {
           "season": 2,
@@ -31960,10 +32024,26 @@
         {
           "season": 9,
           "number": 9,
-          "name": "Episode #9.9",
+          "name": "Panicking at the Disco",
           "airdate": "2026-10-27",
-          "summary": null,
+          "summary": "Amy steps into the spotlight in more ways than one as she prepares for her first time on stage. Andrea shares a surprising health update with Tammy. The older siblings draw a line in the sand.",
           "url": "https://www.imdb.com/title/tt46668595/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 9,
+          "number": 10,
+          "name": "Sorry (Not) Sorry",
+          "airdate": "2026-11-03",
+          "summary": "Back from Nashville, Tammy must face her siblings. Chris gets a taste of his own medicine from Amanda and Misty. Tammy is left scrambling when Andrea has a medical emergency.",
+          "url": "https://www.imdb.com/title/tt49762333/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 9,
+          "number": 11,
+          "name": "Down in Pounds Hollow",
+          "airdate": "2026-11-10",
+          "summary": "Amy gets an update on her skin removal surgery, and Tammy stands by Andrea as she faces a scary diagnosis. Amy hopes her siblings show up to her music video shoot. And later, she releases her song for the world to hear.",
+          "url": "https://www.imdb.com/title/tt49762425/?ref_=ttep_ep_11"
         },
         {
           "season": 9,
@@ -36007,6 +36087,14 @@
         },
         {
           "season": 53,
+          "number": 14,
+          "name": "Evolution: Need to Feed",
+          "airdate": "2026-10-21",
+          "summary": "The relentless pursuit of energy, the very act of eating, has profoundly shaped life on Earth. Follow the evolution of the bat to discover the untold story behind every bite we take.",
+          "url": "https://www.imdb.com/title/tt43684980/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 53,
           "number": 16,
           "name": "The Battle to Breathe",
           "airdate": "2026-09-16",
@@ -36316,7 +36404,7 @@
         {
           "season": 30,
           "number": 9,
-          "name": "The Battles Part 2",
+          "name": "The Battles Part 3",
           "airdate": "2026-10-19",
           "summary": "The Battle Rounds enter the third night as the coaches enlist superstar Battle Advisors to help prepare their artists. Coaches will choose the pairings and songs, and each coach has one steal.",
           "url": "https://www.imdb.com/title/tt48390816/?ref_=ttep_ep_9"
@@ -40441,6 +40529,14 @@
         },
         {
           "season": 38,
+          "number": 6,
+          "name": "The Kosmic Kruiser",
+          "airdate": "2026-11-08",
+          "summary": "Bart and Lisa break into Krustyland's most notorious failed attraction, only to discover that it hasn't been completely abandoned.",
+          "url": "https://www.imdb.com/title/tt36431516/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 38,
           "number": 27,
           "name": "The Children's Book Job",
           "airdate": "2026-09-27",
@@ -40789,6 +40885,14 @@
         },
         {
           "season": 5,
+          "number": 6,
+          "name": "Baked Chickens and Rat Dogs",
+          "airdate": "2026-11-08",
+          "summary": "Emily and Shred host their first party as a couple.",
+          "url": "https://www.imdb.com/title/tt48240757/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
           "number": 27,
           "name": "Seahawks and Piglets",
           "airdate": "2026-09-27",
@@ -40932,9 +41036,9 @@
         {
           "season": 3,
           "number": 6,
-          "name": "Meat Cute",
+          "name": "Princess Tammy",
           "airdate": "2026-11-08",
-          "summary": "Hoping to befriend former Eagles legend Hugh Truckner, Mark orchestrates a \"meet cute\" between Rhoda and Hugh's father, only for his lies to snowball when the romance takes off.",
+          "summary": "The Hoagies take a trip to Story World. Mark engineers a way to pay for the trip.",
           "url": "https://www.imdb.com/title/tt41714718/?ref_=ttep_ep_6"
         },
         {
@@ -41731,7 +41835,7 @@
         {
           "season": 2,
           "number": 8,
-          "name": "Episode #2.8",
+          "name": "My Emergency",
           "airdate": "2026-11-11",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42624416/?ref_=ttep_ep_8"
@@ -42388,6 +42492,14 @@
           "url": "https://www.imdb.com/title/tt36985569/?ref_=ttep_ep_24"
         },
         {
+          "season": 2,
+          "number": 25,
+          "name": "Luck of the Bonus Square",
+          "airdate": "2026-10-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985566/?ref_=ttep_ep_25"
+        },
+        {
           "season": 1,
           "number": 1,
           "name": "Scrabble Fashionista",
@@ -42528,6 +42640,14 @@
           "airdate": "2026-10-08",
           "summary": null,
           "url": "https://www.imdb.com/title/tt47664392/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 25,
+          "number": 3,
+          "name": "Add Hose Spigot; Cover Crops",
+          "airdate": "2026-10-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48395840/?ref_=ttep_ep_3"
         },
         {
           "season": 24,
@@ -42996,6 +43116,14 @@
           "airdate": "2026-10-15",
           "summary": "A game show enthusiast competes.",
           "url": "https://www.imdb.com/title/tt36985620/?ref_=ttep_ep_24"
+        },
+        {
+          "season": 2,
+          "number": 25,
+          "name": "The Honeymooner",
+          "airdate": "2026-10-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt36985616/?ref_=ttep_ep_25"
         },
         {
           "season": 1,
@@ -45618,7 +45746,7 @@
         {
           "season": 9,
           "number": 5,
-          "name": "Episode #9.5",
+          "name": "Atonement",
           "airdate": "2026-11-02",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44126710/?ref_=ttep_ep_5"
@@ -46022,7 +46150,7 @@
         {
           "season": 2,
           "number": 5,
-          "name": "Episode #2.5",
+          "name": "Real Intelligence",
           "airdate": "2026-11-02",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44177778/?ref_=ttep_ep_5"
@@ -47435,7 +47563,7 @@
           "number": 3,
           "name": "Return of the Mack",
           "airdate": "2026-10-20",
-          "summary": null,
+          "summary": "In the present, Gibbs asks for DiNozo's help in finding out who shot him. In 1992, Dr. Mallard helps the team investigate the murder of a young Marine found on the beach with strange markings on his body.",
           "url": "https://www.imdb.com/title/tt43720421/?ref_=ttep_ep_3"
         },
         {
@@ -48019,6 +48147,14 @@
           "airdate": "2026-11-04",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48391372/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 6,
+          "number": 6,
+          "name": "Competition",
+          "airdate": "2026-11-11",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt48391373/?ref_=ttep_ep_6"
         },
         {
           "season": 5,
@@ -50115,6 +50251,30 @@
           "airdate": "2026-10-29",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43082171/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Celeste",
+          "airdate": "2026-11-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43082434/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "name": "Episode #1.6",
+          "airdate": "2026-11-08",
+          "summary": "Christy's roommate is denied a transplant when an AI algorithm prioritizes a wealthy patient. Michael and Olivia race to get a judge to stop the surgery, fighting the legal battle remotely from their cars due to a traffic jam.",
+          "url": "https://www.imdb.com/title/tt42934126/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "name": "Episode #1.7",
+          "airdate": "2026-11-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt42934127/?ref_=ttep_ep_7"
         }
       ]
     },
@@ -50303,6 +50463,14 @@
           "airdate": "2026-10-14",
           "summary": "A home invasion in Connecticut leaves a mother dead in the basement.",
           "url": "https://www.imdb.com/title/tt49481203/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "Burning Suspicion",
+          "airdate": "2026-10-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49803474/?ref_=ttep_ep_3"
         },
         {
           "season": 2,
@@ -51091,7 +51259,7 @@
           "number": 2,
           "name": "Essex County Colonial: Demolition Derby",
           "airdate": "2026-10-10",
-          "summary": null,
+          "summary": "Kevin helps Zack build a job site command center, then joins demo day, salvaging two decorative window sashes. Heath and electrician Matt Scezney remove old wiring downstairs.",
           "url": "https://www.imdb.com/title/tt48618506/?ref_=ttep_ep_2"
         },
         {
@@ -51099,7 +51267,7 @@
           "number": 3,
           "name": "Essex County Colonial: Knock on Wood",
           "airdate": "2026-10-15",
-          "summary": null,
+          "summary": "Kevin, Zack, and Charlie Marshall plan out a vintage tile pattern in the bathroom. Kevin visits a full-scale design studio with architect Dan.",
           "url": "https://www.imdb.com/title/tt49344961/?ref_=ttep_ep_3"
         },
         {
@@ -52240,6 +52408,14 @@
       "title": "Nature",
       "episodes": [
         {
+          "season": 45,
+          "number": 2,
+          "name": "Tiger Island, Part I",
+          "airdate": "2026-10-21",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt43721653/?ref_=ttep_ep_2"
+        },
+        {
           "season": 44,
           "number": 1,
           "name": "Walrus: Life on Thin Ice",
@@ -52524,6 +52700,14 @@
           "url": "https://www.imdb.com/title/tt49246172/?ref_=ttep_ep_6"
         },
         {
+          "season": 4,
+          "number": 7,
+          "name": "Burglar Alarm/TSA-holes 2: Protecting America",
+          "airdate": "2026-11-18",
+          "summary": "Beavis and Butt-Head set off their fire alarm and think it's the burglar alarm./Old Beavis and Butt-Head screen luggage at the airport and fight over suitcase items.",
+          "url": "https://www.imdb.com/title/tt49739247/?ref_=ttep_ep_7"
+        },
+        {
           "season": 3,
           "number": 3,
           "name": "Braces/Heart Attack",
@@ -52728,6 +52912,30 @@
           "url": "https://www.imdb.com/title/tt48920163/?ref_=ttep_ep_3"
         },
         {
+          "season": 10,
+          "number": 4,
+          "name": "Episode #10.4",
+          "airdate": "2026-11-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49451551/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 10,
+          "number": 5,
+          "name": "Episode #10.5",
+          "airdate": "2026-11-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49451552/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 10,
+          "number": 6,
+          "name": "Episode #10.6",
+          "airdate": "2026-11-19",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49451553/?ref_=ttep_ep_6"
+        },
+        {
           "season": 9,
           "number": 1,
           "name": "Eat the Rich",
@@ -52900,6 +53108,22 @@
           "airdate": "2026-10-29",
           "summary": null,
           "url": "https://www.imdb.com/title/tt48920275/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "name": "Episode #2.4",
+          "airdate": "2026-11-05",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49804646/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "name": "Episode #2.5",
+          "airdate": "2026-11-12",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49804687/?ref_=ttep_ep_5"
         },
         {
           "season": 1,
@@ -54839,6 +55063,22 @@
           "airdate": "2026-11-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt44758393/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "name": "Episode #1.4",
+          "airdate": "2026-11-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44758394/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "name": "Episode #1.5",
+          "airdate": "2026-11-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44758395/?ref_=ttep_ep_5"
         }
       ]
     },
@@ -54859,7 +55099,7 @@
           "number": 5,
           "name": "I Gotta Relax.",
           "airdate": "2026-10-11",
-          "summary": null,
+          "summary": "Alright, time to unwind with a massage. That should do the trick.",
           "url": "https://www.imdb.com/title/tt47657204/?ref_=ttep_ep_5"
         },
         {
@@ -54867,7 +55107,7 @@
           "number": 6,
           "name": "Finally Got a Good Therapist.",
           "airdate": "2026-10-18",
-          "summary": null,
+          "summary": "Dr. Thomas has really been helping me out a lot.",
           "url": "https://www.imdb.com/title/tt47657206/?ref_=ttep_ep_6"
         },
         {
@@ -54899,7 +55139,7 @@
           "number": 20,
           "name": "This Idiot Is Freaking Out",
           "airdate": "2026-09-20",
-          "summary": null,
+          "summary": "I'm off to Hogwarts.",
           "url": "https://www.imdb.com/title/tt46551461/?ref_=ttep_ep_2"
         },
         {
@@ -54909,6 +55149,364 @@
           "airdate": "2026-09-27",
           "summary": "Dream of exploring a haunted hospital. Everything's fine except Steve received a terminal diagnosis. Hoping he's okay.",
           "url": "https://www.imdb.com/title/tt47530118/?ref_=ttep_ep_3"
+        }
+      ]
+    },
+    "tt11379026": {
+      "imdbId": "tt11379026",
+      "title": "Ghosts",
+      "episodes": [
+        {
+          "season": 5,
+          "number": 1,
+          "name": "Soul Custody",
+          "airdate": "2025-10-16",
+          "summary": "Sam, Jay and the ghosts attempt to extricate Jay from his deal with Elias Woodstone, the devil; Isaac helps Patience through a crisis of confidence; Pete and Alberta navigate the fallout from their kiss.",
+          "url": "https://www.imdb.com/title/tt35856953/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 5,
+          "number": 2,
+          "name": "Viking Wedding",
+          "airdate": "2025-10-23",
+          "summary": "Sam and Jay try to impress their trendy city friends; a misplaced bookcase threatens Thor's ability to deliver an important speech; Isaac rallies the ghosts to help the couple navigate a tough customer service ordeal.",
+          "url": "https://www.imdb.com/title/tt37894576/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "name": "Halloween 5: The Mummy",
+          "airdate": "2025-10-30",
+          "summary": "Sam and Jay's Halloween gets scary after they unintentionally free a mummy ghost.",
+          "url": "https://www.imdb.com/title/tt37894762/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 5,
+          "number": 4,
+          "name": "Bring Your Daughter to Work Day",
+          "airdate": "2025-11-06",
+          "summary": "Trevor finds a way to spend more time with his newly-discovered daughter Abby: by getting her a job at Jay's restaurant.",
+          "url": "https://www.imdb.com/title/tt37894764/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 5,
+          "number": 5,
+          "name": "T-Daddy",
+          "airdate": "2025-11-13",
+          "summary": "Trevor's relationship with his daughter is strained when he pushes her to follow a career in finance over poetry. Meanwhile, Jay confronts labor unrest at the restaurant.",
+          "url": "https://www.imdb.com/title/tt37894767/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 5,
+          "number": 6,
+          "name": "Planes, Shanes and Automobiles",
+          "airdate": "2025-11-20",
+          "summary": "Sam and Pete get on each other's nerves during a book-tour road trip and things reach a breaking point when an airline strike threatens their ability to get home in time for Thanksgiving.",
+          "url": "https://www.imdb.com/title/tt37894769/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
+          "number": 7,
+          "name": "The Proposal",
+          "airdate": "2025-12-04",
+          "summary": "Sam helps Eric plan the perfect proposal for Bela, until an encounter with Sasappis plants doubt in Bela's mind.",
+          "url": "https://www.imdb.com/title/tt37894771/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 5,
+          "number": 8,
+          "name": "The Life and Times of Esther Greene",
+          "airdate": "2025-12-11",
+          "summary": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth.",
+          "url": "https://www.imdb.com/title/tt38689241/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 5,
+          "number": 9,
+          "name": "It's a Wonderful Christmas Carol: Part One",
+          "airdate": "2025-12-18",
+          "summary": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Trevor and Patience bond over their mutual disinterest in celebrating Christmas.",
+          "url": "https://www.imdb.com/title/tt38689242/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 5,
+          "number": 10,
+          "name": "It's a Wonderful Christmas Carol: Part Two",
+          "airdate": "2025-12-18",
+          "summary": "Sam gets a glimpse of what her life would be like if she could never see the ghosts.",
+          "url": "https://www.imdb.com/title/tt38689243/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 5,
+          "number": 11,
+          "name": "The Others",
+          "airdate": "2026-02-26",
+          "summary": "Sam and the ghosts encounter a new group of spirits connected to one of their pasts. Meanwhile, Trevor struggles to handle a demanding acquaintance who wants a serious relationship after their vacation fling.",
+          "url": "https://www.imdb.com/title/tt38996395/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 5,
+          "number": 12,
+          "name": "The List",
+          "airdate": "2026-03-05",
+          "summary": "Sam and Jay work to secure Woodstone B&B a coveted spot on a prestigious luxury hotel list, only to face unexpected chaos when a vengeful newly discovered bunker ghost disrupts a crucial visit.",
+          "url": "https://www.imdb.com/title/tt39008874/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 5,
+          "number": 13,
+          "name": "St. Hetty's Day 2: The Help",
+          "airdate": "2026-03-12",
+          "summary": "A St. Patrick's Day staffing emergency gives Hetty the chance to step into an unlikely role at the restaurant as she regains her once-a-year ability to be seen and heard by the living; Kyle returns to watch over the ghosts.",
+          "url": "https://www.imdb.com/title/tt38998775/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 5,
+          "number": 14,
+          "name": "The Water Heater",
+          "airdate": "2026-04-02",
+          "summary": "Sam and Jay try to replace their broken water heater, but Isaac turns the upgrade into a campaign issue in his bid to represent the basement ghosts; Sasappis and Bela attempt to go on a double-date with Pete and Alberta.",
+          "url": "https://www.imdb.com/title/tt39008876/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 5,
+          "number": 15,
+          "name": "Michael Jackson Goes to HR",
+          "airdate": "2026-04-09",
+          "summary": "Trevor lands himself in trouble when an inappropriate gift to a co-worker forces him into an HR meeting only Jay can handle; Pete unintentionally sparks drama with Alberta after casually mentioning a surprise visit to his ex.",
+          "url": "https://www.imdb.com/title/tt39008878/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 5,
+          "number": 16,
+          "name": "Woodstone Royale",
+          "airdate": "2026-04-16",
+          "summary": "Needing to raise a large sum of money to pay the IRS, Sam and Jay agree to host a high-stakes poker game at the mansion; in an act of generosity, the upstairs ghosts gift Jay's recliner to the basement ghosts.",
+          "url": "https://www.imdb.com/title/tt39008879/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 5,
+          "number": 17,
+          "name": "The Investor",
+          "airdate": "2026-04-23",
+          "summary": "When a promising opportunity to save Woodstone is threatened by a personal conflict, Sam and Jay are forced into a difficult choice. Meanwhile, election day arrives as Flower and Isaac go head-to-head to become Ghost Representative.",
+          "url": "https://www.imdb.com/title/tt39008880/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 5,
+          "number": 18,
+          "name": "Under New Management",
+          "airdate": "2026-04-30",
+          "summary": "Sam and Jay face new pressures threatening their control of Woodstone, forcing them to tackle unexpected challenges. A ghost who's been gone returns, stirring up emotions that complicate existing relationships.",
+          "url": "https://www.imdb.com/title/tt39008881/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 5,
+          "number": 19,
+          "name": "Gate-gate",
+          "airdate": "2026-05-07",
+          "summary": "When an emotion-driven decision puts Woodstone at risk, Sam and Jay step up to defend what they've built; Isaac struggles to adjust to new surroundings, only to realize that some connections are too important to leave behind.",
+          "url": "https://www.imdb.com/title/tt39008882/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 5,
+          "number": 20,
+          "name": "Polar Opposites",
+          "airdate": "2026-05-14",
+          "summary": "A Hollywood producer scouts Woodstone for filming, inspiring Sam to take a creative risk with surprising ghost support. Ghost role changes lead to a touching tribute for someone special.",
+          "url": "https://www.imdb.com/title/tt39008883/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 5,
+          "number": 21,
+          "name": "Up the Creek",
+          "airdate": "2026-05-21",
+          "summary": "When Woodstone's future is put in jeopardy, Sam and Jay join forces with the ghosts to protect the mansion by securing its place in history.",
+          "url": "https://www.imdb.com/title/tt39008884/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 5,
+          "number": 22,
+          "name": "Across the Pond",
+          "airdate": "2026-05-21",
+          "summary": "A trip abroad could determine Woodstone's fate. Meanwhile, a major career opportunity takes Sam out of town, leaving others to step in and help with the ghosts.",
+          "url": "https://www.imdb.com/title/tt39008885/?ref_=ttep_ep_22"
+        },
+        {
+          "season": 4,
+          "number": 1,
+          "name": "Patience",
+          "airdate": "2024-10-17",
+          "summary": "While Sam and the ghosts race to find him, Isaac comes face to face with Puritan ghost Patience for the first time since she was lost in the dirt.",
+          "url": "https://www.imdb.com/title/tt32252600/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Sam's Dad",
+          "airdate": "2024-10-24",
+          "summary": "Sam's dad visits, straining her bond with Patience; Isaac navigates post-breakup with Nigel; Thor and Flower face an awkward situation involving Nancy.",
+          "url": "https://www.imdb.com/title/tt33528712/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Halloween 4: The Witch",
+          "airdate": "2024-10-31",
+          "summary": "Seeking excitement during a low-key Halloween, the ghosts join Patience in putting Sam on a witch trial.",
+          "url": "https://www.imdb.com/title/tt33528714/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "The Work Retreat",
+          "airdate": "2024-11-07",
+          "summary": "Trevor, who catfished his way into a remote financial analyst job, is now in hot water when he's summoned to a mandatory in-person work retreat; Hetty and Sass start a rumor about Pete.",
+          "url": "https://www.imdb.com/title/tt33528713/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "A Star Is Dead",
+          "airdate": "2024-11-14",
+          "summary": "Alberta offers to help Sam prepare for an audition for a community theatre production; Sass finds a new reason to interfere in Jay's dreams.",
+          "url": "https://www.imdb.com/title/tt33528715/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "The Primary Source",
+          "airdate": "2024-12-05",
+          "summary": "When Sam's book publisher requires source material for her biography on Isaac, she and Jay take a field trip to find a diary he claims he hid when he was alive.",
+          "url": "https://www.imdb.com/title/tt33528716/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Sad Farnsby",
+          "airdate": "2024-12-12",
+          "summary": "When Sam accidentally creates a rift between Sam and Jay's neighbors, the Farnsbys, Henry Farnsby moves into Woodstone; Isaac and Nigel battle over a belated wedding present.",
+          "url": "https://www.imdb.com/title/tt33528717/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "A Very Arondekar Christmas Part 1",
+          "airdate": "2024-12-19",
+          "summary": "A leaky-water-heater mishap threatens to ruin holiday plans as Sam and Jay prepare to host Jay's hard-to-please dad, difficult-to-impress mum, and sister Bela.",
+          "url": "https://www.imdb.com/title/tt33528718/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "name": "A Very Arondekar Christmas Part 2",
+          "airdate": "2024-12-19",
+          "summary": "A leaky water heater mishap threatens to ruin holiday plans as Sam and Jay prepare to host Jay's hard-to-please dad, difficult-to-impress mum and sister Bela.",
+          "url": "https://www.imdb.com/title/tt33528719/?ref_=ttep_ep_9"
+        },
+        {
+          "season": 4,
+          "number": 10,
+          "name": "The Not-So-Silent Partner",
+          "airdate": "2025-01-30",
+          "summary": "Sam and Jay are forced to cover when Mark demands to meet the silent investor who has been holding up construction.",
+          "url": "https://www.imdb.com/title/tt33528720/?ref_=ttep_ep_10"
+        },
+        {
+          "season": 4,
+          "number": 11,
+          "name": "Thorapy 2: Abandonment Issues",
+          "airdate": "2025-02-06",
+          "summary": "Thor returns to therapy to work through his angst over being abandoned by his Viking shipmates; Jay's sister Bela attempts to help him with the restaurant.",
+          "url": "https://www.imdb.com/title/tt35514283/?ref_=ttep_ep_11"
+        },
+        {
+          "season": 4,
+          "number": 12,
+          "name": "It's the End of the World as We Know It and What Were We Talking About?",
+          "airdate": "2025-02-13",
+          "summary": "Flower interferes with the opening of Jay's restaurant based on a prophecy from her old cult leader.",
+          "url": "https://www.imdb.com/title/tt35514284/?ref_=ttep_ep_12"
+        },
+        {
+          "season": 4,
+          "number": 13,
+          "name": "Ghostfellas",
+          "airdate": "2025-02-20",
+          "summary": "Jay upsets a restaurant owner after using a recipe in his restaurant that Pete had shared with him.",
+          "url": "https://www.imdb.com/title/tt35514285/?ref_=ttep_ep_13"
+        },
+        {
+          "season": 4,
+          "number": 14,
+          "name": "Alexander Hamilton and the Ruffle Kerfuffle",
+          "airdate": "2025-02-27",
+          "summary": "When Jay becomes obsessed with the success of a fellow chef, Isaac serves up a cautionary tale about his own rivalry with Alexander Hamilton; Elias Woodstone returns from hell with a limited-time offer for the ghosts.",
+          "url": "https://www.imdb.com/title/tt35669892/?ref_=ttep_ep_14"
+        },
+        {
+          "season": 4,
+          "number": 15,
+          "name": "The Bachelorette Party",
+          "airdate": "2025-03-06",
+          "summary": "Alberta questions her descendant's fiancé during a bachelorette party at Woodstone Mansion, while Jay celebrates a good review of his restaurant.",
+          "url": "https://www.imdb.com/title/tt35669894/?ref_=ttep_ep_15"
+        },
+        {
+          "season": 4,
+          "number": 16,
+          "name": "St. Hetty's Day",
+          "airdate": "2025-03-13",
+          "summary": "Hetty's ghost power is revealed when Jay's cousin Sunil visits Woodstone Mansion on St. Patrick's Day.",
+          "url": "https://www.imdb.com/title/tt35669895/?ref_=ttep_ep_16"
+        },
+        {
+          "season": 4,
+          "number": 17,
+          "name": "His Girl Shiki",
+          "airdate": "2025-04-03",
+          "summary": "Pete makes good on his promise to find someone for Sasappis by bringing in a wisecracking 1940s screenwriter who also has the ability to roam.",
+          "url": "https://www.imdb.com/title/tt36107114/?ref_=ttep_ep_17"
+        },
+        {
+          "season": 4,
+          "number": 18,
+          "name": "Smooching and Smushing",
+          "airdate": "2025-04-10",
+          "summary": "Jay, Sam, and the ghosts attempt to fix the ghost trap in hopes of getting Sasappis across the ghost boundary to visit his longtime crush, Shiki.",
+          "url": "https://www.imdb.com/title/tt36306464/?ref_=ttep_ep_18"
+        },
+        {
+          "season": 4,
+          "number": 19,
+          "name": "Pinkus Returns",
+          "airdate": "2025-04-17",
+          "summary": "Trevor gets the surprise of his afterlife when his former co-worker Pinkus arrives at Woodstone Mansion with his daughter Abby.",
+          "url": "https://www.imdb.com/title/tt36306466/?ref_=ttep_ep_19"
+        },
+        {
+          "season": 4,
+          "number": 20,
+          "name": "I Know What You Did Thirty-Seven Summers Ago",
+          "airdate": "2025-04-24",
+          "summary": "When Sam and Jay host a fundraiser for the mayor to earn a favor for Jay's restaurant, they learn of his bizarre connection to one of Woodstone's ghosts.",
+          "url": "https://www.imdb.com/title/tt36306467/?ref_=ttep_ep_20"
+        },
+        {
+          "season": 4,
+          "number": 21,
+          "name": "Kyle",
+          "airdate": "2025-05-01",
+          "summary": "A handsome living who can see ghosts arrives at Woodstone B&B.",
+          "url": "https://www.imdb.com/title/tt36330818/?ref_=ttep_ep_21"
+        },
+        {
+          "season": 4,
+          "number": 22,
+          "name": "The Devil Went Down to Woodstone",
+          "airdate": "2025-05-08",
+          "summary": "Sam and Jay host a big party for the launch of Sam and Isaac's vampire book.",
+          "url": "https://www.imdb.com/title/tt36330831/?ref_=ttep_ep_22"
         }
       ]
     }
