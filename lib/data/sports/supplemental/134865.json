@@ -1,7 +1,7 @@
 {
   "teamId": "134865",
   "teamName": "Golden State Warriors",
-  "updatedAt": "2026-10-22T11:12:29.193Z",
+  "updatedAt": "2026-10-22T16:40:48.128Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909850",
@@ -507,8 +507,8 @@
       "strLeague": "NBA",
       "strVenue": "Mortgage Matchup Center",
       "strStatus": "NS",
-      "strTVStation": "Suns Live",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": "Arizona's Family CBS5",
+      "updatedAt": "2026-10-22T16:40:48.128Z",
       "source": "scraped",
       "idHomeTeam": "134868",
       "idAwayTeam": "134865"
