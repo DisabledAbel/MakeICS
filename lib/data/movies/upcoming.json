@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:52:51.343Z",
+  "generatedAt": "2026-10-22T09:52:44.997Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5260,36 +5260,6 @@
       "label": "Oct 23, 2026"
     },
     {
-      "id": "tt36482679",
-      "title": "The Only Living Pickpocket in New York",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGM4MWFmNjMtZTFkZC00ZmQ5LWFkM2MtNjgxNTE2NTE0YWMxXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "people": [
-        {
-          "id": "nm0001806",
-          "name": "John Turturro"
-        },
-        {
-          "id": "nm0002064",
-          "name": "Giancarlo Esposito"
-        },
-        {
-          "id": "nm11153903",
-          "name": "Will Price"
-        },
-        {
-          "id": "nm1137209",
-          "name": "Tatiana Maslany"
-        }
-      ],
-      "label": "Oct 23, 2026"
-    },
-    {
       "id": "tt43655467",
       "title": "Ali G: Who Iz I?",
       "image": "https://m.media-amazon.com/images/M/MV5BYjIyYWYyMzEtMDkwOC00NDk0LWEwYzItNTk1NWYxNWEwMjA5XkEyXkFqcGc@._V1_.jpg",
@@ -5430,6 +5400,36 @@
       "label": "Oct 23, 2026"
     },
     {
+      "id": "tt27786691",
+      "title": "Going for Two",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWI2Nzk1YzYtMTg5OS00MTVhLWI0ZDgtNTlhOTk4MmZiYWZjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Sport"
+      ],
+      "people": [
+        {
+          "id": "nm2584600",
+          "name": "Julianne Hough"
+        },
+        {
+          "id": "nm13185378",
+          "name": "Matthew Lamb"
+        },
+        {
+          "id": "nm5075265",
+          "name": "Holly J. Barrett"
+        },
+        {
+          "id": "nm6639381",
+          "name": "Dan Bauer"
+        }
+      ],
+      "label": "Oct 23, 2026"
+    },
+    {
       "id": "tt45591705",
       "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
       "image": "https://m.media-amazon.com/images/M/MV5BOTlmMTUzY2QtMTIxMy00OTQzLThiZGItZmVjYWM3YThiM2RlXkEyXkFqcGc@._V1_.jpg",
@@ -5546,6 +5546,36 @@
         }
       ],
       "label": "Oct 28, 2026"
+    },
+    {
+      "id": "tt36482679",
+      "title": "The Only Living Pickpocket in New York",
+      "image": "https://m.media-amazon.com/images/M/MV5BODc3NTVjOGMtMzVjYy00NzQ0LTg3MmYtODg3NzljMzNlOTJmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0001806",
+          "name": "John Turturro"
+        },
+        {
+          "id": "nm0002064",
+          "name": "Giancarlo Esposito"
+        },
+        {
+          "id": "nm11153903",
+          "name": "Will Price"
+        },
+        {
+          "id": "nm1137209",
+          "name": "Tatiana Maslany"
+        }
+      ],
+      "label": "Oct 30, 2026"
     },
     {
       "id": "tt29611136",
@@ -5774,16 +5804,16 @@
           "name": "David Barnea"
         },
         {
+          "id": "nm16536951",
+          "name": "Ori Gordin"
+        },
+        {
           "id": "nm3486001",
           "name": "Matthew Levitt"
         },
         {
           "id": "nm1386592",
           "name": "Benjamin Netanyahu"
-        },
-        {
-          "id": "nm2520211",
-          "name": "Michael Oren"
         }
       ],
       "label": "Oct 30, 2026"
@@ -5870,7 +5900,7 @@
     {
       "id": "tt40210362",
       "title": "The Last Temptation of Becky",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGQ1N2UxMjUtOGJmMS00MWVmLWI4NTMtMzEyMmMyMTg0OWFkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDk0YWVhNzItNDE3Zi00NTlhLWI4ZjYtZTAyYjdjNTlhZTZkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 04 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -6276,7 +6306,7 @@
     {
       "id": "tt38686316",
       "title": "Ghost Soldier",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTYyOTY0MmUtNTdiMC00Zjc1LWI2NzEtZjhjZGVmMjJjNWFkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDM4MzMxZGUtZjE3Yi00YzE3LTlkNDktNWQ1MmEwMmZiZDEyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 11 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -7682,10 +7712,13 @@
     },
     {
       "id": "tt41151310",
-      "title": "Untitled Shudder Horror Film",
+      "title": "Vampires 2: Evil Ever After",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjcyOTczYzgtYWM0ZC00Mjg5LTgwOGQtOGMyOWY1ZjhhOTk3XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
       "genres": [
-        "Horror"
+        "Action",
+        "Horror",
+        "Musical"
       ],
       "people": [
         {
@@ -7741,11 +7774,11 @@
       "id": "tt34347792",
       "title": "Everybody Digs Bill Evans",
       "image": "https://m.media-amazon.com/images/M/MV5BNzgxMmE2YzktOTc5My00OTgxLWI5MzItODEwMGE2NWI4Y2M0XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Sat, 09 Jan 2027 00:00:00 GMT",
+      "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
       "genres": [
+        "Documentary",
         "Biography",
-        "Drama",
-        "Music"
+        "Drama"
       ],
       "people": [
         {
@@ -7765,7 +7798,7 @@
           "name": "Barry Ward"
         }
       ],
-      "label": "Jan 09, 2027"
+      "label": "Jan 08, 2027"
     },
     {
       "id": "tt35935357",
@@ -8055,12 +8088,12 @@
           "name": "John Stamos"
         },
         {
-          "id": "nm5153701",
-          "name": "Christine Ko"
-        },
-        {
           "id": "nm2192439",
           "name": "Lucy DeVito"
+        },
+        {
+          "id": "nm5153701",
+          "name": "Christine Ko"
         }
       ],
       "label": "Jan 29, 2027"
@@ -8124,7 +8157,7 @@
     {
       "id": "tt37360759",
       "title": "Slayground",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjAzNDgxNDItMDYzYy00ZTEwLWJlZWQtZmU0ZjM5ZDI0Y2RjXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjRiY2VhMzAtZmZkNy00YWZiLWI0YjQtYTUwODJkZDk4YzNkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
       "genres": [
         "Action",
@@ -8431,6 +8464,34 @@
         {
           "id": "nm10021823",
           "name": "Donald MacLean Jr."
+        }
+      ],
+      "label": "Feb 12, 2027"
+    },
+    {
+      "id": "tt35048085",
+      "title": "That's Her",
+      "releaseDate": "Fri, 12 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "people": [
+        {
+          "id": "nm11168175",
+          "name": "Colin Richard Allen"
+        },
+        {
+          "id": "nm16658007",
+          "name": "Easton Ginn Almond"
+        },
+        {
+          "id": "nm9983550",
+          "name": "Bovi"
+        },
+        {
+          "id": "nm2892927",
+          "name": "Tabitha Brown"
         }
       ],
       "label": "Feb 12, 2027"
