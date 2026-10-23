@@ -82335,6 +82335,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-aad58a18-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aad58a18-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134920.json",
+      "record": {
+        "idEvent": "sdv-nfl-aad58a18-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Chicago Bears vs New England Patriots",
+        "strHomeTeam": "Chicago Bears",
+        "strAwayTeam": "New England Patriots",
+        "dateEvent": "2026-10-23",
+        "strTime": "00:15:00Z",
+        "strTimestamp": "2026-10-23T00:15:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Soldier Field",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-aad594ee-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-aad594ee-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134922.json",

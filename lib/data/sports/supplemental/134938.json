@@ -1,24 +1,10 @@
 {
   "teamId": "134938",
   "teamName": "Chicago Bears",
-  "updatedAt": "2026-10-20T04:54:06.311Z",
+  "updatedAt": "2026-10-23T04:53:00.835Z",
   "generatedAt": "2026-07-18T00:00:00.000Z",
   "generateAt": "2026-07-18T00:00:00.000Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aad58a18-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Chicago Bears vs New England Patriots",
-      "strHomeTeam": "Chicago Bears",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-10-23",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-23T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Soldier Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab37feaa-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Seattle Seahawks vs Chicago Bears",
