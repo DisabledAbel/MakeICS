@@ -350,10 +350,18 @@
         {
           "season": 30,
           "number": 33,
-          "name": "Ice-T/Collin Gosselin/View Your Deal/",
+          "name": "Ice-T/Collin Gosselin/View Your Deal",
           "airdate": "2026-10-22",
           "summary": "Actor Ice-T; author Collin Gosselin (memoir, \"In the Shadow of Eight\");",
           "url": "https://www.imdb.com/title/tt49522401/?ref_=ttep_ep_33"
+        },
+        {
+          "season": 30,
+          "number": 34,
+          "name": "Lin-Manuel Miranda & Eisa Davis/View Your Deal: Oprah Daily: Feel Good Friday/",
+          "airdate": "2026-10-23",
+          "summary": "Co-writers Lin-Manuel Miranda and Eisa Davis (Broadway musical, \"Warriors\"); Oprah Daily's Adam Glassman show hot deals;",
+          "url": "https://www.imdb.com/title/tt49522402/?ref_=ttep_ep_34"
         },
         {
           "season": 29,
@@ -14085,7 +14093,7 @@
           "number": 1,
           "name": "Scary Tales",
           "airdate": "2026-10-12",
-          "summary": null,
+          "summary": "On a rambunctious Halloween night in Bikini Bottom, Patrick Star and his family treat us to a collection of scary Bikini Bottom versions of classic fairy tales and nursery rhymes.",
           "url": "https://www.imdb.com/title/tt43731496/?ref_=ttep_ep_1"
         },
         {
@@ -24097,7 +24105,7 @@
         {
           "season": 2,
           "number": 8,
-          "name": "Daisy's Puppies",
+          "name": "Pete's Big Surprise",
           "airdate": "2026-10-30",
           "summary": "Mickey and his friends go to Magic Island and have an magical adventure together.",
           "url": "https://www.imdb.com/title/tt43715215/?ref_=ttep_ep_8"
@@ -24105,31 +24113,31 @@
         {
           "season": 2,
           "number": 9,
-          "name": "Beauty and the Goof",
-          "airdate": "2027-04-03",
+          "name": "The Missing Songbird",
+          "airdate": "2026-11-06",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43715216/?ref_=ttep_ep_9"
         },
         {
           "season": 2,
           "number": 10,
-          "name": "Martian Mickey's CookOff",
-          "airdate": "2027-04-04",
+          "name": "Minnie's Pet Party",
+          "airdate": "2026-11-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43715218/?ref_=ttep_ep_10"
         },
         {
           "season": 2,
           "number": 11,
-          "name": "Mickey's Construction Crew",
-          "airdate": "2027-04-05",
+          "name": "Hot Dog Day",
+          "airdate": "2026-11-20",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43715219/?ref_=ttep_ep_11"
         },
         {
           "season": 2,
           "number": 12,
-          "name": "Goofy the Firefighter",
+          "name": "The Moaning Cat Show",
           "airdate": "2027-04-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt43715221/?ref_=ttep_ep_12"
@@ -24137,7 +24145,7 @@
         {
           "season": 2,
           "number": 30,
-          "name": "Mickey's Animal Pictures",
+          "name": "The Big Acorn Hunt",
           "airdate": "2026-09-30",
           "summary": "Since Dale caught the sniffles on the big acorn hunt day, Mickey and Pals help Chip gather acorns with Professor Von Drake's Nifty Nutty Acorn Collector.",
           "url": "https://www.imdb.com/title/tt37848747/?ref_=ttep_ep_1"
@@ -34637,7 +34645,7 @@
           "number": 4,
           "name": "Back from the Dead: Storybook Nightmares",
           "airdate": "2026-10-04",
-          "summary": null,
+          "summary": "Twisted bedtime tales come alive as host Jonathan Bennett challenges the five remaining teams to craft terrifying moving showpieces based on classic stories.",
           "url": "https://www.imdb.com/title/tt48547855/?ref_=ttep_ep_4"
         },
         {
@@ -34661,7 +34669,7 @@
           "number": 27,
           "name": "Back from the Dead: Misfit Monsters",
           "airdate": "2026-09-27",
-          "summary": null,
+          "summary": "Host Jonathan Bennett pits teams against each other to create terrifying trolls, demons, and ghouls. As rivalries intensify, one team faces an emotional battle to win over judges Shinmin Li and Andrew Fuller and stay in the competition.",
           "url": "https://www.imdb.com/title/tt48547669/?ref_=ttep_ep_3"
         },
         {
@@ -35019,7 +35027,7 @@
           "number": 5,
           "name": "Doll Trouble",
           "airdate": "2026-10-12",
-          "summary": null,
+          "summary": "No one's safe. John Henson pits six bakers against each other, crafting demon doll desserts—Paris-Brest, baked cheesecake, or Swiss roll. Matched by dessert type, only the winners survive.",
           "url": "https://www.imdb.com/title/tt45654118/?ref_=ttep_ep_5"
         },
         {
@@ -35027,7 +35035,7 @@
           "number": 6,
           "name": "Masters of the Macabre",
           "airdate": "2026-10-19",
-          "summary": null,
+          "summary": "In the semifinal's haunted heat, John Henson challenges bakers to craft eerie oil painting desserts inspired by chilling masterpieces—think slobbering hellhounds, a wailing banshee, and a ghostly child.",
           "url": "https://www.imdb.com/title/tt45654244/?ref_=ttep_ep_6"
         },
         {
@@ -37251,7 +37259,7 @@
           "number": 5,
           "name": "Nightmares in New England",
           "airdate": "2026-10-16",
-          "summary": "Retta's journey to find scary takes her to Nightmarish New England where four homes battle for a chance at a $150,000 makeover by designer Alison Victoria. It includes a large house with whistling and humming specters and a diabolical duplex.",
+          "summary": "Retta's hunt for scares leads to Nightmarish New England, where four houses compete for a $150,000 makeover by Alison Victoria—featuring a spooky home with whistling specters and a sinister duplex.",
           "url": "https://www.imdb.com/title/tt46100165/?ref_=ttep_ep_5"
         },
         {
@@ -37259,7 +37267,7 @@
           "number": 6,
           "name": "From Frightening to Fabulous",
           "airdate": "2026-10-23",
-          "summary": "After a season-long search, the road trip comes to an end and Retta reveals the Scariest House in America. Now, designer Alison Victoria faces her ultimate renovation challenge: transform the terrifying home with a stunning $150,000 makeover.",
+          "summary": "After a season-long search, Retta's road trip ends with the reveal of America's Scariest House. Designer Alison Victoria now faces her biggest challenge yet: a $150,000 makeover for the terrifying home.",
           "url": "https://www.imdb.com/title/tt46100174/?ref_=ttep_ep_6"
         },
         {
@@ -38135,9 +38143,9 @@
         {
           "season": 1,
           "number": 8,
-          "name": "Episode #1.8",
+          "name": "Agent of the Year",
           "airdate": "2026-11-01",
-          "summary": null,
+          "summary": "Amid personal and professional crises, Alex and Sam each try to keep things together at the Women's Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.",
           "url": "https://www.imdb.com/title/tt44879084/?ref_=ttep_ep_8"
         },
         {
@@ -39956,6 +39964,14 @@
         },
         {
           "season": 5,
+          "number": 6,
+          "name": "Breaking Point",
+          "airdate": "2026-10-29",
+          "summary": "The recruits are tasked with locating chemical weapons in underground tunnels by crawling through narrow passageways. They must then push themselves mentally and learn to control their aggression.",
+          "url": "https://www.imdb.com/title/tt49890323/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 5,
           "number": 24,
           "name": "Jungle Warfare",
           "airdate": "2026-09-24",
@@ -41044,7 +41060,7 @@
         {
           "season": 3,
           "number": 7,
-          "name": "Episode #3.7",
+          "name": "Meat Cute",
           "airdate": "2026-11-15",
           "summary": null,
           "url": "https://www.imdb.com/title/tt41714808/?ref_=ttep_ep_7"
@@ -41464,6 +41480,14 @@
           "airdate": "2026-10-13",
           "summary": null,
           "url": "https://www.imdb.com/title/tt49342101/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 16,
+          "number": 4,
+          "name": "Digger Knows Best",
+          "airdate": "2026-10-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49841065/?ref_=ttep_ep_4"
         },
         {
           "season": 16,
@@ -42204,7 +42228,7 @@
           "number": 6,
           "name": "Love and Rage",
           "airdate": "2026-10-20",
-          "summary": null,
+          "summary": "Days before graduating, Yeardley Love is killed in her room by her UVA lacrosse boyfriend, George Huguely. Elizabeth Chambers reviews the warning signs, the missed intervention, and the legacy her family has built since.",
           "url": "https://www.imdb.com/title/tt48241785/?ref_=ttep_ep_6"
         },
         {
@@ -42496,7 +42520,7 @@
           "number": 25,
           "name": "Luck of the Bonus Square",
           "airdate": "2026-10-22",
-          "summary": null,
+          "summary": "Contestants take a gamble on their word skills as they compete for the chance to take home the $10,000 jackpot.",
           "url": "https://www.imdb.com/title/tt36985566/?ref_=ttep_ep_25"
         },
         {
@@ -43122,7 +43146,7 @@
           "number": 25,
           "name": "The Honeymooner",
           "airdate": "2026-10-22",
-          "summary": null,
+          "summary": "A newlywed looks to conquer the six iconic categories in hope of winning $20,000.",
           "url": "https://www.imdb.com/title/tt36985616/?ref_=ttep_ep_25"
         },
         {
@@ -45748,7 +45772,7 @@
           "number": 5,
           "name": "Atonement",
           "airdate": "2026-11-02",
-          "summary": null,
+          "summary": "When a prison transport van is attacked, the team is sent on a hunt for the missing prisoners. Scola grapples with a big change.",
           "url": "https://www.imdb.com/title/tt44126710/?ref_=ttep_ep_5"
         },
         {
@@ -45954,7 +45978,7 @@
           "number": 3,
           "name": "The Boy Who Called His Mom",
           "airdate": "2026-10-19",
-          "summary": "Chloe turns on Emma, and Brian scrambles to win her back. Jamal's pursuit of Ericka takes a turn as he struggles to let go of Emma. Michael sets his sights on someone new, Kara tests her chemistry with JT, and Razvan moves in on Steven's connection.",
+          "summary": "Chloe turns against Emma, sending Brian scrambling to win her back. Jamal's pursuit of Ericka hits a snag as he struggles to let go of Emma, while Michael eyes someone new.",
           "url": "https://www.imdb.com/title/tt45697606/?ref_=ttep_ep_3"
         },
         {
@@ -47913,6 +47937,14 @@
           "url": "https://www.imdb.com/title/tt46107152/?ref_=ttep_ep_4"
         },
         {
+          "season": 12,
+          "number": 5,
+          "name": "Baptism by Fire",
+          "airdate": "2026-11-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt47689618/?ref_=ttep_ep_5"
+        },
+        {
           "season": 11,
           "number": 1,
           "name": "We All Fall Down",
@@ -48359,7 +48391,7 @@
           "number": 3,
           "name": "Take the Hit",
           "airdate": "2026-10-21",
-          "summary": null,
+          "summary": "A field mistake sends a firefighter to the hospital, prompting Herrmann to help get a team member back on track.",
           "url": "https://www.imdb.com/title/tt45115471/?ref_=ttep_ep_3"
         },
         {
@@ -49067,6 +49099,14 @@
           "url": "https://www.imdb.com/title/tt46107311/?ref_=ttep_ep_4"
         },
         {
+          "season": 14,
+          "number": 5,
+          "name": "Episode #14.5",
+          "airdate": "2026-11-04",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt49440869/?ref_=ttep_ep_5"
+        },
+        {
           "season": 13,
           "number": 1,
           "name": "Consequences",
@@ -49513,7 +49553,7 @@
           "number": 3,
           "name": "Anonymity",
           "airdate": "2026-10-22",
-          "summary": null,
+          "summary": "The SVU races to dismantle a dark web network exploiting young children but federal investigators threaten to derail the case.",
           "url": "https://www.imdb.com/title/tt42222353/?ref_=ttep_ep_3"
         },
         {
@@ -50035,7 +50075,7 @@
           "number": 4,
           "name": "Property",
           "airdate": "2026-10-29",
-          "summary": null,
+          "summary": "When an antiquities dealer is found murdered, Walker and Calvino uncover a contentious motive. As the case evolves into a high-stakes legal and moral dilemma, Maroun must confront her own beliefs as she works with Price towards a conviction.",
           "url": "https://www.imdb.com/title/tt43296541/?ref_=ttep_ep_4"
         },
         {
@@ -50043,7 +50083,7 @@
           "number": 5,
           "name": "Rage Bait",
           "airdate": "2026-11-05",
-          "summary": null,
+          "summary": "When a college basketball star is shot dead after winning the championship game, Walker and Calvino uncover a trail of online vitriol that leads far beyond the internet. Price and Maroun face an uphill battle when the defendant claims self-defense.",
           "url": "https://www.imdb.com/title/tt43328546/?ref_=ttep_ep_5"
         },
         {
@@ -50263,7 +50303,7 @@
         {
           "season": 1,
           "number": 6,
-          "name": "Episode #1.6",
+          "name": "Harper",
           "airdate": "2026-11-08",
           "summary": "Christy's roommate is denied a transplant when an AI algorithm prioritizes a wealthy patient. Michael and Olivia race to get a judge to stop the surgery, fighting the legal battle remotely from their cars due to a traffic jam.",
           "url": "https://www.imdb.com/title/tt42934126/?ref_=ttep_ep_6"
@@ -50271,7 +50311,7 @@
         {
           "season": 1,
           "number": 7,
-          "name": "Episode #1.7",
+          "name": "Yungwood",
           "airdate": "2026-11-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt42934127/?ref_=ttep_ep_7"
@@ -52806,7 +52846,7 @@
           "number": 2,
           "name": "Missing Pieces",
           "airdate": "2026-10-21",
-          "summary": null,
+          "summary": "A farmer's apparent stroke takes a toxic turn when his pregnant daughter falls ill. A homecoming prank leaves a frat brother unconscious in whipped cream. A firefighter who can't form new memories can't let go of an old one.",
           "url": "https://www.imdb.com/title/tt48396907/?ref_=ttep_ep_2"
         },
         {
@@ -52914,7 +52954,7 @@
         {
           "season": 10,
           "number": 4,
-          "name": "Episode #10.4",
+          "name": "Imposter Syndrome",
           "airdate": "2026-11-05",
           "summary": null,
           "url": "https://www.imdb.com/title/tt49451551/?ref_=ttep_ep_4"
@@ -52922,7 +52962,7 @@
         {
           "season": 10,
           "number": 5,
-          "name": "Episode #10.5",
+          "name": "Who's Your Daddy?",
           "airdate": "2026-11-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt49451552/?ref_=ttep_ep_5"
@@ -53112,7 +53152,7 @@
         {
           "season": 2,
           "number": 4,
-          "name": "Episode #2.4",
+          "name": "In Cold Blood",
           "airdate": "2026-11-05",
           "summary": null,
           "url": "https://www.imdb.com/title/tt49804646/?ref_=ttep_ep_4"
@@ -53120,7 +53160,7 @@
         {
           "season": 2,
           "number": 5,
-          "name": "Episode #2.5",
+          "name": "Ding-Dong-Ditch",
           "airdate": "2026-11-12",
           "summary": null,
           "url": "https://www.imdb.com/title/tt49804687/?ref_=ttep_ep_5"
@@ -55045,7 +55085,7 @@
           "number": 1,
           "name": "Pilot",
           "airdate": "2026-10-23",
-          "summary": null,
+          "summary": "Over six weeks and two continents, total opposites Jeanie and James go from blind date to wedded bliss.",
           "url": "https://www.imdb.com/title/tt40191498/?ref_=ttep_ep_1"
         },
         {
@@ -55053,7 +55093,7 @@
           "number": 2,
           "name": "My Place or Yours",
           "airdate": "2026-10-30",
-          "summary": null,
+          "summary": "Jeanie and James realize they have very different ideas about where they should live.",
           "url": "https://www.imdb.com/title/tt44758376/?ref_=ttep_ep_2"
         },
         {
