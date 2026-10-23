@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:52:44.997Z",
+  "generatedAt": "2026-10-23T09:46:37.164Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5241,20 +5241,20 @@
       ],
       "people": [
         {
-          "id": "nm7213696",
-          "name": "Peyton Elizabeth Lee"
-        },
-        {
-          "id": "nm5016878",
-          "name": "Jacob Tremblay"
-        },
-        {
           "id": "nm1659547",
           "name": "Carey Mulligan"
         },
         {
-          "id": "nm0991810",
-          "name": "Mahershala Ali"
+          "id": "nm0001987",
+          "name": "Tantoo Cardinal"
+        },
+        {
+          "id": "nm1476601",
+          "name": "Marc Evan Jackson"
+        },
+        {
+          "id": "nm0001290",
+          "name": "Richard E. Grant"
         }
       ],
       "label": "Oct 23, 2026"
@@ -6275,6 +6275,36 @@
       "label": "Nov 06, 2026"
     },
     {
+      "id": "tt38192494",
+      "title": "Scene",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGExMjg5N2ItYmQ2NC00YjhjLTk3MWQtYTI5MDE5NWNkZjE1XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Action",
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm1421814",
+          "name": "Suriya"
+        },
+        {
+          "id": "nm10899733",
+          "name": "Naslen"
+        },
+        {
+          "id": "nm1167656",
+          "name": "Silambarasan TR"
+        },
+        {
+          "id": "nm2601111",
+          "name": "Nazriya Nazim"
+        }
+      ],
+      "label": "Nov 06, 2026"
+    },
+    {
       "id": "tt48391060",
       "title": "Stray Kids World Tour 'Run It' Live Viewing",
       "image": "https://m.media-amazon.com/images/M/MV5BOTM5OTE5NzktMjE5My00MWZmLTk1MzgtNGFkNTk4YjFmMTgxXkEyXkFqcGc@._V1_.jpg",
@@ -6368,7 +6398,6 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNjdmNmYwMzEtMzJmYS00MDkxLThiNGItZjA0MGJlMjU4MTNmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
       "genres": [
-        "Comedy",
         "Horror",
         "Thriller"
       ],
@@ -7891,6 +7920,34 @@
       "label": "Jan 15, 2027"
     },
     {
+      "id": "tt39094466",
+      "title": "Look Back",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTI1MTM4NDktOWQ1Yy00NGRmLWExMDEtMzJlN2RhZjc4MDJhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 15 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm4373363",
+          "name": "Ryô Ikeda"
+        },
+        {
+          "id": "nm9437164",
+          "name": "Miyu Sasaki"
+        },
+        {
+          "id": "nm3809514",
+          "name": "Maho Yamada"
+        },
+        {
+          "id": "nm11935594",
+          "name": "Natsuki Deguchi"
+        }
+      ],
+      "label": "Jan 15, 2027"
+    },
+    {
       "id": "tt14521412",
       "title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
       "image": "https://m.media-amazon.com/images/M/MV5BNjliZjkyNGQtMDgxOS00N2I1LWFmODAtMGQ0OTI4MGNiZjRlXkEyXkFqcGc@._V1_.jpg",
@@ -8013,7 +8070,7 @@
     {
       "id": "tt22183852",
       "title": "Tangles",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWJlNDYwYmQtMDE4Ny00MTZjLWI2NzQtZTQwNjBkOGIzMjQzXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjlkYzRhOTQtNzNmZC00MzRlLTkyOWYtODhiZjE2M2U0NTkzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 22 Jan 2027 00:00:00 GMT",
       "genres": [
         "Animation",
@@ -9293,12 +9350,12 @@
           "name": "Kevin Bacon"
         },
         {
-          "id": "nm0000510",
-          "name": "Andie MacDowell"
+          "id": "nm2200639",
+          "name": "Patrick Schwarzenegger"
         },
         {
-          "id": "nm8212878",
-          "name": "Ella Balinska"
+          "id": "nm0000510",
+          "name": "Andie MacDowell"
         },
         {
           "id": "nm3697443",
