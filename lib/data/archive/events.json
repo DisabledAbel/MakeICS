@@ -14504,6 +14504,29 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401909848",
+      "uid": "sportsdb-scraped-espn-401909848@makeics.local",
+      "source": "lib/data/sports/supplemental/134870.json",
+      "record": {
+        "idEvent": "scraped-espn-401909848",
+        "strEvent": "Milwaukee Bucks vs Chicago Bulls",
+        "strHomeTeam": "Milwaukee Bucks",
+        "strAwayTeam": "Chicago Bulls",
+        "dateEvent": "2026-10-23",
+        "strTime": "20:00:00",
+        "strTimestamp": "2026-10-23T20:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Fiserv Forum",
+        "strStatus": "NS",
+        "strTVStation": "NBA League Pass",
+        "updatedAt": "2026-10-19T22:01:14.956Z",
+        "source": "scraped",
+        "idHomeTeam": "134874",
+        "idAwayTeam": "134870"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401914101",
       "uid": "sportsdb-scraped-espn-401914101@makeics.local",
       "source": "lib/data/sports/supplemental/134862.json",
