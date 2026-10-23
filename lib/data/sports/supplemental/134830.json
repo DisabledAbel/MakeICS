@@ -1,26 +1,8 @@
 {
   "teamId": "134830",
   "teamName": "Boston Bruins",
-  "updatedAt": "2026-10-21T04:59:36.209Z",
+  "updatedAt": "2026-10-23T05:02:06.063Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020154",
-      "strEvent": "Boston Bruins vs Nashville Predators",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Nashville Predators",
-      "dateEvent": "2026-10-22",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-22T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NESN, SCRIPPS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020154",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "134858"
-    },
     {
       "idEvent": "nhl-2026020170",
       "strEvent": "Boston Bruins vs San Jose Sharks",

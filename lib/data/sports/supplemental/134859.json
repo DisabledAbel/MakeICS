@@ -1,26 +1,8 @@
 {
   "teamId": "134859",
   "teamName": "St. Louis Blues",
-  "updatedAt": "2026-10-21T04:59:36.209Z",
+  "updatedAt": "2026-10-23T05:02:06.063Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020160",
-      "strEvent": "St. Louis Blues vs Vegas Golden Knights",
-      "strHomeTeam": "St. Louis Blues",
-      "strAwayTeam": "Vegas Golden Knights",
-      "dateEvent": "2026-10-22",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-23T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Enterprise Center",
-      "strStatus": "NS",
-      "strTVStation": "ABC32, BN+, SCRIPPS, STLNHL",
-      "updatedAt": "2026-10-13T14:22:30.078Z",
-      "source": "scraped",
-      "sourceEventId": "2026020160",
-      "idHomeTeam": "134859",
-      "idAwayTeam": "135913"
-    },
     {
       "idEvent": "nhl-2026020175",
       "strEvent": "St. Louis Blues vs Carolina Hurricanes",

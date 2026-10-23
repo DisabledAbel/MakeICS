@@ -1,26 +1,8 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-10-21T04:59:36.209Z",
+  "updatedAt": "2026-10-23T05:02:06.063Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020162",
-      "strEvent": "Calgary Flames vs Minnesota Wild",
-      "strHomeTeam": "Calgary Flames",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-10-22",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-23T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Saddledome",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, SN1, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020162",
-      "idHomeTeam": "134848",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020179",
       "strEvent": "Seattle Kraken vs Minnesota Wild",

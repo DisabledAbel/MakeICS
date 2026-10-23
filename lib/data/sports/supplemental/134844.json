@@ -1,26 +1,8 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-10-20T05:00:20.978Z",
+  "updatedAt": "2026-10-23T05:02:06.063Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020158",
-      "strEvent": "Pittsburgh Penguins vs Florida Panthers",
-      "strHomeTeam": "Pittsburgh Penguins",
-      "strAwayTeam": "Florida Panthers",
-      "dateEvent": "2026-10-22",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-22T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "PPG Paints Arena",
-      "strStatus": "NS",
-      "strTVStation": "SCRIPPS, SN, SN-PIT, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020158",
-      "idHomeTeam": "134844",
-      "idAwayTeam": "134833"
-    },
     {
       "idEvent": "nhl-2026020172",
       "strEvent": "Pittsburgh Penguins vs Nashville Predators",

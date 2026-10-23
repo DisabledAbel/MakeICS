@@ -1,26 +1,8 @@
 {
   "teamId": "134846",
   "teamName": "Anaheim Ducks",
-  "updatedAt": "2026-10-21T04:59:36.209Z",
+  "updatedAt": "2026-10-23T05:02:06.063Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020157",
-      "strEvent": "New Jersey Devils vs Anaheim Ducks",
-      "strHomeTeam": "New Jersey Devils",
-      "strAwayTeam": "Anaheim Ducks",
-      "dateEvent": "2026-10-22",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-22T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Prudential Center",
-      "strStatus": "NS",
-      "strTVStation": "FOXLA+, MSGSN, Prime Video",
-      "updatedAt": "2026-10-15T21:31:03.866Z",
-      "source": "scraped",
-      "sourceEventId": "2026020157",
-      "idHomeTeam": "134840",
-      "idAwayTeam": "134846"
-    },
     {
       "idEvent": "nhl-2026020168",
       "strEvent": "Philadelphia Flyers vs Anaheim Ducks",

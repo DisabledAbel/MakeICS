@@ -1,26 +1,8 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-10-20T05:00:20.978Z",
+  "updatedAt": "2026-10-23T05:02:06.063Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020164",
-      "strEvent": "Seattle Kraken vs Utah Mammoth",
-      "strHomeTeam": "Seattle Kraken",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-10-22",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-23T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Climate Pledge Arena",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020164",
-      "idHomeTeam": "140082",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020177",
       "strEvent": "Utah Mammoth vs Tampa Bay Lightning",

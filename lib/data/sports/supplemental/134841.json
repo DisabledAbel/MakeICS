@@ -1,26 +1,8 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-10-21T04:59:36.209Z",
+  "updatedAt": "2026-10-23T05:02:06.063Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020159",
-      "strEvent": "New York Islanders vs Los Angeles Kings",
-      "strHomeTeam": "New York Islanders",
-      "strAwayTeam": "Los Angeles Kings",
-      "dateEvent": "2026-10-22",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-22T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "UBS Arena",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020159",
-      "idHomeTeam": "134841",
-      "idAwayTeam": "134852"
-    },
     {
       "idEvent": "nhl-2026020181",
       "strEvent": "Dallas Stars vs New York Islanders",
