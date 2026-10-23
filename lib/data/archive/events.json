@@ -13963,6 +13963,52 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401909093",
+      "uid": "sportsdb-scraped-espn-401909093@makeics.local",
+      "source": "lib/data/sports/supplemental/134863.json",
+      "record": {
+        "idEvent": "scraped-espn-401909093",
+        "strEvent": "Philadelphia 76ers vs Cleveland Cavaliers",
+        "strHomeTeam": "Philadelphia 76ers",
+        "strAwayTeam": "Cleveland Cavaliers",
+        "dateEvent": "2026-10-22",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-10-22T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Xfinity Mobile Arena",
+        "strStatus": "NS",
+        "strTVStation": "ESPN",
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134863",
+        "idAwayTeam": "134871"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401909094",
+      "uid": "sportsdb-scraped-espn-401909094@makeics.local",
+      "source": "lib/data/sports/supplemental/134885.json",
+      "record": {
+        "idEvent": "scraped-espn-401909094",
+        "strEvent": "Oklahoma City Thunder vs Denver Nuggets",
+        "strHomeTeam": "Oklahoma City Thunder",
+        "strAwayTeam": "Denver Nuggets",
+        "dateEvent": "2026-10-22",
+        "strTime": "01:30:00",
+        "strTimestamp": "2026-10-23T01:30:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Paycom Center",
+        "strStatus": "NS",
+        "strTVStation": "ESPN",
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134887",
+        "idAwayTeam": "134885"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401909834",
       "uid": "sportsdb-scraped-espn-401909834@makeics.local",
       "source": "lib/data/sports/supplemental/134880.json",

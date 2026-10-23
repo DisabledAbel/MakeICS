@@ -1,25 +1,8 @@
 {
   "teamId": "134863",
   "teamName": "Philadelphia 76ers",
-  "updatedAt": "2026-10-22T03:25:05.748Z",
+  "updatedAt": "2026-10-23T03:30:13.196Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909093",
-      "strEvent": "Philadelphia 76ers vs Cleveland Cavaliers",
-      "strHomeTeam": "Philadelphia 76ers",
-      "strAwayTeam": "Cleveland Cavaliers",
-      "dateEvent": "2026-10-22",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-22T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134863",
-      "idAwayTeam": "134871"
-    },
     {
       "idEvent": "scraped-espn-401909855",
       "strEvent": "Philadelphia 76ers vs Milwaukee Bucks",

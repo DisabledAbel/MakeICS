@@ -1,25 +1,8 @@
 {
   "teamId": "134885",
   "teamName": "Denver Nuggets",
-  "updatedAt": "2026-10-22T03:25:05.748Z",
+  "updatedAt": "2026-10-23T03:30:13.196Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909094",
-      "strEvent": "Oklahoma City Thunder vs Denver Nuggets",
-      "strHomeTeam": "Oklahoma City Thunder",
-      "strAwayTeam": "Denver Nuggets",
-      "dateEvent": "2026-10-22",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-10-23T01:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Paycom Center",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134887",
-      "idAwayTeam": "134885"
-    },
     {
       "idEvent": "scraped-espn-401909859",
       "strEvent": "Denver Nuggets vs New Orleans Pelicans",
