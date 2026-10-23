@@ -1,7 +1,7 @@
 {
   "teamId": "134885",
   "teamName": "Denver Nuggets",
-  "updatedAt": "2026-10-23T03:30:13.196Z",
+  "updatedAt": "2026-10-23T16:30:53.088Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909859",
@@ -133,8 +133,8 @@
       "strLeague": "NBA",
       "strVenue": "Toyota Center (Houston)",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "ALT2/KTVD",
+      "updatedAt": "2026-10-23T16:30:53.088Z",
       "source": "scraped",
       "idHomeTeam": "134876",
       "idAwayTeam": "134885"
