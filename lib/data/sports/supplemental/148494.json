@@ -1,7 +1,7 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-10-23T05:02:06.063Z",
+  "updatedAt": "2026-10-23T21:30:31.165Z",
   "events": [
     {
       "idEvent": "nhl-2026020177",
@@ -1040,8 +1040,8 @@
       "strLeague": "NHL",
       "strVenue": "Lenovo Center",
       "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, Mammoth+, SN, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
+      "strTVStation": "CARNHL, HHN, Mammoth+, SN, SN360, Utah16",
+      "updatedAt": "2026-10-23T21:30:31.165Z",
       "source": "scraped",
       "sourceEventId": "2026021082",
       "idHomeTeam": "134838",
@@ -1148,8 +1148,8 @@
       "strLeague": "NHL",
       "strVenue": "Grand Casino Arena",
       "strStatus": "NS",
-      "strTVStation": "MINNHL, Mammoth+, SN, Utah16, Wild+",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
+      "strTVStation": "MINNHL, Mammoth+, Utah16, Wild+",
+      "updatedAt": "2026-10-23T21:30:31.165Z",
       "source": "scraped",
       "sourceEventId": "2026021186",
       "idHomeTeam": "134857",

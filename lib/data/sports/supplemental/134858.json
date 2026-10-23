@@ -1,7 +1,7 @@
 {
   "teamId": "134858",
   "teamName": "Nashville Predators",
-  "updatedAt": "2026-10-23T05:02:06.063Z",
+  "updatedAt": "2026-10-23T21:30:31.165Z",
   "events": [
     {
       "idEvent": "nhl-2026020172",
@@ -374,8 +374,8 @@
       "strLeague": "NHL",
       "strVenue": "Enterprise Center",
       "strStatus": "NS",
-      "strTVStation": "BN+, SCRIPPS, SN360, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "BN+, SCRIPPS, SN+, STLNHL",
+      "updatedAt": "2026-10-23T21:30:31.165Z",
       "source": "scraped",
       "sourceEventId": "2026020477",
       "idHomeTeam": "134859",

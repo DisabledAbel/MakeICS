@@ -1,7 +1,7 @@
 {
   "teamId": "134849",
   "teamName": "Edmonton Oilers",
-  "updatedAt": "2026-10-23T05:02:06.063Z",
+  "updatedAt": "2026-10-23T21:30:31.165Z",
   "events": [
     {
       "idEvent": "nhl-2026020176",
@@ -284,8 +284,8 @@
       "strLeague": "NHL",
       "strVenue": "Enterprise Center",
       "strStatus": "NS",
-      "strTVStation": "BN+, SN, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "BN+, SN1, SNW, STLNHL",
+      "updatedAt": "2026-10-23T21:30:31.165Z",
       "source": "scraped",
       "sourceEventId": "2026020375",
       "idHomeTeam": "134859",

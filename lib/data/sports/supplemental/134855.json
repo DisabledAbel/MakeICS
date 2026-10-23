@@ -1,7 +1,7 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-10-21T04:59:36.209Z",
+  "updatedAt": "2026-10-23T21:30:31.165Z",
   "events": [
     {
       "idEvent": "nhl-2026020167",
@@ -1022,8 +1022,8 @@
       "strLeague": "NHL",
       "strVenue": "Crypto.com Arena",
       "strStatus": "NS",
-      "strTVStation": "ABTV , ALT, SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "ABTV , ALT, SN, SN360, TVAS",
+      "updatedAt": "2026-10-23T21:30:31.165Z",
       "source": "scraped",
       "sourceEventId": "2026021084",
       "idHomeTeam": "134852",

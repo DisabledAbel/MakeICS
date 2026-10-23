@@ -1,7 +1,7 @@
 {
   "teamId": "134846",
   "teamName": "Anaheim Ducks",
-  "updatedAt": "2026-10-23T05:02:06.063Z",
+  "updatedAt": "2026-10-23T21:30:31.165Z",
   "events": [
     {
       "idEvent": "nhl-2026020168",
@@ -1112,8 +1112,8 @@
       "strLeague": "NHL",
       "strVenue": "United Center",
       "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN, SN1, TNT, TVAS, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "HBO MAX, SN, SN360, TNT, TVAS, truTV",
+      "updatedAt": "2026-10-23T21:30:31.165Z",
       "source": "scraped",
       "sourceEventId": "2026021135",
       "idHomeTeam": "134854",
