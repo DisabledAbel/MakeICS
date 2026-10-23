@@ -20,7 +20,7 @@
     "verifiedAt": "2026-09-23T17:47:29.836Z"
   },
   "Outlander: Blood of My Blood-2-10": {
-    "airdate": "2026-11-20",
+    "airdate": "2026-11-27",
     "name": "Twelfth Night",
     "verifiedAt": "2026-09-23T17:47:32.476Z"
   },
@@ -50,7 +50,7 @@
     "verifiedAt": "2026-10-10T17:44:22.231Z"
   },
   "The Rainmaker-2-10": {
-    "airdate": "2026-12-18",
+    "airdate": "2026-12-25",
     "name": "Episode #2.10",
     "verifiedAt": "2026-10-10T17:44:24.669Z"
   },
@@ -94,13 +94,8 @@
     "name": "Episode #2.8",
     "verifiedAt": "2026-10-15T17:41:46.369Z"
   },
-  "Special Forces: World's Toughest Test-5-5": {
-    "airdate": "2026-10-22",
-    "name": "Grit",
-    "verifiedAt": "2026-10-16T17:13:45.804Z"
-  },
   "Studio C-23-2": {
-    "airdate": "2026-10-26",
+    "airdate": "2026-10-29",
     "name": "Swiss Polka Demon Hunters",
     "verifiedAt": "2026-10-16T17:14:52.935Z"
   },
@@ -119,18 +114,13 @@
     "name": "Final Countdown to War",
     "verifiedAt": "2026-10-18T16:23:31.181Z"
   },
-  "Let's Make a Deal-18-24": {
-    "airdate": "2026-10-22",
-    "name": "Episode #18.4",
-    "verifiedAt": "2026-10-18T16:25:18.883Z"
-  },
   "WWE Friday Night SmackDown-27-43": {
-    "airdate": "2026-10-23",
+    "airdate": "2025-10-24",
     "name": "Storm of Deceit",
     "verifiedAt": "2026-10-19T19:03:47.466Z"
   },
   "WWE Friday Night SmackDown-27-45": {
-    "airdate": "2026-11-06",
+    "airdate": "2025-11-07",
     "name": "The Scottish Exile",
     "verifiedAt": "2026-10-19T19:03:52.532Z"
   },
@@ -165,17 +155,17 @@
     "verifiedAt": "2026-10-20T17:51:21.676Z"
   },
   "WWE Friday Night SmackDown-27-49": {
-    "airdate": "2026-12-04",
+    "airdate": "2025-12-05",
     "name": "Survivor Series 2025 Fallout",
     "verifiedAt": "2026-10-21T17:56:09.364Z"
   },
   "Get Jiro-1-7": {
-    "airdate": "2026-11-08",
+    "airdate": "2026-11-07",
     "name": "Cage Free",
     "verifiedAt": "2026-10-21T17:58:38.027Z"
   },
   "Get Jiro-1-8": {
-    "airdate": "2026-11-15",
+    "airdate": "2026-11-14",
     "name": "Your Guests Have Arrived",
     "verifiedAt": "2026-10-21T17:58:40.471Z"
   },
@@ -185,7 +175,7 @@
     "verifiedAt": "2026-10-21T17:58:42.901Z"
   },
   "Get Jiro-1-10": {
-    "airdate": "2026-11-29",
+    "airdate": "2026-11-28",
     "name": "Gochisousama",
     "verifiedAt": "2026-10-21T17:58:45.471Z"
   },
@@ -203,5 +193,95 @@
     "airdate": "2026-11-25",
     "name": "Episode #2.10",
     "verifiedAt": "2026-10-22T18:06:23.036Z"
+  },
+  "The Patrick Star Show-6-1": {
+    "airdate": "2026-10-12",
+    "name": "Scary Tales",
+    "verifiedAt": "2026-10-23T17:44:57.738Z"
+  },
+  "WWE Friday Night SmackDown-27-44": {
+    "airdate": "2025-10-31",
+    "name": "Signed, Sealed, Smashed",
+    "verifiedAt": "2026-10-23T17:45:03.373Z"
+  },
+  "WWE Friday Night SmackDown-27-46": {
+    "airdate": "2025-11-14",
+    "name": "Vision of Vengeance",
+    "verifiedAt": "2026-10-23T17:45:08.570Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-10-23T17:45:18.484Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2026-01-02",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-10-23T17:45:20.957Z"
+  },
+  "Crossroad Springs-2-7": {
+    "airdate": "2026-10-15",
+    "name": "Waiting at the Stations",
+    "verifiedAt": "2026-10-23T17:46:02.240Z"
+  },
+  "The Real Housewives of New York City-16-8": {
+    "airdate": "2026-09-08",
+    "name": "The Price of Perfection",
+    "verifiedAt": "2026-10-23T17:46:06.468Z"
+  },
+  "The Drop: A Snowfall Saga-1-8": {
+    "airdate": "2026-09-08",
+    "name": "Click Pop",
+    "verifiedAt": "2026-10-23T17:46:09.232Z"
+  },
+  "Tyler Perry's Assisted Living-7-8": {
+    "airdate": "2026-09-08",
+    "name": "Bedside Man",
+    "verifiedAt": "2026-10-23T17:46:12.381Z"
+  },
+  "Love & Marriage: Huntsville-12-12": {
+    "airdate": "2026-09-12",
+    "name": "A New Era",
+    "verifiedAt": "2026-10-23T17:46:16.297Z"
+  },
+  "NOVA-53-16": {
+    "airdate": "2026-11-04",
+    "name": "The Battle to Breathe",
+    "verifiedAt": "2026-10-23T17:46:23.780Z"
+  },
+  "48 Hours-39-3": {
+    "airdate": "2025-10-11",
+    "name": "A Death in the Stairwell",
+    "verifiedAt": "2026-10-23T17:47:08.228Z"
+  },
+  "48 Hours-39-4": {
+    "airdate": "2025-10-18",
+    "name": "My Uncle Joe's Murder",
+    "verifiedAt": "2026-10-23T17:47:10.694Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-4": {
+    "airdate": "2026-10-07",
+    "name": "Locked & Loaded",
+    "verifiedAt": "2026-10-23T17:47:35.455Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-5": {
+    "airdate": "2026-10-07",
+    "name": "A Big Win",
+    "verifiedAt": "2026-10-23T17:47:37.921Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-6": {
+    "airdate": "2026-10-07",
+    "name": "Winter's Reckoning",
+    "verifiedAt": "2026-10-23T17:47:40.442Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-7": {
+    "airdate": "2026-10-07",
+    "name": "Born to Run",
+    "verifiedAt": "2026-10-23T17:47:42.900Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-8": {
+    "airdate": "2026-11-24",
+    "name": "Building the Dream",
+    "verifiedAt": "2026-10-23T17:47:45.409Z"
   }
 }
