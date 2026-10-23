@@ -649,6 +649,21 @@
       "source": "scraped"
     },
     {
+      "idEvent": "scraped-864127",
+      "strEvent": "Eugene Emeralds vs Tri-City Dust Devils",
+      "strHomeTeam": "Eugene Emeralds",
+      "strAwayTeam": "Tri-City Dust Devils",
+      "dateEvent": "2026-05-22",
+      "strTime": "00:15:00",
+      "strTimestamp": "2027-05-19T00:15:00Z",
+      "strLeague": "Northwest League",
+      "strVenue": "PK Park",
+      "strStatus": "Scheduled",
+      "strTVStation": null,
+      "updatedAt": null,
+      "source": "scraped"
+    },
+    {
       "idEvent": "scraped-819357",
       "strEvent": "Everett AquaSox vs Tri-City Dust Devils",
       "strHomeTeam": "Everett AquaSox",
