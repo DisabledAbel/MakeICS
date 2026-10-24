@@ -1,26 +1,8 @@
 {
   "teamId": "134836",
   "teamName": "Tampa Bay Lightning",
-  "updatedAt": "2026-10-23T21:30:31.165Z",
+  "updatedAt": "2026-10-24T04:46:55.347Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020167",
-      "strEvent": "Colorado Avalanche vs Tampa Bay Lightning",
-      "strHomeTeam": "Colorado Avalanche",
-      "strAwayTeam": "Tampa Bay Lightning",
-      "dateEvent": "2026-10-23",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-24T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "ALT, SN360, TVAS, The Spot",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020167",
-      "idHomeTeam": "134855",
-      "idAwayTeam": "134836"
-    },
     {
       "idEvent": "nhl-2026020177",
       "strEvent": "Utah Mammoth vs Tampa Bay Lightning",
