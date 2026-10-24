@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T09:46:37.164Z",
+  "generatedAt": "2026-10-24T09:20:03.351Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5800,20 +5800,20 @@
       ],
       "people": [
         {
+          "id": "nm8572893",
+          "name": "Yaakov Amidror"
+        },
+        {
           "id": "nm15678815",
           "name": "David Barnea"
         },
         {
+          "id": "nm19046648",
+          "name": "Eyal Tsir Cohen"
+        },
+        {
           "id": "nm16536951",
           "name": "Ori Gordin"
-        },
-        {
-          "id": "nm3486001",
-          "name": "Matthew Levitt"
-        },
-        {
-          "id": "nm1386592",
-          "name": "Benjamin Netanyahu"
         }
       ],
       "label": "Oct 30, 2026"
@@ -7546,20 +7546,20 @@
       ],
       "people": [
         {
-          "id": "nm0007113",
-          "name": "Nana Patekar"
-        },
-        {
           "id": "nm14242752",
           "name": "Aneet Padda"
         },
         {
-          "id": "nm6946196",
-          "name": "Vishal Jethwa"
+          "id": "nm0007113",
+          "name": "Nana Patekar"
         },
         {
-          "id": "nm1277547",
-          "name": "Vineet Kumar Singh"
+          "id": "nm0084443",
+          "name": "Seema Biswas"
+        },
+        {
+          "id": "nm6946196",
+          "name": "Vishal Jethwa"
         }
       ],
       "label": "Dec 24, 2026"
@@ -9801,12 +9801,12 @@
           "name": "Theo James"
         },
         {
-          "id": "nm0000225",
-          "name": "Christian Slater"
-        },
-        {
           "id": "nm9475707",
           "name": "Hoyeon"
+        },
+        {
+          "id": "nm0000225",
+          "name": "Christian Slater"
         },
         {
           "id": "nm1928172",
@@ -9955,16 +9955,16 @@
           "name": "Emily Rudd"
         },
         {
+          "id": "nm0104114",
+          "name": "Richard Brake"
+        },
+        {
           "id": "nm2864252",
           "name": "Mason Gooding"
         },
         {
-          "id": "nm14771039",
-          "name": "Javaine Wakinski Dixon"
-        },
-        {
-          "id": "nm10333820",
-          "name": "Jake Zahradnik"
+          "id": "nm2063276",
+          "name": "Flula Borg"
         }
       ],
       "label": "Jul 16, 2027"
