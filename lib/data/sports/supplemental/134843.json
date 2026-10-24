@@ -1,26 +1,8 @@
 {
   "teamId": "134843",
   "teamName": "Philadelphia Flyers",
-  "updatedAt": "2026-10-23T21:30:31.165Z",
+  "updatedAt": "2026-10-24T20:57:27.213Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020168",
-      "strEvent": "Philadelphia Flyers vs Anaheim Ducks",
-      "strHomeTeam": "Philadelphia Flyers",
-      "strAwayTeam": "Anaheim Ducks",
-      "dateEvent": "2026-10-24",
-      "strTime": "17:00:00",
-      "strTimestamp": "2026-10-24T17:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "FOXLA+, NBCSP, NHLN, Prime Video, SN",
-      "updatedAt": "2026-10-15T21:31:03.866Z",
-      "source": "scraped",
-      "sourceEventId": "2026020168",
-      "idHomeTeam": "134843",
-      "idAwayTeam": "134846"
-    },
     {
       "idEvent": "nhl-2026020188",
       "strEvent": "Philadelphia Flyers vs Columbus Blue Jackets",

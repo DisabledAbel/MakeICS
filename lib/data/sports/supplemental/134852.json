@@ -1,26 +1,8 @@
 {
   "teamId": "134852",
   "teamName": "Los Angeles Kings",
-  "updatedAt": "2026-10-23T21:30:31.165Z",
+  "updatedAt": "2026-10-24T20:57:27.213Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020169",
-      "strEvent": "New Jersey Devils vs Los Angeles Kings",
-      "strHomeTeam": "New Jersey Devils",
-      "strAwayTeam": "Los Angeles Kings",
-      "dateEvent": "2026-10-24",
-      "strTime": "19:30:00",
-      "strTimestamp": "2026-10-24T19:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Prudential Center",
-      "strStatus": "NS",
-      "strTVStation": "ABTV , MSGSN, SN, SN1",
-      "updatedAt": "2026-10-23T21:30:31.165Z",
-      "source": "scraped",
-      "sourceEventId": "2026020169",
-      "idHomeTeam": "134840",
-      "idAwayTeam": "134852"
-    },
     {
       "idEvent": "nhl-2026020185",
       "strEvent": "New York Rangers vs Los Angeles Kings",
