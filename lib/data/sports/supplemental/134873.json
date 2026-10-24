@@ -1,25 +1,8 @@
 {
   "teamId": "134873",
   "teamName": "Indiana Pacers",
-  "updatedAt": "2026-10-22T03:25:05.748Z",
+  "updatedAt": "2026-10-24T03:24:33.756Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909844",
-      "strEvent": "Indiana Pacers vs Dallas Mavericks",
-      "strHomeTeam": "Indiana Pacers",
-      "strAwayTeam": "Dallas Mavericks",
-      "dateEvent": "2026-10-23",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-23T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Gainbridge Fieldhouse",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134873",
-      "idAwayTeam": "134875"
-    },
     {
       "idEvent": "scraped-espn-401909862",
       "strEvent": "Brooklyn Nets vs Indiana Pacers",

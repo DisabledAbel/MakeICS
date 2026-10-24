@@ -1,25 +1,8 @@
 {
   "teamId": "134889",
   "teamName": "Utah Jazz",
-  "updatedAt": "2026-10-22T03:25:05.748Z",
+  "updatedAt": "2026-10-24T03:24:33.756Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909849",
-      "strEvent": "Utah Jazz vs New Orleans Pelicans",
-      "strHomeTeam": "Utah Jazz",
-      "strAwayTeam": "New Orleans Pelicans",
-      "dateEvent": "2026-10-23",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-10-24T01:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Delta Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134889",
-      "idAwayTeam": "134878"
-    },
     {
       "idEvent": "scraped-espn-401909861",
       "strEvent": "Utah Jazz vs Los Angeles Lakers",

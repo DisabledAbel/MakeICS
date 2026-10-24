@@ -1,25 +1,8 @@
 {
   "teamId": "134867",
   "teamName": "Los Angeles Lakers",
-  "updatedAt": "2026-10-22T03:25:05.748Z",
+  "updatedAt": "2026-10-24T03:24:33.756Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909851",
-      "strEvent": "Los Angeles Lakers vs Los Angeles Clippers",
-      "strHomeTeam": "Los Angeles Lakers",
-      "strAwayTeam": "Los Angeles Clippers",
-      "dateEvent": "2026-10-23",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-24T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134867",
-      "idAwayTeam": "134866"
-    },
     {
       "idEvent": "scraped-espn-401909861",
       "strEvent": "Utah Jazz vs Los Angeles Lakers",

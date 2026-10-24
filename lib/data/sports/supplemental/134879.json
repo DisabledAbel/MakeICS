@@ -1,25 +1,8 @@
 {
   "teamId": "134879",
   "teamName": "San Antonio Spurs",
-  "updatedAt": "2026-10-22T11:12:29.193Z",
+  "updatedAt": "2026-10-24T03:24:33.756Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909096",
-      "strEvent": "San Antonio Spurs vs Houston Rockets",
-      "strHomeTeam": "San Antonio Spurs",
-      "strAwayTeam": "Houston Rockets",
-      "dateEvent": "2026-10-23",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-10-24T01:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Moody Center",
-      "strStatus": "NS",
-      "strTVStation": "Prime Video",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134879",
-      "idAwayTeam": "134876"
-    },
     {
       "idEvent": "scraped-espn-401909858",
       "strEvent": "Dallas Mavericks vs San Antonio Spurs",

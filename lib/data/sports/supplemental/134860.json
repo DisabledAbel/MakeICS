@@ -1,25 +1,8 @@
 {
   "teamId": "134860",
   "teamName": "Boston Celtics",
-  "updatedAt": "2026-10-22T03:25:05.748Z",
+  "updatedAt": "2026-10-24T03:24:33.756Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909095",
-      "strEvent": "Boston Celtics vs New York Knicks",
-      "strHomeTeam": "Boston Celtics",
-      "strAwayTeam": "New York Knicks",
-      "dateEvent": "2026-10-23",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-23T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "Prime Video",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134860",
-      "idAwayTeam": "134862"
-    },
     {
       "idEvent": "scraped-espn-401909870",
       "strEvent": "Boston Celtics vs Chicago Bulls",
