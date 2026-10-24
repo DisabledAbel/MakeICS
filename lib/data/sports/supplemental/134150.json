@@ -1,26 +1,8 @@
 {
   "teamId": "134150",
   "teamName": "CF Montréal",
-  "updatedAt": "2026-10-18T04:59:34.121Z",
+  "updatedAt": "2026-10-24T21:05:52.772Z",
   "events": [
-    {
-      "idEvent": "mls-761903",
-      "sourceEventId": "761903",
-      "strEvent": "CF Montréal vs Nashville SC",
-      "strHomeTeam": "CF Montréal",
-      "strAwayTeam": "Nashville SC",
-      "idHomeTeam": "134150",
-      "idAwayTeam": "137700",
-      "dateEvent": "2026-10-24",
-      "strTime": "17:30:00",
-      "strTimestamp": "2026-10-24T17:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Stade Saputo",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761907",
       "sourceEventId": "761907",

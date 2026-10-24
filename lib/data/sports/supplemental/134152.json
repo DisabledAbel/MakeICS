@@ -1,26 +1,8 @@
 {
   "teamId": "134152",
   "teamName": "Columbus Crew",
-  "updatedAt": "2026-10-19T05:07:15.491Z",
+  "updatedAt": "2026-10-24T21:05:52.772Z",
   "events": [
-    {
-      "idEvent": "mls-761890",
-      "sourceEventId": "761890",
-      "strEvent": "Columbus Crew vs Toronto FC",
-      "strHomeTeam": "Columbus Crew",
-      "strAwayTeam": "Toronto FC",
-      "idHomeTeam": "134152",
-      "idAwayTeam": "134148",
-      "dateEvent": "2026-10-24",
-      "strTime": "19:30:00",
-      "strTimestamp": "2026-10-24T19:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "ScottsMiracle-Gro Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761912",
       "sourceEventId": "761912",
