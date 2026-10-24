@@ -92939,6 +92939,742 @@
     },
     {
       "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt34140944/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt34140944/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 1,
+        "name": "Fight For the Fallen 2025: The Mother of All Simulcasts",
+        "airdate": "2025-01-01",
+        "summary": "The Death Riders versus Rated FTR. Jamie Hayter versus Julia Hart. The Hurt Syndicate versus The Acclaimed. Orange Cassidy versus Hangman Adam Page. Plus, Jeff Jarrett makes an announcement regarding his future.",
+        "url": "https://www.imdb.com/title/tt34140944/?ref_=ttep_ep_1",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35252221/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35252221/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 2,
+        "name": "Kenny Omega Returns",
+        "airdate": "2025-01-08",
+        "summary": "Kenny Omega returns. Casino Gauntlet match. Kris Statlander vs Willow Nightingale vs Toni Storm. Buddy Mathews vs Will Ospreay. Mark Briscoe vs Shelton Benjamin. MJF appears live.",
+        "url": "https://www.imdb.com/title/tt35252221/?ref_=ttep_ep_2",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35252230/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35252230/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 3,
+        "name": "Maximum Carnage",
+        "airdate": "2025-01-15",
+        "summary": "AEW World title: Jon Moxley vs Powerhouse Hobbs. Christian Cage vs Hook. Women's Casino Gauntlet. Kenny Omega vs Brian Cage.",
+        "url": "https://www.imdb.com/title/tt35252230/?ref_=ttep_ep_3",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35252234/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35252234/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 4,
+        "name": "Building a Future",
+        "airdate": "2025-01-22",
+        "summary": "AEW World Tag titles: Private Party vs Hurt Syndicate. Cope vs PAC. Julia Hart vs Jamie Hayter. Samoa Joe vs Nick Wayne. Will Ospreay, Kenny Omega face-to-face. AR Fox vs Swerve. Jeff Jerrett addresses last week.",
+        "url": "https://www.imdb.com/title/tt35252234/?ref_=ttep_ep_4",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35252235/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35252235/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 5,
+        "name": "Hell Is Just The Beginning",
+        "airdate": "2025-01-29",
+        "summary": "Jeff Jerrett vs Claudio Castagnoli. Will Ospreay vs Brian Cage. TBS title: Mercedes Moné vs Yuka Sakazaki. Wheeler Yuta vs Jay White. We hear from MJF and Mariah May.",
+        "url": "https://www.imdb.com/title/tt35252235/?ref_=ttep_ep_5",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35252237/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35252237/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 6,
+        "name": "A Hotlanta Night",
+        "airdate": "2025-02-05",
+        "summary": "Swerve vs Ricochet. Hounds of Hell vs Takeshita, Fletcher. Toni Storm vs Queen Aninata. We hear from Hangman Adam Page, MJF, Rated FTR.",
+        "url": "https://www.imdb.com/title/tt35252237/?ref_=ttep_ep_6",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35623376/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35623376/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 7,
+        "name": "Countdown to Grand Slam Australia",
+        "airdate": "2025-02-12",
+        "summary": "Tag titles: Hurt Syndicate vs Gunn Club. World Trio titles: Death Riders vs Adam Cole, O'Reilly, Roderick. Penelope Ford vs Kris Statlander. Hook, Samoa Joe, Shibata in action. We hear from Cope.",
+        "url": "https://www.imdb.com/title/tt35623376/?ref_=ttep_ep_7",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35623378/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35623378/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 8,
+        "name": "Grand Slam Australia Fallout",
+        "airdate": "2025-02-19",
+        "summary": "Kris Statlander vs Megan Bayne. Orange Cassidy vs Roderick Strong. Street Fight: Hobbs vs Big Bill. MJF, Hangman face-to-face. Hook, Samoa Joe, Shibata vs Christian, Nick Wayne, Kip Sabian.",
+        "url": "https://www.imdb.com/title/tt35623378/?ref_=ttep_ep_8",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35623379/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35623379/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 9,
+        "name": "The Road to AEW Revolution 2025 Begins",
+        "airdate": "2025-02-26",
+        "summary": "International title: Takeshita vs Orange Cassidy. Deonna Purrazzo vs Harley Cameron. Bounty match: Bryan Keith vs Will Ospreay. Daniel Garcia, FTR vs Adam Cole, Roderick Strong, Kyle O'Reilly.",
+        "url": "https://www.imdb.com/title/tt35623379/?ref_=ttep_ep_9",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35623383/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35623383/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 10,
+        "name": "Countdown to AEW Revolution 2025",
+        "airdate": "2025-03-05",
+        "summary": "Cope vs Wheeler Yuta. Okada, Ricochet vs Swerve, Brody King. Thunder Rosa, Statlander vs Megan Bayne, Penelope Fore. Hobbs, Ospreay, Briscoe, Cassidy vs Bryan Keith, Brian Cage, Lance Archer, Mark Davis.",
+        "url": "https://www.imdb.com/title/tt35623383/?ref_=ttep_ep_10",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35623385/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35623385/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 11,
+        "name": "AEW Revolution 2025 Fallout",
+        "airdate": "2025-03-12",
+        "summary": "Hechicero vs Orange Cassidy. Hobbs, Hologram vs Brian Cage, Dralístico. Willow Nightingale vs Penelope Ford. We hear from MJF, Kenny Omega, Will Ospreay.",
+        "url": "https://www.imdb.com/title/tt35623385/?ref_=ttep_ep_11",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35975101/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35975101/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 12,
+        "name": "Road to AEW Dynasty 2025 Begins",
+        "airdate": "2025-03-19",
+        "summary": "AEW World title: Moxley vs Cope. Megan Bayne vs Kris Statlander. Will Ospreay vs AR Fox. TBS title: Mercedes Moné vs Billie Starks.",
+        "url": "https://www.imdb.com/title/tt35975101/?ref_=ttep_ep_12",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35975102/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35975102/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 13,
+        "name": "Minecraft",
+        "airdate": "2025-03-26",
+        "summary": "Kenny Omega vs Blake Christian. Toni Storm, Thunder Rosa vs Megan Bayne, Penelope Ford. Brody King vs Kyle Fletcher. Mark Briscoe vs Takeshita. Rated FTR sit-down interview with Schiavone.",
+        "url": "https://www.imdb.com/title/tt35975102/?ref_=ttep_ep_13",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35975103/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35975103/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 14,
+        "name": "Countdown to AEW Dynasty 2025",
+        "airdate": "2025-04-02",
+        "summary": "Cope versus Claudio Castagnoli. Toni Storm versus Penelope Ford. Jon Moxley and Marina Shafir versus Swerve Strickland and Willow Nightingale. Plus, Will Ospreay returns.",
+        "url": "https://www.imdb.com/title/tt35975103/?ref_=ttep_ep_14",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35975105/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35975105/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 15,
+        "name": "AEW Dynasty 2025 Fallout",
+        "airdate": "2025-04-09",
+        "summary": "PAC vs Swerve. Kris Statlander vs Thunder Rosa. Moxley vs Shibata. Death Riders vs The OPPS. Mile Bailey, Kyle Fletcher, Kevin Knight, Mark Briscoe vs Ricochet, Lio Rush, Action Andretti, Mortos. TV The with Learning Tree.",
+        "url": "https://www.imdb.com/title/tt35975105/?ref_=ttep_ep_15",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35977884/?ref_=ttep_ep_16",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35977884/?ref_=ttep_ep_16@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 16,
+        "name": "Spring BreakThru",
+        "airdate": "2025-04-16",
+        "summary": "The Owen Hart Foundation Women's Tournament Semifinal 1: Mercedes Moné vs Athena. AEW World Trio titles: Death Riders vs The OPPs. Will Ospreay vs Takeshita. AEW World Tag titles: Hurt Syndicate vs GOA.",
+        "url": "https://www.imdb.com/title/tt35977884/?ref_=ttep_ep_16",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35977885/?ref_=ttep_ep_17",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35977885/?ref_=ttep_ep_17@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 17,
+        "name": "The Owen Hart Foundation Women's Tournament Final is Set",
+        "airdate": "2025-04-23",
+        "summary": "The Owen Hart Foundation Women's Tournament Semifinal 2: Kris Statlander vs. Jamie Hayter. FTR Returns. Young Bucks vs. Mike Bailey and Kevin Knight. Mark Briscoe vs. Ricochet.",
+        "url": "https://www.imdb.com/title/tt35977885/?ref_=ttep_ep_17",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt35977886/?ref_=ttep_ep_18",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35977886/?ref_=ttep_ep_18@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 18,
+        "name": "The Owen Hart Foundation Men's Tournament Final is Set",
+        "airdate": "2025-04-30",
+        "summary": "All Star 8 Man Tag. Kyle Fletcher versus \"Hangman\" Adam Page in an Owen Hart Tournament Semifinal Match. \"Timeless' Toni Storm versus Miyu Yamashita in a Championship Eliminator Match. We'll hear from the Hurt Syndicate. MJF will appear.",
+        "url": "https://www.imdb.com/title/tt35977886/?ref_=ttep_ep_18",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt36458450/?ref_=ttep_ep_19",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36458450/?ref_=ttep_ep_19@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 19,
+        "name": "Your Redemption, my Ascension",
+        "airdate": "2025-05-07",
+        "summary": "Samoa Joe vs. Claudio Castagnoli. AEW Continental Championship Eliminator - Okada vs Kevin Knight.",
+        "url": "https://www.imdb.com/title/tt36458450/?ref_=ttep_ep_19",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt36458453/?ref_=ttep_ep_20",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36458453/?ref_=ttep_ep_20@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 20,
+        "name": "Beach Break 2025",
+        "airdate": "2025-05-14",
+        "summary": "Jon Moxley defends the World Championship against Samoa Joe in a steel cage match.",
+        "url": "https://www.imdb.com/title/tt36458453/?ref_=ttep_ep_20",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt36458455/?ref_=ttep_ep_21",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36458455/?ref_=ttep_ep_21@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 21,
+        "name": "Countdown to Double or Nothing 2025",
+        "airdate": "2025-05-21",
+        "summary": "Tensions rise as rivals confront each other ahead of major matches. A high-stakes contract signing looms while exciting singles and trios action unfolds, featuring top stars from multiple promotions.",
+        "url": "https://www.imdb.com/title/tt36458455/?ref_=ttep_ep_21",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt36458456/?ref_=ttep_ep_22",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36458456/?ref_=ttep_ep_22@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 22,
+        "name": "AEW Double or Nothing 2025 Fallout",
+        "airdate": "2025-05-28",
+        "summary": "Adam Cole defends the TNT Championship against Kyle Fletcher. Mercedes Mone and Toni Storm Come Face-to-Face. Josh Alexander versus Brody King. Anna Jay and Harley Cameron versus Megan Bayne and Penelope Ford. A mixed trios match. We'll hear from \"Hangman\" Adam Page.",
+        "url": "https://www.imdb.com/title/tt36458456/?ref_=ttep_ep_22",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt36911094/?ref_=ttep_ep_23",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36911094/?ref_=ttep_ep_23@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 23,
+        "name": "Fyter Fest 2025 - Part 1",
+        "airdate": "2025-06-04",
+        "summary": "Kenny Omega defends the International Championship against three opponents. LFI faces Knight, Bailey and Komander. Moxley wrestles Briscoe. Storm and Shirakawa vs. Hart and Blue. Max Caster Challenge. The Hurt Syndicate will be present.",
+        "url": "https://www.imdb.com/title/tt36911094/?ref_=ttep_ep_23",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt36911095/?ref_=ttep_ep_24",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36911095/?ref_=ttep_ep_24@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 24,
+        "name": "Summer Blockbuster",
+        "airdate": "2025-06-11",
+        "summary": "Swerve Strickland vs Will Ospreay. Mistico vs Blake Christian. The Hurt Syndicate (Bobby Lashley, MJF and Shelton Benjamin) vs Jet Speed (Kevin Knight and Mike Bailey) and Mascara Dorada. TayJay (Anna Jay and Tay Melo) vs Megan Bayne and Penelope Ford.",
+        "url": "https://www.imdb.com/title/tt36911095/?ref_=ttep_ep_24",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt36911096/?ref_=ttep_ep_25",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36911096/?ref_=ttep_ep_25@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 25,
+        "name": "Grand Slam Mexico",
+        "airdate": "2025-06-18",
+        "summary": "MJF vs Mistico. Death Riders, Young Bucks Mortos vs The OPPs, Will Ospreay, Swerve. Dorada vs Ricochet vs Hologram vs Lio Rush. Mark Briscoe vs Okada. 14-Man Tag.",
+        "url": "https://www.imdb.com/title/tt36911096/?ref_=ttep_ep_25",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt36911097/?ref_=ttep_ep_26",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36911097/?ref_=ttep_ep_26@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 26,
+        "name": "Ambush",
+        "airdate": "2025-06-25",
+        "summary": "Hangman Adam Page versus the Beast Mortos. JetSpeed versus AR Fox and Ricochet. Will Ospreay and Swerve Strickland in tag team action. Two 4 ways for the #1 spots in the Casino Gauntlet. Kota Ibushi versus Trent Beretta. Toni Storm appears",
+        "url": "https://www.imdb.com/title/tt36911097/?ref_=ttep_ep_26",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt36911239/?ref_=ttep_ep_27",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36911239/?ref_=ttep_ep_27@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 27,
+        "name": "AEW Dynamite 300",
+        "airdate": "2025-07-02",
+        "summary": "Kazuchika Okada collides with Kota Ibushi; Mercedes Mone defends her TBS Title against Mina Shirakawa; Brody King, MJF, Anthony Bowens and AR Fox in a four way for the #2 spot in the Casino Gauntlet match at \"All In Texas\".",
+        "url": "https://www.imdb.com/title/tt36911239/?ref_=ttep_ep_27",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt36911241/?ref_=ttep_ep_28",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36911241/?ref_=ttep_ep_28@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 28,
+        "name": "Countdown to All In: Texas",
+        "airdate": "2025-07-09",
+        "summary": "Samoa Joe vs Wheeler Yuta. Megan Bayne vs Tay Melo vs Queen Aminata vs Thekla. Mercedes Moné, Toni Storm face-to-face. Briscoe, MJF have a talky-talk. 8-Man Tag.",
+        "url": "https://www.imdb.com/title/tt36911241/?ref_=ttep_ep_28",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt37455129/?ref_=ttep_ep_29",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37455129/?ref_=ttep_ep_29@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 29,
+        "name": "All In: Texas Fallout",
+        "airdate": "2025-07-16",
+        "summary": "Hangman, Briscoe Hobbs vs Death Riders. Toni Storm victory speech. Dorada vs Kyle Fletcher. Willow Nightingale vs Statlander vs Thekla vs Queen Aminata. Bandido, Jetspeed, Brody vs Young Bucks, Alexander, Hecicero.",
+        "url": "https://www.imdb.com/title/tt37455129/?ref_=ttep_ep_29",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt37455131/?ref_=ttep_ep_30",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37455131/?ref_=ttep_ep_30@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 30,
+        "name": "Shark Week",
+        "airdate": "2025-07-23",
+        "summary": "FTR vs Jetspeed. MJF appears live. Toni Storm vs Billie Starkz. We hear from Will Ospreay. Hechicero vs Swerve. Adam Page vs Wheeler Yuta.",
+        "url": "https://www.imdb.com/title/tt37455131/?ref_=ttep_ep_30",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt37455133/?ref_=ttep_ep_31",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37455133/?ref_=ttep_ep_31@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 31,
+        "name": "Hangman vs Mox",
+        "airdate": "2025-07-30",
+        "summary": "AEW World title: Hangman Adam Page vs Jon Moxley. Ricochet vs Mark Briscoe. MJF live. Outrunners vs Young Bucks. Toni Storm, Windsor vs Athena, Starkz.",
+        "url": "https://www.imdb.com/title/tt37455133/?ref_=ttep_ep_31",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt37455138/?ref_=ttep_ep_32",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37455138/?ref_=ttep_ep_32@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 32,
+        "name": "Grudge Match",
+        "airdate": "2025-08-06",
+        "summary": "Mark Briscoe finally gets his hands on MJF in a main event grudge match. The World Tag Team Title Eliminatior Tournament continues as the Young Bucks wrestle Brodido in the semifinals. Eight Belts Mercedes Mone appears live.",
+        "url": "https://www.imdb.com/title/tt37455138/?ref_=ttep_ep_32",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt37455141/?ref_=ttep_ep_33",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37455141/?ref_=ttep_ep_33@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 33,
+        "name": "Parking Lot Attack",
+        "airdate": "2025-08-13",
+        "summary": "AEW Dynamite returns to Cincinnati; Stokely collides with \"Rated R Superstar\" Cope; after \"Speedball\" Mike Bailey's battle last week with Jon Moxley, JetSpeed's Kevin Knight steps up to fight the former AEW World Champion.",
+        "url": "https://www.imdb.com/title/tt37455141/?ref_=ttep_ep_33",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt37676575/?ref_=ttep_ep_34",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37676575/?ref_=ttep_ep_34@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 34,
+        "name": "Countdown to Forbidden Door: London",
+        "airdate": "2025-08-20",
+        "summary": "Death Riders vs Hiroshi, Jetspeed. Athena, Moné vs Toni Storm, Windsor. Schiavone interviews Cope and Christian. We hear from Adam Page. FTR vs Brodido.",
+        "url": "https://www.imdb.com/title/tt37676575/?ref_=ttep_ep_34",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt37676580/?ref_=ttep_ep_35",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37676580/?ref_=ttep_ep_35@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 35,
+        "name": "Philadelphia Street Fight",
+        "airdate": "2025-08-27",
+        "summary": "Darby Allin faces Claudio Castagnoli in a Falls Count Anywhere Match from the 2300 Arena in Philadelphia. Kris Statlander and Harley Cameron battle Megan Bayne and Penelope Ford. Daniel Garcia steps up to fight the Death Rider's Jon Moxley",
+        "url": "https://www.imdb.com/title/tt37676580/?ref_=ttep_ep_35",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt38058154/?ref_=ttep_ep_40",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38058154/?ref_=ttep_ep_40@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 40,
+        "name": "6 Year Anniversary",
+        "airdate": "2025-10-01",
+        "summary": "AEW celebrates Dynamite's sixth anniversary. World Champion Adam Page joins Powerhouse Hobbs and Samoa Joe to face the Death Riders. Darby Allin and Kris Statlander battle Marina Shafir and Wheeler Yuta in a mixed tornado match.",
+        "url": "https://www.imdb.com/title/tt38058154/?ref_=ttep_ep_40",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt38058155/?ref_=ttep_ep_41",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38058155/?ref_=ttep_ep_41@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 41,
+        "name": "Title Tuesday 2025",
+        "airdate": "2025-10-07",
+        "summary": "Mercedes Mone holds an open challenge for her Championship. Jurassic Express returns to action for the first time since 2022. Brodido faces Okada and Takesh*ta. Hangman Page will be face-to-face with Samoa Joe. PAC battles Orange Cassidy.",
+        "url": "https://www.imdb.com/title/tt38058155/?ref_=ttep_ep_41",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt38516734/?ref_=ttep_ep_42",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38516734/?ref_=ttep_ep_42@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 42,
+        "name": "Last Words",
+        "airdate": "2025-10-15",
+        "summary": "World Trios title: The OPPS vs L.F.I. Jurassic Express, Omega vs Mark Davis, Hechicero, Josh Alexander. The Hurt Syndicate vs GOA. Megan Bayne vs Harley Cameron. Darby, Mox face-to-face. Orange Cassidy, Kyle O'Reilly vs Death Riders.",
+        "url": "https://www.imdb.com/title/tt38516734/?ref_=ttep_ep_42",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt38516737/?ref_=ttep_ep_43",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38516737/?ref_=ttep_ep_43@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 43,
+        "name": "WrestleDream 2025 Fallout",
+        "airdate": "2025-10-22",
+        "summary": "The OPPS vs Hurt Syndicate. Okada vs Bandido. Mercedes Moné celebration. 4-Way Women's Tag. Death Riders vs Conglomeration, Roderick. Jon Moxley vs Kyle O'Reilly. We hear from Darby Allin.",
+        "url": "https://www.imdb.com/title/tt38516737/?ref_=ttep_ep_43",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt38516740/?ref_=ttep_ep_44",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38516740/?ref_=ttep_ep_44@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 44,
+        "name": "Fright Night Dynamite 2025",
+        "airdate": "2025-10-29",
+        "summary": "Bobby Lashley versus Ricochet versus Samoa Joe versus Hook. FTR versus Young Bucks versus JetSpeed versus Jurassic Express. Hayter and Aminata versus Sisters of Sin. Jon Moxley versus Kyle O'Reilly. Darby and Orange versus Death Riders.",
+        "url": "https://www.imdb.com/title/tt38516740/?ref_=ttep_ep_44",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt38772207/?ref_=ttep_ep_45",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38772207/?ref_=ttep_ep_45@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 45,
+        "name": "Blood & Guts Advantage Battles",
+        "airdate": "2025-11-05",
+        "summary": "All Elite Wrestling returns to Houston as The Opps take on World Champion Adam Page, Eddie Kingston and Hook . The AEW Women's World Tag Team Title tournament continues.",
+        "url": "https://www.imdb.com/title/tt38772207/?ref_=ttep_ep_45",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt38772208/?ref_=ttep_ep_46",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38772208/?ref_=ttep_ep_46@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 46,
+        "name": "Blood & Guts 2025",
+        "airdate": "2025-11-12",
+        "summary": "It's time for Blood and Guts, live from Greensboro as the Death Riders fight Darby, Orange, Briscoe, Strong and O'Reilly; ten women will enter the double ring Blood and Guts cage as Mercedes Mone leads her side into battle.",
+        "url": "https://www.imdb.com/title/tt38772208/?ref_=ttep_ep_46",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt38772209/?ref_=ttep_ep_47",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38772209/?ref_=ttep_ep_47@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 47,
+        "name": "Countdown to AEW Full Gear 2025",
+        "airdate": "2025-11-19",
+        "summary": "Hangman Adam Page vs Shibata. Ricochet vs Bobby Lashley. Skyflight vs Young Bucks, Alexander. Kenny Omega returns.",
+        "url": "https://www.imdb.com/title/tt38772209/?ref_=ttep_ep_47",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt38772211/?ref_=ttep_ep_48",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38772211/?ref_=ttep_ep_48@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 48,
+        "name": "Thanksgiving Eve 2025",
+        "airdate": "2025-11-26",
+        "summary": "Fresh off the shocking events of AEW Full Gear, Dynamite arrives in Nashville on Thanksgiving Eve; The Opps are standing proud with Samoa Joe holding the World Championship; Babes of Wrath battle the Sisters of Sin.",
+        "url": "https://www.imdb.com/title/tt38772211/?ref_=ttep_ep_48",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt38895723/?ref_=ttep_ep_49",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38895723/?ref_=ttep_ep_49@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 49,
+        "name": "Death Riders Clash in Continental Classic",
+        "airdate": "2025-12-03",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt38895723/?ref_=ttep_ep_49",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt10691888:https://www.imdb.com/title/tt38895724/?ref_=ttep_ep_50",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38895724/?ref_=ttep_ep_50@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 7,
+        "number": 50,
+        "name": "Winter Is Coming 2025",
+        "airdate": "2025-12-10",
+        "summary": "World Champion Samoa Joe defends his belt against challenger Eddie Kingston; in the tournament finals, Babes of Wrath face the Timeless Love Bombs to crown the inaugural Women's Tag Team Champions.",
+        "url": "https://www.imdb.com/title/tt38895724/?ref_=ttep_ep_50",
+        "showId": "tt10691888",
+        "showName": "All Elite Wrestling: Dynamite"
+      }
+    },
+    {
+      "kind": "tv",
       "identity": "tv:tt1086191:https://www.imdb.com/title/tt3500514/?ref_=ttep_ep_2",
       "uid": "tvmaze-https://www.imdb.com/title/tt3500514/?ref_=ttep_ep_2@makeics.local",
       "source": "lib/data/tv/imdb-episodes.json",
@@ -96087,6 +96823,726 @@
         "url": "https://www.imdb.com/title/tt44047329/?ref_=ttep_ep_14",
         "showId": "tt27238424",
         "showName": "The Whole Story with Anderson Cooper"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt34134645/?ref_=ttep_ep_2",
+      "uid": "tvmaze-https://www.imdb.com/title/tt34134645/?ref_=ttep_ep_2@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 2,
+        "name": "Take The Reins",
+        "airdate": "2025-01-11",
+        "summary": "Adam Copeland vs Big Bill. TNT title: Daniel Garcia vs Shibata. Castagnoli, Yuta vs The Outrunners. Dax Harwood vs Chris Jericho. Mariah May vs Harley Cameron.",
+        "url": "https://www.imdb.com/title/tt34134645/?ref_=ttep_ep_2",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt34134652/?ref_=ttep_ep_3",
+      "uid": "tvmaze-https://www.imdb.com/title/tt34134652/?ref_=ttep_ep_3@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 3,
+        "name": "Maximum Carnage",
+        "airdate": "2025-01-18",
+        "summary": "Texas Death match: Hangman Adam Page vs Christopher Daniels. Continental title: Okada vs Ishii. Harley Cameron vs Julia Hart. Murder Machines vs Top Flight. 12-Man tag. Undisputed Kingdom vs Shane Taylor Promotions.",
+        "url": "https://www.imdb.com/title/tt34134652/?ref_=ttep_ep_3",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt34134654/?ref_=ttep_ep_1",
+      "uid": "tvmaze-https://www.imdb.com/title/tt34134654/?ref_=ttep_ep_1@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 1,
+        "name": "Retribution from an Old Friend",
+        "airdate": "2025-01-04",
+        "summary": "TNT title: Daniel Garcia vs Mark Briscoe. Rated FTR vs The Learning Tree. Deonna Purrazzo vs Toni Storm. World Tag titles: Private Party vs Lio Rush, Action Andretti. Jeff Jerrett in action.",
+        "url": "https://www.imdb.com/title/tt34134654/?ref_=ttep_ep_1",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt35252241/?ref_=ttep_ep_4",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35252241/?ref_=ttep_ep_4@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 4,
+        "name": "Homecoming",
+        "airdate": "2025-01-25",
+        "summary": "Internation title: Takeshita vs Shibata. Daniel Garcia, Daddy Magic, Cool Hand Ang vs Adam Cole, Kyle O'Reilly, Roderick Strong. Samoa Joe vs Nick Wayne. Okaka vs Komander. Marian May, Toni Storm face-to-face.",
+        "url": "https://www.imdb.com/title/tt35252241/?ref_=ttep_ep_4",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt35252242/?ref_=ttep_ep_5",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35252242/?ref_=ttep_ep_5@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 5,
+        "name": "Most Wanted",
+        "airdate": "2025-02-01",
+        "summary": "Mid-South Street Fight: FTR vs Death Riders. TNT title: Daniel Garcia vs Lee Moriarty vs Kyle O'Reilly. Samoa Joe, Hook vs Kip Sabian, Nick Wayne. Harley Cameron vs Taya Valkyrie. Megan Bayne Collision debut.",
+        "url": "https://www.imdb.com/title/tt35252242/?ref_=ttep_ep_5",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt35252243/?ref_=ttep_ep_6",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35252243/?ref_=ttep_ep_6@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 6,
+        "name": "Episode #3.6",
+        "airdate": "2025-02-08",
+        "summary": "Mark Briscoe vs Kyle Fletcher. Bandido vs Bryan Keith. Penelope Ford vs Thunder Rosa. Adam Cole, O'Reilly, Roderick vs Daniel Garcia, Daddy Magic, Cool Hand vs Shane Taylor Promotions. Dustin Rhodes in action.",
+        "url": "https://www.imdb.com/title/tt35252243/?ref_=ttep_ep_6",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt35623390/?ref_=ttep_ep_7",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35623390/?ref_=ttep_ep_7@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 7,
+        "name": "Episode #3.7",
+        "airdate": "2025-02-22",
+        "summary": "AEW Trio titles: Death Riders vs Daniel Garcia, Daddy Magic, Cool Ang. ROH World title: Jericho vs Bandido. Queen Aminata vs Julia Hart. Max Caster open challenge. We hear from Harley Cameron.",
+        "url": "https://www.imdb.com/title/tt35623390/?ref_=ttep_ep_7",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt35623391/?ref_=ttep_ep_8",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35623391/?ref_=ttep_ep_8@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 8,
+        "name": "Episode #3.8",
+        "airdate": "2025-03-01",
+        "summary": "TNT title: Daniel Garcia vs Adam Cole. FTR vs Roderick Strong, Kyle O'Reilly. Julia Hart vs Queen Aminata. Powerhouse Hobbs, Bandido vs Bryan Keith, Big Bill.",
+        "url": "https://www.imdb.com/title/tt35623391/?ref_=ttep_ep_8",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt35623393/?ref_=ttep_ep_9",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35623393/?ref_=ttep_ep_9@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 9,
+        "name": "Episode #3.9",
+        "airdate": "2025-03-08",
+        "summary": "Daniel Garcia defends the TNT Championship against Lee Moriarity. Serena Deeb versus Momo Watanabe. Kyle O'Reilly and Roderick Strong versus The Infantry. Hologram versus Dralistico. Premier Athletes versus The Outrunners. Plus, Harley Cameron and The Opps in action.",
+        "url": "https://www.imdb.com/title/tt35623393/?ref_=ttep_ep_9",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt35623395/?ref_=ttep_ep_10",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35623395/?ref_=ttep_ep_10@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 10,
+        "name": "Episode #3.10",
+        "airdate": "2025-03-15",
+        "summary": "Shibata vs Ricochet. Thunder Rose vs Megan Bayne. Mark Briscoe vs Mark Davis. Tip Flight, Hologram vs Shane Taylor Promotions. Powerhouse Hobbs in action. We hear from Swerve.",
+        "url": "https://www.imdb.com/title/tt35623395/?ref_=ttep_ep_10",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt35975114/?ref_=ttep_ep_11",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35975114/?ref_=ttep_ep_11@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 11,
+        "name": "Slam Dunk Saturday",
+        "airdate": "2025-03-22",
+        "summary": "Daniel Garcia defends the TNT Championship against Adam Cole. Julia Hart versus Queen Aminata. The Murder Machines and Konosuke Takeshita versus Powerhouse Hobbs, Mark Briscoe and Rocky Romero. Plus, a Max Caster Open Challenge.",
+        "url": "https://www.imdb.com/title/tt35975114/?ref_=ttep_ep_11",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt35975116/?ref_=ttep_ep_13",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35975116/?ref_=ttep_ep_13@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 13,
+        "name": "Episode #3.13",
+        "airdate": "2025-03-29",
+        "summary": "Jamie Hayter vs Queen Aminata. Jay White vs Kevin Knight. Wheeler Yuta vs Dax Harwood. Top Flight vs Big Bill, Bryan Keith. Toni Storm speaks.",
+        "url": "https://www.imdb.com/title/tt35975116/?ref_=ttep_ep_13",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt35975126/?ref_=ttep_ep_14",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35975126/?ref_=ttep_ep_14@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 14,
+        "name": "Episode #3.14",
+        "airdate": "2025-04-05",
+        "summary": "Cash Wheeler vs PAC. Mercedes Moné, Harley Cameron vs Athena, Julia Hart. Mike Bailey vs Dralístico. Top Flight vs CRU. Powerhouse Hobbs, Ishii vs Takeshita, Kyle Fletcher.",
+        "url": "https://www.imdb.com/title/tt35975126/?ref_=ttep_ep_14",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt35975131/?ref_=ttep_ep_15",
+      "uid": "tvmaze-https://www.imdb.com/title/tt35975131/?ref_=ttep_ep_15@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 15,
+        "name": "Episode #3.15",
+        "airdate": "2025-04-12",
+        "summary": "Jamie Hayter vs Billie Starkz. Brody King vs Takeshita. Harley Cameron vs Athena. We hear from Mercedes. FTR confronts the crowd.",
+        "url": "https://www.imdb.com/title/tt35975131/?ref_=ttep_ep_15",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt36255797/?ref_=ttep_ep_12",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36255797/?ref_=ttep_ep_12@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 12,
+        "name": "Slam Dunk Sunday",
+        "airdate": "2025-03-23",
+        "summary": "The Death Riders defend the Trios Championship against Top Flight and A.R. Fox. Komander and Hologram versus Dralistico and the Beast Mortos. Bandido versus Johnny TV. Plus, Harley Cameron in action.",
+        "url": "https://www.imdb.com/title/tt36255797/?ref_=ttep_ep_12",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt36458430/?ref_=ttep_ep_16",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36458430/?ref_=ttep_ep_16@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 16,
+        "name": "Spring BreakThru",
+        "airdate": "2025-04-17",
+        "summary": "Adam Cole TNT title Open Challenge. Mercedes Moné, Harley Cameron vs Kris Statlander, Julia Hart. ROH World title: Komander vs Nick Wayne. Megan Bayne in action. Lance Archer vs Kevin Knight.",
+        "url": "https://www.imdb.com/title/tt36458430/?ref_=ttep_ep_16",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt36458433/?ref_=ttep_ep_17",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36458433/?ref_=ttep_ep_17@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 17,
+        "name": "Playoff Palooza",
+        "airdate": "2025-04-26",
+        "summary": "FTR vs Paragon. ROH World title: Bandido vs Dralístico. Top Flight vs CRU. Swerve vs Blake Christian. AR Fox vs Rush. Anna Jay in action. Max Caster open challenge.",
+        "url": "https://www.imdb.com/title/tt36458433/?ref_=ttep_ep_17",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt36458436/?ref_=ttep_ep_18",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36458436/?ref_=ttep_ep_18@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 18,
+        "name": "Episode #3.18",
+        "airdate": "2025-05-03",
+        "summary": "2 out of 3 Falls: FTR vs Paragon. Toni Storm vs Lady Frost. Josh Alexander vs Brody King. Harley Cameron vs Megan Bayne. Guevara vs Kevin Knight vs Rush vs AR Fox.",
+        "url": "https://www.imdb.com/title/tt36458436/?ref_=ttep_ep_18",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt36458437/?ref_=ttep_ep_19",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36458437/?ref_=ttep_ep_19@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 19,
+        "name": "Episode #3.19",
+        "airdate": "2025-05-08",
+        "summary": "Live from Atlantic City: Champion Toni Storm takes on Lady Frost in a high-stakes women's match, while a brutal showdown looms between Josh Alexander and Brody King on TBS Saturday night.",
+        "url": "https://www.imdb.com/title/tt36458437/?ref_=ttep_ep_19",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt36458442/?ref_=ttep_ep_20",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36458442/?ref_=ttep_ep_20@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 20,
+        "name": "Beach Break 2025",
+        "airdate": "2025-05-17",
+        "summary": "Megan Bayne vs Anna Jay. Powerhouse Hobbs vs Yuta. Chicago Street Fight: Big Bill, Bryan Keith vs Gates of Agony. Guevara, Rhodes vs CRU. AR Fox vs Kyle Fletcher. Blake Christian vs Mike Bailey.",
+        "url": "https://www.imdb.com/title/tt36458442/?ref_=ttep_ep_20",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt36911243/?ref_=ttep_ep_21",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36911243/?ref_=ttep_ep_21@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 21,
+        "name": "Episode #3.21",
+        "airdate": "2025-05-22",
+        "summary": "Mercedes Mone defends her TBS Championship against Reyna Isis. Paragon versus Grizzled Young Veterans. Komander and Speedball Bailey versus Rush and Dralistico. Kyle Fletcher versus Jay Lethal. Josh Alexander versus AR Fox.",
+        "url": "https://www.imdb.com/title/tt36911243/?ref_=ttep_ep_21",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt36911244/?ref_=ttep_ep_22",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36911244/?ref_=ttep_ep_22@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 22,
+        "name": "Episode #3.22",
+        "airdate": "2025-05-31",
+        "summary": "Kazuchika Okada versus Anthony Bowens. Claudio Castagnoli versus Komander. Mascara Dorada versus Hechicero. The Don Callis Family versus Tomohiro Ishii and Paragon. Skye Blue versus Mina Shirakawa. La Faccion Ingobernable versus Top Flight and AR Fox. We'll hear from FTR. Plus, Gates of Agony in action.",
+        "url": "https://www.imdb.com/title/tt36911244/?ref_=ttep_ep_22",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt36911245/?ref_=ttep_ep_23",
+      "uid": "tvmaze-https://www.imdb.com/title/tt36911245/?ref_=ttep_ep_23@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 23,
+        "name": "Fyter Fest 2025 - Part 2",
+        "airdate": "2025-06-04",
+        "summary": "Headliner: Lance Archer, Josh Alexander and RPG Vice vs. Daniel Garcia and Paragon. Nick Wayne defends ROH TV title. Will Ospreay vs. Lio Rush. FTR vs Templario/Atlantis Jr. Hechicero and tag team vs Bandido/Outrunners. Debut of Thekla.",
+        "url": "https://www.imdb.com/title/tt36911245/?ref_=ttep_ep_23",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt37186221/?ref_=ttep_ep_24",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37186221/?ref_=ttep_ep_24@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 24,
+        "name": "Summer Blockbuster",
+        "airdate": "2025-06-11",
+        "summary": "Kyle Fletcher versus Anthony Bowens. Toni Storm versus Julia Hart. Mark Briscoe, Tomohiro Ishii and Willow Nightingale versus MxM Collection and Taya Valkyrie. Thekla versus Queen Aminata. Don Callis Family versus Paragon and Daniel Garcia",
+        "url": "https://www.imdb.com/title/tt37186221/?ref_=ttep_ep_24",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt37186222/?ref_=ttep_ep_25",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37186222/?ref_=ttep_ep_25@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 25,
+        "name": "Episode #3.25",
+        "airdate": "2025-06-21",
+        "summary": "Jon Moxley versus AR Fox. \"Timeless\" Toni Storm speaks live. Swerve Strickland versus Shane Taylor. All- Star Eight Woman Tag Team Match. All-Star Eight Man Tag Team Match. JetSpeed versus Gates of Agony.",
+        "url": "https://www.imdb.com/title/tt37186222/?ref_=ttep_ep_25",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt37186224/?ref_=ttep_ep_26",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37186224/?ref_=ttep_ep_26@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 26,
+        "name": "Episode #3.26",
+        "airdate": "2025-06-26",
+        "summary": "Adam Cole versus Josh Alexander. Nick Wayne and Christian Cage versus Bryan Keith and Big Bill. Kyle O'Reilly versus Kyle Fletcher. Queen Aminata versus Skye Blue. Templario and Brody King versus Hechicero and Rocky Romero.",
+        "url": "https://www.imdb.com/title/tt37186224/?ref_=ttep_ep_26",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt37186228/?ref_=ttep_ep_27",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37186228/?ref_=ttep_ep_27@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 27,
+        "name": "AEW Collision 100",
+        "airdate": "2025-07-05",
+        "summary": "FTR vs Outrunners. Kyle Fletcher vs Daniel Garcia. Storytime with Adam Cole. Rosa, Aminata, TayJay vs Thekla, Penelope Ford, Megan Bayne, Athena. Willow Nightingale, Max Caster in action.",
+        "url": "https://www.imdb.com/title/tt37186228/?ref_=ttep_ep_27",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt37186230/?ref_=ttep_ep_28",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37186230/?ref_=ttep_ep_28@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 28,
+        "name": "Episode #3.28",
+        "airdate": "2025-07-10",
+        "summary": "FTR and the Patriarchy versus the Outrunners and JetSpeed. Mistico versus the Beast Mortos. Katsuyori Shibata versus Gabe Kidd. Paragon versus the Don Callis Family. Plus, an eight woman tag team match.",
+        "url": "https://www.imdb.com/title/tt37186230/?ref_=ttep_ep_28",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt37455145/?ref_=ttep_ep_29",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37455145/?ref_=ttep_ep_29@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 29,
+        "name": "AEW Collision",
+        "airdate": "2025-07-19",
+        "summary": "Megan Bayne vs Tay Melo. 4-Way Tag. Ricochet vs AR Fox. We hear from TNT champ Dustin Rhodes. Alex Windsor vs Taya Valkyrie. Bandido, Jetspeed, Dorada vs Don Callis Family. Rush vs Shibata. Max Caster Open Challenge.",
+        "url": "https://www.imdb.com/title/tt37455145/?ref_=ttep_ep_29",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt37455147/?ref_=ttep_ep_30",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37455147/?ref_=ttep_ep_30@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 30,
+        "name": "Shark Week",
+        "airdate": "2025-07-26",
+        "summary": "Dustin Rhodes vs Lee Moriarty. Outrunners, Ishii, Hologram vs Hechicero, Lance Archer, Infantry. Triangle of Madness in action. Bang Bang Gang vs Big Bill, Bryan Keith.",
+        "url": "https://www.imdb.com/title/tt37455147/?ref_=ttep_ep_30",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt37455148/?ref_=ttep_ep_31",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37455148/?ref_=ttep_ep_31@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 31,
+        "name": "Chicago Street Fight",
+        "airdate": "2025-07-31",
+        "summary": "Dustin Rhodes defends the TNT Championship against Kyle Fletcher in a Chicago Street Fight. The AEW Eliminator Series continues to determine which team will challenge for the AEW World Tag Team Titles at Forbidden Door.",
+        "url": "https://www.imdb.com/title/tt37455148/?ref_=ttep_ep_31",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt37455160/?ref_=ttep_ep_32",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37455160/?ref_=ttep_ep_32@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 32,
+        "name": "Episode #3.32",
+        "airdate": "2025-08-09",
+        "summary": "Ishii vs Kyle Fletcher. Ricochet vs Juice Robinson. AR Fox vs Hechicero. Megan Bayne in action. FTR in action. Triangle of Madness vs Tay Melo, Queen Aminata, Willow Nightingale.",
+        "url": "https://www.imdb.com/title/tt37455160/?ref_=ttep_ep_32",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt37455163/?ref_=ttep_ep_33",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37455163/?ref_=ttep_ep_33@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 33,
+        "name": "Technical Spectacle",
+        "airdate": "2025-08-16",
+        "summary": "Jon Moxley and Wheeler Yuta collide with JetSpeed. Winner gets a title shot against Zack Sabre Jr at Forbidden Door in this Technical Spectacle: Hechicero versus Lee Moriarty versus Nigel McGuinness versus Daniel Garcia.",
+        "url": "https://www.imdb.com/title/tt37455163/?ref_=ttep_ep_33",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt37676619/?ref_=ttep_ep_34",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37676619/?ref_=ttep_ep_34@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 34,
+        "name": "Big Star Weekend",
+        "airdate": "2025-08-23",
+        "summary": "The Young Bucks versus Paragon. Konosuke Takesh*ta versus Tomohiro Ishii. Julia Hart and Skye Blue collide with Queen Aminata and Willow Nightingale. Hiromu Takahashi and Sky Flight versus the Don Callis Family.",
+        "url": "https://www.imdb.com/title/tt37676619/?ref_=ttep_ep_34",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt37676621/?ref_=ttep_ep_35",
+      "uid": "tvmaze-https://www.imdb.com/title/tt37676621/?ref_=ttep_ep_35@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 35,
+        "name": "Episode #3.35",
+        "airdate": "2025-08-30",
+        "summary": "Witness the aftermath from London's AEW x NJPW: Forbidden Door event as All Elite Wrestling makes it's Collision debut at the historic 2300 Arena in Philadelphia.",
+        "url": "https://www.imdb.com/title/tt37676621/?ref_=ttep_ep_35",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt38058159/?ref_=ttep_ep_41",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38058159/?ref_=ttep_ep_41@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 41,
+        "name": "Episode #3.41",
+        "airdate": "2025-10-04",
+        "summary": "Eddie Kingston vs Dralístico. Kevin Knight vs FTR. Jamie Hayter vs Anna Jay. Statlander, Toni Storm face-to-face. Death Riders vs Jay Lethal, Adam Priest, Tommy Billington.",
+        "url": "https://www.imdb.com/title/tt38058159/?ref_=ttep_ep_41",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt38534077/?ref_=ttep_ep_42",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38534077/?ref_=ttep_ep_42@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 42,
+        "name": "Homecoming 2025",
+        "airdate": "2025-10-11",
+        "summary": "Megan Bayne, FTR vs Willow, Kevin Knight, Speedball. Eddie Kingston vs Dralístico. TayJay in action. Bryan Keith, Big Bill vs Anthony Bowens, Max Caster.",
+        "url": "https://www.imdb.com/title/tt38534077/?ref_=ttep_ep_42",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt38534078/?ref_=ttep_ep_43",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38534078/?ref_=ttep_ep_43@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 43,
+        "name": "Episode #3.43",
+        "airdate": "2025-10-15",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt38534078/?ref_=ttep_ep_43",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt38534081/?ref_=ttep_ep_44",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38534081/?ref_=ttep_ep_44@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 44,
+        "name": "Saturday Tailgate Brawl: WrestleDream",
+        "airdate": "2025-10-18",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt38534081/?ref_=ttep_ep_44",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt38534085/?ref_=ttep_ep_45",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38534085/?ref_=ttep_ep_45@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 45,
+        "name": "Episode #3.45",
+        "airdate": "2025-10-25",
+        "summary": null,
+        "url": "https://www.imdb.com/title/tt38534085/?ref_=ttep_ep_45",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt38772215/?ref_=ttep_ep_46",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38772215/?ref_=ttep_ep_46@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 46,
+        "name": "Fright Night Collision",
+        "airdate": "2025-11-01",
+        "summary": "Mercedes Mone puts her CMLL World Women's Title on the line against Olympia; Don Callis tries to restore order in his family with Okada and Konosuke battling Caster and Bowens. Bandido defends his ROH World Title against Mascara Dorada.",
+        "url": "https://www.imdb.com/title/tt38772215/?ref_=ttep_ep_46",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt38772216/?ref_=ttep_ep_47",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38772216/?ref_=ttep_ep_47@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 47,
+        "name": "Episode #3.47",
+        "airdate": "2025-11-08",
+        "summary": "In a prelude to next week's Blood & Guts battles, competitors from the men's and women's sides collide to determine which teams receive the early advantage.",
+        "url": "https://www.imdb.com/title/tt38772216/?ref_=ttep_ep_47",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt38772217/?ref_=ttep_ep_48",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38772217/?ref_=ttep_ep_48@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 48,
+        "name": "Episode #3.48",
+        "airdate": "2025-11-15",
+        "summary": "FTR and LFI versus JetSpeed, Bandido and Juice Robinson. Kyle Fletcher defends the TNT Championship against Scorpio Sky. Jay Lethal, Tommy Billington and Adam Priest versus Death Riders. Mark Davis versus Mark Briscoe. Toni Storm live.",
+        "url": "https://www.imdb.com/title/tt38772217/?ref_=ttep_ep_48",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt38895705/?ref_=ttep_ep_49",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38895705/?ref_=ttep_ep_49@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 49,
+        "name": "Episode #3.49",
+        "airdate": "2025-11-19",
+        "summary": "Red Velvet versus Mercedes Mone for the ROH Women's TV Title. Kazuchika Okada versus Mascara Dorada. TayJay versus Megan Bayne and Marina Shafir.",
+        "url": "https://www.imdb.com/title/tt38895705/?ref_=ttep_ep_49",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
+      }
+    },
+    {
+      "kind": "tv",
+      "identity": "tv:tt27776045:https://www.imdb.com/title/tt38895706/?ref_=ttep_ep_50",
+      "uid": "tvmaze-https://www.imdb.com/title/tt38895706/?ref_=ttep_ep_50@makeics.local",
+      "source": "lib/data/tv/imdb-episodes.json",
+      "record": {
+        "season": 3,
+        "number": 50,
+        "name": "Saturday Tailgate Brawl: Full Gear",
+        "airdate": "2025-11-22",
+        "summary": "Full Gear Zero Hour.",
+        "url": "https://www.imdb.com/title/tt38895706/?ref_=ttep_ep_50",
+        "showId": "tt27776045",
+        "showName": "AEW: Collision"
       }
     },
     {
