@@ -18830,7 +18830,7 @@
           "number": 47,
           "name": "Episode #4.47",
           "airdate": "2026-10-24",
-          "summary": null,
+          "summary": "The Best-of-Five series between FTR and Motor City Machine Guns continues from Winston-Salem, North Carolina; Myron Reed looks to make a statement as he goes one-on-one against former AEW World Champion Swerve Strickland.",
           "url": "https://www.imdb.com/title/tt48730052/?ref_=ttep_ep_47"
         },
         {
@@ -55126,6 +55126,140 @@
           "airdate": "2025-08-02",
           "summary": "The Kitchen is putting a twist on burgers, from breakfast to dessert.",
           "url": "https://www.imdb.com/title/tt38128182/?ref_=ttep_ep_13"
+        }
+      ]
+    },
+    "tt4406178": {
+      "imdbId": "tt4406178",
+      "title": "The Gilded Age",
+      "episodes": [
+        {
+          "season": 4,
+          "number": 1,
+          "name": "Ring the Bells",
+          "airdate": "2026-11-01",
+          "summary": "Bertha faces Gladys's difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.",
+          "url": "https://www.imdb.com/title/tt37724043/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "name": "Episode #4.2",
+          "airdate": "2026-11-08",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt40729577/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "name": "Episode #4.3",
+          "airdate": "2026-11-15",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44687860/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "name": "Episode #4.4",
+          "airdate": "2026-11-22",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44687863/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "name": "Episode #4.5",
+          "airdate": "2026-11-29",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44687864/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "name": "Episode #4.6",
+          "airdate": "2026-12-06",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44687865/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "name": "Episode #4.7",
+          "airdate": "2026-12-13",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44687866/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "name": "Episode #4.8",
+          "airdate": "2026-12-20",
+          "summary": null,
+          "url": "https://www.imdb.com/title/tt44687868/?ref_=ttep_ep_8"
+        },
+        {
+          "season": 3,
+          "number": 1,
+          "name": "Who Is in Charge Here?",
+          "airdate": "2025-06-22",
+          "summary": "Chronicles the societal shifts in 1880s New York as old money clashes with new, igniting a fierce rivalry that exposes a period of immense upheaval and transformation.",
+          "url": "https://www.imdb.com/title/tt30523984/?ref_=ttep_ep_1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "name": "What the Papers Say",
+          "airdate": "2025-06-29",
+          "summary": "Despite their own squabbles, Agnes and Ada host the Scotts. Bertha and George clash over what's best for Gladys.",
+          "url": "https://www.imdb.com/title/tt35728374/?ref_=ttep_ep_2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "name": "Love Is Never Easy",
+          "airdate": "2025-07-06",
+          "summary": "While George enters tense negotiations, Larry and Jack meet with a potential investor. Later, the Scotts meets the Kirklands.",
+          "url": "https://www.imdb.com/title/tt35728375/?ref_=ttep_ep_3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "name": "Marriage Is a Gamble",
+          "airdate": "2025-07-13",
+          "summary": "Bertha deals with unwanted rumors in the press and the surprise arrival of her sister Monica.",
+          "url": "https://www.imdb.com/title/tt35728376/?ref_=ttep_ep_4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "name": "A Different World",
+          "airdate": "2025-07-20",
+          "summary": "While Gladys adjusts to her changed circumstances, Larry runs into a familiar face. Peggy gets an opportunity from an old colleague.",
+          "url": "https://www.imdb.com/title/tt34989717/?ref_=ttep_ep_5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "name": "If You Want to Cook an Omelette",
+          "airdate": "2025-07-27",
+          "summary": "Bertha helps Gladys stand up for herself. George attempts a bold business move. Peggy confides in Dr. Kirkland about her past.",
+          "url": "https://www.imdb.com/title/tt35728377/?ref_=ttep_ep_6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "name": "Ex-Communicated",
+          "airdate": "2025-08-03",
+          "summary": "After a scandalous book comes out, Mrs. Astor shares secrets with Bertha. Larry comes back with Arizona news but faces unsettling developments at home.",
+          "url": "https://www.imdb.com/title/tt36590093/?ref_=ttep_ep_7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "name": "My Mind Is Made Up",
+          "airdate": "2025-08-10",
+          "summary": "Despite Mrs. Astor's objections, Bertha finalizes the guest list for the ball - and ultimately has to face the consequences. Dr. Kirkland makes a decision about his future with Peggy.",
+          "url": "https://www.imdb.com/title/tt36590092/?ref_=ttep_ep_8"
         }
       ]
     }
