@@ -1,24 +1,10 @@
 {
   "teamId": "134944",
   "teamName": "New Orleans Saints",
-  "updatedAt": "2026-10-19T04:43:41.793Z",
+  "updatedAt": "2026-10-25T16:24:21.992Z",
   "generatedAt": "2026-07-18T06:13:33.285Z",
   "generateAt": "2026-07-18T06:13:33.285Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aad58d7d-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New Orleans Saints vs Pittsburgh Steelers",
-      "strHomeTeam": "New Orleans Saints",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-10-25",
-      "strTime": "13:30:00Z",
-      "strTimestamp": "2026-10-25T13:30:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Stade de France",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab381d58-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New Orleans Saints vs Cleveland Browns",
