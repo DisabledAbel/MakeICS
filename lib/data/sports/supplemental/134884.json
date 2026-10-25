@@ -1,7 +1,7 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-10-25T03:20:02.966Z",
+  "updatedAt": "2026-10-25T20:24:35.981Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909868",
@@ -422,8 +422,8 @@
       "strLeague": "NBA",
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-10-25T20:24:35.981Z",
       "source": "scraped",
       "idHomeTeam": "134884",
       "idAwayTeam": "134864"
@@ -439,8 +439,8 @@
       "strLeague": "NBA",
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-10-25T20:24:35.981Z",
       "source": "scraped",
       "idHomeTeam": "134884",
       "idAwayTeam": "134871"
