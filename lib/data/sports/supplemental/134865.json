@@ -1,25 +1,8 @@
 {
   "teamId": "134865",
   "teamName": "Golden State Warriors",
-  "updatedAt": "2026-10-24T03:24:33.756Z",
+  "updatedAt": "2026-10-25T03:20:02.966Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909860",
-      "strEvent": "Phoenix Suns vs Golden State Warriors",
-      "strHomeTeam": "Phoenix Suns",
-      "strAwayTeam": "Golden State Warriors",
-      "dateEvent": "2026-10-24",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-25T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Mortgage Matchup Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134868",
-      "idAwayTeam": "134865"
-    },
     {
       "idEvent": "scraped-espn-401909876",
       "strEvent": "Denver Nuggets vs Golden State Warriors",

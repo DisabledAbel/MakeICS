@@ -1,25 +1,8 @@
 {
   "teamId": "134870",
   "teamName": "Chicago Bulls",
-  "updatedAt": "2026-10-23T21:01:37.797Z",
+  "updatedAt": "2026-10-25T03:20:02.966Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909857",
-      "strEvent": "Chicago Bulls vs Washington Wizards",
-      "strHomeTeam": "Chicago Bulls",
-      "strAwayTeam": "Washington Wizards",
-      "dateEvent": "2026-10-24",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-25T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134870",
-      "idAwayTeam": "134884"
-    },
     {
       "idEvent": "scraped-espn-401909870",
       "strEvent": "Boston Celtics vs Chicago Bulls",

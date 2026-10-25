@@ -1,25 +1,8 @@
 {
   "teamId": "134885",
   "teamName": "Denver Nuggets",
-  "updatedAt": "2026-10-23T16:30:53.088Z",
+  "updatedAt": "2026-10-25T03:20:02.966Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909859",
-      "strEvent": "Denver Nuggets vs New Orleans Pelicans",
-      "strHomeTeam": "Denver Nuggets",
-      "strAwayTeam": "New Orleans Pelicans",
-      "dateEvent": "2026-10-24",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-25T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134885",
-      "idAwayTeam": "134878"
-    },
     {
       "idEvent": "scraped-espn-401909876",
       "strEvent": "Denver Nuggets vs Golden State Warriors",

@@ -1,25 +1,8 @@
 {
   "teamId": "134863",
   "teamName": "Philadelphia 76ers",
-  "updatedAt": "2026-10-23T03:30:13.196Z",
+  "updatedAt": "2026-10-25T03:20:02.966Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909855",
-      "strEvent": "Philadelphia 76ers vs Milwaukee Bucks",
-      "strHomeTeam": "Philadelphia 76ers",
-      "strAwayTeam": "Milwaukee Bucks",
-      "dateEvent": "2026-10-24",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-24T23:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134863",
-      "idAwayTeam": "134874"
-    },
     {
       "idEvent": "scraped-espn-401909866",
       "strEvent": "Philadelphia 76ers vs Detroit Pistons",

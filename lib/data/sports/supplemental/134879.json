@@ -1,25 +1,8 @@
 {
   "teamId": "134879",
   "teamName": "San Antonio Spurs",
-  "updatedAt": "2026-10-24T03:24:33.756Z",
+  "updatedAt": "2026-10-25T03:20:02.966Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909858",
-      "strEvent": "Dallas Mavericks vs San Antonio Spurs",
-      "strHomeTeam": "Dallas Mavericks",
-      "strAwayTeam": "San Antonio Spurs",
-      "dateEvent": "2026-10-24",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-25T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134875",
-      "idAwayTeam": "134879"
-    },
     {
       "idEvent": "scraped-espn-401909879",
       "strEvent": "San Antonio Spurs vs Sacramento Kings",
