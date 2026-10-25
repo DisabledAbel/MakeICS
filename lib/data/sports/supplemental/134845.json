@@ -1,26 +1,8 @@
 {
   "teamId": "134845",
   "teamName": "Washington Capitals",
-  "updatedAt": "2026-10-21T04:59:36.209Z",
+  "updatedAt": "2026-10-25T04:54:30.512Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020173",
-      "strEvent": "Washington Capitals vs Buffalo Sabres",
-      "strHomeTeam": "Washington Capitals",
-      "strAwayTeam": "Buffalo Sabres",
-      "dateEvent": "2026-10-24",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-24T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT, MSG-B",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020173",
-      "idHomeTeam": "134845",
-      "idAwayTeam": "134831"
-    },
     {
       "idEvent": "nhl-2026020199",
       "strEvent": "Washington Capitals vs Philadelphia Flyers",

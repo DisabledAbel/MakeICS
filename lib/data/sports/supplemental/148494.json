@@ -1,26 +1,8 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-10-23T21:30:31.165Z",
+  "updatedAt": "2026-10-25T04:54:30.512Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020177",
-      "strEvent": "Utah Mammoth vs Tampa Bay Lightning",
-      "strHomeTeam": "Utah Mammoth",
-      "strAwayTeam": "Tampa Bay Lightning",
-      "dateEvent": "2026-10-24",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-25T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Delta Center",
-      "strStatus": "NS",
-      "strTVStation": "Mammoth+, The Spot, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
-      "source": "scraped",
-      "sourceEventId": "2026020177",
-      "idHomeTeam": "148494",
-      "idAwayTeam": "134836"
-    },
     {
       "idEvent": "nhl-2026020195",
       "strEvent": "Utah Mammoth vs Minnesota Wild",

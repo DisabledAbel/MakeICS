@@ -1,26 +1,8 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-10-23T05:02:06.063Z",
+  "updatedAt": "2026-10-25T04:54:30.512Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020171",
-      "strEvent": "Ottawa Senators vs New York Rangers",
-      "strHomeTeam": "Ottawa Senators",
-      "strAwayTeam": "New York Rangers",
-      "dateEvent": "2026-10-24",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-24T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canadian Tire Centre",
-      "strStatus": "NS",
-      "strTVStation": "MSG, NHLN, SNE, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020171",
-      "idHomeTeam": "134835",
-      "idAwayTeam": "134842"
-    },
     {
       "idEvent": "nhl-2026020196",
       "strEvent": "Vegas Golden Knights vs Ottawa Senators",

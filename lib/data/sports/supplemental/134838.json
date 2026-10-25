@@ -1,26 +1,8 @@
 {
   "teamId": "134838",
   "teamName": "Carolina Hurricanes",
-  "updatedAt": "2026-10-23T21:30:31.165Z",
+  "updatedAt": "2026-10-25T04:54:30.512Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020175",
-      "strEvent": "St. Louis Blues vs Carolina Hurricanes",
-      "strHomeTeam": "St. Louis Blues",
-      "strAwayTeam": "Carolina Hurricanes",
-      "dateEvent": "2026-10-24",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-24T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Enterprise Center",
-      "strStatus": "NS",
-      "strTVStation": "BN+, CARNHL, HHN, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020175",
-      "idHomeTeam": "134859",
-      "idAwayTeam": "134838"
-    },
     {
       "idEvent": "nhl-2026020189",
       "strEvent": "Carolina Hurricanes vs Boston Bruins",

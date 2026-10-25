@@ -1,26 +1,8 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-10-23T21:30:31.165Z",
+  "updatedAt": "2026-10-25T04:54:30.512Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020170",
-      "strEvent": "Boston Bruins vs San Jose Sharks",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "San Jose Sharks",
-      "dateEvent": "2026-10-24",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-24T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NBCSCA, NESN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020170",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "134853"
-    },
     {
       "idEvent": "nhl-2026020198",
       "strEvent": "San Jose Sharks vs Buffalo Sabres",
