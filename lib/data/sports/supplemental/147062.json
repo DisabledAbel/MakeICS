@@ -1,26 +1,8 @@
 {
   "teamId": "147062",
   "teamName": "St. Louis City SC",
-  "updatedAt": "2026-10-22T17:30:49.762Z",
+  "updatedAt": "2026-10-25T05:08:13.040Z",
   "events": [
-    {
-      "idEvent": "mls-761898",
-      "sourceEventId": "761898",
-      "strEvent": "Real Salt Lake vs St. Louis City SC",
-      "strHomeTeam": "Real Salt Lake",
-      "strAwayTeam": "St. Louis City SC",
-      "idHomeTeam": "134158",
-      "idAwayTeam": "147062",
-      "dateEvent": "2026-10-25",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-10-25T01:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "America First Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-22T17:30:49.762Z"
-    },
     {
       "idEvent": "mls-761915",
       "sourceEventId": "761915",

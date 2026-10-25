@@ -1,26 +1,8 @@
 {
   "teamId": "134630",
   "teamName": "New York City FC",
-  "updatedAt": "2026-10-19T13:49:28.677Z",
+  "updatedAt": "2026-10-25T05:08:13.040Z",
   "events": [
-    {
-      "idEvent": "mls-761892",
-      "sourceEventId": "761892",
-      "strEvent": "Orlando City vs New York City FC",
-      "strHomeTeam": "Orlando City",
-      "strAwayTeam": "New York City FC",
-      "idHomeTeam": "135292",
-      "idAwayTeam": "134630",
-      "dateEvent": "2026-10-24",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-24T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Inter&Co Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761905",
       "sourceEventId": "761905",

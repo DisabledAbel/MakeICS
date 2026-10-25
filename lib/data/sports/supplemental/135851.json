@@ -1,26 +1,8 @@
 {
   "teamId": "135851",
   "teamName": "Atlanta United",
-  "updatedAt": "2026-10-19T13:49:28.677Z",
+  "updatedAt": "2026-10-25T05:08:13.040Z",
   "events": [
-    {
-      "idEvent": "mls-761893",
-      "sourceEventId": "761893",
-      "strEvent": "Atlanta United vs Chicago Fire",
-      "strHomeTeam": "Atlanta United",
-      "strAwayTeam": "Chicago Fire",
-      "idHomeTeam": "135851",
-      "idAwayTeam": "134154",
-      "dateEvent": "2026-10-24",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-24T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Mercedes-Benz Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761905",
       "sourceEventId": "761905",

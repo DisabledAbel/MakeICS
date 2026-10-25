@@ -1,26 +1,8 @@
 {
   "teamId": "134149",
   "teamName": "Seattle Sounders",
-  "updatedAt": "2026-10-18T04:59:34.121Z",
+  "updatedAt": "2026-10-25T05:08:13.040Z",
   "events": [
-    {
-      "idEvent": "mls-761901",
-      "sourceEventId": "761901",
-      "strEvent": "San Diego FC vs Seattle Sounders",
-      "strHomeTeam": "San Diego FC",
-      "strAwayTeam": "Seattle Sounders",
-      "idHomeTeam": "150261",
-      "idAwayTeam": "134149",
-      "dateEvent": "2026-10-25",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-25T02:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Snapdragon Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761916",
       "sourceEventId": "761916",

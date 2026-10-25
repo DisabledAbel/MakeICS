@@ -1,26 +1,8 @@
 {
   "teamId": "135852",
   "teamName": "Minnesota United",
-  "updatedAt": "2026-10-17T20:51:09.941Z",
+  "updatedAt": "2026-10-25T05:08:13.040Z",
   "events": [
-    {
-      "idEvent": "mls-761896",
-      "sourceEventId": "761896",
-      "strEvent": "Houston Dynamo vs Minnesota United",
-      "strHomeTeam": "Houston Dynamo",
-      "strAwayTeam": "Minnesota United",
-      "idHomeTeam": "134144",
-      "idAwayTeam": "135852",
-      "dateEvent": "2026-10-25",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-25T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Shell Energy Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761913",
       "sourceEventId": "761913",

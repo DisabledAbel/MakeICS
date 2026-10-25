@@ -1,26 +1,8 @@
 {
   "teamId": "134156",
   "teamName": "New York Red Bulls",
-  "updatedAt": "2026-10-18T04:59:34.121Z",
+  "updatedAt": "2026-10-25T05:08:13.040Z",
   "events": [
-    {
-      "idEvent": "mls-761891",
-      "sourceEventId": "761891",
-      "strEvent": "New York Red Bulls vs Inter Miami",
-      "strHomeTeam": "New York Red Bulls",
-      "strAwayTeam": "Inter Miami",
-      "idHomeTeam": "134156",
-      "idAwayTeam": "137699",
-      "dateEvent": "2026-10-24",
-      "strTime": "21:30:00",
-      "strTimestamp": "2026-10-24T21:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Sports Illustrated Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761909",
       "sourceEventId": "761909",

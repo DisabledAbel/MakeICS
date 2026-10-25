@@ -1,26 +1,8 @@
 {
   "teamId": "140079",
   "teamName": "Austin FC",
-  "updatedAt": "2026-10-18T04:59:34.121Z",
+  "updatedAt": "2026-10-25T05:08:13.040Z",
   "events": [
-    {
-      "idEvent": "mls-761899",
-      "sourceEventId": "761899",
-      "strEvent": "Sporting Kansas City vs Austin FC",
-      "strHomeTeam": "Sporting Kansas City",
-      "strAwayTeam": "Austin FC",
-      "idHomeTeam": "134143",
-      "idAwayTeam": "140079",
-      "dateEvent": "2026-10-25",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-25T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Sporting Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761910",
       "sourceEventId": "761910",

@@ -1,26 +1,8 @@
 {
   "teamId": "140078",
   "teamName": "Charlotte FC",
-  "updatedAt": "2026-10-17T20:51:09.941Z",
+  "updatedAt": "2026-10-25T05:08:13.040Z",
   "events": [
-    {
-      "idEvent": "mls-761902",
-      "sourceEventId": "761902",
-      "strEvent": "Portland Timbers vs Charlotte FC",
-      "strHomeTeam": "Portland Timbers",
-      "strAwayTeam": "Charlotte FC",
-      "idHomeTeam": "134155",
-      "idAwayTeam": "140078",
-      "dateEvent": "2026-10-25",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-25T02:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Providence Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761907",
       "sourceEventId": "761907",

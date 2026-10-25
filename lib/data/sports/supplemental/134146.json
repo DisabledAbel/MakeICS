@@ -1,26 +1,8 @@
 {
   "teamId": "134146",
   "teamName": "FC Dallas",
-  "updatedAt": "2026-10-18T04:59:34.121Z",
+  "updatedAt": "2026-10-25T05:08:13.040Z",
   "events": [
-    {
-      "idEvent": "mls-761900",
-      "sourceEventId": "761900",
-      "strEvent": "FC Dallas vs San Jose Earthquakes",
-      "strHomeTeam": "FC Dallas",
-      "strAwayTeam": "San Jose Earthquakes",
-      "idHomeTeam": "134146",
-      "idAwayTeam": "134157",
-      "dateEvent": "2026-10-25",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-25T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Toyota Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761912",
       "sourceEventId": "761912",

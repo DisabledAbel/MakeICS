@@ -1,26 +1,8 @@
 {
   "teamId": "134147",
   "teamName": "Vancouver Whitecaps",
-  "updatedAt": "2026-10-22T17:30:49.762Z",
+  "updatedAt": "2026-10-25T05:08:13.040Z",
   "events": [
-    {
-      "idEvent": "mls-761897",
-      "sourceEventId": "761897",
-      "strEvent": "Colorado Rapids vs Vancouver Whitecaps",
-      "strHomeTeam": "Colorado Rapids",
-      "strAwayTeam": "Vancouver Whitecaps",
-      "idHomeTeam": "134794",
-      "idAwayTeam": "134147",
-      "dateEvent": "2026-10-25",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-10-25T01:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Dick's Sporting Goods Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-22T17:30:49.762Z"
-    },
     {
       "idEvent": "mls-761918",
       "sourceEventId": "761918",
