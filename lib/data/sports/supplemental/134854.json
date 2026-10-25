@@ -1,26 +1,8 @@
 {
   "teamId": "134854",
   "teamName": "Chicago Blackhawks",
-  "updatedAt": "2026-10-24T04:46:55.347Z",
+  "updatedAt": "2026-10-25T20:57:36.380Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020180",
-      "strEvent": "Chicago Blackhawks vs Florida Panthers",
-      "strHomeTeam": "Chicago Blackhawks",
-      "strAwayTeam": "Florida Panthers",
-      "dateEvent": "2026-10-25",
-      "strTime": "19:00:00",
-      "strTimestamp": "2026-10-25T19:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "CHSN, SCRIPPS, SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020180",
-      "idHomeTeam": "134854",
-      "idAwayTeam": "134833"
-    },
     {
       "idEvent": "nhl-2026020190",
       "strEvent": "Chicago Blackhawks vs Los Angeles Kings",
