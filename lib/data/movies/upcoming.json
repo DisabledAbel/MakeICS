@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:20:03.351Z",
+  "generatedAt": "2026-10-25T09:37:12.436Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -7473,6 +7473,36 @@
         }
       ],
       "label": "Dec 18, 2026"
+    },
+    {
+      "id": "tt42040029",
+      "title": "Spin Wars",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTViMGY3MzItZDM4MC00OTUyLWJmZjMtYWUzOTdkZTViZTZiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Tue, 22 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Sport"
+      ],
+      "people": [
+        {
+          "id": "nm7885108",
+          "name": "Mary Beth Barone"
+        },
+        {
+          "id": "nm0183698",
+          "name": "Katie Couric"
+        },
+        {
+          "id": "nm5946906",
+          "name": "Brandon Kyle Goodman"
+        },
+        {
+          "id": "nm0465736",
+          "name": "Jill Kargman"
+        }
+      ],
+      "label": "Dec 22, 2026"
     },
     {
       "id": "tt32557122",
