@@ -1,26 +1,8 @@
 {
   "teamId": "134858",
   "teamName": "Nashville Predators",
-  "updatedAt": "2026-10-25T04:54:30.512Z",
+  "updatedAt": "2026-10-26T04:58:09.690Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020183",
-      "strEvent": "Nashville Predators vs Colorado Avalanche",
-      "strHomeTeam": "Nashville Predators",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-10-25",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-26T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Bridgestone Arena",
-      "strStatus": "NS",
-      "strTVStation": "ALT, SCRIPPS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020183",
-      "idHomeTeam": "134858",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020192",
       "strEvent": "Nashville Predators vs New York Islanders",

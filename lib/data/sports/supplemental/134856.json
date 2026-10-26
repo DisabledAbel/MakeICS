@@ -1,26 +1,8 @@
 {
   "teamId": "134856",
   "teamName": "Dallas Stars",
-  "updatedAt": "2026-10-23T21:30:31.165Z",
+  "updatedAt": "2026-10-26T04:58:09.690Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020181",
-      "strEvent": "Dallas Stars vs New York Islanders",
-      "strHomeTeam": "Dallas Stars",
-      "strAwayTeam": "New York Islanders",
-      "dateEvent": "2026-10-25",
-      "strTime": "22:00:00",
-      "strTimestamp": "2026-10-25T22:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "MSGSN, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020181",
-      "idHomeTeam": "134856",
-      "idAwayTeam": "134841"
-    },
     {
       "idEvent": "nhl-2026020193",
       "strEvent": "Dallas Stars vs New Jersey Devils",

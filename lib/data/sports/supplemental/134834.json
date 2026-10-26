@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-10-24T04:46:55.347Z",
+  "updatedAt": "2026-10-26T04:58:09.690Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020182",
-      "strEvent": "Winnipeg Jets vs Montreal Canadiens",
-      "strHomeTeam": "Winnipeg Jets",
-      "strAwayTeam": "Montreal Canadiens",
-      "dateEvent": "2026-10-25",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-25T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Princess Auto Stadium",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN, TNT, TVAS, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020182",
-      "idHomeTeam": "134851",
-      "idAwayTeam": "134834"
-    },
     {
       "idEvent": "nhl-2026020191",
       "strEvent": "St. Louis Blues vs Montreal Canadiens",
