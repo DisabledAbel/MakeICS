@@ -1,26 +1,8 @@
 {
   "teamId": "134153",
   "teamName": "LA Galaxy",
-  "updatedAt": "2026-10-18T04:59:34.121Z",
+  "updatedAt": "2026-10-26T05:10:22.186Z",
   "events": [
-    {
-      "idEvent": "mls-761904",
-      "sourceEventId": "761904",
-      "strEvent": "Los Angeles FC vs LA Galaxy",
-      "strHomeTeam": "Los Angeles FC",
-      "strAwayTeam": "LA Galaxy",
-      "idHomeTeam": "136050",
-      "idAwayTeam": "134153",
-      "dateEvent": "2026-10-26",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-26T01:00:00Z",
-      "strLeague": "MLS",
-      "strVenue": "BMO Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761925",
       "sourceEventId": "761925",
