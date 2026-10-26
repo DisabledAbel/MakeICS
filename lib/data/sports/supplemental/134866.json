@@ -1,25 +1,8 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-10-24T03:24:33.756Z",
+  "updatedAt": "2026-10-26T03:21:49.102Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909865",
-      "strEvent": "Oklahoma City Thunder vs Los Angeles Clippers",
-      "strHomeTeam": "Oklahoma City Thunder",
-      "strAwayTeam": "Los Angeles Clippers",
-      "dateEvent": "2026-10-25",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-25T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Paycom Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134887",
-      "idAwayTeam": "134866"
-    },
     {
       "idEvent": "scraped-espn-401909892",
       "strEvent": "Los Angeles Clippers vs Los Angeles Lakers",

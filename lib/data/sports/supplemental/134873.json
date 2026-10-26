@@ -1,25 +1,8 @@
 {
   "teamId": "134873",
   "teamName": "Indiana Pacers",
-  "updatedAt": "2026-10-24T03:24:33.756Z",
+  "updatedAt": "2026-10-26T03:21:49.102Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909862",
-      "strEvent": "Brooklyn Nets vs Indiana Pacers",
-      "strHomeTeam": "Brooklyn Nets",
-      "strAwayTeam": "Indiana Pacers",
-      "dateEvent": "2026-10-25",
-      "strTime": "22:00:00",
-      "strTimestamp": "2026-10-25T22:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Barclays Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134861",
-      "idAwayTeam": "134873"
-    },
     {
       "idEvent": "scraped-espn-401909872",
       "strEvent": "Milwaukee Bucks vs Indiana Pacers",
