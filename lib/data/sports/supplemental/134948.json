@@ -1,24 +1,10 @@
 {
   "teamId": "134948",
   "teamName": "San Francisco 49ers",
-  "updatedAt": "2026-10-20T04:54:06.318Z",
+  "updatedAt": "2026-10-26T04:50:54.664Z",
   "generatedAt": "2026-07-18T06:13:33.288Z",
   "generateAt": "2026-07-18T06:13:33.288Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aad59092-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Atlanta Falcons vs San Francisco 49ers",
-      "strHomeTeam": "Atlanta Falcons",
-      "strAwayTeam": "San Francisco 49ers",
-      "dateEvent": "2026-10-25",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-25T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Mercedes-Benz Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab581766-4feb-11f1-abca-2c54536568a9",
       "strEvent": "San Francisco 49ers vs Las Vegas Raiders",

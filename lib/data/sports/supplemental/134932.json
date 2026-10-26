@@ -1,24 +1,10 @@
 {
   "teamId": "134932",
   "teamName": "Las Vegas Raiders",
-  "updatedAt": "2026-10-19T04:43:41.776Z",
+  "updatedAt": "2026-10-26T04:50:54.653Z",
   "generatedAt": "2026-07-18T06:13:33.271Z",
   "generateAt": "2026-07-18T06:13:33.271Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aaf700e5-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Las Vegas Raiders vs Los Angeles Rams",
-      "strHomeTeam": "Las Vegas Raiders",
-      "strAwayTeam": "Los Angeles Rams",
-      "dateEvent": "2026-10-25",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-25T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Allegiant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab1661ac-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New York Jets vs Las Vegas Raiders",

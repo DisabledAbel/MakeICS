@@ -1,24 +1,10 @@
 {
   "teamId": "134923",
   "teamName": "Cincinnati Bengals",
-  "updatedAt": "2026-10-20T04:54:06.296Z",
+  "updatedAt": "2026-10-26T04:50:54.640Z",
   "generatedAt": "2026-07-18T00:00:00.000Z",
   "generateAt": "2026-07-18T00:00:00.000Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aad594ee-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Baltimore Ravens vs Cincinnati Bengals",
-      "strHomeTeam": "Baltimore Ravens",
-      "strAwayTeam": "Cincinnati Bengals",
-      "dateEvent": "2026-10-25",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-25T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "M&T Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aaf71176-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cincinnati Bengals vs Tennessee Titans",

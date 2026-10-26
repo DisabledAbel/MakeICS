@@ -1,24 +1,10 @@
 {
   "teamId": "134939",
   "teamName": "Detroit Lions",
-  "updatedAt": "2026-10-12T06:01:37.013Z",
+  "updatedAt": "2026-10-26T04:50:54.658Z",
   "generatedAt": "2026-07-18T06:13:33.279Z",
   "generateAt": "2026-07-18T06:13:33.279Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aaf6fda2-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Detroit Lions vs Green Bay Packers",
-      "strHomeTeam": "Detroit Lions",
-      "strAwayTeam": "Green Bay Packers",
-      "dateEvent": "2026-10-25",
-      "strTime": "20:25:00Z",
-      "strTimestamp": "2026-10-25T20:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Ford Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab165aa8-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Detroit Lions vs Minnesota Vikings",

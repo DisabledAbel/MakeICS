@@ -1,24 +1,10 @@
 {
   "teamId": "134931",
   "teamName": "Kansas City Chiefs",
-  "updatedAt": "2026-10-19T04:43:41.776Z",
+  "updatedAt": "2026-10-26T04:50:54.651Z",
   "generatedAt": "2026-07-18T06:13:33.270Z",
   "generateAt": "2026-07-18T06:13:33.270Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aaf7040e-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Seattle Seahawks vs Kansas City Chiefs",
-      "strHomeTeam": "Seattle Seahawks",
-      "strAwayTeam": "Kansas City Chiefs",
-      "dateEvent": "2026-10-26",
-      "strTime": "00:20:00Z",
-      "strTimestamp": "2026-10-26T00:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lumen Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab166dc7-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Denver Broncos vs Kansas City Chiefs",

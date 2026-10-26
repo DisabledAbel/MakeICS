@@ -1,24 +1,10 @@
 {
   "teamId": "134926",
   "teamName": "Houston Texans",
-  "updatedAt": "2026-10-18T15:54:28.059Z",
+  "updatedAt": "2026-10-26T04:50:54.642Z",
   "generatedAt": "2026-07-18T06:13:33.263Z",
   "generateAt": "2026-07-18T06:13:33.263Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aad59e95-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Houston Texans vs New York Giants",
-      "strHomeTeam": "Houston Texans",
-      "strAwayTeam": "New York Giants",
-      "dateEvent": "2026-10-25",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-25T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Reliant Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab580cb7-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Los Angeles Chargers vs Houston Texans",

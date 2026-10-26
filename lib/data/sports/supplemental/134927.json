@@ -1,24 +1,10 @@
 {
   "teamId": "134927",
   "teamName": "Indianapolis Colts",
-  "updatedAt": "2026-10-19T04:43:41.770Z",
+  "updatedAt": "2026-10-26T04:50:54.646Z",
   "generatedAt": "2026-07-18T06:13:33.265Z",
   "generateAt": "2026-07-18T06:13:33.265Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aad5a2ac-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Minnesota Vikings vs Indianapolis Colts",
-      "strHomeTeam": "Minnesota Vikings",
-      "strAwayTeam": "Indianapolis Colts",
-      "dateEvent": "2026-10-25",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-25T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "U.S. Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab165e6a-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Jacksonville Jaguars vs Indianapolis Colts",

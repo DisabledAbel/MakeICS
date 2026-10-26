@@ -1,24 +1,10 @@
 {
   "teamId": "134949",
   "teamName": "Seattle Seahawks",
-  "updatedAt": "2026-10-16T04:35:00.657Z",
+  "updatedAt": "2026-10-26T04:50:54.665Z",
   "generatedAt": "2026-07-18T06:13:33.289Z",
   "generateAt": "2026-07-18T06:13:33.289Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aaf7040e-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Seattle Seahawks vs Kansas City Chiefs",
-      "strHomeTeam": "Seattle Seahawks",
-      "strAwayTeam": "Kansas City Chiefs",
-      "dateEvent": "2026-10-26",
-      "strTime": "00:20:00Z",
-      "strTimestamp": "2026-10-26T00:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lumen Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab37feaa-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Seattle Seahawks vs Chicago Bears",

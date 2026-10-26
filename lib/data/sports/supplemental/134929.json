@@ -1,24 +1,10 @@
 {
   "teamId": "134929",
   "teamName": "Tennessee Titans",
-  "updatedAt": "2026-10-19T04:43:41.771Z",
+  "updatedAt": "2026-10-26T04:50:54.649Z",
   "generatedAt": "2026-07-18T06:13:33.267Z",
   "generateAt": "2026-07-18T06:13:33.267Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aaf6f621-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Tennessee Titans vs Cleveland Browns",
-      "strHomeTeam": "Tennessee Titans",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-10-25",
-      "strTime": "17:00:00Z",
-      "strTimestamp": "2026-10-25T17:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Nissan Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-aaf71176-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cincinnati Bengals vs Tennessee Titans",
