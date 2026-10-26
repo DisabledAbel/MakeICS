@@ -1,7 +1,7 @@
 {
   "teamId": "134880",
   "teamName": "Atlanta Hawks",
-  "updatedAt": "2026-10-25T03:20:02.966Z",
+  "updatedAt": "2026-10-26T22:19:28.193Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909874",
@@ -43,13 +43,13 @@
       "strHomeTeam": "Atlanta Hawks",
       "strAwayTeam": "Cleveland Cavaliers",
       "dateEvent": "2026-10-29",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-29T23:00:00Z",
+      "strTime": "00:00:00",
+      "strTimestamp": "2026-10-30T00:00:00Z",
       "strLeague": "NBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
       "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "updatedAt": "2026-10-26T22:19:28.193Z",
       "source": "scraped",
       "idHomeTeam": "134880",
       "idAwayTeam": "134871"
