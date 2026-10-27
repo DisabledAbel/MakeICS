@@ -40,7 +40,7 @@
     "verifiedAt": "2026-10-10T17:44:22.231Z"
   },
   "The Rainmaker-2-10": {
-    "airdate": "2026-12-25",
+    "airdate": "2026-12-18",
     "name": "Episode #2.10",
     "verifiedAt": "2026-10-10T17:44:24.669Z"
   },
@@ -70,7 +70,7 @@
     "verifiedAt": "2026-10-15T17:41:46.369Z"
   },
   "Studio C-23-2": {
-    "airdate": "2026-10-29",
+    "airdate": "2026-10-26",
     "name": "Swiss Polka Demon Hunters",
     "verifiedAt": "2026-10-16T17:14:52.935Z"
   },
@@ -95,12 +95,12 @@
     "verifiedAt": "2026-10-19T19:06:16.013Z"
   },
   "Marshals-2-6": {
-    "airdate": "2026-11-15",
+    "airdate": "2026-11-08",
     "name": "Episode #2.6",
     "verifiedAt": "2026-10-20T17:50:21.209Z"
   },
   "The Terrors of Jordan Mendoza-1-8": {
-    "airdate": "2026-11-01",
+    "airdate": "2026-11-02",
     "name": "Oh, Whoa",
     "verifiedAt": "2026-10-20T17:51:21.676Z"
   },
@@ -115,7 +115,7 @@
     "verifiedAt": "2026-10-21T17:58:40.471Z"
   },
   "Get Jiro-1-9": {
-    "airdate": "2026-11-22",
+    "airdate": "2026-11-21",
     "name": "Our Specials This Evening",
     "verifiedAt": "2026-10-21T17:58:42.901Z"
   },
@@ -125,7 +125,7 @@
     "verifiedAt": "2026-10-21T17:58:45.471Z"
   },
   "The Voice-30-17": {
-    "airdate": "2026-12-14",
+    "airdate": "2026-09-17",
     "name": "The Voice 30th Season Celebration",
     "verifiedAt": "2026-10-22T18:05:54.552Z"
   },
@@ -140,7 +140,7 @@
     "verifiedAt": "2026-10-22T18:06:23.036Z"
   },
   "NOVA-53-16": {
-    "airdate": "2026-11-04",
+    "airdate": "2026-09-16",
     "name": "The Battle to Breathe",
     "verifiedAt": "2026-10-25T17:01:04.279Z"
   },
@@ -150,49 +150,14 @@
     "verifiedAt": "2026-10-25T17:01:21.082Z"
   },
   "WWE NXT-20-44": {
-    "airdate": "2026-11-03",
+    "airdate": "2026-11-04",
     "name": "Episode #20.44",
     "verifiedAt": "2026-10-26T19:02:47.309Z"
   },
-  "The Patrick Star Show-6-1": {
-    "airdate": "2026-10-12",
-    "name": "Scary Tales",
-    "verifiedAt": "2026-10-26T19:03:03.206Z"
-  },
-  "WWE Friday Night SmackDown-27-44": {
-    "airdate": "2025-10-31",
-    "name": "Signed, Sealed, Smashed",
-    "verifiedAt": "2026-10-26T19:03:06.160Z"
-  },
-  "WWE Friday Night SmackDown-27-45": {
-    "airdate": "2025-11-07",
-    "name": "The Scottish Exile",
-    "verifiedAt": "2026-10-26T19:03:08.643Z"
-  },
-  "WWE Friday Night SmackDown-27-46": {
-    "airdate": "2025-11-14",
-    "name": "Vision of Vengeance",
-    "verifiedAt": "2026-10-26T19:03:11.106Z"
-  },
   "WWE Friday Night SmackDown-27-47": {
-    "airdate": "2026-11-20",
+    "airdate": "2025-11-21",
     "name": "WarGames Wildcard",
     "verifiedAt": "2026-10-26T19:03:13.492Z"
-  },
-  "WWE Friday Night SmackDown-27-49": {
-    "airdate": "2025-12-05",
-    "name": "Survivor Series 2025 Fallout",
-    "verifiedAt": "2026-10-26T19:03:18.379Z"
-  },
-  "WWE Friday Night SmackDown-27-50": {
-    "airdate": "2025-12-12",
-    "name": "Terror of Terror Twins",
-    "verifiedAt": "2026-10-26T19:03:20.834Z"
-  },
-  "WWE Friday Night SmackDown-28-1": {
-    "airdate": "2026-01-02",
-    "name": "Happy New Year 2026",
-    "verifiedAt": "2026-10-26T19:03:23.314Z"
   },
   "The Great American Road Rally: Celebrity Edition-1-7": {
     "airdate": "2026-11-18",
@@ -219,6 +184,56 @@
     "name": "Episode #1.11",
     "verifiedAt": "2026-10-26T19:04:07.790Z"
   },
+  "Marshals-2-7": {
+    "airdate": "2026-11-15",
+    "name": "Roughstock",
+    "verifiedAt": "2026-10-26T19:05:02.507Z"
+  },
+  "Studio C-23-3": {
+    "airdate": "2026-11-05",
+    "name": "Bring Out The Brads",
+    "verifiedAt": "2026-10-26T19:05:52.759Z"
+  },
+  "The Patrick Star Show-6-1": {
+    "airdate": "2026-10-12",
+    "name": "Scary Tales",
+    "verifiedAt": "2026-10-26T19:03:03.206Z"
+  },
+  "WWE Friday Night SmackDown-27-44": {
+    "airdate": "2025-10-31",
+    "name": "Signed, Sealed, Smashed",
+    "verifiedAt": "2026-10-26T19:03:06.160Z"
+  },
+  "WWE Friday Night SmackDown-27-45": {
+    "airdate": "2025-11-07",
+    "name": "The Scottish Exile",
+    "verifiedAt": "2026-10-26T19:03:08.643Z"
+  },
+  "WWE Friday Night SmackDown-27-46": {
+    "airdate": "2025-11-14",
+    "name": "Vision of Vengeance",
+    "verifiedAt": "2026-10-26T19:03:11.106Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2025-12-05",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-10-26T19:03:18.379Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-10-26T19:03:20.834Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2026-01-02",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-10-26T19:03:23.314Z"
+  },
+  "Crossroad Springs-2-8": {
+    "airdate": "2026-11-01",
+    "name": "Showdown at the Fair",
+    "verifiedAt": "2026-10-27T18:35:48.321Z"
+  },
   "The Real Housewives of New York City-16-8": {
     "airdate": "2026-09-08",
     "name": "The Price of Perfection",
@@ -239,10 +254,20 @@
     "name": "A New Era",
     "verifiedAt": "2026-10-26T19:04:23.861Z"
   },
-  "Marshals-2-7": {
-    "airdate": "2026-11-15",
-    "name": "Roughstock",
-    "verifiedAt": "2026-10-26T19:05:02.507Z"
+  "Sheriff Country-2-9": {
+    "airdate": "2026-12-04",
+    "name": "Episode #2.9",
+    "verifiedAt": "2026-10-27T18:36:54.255Z"
+  },
+  "Fire Country-5-7": {
+    "airdate": "2026-11-20",
+    "name": "Episode #5.7",
+    "verifiedAt": "2026-10-27T18:36:57.114Z"
+  },
+  "Boston Blue-2-7": {
+    "airdate": "2026-11-20",
+    "name": "Crisis",
+    "verifiedAt": "2026-10-27T18:36:59.817Z"
   },
   "Surviving Alaska: Women of the Wild-1-4": {
     "airdate": "2026-10-07",
@@ -268,10 +293,5 @@
     "airdate": "2026-10-07",
     "name": "Building the Dream",
     "verifiedAt": "2026-10-26T19:05:45.255Z"
-  },
-  "Studio C-23-3": {
-    "airdate": "2026-11-05",
-    "name": "Bring Out The Brads",
-    "verifiedAt": "2026-10-26T19:05:52.759Z"
   }
 }
