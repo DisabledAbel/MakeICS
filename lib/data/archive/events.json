@@ -84777,6 +84777,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-aaf70733-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aaf70733-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134934.json",
+      "record": {
+        "idEvent": "sdv-nfl-aaf70733-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Philadelphia Eagles vs Dallas Cowboys",
+        "strHomeTeam": "Philadelphia Eagles",
+        "strAwayTeam": "Dallas Cowboys",
+        "dateEvent": "2026-10-27",
+        "strTime": "00:15:00Z",
+        "strTimestamp": "2026-10-27T00:15:00Z",
+        "strLeague": "NFL",
+        "strVenue": null,
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-aaf70dac-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-aaf70dac-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134918.json",

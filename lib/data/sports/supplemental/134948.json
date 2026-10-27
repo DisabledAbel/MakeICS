@@ -1,7 +1,7 @@
 {
   "teamId": "134948",
   "teamName": "San Francisco 49ers",
-  "updatedAt": "2026-10-26T04:50:54.664Z",
+  "updatedAt": "2026-10-27T05:08:58.513Z",
   "generatedAt": "2026-07-18T06:13:33.288Z",
   "generateAt": "2026-07-18T06:13:33.288Z",
   "events": [
@@ -11,8 +11,8 @@
       "strHomeTeam": "San Francisco 49ers",
       "strAwayTeam": "Las Vegas Raiders",
       "dateEvent": "2026-11-08",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-11-08T21:05:00Z",
+      "strTime": "21:25:00Z",
+      "strTimestamp": "2026-11-08T21:25:00Z",
       "strLeague": "NFL",
       "strVenue": "Levi's® Stadium",
       "strTVStation": null,
