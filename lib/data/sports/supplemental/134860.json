@@ -1,25 +1,8 @@
 {
   "teamId": "134860",
   "teamName": "Boston Celtics",
-  "updatedAt": "2026-10-24T03:24:33.756Z",
+  "updatedAt": "2026-10-27T03:49:39.302Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909870",
-      "strEvent": "Boston Celtics vs Chicago Bulls",
-      "strHomeTeam": "Boston Celtics",
-      "strAwayTeam": "Chicago Bulls",
-      "dateEvent": "2026-10-26",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-26T23:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134860",
-      "idAwayTeam": "134870"
-    },
     {
       "idEvent": "scraped-espn-401909877",
       "strEvent": "Boston Celtics vs Brooklyn Nets",
