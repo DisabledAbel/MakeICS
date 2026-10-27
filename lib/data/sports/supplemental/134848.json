@@ -1,26 +1,8 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-10-25T04:54:30.512Z",
+  "updatedAt": "2026-10-27T05:15:50.520Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020186",
-      "strEvent": "Calgary Flames vs Toronto Maple Leafs",
-      "strHomeTeam": "Calgary Flames",
-      "strAwayTeam": "Toronto Maple Leafs",
-      "dateEvent": "2026-10-26",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-27T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Saddledome",
-      "strStatus": "NS",
-      "strTVStation": "SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020186",
-      "idHomeTeam": "134848",
-      "idAwayTeam": "134837"
-    },
     {
       "idEvent": "nhl-2026020200",
       "strEvent": "Edmonton Oilers vs Calgary Flames",

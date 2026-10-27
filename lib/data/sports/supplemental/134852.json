@@ -1,26 +1,8 @@
 {
   "teamId": "134852",
   "teamName": "Los Angeles Kings",
-  "updatedAt": "2026-10-24T20:57:27.213Z",
+  "updatedAt": "2026-10-27T05:15:50.520Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020185",
-      "strEvent": "New York Rangers vs Los Angeles Kings",
-      "strHomeTeam": "New York Rangers",
-      "strAwayTeam": "Los Angeles Kings",
-      "dateEvent": "2026-10-26",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-26T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "ABTV , MSG, NHLN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020185",
-      "idHomeTeam": "134842",
-      "idAwayTeam": "134852"
-    },
     {
       "idEvent": "nhl-2026020190",
       "strEvent": "Chicago Blackhawks vs Los Angeles Kings",
