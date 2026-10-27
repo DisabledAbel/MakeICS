@@ -25,6 +25,7 @@ jobs:
         run: python test/test_clear_repo_url.py
 
       - name: Clear Website URL
+        if: github.ref == 'refs/heads/main'
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: python scripts/clear_repo_url.py

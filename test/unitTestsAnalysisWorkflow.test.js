@@ -4,6 +4,7 @@ import fs from 'node:fs/promises';
 import { spawnSync } from 'node:child_process';
 
 const yamlText = await fs.readFile(new URL('../.github/workflows/unit-tests-analysis.yml', import.meta.url), 'utf8');
+const pinnedAction = /@[a-f0-9]{40} # v\d+(?:\.\d+){0,2}$/;
 
 function step(name) {
   const marker = `- name: ${name}`;
@@ -26,7 +27,17 @@ test('only issue writes are allowed; checkout credentials are not persisted', ()
   assert.match(step('Checkout Code'), /persist-credentials: false/);
   assert.doesNotMatch(step('Checkout Code'), /fetch-depth: 0/);
   for (const use of yamlText.matchAll(/uses: (.+)/g)) {
-    assert.match(use[1], /@[a-f0-9]{40} # v\d+$/);
+    assert.match(use[1], pinnedAction);
+  }
+});
+
+test('action pins accept version comments while still requiring a full commit SHA', () => {
+  const sha = 'a'.repeat(40);
+  for (const version of ['v7', 'v7.0', 'v7.0.2']) {
+    assert.match(`actions/upload-artifact@${sha} # ${version}`, pinnedAction);
+  }
+  for (const ref of ['v7', 'main', 'abc1234']) {
+    assert.doesNotMatch(`actions/upload-artifact@${ref} # v7.0.2`, pinnedAction);
   }
 });
 
