@@ -4,7 +4,7 @@ import fs from 'node:fs/promises';
 import { spawnSync } from 'node:child_process';
 
 const yamlText = await fs.readFile(new URL('../.github/workflows/unit-tests-analysis.yml', import.meta.url), 'utf8');
-const pinnedAction = /@[a-f0-9]{40} # v\d+(?:\.\d+){0,2}$/;
+const pinnedAction = /^[^@\s#]+@[a-f0-9]{40} # v\d+(?:\.\d+){0,2}$/;
 
 function step(name) {
   const marker = `- name: ${name}`;
@@ -39,6 +39,7 @@ test('action pins accept version comments while still requiring a full commit SH
   for (const ref of ['v7', 'main', 'abc1234']) {
     assert.doesNotMatch(`actions/upload-artifact@${ref} # v7.0.2`, pinnedAction);
   }
+  assert.doesNotMatch(`actions/checkout@main # previously @${sha} # v7.0.2`, pinnedAction);
 });
 
 test('both language runtimes and Python Playwright are installed before analysis', () => {
