@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T10:15:00.332Z",
+  "generatedAt": "2026-10-28T11:03:57.249Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5500,12 +5500,12 @@
       ],
       "people": [
         {
-          "id": "nm5828485",
-          "name": "Maddie Phillips"
-        },
-        {
           "id": "nm0427963",
           "name": "Dot-Marie Jones"
+        },
+        {
+          "id": "nm5828485",
+          "name": "Maddie Phillips"
         },
         {
           "id": "nm4496161",
@@ -5656,12 +5656,12 @@
           "name": "Marisa Tomei"
         },
         {
-          "id": "nm0000609",
-          "name": "Ving Rhames"
-        },
-        {
           "id": "nm0875810",
           "name": "Brett Tucker"
+        },
+        {
+          "id": "nm0000609",
+          "name": "Ving Rhames"
         }
       ],
       "label": "Oct 30, 2026"
@@ -6136,35 +6136,6 @@
       "label": "Nov 06, 2026"
     },
     {
-      "id": "tt38058097",
-      "title": "Club Kid",
-      "image": "https://m.media-amazon.com/images/M/MV5BYWUxYjgzMjgtMzgzMC00ZTdlLWJkMjktYmY4YWFiNDg1MWJmXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "people": [
-        {
-          "id": "nm5353321",
-          "name": "Cara Delevingne"
-        },
-        {
-          "id": "nm4624730",
-          "name": "Kirby Howell-Baptiste"
-        },
-        {
-          "id": "nm0131974",
-          "name": "Colleen Camp"
-        },
-        {
-          "id": "nm3886586",
-          "name": "Diego Calva"
-        }
-      ],
-      "label": "Nov 06, 2026"
-    },
-    {
       "id": "tt27988879",
       "title": "Ramayana: Rise of a Legend",
       "image": "https://m.media-amazon.com/images/M/MV5BYWE4NWVmZjItN2Y0ZC00YmMzLThhNWEtM2VkZjA3MmFlNjdmXkEyXkFqcGc@._V1_.jpg",
@@ -6588,12 +6559,12 @@
           "name": "Dylan O'Brien"
         },
         {
-          "id": "nm3570321",
-          "name": "Ray Fisher"
+          "id": "nm3008739",
+          "name": "Rob Delaney"
         },
         {
-          "id": "nm3978118",
-          "name": "Ruth Madeley"
+          "id": "nm3570321",
+          "name": "Ray Fisher"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6624,6 +6595,36 @@
         {
           "id": "nm0036651",
           "name": "Tichina Arnold"
+        }
+      ],
+      "label": "Nov 13, 2026"
+    },
+    {
+      "id": "tt38651971",
+      "title": "Gondhal",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGU1NDE4ZWQtODU4My00NzNlLWI4NzItNWMzZjI1MjlkNzYwXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "people": [
+        {
+          "id": "nm11640559",
+          "name": "Ishita Deshmukh"
+        },
+        {
+          "id": "nm8337506",
+          "name": "Kailash Waghmare"
+        },
+        {
+          "id": "nm0434263",
+          "name": "Kishore Kadam"
+        },
+        {
+          "id": "nm10459855",
+          "name": "Pravin Dalimbkar"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6971,6 +6972,35 @@
         }
       ],
       "label": "Nov 25, 2026"
+    },
+    {
+      "id": "tt38058097",
+      "title": "Club Kid",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWUxYjgzMjgtMzgzMC00ZTdlLWJkMjktYmY4YWFiNDg1MWJmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm4885930",
+          "name": "Jordan Firstman"
+        },
+        {
+          "id": "nm5353321",
+          "name": "Cara Delevingne"
+        },
+        {
+          "id": "nm4624730",
+          "name": "Kirby Howell-Baptiste"
+        },
+        {
+          "id": "nm3837904",
+          "name": "Jamil Zraikat"
+        }
+      ],
+      "label": "Nov 26, 2026"
     },
     {
       "id": "tt27983468",
@@ -7475,6 +7505,30 @@
       "label": "Dec 18, 2026"
     },
     {
+      "id": "tt39382862",
+      "title": "Tutu",
+      "releaseDate": "Fri, 18 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Biography"
+      ],
+      "people": [
+        {
+          "id": "nm4270518",
+          "name": "Roger Friedman"
+        },
+        {
+          "id": "nm2429627",
+          "name": "Benny Gool"
+        },
+        {
+          "id": "nm0878379",
+          "name": "Desmond Tutu"
+        }
+      ],
+      "label": "Dec 18, 2026"
+    },
+    {
       "id": "tt42040029",
       "title": "Spin Wars",
       "image": "https://m.media-amazon.com/images/M/MV5BYTViMGY3MzItZDM4MC00OTUyLWJmZjMtYWUzOTdkZTViZTZiXkEyXkFqcGc@._V1_.jpg",
@@ -7541,8 +7595,8 @@
       "releaseDate": "Thu, 24 Dec 2026 00:00:00 GMT",
       "genres": [
         "Action",
-        "Romance",
-        "Thriller"
+        "Drama",
+        "Romance"
       ],
       "people": [
         {
@@ -7584,12 +7638,42 @@
           "name": "Nana Patekar"
         },
         {
-          "id": "nm0084443",
-          "name": "Seema Biswas"
-        },
-        {
           "id": "nm6946196",
           "name": "Vishal Jethwa"
+        },
+        {
+          "id": "nm0084443",
+          "name": "Seema Biswas"
+        }
+      ],
+      "label": "Dec 24, 2026"
+    },
+    {
+      "id": "tt37539458",
+      "title": "Athimanoharam",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ2ZmY3MjEtMmE2OC00MWI5LTgxYWUtNWRjYjRlYmMwMTcxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 24 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "people": [
+        {
+          "id": "nm0482320",
+          "name": "Mohanlal"
+        },
+        {
+          "id": "nm1307939",
+          "name": "Meera Jasmine"
+        },
+        {
+          "id": "nm0415538",
+          "name": "Jagadish"
+        },
+        {
+          "id": "nm1388202",
+          "name": "Siddique"
         }
       ],
       "label": "Dec 24, 2026"
@@ -7819,12 +7903,12 @@
           "name": "Lily James"
         },
         {
-          "id": "nm0504832",
-          "name": "Tracy Letts"
-        },
-        {
           "id": "nm4689420",
           "name": "Carrie Coon"
+        },
+        {
+          "id": "nm0504832",
+          "name": "Tracy Letts"
         }
       ],
       "label": "Jan 08, 2027"
@@ -8079,6 +8163,10 @@
       ],
       "people": [
         {
+          "id": "nm0281956",
+          "name": "Brendan Fletcher"
+        },
+        {
           "id": "nm3287940",
           "name": "Tracy Ifeachor"
         },
@@ -8087,12 +8175,8 @@
           "name": "Tyler Labine"
         },
         {
-          "id": "nm0281956",
-          "name": "Brendan Fletcher"
-        },
-        {
-          "id": "nm3958148",
-          "name": "Edwin Lee Gibson"
+          "id": "nm10119061",
+          "name": "Erik Gow"
         }
       ],
       "label": "Jan 22, 2027"
@@ -8209,8 +8293,8 @@
           "name": "Josh Duhamel"
         },
         {
-          "id": "nm0625789",
-          "name": "Tim Blake Nelson"
+          "id": "nm0524197",
+          "name": "Josh Lucas"
         }
       ],
       "label": "Jan 29, 2027"
@@ -8721,8 +8805,8 @@
           "name": "Esai Morales"
         },
         {
-          "id": "nm7639977",
-          "name": "Angel Rosario Jr."
+          "id": "nm13169955",
+          "name": "Jobie James"
         },
         {
           "id": "nm1883803",
@@ -9442,12 +9526,12 @@
           "name": "Sam Claflin"
         },
         {
-          "id": "nm3147751",
-          "name": "LaKeith Stanfield"
+          "id": "nm1569067",
+          "name": "Wilson Bethel"
         },
         {
-          "id": "nm0164809",
-          "name": "Jason Clarke"
+          "id": "nm3147751",
+          "name": "LaKeith Stanfield"
         }
       ],
       "label": "May 14, 2027"
@@ -9663,25 +9747,24 @@
       "releaseDate": "Fri, 04 Jun 2027 00:00:00 GMT",
       "genres": [
         "Horror",
-        "Sci-Fi",
         "Thriller"
       ],
       "people": [
-        {
-          "id": "nm2560618",
-          "name": "Willa Fitzgerald"
-        },
         {
           "id": "nm0000422",
           "name": "John Goodman"
         },
         {
-          "id": "nm0488953",
-          "name": "Brie Larson"
-        },
-        {
           "id": "nm0973177",
           "name": "Kyle Gallner"
+        },
+        {
+          "id": "nm2560618",
+          "name": "Willa Fitzgerald"
+        },
+        {
+          "id": "nm0488953",
+          "name": "Brie Larson"
         }
       ],
       "label": "Jun 04, 2027"
@@ -9698,12 +9781,12 @@
       ],
       "people": [
         {
-          "id": "nm0124930",
-          "name": "Gerard Butler"
-        },
-        {
           "id": "nm0000949",
           "name": "Cate Blanchett"
+        },
+        {
+          "id": "nm0124930",
+          "name": "Gerard Butler"
         },
         {
           "id": "nm9296746",
@@ -10044,12 +10127,12 @@
           "name": "Emily Blunt"
         },
         {
-          "id": "nm0614165",
-          "name": "Cillian Murphy"
-        },
-        {
           "id": "nm1925239",
           "name": "Jack O'Connell"
+        },
+        {
+          "id": "nm0614165",
+          "name": "Cillian Murphy"
         },
         {
           "id": "nm7415871",
@@ -10210,12 +10293,12 @@
           "name": "Nicholas Duvernay"
         },
         {
-          "id": "nm0905357",
-          "name": "Steven Waddington"
-        },
-        {
           "id": "nm8424510",
           "name": "Callie Cooke"
+        },
+        {
+          "id": "nm0905357",
+          "name": "Steven Waddington"
         }
       ],
       "label": "Aug 13, 2027"
