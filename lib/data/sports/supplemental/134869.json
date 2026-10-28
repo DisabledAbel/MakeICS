@@ -1,25 +1,8 @@
 {
   "teamId": "134869",
   "teamName": "Sacramento Kings",
-  "updatedAt": "2026-10-26T03:21:49.102Z",
+  "updatedAt": "2026-10-28T04:08:56.391Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909879",
-      "strEvent": "San Antonio Spurs vs Sacramento Kings",
-      "strHomeTeam": "San Antonio Spurs",
-      "strAwayTeam": "Sacramento Kings",
-      "dateEvent": "2026-10-27",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-28T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Frost Bank Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134879",
-      "idAwayTeam": "134869"
-    },
     {
       "idEvent": "scraped-espn-401909894",
       "strEvent": "New Orleans Pelicans vs Sacramento Kings",

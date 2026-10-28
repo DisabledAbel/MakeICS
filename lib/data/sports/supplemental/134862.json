@@ -1,25 +1,8 @@
 {
   "teamId": "134862",
   "teamName": "New York Knicks",
-  "updatedAt": "2026-10-26T03:21:49.102Z",
+  "updatedAt": "2026-10-28T04:08:56.391Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909878",
-      "strEvent": "New York Knicks vs Detroit Pistons",
-      "strHomeTeam": "New York Knicks",
-      "strAwayTeam": "Detroit Pistons",
-      "dateEvent": "2026-10-27",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-28T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "NBC",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134862",
-      "idAwayTeam": "134872"
-    },
     {
       "idEvent": "scraped-espn-401909886",
       "strEvent": "Chicago Bulls vs New York Knicks",

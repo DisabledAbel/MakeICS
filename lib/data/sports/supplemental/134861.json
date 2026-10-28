@@ -1,25 +1,8 @@
 {
   "teamId": "134861",
   "teamName": "Brooklyn Nets",
-  "updatedAt": "2026-10-26T03:21:49.102Z",
+  "updatedAt": "2026-10-28T04:08:56.391Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909877",
-      "strEvent": "Boston Celtics vs Brooklyn Nets",
-      "strHomeTeam": "Boston Celtics",
-      "strAwayTeam": "Brooklyn Nets",
-      "dateEvent": "2026-10-27",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-27T23:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134860",
-      "idAwayTeam": "134861"
-    },
     {
       "idEvent": "scraped-espn-401909279",
       "strEvent": "Brooklyn Nets vs Detroit Pistons",

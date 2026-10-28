@@ -1,25 +1,8 @@
 {
   "teamId": "134867",
   "teamName": "Los Angeles Lakers",
-  "updatedAt": "2026-10-26T03:21:49.102Z",
+  "updatedAt": "2026-10-28T04:08:56.391Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909880",
-      "strEvent": "Los Angeles Lakers vs Portland Trail Blazers",
-      "strHomeTeam": "Los Angeles Lakers",
-      "strAwayTeam": "Portland Trail Blazers",
-      "dateEvent": "2026-10-27",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-10-28T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "Peacock",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134867",
-      "idAwayTeam": "134888"
-    },
     {
       "idEvent": "scraped-espn-401909892",
       "strEvent": "Los Angeles Clippers vs Los Angeles Lakers",
