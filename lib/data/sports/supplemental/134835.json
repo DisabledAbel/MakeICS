@@ -1,26 +1,8 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-10-25T04:54:30.512Z",
+  "updatedAt": "2026-10-28T05:54:22.073Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020196",
-      "strEvent": "Vegas Golden Knights vs Ottawa Senators",
-      "strHomeTeam": "Vegas Golden Knights",
-      "strAwayTeam": "Ottawa Senators",
-      "dateEvent": "2026-10-27",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-28T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "T-Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "RDSI, SCRIPPS, TSN5",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020196",
-      "idHomeTeam": "135913",
-      "idAwayTeam": "134835"
-    },
     {
       "idEvent": "nhl-2026020212",
       "strEvent": "Los Angeles Kings vs Ottawa Senators",

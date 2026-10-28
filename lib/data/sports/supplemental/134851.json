@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-10-26T04:58:09.690Z",
+  "updatedAt": "2026-10-28T05:54:22.073Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020194",
-      "strEvent": "Winnipeg Jets vs Florida Panthers",
-      "strHomeTeam": "Winnipeg Jets",
-      "strAwayTeam": "Florida Panthers",
-      "dateEvent": "2026-10-27",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-28T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canada Life Centre",
-      "strStatus": "NS",
-      "strTVStation": "SCRIPPS, TSN3",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020194",
-      "idHomeTeam": "134851",
-      "idAwayTeam": "134833"
-    },
     {
       "idEvent": "nhl-2026020204",
       "strEvent": "Tampa Bay Lightning vs Winnipeg Jets",

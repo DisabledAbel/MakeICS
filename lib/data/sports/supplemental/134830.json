@@ -1,26 +1,8 @@
 {
   "teamId": "134830",
   "teamName": "Boston Bruins",
-  "updatedAt": "2026-10-25T04:54:30.512Z",
+  "updatedAt": "2026-10-28T05:54:22.073Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020189",
-      "strEvent": "Carolina Hurricanes vs Boston Bruins",
-      "strHomeTeam": "Carolina Hurricanes",
-      "strAwayTeam": "Boston Bruins",
-      "dateEvent": "2026-10-27",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-28T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Lenovo Center",
-      "strStatus": "NS",
-      "strTVStation": "ESPN, SN360",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020189",
-      "idHomeTeam": "134838",
-      "idAwayTeam": "134830"
-    },
     {
       "idEvent": "nhl-2026020207",
       "strEvent": "St. Louis Blues vs Boston Bruins",
