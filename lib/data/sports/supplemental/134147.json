@@ -1,7 +1,7 @@
 {
   "teamId": "134147",
   "teamName": "Vancouver Whitecaps",
-  "updatedAt": "2026-10-29T06:17:31.957Z",
+  "updatedAt": "2026-10-29T22:55:29.607Z",
   "events": [
     {
       "idEvent": "mls-761927",
@@ -12,14 +12,14 @@
       "idHomeTeam": "134147",
       "idAwayTeam": "134149",
       "dateEvent": "2026-11-01",
-      "strTime": "21:30:00",
-      "strTimestamp": "2026-11-01T21:30:00Z",
+      "strTime": "20:30:00",
+      "strTimestamp": "2026-11-01T20:30:00Z",
       "strLeague": "MLS",
       "strVenue": "BC Place",
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
+      "updatedAt": "2026-10-29T22:55:29.607Z"
     },
     {
       "idEvent": "mls-761934",
