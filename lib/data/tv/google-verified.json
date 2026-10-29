@@ -35,7 +35,7 @@
     "verifiedAt": "2026-10-10T17:44:22.231Z"
   },
   "The Rainmaker-2-10": {
-    "airdate": "2026-12-18",
+    "airdate": "2026-12-25",
     "name": "Episode #2.10",
     "verifiedAt": "2026-10-10T17:44:24.669Z"
   },
@@ -95,7 +95,7 @@
     "verifiedAt": "2026-10-21T17:58:38.027Z"
   },
   "Get Jiro-1-8": {
-    "airdate": "2026-11-14",
+    "airdate": "2026-11-15",
     "name": "Your Guests Have Arrived",
     "verifiedAt": "2026-10-21T17:58:40.471Z"
   },
@@ -170,7 +170,7 @@
     "verifiedAt": "2026-10-27T18:35:48.321Z"
   },
   "Sheriff Country-2-9": {
-    "airdate": "2026-12-18",
+    "airdate": "2026-12-04",
     "name": "Episode #2.9",
     "verifiedAt": "2026-10-27T18:36:54.255Z"
   },
@@ -180,7 +180,7 @@
     "verifiedAt": "2026-10-27T18:36:57.114Z"
   },
   "Boston Blue-2-7": {
-    "airdate": "2026-12-04",
+    "airdate": "2026-11-20",
     "name": "Crisis",
     "verifiedAt": "2026-10-27T18:36:59.817Z"
   },
@@ -205,7 +205,7 @@
     "verifiedAt": "2026-10-28T18:42:44.812Z"
   },
   "Love & Marriage: Huntsville-12-12": {
-    "airdate": "2026-11-28",
+    "airdate": "2026-09-12",
     "name": "A New Era",
     "verifiedAt": "2026-10-28T18:42:56.859Z"
   },
@@ -215,7 +215,7 @@
     "verifiedAt": "2026-10-28T18:43:07.228Z"
   },
   "The Voice-30-17": {
-    "airdate": "2026-12-14",
+    "airdate": "2026-09-17",
     "name": "The Voice 30th Season Celebration",
     "verifiedAt": "2026-10-28T18:43:10.817Z"
   },
@@ -243,5 +243,50 @@
     "airdate": "2026-10-29",
     "name": "Swiss Polka Demon Hunters",
     "verifiedAt": "2026-10-28T18:44:47.301Z"
+  },
+  "Fatal Attraction-17-14": {
+    "airdate": "2026-11-09",
+    "name": "Deadly Delivery",
+    "verifiedAt": "2026-10-29T18:48:56.024Z"
+  },
+  "The Patrick Star Show-6-1": {
+    "airdate": "2026-10-12",
+    "name": "Scary Tales",
+    "verifiedAt": "2026-10-29T18:49:25.281Z"
+  },
+  "WWE Friday Night SmackDown-27-44": {
+    "airdate": "2025-10-31",
+    "name": "Signed, Sealed, Smashed",
+    "verifiedAt": "2026-10-29T18:49:28.473Z"
+  },
+  "WWE Friday Night SmackDown-27-45": {
+    "airdate": "2025-11-07",
+    "name": "The Scottish Exile",
+    "verifiedAt": "2026-10-29T18:49:30.933Z"
+  },
+  "WWE Friday Night SmackDown-27-46": {
+    "airdate": "2025-11-14",
+    "name": "Vision of Vengeance",
+    "verifiedAt": "2026-10-29T18:49:33.346Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2027-01-01",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-10-29T18:49:45.965Z"
+  },
+  "On Patrol: Live-5-31": {
+    "airdate": "2026-11-14",
+    "name": "Episode #5.31",
+    "verifiedAt": "2026-10-29T18:49:51.771Z"
+  },
+  "On Patrol: Live-5-32": {
+    "airdate": "2026-11-15",
+    "name": "Episode #5.32",
+    "verifiedAt": "2026-10-29T18:49:54.210Z"
+  },
+  "Let's Make a Deal-18-29": {
+    "airdate": "2026-09-29",
+    "name": "Episode #18.7",
+    "verifiedAt": "2026-10-29T18:51:12.983Z"
   }
 }
