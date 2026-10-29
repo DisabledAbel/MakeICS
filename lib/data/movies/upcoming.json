@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T11:03:57.249Z",
+  "generatedAt": "2026-10-29T11:20:29.692Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5875,7 +5875,8 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNzA3NjQ4YmMtMmNlOS00NzJjLTk1YzgtMjYzMDRkMzRhYjNlXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Tue, 03 Nov 2026 00:00:00 GMT",
       "genres": [
-        "Action"
+        "Action",
+        "War"
       ],
       "people": [
         {
@@ -6623,8 +6624,8 @@
           "name": "Kishore Kadam"
         },
         {
-          "id": "nm10459855",
-          "name": "Pravin Dalimbkar"
+          "id": "nm2286554",
+          "name": "Suresh Vishwakarma"
         }
       ],
       "label": "Nov 13, 2026"
@@ -7092,7 +7093,7 @@
     {
       "id": "tt36415529",
       "title": "Behemoth!",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTU1YWQ5MzItNTQ0NC00ZThkLTlmNDAtOWFmY2JkMTNjNWRjXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDMzOGVkMDktZDg3Zi00MDk2LWJjN2QtZjdmMTg3NDE0YjdlXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -7477,7 +7478,7 @@
     {
       "id": "tt31378509",
       "title": "Dune: Part Three",
-      "image": "https://m.media-amazon.com/images/M/MV5BYjk1NjgwZDMtYzI5OS00Y2Q4LWI1NmItNTE5OGU2NDVmMTAxXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDhiOTAwMjktZDc0ZS00MzVmLWFkNzktOGEzZTdlNzcyNDAxXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Dec 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -7939,6 +7940,36 @@
         {
           "id": "nm0911395",
           "name": "Barry Ward"
+        }
+      ],
+      "label": "Jan 08, 2027"
+    },
+    {
+      "id": "tt20259240",
+      "title": "Cloud Girl",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGJjMGQxMTQtYTU4OC00NzI4LWJmMzctOWM3YThkZjQ3Mzg2XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "people": [
+        {
+          "id": "nm6303670",
+          "name": "Louane Emera"
+        },
+        {
+          "id": "nm0213354",
+          "name": "Jamel Debbouze"
+        },
+        {
+          "id": "nm2669103",
+          "name": "Grégoire Ludig"
+        },
+        {
+          "id": "nm0115885",
+          "name": "Patrick Brull"
         }
       ],
       "label": "Jan 08, 2027"
@@ -8625,8 +8656,8 @@
           "name": "Ema Ines"
         },
         {
-          "id": "nm2028004",
-          "name": "Ry Barrett"
+          "id": "nm12714580",
+          "name": "Fionn Laird"
         },
         {
           "id": "nm9781891",
@@ -8831,16 +8862,16 @@
           "name": "Tony Revolori"
         },
         {
+          "id": "nm5289372",
+          "name": "Yim Si-wan"
+        },
+        {
           "id": "nm7175730",
           "name": "Eric Nam"
         },
         {
           "id": "nm8901592",
           "name": "Renata Vaca"
-        },
-        {
-          "id": "nm10955564",
-          "name": "Ji-young Yoo"
         }
       ],
       "label": "Feb 26, 2027"
@@ -10329,16 +10360,16 @@
           "name": "Asante Blackk"
         },
         {
-          "id": "nm3853652",
-          "name": "Jodie Turner-Smith"
-        },
-        {
           "id": "nm0000505",
           "name": "Nia Long"
         },
         {
-          "id": "nm1502434",
-          "name": "Leslie Odom Jr."
+          "id": "nm3853652",
+          "name": "Jodie Turner-Smith"
+        },
+        {
+          "id": "nm0254712",
+          "name": "Aunjanue Ellis-Taylor"
         }
       ],
       "label": "Aug 20, 2027"
@@ -10382,10 +10413,6 @@
         {
           "id": "nm0578853",
           "name": "Ben Mendelsohn"
-        },
-        {
-          "id": "nm3147751",
-          "name": "LaKeith Stanfield"
         }
       ],
       "label": "Aug 27, 2027"
