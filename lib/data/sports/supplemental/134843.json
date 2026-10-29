@@ -1,26 +1,8 @@
 {
   "teamId": "134843",
   "teamName": "Philadelphia Flyers",
-  "updatedAt": "2026-10-28T05:54:22.073Z",
+  "updatedAt": "2026-10-29T05:58:35.650Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020199",
-      "strEvent": "Washington Capitals vs Philadelphia Flyers",
-      "strHomeTeam": "Washington Capitals",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-10-28",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-28T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, NBCSP+, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020199",
-      "idHomeTeam": "134845",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020229",
       "strEvent": "Philadelphia Flyers vs Utah Mammoth",

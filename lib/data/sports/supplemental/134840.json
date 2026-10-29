@@ -1,26 +1,8 @@
 {
   "teamId": "134840",
   "teamName": "New Jersey Devils",
-  "updatedAt": "2026-10-28T05:54:22.073Z",
+  "updatedAt": "2026-10-29T05:58:35.650Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020201",
-      "strEvent": "Colorado Avalanche vs New Jersey Devils",
-      "strHomeTeam": "Colorado Avalanche",
-      "strAwayTeam": "New Jersey Devils",
-      "dateEvent": "2026-10-28",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-29T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "ALT, MSGSN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020201",
-      "idHomeTeam": "134855",
-      "idAwayTeam": "134840"
-    },
     {
       "idEvent": "nhl-2026020214",
       "strEvent": "Vegas Golden Knights vs New Jersey Devils",

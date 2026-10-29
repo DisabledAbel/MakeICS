@@ -1,26 +1,8 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-10-27T05:15:50.520Z",
+  "updatedAt": "2026-10-29T05:58:35.650Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020200",
-      "strEvent": "Edmonton Oilers vs Calgary Flames",
-      "strHomeTeam": "Edmonton Oilers",
-      "strAwayTeam": "Calgary Flames",
-      "dateEvent": "2026-10-28",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-29T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Place",
-      "strStatus": "NS",
-      "strTVStation": "Prime",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020200",
-      "idHomeTeam": "134849",
-      "idAwayTeam": "134848"
-    },
     {
       "idEvent": "nhl-2026020216",
       "strEvent": "Calgary Flames vs Seattle Kraken",
