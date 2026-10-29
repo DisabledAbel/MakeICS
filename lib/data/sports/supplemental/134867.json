@@ -1,25 +1,8 @@
 {
   "teamId": "134867",
   "teamName": "Los Angeles Lakers",
-  "updatedAt": "2026-10-28T04:08:56.391Z",
+  "updatedAt": "2026-10-29T04:31:04.941Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909892",
-      "strEvent": "Los Angeles Clippers vs Los Angeles Lakers",
-      "strHomeTeam": "Los Angeles Clippers",
-      "strAwayTeam": "Los Angeles Lakers",
-      "dateEvent": "2026-10-28",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-29T02:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Intuit Dome",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134866",
-      "idAwayTeam": "134867"
-    },
     {
       "idEvent": "scraped-espn-401909285",
       "strEvent": "Golden State Warriors vs Los Angeles Lakers",

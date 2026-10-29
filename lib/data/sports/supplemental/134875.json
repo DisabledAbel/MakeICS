@@ -1,25 +1,8 @@
 {
   "teamId": "134875",
   "teamName": "Dallas Mavericks",
-  "updatedAt": "2026-10-27T03:49:39.302Z",
+  "updatedAt": "2026-10-29T04:31:04.941Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909891",
-      "strEvent": "Dallas Mavericks vs Oklahoma City Thunder",
-      "strHomeTeam": "Dallas Mavericks",
-      "strAwayTeam": "Oklahoma City Thunder",
-      "dateEvent": "2026-10-28",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-10-29T01:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134875",
-      "idAwayTeam": "134887"
-    },
     {
       "idEvent": "scraped-espn-401909283",
       "strEvent": "Dallas Mavericks vs Houston Rockets",

@@ -1,25 +1,8 @@
 {
   "teamId": "134863",
   "teamName": "Philadelphia 76ers",
-  "updatedAt": "2026-10-26T03:21:49.102Z",
+  "updatedAt": "2026-10-29T04:31:04.941Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909884",
-      "strEvent": "Indiana Pacers vs Philadelphia 76ers",
-      "strHomeTeam": "Indiana Pacers",
-      "strAwayTeam": "Philadelphia 76ers",
-      "dateEvent": "2026-10-28",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-28T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Gainbridge Fieldhouse",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134873",
-      "idAwayTeam": "134863"
-    },
     {
       "idEvent": "scraped-espn-401909280",
       "strEvent": "Philadelphia 76ers vs New York Knicks",

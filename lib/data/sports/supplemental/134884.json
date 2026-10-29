@@ -1,25 +1,8 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-10-27T03:49:39.302Z",
+  "updatedAt": "2026-10-29T04:31:04.941Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909882",
-      "strEvent": "Cleveland Cavaliers vs Washington Wizards",
-      "strHomeTeam": "Cleveland Cavaliers",
-      "strAwayTeam": "Washington Wizards",
-      "dateEvent": "2026-10-28",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-28T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Rocket Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134871",
-      "idAwayTeam": "134884"
-    },
     {
       "idEvent": "scraped-espn-401909277",
       "strEvent": "Washington Wizards vs Charlotte Hornets",

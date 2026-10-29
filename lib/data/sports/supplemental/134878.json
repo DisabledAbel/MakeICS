@@ -1,25 +1,8 @@
 {
   "teamId": "134878",
   "teamName": "New Orleans Pelicans",
-  "updatedAt": "2026-10-25T03:20:02.966Z",
+  "updatedAt": "2026-10-29T04:31:04.941Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909889",
-      "strEvent": "New Orleans Pelicans vs Denver Nuggets",
-      "strHomeTeam": "New Orleans Pelicans",
-      "strAwayTeam": "Denver Nuggets",
-      "dateEvent": "2026-10-28",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-29T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Smoothie King Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134878",
-      "idAwayTeam": "134885"
-    },
     {
       "idEvent": "scraped-espn-401909894",
       "strEvent": "New Orleans Pelicans vs Sacramento Kings",

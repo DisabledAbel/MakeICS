@@ -1,25 +1,8 @@
 {
   "teamId": "134872",
   "teamName": "Detroit Pistons",
-  "updatedAt": "2026-10-28T04:08:56.391Z",
+  "updatedAt": "2026-10-29T04:31:04.941Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909883",
-      "strEvent": "Detroit Pistons vs Charlotte Hornets",
-      "strHomeTeam": "Detroit Pistons",
-      "strAwayTeam": "Charlotte Hornets",
-      "dateEvent": "2026-10-28",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-28T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134872",
-      "idAwayTeam": "134881"
-    },
     {
       "idEvent": "scraped-espn-401909279",
       "strEvent": "Brooklyn Nets vs Detroit Pistons",

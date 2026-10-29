@@ -1,25 +1,8 @@
 {
   "teamId": "134862",
   "teamName": "New York Knicks",
-  "updatedAt": "2026-10-28T04:08:56.391Z",
+  "updatedAt": "2026-10-29T04:31:04.941Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909886",
-      "strEvent": "Chicago Bulls vs New York Knicks",
-      "strHomeTeam": "Chicago Bulls",
-      "strAwayTeam": "New York Knicks",
-      "dateEvent": "2026-10-28",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-29T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134870",
-      "idAwayTeam": "134862"
-    },
     {
       "idEvent": "scraped-espn-401909280",
       "strEvent": "Philadelphia 76ers vs New York Knicks",

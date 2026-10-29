@@ -1,25 +1,8 @@
 {
   "teamId": "134879",
   "teamName": "San Antonio Spurs",
-  "updatedAt": "2026-10-28T04:08:56.391Z",
+  "updatedAt": "2026-10-29T04:31:04.941Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909890",
-      "strEvent": "Utah Jazz vs San Antonio Spurs",
-      "strHomeTeam": "Utah Jazz",
-      "strAwayTeam": "San Antonio Spurs",
-      "dateEvent": "2026-10-28",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-10-29T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Delta Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134889",
-      "idAwayTeam": "134879"
-    },
     {
       "idEvent": "scraped-espn-401909901",
       "strEvent": "San Antonio Spurs vs Minnesota Timberwolves",

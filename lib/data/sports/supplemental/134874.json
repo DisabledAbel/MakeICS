@@ -1,25 +1,8 @@
 {
   "teamId": "134874",
   "teamName": "Milwaukee Bucks",
-  "updatedAt": "2026-10-27T03:49:39.302Z",
+  "updatedAt": "2026-10-29T04:31:04.941Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909887",
-      "strEvent": "Milwaukee Bucks vs Houston Rockets",
-      "strHomeTeam": "Milwaukee Bucks",
-      "strAwayTeam": "Houston Rockets",
-      "dateEvent": "2026-10-28",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-29T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Fiserv Forum",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134874",
-      "idAwayTeam": "134876"
-    },
     {
       "idEvent": "scraped-espn-401909900",
       "strEvent": "Milwaukee Bucks vs Cleveland Cavaliers",

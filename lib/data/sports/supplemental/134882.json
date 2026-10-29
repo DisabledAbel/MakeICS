@@ -1,25 +1,8 @@
 {
   "teamId": "134882",
   "teamName": "Miami Heat",
-  "updatedAt": "2026-10-27T03:49:39.302Z",
+  "updatedAt": "2026-10-29T04:31:04.941Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909881",
-      "strEvent": "Atlanta Hawks vs Miami Heat",
-      "strHomeTeam": "Atlanta Hawks",
-      "strAwayTeam": "Miami Heat",
-      "dateEvent": "2026-10-28",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-28T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "State Farm Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134880",
-      "idAwayTeam": "134882"
-    },
     {
       "idEvent": "scraped-espn-401909282",
       "strEvent": "Miami Heat vs Indiana Pacers",
