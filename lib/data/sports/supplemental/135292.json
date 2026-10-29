@@ -1,26 +1,8 @@
 {
   "teamId": "135292",
   "teamName": "Orlando City",
-  "updatedAt": "2026-10-25T05:08:13.040Z",
+  "updatedAt": "2026-10-29T06:17:31.957Z",
   "events": [
-    {
-      "idEvent": "mls-761911",
-      "sourceEventId": "761911",
-      "strEvent": "Chicago Fire vs Orlando City",
-      "strHomeTeam": "Chicago Fire",
-      "strAwayTeam": "Orlando City",
-      "idHomeTeam": "134154",
-      "idAwayTeam": "135292",
-      "dateEvent": "2026-10-29",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-29T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Soldier Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761922",
       "sourceEventId": "761922",

@@ -1,26 +1,8 @@
 {
   "teamId": "134150",
   "teamName": "CF Montréal",
-  "updatedAt": "2026-10-24T21:05:52.772Z",
+  "updatedAt": "2026-10-29T06:17:31.957Z",
   "events": [
-    {
-      "idEvent": "mls-761907",
-      "sourceEventId": "761907",
-      "strEvent": "Charlotte FC vs CF Montréal",
-      "strHomeTeam": "Charlotte FC",
-      "strAwayTeam": "CF Montréal",
-      "idHomeTeam": "140078",
-      "idAwayTeam": "134150",
-      "dateEvent": "2026-10-28",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-28T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Bank of America Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761930",
       "sourceEventId": "761930",

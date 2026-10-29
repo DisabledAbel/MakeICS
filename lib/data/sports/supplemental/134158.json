@@ -1,26 +1,8 @@
 {
   "teamId": "134158",
   "teamName": "Real Salt Lake",
-  "updatedAt": "2026-10-25T05:08:13.040Z",
+  "updatedAt": "2026-10-29T06:17:31.957Z",
   "events": [
-    {
-      "idEvent": "mls-761910",
-      "sourceEventId": "761910",
-      "strEvent": "Austin FC vs Real Salt Lake",
-      "strHomeTeam": "Austin FC",
-      "strAwayTeam": "Real Salt Lake",
-      "idHomeTeam": "140079",
-      "idAwayTeam": "134158",
-      "dateEvent": "2026-10-29",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-29T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Q2 Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761929",
       "sourceEventId": "761929",

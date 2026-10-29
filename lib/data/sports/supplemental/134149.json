@@ -1,26 +1,8 @@
 {
   "teamId": "134149",
   "teamName": "Seattle Sounders",
-  "updatedAt": "2026-10-25T05:08:13.040Z",
+  "updatedAt": "2026-10-29T06:17:31.957Z",
   "events": [
-    {
-      "idEvent": "mls-761916",
-      "sourceEventId": "761916",
-      "strEvent": "Seattle Sounders vs Houston Dynamo",
-      "strHomeTeam": "Seattle Sounders",
-      "strAwayTeam": "Houston Dynamo",
-      "idHomeTeam": "134149",
-      "idAwayTeam": "134144",
-      "dateEvent": "2026-10-29",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-29T02:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Lumen Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761927",
       "sourceEventId": "761927",

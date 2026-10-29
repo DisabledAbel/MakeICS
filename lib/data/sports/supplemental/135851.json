@@ -1,26 +1,8 @@
 {
   "teamId": "135851",
   "teamName": "Atlanta United",
-  "updatedAt": "2026-10-25T05:08:13.040Z",
+  "updatedAt": "2026-10-29T06:17:31.957Z",
   "events": [
-    {
-      "idEvent": "mls-761905",
-      "sourceEventId": "761905",
-      "strEvent": "New York City FC vs Atlanta United",
-      "strHomeTeam": "New York City FC",
-      "strAwayTeam": "Atlanta United",
-      "idHomeTeam": "134630",
-      "idAwayTeam": "135851",
-      "dateEvent": "2026-10-28",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-28T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Citi Field",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-19T13:49:28.677Z"
-    },
     {
       "idEvent": "mls-761931",
       "sourceEventId": "761931",

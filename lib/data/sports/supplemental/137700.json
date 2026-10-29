@@ -1,26 +1,8 @@
 {
   "teamId": "137700",
   "teamName": "Nashville SC",
-  "updatedAt": "2026-10-24T21:05:52.772Z",
+  "updatedAt": "2026-10-29T06:17:31.957Z",
   "events": [
-    {
-      "idEvent": "mls-761914",
-      "sourceEventId": "761914",
-      "strEvent": "Nashville SC vs Philadelphia Union",
-      "strHomeTeam": "Nashville SC",
-      "strAwayTeam": "Philadelphia Union",
-      "idHomeTeam": "137700",
-      "idAwayTeam": "134142",
-      "dateEvent": "2026-10-29",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-29T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "GEODIS Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761920",
       "sourceEventId": "761920",

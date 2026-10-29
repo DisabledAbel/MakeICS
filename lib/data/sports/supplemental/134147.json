@@ -1,26 +1,8 @@
 {
   "teamId": "134147",
   "teamName": "Vancouver Whitecaps",
-  "updatedAt": "2026-10-25T05:08:13.040Z",
+  "updatedAt": "2026-10-29T06:17:31.957Z",
   "events": [
-    {
-      "idEvent": "mls-761918",
-      "sourceEventId": "761918",
-      "strEvent": "Vancouver Whitecaps vs San Diego FC",
-      "strHomeTeam": "Vancouver Whitecaps",
-      "strAwayTeam": "San Diego FC",
-      "idHomeTeam": "134147",
-      "idAwayTeam": "150261",
-      "dateEvent": "2026-10-29",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-29T02:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "BC Place",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761927",
       "sourceEventId": "761927",

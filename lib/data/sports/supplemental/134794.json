@@ -1,26 +1,8 @@
 {
   "teamId": "134794",
   "teamName": "Colorado Rapids",
-  "updatedAt": "2026-10-25T05:08:13.040Z",
+  "updatedAt": "2026-10-29T06:17:31.957Z",
   "events": [
-    {
-      "idEvent": "mls-761917",
-      "sourceEventId": "761917",
-      "strEvent": "San Jose Earthquakes vs Colorado Rapids",
-      "strHomeTeam": "San Jose Earthquakes",
-      "strAwayTeam": "Colorado Rapids",
-      "idHomeTeam": "134157",
-      "idAwayTeam": "134794",
-      "dateEvent": "2026-10-29",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-10-29T02:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "PayPal Park",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761923",
       "sourceEventId": "761923",

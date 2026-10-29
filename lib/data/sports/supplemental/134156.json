@@ -1,26 +1,8 @@
 {
   "teamId": "134156",
   "teamName": "New York Red Bulls",
-  "updatedAt": "2026-10-25T05:08:13.040Z",
+  "updatedAt": "2026-10-29T06:17:31.957Z",
   "events": [
-    {
-      "idEvent": "mls-761909",
-      "sourceEventId": "761909",
-      "strEvent": "New England Revolution vs New York Red Bulls",
-      "strHomeTeam": "New England Revolution",
-      "strAwayTeam": "New York Red Bulls",
-      "idHomeTeam": "134159",
-      "idAwayTeam": "134156",
-      "dateEvent": "2026-10-28",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-28T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Gillette Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761920",
       "sourceEventId": "761920",

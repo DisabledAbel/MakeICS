@@ -1,26 +1,8 @@
 {
   "teamId": "134152",
   "teamName": "Columbus Crew",
-  "updatedAt": "2026-10-24T21:05:52.772Z",
+  "updatedAt": "2026-10-29T06:17:31.957Z",
   "events": [
-    {
-      "idEvent": "mls-761912",
-      "sourceEventId": "761912",
-      "strEvent": "FC Dallas vs Columbus Crew",
-      "strHomeTeam": "FC Dallas",
-      "strAwayTeam": "Columbus Crew",
-      "idHomeTeam": "134146",
-      "idAwayTeam": "134152",
-      "dateEvent": "2026-10-29",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-10-29T00:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Toyota Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761924",
       "sourceEventId": "761924",

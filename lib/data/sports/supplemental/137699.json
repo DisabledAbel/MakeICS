@@ -1,26 +1,8 @@
 {
   "teamId": "137699",
   "teamName": "Inter Miami",
-  "updatedAt": "2026-10-25T05:08:13.040Z",
+  "updatedAt": "2026-10-29T06:17:31.957Z",
   "events": [
-    {
-      "idEvent": "mls-761908",
-      "sourceEventId": "761908",
-      "strEvent": "Inter Miami vs FC Cincinnati",
-      "strHomeTeam": "Inter Miami",
-      "strAwayTeam": "FC Cincinnati",
-      "idHomeTeam": "137699",
-      "idAwayTeam": "136688",
-      "dateEvent": "2026-10-28",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-28T23:30:00Z",
-      "strLeague": "MLS",
-      "strVenue": "Nu Stadium",
-      "strStatus": "NS",
-      "strTVStation": "Apple TV",
-      "source": "espn",
-      "updatedAt": "2026-10-02T01:11:02.847Z"
-    },
     {
       "idEvent": "mls-761932",
       "sourceEventId": "761932",
