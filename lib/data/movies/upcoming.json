@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T11:20:29.692Z",
+  "generatedAt": "2026-10-30T11:13:03.627Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5571,8 +5571,8 @@
           "name": "Will Price"
         },
         {
-          "id": "nm1137209",
-          "name": "Tatiana Maslany"
+          "id": "nm2832117",
+          "name": "Avalon Stone"
         }
       ],
       "label": "Oct 30, 2026"
@@ -5593,16 +5593,16 @@
           "name": "Olivia Colman"
         },
         {
+          "id": "nm0002907",
+          "name": "Alexander Skarsgård"
+        },
+        {
+          "id": "nm4456120",
+          "name": "Elizabeth Debicki"
+        },
+        {
           "id": "nm0227759",
           "name": "Peter Dinklage"
-        },
-        {
-          "id": "nm6625833",
-          "name": "Gustav Lindh"
-        },
-        {
-          "id": "nm2261102",
-          "name": "Máté Mészáros"
         }
       ],
       "label": "Oct 30, 2026"
@@ -6911,7 +6911,7 @@
     {
       "id": "tt36834996",
       "title": "All of a Sudden",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGU1ZTQ4ZDQtYzFjNy00MjVjLTg3MjMtYzdkNDI4NWY5ODQ5XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTY1ZjUwYzctY2E5My00MGRlLWI3N2MtZWRmYjlmNGY0MjcyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
       "genres": [
         "Drama"
@@ -6947,7 +6947,7 @@
     {
       "id": "tt36408401",
       "title": "The Further Mis-Adventures of Cliff Booth",
-      "image": "https://m.media-amazon.com/images/M/MV5BZDc2MjU2ZjktZTc0Ny00YjgwLTk2OTYtMDQzNTU5OGNhMjdkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzUwMGJhMTItZTMyYy00MmNmLTg1NDctYzFmYzczNGM1MDI0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -7665,12 +7665,12 @@
           "name": "Mohanlal"
         },
         {
-          "id": "nm1307939",
-          "name": "Meera Jasmine"
-        },
-        {
           "id": "nm0415538",
           "name": "Jagadish"
+        },
+        {
+          "id": "nm1307939",
+          "name": "Meera Jasmine"
         },
         {
           "id": "nm1388202",
