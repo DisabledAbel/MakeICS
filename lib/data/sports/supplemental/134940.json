@@ -1,24 +1,10 @@
 {
   "teamId": "134940",
   "teamName": "Green Bay Packers",
-  "updatedAt": "2026-10-26T04:50:54.659Z",
+  "updatedAt": "2026-10-30T05:52:17.751Z",
   "generatedAt": "2026-07-18T06:13:33.280Z",
   "generateAt": "2026-07-18T06:13:33.280Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-aaf70a66-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Green Bay Packers vs Carolina Panthers",
-      "strHomeTeam": "Green Bay Packers",
-      "strAwayTeam": "Carolina Panthers",
-      "dateEvent": "2026-10-30",
-      "strTime": "00:15:00Z",
-      "strTimestamp": "2026-10-30T00:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lambeau Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab581b93-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New England Patriots vs Green Bay Packers",

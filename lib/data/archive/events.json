@@ -86053,6 +86053,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-aaf70a66-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-aaf70a66-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134940.json",
+      "record": {
+        "idEvent": "sdv-nfl-aaf70a66-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Green Bay Packers vs Carolina Panthers",
+        "strHomeTeam": "Green Bay Packers",
+        "strAwayTeam": "Carolina Panthers",
+        "dateEvent": "2026-10-30",
+        "strTime": "00:15:00Z",
+        "strTimestamp": "2026-10-30T00:15:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Lambeau Field",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-aaf70dac-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-aaf70dac-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134918.json",
