@@ -1,25 +1,8 @@
 {
   "teamId": "134871",
   "teamName": "Cleveland Cavaliers",
-  "updatedAt": "2026-10-29T04:31:04.941Z",
+  "updatedAt": "2026-10-30T04:30:54.232Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909893",
-      "strEvent": "Atlanta Hawks vs Cleveland Cavaliers",
-      "strHomeTeam": "Atlanta Hawks",
-      "strAwayTeam": "Cleveland Cavaliers",
-      "dateEvent": "2026-10-29",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-30T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "State Farm Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-26T22:19:28.193Z",
-      "source": "scraped",
-      "idHomeTeam": "134880",
-      "idAwayTeam": "134871"
-    },
     {
       "idEvent": "scraped-espn-401909900",
       "strEvent": "Milwaukee Bucks vs Cleveland Cavaliers",
