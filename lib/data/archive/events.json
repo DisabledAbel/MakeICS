@@ -7244,6 +7244,30 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:nhl-2026020214",
+      "uid": "sportsdb-nhl-2026020214@makeics.local",
+      "source": "lib/data/sports/supplemental/134840.json",
+      "record": {
+        "idEvent": "nhl-2026020214",
+        "strEvent": "Vegas Golden Knights vs New Jersey Devils",
+        "strHomeTeam": "Vegas Golden Knights",
+        "strAwayTeam": "New Jersey Devils",
+        "dateEvent": "2026-10-30",
+        "strTime": "22:00:00",
+        "strTimestamp": "2026-10-30T22:00:00Z",
+        "strLeague": "NHL",
+        "strVenue": "T-Mobile Arena",
+        "strStatus": "NS",
+        "strTVStation": "MSGSN, NHLN, SCRIPPS, SN+",
+        "updatedAt": "2026-10-01T23:56:52.194Z",
+        "source": "scraped",
+        "sourceEventId": "2026020214",
+        "idHomeTeam": "135913",
+        "idAwayTeam": "134840"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-2026-04-30t02-00z-seattle-storm-vs-portland-fire",
       "uid": "sportsdb-scraped-2026-04-30t02-00z-seattle-storm-vs-portland-fire@makeics.local",
       "source": "lib/data/sports/supplemental/152565.json",
