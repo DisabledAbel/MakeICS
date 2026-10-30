@@ -1,26 +1,8 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-10-28T05:54:22.073Z",
+  "updatedAt": "2026-10-30T05:59:38.643Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020213",
-      "strEvent": "San Jose Sharks vs Vancouver Canucks",
-      "strHomeTeam": "San Jose Sharks",
-      "strAwayTeam": "Vancouver Canucks",
-      "dateEvent": "2026-10-29",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-30T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "SAP Center at San Jose",
-      "strStatus": "NS",
-      "strTVStation": "NBCSCA, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020213",
-      "idHomeTeam": "134853",
-      "idAwayTeam": "134850"
-    },
     {
       "idEvent": "nhl-2026020222",
       "strEvent": "San Jose Sharks vs Ottawa Senators",

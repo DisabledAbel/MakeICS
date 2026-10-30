@@ -1,26 +1,8 @@
 {
   "teamId": "134831",
   "teamName": "Buffalo Sabres",
-  "updatedAt": "2026-10-29T22:50:49.919Z",
+  "updatedAt": "2026-10-30T05:59:38.643Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020211",
-      "strEvent": "Anaheim Ducks vs Buffalo Sabres",
-      "strHomeTeam": "Anaheim Ducks",
-      "strAwayTeam": "Buffalo Sabres",
-      "dateEvent": "2026-10-29",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-30T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Honda Center",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020211",
-      "idHomeTeam": "134846",
-      "idAwayTeam": "134831"
-    },
     {
       "idEvent": "nhl-2026020221",
       "strEvent": "Los Angeles Kings vs Buffalo Sabres",

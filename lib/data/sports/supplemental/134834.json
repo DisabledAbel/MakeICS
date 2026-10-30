@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-10-29T22:50:49.919Z",
+  "updatedAt": "2026-10-30T05:59:38.643Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020209",
-      "strEvent": "Dallas Stars vs Montreal Canadiens",
-      "strHomeTeam": "Dallas Stars",
-      "strAwayTeam": "Montreal Canadiens",
-      "dateEvent": "2026-10-29",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-30T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "Prime Video, RDS, TSN2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020209",
-      "idHomeTeam": "134856",
-      "idAwayTeam": "134834"
-    },
     {
       "idEvent": "nhl-2026020223",
       "strEvent": "Montreal Canadiens vs Pittsburgh Penguins",

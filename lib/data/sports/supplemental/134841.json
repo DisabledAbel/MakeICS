@@ -1,26 +1,8 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-10-28T05:54:22.073Z",
+  "updatedAt": "2026-10-30T05:59:38.643Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020210",
-      "strEvent": "Minnesota Wild vs New York Islanders",
-      "strHomeTeam": "Minnesota Wild",
-      "strAwayTeam": "New York Islanders",
-      "dateEvent": "2026-10-29",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-30T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Grand Casino Arena",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, MSGSN, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020210",
-      "idHomeTeam": "134857",
-      "idAwayTeam": "134841"
-    },
     {
       "idEvent": "nhl-2026020220",
       "strEvent": "New York Islanders vs Edmonton Oilers",

@@ -1,26 +1,8 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-10-29T22:50:49.919Z",
+  "updatedAt": "2026-10-30T05:59:38.643Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020205",
-      "strEvent": "Pittsburgh Penguins vs Utah Mammoth",
-      "strHomeTeam": "Pittsburgh Penguins",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-10-29",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-29T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "PPG Paints Arena",
-      "strStatus": "NS",
-      "strTVStation": "Mammoth+, SN, SN-PIT, TVAS, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
-      "source": "scraped",
-      "sourceEventId": "2026020205",
-      "idHomeTeam": "134844",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020223",
       "strEvent": "Montreal Canadiens vs Pittsburgh Penguins",

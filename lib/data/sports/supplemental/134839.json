@@ -1,26 +1,8 @@
 {
   "teamId": "134839",
   "teamName": "Columbus Blue Jackets",
-  "updatedAt": "2026-10-28T05:54:22.073Z",
+  "updatedAt": "2026-10-30T05:59:38.643Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020206",
-      "strEvent": "Carolina Hurricanes vs Columbus Blue Jackets",
-      "strHomeTeam": "Carolina Hurricanes",
-      "strAwayTeam": "Columbus Blue Jackets",
-      "dateEvent": "2026-10-29",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-29T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Lenovo Center",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, CBJHN, CBJNHL, HHN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020206",
-      "idHomeTeam": "134838",
-      "idAwayTeam": "134839"
-    },
     {
       "idEvent": "nhl-2026020225",
       "strEvent": "Dallas Stars vs Columbus Blue Jackets",

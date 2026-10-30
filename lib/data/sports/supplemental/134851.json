@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-10-28T05:54:22.073Z",
+  "updatedAt": "2026-10-30T05:59:38.643Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020204",
-      "strEvent": "Tampa Bay Lightning vs Winnipeg Jets",
-      "strHomeTeam": "Tampa Bay Lightning",
-      "strAwayTeam": "Winnipeg Jets",
-      "dateEvent": "2026-10-29",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-29T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Benchmark International Arena",
-      "strStatus": "NS",
-      "strTVStation": "TSN3, The Spot",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020204",
-      "idHomeTeam": "134836",
-      "idAwayTeam": "134851"
-    },
     {
       "idEvent": "nhl-2026020215",
       "strEvent": "Florida Panthers vs Winnipeg Jets",

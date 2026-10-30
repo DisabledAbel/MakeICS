@@ -1,26 +1,8 @@
 {
   "teamId": "134854",
   "teamName": "Chicago Blackhawks",
-  "updatedAt": "2026-10-28T05:54:22.073Z",
+  "updatedAt": "2026-10-30T05:59:38.643Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020203",
-      "strEvent": "Detroit Red Wings vs Chicago Blackhawks",
-      "strHomeTeam": "Detroit Red Wings",
-      "strAwayTeam": "Chicago Blackhawks",
-      "dateEvent": "2026-10-29",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-29T23:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020203",
-      "idHomeTeam": "134832",
-      "idAwayTeam": "134854"
-    },
     {
       "idEvent": "nhl-2026020217",
       "strEvent": "Boston Bruins vs Chicago Blackhawks",
