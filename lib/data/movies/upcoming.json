@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T11:13:03.627Z",
+  "generatedAt": "2026-10-31T10:45:08.376Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -5870,6 +5870,36 @@
       "label": "Oct 31, 2026"
     },
     {
+      "id": "tt48920043",
+      "title": "John James: The Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjg1MmJiODQtZmFjYi00NTdmLWJhNjEtYzBhOWNlMmJiOTQ0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sat, 31 Oct 2026 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "people": [
+        {
+          "id": "nm4742582",
+          "name": "Mike Adair"
+        },
+        {
+          "id": "nm0368225",
+          "name": "John Hasler"
+        },
+        {
+          "id": "nm4742563",
+          "name": "Bob Holt"
+        },
+        {
+          "id": "nm18751612",
+          "name": "Tpimes2008"
+        }
+      ],
+      "label": "Oct 31, 2026"
+    },
+    {
       "id": "tt34375721",
       "title": "Operation Kabul",
       "image": "https://m.media-amazon.com/images/M/MV5BNzA3NjQ4YmMtMmNlOS00NzJjLTk1YzgtMjYzMDRkMzRhYjNlXkEyXkFqcGc@._V1_.jpg",
@@ -9106,16 +9136,16 @@
       ],
       "people": [
         {
-          "id": "nm10056998",
-          "name": "Meg Fraser"
-        },
-        {
           "id": "nm1916003",
           "name": "Laura Gordon"
         },
         {
           "id": "nm10988681",
           "name": "Stacy Clausen"
+        },
+        {
+          "id": "nm10056998",
+          "name": "Meg Fraser"
         },
         {
           "id": "nm0418877",
