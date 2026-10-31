@@ -1,26 +1,8 @@
 {
   "teamId": "134833",
   "teamName": "Florida Panthers",
-  "updatedAt": "2026-10-28T05:54:22.073Z",
+  "updatedAt": "2026-10-31T05:55:25.851Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020215",
-      "strEvent": "Florida Panthers vs Winnipeg Jets",
-      "strHomeTeam": "Florida Panthers",
-      "strAwayTeam": "Winnipeg Jets",
-      "dateEvent": "2026-10-30",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-30T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Amerant Bank Arena",
-      "strStatus": "NS",
-      "strTVStation": "SCRIPPS, TSN3, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020215",
-      "idHomeTeam": "134833",
-      "idAwayTeam": "134851"
-    },
     {
       "idEvent": "nhl-2026020233",
       "strEvent": "Florida Panthers vs Detroit Red Wings",

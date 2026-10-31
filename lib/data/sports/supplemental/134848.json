@@ -1,26 +1,8 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-10-29T22:50:49.919Z",
+  "updatedAt": "2026-10-31T05:55:25.851Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020216",
-      "strEvent": "Calgary Flames vs Seattle Kraken",
-      "strHomeTeam": "Calgary Flames",
-      "strAwayTeam": "Seattle Kraken",
-      "dateEvent": "2026-10-30",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-31T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Saddledome",
-      "strStatus": "NS",
-      "strTVStation": "KONG, Prime Video, SN, SN360",
-      "updatedAt": "2026-10-29T22:50:49.919Z",
-      "source": "scraped",
-      "sourceEventId": "2026020216",
-      "idHomeTeam": "134848",
-      "idAwayTeam": "140082"
-    },
     {
       "idEvent": "nhl-2026020226",
       "strEvent": "Colorado Avalanche vs Calgary Flames",
