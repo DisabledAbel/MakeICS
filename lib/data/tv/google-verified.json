@@ -1,9 +1,4 @@
 {
-  "Outlander: Blood of My Blood-2-7": {
-    "airdate": "2026-10-30",
-    "name": "Heart of the Highlands",
-    "verifiedAt": "2026-09-23T17:47:24.366Z"
-  },
   "Outlander: Blood of My Blood-2-8": {
     "airdate": "2026-11-06",
     "name": "The Dance",
@@ -15,7 +10,7 @@
     "verifiedAt": "2026-09-23T17:47:29.836Z"
   },
   "Outlander: Blood of My Blood-2-10": {
-    "airdate": "2026-11-20",
+    "airdate": "2026-11-27",
     "name": "Twelfth Night",
     "verifiedAt": "2026-09-23T17:47:32.476Z"
   },
@@ -60,7 +55,7 @@
     "verifiedAt": "2026-10-17T16:13:06.095Z"
   },
   "WWE Friday Night SmackDown-27-48": {
-    "airdate": "2026-11-27",
+    "airdate": "2025-11-28",
     "name": "Final Countdown to War",
     "verifiedAt": "2026-10-18T16:23:31.181Z"
   },
@@ -90,7 +85,7 @@
     "verifiedAt": "2026-10-21T17:58:40.471Z"
   },
   "Get Jiro-1-9": {
-    "airdate": "2026-11-22",
+    "airdate": "2026-11-21",
     "name": "Our Specials This Evening",
     "verifiedAt": "2026-10-21T17:58:42.901Z"
   },
@@ -115,7 +110,7 @@
     "verifiedAt": "2026-10-25T17:01:21.082Z"
   },
   "WWE NXT-20-44": {
-    "airdate": "2026-11-04",
+    "airdate": "2026-11-03",
     "name": "Episode #20.44",
     "verifiedAt": "2026-10-26T19:02:47.309Z"
   },
@@ -155,7 +150,7 @@
     "verifiedAt": "2026-10-26T19:05:52.759Z"
   },
   "Crossroad Springs-2-8": {
-    "airdate": "2026-11-01",
+    "airdate": "2026-10-22",
     "name": "Showdown at the Fair",
     "verifiedAt": "2026-10-27T18:35:48.321Z"
   },
@@ -165,7 +160,7 @@
     "verifiedAt": "2026-10-27T18:36:54.255Z"
   },
   "Fire Country-5-7": {
-    "airdate": "2026-11-20",
+    "airdate": "2026-12-04",
     "name": "Episode #5.7",
     "verifiedAt": "2026-10-27T18:36:57.114Z"
   },
@@ -195,7 +190,7 @@
     "verifiedAt": "2026-10-28T18:44:36.148Z"
   },
   "Surviving Alaska: Women of the Wild-1-7": {
-    "airdate": "2026-11-17",
+    "airdate": "2026-10-07",
     "name": "Born to Run",
     "verifiedAt": "2026-10-28T18:44:38.561Z"
   },
@@ -210,14 +205,9 @@
     "verifiedAt": "2026-10-29T18:49:51.771Z"
   },
   "On Patrol: Live-5-32": {
-    "airdate": "2026-11-14",
+    "airdate": "2026-11-15",
     "name": "Episode #5.32",
     "verifiedAt": "2026-10-29T18:49:54.210Z"
-  },
-  "The Patrick Star Show-6-1": {
-    "airdate": "2026-10-30",
-    "name": "Scary Tales",
-    "verifiedAt": "2026-10-30T18:27:04.647Z"
   },
   "The Voice-30-17": {
     "airdate": "2026-12-14",
@@ -225,8 +215,48 @@
     "verifiedAt": "2026-10-30T18:28:46.154Z"
   },
   "48 Hours-39-5": {
-    "airdate": "2026-10-31",
+    "airdate": "2025-10-25",
     "name": "Closing the Cold Case of Robin Lawrence",
     "verifiedAt": "2026-10-30T18:29:38.431Z"
+  },
+  "WWE Friday Night SmackDown-27-45": {
+    "airdate": "2025-11-07",
+    "name": "The Scottish Exile",
+    "verifiedAt": "2026-10-31T17:31:54.353Z"
+  },
+  "WWE Friday Night SmackDown-27-46": {
+    "airdate": "2025-11-14",
+    "name": "Vision of Vengeance",
+    "verifiedAt": "2026-10-31T17:31:56.933Z"
+  },
+  "WWE Friday Night SmackDown-27-47": {
+    "airdate": "2026-11-20",
+    "name": "WarGames Wildcard",
+    "verifiedAt": "2026-10-31T17:31:59.370Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2025-12-05",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-10-31T17:32:04.422Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-10-31T17:32:06.936Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2026-01-02",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-10-31T17:32:09.378Z"
+  },
+  "Love & Marriage: Huntsville-12-12": {
+    "airdate": "2026-09-12",
+    "name": "A New Era",
+    "verifiedAt": "2026-10-31T17:33:10.197Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-8": {
+    "airdate": "2026-11-24",
+    "name": "Building the Dream",
+    "verifiedAt": "2026-10-31T17:34:37.874Z"
   }
 }
