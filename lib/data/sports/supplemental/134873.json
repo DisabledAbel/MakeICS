@@ -1,25 +1,8 @@
 {
   "teamId": "134873",
   "teamName": "Indiana Pacers",
-  "updatedAt": "2026-10-29T04:31:04.941Z",
+  "updatedAt": "2026-10-31T04:12:52.731Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909282",
-      "strEvent": "Miami Heat vs Indiana Pacers",
-      "strHomeTeam": "Miami Heat",
-      "strAwayTeam": "Indiana Pacers",
-      "dateEvent": "2026-10-30",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-31T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Kaseya Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134882",
-      "idAwayTeam": "134873"
-    },
     {
       "idEvent": "scraped-espn-401909904",
       "strEvent": "Indiana Pacers vs Brooklyn Nets",

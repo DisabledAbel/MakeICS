@@ -1,25 +1,8 @@
 {
   "teamId": "134864",
   "teamName": "Toronto Raptors",
-  "updatedAt": "2026-10-29T04:31:04.941Z",
+  "updatedAt": "2026-10-31T04:12:52.731Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909281",
-      "strEvent": "Toronto Raptors vs Orlando Magic",
-      "strHomeTeam": "Toronto Raptors",
-      "strAwayTeam": "Orlando Magic",
-      "dateEvent": "2026-10-30",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-30T23:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134864",
-      "idAwayTeam": "134883"
-    },
     {
       "idEvent": "scraped-espn-401909906",
       "strEvent": "Los Angeles Lakers vs Toronto Raptors",

@@ -1,25 +1,8 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-10-29T04:31:04.941Z",
+  "updatedAt": "2026-10-31T04:12:52.731Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909277",
-      "strEvent": "Washington Wizards vs Charlotte Hornets",
-      "strHomeTeam": "Washington Wizards",
-      "strAwayTeam": "Charlotte Hornets",
-      "dateEvent": "2026-10-30",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-30T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134884",
-      "idAwayTeam": "134881"
-    },
     {
       "idEvent": "scraped-espn-401909911",
       "strEvent": "Orlando Magic vs Washington Wizards",

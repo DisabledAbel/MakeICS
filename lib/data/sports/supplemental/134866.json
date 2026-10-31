@@ -1,25 +1,8 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-10-29T04:31:04.941Z",
+  "updatedAt": "2026-10-31T04:12:52.731Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909284",
-      "strEvent": "Minnesota Timberwolves vs Los Angeles Clippers",
-      "strHomeTeam": "Minnesota Timberwolves",
-      "strAwayTeam": "Los Angeles Clippers",
-      "dateEvent": "2026-10-30",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-10-31T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Target Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134886",
-      "idAwayTeam": "134866"
-    },
     {
       "idEvent": "scraped-espn-401909905",
       "strEvent": "Golden State Warriors vs Los Angeles Clippers",

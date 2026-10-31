@@ -1,25 +1,8 @@
 {
   "teamId": "134863",
   "teamName": "Philadelphia 76ers",
-  "updatedAt": "2026-10-29T04:31:04.941Z",
+  "updatedAt": "2026-10-31T04:12:52.731Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909280",
-      "strEvent": "Philadelphia 76ers vs New York Knicks",
-      "strHomeTeam": "Philadelphia 76ers",
-      "strAwayTeam": "New York Knicks",
-      "dateEvent": "2026-10-30",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-30T23:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "Prime Video",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134863",
-      "idAwayTeam": "134862"
-    },
     {
       "idEvent": "scraped-espn-401909897",
       "strEvent": "Charlotte Hornets vs Philadelphia 76ers",

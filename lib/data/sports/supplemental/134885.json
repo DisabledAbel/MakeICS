@@ -1,25 +1,8 @@
 {
   "teamId": "134885",
   "teamName": "Denver Nuggets",
-  "updatedAt": "2026-10-29T04:31:04.941Z",
+  "updatedAt": "2026-10-31T04:12:52.731Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909286",
-      "strEvent": "Phoenix Suns vs Denver Nuggets",
-      "strHomeTeam": "Phoenix Suns",
-      "strAwayTeam": "Denver Nuggets",
-      "dateEvent": "2026-10-30",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-10-31T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Mortgage Matchup Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134868",
-      "idAwayTeam": "134885"
-    },
     {
       "idEvent": "scraped-espn-401909918",
       "strEvent": "Denver Nuggets vs Portland Trail Blazers",

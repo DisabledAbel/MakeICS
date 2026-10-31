@@ -1,25 +1,8 @@
 {
   "teamId": "134861",
   "teamName": "Brooklyn Nets",
-  "updatedAt": "2026-10-28T04:08:56.391Z",
+  "updatedAt": "2026-10-31T04:12:52.731Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909279",
-      "strEvent": "Brooklyn Nets vs Detroit Pistons",
-      "strHomeTeam": "Brooklyn Nets",
-      "strAwayTeam": "Detroit Pistons",
-      "dateEvent": "2026-10-30",
-      "strTime": "23:30:00",
-      "strTimestamp": "2026-10-30T23:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Barclays Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134861",
-      "idAwayTeam": "134872"
-    },
     {
       "idEvent": "scraped-espn-401909904",
       "strEvent": "Indiana Pacers vs Brooklyn Nets",
