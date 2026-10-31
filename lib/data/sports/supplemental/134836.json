@@ -1,26 +1,8 @@
 {
   "teamId": "134836",
   "teamName": "Tampa Bay Lightning",
-  "updatedAt": "2026-10-30T05:59:38.643Z",
+  "updatedAt": "2026-10-31T21:43:10.410Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020219",
-      "strEvent": "Nashville Predators vs Tampa Bay Lightning",
-      "strHomeTeam": "Nashville Predators",
-      "strAwayTeam": "Tampa Bay Lightning",
-      "dateEvent": "2026-10-31",
-      "strTime": "18:00:00",
-      "strTimestamp": "2026-10-31T18:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Bridgestone Arena",
-      "strStatus": "NS",
-      "strTVStation": "SCRIPPS, The Spot",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020219",
-      "idHomeTeam": "134858",
-      "idAwayTeam": "134836"
-    },
     {
       "idEvent": "nhl-2026020238",
       "strEvent": "Tampa Bay Lightning vs Detroit Red Wings",

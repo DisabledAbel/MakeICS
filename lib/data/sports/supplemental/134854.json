@@ -1,26 +1,8 @@
 {
   "teamId": "134854",
   "teamName": "Chicago Blackhawks",
-  "updatedAt": "2026-10-30T05:59:38.643Z",
+  "updatedAt": "2026-10-31T21:43:10.410Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020217",
-      "strEvent": "Boston Bruins vs Chicago Blackhawks",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Chicago Blackhawks",
-      "dateEvent": "2026-10-31",
-      "strTime": "17:00:00",
-      "strTimestamp": "2026-10-31T17:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "CHSN, NESN, SN1",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020217",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "134854"
-    },
     {
       "idEvent": "nhl-2026020234",
       "strEvent": "Chicago Blackhawks vs Colorado Avalanche",

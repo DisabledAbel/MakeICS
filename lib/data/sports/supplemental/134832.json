@@ -1,26 +1,8 @@
 {
   "teamId": "134832",
   "teamName": "Detroit Red Wings",
-  "updatedAt": "2026-10-30T05:59:38.643Z",
+  "updatedAt": "2026-10-31T21:43:10.410Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020218",
-      "strEvent": "Detroit Red Wings vs St. Louis Blues",
-      "strHomeTeam": "Detroit Red Wings",
-      "strAwayTeam": "St. Louis Blues",
-      "dateEvent": "2026-10-31",
-      "strTime": "17:00:00",
-      "strTimestamp": "2026-10-31T17:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "BN+, DSN, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020218",
-      "idHomeTeam": "134832",
-      "idAwayTeam": "134859"
-    },
     {
       "idEvent": "nhl-2026020233",
       "strEvent": "Florida Panthers vs Detroit Red Wings",
