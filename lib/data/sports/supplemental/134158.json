@@ -1,7 +1,7 @@
 {
   "teamId": "134158",
   "teamName": "Real Salt Lake",
-  "updatedAt": "2026-10-30T22:35:49.969Z",
+  "updatedAt": "2026-10-31T21:48:01.669Z",
   "events": [
     {
       "idEvent": "mls-401932543",
@@ -15,11 +15,11 @@
       "strTime": "22:00:00",
       "strTimestamp": "2027-02-21T22:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "TBD",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932529",
@@ -33,11 +33,11 @@
       "strTime": "03:00:00",
       "strTimestamp": "2027-02-28T03:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "TBD",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932514",
@@ -51,11 +51,11 @@
       "strTime": "21:00:00",
       "strTimestamp": "2027-03-06T21:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "TBD",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932490",
@@ -69,11 +69,11 @@
       "strTime": "03:00:00",
       "strTimestamp": "2027-03-14T03:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "TBD",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932476",
@@ -87,11 +87,11 @@
       "strTime": "01:00:00",
       "strTimestamp": "2027-03-21T01:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932459",
@@ -105,11 +105,11 @@
       "strTime": "01:00:00",
       "strTimestamp": "2027-03-28T01:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932448",
@@ -123,11 +123,11 @@
       "strTime": "23:00:00",
       "strTimestamp": "2027-04-03T23:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "TBD",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932431",
@@ -141,11 +141,11 @@
       "strTime": "01:00:00",
       "strTimestamp": "2027-04-08T01:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932419",
@@ -159,11 +159,11 @@
       "strTime": "01:00:00",
       "strTimestamp": "2027-04-11T01:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932406",
@@ -177,11 +177,11 @@
       "strTime": "01:00:00",
       "strTimestamp": "2027-04-18T01:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932392",
@@ -195,11 +195,11 @@
       "strTime": "02:00:00",
       "strTimestamp": "2027-04-22T02:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "TBD",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932378",
@@ -213,11 +213,11 @@
       "strTime": "01:00:00",
       "strTimestamp": "2027-04-25T01:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932367",
@@ -231,11 +231,11 @@
       "strTime": "00:00:00",
       "strTimestamp": "2027-05-02T00:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "TBD",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     },
     {
       "idEvent": "mls-401932349",
@@ -249,11 +249,11 @@
       "strTime": "00:00:00",
       "strTimestamp": "2027-05-09T00:00:00Z",
       "strLeague": "MLS",
-      "strVenue": "",
+      "strVenue": null,
       "strStatus": "NS",
       "strTVStation": "Apple TV",
       "source": "espn",
-      "updatedAt": "2026-10-30T22:35:49.969Z"
+      "updatedAt": "2026-10-31T21:48:01.669Z"
     }
   ]
 }
