@@ -9,6 +9,11 @@
     "name": "My Uncle Joe's Murder",
     "verifiedAt": "2026-10-24T16:30:43.647Z"
   },
+  "48 Hours-39-5": {
+    "airdate": "2025-10-25",
+    "name": "Closing the Cold Case of Robin Lawrence",
+    "verifiedAt": "2026-10-30T18:29:38.431Z"
+  },
   "AEW: Collision-4-47": {
     "airdate": "2026-10-24",
     "name": "Episode #4.47",
@@ -33,6 +38,11 @@
     "airdate": "2026-10-15",
     "name": "Waiting at the Stations",
     "verifiedAt": "2026-10-25T17:00:39.227Z"
+  },
+  "Crossroad Springs-2-8": {
+    "airdate": "2026-10-22",
+    "name": "Showdown at the Fair",
+    "verifiedAt": "2026-10-27T18:35:48.321Z"
   },
   "Elsbeth-4-4": {
     "airdate": "2026-10-29",
@@ -67,7 +77,7 @@
   "Love & Marriage: Huntsville-12-12": {
     "airdate": "2026-09-12",
     "name": "A New Era",
-    "verifiedAt": "2026-10-30T18:28:33.852Z"
+    "verifiedAt": "2026-10-31T17:33:10.197Z"
   },
   "Mike Judge's Beavis and Butt-Head-4-3": {
     "airdate": "2026-10-21",
@@ -127,7 +137,7 @@
   "Surviving Alaska: Women of the Wild-1-7": {
     "airdate": "2026-10-07",
     "name": "Born to Run",
-    "verifiedAt": "2026-10-26T19:05:42.772Z"
+    "verifiedAt": "2026-10-28T18:44:38.561Z"
   },
   "Surviving Alaska: Women of the Wild-1-8": {
     "airdate": "2026-10-07",
@@ -197,31 +207,36 @@
   "WWE Friday Night SmackDown-27-45": {
     "airdate": "2025-11-07",
     "name": "The Scottish Exile",
-    "verifiedAt": "2026-10-30T18:27:10.343Z"
+    "verifiedAt": "2026-10-31T17:31:54.353Z"
   },
   "WWE Friday Night SmackDown-27-46": {
     "airdate": "2025-11-14",
     "name": "Vision of Vengeance",
-    "verifiedAt": "2026-10-30T18:27:13.273Z"
+    "verifiedAt": "2026-10-31T17:31:56.933Z"
   },
   "WWE Friday Night SmackDown-27-47": {
     "airdate": "2025-11-21",
     "name": "WarGames Wildcard",
     "verifiedAt": "2026-10-28T18:41:32.513Z"
   },
+  "WWE Friday Night SmackDown-27-48": {
+    "airdate": "2025-11-28",
+    "name": "Final Countdown to War",
+    "verifiedAt": "2026-10-18T16:23:31.181Z"
+  },
   "WWE Friday Night SmackDown-27-49": {
     "airdate": "2025-12-05",
     "name": "Survivor Series 2025 Fallout",
-    "verifiedAt": "2026-10-28T18:41:37.325Z"
+    "verifiedAt": "2026-10-31T17:32:04.422Z"
   },
   "WWE Friday Night SmackDown-27-50": {
     "airdate": "2025-12-12",
     "name": "Terror of Terror Twins",
-    "verifiedAt": "2026-10-28T18:41:39.736Z"
+    "verifiedAt": "2026-10-31T17:32:06.936Z"
   },
   "WWE Friday Night SmackDown-28-1": {
     "airdate": "2026-01-02",
     "name": "Happy New Year 2026",
-    "verifiedAt": "2026-10-29T18:49:45.965Z"
+    "verifiedAt": "2026-10-31T17:32:09.378Z"
   }
 }
