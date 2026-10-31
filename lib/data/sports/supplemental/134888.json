@@ -1,25 +1,8 @@
 {
   "teamId": "134888",
   "teamName": "Portland Trail Blazers",
-  "updatedAt": "2026-10-30T04:30:54.232Z",
+  "updatedAt": "2026-10-31T21:00:27.687Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909896",
-      "strEvent": "Utah Jazz vs Portland Trail Blazers",
-      "strHomeTeam": "Utah Jazz",
-      "strAwayTeam": "Portland Trail Blazers",
-      "dateEvent": "2026-10-31",
-      "strTime": "19:00:00",
-      "strTimestamp": "2026-10-31T19:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Delta Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134889",
-      "idAwayTeam": "134888"
-    },
     {
       "idEvent": "scraped-espn-401909918",
       "strEvent": "Denver Nuggets vs Portland Trail Blazers",

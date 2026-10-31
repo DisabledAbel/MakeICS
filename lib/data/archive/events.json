@@ -18940,6 +18940,29 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401909896",
+      "uid": "sportsdb-scraped-espn-401909896@makeics.local",
+      "source": "lib/data/sports/supplemental/134888.json",
+      "record": {
+        "idEvent": "scraped-espn-401909896",
+        "strEvent": "Utah Jazz vs Portland Trail Blazers",
+        "strHomeTeam": "Utah Jazz",
+        "strAwayTeam": "Portland Trail Blazers",
+        "dateEvent": "2026-10-31",
+        "strTime": "19:00:00",
+        "strTimestamp": "2026-10-31T19:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Delta Center",
+        "strStatus": "NS",
+        "strTVStation": "NBA League Pass",
+        "updatedAt": "2026-10-19T22:01:14.956Z",
+        "source": "scraped",
+        "idHomeTeam": "134889",
+        "idAwayTeam": "134888"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401914101",
       "uid": "sportsdb-scraped-espn-401914101@makeics.local",
       "source": "lib/data/sports/supplemental/134862.json",
