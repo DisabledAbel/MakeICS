@@ -1,26 +1,8 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-10-30T05:59:38.643Z",
+  "updatedAt": "2026-11-01T22:10:10.146Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020228",
-      "strEvent": "Washington Capitals vs Minnesota Wild",
-      "strHomeTeam": "Washington Capitals",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-11-01",
-      "strTime": "20:30:00",
-      "strTimestamp": "2026-11-01T20:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, MNMT, SN, TVAS, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020228",
-      "idHomeTeam": "134845",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020241",
       "strEvent": "Philadelphia Flyers vs Minnesota Wild",

@@ -1,26 +1,8 @@
 {
   "teamId": "134838",
   "teamName": "Carolina Hurricanes",
-  "updatedAt": "2026-10-30T05:59:38.643Z",
+  "updatedAt": "2026-11-01T22:10:10.146Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020227",
-      "strEvent": "Carolina Hurricanes vs Winnipeg Jets",
-      "strHomeTeam": "Carolina Hurricanes",
-      "strAwayTeam": "Winnipeg Jets",
-      "dateEvent": "2026-11-01",
-      "strTime": "18:00:00",
-      "strTimestamp": "2026-11-01T18:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Lenovo Center",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, NHLN, TSN3, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020227",
-      "idHomeTeam": "134838",
-      "idAwayTeam": "134851"
-    },
     {
       "idEvent": "nhl-2026020245",
       "strEvent": "Nashville Predators vs Carolina Hurricanes",

@@ -1,26 +1,8 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-10-30T05:59:38.643Z",
+  "updatedAt": "2026-11-01T22:10:10.146Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020229",
-      "strEvent": "Philadelphia Flyers vs Utah Mammoth",
-      "strHomeTeam": "Philadelphia Flyers",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-11-01",
-      "strTime": "21:00:00",
-      "strTimestamp": "2026-11-01T21:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "Mammoth+, NBCSP, SN1, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
-      "source": "scraped",
-      "sourceEventId": "2026020229",
-      "idHomeTeam": "134843",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020236",
       "strEvent": "Toronto Maple Leafs vs Utah Mammoth",

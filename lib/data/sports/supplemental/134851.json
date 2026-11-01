@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-10-31T05:55:25.851Z",
+  "updatedAt": "2026-11-01T22:10:10.146Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020227",
-      "strEvent": "Carolina Hurricanes vs Winnipeg Jets",
-      "strHomeTeam": "Carolina Hurricanes",
-      "strAwayTeam": "Winnipeg Jets",
-      "dateEvent": "2026-11-01",
-      "strTime": "18:00:00",
-      "strTimestamp": "2026-11-01T18:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Lenovo Center",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, NHLN, TSN3, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020227",
-      "idHomeTeam": "134838",
-      "idAwayTeam": "134851"
-    },
     {
       "idEvent": "nhl-2026020237",
       "strEvent": "Montreal Canadiens vs Winnipeg Jets",
