@@ -1,26 +1,8 @@
 {
   "teamId": "134856",
   "teamName": "Dallas Stars",
-  "updatedAt": "2026-10-30T05:59:38.643Z",
+  "updatedAt": "2026-11-01T06:23:05.259Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020225",
-      "strEvent": "Dallas Stars vs Columbus Blue Jackets",
-      "strHomeTeam": "Dallas Stars",
-      "strAwayTeam": "Columbus Blue Jackets",
-      "dateEvent": "2026-10-31",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-01T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020225",
-      "idHomeTeam": "134856",
-      "idAwayTeam": "134839"
-    },
     {
       "idEvent": "nhl-2026020243",
       "strEvent": "Washington Capitals vs Dallas Stars",

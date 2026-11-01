@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-10-30T05:59:38.643Z",
+  "updatedAt": "2026-11-01T06:23:05.259Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020223",
-      "strEvent": "Montreal Canadiens vs Pittsburgh Penguins",
-      "strHomeTeam": "Montreal Canadiens",
-      "strAwayTeam": "Pittsburgh Penguins",
-      "dateEvent": "2026-10-31",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-31T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Centre Bell",
-      "strStatus": "NS",
-      "strTVStation": "SN-PIT, SN1, SNE, TVAS",
-      "updatedAt": "2026-10-29T22:50:49.919Z",
-      "source": "scraped",
-      "sourceEventId": "2026020223",
-      "idHomeTeam": "134834",
-      "idAwayTeam": "134844"
-    },
     {
       "idEvent": "nhl-2026020237",
       "strEvent": "Montreal Canadiens vs Winnipeg Jets",

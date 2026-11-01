@@ -1,26 +1,8 @@
 {
   "teamId": "134850",
   "teamName": "Vancouver Canucks",
-  "updatedAt": "2026-10-30T05:59:38.643Z",
+  "updatedAt": "2026-11-01T06:23:05.259Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020224",
-      "strEvent": "Vancouver Canucks vs Toronto Maple Leafs",
-      "strHomeTeam": "Vancouver Canucks",
-      "strAwayTeam": "Toronto Maple Leafs",
-      "dateEvent": "2026-10-31",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-10-31T23:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Arena",
-      "strStatus": "NS",
-      "strTVStation": "SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020224",
-      "idHomeTeam": "134850",
-      "idAwayTeam": "134837"
-    },
     {
       "idEvent": "nhl-2026020246",
       "strEvent": "Vancouver Canucks vs Anaheim Ducks",
