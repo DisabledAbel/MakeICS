@@ -105,6 +105,63 @@ test('parses upcoming playoff-compatible fixtures and rejects malformed season o
   assert.throws(() => parseSchedule({ ...schedule([]), league: { name: 'Premier League' } }, { season: 2026, byEspnId }), /did not identify/);
 });
 
+test('next-season discovery accepts ESPN current-season fallback without losing playoff fixtures', async (t) => {
+  const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'makeics-mls-rollover-'));
+  t.after(() => fs.rm(dir, { recursive: true, force: true }));
+  const calls = [];
+  const event = fixture({ date: '2026-11-08T23:30:00Z' });
+  const fetchImpl = async url => {
+    calls.push(url);
+    return response(url.includes('/teams?') ? directory() : schedule([event], 2026));
+  };
+  const options = { fetchImpl, outputDir: dir, now: new Date('2026-11-01T00:00:00Z') };
+  const result = await fetchMlsSchedules(options);
+  assert.equal(calls.filter(url => url.includes('season=2027')).length, 30);
+  assert.equal(result.fixtures, 1);
+  const file = path.join(dir, '134155.json');
+  const saved = await fs.readFile(file, 'utf8');
+  assert.equal(JSON.parse(saved).events[0].strTimestamp, '2026-11-08T23:30:00Z');
+  assert.equal(JSON.parse(saved).events[0].idEvent, 'mls-401999001');
+  assert.equal((await fetchMlsSchedules(options)).writtenTeams, 0);
+  assert.equal(await fs.readFile(file, 'utf8'), saved);
+});
+
+test('next-season discovery retains published next-year fixtures alongside current playoffs', async (t) => {
+  const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'makeics-mls-next-'));
+  t.after(() => fs.rm(dir, { recursive: true, force: true }));
+  const fetchImpl = async url => {
+    if (url.includes('/teams?')) return response(directory());
+    const year = Number(new URL(url).searchParams.get('season'));
+    return response(schedule([fixture({ id: String(year), date: `${year}-${year === 2026 ? '11-08' : '02-20'}T23:30:00Z` })], year));
+  };
+  const result = await fetchMlsSchedules({ fetchImpl, outputDir: dir, now: new Date('2026-11-01') });
+  assert.equal(result.fixtures, 2);
+  const saved = JSON.parse(await fs.readFile(path.join(dir, '134155.json'), 'utf8'));
+  assert.deepEqual(saved.events.map(event => event.idEvent), ['mls-2026', 'mls-2027']);
+});
+
+test('season discovery still rejects wrong years, malformed fallback, and other leagues before writing', async (t) => {
+  const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'makeics-mls-invalid-next-'));
+  t.after(() => fs.rm(dir, { recursive: true, force: true }));
+  const file = path.join(dir, '134155.json');
+  const saved = '{"sentinel":true}\n';
+  await fs.writeFile(file, saved);
+  const event = fixture({ date: '2026-11-08T23:30:00Z' });
+  for (const [badYear, badPayload, error] of [
+    [2026, schedule([event], 2025), /season 2025 instead of 2026/],
+    [2027, schedule([event], 2025), /season 2025 instead of 2027/],
+    [2027, { ...schedule([event]), events: undefined }, /did not contain events/],
+    [2027, { ...schedule([event]), league: { slug: 'eng.1' } }, /did not identify Major League Soccer/]
+  ]) {
+    const fetchImpl = async url => {
+      if (url.includes('/teams?')) return response(directory());
+      return response(Number(new URL(url).searchParams.get('season')) === badYear ? badPayload : schedule([event]));
+    };
+    await assert.rejects(fetchMlsSchedules({ fetchImpl, outputDir: dir, now: new Date('2026-11-01') }), error);
+    assert.equal(await fs.readFile(file, 'utf8'), saved);
+  }
+});
+
 test('deduplicates responses, clears inactive teams, preserves reschedule identity, and leaves unchanged reruns untouched', async () => {
   const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'makeics-mls-'));
   const now = new Date('2026-04-01T00:00:00Z');
