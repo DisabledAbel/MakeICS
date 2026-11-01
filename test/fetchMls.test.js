@@ -112,7 +112,9 @@ test('next-season discovery accepts ESPN current-season fallback without losing 
   const event = fixture({ date: '2026-11-08T23:30:00Z' });
   const fetchImpl = async url => {
     calls.push(url);
-    return response(url.includes('/teams?') ? directory() : schedule([event], 2026));
+    if (url.includes('/teams?')) return response(directory());
+    const season = Number(new URL(url).searchParams.get('season'));
+    return response(schedule(season === 2026 ? [] : [event], 2026));
   };
   const options = { fetchImpl, outputDir: dir, now: new Date('2026-11-01T00:00:00Z') };
   const result = await fetchMlsSchedules(options);
