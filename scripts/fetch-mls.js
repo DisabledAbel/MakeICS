@@ -195,6 +195,9 @@ const equalEvent = (a, b) => JSON.stringify(withoutRevision(a)) === JSON.stringi
  * Returns counts: teams mapped, fixtures retained after deduplication, and writtenTeams.
  * Request, mapping, parsing, conflicting-duplicate, and empty-result errors occur before
  * writes; an empty result is allowed only in December and January (UTC).
+ * During next-season discovery, ESPN may return the current season until the next
+ * schedule is published. Validate that response as the current season and deduplicate
+ * its fixtures with the mandatory current-season responses; all other mismatches fail.
  * Missing saved files are created; other read errors, invalid saved JSON, and write
  * errors propagate. Writes completed before a later failure are not rolled back.
  */
@@ -204,7 +207,13 @@ export async function fetchMlsSchedules({ fetchImpl = globalThis.fetch, outputDi
   const requests = teams.flatMap(team => seasonCandidates(now).map(season => ({ team, season })));
   const responses = await pooled(requests, MAX_CONCURRENCY, async ({ team, season }) => {
     const url = `${ESPN_BASE}/teams/${team.espnId}/schedule?season=${season}&fixture=true`;
-    return { season, payload: await fetchJson(url, fetchImpl, requestOptions) };
+    const payload = await fetchJson(url, fetchImpl, requestOptions);
+    const currentYear = now.getUTCFullYear();
+    // ESPN falls back to the current season when next year's fixtures are not
+    // published yet. Never interpret those fixtures as belonging to next year.
+    const actualSeason = season === currentYear + 1 && Number(payload?.season?.year) === currentYear
+      ? currentYear : season;
+    return { season: actualSeason, payload };
   });
   const byId = new Map();
   for (const { season, payload } of responses) for (const event of parseSchedule(payload, { season, byEspnId, now })) {
