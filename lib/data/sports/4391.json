@@ -5901,7 +5901,7 @@
     {
       "idEvent": "2475505",
       "idAPIfootball": "21644",
-      "strTimestamp": "2026-11-08T21:05:00",
+      "strTimestamp": "2026-11-08T21:25:00",
       "strEvent": "San Francisco 49ers vs Las Vegas Raiders",
       "strEventAlternate": "Las Vegas Raiders @ San Francisco 49ers",
       "strFilename": "NFL 2026-11-08 San Francisco 49ers vs Las Vegas Raiders",
@@ -5919,7 +5919,7 @@
       "strWeather": "",
       "dateEvent": "2026-11-08",
       "dateEventLocal": "2026-11-08",
-      "strTime": "21:05:00",
+      "strTime": "21:25:00",
       "strTimeLocal": "13:05:00",
       "strGroup": "",
       "idHomeTeam": "134948",

@@ -9628,8 +9628,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "P3",
+      "strVideo": "https://www.youtube.com/watch?v=XaWTUuHOt8U",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -9673,8 +9673,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "P2",
+      "strVideo": "https://www.youtube.com/watch?v=xbpc4l9ZhPY",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -9718,8 +9718,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "P1",
+      "strVideo": "https://www.youtube.com/watch?v=wJw1BDJlnMQ",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -9764,7 +9764,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "AOT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -9809,7 +9809,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -9854,7 +9854,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "AP",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -9899,7 +9899,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -9944,7 +9944,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -9989,7 +9989,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56159,7 +56159,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56204,7 +56204,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56249,7 +56249,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56294,7 +56294,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56339,7 +56339,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56384,7 +56384,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56429,7 +56429,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56474,7 +56474,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56519,7 +56519,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56564,7 +56564,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56609,7 +56609,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56654,7 +56654,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56699,7 +56699,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56744,7 +56744,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56789,7 +56789,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56834,7 +56834,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56879,7 +56879,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56924,7 +56924,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -56969,7 +56969,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57014,7 +57014,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57059,7 +57059,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57104,7 +57104,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57149,7 +57149,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57194,7 +57194,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57239,7 +57239,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57284,7 +57284,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57329,7 +57329,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57374,7 +57374,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57419,7 +57419,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57464,7 +57464,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57509,7 +57509,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57554,7 +57554,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -57599,7 +57599,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "CANC",
+      "strStatus": "NS",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
