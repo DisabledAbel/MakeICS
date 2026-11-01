@@ -1,25 +1,8 @@
 {
   "teamId": "134863",
   "teamName": "Philadelphia 76ers",
-  "updatedAt": "2026-10-31T04:12:52.731Z",
+  "updatedAt": "2026-11-01T04:32:46.501Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909897",
-      "strEvent": "Charlotte Hornets vs Philadelphia 76ers",
-      "strHomeTeam": "Charlotte Hornets",
-      "strAwayTeam": "Philadelphia 76ers",
-      "dateEvent": "2026-10-31",
-      "strTime": "22:00:00",
-      "strTimestamp": "2026-10-31T22:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Spectrum Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134881",
-      "idAwayTeam": "134863"
-    },
     {
       "idEvent": "scraped-espn-401909912",
       "strEvent": "Philadelphia 76ers vs Chicago Bulls",
