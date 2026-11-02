@@ -1,25 +1,8 @@
 {
   "teamId": "134865",
   "teamName": "Golden State Warriors",
-  "updatedAt": "2026-10-31T04:12:52.731Z",
+  "updatedAt": "2026-11-02T04:35:40.628Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909905",
-      "strEvent": "Golden State Warriors vs Los Angeles Clippers",
-      "strHomeTeam": "Golden State Warriors",
-      "strAwayTeam": "Los Angeles Clippers",
-      "dateEvent": "2026-11-01",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-11-02T01:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Chase Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134865",
-      "idAwayTeam": "134866"
-    },
     {
       "idEvent": "scraped-espn-401909919",
       "strEvent": "Golden State Warriors vs Phoenix Suns",

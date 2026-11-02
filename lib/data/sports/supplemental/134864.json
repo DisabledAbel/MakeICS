@@ -1,25 +1,8 @@
 {
   "teamId": "134864",
   "teamName": "Toronto Raptors",
-  "updatedAt": "2026-10-31T04:12:52.731Z",
+  "updatedAt": "2026-11-02T04:35:40.628Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909906",
-      "strEvent": "Los Angeles Lakers vs Toronto Raptors",
-      "strHomeTeam": "Los Angeles Lakers",
-      "strAwayTeam": "Toronto Raptors",
-      "dateEvent": "2026-11-01",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-11-02T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134867",
-      "idAwayTeam": "134864"
-    },
     {
       "idEvent": "scraped-espn-401909920",
       "strEvent": "Los Angeles Clippers vs Toronto Raptors",
