@@ -4903,7 +4903,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=3xMS3qL2KwY",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -4948,7 +4948,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=fZ27uy5PB7I",
       "strStatus": "AOT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -4993,7 +4993,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=5qorFNyHsiM",
       "strStatus": "AOT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -5038,7 +5038,7 @@
       "strBanner": "https://r2.thesportsdb.com/images/media/event/banner/70y2ba1659875390.jpg",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=pB59Bt0uklY",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -5083,7 +5083,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=-fuyn2BZZAI",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -5128,7 +5128,7 @@
       "strBanner": "https://r2.thesportsdb.com/images/media/event/banner/41kypo1659875415.jpg",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=_tkkFK0248w",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -5173,7 +5173,7 @@
       "strBanner": "https://r2.thesportsdb.com/images/media/event/banner/xn6k4c1659875347.jpg",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=lGnOFwQPXD4",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -5218,7 +5218,7 @@
       "strBanner": "https://r2.thesportsdb.com/images/media/event/banner/xsr2cn1659875329.jpg",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=R7zUguz0Aag",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -5263,7 +5263,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=Z5w0O7Jprdk",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -5308,7 +5308,7 @@
       "strBanner": "https://r2.thesportsdb.com/images/media/event/banner/lmi42u1659875392.jpg",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=Tj71A_YItgE",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -5353,7 +5353,7 @@
       "strBanner": "https://r2.thesportsdb.com/images/media/event/banner/t0ps051659875326.jpg",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=EL_8uTSc1PY",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -5398,8 +5398,8 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
-      "strStatus": "NS",
+      "strVideo": "https://www.youtube.com/watch?v=40wesZPReUc",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
