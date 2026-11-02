@@ -1,24 +1,10 @@
 {
   "teamId": "134919",
   "teamName": "Miami Dolphins",
-  "updatedAt": "2026-10-26T04:50:54.637Z",
+  "updatedAt": "2026-11-02T06:07:53.922Z",
   "generatedAt": "2026-07-18T06:13:33.252Z",
   "generateAt": "2026-07-18T06:13:33.252Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab1670ad-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Miami Dolphins vs New England Patriots",
-      "strHomeTeam": "Miami Dolphins",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-11-01",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-11-01T21:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Hard Rock Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab381a59-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Miami Dolphins vs Detroit Lions",

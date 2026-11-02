@@ -1,24 +1,10 @@
 {
   "teamId": "134925",
   "teamName": "Pittsburgh Steelers",
-  "updatedAt": "2026-10-25T16:24:21.977Z",
+  "updatedAt": "2026-11-02T06:07:53.928Z",
   "generatedAt": "2026-07-18T06:13:33.261Z",
   "generateAt": "2026-07-18T06:13:33.261Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab1664ca-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Pittsburgh Steelers vs Cleveland Browns",
-      "strHomeTeam": "Pittsburgh Steelers",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-11-01",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-01T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Acrisure Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab78aa48-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cincinnati Bengals vs Pittsburgh Steelers",

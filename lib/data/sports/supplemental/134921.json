@@ -1,24 +1,10 @@
 {
   "teamId": "134921",
   "teamName": "New York Jets",
-  "updatedAt": "2026-10-26T04:50:54.638Z",
+  "updatedAt": "2026-11-02T06:07:53.923Z",
   "generatedAt": "2026-07-18T06:13:33.255Z",
   "generateAt": "2026-07-18T06:13:33.255Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab1661ac-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New York Jets vs Las Vegas Raiders",
-      "strHomeTeam": "New York Jets",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-11-01",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-01T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "MetLife Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab381724-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Kansas City Chiefs vs New York Jets",

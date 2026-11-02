@@ -1,24 +1,10 @@
 {
   "teamId": "134931",
   "teamName": "Kansas City Chiefs",
-  "updatedAt": "2026-10-26T04:50:54.651Z",
+  "updatedAt": "2026-11-02T06:07:53.934Z",
   "generatedAt": "2026-07-18T06:13:33.270Z",
   "generateAt": "2026-07-18T06:13:33.270Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab166dc7-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Denver Broncos vs Kansas City Chiefs",
-      "strHomeTeam": "Denver Broncos",
-      "strAwayTeam": "Kansas City Chiefs",
-      "dateEvent": "2026-11-01",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-11-01T21:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Empower Field at Mile High",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab381724-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Kansas City Chiefs vs New York Jets",

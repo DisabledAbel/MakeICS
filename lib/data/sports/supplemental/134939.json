@@ -1,24 +1,10 @@
 {
   "teamId": "134939",
   "teamName": "Detroit Lions",
-  "updatedAt": "2026-10-26T04:50:54.658Z",
+  "updatedAt": "2026-11-02T06:07:53.942Z",
   "generatedAt": "2026-07-18T06:13:33.279Z",
   "generateAt": "2026-07-18T06:13:33.279Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab165aa8-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Detroit Lions vs Minnesota Vikings",
-      "strHomeTeam": "Detroit Lions",
-      "strAwayTeam": "Minnesota Vikings",
-      "dateEvent": "2026-11-01",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-01T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Ford Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab381a59-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Miami Dolphins vs Detroit Lions",
