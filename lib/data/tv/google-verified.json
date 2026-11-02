@@ -10,7 +10,7 @@
     "verifiedAt": "2026-09-23T17:47:29.836Z"
   },
   "Outlander: Blood of My Blood-2-10": {
-    "airdate": "2026-11-20",
+    "airdate": "2026-11-27",
     "name": "Twelfth Night",
     "verifiedAt": "2026-09-23T17:47:32.476Z"
   },
@@ -20,7 +20,7 @@
     "verifiedAt": "2026-10-01T18:47:27.992Z"
   },
   "The Rainmaker-2-9": {
-    "airdate": "2026-12-11",
+    "airdate": "2026-12-18",
     "name": "Episode #2.9",
     "verifiedAt": "2026-10-10T17:44:22.231Z"
   },
@@ -49,11 +49,6 @@
     "name": "Power Grip/Double Vision",
     "verifiedAt": "2026-10-17T16:13:06.095Z"
   },
-  "Get Jiro-1-6": {
-    "airdate": "2026-11-01",
-    "name": "Tokyo Story",
-    "verifiedAt": "2026-10-19T19:06:16.013Z"
-  },
   "Marshals-2-6": {
     "airdate": "2026-11-15",
     "name": "Episode #2.6",
@@ -65,17 +60,17 @@
     "verifiedAt": "2026-10-20T17:51:21.676Z"
   },
   "Get Jiro-1-7": {
-    "airdate": "2026-11-08",
+    "airdate": "2026-11-07",
     "name": "Cage Free",
     "verifiedAt": "2026-10-21T17:58:38.027Z"
   },
   "Get Jiro-1-8": {
-    "airdate": "2026-11-15",
+    "airdate": "2026-11-14",
     "name": "Your Guests Have Arrived",
     "verifiedAt": "2026-10-21T17:58:40.471Z"
   },
   "Get Jiro-1-9": {
-    "airdate": "2026-11-22",
+    "airdate": "2026-11-21",
     "name": "Our Specials This Evening",
     "verifiedAt": "2026-10-21T17:58:42.901Z"
   },
@@ -100,7 +95,7 @@
     "verifiedAt": "2026-10-25T17:01:21.082Z"
   },
   "WWE NXT-20-44": {
-    "airdate": "2026-11-04",
+    "airdate": "2026-11-03",
     "name": "Episode #20.44",
     "verifiedAt": "2026-10-26T19:02:47.309Z"
   },
@@ -130,7 +125,7 @@
     "verifiedAt": "2026-10-26T19:04:07.790Z"
   },
   "Marshals-2-7": {
-    "airdate": "2026-11-22",
+    "airdate": "2026-11-15",
     "name": "Roughstock",
     "verifiedAt": "2026-10-26T19:05:02.507Z"
   },
@@ -150,7 +145,7 @@
     "verifiedAt": "2026-10-27T18:36:57.114Z"
   },
   "Boston Blue-2-7": {
-    "airdate": "2026-11-20",
+    "airdate": "2026-12-04",
     "name": "Crisis",
     "verifiedAt": "2026-10-27T18:36:59.817Z"
   },
@@ -165,7 +160,7 @@
     "verifiedAt": "2026-10-28T18:43:07.228Z"
   },
   "Surviving Alaska: Women of the Wild-1-5": {
-    "airdate": "2026-11-03",
+    "airdate": "2026-10-07",
     "name": "A Big Win",
     "verifiedAt": "2026-10-28T18:44:33.763Z"
   },
@@ -180,7 +175,7 @@
     "verifiedAt": "2026-10-29T18:48:56.024Z"
   },
   "On Patrol: Live-5-31": {
-    "airdate": "2026-11-13",
+    "airdate": "2026-11-14",
     "name": "Episode #5.31",
     "verifiedAt": "2026-10-29T18:49:51.771Z"
   },
@@ -195,12 +190,12 @@
     "verifiedAt": "2026-10-30T18:28:46.154Z"
   },
   "WWE Friday Night SmackDown-27-47": {
-    "airdate": "2026-11-20",
+    "airdate": "2025-11-21",
     "name": "WarGames Wildcard",
     "verifiedAt": "2026-10-31T17:31:59.370Z"
   },
   "Surviving Alaska: Women of the Wild-1-8": {
-    "airdate": "2026-11-24",
+    "airdate": "2026-10-07",
     "name": "Building the Dream",
     "verifiedAt": "2026-10-31T17:34:37.874Z"
   },
@@ -209,14 +204,39 @@
     "name": "Final Countdown to War",
     "verifiedAt": "2026-11-01T18:17:17.864Z"
   },
-  "Crossroad Springs-2-8": {
-    "airdate": "2026-11-01",
-    "name": "Showdown at the Fair",
-    "verifiedAt": "2026-11-01T18:18:10.743Z"
-  },
   "Surviving Alaska: Women of the Wild-1-7": {
     "airdate": "2026-11-17",
     "name": "Born to Run",
     "verifiedAt": "2026-11-01T18:19:51.483Z"
+  },
+  "WWE Friday Night SmackDown-27-45": {
+    "airdate": "2025-11-07",
+    "name": "The Scottish Exile",
+    "verifiedAt": "2026-11-02T22:11:20.088Z"
+  },
+  "WWE Friday Night SmackDown-27-46": {
+    "airdate": "2025-11-14",
+    "name": "Vision of Vengeance",
+    "verifiedAt": "2026-11-02T22:11:22.854Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2025-12-05",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-11-02T22:11:30.732Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-11-02T22:11:33.282Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2026-01-02",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-11-02T22:11:35.865Z"
+  },
+  "Love & Marriage: Huntsville-12-12": {
+    "airdate": "2026-09-12",
+    "name": "A New Era",
+    "verifiedAt": "2026-11-02T22:12:48.215Z"
   }
 }
