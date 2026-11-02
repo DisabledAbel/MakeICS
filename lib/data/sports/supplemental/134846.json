@@ -1,26 +1,8 @@
 {
   "teamId": "134846",
   "teamName": "Anaheim Ducks",
-  "updatedAt": "2026-10-30T05:59:38.643Z",
+  "updatedAt": "2026-11-02T06:24:12.202Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020231",
-      "strEvent": "Anaheim Ducks vs Ottawa Senators",
-      "strHomeTeam": "Anaheim Ducks",
-      "strAwayTeam": "Ottawa Senators",
-      "dateEvent": "2026-11-01",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-02T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Honda Center",
-      "strStatus": "NS",
-      "strTVStation": "KTTV, Prime Video, RDS, TSN5",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020231",
-      "idHomeTeam": "134846",
-      "idAwayTeam": "134835"
-    },
     {
       "idEvent": "nhl-2026020246",
       "strEvent": "Vancouver Canucks vs Anaheim Ducks",
