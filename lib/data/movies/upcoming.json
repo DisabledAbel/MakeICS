@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:43:16.964Z",
+  "generatedAt": "2026-11-02T13:11:48.649Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6300,16 +6300,16 @@
           "name": "Suriya"
         },
         {
-          "id": "nm1167656",
-          "name": "Silambarasan TR"
-        },
-        {
           "id": "nm2601111",
           "name": "Nazriya Nazim"
         },
         {
           "id": "nm10899733",
           "name": "Naslen"
+        },
+        {
+          "id": "nm1686962",
+          "name": "Anandraj"
         }
       ],
       "label": "Nov 06, 2026"
@@ -6477,16 +6477,16 @@
           "name": "Johnny Depp"
         },
         {
+          "id": "nm0005212",
+          "name": "Ian McKellen"
+        },
+        {
           "id": "nm14057859",
           "name": "Arthur Conti"
         },
         {
-          "id": "nm5397459",
-          "name": "Daisy Ridley"
-        },
-        {
-          "id": "nm6216593",
-          "name": "Rose Williams"
+          "id": "nm3510471",
+          "name": "Sam Claflin"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6724,12 +6724,12 @@
           "name": "Mckenna Grace"
         },
         {
-          "id": "nm10511461",
-          "name": "Joseph Zada"
-        },
-        {
           "id": "nm2225369",
           "name": "Jennifer Lawrence"
+        },
+        {
+          "id": "nm10511461",
+          "name": "Joseph Zada"
         },
         {
           "id": "nm0687146",
@@ -6870,20 +6870,20 @@
       ],
       "people": [
         {
+          "id": "nm0001562",
+          "name": "Kathy Najimy"
+        },
+        {
+          "id": "nm1405398",
+          "name": "Dan Stevens"
+        },
+        {
+          "id": "nm1320827",
+          "name": "Randall Park"
+        },
+        {
           "id": "nm2794962",
           "name": "Hailee Steinfeld"
-        },
-        {
-          "id": "nm0324658",
-          "name": "Walton Goggins"
-        },
-        {
-          "id": "nm0000149",
-          "name": "Jodie Foster"
-        },
-        {
-          "id": "nm0876138",
-          "name": "Alan Tudyk"
         }
       ],
       "label": "Nov 25, 2026"
@@ -7097,6 +7097,19 @@
           "name": "Erin Wu"
         }
       ],
+      "label": "Dec 02, 2026"
+    },
+    {
+      "id": "tt18163224",
+      "title": "A Fox Under a Pink Moon",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmEwOGFlMzgtNWI1MS00NGMzLTk5MTktOWMzNmRiMTlhNmNmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 02 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Animation",
+        "Biography"
+      ],
+      "people": [],
       "label": "Dec 02, 2026"
     },
     {
@@ -7758,12 +7771,12 @@
       ],
       "people": [
         {
-          "id": "nm0425005",
-          "name": "Dwayne Johnson"
-        },
-        {
           "id": "nm2394794",
           "name": "Karen Gillan"
+        },
+        {
+          "id": "nm0425005",
+          "name": "Dwayne Johnson"
         },
         {
           "id": "nm5589690",
@@ -7788,12 +7801,12 @@
       ],
       "people": [
         {
-          "id": "nm0472710",
-          "name": "David Krumholtz"
-        },
-        {
           "id": "nm8908475",
           "name": "Isabel May"
+        },
+        {
+          "id": "nm0472710",
+          "name": "David Krumholtz"
         },
         {
           "id": "nm0788335",
@@ -8032,12 +8045,12 @@
           "name": "Jeremy Irons"
         },
         {
-          "id": "nm2962353",
-          "name": "Pom Klementieff"
-        },
-        {
           "id": "nm0178581",
           "name": "Adam Copeland"
+        },
+        {
+          "id": "nm2962353",
+          "name": "Pom Klementieff"
         }
       ],
       "label": "Jan 15, 2027"
@@ -8062,12 +8075,12 @@
           "name": "Mia Wasikowska"
         },
         {
-          "id": "nm0746896",
-          "name": "Richard Roxburgh"
+          "id": "nm0909144",
+          "name": "David Walliams"
         },
         {
-          "id": "nm0524240",
-          "name": "Matt Lucas"
+          "id": "nm0746896",
+          "name": "Richard Roxburgh"
         }
       ],
       "label": "Jan 15, 2027"
@@ -8214,8 +8227,8 @@
           "name": "Aubrey Plaza"
         },
         {
-          "id": "nm2765191",
-          "name": "Eric André"
+          "id": "nm5166444",
+          "name": "Ellie Bamber"
         }
       ],
       "label": "Jan 22, 2027"
@@ -8534,8 +8547,8 @@
           "name": "Phoebe Dynevor"
         },
         {
-          "id": "nm3287940",
-          "name": "Tracy Ifeachor"
+          "id": "nm0910180",
+          "name": "Ashley Walters"
         }
       ],
       "label": "Feb 05, 2027"
@@ -8624,20 +8637,20 @@
       ],
       "people": [
         {
-          "id": "nm0001354",
-          "name": "Ciarán Hinds"
+          "id": "nm1659547",
+          "name": "Carey Mulligan"
         },
         {
           "id": "nm0185819",
           "name": "Daniel Craig"
         },
         {
-          "id": "nm1659547",
-          "name": "Carey Mulligan"
+          "id": "nm0001354",
+          "name": "Ciarán Hinds"
         },
         {
-          "id": "nm8076281",
-          "name": "Emma Mackey"
+          "id": "nm0000658",
+          "name": "Meryl Streep"
         }
       ],
       "label": "Feb 12, 2027"
@@ -8776,20 +8789,20 @@
       ],
       "people": [
         {
-          "id": "nm3584268",
-          "name": "James Norton"
+          "id": "nm0000164",
+          "name": "Anthony Hopkins"
         },
         {
           "id": "nm0683253",
           "name": "Rosamund Pike"
         },
         {
-          "id": "nm0000164",
-          "name": "Anthony Hopkins"
-        },
-        {
           "id": "nm0175916",
           "name": "Paddy Considine"
+        },
+        {
+          "id": "nm3584268",
+          "name": "James Norton"
         }
       ],
       "label": "Feb 19, 2027"
@@ -8820,6 +8833,36 @@
         {
           "id": "nm9434831",
           "name": "Cristo Fernández"
+        }
+      ],
+      "label": "Feb 19, 2027"
+    },
+    {
+      "id": "tt38066489",
+      "title": "Babies",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTJjODg2YWEtNmRhOS00MjI2LWI4ODYtZmI1YzExYjZmMDkxXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 19 Feb 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "people": [
+        {
+          "id": "nm0736622",
+          "name": "Seth Rogen"
+        },
+        {
+          "id": "nm0447695",
+          "name": "Anna Kendrick"
+        },
+        {
+          "id": "nm1405398",
+          "name": "Dan Stevens"
+        },
+        {
+          "id": "nm2547958",
+          "name": "Kate Berlant"
         }
       ],
       "label": "Feb 19, 2027"
@@ -8878,8 +8921,8 @@
           "name": "Jobie James"
         },
         {
-          "id": "nm1883803",
-          "name": "Jesse Garcia"
+          "id": "nm3450051",
+          "name": "Richard Cabral"
         }
       ],
       "label": "Feb 26, 2027"
@@ -8928,12 +8971,12 @@
           "name": "Raymond Cruz"
         },
         {
-          "id": "nm0379596",
-          "name": "Jay Hernandez"
-        },
-        {
           "id": "nm2834669",
           "name": "Monica Raymund"
+        },
+        {
+          "id": "nm0379596",
+          "name": "Jay Hernandez"
         },
         {
           "id": "nm14949577",
@@ -9018,12 +9061,12 @@
           "name": "Kenneth Branagh"
         },
         {
-          "id": "nm5245722",
-          "name": "Adria Arjona"
-        },
-        {
           "id": "nm0430107",
           "name": "Michael B. Jordan"
+        },
+        {
+          "id": "nm5245722",
+          "name": "Adria Arjona"
         },
         {
           "id": "nm1775091",
@@ -9122,12 +9165,12 @@
           "name": "Keanu Reeves"
         },
         {
-          "id": "nm0252961",
-          "name": "Idris Elba"
-        },
-        {
           "id": "nm0000120",
           "name": "Jim Carrey"
+        },
+        {
+          "id": "nm0252961",
+          "name": "Idris Elba"
         }
       ],
       "label": "Mar 19, 2027"
@@ -9449,12 +9492,12 @@
           "name": "Lewis Pullman"
         },
         {
-          "id": "nm1551130",
-          "name": "Keke Palmer"
+          "id": "nm0001548",
+          "name": "Rick Moranis"
         },
         {
-          "id": "nm0000316",
-          "name": "Mel Brooks"
+          "id": "nm1551130",
+          "name": "Keke Palmer"
         }
       ],
       "label": "Apr 23, 2027"
@@ -9513,8 +9556,8 @@
           "name": "Riccardo Scamarcio"
         },
         {
-          "id": "nm0810738",
-          "name": "Kasia Smutniak"
+          "id": "nm3663897",
+          "name": "Jaakko Ohtonen"
         }
       ],
       "label": "May 06, 2027"
@@ -9718,16 +9761,16 @@
           "name": "Ryan Gosling"
         },
         {
+          "id": "nm5301405",
+          "name": "Mia Goth"
+        },
+        {
           "id": "nm7543974",
           "name": "Aaron Pierre"
         },
         {
           "id": "nm0010736",
           "name": "Amy Adams"
-        },
-        {
-          "id": "nm5301405",
-          "name": "Mia Goth"
         }
       ],
       "label": "May 28, 2027"
@@ -9820,16 +9863,16 @@
       ],
       "people": [
         {
-          "id": "nm0000422",
-          "name": "John Goodman"
+          "id": "nm2560618",
+          "name": "Willa Fitzgerald"
         },
         {
           "id": "nm0973177",
           "name": "Kyle Gallner"
         },
         {
-          "id": "nm2560618",
-          "name": "Willa Fitzgerald"
+          "id": "nm0000422",
+          "name": "John Goodman"
         },
         {
           "id": "nm0488953",
@@ -9862,8 +9905,8 @@
           "name": "Mason Thames"
         },
         {
-          "id": "nm4651633",
-          "name": "Phil Dunster"
+          "id": "nm0296545",
+          "name": "Nick Frost"
         }
       ],
       "label": "Jun 11, 2027"
@@ -10640,8 +10683,8 @@
           "name": "Samuel L. Jackson"
         },
         {
-          "id": "nm8076281",
-          "name": "Emma Mackey"
+          "id": "nm0923266",
+          "name": "Merritt Wever"
         }
       ],
       "label": "Oct 01, 2027"
