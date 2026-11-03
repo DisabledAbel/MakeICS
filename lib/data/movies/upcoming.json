@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T13:11:48.649Z",
+  "generatedAt": "2026-11-03T12:39:27.152Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6172,9 +6172,9 @@
       "image": "https://m.media-amazon.com/images/M/MV5BYWE4NWVmZjItN2Y0ZC00YmMzLThhNWEtM2VkZjA3MmFlNjdmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
       "genres": [
+        "Animation",
         "Action",
-        "Adventure",
-        "Drama"
+        "Adventure"
       ],
       "people": [
         {
@@ -6602,8 +6602,8 @@
           "name": "Rob Delaney"
         },
         {
-          "id": "nm3570321",
-          "name": "Ray Fisher"
+          "id": "nm0382110",
+          "name": "David Hewlett"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6654,12 +6654,12 @@
           "name": "Ishita Deshmukh"
         },
         {
-          "id": "nm8337506",
-          "name": "Kailash Waghmare"
-        },
-        {
           "id": "nm0434263",
           "name": "Kishore Kadam"
+        },
+        {
+          "id": "nm8337506",
+          "name": "Kailash Waghmare"
         },
         {
           "id": "nm2286554",
@@ -6898,20 +6898,20 @@
       ],
       "people": [
         {
-          "id": "nm0000134",
-          "name": "Robert De Niro"
-        },
-        {
           "id": "nm1711114",
           "name": "Skyler Gisondo"
         },
         {
-          "id": "nm0001774",
-          "name": "Ben Stiller"
+          "id": "nm0000134",
+          "name": "Robert De Niro"
         },
         {
           "id": "nm0005562",
           "name": "Owen Wilson"
+        },
+        {
+          "id": "nm0001774",
+          "name": "Ben Stiller"
         }
       ],
       "label": "Nov 25, 2026"
@@ -6936,12 +6936,12 @@
           "name": "Finn Wittrock"
         },
         {
-          "id": "nm0454236",
-          "name": "Richard Kind"
-        },
-        {
           "id": "nm0001688",
           "name": "Alan Ruck"
+        },
+        {
+          "id": "nm0454236",
+          "name": "Richard Kind"
         }
       ],
       "label": "Nov 25, 2026"
@@ -6985,7 +6985,7 @@
     {
       "id": "tt36408401",
       "title": "The Further Mis-Adventures of Cliff Booth",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzUwMGJhMTItZTMyYy00MmNmLTg1NDctYzFmYzczNGM1MDI0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDgzOWExNGMtOWVhNy00ZGVlLTg1MDQtODA4NWFjOTM5MzE1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
       "genres": [
         "Action",
@@ -6998,12 +6998,12 @@
           "name": "Brad Pitt"
         },
         {
-          "id": "nm0001303",
-          "name": "Carla Gugino"
-        },
-        {
           "id": "nm4456120",
           "name": "Elizabeth Debicki"
+        },
+        {
+          "id": "nm0001303",
+          "name": "Carla Gugino"
         },
         {
           "id": "nm0648249",
@@ -7329,12 +7329,12 @@
       ],
       "people": [
         {
-          "id": "nm3229685",
-          "name": "Kit Harington"
-        },
-        {
           "id": "nm4305463",
           "name": "Naomi Scott"
+        },
+        {
+          "id": "nm3229685",
+          "name": "Kit Harington"
         },
         {
           "id": "nm4420495",
@@ -7502,9 +7502,7 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNGEwYWZkN2UtOTQ5Mi00MGQzLWEzNjYtMWMyNDBkMTkzMWNkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Dec 2026 00:00:00 GMT",
       "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
+        "Action"
       ],
       "people": [
         {
@@ -7947,16 +7945,16 @@
       ],
       "people": [
         {
-          "id": "nm8165602",
-          "name": "Bella Ramsey"
+          "id": "nm4689420",
+          "name": "Carrie Coon"
         },
         {
           "id": "nm4141252",
           "name": "Lily James"
         },
         {
-          "id": "nm4689420",
-          "name": "Carrie Coon"
+          "id": "nm8165602",
+          "name": "Bella Ramsey"
         },
         {
           "id": "nm0504832",
@@ -8423,12 +8421,12 @@
           "name": "Stephen Root"
         },
         {
-          "id": "nm0197647",
-          "name": "James Badge Dale"
-        },
-        {
           "id": "nm1782299",
           "name": "Imogen Poots"
+        },
+        {
+          "id": "nm0197647",
+          "name": "James Badge Dale"
         },
         {
           "id": "nm6180088",
@@ -8451,12 +8449,12 @@
           "name": "Isabel May"
         },
         {
-          "id": "nm0002064",
-          "name": "Giancarlo Esposito"
-        },
-        {
           "id": "nm0131966",
           "name": "Bill Camp"
+        },
+        {
+          "id": "nm0002064",
+          "name": "Giancarlo Esposito"
         },
         {
           "id": "nm7248827",
@@ -8592,12 +8590,12 @@
       ],
       "people": [
         {
-          "id": "nm0000115",
-          "name": "Nicolas Cage"
-        },
-        {
           "id": "nm0803889",
           "name": "Bill Skarsgård"
+        },
+        {
+          "id": "nm0000115",
+          "name": "Nicolas Cage"
         },
         {
           "id": "nm1679778",
@@ -9258,8 +9256,8 @@
           "name": "Madelyn Cline"
         },
         {
-          "id": "nm1989536",
-          "name": "Marc Webb"
+          "id": "nm4130813",
+          "name": "Robert Maaser"
         }
       ],
       "label": "Mar 26, 2027"
@@ -9340,12 +9338,12 @@
       ],
       "people": [
         {
-          "id": "nm0647634",
-          "name": "Elizabeth Olsen"
-        },
-        {
           "id": "nm0000210",
           "name": "Julia Roberts"
+        },
+        {
+          "id": "nm0647634",
+          "name": "Elizabeth Olsen"
         },
         {
           "id": "nm1519666",
@@ -9605,12 +9603,12 @@
           "name": "Curry Barker"
         },
         {
-          "id": "nm0666739",
-          "name": "Aaron Paul"
-        },
-        {
           "id": "nm0397171",
           "name": "Bryce Dallas Howard"
+        },
+        {
+          "id": "nm0666739",
+          "name": "Aaron Paul"
         },
         {
           "id": "nm8627157",
@@ -9638,12 +9636,12 @@
           "name": "Sam Claflin"
         },
         {
-          "id": "nm1569067",
-          "name": "Wilson Bethel"
-        },
-        {
           "id": "nm3147751",
           "name": "LaKeith Stanfield"
+        },
+        {
+          "id": "nm1569067",
+          "name": "Wilson Bethel"
         }
       ],
       "label": "May 14, 2027"
@@ -9678,12 +9676,12 @@
           "name": "Emma Stone"
         },
         {
-          "id": "nm0000209",
-          "name": "Tim Robbins"
-        },
-        {
           "id": "nm1517976",
           "name": "Chris Pine"
+        },
+        {
+          "id": "nm0000209",
+          "name": "Tim Robbins"
         }
       ],
       "label": "May 21, 2027"
@@ -9727,16 +9725,16 @@
       ],
       "people": [
         {
+          "id": "nm7248827",
+          "name": "Cynthia Erivo"
+        },
+        {
           "id": "nm2676147",
           "name": "Jonathan Groff"
         },
         {
           "id": "nm0048389",
           "name": "Dee Bradley Baker"
-        },
-        {
-          "id": "nm7248827",
-          "name": "Cynthia Erivo"
         },
         {
           "id": "nm4735423",
@@ -9993,20 +9991,20 @@
       ],
       "people": [
         {
-          "id": "nm3043279",
-          "name": "Vicky Krieps"
-        },
-        {
           "id": "nm1126657",
           "name": "George MacKay"
+        },
+        {
+          "id": "nm1082477",
+          "name": "Omar Sy"
         },
         {
           "id": "nm3053338",
           "name": "Margot Robbie"
         },
         {
-          "id": "nm0177896",
-          "name": "Bradley Cooper"
+          "id": "nm3043279",
+          "name": "Vicky Krieps"
         }
       ],
       "label": "Jun 25, 2027"
@@ -10132,16 +10130,16 @@
           "name": "Matthew Lillard"
         },
         {
-          "id": "nm7543974",
-          "name": "Aaron Pierre"
-        },
-        {
           "id": "nm1711114",
           "name": "Skyler Gisondo"
         },
         {
-          "id": "nm0277213",
-          "name": "Nathan Fillion"
+          "id": "nm7543974",
+          "name": "Aaron Pierre"
+        },
+        {
+          "id": "nm0396558",
+          "name": "Nicholas Hoult"
         }
       ],
       "label": "Jul 09, 2027"
@@ -10346,12 +10344,12 @@
           "name": "Laya DeLeon Hayes"
         },
         {
-          "id": "nm6043149",
-          "name": "J.D."
+          "id": "nm8723196",
+          "name": "Tre Hale"
         },
         {
-          "id": "nm1484000",
-          "name": "D Smoke"
+          "id": "nm6043149",
+          "name": "J.D."
         },
         {
           "id": "nm1988575",
@@ -10437,12 +10435,12 @@
       ],
       "people": [
         {
-          "id": "nm10040186",
-          "name": "Asante Blackk"
-        },
-        {
           "id": "nm0000505",
           "name": "Nia Long"
+        },
+        {
+          "id": "nm10040186",
+          "name": "Asante Blackk"
         },
         {
           "id": "nm3853652",
