@@ -1,26 +1,8 @@
 {
   "teamId": "134854",
   "teamName": "Chicago Blackhawks",
-  "updatedAt": "2026-10-31T21:43:10.410Z",
+  "updatedAt": "2026-11-03T01:04:31.561Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020234",
-      "strEvent": "Chicago Blackhawks vs Colorado Avalanche",
-      "strHomeTeam": "Chicago Blackhawks",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-11-02",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-03T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "ALT, CHSN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020234",
-      "idHomeTeam": "134854",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020248",
       "strEvent": "Florida Panthers vs Chicago Blackhawks",

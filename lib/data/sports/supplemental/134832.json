@@ -1,26 +1,8 @@
 {
   "teamId": "134832",
   "teamName": "Detroit Red Wings",
-  "updatedAt": "2026-10-31T21:43:10.410Z",
+  "updatedAt": "2026-11-03T01:04:31.561Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020233",
-      "strEvent": "Florida Panthers vs Detroit Red Wings",
-      "strHomeTeam": "Florida Panthers",
-      "strAwayTeam": "Detroit Red Wings",
-      "dateEvent": "2026-11-02",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-03T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Amerant Bank Arena",
-      "strStatus": "NS",
-      "strTVStation": "DSN, SCRIPPS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020233",
-      "idHomeTeam": "134833",
-      "idAwayTeam": "134832"
-    },
     {
       "idEvent": "nhl-2026020238",
       "strEvent": "Tampa Bay Lightning vs Detroit Red Wings",

@@ -1,26 +1,8 @@
 {
   "teamId": "135913",
   "teamName": "Vegas Golden Knights",
-  "updatedAt": "2026-10-30T22:28:36.298Z",
+  "updatedAt": "2026-11-03T01:04:31.561Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020232",
-      "strEvent": "Boston Bruins vs Vegas Golden Knights",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Vegas Golden Knights",
-      "dateEvent": "2026-11-02",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-03T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NESN, NHLN, SCRIPPS, SN+, TVAS",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020232",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "135913"
-    },
     {
       "idEvent": "nhl-2026020242",
       "strEvent": "Pittsburgh Penguins vs Vegas Golden Knights",
