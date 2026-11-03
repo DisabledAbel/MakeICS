@@ -1,25 +1,8 @@
 {
   "teamId": "134875",
   "teamName": "Dallas Mavericks",
-  "updatedAt": "2026-10-31T04:12:52.731Z",
+  "updatedAt": "2026-11-03T13:40:29.341Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909913",
-      "strEvent": "Dallas Mavericks vs Sacramento Kings",
-      "strHomeTeam": "Dallas Mavericks",
-      "strAwayTeam": "Sacramento Kings",
-      "dateEvent": "2026-11-02",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-03T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134875",
-      "idAwayTeam": "134869"
-    },
     {
       "idEvent": "scraped-espn-401909933",
       "strEvent": "San Antonio Spurs vs Dallas Mavericks",

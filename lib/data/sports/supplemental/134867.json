@@ -1,25 +1,8 @@
 {
   "teamId": "134867",
   "teamName": "Los Angeles Lakers",
-  "updatedAt": "2026-11-02T04:35:40.628Z",
+  "updatedAt": "2026-11-03T13:40:29.341Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909921",
-      "strEvent": "Los Angeles Lakers vs Miami Heat",
-      "strHomeTeam": "Los Angeles Lakers",
-      "strAwayTeam": "Miami Heat",
-      "dateEvent": "2026-11-02",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-03T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134867",
-      "idAwayTeam": "134882"
-    },
     {
       "idEvent": "scraped-espn-401909934",
       "strEvent": "Sacramento Kings vs Los Angeles Lakers",

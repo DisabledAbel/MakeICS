@@ -1,25 +1,8 @@
 {
   "teamId": "134874",
   "teamName": "Milwaukee Bucks",
-  "updatedAt": "2026-11-01T04:32:46.501Z",
+  "updatedAt": "2026-11-03T13:40:29.341Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909915",
-      "strEvent": "Minnesota Timberwolves vs Milwaukee Bucks",
-      "strHomeTeam": "Minnesota Timberwolves",
-      "strAwayTeam": "Milwaukee Bucks",
-      "dateEvent": "2026-11-02",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-03T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Target Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134886",
-      "idAwayTeam": "134874"
-    },
     {
       "idEvent": "scraped-espn-401909924",
       "strEvent": "Boston Celtics vs Milwaukee Bucks",

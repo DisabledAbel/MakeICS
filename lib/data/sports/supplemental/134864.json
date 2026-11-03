@@ -1,25 +1,8 @@
 {
   "teamId": "134864",
   "teamName": "Toronto Raptors",
-  "updatedAt": "2026-11-02T04:35:40.628Z",
+  "updatedAt": "2026-11-03T13:40:29.341Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909920",
-      "strEvent": "Los Angeles Clippers vs Toronto Raptors",
-      "strHomeTeam": "Los Angeles Clippers",
-      "strAwayTeam": "Toronto Raptors",
-      "dateEvent": "2026-11-02",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-03T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Intuit Dome",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134866",
-      "idAwayTeam": "134864"
-    },
     {
       "idEvent": "scraped-espn-401909931",
       "strEvent": "Denver Nuggets vs Toronto Raptors",

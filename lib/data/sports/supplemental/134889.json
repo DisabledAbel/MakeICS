@@ -1,25 +1,8 @@
 {
   "teamId": "134889",
   "teamName": "Utah Jazz",
-  "updatedAt": "2026-10-31T21:00:27.687Z",
+  "updatedAt": "2026-11-03T13:40:29.341Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909917",
-      "strEvent": "San Antonio Spurs vs Utah Jazz",
-      "strHomeTeam": "San Antonio Spurs",
-      "strAwayTeam": "Utah Jazz",
-      "dateEvent": "2026-11-02",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-11-03T01:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Frost Bank Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134879",
-      "idAwayTeam": "134889"
-    },
     {
       "idEvent": "scraped-espn-401909928",
       "strEvent": "New Orleans Pelicans vs Utah Jazz",

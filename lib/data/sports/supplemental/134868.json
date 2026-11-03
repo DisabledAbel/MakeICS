@@ -1,25 +1,8 @@
 {
   "teamId": "134868",
   "teamName": "Phoenix Suns",
-  "updatedAt": "2026-10-31T04:12:52.731Z",
+  "updatedAt": "2026-11-03T13:40:29.341Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909919",
-      "strEvent": "Golden State Warriors vs Phoenix Suns",
-      "strHomeTeam": "Golden State Warriors",
-      "strAwayTeam": "Phoenix Suns",
-      "dateEvent": "2026-11-02",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-03T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Chase Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134865",
-      "idAwayTeam": "134868"
-    },
     {
       "idEvent": "scraped-espn-401909932",
       "strEvent": "Phoenix Suns vs Portland Trail Blazers",

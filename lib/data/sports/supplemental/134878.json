@@ -1,25 +1,8 @@
 {
   "teamId": "134878",
   "teamName": "New Orleans Pelicans",
-  "updatedAt": "2026-11-01T04:32:46.501Z",
+  "updatedAt": "2026-11-03T13:40:29.341Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909914",
-      "strEvent": "Memphis Grizzlies vs New Orleans Pelicans",
-      "strHomeTeam": "Memphis Grizzlies",
-      "strAwayTeam": "New Orleans Pelicans",
-      "dateEvent": "2026-11-02",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-03T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "FedExForum",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134877",
-      "idAwayTeam": "134878"
-    },
     {
       "idEvent": "scraped-espn-401909928",
       "strEvent": "New Orleans Pelicans vs Utah Jazz",
