@@ -1,24 +1,10 @@
 {
   "teamId": "134949",
   "teamName": "Seattle Seahawks",
-  "updatedAt": "2026-10-26T04:50:54.665Z",
+  "updatedAt": "2026-11-03T06:51:06.477Z",
   "generatedAt": "2026-07-18T06:13:33.289Z",
   "generateAt": "2026-07-18T06:13:33.289Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab37feaa-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Seattle Seahawks vs Chicago Bears",
-      "strHomeTeam": "Seattle Seahawks",
-      "strAwayTeam": "Chicago Bears",
-      "dateEvent": "2026-11-03",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-11-03T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Lumen Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab581f17-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Seattle Seahawks vs Arizona Cardinals",
