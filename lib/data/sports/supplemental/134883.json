@@ -1,25 +1,8 @@
 {
   "teamId": "134883",
   "teamName": "Orlando Magic",
-  "updatedAt": "2026-11-01T21:43:25.769Z",
+  "updatedAt": "2026-11-03T00:32:47.352Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909911",
-      "strEvent": "Orlando Magic vs Washington Wizards",
-      "strHomeTeam": "Orlando Magic",
-      "strAwayTeam": "Washington Wizards",
-      "dateEvent": "2026-11-02",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-03T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Kia Center",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134883",
-      "idAwayTeam": "134884"
-    },
     {
       "idEvent": "scraped-espn-401909936",
       "strEvent": "Phoenix Suns vs Orlando Magic",

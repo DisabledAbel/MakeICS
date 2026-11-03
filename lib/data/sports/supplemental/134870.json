@@ -1,25 +1,8 @@
 {
   "teamId": "134870",
   "teamName": "Chicago Bulls",
-  "updatedAt": "2026-10-31T04:12:52.731Z",
+  "updatedAt": "2026-11-03T00:32:47.352Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909912",
-      "strEvent": "Philadelphia 76ers vs Chicago Bulls",
-      "strHomeTeam": "Philadelphia 76ers",
-      "strAwayTeam": "Chicago Bulls",
-      "dateEvent": "2026-11-02",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-03T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134863",
-      "idAwayTeam": "134870"
-    },
     {
       "idEvent": "scraped-espn-401909926",
       "strEvent": "New York Knicks vs Chicago Bulls",

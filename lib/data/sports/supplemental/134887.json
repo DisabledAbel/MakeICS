@@ -1,25 +1,8 @@
 {
   "teamId": "134887",
   "teamName": "Oklahoma City Thunder",
-  "updatedAt": "2026-11-01T04:32:46.501Z",
+  "updatedAt": "2026-11-03T00:32:47.352Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909907",
-      "strEvent": "Cleveland Cavaliers vs Oklahoma City Thunder",
-      "strHomeTeam": "Cleveland Cavaliers",
-      "strAwayTeam": "Oklahoma City Thunder",
-      "dateEvent": "2026-11-02",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-03T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Rocket Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBCSN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134871",
-      "idAwayTeam": "134887"
-    },
     {
       "idEvent": "scraped-espn-401909929",
       "strEvent": "Oklahoma City Thunder vs Cleveland Cavaliers",

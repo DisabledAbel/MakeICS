@@ -1,25 +1,8 @@
 {
   "teamId": "134881",
   "teamName": "Charlotte Hornets",
-  "updatedAt": "2026-11-01T04:32:46.501Z",
+  "updatedAt": "2026-11-03T00:32:47.352Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909908",
-      "strEvent": "Charlotte Hornets vs Detroit Pistons",
-      "strHomeTeam": "Charlotte Hornets",
-      "strAwayTeam": "Detroit Pistons",
-      "dateEvent": "2026-11-02",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-03T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Spectrum Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA League Pass",
-      "updatedAt": "2026-10-19T22:01:14.956Z",
-      "source": "scraped",
-      "idHomeTeam": "134881",
-      "idAwayTeam": "134872"
-    },
     {
       "idEvent": "scraped-espn-401909925",
       "strEvent": "Brooklyn Nets vs Charlotte Hornets",
