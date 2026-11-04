@@ -20,7 +20,7 @@
     "verifiedAt": "2026-10-01T18:47:27.992Z"
   },
   "The Rainmaker-2-9": {
-    "airdate": "2026-12-18",
+    "airdate": "2026-12-11",
     "name": "Episode #2.9",
     "verifiedAt": "2026-10-10T17:44:22.231Z"
   },
@@ -50,22 +50,22 @@
     "verifiedAt": "2026-10-17T16:13:06.095Z"
   },
   "Marshals-2-6": {
-    "airdate": "2026-11-15",
+    "airdate": "2026-11-08",
     "name": "Episode #2.6",
     "verifiedAt": "2026-10-20T17:50:21.209Z"
   },
   "Get Jiro-1-7": {
-    "airdate": "2026-11-07",
+    "airdate": "2026-11-08",
     "name": "Cage Free",
     "verifiedAt": "2026-10-21T17:58:38.027Z"
   },
   "Get Jiro-1-8": {
-    "airdate": "2026-11-14",
+    "airdate": "2026-11-15",
     "name": "Your Guests Have Arrived",
     "verifiedAt": "2026-10-21T17:58:40.471Z"
   },
   "Get Jiro-1-9": {
-    "airdate": "2026-11-21",
+    "airdate": "2026-11-22",
     "name": "Our Specials This Evening",
     "verifiedAt": "2026-10-21T17:58:42.901Z"
   },
@@ -95,27 +95,27 @@
     "verifiedAt": "2026-10-26T19:02:47.309Z"
   },
   "The Great American Road Rally: Celebrity Edition-1-7": {
-    "airdate": "2026-11-18",
+    "airdate": "2026-11-11",
     "name": "Episode #1.7",
     "verifiedAt": "2026-10-26T19:03:58.007Z"
   },
   "The Great American Road Rally: Celebrity Edition-1-8": {
-    "airdate": "2026-11-25",
+    "airdate": "2026-11-18",
     "name": "Episode #1.8",
     "verifiedAt": "2026-10-26T19:04:00.452Z"
   },
   "The Great American Road Rally: Celebrity Edition-1-9": {
-    "airdate": "2026-12-02",
+    "airdate": "2026-11-25",
     "name": "Episode #1.9",
     "verifiedAt": "2026-10-26T19:04:02.881Z"
   },
   "The Great American Road Rally: Celebrity Edition-1-10": {
-    "airdate": "2026-12-09",
+    "airdate": "2026-12-02",
     "name": "Episode #1.10",
     "verifiedAt": "2026-10-26T19:04:05.297Z"
   },
   "The Great American Road Rally: Celebrity Edition-1-11": {
-    "airdate": "2026-12-16",
+    "airdate": "2026-12-09",
     "name": "Episode #1.11",
     "verifiedAt": "2026-10-26T19:04:07.790Z"
   },
@@ -135,12 +135,12 @@
     "verifiedAt": "2026-10-27T18:36:54.255Z"
   },
   "Fire Country-5-7": {
-    "airdate": "2026-11-20",
+    "airdate": "2026-12-04",
     "name": "Episode #5.7",
     "verifiedAt": "2026-10-27T18:36:57.114Z"
   },
   "Boston Blue-2-7": {
-    "airdate": "2026-11-20",
+    "airdate": "2026-12-04",
     "name": "Crisis",
     "verifiedAt": "2026-10-27T18:36:59.817Z"
   },
@@ -170,7 +170,7 @@
     "verifiedAt": "2026-10-30T18:28:46.154Z"
   },
   "Surviving Alaska: Women of the Wild-1-7": {
-    "airdate": "2026-11-17",
+    "airdate": "2026-10-07",
     "name": "Born to Run",
     "verifiedAt": "2026-11-01T18:19:51.483Z"
   },
@@ -183,5 +183,70 @@
     "airdate": "2026-11-09",
     "name": "Elmo Doesn't Feel Anything Anymore",
     "verifiedAt": "2026-11-03T20:02:17.588Z"
+  },
+  "Fatal Attraction-17-14": {
+    "airdate": "2026-11-09",
+    "name": "Deadly Delivery",
+    "verifiedAt": "2026-11-04T20:18:09.851Z"
+  },
+  "WWE Friday Night SmackDown-27-45": {
+    "airdate": "2025-11-07",
+    "name": "The Scottish Exile",
+    "verifiedAt": "2026-11-04T20:18:34.078Z"
+  },
+  "WWE Friday Night SmackDown-27-46": {
+    "airdate": "2025-11-14",
+    "name": "Vision of Vengeance",
+    "verifiedAt": "2026-11-04T20:18:36.532Z"
+  },
+  "WWE Friday Night SmackDown-27-47": {
+    "airdate": "2026-11-20",
+    "name": "WarGames Wildcard",
+    "verifiedAt": "2026-11-04T20:18:38.893Z"
+  },
+  "WWE Friday Night SmackDown-27-48": {
+    "airdate": "2026-11-27",
+    "name": "Final Countdown to War",
+    "verifiedAt": "2026-11-04T20:18:41.279Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2025-12-05",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-11-04T20:18:43.725Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-11-04T20:18:46.595Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2026-01-02",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-11-04T20:18:48.961Z"
+  },
+  "WWE Friday Night SmackDown-28-2": {
+    "airdate": "2026-01-09",
+    "name": "Three Stages of Hell in Berlin",
+    "verifiedAt": "2026-11-04T20:18:51.327Z"
+  },
+  "WWE Friday Night SmackDown-28-3": {
+    "airdate": "2026-01-16",
+    "name": "London Calling",
+    "verifiedAt": "2026-11-04T20:18:53.719Z"
+  },
+  "Love & Marriage: Huntsville-12-12": {
+    "airdate": "2026-09-12",
+    "name": "A New Era",
+    "verifiedAt": "2026-11-04T20:19:54.886Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-6": {
+    "airdate": "2026-11-10",
+    "name": "Winter's Reckoning",
+    "verifiedAt": "2026-11-04T20:21:15.576Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-8": {
+    "airdate": "2026-11-24",
+    "name": "Building the Dream",
+    "verifiedAt": "2026-11-04T20:21:20.305Z"
   }
 }
