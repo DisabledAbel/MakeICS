@@ -1,26 +1,8 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-11-01T06:23:05.259Z",
+  "updatedAt": "2026-11-04T06:40:16.612Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020242",
-      "strEvent": "Pittsburgh Penguins vs Vegas Golden Knights",
-      "strHomeTeam": "Pittsburgh Penguins",
-      "strAwayTeam": "Vegas Golden Knights",
-      "dateEvent": "2026-11-03",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-04T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "PPG Paints Arena",
-      "strStatus": "NS",
-      "strTVStation": "SCRIPPS, SN-PIT, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020242",
-      "idHomeTeam": "134844",
-      "idAwayTeam": "135913"
-    },
     {
       "idEvent": "nhl-2026020257",
       "strEvent": "Pittsburgh Penguins vs Boston Bruins",

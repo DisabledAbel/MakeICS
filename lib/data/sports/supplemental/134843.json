@@ -1,26 +1,8 @@
 {
   "teamId": "134843",
   "teamName": "Philadelphia Flyers",
-  "updatedAt": "2026-11-01T22:10:10.146Z",
+  "updatedAt": "2026-11-04T06:40:16.612Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020241",
-      "strEvent": "Philadelphia Flyers vs Minnesota Wild",
-      "strHomeTeam": "Philadelphia Flyers",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-11-03",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-04T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, NBCSP, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020241",
-      "idHomeTeam": "134843",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020256",
       "strEvent": "New York Rangers vs Philadelphia Flyers",

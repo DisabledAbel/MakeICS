@@ -1,26 +1,8 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-11-03T01:04:31.561Z",
+  "updatedAt": "2026-11-04T06:40:16.612Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020244",
-      "strEvent": "Columbus Blue Jackets vs Colorado Avalanche",
-      "strHomeTeam": "Columbus Blue Jackets",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-11-03",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-04T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Nationwide Arena",
-      "strStatus": "NS",
-      "strTVStation": "ALT, CBJHN, CBJNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020244",
-      "idHomeTeam": "134839",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020261",
       "strEvent": "Colorado Avalanche vs Nashville Predators",

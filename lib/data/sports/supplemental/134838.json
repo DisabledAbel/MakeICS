@@ -1,26 +1,8 @@
 {
   "teamId": "134838",
   "teamName": "Carolina Hurricanes",
-  "updatedAt": "2026-11-01T22:10:10.146Z",
+  "updatedAt": "2026-11-04T06:40:16.612Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020245",
-      "strEvent": "Nashville Predators vs Carolina Hurricanes",
-      "strHomeTeam": "Nashville Predators",
-      "strAwayTeam": "Carolina Hurricanes",
-      "dateEvent": "2026-11-03",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-04T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Bridgestone Arena",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, SCRIPPS, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020245",
-      "idHomeTeam": "134858",
-      "idAwayTeam": "134838"
-    },
     {
       "idEvent": "nhl-2026020255",
       "strEvent": "New York Islanders vs Carolina Hurricanes",

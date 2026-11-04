@@ -1,26 +1,8 @@
 {
   "teamId": "134832",
   "teamName": "Detroit Red Wings",
-  "updatedAt": "2026-11-03T01:04:31.561Z",
+  "updatedAt": "2026-11-04T06:40:16.612Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020238",
-      "strEvent": "Tampa Bay Lightning vs Detroit Red Wings",
-      "strHomeTeam": "Tampa Bay Lightning",
-      "strAwayTeam": "Detroit Red Wings",
-      "dateEvent": "2026-11-03",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-04T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Benchmark International Arena",
-      "strStatus": "NS",
-      "strTVStation": "DSN, The Spot",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020238",
-      "idHomeTeam": "134836",
-      "idAwayTeam": "134832"
-    },
     {
       "idEvent": "nhl-2026020252",
       "strEvent": "Detroit Red Wings vs Vegas Golden Knights",

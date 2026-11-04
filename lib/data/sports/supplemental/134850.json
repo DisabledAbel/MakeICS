@@ -1,26 +1,8 @@
 {
   "teamId": "134850",
   "teamName": "Vancouver Canucks",
-  "updatedAt": "2026-11-01T06:23:05.259Z",
+  "updatedAt": "2026-11-04T06:40:16.612Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020246",
-      "strEvent": "Vancouver Canucks vs Anaheim Ducks",
-      "strHomeTeam": "Vancouver Canucks",
-      "strAwayTeam": "Anaheim Ducks",
-      "dateEvent": "2026-11-03",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-11-04T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Arena",
-      "strStatus": "NS",
-      "strTVStation": "Prime Video, SNP",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020246",
-      "idHomeTeam": "134850",
-      "idAwayTeam": "134846"
-    },
     {
       "idEvent": "nhl-2026020259",
       "strEvent": "Winnipeg Jets vs Vancouver Canucks",

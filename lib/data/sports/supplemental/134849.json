@@ -1,26 +1,8 @@
 {
   "teamId": "134849",
   "teamName": "Edmonton Oilers",
-  "updatedAt": "2026-11-02T06:24:12.202Z",
+  "updatedAt": "2026-11-04T06:40:16.612Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020239",
-      "strEvent": "New Jersey Devils vs Edmonton Oilers",
-      "strHomeTeam": "New Jersey Devils",
-      "strAwayTeam": "Edmonton Oilers",
-      "dateEvent": "2026-11-03",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-04T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Prudential Center",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020239",
-      "idHomeTeam": "134840",
-      "idAwayTeam": "134849"
-    },
     {
       "idEvent": "nhl-2026020260",
       "strEvent": "Edmonton Oilers vs Anaheim Ducks",

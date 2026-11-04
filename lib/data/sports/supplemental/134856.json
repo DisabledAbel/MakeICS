@@ -1,26 +1,8 @@
 {
   "teamId": "134856",
   "teamName": "Dallas Stars",
-  "updatedAt": "2026-11-01T06:23:05.259Z",
+  "updatedAt": "2026-11-04T06:40:16.612Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020243",
-      "strEvent": "Washington Capitals vs Dallas Stars",
-      "strHomeTeam": "Washington Capitals",
-      "strAwayTeam": "Dallas Stars",
-      "dateEvent": "2026-11-03",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-04T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020243",
-      "idHomeTeam": "134845",
-      "idAwayTeam": "134856"
-    },
     {
       "idEvent": "nhl-2026020258",
       "strEvent": "Columbus Blue Jackets vs Dallas Stars",

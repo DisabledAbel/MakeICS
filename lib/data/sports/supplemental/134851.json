@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-11-01T22:10:10.146Z",
+  "updatedAt": "2026-11-04T06:40:16.612Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020237",
-      "strEvent": "Montreal Canadiens vs Winnipeg Jets",
-      "strHomeTeam": "Montreal Canadiens",
-      "strAwayTeam": "Winnipeg Jets",
-      "dateEvent": "2026-11-03",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-04T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Centre Bell",
-      "strStatus": "NS",
-      "strTVStation": "RDS, TSN2, TSN3",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020237",
-      "idHomeTeam": "134834",
-      "idAwayTeam": "134851"
-    },
     {
       "idEvent": "nhl-2026020259",
       "strEvent": "Winnipeg Jets vs Vancouver Canucks",

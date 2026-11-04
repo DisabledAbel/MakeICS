@@ -1,26 +1,8 @@
 {
   "teamId": "134859",
   "teamName": "St. Louis Blues",
-  "updatedAt": "2026-10-31T21:43:10.410Z",
+  "updatedAt": "2026-11-04T06:40:16.612Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020240",
-      "strEvent": "New York Rangers vs St. Louis Blues",
-      "strHomeTeam": "New York Rangers",
-      "strAwayTeam": "St. Louis Blues",
-      "dateEvent": "2026-11-03",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-04T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "BN+, MSG, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020240",
-      "idHomeTeam": "134842",
-      "idAwayTeam": "134859"
-    },
     {
       "idEvent": "nhl-2026020254",
       "strEvent": "New Jersey Devils vs St. Louis Blues",

@@ -1,26 +1,8 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-11-01T22:10:10.146Z",
+  "updatedAt": "2026-11-04T06:40:16.612Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020236",
-      "strEvent": "Toronto Maple Leafs vs Utah Mammoth",
-      "strHomeTeam": "Toronto Maple Leafs",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-11-03",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-04T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": "Mammoth+, TSN4, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
-      "source": "scraped",
-      "sourceEventId": "2026020236",
-      "idHomeTeam": "134837",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020251",
       "strEvent": "Montreal Canadiens vs Utah Mammoth",
