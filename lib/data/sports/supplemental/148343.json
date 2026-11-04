@@ -26,7 +26,7 @@
       "strTime": "20:00:00",
       "strTimestamp": "2026-04-18T20:00:00.000Z",
       "strLeague": "Arena Football One",
-      "strVenue": "",
+      "strVenue": null,
       "strTVStation": "RS",
       "strStatus": "NS",
       "source": "af1-scrape"
