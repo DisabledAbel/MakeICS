@@ -1,7 +1,7 @@
 {
   "teamId": "134941",
   "teamName": "Minnesota Vikings",
-  "updatedAt": "2026-11-02T06:07:53.942Z",
+  "updatedAt": "2026-11-04T06:26:37.140Z",
   "generatedAt": "2026-07-18T06:13:33.281Z",
   "generateAt": "2026-07-18T06:13:33.281Z",
   "events": [
@@ -14,7 +14,7 @@
       "strTime": "01:15:00Z",
       "strTimestamp": "2026-11-10T01:15:00Z",
       "strLeague": "NFL",
-      "strVenue": "U.S. Bank Stadium",
+      "strVenue": null,
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
