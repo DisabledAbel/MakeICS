@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:39:27.152Z",
+  "generatedAt": "2026-11-04T12:48:53.321Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6455,8 +6455,8 @@
           "name": "Zoë Kravitz"
         },
         {
-          "id": "nm0000604",
-          "name": "John C. Reilly"
+          "id": "nm0203457",
+          "name": "Pete Davidson"
         }
       ],
       "label": "Nov 13, 2026"
@@ -7015,7 +7015,7 @@
     {
       "id": "tt38058097",
       "title": "Club Kid",
-      "image": "https://m.media-amazon.com/images/M/MV5BYWUxYjgzMjgtMzgzMC00ZTdlLWJkMjktYmY4YWFiNDg1MWJmXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTNlYTY0NDgtYjc2Ny00YjU2LWFkYTEtMThlODc5MDFjNDBkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Thu, 26 Nov 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -7628,12 +7628,12 @@
           "name": "Jason Sudeikis"
         },
         {
-          "id": "nm3931538",
-          "name": "Sam Richardson"
-        },
-        {
           "id": "nm1551130",
           "name": "Keke Palmer"
+        },
+        {
+          "id": "nm3528821",
+          "name": "Emma Myers"
         }
       ],
       "label": "Dec 23, 2026"
@@ -7936,7 +7936,7 @@
     {
       "id": "tt8613988",
       "title": "The Liberation",
-      "image": "https://m.media-amazon.com/images/M/MV5BZWRmNjNlYjMtYmNkMS00YTNkLWE1YTctZTI0ZTNlOTkwOTk5XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2MxYzI3MzUtNTNiZC00NDNhLWJlYTAtNzc0ZmZkMWQwZjRiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -8665,20 +8665,20 @@
       ],
       "people": [
         {
-          "id": "nm5730649",
-          "name": "Lewis Pullman"
+          "id": "nm1320827",
+          "name": "Randall Park"
         },
         {
-          "id": "nm2547958",
-          "name": "Kate Berlant"
+          "id": "nm5730649",
+          "name": "Lewis Pullman"
         },
         {
           "id": "nm1638321",
           "name": "Maya Hawke"
         },
         {
-          "id": "nm1320827",
-          "name": "Randall Park"
+          "id": "nm2547958",
+          "name": "Kate Berlant"
         }
       ],
       "label": "Feb 12, 2027"
@@ -9097,8 +9097,8 @@
           "name": "Kate Siegel"
         },
         {
-          "id": "nm3418510",
-          "name": "Rahul Kohli"
+          "id": "nm0424060",
+          "name": "Scarlett Johansson"
         }
       ],
       "label": "Mar 12, 2027"
@@ -9707,8 +9707,8 @@
           "name": "Drew Nelson"
         },
         {
-          "id": "nm3524780",
-          "name": "Chase Yi"
+          "id": "nm11071631",
+          "name": "Seled Calderon"
         }
       ],
       "label": "May 21, 2027"
@@ -10399,16 +10399,16 @@
           "name": "Keanu Reeves"
         },
         {
+          "id": "nm0905357",
+          "name": "Steven Waddington"
+        },
+        {
           "id": "nm6721226",
           "name": "Nicholas Duvernay"
         },
         {
           "id": "nm8424510",
           "name": "Callie Cooke"
-        },
-        {
-          "id": "nm0905357",
-          "name": "Steven Waddington"
         }
       ],
       "label": "Aug 13, 2027"
