@@ -1,25 +1,8 @@
 {
   "teamId": "134882",
   "teamName": "Miami Heat",
-  "updatedAt": "2026-11-03T13:40:29.341Z",
+  "updatedAt": "2026-11-05T05:16:38.064Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909935",
-      "strEvent": "Los Angeles Clippers vs Miami Heat",
-      "strHomeTeam": "Los Angeles Clippers",
-      "strAwayTeam": "Miami Heat",
-      "dateEvent": "2026-11-04",
-      "strTime": "03:30:00",
-      "strTimestamp": "2026-11-05T03:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Intuit Dome",
-      "strStatus": "NS",
-      "strTVStation": "ClipperVision",
-      "updatedAt": "2026-10-21T21:16:59.037Z",
-      "source": "scraped",
-      "idHomeTeam": "134866",
-      "idAwayTeam": "134882"
-    },
     {
       "idEvent": "scraped-espn-401909937",
       "strEvent": "Golden State Warriors vs Miami Heat",

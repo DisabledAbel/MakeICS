@@ -1,25 +1,8 @@
 {
   "teamId": "134875",
   "teamName": "Dallas Mavericks",
-  "updatedAt": "2026-11-03T13:40:29.341Z",
+  "updatedAt": "2026-11-05T05:16:38.064Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909933",
-      "strEvent": "San Antonio Spurs vs Dallas Mavericks",
-      "strHomeTeam": "San Antonio Spurs",
-      "strAwayTeam": "Dallas Mavericks",
-      "dateEvent": "2026-11-04",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-05T02:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Frost Bank Center",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134879",
-      "idAwayTeam": "134875"
-    },
     {
       "idEvent": "scraped-espn-401909290",
       "strEvent": "Dallas Mavericks vs Utah Jazz",

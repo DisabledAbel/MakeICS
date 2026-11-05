@@ -1,25 +1,8 @@
 {
   "teamId": "134889",
   "teamName": "Utah Jazz",
-  "updatedAt": "2026-11-03T13:40:29.341Z",
+  "updatedAt": "2026-11-05T05:16:38.064Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909928",
-      "strEvent": "New Orleans Pelicans vs Utah Jazz",
-      "strHomeTeam": "New Orleans Pelicans",
-      "strAwayTeam": "Utah Jazz",
-      "dateEvent": "2026-11-04",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-05T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Smoothie King Center",
-      "strStatus": "NS",
-      "strTVStation": "GCSEN",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134878",
-      "idAwayTeam": "134889"
-    },
     {
       "idEvent": "scraped-espn-401909290",
       "strEvent": "Dallas Mavericks vs Utah Jazz",

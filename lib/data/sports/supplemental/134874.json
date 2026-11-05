@@ -1,25 +1,8 @@
 {
   "teamId": "134874",
   "teamName": "Milwaukee Bucks",
-  "updatedAt": "2026-11-03T13:40:29.341Z",
+  "updatedAt": "2026-11-05T05:16:38.064Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909924",
-      "strEvent": "Boston Celtics vs Milwaukee Bucks",
-      "strHomeTeam": "Boston Celtics",
-      "strAwayTeam": "Milwaukee Bucks",
-      "dateEvent": "2026-11-04",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-05T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "MyMi",
-      "updatedAt": "2026-10-22T03:25:05.748Z",
-      "source": "scraped",
-      "idHomeTeam": "134860",
-      "idAwayTeam": "134874"
-    },
     {
       "idEvent": "scraped-espn-401909292",
       "strEvent": "Milwaukee Bucks vs Toronto Raptors",

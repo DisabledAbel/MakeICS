@@ -1,25 +1,8 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-11-03T00:32:47.352Z",
+  "updatedAt": "2026-11-05T05:16:38.064Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909923",
-      "strEvent": "Washington Wizards vs Atlanta Hawks",
-      "strHomeTeam": "Washington Wizards",
-      "strAwayTeam": "Atlanta Hawks",
-      "dateEvent": "2026-11-04",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-05T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134884",
-      "idAwayTeam": "134880"
-    },
     {
       "idEvent": "scraped-espn-401909287",
       "strEvent": "Atlanta Hawks vs Washington Wizards",

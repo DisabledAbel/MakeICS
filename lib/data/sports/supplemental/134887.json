@@ -1,25 +1,8 @@
 {
   "teamId": "134887",
   "teamName": "Oklahoma City Thunder",
-  "updatedAt": "2026-11-03T00:32:47.352Z",
+  "updatedAt": "2026-11-05T05:16:38.064Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909929",
-      "strEvent": "Oklahoma City Thunder vs Cleveland Cavaliers",
-      "strHomeTeam": "Oklahoma City Thunder",
-      "strAwayTeam": "Cleveland Cavaliers",
-      "dateEvent": "2026-11-04",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-05T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Paycom Center",
-      "strStatus": "NS",
-      "strTVStation": "KSBI",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134887",
-      "idAwayTeam": "134871"
-    },
     {
       "idEvent": "scraped-espn-401909291",
       "strEvent": "Memphis Grizzlies vs Oklahoma City Thunder",
