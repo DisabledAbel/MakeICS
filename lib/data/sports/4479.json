@@ -20384,7 +20384,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "Q2",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -20429,7 +20429,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -20474,7 +20474,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "Q2",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
