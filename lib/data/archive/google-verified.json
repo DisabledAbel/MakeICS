@@ -99,15 +99,20 @@
     "name": "Beavis, Take the Wheel/Pleasure Washer",
     "verifiedAt": "2026-10-08T19:13:50.763Z"
   },
+  "Mike Judge's Beavis and Butt-Head-4-5": {
+    "airdate": "2026-11-04",
+    "name": "Power Grip/Double Vision",
+    "verifiedAt": "2026-10-17T16:13:06.095Z"
+  },
   "Mike Judge's Beavis and Butt-Head-4-6": {
     "airdate": "2026-10-21",
     "name": "Fender Benders/Chickens",
     "verifiedAt": "2026-10-17T16:13:08.595Z"
   },
   "NOVA-53-16": {
-    "airdate": "2026-09-16",
+    "airdate": "2026-11-04",
     "name": "The Battle to Breathe",
-    "verifiedAt": "2026-10-25T17:01:04.279Z"
+    "verifiedAt": "2026-10-28T18:43:07.228Z"
   },
   "Outlander: Blood of My Blood-2-6": {
     "airdate": "2026-10-24",
@@ -118,6 +123,11 @@
     "airdate": "2026-10-30",
     "name": "Heart of the Highlands",
     "verifiedAt": "2026-09-23T17:47:24.366Z"
+  },
+  "Secrets of the Dead-23-3": {
+    "airdate": "2026-11-04",
+    "name": "Queens of Combat",
+    "verifiedAt": "2026-10-01T18:47:27.992Z"
   },
   "Special Forces: World's Toughest Test-5-5": {
     "airdate": "2026-10-22",
@@ -268,5 +278,10 @@
     "airdate": "2026-01-16",
     "name": "London Calling",
     "verifiedAt": "2026-11-04T20:18:53.719Z"
+  },
+  "WWE NXT-20-44": {
+    "airdate": "2026-11-04",
+    "name": "Episode #20.44",
+    "verifiedAt": "2026-10-26T19:02:47.309Z"
   }
 }
