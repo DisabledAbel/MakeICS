@@ -1,7 +1,7 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-11-04T06:40:16.612Z",
+  "updatedAt": "2026-11-05T20:04:56.166Z",
   "events": [
     {
       "idEvent": "nhl-2026020261",
@@ -104,8 +104,8 @@
       "strLeague": "NHL",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": "ALT, Mammoth+, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
+      "strTVStation": "ALT, HBO MAX, Mammoth+, TNT, Utah16, truTV",
+      "updatedAt": "2026-11-05T20:04:56.166Z",
       "source": "scraped",
       "sourceEventId": "2026020346",
       "idHomeTeam": "148494",

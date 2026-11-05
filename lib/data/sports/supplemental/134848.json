@@ -1,7 +1,7 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-11-05T06:59:09.546Z",
+  "updatedAt": "2026-11-05T20:04:56.166Z",
   "events": [
     {
       "idEvent": "nhl-2026020264",
@@ -626,8 +626,8 @@
       "strLeague": "NHL",
       "strVenue": "Nationwide Arena",
       "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, SNW",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "CBJHN, CBJNHL, SNW, WWHO",
+      "updatedAt": "2026-11-05T20:04:56.166Z",
       "source": "scraped",
       "sourceEventId": "2026020804",
       "idHomeTeam": "134839",

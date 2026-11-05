@@ -1,7 +1,7 @@
 {
   "teamId": "134840",
   "teamName": "New Jersey Devils",
-  "updatedAt": "2026-11-04T06:40:16.612Z",
+  "updatedAt": "2026-11-05T20:04:56.166Z",
   "events": [
     {
       "idEvent": "nhl-2026020254",
@@ -536,8 +536,8 @@
       "strLeague": "NHL",
       "strVenue": "Prudential Center",
       "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, MSG",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "CBJHN, CBJNHL, MSG, WWHO",
+      "updatedAt": "2026-11-05T20:04:56.166Z",
       "source": "scraped",
       "sourceEventId": "2026020695",
       "idHomeTeam": "134840",

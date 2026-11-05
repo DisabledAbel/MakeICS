@@ -1,7 +1,7 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-11-04T06:40:16.612Z",
+  "updatedAt": "2026-11-05T20:04:56.166Z",
   "events": [
     {
       "idEvent": "nhl-2026020257",
@@ -212,8 +212,8 @@
       "strLeague": "NHL",
       "strVenue": "PPG Paints Arena",
       "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, SN-PIT, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "CBJHN, CBJNHL, SN-PIT, TVAS, WWHO",
+      "updatedAt": "2026-11-05T20:04:56.166Z",
       "source": "scraped",
       "sourceEventId": "2026020432",
       "idHomeTeam": "134844",
@@ -1076,8 +1076,8 @@
       "strLeague": "NHL",
       "strVenue": "PPG Paints Arena",
       "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, SN-PIT",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "CBJHN, CBJNHL, SN-PIT, WWHO",
+      "updatedAt": "2026-11-05T20:04:56.166Z",
       "source": "scraped",
       "sourceEventId": "2026021193",
       "idHomeTeam": "134844",
