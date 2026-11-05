@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T12:48:53.321Z",
+  "generatedAt": "2026-11-05T12:57:51.327Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6178,6 +6178,10 @@
       ],
       "people": [
         {
+          "id": "nm7367695",
+          "name": "Sai Pallavi"
+        },
+        {
           "id": "nm1633541",
           "name": "Ranbir Kapoor"
         },
@@ -6186,12 +6190,8 @@
           "name": "Yash"
         },
         {
-          "id": "nm7367695",
-          "name": "Sai Pallavi"
-        },
-        {
-          "id": "nm7129302",
-          "name": "Ravi Dubey"
+          "id": "nm0000821",
+          "name": "Amitabh Bachchan"
         }
       ],
       "label": "Nov 06, 2026"
@@ -6568,12 +6568,12 @@
           "name": "Clifton Powell"
         },
         {
-          "id": "nm0930707",
-          "name": "Gregory Alan Williams"
-        },
-        {
           "id": "nm0809793",
           "name": "Roger Guenveur Smith"
+        },
+        {
+          "id": "nm0930707",
+          "name": "Gregory Alan Williams"
         }
       ],
       "label": "Nov 13, 2026"
@@ -7688,8 +7688,8 @@
           "name": "Nana Patekar"
         },
         {
-          "id": "nm6946196",
-          "name": "Vishal Jethwa"
+          "id": "nm1277547",
+          "name": "Vineet Kumar Singh"
         },
         {
           "id": "nm0084443",
@@ -7722,8 +7722,8 @@
           "name": "Meera Jasmine"
         },
         {
-          "id": "nm1388202",
-          "name": "Siddique"
+          "id": "nm9851193",
+          "name": "Bhama Arun"
         }
       ],
       "label": "Dec 24, 2026"
@@ -7906,7 +7906,7 @@
     {
       "id": "tt41151310",
       "title": "Vampires 2: Evil Ever After",
-      "image": "https://m.media-amazon.com/images/M/MV5BYjcyOTczYzgtYWM0ZC00Mjg5LTgwOGQtOGMyOWY1ZjhhOTk3XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmQxOTE3ZmYtMzVjYi00NjczLTlkN2ItM2Q3ZmVmODVlMTNiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
       "genres": [
         "Action",
@@ -8247,16 +8247,16 @@
           "name": "Brendan Fletcher"
         },
         {
-          "id": "nm3287940",
-          "name": "Tracy Ifeachor"
-        },
-        {
           "id": "nm0479527",
           "name": "Tyler Labine"
         },
         {
-          "id": "nm10119061",
-          "name": "Erik Gow"
+          "id": "nm3287940",
+          "name": "Tracy Ifeachor"
+        },
+        {
+          "id": "nm15521315",
+          "name": "Elijah Fox"
         }
       ],
       "label": "Jan 22, 2027"
@@ -8431,6 +8431,36 @@
         {
           "id": "nm6180088",
           "name": "Young Mazino"
+        }
+      ],
+      "label": "Jan 29, 2027"
+    },
+    {
+      "id": "tt8382400",
+      "title": "The Night of Broken Glass",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGVkMzU4NGItMjY3MC00OTk5LTg0MzAtZjI4YzE0MGIyOGJkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0654110",
+          "name": "Clive Owen"
+        },
+        {
+          "id": "nm0491259",
+          "name": "Mélanie Laurent"
+        },
+        {
+          "id": "nm1641117",
+          "name": "Alex Pettyfer"
+        },
+        {
+          "id": "nm0000925",
+          "name": "Steven Berkoff"
         }
       ],
       "label": "Jan 29, 2027"
@@ -8713,8 +8743,8 @@
           "name": "Ivano DiCaro"
         },
         {
-          "id": "nm10021823",
-          "name": "Donald MacLean Jr."
+          "id": "nm2028004",
+          "name": "Ry Barrett"
         }
       ],
       "label": "Feb 12, 2027"
@@ -8847,6 +8877,10 @@
       ],
       "people": [
         {
+          "id": "nm1405398",
+          "name": "Dan Stevens"
+        },
+        {
           "id": "nm0736622",
           "name": "Seth Rogen"
         },
@@ -8855,12 +8889,8 @@
           "name": "Anna Kendrick"
         },
         {
-          "id": "nm1405398",
-          "name": "Dan Stevens"
-        },
-        {
-          "id": "nm2547958",
-          "name": "Kate Berlant"
+          "id": "nm0000232",
+          "name": "Sharon Stone"
         }
       ],
       "label": "Feb 19, 2027"
@@ -8937,20 +8967,20 @@
       ],
       "people": [
         {
-          "id": "nm1727825",
-          "name": "Tony Revolori"
-        },
-        {
           "id": "nm5289372",
           "name": "Yim Si-wan"
+        },
+        {
+          "id": "nm1727825",
+          "name": "Tony Revolori"
         },
         {
           "id": "nm7175730",
           "name": "Eric Nam"
         },
         {
-          "id": "nm8901592",
-          "name": "Renata Vaca"
+          "id": "nm10955564",
+          "name": "Ji-young Yoo"
         }
       ],
       "label": "Feb 26, 2027"
@@ -9185,20 +9215,20 @@
       ],
       "people": [
         {
-          "id": "nm1916003",
-          "name": "Laura Gordon"
-        },
-        {
           "id": "nm10988681",
           "name": "Stacy Clausen"
         },
         {
-          "id": "nm10056998",
-          "name": "Meg Fraser"
+          "id": "nm1916003",
+          "name": "Laura Gordon"
         },
         {
           "id": "nm0418877",
           "name": "John Jarratt"
+        },
+        {
+          "id": "nm10056998",
+          "name": "Meg Fraser"
         }
       ],
       "label": "Mar 19, 2027"
@@ -9570,12 +9600,12 @@
       ],
       "people": [
         {
-          "id": "nm2200639",
-          "name": "Patrick Schwarzenegger"
-        },
-        {
           "id": "nm0000102",
           "name": "Kevin Bacon"
+        },
+        {
+          "id": "nm2200639",
+          "name": "Patrick Schwarzenegger"
         },
         {
           "id": "nm0000510",
@@ -10024,12 +10054,12 @@
           "name": "Theo James"
         },
         {
-          "id": "nm9475707",
-          "name": "Hoyeon"
-        },
-        {
           "id": "nm0000225",
           "name": "Christian Slater"
+        },
+        {
+          "id": "nm9475707",
+          "name": "Hoyeon"
         },
         {
           "id": "nm1928172",
@@ -10101,12 +10131,12 @@
           "name": "Liam Neeson"
         },
         {
-          "id": "nm0000603",
-          "name": "Vanessa Redgrave"
-        },
-        {
           "id": "nm0000092",
           "name": "John Cleese"
+        },
+        {
+          "id": "nm0000603",
+          "name": "Vanessa Redgrave"
         },
         {
           "id": "nm0000546",
@@ -10204,12 +10234,12 @@
       ],
       "people": [
         {
-          "id": "nm0597388",
-          "name": "Jason Momoa"
-        },
-        {
           "id": "nm0000379",
           "name": "Kirsten Dunst"
+        },
+        {
+          "id": "nm0597388",
+          "name": "Jason Momoa"
         },
         {
           "id": "nm0085312",
@@ -10256,6 +10286,7 @@
       "title": "The Comebacker",
       "releaseDate": "Fri, 30 Jul 2027 00:00:00 GMT",
       "genres": [
+        "Comedy",
         "Drama",
         "Sport"
       ],
@@ -10340,6 +10371,10 @@
       ],
       "people": [
         {
+          "id": "nm7248827",
+          "name": "Cynthia Erivo"
+        },
+        {
           "id": "nm6058237",
           "name": "Laya DeLeon Hayes"
         },
@@ -10350,10 +10385,6 @@
         {
           "id": "nm6043149",
           "name": "J.D."
-        },
-        {
-          "id": "nm1988575",
-          "name": "Lauren London"
         }
       ],
       "label": "Aug 06, 2027"
@@ -10506,20 +10537,7 @@
         "Adventure",
         "Comedy"
       ],
-      "people": [
-        {
-          "id": "nm0534134",
-          "name": "Tress MacNeille"
-        },
-        {
-          "id": "nm0744648",
-          "name": "Maggie Roswell"
-        },
-        {
-          "id": "nm3536856",
-          "name": "Kelly Macleod"
-        }
-      ],
+      "people": [],
       "label": "Sep 03, 2027"
     },
     {
@@ -10797,6 +10815,63 @@
         }
       ],
       "label": "Oct 15, 2027"
+    },
+    {
+      "id": "tt11998406",
+      "title": "Charlie vs. the Chocolate Factory",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTIxMGU0ODktYmMxZi00NjNkLWI5ZDEtOTU2ZTIwMjI3M2E4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 05 Nov 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm0169806",
+          "name": "Taika Waititi"
+        },
+        {
+          "id": "nm0000307",
+          "name": "Helena Bonham Carter"
+        },
+        {
+          "id": "nm0000701",
+          "name": "Kate Winslet"
+        },
+        {
+          "id": "nm2692997",
+          "name": "Christopher Chung"
+        }
+      ],
+      "label": "Nov 05, 2027"
+    },
+    {
+      "id": "tt30343245",
+      "title": "Naughty",
+      "releaseDate": "Fri, 05 Nov 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm3034977",
+          "name": "Samara Weaving"
+        },
+        {
+          "id": "nm0000098",
+          "name": "Jennifer Aniston"
+        },
+        {
+          "id": "nm0227759",
+          "name": "Peter Dinklage"
+        },
+        {
+          "id": "nm2359658",
+          "name": "Kate O'Flynn"
+        }
+      ],
+      "label": "Nov 05, 2027"
     }
   ]
 }
