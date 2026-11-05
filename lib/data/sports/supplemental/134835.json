@@ -1,26 +1,8 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-11-02T06:24:12.202Z",
+  "updatedAt": "2026-11-05T06:59:09.546Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020247",
-      "strEvent": "Buffalo Sabres vs Ottawa Senators",
-      "strHomeTeam": "Buffalo Sabres",
-      "strAwayTeam": "Ottawa Senators",
-      "dateEvent": "2026-11-04",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-05T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "KeyBank Center",
-      "strStatus": "NS",
-      "strTVStation": "MSG-B, Prime",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020247",
-      "idHomeTeam": "134831",
-      "idAwayTeam": "134835"
-    },
     {
       "idEvent": "nhl-2026020269",
       "strEvent": "Ottawa Senators vs Utah Mammoth",

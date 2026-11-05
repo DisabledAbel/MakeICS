@@ -1,26 +1,8 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-11-03T14:27:31.567Z",
+  "updatedAt": "2026-11-05T06:59:09.546Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020249",
-      "strEvent": "Los Angeles Kings vs San Jose Sharks",
-      "strHomeTeam": "Los Angeles Kings",
-      "strAwayTeam": "San Jose Sharks",
-      "dateEvent": "2026-11-04",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-05T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020249",
-      "idHomeTeam": "134852",
-      "idAwayTeam": "134853"
-    },
     {
       "idEvent": "nhl-2026020263",
       "strEvent": "Minnesota Wild vs San Jose Sharks",

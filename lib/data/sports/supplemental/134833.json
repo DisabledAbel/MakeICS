@@ -1,26 +1,8 @@
 {
   "teamId": "134833",
   "teamName": "Florida Panthers",
-  "updatedAt": "2026-11-03T01:04:31.561Z",
+  "updatedAt": "2026-11-05T06:59:09.546Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020248",
-      "strEvent": "Florida Panthers vs Chicago Blackhawks",
-      "strHomeTeam": "Florida Panthers",
-      "strAwayTeam": "Chicago Blackhawks",
-      "dateEvent": "2026-11-04",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-05T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Amerant Bank Arena",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020248",
-      "idHomeTeam": "134833",
-      "idAwayTeam": "134854"
-    },
     {
       "idEvent": "nhl-2026020265",
       "strEvent": "Washington Capitals vs Florida Panthers",
