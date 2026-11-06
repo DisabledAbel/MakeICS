@@ -1,7 +1,7 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-11-06T06:58:45.398Z",
+  "updatedAt": "2026-11-06T19:31:18.051Z",
   "events": [
     {
       "idEvent": "nhl-2026020269",
@@ -99,13 +99,13 @@
       "strHomeTeam": "Utah Mammoth",
       "strAwayTeam": "Colorado Avalanche",
       "dateEvent": "2026-11-18",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-11-19T02:00:00Z",
+      "strTime": "03:00:00",
+      "strTimestamp": "2026-11-19T03:00:00Z",
       "strLeague": "NHL",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": "ALT, HBO MAX, Mammoth+, TNT, Utah16",
-      "updatedAt": "2026-11-06T06:58:45.398Z",
+      "strTVStation": "ALT, HBO MAX, TNT",
+      "updatedAt": "2026-11-06T19:31:18.051Z",
       "source": "scraped",
       "sourceEventId": "2026020346",
       "idHomeTeam": "148494",
