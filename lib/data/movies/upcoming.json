@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T12:57:51.327Z",
+  "generatedAt": "2026-11-06T12:45:07.872Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6092,12 +6092,12 @@
           "name": "Bill Hader"
         },
         {
-          "id": "nm7961780",
-          "name": "Xochitl Gomez"
+          "id": "nm19087132",
+          "name": "Mayabella Sage Mccrillis"
         },
         {
-          "id": "nm12327048",
-          "name": "Tiago Martinez"
+          "id": "nm18493031",
+          "name": "Johnny Haemmerle"
         },
         {
           "id": "nm6708435",
@@ -6266,20 +6266,20 @@
       ],
       "people": [
         {
-          "id": "nm14637771",
-          "name": "Arisa Sasaki"
+          "id": "nm6046412",
+          "name": "Anna Yamada"
         },
         {
           "id": "nm6137155",
           "name": "Yuzu Aoki"
         },
         {
-          "id": "nm0847651",
-          "name": "Pierre Taki"
+          "id": "nm8219358",
+          "name": "Ren Komai"
         },
         {
-          "id": "nm6046412",
-          "name": "Anna Yamada"
+          "id": "nm16622333",
+          "name": "Danhi Kinoshita"
         }
       ],
       "label": "Nov 06, 2026"
@@ -6310,6 +6310,66 @@
         {
           "id": "nm1686962",
           "name": "Anandraj"
+        }
+      ],
+      "label": "Nov 06, 2026"
+    },
+    {
+      "id": "tt28553375",
+      "title": "De Gaulle: Résistance",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTc1ZWJjMDEtYjY3Yy00ZjQ3LTk5ZjMtOTczNGQ3YjU3M2ZhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "people": [
+        {
+          "id": "nm0008787",
+          "name": "Simon Abkarian"
+        },
+        {
+          "id": "nm0750971",
+          "name": "Simon Russell Beale"
+        },
+        {
+          "id": "nm11849704",
+          "name": "Florian Lesieur"
+        },
+        {
+          "id": "nm0536095",
+          "name": "Benoît Magimel"
+        }
+      ],
+      "label": "Nov 06, 2026"
+    },
+    {
+      "id": "tt29283995",
+      "title": "Hen",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTFhOWExMzAtYWEzNi00MWM3LTk5NmItNDI4MGNjMDA4ZTRhXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm0463709",
+          "name": "Yannis Kokiasmenos"
+        },
+        {
+          "id": "nm2172161",
+          "name": "Maria Diakopanayotou"
+        },
+        {
+          "id": "nm4699293",
+          "name": "Argyris Pandazaras"
+        },
+        {
+          "id": "nm3452480",
+          "name": "Machmout Bamerni"
         }
       ],
       "label": "Nov 06, 2026"
@@ -7348,36 +7408,6 @@
       "label": "Dec 04, 2026"
     },
     {
-      "id": "tt28553375",
-      "title": "De Gaulle: Résistance",
-      "image": "https://m.media-amazon.com/images/M/MV5BNTc1ZWJjMDEtYjY3Yy00ZjQ3LTk5ZjMtOTczNGQ3YjU3M2ZhXkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
-      "genres": [
-        "Biography",
-        "Drama",
-        "History"
-      ],
-      "people": [
-        {
-          "id": "nm0008787",
-          "name": "Simon Abkarian"
-        },
-        {
-          "id": "nm0750971",
-          "name": "Simon Russell Beale"
-        },
-        {
-          "id": "nm11849704",
-          "name": "Florian Lesieur"
-        },
-        {
-          "id": "nm0536095",
-          "name": "Benoît Magimel"
-        }
-      ],
-      "label": "Dec 04, 2026"
-    },
-    {
       "id": "tt11662534",
       "title": "Flavia de Luce: Girl Detective",
       "image": "https://m.media-amazon.com/images/M/MV5BNjYxNGZhYWQtNTEyMC00M2ZmLTliZmMtNjVhNTc2ZWM5MDY4XkEyXkFqcGc@._V1_.jpg",
@@ -7415,7 +7445,7 @@
       "genres": [
         "Biography",
         "Crime",
-        "History"
+        "Drama"
       ],
       "people": [
         {
@@ -7878,7 +7908,7 @@
     {
       "id": "tt9810236",
       "title": "Apophis 2029",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjA3NGE5MTctYjljZi00ZjkyLWI0ZWMtZjYzODRkZDc1NTVlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDkwNDJjNDUtNTRhNy00ZWRiLTkxNTMtZmI2N2I3ODg1OWYzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 30 Dec 2026 00:00:00 GMT",
       "genres": [
         "Drama"
@@ -8320,9 +8350,38 @@
       "label": "Jan 22, 2027"
     },
     {
+      "id": "tt27706987",
+      "title": "Lords of War",
+      "releaseDate": "Fri, 22 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0803889",
+          "name": "Bill Skarsgård"
+        },
+        {
+          "id": "nm0000115",
+          "name": "Nicolas Cage"
+        },
+        {
+          "id": "nm1679778",
+          "name": "Sylvia Hoeks"
+        },
+        {
+          "id": "nm5637553",
+          "name": "Laura Harrier"
+        }
+      ],
+      "label": "Jan 22, 2027"
+    },
+    {
       "id": "tt35893068",
       "title": "Drag",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDcxNDZmMTUtZjE1Ni00NmNkLWFjNmUtMTU2NDIzYjY4NTA0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BOThjMTIyOWEtNDVjYi00ZDE1LWExZGMtZGQ4ZmMwY2ZjYzEzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -8468,6 +8527,7 @@
     {
       "id": "tt33295857",
       "title": "Karoshi",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWVhZGZlYjgtNWQ4Ny00NjdlLTk3MDItZGI0Mjc5NzRlNmYzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 05 Feb 2027 00:00:00 GMT",
       "genres": [
         "Action",
@@ -8605,35 +8665,6 @@
         {
           "id": "nm0111203",
           "name": "Margarita Broich"
-        }
-      ],
-      "label": "Feb 05, 2027"
-    },
-    {
-      "id": "tt27706987",
-      "title": "Lords of War",
-      "releaseDate": "Fri, 05 Feb 2027 00:00:00 GMT",
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "people": [
-        {
-          "id": "nm0803889",
-          "name": "Bill Skarsgård"
-        },
-        {
-          "id": "nm0000115",
-          "name": "Nicolas Cage"
-        },
-        {
-          "id": "nm1679778",
-          "name": "Sylvia Hoeks"
-        },
-        {
-          "id": "nm5637553",
-          "name": "Laura Harrier"
         }
       ],
       "label": "Feb 05, 2027"
@@ -10717,6 +10748,10 @@
         {
           "id": "nm0000243",
           "name": "Denzel Washington"
+        },
+        {
+          "id": "nm3500582",
+          "name": "Teyonah Parris"
         }
       ],
       "label": "Oct 01, 2027"
