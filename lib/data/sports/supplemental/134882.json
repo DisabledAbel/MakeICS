@@ -1,25 +1,8 @@
 {
   "teamId": "134882",
   "teamName": "Miami Heat",
-  "updatedAt": "2026-11-05T05:16:38.064Z",
+  "updatedAt": "2026-11-06T05:16:01.125Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909937",
-      "strEvent": "Golden State Warriors vs Miami Heat",
-      "strHomeTeam": "Golden State Warriors",
-      "strAwayTeam": "Miami Heat",
-      "dateEvent": "2026-11-05",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-06T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Chase Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134865",
-      "idAwayTeam": "134882"
-    },
     {
       "idEvent": "scraped-espn-401909951",
       "strEvent": "Sacramento Kings vs Miami Heat",

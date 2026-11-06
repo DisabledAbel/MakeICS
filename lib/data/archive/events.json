@@ -21339,6 +21339,52 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401909936",
+      "uid": "sportsdb-scraped-espn-401909936@makeics.local",
+      "source": "lib/data/sports/supplemental/134868.json",
+      "record": {
+        "idEvent": "scraped-espn-401909936",
+        "strEvent": "Phoenix Suns vs Orlando Magic",
+        "strHomeTeam": "Phoenix Suns",
+        "strAwayTeam": "Orlando Magic",
+        "dateEvent": "2026-11-05",
+        "strTime": "02:00:00",
+        "strTimestamp": "2026-11-06T02:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Mortgage Matchup Center",
+        "strStatus": "NS",
+        "strTVStation": "Suns Live",
+        "updatedAt": "2026-10-21T16:39:51.754Z",
+        "source": "scraped",
+        "idHomeTeam": "134868",
+        "idAwayTeam": "134883"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401909937",
+      "uid": "sportsdb-scraped-espn-401909937@makeics.local",
+      "source": "lib/data/sports/supplemental/134865.json",
+      "record": {
+        "idEvent": "scraped-espn-401909937",
+        "strEvent": "Golden State Warriors vs Miami Heat",
+        "strHomeTeam": "Golden State Warriors",
+        "strAwayTeam": "Miami Heat",
+        "dateEvent": "2026-11-05",
+        "strTime": "03:00:00",
+        "strTimestamp": "2026-11-06T03:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Chase Center",
+        "strStatus": "NS",
+        "strTVStation": "NBA TV",
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134865",
+        "idAwayTeam": "134882"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401914101",
       "uid": "sportsdb-scraped-espn-401914101@makeics.local",
       "source": "lib/data/sports/supplemental/134862.json",
