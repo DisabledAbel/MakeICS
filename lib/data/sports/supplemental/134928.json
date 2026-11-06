@@ -1,24 +1,10 @@
 {
   "teamId": "134928",
   "teamName": "Jacksonville Jaguars",
-  "updatedAt": "2026-11-02T06:07:53.931Z",
+  "updatedAt": "2026-11-06T06:50:52.411Z",
   "generatedAt": "2026-07-18T06:13:33.266Z",
   "generateAt": "2026-07-18T06:13:33.266Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab380826-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Baltimore Ravens vs Jacksonville Jaguars",
-      "strHomeTeam": "Baltimore Ravens",
-      "strAwayTeam": "Jacksonville Jaguars",
-      "dateEvent": "2026-11-06",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-11-06T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "M&T Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab789e15-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Tennessee Titans vs Jacksonville Jaguars",

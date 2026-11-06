@@ -90064,6 +90064,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-ab380826-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ab380826-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134928.json",
+      "record": {
+        "idEvent": "sdv-nfl-ab380826-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Baltimore Ravens vs Jacksonville Jaguars",
+        "strHomeTeam": "Baltimore Ravens",
+        "strAwayTeam": "Jacksonville Jaguars",
+        "dateEvent": "2026-11-06",
+        "strTime": "01:15:00Z",
+        "strTimestamp": "2026-11-06T01:15:00Z",
+        "strLeague": "NFL",
+        "strVenue": "M&T Bank Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-ab380bc7-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-ab380bc7-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134923.json",
