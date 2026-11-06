@@ -1,26 +1,8 @@
 {
   "teamId": "134850",
   "teamName": "Vancouver Canucks",
-  "updatedAt": "2026-11-04T06:40:16.612Z",
+  "updatedAt": "2026-11-06T06:58:45.398Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020259",
-      "strEvent": "Winnipeg Jets vs Vancouver Canucks",
-      "strHomeTeam": "Winnipeg Jets",
-      "strAwayTeam": "Vancouver Canucks",
-      "dateEvent": "2026-11-05",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-06T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canada Life Centre",
-      "strStatus": "NS",
-      "strTVStation": "SNP, TSN3",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020259",
-      "idHomeTeam": "134851",
-      "idAwayTeam": "134850"
-    },
     {
       "idEvent": "nhl-2026020276",
       "strEvent": "Edmonton Oilers vs Vancouver Canucks",

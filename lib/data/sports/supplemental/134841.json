@@ -1,26 +1,8 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-10-31T21:43:10.410Z",
+  "updatedAt": "2026-11-06T06:58:45.398Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020255",
-      "strEvent": "New York Islanders vs Carolina Hurricanes",
-      "strHomeTeam": "New York Islanders",
-      "strAwayTeam": "Carolina Hurricanes",
-      "dateEvent": "2026-11-05",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-06T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "UBS Arena",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020255",
-      "idHomeTeam": "134841",
-      "idAwayTeam": "134838"
-    },
     {
       "idEvent": "nhl-2026020270",
       "strEvent": "New York Islanders vs New Jersey Devils",

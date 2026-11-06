@@ -1,26 +1,8 @@
 {
   "teamId": "134846",
   "teamName": "Anaheim Ducks",
-  "updatedAt": "2026-11-04T06:40:16.612Z",
+  "updatedAt": "2026-11-06T06:58:45.398Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020260",
-      "strEvent": "Edmonton Oilers vs Anaheim Ducks",
-      "strHomeTeam": "Edmonton Oilers",
-      "strAwayTeam": "Anaheim Ducks",
-      "dateEvent": "2026-11-05",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-06T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Place",
-      "strStatus": "NS",
-      "strTVStation": "Prime Video, SNW",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020260",
-      "idHomeTeam": "134849",
-      "idAwayTeam": "134846"
-    },
     {
       "idEvent": "nhl-2026020264",
       "strEvent": "Calgary Flames vs Anaheim Ducks",

@@ -1,26 +1,8 @@
 {
   "teamId": "134842",
   "teamName": "New York Rangers",
-  "updatedAt": "2026-11-04T06:40:16.612Z",
+  "updatedAt": "2026-11-06T06:58:45.398Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020256",
-      "strEvent": "New York Rangers vs Philadelphia Flyers",
-      "strHomeTeam": "New York Rangers",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-11-05",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-06T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "MSG, NBCSP",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020256",
-      "idHomeTeam": "134842",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020267",
       "strEvent": "Seattle Kraken vs New York Rangers",

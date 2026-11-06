@@ -1,26 +1,8 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-11-05T20:04:56.166Z",
+  "updatedAt": "2026-11-06T06:58:45.398Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020257",
-      "strEvent": "Pittsburgh Penguins vs Boston Bruins",
-      "strHomeTeam": "Pittsburgh Penguins",
-      "strAwayTeam": "Boston Bruins",
-      "dateEvent": "2026-11-05",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-06T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "PPG Paints Arena",
-      "strStatus": "NS",
-      "strTVStation": "NESN, SN, SN-PIT, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020257",
-      "idHomeTeam": "134844",
-      "idAwayTeam": "134830"
-    },
     {
       "idEvent": "nhl-2026020275",
       "strEvent": "Los Angeles Kings vs Pittsburgh Penguins",

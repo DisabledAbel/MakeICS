@@ -1,26 +1,8 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-11-05T20:04:56.166Z",
+  "updatedAt": "2026-11-06T06:58:45.398Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020261",
-      "strEvent": "Colorado Avalanche vs Nashville Predators",
-      "strHomeTeam": "Colorado Avalanche",
-      "strAwayTeam": "Nashville Predators",
-      "dateEvent": "2026-11-05",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-06T02:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU, SN+, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020261",
-      "idHomeTeam": "134855",
-      "idAwayTeam": "134858"
-    },
     {
       "idEvent": "nhl-2026020274",
       "strEvent": "Colorado Avalanche vs Detroit Red Wings",
@@ -104,8 +86,8 @@
       "strLeague": "NHL",
       "strVenue": "Delta Center",
       "strStatus": "NS",
-      "strTVStation": "ALT, HBO MAX, Mammoth+, TNT, Utah16, truTV",
-      "updatedAt": "2026-11-05T20:04:56.166Z",
+      "strTVStation": "ALT, HBO MAX, Mammoth+, TNT, Utah16",
+      "updatedAt": "2026-11-06T06:58:45.398Z",
       "source": "scraped",
       "sourceEventId": "2026020346",
       "idHomeTeam": "148494",

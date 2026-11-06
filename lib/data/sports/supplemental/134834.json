@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-11-04T06:40:16.612Z",
+  "updatedAt": "2026-11-06T06:58:45.398Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020251",
-      "strEvent": "Montreal Canadiens vs Utah Mammoth",
-      "strHomeTeam": "Montreal Canadiens",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-11-05",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-06T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Centre Bell",
-      "strStatus": "NS",
-      "strTVStation": "Mammoth+, RDS, TSN2, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
-      "source": "scraped",
-      "sourceEventId": "2026020251",
-      "idHomeTeam": "134834",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020268",
       "strEvent": "Toronto Maple Leafs vs Montreal Canadiens",

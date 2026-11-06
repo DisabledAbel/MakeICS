@@ -1,26 +1,8 @@
 {
   "teamId": "134840",
   "teamName": "New Jersey Devils",
-  "updatedAt": "2026-11-05T20:04:56.166Z",
+  "updatedAt": "2026-11-06T06:58:45.398Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020254",
-      "strEvent": "New Jersey Devils vs St. Louis Blues",
-      "strHomeTeam": "New Jersey Devils",
-      "strAwayTeam": "St. Louis Blues",
-      "dateEvent": "2026-11-05",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-06T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Prudential Center",
-      "strStatus": "NS",
-      "strTVStation": "ABC32, BN+, MSGSN, STLNHL",
-      "updatedAt": "2026-10-13T14:22:30.078Z",
-      "source": "scraped",
-      "sourceEventId": "2026020254",
-      "idHomeTeam": "134840",
-      "idAwayTeam": "134859"
-    },
     {
       "idEvent": "nhl-2026020270",
       "strEvent": "New York Islanders vs New Jersey Devils",
