@@ -1,26 +1,8 @@
 {
   "teamId": "134859",
   "teamName": "St. Louis Blues",
-  "updatedAt": "2026-11-07T06:12:09.014Z",
+  "updatedAt": "2026-11-07T21:59:01.924Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020266",
-      "strEvent": "Nashville Predators vs St. Louis Blues",
-      "strHomeTeam": "Nashville Predators",
-      "strAwayTeam": "St. Louis Blues",
-      "dateEvent": "2026-11-07",
-      "strTime": "18:00:00",
-      "strTimestamp": "2026-11-07T18:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Bridgestone Arena",
-      "strStatus": "NS",
-      "strTVStation": "BN+, NHLN, SCRIPPS, SN+, STLNHL",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020266",
-      "idHomeTeam": "134858",
-      "idAwayTeam": "134859"
-    },
     {
       "idEvent": "nhl-2026020290",
       "strEvent": "St. Louis Blues vs Detroit Red Wings",

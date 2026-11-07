@@ -1,26 +1,8 @@
 {
   "teamId": "134833",
   "teamName": "Florida Panthers",
-  "updatedAt": "2026-11-07T06:12:09.014Z",
+  "updatedAt": "2026-11-07T21:59:01.924Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020265",
-      "strEvent": "Washington Capitals vs Florida Panthers",
-      "strHomeTeam": "Washington Capitals",
-      "strAwayTeam": "Florida Panthers",
-      "dateEvent": "2026-11-07",
-      "strTime": "17:30:00",
-      "strTimestamp": "2026-11-07T17:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT, SCRIPPS, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020265",
-      "idHomeTeam": "134845",
-      "idAwayTeam": "134833"
-    },
     {
       "idEvent": "nhl-2026020277",
       "strEvent": "Boston Bruins vs Florida Panthers",
