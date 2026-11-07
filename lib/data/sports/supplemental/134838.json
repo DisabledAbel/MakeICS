@@ -1,7 +1,7 @@
 {
   "teamId": "134838",
   "teamName": "Carolina Hurricanes",
-  "updatedAt": "2026-11-06T06:58:45.398Z",
+  "updatedAt": "2026-11-07T06:12:09.014Z",
   "events": [
     {
       "idEvent": "nhl-2026020271",
@@ -770,8 +770,8 @@
       "strLeague": "NHL",
       "strVenue": "Lenovo Center",
       "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN1, TNT, truTV",
-      "updatedAt": "2026-10-23T21:30:31.165Z",
+      "strTVStation": "HBO MAX, SN1, TNT",
+      "updatedAt": "2026-11-07T06:12:09.014Z",
       "source": "scraped",
       "sourceEventId": "2026020977",
       "idHomeTeam": "134838",

@@ -1,7 +1,7 @@
 {
   "teamId": "134859",
   "teamName": "St. Louis Blues",
-  "updatedAt": "2026-11-06T06:58:45.398Z",
+  "updatedAt": "2026-11-07T06:12:09.014Z",
   "events": [
     {
       "idEvent": "nhl-2026020266",
@@ -32,8 +32,8 @@
       "strLeague": "NHL",
       "strVenue": "Enterprise Center",
       "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN+, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "HBO MAX, SN+, TNT",
+      "updatedAt": "2026-11-07T06:12:09.014Z",
       "source": "scraped",
       "sourceEventId": "2026020290",
       "idHomeTeam": "134859",

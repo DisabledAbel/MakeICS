@@ -1,26 +1,8 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-11-04T06:40:16.612Z",
+  "updatedAt": "2026-11-07T06:12:09.014Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020263",
-      "strEvent": "Minnesota Wild vs San Jose Sharks",
-      "strHomeTeam": "Minnesota Wild",
-      "strAwayTeam": "San Jose Sharks",
-      "dateEvent": "2026-11-06",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-07T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Grand Casino Arena",
-      "strStatus": "NS",
-      "strTVStation": "KSTP, MINNHL, NBCSCA, NHLN, Wild+",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020263",
-      "idHomeTeam": "134857",
-      "idAwayTeam": "134853"
-    },
     {
       "idEvent": "nhl-2026020273",
       "strEvent": "Minnesota Wild vs Tampa Bay Lightning",

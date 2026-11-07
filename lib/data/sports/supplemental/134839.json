@@ -1,26 +1,8 @@
 {
   "teamId": "134839",
   "teamName": "Columbus Blue Jackets",
-  "updatedAt": "2026-11-06T06:58:45.398Z",
+  "updatedAt": "2026-11-07T06:12:09.014Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020262",
-      "strEvent": "Buffalo Sabres vs Columbus Blue Jackets",
-      "strHomeTeam": "Buffalo Sabres",
-      "strAwayTeam": "Columbus Blue Jackets",
-      "dateEvent": "2026-11-06",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-07T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "KeyBank Center",
-      "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, MSG-B, SN+, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020262",
-      "idHomeTeam": "134831",
-      "idAwayTeam": "134839"
-    },
     {
       "idEvent": "nhl-2026020289",
       "strEvent": "Columbus Blue Jackets vs Florida Panthers",

@@ -1,7 +1,7 @@
 {
   "teamId": "134833",
   "teamName": "Florida Panthers",
-  "updatedAt": "2026-11-05T06:59:09.546Z",
+  "updatedAt": "2026-11-07T06:12:09.014Z",
   "events": [
     {
       "idEvent": "nhl-2026020265",
@@ -338,8 +338,8 @@
       "strLeague": "NHL",
       "strVenue": "TD Garden",
       "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN, TNT, TVAS, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "HBO MAX, SN, TNT, TVAS",
+      "updatedAt": "2026-11-07T06:12:09.014Z",
       "source": "scraped",
       "sourceEventId": "2026020536",
       "idHomeTeam": "134830",
@@ -662,8 +662,8 @@
       "strLeague": "NHL",
       "strVenue": "Madison Square Garden",
       "strStatus": "NS",
-      "strTVStation": "HBO MAX, MSG, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "HBO MAX, MSG, TNT",
+      "updatedAt": "2026-11-07T06:12:09.014Z",
       "source": "scraped",
       "sourceEventId": "2026020847",
       "idHomeTeam": "134842",

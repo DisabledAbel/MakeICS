@@ -1,7 +1,7 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-11-06T06:58:45.398Z",
+  "updatedAt": "2026-11-07T06:12:09.014Z",
   "events": [
     {
       "idEvent": "nhl-2026020275",
@@ -536,8 +536,8 @@
       "strLeague": "NHL",
       "strVenue": "UBS Arena",
       "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN-PIT, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "HBO MAX, SN-PIT, TNT",
+      "updatedAt": "2026-11-07T06:12:09.014Z",
       "source": "scraped",
       "sourceEventId": "2026020739",
       "idHomeTeam": "134841",

@@ -1,7 +1,7 @@
 {
   "teamId": "134830",
   "teamName": "Boston Bruins",
-  "updatedAt": "2026-11-06T19:31:18.051Z",
+  "updatedAt": "2026-11-07T06:12:09.014Z",
   "events": [
     {
       "idEvent": "nhl-2026020277",
@@ -284,8 +284,8 @@
       "strLeague": "NHL",
       "strVenue": "TD Garden",
       "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN, TNT, TVAS, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "HBO MAX, SN, TNT, TVAS",
+      "updatedAt": "2026-11-07T06:12:09.014Z",
       "source": "scraped",
       "sourceEventId": "2026020536",
       "idHomeTeam": "134830",
