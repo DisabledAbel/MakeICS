@@ -1,25 +1,8 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-11-05T05:16:38.064Z",
+  "updatedAt": "2026-11-07T04:46:37.659Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909287",
-      "strEvent": "Atlanta Hawks vs Washington Wizards",
-      "strHomeTeam": "Atlanta Hawks",
-      "strAwayTeam": "Washington Wizards",
-      "dateEvent": "2026-11-06",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-07T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "State Farm Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134880",
-      "idAwayTeam": "134884"
-    },
     {
       "idEvent": "scraped-espn-401909941",
       "strEvent": "Oklahoma City Thunder vs Washington Wizards",

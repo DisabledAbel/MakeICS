@@ -1,25 +1,8 @@
 {
   "teamId": "134877",
   "teamName": "Memphis Grizzlies",
-  "updatedAt": "2026-11-05T05:16:38.064Z",
+  "updatedAt": "2026-11-07T04:46:37.659Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909291",
-      "strEvent": "Memphis Grizzlies vs Oklahoma City Thunder",
-      "strHomeTeam": "Memphis Grizzlies",
-      "strAwayTeam": "Oklahoma City Thunder",
-      "dateEvent": "2026-11-06",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-07T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "FedExForum",
-      "strStatus": "NS",
-      "strTVStation": "KSBI",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134877",
-      "idAwayTeam": "134887"
-    },
     {
       "idEvent": "scraped-espn-401909955",
       "strEvent": "Toronto Raptors vs Memphis Grizzlies",

@@ -1,25 +1,8 @@
 {
   "teamId": "134889",
   "teamName": "Utah Jazz",
-  "updatedAt": "2026-11-05T05:16:38.064Z",
+  "updatedAt": "2026-11-07T04:46:37.659Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909290",
-      "strEvent": "Dallas Mavericks vs Utah Jazz",
-      "strHomeTeam": "Dallas Mavericks",
-      "strAwayTeam": "Utah Jazz",
-      "dateEvent": "2026-11-06",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-07T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "KFAA-TV",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134875",
-      "idAwayTeam": "134889"
-    },
     {
       "idEvent": "scraped-espn-401909947",
       "strEvent": "Minnesota Timberwolves vs Utah Jazz",
