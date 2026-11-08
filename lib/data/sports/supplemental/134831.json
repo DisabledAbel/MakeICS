@@ -1,26 +1,8 @@
 {
   "teamId": "134831",
   "teamName": "Buffalo Sabres",
-  "updatedAt": "2026-11-07T06:12:09.014Z",
+  "updatedAt": "2026-11-08T22:15:31.644Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020278",
-      "strEvent": "Buffalo Sabres vs Vegas Golden Knights",
-      "strHomeTeam": "Buffalo Sabres",
-      "strAwayTeam": "Vegas Golden Knights",
-      "dateEvent": "2026-11-08",
-      "strTime": "20:30:00",
-      "strTimestamp": "2026-11-08T20:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "KeyBank Center",
-      "strStatus": "NS",
-      "strTVStation": "MSG-B, SCRIPPS, SN1, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020278",
-      "idHomeTeam": "134831",
-      "idAwayTeam": "135913"
-    },
     {
       "idEvent": "nhl-2026020293",
       "strEvent": "Buffalo Sabres vs Tampa Bay Lightning",
