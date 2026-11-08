@@ -14,7 +14,7 @@
       "strTime": "01:15:00Z",
       "strTimestamp": "2026-11-10T01:15:00Z",
       "strLeague": "NFL",
-      "strVenue": null,
+      "strVenue": "",
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
