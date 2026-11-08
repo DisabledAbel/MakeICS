@@ -1,26 +1,8 @@
 {
   "teamId": "134850",
   "teamName": "Vancouver Canucks",
-  "updatedAt": "2026-11-06T06:58:45.398Z",
+  "updatedAt": "2026-11-08T06:17:00.673Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020276",
-      "strEvent": "Edmonton Oilers vs Vancouver Canucks",
-      "strHomeTeam": "Edmonton Oilers",
-      "strAwayTeam": "Vancouver Canucks",
-      "dateEvent": "2026-11-07",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-08T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Place",
-      "strStatus": "NS",
-      "strTVStation": "SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020276",
-      "idHomeTeam": "134849",
-      "idAwayTeam": "134850"
-    },
     {
       "idEvent": "nhl-2026020284",
       "strEvent": "Vancouver Canucks vs Philadelphia Flyers",

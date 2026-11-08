@@ -1,26 +1,8 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-11-05T20:04:56.166Z",
+  "updatedAt": "2026-11-08T06:17:00.673Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020269",
-      "strEvent": "Ottawa Senators vs Utah Mammoth",
-      "strHomeTeam": "Ottawa Senators",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-11-07",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-08T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canadian Tire Centre",
-      "strStatus": "NS",
-      "strTVStation": "Mammoth+, NHLN, SN1, TVAS-D, Utah16",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020269",
-      "idHomeTeam": "134835",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020288",
       "strEvent": "Ottawa Senators vs Washington Capitals",

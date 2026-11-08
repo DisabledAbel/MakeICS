@@ -1,26 +1,8 @@
 {
   "teamId": "134836",
   "teamName": "Tampa Bay Lightning",
-  "updatedAt": "2026-11-07T06:12:09.014Z",
+  "updatedAt": "2026-11-08T06:17:00.673Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020273",
-      "strEvent": "Minnesota Wild vs Tampa Bay Lightning",
-      "strHomeTeam": "Minnesota Wild",
-      "strAwayTeam": "Tampa Bay Lightning",
-      "dateEvent": "2026-11-07",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-08T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Grand Casino Arena",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, The Spot, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020273",
-      "idHomeTeam": "134857",
-      "idAwayTeam": "134836"
-    },
     {
       "idEvent": "nhl-2026020280",
       "strEvent": "Winnipeg Jets vs Tampa Bay Lightning",

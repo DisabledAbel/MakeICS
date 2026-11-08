@@ -1,26 +1,8 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-11-07T06:12:09.014Z",
+  "updatedAt": "2026-11-08T06:17:00.673Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020272",
-      "strEvent": "Dallas Stars vs San Jose Sharks",
-      "strHomeTeam": "Dallas Stars",
-      "strAwayTeam": "San Jose Sharks",
-      "dateEvent": "2026-11-07",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-08T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "NBCSCA, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020272",
-      "idHomeTeam": "134856",
-      "idAwayTeam": "134853"
-    },
     {
       "idEvent": "nhl-2026020285",
       "strEvent": "San Jose Sharks vs New York Islanders",
