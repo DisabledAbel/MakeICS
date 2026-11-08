@@ -1,7 +1,7 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-11-05T05:16:38.064Z",
+  "updatedAt": "2026-11-08T04:37:02.332Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909950",
@@ -77,13 +77,13 @@
       "strHomeTeam": "Los Angeles Clippers",
       "strAwayTeam": "Utah Jazz",
       "dateEvent": "2026-11-17",
-      "strTime": "04:00:00",
-      "strTimestamp": "2026-11-18T04:00:00Z",
+      "strTime": "03:30:00",
+      "strTimestamp": "2026-11-18T03:30:00Z",
       "strLeague": "NBA",
       "strVenue": "Intuit Dome",
       "strStatus": "NS",
-      "strTVStation": "NBC",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "ClipperVision",
+      "updatedAt": "2026-11-08T04:37:02.332Z",
       "source": "scraped",
       "idHomeTeam": "134866",
       "idAwayTeam": "134889"

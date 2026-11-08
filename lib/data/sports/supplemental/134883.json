@@ -1,25 +1,8 @@
 {
   "teamId": "134883",
   "teamName": "Orlando Magic",
-  "updatedAt": "2026-11-06T05:16:01.125Z",
+  "updatedAt": "2026-11-08T04:37:02.332Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909942",
-      "strEvent": "Golden State Warriors vs Orlando Magic",
-      "strHomeTeam": "Golden State Warriors",
-      "strAwayTeam": "Orlando Magic",
-      "dateEvent": "2026-11-07",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-11-08T01:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Chase Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134865",
-      "idAwayTeam": "134883"
-    },
     {
       "idEvent": "scraped-espn-401909964",
       "strEvent": "Sacramento Kings vs Orlando Magic",

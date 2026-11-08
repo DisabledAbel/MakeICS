@@ -1,25 +1,8 @@
 {
   "teamId": "134885",
   "teamName": "Denver Nuggets",
-  "updatedAt": "2026-11-05T05:16:38.064Z",
+  "updatedAt": "2026-11-08T04:37:02.332Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909938",
-      "strEvent": "Indiana Pacers vs Denver Nuggets",
-      "strHomeTeam": "Indiana Pacers",
-      "strAwayTeam": "Denver Nuggets",
-      "dateEvent": "2026-11-07",
-      "strTime": "22:00:00",
-      "strTimestamp": "2026-11-07T22:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Arena CDMX",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134873",
-      "idAwayTeam": "134885"
-    },
     {
       "idEvent": "scraped-espn-401909957",
       "strEvent": "Houston Rockets vs Denver Nuggets",
