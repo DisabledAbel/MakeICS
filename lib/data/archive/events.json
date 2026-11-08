@@ -22377,6 +22377,29 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401909945",
+      "uid": "sportsdb-scraped-espn-401909945@makeics.local",
+      "source": "lib/data/sports/supplemental/134863.json",
+      "record": {
+        "idEvent": "scraped-espn-401909945",
+        "strEvent": "Chicago Bulls vs Philadelphia 76ers",
+        "strHomeTeam": "Chicago Bulls",
+        "strAwayTeam": "Philadelphia 76ers",
+        "dateEvent": "2026-11-08",
+        "strTime": "20:30:00",
+        "strTimestamp": "2026-11-08T20:30:00Z",
+        "strLeague": "NBA",
+        "strVenue": "United Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-10-22T03:25:05.748Z",
+        "source": "scraped",
+        "idHomeTeam": "134870",
+        "idAwayTeam": "134863"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401914101",
       "uid": "sportsdb-scraped-espn-401914101@makeics.local",
       "source": "lib/data/sports/supplemental/134862.json",

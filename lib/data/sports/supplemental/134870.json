@@ -1,25 +1,8 @@
 {
   "teamId": "134870",
   "teamName": "Chicago Bulls",
-  "updatedAt": "2026-11-05T05:16:38.064Z",
+  "updatedAt": "2026-11-08T21:42:09.535Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909945",
-      "strEvent": "Chicago Bulls vs Philadelphia 76ers",
-      "strHomeTeam": "Chicago Bulls",
-      "strAwayTeam": "Philadelphia 76ers",
-      "dateEvent": "2026-11-08",
-      "strTime": "20:30:00",
-      "strTimestamp": "2026-11-08T20:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-22T03:25:05.748Z",
-      "source": "scraped",
-      "idHomeTeam": "134870",
-      "idAwayTeam": "134863"
-    },
     {
       "idEvent": "scraped-espn-401909969",
       "strEvent": "Chicago Bulls vs San Antonio Spurs",
