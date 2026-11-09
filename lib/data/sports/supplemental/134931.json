@@ -1,24 +1,10 @@
 {
   "teamId": "134931",
   "teamName": "Kansas City Chiefs",
-  "updatedAt": "2026-11-02T06:07:53.934Z",
+  "updatedAt": "2026-11-09T06:34:14.675Z",
   "generatedAt": "2026-07-18T06:13:33.270Z",
   "generateAt": "2026-07-18T06:13:33.270Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab381724-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Kansas City Chiefs vs New York Jets",
-      "strHomeTeam": "Kansas City Chiefs",
-      "strAwayTeam": "New York Jets",
-      "dateEvent": "2026-11-08",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-08T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Arrowhead Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab582f5b-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Atlanta Falcons vs Kansas City Chiefs",

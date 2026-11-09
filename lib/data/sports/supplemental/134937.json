@@ -1,24 +1,10 @@
 {
   "teamId": "134937",
   "teamName": "Washington Commanders",
-  "updatedAt": "2026-11-02T06:07:53.938Z",
+  "updatedAt": "2026-11-09T06:34:14.679Z",
   "generatedAt": "2026-07-18T06:13:33.276Z",
   "generateAt": "2026-07-18T06:13:33.276Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab382331-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Washington Commanders vs Los Angeles Rams",
-      "strHomeTeam": "Washington Commanders",
-      "strAwayTeam": "Los Angeles Rams",
-      "dateEvent": "2026-11-08",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-08T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Northwest Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab5828d9-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New York Giants vs Washington Commanders",

@@ -1,24 +1,10 @@
 {
   "teamId": "134945",
   "teamName": "Tampa Bay Buccaneers",
-  "updatedAt": "2026-11-02T06:07:53.945Z",
+  "updatedAt": "2026-11-09T06:34:14.684Z",
   "generatedAt": "2026-07-18T06:13:33.286Z",
   "generateAt": "2026-07-18T06:13:33.286Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab582247-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Chicago Bears vs Tampa Bay Buccaneers",
-      "strHomeTeam": "Chicago Bears",
-      "strAwayTeam": "Tampa Bay Buccaneers",
-      "dateEvent": "2026-11-09",
-      "strTime": "01:20:00Z",
-      "strTimestamp": "2026-11-09T01:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Soldier Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab999586-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Detroit Lions vs Tampa Bay Buccaneers",

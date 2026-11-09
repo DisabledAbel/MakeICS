@@ -1,24 +1,10 @@
 {
   "teamId": "134944",
   "teamName": "New Orleans Saints",
-  "updatedAt": "2026-10-25T16:24:21.992Z",
+  "updatedAt": "2026-11-09T06:34:14.684Z",
   "generatedAt": "2026-07-18T06:13:33.285Z",
   "generateAt": "2026-07-18T06:13:33.285Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab381d58-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New Orleans Saints vs Cleveland Browns",
-      "strHomeTeam": "New Orleans Saints",
-      "strAwayTeam": "Cleveland Browns",
-      "dateEvent": "2026-11-08",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-08T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Caesars Superdome",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab789769-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New Orleans Saints vs Carolina Panthers",

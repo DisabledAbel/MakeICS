@@ -1,24 +1,10 @@
 {
   "teamId": "134920",
   "teamName": "New England Patriots",
-  "updatedAt": "2026-11-02T06:07:53.923Z",
+  "updatedAt": "2026-11-09T06:34:14.665Z",
   "generatedAt": "2026-07-18T06:13:33.253Z",
   "generateAt": "2026-07-18T06:13:33.253Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab581b93-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New England Patriots vs Green Bay Packers",
-      "strHomeTeam": "New England Patriots",
-      "strAwayTeam": "Green Bay Packers",
-      "dateEvent": "2026-11-08",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-11-08T21:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Gillette Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab582c2f-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Detroit Lions vs New England Patriots",

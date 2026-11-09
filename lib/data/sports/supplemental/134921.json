@@ -1,24 +1,10 @@
 {
   "teamId": "134921",
   "teamName": "New York Jets",
-  "updatedAt": "2026-11-02T06:07:53.923Z",
+  "updatedAt": "2026-11-09T06:34:14.665Z",
   "generatedAt": "2026-07-18T06:13:33.255Z",
   "generateAt": "2026-07-18T06:13:33.255Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab381724-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Kansas City Chiefs vs New York Jets",
-      "strHomeTeam": "Kansas City Chiefs",
-      "strAwayTeam": "New York Jets",
-      "dateEvent": "2026-11-08",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-08T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Arrowhead Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab789ac9-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New York Jets vs Buffalo Bills",

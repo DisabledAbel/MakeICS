@@ -1,24 +1,10 @@
 {
   "teamId": "135908",
   "teamName": "Los Angeles Chargers",
-  "updatedAt": "2026-11-02T06:07:53.948Z",
+  "updatedAt": "2026-11-09T06:34:14.687Z",
   "generatedAt": "2026-07-18T06:13:33.292Z",
   "generateAt": "2026-07-18T06:13:33.292Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab580cb7-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Los Angeles Chargers vs Houston Texans",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "Houston Texans",
-      "dateEvent": "2026-11-08",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-11-08T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab78ad5a-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Baltimore Ravens vs Los Angeles Chargers",
