@@ -1,7 +1,7 @@
 {
   "teamId": "134935",
   "teamName": "New York Giants",
-  "updatedAt": "2026-11-09T06:34:14.678Z",
+  "updatedAt": "2026-11-09T22:24:17.851Z",
   "generatedAt": "2026-07-18T06:13:33.274Z",
   "generateAt": "2026-07-18T06:13:33.274Z",
   "events": [
@@ -25,8 +25,8 @@
       "strHomeTeam": "New York Giants",
       "strAwayTeam": "Jacksonville Jaguars",
       "dateEvent": "2026-11-22",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-22T18:00:00Z",
+      "strTime": "21:25:00Z",
+      "strTimestamp": "2026-11-22T21:25:00Z",
       "strLeague": "NFL",
       "strVenue": "MetLife Stadium",
       "strTVStation": null,

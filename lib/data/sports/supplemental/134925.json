@@ -1,7 +1,7 @@
 {
   "teamId": "134925",
   "teamName": "Pittsburgh Steelers",
-  "updatedAt": "2026-11-02T06:07:53.928Z",
+  "updatedAt": "2026-11-09T22:24:17.843Z",
   "generatedAt": "2026-07-18T06:13:33.261Z",
   "generateAt": "2026-07-18T06:13:33.261Z",
   "events": [
@@ -25,8 +25,8 @@
       "strHomeTeam": "Philadelphia Eagles",
       "strAwayTeam": "Pittsburgh Steelers",
       "dateEvent": "2026-11-22",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-11-22T21:25:00Z",
+      "strTime": "18:00:00Z",
+      "strTimestamp": "2026-11-22T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "Lincoln Financial Field",
       "strTVStation": null,
