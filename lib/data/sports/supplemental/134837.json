@@ -1,26 +1,8 @@
 {
   "teamId": "134837",
   "teamName": "Toronto Maple Leafs",
-  "updatedAt": "2026-11-08T06:17:00.673Z",
+  "updatedAt": "2026-11-09T06:50:03.942Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020279",
-      "strEvent": "Toronto Maple Leafs vs New Jersey Devils",
-      "strHomeTeam": "Toronto Maple Leafs",
-      "strAwayTeam": "New Jersey Devils",
-      "dateEvent": "2026-11-08",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-09T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": "MSGSN, NHLN, TSN4",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020279",
-      "idHomeTeam": "134837",
-      "idAwayTeam": "134840"
-    },
     {
       "idEvent": "nhl-2026020286",
       "strEvent": "Toronto Maple Leafs vs Colorado Avalanche",

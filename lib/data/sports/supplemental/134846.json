@@ -1,26 +1,8 @@
 {
   "teamId": "134846",
   "teamName": "Anaheim Ducks",
-  "updatedAt": "2026-11-07T06:12:09.014Z",
+  "updatedAt": "2026-11-09T06:50:03.942Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020282",
-      "strEvent": "Anaheim Ducks vs Pittsburgh Penguins",
-      "strHomeTeam": "Anaheim Ducks",
-      "strAwayTeam": "Pittsburgh Penguins",
-      "dateEvent": "2026-11-08",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-09T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Honda Center",
-      "strStatus": "NS",
-      "strTVStation": "Prime Video, SN, SN-PIT",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020282",
-      "idHomeTeam": "134846",
-      "idAwayTeam": "134844"
-    },
     {
       "idEvent": "nhl-2026020297",
       "strEvent": "Anaheim Ducks vs Nashville Predators",
