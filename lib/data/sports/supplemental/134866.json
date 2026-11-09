@@ -1,25 +1,8 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-11-08T04:37:02.332Z",
+  "updatedAt": "2026-11-09T04:47:47.366Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909950",
-      "strEvent": "Los Angeles Clippers vs New Orleans Pelicans",
-      "strHomeTeam": "Los Angeles Clippers",
-      "strAwayTeam": "New Orleans Pelicans",
-      "dateEvent": "2026-11-08",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-11-09T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Intuit Dome",
-      "strStatus": "NS",
-      "strTVStation": "ClipperVision",
-      "updatedAt": "2026-10-21T21:16:59.037Z",
-      "source": "scraped",
-      "idHomeTeam": "134866",
-      "idAwayTeam": "134878"
-    },
     {
       "idEvent": "scraped-espn-401909962",
       "strEvent": "Phoenix Suns vs Los Angeles Clippers",

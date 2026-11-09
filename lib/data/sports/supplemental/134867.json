@@ -1,25 +1,8 @@
 {
   "teamId": "134867",
   "teamName": "Los Angeles Lakers",
-  "updatedAt": "2026-11-08T04:37:02.332Z",
+  "updatedAt": "2026-11-09T04:47:47.366Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909946",
-      "strEvent": "Detroit Pistons vs Los Angeles Lakers",
-      "strHomeTeam": "Detroit Pistons",
-      "strAwayTeam": "Los Angeles Lakers",
-      "dateEvent": "2026-11-08",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-11-08T23:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134872",
-      "idAwayTeam": "134867"
-    },
     {
       "idEvent": "scraped-espn-401909952",
       "strEvent": "Atlanta Hawks vs Los Angeles Lakers",

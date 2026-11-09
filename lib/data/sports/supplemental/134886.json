@@ -1,25 +1,8 @@
 {
   "teamId": "134886",
   "teamName": "Minnesota Timberwolves",
-  "updatedAt": "2026-11-07T04:46:37.659Z",
+  "updatedAt": "2026-11-09T04:47:47.366Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909947",
-      "strEvent": "Minnesota Timberwolves vs Utah Jazz",
-      "strHomeTeam": "Minnesota Timberwolves",
-      "strAwayTeam": "Utah Jazz",
-      "dateEvent": "2026-11-08",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-09T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Target Center",
-      "strStatus": "NS",
-      "strTVStation": "DAZN MIN",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134886",
-      "idAwayTeam": "134889"
-    },
     {
       "idEvent": "scraped-espn-401909978",
       "strEvent": "Minnesota Timberwolves vs Dallas Mavericks",

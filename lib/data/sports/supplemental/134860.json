@@ -1,25 +1,8 @@
 {
   "teamId": "134860",
   "teamName": "Boston Celtics",
-  "updatedAt": "2026-11-07T04:46:37.659Z",
+  "updatedAt": "2026-11-09T04:47:47.366Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909949",
-      "strEvent": "Milwaukee Bucks vs Boston Celtics",
-      "strHomeTeam": "Milwaukee Bucks",
-      "strAwayTeam": "Boston Celtics",
-      "dateEvent": "2026-11-08",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-09T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Fiserv Forum",
-      "strStatus": "NS",
-      "strTVStation": "MyMi",
-      "updatedAt": "2026-10-22T03:25:05.748Z",
-      "source": "scraped",
-      "idHomeTeam": "134874",
-      "idAwayTeam": "134860"
-    },
     {
       "idEvent": "scraped-espn-401909961",
       "strEvent": "Philadelphia 76ers vs Boston Celtics",
