@@ -5534,7 +5534,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5579,7 +5579,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5624,7 +5624,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5669,7 +5669,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5714,7 +5714,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "AOT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5759,7 +5759,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5804,7 +5804,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5849,7 +5849,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5894,7 +5894,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5939,7 +5939,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -5984,7 +5984,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "Q4",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -6029,7 +6029,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -6180,7 +6180,7 @@
       "strLeague": "NFL",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/0z0j131793688031.png",
       "strSeason": "2026",
-      "strDescriptionEN": "",
+      "strDescriptionEN": "The Detroit Lions and New England Patriots meet in Munich in one of the NFL’s marquee international games of the 2026 season. Detroit bring one of the league’s highest-scoring offenses, while New England arrive as the defending AFC champions under Mike Vrabel. With both teams firmly in the playoff race, the matchup combines strong sporting stakes with the prestige of the NFL’s return to Munich.",
       "strHomeTeam": "Detroit Lions",
       "strAwayTeam": "New England Patriots",
       "intRound": "10",
