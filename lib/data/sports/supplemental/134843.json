@@ -1,26 +1,8 @@
 {
   "teamId": "134843",
   "teamName": "Philadelphia Flyers",
-  "updatedAt": "2026-11-09T06:50:03.942Z",
+  "updatedAt": "2026-11-10T07:28:42.566Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020284",
-      "strEvent": "Vancouver Canucks vs Philadelphia Flyers",
-      "strHomeTeam": "Vancouver Canucks",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-11-09",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-10T02:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBCSP, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020284",
-      "idHomeTeam": "134850",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020295",
       "strEvent": "Edmonton Oilers vs Philadelphia Flyers",
