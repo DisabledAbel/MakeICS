@@ -1,24 +1,10 @@
 {
   "teamId": "134941",
   "teamName": "Minnesota Vikings",
-  "updatedAt": "2026-11-09T22:24:17.855Z",
+  "updatedAt": "2026-11-10T07:21:40.185Z",
   "generatedAt": "2026-07-18T06:13:33.281Z",
   "generateAt": "2026-07-18T06:13:33.281Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab5825a7-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Minnesota Vikings vs Buffalo Bills",
-      "strHomeTeam": "Minnesota Vikings",
-      "strAwayTeam": "Buffalo Bills",
-      "dateEvent": "2026-11-10",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-11-10T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": null,
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab788967-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Green Bay Packers vs Minnesota Vikings",
