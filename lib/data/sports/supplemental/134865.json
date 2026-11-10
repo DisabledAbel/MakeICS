@@ -1,25 +1,8 @@
 {
   "teamId": "134865",
   "teamName": "Golden State Warriors",
-  "updatedAt": "2026-11-08T04:37:02.332Z",
+  "updatedAt": "2026-11-10T14:23:29.680Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909959",
-      "strEvent": "Golden State Warriors vs New Orleans Pelicans",
-      "strHomeTeam": "Golden State Warriors",
-      "strAwayTeam": "New Orleans Pelicans",
-      "dateEvent": "2026-11-09",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-10T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Chase Center",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134865",
-      "idAwayTeam": "134878"
-    },
     {
       "idEvent": "scraped-espn-401909974",
       "strEvent": "Houston Rockets vs Golden State Warriors",
