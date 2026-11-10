@@ -1,25 +1,8 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-11-08T04:37:02.332Z",
+  "updatedAt": "2026-11-10T01:12:38.880Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909954",
-      "strEvent": "Detroit Pistons vs Washington Wizards",
-      "strHomeTeam": "Detroit Pistons",
-      "strAwayTeam": "Washington Wizards",
-      "dateEvent": "2026-11-09",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-10T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBCSN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134872",
-      "idAwayTeam": "134884"
-    },
     {
       "idEvent": "scraped-espn-401909966",
       "strEvent": "Indiana Pacers vs Washington Wizards",

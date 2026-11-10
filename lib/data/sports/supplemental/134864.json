@@ -1,25 +1,8 @@
 {
   "teamId": "134864",
   "teamName": "Toronto Raptors",
-  "updatedAt": "2026-11-07T04:46:37.659Z",
+  "updatedAt": "2026-11-10T01:12:38.880Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909955",
-      "strEvent": "Toronto Raptors vs Memphis Grizzlies",
-      "strHomeTeam": "Toronto Raptors",
-      "strAwayTeam": "Memphis Grizzlies",
-      "dateEvent": "2026-11-09",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-10T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": "DAZN MEM",
-      "updatedAt": "2026-10-21T21:16:59.037Z",
-      "source": "scraped",
-      "idHomeTeam": "134864",
-      "idAwayTeam": "134877"
-    },
     {
       "idEvent": "scraped-espn-401909968",
       "strEvent": "Toronto Raptors vs Boston Celtics",

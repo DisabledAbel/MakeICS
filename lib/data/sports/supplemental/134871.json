@@ -1,25 +1,8 @@
 {
   "teamId": "134871",
   "teamName": "Cleveland Cavaliers",
-  "updatedAt": "2026-11-08T04:37:02.332Z",
+  "updatedAt": "2026-11-10T01:12:38.880Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909953",
-      "strEvent": "Charlotte Hornets vs Cleveland Cavaliers",
-      "strHomeTeam": "Charlotte Hornets",
-      "strAwayTeam": "Cleveland Cavaliers",
-      "dateEvent": "2026-11-09",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-10T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Spectrum Center",
-      "strStatus": "NS",
-      "strTVStation": "DAZN CLE",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134881",
-      "idAwayTeam": "134871"
-    },
     {
       "idEvent": "scraped-espn-401909967",
       "strEvent": "New York Knicks vs Cleveland Cavaliers",
