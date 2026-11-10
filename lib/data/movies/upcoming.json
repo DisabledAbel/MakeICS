@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T13:40:15.179Z",
+  "generatedAt": "2026-11-10T13:17:30.582Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6507,16 +6507,16 @@
           "name": "Nicholas Hoult"
         },
         {
-          "id": "nm0000225",
-          "name": "Christian Slater"
-        },
-        {
           "id": "nm2368789",
           "name": "Zoë Kravitz"
         },
         {
-          "id": "nm0203457",
-          "name": "Pete Davidson"
+          "id": "nm0000225",
+          "name": "Christian Slater"
+        },
+        {
+          "id": "nm6616259",
+          "name": "Tati Gabrielle"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6541,12 +6541,12 @@
           "name": "Ian McKellen"
         },
         {
-          "id": "nm14057859",
-          "name": "Arthur Conti"
-        },
-        {
           "id": "nm3510471",
           "name": "Sam Claflin"
+        },
+        {
+          "id": "nm14057859",
+          "name": "Arthur Conti"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6650,12 +6650,12 @@
       ],
       "people": [
         {
-          "id": "nm0749263",
-          "name": "Mark Ruffalo"
-        },
-        {
           "id": "nm3729721",
           "name": "Dylan O'Brien"
+        },
+        {
+          "id": "nm0749263",
+          "name": "Mark Ruffalo"
         },
         {
           "id": "nm3008739",
@@ -6992,12 +6992,12 @@
           "name": "Alexandra Daddario"
         },
         {
-          "id": "nm1587729",
-          "name": "Finn Wittrock"
-        },
-        {
           "id": "nm0001688",
           "name": "Alan Ruck"
+        },
+        {
+          "id": "nm1587729",
+          "name": "Finn Wittrock"
         },
         {
           "id": "nm0454236",
@@ -7191,12 +7191,12 @@
           "name": "David Harbour"
         },
         {
-          "id": "nm0364813",
-          "name": "Jared Harris"
+          "id": "nm6403016",
+          "name": "Daniela Melchior"
         },
         {
-          "id": "nm0001592",
-          "name": "Joe Pantoliano"
+          "id": "nm0364813",
+          "name": "Jared Harris"
         }
       ],
       "label": "Dec 04, 2026"
@@ -7262,7 +7262,7 @@
     {
       "id": "tt34382912",
       "title": "The Gallerist",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTIzM2JjYzgtNjMxMC00NmFiLWEwOGItNDFiMDVjODFmOTM0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDE4YmEwNDUtZjIyYS00NDVhLWI2ZDktN2QyODFkODY5ZGVlXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -7457,8 +7457,8 @@
           "name": "Dermot Mulroney"
         },
         {
-          "id": "nm0001015",
-          "name": "Robert Carlyle"
+          "id": "nm6366417",
+          "name": "Jefferson White"
         },
         {
           "id": "nm0001597",
@@ -7744,16 +7744,16 @@
           "name": "Mohanlal"
         },
         {
-          "id": "nm0415538",
-          "name": "Jagadish"
-        },
-        {
           "id": "nm1307939",
           "name": "Meera Jasmine"
         },
         {
           "id": "nm9851193",
           "name": "Bhama Arun"
+        },
+        {
+          "id": "nm0415538",
+          "name": "Jagadish"
         }
       ],
       "label": "Dec 24, 2026"
@@ -7769,20 +7769,20 @@
       ],
       "people": [
         {
-          "id": "nm0000353",
-          "name": "Willem Dafoe"
-        },
-        {
           "id": "nm1093951",
           "name": "Aaron Taylor-Johnson"
+        },
+        {
+          "id": "nm0000353",
+          "name": "Willem Dafoe"
         },
         {
           "id": "nm11417004",
           "name": "Bodhi Rae Breathnach"
         },
         {
-          "id": "nm0408591",
-          "name": "Ralph Ineson"
+          "id": "nm6675440",
+          "name": "Lily-Rose Depp"
         }
       ],
       "label": "Dec 25, 2026"
@@ -8099,16 +8099,16 @@
           "name": "Taika Waititi"
         },
         {
-          "id": "nm1985859",
-          "name": "Mia Wasikowska"
-        },
-        {
           "id": "nm0909144",
           "name": "David Walliams"
         },
         {
-          "id": "nm0746896",
-          "name": "Richard Roxburgh"
+          "id": "nm1985859",
+          "name": "Mia Wasikowska"
+        },
+        {
+          "id": "nm0524240",
+          "name": "Matt Lucas"
         }
       ],
       "label": "Jan 15, 2027"
@@ -8125,12 +8125,12 @@
       ],
       "people": [
         {
-          "id": "nm3994408",
-          "name": "Jane Levy"
-        },
-        {
           "id": "nm1557329",
           "name": "Jessica Rothe"
+        },
+        {
+          "id": "nm3994408",
+          "name": "Jane Levy"
         },
         {
           "id": "nm10867068",
@@ -8360,12 +8360,12 @@
       ],
       "people": [
         {
-          "id": "nm0803889",
-          "name": "Bill Skarsgård"
-        },
-        {
           "id": "nm0000115",
           "name": "Nicolas Cage"
+        },
+        {
+          "id": "nm0803889",
+          "name": "Bill Skarsgård"
         },
         {
           "id": "nm1679778",
@@ -8535,12 +8535,12 @@
       ],
       "people": [
         {
-          "id": "nm8908475",
-          "name": "Isabel May"
-        },
-        {
           "id": "nm0131966",
           "name": "Bill Camp"
+        },
+        {
+          "id": "nm8908475",
+          "name": "Isabel May"
         },
         {
           "id": "nm0002064",
@@ -8726,12 +8726,12 @@
       ],
       "people": [
         {
-          "id": "nm1320827",
-          "name": "Randall Park"
-        },
-        {
           "id": "nm5730649",
           "name": "Lewis Pullman"
+        },
+        {
+          "id": "nm1320827",
+          "name": "Randall Park"
         },
         {
           "id": "nm1638321",
@@ -8848,20 +8848,20 @@
       ],
       "people": [
         {
-          "id": "nm0000164",
-          "name": "Anthony Hopkins"
-        },
-        {
-          "id": "nm0683253",
-          "name": "Rosamund Pike"
+          "id": "nm3584268",
+          "name": "James Norton"
         },
         {
           "id": "nm0175916",
           "name": "Paddy Considine"
         },
         {
-          "id": "nm3584268",
-          "name": "James Norton"
+          "id": "nm0683253",
+          "name": "Rosamund Pike"
+        },
+        {
+          "id": "nm0000164",
+          "name": "Anthony Hopkins"
         }
       ],
       "label": "Feb 19, 2027"
@@ -8890,8 +8890,8 @@
           "name": "Ike Barinholtz"
         },
         {
-          "id": "nm9434831",
-          "name": "Cristo Fernández"
+          "id": "nm7567645",
+          "name": "Sarah Sherman"
         }
       ],
       "label": "Feb 19, 2027"
@@ -8920,8 +8920,8 @@
           "name": "Anna Kendrick"
         },
         {
-          "id": "nm0000232",
-          "name": "Sharon Stone"
+          "id": "nm7100086",
+          "name": "Zach Cherry"
         }
       ],
       "label": "Feb 19, 2027"
@@ -8998,12 +8998,12 @@
       ],
       "people": [
         {
-          "id": "nm5289372",
-          "name": "Yim Si-wan"
-        },
-        {
           "id": "nm1727825",
           "name": "Tony Revolori"
+        },
+        {
+          "id": "nm5289372",
+          "name": "Yim Si-wan"
         },
         {
           "id": "nm7175730",
@@ -9116,16 +9116,16 @@
       ],
       "people": [
         {
+          "id": "nm5245722",
+          "name": "Adria Arjona"
+        },
+        {
           "id": "nm0000110",
           "name": "Kenneth Branagh"
         },
         {
           "id": "nm0430107",
           "name": "Michael B. Jordan"
-        },
-        {
-          "id": "nm5245722",
-          "name": "Adria Arjona"
         },
         {
           "id": "nm1775091",
@@ -9146,20 +9146,20 @@
       ],
       "people": [
         {
-          "id": "nm1418096",
-          "name": "Samantha Sloyan"
-        },
-        {
           "id": "nm0512934",
           "name": "Hamish Linklater"
         },
         {
-          "id": "nm2318089",
-          "name": "Kate Siegel"
+          "id": "nm1418096",
+          "name": "Samantha Sloyan"
         },
         {
           "id": "nm0424060",
           "name": "Scarlett Johansson"
+        },
+        {
+          "id": "nm2318089",
+          "name": "Kate Siegel"
         }
       ],
       "label": "Mar 12, 2027"
@@ -9186,12 +9186,12 @@
       ],
       "people": [
         {
-          "id": "nm0266824",
-          "name": "Dakota Fanning"
-        },
-        {
           "id": "nm1102577",
           "name": "Elle Fanning"
+        },
+        {
+          "id": "nm0266824",
+          "name": "Dakota Fanning"
         },
         {
           "id": "nm0753314",
@@ -9748,33 +9748,6 @@
       "label": "May 21, 2027"
     },
     {
-      "id": "tt39104938",
-      "title": "Paranormal Activity 8",
-      "releaseDate": "Fri, 21 May 2027 00:00:00 GMT",
-      "genres": [
-        "Horror"
-      ],
-      "people": [
-        {
-          "id": "nm11273433",
-          "name": "Maya da Costa"
-        },
-        {
-          "id": "nm9989632",
-          "name": "Sonia Mena"
-        },
-        {
-          "id": "nm0625334",
-          "name": "Drew Nelson"
-        },
-        {
-          "id": "nm11071631",
-          "name": "Seled Calderon"
-        }
-      ],
-      "label": "May 21, 2027"
-    },
-    {
       "id": "tt28018076",
       "title": "Bad Fairies",
       "image": "https://m.media-amazon.com/images/M/MV5BNmU3NzA0ZjUtNjQxMy00MjMyLWE2NjItNjlmYjk1M2FiNjMzXkEyXkFqcGc@._V1_.jpg",
@@ -9898,12 +9871,12 @@
           "name": "Noah Centineo"
         },
         {
-          "id": "nm0290556",
-          "name": "James Franco"
-        },
-        {
           "id": "nm1092086",
           "name": "David Harbour"
+        },
+        {
+          "id": "nm0290556",
+          "name": "James Franco"
         },
         {
           "id": "nm6366417",
@@ -10187,20 +10160,20 @@
       ],
       "people": [
         {
-          "id": "nm0000498",
-          "name": "Matthew Lillard"
-        },
-        {
           "id": "nm1711114",
           "name": "Skyler Gisondo"
         },
         {
-          "id": "nm7543974",
-          "name": "Aaron Pierre"
+          "id": "nm5245722",
+          "name": "Adria Arjona"
         },
         {
           "id": "nm0396558",
           "name": "Nicholas Hoult"
+        },
+        {
+          "id": "nm0000498",
+          "name": "Matthew Lillard"
         }
       ],
       "label": "Jul 09, 2027"
@@ -10239,16 +10212,16 @@
           "name": "Emily Rudd"
         },
         {
-          "id": "nm2864252",
-          "name": "Mason Gooding"
+          "id": "nm2063276",
+          "name": "Flula Borg"
         },
         {
           "id": "nm0104114",
           "name": "Richard Brake"
         },
         {
-          "id": "nm2063276",
-          "name": "Flula Borg"
+          "id": "nm2864252",
+          "name": "Mason Gooding"
         }
       ],
       "label": "Jul 16, 2027"
@@ -10402,20 +10375,20 @@
       ],
       "people": [
         {
+          "id": "nm0666739",
+          "name": "Aaron Paul"
+        },
+        {
           "id": "nm7248827",
           "name": "Cynthia Erivo"
         },
         {
+          "id": "nm0000610",
+          "name": "Giovanni Ribisi"
+        },
+        {
           "id": "nm6043149",
           "name": "J.D."
-        },
-        {
-          "id": "nm2116604",
-          "name": "Markice Moore"
-        },
-        {
-          "id": "nm6058237",
-          "name": "Laya DeLeon Hayes"
         }
       ],
       "label": "Aug 06, 2027"
@@ -10850,6 +10823,33 @@
         }
       ],
       "label": "Oct 15, 2027"
+    },
+    {
+      "id": "tt39104938",
+      "title": "Paranormal Activity 8",
+      "releaseDate": "Wed, 27 Oct 2027 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm11273433",
+          "name": "Maya da Costa"
+        },
+        {
+          "id": "nm9989632",
+          "name": "Sonia Mena"
+        },
+        {
+          "id": "nm0625334",
+          "name": "Drew Nelson"
+        },
+        {
+          "id": "nm3524780",
+          "name": "Chase Yi"
+        }
+      ],
+      "label": "Oct 27, 2027"
     },
     {
       "id": "tt11998406",
