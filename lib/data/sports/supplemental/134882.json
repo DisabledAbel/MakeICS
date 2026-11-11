@@ -1,25 +1,8 @@
 {
   "teamId": "134882",
   "teamName": "Miami Heat",
-  "updatedAt": "2026-11-09T04:47:47.366Z",
+  "updatedAt": "2026-11-11T04:49:58.259Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909963",
-      "strEvent": "Utah Jazz vs Miami Heat",
-      "strHomeTeam": "Utah Jazz",
-      "strAwayTeam": "Miami Heat",
-      "dateEvent": "2026-11-10",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-11-11T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Delta Center",
-      "strStatus": "NS",
-      "strTVStation": "KJZZ-TV",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134889",
-      "idAwayTeam": "134882"
-    },
     {
       "idEvent": "scraped-espn-401909298",
       "strEvent": "Miami Heat vs Cleveland Cavaliers",

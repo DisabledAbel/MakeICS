@@ -1,25 +1,8 @@
 {
   "teamId": "134868",
   "teamName": "Phoenix Suns",
-  "updatedAt": "2026-11-10T14:23:29.680Z",
+  "updatedAt": "2026-11-11T04:49:58.259Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909962",
-      "strEvent": "Phoenix Suns vs Los Angeles Clippers",
-      "strHomeTeam": "Phoenix Suns",
-      "strAwayTeam": "Los Angeles Clippers",
-      "dateEvent": "2026-11-10",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-11-11T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Mortgage Matchup Center",
-      "strStatus": "NS",
-      "strTVStation": "Suns Live",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134868",
-      "idAwayTeam": "134866"
-    },
     {
       "idEvent": "scraped-espn-401909979",
       "strEvent": "Phoenix Suns vs Charlotte Hornets",

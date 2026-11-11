@@ -1,25 +1,8 @@
 {
   "teamId": "134863",
   "teamName": "Philadelphia 76ers",
-  "updatedAt": "2026-11-08T21:42:09.535Z",
+  "updatedAt": "2026-11-11T04:49:58.259Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909961",
-      "strEvent": "Philadelphia 76ers vs Boston Celtics",
-      "strHomeTeam": "Philadelphia 76ers",
-      "strAwayTeam": "Boston Celtics",
-      "dateEvent": "2026-11-10",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-11T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBC",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134863",
-      "idAwayTeam": "134860"
-    },
     {
       "idEvent": "scraped-espn-401909976",
       "strEvent": "Philadelphia 76ers vs Toronto Raptors",

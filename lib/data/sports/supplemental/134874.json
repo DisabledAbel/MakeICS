@@ -1,25 +1,8 @@
 {
   "teamId": "134874",
   "teamName": "Milwaukee Bucks",
-  "updatedAt": "2026-11-09T04:47:47.366Z",
+  "updatedAt": "2026-11-11T04:49:58.259Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909960",
-      "strEvent": "New York Knicks vs Milwaukee Bucks",
-      "strHomeTeam": "New York Knicks",
-      "strAwayTeam": "Milwaukee Bucks",
-      "dateEvent": "2026-11-10",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-11T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "MyMi",
-      "updatedAt": "2026-10-22T03:25:05.748Z",
-      "source": "scraped",
-      "idHomeTeam": "134862",
-      "idAwayTeam": "134874"
-    },
     {
       "idEvent": "scraped-espn-401909971",
       "strEvent": "Milwaukee Bucks vs Los Angeles Lakers",

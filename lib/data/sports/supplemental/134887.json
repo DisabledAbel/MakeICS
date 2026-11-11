@@ -1,25 +1,8 @@
 {
   "teamId": "134887",
   "teamName": "Oklahoma City Thunder",
-  "updatedAt": "2026-11-08T04:37:02.332Z",
+  "updatedAt": "2026-11-11T04:49:58.259Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909965",
-      "strEvent": "Portland Trail Blazers vs Oklahoma City Thunder",
-      "strHomeTeam": "Portland Trail Blazers",
-      "strAwayTeam": "Oklahoma City Thunder",
-      "dateEvent": "2026-11-10",
-      "strTime": "04:00:00",
-      "strTimestamp": "2026-11-11T04:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Moda Center",
-      "strStatus": "NS",
-      "strTVStation": "NBC",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134888",
-      "idAwayTeam": "134887"
-    },
     {
       "idEvent": "scraped-espn-401909975",
       "strEvent": "Portland Trail Blazers vs Oklahoma City Thunder",
