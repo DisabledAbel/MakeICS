@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-11-08T06:17:00.673Z",
+  "updatedAt": "2026-11-11T06:43:24.503Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020287",
-      "strEvent": "Montreal Canadiens vs Minnesota Wild",
-      "strHomeTeam": "Montreal Canadiens",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-11-10",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-11T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Centre Bell",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, RDS, TSN2, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020287",
-      "idHomeTeam": "134834",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020299",
       "strEvent": "Boston Bruins vs Montreal Canadiens",

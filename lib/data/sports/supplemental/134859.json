@@ -1,26 +1,8 @@
 {
   "teamId": "134859",
   "teamName": "St. Louis Blues",
-  "updatedAt": "2026-11-07T21:59:01.924Z",
+  "updatedAt": "2026-11-11T06:43:24.503Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020290",
-      "strEvent": "St. Louis Blues vs Detroit Red Wings",
-      "strHomeTeam": "St. Louis Blues",
-      "strAwayTeam": "Detroit Red Wings",
-      "dateEvent": "2026-11-10",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-11T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Enterprise Center",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN+, TNT",
-      "updatedAt": "2026-11-07T06:12:09.014Z",
-      "source": "scraped",
-      "sourceEventId": "2026020290",
-      "idHomeTeam": "134859",
-      "idAwayTeam": "134832"
-    },
     {
       "idEvent": "nhl-2026020307",
       "strEvent": "Utah Mammoth vs St. Louis Blues",

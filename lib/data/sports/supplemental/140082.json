@@ -1,7 +1,7 @@
 {
   "teamId": "140082",
   "teamName": "Seattle Kraken",
-  "updatedAt": "2026-11-08T06:17:00.673Z",
+  "updatedAt": "2026-11-11T06:43:24.503Z",
   "events": [
     {
       "idEvent": "nhl-2026020309",
@@ -680,8 +680,8 @@
       "strLeague": "NHL",
       "strVenue": "Climate Pledge Arena",
       "strStatus": "NS",
-      "strTVStation": "KONG, MSGSN, Prime Video, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "KONG, MSGSN, Prime Video, SN, TVAS",
+      "updatedAt": "2026-11-11T06:43:24.503Z",
       "source": "scraped",
       "sourceEventId": "2026020879",
       "idHomeTeam": "140082",

@@ -1,26 +1,8 @@
 {
   "teamId": "134837",
   "teamName": "Toronto Maple Leafs",
-  "updatedAt": "2026-11-09T06:50:03.942Z",
+  "updatedAt": "2026-11-11T06:43:24.503Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020286",
-      "strEvent": "Toronto Maple Leafs vs Colorado Avalanche",
-      "strHomeTeam": "Toronto Maple Leafs",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-11-10",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-11T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": "ALT, TSN4, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020286",
-      "idHomeTeam": "134837",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020300",
       "strEvent": "Toronto Maple Leafs vs Minnesota Wild",

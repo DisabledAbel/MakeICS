@@ -1,7 +1,7 @@
 {
   "teamId": "134831",
   "teamName": "Buffalo Sabres",
-  "updatedAt": "2026-11-08T22:15:31.644Z",
+  "updatedAt": "2026-11-11T06:43:24.503Z",
   "events": [
     {
       "idEvent": "nhl-2026020293",
@@ -1040,8 +1040,8 @@
       "strLeague": "NHL",
       "strVenue": "UBS Arena",
       "strStatus": "NS",
-      "strTVStation": "MSG-B, MSGSN, SN+, TVAS",
-      "updatedAt": "2026-10-23T21:30:31.165Z",
+      "strTVStation": "MSG-B, MSGSN, SN+",
+      "updatedAt": "2026-11-11T06:43:24.503Z",
       "source": "scraped",
       "sourceEventId": "2026021187",
       "idHomeTeam": "134841",

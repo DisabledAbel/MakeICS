@@ -1,7 +1,7 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-11-10T07:28:42.566Z",
+  "updatedAt": "2026-11-11T06:43:24.503Z",
   "events": [
     {
       "idEvent": "nhl-2026020308",
@@ -680,8 +680,8 @@
       "strLeague": "NHL",
       "strVenue": "Amerant Bank Arena",
       "strStatus": "NS",
-      "strTVStation": "MSGSN, SCRIPPS, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "MSGSN, SCRIPPS, SN+, TVAS",
+      "updatedAt": "2026-11-11T06:43:24.503Z",
       "source": "scraped",
       "sourceEventId": "2026020881",
       "idHomeTeam": "134833",
@@ -1040,8 +1040,8 @@
       "strLeague": "NHL",
       "strVenue": "UBS Arena",
       "strStatus": "NS",
-      "strTVStation": "MSG-B, MSGSN, SN+, TVAS",
-      "updatedAt": "2026-10-23T21:30:31.165Z",
+      "strTVStation": "MSG-B, MSGSN, SN+",
+      "updatedAt": "2026-11-11T06:43:24.503Z",
       "source": "scraped",
       "sourceEventId": "2026021187",
       "idHomeTeam": "134841",

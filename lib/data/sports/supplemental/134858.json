@@ -1,26 +1,8 @@
 {
   "teamId": "134858",
   "teamName": "Nashville Predators",
-  "updatedAt": "2026-11-07T21:59:01.924Z",
+  "updatedAt": "2026-11-11T06:43:24.503Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020292",
-      "strEvent": "Los Angeles Kings vs Nashville Predators",
-      "strHomeTeam": "Los Angeles Kings",
-      "strAwayTeam": "Nashville Predators",
-      "dateEvent": "2026-11-10",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-11T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU, SNE",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020292",
-      "idHomeTeam": "134852",
-      "idAwayTeam": "134858"
-    },
     {
       "idEvent": "nhl-2026020297",
       "strEvent": "Anaheim Ducks vs Nashville Predators",
