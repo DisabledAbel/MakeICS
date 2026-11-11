@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T13:17:30.582Z",
+  "generatedAt": "2026-11-11T12:29:13.108Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6527,9 +6527,9 @@
       "image": "https://m.media-amazon.com/images/M/MV5BY2Y0NWM2N2EtMjdkMS00NTc0LTg4NDctZmUyYTA4YWZlY2EwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
       "genres": [
+        "Adventure",
         "Comedy",
-        "Drama",
-        "Fantasy"
+        "Drama"
       ],
       "people": [
         {
@@ -7468,36 +7468,6 @@
       "label": "Dec 04, 2026"
     },
     {
-      "id": "tt34718200",
-      "title": "The Debut",
-      "image": "https://m.media-amazon.com/images/M/MV5BM2Q5ZTdmN2UtYzJjZi00ZjZjLWJmMWMtMjFjMmM5M2VmOWY4XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 11 Dec 2026 00:00:00 GMT",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Musical"
-      ],
-      "people": [
-        {
-          "id": "nm0000194",
-          "name": "Julianne Moore"
-        },
-        {
-          "id": "nm0316079",
-          "name": "Paul Giamatti"
-        },
-        {
-          "id": "nm1782991",
-          "name": "Halle Bailey"
-        },
-        {
-          "id": "nm0001613",
-          "name": "Bernadette Peters"
-        }
-      ],
-      "label": "Dec 11, 2026"
-    },
-    {
       "id": "tt34491649",
       "title": "Zero A.D.: The Birth of Christ",
       "image": "https://m.media-amazon.com/images/M/MV5BZTgzOGI2MjgtZDg3NC00NDI4LWIwYTAtZjc1OTNhZjk0Y2Y2XkEyXkFqcGc@._V1_.jpg",
@@ -7759,6 +7729,36 @@
       "label": "Dec 24, 2026"
     },
     {
+      "id": "tt34718200",
+      "title": "The Debut",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2Q5ZTdmN2UtYzJjZi00ZjZjLWJmMWMtMjFjMmM5M2VmOWY4XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 25 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Musical"
+      ],
+      "people": [
+        {
+          "id": "nm0000194",
+          "name": "Julianne Moore"
+        },
+        {
+          "id": "nm0316079",
+          "name": "Paul Giamatti"
+        },
+        {
+          "id": "nm1782991",
+          "name": "Halle Bailey"
+        },
+        {
+          "id": "nm0001613",
+          "name": "Bernadette Peters"
+        }
+      ],
+      "label": "Dec 25, 2026"
+    },
+    {
       "id": "tt35514120",
       "title": "Werwulf",
       "image": "https://m.media-amazon.com/images/M/MV5BMDVhOGE4MzItMmEyYi00ZWNiLTk0YTUtODM1YWIwNmVmMWIyXkEyXkFqcGc@._V1_.jpg",
@@ -7927,8 +7927,8 @@
           "name": "Roman P. Martinez"
         },
         {
-          "id": "nm3507715",
-          "name": "Abel Martinez Jr."
+          "id": "nm2179940",
+          "name": "Geno Romo"
         }
       ],
       "label": "Dec 30, 2026"
@@ -7983,12 +7983,12 @@
           "name": "Lily James"
         },
         {
-          "id": "nm8165602",
-          "name": "Bella Ramsey"
-        },
-        {
           "id": "nm0504832",
           "name": "Tracy Letts"
+        },
+        {
+          "id": "nm8165602",
+          "name": "Bella Ramsey"
         }
       ],
       "label": "Jan 08, 2027"
@@ -9048,7 +9048,7 @@
       "id": "tt9135246",
       "title": "The Flood: End of Mankind",
       "image": "https://m.media-amazon.com/images/M/MV5BYWNiZjlkNzItZGViMi00OTczLWJiOGUtZTJiZDc0OTkxMDM4XkEyXkFqcGc@._V1_.jpg",
-      "releaseDate": "Fri, 05 Mar 2027 00:00:00 GMT",
+      "releaseDate": "Fri, 26 Feb 2027 00:00:00 GMT",
       "genres": [
         "Biography",
         "History",
@@ -9072,7 +9072,7 @@
           "name": "Danny Fehsenfeld"
         }
       ],
-      "label": "Mar 05, 2027"
+      "label": "Feb 26, 2027"
     },
     {
       "id": "tt26443610",
@@ -9391,6 +9391,34 @@
       "label": "Apr 02, 2027"
     },
     {
+      "id": "tt38492840",
+      "title": "Play House",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGNkMmJkNGQtZWYzOC00ZGU5LTlkNzktOTMzZDYyNWJlMDJiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 02 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm7326206",
+          "name": "Will Harrison"
+        },
+        {
+          "id": "nm4088627",
+          "name": "Jessica Sula"
+        },
+        {
+          "id": "nm4662692",
+          "name": "Jordan Gonzalez"
+        },
+        {
+          "id": "nm0172082",
+          "name": "James Urbaniak"
+        }
+      ],
+      "label": "Apr 02, 2027"
+    },
+    {
       "id": "tt34900169",
       "title": "Panic Carefully",
       "releaseDate": "Fri, 09 Apr 2027 00:00:00 GMT",
@@ -9664,12 +9692,12 @@
           "name": "Curry Barker"
         },
         {
-          "id": "nm0397171",
-          "name": "Bryce Dallas Howard"
-        },
-        {
           "id": "nm0666739",
           "name": "Aaron Paul"
+        },
+        {
+          "id": "nm0397171",
+          "name": "Bryce Dallas Howard"
         },
         {
           "id": "nm8627157",
@@ -9895,16 +9923,16 @@
       ],
       "people": [
         {
-          "id": "nm2560618",
-          "name": "Willa Fitzgerald"
+          "id": "nm0000422",
+          "name": "John Goodman"
         },
         {
           "id": "nm0973177",
           "name": "Kyle Gallner"
         },
         {
-          "id": "nm0000422",
-          "name": "John Goodman"
+          "id": "nm2560618",
+          "name": "Willa Fitzgerald"
         },
         {
           "id": "nm0488953",
@@ -10320,7 +10348,8 @@
       "releaseDate": "Fri, 06 Aug 2027 00:00:00 GMT",
       "genres": [
         "Action",
-        "Comedy"
+        "Comedy",
+        "Thriller"
       ],
       "people": [
         {
@@ -10725,6 +10754,10 @@
         {
           "id": "nm3500582",
           "name": "Teyonah Parris"
+        },
+        {
+          "id": "nm10416836",
+          "name": "Miles Caton"
         }
       ],
       "label": "Oct 01, 2027"
@@ -10833,6 +10866,10 @@
       ],
       "people": [
         {
+          "id": "nm2826395",
+          "name": "Ari Millen"
+        },
+        {
           "id": "nm11273433",
           "name": "Maya da Costa"
         },
@@ -10843,10 +10880,6 @@
         {
           "id": "nm0625334",
           "name": "Drew Nelson"
-        },
-        {
-          "id": "nm3524780",
-          "name": "Chase Yi"
         }
       ],
       "label": "Oct 27, 2027"
@@ -10907,6 +10940,29 @@
         }
       ],
       "label": "Nov 05, 2027"
+    },
+    {
+      "id": "tt43438831",
+      "title": "Treasure Island",
+      "releaseDate": "Thu, 11 Nov 2027 00:00:00 GMT",
+      "genres": [
+        "Adventure"
+      ],
+      "people": [
+        {
+          "id": "nm0413168",
+          "name": "Hugh Jackman"
+        },
+        {
+          "id": "nm0000424",
+          "name": "Hugh Grant"
+        },
+        {
+          "id": "nm16369583",
+          "name": "Owen Cooper"
+        }
+      ],
+      "label": "Nov 11, 2027"
     }
   ]
 }
