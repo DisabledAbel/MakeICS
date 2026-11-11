@@ -10,7 +10,7 @@
     "verifiedAt": "2026-09-23T17:47:32.476Z"
   },
   "The Rainmaker-2-9": {
-    "airdate": "2026-12-11",
+    "airdate": "2026-12-18",
     "name": "Episode #2.9",
     "verifiedAt": "2026-10-10T17:44:22.231Z"
   },
@@ -130,7 +130,7 @@
     "verifiedAt": "2026-11-06T19:55:14.468Z"
   },
   "Mickey Mouse Clubhouse+-2-11": {
-    "airdate": "2026-11-18",
+    "airdate": "2026-11-20",
     "name": "Hot Dog Day",
     "verifiedAt": "2026-11-10T21:34:15.696Z"
   },
@@ -148,5 +148,95 @@
     "airdate": "2026-11-30",
     "name": "It's Christmas, Laugh A Little",
     "verifiedAt": "2026-11-10T20:20:06.283Z"
+  },
+  "WWE Friday Night SmackDown-27-46": {
+    "airdate": "2025-11-14",
+    "name": "Vision of Vengeance",
+    "verifiedAt": "2026-11-11T20:01:16.710Z"
+  },
+  "WWE Friday Night SmackDown-27-47": {
+    "airdate": "2026-11-20",
+    "name": "WarGames Wildcard",
+    "verifiedAt": "2026-11-11T20:01:19.218Z"
+  },
+  "WWE Friday Night SmackDown-27-48": {
+    "airdate": "2025-11-28",
+    "name": "Final Countdown to War",
+    "verifiedAt": "2026-11-11T20:01:21.667Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2025-12-05",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-11-11T20:01:24.132Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-11-11T20:01:26.674Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2026-01-02",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-11-11T20:01:29.247Z"
+  },
+  "WWE Friday Night SmackDown-28-2": {
+    "airdate": "2026-01-09",
+    "name": "Three Stages of Hell in Berlin",
+    "verifiedAt": "2026-11-11T20:01:31.815Z"
+  },
+  "WWE Friday Night SmackDown-28-3": {
+    "airdate": "2026-01-16",
+    "name": "London Calling",
+    "verifiedAt": "2026-11-11T20:01:34.537Z"
+  },
+  "WWE Friday Night SmackDown-28-5": {
+    "airdate": "2026-01-30",
+    "name": "Rumble Eve Chaos",
+    "verifiedAt": "2026-11-11T20:01:39.530Z"
+  },
+  "WWE Friday Night SmackDown-28-6": {
+    "airdate": "2026-02-06",
+    "name": "Royal Rumble 2026 Fallout",
+    "verifiedAt": "2026-11-11T20:01:42.063Z"
+  },
+  "WWE Friday Night SmackDown-28-7": {
+    "airdate": "2026-02-13",
+    "name": "Chamber Bound",
+    "verifiedAt": "2026-11-11T20:01:44.598Z"
+  },
+  "WWE Friday Night SmackDown-28-8": {
+    "airdate": "2026-02-20",
+    "name": "Chamber Doors Crack Open",
+    "verifiedAt": "2026-11-11T20:01:47.145Z"
+  },
+  "Austin City Limits-52-12": {
+    "airdate": "2026-09-12",
+    "name": "ACL 12th Annual Hall of Fame Honors Brandi Carlile",
+    "verifiedAt": "2026-11-11T20:02:35.854Z"
+  },
+  "Love & Marriage: Huntsville-12-12": {
+    "airdate": "2026-09-12",
+    "name": "A New Era",
+    "verifiedAt": "2026-11-11T20:02:42.096Z"
+  },
+  "Marshals-2-6": {
+    "airdate": "2026-11-08",
+    "name": "Episode #2.6",
+    "verifiedAt": "2026-11-11T20:03:07.823Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-7": {
+    "airdate": "2026-10-07",
+    "name": "Born to Run",
+    "verifiedAt": "2026-11-11T20:03:44.520Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-8": {
+    "airdate": "2026-10-07",
+    "name": "Building the Dream",
+    "verifiedAt": "2026-11-11T20:03:47.011Z"
+  },
+  "Studio C-23-4": {
+    "airdate": "2026-11-09",
+    "name": "Elmo Doesn't Feel Anything Anymore",
+    "verifiedAt": "2026-11-11T20:03:52.021Z"
   }
 }
