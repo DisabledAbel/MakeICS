@@ -1,25 +1,8 @@
 {
   "teamId": "134865",
   "teamName": "Golden State Warriors",
-  "updatedAt": "2026-11-10T14:23:29.680Z",
+  "updatedAt": "2026-11-12T14:40:15.874Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909974",
-      "strEvent": "Houston Rockets vs Golden State Warriors",
-      "strHomeTeam": "Houston Rockets",
-      "strAwayTeam": "Golden State Warriors",
-      "dateEvent": "2026-11-11",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-12T02:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Toyota Center (Houston)",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134876",
-      "idAwayTeam": "134865"
-    },
     {
       "idEvent": "scraped-espn-401909302",
       "strEvent": "San Antonio Spurs vs Golden State Warriors",

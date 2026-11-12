@@ -1,25 +1,8 @@
 {
   "teamId": "134870",
   "teamName": "Chicago Bulls",
-  "updatedAt": "2026-11-08T21:42:09.535Z",
+  "updatedAt": "2026-11-12T14:40:15.874Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909969",
-      "strEvent": "Chicago Bulls vs San Antonio Spurs",
-      "strHomeTeam": "Chicago Bulls",
-      "strAwayTeam": "San Antonio Spurs",
-      "dateEvent": "2026-11-11",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-12T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "DAZN SAS",
-      "updatedAt": "2026-10-22T03:25:05.748Z",
-      "source": "scraped",
-      "idHomeTeam": "134870",
-      "idAwayTeam": "134879"
-    },
     {
       "idEvent": "scraped-espn-401909299",
       "strEvent": "Chicago Bulls vs Atlanta Hawks",

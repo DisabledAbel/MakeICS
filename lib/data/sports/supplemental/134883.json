@@ -1,25 +1,8 @@
 {
   "teamId": "134883",
   "teamName": "Orlando Magic",
-  "updatedAt": "2026-11-11T04:49:58.259Z",
+  "updatedAt": "2026-11-12T14:40:15.874Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909973",
-      "strEvent": "Utah Jazz vs Orlando Magic",
-      "strHomeTeam": "Utah Jazz",
-      "strAwayTeam": "Orlando Magic",
-      "dateEvent": "2026-11-11",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-11-12T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Delta Center",
-      "strStatus": "NS",
-      "strTVStation": "KJZZ-TV",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134889",
-      "idAwayTeam": "134883"
-    },
     {
       "idEvent": "scraped-espn-401909297",
       "strEvent": "Orlando Magic vs Milwaukee Bucks",

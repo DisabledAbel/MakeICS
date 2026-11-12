@@ -1,25 +1,8 @@
 {
   "teamId": "134877",
   "teamName": "Memphis Grizzlies",
-  "updatedAt": "2026-11-10T01:12:38.880Z",
+  "updatedAt": "2026-11-12T14:40:15.874Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909970",
-      "strEvent": "Memphis Grizzlies vs Denver Nuggets",
-      "strHomeTeam": "Memphis Grizzlies",
-      "strAwayTeam": "Denver Nuggets",
-      "dateEvent": "2026-11-11",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-12T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "FedExForum",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134877",
-      "idAwayTeam": "134885"
-    },
     {
       "idEvent": "scraped-espn-401909300",
       "strEvent": "New Orleans Pelicans vs Memphis Grizzlies",
