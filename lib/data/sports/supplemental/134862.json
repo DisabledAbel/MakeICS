@@ -1,25 +1,8 @@
 {
   "teamId": "134862",
   "teamName": "New York Knicks",
-  "updatedAt": "2026-11-11T04:49:58.259Z",
+  "updatedAt": "2026-11-12T00:04:47.416Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909967",
-      "strEvent": "New York Knicks vs Cleveland Cavaliers",
-      "strHomeTeam": "New York Knicks",
-      "strAwayTeam": "Cleveland Cavaliers",
-      "dateEvent": "2026-11-11",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-12T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134862",
-      "idAwayTeam": "134871"
-    },
     {
       "idEvent": "scraped-espn-401909296",
       "strEvent": "Indiana Pacers vs New York Knicks",

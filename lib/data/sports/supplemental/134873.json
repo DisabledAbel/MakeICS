@@ -1,25 +1,8 @@
 {
   "teamId": "134873",
   "teamName": "Indiana Pacers",
-  "updatedAt": "2026-11-10T01:12:38.880Z",
+  "updatedAt": "2026-11-12T00:04:47.416Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909966",
-      "strEvent": "Indiana Pacers vs Washington Wizards",
-      "strHomeTeam": "Indiana Pacers",
-      "strAwayTeam": "Washington Wizards",
-      "dateEvent": "2026-11-11",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-12T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Gainbridge Fieldhouse",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134873",
-      "idAwayTeam": "134884"
-    },
     {
       "idEvent": "scraped-espn-401909296",
       "strEvent": "Indiana Pacers vs New York Knicks",
