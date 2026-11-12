@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T12:29:13.108Z",
+  "generatedAt": "2026-11-12T13:34:03.541Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6628,12 +6628,12 @@
           "name": "Clifton Powell"
         },
         {
-          "id": "nm0809793",
-          "name": "Roger Guenveur Smith"
-        },
-        {
           "id": "nm0930707",
           "name": "Gregory Alan Williams"
+        },
+        {
+          "id": "nm0809793",
+          "name": "Roger Guenveur Smith"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6724,6 +6724,36 @@
         {
           "id": "nm2286554",
           "name": "Suresh Vishwakarma"
+        }
+      ],
+      "label": "Nov 13, 2026"
+    },
+    {
+      "id": "tt39131708",
+      "title": "Itllu Arjuna",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2JkZGIyZTYtYzVjNy00YmM2LTlmNDQtODY1ZjIyYjhjMjk0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm9503553",
+          "name": "Anaswara Rajan"
+        },
+        {
+          "id": "nm0015459",
+          "name": "Nagarjuna Akkineni"
+        },
+        {
+          "id": "nm3808948",
+          "name": "Vennela Kishore"
+        },
+        {
+          "id": "nm13944095",
+          "name": "Aniesh Reddy"
         }
       ],
       "label": "Nov 13, 2026"
@@ -8273,12 +8303,12 @@
       ],
       "people": [
         {
-          "id": "nm0281956",
-          "name": "Brendan Fletcher"
-        },
-        {
           "id": "nm0479527",
           "name": "Tyler Labine"
+        },
+        {
+          "id": "nm0281956",
+          "name": "Brendan Fletcher"
         },
         {
           "id": "nm3287940",
@@ -8762,20 +8792,20 @@
       ],
       "people": [
         {
-          "id": "nm12505128",
-          "name": "Ema Ines"
-        },
-        {
           "id": "nm12714580",
           "name": "Fionn Laird"
+        },
+        {
+          "id": "nm12505128",
+          "name": "Ema Ines"
         },
         {
           "id": "nm9781891",
           "name": "Ivano DiCaro"
         },
         {
-          "id": "nm2028004",
-          "name": "Ry Barrett"
+          "id": "nm4574723",
+          "name": "Olivia Scriven"
         }
       ],
       "label": "Feb 12, 2027"
@@ -10499,12 +10529,12 @@
       ],
       "people": [
         {
-          "id": "nm0000505",
-          "name": "Nia Long"
-        },
-        {
           "id": "nm10040186",
           "name": "Asante Blackk"
+        },
+        {
+          "id": "nm0000505",
+          "name": "Nia Long"
         },
         {
           "id": "nm3853652",
@@ -10526,12 +10556,12 @@
       ],
       "people": [
         {
-          "id": "nm8855592",
-          "name": "Ella Bright"
-        },
-        {
           "id": "nm9296746",
           "name": "Mason Thames"
+        },
+        {
+          "id": "nm8855592",
+          "name": "Ella Bright"
         },
         {
           "id": "nm8482772",
@@ -10843,16 +10873,16 @@
           "name": "Brendan Fraser"
         },
         {
+          "id": "nm0903677",
+          "name": "Arnold Vosloo"
+        },
+        {
           "id": "nm0001838",
           "name": "Rachel Weisz"
         },
         {
           "id": "nm5076257",
           "name": "Michael Johnston"
-        },
-        {
-          "id": "nm0004912",
-          "name": "Oded Fehr"
         }
       ],
       "label": "Oct 15, 2027"
@@ -10963,6 +10993,86 @@
         }
       ],
       "label": "Nov 11, 2027"
+    },
+    {
+      "id": "tt14014196",
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "releaseDate": "Fri, 12 Nov 2027 00:00:00 GMT",
+      "genres": [
+        "Romance"
+      ],
+      "people": [
+        {
+          "id": "nm8402992",
+          "name": "Daisy Edgar-Jones"
+        },
+        {
+          "id": "nm4762139",
+          "name": "Sean Kaufman"
+        },
+        {
+          "id": "nm9478258",
+          "name": "Sky Yang"
+        }
+      ],
+      "label": "Nov 12, 2027"
+    },
+    {
+      "id": "tt12850068",
+      "title": "Seasons",
+      "releaseDate": "Fri, 12 Nov 2027 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm4141252",
+          "name": "Lily James"
+        },
+        {
+          "id": "nm0000579",
+          "name": "Ron Perlman"
+        },
+        {
+          "id": "nm0001527",
+          "name": "Elizabeth McGovern"
+        },
+        {
+          "id": "nm2930503",
+          "name": "Jack Reynor"
+        }
+      ],
+      "label": "Nov 12, 2027"
+    },
+    {
+      "id": "tt7008874",
+      "title": "Margie Claus",
+      "releaseDate": "Fri, 12 Nov 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm0778831",
+          "name": "Andrew Scott"
+        },
+        {
+          "id": "nm0565250",
+          "name": "Melissa McCarthy"
+        },
+        {
+          "id": "nm7210025",
+          "name": "Maria Bakalova"
+        },
+        {
+          "id": "nm0818055",
+          "name": "Octavia Spencer"
+        }
+      ],
+      "label": "Nov 12, 2027"
     }
   ]
 }
