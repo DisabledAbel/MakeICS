@@ -11126,6 +11126,30 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:nhl-2026020309",
+      "uid": "sportsdb-nhl-2026020309@makeics.local",
+      "source": "lib/data/sports/supplemental/134838.json",
+      "record": {
+        "idEvent": "nhl-2026020309",
+        "strEvent": "Seattle Kraken vs Carolina Hurricanes",
+        "strHomeTeam": "Seattle Kraken",
+        "strAwayTeam": "Carolina Hurricanes",
+        "dateEvent": "2026-11-12",
+        "strTime": "17:00:00",
+        "strTimestamp": "2026-11-12T17:00:00Z",
+        "strLeague": "NHL",
+        "strVenue": "Veikkaus Arena",
+        "strStatus": "NS",
+        "strTVStation": "CARNHL, HHN, KONG, NHLN, Prime Video, SN+, TVAS",
+        "updatedAt": "2026-10-19T22:28:16.593Z",
+        "source": "scraped",
+        "sourceEventId": "2026020309",
+        "idHomeTeam": "140082",
+        "idAwayTeam": "134838"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-2026-04-30t02-00z-seattle-storm-vs-portland-fire",
       "uid": "sportsdb-scraped-2026-04-30t02-00z-seattle-storm-vs-portland-fire@makeics.local",
       "source": "lib/data/sports/supplemental/152565.json",

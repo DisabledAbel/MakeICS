@@ -1,7 +1,7 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-11-11T06:43:24.503Z",
+  "updatedAt": "2026-11-12T20:05:52.455Z",
   "events": [
     {
       "idEvent": "nhl-2026020300",
@@ -531,13 +531,13 @@
       "strHomeTeam": "Winnipeg Jets",
       "strAwayTeam": "Minnesota Wild",
       "dateEvent": "2027-01-19",
-      "strTime": "00:00:00",
-      "strTimestamp": "2027-01-20T00:00:00Z",
+      "strTime": "00:30:00",
+      "strTimestamp": "2027-01-20T00:30:00Z",
       "strLeague": "NHL",
       "strVenue": "Canada Life Centre",
       "strStatus": "NS",
       "strTVStation": "MINNHL, SN, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "updatedAt": "2026-11-12T20:05:52.455Z",
       "source": "scraped",
       "sourceEventId": "2026020790",
       "idHomeTeam": "134851",

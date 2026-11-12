@@ -1,7 +1,7 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-11-12T07:23:47.434Z",
+  "updatedAt": "2026-11-12T20:05:52.455Z",
   "events": [
     {
       "idEvent": "nhl-2026020323",
@@ -369,13 +369,13 @@
       "strHomeTeam": "Winnipeg Jets",
       "strAwayTeam": "San Jose Sharks",
       "dateEvent": "2026-12-28",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-12-29T00:30:00Z",
+      "strTime": "00:00:00",
+      "strTimestamp": "2026-12-29T00:00:00Z",
       "strLeague": "NHL",
       "strVenue": "Canada Life Centre",
       "strStatus": "NS",
       "strTVStation": "NBCSCA, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "updatedAt": "2026-11-12T20:05:52.455Z",
       "source": "scraped",
       "sourceEventId": "2026020624",
       "idHomeTeam": "134851",
