@@ -1,26 +1,8 @@
 {
   "teamId": "134849",
   "teamName": "Edmonton Oilers",
-  "updatedAt": "2026-11-11T06:43:24.503Z",
+  "updatedAt": "2026-11-12T07:23:47.434Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020295",
-      "strEvent": "Edmonton Oilers vs Philadelphia Flyers",
-      "strHomeTeam": "Edmonton Oilers",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-11-11",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-11-12T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Place",
-      "strStatus": "NS",
-      "strTVStation": "NBCSP, SNW",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020295",
-      "idHomeTeam": "134849",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020314",
       "strEvent": "Toronto Maple Leafs vs Edmonton Oilers",

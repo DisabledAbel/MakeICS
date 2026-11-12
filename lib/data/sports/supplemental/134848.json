@@ -1,26 +1,8 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-11-11T19:42:40.925Z",
+  "updatedAt": "2026-11-12T07:23:47.434Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020294",
-      "strEvent": "Calgary Flames vs New York Rangers",
-      "strHomeTeam": "Calgary Flames",
-      "strAwayTeam": "New York Rangers",
-      "dateEvent": "2026-11-11",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-12T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Saddledome",
-      "strStatus": "NS",
-      "strTVStation": "MSGSN, Prime",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020294",
-      "idHomeTeam": "134848",
-      "idAwayTeam": "134842"
-    },
     {
       "idEvent": "nhl-2026020325",
       "strEvent": "Los Angeles Kings vs Calgary Flames",

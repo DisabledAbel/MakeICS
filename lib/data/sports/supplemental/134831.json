@@ -1,26 +1,8 @@
 {
   "teamId": "134831",
   "teamName": "Buffalo Sabres",
-  "updatedAt": "2026-11-11T06:43:24.503Z",
+  "updatedAt": "2026-11-12T07:23:47.434Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020293",
-      "strEvent": "Buffalo Sabres vs Tampa Bay Lightning",
-      "strHomeTeam": "Buffalo Sabres",
-      "strAwayTeam": "Tampa Bay Lightning",
-      "dateEvent": "2026-11-11",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-12T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "KeyBank Center",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020293",
-      "idHomeTeam": "134831",
-      "idAwayTeam": "134836"
-    },
     {
       "idEvent": "nhl-2026020305",
       "strEvent": "Chicago Blackhawks vs Buffalo Sabres",

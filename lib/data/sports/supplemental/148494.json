@@ -1,26 +1,8 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-11-08T06:17:00.673Z",
+  "updatedAt": "2026-11-12T07:23:47.434Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020296",
-      "strEvent": "Vegas Golden Knights vs Utah Mammoth",
-      "strHomeTeam": "Vegas Golden Knights",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-11-11",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-12T02:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "T-Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020296",
-      "idHomeTeam": "135913",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020307",
       "strEvent": "Utah Mammoth vs St. Louis Blues",

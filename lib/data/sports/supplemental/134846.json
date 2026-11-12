@@ -1,26 +1,8 @@
 {
   "teamId": "134846",
   "teamName": "Anaheim Ducks",
-  "updatedAt": "2026-11-11T06:43:24.503Z",
+  "updatedAt": "2026-11-12T07:23:47.434Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020297",
-      "strEvent": "Anaheim Ducks vs Nashville Predators",
-      "strHomeTeam": "Anaheim Ducks",
-      "strAwayTeam": "Nashville Predators",
-      "dateEvent": "2026-11-11",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-12T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Honda Center",
-      "strStatus": "NS",
-      "strTVStation": "FOXLA+, Prime Video, SCRIPPS",
-      "updatedAt": "2026-10-15T21:31:03.866Z",
-      "source": "scraped",
-      "sourceEventId": "2026020297",
-      "idHomeTeam": "134846",
-      "idAwayTeam": "134858"
-    },
     {
       "idEvent": "nhl-2026020324",
       "strEvent": "Anaheim Ducks vs New York Islanders",

@@ -1,26 +1,8 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-11-10T07:28:42.566Z",
+  "updatedAt": "2026-11-12T07:23:47.434Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020298",
-      "strEvent": "San Jose Sharks vs Pittsburgh Penguins",
-      "strHomeTeam": "San Jose Sharks",
-      "strAwayTeam": "Pittsburgh Penguins",
-      "dateEvent": "2026-11-11",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-12T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "SAP Center at San Jose",
-      "strStatus": "NS",
-      "strTVStation": "NBCSCA, SN-PIT",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020298",
-      "idHomeTeam": "134853",
-      "idAwayTeam": "134844"
-    },
     {
       "idEvent": "nhl-2026020323",
       "strEvent": "Utah Mammoth vs San Jose Sharks",
