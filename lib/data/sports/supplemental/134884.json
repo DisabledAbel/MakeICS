@@ -1,25 +1,8 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-11-12T00:04:47.416Z",
+  "updatedAt": "2026-11-13T05:13:17.488Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909977",
-      "strEvent": "Washington Wizards vs Detroit Pistons",
-      "strHomeTeam": "Washington Wizards",
-      "strAwayTeam": "Detroit Pistons",
-      "dateEvent": "2026-11-12",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-13T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134884",
-      "idAwayTeam": "134872"
-    },
     {
       "idEvent": "scraped-espn-401909991",
       "strEvent": "Washington Wizards vs Houston Rockets",
