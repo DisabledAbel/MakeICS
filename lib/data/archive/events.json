@@ -93172,6 +93172,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-ab5828d9-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ab5828d9-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134935.json",
+      "record": {
+        "idEvent": "sdv-nfl-ab5828d9-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "New York Giants vs Washington Commanders",
+        "strHomeTeam": "New York Giants",
+        "strAwayTeam": "Washington Commanders",
+        "dateEvent": "2026-11-13",
+        "strTime": "01:15:00Z",
+        "strTimestamp": "2026-11-13T01:15:00Z",
+        "strLeague": "NFL",
+        "strVenue": "MetLife Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-ab998b7f-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-ab998b7f-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134922.json",

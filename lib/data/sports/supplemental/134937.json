@@ -1,24 +1,10 @@
 {
   "teamId": "134937",
   "teamName": "Washington Commanders",
-  "updatedAt": "2026-11-09T06:34:14.679Z",
+  "updatedAt": "2026-11-13T06:48:49.805Z",
   "generatedAt": "2026-07-18T06:13:33.276Z",
   "generateAt": "2026-07-18T06:13:33.276Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab5828d9-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New York Giants vs Washington Commanders",
-      "strHomeTeam": "New York Giants",
-      "strAwayTeam": "Washington Commanders",
-      "dateEvent": "2026-11-13",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-11-13T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "MetLife Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-abbf25b8-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Washington Commanders vs Cincinnati Bengals",
