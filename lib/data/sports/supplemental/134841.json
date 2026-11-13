@@ -1,26 +1,8 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-11-11T06:43:24.503Z",
+  "updatedAt": "2026-11-13T06:56:22.307Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020308",
-      "strEvent": "Los Angeles Kings vs New York Islanders",
-      "strHomeTeam": "Los Angeles Kings",
-      "strAwayTeam": "New York Islanders",
-      "dateEvent": "2026-11-12",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-13T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU, SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020308",
-      "idHomeTeam": "134852",
-      "idAwayTeam": "134841"
-    },
     {
       "idEvent": "nhl-2026020324",
       "strEvent": "Anaheim Ducks vs New York Islanders",

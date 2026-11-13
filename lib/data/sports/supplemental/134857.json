@@ -1,26 +1,8 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-11-12T20:05:52.455Z",
+  "updatedAt": "2026-11-13T06:56:22.307Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020300",
-      "strEvent": "Toronto Maple Leafs vs Minnesota Wild",
-      "strHomeTeam": "Toronto Maple Leafs",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-11-12",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-13T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, SN, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020300",
-      "idHomeTeam": "134837",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020313",
       "strEvent": "Boston Bruins vs Minnesota Wild",

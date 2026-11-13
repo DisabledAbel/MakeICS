@@ -1,26 +1,8 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-11-11T06:43:24.503Z",
+  "updatedAt": "2026-11-13T06:56:22.307Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020301",
-      "strEvent": "Ottawa Senators vs Colorado Avalanche",
-      "strHomeTeam": "Ottawa Senators",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-11-12",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-13T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canadian Tire Centre",
-      "strStatus": "NS",
-      "strTVStation": "ALT, RDS2, TSN5",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020301",
-      "idHomeTeam": "134835",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020317",
       "strEvent": "Pittsburgh Penguins vs Ottawa Senators",

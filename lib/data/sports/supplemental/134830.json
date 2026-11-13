@@ -1,26 +1,8 @@
 {
   "teamId": "134830",
   "teamName": "Boston Bruins",
-  "updatedAt": "2026-11-11T06:43:24.503Z",
+  "updatedAt": "2026-11-13T06:56:22.307Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020299",
-      "strEvent": "Boston Bruins vs Montreal Canadiens",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Montreal Canadiens",
-      "dateEvent": "2026-11-12",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-13T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NESN, RDS, TSN2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020299",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "134834"
-    },
     {
       "idEvent": "nhl-2026020313",
       "strEvent": "Boston Bruins vs Minnesota Wild",
