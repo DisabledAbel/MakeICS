@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:34:03.541Z",
+  "generatedAt": "2026-11-13T12:53:41.639Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6511,12 +6511,12 @@
           "name": "Zoë Kravitz"
         },
         {
-          "id": "nm0000225",
-          "name": "Christian Slater"
+          "id": "nm0203457",
+          "name": "Pete Davidson"
         },
         {
-          "id": "nm6616259",
-          "name": "Tati Gabrielle"
+          "id": "nm0000604",
+          "name": "John C. Reilly"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6537,16 +6537,16 @@
           "name": "Johnny Depp"
         },
         {
+          "id": "nm0342488",
+          "name": "Rupert Grint"
+        },
+        {
           "id": "nm0005212",
           "name": "Ian McKellen"
         },
         {
-          "id": "nm3510471",
-          "name": "Sam Claflin"
-        },
-        {
-          "id": "nm14057859",
-          "name": "Arthur Conti"
+          "id": "nm2057859",
+          "name": "Andrea Riseborough"
         }
       ],
       "label": "Nov 13, 2026"
@@ -6861,7 +6861,7 @@
     {
       "id": "tt11995650",
       "title": "I Play Rocky",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTY0MWFkODAtNDdhNS00MzIwLThhMjItMzczMDQ3OWUxMGI0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTk4NjRhZjgtODAxYS00OTE3LWFhZjEtNmIyNzhhZDE0NTA3XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -8043,12 +8043,12 @@
           "name": "Bill Pullman"
         },
         {
-          "id": "nm0582418",
-          "name": "Laurie Metcalf"
+          "id": "nm18281305",
+          "name": "Will Sach"
         },
         {
-          "id": "nm0911395",
-          "name": "Barry Ward"
+          "id": "nm18417733",
+          "name": "Boz Martin-Jones"
         }
       ],
       "label": "Jan 08, 2027"
@@ -9107,7 +9107,7 @@
     {
       "id": "tt26443610",
       "title": "Gatto",
-      "image": "https://m.media-amazon.com/images/M/MV5BYmU4ZTMxNmUtYzQxNS00YzdlLTllOWItNGZkOWFjMWZkMTA4XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjFjZjM3ZDItZTZlNi00NmNiLWJkZmMtMTczNWJhMDY0ZWY1XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 05 Mar 2027 00:00:00 GMT",
       "genres": [
         "Animation",
@@ -9116,20 +9116,20 @@
       ],
       "people": [
         {
+          "id": "nm5428959",
+          "name": "Jesse Andrews"
+        },
+        {
+          "id": "nm14547432",
+          "name": "Bianca Babasa"
+        },
+        {
+          "id": "nm2862123",
+          "name": "Marco Calvani"
+        },
+        {
           "id": "nm1154836",
           "name": "Enrico Casarosa"
-        },
-        {
-          "id": "nm17845870",
-          "name": "Ismail Elsene"
-        },
-        {
-          "id": "nm0000401",
-          "name": "Laurence Fishburne"
-        },
-        {
-          "id": "nm17478972",
-          "name": "Everly Laing"
         }
       ],
       "label": "Mar 05, 2027"
@@ -9379,6 +9379,36 @@
         {
           "id": "nm2547958",
           "name": "Kate Berlant"
+        }
+      ],
+      "label": "Mar 26, 2027"
+    },
+    {
+      "id": "tt31109276",
+      "title": "Julián",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTBlY2U4YWUtYjgzYi00ZjA3LTgzNjUtOGY3ZGRhYzg3ZmRlXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 26 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm13963296",
+          "name": "Knyght Darius Jack"
+        },
+        {
+          "id": "nm8818546",
+          "name": "Milcania Diaz-Rojas"
+        },
+        {
+          "id": "nm18214532",
+          "name": "Zariah Georgia Ellis"
+        },
+        {
+          "id": "nm13224793",
+          "name": "Emma So"
         }
       ],
       "label": "Mar 26, 2027"
