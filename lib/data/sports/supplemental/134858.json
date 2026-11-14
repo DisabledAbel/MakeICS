@@ -1,26 +1,8 @@
 {
   "teamId": "134858",
   "teamName": "Nashville Predators",
-  "updatedAt": "2026-11-12T07:23:47.434Z",
+  "updatedAt": "2026-11-14T06:42:06.705Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020311",
-      "strEvent": "Vegas Golden Knights vs Nashville Predators",
-      "strHomeTeam": "Vegas Golden Knights",
-      "strAwayTeam": "Nashville Predators",
-      "dateEvent": "2026-11-13",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-14T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "T-Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "SCRIPPS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020311",
-      "idHomeTeam": "135913",
-      "idAwayTeam": "134858"
-    },
     {
       "idEvent": "nhl-2026020330",
       "strEvent": "San Jose Sharks vs Nashville Predators",

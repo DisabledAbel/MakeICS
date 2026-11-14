@@ -1,26 +1,8 @@
 {
   "teamId": "134850",
   "teamName": "Vancouver Canucks",
-  "updatedAt": "2026-11-10T07:28:42.566Z",
+  "updatedAt": "2026-11-14T06:42:06.705Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020310",
-      "strEvent": "Vancouver Canucks vs New York Rangers",
-      "strHomeTeam": "Vancouver Canucks",
-      "strAwayTeam": "New York Rangers",
-      "dateEvent": "2026-11-13",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-11-14T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Arena",
-      "strStatus": "NS",
-      "strTVStation": "MSGSN, SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020310",
-      "idHomeTeam": "134850",
-      "idAwayTeam": "134842"
-    },
     {
       "idEvent": "nhl-2026020329",
       "strEvent": "Vegas Golden Knights vs Vancouver Canucks",
