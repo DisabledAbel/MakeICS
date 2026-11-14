@@ -1,26 +1,8 @@
 {
   "teamId": "140082",
   "teamName": "Seattle Kraken",
-  "updatedAt": "2026-11-12T20:05:52.455Z",
+  "updatedAt": "2026-11-14T18:16:11.827Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020321",
-      "strEvent": "Carolina Hurricanes vs Seattle Kraken",
-      "strHomeTeam": "Carolina Hurricanes",
-      "strAwayTeam": "Seattle Kraken",
-      "dateEvent": "2026-11-14",
-      "strTime": "18:00:00",
-      "strTimestamp": "2026-11-14T18:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Veikkaus Arena",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, KING, KONG, NHLN, Prime Video, SN1",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020321",
-      "idHomeTeam": "134838",
-      "idAwayTeam": "140082"
-    },
     {
       "idEvent": "nhl-2026020357",
       "strEvent": "Seattle Kraken vs Vancouver Canucks",
