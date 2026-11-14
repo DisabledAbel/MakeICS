@@ -1,25 +1,8 @@
 {
   "teamId": "134877",
   "teamName": "Memphis Grizzlies",
-  "updatedAt": "2026-11-12T14:40:15.874Z",
+  "updatedAt": "2026-11-14T05:02:34.657Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909300",
-      "strEvent": "New Orleans Pelicans vs Memphis Grizzlies",
-      "strHomeTeam": "New Orleans Pelicans",
-      "strAwayTeam": "Memphis Grizzlies",
-      "dateEvent": "2026-11-13",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-14T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Smoothie King Center",
-      "strStatus": "NS",
-      "strTVStation": "GCSEN",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134878",
-      "idAwayTeam": "134877"
-    },
     {
       "idEvent": "scraped-espn-401909983",
       "strEvent": "Memphis Grizzlies vs Brooklyn Nets",

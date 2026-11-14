@@ -1,25 +1,8 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-11-11T04:49:58.259Z",
+  "updatedAt": "2026-11-14T05:02:34.657Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909304",
-      "strEvent": "Los Angeles Clippers vs Oklahoma City Thunder",
-      "strHomeTeam": "Los Angeles Clippers",
-      "strAwayTeam": "Oklahoma City Thunder",
-      "dateEvent": "2026-11-13",
-      "strTime": "03:30:00",
-      "strTimestamp": "2026-11-14T03:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Intuit Dome",
-      "strStatus": "NS",
-      "strTVStation": "KSBI",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134866",
-      "idAwayTeam": "134887"
-    },
     {
       "idEvent": "scraped-espn-401909987",
       "strEvent": "Los Angeles Clippers vs Charlotte Hornets",

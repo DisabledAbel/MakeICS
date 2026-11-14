@@ -1,25 +1,8 @@
 {
   "teamId": "134865",
   "teamName": "Golden State Warriors",
-  "updatedAt": "2026-11-12T14:40:15.874Z",
+  "updatedAt": "2026-11-14T05:02:34.657Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909302",
-      "strEvent": "San Antonio Spurs vs Golden State Warriors",
-      "strHomeTeam": "San Antonio Spurs",
-      "strAwayTeam": "Golden State Warriors",
-      "dateEvent": "2026-11-13",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-14T02:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Frost Bank Center",
-      "strStatus": "NS",
-      "strTVStation": "Prime Video",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134879",
-      "idAwayTeam": "134865"
-    },
     {
       "idEvent": "scraped-espn-401910000",
       "strEvent": "New Orleans Pelicans vs Golden State Warriors",

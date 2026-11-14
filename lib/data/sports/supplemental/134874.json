@@ -1,25 +1,8 @@
 {
   "teamId": "134874",
   "teamName": "Milwaukee Bucks",
-  "updatedAt": "2026-11-12T14:40:15.874Z",
+  "updatedAt": "2026-11-14T05:02:34.657Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909297",
-      "strEvent": "Orlando Magic vs Milwaukee Bucks",
-      "strHomeTeam": "Orlando Magic",
-      "strAwayTeam": "Milwaukee Bucks",
-      "dateEvent": "2026-11-13",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-14T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Kia Center",
-      "strStatus": "NS",
-      "strTVStation": "MyMi",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134883",
-      "idAwayTeam": "134874"
-    },
     {
       "idEvent": "scraped-espn-401909992",
       "strEvent": "Milwaukee Bucks vs Atlanta Hawks",

@@ -1,25 +1,8 @@
 {
   "teamId": "134880",
   "teamName": "Atlanta Hawks",
-  "updatedAt": "2026-11-10T01:12:38.880Z",
+  "updatedAt": "2026-11-14T05:02:34.657Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909299",
-      "strEvent": "Chicago Bulls vs Atlanta Hawks",
-      "strHomeTeam": "Chicago Bulls",
-      "strAwayTeam": "Atlanta Hawks",
-      "dateEvent": "2026-11-13",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-14T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-21T21:16:59.037Z",
-      "source": "scraped",
-      "idHomeTeam": "134870",
-      "idAwayTeam": "134880"
-    },
     {
       "idEvent": "scraped-espn-401909992",
       "strEvent": "Milwaukee Bucks vs Atlanta Hawks",
