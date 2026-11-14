@@ -1,7 +1,7 @@
 {
   "teamId": "134865",
   "teamName": "Golden State Warriors",
-  "updatedAt": "2026-11-14T05:02:34.657Z",
+  "updatedAt": "2026-11-14T21:59:22.147Z",
   "events": [
     {
       "idEvent": "scraped-espn-401910000",
@@ -26,13 +26,13 @@
       "strHomeTeam": "Dallas Mavericks",
       "strAwayTeam": "Golden State Warriors",
       "dateEvent": "2026-11-18",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-19T02:30:00Z",
+      "strTime": "01:00:00",
+      "strTimestamp": "2026-11-19T01:00:00Z",
       "strLeague": "NBA",
       "strVenue": "American Airlines Center",
       "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KFAA-TV",
+      "updatedAt": "2026-11-14T21:59:22.147Z",
       "source": "scraped",
       "idHomeTeam": "134875",
       "idAwayTeam": "134865"
