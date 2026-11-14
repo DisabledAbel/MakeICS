@@ -1,26 +1,8 @@
 {
   "teamId": "134854",
   "teamName": "Chicago Blackhawks",
-  "updatedAt": "2026-11-13T06:56:22.307Z",
+  "updatedAt": "2026-11-14T22:33:10.726Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020312",
-      "strEvent": "Chicago Blackhawks vs Winnipeg Jets",
-      "strHomeTeam": "Chicago Blackhawks",
-      "strAwayTeam": "Winnipeg Jets",
-      "dateEvent": "2026-11-14",
-      "strTime": "20:30:00",
-      "strTimestamp": "2026-11-14T20:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "CHSN, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020312",
-      "idHomeTeam": "134854",
-      "idAwayTeam": "134851"
-    },
     {
       "idEvent": "nhl-2026020338",
       "strEvent": "Chicago Blackhawks vs Toronto Maple Leafs",

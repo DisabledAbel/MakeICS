@@ -11591,6 +11591,30 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:nhl-2026020312",
+      "uid": "sportsdb-nhl-2026020312@makeics.local",
+      "source": "lib/data/sports/supplemental/134851.json",
+      "record": {
+        "idEvent": "nhl-2026020312",
+        "strEvent": "Chicago Blackhawks vs Winnipeg Jets",
+        "strHomeTeam": "Chicago Blackhawks",
+        "strAwayTeam": "Winnipeg Jets",
+        "dateEvent": "2026-11-14",
+        "strTime": "20:30:00",
+        "strTimestamp": "2026-11-14T20:30:00Z",
+        "strLeague": "NHL",
+        "strVenue": "United Center",
+        "strStatus": "NS",
+        "strTVStation": "CHSN, SN",
+        "updatedAt": "2026-10-01T23:56:52.194Z",
+        "source": "scraped",
+        "sourceEventId": "2026020312",
+        "idHomeTeam": "134854",
+        "idAwayTeam": "134851"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:nhl-2026020321",
       "uid": "sportsdb-nhl-2026020321@makeics.local",
       "source": "lib/data/sports/supplemental/134838.json",
