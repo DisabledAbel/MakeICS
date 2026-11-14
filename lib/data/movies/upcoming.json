@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:53:41.639Z",
+  "generatedAt": "2026-11-14T11:57:40.728Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6938,12 +6938,12 @@
           "name": "Pope Francis"
         },
         {
-          "id": "nm16269331",
-          "name": "Roman Oleksiv"
+          "id": "nm15339885",
+          "name": "Saad Kassis-Mohamed"
         },
         {
-          "id": "nm15064979",
-          "name": "Oleksandra Paskal"
+          "id": "nm16269331",
+          "name": "Roman Oleksiv"
         }
       ],
       "label": "Nov 20, 2026"
@@ -8506,6 +8506,10 @@
       ],
       "people": [
         {
+          "id": "nm2884388",
+          "name": "Chris Sullivan"
+        },
+        {
           "id": "nm0740535",
           "name": "Stephen Root"
         },
@@ -8516,10 +8520,6 @@
         {
           "id": "nm0197647",
           "name": "James Badge Dale"
-        },
-        {
-          "id": "nm6180088",
-          "name": "Young Mazino"
         }
       ],
       "label": "Jan 29, 2027"
@@ -9587,6 +9587,36 @@
         {
           "id": "nm1604904",
           "name": "Sara Alexander"
+        }
+      ],
+      "label": "Apr 16, 2027"
+    },
+    {
+      "id": "tt38579505",
+      "title": "Chasing Summer",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTUzMjExMTAtNjRjZS00NDRjLThkNDktMGJmM2JkNTljNWFkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 16 Apr 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        {
+          "id": "nm2955597",
+          "name": "Iliza Shlesinger"
+        },
+        {
+          "id": "nm6136318",
+          "name": "Garrett Wareing"
+        },
+        {
+          "id": "nm12528485",
+          "name": "Lola Tung"
+        },
+        {
+          "id": "nm2336905",
+          "name": "Cassidy Freeman"
         }
       ],
       "label": "Apr 16, 2027"
