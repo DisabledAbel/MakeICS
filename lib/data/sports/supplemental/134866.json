@@ -1,25 +1,8 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-11-14T05:02:34.657Z",
+  "updatedAt": "2026-11-15T22:30:05.412Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909987",
-      "strEvent": "Los Angeles Clippers vs Charlotte Hornets",
-      "strHomeTeam": "Los Angeles Clippers",
-      "strAwayTeam": "Charlotte Hornets",
-      "dateEvent": "2026-11-15",
-      "strTime": "21:30:00",
-      "strTimestamp": "2026-11-15T21:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Intuit Dome",
-      "strStatus": "NS",
-      "strTVStation": "ClipperVision",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134866",
-      "idAwayTeam": "134881"
-    },
     {
       "idEvent": "scraped-espn-401910006",
       "strEvent": "Los Angeles Clippers vs Utah Jazz",
