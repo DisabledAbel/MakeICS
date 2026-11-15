@@ -14020,7 +14020,7 @@
       "dateEvent": "2026-11-14",
       "dateEventLocal": "2026-11-14",
       "strTime": "18:00:00",
-      "strTimeLocal": "",
+      "strTimeLocal": "20:00:00",
       "strGroup": "",
       "idHomeTeam": "134838",
       "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png",
@@ -14039,7 +14039,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -14084,7 +14084,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "AP",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -14129,7 +14129,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "P1",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -14174,7 +14174,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "P1",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -14219,7 +14219,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "BT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -14264,7 +14264,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "P1",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -14309,7 +14309,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "P1",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -14354,7 +14354,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "P1",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -14399,7 +14399,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "BT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -14444,7 +14444,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "P1",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },

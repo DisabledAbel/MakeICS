@@ -2799,7 +2799,7 @@
       "strTimestamp": "2026-11-14T23:00:00",
       "strEvent": "Querétaro vs Monterrey",
       "strEventAlternate": "Monterrey @ Querétaro",
-      "strFilename": "Mexican Liga MX 2026-11-14 Querétaro vs Monterrey",
+      "strFilename": "Mexican Primera League 2026-11-14 Querétaro vs Monterrey",
       "strSport": "Soccer",
       "idLeague": "4350",
       "strLeague": "Mexican Primera League",
@@ -2834,7 +2834,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
