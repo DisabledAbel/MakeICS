@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:57:40.728Z",
+  "generatedAt": "2026-11-15T12:32:25.778Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -7292,7 +7292,7 @@
     {
       "id": "tt34382912",
       "title": "The Gallerist",
-      "image": "https://m.media-amazon.com/images/M/MV5BZDE4YmEwNDUtZjIyYS00NDVhLWI2ZDktN2QyODFkODY5ZGVlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGYzMjBiYmYtOWM3NC00OWViLTg1MDYtNjhmMDdkNmNhZDMxXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -8029,18 +8029,14 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNzgxMmE2YzktOTc5My00OTgxLWI5MzItODEwMGE2NWI4Y2M0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
       "genres": [
-        "Documentary",
         "Biography",
-        "Drama"
+        "Drama",
+        "Music"
       ],
       "people": [
         {
           "id": "nm0509264",
           "name": "Anders Danielsen Lie"
-        },
-        {
-          "id": "nm0000597",
-          "name": "Bill Pullman"
         },
         {
           "id": "nm18281305",
@@ -8049,6 +8045,10 @@
         {
           "id": "nm18417733",
           "name": "Boz Martin-Jones"
+        },
+        {
+          "id": "nm0911395",
+          "name": "Barry Ward"
         }
       ],
       "label": "Jan 08, 2027"
