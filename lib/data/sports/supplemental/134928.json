@@ -1,24 +1,10 @@
 {
   "teamId": "134928",
   "teamName": "Jacksonville Jaguars",
-  "updatedAt": "2026-11-09T22:24:17.846Z",
+  "updatedAt": "2026-11-15T18:53:50.887Z",
   "generatedAt": "2026-07-18T06:13:33.266Z",
   "generateAt": "2026-07-18T06:13:33.266Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab789e15-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Tennessee Titans vs Jacksonville Jaguars",
-      "strHomeTeam": "Tennessee Titans",
-      "strAwayTeam": "Jacksonville Jaguars",
-      "dateEvent": "2026-11-15",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-15T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Nissan Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab999b80-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New York Giants vs Jacksonville Jaguars",

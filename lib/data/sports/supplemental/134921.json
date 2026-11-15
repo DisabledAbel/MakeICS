@@ -1,24 +1,10 @@
 {
   "teamId": "134921",
   "teamName": "New York Jets",
-  "updatedAt": "2026-11-09T06:34:14.665Z",
+  "updatedAt": "2026-11-15T18:53:50.878Z",
   "generatedAt": "2026-07-18T06:13:33.255Z",
   "generateAt": "2026-07-18T06:13:33.255Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab789ac9-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "New York Jets vs Buffalo Bills",
-      "strHomeTeam": "New York Jets",
-      "strAwayTeam": "Buffalo Bills",
-      "dateEvent": "2026-11-15",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-15T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "MetLife Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab999e6f-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Los Angeles Chargers vs New York Jets",

@@ -1,24 +1,10 @@
 {
   "teamId": "134939",
   "teamName": "Detroit Lions",
-  "updatedAt": "2026-11-09T06:34:14.680Z",
+  "updatedAt": "2026-11-15T18:53:50.896Z",
   "generatedAt": "2026-07-18T06:13:33.279Z",
   "generateAt": "2026-07-18T06:13:33.279Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab582c2f-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Detroit Lions vs New England Patriots",
-      "strHomeTeam": "Detroit Lions",
-      "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-11-15",
-      "strTime": "14:30:00Z",
-      "strTimestamp": "2026-11-15T14:30:00Z",
-      "strLeague": "NFL",
-      "strVenue": "FC Bayern Munich Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab999586-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Detroit Lions vs Tampa Bay Buccaneers",
