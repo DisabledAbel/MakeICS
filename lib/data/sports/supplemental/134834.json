@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-11-13T06:56:22.307Z",
+  "updatedAt": "2026-11-15T06:46:54.717Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020315",
-      "strEvent": "Montreal Canadiens vs Colorado Avalanche",
-      "strHomeTeam": "Montreal Canadiens",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-11-14",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-15T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Centre Bell",
-      "strStatus": "NS",
-      "strTVStation": "ALT2, KTVD, SNE, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020315",
-      "idHomeTeam": "134834",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020331",
       "strEvent": "New York Rangers vs Montreal Canadiens",

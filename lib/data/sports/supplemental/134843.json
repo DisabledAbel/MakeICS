@@ -1,26 +1,8 @@
 {
   "teamId": "134843",
   "teamName": "Philadelphia Flyers",
-  "updatedAt": "2026-11-12T07:23:47.434Z",
+  "updatedAt": "2026-11-15T06:46:54.717Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020319",
-      "strEvent": "Columbus Blue Jackets vs Philadelphia Flyers",
-      "strHomeTeam": "Columbus Blue Jackets",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-11-14",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-15T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Nationwide Arena",
-      "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, NBCSP",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020319",
-      "idHomeTeam": "134839",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020326",
       "strEvent": "Philadelphia Flyers vs Edmonton Oilers",

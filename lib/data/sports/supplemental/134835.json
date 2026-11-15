@@ -1,26 +1,8 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-11-13T06:56:22.307Z",
+  "updatedAt": "2026-11-15T06:46:54.717Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020317",
-      "strEvent": "Pittsburgh Penguins vs Ottawa Senators",
-      "strHomeTeam": "Pittsburgh Penguins",
-      "strAwayTeam": "Ottawa Senators",
-      "dateEvent": "2026-11-14",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-15T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "PPG Paints Arena",
-      "strStatus": "NS",
-      "strTVStation": "SN-PIT, SN1, TVAS2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020317",
-      "idHomeTeam": "134844",
-      "idAwayTeam": "134835"
-    },
     {
       "idEvent": "nhl-2026020341",
       "strEvent": "Winnipeg Jets vs Ottawa Senators",

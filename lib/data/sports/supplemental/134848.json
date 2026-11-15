@@ -1,26 +1,8 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-11-12T07:23:47.434Z",
+  "updatedAt": "2026-11-15T06:46:54.717Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020325",
-      "strEvent": "Los Angeles Kings vs Calgary Flames",
-      "strHomeTeam": "Los Angeles Kings",
-      "strAwayTeam": "Calgary Flames",
-      "dateEvent": "2026-11-14",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-15T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "ABTV , SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020325",
-      "idHomeTeam": "134852",
-      "idAwayTeam": "134848"
-    },
     {
       "idEvent": "nhl-2026020328",
       "strEvent": "Anaheim Ducks vs Calgary Flames",

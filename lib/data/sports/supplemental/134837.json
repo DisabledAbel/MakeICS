@@ -1,26 +1,8 @@
 {
   "teamId": "134837",
   "teamName": "Toronto Maple Leafs",
-  "updatedAt": "2026-11-13T06:56:22.307Z",
+  "updatedAt": "2026-11-15T06:46:54.717Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020314",
-      "strEvent": "Toronto Maple Leafs vs Edmonton Oilers",
-      "strHomeTeam": "Toronto Maple Leafs",
-      "strAwayTeam": "Edmonton Oilers",
-      "dateEvent": "2026-11-14",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-15T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": "NHLN, SN",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020314",
-      "idHomeTeam": "134837",
-      "idAwayTeam": "134849"
-    },
     {
       "idEvent": "nhl-2026020338",
       "strEvent": "Chicago Blackhawks vs Toronto Maple Leafs",

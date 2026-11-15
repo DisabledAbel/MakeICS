@@ -1,26 +1,8 @@
 {
   "teamId": "134849",
   "teamName": "Edmonton Oilers",
-  "updatedAt": "2026-11-12T07:23:47.434Z",
+  "updatedAt": "2026-11-15T06:46:54.717Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020314",
-      "strEvent": "Toronto Maple Leafs vs Edmonton Oilers",
-      "strHomeTeam": "Toronto Maple Leafs",
-      "strAwayTeam": "Edmonton Oilers",
-      "dateEvent": "2026-11-14",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-15T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": "NHLN, SN",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020314",
-      "idHomeTeam": "134837",
-      "idAwayTeam": "134849"
-    },
     {
       "idEvent": "nhl-2026020326",
       "strEvent": "Philadelphia Flyers vs Edmonton Oilers",

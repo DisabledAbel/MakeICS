@@ -1,26 +1,8 @@
 {
   "teamId": "134840",
   "teamName": "New Jersey Devils",
-  "updatedAt": "2026-11-13T06:56:22.307Z",
+  "updatedAt": "2026-11-15T06:46:54.717Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020318",
-      "strEvent": "Washington Capitals vs New Jersey Devils",
-      "strHomeTeam": "Washington Capitals",
-      "strAwayTeam": "New Jersey Devils",
-      "dateEvent": "2026-11-14",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-15T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT, MSG",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020318",
-      "idHomeTeam": "134845",
-      "idAwayTeam": "134840"
-    },
     {
       "idEvent": "nhl-2026020345",
       "strEvent": "New Jersey Devils vs Montreal Canadiens",
