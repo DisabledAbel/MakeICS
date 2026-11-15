@@ -1,25 +1,8 @@
 {
   "teamId": "134878",
   "teamName": "New Orleans Pelicans",
-  "updatedAt": "2026-11-14T05:02:34.657Z",
+  "updatedAt": "2026-11-15T04:55:58.442Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909980",
-      "strEvent": "New Orleans Pelicans vs Denver Nuggets",
-      "strHomeTeam": "New Orleans Pelicans",
-      "strAwayTeam": "Denver Nuggets",
-      "dateEvent": "2026-11-14",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-15T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Smoothie King Center",
-      "strStatus": "NS",
-      "strTVStation": "GCSEN",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134878",
-      "idAwayTeam": "134885"
-    },
     {
       "idEvent": "scraped-espn-401910000",
       "strEvent": "New Orleans Pelicans vs Golden State Warriors",
