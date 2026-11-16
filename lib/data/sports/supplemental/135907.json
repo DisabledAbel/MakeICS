@@ -1,24 +1,10 @@
 {
   "teamId": "135907",
   "teamName": "Los Angeles Rams",
-  "updatedAt": "2026-11-09T06:34:14.686Z",
+  "updatedAt": "2026-11-16T06:33:03.936Z",
   "generatedAt": "2026-07-18T06:13:33.291Z",
   "generateAt": "2026-07-18T06:13:33.291Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab78a133-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Arizona Cardinals vs Los Angeles Rams",
-      "strHomeTeam": "Arizona Cardinals",
-      "strAwayTeam": "Los Angeles Rams",
-      "dateEvent": "2026-11-15",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-11-15T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "State Farm Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-abbf28ed-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Los Angeles Rams vs Green Bay Packers",

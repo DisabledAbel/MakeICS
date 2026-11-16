@@ -1,24 +1,10 @@
 {
   "teamId": "134946",
   "teamName": "Arizona Cardinals",
-  "updatedAt": "2026-11-15T18:53:50.902Z",
+  "updatedAt": "2026-11-16T06:33:03.934Z",
   "generatedAt": "2026-07-18T00:00:00.000Z",
   "generateAt": "2026-07-18T00:00:00.000Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab78a133-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Arizona Cardinals vs Los Angeles Rams",
-      "strHomeTeam": "Arizona Cardinals",
-      "strAwayTeam": "Los Angeles Rams",
-      "dateEvent": "2026-11-15",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-11-15T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "State Farm Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab999891-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Kansas City Chiefs vs Arizona Cardinals",

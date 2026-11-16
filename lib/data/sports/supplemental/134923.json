@@ -1,24 +1,10 @@
 {
   "teamId": "134923",
   "teamName": "Cincinnati Bengals",
-  "updatedAt": "2026-11-15T18:53:50.880Z",
+  "updatedAt": "2026-11-16T06:33:03.920Z",
   "generatedAt": "2026-07-18T00:00:00.000Z",
   "generateAt": "2026-07-18T00:00:00.000Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab78aa48-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Cincinnati Bengals vs Pittsburgh Steelers",
-      "strHomeTeam": "Cincinnati Bengals",
-      "strAwayTeam": "Pittsburgh Steelers",
-      "dateEvent": "2026-11-16",
-      "strTime": "01:20:00Z",
-      "strTimestamp": "2026-11-16T01:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Paycor Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-abbf25b8-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Washington Commanders vs Cincinnati Bengals",

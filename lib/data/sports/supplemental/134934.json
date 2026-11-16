@@ -1,24 +1,10 @@
 {
   "teamId": "134934",
   "teamName": "Dallas Cowboys",
-  "updatedAt": "2026-11-15T18:53:50.893Z",
+  "updatedAt": "2026-11-16T06:33:03.927Z",
   "generatedAt": "2026-07-18T00:00:00.000Z",
   "generateAt": "2026-07-18T00:00:00.000Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab78a748-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Dallas Cowboys vs San Francisco 49ers",
-      "strHomeTeam": "Dallas Cowboys",
-      "strAwayTeam": "San Francisco 49ers",
-      "dateEvent": "2026-11-15",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-11-15T21:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "AT&T Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab99929a-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Dallas Cowboys vs Tennessee Titans",
