@@ -10,7 +10,7 @@
     "verifiedAt": "2026-09-23T17:47:32.476Z"
   },
   "The Rainmaker-2-9": {
-    "airdate": "2026-12-18",
+    "airdate": "2026-12-11",
     "name": "Episode #2.9",
     "verifiedAt": "2026-10-10T17:44:22.231Z"
   },
@@ -28,11 +28,6 @@
     "airdate": "2026-11-25",
     "name": "Episode #2.8",
     "verifiedAt": "2026-10-15T17:41:46.369Z"
-  },
-  "Get Jiro-1-8": {
-    "airdate": "2026-11-15",
-    "name": "Your Guests Have Arrived",
-    "verifiedAt": "2026-10-21T17:58:40.471Z"
   },
   "Get Jiro-1-9": {
     "airdate": "2026-11-22",
@@ -85,7 +80,7 @@
     "verifiedAt": "2026-10-26T19:05:02.507Z"
   },
   "Sheriff Country-2-9": {
-    "airdate": "2026-12-25",
+    "airdate": "2026-12-04",
     "name": "Episode #2.9",
     "verifiedAt": "2026-10-27T18:36:54.255Z"
   },
@@ -110,7 +105,7 @@
     "verifiedAt": "2026-11-03T19:59:45.619Z"
   },
   "Marshals-2-8": {
-    "airdate": "2026-11-22",
+    "airdate": "2026-11-29",
     "name": "Episode #2.8",
     "verifiedAt": "2026-11-06T19:55:14.468Z"
   },
@@ -130,7 +125,7 @@
     "verifiedAt": "2026-11-10T20:20:03.595Z"
   },
   "Studio C-23-7": {
-    "airdate": "2026-11-30",
+    "airdate": "2026-12-03",
     "name": "It's Christmas, Laugh A Little",
     "verifiedAt": "2026-11-10T20:20:06.283Z"
   },
@@ -139,9 +134,74 @@
     "name": "Terror of Terror Twins",
     "verifiedAt": "2026-11-14T18:40:06.232Z"
   },
-  "Marshals-2-6": {
-    "airdate": "2026-11-15",
-    "name": "Episode #2.6",
-    "verifiedAt": "2026-11-14T18:41:44.855Z"
+  "WWE Friday Night SmackDown-27-47": {
+    "airdate": "2026-11-20",
+    "name": "WarGames Wildcard",
+    "verifiedAt": "2026-11-16T22:45:41.768Z"
+  },
+  "WWE Friday Night SmackDown-27-48": {
+    "airdate": "2026-11-27",
+    "name": "Final Countdown to War",
+    "verifiedAt": "2026-11-16T22:45:44.244Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2026-12-04",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-11-16T22:45:46.870Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2026-01-02",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-11-16T22:45:51.713Z"
+  },
+  "WWE Friday Night SmackDown-28-2": {
+    "airdate": "2026-01-09",
+    "name": "Three Stages of Hell in Berlin",
+    "verifiedAt": "2026-11-16T22:45:54.156Z"
+  },
+  "WWE Friday Night SmackDown-28-3": {
+    "airdate": "2026-01-16",
+    "name": "London Calling",
+    "verifiedAt": "2026-11-16T22:45:56.587Z"
+  },
+  "WWE Friday Night SmackDown-28-5": {
+    "airdate": "2026-01-30",
+    "name": "Rumble Eve Chaos",
+    "verifiedAt": "2026-11-16T22:46:01.582Z"
+  },
+  "WWE Friday Night SmackDown-28-6": {
+    "airdate": "2026-02-06",
+    "name": "Royal Rumble 2026 Fallout",
+    "verifiedAt": "2026-11-16T22:46:04.080Z"
+  },
+  "WWE Friday Night SmackDown-28-7": {
+    "airdate": "2027-02-12",
+    "name": "Chamber Bound",
+    "verifiedAt": "2026-11-16T22:46:06.531Z"
+  },
+  "WWE Friday Night SmackDown-28-8": {
+    "airdate": "2027-02-19",
+    "name": "Chamber Doors Crack Open",
+    "verifiedAt": "2026-11-16T22:46:09.008Z"
+  },
+  "Austin City Limits-52-12": {
+    "airdate": "2026-09-12",
+    "name": "ACL 12th Annual Hall of Fame Honors Brandi Carlile",
+    "verifiedAt": "2026-11-16T22:46:54.905Z"
+  },
+  "Love & Marriage: Huntsville-12-12": {
+    "airdate": "2026-09-12",
+    "name": "A New Era",
+    "verifiedAt": "2026-11-16T22:47:02.478Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-7": {
+    "airdate": "2026-11-17",
+    "name": "Born to Run",
+    "verifiedAt": "2026-11-16T22:48:04.842Z"
+  },
+  "Surviving Alaska: Women of the Wild-1-8": {
+    "airdate": "2026-11-24",
+    "name": "Building the Dream",
+    "verifiedAt": "2026-11-16T22:48:07.384Z"
   }
 }
