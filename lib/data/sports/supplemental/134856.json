@@ -1,26 +1,8 @@
 {
   "teamId": "134856",
   "teamName": "Dallas Stars",
-  "updatedAt": "2026-11-15T06:46:54.717Z",
+  "updatedAt": "2026-11-16T06:45:58.682Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020327",
-      "strEvent": "Dallas Stars vs Florida Panthers",
-      "strHomeTeam": "Dallas Stars",
-      "strAwayTeam": "Florida Panthers",
-      "dateEvent": "2026-11-15",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-16T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "NHLN, Prime Video, SCRIPPS",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020327",
-      "idHomeTeam": "134856",
-      "idAwayTeam": "134833"
-    },
     {
       "idEvent": "nhl-2026020342",
       "strEvent": "Vegas Golden Knights vs Dallas Stars",

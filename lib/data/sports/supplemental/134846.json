@@ -1,26 +1,8 @@
 {
   "teamId": "134846",
   "teamName": "Anaheim Ducks",
-  "updatedAt": "2026-11-15T06:46:54.717Z",
+  "updatedAt": "2026-11-16T06:45:58.682Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020328",
-      "strEvent": "Anaheim Ducks vs Calgary Flames",
-      "strHomeTeam": "Anaheim Ducks",
-      "strAwayTeam": "Calgary Flames",
-      "dateEvent": "2026-11-15",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-16T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Honda Center",
-      "strStatus": "NS",
-      "strTVStation": "FOXLA+, Prime Video, SN1",
-      "updatedAt": "2026-10-15T21:31:03.866Z",
-      "source": "scraped",
-      "sourceEventId": "2026020328",
-      "idHomeTeam": "134846",
-      "idAwayTeam": "134848"
-    },
     {
       "idEvent": "nhl-2026020339",
       "strEvent": "St. Louis Blues vs Anaheim Ducks",

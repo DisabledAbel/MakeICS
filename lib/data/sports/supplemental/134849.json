@@ -1,26 +1,8 @@
 {
   "teamId": "134849",
   "teamName": "Edmonton Oilers",
-  "updatedAt": "2026-11-15T06:46:54.717Z",
+  "updatedAt": "2026-11-16T06:45:58.682Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020326",
-      "strEvent": "Philadelphia Flyers vs Edmonton Oilers",
-      "strHomeTeam": "Philadelphia Flyers",
-      "strAwayTeam": "Edmonton Oilers",
-      "dateEvent": "2026-11-15",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-16T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBCSP, SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020326",
-      "idHomeTeam": "134843",
-      "idAwayTeam": "134849"
-    },
     {
       "idEvent": "nhl-2026020335",
       "strEvent": "Florida Panthers vs Edmonton Oilers",
