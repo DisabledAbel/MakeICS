@@ -1,25 +1,8 @@
 {
   "teamId": "134876",
   "teamName": "Houston Rockets",
-  "updatedAt": "2026-11-14T05:02:34.657Z",
+  "updatedAt": "2026-11-16T04:53:00.458Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909991",
-      "strEvent": "Washington Wizards vs Houston Rockets",
-      "strHomeTeam": "Washington Wizards",
-      "strAwayTeam": "Houston Rockets",
-      "dateEvent": "2026-11-15",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-16T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134884",
-      "idAwayTeam": "134876"
-    },
     {
       "idEvent": "scraped-espn-401909998",
       "strEvent": "Miami Heat vs Houston Rockets",
