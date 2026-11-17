@@ -1,7 +1,7 @@
 {
   "teamId": "134880",
   "teamName": "Atlanta Hawks",
-  "updatedAt": "2026-11-16T04:53:00.458Z",
+  "updatedAt": "2026-11-17T01:36:58.893Z",
   "events": [
     {
       "idEvent": "scraped-espn-401910014",
@@ -388,8 +388,8 @@
       "strLeague": "NBA",
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-11-17T01:36:58.893Z",
       "source": "scraped",
       "idHomeTeam": "134884",
       "idAwayTeam": "134880"

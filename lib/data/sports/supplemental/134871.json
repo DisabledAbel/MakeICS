@@ -1,25 +1,8 @@
 {
   "teamId": "134871",
   "teamName": "Cleveland Cavaliers",
-  "updatedAt": "2026-11-15T04:55:58.442Z",
+  "updatedAt": "2026-11-17T01:36:58.893Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909995",
-      "strEvent": "Cleveland Cavaliers vs Chicago Bulls",
-      "strHomeTeam": "Cleveland Cavaliers",
-      "strAwayTeam": "Chicago Bulls",
-      "dateEvent": "2026-11-16",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-17T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Rocket Arena",
-      "strStatus": "NS",
-      "strTVStation": "DAZN CLE",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134871",
-      "idAwayTeam": "134870"
-    },
     {
       "idEvent": "scraped-espn-401910007",
       "strEvent": "Cleveland Cavaliers vs Memphis Grizzlies",

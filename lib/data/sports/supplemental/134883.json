@@ -1,25 +1,8 @@
 {
   "teamId": "134883",
   "teamName": "Orlando Magic",
-  "updatedAt": "2026-11-14T05:02:34.657Z",
+  "updatedAt": "2026-11-17T01:36:58.893Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909994",
-      "strEvent": "Boston Celtics vs Orlando Magic",
-      "strHomeTeam": "Boston Celtics",
-      "strAwayTeam": "Orlando Magic",
-      "dateEvent": "2026-11-16",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-17T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NBCSN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134860",
-      "idAwayTeam": "134883"
-    },
     {
       "idEvent": "scraped-espn-401910010",
       "strEvent": "Orlando Magic vs Philadelphia 76ers",

@@ -1,25 +1,8 @@
 {
   "teamId": "134876",
   "teamName": "Houston Rockets",
-  "updatedAt": "2026-11-16T04:53:00.458Z",
+  "updatedAt": "2026-11-17T01:36:58.893Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909998",
-      "strEvent": "Miami Heat vs Houston Rockets",
-      "strHomeTeam": "Miami Heat",
-      "strAwayTeam": "Houston Rockets",
-      "dateEvent": "2026-11-16",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-17T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Kaseya Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134882",
-      "idAwayTeam": "134876"
-    },
     {
       "idEvent": "scraped-espn-401910008",
       "strEvent": "Indiana Pacers vs Houston Rockets",
