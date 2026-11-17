@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:25:03.664Z",
+  "generatedAt": "2026-11-17T14:10:11.622Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6831,7 +6831,7 @@
     {
       "id": "tt34385689",
       "title": "Paper Tiger",
-      "image": "https://m.media-amazon.com/images/M/MV5BZWU2MTI0M2MtZjc3My00MzhlLWJkMDMtN2E4ODNlYTg3ODJlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWRlNDNmNGQtY2ExMy00OWI4LTllNWQtZjA5YWQzZmNlYmI4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 20 Nov 2026 00:00:00 GMT",
       "genres": [
         "Crime",
@@ -7964,6 +7964,34 @@
       "label": "Dec 30, 2026"
     },
     {
+      "id": "tt32029049",
+      "title": "VISA - Vintara Saradaga",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWI4NjliZDEtNGI1Mi00MWMzLTg5NDItODZkOWYwYThiYWNiXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 01 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Romance"
+      ],
+      "people": [
+        {
+          "id": "nm5623923",
+          "name": "Satya"
+        },
+        {
+          "id": "nm8194303",
+          "name": "Shivathmika Rajashekar"
+        },
+        {
+          "id": "nm7337648",
+          "name": "Harsha Chemudu"
+        },
+        {
+          "id": "nm14826353",
+          "name": "Sri Gouri Priya"
+        }
+      ],
+      "label": "Jan 01, 2027"
+    },
+    {
       "id": "tt41151310",
       "title": "Vampires 2: Evil Ever After",
       "image": "https://m.media-amazon.com/images/M/MV5BMmQxOTE3ZmYtMzVjYi00NjczLTlkN2ItM2Q3ZmVmODVlMTNiXkEyXkFqcGc@._V1_.jpg",
@@ -8199,6 +8227,16 @@
           "name": "Natsuki Deguchi"
         }
       ],
+      "label": "Jan 15, 2027"
+    },
+    {
+      "id": "tt45666157",
+      "title": "Occupant",
+      "releaseDate": "Fri, 15 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [],
       "label": "Jan 15, 2027"
     },
     {
@@ -8644,7 +8682,7 @@
     {
       "id": "tt35621542",
       "title": "Remain",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDFlZTA4ZDgtMmRkZi00NzhhLTk5NzgtZTFmNGYzMzIxNmE4XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjZhOTkzM2YtMmM3MS00ODkyLWEyNTAtNGExMzRjOTQ0NGIxXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 05 Feb 2027 00:00:00 GMT",
       "genres": [
         "Drama",
@@ -9266,7 +9304,7 @@
     },
     {
       "id": "tt4776944",
-      "title": "Wolf Creek: Legacy",
+      "title": "Wolf Cre3k",
       "image": "https://m.media-amazon.com/images/M/MV5BOTE1YWRmOTEtOTQ1Ni00MmI2LWIyZDEtNDM5OTliODFkODRiXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 19 Mar 2027 00:00:00 GMT",
       "genres": [
@@ -9778,6 +9816,10 @@
       ],
       "people": [
         {
+          "id": "nm0000498",
+          "name": "Matthew Lillard"
+        },
+        {
           "id": "nm10533874",
           "name": "Curry Barker"
         },
@@ -9788,10 +9830,6 @@
         {
           "id": "nm0397171",
           "name": "Bryce Dallas Howard"
-        },
-        {
-          "id": "nm8627157",
-          "name": "Violet McGraw"
         }
       ],
       "label": "May 07, 2027"
@@ -10994,16 +11032,16 @@
           "name": "Taika Waititi"
         },
         {
-          "id": "nm0000307",
-          "name": "Helena Bonham Carter"
-        },
-        {
           "id": "nm0000701",
           "name": "Kate Winslet"
         },
         {
-          "id": "nm2692997",
-          "name": "Christopher Chung"
+          "id": "nm0000307",
+          "name": "Helena Bonham Carter"
+        },
+        {
+          "id": "nm5598573",
+          "name": "Kit Connor"
         }
       ],
       "label": "Nov 05, 2027"
