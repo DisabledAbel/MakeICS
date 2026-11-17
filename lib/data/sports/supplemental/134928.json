@@ -1,7 +1,7 @@
 {
   "teamId": "134928",
   "teamName": "Jacksonville Jaguars",
-  "updatedAt": "2026-11-15T18:53:50.887Z",
+  "updatedAt": "2026-11-17T20:58:12.859Z",
   "generatedAt": "2026-07-18T06:13:33.266Z",
   "generateAt": "2026-07-18T06:13:33.266Z",
   "events": [
@@ -25,8 +25,8 @@
       "strHomeTeam": "Jacksonville Jaguars",
       "strAwayTeam": "Tennessee Titans",
       "dateEvent": "2026-11-29",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-11-29T21:05:00Z",
+      "strTime": "18:00:00Z",
+      "strTimestamp": "2026-11-29T18:00:00Z",
       "strLeague": "NFL",
       "strVenue": "EverBank Stadium",
       "strTVStation": null,

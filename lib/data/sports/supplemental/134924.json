@@ -1,7 +1,7 @@
 {
   "teamId": "134924",
   "teamName": "Cleveland Browns",
-  "updatedAt": "2026-11-17T07:57:41.767Z",
+  "updatedAt": "2026-11-17T20:58:12.853Z",
   "generatedAt": "2026-07-18T00:00:00.000Z",
   "generateAt": "2026-07-18T00:00:00.000Z",
   "events": [
@@ -10,9 +10,9 @@
       "strEvent": "Cleveland Browns vs Las Vegas Raiders",
       "strHomeTeam": "Cleveland Browns",
       "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-11-29",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-29T18:00:00Z",
+      "dateEvent": "2026-11-30",
+      "strTime": "01:20:00Z",
+      "strTimestamp": "2026-11-30T01:20:00Z",
       "strLeague": "NFL",
       "strVenue": "Huntington Bank Field",
       "strTVStation": null,

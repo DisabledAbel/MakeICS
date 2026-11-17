@@ -1,7 +1,7 @@
 {
   "teamId": "135908",
   "teamName": "Los Angeles Chargers",
-  "updatedAt": "2026-11-17T07:57:41.795Z",
+  "updatedAt": "2026-11-17T20:58:12.875Z",
   "generatedAt": "2026-07-18T06:13:33.292Z",
   "generateAt": "2026-07-18T06:13:33.292Z",
   "events": [
@@ -24,9 +24,9 @@
       "strEvent": "Los Angeles Chargers vs New England Patriots",
       "strHomeTeam": "Los Angeles Chargers",
       "strAwayTeam": "New England Patriots",
-      "dateEvent": "2026-11-30",
-      "strTime": "01:20:00Z",
-      "strTimestamp": "2026-11-30T01:20:00Z",
+      "dateEvent": "2026-11-29",
+      "strTime": "21:05:00Z",
+      "strTimestamp": "2026-11-29T21:05:00Z",
       "strLeague": "NFL",
       "strVenue": "SoFi Stadium",
       "strTVStation": null,
