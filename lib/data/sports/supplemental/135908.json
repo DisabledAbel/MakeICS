@@ -1,24 +1,10 @@
 {
   "teamId": "135908",
   "teamName": "Los Angeles Chargers",
-  "updatedAt": "2026-11-09T06:34:14.687Z",
+  "updatedAt": "2026-11-17T07:57:41.795Z",
   "generatedAt": "2026-07-18T06:13:33.292Z",
   "generateAt": "2026-07-18T06:13:33.292Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab78ad5a-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Baltimore Ravens vs Los Angeles Chargers",
-      "strHomeTeam": "Baltimore Ravens",
-      "strAwayTeam": "Los Angeles Chargers",
-      "dateEvent": "2026-11-17",
-      "strTime": "01:15:00Z",
-      "strTimestamp": "2026-11-17T01:15:00Z",
-      "strLeague": "NFL",
-      "strVenue": "M&T Bank Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ab999e6f-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Los Angeles Chargers vs New York Jets",

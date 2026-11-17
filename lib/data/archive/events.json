@@ -95070,6 +95070,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-ab78ad5a-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ab78ad5a-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/135908.json",
+      "record": {
+        "idEvent": "sdv-nfl-ab78ad5a-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Baltimore Ravens vs Los Angeles Chargers",
+        "strHomeTeam": "Baltimore Ravens",
+        "strAwayTeam": "Los Angeles Chargers",
+        "dateEvent": "2026-11-17",
+        "strTime": "01:15:00Z",
+        "strTimestamp": "2026-11-17T01:15:00Z",
+        "strLeague": "NFL",
+        "strVenue": "M&T Bank Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-ab998b7f-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-ab998b7f-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134922.json",
