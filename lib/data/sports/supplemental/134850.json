@@ -1,26 +1,8 @@
 {
   "teamId": "134850",
   "teamName": "Vancouver Canucks",
-  "updatedAt": "2026-11-16T06:45:58.682Z",
+  "updatedAt": "2026-11-17T08:05:56.414Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020332",
-      "strEvent": "Utah Mammoth vs Vancouver Canucks",
-      "strHomeTeam": "Utah Mammoth",
-      "strAwayTeam": "Vancouver Canucks",
-      "dateEvent": "2026-11-16",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-17T02:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Delta Center",
-      "strStatus": "NS",
-      "strTVStation": "Mammoth+, SN+, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
-      "source": "scraped",
-      "sourceEventId": "2026020332",
-      "idHomeTeam": "148494",
-      "idAwayTeam": "134850"
-    },
     {
       "idEvent": "nhl-2026020357",
       "strEvent": "Seattle Kraken vs Vancouver Canucks",

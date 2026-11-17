@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-11-15T06:46:54.717Z",
+  "updatedAt": "2026-11-17T08:05:56.414Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020331",
-      "strEvent": "New York Rangers vs Montreal Canadiens",
-      "strHomeTeam": "New York Rangers",
-      "strAwayTeam": "Montreal Canadiens",
-      "dateEvent": "2026-11-16",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-17T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN+, TNT, TVAS, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020331",
-      "idHomeTeam": "134842",
-      "idAwayTeam": "134834"
-    },
     {
       "idEvent": "nhl-2026020345",
       "strEvent": "New Jersey Devils vs Montreal Canadiens",
