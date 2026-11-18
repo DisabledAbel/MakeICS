@@ -1,25 +1,8 @@
 {
   "teamId": "134872",
   "teamName": "Detroit Pistons",
-  "updatedAt": "2026-11-15T04:55:58.442Z",
+  "updatedAt": "2026-11-18T15:08:53.345Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910004",
-      "strEvent": "San Antonio Spurs vs Detroit Pistons",
-      "strHomeTeam": "San Antonio Spurs",
-      "strAwayTeam": "Detroit Pistons",
-      "dateEvent": "2026-11-17",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-18T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Frost Bank Center",
-      "strStatus": "NS",
-      "strTVStation": "NBC",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134879",
-      "idAwayTeam": "134872"
-    },
     {
       "idEvent": "scraped-espn-401910013",
       "strEvent": "New Orleans Pelicans vs Detroit Pistons",

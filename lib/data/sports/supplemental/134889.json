@@ -1,25 +1,8 @@
 {
   "teamId": "134889",
   "teamName": "Utah Jazz",
-  "updatedAt": "2026-11-15T22:30:05.412Z",
+  "updatedAt": "2026-11-18T15:08:53.345Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910006",
-      "strEvent": "Los Angeles Clippers vs Utah Jazz",
-      "strHomeTeam": "Los Angeles Clippers",
-      "strAwayTeam": "Utah Jazz",
-      "dateEvent": "2026-11-17",
-      "strTime": "03:30:00",
-      "strTimestamp": "2026-11-18T03:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Intuit Dome",
-      "strStatus": "NS",
-      "strTVStation": "ClipperVision",
-      "updatedAt": "2026-11-08T04:37:02.332Z",
-      "source": "scraped",
-      "idHomeTeam": "134866",
-      "idAwayTeam": "134889"
-    },
     {
       "idEvent": "scraped-espn-401910017",
       "strEvent": "Los Angeles Lakers vs Utah Jazz",

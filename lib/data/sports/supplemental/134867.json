@@ -1,25 +1,8 @@
 {
   "teamId": "134867",
   "teamName": "Los Angeles Lakers",
-  "updatedAt": "2026-11-15T22:30:05.412Z",
+  "updatedAt": "2026-11-18T15:08:53.345Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910005",
-      "strEvent": "Los Angeles Lakers vs Charlotte Hornets",
-      "strHomeTeam": "Los Angeles Lakers",
-      "strAwayTeam": "Charlotte Hornets",
-      "dateEvent": "2026-11-17",
-      "strTime": "04:00:00",
-      "strTimestamp": "2026-11-18T04:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "Spectrum Sports Net",
-      "updatedAt": "2026-11-08T04:37:02.332Z",
-      "source": "scraped",
-      "idHomeTeam": "134867",
-      "idAwayTeam": "134881"
-    },
     {
       "idEvent": "scraped-espn-401910017",
       "strEvent": "Los Angeles Lakers vs Utah Jazz",
