@@ -1,26 +1,8 @@
 {
   "teamId": "134833",
   "teamName": "Florida Panthers",
-  "updatedAt": "2026-11-16T06:45:58.682Z",
+  "updatedAt": "2026-11-18T07:41:26.129Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020335",
-      "strEvent": "Florida Panthers vs Edmonton Oilers",
-      "strHomeTeam": "Florida Panthers",
-      "strAwayTeam": "Edmonton Oilers",
-      "dateEvent": "2026-11-17",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-18T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Amerant Bank Arena",
-      "strStatus": "NS",
-      "strTVStation": "SCRIPPS, SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020335",
-      "idHomeTeam": "134833",
-      "idAwayTeam": "134849"
-    },
     {
       "idEvent": "nhl-2026020361",
       "strEvent": "Florida Panthers vs Buffalo Sabres",

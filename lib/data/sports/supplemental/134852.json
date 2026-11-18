@@ -1,26 +1,8 @@
 {
   "teamId": "134852",
   "teamName": "Los Angeles Kings",
-  "updatedAt": "2026-11-15T06:46:54.717Z",
+  "updatedAt": "2026-11-18T07:41:26.129Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020333",
-      "strEvent": "Boston Bruins vs Los Angeles Kings",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Los Angeles Kings",
-      "dateEvent": "2026-11-17",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-18T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "ABTV , NESN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020333",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "134852"
-    },
     {
       "idEvent": "nhl-2026020347",
       "strEvent": "Toronto Maple Leafs vs Los Angeles Kings",

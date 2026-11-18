@@ -1,26 +1,8 @@
 {
   "teamId": "134839",
   "teamName": "Columbus Blue Jackets",
-  "updatedAt": "2026-11-15T06:46:54.717Z",
+  "updatedAt": "2026-11-18T07:41:26.129Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020336",
-      "strEvent": "New York Islanders vs Columbus Blue Jackets",
-      "strHomeTeam": "New York Islanders",
-      "strAwayTeam": "Columbus Blue Jackets",
-      "dateEvent": "2026-11-17",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-18T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "UBS Arena",
-      "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, MSGSN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020336",
-      "idHomeTeam": "134841",
-      "idAwayTeam": "134839"
-    },
     {
       "idEvent": "nhl-2026020353",
       "strEvent": "Chicago Blackhawks vs Columbus Blue Jackets",

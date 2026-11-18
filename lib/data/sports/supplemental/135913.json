@@ -1,26 +1,8 @@
 {
   "teamId": "135913",
   "teamName": "Vegas Golden Knights",
-  "updatedAt": "2026-11-16T06:45:58.682Z",
+  "updatedAt": "2026-11-18T07:41:26.129Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020342",
-      "strEvent": "Vegas Golden Knights vs Dallas Stars",
-      "strHomeTeam": "Vegas Golden Knights",
-      "strAwayTeam": "Dallas Stars",
-      "dateEvent": "2026-11-17",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-18T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "T-Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020342",
-      "idHomeTeam": "135913",
-      "idAwayTeam": "134856"
-    },
     {
       "idEvent": "nhl-2026020358",
       "strEvent": "Vegas Golden Knights vs Dallas Stars",

@@ -1,26 +1,8 @@
 {
   "teamId": "134837",
   "teamName": "Toronto Maple Leafs",
-  "updatedAt": "2026-11-15T06:46:54.717Z",
+  "updatedAt": "2026-11-18T07:41:26.129Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020338",
-      "strEvent": "Chicago Blackhawks vs Toronto Maple Leafs",
-      "strHomeTeam": "Chicago Blackhawks",
-      "strAwayTeam": "Toronto Maple Leafs",
-      "dateEvent": "2026-11-17",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-18T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, TNT, TSN4",
-      "updatedAt": "2026-11-07T06:12:09.014Z",
-      "source": "scraped",
-      "sourceEventId": "2026020338",
-      "idHomeTeam": "134854",
-      "idAwayTeam": "134837"
-    },
     {
       "idEvent": "nhl-2026020347",
       "strEvent": "Toronto Maple Leafs vs Los Angeles Kings",

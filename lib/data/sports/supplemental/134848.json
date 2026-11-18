@@ -1,26 +1,8 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-11-16T06:45:58.682Z",
+  "updatedAt": "2026-11-18T07:41:26.129Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020343",
-      "strEvent": "San Jose Sharks vs Calgary Flames",
-      "strHomeTeam": "San Jose Sharks",
-      "strAwayTeam": "Calgary Flames",
-      "dateEvent": "2026-11-17",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-18T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "SAP Center at San Jose",
-      "strStatus": "NS",
-      "strTVStation": "NBCSCA, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020343",
-      "idHomeTeam": "134853",
-      "idAwayTeam": "134848"
-    },
     {
       "idEvent": "nhl-2026020355",
       "strEvent": "Calgary Flames vs Minnesota Wild",

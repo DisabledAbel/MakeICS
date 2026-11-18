@@ -1,26 +1,8 @@
 {
   "teamId": "134831",
   "teamName": "Buffalo Sabres",
-  "updatedAt": "2026-11-15T06:46:54.717Z",
+  "updatedAt": "2026-11-18T07:41:26.129Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020337",
-      "strEvent": "Philadelphia Flyers vs Buffalo Sabres",
-      "strHomeTeam": "Philadelphia Flyers",
-      "strAwayTeam": "Buffalo Sabres",
-      "dateEvent": "2026-11-17",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-18T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "MSG-B, NBCSP",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020337",
-      "idHomeTeam": "134843",
-      "idAwayTeam": "134831"
-    },
     {
       "idEvent": "nhl-2026020351",
       "strEvent": "Washington Capitals vs Buffalo Sabres",

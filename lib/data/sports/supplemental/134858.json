@@ -1,26 +1,8 @@
 {
   "teamId": "134858",
   "teamName": "Nashville Predators",
-  "updatedAt": "2026-11-16T06:45:58.682Z",
+  "updatedAt": "2026-11-18T07:41:26.129Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020340",
-      "strEvent": "Minnesota Wild vs Nashville Predators",
-      "strHomeTeam": "Minnesota Wild",
-      "strAwayTeam": "Nashville Predators",
-      "dateEvent": "2026-11-17",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-18T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Grand Casino Arena",
-      "strStatus": "NS",
-      "strTVStation": "KSTC, MINNHL, SCRIPPS, Wild+",
-      "updatedAt": "2026-10-06T00:08:53.814Z",
-      "source": "scraped",
-      "sourceEventId": "2026020340",
-      "idHomeTeam": "134857",
-      "idAwayTeam": "134858"
-    },
     {
       "idEvent": "nhl-2026020362",
       "strEvent": "Nashville Predators vs Pittsburgh Penguins",

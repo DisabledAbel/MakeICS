@@ -1,26 +1,8 @@
 {
   "teamId": "134859",
   "teamName": "St. Louis Blues",
-  "updatedAt": "2026-11-15T06:46:54.717Z",
+  "updatedAt": "2026-11-18T07:41:26.129Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020339",
-      "strEvent": "St. Louis Blues vs Anaheim Ducks",
-      "strHomeTeam": "St. Louis Blues",
-      "strAwayTeam": "Anaheim Ducks",
-      "dateEvent": "2026-11-17",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-18T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Enterprise Center",
-      "strStatus": "NS",
-      "strTVStation": "BN+, KTTV, Prime Video, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020339",
-      "idHomeTeam": "134859",
-      "idAwayTeam": "134846"
-    },
     {
       "idEvent": "nhl-2026020350",
       "strEvent": "Pittsburgh Penguins vs St. Louis Blues",
