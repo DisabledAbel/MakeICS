@@ -1,7 +1,7 @@
 {
   "teamId": "134848",
   "teamName": "Calgary Flames",
-  "updatedAt": "2026-11-18T07:41:26.129Z",
+  "updatedAt": "2026-11-19T20:47:33.577Z",
   "events": [
     {
       "idEvent": "nhl-2026020355",
@@ -266,8 +266,8 @@
       "strLeague": "NHL",
       "strVenue": "Amerant Bank Arena",
       "strStatus": "NS",
-      "strTVStation": "SCRIPPS, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "NHLN, SCRIPPS, SN",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026020568",
       "idHomeTeam": "134833",

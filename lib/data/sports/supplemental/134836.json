@@ -1,7 +1,7 @@
 {
   "teamId": "134836",
   "teamName": "Tampa Bay Lightning",
-  "updatedAt": "2026-11-18T07:41:26.129Z",
+  "updatedAt": "2026-11-19T20:47:33.577Z",
   "events": [
     {
       "idEvent": "nhl-2026020349",
@@ -122,8 +122,8 @@
       "strLeague": "NHL",
       "strVenue": "Canadian Tire Centre",
       "strStatus": "NS",
-      "strTVStation": "SNE, TVAS, The Spot",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "SN1, TVAS, The Spot",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026020469",
       "idHomeTeam": "134835",
@@ -950,8 +950,8 @@
       "strLeague": "NHL",
       "strVenue": "Canadian Tire Centre",
       "strStatus": "NS",
-      "strTVStation": "SNE, TVAS, The Spot",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "SN1, TVAS, The Spot",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026021179",
       "idHomeTeam": "134835",

@@ -1,7 +1,7 @@
 {
   "teamId": "134837",
   "teamName": "Toronto Maple Leafs",
-  "updatedAt": "2026-11-18T07:41:26.129Z",
+  "updatedAt": "2026-11-19T20:47:33.577Z",
   "events": [
     {
       "idEvent": "nhl-2026020347",
@@ -266,8 +266,8 @@
       "strLeague": "NHL",
       "strVenue": "Scotiabank Arena",
       "strStatus": "NS",
-      "strTVStation": "MNMT, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "MNMT, NHLN, SN+",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026020585",
       "idHomeTeam": "134837",
@@ -626,8 +626,8 @@
       "strLeague": "NHL",
       "strVenue": "Canadian Tire Centre",
       "strStatus": "NS",
-      "strTVStation": "SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "SN, SN1, TVAS",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026020918",
       "idHomeTeam": "134835",

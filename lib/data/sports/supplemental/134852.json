@@ -1,7 +1,7 @@
 {
   "teamId": "134852",
   "teamName": "Los Angeles Kings",
-  "updatedAt": "2026-11-18T07:41:26.129Z",
+  "updatedAt": "2026-11-19T20:47:33.577Z",
   "events": [
     {
       "idEvent": "nhl-2026020347",
@@ -266,8 +266,8 @@
       "strLeague": "NHL",
       "strVenue": "KeyBank Center",
       "strStatus": "NS",
-      "strTVStation": "ABTV , MSG-B, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "ABTV , MSG-B, NHLN, SN+",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026020579",
       "idHomeTeam": "134831",

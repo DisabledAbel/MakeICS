@@ -1,7 +1,7 @@
 {
   "teamId": "134842",
   "teamName": "New York Rangers",
-  "updatedAt": "2026-11-17T08:05:56.414Z",
+  "updatedAt": "2026-11-19T20:47:33.577Z",
   "events": [
     {
       "idEvent": "nhl-2026020373",
@@ -140,8 +140,8 @@
       "strLeague": "NHL",
       "strVenue": "Madison Square Garden",
       "strStatus": "NS",
-      "strTVStation": "MSG, MSGSN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "MSG, MSGSN, NHLN",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026020484",
       "idHomeTeam": "134842",
@@ -176,8 +176,8 @@
       "strLeague": "NHL",
       "strVenue": "Little Caesars Arena",
       "strStatus": "NS",
-      "strTVStation": "DSN, MSG, TVAS",
-      "updatedAt": "2026-10-07T06:09:51.884Z",
+      "strTVStation": "DSN, MSG, NHLN, TVAS",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026020510",
       "idHomeTeam": "134832",

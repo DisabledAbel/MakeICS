@@ -1,7 +1,7 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-11-18T07:41:26.129Z",
+  "updatedAt": "2026-11-19T20:47:33.577Z",
   "events": [
     {
       "idEvent": "nhl-2026020372",
@@ -158,8 +158,8 @@
       "strLeague": "NHL",
       "strVenue": "PPG Paints Arena",
       "strStatus": "NS",
-      "strTVStation": "NBCSCA, SN-PIT, SN360, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "NBCSCA, NHLN, SN-PIT, SN1, TVAS",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026020476",
       "idHomeTeam": "134844",
@@ -428,8 +428,8 @@
       "strLeague": "NHL",
       "strVenue": "SAP Center at San Jose",
       "strStatus": "NS",
-      "strTVStation": "MNMT2, NBCSCA, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "MNMT2, NBCSCA, SN360, TVAS",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026020708",
       "idHomeTeam": "134853",

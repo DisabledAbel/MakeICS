@@ -1,7 +1,7 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-11-19T07:37:51.081Z",
+  "updatedAt": "2026-11-19T20:47:33.577Z",
   "events": [
     {
       "idEvent": "nhl-2026020356",
@@ -140,8 +140,8 @@
       "strLeague": "NHL",
       "strVenue": "UBS Arena",
       "strStatus": "NS",
-      "strTVStation": "ALT, MSGSN, SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "ALT, MSGSN, NHLN, SN+",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026020482",
       "idHomeTeam": "134841",

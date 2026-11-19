@@ -1,7 +1,7 @@
 {
   "teamId": "134830",
   "teamName": "Boston Bruins",
-  "updatedAt": "2026-11-19T07:37:51.081Z",
+  "updatedAt": "2026-11-19T20:47:33.577Z",
   "events": [
     {
       "idEvent": "nhl-2026020363",
@@ -158,8 +158,8 @@
       "strLeague": "NHL",
       "strVenue": "TD Garden",
       "strStatus": "NS",
-      "strTVStation": "MSGSN, NESN, SN1",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "MSGSN, NESN, NHLN, SN1",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026020514",
       "idHomeTeam": "134830",
@@ -176,8 +176,8 @@
       "strLeague": "NHL",
       "strVenue": "Lenovo Center",
       "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, NESN, SN, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
+      "strTVStation": "CARNHL, HHN, NESN, NHLN, SN, TVAS",
+      "updatedAt": "2026-11-19T20:47:33.577Z",
       "source": "scraped",
       "sourceEventId": "2026020527",
       "idHomeTeam": "134838",
