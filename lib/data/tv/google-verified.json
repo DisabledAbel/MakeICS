@@ -39,11 +39,6 @@
     "name": "Gochisousama",
     "verifiedAt": "2026-10-21T17:58:45.471Z"
   },
-  "Scrubs-2-9": {
-    "airdate": "2026-11-18",
-    "name": "Episode #2.9",
-    "verifiedAt": "2026-10-22T18:06:20.543Z"
-  },
   "Scrubs-2-10": {
     "airdate": "2026-11-25",
     "name": "Episode #2.10",
@@ -53,11 +48,6 @@
     "airdate": "2026-11-26",
     "name": "Episode #25.10",
     "verifiedAt": "2026-10-25T17:01:21.082Z"
-  },
-  "The Great American Road Rally: Celebrity Edition-1-8": {
-    "airdate": "2026-11-18",
-    "name": "Episode #1.8",
-    "verifiedAt": "2026-10-26T19:04:00.452Z"
   },
   "The Great American Road Rally: Celebrity Edition-1-9": {
     "airdate": "2026-11-25",
@@ -80,7 +70,7 @@
     "verifiedAt": "2026-10-26T19:05:02.507Z"
   },
   "Sheriff Country-2-9": {
-    "airdate": "2027-01-15",
+    "airdate": "2026-12-04",
     "name": "Episode #2.9",
     "verifiedAt": "2026-10-27T18:36:54.255Z"
   },
@@ -95,7 +85,7 @@
     "verifiedAt": "2026-10-27T18:36:59.817Z"
   },
   "The Voice-30-17": {
-    "airdate": "2026-12-14",
+    "airdate": "2026-09-17",
     "name": "The Voice 30th Season Celebration",
     "verifiedAt": "2026-10-30T18:28:46.154Z"
   },
@@ -109,18 +99,13 @@
     "name": "Episode #2.8",
     "verifiedAt": "2026-11-06T19:55:14.468Z"
   },
-  "Mickey Mouse Clubhouse+-2-11": {
-    "airdate": "2026-11-18",
-    "name": "Hot Dog Day",
-    "verifiedAt": "2026-11-15T20:39:50.246Z"
-  },
   "Studio C-23-6": {
     "airdate": "2026-11-26",
     "name": "I'm Sick of Your Garbage Mouth with Angela Kinsey",
     "verifiedAt": "2026-11-10T20:20:03.595Z"
   },
   "Studio C-23-7": {
-    "airdate": "2026-11-30",
+    "airdate": "2026-12-03",
     "name": "It's Christmas, Laugh A Little",
     "verifiedAt": "2026-11-10T20:20:06.283Z"
   },
@@ -133,5 +118,100 @@
     "airdate": "2026-11-21",
     "name": "ACL 12th Annual Hall of Fame Honors Brandi Carlile",
     "verifiedAt": "2026-11-18T21:09:04.935Z"
+  },
+  "WWE Friday Night SmackDown-27-47": {
+    "airdate": "2026-11-20",
+    "name": "WarGames Wildcard",
+    "verifiedAt": "2026-11-19T21:12:21.978Z"
+  },
+  "WWE Friday Night SmackDown-27-48": {
+    "airdate": "2025-11-28",
+    "name": "Final Countdown to War",
+    "verifiedAt": "2026-11-19T21:12:24.580Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2025-12-05",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-11-19T21:12:27.114Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-11-19T21:12:29.623Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2026-01-02",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-11-19T21:12:32.199Z"
+  },
+  "WWE Friday Night SmackDown-28-2": {
+    "airdate": "2026-01-09",
+    "name": "Three Stages of Hell in Berlin",
+    "verifiedAt": "2026-11-19T21:12:34.743Z"
+  },
+  "WWE Friday Night SmackDown-28-3": {
+    "airdate": "2026-01-16",
+    "name": "London Calling",
+    "verifiedAt": "2026-11-19T21:12:37.296Z"
+  },
+  "WWE Friday Night SmackDown-28-5": {
+    "airdate": "2026-01-30",
+    "name": "Rumble Eve Chaos",
+    "verifiedAt": "2026-11-19T21:12:42.394Z"
+  },
+  "WWE Friday Night SmackDown-28-6": {
+    "airdate": "2026-02-06",
+    "name": "Royal Rumble 2026 Fallout",
+    "verifiedAt": "2026-11-19T21:12:44.833Z"
+  },
+  "WWE Friday Night SmackDown-28-7": {
+    "airdate": "2026-02-13",
+    "name": "Chamber Bound",
+    "verifiedAt": "2026-11-19T21:12:47.330Z"
+  },
+  "WWE Friday Night SmackDown-28-8": {
+    "airdate": "2026-02-20",
+    "name": "Chamber Doors Crack Open",
+    "verifiedAt": "2026-11-19T21:12:49.950Z"
+  },
+  "Love & Marriage: Huntsville-12-12": {
+    "airdate": "2026-09-12",
+    "name": "A New Era",
+    "verifiedAt": "2026-11-19T21:13:27.222Z"
+  },
+  "48 Hours-39-7": {
+    "airdate": "2025-11-15",
+    "name": "Tracker Dakota Black",
+    "verifiedAt": "2026-11-19T21:14:16.110Z"
+  },
+  "48 Hours-39-8": {
+    "airdate": "2025-11-29",
+    "name": "The Setup Murder of Kristil Krug",
+    "verifiedAt": "2026-11-19T21:14:18.624Z"
+  },
+  "Untold Stories of the E.R.-16-7": {
+    "airdate": "2026-12-02",
+    "name": "Episode #16.7",
+    "verifiedAt": "2026-11-19T21:14:25.853Z"
+  },
+  "Untold Stories of the E.R.-16-8": {
+    "airdate": "2026-12-09",
+    "name": "Episode #16.8",
+    "verifiedAt": "2026-11-19T21:14:28.290Z"
+  },
+  "Untold Stories of the E.R.-16-9": {
+    "airdate": "2026-12-16",
+    "name": "Episode #16.9",
+    "verifiedAt": "2026-11-19T21:14:30.755Z"
+  },
+  "Untold Stories of the E.R.-16-10": {
+    "airdate": "2026-12-23",
+    "name": "Episode #16.10",
+    "verifiedAt": "2026-11-19T21:14:33.186Z"
+  },
+  "Studio C-23-5": {
+    "airdate": "2026-11-16",
+    "name": "A Battle of Wits",
+    "verifiedAt": "2026-11-19T21:14:47.480Z"
   }
 }
