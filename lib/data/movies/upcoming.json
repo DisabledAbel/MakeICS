@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:44:56.566Z",
+  "generatedAt": "2026-11-19T14:10:04.084Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -8067,16 +8067,16 @@
           "name": "Anders Danielsen Lie"
         },
         {
+          "id": "nm0000597",
+          "name": "Bill Pullman"
+        },
+        {
           "id": "nm18281305",
           "name": "Will Sach"
         },
         {
           "id": "nm18417733",
           "name": "Boz Martin-Jones"
-        },
-        {
-          "id": "nm0911395",
-          "name": "Barry Ward"
         }
       ],
       "label": "Jan 08, 2027"
@@ -8107,6 +8107,36 @@
         {
           "id": "nm0115885",
           "name": "Patrick Brull"
+        }
+      ],
+      "label": "Jan 08, 2027"
+    },
+    {
+      "id": "tt37171180",
+      "title": "Artificial",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTg0MWMxNjEtMzk1My00NmI1LWIyMDAtMzllY2I0MjU4YjM0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm1940449",
+          "name": "Andrew Garfield"
+        },
+        {
+          "id": "nm5426973",
+          "name": "Yura Borisov"
+        },
+        {
+          "id": "nm4834815",
+          "name": "Monica Barbaro"
+        },
+        {
+          "id": "nm11866274",
+          "name": "Cooper Hoffman"
         }
       ],
       "label": "Jan 08, 2027"
@@ -8144,7 +8174,7 @@
     {
       "id": "tt31888498",
       "title": "Fing!",
-      "image": "https://m.media-amazon.com/images/M/MV5BYzRlYWQwNDYtNjQ3MC00NTBjLThmZDEtMTc1MTBjZGJkYzQ2XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTUyYTczMjQtNjkzMC00YzY0LTlkZGUtOWZmYTFmZjM3ZDU4XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 15 Jan 2027 00:00:00 GMT",
       "genres": [
         "Adventure",
@@ -8669,12 +8699,12 @@
           "name": "Cristin Milioti"
         },
         {
-          "id": "nm3218692",
-          "name": "Madelyn Cline"
+          "id": "nm3364779",
+          "name": "Vanessa Bayer"
         },
         {
-          "id": "nm3529685",
-          "name": "Kumail Nanjiani"
+          "id": "nm3218692",
+          "name": "Madelyn Cline"
         }
       ],
       "label": "Feb 05, 2027"
@@ -9305,7 +9335,7 @@
     {
       "id": "tt4776944",
       "title": "Wolf Cre3k",
-      "image": "https://m.media-amazon.com/images/M/MV5BOTE1YWRmOTEtOTQ1Ni00MmI2LWIyZDEtNDM5OTliODFkODRiXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTBlZTY1YzMtMmExYi00NTljLThkYjctYWUyMDgwNzhjNDFmXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 19 Mar 2027 00:00:00 GMT",
       "genres": [
         "Action",
@@ -10651,6 +10681,35 @@
       "label": "Aug 13, 2027"
     },
     {
+      "id": "tt7464054",
+      "title": "Jason",
+      "releaseDate": "Fri, 13 Aug 2027 00:00:00 GMT",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm2480636",
+          "name": "Natalie Alyn Lind"
+        },
+        {
+          "id": "nm5486990",
+          "name": "Matt Cornett"
+        },
+        {
+          "id": "nm0246585",
+          "name": "Guillermo Diaz"
+        },
+        {
+          "id": "nm7744585",
+          "name": "Schuyler White"
+        }
+      ],
+      "label": "Aug 13, 2027"
+    },
+    {
       "id": "tt13655056",
       "title": "Get Lite",
       "releaseDate": "Fri, 20 Aug 2027 00:00:00 GMT",
@@ -10967,7 +11026,16 @@
       "genres": [
         "Horror"
       ],
-      "people": [],
+      "people": [
+        {
+          "id": "nm1157358",
+          "name": "Michelle Monaghan"
+        },
+        {
+          "id": "nm0857620",
+          "name": "Justin Theroux"
+        }
+      ],
       "label": "Oct 08, 2027"
     },
     {
@@ -11204,6 +11272,63 @@
         }
       ],
       "label": "Nov 12, 2027"
+    },
+    {
+      "id": "tt38987011",
+      "title": "The Families Stone",
+      "releaseDate": "Fri, 19 Nov 2027 00:00:00 GMT",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm1046097",
+          "name": "Rachel McAdams"
+        },
+        {
+          "id": "nm0000132",
+          "name": "Claire Danes"
+        },
+        {
+          "id": "nm0000551",
+          "name": "Dermot Mulroney"
+        },
+        {
+          "id": "nm0005443",
+          "name": "Jean Smart"
+        }
+      ],
+      "label": "Nov 19, 2027"
+    },
+    {
+      "id": "tt31637517",
+      "title": "Untitled Daniels/Universal Event Film",
+      "releaseDate": "Fri, 19 Nov 2027 00:00:00 GMT",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "people": [
+        {
+          "id": "nm0000354",
+          "name": "Matt Damon"
+        },
+        {
+          "id": "nm10893920",
+          "name": "Jackson Kelly"
+        },
+        {
+          "id": "nm0000491",
+          "name": "John Leguizamo"
+        },
+        {
+          "id": "nm8720587",
+          "name": "Thalia Dudek"
+        }
+      ],
+      "label": "Nov 19, 2027"
     }
   ]
 }
