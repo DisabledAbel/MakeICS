@@ -1,26 +1,8 @@
 {
   "teamId": "134830",
   "teamName": "Boston Bruins",
-  "updatedAt": "2026-11-18T07:41:26.129Z",
+  "updatedAt": "2026-11-19T07:37:51.081Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020344",
-      "strEvent": "Detroit Red Wings vs Boston Bruins",
-      "strHomeTeam": "Detroit Red Wings",
-      "strAwayTeam": "Boston Bruins",
-      "dateEvent": "2026-11-18",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-19T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, TNT",
-      "updatedAt": "2026-11-06T19:31:18.051Z",
-      "source": "scraped",
-      "sourceEventId": "2026020344",
-      "idHomeTeam": "134832",
-      "idAwayTeam": "134830"
-    },
     {
       "idEvent": "nhl-2026020363",
       "strEvent": "Boston Bruins vs Washington Capitals",

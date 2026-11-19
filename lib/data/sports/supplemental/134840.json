@@ -1,26 +1,8 @@
 {
   "teamId": "134840",
   "teamName": "New Jersey Devils",
-  "updatedAt": "2026-11-15T06:46:54.717Z",
+  "updatedAt": "2026-11-19T07:37:51.081Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020345",
-      "strEvent": "New Jersey Devils vs Montreal Canadiens",
-      "strHomeTeam": "New Jersey Devils",
-      "strAwayTeam": "Montreal Canadiens",
-      "dateEvent": "2026-11-18",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-19T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Prudential Center",
-      "strStatus": "NS",
-      "strTVStation": "MSGSN, Prime",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020345",
-      "idHomeTeam": "134840",
-      "idAwayTeam": "134834"
-    },
     {
       "idEvent": "nhl-2026020368",
       "strEvent": "St. Louis Blues vs New Jersey Devils",
