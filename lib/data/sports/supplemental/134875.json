@@ -1,25 +1,8 @@
 {
   "teamId": "134875",
   "teamName": "Dallas Mavericks",
-  "updatedAt": "2026-11-17T01:36:58.893Z",
+  "updatedAt": "2026-11-19T06:00:03.716Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910016",
-      "strEvent": "Dallas Mavericks vs Golden State Warriors",
-      "strHomeTeam": "Dallas Mavericks",
-      "strAwayTeam": "Golden State Warriors",
-      "dateEvent": "2026-11-18",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-19T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "KFAA-TV",
-      "updatedAt": "2026-11-14T21:59:22.147Z",
-      "source": "scraped",
-      "idHomeTeam": "134875",
-      "idAwayTeam": "134865"
-    },
     {
       "idEvent": "scraped-espn-401910025",
       "strEvent": "Dallas Mavericks vs Los Angeles Clippers",

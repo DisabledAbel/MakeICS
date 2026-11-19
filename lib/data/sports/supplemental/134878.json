@@ -1,25 +1,8 @@
 {
   "teamId": "134878",
   "teamName": "New Orleans Pelicans",
-  "updatedAt": "2026-11-17T01:36:58.893Z",
+  "updatedAt": "2026-11-19T06:00:03.716Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910013",
-      "strEvent": "New Orleans Pelicans vs Detroit Pistons",
-      "strHomeTeam": "New Orleans Pelicans",
-      "strAwayTeam": "Detroit Pistons",
-      "dateEvent": "2026-11-18",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-19T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Smoothie King Center",
-      "strStatus": "NS",
-      "strTVStation": "GCSEN",
-      "updatedAt": "2026-10-22T03:25:05.748Z",
-      "source": "scraped",
-      "idHomeTeam": "134878",
-      "idAwayTeam": "134872"
-    },
     {
       "idEvent": "scraped-espn-401909310",
       "strEvent": "Oklahoma City Thunder vs New Orleans Pelicans",

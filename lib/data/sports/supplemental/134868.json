@@ -1,25 +1,8 @@
 {
   "teamId": "134868",
   "teamName": "Phoenix Suns",
-  "updatedAt": "2026-11-17T15:31:41.758Z",
+  "updatedAt": "2026-11-19T06:00:03.716Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910018",
-      "strEvent": "Sacramento Kings vs Phoenix Suns",
-      "strHomeTeam": "Sacramento Kings",
-      "strAwayTeam": "Phoenix Suns",
-      "dateEvent": "2026-11-18",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-19T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Golden 1 Center",
-      "strStatus": "NS",
-      "strTVStation": "Suns Live",
-      "updatedAt": "2026-10-22T03:25:05.748Z",
-      "source": "scraped",
-      "idHomeTeam": "134869",
-      "idAwayTeam": "134868"
-    },
     {
       "idEvent": "scraped-espn-401909311",
       "strEvent": "Utah Jazz vs Phoenix Suns",

@@ -1,25 +1,8 @@
 {
   "teamId": "134870",
   "teamName": "Chicago Bulls",
-  "updatedAt": "2026-11-17T01:36:58.893Z",
+  "updatedAt": "2026-11-19T06:00:03.716Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910011",
-      "strEvent": "Brooklyn Nets vs Chicago Bulls",
-      "strHomeTeam": "Brooklyn Nets",
-      "strAwayTeam": "Chicago Bulls",
-      "dateEvent": "2026-11-18",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-19T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Barclays Center",
-      "strStatus": "NS",
-      "strTVStation": "DAZN (YES)",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134861",
-      "idAwayTeam": "134870"
-    },
     {
       "idEvent": "scraped-espn-401909309",
       "strEvent": "Chicago Bulls vs Washington Wizards",

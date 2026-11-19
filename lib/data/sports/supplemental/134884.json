@@ -1,25 +1,8 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-11-17T01:36:58.893Z",
+  "updatedAt": "2026-11-19T06:00:03.716Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910012",
-      "strEvent": "Toronto Raptors vs Washington Wizards",
-      "strHomeTeam": "Toronto Raptors",
-      "strAwayTeam": "Washington Wizards",
-      "dateEvent": "2026-11-18",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-19T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Scotiabank Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134864",
-      "idAwayTeam": "134884"
-    },
     {
       "idEvent": "scraped-espn-401909309",
       "strEvent": "Chicago Bulls vs Washington Wizards",

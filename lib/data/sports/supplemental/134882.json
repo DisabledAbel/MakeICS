@@ -1,25 +1,8 @@
 {
   "teamId": "134882",
   "teamName": "Miami Heat",
-  "updatedAt": "2026-11-17T01:36:58.893Z",
+  "updatedAt": "2026-11-19T06:00:03.716Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910009",
-      "strEvent": "Miami Heat vs Milwaukee Bucks",
-      "strHomeTeam": "Miami Heat",
-      "strAwayTeam": "Milwaukee Bucks",
-      "dateEvent": "2026-11-18",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-19T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Kaseya Center",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134882",
-      "idAwayTeam": "134874"
-    },
     {
       "idEvent": "scraped-espn-401910030",
       "strEvent": "Miami Heat vs Oklahoma City Thunder",
