@@ -1,7 +1,7 @@
 {
   "teamId": "134871",
   "teamName": "Cleveland Cavaliers",
-  "updatedAt": "2026-11-19T06:00:03.716Z",
+  "updatedAt": "2026-11-20T00:19:59.331Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909307",
@@ -60,13 +60,13 @@
       "strHomeTeam": "Cleveland Cavaliers",
       "strAwayTeam": "Miami Heat",
       "dateEvent": "2026-11-29",
-      "strTime": "23:00:00",
-      "strTimestamp": "2026-11-29T23:00:00Z",
+      "strTime": "20:30:00",
+      "strTimestamp": "2026-11-29T20:30:00Z",
       "strLeague": "NBA",
       "strVenue": "Rocket Arena",
       "strStatus": "NS",
       "strTVStation": "DAZN CLE",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "updatedAt": "2026-11-20T00:19:59.331Z",
       "source": "scraped",
       "idHomeTeam": "134871",
       "idAwayTeam": "134882"
