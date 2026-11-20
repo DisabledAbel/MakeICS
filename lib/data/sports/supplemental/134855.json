@@ -1,26 +1,8 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-11-19T20:47:33.577Z",
+  "updatedAt": "2026-11-20T07:28:37.474Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020356",
-      "strEvent": "Colorado Avalanche vs Anaheim Ducks",
-      "strHomeTeam": "Colorado Avalanche",
-      "strAwayTeam": "Anaheim Ducks",
-      "dateEvent": "2026-11-19",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-11-20T02:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "ALT, FOXLA+, KTVD, KUSA, Prime Video, TVAS",
-      "updatedAt": "2026-10-15T21:31:03.866Z",
-      "source": "scraped",
-      "sourceEventId": "2026020356",
-      "idHomeTeam": "134855",
-      "idAwayTeam": "134846"
-    },
     {
       "idEvent": "nhl-2026020397",
       "strEvent": "Colorado Avalanche vs Montreal Canadiens",

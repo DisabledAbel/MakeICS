@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-11-19T07:37:51.081Z",
+  "updatedAt": "2026-11-20T07:28:37.474Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020352",
-      "strEvent": "Carolina Hurricanes vs Montreal Canadiens",
-      "strHomeTeam": "Carolina Hurricanes",
-      "strAwayTeam": "Montreal Canadiens",
-      "dateEvent": "2026-11-19",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-20T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Lenovo Center",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, RDS, TSN2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020352",
-      "idHomeTeam": "134838",
-      "idAwayTeam": "134834"
-    },
     {
       "idEvent": "nhl-2026020365",
       "strEvent": "Montreal Canadiens vs Philadelphia Flyers",

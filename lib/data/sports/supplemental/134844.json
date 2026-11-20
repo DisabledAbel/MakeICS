@@ -1,26 +1,8 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-11-19T20:47:33.577Z",
+  "updatedAt": "2026-11-20T07:28:37.474Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020350",
-      "strEvent": "Pittsburgh Penguins vs St. Louis Blues",
-      "strHomeTeam": "Pittsburgh Penguins",
-      "strAwayTeam": "St. Louis Blues",
-      "dateEvent": "2026-11-19",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-20T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "PPG Paints Arena",
-      "strStatus": "NS",
-      "strTVStation": "ABC32, BN+, SN-PIT, STLNHL",
-      "updatedAt": "2026-10-13T14:22:30.078Z",
-      "source": "scraped",
-      "sourceEventId": "2026020350",
-      "idHomeTeam": "134844",
-      "idAwayTeam": "134859"
-    },
     {
       "idEvent": "nhl-2026020362",
       "strEvent": "Nashville Predators vs Pittsburgh Penguins",

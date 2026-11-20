@@ -1,26 +1,8 @@
 {
   "teamId": "134854",
   "teamName": "Chicago Blackhawks",
-  "updatedAt": "2026-11-19T20:47:33.577Z",
+  "updatedAt": "2026-11-20T07:28:37.474Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020353",
-      "strEvent": "Chicago Blackhawks vs Columbus Blue Jackets",
-      "strHomeTeam": "Chicago Blackhawks",
-      "strAwayTeam": "Columbus Blue Jackets",
-      "dateEvent": "2026-11-19",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-20T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, CHSN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020353",
-      "idHomeTeam": "134854",
-      "idAwayTeam": "134839"
-    },
     {
       "idEvent": "nhl-2026020360",
       "strEvent": "Calgary Flames vs Chicago Blackhawks",

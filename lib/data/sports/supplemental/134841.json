@@ -1,26 +1,8 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-11-19T20:47:33.577Z",
+  "updatedAt": "2026-11-20T07:28:37.474Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020354",
-      "strEvent": "Winnipeg Jets vs New York Islanders",
-      "strHomeTeam": "Winnipeg Jets",
-      "strAwayTeam": "New York Islanders",
-      "dateEvent": "2026-11-19",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-20T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canada Life Centre",
-      "strStatus": "NS",
-      "strTVStation": "MSGSN, TSN3",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020354",
-      "idHomeTeam": "134851",
-      "idAwayTeam": "134841"
-    },
     {
       "idEvent": "nhl-2026020367",
       "strEvent": "Detroit Red Wings vs New York Islanders",

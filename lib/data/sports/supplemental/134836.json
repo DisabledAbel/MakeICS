@@ -1,26 +1,8 @@
 {
   "teamId": "134836",
   "teamName": "Tampa Bay Lightning",
-  "updatedAt": "2026-11-19T20:47:33.577Z",
+  "updatedAt": "2026-11-20T07:28:37.474Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020349",
-      "strEvent": "Tampa Bay Lightning vs Edmonton Oilers",
-      "strHomeTeam": "Tampa Bay Lightning",
-      "strAwayTeam": "Edmonton Oilers",
-      "dateEvent": "2026-11-19",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-20T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Benchmark International Arena",
-      "strStatus": "NS",
-      "strTVStation": "Disney+, ESPN+, HULU, SNW",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020349",
-      "idHomeTeam": "134836",
-      "idAwayTeam": "134849"
-    },
     {
       "idEvent": "nhl-2026020374",
       "strEvent": "Tampa Bay Lightning vs Buffalo Sabres",

@@ -1,26 +1,8 @@
 {
   "teamId": "134843",
   "teamName": "Philadelphia Flyers",
-  "updatedAt": "2026-11-19T20:47:33.577Z",
+  "updatedAt": "2026-11-20T07:28:37.474Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020348",
-      "strEvent": "Ottawa Senators vs Philadelphia Flyers",
-      "strHomeTeam": "Ottawa Senators",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-11-19",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-20T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canadian Tire Centre",
-      "strStatus": "NS",
-      "strTVStation": "NBCSP, RDS2, TSN5",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020348",
-      "idHomeTeam": "134835",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020365",
       "strEvent": "Montreal Canadiens vs Philadelphia Flyers",
