@@ -1,7 +1,7 @@
 {
   "teamId": "134886",
   "teamName": "Minnesota Timberwolves",
-  "updatedAt": "2026-11-20T14:55:52.255Z",
+  "updatedAt": "2026-11-20T23:41:53.557Z",
   "events": [
     {
       "idEvent": "scraped-espn-401910026",
@@ -94,13 +94,13 @@
       "strHomeTeam": "Portland Trail Blazers",
       "strAwayTeam": "Minnesota Timberwolves",
       "dateEvent": "2026-12-01",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-12-02T03:00:00Z",
+      "strTime": "04:00:00",
+      "strTimestamp": "2026-12-02T04:00:00Z",
       "strLeague": "NBA",
       "strVenue": "Moda Center",
       "strStatus": "NS",
-      "strTVStation": "KUNP 16",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
+      "strTVStation": "NBC",
+      "updatedAt": "2026-11-20T23:41:53.557Z",
       "source": "scraped",
       "idHomeTeam": "134888",
       "idAwayTeam": "134886"

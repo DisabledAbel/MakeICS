@@ -1,7 +1,7 @@
 {
   "teamId": "134875",
   "teamName": "Dallas Mavericks",
-  "updatedAt": "2026-11-19T06:00:03.716Z",
+  "updatedAt": "2026-11-20T23:41:53.557Z",
   "events": [
     {
       "idEvent": "scraped-espn-401910025",
@@ -48,8 +48,8 @@
       "strLeague": "NBA",
       "strVenue": "Ball Arena",
       "strStatus": "NS",
-      "strTVStation": "Peacock",
-      "updatedAt": "2026-11-17T01:36:58.893Z",
+      "strTVStation": "NBC",
+      "updatedAt": "2026-11-20T23:41:53.557Z",
       "source": "scraped",
       "idHomeTeam": "134885",
       "idAwayTeam": "134875"

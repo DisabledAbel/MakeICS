@@ -1,7 +1,7 @@
 {
   "teamId": "134865",
   "teamName": "Golden State Warriors",
-  "updatedAt": "2026-11-20T14:55:52.255Z",
+  "updatedAt": "2026-11-20T23:41:53.557Z",
   "events": [
     {
       "idEvent": "scraped-espn-401910035",
@@ -77,13 +77,13 @@
       "strHomeTeam": "Golden State Warriors",
       "strAwayTeam": "Utah Jazz",
       "dateEvent": "2026-12-01",
-      "strTime": "04:00:00",
-      "strTimestamp": "2026-12-02T04:00:00Z",
+      "strTime": "03:00:00",
+      "strTimestamp": "2026-12-02T03:00:00Z",
       "strLeague": "NBA",
       "strVenue": "Chase Center",
       "strStatus": "NS",
-      "strTVStation": "NBC",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "KJZZ-TV",
+      "updatedAt": "2026-11-20T23:41:53.557Z",
       "source": "scraped",
       "idHomeTeam": "134865",
       "idAwayTeam": "134889"
