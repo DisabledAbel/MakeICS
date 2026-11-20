@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:10:04.084Z",
+  "generatedAt": "2026-11-20T13:55:27.615Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6810,20 +6810,20 @@
       ],
       "people": [
         {
-          "id": "nm5085683",
-          "name": "Mckenna Grace"
-        },
-        {
-          "id": "nm2225369",
-          "name": "Jennifer Lawrence"
-        },
-        {
           "id": "nm10511461",
           "name": "Joseph Zada"
         },
         {
-          "id": "nm1242688",
-          "name": "Josh Hutcherson"
+          "id": "nm15912307",
+          "name": "Smylie Bradwell"
+        },
+        {
+          "id": "nm0865652",
+          "name": "Kara Tointon"
+        },
+        {
+          "id": "nm9450235",
+          "name": "Molly McCann"
         }
       ],
       "label": "Nov 20, 2026"
@@ -6980,7 +6980,7 @@
     },
     {
       "id": "tt34966140",
-      "title": "Focker-in-Law",
+      "title": "Focker In-Law",
       "image": "https://m.media-amazon.com/images/M/MV5BOGI0NjhmMmEtNDAxZC00MDFjLThlNzUtYTUwMDkzMjMxNGIzXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Wed, 25 Nov 2026 00:00:00 GMT",
       "genres": [
@@ -7158,6 +7158,33 @@
         }
       ],
       "label": "Nov 26, 2026"
+    },
+    {
+      "id": "tt42940046",
+      "title": "On the Last Day of Christmas",
+      "releaseDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "genres": [
+        "Horror"
+      ],
+      "people": [
+        {
+          "id": "nm8568732",
+          "name": "Tanyell Waivers"
+        },
+        {
+          "id": "nm12734033",
+          "name": "Ellis Hobbs IV"
+        },
+        {
+          "id": "nm0003861",
+          "name": "David Jensen"
+        },
+        {
+          "id": "nm8535043",
+          "name": "Brandon Gilpin"
+        }
+      ],
+      "label": "Nov 27, 2026"
     },
     {
       "id": "tt3195548",
@@ -8142,6 +8169,28 @@
       "label": "Jan 08, 2027"
     },
     {
+      "id": "tt32409947",
+      "title": "Light Pillar",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDE0OTRiNzUtY2QyMy00ODBlLTk1YjAtNjExNTUzNzVlNjdmXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm3934959",
+          "name": "Da Peng"
+        },
+        {
+          "id": "nm5037161",
+          "name": "Qing Yi"
+        }
+      ],
+      "label": "Jan 08, 2027"
+    },
+    {
       "id": "tt35935357",
       "title": "The Beekeeper 2",
       "image": "https://m.media-amazon.com/images/M/MV5BYzA2OTBkNjAtODFiYS00NzM5LTg4NTctMjU1NTk0ODU2ZTZiXkEyXkFqcGc@._V1_.jpg",
@@ -8663,20 +8712,20 @@
       ],
       "people": [
         {
-          "id": "nm0001459",
-          "name": "Denis Leary"
+          "id": "nm0048389",
+          "name": "Dee Bradley Baker"
         },
         {
-          "id": "nm0000491",
-          "name": "John Leguizamo"
+          "id": "nm2796745",
+          "name": "Adam Devine"
         },
         {
-          "id": "nm0670408",
-          "name": "Simon Pegg"
+          "id": "nm7533568",
+          "name": "Eduardo Franco"
         },
         {
-          "id": "nm0001451",
-          "name": "Queen Latifah"
+          "id": "nm4562498",
+          "name": "James Austin Johnson"
         }
       ],
       "label": "Feb 05, 2027"
@@ -9228,6 +9277,36 @@
         {
           "id": "nm1775091",
           "name": "Danai Gurira"
+        }
+      ],
+      "label": "Mar 05, 2027"
+    },
+    {
+      "id": "tt37458298",
+      "title": "Wind of Change",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjkxNDk5YmItYmFhYy00N2Q0LWE1MTYtODU4ZWUwYThjZTZjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 05 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "people": [
+        {
+          "id": "nm0922035",
+          "name": "Dominic West"
+        },
+        {
+          "id": "nm1968873",
+          "name": "Ed Speleers"
+        },
+        {
+          "id": "nm4101853",
+          "name": "Alexander Dreymon"
+        },
+        {
+          "id": "nm2381142",
+          "name": "Amy De Bhrún"
         }
       ],
       "label": "Mar 05, 2027"
