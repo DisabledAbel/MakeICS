@@ -10,7 +10,7 @@
     "verifiedAt": "2026-09-23T17:47:32.476Z"
   },
   "The Rainmaker-2-9": {
-    "airdate": "2026-12-11",
+    "airdate": "2026-12-18",
     "name": "Episode #2.9",
     "verifiedAt": "2026-10-10T17:44:22.231Z"
   },
@@ -70,7 +70,7 @@
     "verifiedAt": "2026-10-26T19:05:02.507Z"
   },
   "Sheriff Country-2-9": {
-    "airdate": "2026-12-04",
+    "airdate": "2027-01-08",
     "name": "Episode #2.9",
     "verifiedAt": "2026-10-27T18:36:54.255Z"
   },
@@ -95,12 +95,12 @@
     "verifiedAt": "2026-11-06T19:55:14.468Z"
   },
   "Studio C-23-6": {
-    "airdate": "2026-11-26",
+    "airdate": "2026-11-23",
     "name": "I'm Sick of Your Garbage Mouth with Angela Kinsey",
     "verifiedAt": "2026-11-10T20:20:03.595Z"
   },
   "Studio C-23-7": {
-    "airdate": "2026-12-03",
+    "airdate": "2026-11-30",
     "name": "It's Christmas, Laugh A Little",
     "verifiedAt": "2026-11-10T20:20:06.283Z"
   },
@@ -115,28 +115,98 @@
     "verifiedAt": "2026-11-18T21:09:04.935Z"
   },
   "WWE Friday Night SmackDown-27-47": {
-    "airdate": "2026-11-20",
+    "airdate": "2025-11-21",
     "name": "WarGames Wildcard",
     "verifiedAt": "2026-11-19T21:12:21.978Z"
   },
   "Untold Stories of the E.R.-16-7": {
-    "airdate": "2026-12-02",
+    "airdate": "2026-11-25",
     "name": "Episode #16.7",
     "verifiedAt": "2026-11-19T21:14:25.853Z"
   },
   "Untold Stories of the E.R.-16-8": {
-    "airdate": "2026-12-09",
+    "airdate": "2026-12-02",
     "name": "Episode #16.8",
     "verifiedAt": "2026-11-19T21:14:28.290Z"
   },
   "Untold Stories of the E.R.-16-9": {
-    "airdate": "2026-12-16",
+    "airdate": "2026-12-09",
     "name": "Episode #16.9",
     "verifiedAt": "2026-11-19T21:14:30.755Z"
   },
   "Untold Stories of the E.R.-16-10": {
-    "airdate": "2026-12-23",
+    "airdate": "2026-12-16",
     "name": "Episode #16.10",
     "verifiedAt": "2026-11-19T21:14:33.186Z"
+  },
+  "WWE Friday Night SmackDown-27-48": {
+    "airdate": "2026-11-27",
+    "name": "Final Countdown to War",
+    "verifiedAt": "2026-11-20T20:57:04.522Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2026-12-04",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-11-20T20:57:06.904Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-11-20T20:57:13.796Z"
+  },
+  "WWE Friday Night SmackDown-28-1": {
+    "airdate": "2026-01-02",
+    "name": "Happy New Year 2026",
+    "verifiedAt": "2026-11-20T20:57:16.179Z"
+  },
+  "WWE Friday Night SmackDown-28-2": {
+    "airdate": "2026-01-09",
+    "name": "Three Stages of Hell in Berlin",
+    "verifiedAt": "2026-11-20T20:57:18.552Z"
+  },
+  "WWE Friday Night SmackDown-28-3": {
+    "airdate": "2026-01-16",
+    "name": "London Calling",
+    "verifiedAt": "2026-11-20T20:57:20.977Z"
+  },
+  "WWE Friday Night SmackDown-28-5": {
+    "airdate": "2026-01-30",
+    "name": "Rumble Eve Chaos",
+    "verifiedAt": "2026-11-20T20:57:25.931Z"
+  },
+  "WWE Friday Night SmackDown-28-6": {
+    "airdate": "2026-02-06",
+    "name": "Royal Rumble 2026 Fallout",
+    "verifiedAt": "2026-11-20T20:57:28.287Z"
+  },
+  "WWE Friday Night SmackDown-28-7": {
+    "airdate": "2026-02-13",
+    "name": "Chamber Bound",
+    "verifiedAt": "2026-11-20T20:57:30.743Z"
+  },
+  "WWE Friday Night SmackDown-28-8": {
+    "airdate": "2026-02-20",
+    "name": "Chamber Doors Crack Open",
+    "verifiedAt": "2026-11-20T20:57:33.154Z"
+  },
+  "Love & Marriage: Huntsville-12-12": {
+    "airdate": "2026-09-12",
+    "name": "A New Era",
+    "verifiedAt": "2026-11-20T20:58:08.119Z"
+  },
+  "The Voice-30-17": {
+    "airdate": "2026-12-14",
+    "name": "The Voice 30th Season Celebration",
+    "verifiedAt": "2026-11-20T20:58:16.186Z"
+  },
+  "48 Hours-39-7": {
+    "airdate": "2026-11-21",
+    "name": "Tracker Dakota Black",
+    "verifiedAt": "2026-11-20T20:58:55.806Z"
+  },
+  "48 Hours-39-8": {
+    "airdate": "2025-11-29",
+    "name": "The Setup Murder of Kristil Krug",
+    "verifiedAt": "2026-11-20T20:58:58.271Z"
   }
 }
