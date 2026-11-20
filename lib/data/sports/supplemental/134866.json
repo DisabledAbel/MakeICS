@@ -1,25 +1,8 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-11-18T15:08:53.345Z",
+  "updatedAt": "2026-11-20T14:55:52.255Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910022",
-      "strEvent": "San Antonio Spurs vs Los Angeles Clippers",
-      "strHomeTeam": "San Antonio Spurs",
-      "strAwayTeam": "Los Angeles Clippers",
-      "dateEvent": "2026-11-19",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-20T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Frost Bank Center",
-      "strStatus": "NS",
-      "strTVStation": "DAZN SAS",
-      "updatedAt": "2026-10-22T11:12:29.193Z",
-      "source": "scraped",
-      "idHomeTeam": "134879",
-      "idAwayTeam": "134866"
-    },
     {
       "idEvent": "scraped-espn-401910025",
       "strEvent": "Dallas Mavericks vs Los Angeles Clippers",
