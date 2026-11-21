@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T13:55:27.615Z",
+  "generatedAt": "2026-11-21T13:16:22.923Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -6960,20 +6960,20 @@
       ],
       "people": [
         {
-          "id": "nm1405398",
-          "name": "Dan Stevens"
-        },
-        {
-          "id": "nm0324658",
-          "name": "Walton Goggins"
-        },
-        {
           "id": "nm2794962",
           "name": "Hailee Steinfeld"
         },
         {
+          "id": "nm0429069",
+          "name": "Rashida Jones"
+        },
+        {
           "id": "nm0000149",
           "name": "Jodie Foster"
+        },
+        {
+          "id": "nm0324658",
+          "name": "Walton Goggins"
         }
       ],
       "label": "Nov 25, 2026"
@@ -7164,6 +7164,7 @@
       "title": "On the Last Day of Christmas",
       "releaseDate": "Fri, 27 Nov 2026 00:00:00 GMT",
       "genres": [
+        "Comedy",
         "Horror"
       ],
       "people": [
@@ -8141,7 +8142,7 @@
     {
       "id": "tt37171180",
       "title": "Artificial",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTg0MWMxNjEtMzk1My00NmI1LWIyMDAtMzllY2I0MjU4YjM0XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTdjNjkyZjItOGYzOS00NjRiLWEzMWItMWViMTM4ZDA2ZDViXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
       "genres": [
         "Biography",
@@ -8171,7 +8172,7 @@
     {
       "id": "tt32409947",
       "title": "Light Pillar",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDE0OTRiNzUtY2QyMy00ODBlLTk1YjAtNjExNTUzNzVlNjdmXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWZjOTM0YjQtNDg5Ny00YjEyLWE1ZjItMDQzNjkzMzI1YmVkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
       "genres": [
         "Animation",
@@ -8588,7 +8589,7 @@
     {
       "id": "tt31970593",
       "title": "Witch on the Holy Night",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTQ5ZDc2ZTQtOTI0NC00NjZlLWI0ZWYtNDVlNGRmNDAwMmFjXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDMxMGIyNWUtYmY1My00M2MzLWJiZDItNGViOGNiNjJiODM5XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
       "genres": [
         "Animation",
