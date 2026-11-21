@@ -1,25 +1,8 @@
 {
   "teamId": "134881",
   "teamName": "Charlotte Hornets",
-  "updatedAt": "2026-11-18T15:08:53.345Z",
+  "updatedAt": "2026-11-21T05:44:27.136Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909305",
-      "strEvent": "Atlanta Hawks vs Charlotte Hornets",
-      "strHomeTeam": "Atlanta Hawks",
-      "strAwayTeam": "Charlotte Hornets",
-      "dateEvent": "2026-11-20",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-21T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "State Farm Arena",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-21T21:16:59.037Z",
-      "source": "scraped",
-      "idHomeTeam": "134880",
-      "idAwayTeam": "134881"
-    },
     {
       "idEvent": "scraped-espn-401910036",
       "strEvent": "Charlotte Hornets vs Memphis Grizzlies",

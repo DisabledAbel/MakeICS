@@ -1,25 +1,8 @@
 {
   "teamId": "134883",
   "teamName": "Orlando Magic",
-  "updatedAt": "2026-11-19T06:00:03.716Z",
+  "updatedAt": "2026-11-21T05:44:27.136Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909306",
-      "strEvent": "Brooklyn Nets vs Orlando Magic",
-      "strHomeTeam": "Brooklyn Nets",
-      "strAwayTeam": "Orlando Magic",
-      "dateEvent": "2026-11-20",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-21T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Barclays Center",
-      "strStatus": "NS",
-      "strTVStation": "DAZN (YES)",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134861",
-      "idAwayTeam": "134883"
-    },
     {
       "idEvent": "scraped-espn-401910031",
       "strEvent": "Washington Wizards vs Orlando Magic",

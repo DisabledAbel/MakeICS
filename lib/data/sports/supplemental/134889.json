@@ -1,25 +1,8 @@
 {
   "teamId": "134889",
   "teamName": "Utah Jazz",
-  "updatedAt": "2026-11-20T23:41:53.557Z",
+  "updatedAt": "2026-11-21T05:44:27.136Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909311",
-      "strEvent": "Utah Jazz vs Phoenix Suns",
-      "strHomeTeam": "Utah Jazz",
-      "strAwayTeam": "Phoenix Suns",
-      "dateEvent": "2026-11-20",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-21T02:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Delta Center",
-      "strStatus": "NS",
-      "strTVStation": "Suns Live",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134889",
-      "idAwayTeam": "134868"
-    },
     {
       "idEvent": "scraped-espn-401910033",
       "strEvent": "Utah Jazz vs Dallas Mavericks",

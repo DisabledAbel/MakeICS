@@ -1,25 +1,8 @@
 {
   "teamId": "134878",
   "teamName": "New Orleans Pelicans",
-  "updatedAt": "2026-11-19T06:00:03.716Z",
+  "updatedAt": "2026-11-21T05:44:27.136Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909310",
-      "strEvent": "Oklahoma City Thunder vs New Orleans Pelicans",
-      "strHomeTeam": "Oklahoma City Thunder",
-      "strAwayTeam": "New Orleans Pelicans",
-      "dateEvent": "2026-11-20",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-21T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Paycom Center",
-      "strStatus": "NS",
-      "strTVStation": "KSBI",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134887",
-      "idAwayTeam": "134878"
-    },
     {
       "idEvent": "scraped-espn-401910027",
       "strEvent": "San Antonio Spurs vs New Orleans Pelicans",

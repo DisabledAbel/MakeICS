@@ -1,25 +1,8 @@
 {
   "teamId": "134876",
   "teamName": "Houston Rockets",
-  "updatedAt": "2026-11-19T06:00:03.716Z",
+  "updatedAt": "2026-11-21T05:44:27.136Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909312",
-      "strEvent": "Denver Nuggets vs Houston Rockets",
-      "strHomeTeam": "Denver Nuggets",
-      "strAwayTeam": "Houston Rockets",
-      "dateEvent": "2026-11-20",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-21T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "Prime Video",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134885",
-      "idAwayTeam": "134876"
-    },
     {
       "idEvent": "scraped-espn-401910043",
       "strEvent": "Houston Rockets vs Los Angeles Clippers",

@@ -1,25 +1,8 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-11-19T06:00:03.716Z",
+  "updatedAt": "2026-11-21T05:44:27.136Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909309",
-      "strEvent": "Chicago Bulls vs Washington Wizards",
-      "strHomeTeam": "Chicago Bulls",
-      "strAwayTeam": "Washington Wizards",
-      "dateEvent": "2026-11-20",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-21T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "MNMT",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134870",
-      "idAwayTeam": "134884"
-    },
     {
       "idEvent": "scraped-espn-401910031",
       "strEvent": "Washington Wizards vs Orlando Magic",
