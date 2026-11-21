@@ -1,25 +1,8 @@
 {
   "teamId": "134874",
   "teamName": "Milwaukee Bucks",
-  "updatedAt": "2026-11-20T14:55:52.255Z",
+  "updatedAt": "2026-11-21T22:47:35.022Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910023",
-      "strEvent": "Philadelphia 76ers vs Milwaukee Bucks",
-      "strHomeTeam": "Philadelphia 76ers",
-      "strAwayTeam": "Milwaukee Bucks",
-      "dateEvent": "2026-11-21",
-      "strTime": "18:00:00",
-      "strTimestamp": "2026-11-21T18:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "MyMi",
-      "updatedAt": "2026-10-22T03:25:05.748Z",
-      "source": "scraped",
-      "idHomeTeam": "134863",
-      "idAwayTeam": "134874"
-    },
     {
       "idEvent": "scraped-espn-401910039",
       "strEvent": "Toronto Raptors vs Milwaukee Bucks",

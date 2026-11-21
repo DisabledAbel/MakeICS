@@ -27852,6 +27852,29 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401910023",
+      "uid": "sportsdb-scraped-espn-401910023@makeics.local",
+      "source": "lib/data/sports/supplemental/134863.json",
+      "record": {
+        "idEvent": "scraped-espn-401910023",
+        "strEvent": "Philadelphia 76ers vs Milwaukee Bucks",
+        "strHomeTeam": "Philadelphia 76ers",
+        "strAwayTeam": "Milwaukee Bucks",
+        "dateEvent": "2026-11-21",
+        "strTime": "18:00:00",
+        "strTimestamp": "2026-11-21T18:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Xfinity Mobile Arena",
+        "strStatus": "NS",
+        "strTVStation": "MyMi",
+        "updatedAt": "2026-10-22T03:25:05.748Z",
+        "source": "scraped",
+        "idHomeTeam": "134863",
+        "idAwayTeam": "134874"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401914101",
       "uid": "sportsdb-scraped-espn-401914101@makeics.local",
       "source": "lib/data/sports/supplemental/134862.json",
