@@ -1,25 +1,8 @@
 {
   "teamId": "134880",
   "teamName": "Atlanta Hawks",
-  "updatedAt": "2026-11-21T05:44:27.136Z",
+  "updatedAt": "2026-11-22T23:15:48.590Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910029",
-      "strEvent": "Atlanta Hawks vs Detroit Pistons",
-      "strHomeTeam": "Atlanta Hawks",
-      "strAwayTeam": "Detroit Pistons",
-      "dateEvent": "2026-11-22",
-      "strTime": "20:30:00",
-      "strTimestamp": "2026-11-22T20:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "State Farm Arena",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134880",
-      "idAwayTeam": "134872"
-    },
     {
       "idEvent": "scraped-espn-401909330",
       "strEvent": "Boston Celtics vs Atlanta Hawks",

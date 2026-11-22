@@ -28326,6 +28326,52 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401910029",
+      "uid": "sportsdb-scraped-espn-401910029@makeics.local",
+      "source": "lib/data/sports/supplemental/134872.json",
+      "record": {
+        "idEvent": "scraped-espn-401910029",
+        "strEvent": "Atlanta Hawks vs Detroit Pistons",
+        "strHomeTeam": "Atlanta Hawks",
+        "strAwayTeam": "Detroit Pistons",
+        "dateEvent": "2026-11-22",
+        "strTime": "20:30:00",
+        "strTimestamp": "2026-11-22T20:30:00Z",
+        "strLeague": "NBA",
+        "strVenue": "State Farm Arena",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134880",
+        "idAwayTeam": "134872"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401910030",
+      "uid": "sportsdb-scraped-espn-401910030@makeics.local",
+      "source": "lib/data/sports/supplemental/134882.json",
+      "record": {
+        "idEvent": "scraped-espn-401910030",
+        "strEvent": "Miami Heat vs Oklahoma City Thunder",
+        "strHomeTeam": "Miami Heat",
+        "strAwayTeam": "Oklahoma City Thunder",
+        "dateEvent": "2026-11-22",
+        "strTime": "23:00:00",
+        "strTimestamp": "2026-11-22T23:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Kaseya Center",
+        "strStatus": "NS",
+        "strTVStation": "KSBI",
+        "updatedAt": "2026-10-21T16:39:51.754Z",
+        "source": "scraped",
+        "idHomeTeam": "134882",
+        "idAwayTeam": "134887"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401914101",
       "uid": "sportsdb-scraped-espn-401914101@makeics.local",
       "source": "lib/data/sports/supplemental/134862.json",
