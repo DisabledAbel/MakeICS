@@ -1,25 +1,8 @@
 {
   "teamId": "134878",
   "teamName": "New Orleans Pelicans",
-  "updatedAt": "2026-11-21T05:44:27.136Z",
+  "updatedAt": "2026-11-22T05:14:05.807Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910027",
-      "strEvent": "San Antonio Spurs vs New Orleans Pelicans",
-      "strHomeTeam": "San Antonio Spurs",
-      "strAwayTeam": "New Orleans Pelicans",
-      "dateEvent": "2026-11-21",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-22T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Frost Bank Center",
-      "strStatus": "NS",
-      "strTVStation": "DAZN SAS",
-      "updatedAt": "2026-10-22T03:25:05.748Z",
-      "source": "scraped",
-      "idHomeTeam": "134879",
-      "idAwayTeam": "134878"
-    },
     {
       "idEvent": "scraped-espn-401910042",
       "strEvent": "New Orleans Pelicans vs Phoenix Suns",

@@ -1,25 +1,8 @@
 {
   "teamId": "134888",
   "teamName": "Portland Trail Blazers",
-  "updatedAt": "2026-11-20T23:41:53.557Z",
+  "updatedAt": "2026-11-22T05:14:05.807Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910024",
-      "strEvent": "New York Knicks vs Portland Trail Blazers",
-      "strHomeTeam": "New York Knicks",
-      "strAwayTeam": "Portland Trail Blazers",
-      "dateEvent": "2026-11-21",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-22T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134862",
-      "idAwayTeam": "134888"
-    },
     {
       "idEvent": "scraped-espn-401910037",
       "strEvent": "Philadelphia 76ers vs Portland Trail Blazers",

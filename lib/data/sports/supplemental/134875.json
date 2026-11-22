@@ -1,25 +1,8 @@
 {
   "teamId": "134875",
   "teamName": "Dallas Mavericks",
-  "updatedAt": "2026-11-20T23:41:53.557Z",
+  "updatedAt": "2026-11-22T05:14:05.807Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910025",
-      "strEvent": "Dallas Mavericks vs Los Angeles Clippers",
-      "strHomeTeam": "Dallas Mavericks",
-      "strAwayTeam": "Los Angeles Clippers",
-      "dateEvent": "2026-11-21",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-22T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "KFAA-TV",
-      "updatedAt": "2026-10-21T21:16:59.037Z",
-      "source": "scraped",
-      "idHomeTeam": "134875",
-      "idAwayTeam": "134866"
-    },
     {
       "idEvent": "scraped-espn-401910033",
       "strEvent": "Utah Jazz vs Dallas Mavericks",
