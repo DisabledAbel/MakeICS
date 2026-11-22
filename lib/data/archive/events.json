@@ -13718,6 +13718,30 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:nhl-2026020373",
+      "uid": "sportsdb-nhl-2026020373@makeics.local",
+      "source": "lib/data/sports/supplemental/134838.json",
+      "record": {
+        "idEvent": "nhl-2026020373",
+        "strEvent": "New York Rangers vs Carolina Hurricanes",
+        "strHomeTeam": "New York Rangers",
+        "strAwayTeam": "Carolina Hurricanes",
+        "dateEvent": "2026-11-22",
+        "strTime": "17:30:00",
+        "strTimestamp": "2026-11-22T17:30:00Z",
+        "strLeague": "NHL",
+        "strVenue": "Madison Square Garden",
+        "strStatus": "NS",
+        "strTVStation": "CARNHL, HHN, MSG, NHLN, SN, TVAS",
+        "updatedAt": "2026-10-23T21:30:31.165Z",
+        "source": "scraped",
+        "sourceEventId": "2026020373",
+        "idHomeTeam": "134842",
+        "idAwayTeam": "134838"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-2026-04-30t02-00z-seattle-storm-vs-portland-fire",
       "uid": "sportsdb-scraped-2026-04-30t02-00z-seattle-storm-vs-portland-fire@makeics.local",
       "source": "lib/data/sports/supplemental/152565.json",

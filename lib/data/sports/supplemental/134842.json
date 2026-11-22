@@ -1,26 +1,8 @@
 {
   "teamId": "134842",
   "teamName": "New York Rangers",
-  "updatedAt": "2026-11-19T20:47:33.577Z",
+  "updatedAt": "2026-11-22T19:49:38.306Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020373",
-      "strEvent": "New York Rangers vs Carolina Hurricanes",
-      "strHomeTeam": "New York Rangers",
-      "strAwayTeam": "Carolina Hurricanes",
-      "dateEvent": "2026-11-22",
-      "strTime": "17:30:00",
-      "strTimestamp": "2026-11-22T17:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "CARNHL, HHN, MSG, NHLN, SN, TVAS",
-      "updatedAt": "2026-10-23T21:30:31.165Z",
-      "source": "scraped",
-      "sourceEventId": "2026020373",
-      "idHomeTeam": "134842",
-      "idAwayTeam": "134838"
-    },
     {
       "idEvent": "nhl-2026020387",
       "strEvent": "Buffalo Sabres vs New York Rangers",
