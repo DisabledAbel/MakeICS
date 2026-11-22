@@ -65,7 +65,7 @@
     "verifiedAt": "2026-10-26T19:05:02.507Z"
   },
   "Sheriff Country-2-9": {
-    "airdate": "2027-01-08",
+    "airdate": "2026-12-04",
     "name": "Episode #2.9",
     "verifiedAt": "2026-10-27T18:36:54.255Z"
   },
@@ -94,11 +94,6 @@
     "name": "Building the Dream",
     "verifiedAt": "2026-11-16T22:48:07.384Z"
   },
-  "Austin City Limits-52-12": {
-    "airdate": "2026-11-21",
-    "name": "ACL 12th Annual Hall of Fame Honors Brandi Carlile",
-    "verifiedAt": "2026-11-18T21:09:04.935Z"
-  },
   "Untold Stories of the E.R.-16-7": {
     "airdate": "2026-12-02",
     "name": "Episode #16.7",
@@ -125,8 +120,78 @@
     "verifiedAt": "2026-11-20T20:58:16.186Z"
   },
   "WWE Friday Night SmackDown-28-1": {
-    "airdate": "2027-01-01",
+    "airdate": "2026-01-02",
     "name": "Happy New Year 2026",
     "verifiedAt": "2026-11-21T19:57:42.898Z"
+  },
+  "WWE Friday Night SmackDown-27-48": {
+    "airdate": "2025-11-28",
+    "name": "Final Countdown to War",
+    "verifiedAt": "2026-11-22T20:10:39.574Z"
+  },
+  "WWE Friday Night SmackDown-27-49": {
+    "airdate": "2025-12-05",
+    "name": "Survivor Series 2025 Fallout",
+    "verifiedAt": "2026-11-22T20:10:42.111Z"
+  },
+  "WWE Friday Night SmackDown-27-50": {
+    "airdate": "2025-12-12",
+    "name": "Terror of Terror Twins",
+    "verifiedAt": "2026-11-22T20:10:44.688Z"
+  },
+  "WWE Friday Night SmackDown-28-2": {
+    "airdate": "2026-01-09",
+    "name": "Three Stages of Hell in Berlin",
+    "verifiedAt": "2026-11-22T20:10:49.511Z"
+  },
+  "WWE Friday Night SmackDown-28-3": {
+    "airdate": "2026-01-16",
+    "name": "London Calling",
+    "verifiedAt": "2026-11-22T20:10:51.922Z"
+  },
+  "WWE Friday Night SmackDown-28-5": {
+    "airdate": "2026-01-30",
+    "name": "Rumble Eve Chaos",
+    "verifiedAt": "2026-11-22T20:10:56.875Z"
+  },
+  "WWE Friday Night SmackDown-28-6": {
+    "airdate": "2026-02-06",
+    "name": "Royal Rumble 2026 Fallout",
+    "verifiedAt": "2026-11-22T20:10:59.239Z"
+  },
+  "WWE Friday Night SmackDown-28-7": {
+    "airdate": "2026-02-13",
+    "name": "Chamber Bound",
+    "verifiedAt": "2026-11-22T20:11:01.800Z"
+  },
+  "WWE Friday Night SmackDown-28-8": {
+    "airdate": "2026-02-20",
+    "name": "Chamber Doors Crack Open",
+    "verifiedAt": "2026-11-22T20:11:04.624Z"
+  },
+  "Love & Marriage: Huntsville-12-12": {
+    "airdate": "2026-09-12",
+    "name": "A New Era",
+    "verifiedAt": "2026-11-22T20:11:53.606Z"
+  },
+  "Fire Country-5-7": {
+    "airdate": "2026-11-20",
+    "name": "Episode #5.7",
+    "verifiedAt": "2026-11-22T20:12:48.809Z"
+  },
+  "Boston Blue-2-7": {
+    "airdate": "2026-11-20",
+    "name": "Crisis",
+    "verifiedAt": "2026-11-22T20:12:51.529Z"
+  },
+  "48 Hours-39-7": {
+    "airdate": "2025-11-15",
+    "name": "Tracker Dakota Black",
+    "verifiedAt": "2026-11-22T20:12:55.129Z"
+  },
+  "48 Hours-39-8": {
+    "airdate": "2026-11-28",
+    "name": "The Setup Murder of Kristil Krug",
+    "verifiedAt": "2026-11-22T20:12:57.492Z"
   }
 }
