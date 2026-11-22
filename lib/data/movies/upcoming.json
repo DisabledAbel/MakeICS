@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:16:22.923Z",
+  "generatedAt": "2026-11-22T13:07:25.591Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -7162,6 +7162,7 @@
     {
       "id": "tt42940046",
       "title": "On the Last Day of Christmas",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzU0YzIzNDEtMzUwNy00NjFiLWJkNjMtNWFlOGI3NjMyMTcwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 27 Nov 2026 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -7925,12 +7926,12 @@
           "name": "Emmanuel Macchia"
         },
         {
-          "id": "nm11130157",
-          "name": "Willem De Schryver"
+          "id": "nm7084993",
+          "name": "Jef Jacobs"
         },
         {
-          "id": "nm14148731",
-          "name": "Boris Bouchat"
+          "id": "nm11130157",
+          "name": "Willem De Schryver"
         }
       ],
       "label": "Dec 25, 2026"
@@ -8987,7 +8988,7 @@
     },
     {
       "id": "tt32359344",
-      "title": "Wife and Dog",
+      "title": "Wife & Dog",
       "releaseDate": "Fri, 19 Feb 2027 00:00:00 GMT",
       "genres": [
         "Action",
