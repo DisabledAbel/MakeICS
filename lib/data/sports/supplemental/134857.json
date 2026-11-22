@@ -1,26 +1,8 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-11-20T07:28:37.474Z",
+  "updatedAt": "2026-11-22T07:04:03.663Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020371",
-      "strEvent": "Vancouver Canucks vs Minnesota Wild",
-      "strHomeTeam": "Vancouver Canucks",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-11-21",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-22T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Arena",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, SN, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020371",
-      "idHomeTeam": "134850",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020384",
       "strEvent": "San Jose Sharks vs Minnesota Wild",

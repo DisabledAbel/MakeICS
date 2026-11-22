@@ -1,26 +1,8 @@
 {
   "teamId": "134830",
   "teamName": "Boston Bruins",
-  "updatedAt": "2026-11-19T20:47:33.577Z",
+  "updatedAt": "2026-11-22T07:04:03.663Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020363",
-      "strEvent": "Boston Bruins vs Washington Capitals",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Washington Capitals",
-      "dateEvent": "2026-11-21",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-22T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "MNMT, NESN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020363",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "134845"
-    },
     {
       "idEvent": "nhl-2026020386",
       "strEvent": "Boston Bruins vs Winnipeg Jets",

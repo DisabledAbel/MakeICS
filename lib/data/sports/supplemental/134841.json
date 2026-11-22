@@ -1,26 +1,8 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-11-20T07:28:37.474Z",
+  "updatedAt": "2026-11-22T07:04:03.663Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020367",
-      "strEvent": "Detroit Red Wings vs New York Islanders",
-      "strHomeTeam": "Detroit Red Wings",
-      "strAwayTeam": "New York Islanders",
-      "dateEvent": "2026-11-21",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-22T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "DSN, MSGSN2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020367",
-      "idHomeTeam": "134832",
-      "idAwayTeam": "134841"
-    },
     {
       "idEvent": "nhl-2026020381",
       "strEvent": "New York Islanders vs Toronto Maple Leafs",

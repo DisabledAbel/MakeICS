@@ -1,26 +1,8 @@
 {
   "teamId": "134843",
   "teamName": "Philadelphia Flyers",
-  "updatedAt": "2026-11-20T07:28:37.474Z",
+  "updatedAt": "2026-11-22T07:04:03.663Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020365",
-      "strEvent": "Montreal Canadiens vs Philadelphia Flyers",
-      "strHomeTeam": "Montreal Canadiens",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-11-21",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-22T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Centre Bell",
-      "strStatus": "NS",
-      "strTVStation": "NBCSP, NHLN, SNE, TVAS",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020365",
-      "idHomeTeam": "134834",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020392",
       "strEvent": "Washington Capitals vs Philadelphia Flyers",

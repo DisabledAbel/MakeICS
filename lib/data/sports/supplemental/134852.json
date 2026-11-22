@@ -1,26 +1,8 @@
 {
   "teamId": "134852",
   "teamName": "Los Angeles Kings",
-  "updatedAt": "2026-11-20T07:28:37.474Z",
+  "updatedAt": "2026-11-22T07:04:03.663Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020366",
-      "strEvent": "Ottawa Senators vs Los Angeles Kings",
-      "strHomeTeam": "Ottawa Senators",
-      "strAwayTeam": "Los Angeles Kings",
-      "dateEvent": "2026-11-21",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-22T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canadian Tire Centre",
-      "strStatus": "NS",
-      "strTVStation": "ABTV , SN1, TVAS2",
-      "updatedAt": "2026-10-07T06:09:51.884Z",
-      "source": "scraped",
-      "sourceEventId": "2026020366",
-      "idHomeTeam": "134835",
-      "idAwayTeam": "134852"
-    },
     {
       "idEvent": "nhl-2026020379",
       "strEvent": "Montreal Canadiens vs Los Angeles Kings",

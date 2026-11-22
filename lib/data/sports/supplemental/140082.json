@@ -1,26 +1,8 @@
 {
   "teamId": "140082",
   "teamName": "Seattle Kraken",
-  "updatedAt": "2026-11-20T07:28:37.474Z",
+  "updatedAt": "2026-11-22T07:04:03.663Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020372",
-      "strEvent": "San Jose Sharks vs Seattle Kraken",
-      "strHomeTeam": "San Jose Sharks",
-      "strAwayTeam": "Seattle Kraken",
-      "dateEvent": "2026-11-21",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-22T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "SAP Center at San Jose",
-      "strStatus": "NS",
-      "strTVStation": "KONG, NBCSCA, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020372",
-      "idHomeTeam": "134853",
-      "idAwayTeam": "140082"
-    },
     {
       "idEvent": "nhl-2026020383",
       "strEvent": "Seattle Kraken vs Anaheim Ducks",

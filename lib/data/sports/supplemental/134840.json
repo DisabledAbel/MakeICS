@@ -1,26 +1,8 @@
 {
   "teamId": "134840",
   "teamName": "New Jersey Devils",
-  "updatedAt": "2026-11-19T20:47:33.577Z",
+  "updatedAt": "2026-11-22T07:04:03.663Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020368",
-      "strEvent": "St. Louis Blues vs New Jersey Devils",
-      "strHomeTeam": "St. Louis Blues",
-      "strAwayTeam": "New Jersey Devils",
-      "dateEvent": "2026-11-21",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-22T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Enterprise Center",
-      "strStatus": "NS",
-      "strTVStation": "BN+, MSGSN, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020368",
-      "idHomeTeam": "134859",
-      "idAwayTeam": "134840"
-    },
     {
       "idEvent": "nhl-2026020378",
       "strEvent": "New Jersey Devils vs Columbus Blue Jackets",
