@@ -1,24 +1,10 @@
 {
   "teamId": "134939",
   "teamName": "Detroit Lions",
-  "updatedAt": "2026-11-15T18:53:50.896Z",
+  "updatedAt": "2026-11-22T19:43:31.648Z",
   "generatedAt": "2026-07-18T06:13:33.279Z",
   "generateAt": "2026-07-18T06:13:33.279Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab999586-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Detroit Lions vs Tampa Bay Buccaneers",
-      "strHomeTeam": "Detroit Lions",
-      "strAwayTeam": "Tampa Bay Buccaneers",
-      "dateEvent": "2026-11-22",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-22T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Ford Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-abbf2c16-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Detroit Lions vs Chicago Bears",

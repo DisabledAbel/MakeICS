@@ -1,24 +1,10 @@
 {
   "teamId": "134919",
   "teamName": "Miami Dolphins",
-  "updatedAt": "2026-11-15T18:53:50.877Z",
+  "updatedAt": "2026-11-22T19:43:31.625Z",
   "generatedAt": "2026-07-18T06:13:33.252Z",
   "generateAt": "2026-07-18T06:13:33.252Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab998769-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Buffalo Bills vs Miami Dolphins",
-      "strHomeTeam": "Buffalo Bills",
-      "strAwayTeam": "Miami Dolphins",
-      "dateEvent": "2026-11-22",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-22T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Highmark Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-abdfd040-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Miami Dolphins vs New York Jets",
