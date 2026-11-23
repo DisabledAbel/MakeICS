@@ -1,26 +1,8 @@
 {
   "teamId": "134849",
   "teamName": "Edmonton Oilers",
-  "updatedAt": "2026-11-21T19:27:28.394Z",
+  "updatedAt": "2026-11-23T07:52:04.080Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020375",
-      "strEvent": "St. Louis Blues vs Edmonton Oilers",
-      "strHomeTeam": "St. Louis Blues",
-      "strAwayTeam": "Edmonton Oilers",
-      "dateEvent": "2026-11-22",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-23T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Enterprise Center",
-      "strStatus": "NS",
-      "strTVStation": "BN+, SN1, SNW, STLNHL",
-      "updatedAt": "2026-10-23T21:30:31.165Z",
-      "source": "scraped",
-      "sourceEventId": "2026020375",
-      "idHomeTeam": "134859",
-      "idAwayTeam": "134849"
-    },
     {
       "idEvent": "nhl-2026020385",
       "strEvent": "Edmonton Oilers vs Vegas Golden Knights",

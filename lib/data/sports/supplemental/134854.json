@@ -1,26 +1,8 @@
 {
   "teamId": "134854",
   "teamName": "Chicago Blackhawks",
-  "updatedAt": "2026-11-22T07:04:03.663Z",
+  "updatedAt": "2026-11-23T07:52:04.080Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020377",
-      "strEvent": "Vancouver Canucks vs Chicago Blackhawks",
-      "strHomeTeam": "Vancouver Canucks",
-      "strAwayTeam": "Chicago Blackhawks",
-      "dateEvent": "2026-11-22",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-23T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Arena",
-      "strStatus": "NS",
-      "strTVStation": "CHSN, SNP",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020377",
-      "idHomeTeam": "134850",
-      "idAwayTeam": "134854"
-    },
     {
       "idEvent": "nhl-2026020399",
       "strEvent": "Seattle Kraken vs Chicago Blackhawks",

@@ -1,26 +1,8 @@
 {
   "teamId": "134856",
   "teamName": "Dallas Stars",
-  "updatedAt": "2026-11-20T07:28:37.474Z",
+  "updatedAt": "2026-11-23T07:52:04.080Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020376",
-      "strEvent": "Dallas Stars vs Pittsburgh Penguins",
-      "strHomeTeam": "Dallas Stars",
-      "strAwayTeam": "Pittsburgh Penguins",
-      "dateEvent": "2026-11-22",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-23T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "Prime Video, SN-PIT, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020376",
-      "idHomeTeam": "134856",
-      "idAwayTeam": "134844"
-    },
     {
       "idEvent": "nhl-2026020395",
       "strEvent": "Dallas Stars vs Nashville Predators",

@@ -1,26 +1,8 @@
 {
   "teamId": "134831",
   "teamName": "Buffalo Sabres",
-  "updatedAt": "2026-11-22T07:04:03.663Z",
+  "updatedAt": "2026-11-23T07:52:04.080Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020374",
-      "strEvent": "Tampa Bay Lightning vs Buffalo Sabres",
-      "strHomeTeam": "Tampa Bay Lightning",
-      "strAwayTeam": "Buffalo Sabres",
-      "dateEvent": "2026-11-22",
-      "strTime": "22:00:00",
-      "strTimestamp": "2026-11-22T22:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Benchmark International Arena",
-      "strStatus": "NS",
-      "strTVStation": "MSG-B, NHLN, SN, TVAS, The Spot",
-      "updatedAt": "2026-10-23T21:30:31.165Z",
-      "source": "scraped",
-      "sourceEventId": "2026020374",
-      "idHomeTeam": "134836",
-      "idAwayTeam": "134831"
-    },
     {
       "idEvent": "nhl-2026020387",
       "strEvent": "Buffalo Sabres vs New York Rangers",
