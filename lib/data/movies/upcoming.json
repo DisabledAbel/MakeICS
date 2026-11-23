@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T13:07:25.591Z",
+  "generatedAt": "2026-11-23T15:44:36.014Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -7022,8 +7022,8 @@
           "name": "Alexandra Daddario"
         },
         {
-          "id": "nm0001688",
-          "name": "Alan Ruck"
+          "id": "nm0182345",
+          "name": "David Costabile"
         },
         {
           "id": "nm0454236",
@@ -7516,8 +7516,8 @@
           "name": "Dermot Mulroney"
         },
         {
-          "id": "nm0001015",
-          "name": "Robert Carlyle"
+          "id": "nm6366417",
+          "name": "Jefferson White"
         },
         {
           "id": "nm0001597",
@@ -7554,6 +7554,22 @@
         }
       ],
       "label": "Dec 11, 2026"
+    },
+    {
+      "id": "tt51436666",
+      "title": "THIS SYMPHONY MAY CONTAIN HOPE.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTZlMzE5ODItOGMxNy00MWZmLTg2ODgtNzc2MDRhNjg1ZjExXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Sun, 13 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm6672431",
+          "name": "Raye"
+        }
+      ],
+      "label": "Dec 13, 2026"
     },
     {
       "id": "tt21357150",
@@ -7773,16 +7789,16 @@
           "name": "Mohanlal"
         },
         {
+          "id": "nm1388202",
+          "name": "Siddique"
+        },
+        {
           "id": "nm1307939",
           "name": "Meera Jasmine"
         },
         {
           "id": "nm9851193",
           "name": "Bhama Arun"
-        },
-        {
-          "id": "nm0415538",
-          "name": "Jagadish"
         }
       ],
       "label": "Dec 24, 2026"
@@ -7866,12 +7882,12 @@
           "name": "Karen Gillan"
         },
         {
-          "id": "nm0085312",
-          "name": "Jack Black"
+          "id": "nm0000362",
+          "name": "Danny DeVito"
         },
         {
-          "id": "nm5589690",
-          "name": "Madison Iseman"
+          "id": "nm0085312",
+          "name": "Jack Black"
         }
       ],
       "label": "Dec 25, 2026"
@@ -7896,12 +7912,12 @@
           "name": "David Corenswet"
         },
         {
-          "id": "nm0788335",
-          "name": "Michael Shannon"
-        },
-        {
           "id": "nm0472710",
           "name": "David Krumholtz"
+        },
+        {
+          "id": "nm0788335",
+          "name": "Michael Shannon"
         }
       ],
       "label": "Dec 25, 2026"
@@ -8016,6 +8032,34 @@
         {
           "id": "nm7337648",
           "name": "Harsha Chemudu"
+        }
+      ],
+      "label": "Jan 01, 2027"
+    },
+    {
+      "id": "tt32768282",
+      "title": "Untitled Bernie Taupin Documentary",
+      "releaseDate": "Fri, 01 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Biography"
+      ],
+      "people": [
+        {
+          "id": "nm0005479",
+          "name": "Bernie Taupin"
+        },
+        {
+          "id": "nm0005056",
+          "name": "Elton John"
+        },
+        {
+          "id": "nm1848488",
+          "name": "Brandi Carlile"
+        },
+        {
+          "id": "nm0004840",
+          "name": "Alice Cooper"
         }
       ],
       "label": "Jan 01, 2027"
@@ -8234,6 +8278,10 @@
       ],
       "people": [
         {
+          "id": "nm15071180",
+          "name": "Iona Bell"
+        },
+        {
           "id": "nm0169806",
           "name": "Taika Waititi"
         },
@@ -8244,10 +8292,6 @@
         {
           "id": "nm0524240",
           "name": "Matt Lucas"
-        },
-        {
-          "id": "nm15071180",
-          "name": "Iona Bell"
         }
       ],
       "label": "Jan 15, 2027"
@@ -8513,12 +8557,12 @@
           "name": "Nicolas Cage"
         },
         {
-          "id": "nm1679778",
-          "name": "Sylvia Hoeks"
-        },
-        {
           "id": "nm0803889",
           "name": "Bill Skarsgård"
+        },
+        {
+          "id": "nm1679778",
+          "name": "Sylvia Hoeks"
         },
         {
           "id": "nm5637553",
@@ -8526,6 +8570,23 @@
         }
       ],
       "label": "Jan 22, 2027"
+    },
+    {
+      "id": "tt44879019",
+      "title": "Cameron Winter at Carnegie Hall",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjEzMTQxYTItMDljNy00NDIzLTk1YWQtNDcwZmVkZDZkZDUyXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Thu, 28 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "people": [
+        {
+          "id": "nm17775156",
+          "name": "Cameron Winter"
+        }
+      ],
+      "label": "Jan 28, 2027"
     },
     {
       "id": "tt35893068",
@@ -8577,12 +8638,12 @@
           "name": "Hassie Harrison"
         },
         {
-          "id": "nm0241049",
-          "name": "Josh Duhamel"
-        },
-        {
           "id": "nm0524197",
           "name": "Josh Lucas"
+        },
+        {
+          "id": "nm0625789",
+          "name": "Tim Blake Nelson"
         }
       ],
       "label": "Jan 29, 2027"
@@ -8735,7 +8796,7 @@
     {
       "id": "tt36593129",
       "title": "The Comeback King",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTE0ZGRiNTQtOTc5OC00YmZmLTk4ZDYtZGNlOWNiZTQ4OWZlXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjk2MTgzYzMtZmMzNC00YTQzLWIxYzEtZmJmOGZjZDg0ZGZjXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 05 Feb 2027 00:00:00 GMT",
       "genres": [
         "Comedy"
@@ -8750,12 +8811,12 @@
           "name": "Cristin Milioti"
         },
         {
-          "id": "nm3364779",
-          "name": "Vanessa Bayer"
-        },
-        {
           "id": "nm3218692",
           "name": "Madelyn Cline"
+        },
+        {
+          "id": "nm6254064",
+          "name": "Stavros Halkias"
         }
       ],
       "label": "Feb 05, 2027"
@@ -8776,12 +8837,12 @@
           "name": "Jake Gyllenhaal"
         },
         {
-          "id": "nm0796117",
-          "name": "M. Night Shyamalan"
-        },
-        {
           "id": "nm3697443",
           "name": "Phoebe Dynevor"
+        },
+        {
+          "id": "nm0796117",
+          "name": "M. Night Shyamalan"
         },
         {
           "id": "nm0353546",
@@ -8849,12 +8910,12 @@
           "name": "Daniel Craig"
         },
         {
-          "id": "nm1659547",
-          "name": "Carey Mulligan"
-        },
-        {
           "id": "nm0001354",
           "name": "Ciarán Hinds"
+        },
+        {
+          "id": "nm1659547",
+          "name": "Carey Mulligan"
         },
         {
           "id": "nm0000658",
@@ -9009,8 +9070,8 @@
           "name": "Rosamund Pike"
         },
         {
-          "id": "nm0000164",
-          "name": "Anthony Hopkins"
+          "id": "nm1212722",
+          "name": "Benedict Cumberbatch"
         }
       ],
       "label": "Feb 19, 2027"
@@ -9395,20 +9456,20 @@
       ],
       "people": [
         {
-          "id": "nm0068338",
-          "name": "Kristen Bell"
-        },
-        {
           "id": "nm0000206",
           "name": "Keanu Reeves"
         },
         {
-          "id": "nm0000120",
-          "name": "Jim Carrey"
-        },
-        {
           "id": "nm0252961",
           "name": "Idris Elba"
+        },
+        {
+          "id": "nm0068338",
+          "name": "Kristen Bell"
+        },
+        {
+          "id": "nm0000120",
+          "name": "Jim Carrey"
         }
       ],
       "label": "Mar 19, 2027"
@@ -9644,12 +9705,12 @@
           "name": "Julia Roberts"
         },
         {
-          "id": "nm0318821",
-          "name": "Aidan Gillen"
-        },
-        {
           "id": "nm1519666",
           "name": "Eddie Redmayne"
+        },
+        {
+          "id": "nm0318821",
+          "name": "Aidan Gillen"
         }
       ],
       "label": "Apr 09, 2027"
@@ -9903,16 +9964,16 @@
           "name": "Rupert Everett"
         },
         {
-          "id": "nm1249052",
-          "name": "Riccardo Scamarcio"
-        },
-        {
           "id": "nm3663897",
           "name": "Jaakko Ohtonen"
         },
         {
           "id": "nm0810738",
           "name": "Kasia Smutniak"
+        },
+        {
+          "id": "nm1249052",
+          "name": "Riccardo Scamarcio"
         }
       ],
       "label": "May 06, 2027"
@@ -9956,20 +10017,20 @@
       ],
       "people": [
         {
-          "id": "nm0000498",
-          "name": "Matthew Lillard"
-        },
-        {
           "id": "nm0397171",
           "name": "Bryce Dallas Howard"
         },
         {
-          "id": "nm0666739",
-          "name": "Aaron Paul"
-        },
-        {
           "id": "nm10533874",
           "name": "Curry Barker"
+        },
+        {
+          "id": "nm0000498",
+          "name": "Matthew Lillard"
+        },
+        {
+          "id": "nm0666739",
+          "name": "Aaron Paul"
         }
       ],
       "label": "May 07, 2027"
@@ -10089,12 +10150,12 @@
           "name": "Ryan Gosling"
         },
         {
-          "id": "nm0010736",
-          "name": "Amy Adams"
-        },
-        {
           "id": "nm5301405",
           "name": "Mia Goth"
+        },
+        {
+          "id": "nm0010736",
+          "name": "Amy Adams"
         },
         {
           "id": "nm7543974",
@@ -10221,12 +10282,12 @@
       ],
       "people": [
         {
-          "id": "nm0124930",
-          "name": "Gerard Butler"
-        },
-        {
           "id": "nm0000949",
           "name": "Cate Blanchett"
+        },
+        {
+          "id": "nm0124930",
+          "name": "Gerard Butler"
         },
         {
           "id": "nm9296746",
@@ -10321,20 +10382,20 @@
       ],
       "people": [
         {
-          "id": "nm3053338",
-          "name": "Margot Robbie"
-        },
-        {
           "id": "nm4834815",
           "name": "Monica Barbaro"
+        },
+        {
+          "id": "nm3053338",
+          "name": "Margot Robbie"
         },
         {
           "id": "nm0177896",
           "name": "Bradley Cooper"
         },
         {
-          "id": "nm1126657",
-          "name": "George MacKay"
+          "id": "nm3043279",
+          "name": "Vicky Krieps"
         }
       ],
       "label": "Jun 25, 2027"
@@ -10508,20 +10569,20 @@
       ],
       "people": [
         {
+          "id": "nm1110435",
+          "name": "Ray Panthaki"
+        },
+        {
           "id": "nm6185683",
           "name": "Emily Rudd"
         },
         {
+          "id": "nm2063276",
+          "name": "Flula Borg"
+        },
+        {
           "id": "nm0104114",
           "name": "Richard Brake"
-        },
-        {
-          "id": "nm2864252",
-          "name": "Mason Gooding"
-        },
-        {
-          "id": "nm1110435",
-          "name": "Ray Panthaki"
         }
       ],
       "label": "Jul 16, 2027"
@@ -10571,12 +10632,12 @@
           "name": "Emily Blunt"
         },
         {
-          "id": "nm1925239",
-          "name": "Jack O'Connell"
-        },
-        {
           "id": "nm0614165",
           "name": "Cillian Murphy"
+        },
+        {
+          "id": "nm1925239",
+          "name": "Jack O'Connell"
         },
         {
           "id": "nm7415871",
@@ -10676,12 +10737,12 @@
       ],
       "people": [
         {
-          "id": "nm0000610",
-          "name": "Giovanni Ribisi"
-        },
-        {
           "id": "nm0666739",
           "name": "Aaron Paul"
+        },
+        {
+          "id": "nm0000610",
+          "name": "Giovanni Ribisi"
         },
         {
           "id": "nm7248827",
@@ -10808,12 +10869,12 @@
           "name": "Jodie Turner-Smith"
         },
         {
-          "id": "nm10040186",
-          "name": "Asante Blackk"
-        },
-        {
           "id": "nm0254712",
           "name": "Aunjanue Ellis-Taylor"
+        },
+        {
+          "id": "nm1502434",
+          "name": "Leslie Odom Jr."
         }
       ],
       "label": "Aug 20, 2027"
@@ -11021,16 +11082,16 @@
       ],
       "people": [
         {
-          "id": "nm0923266",
-          "name": "Merritt Wever"
-        },
-        {
           "id": "nm1412974",
           "name": "Glen Powell"
         },
         {
           "id": "nm0000168",
           "name": "Samuel L. Jackson"
+        },
+        {
+          "id": "nm0923266",
+          "name": "Merritt Wever"
         },
         {
           "id": "nm4911194",
@@ -11153,16 +11214,16 @@
           "name": "Brendan Fraser"
         },
         {
-          "id": "nm0903677",
-          "name": "Arnold Vosloo"
-        },
-        {
           "id": "nm0001838",
           "name": "Rachel Weisz"
         },
         {
           "id": "nm5076257",
           "name": "Michael Johnston"
+        },
+        {
+          "id": "nm0903677",
+          "name": "Arnold Vosloo"
         }
       ],
       "label": "Oct 15, 2027"
@@ -11393,12 +11454,12 @@
       ],
       "people": [
         {
-          "id": "nm0000354",
-          "name": "Matt Damon"
-        },
-        {
           "id": "nm10893920",
           "name": "Jackson Kelly"
+        },
+        {
+          "id": "nm0000354",
+          "name": "Matt Damon"
         },
         {
           "id": "nm0000491",
