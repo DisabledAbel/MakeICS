@@ -97886,6 +97886,66 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-ab999b80-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ab999b80-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134928.json",
+      "record": {
+        "idEvent": "sdv-nfl-ab999b80-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "New York Giants vs Jacksonville Jaguars",
+        "strHomeTeam": "New York Giants",
+        "strAwayTeam": "Jacksonville Jaguars",
+        "dateEvent": "2026-11-22",
+        "strTime": "21:25:00Z",
+        "strTimestamp": "2026-11-22T21:25:00Z",
+        "strLeague": "NFL",
+        "strVenue": "MetLife Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-ab999e6f-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ab999e6f-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134921.json",
+      "record": {
+        "idEvent": "sdv-nfl-ab999e6f-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Los Angeles Chargers vs New York Jets",
+        "strHomeTeam": "Los Angeles Chargers",
+        "strAwayTeam": "New York Jets",
+        "dateEvent": "2026-11-22",
+        "strTime": "21:05:00Z",
+        "strTimestamp": "2026-11-22T21:05:00Z",
+        "strLeague": "NFL",
+        "strVenue": "SoFi Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-ab99a17b-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-ab99a17b-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134930.json",
+      "record": {
+        "idEvent": "sdv-nfl-ab99a17b-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Denver Broncos vs Las Vegas Raiders",
+        "strHomeTeam": "Denver Broncos",
+        "strAwayTeam": "Las Vegas Raiders",
+        "dateEvent": "2026-11-22",
+        "strTime": "21:25:00Z",
+        "strTimestamp": "2026-11-22T21:25:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Empower Field at Mile High",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-abbf1908-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-abbf1908-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134925.json",
@@ -97899,6 +97959,26 @@
         "strTimestamp": "2026-11-22T18:00:00Z",
         "strLeague": "NFL",
         "strVenue": "Lincoln Financial Field",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-abbf2213-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-abbf2213-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134941.json",
+      "record": {
+        "idEvent": "sdv-nfl-abbf2213-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "San Francisco 49ers vs Minnesota Vikings",
+        "strHomeTeam": "San Francisco 49ers",
+        "strAwayTeam": "Minnesota Vikings",
+        "dateEvent": "2026-11-23",
+        "strTime": "01:20:00Z",
+        "strTimestamp": "2026-11-23T01:20:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Estadio Banorte",
         "strTVStation": null,
         "strStatus": "NS",
         "source": "sportsdataverse"

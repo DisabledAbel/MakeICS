@@ -1,24 +1,10 @@
 {
   "teamId": "134921",
   "teamName": "New York Jets",
-  "updatedAt": "2026-11-15T18:53:50.878Z",
+  "updatedAt": "2026-11-23T07:42:17.856Z",
   "generatedAt": "2026-07-18T06:13:33.255Z",
   "generateAt": "2026-07-18T06:13:33.255Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab999e6f-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Los Angeles Chargers vs New York Jets",
-      "strHomeTeam": "Los Angeles Chargers",
-      "strAwayTeam": "New York Jets",
-      "dateEvent": "2026-11-22",
-      "strTime": "21:05:00Z",
-      "strTimestamp": "2026-11-22T21:05:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-abdfd040-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Miami Dolphins vs New York Jets",

@@ -1,24 +1,10 @@
 {
   "teamId": "134932",
   "teamName": "Las Vegas Raiders",
-  "updatedAt": "2026-11-17T20:58:12.864Z",
+  "updatedAt": "2026-11-23T07:42:17.868Z",
   "generatedAt": "2026-07-18T06:13:33.271Z",
   "generateAt": "2026-07-18T06:13:33.271Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-ab99a17b-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Denver Broncos vs Las Vegas Raiders",
-      "strHomeTeam": "Denver Broncos",
-      "strAwayTeam": "Las Vegas Raiders",
-      "dateEvent": "2026-11-22",
-      "strTime": "21:25:00Z",
-      "strTimestamp": "2026-11-22T21:25:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Empower Field at Mile High",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-abbf3c97-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Cleveland Browns vs Las Vegas Raiders",
