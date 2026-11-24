@@ -1,25 +1,8 @@
 {
   "teamId": "134889",
   "teamName": "Utah Jazz",
-  "updatedAt": "2026-11-23T05:53:51.889Z",
+  "updatedAt": "2026-11-24T03:49:49.765Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910044",
-      "strEvent": "Los Angeles Lakers vs Utah Jazz",
-      "strHomeTeam": "Los Angeles Lakers",
-      "strAwayTeam": "Utah Jazz",
-      "dateEvent": "2026-11-23",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-24T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "crypto.com Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBA TV",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134867",
-      "idAwayTeam": "134889"
-    },
     {
       "idEvent": "scraped-espn-401909334",
       "strEvent": "Utah Jazz vs Denver Nuggets",

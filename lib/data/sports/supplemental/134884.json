@@ -1,7 +1,7 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-11-23T05:53:51.889Z",
+  "updatedAt": "2026-11-24T03:49:49.765Z",
   "events": [
     {
       "idEvent": "scraped-espn-401909315",
@@ -371,8 +371,8 @@
       "strLeague": "NBA",
       "strVenue": "Toyota Center (Houston)",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-11-24T03:49:49.765Z",
       "source": "scraped",
       "idHomeTeam": "134876",
       "idAwayTeam": "134884"
@@ -422,8 +422,8 @@
       "strLeague": "NBA",
       "strVenue": "Ball Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-11-24T03:49:49.765Z",
       "source": "scraped",
       "idHomeTeam": "134885",
       "idAwayTeam": "134884"
@@ -490,8 +490,8 @@
       "strLeague": "NBA",
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-11-24T03:49:49.765Z",
       "source": "scraped",
       "idHomeTeam": "134884",
       "idAwayTeam": "134869"
@@ -524,8 +524,8 @@
       "strLeague": "NBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-11-24T03:49:49.765Z",
       "source": "scraped",
       "idHomeTeam": "134880",
       "idAwayTeam": "134884"
@@ -575,8 +575,8 @@
       "strLeague": "NBA",
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-11-24T03:49:49.765Z",
       "source": "scraped",
       "idHomeTeam": "134884",
       "idAwayTeam": "134870"
@@ -592,8 +592,8 @@
       "strLeague": "NBA",
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-11-24T03:49:49.765Z",
       "source": "scraped",
       "idHomeTeam": "134884",
       "idAwayTeam": "134882"
@@ -660,8 +660,8 @@
       "strLeague": "NBA",
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-11-24T03:49:49.765Z",
       "source": "scraped",
       "idHomeTeam": "134884",
       "idAwayTeam": "134882"
@@ -728,8 +728,8 @@
       "strLeague": "NBA",
       "strVenue": "Golden 1 Center",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-11-24T03:49:49.765Z",
       "source": "scraped",
       "idHomeTeam": "134869",
       "idAwayTeam": "134884"

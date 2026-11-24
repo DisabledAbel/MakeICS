@@ -1,25 +1,8 @@
 {
   "teamId": "134861",
   "teamName": "Brooklyn Nets",
-  "updatedAt": "2026-11-21T05:44:27.136Z",
+  "updatedAt": "2026-11-24T03:49:49.765Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910040",
-      "strEvent": "Minnesota Timberwolves vs Brooklyn Nets",
-      "strHomeTeam": "Minnesota Timberwolves",
-      "strAwayTeam": "Brooklyn Nets",
-      "dateEvent": "2026-11-23",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-24T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Target Center",
-      "strStatus": "NS",
-      "strTVStation": "NBCSN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134886",
-      "idAwayTeam": "134861"
-    },
     {
       "idEvent": "scraped-espn-401909322",
       "strEvent": "Milwaukee Bucks vs Brooklyn Nets",

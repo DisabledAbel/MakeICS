@@ -1,25 +1,8 @@
 {
   "teamId": "134876",
   "teamName": "Houston Rockets",
-  "updatedAt": "2026-11-21T05:44:27.136Z",
+  "updatedAt": "2026-11-24T03:49:49.765Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910043",
-      "strEvent": "Houston Rockets vs Los Angeles Clippers",
-      "strHomeTeam": "Houston Rockets",
-      "strAwayTeam": "Los Angeles Clippers",
-      "dateEvent": "2026-11-23",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-11-24T01:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Toyota Center (Houston)",
-      "strStatus": "NS",
-      "strTVStation": "ClipperVision",
-      "updatedAt": "2026-10-21T21:16:59.037Z",
-      "source": "scraped",
-      "idHomeTeam": "134876",
-      "idAwayTeam": "134866"
-    },
     {
       "idEvent": "scraped-espn-401909323",
       "strEvent": "Houston Rockets vs Phoenix Suns",
@@ -371,8 +354,8 @@
       "strLeague": "NBA",
       "strVenue": "Toyota Center (Houston)",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-11-24T03:49:49.765Z",
       "source": "scraped",
       "idHomeTeam": "134876",
       "idAwayTeam": "134884"

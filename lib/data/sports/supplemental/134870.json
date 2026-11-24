@@ -1,25 +1,8 @@
 {
   "teamId": "134870",
   "teamName": "Chicago Bulls",
-  "updatedAt": "2026-11-23T05:53:51.889Z",
+  "updatedAt": "2026-11-24T03:49:49.765Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910041",
-      "strEvent": "Chicago Bulls vs Cleveland Cavaliers",
-      "strHomeTeam": "Chicago Bulls",
-      "strAwayTeam": "Cleveland Cavaliers",
-      "dateEvent": "2026-11-23",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-24T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "DAZN CLE",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134870",
-      "idAwayTeam": "134871"
-    },
     {
       "idEvent": "scraped-espn-401909318",
       "strEvent": "Charlotte Hornets vs Chicago Bulls",
@@ -592,8 +575,8 @@
       "strLeague": "NBA",
       "strVenue": "Capital One Arena",
       "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "strTVStation": "MNMT",
+      "updatedAt": "2026-11-24T03:49:49.765Z",
       "source": "scraped",
       "idHomeTeam": "134884",
       "idAwayTeam": "134870"

@@ -1,25 +1,8 @@
 {
   "teamId": "134866",
   "teamName": "Los Angeles Clippers",
-  "updatedAt": "2026-11-22T05:14:05.807Z",
+  "updatedAt": "2026-11-24T03:49:49.765Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910043",
-      "strEvent": "Houston Rockets vs Los Angeles Clippers",
-      "strHomeTeam": "Houston Rockets",
-      "strAwayTeam": "Los Angeles Clippers",
-      "dateEvent": "2026-11-23",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-11-24T01:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Toyota Center (Houston)",
-      "strStatus": "NS",
-      "strTVStation": "ClipperVision",
-      "updatedAt": "2026-10-21T21:16:59.037Z",
-      "source": "scraped",
-      "idHomeTeam": "134876",
-      "idAwayTeam": "134866"
-    },
     {
       "idEvent": "scraped-espn-401909321",
       "strEvent": "Memphis Grizzlies vs Los Angeles Clippers",

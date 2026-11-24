@@ -1,25 +1,8 @@
 {
   "teamId": "134868",
   "teamName": "Phoenix Suns",
-  "updatedAt": "2026-11-21T05:44:27.136Z",
+  "updatedAt": "2026-11-24T03:49:49.765Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910042",
-      "strEvent": "New Orleans Pelicans vs Phoenix Suns",
-      "strHomeTeam": "New Orleans Pelicans",
-      "strAwayTeam": "Phoenix Suns",
-      "dateEvent": "2026-11-23",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-24T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Smoothie King Center",
-      "strStatus": "NS",
-      "strTVStation": "Suns Live",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134878",
-      "idAwayTeam": "134868"
-    },
     {
       "idEvent": "scraped-espn-401909323",
       "strEvent": "Houston Rockets vs Phoenix Suns",

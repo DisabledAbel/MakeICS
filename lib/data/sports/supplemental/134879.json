@@ -1,25 +1,8 @@
 {
   "teamId": "134879",
   "teamName": "San Antonio Spurs",
-  "updatedAt": "2026-11-22T05:14:05.807Z",
+  "updatedAt": "2026-11-24T03:49:49.765Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401910045",
-      "strEvent": "Sacramento Kings vs San Antonio Spurs",
-      "strHomeTeam": "Sacramento Kings",
-      "strAwayTeam": "San Antonio Spurs",
-      "dateEvent": "2026-11-23",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-24T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Golden 1 Center",
-      "strStatus": "NS",
-      "strTVStation": "DAZN SAS",
-      "updatedAt": "2026-10-22T11:12:29.193Z",
-      "source": "scraped",
-      "idHomeTeam": "134869",
-      "idAwayTeam": "134879"
-    },
     {
       "idEvent": "scraped-espn-401909325",
       "strEvent": "Portland Trail Blazers vs San Antonio Spurs",
