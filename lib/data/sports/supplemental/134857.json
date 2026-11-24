@@ -1,26 +1,8 @@
 {
   "teamId": "134857",
   "teamName": "Minnesota Wild",
-  "updatedAt": "2026-11-22T07:04:03.663Z",
+  "updatedAt": "2026-11-24T10:04:16.265Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020384",
-      "strEvent": "San Jose Sharks vs Minnesota Wild",
-      "strHomeTeam": "San Jose Sharks",
-      "strAwayTeam": "Minnesota Wild",
-      "dateEvent": "2026-11-23",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-24T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "SAP Center at San Jose",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, NBCSCA, SN, SN360, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020384",
-      "idHomeTeam": "134853",
-      "idAwayTeam": "134857"
-    },
     {
       "idEvent": "nhl-2026020396",
       "strEvent": "Minnesota Wild vs Utah Mammoth",

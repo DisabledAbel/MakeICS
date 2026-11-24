@@ -1,26 +1,8 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-11-22T07:04:03.663Z",
+  "updatedAt": "2026-11-24T10:04:16.265Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020380",
-      "strEvent": "Ottawa Senators vs Calgary Flames",
-      "strHomeTeam": "Ottawa Senators",
-      "strAwayTeam": "Calgary Flames",
-      "dateEvent": "2026-11-23",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-24T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canadian Tire Centre",
-      "strStatus": "NS",
-      "strTVStation": "SN+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020380",
-      "idHomeTeam": "134835",
-      "idAwayTeam": "134848"
-    },
     {
       "idEvent": "nhl-2026020389",
       "strEvent": "Florida Panthers vs Ottawa Senators",

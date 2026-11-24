@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-11-22T07:04:03.663Z",
+  "updatedAt": "2026-11-24T10:04:16.265Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020379",
-      "strEvent": "Montreal Canadiens vs Los Angeles Kings",
-      "strHomeTeam": "Montreal Canadiens",
-      "strAwayTeam": "Los Angeles Kings",
-      "dateEvent": "2026-11-23",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-24T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Centre Bell",
-      "strStatus": "NS",
-      "strTVStation": "ABTV , SN+, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020379",
-      "idHomeTeam": "134834",
-      "idAwayTeam": "134852"
-    },
     {
       "idEvent": "nhl-2026020397",
       "strEvent": "Colorado Avalanche vs Montreal Canadiens",

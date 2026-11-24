@@ -1,26 +1,8 @@
 {
   "teamId": "140082",
   "teamName": "Seattle Kraken",
-  "updatedAt": "2026-11-22T07:04:03.663Z",
+  "updatedAt": "2026-11-24T10:04:16.265Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020383",
-      "strEvent": "Seattle Kraken vs Anaheim Ducks",
-      "strHomeTeam": "Seattle Kraken",
-      "strAwayTeam": "Anaheim Ducks",
-      "dateEvent": "2026-11-23",
-      "strTime": "02:40:00",
-      "strTimestamp": "2026-11-24T02:40:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Climate Pledge Arena",
-      "strStatus": "NS",
-      "strTVStation": "FOXLA+, KONG, Prime Video",
-      "updatedAt": "2026-10-15T21:31:03.866Z",
-      "source": "scraped",
-      "sourceEventId": "2026020383",
-      "idHomeTeam": "140082",
-      "idAwayTeam": "134846"
-    },
     {
       "idEvent": "nhl-2026020399",
       "strEvent": "Seattle Kraken vs Chicago Blackhawks",

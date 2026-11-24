@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-11-22T07:04:03.663Z",
+  "updatedAt": "2026-11-24T10:04:16.265Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020382",
-      "strEvent": "Winnipeg Jets vs Utah Mammoth",
-      "strHomeTeam": "Winnipeg Jets",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-11-23",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-24T00:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Canada Life Centre",
-      "strStatus": "NS",
-      "strTVStation": "Mammoth+, SN+, Utah16",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
-      "source": "scraped",
-      "sourceEventId": "2026020382",
-      "idHomeTeam": "134851",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020386",
       "strEvent": "Boston Bruins vs Winnipeg Jets",
