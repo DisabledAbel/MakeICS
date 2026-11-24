@@ -13838,6 +13838,30 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:nhl-2026020378",
+      "uid": "sportsdb-nhl-2026020378@makeics.local",
+      "source": "lib/data/sports/supplemental/134839.json",
+      "record": {
+        "idEvent": "nhl-2026020378",
+        "strEvent": "New Jersey Devils vs Columbus Blue Jackets",
+        "strHomeTeam": "New Jersey Devils",
+        "strAwayTeam": "Columbus Blue Jackets",
+        "dateEvent": "2026-11-23",
+        "strTime": "00:00:00",
+        "strTimestamp": "2026-11-24T00:00:00Z",
+        "strLeague": "NHL",
+        "strVenue": "Prudential Center",
+        "strStatus": "NS",
+        "strTVStation": "CBJHN, CBJNHL, MSG, NHLN",
+        "updatedAt": "2026-10-19T22:28:16.593Z",
+        "source": "scraped",
+        "sourceEventId": "2026020378",
+        "idHomeTeam": "134840",
+        "idAwayTeam": "134839"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-2026-04-30t02-00z-seattle-storm-vs-portland-fire",
       "uid": "sportsdb-scraped-2026-04-30t02-00z-seattle-storm-vs-portland-fire@makeics.local",
       "source": "lib/data/sports/supplemental/152565.json",
