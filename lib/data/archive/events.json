@@ -98336,6 +98336,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-abbf25b8-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-abbf25b8-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134923.json",
+      "record": {
+        "idEvent": "sdv-nfl-abbf25b8-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Washington Commanders vs Cincinnati Bengals",
+        "strHomeTeam": "Washington Commanders",
+        "strAwayTeam": "Cincinnati Bengals",
+        "dateEvent": "2026-11-24",
+        "strTime": "01:15:00Z",
+        "strTimestamp": "2026-11-24T01:15:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Northwest Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134923.json",
