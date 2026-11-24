@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:44:36.014Z",
+  "generatedAt": "2026-11-24T15:35:22.835Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -7527,6 +7527,35 @@
       "label": "Dec 04, 2026"
     },
     {
+      "id": "tt37363222",
+      "title": "Elsinore",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDczMTRhNTItOTlmOC00MmE2LWEzODMtNGViMDE3NWE1NDY0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 04 Dec 2026 00:00:00 GMT",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "people": [
+        {
+          "id": "nm0778831",
+          "name": "Andrew Scott"
+        },
+        {
+          "id": "nm1469236",
+          "name": "Olivia Colman"
+        },
+        {
+          "id": "nm0684877",
+          "name": "Billie Piper"
+        },
+        {
+          "id": "nm0230826",
+          "name": "Monica Dolan"
+        }
+      ],
+      "label": "Dec 04, 2026"
+    },
+    {
       "id": "tt34491649",
       "title": "Zero A.D.: The Birth of Christ",
       "image": "https://m.media-amazon.com/images/M/MV5BZTgzOGI2MjgtZDg3NC00NDI4LWIwYTAtZjc1OTNhZjk0Y2Y2XkEyXkFqcGc@._V1_.jpg",
@@ -7574,10 +7603,12 @@
     {
       "id": "tt21357150",
       "title": "Avengers: Doomsday",
-      "image": "https://m.media-amazon.com/images/M/MV5BNGEwYWZkN2UtOTQ5Mi00MGQzLWEzNjYtMWMyNDBkMTkzMWNkXkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmE1ODE1ZTUtNzc4OS00NmFhLTlkMTYtOGE5OThhNTczOGIyXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Dec 2026 00:00:00 GMT",
       "genres": [
-        "Action"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
       ],
       "people": [
         {
@@ -7695,8 +7726,8 @@
       ],
       "people": [
         {
-          "id": "nm3931538",
-          "name": "Sam Richardson"
+          "id": "nm11880640",
+          "name": "Walker Scobell"
         },
         {
           "id": "nm4141252",
@@ -7707,8 +7738,8 @@
           "name": "Jason Sudeikis"
         },
         {
-          "id": "nm11880640",
-          "name": "Walker Scobell"
+          "id": "nm3931538",
+          "name": "Sam Richardson"
         }
       ],
       "label": "Dec 23, 2026"
@@ -8157,7 +8188,7 @@
     {
       "id": "tt20259240",
       "title": "Cloud Girl",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGJjMGQxMTQtYTU4OC00NzI4LWJmMzctOWM3YThkZjQ3Mzg2XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjRlZjFiNjktMWVjNC00M2E5LTkzN2MtZDQ1YWIyODBiNmY0XkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 08 Jan 2027 00:00:00 GMT",
       "genres": [
         "Animation",
@@ -8604,12 +8635,12 @@
           "name": "Lizzy Caplan"
         },
         {
-          "id": "nm2192439",
-          "name": "Lucy DeVito"
-        },
-        {
           "id": "nm0001764",
           "name": "John Stamos"
+        },
+        {
+          "id": "nm2192439",
+          "name": "Lucy DeVito"
         },
         {
           "id": "nm5153701",
@@ -8690,16 +8721,16 @@
           "name": "Stephen Root"
         },
         {
-          "id": "nm0197647",
-          "name": "James Badge Dale"
+          "id": "nm6180088",
+          "name": "Young Mazino"
         },
         {
           "id": "nm1782299",
           "name": "Imogen Poots"
         },
         {
-          "id": "nm0086301",
-          "name": "Macon Blair"
+          "id": "nm0197647",
+          "name": "James Badge Dale"
         }
       ],
       "label": "Jan 29, 2027"
@@ -8735,6 +8766,31 @@
       "label": "Jan 29, 2027"
     },
     {
+      "id": "tt40184758",
+      "title": "Inji Vellam",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA2ZTBjZjktOGMzMS00NDAzLThkOTUtOGY4MjY3N2NjOWNkXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 29 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "people": [
+        {
+          "id": "nm7367695",
+          "name": "Sai Pallavi"
+        },
+        {
+          "id": "nm4043111",
+          "name": "Vijay Sethupathi"
+        },
+        {
+          "id": "nm10182951",
+          "name": "Chaithra J. Achar"
+        }
+      ],
+      "label": "Jan 29, 2027"
+    },
+    {
       "id": "tt33295857",
       "title": "Karoshi",
       "image": "https://m.media-amazon.com/images/M/MV5BYWVhZGZlYjgtNWQ4Ny00NjdlLTk3MDItZGI0Mjc5NzRlNmYzXkEyXkFqcGc@._V1_.jpg",
@@ -8749,12 +8805,12 @@
           "name": "Isabel May"
         },
         {
-          "id": "nm0002064",
-          "name": "Giancarlo Esposito"
-        },
-        {
           "id": "nm0131966",
           "name": "Bill Camp"
+        },
+        {
+          "id": "nm0002064",
+          "name": "Giancarlo Esposito"
         },
         {
           "id": "nm7248827",
@@ -9199,7 +9255,7 @@
     {
       "id": "tt8992304",
       "title": "K-Pop: The Debut",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGRkZmJiMDMtYzgyNS00N2FmLTk3Y2ItMmE2MzlhNDU0OWY2XkEyXkFqcGc@._V1_.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWQ3MTQxMjEtZmM1NC00MDRiLTkxMmQtODAyODRlMjliNDBhXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 26 Feb 2027 00:00:00 GMT",
       "genres": [
         "Comedy",
@@ -9360,12 +9416,12 @@
           "name": "Dominic West"
         },
         {
-          "id": "nm1968873",
-          "name": "Ed Speleers"
-        },
-        {
           "id": "nm4101853",
           "name": "Alexander Dreymon"
+        },
+        {
+          "id": "nm1968873",
+          "name": "Ed Speleers"
         },
         {
           "id": "nm2381142",
@@ -9390,16 +9446,16 @@
           "name": "Scarlett Johansson"
         },
         {
-          "id": "nm0512934",
-          "name": "Hamish Linklater"
-        },
-        {
-          "id": "nm1418096",
-          "name": "Samantha Sloyan"
-        },
-        {
           "id": "nm0001303",
           "name": "Carla Gugino"
+        },
+        {
+          "id": "nm0000491",
+          "name": "John Leguizamo"
+        },
+        {
+          "id": "nm0512934",
+          "name": "Hamish Linklater"
         }
       ],
       "label": "Mar 12, 2027"
@@ -9549,12 +9605,12 @@
           "name": "Johnny Depp"
         },
         {
-          "id": "nm0004851",
-          "name": "Penélope Cruz"
-        },
-        {
           "id": "nm3218692",
           "name": "Madelyn Cline"
+        },
+        {
+          "id": "nm0004851",
+          "name": "Penélope Cruz"
         },
         {
           "id": "nm4130813",
@@ -9883,8 +9939,8 @@
           "name": "Keke Palmer"
         },
         {
-          "id": "nm0000316",
-          "name": "Mel Brooks"
+          "id": "nm0001879",
+          "name": "Daphne Zuniga"
         }
       ],
       "label": "Apr 23, 2027"
@@ -10058,8 +10114,8 @@
           "name": "Jason Clarke"
         },
         {
-          "id": "nm1569067",
-          "name": "Wilson Bethel"
+          "id": "nm3147751",
+          "name": "LaKeith Stanfield"
         }
       ],
       "label": "May 14, 2027"
@@ -10517,6 +10573,10 @@
       ],
       "people": [
         {
+          "id": "nm0396558",
+          "name": "Nicholas Hoult"
+        },
+        {
           "id": "nm1711114",
           "name": "Skyler Gisondo"
         },
@@ -10525,12 +10585,8 @@
           "name": "Adria Arjona"
         },
         {
-          "id": "nm0396558",
-          "name": "Nicholas Hoult"
-        },
-        {
-          "id": "nm0000498",
-          "name": "Matthew Lillard"
+          "id": "nm0277213",
+          "name": "Nathan Fillion"
         }
       ],
       "label": "Jul 09, 2027"
@@ -10888,12 +10944,12 @@
       ],
       "people": [
         {
-          "id": "nm8855592",
-          "name": "Ella Bright"
-        },
-        {
           "id": "nm9296746",
           "name": "Mason Thames"
+        },
+        {
+          "id": "nm8855592",
+          "name": "Ella Bright"
         },
         {
           "id": "nm8482772",
@@ -11114,12 +11170,16 @@
           "name": "Denzel Washington"
         },
         {
-          "id": "nm3500582",
-          "name": "Teyonah Parris"
+          "id": "nm0505971",
+          "name": "Ted Levine"
         },
         {
-          "id": "nm10416836",
-          "name": "Miles Caton"
+          "id": "nm0002253",
+          "name": "John Carroll Lynch"
+        },
+        {
+          "id": "nm3500582",
+          "name": "Teyonah Parris"
         }
       ],
       "label": "Oct 01, 2027"
@@ -11298,12 +11358,12 @@
           "name": "Samara Weaving"
         },
         {
-          "id": "nm0000098",
-          "name": "Jennifer Aniston"
-        },
-        {
           "id": "nm0227759",
           "name": "Peter Dinklage"
+        },
+        {
+          "id": "nm0000098",
+          "name": "Jennifer Aniston"
         },
         {
           "id": "nm2359658",
@@ -11471,6 +11531,36 @@
         }
       ],
       "label": "Nov 19, 2027"
+    },
+    {
+      "id": "tt26680923",
+      "title": "Frozen III",
+      "image": "https://m.media-amazon.com/images/M/MV5BODUxZWQzMWUtNjZkZS00MmU0LWJiOGMtNzYyYmJmYzI0MTg0XkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Wed, 24 Nov 2027 00:00:00 GMT",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "people": [
+        {
+          "id": "nm0068338",
+          "name": "Kristen Bell"
+        },
+        {
+          "id": "nm2676147",
+          "name": "Jonathan Groff"
+        },
+        {
+          "id": "nm1265802",
+          "name": "Josh Gad"
+        },
+        {
+          "id": "nm0579953",
+          "name": "Idina Menzel"
+        }
+      ],
+      "label": "Nov 24, 2027"
     }
   ]
 }
