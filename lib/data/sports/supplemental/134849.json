@@ -1,7 +1,7 @@
 {
   "teamId": "134849",
   "teamName": "Edmonton Oilers",
-  "updatedAt": "2026-11-25T08:49:58.478Z",
+  "updatedAt": "2026-11-25T21:49:19.214Z",
   "events": [
     {
       "idEvent": "nhl-2026020414",
@@ -104,8 +104,8 @@
       "strLeague": "NHL",
       "strVenue": "Grand Casino Arena",
       "strStatus": "NS",
-      "strTVStation": "KSTC, MINNHL, SN1, Wild+",
-      "updatedAt": "2026-10-06T00:08:53.814Z",
+      "strTVStation": "HBO MAX, SN1, TNT",
+      "updatedAt": "2026-11-25T21:49:19.214Z",
       "source": "scraped",
       "sourceEventId": "2026020494",
       "idHomeTeam": "134857",
