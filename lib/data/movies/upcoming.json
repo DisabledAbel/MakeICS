@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:35:22.835Z",
+  "generatedAt": "2026-11-25T15:20:22.722Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -7460,8 +7460,8 @@
           "name": "Sonoya Mizuno"
         },
         {
-          "id": "nm4863101",
-          "name": "Ben Ashenden"
+          "id": "nm0001003",
+          "name": "Simon Callow"
         }
       ],
       "label": "Dec 04, 2026"
@@ -7663,6 +7663,7 @@
     {
       "id": "tt39382862",
       "title": "Tutu",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmJiMDVkZTYtMTlhNi00YzY4LTljYmQtNTk5NTc1NDA5MjNkXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "Fri, 18 Dec 2026 00:00:00 GMT",
       "genres": [
         "Documentary",
@@ -8539,8 +8540,8 @@
           "name": "Julia Louis-Dreyfus"
         },
         {
-          "id": "nm0798971",
-          "name": "Sarah Silverman"
+          "id": "nm2788156",
+          "name": "Beanie Feldstein"
         }
       ],
       "label": "Jan 22, 2027"
@@ -9292,12 +9293,12 @@
       ],
       "people": [
         {
-          "id": "nm0190441",
-          "name": "Raymond Cruz"
-        },
-        {
           "id": "nm2834669",
           "name": "Monica Raymund"
+        },
+        {
+          "id": "nm0190441",
+          "name": "Raymond Cruz"
         },
         {
           "id": "nm0379596",
@@ -9494,8 +9495,8 @@
           "name": "Mark Rylance"
         },
         {
-          "id": "nm0388061",
-          "name": "Douglas Hodge"
+          "id": "nm6024635",
+          "name": "Shira Haas"
         }
       ],
       "label": "Mar 19, 2027"
@@ -10044,20 +10045,20 @@
       ],
       "people": [
         {
-          "id": "nm0000102",
-          "name": "Kevin Bacon"
-        },
-        {
           "id": "nm0000510",
           "name": "Andie MacDowell"
         },
         {
-          "id": "nm2200639",
-          "name": "Patrick Schwarzenegger"
-        },
-        {
           "id": "nm3697443",
           "name": "Phoebe Dynevor"
+        },
+        {
+          "id": "nm0000102",
+          "name": "Kevin Bacon"
+        },
+        {
+          "id": "nm2200639",
+          "name": "Patrick Schwarzenegger"
         }
       ],
       "label": "May 07, 2027"
@@ -10146,16 +10147,16 @@
           "name": "Emma Stone"
         },
         {
-          "id": "nm11926377",
-          "name": "Drew 'Druski' Desbordes"
-        },
-        {
           "id": "nm1517976",
           "name": "Chris Pine"
         },
         {
           "id": "nm0000209",
           "name": "Tim Robbins"
+        },
+        {
+          "id": "nm0000651",
+          "name": "Sissy Spacek"
         }
       ],
       "label": "May 21, 2027"
@@ -10893,16 +10894,16 @@
           "name": "Natalie Alyn Lind"
         },
         {
+          "id": "nm7744585",
+          "name": "Schuyler White"
+        },
+        {
           "id": "nm5486990",
           "name": "Matt Cornett"
         },
         {
           "id": "nm0246585",
           "name": "Guillermo Diaz"
-        },
-        {
-          "id": "nm7744585",
-          "name": "Schuyler White"
         }
       ],
       "label": "Aug 13, 2027"
@@ -11469,8 +11470,8 @@
           "name": "Octavia Spencer"
         },
         {
-          "id": "nm7210025",
-          "name": "Maria Bakalova"
+          "id": "nm0946382",
+          "name": "Cedric Yarbrough"
         }
       ],
       "label": "Nov 12, 2027"
