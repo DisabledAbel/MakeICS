@@ -24379,6 +24379,29 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401909316",
+      "uid": "sportsdb-scraped-espn-401909316@makeics.local",
+      "source": "lib/data/sports/supplemental/134875.json",
+      "record": {
+        "idEvent": "scraped-espn-401909316",
+        "strEvent": "Denver Nuggets vs Dallas Mavericks",
+        "strHomeTeam": "Denver Nuggets",
+        "strAwayTeam": "Dallas Mavericks",
+        "dateEvent": "2026-11-24",
+        "strTime": "03:00:00",
+        "strTimestamp": "2026-11-25T03:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Ball Arena",
+        "strStatus": "NS",
+        "strTVStation": "NBC",
+        "updatedAt": "2026-11-20T23:41:53.557Z",
+        "source": "scraped",
+        "idHomeTeam": "134885",
+        "idAwayTeam": "134875"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401909834",
       "uid": "sportsdb-scraped-espn-401909834@makeics.local",
       "source": "lib/data/sports/supplemental/134880.json",

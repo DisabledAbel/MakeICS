@@ -1,25 +1,8 @@
 {
   "teamId": "134885",
   "teamName": "Denver Nuggets",
-  "updatedAt": "2026-11-24T03:49:49.765Z",
+  "updatedAt": "2026-11-25T16:49:41.548Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909316",
-      "strEvent": "Denver Nuggets vs Dallas Mavericks",
-      "strHomeTeam": "Denver Nuggets",
-      "strAwayTeam": "Dallas Mavericks",
-      "dateEvent": "2026-11-24",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-25T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBC",
-      "updatedAt": "2026-11-20T23:41:53.557Z",
-      "source": "scraped",
-      "idHomeTeam": "134885",
-      "idAwayTeam": "134875"
-    },
     {
       "idEvent": "scraped-espn-401909334",
       "strEvent": "Utah Jazz vs Denver Nuggets",
