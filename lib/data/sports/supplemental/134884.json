@@ -1,25 +1,8 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-11-24T03:49:49.765Z",
+  "updatedAt": "2026-11-25T01:55:47.347Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909315",
-      "strEvent": "Washington Wizards vs Boston Celtics",
-      "strHomeTeam": "Washington Wizards",
-      "strAwayTeam": "Boston Celtics",
-      "dateEvent": "2026-11-24",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-25T01:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBC",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134884",
-      "idAwayTeam": "134860"
-    },
     {
       "idEvent": "scraped-espn-401910046",
       "strEvent": "Washington Wizards vs Orlando Magic",

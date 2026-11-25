@@ -1,25 +1,8 @@
 {
   "teamId": "134872",
   "teamName": "Detroit Pistons",
-  "updatedAt": "2026-11-22T23:15:48.590Z",
+  "updatedAt": "2026-11-25T01:55:47.347Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909314",
-      "strEvent": "Orlando Magic vs Detroit Pistons",
-      "strHomeTeam": "Orlando Magic",
-      "strAwayTeam": "Detroit Pistons",
-      "dateEvent": "2026-11-24",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-25T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Kia Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134883",
-      "idAwayTeam": "134872"
-    },
     {
       "idEvent": "scraped-espn-401909327",
       "strEvent": "Detroit Pistons vs Milwaukee Bucks",
