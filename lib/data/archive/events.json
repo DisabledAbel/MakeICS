@@ -14210,6 +14210,30 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:nhl-2026020385",
+      "uid": "sportsdb-nhl-2026020385@makeics.local",
+      "source": "lib/data/sports/supplemental/134849.json",
+      "record": {
+        "idEvent": "nhl-2026020385",
+        "strEvent": "Edmonton Oilers vs Vegas Golden Knights",
+        "strHomeTeam": "Edmonton Oilers",
+        "strAwayTeam": "Vegas Golden Knights",
+        "dateEvent": "2026-11-24",
+        "strTime": "01:00:00",
+        "strTimestamp": "2026-11-25T01:00:00Z",
+        "strLeague": "NHL",
+        "strVenue": "Rogers Place",
+        "strStatus": "NS",
+        "strTVStation": "HBO MAX, SN, TNT, TVAS",
+        "updatedAt": "2026-11-07T06:12:09.014Z",
+        "source": "scraped",
+        "sourceEventId": "2026020385",
+        "idHomeTeam": "134849",
+        "idAwayTeam": "135913"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-2026-04-30t02-00z-seattle-storm-vs-portland-fire",
       "uid": "sportsdb-scraped-2026-04-30t02-00z-seattle-storm-vs-portland-fire@makeics.local",
       "source": "lib/data/sports/supplemental/152565.json",

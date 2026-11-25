@@ -1,26 +1,8 @@
 {
   "teamId": "134849",
   "teamName": "Edmonton Oilers",
-  "updatedAt": "2026-11-23T07:52:04.080Z",
+  "updatedAt": "2026-11-25T08:49:58.478Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020385",
-      "strEvent": "Edmonton Oilers vs Vegas Golden Knights",
-      "strHomeTeam": "Edmonton Oilers",
-      "strAwayTeam": "Vegas Golden Knights",
-      "dateEvent": "2026-11-24",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-25T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Rogers Place",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN, TNT, TVAS",
-      "updatedAt": "2026-11-07T06:12:09.014Z",
-      "source": "scraped",
-      "sourceEventId": "2026020385",
-      "idHomeTeam": "134849",
-      "idAwayTeam": "135913"
-    },
     {
       "idEvent": "nhl-2026020414",
       "strEvent": "Edmonton Oilers vs Seattle Kraken",
