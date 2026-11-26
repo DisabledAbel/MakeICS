@@ -1,25 +1,8 @@
 {
   "teamId": "134881",
   "teamName": "Charlotte Hornets",
-  "updatedAt": "2026-11-24T03:49:49.765Z",
+  "updatedAt": "2026-11-26T01:35:57.870Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909318",
-      "strEvent": "Charlotte Hornets vs Chicago Bulls",
-      "strHomeTeam": "Charlotte Hornets",
-      "strAwayTeam": "Chicago Bulls",
-      "dateEvent": "2026-11-25",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-26T00:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Spectrum Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134881",
-      "idAwayTeam": "134870"
-    },
     {
       "idEvent": "scraped-espn-401910047",
       "strEvent": "Charlotte Hornets vs Brooklyn Nets",

@@ -1,25 +1,8 @@
 {
   "teamId": "134876",
   "teamName": "Houston Rockets",
-  "updatedAt": "2026-11-24T03:49:49.765Z",
+  "updatedAt": "2026-11-26T01:35:57.870Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909323",
-      "strEvent": "Houston Rockets vs Phoenix Suns",
-      "strHomeTeam": "Houston Rockets",
-      "strAwayTeam": "Phoenix Suns",
-      "dateEvent": "2026-11-25",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-11-26T01:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Toyota Center (Houston)",
-      "strStatus": "NS",
-      "strTVStation": "Suns Live",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134876",
-      "idAwayTeam": "134868"
-    },
     {
       "idEvent": "scraped-espn-401910050",
       "strEvent": "Houston Rockets vs Philadelphia 76ers",

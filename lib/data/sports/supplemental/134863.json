@@ -1,25 +1,8 @@
 {
   "teamId": "134863",
   "teamName": "Philadelphia 76ers",
-  "updatedAt": "2026-11-24T03:49:49.765Z",
+  "updatedAt": "2026-11-26T01:35:57.870Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909317",
-      "strEvent": "Philadelphia 76ers vs Miami Heat",
-      "strHomeTeam": "Philadelphia 76ers",
-      "strAwayTeam": "Miami Heat",
-      "dateEvent": "2026-11-25",
-      "strTime": "22:00:00",
-      "strTimestamp": "2026-11-25T22:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134863",
-      "idAwayTeam": "134882"
-    },
     {
       "idEvent": "scraped-espn-401909328",
       "strEvent": "Indiana Pacers vs Philadelphia 76ers",

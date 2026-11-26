@@ -1,25 +1,8 @@
 {
   "teamId": "134871",
   "teamName": "Cleveland Cavaliers",
-  "updatedAt": "2026-11-24T03:49:49.765Z",
+  "updatedAt": "2026-11-26T01:35:57.870Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909319",
-      "strEvent": "New York Knicks vs Cleveland Cavaliers",
-      "strHomeTeam": "New York Knicks",
-      "strAwayTeam": "Cleveland Cavaliers",
-      "dateEvent": "2026-11-25",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-26T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Madison Square Garden",
-      "strStatus": "NS",
-      "strTVStation": "DAZN CLE",
-      "updatedAt": "2026-10-22T03:25:05.748Z",
-      "source": "scraped",
-      "idHomeTeam": "134862",
-      "idAwayTeam": "134871"
-    },
     {
       "idEvent": "scraped-espn-401910054",
       "strEvent": "Cleveland Cavaliers vs Miami Heat",
