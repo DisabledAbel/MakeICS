@@ -1,24 +1,10 @@
 {
   "teamId": "134940",
   "teamName": "Green Bay Packers",
-  "updatedAt": "2026-11-15T18:53:50.897Z",
+  "updatedAt": "2026-11-26T08:21:33.403Z",
   "generatedAt": "2026-07-18T06:13:33.280Z",
   "generateAt": "2026-07-18T06:13:33.280Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-abbf28ed-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Los Angeles Rams vs Green Bay Packers",
-      "strHomeTeam": "Los Angeles Rams",
-      "strAwayTeam": "Green Bay Packers",
-      "dateEvent": "2026-11-26",
-      "strTime": "01:00:00Z",
-      "strTimestamp": "2026-11-26T01:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "SoFi Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ac01603b-4feb-11f1-abca-2c54536568a9",
       "strEvent": "New Orleans Saints vs Green Bay Packers",

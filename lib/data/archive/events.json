@@ -98958,6 +98958,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-abbf28ed-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-abbf28ed-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134940.json",
+      "record": {
+        "idEvent": "sdv-nfl-abbf28ed-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Los Angeles Rams vs Green Bay Packers",
+        "strHomeTeam": "Los Angeles Rams",
+        "strAwayTeam": "Green Bay Packers",
+        "dateEvent": "2026-11-26",
+        "strTime": "01:00:00Z",
+        "strTimestamp": "2026-11-26T01:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "SoFi Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134923.json",
