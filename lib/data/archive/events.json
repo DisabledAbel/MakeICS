@@ -99360,6 +99360,46 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-abbf2c16-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-abbf2c16-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134938.json",
+      "record": {
+        "idEvent": "sdv-nfl-abbf2c16-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Detroit Lions vs Chicago Bears",
+        "strHomeTeam": "Detroit Lions",
+        "strAwayTeam": "Chicago Bears",
+        "dateEvent": "2026-11-26",
+        "strTime": "18:00:00Z",
+        "strTimestamp": "2026-11-26T18:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Ford Field",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:sdv-nfl-abbf2f12-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-abbf2f12-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134934.json",
+      "record": {
+        "idEvent": "sdv-nfl-abbf2f12-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Dallas Cowboys vs Philadelphia Eagles",
+        "strHomeTeam": "Dallas Cowboys",
+        "strAwayTeam": "Philadelphia Eagles",
+        "dateEvent": "2026-11-26",
+        "strTime": "21:30:00Z",
+        "strTimestamp": "2026-11-26T21:30:00Z",
+        "strLeague": "NFL",
+        "strVenue": "AT&T Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134923.json",

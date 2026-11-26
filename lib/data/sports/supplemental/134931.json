@@ -1,7 +1,7 @@
 {
   "teamId": "134931",
   "teamName": "Kansas City Chiefs",
-  "updatedAt": "2026-11-25T21:44:06.054Z",
+  "updatedAt": "2026-11-26T21:34:43.740Z",
   "generatedAt": "2026-07-18T06:13:33.270Z",
   "generateAt": "2026-07-18T06:13:33.270Z",
   "events": [
@@ -56,7 +56,7 @@
       "strTime": "01:15:00Z",
       "strTimestamp": "2026-12-22T01:15:00Z",
       "strLeague": "NFL",
-      "strVenue": "",
+      "strVenue": null,
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"

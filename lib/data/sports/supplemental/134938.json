@@ -1,24 +1,10 @@
 {
   "teamId": "134938",
   "teamName": "Chicago Bears",
-  "updatedAt": "2026-11-25T21:44:06.066Z",
+  "updatedAt": "2026-11-26T21:34:43.745Z",
   "generatedAt": "2026-07-18T00:00:00.000Z",
   "generateAt": "2026-07-18T00:00:00.000Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-abbf2c16-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Detroit Lions vs Chicago Bears",
-      "strHomeTeam": "Detroit Lions",
-      "strAwayTeam": "Chicago Bears",
-      "dateEvent": "2026-11-26",
-      "strTime": "18:00:00Z",
-      "strTimestamp": "2026-11-26T18:00:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Ford Field",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ac015881-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Chicago Bears vs Jacksonville Jaguars",

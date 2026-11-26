@@ -1,24 +1,10 @@
 {
   "teamId": "134934",
   "teamName": "Dallas Cowboys",
-  "updatedAt": "2026-11-25T21:44:06.057Z",
+  "updatedAt": "2026-11-26T21:34:43.742Z",
   "generatedAt": "2026-07-18T00:00:00.000Z",
   "generateAt": "2026-07-18T00:00:00.000Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-abbf2f12-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Dallas Cowboys vs Philadelphia Eagles",
-      "strHomeTeam": "Dallas Cowboys",
-      "strAwayTeam": "Philadelphia Eagles",
-      "dateEvent": "2026-11-26",
-      "strTime": "21:30:00Z",
-      "strTimestamp": "2026-11-26T21:30:00Z",
-      "strLeague": "NFL",
-      "strVenue": "AT&T Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-ac207eae-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Seattle Seahawks vs Dallas Cowboys",
@@ -28,7 +14,7 @@
       "strTime": "01:15:00Z",
       "strTimestamp": "2026-12-08T01:15:00Z",
       "strLeague": "NFL",
-      "strVenue": "TBD",
+      "strVenue": null,
       "strTVStation": null,
       "strStatus": "NS",
       "source": "sportsdataverse"
