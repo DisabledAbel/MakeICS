@@ -1,26 +1,8 @@
 {
   "teamId": "134845",
   "teamName": "Washington Capitals",
-  "updatedAt": "2026-11-22T07:04:03.663Z",
+  "updatedAt": "2026-11-26T08:35:34.083Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020392",
-      "strEvent": "Washington Capitals vs Philadelphia Flyers",
-      "strHomeTeam": "Washington Capitals",
-      "strAwayTeam": "Philadelphia Flyers",
-      "dateEvent": "2026-11-25",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-26T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Capital One Arena",
-      "strStatus": "NS",
-      "strTVStation": "MNMT, NBCSP+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020392",
-      "idHomeTeam": "134845",
-      "idAwayTeam": "134843"
-    },
     {
       "idEvent": "nhl-2026020406",
       "strEvent": "Washington Capitals vs Florida Panthers",

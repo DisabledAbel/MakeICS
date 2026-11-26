@@ -1,26 +1,8 @@
 {
   "teamId": "148494",
   "teamName": "Utah Mammoth",
-  "updatedAt": "2026-11-24T10:04:16.265Z",
+  "updatedAt": "2026-11-26T08:35:34.083Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020396",
-      "strEvent": "Minnesota Wild vs Utah Mammoth",
-      "strHomeTeam": "Minnesota Wild",
-      "strAwayTeam": "Utah Mammoth",
-      "dateEvent": "2026-11-25",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-26T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Grand Casino Arena",
-      "strStatus": "NS",
-      "strTVStation": "MINNHL, Mammoth+, Utah16, Wild+",
-      "updatedAt": "2026-10-12T15:42:26.679Z",
-      "source": "scraped",
-      "sourceEventId": "2026020396",
-      "idHomeTeam": "134857",
-      "idAwayTeam": "148494"
-    },
     {
       "idEvent": "nhl-2026020402",
       "strEvent": "Nashville Predators vs Utah Mammoth",

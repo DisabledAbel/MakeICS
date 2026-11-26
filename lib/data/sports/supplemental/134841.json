@@ -1,26 +1,8 @@
 {
   "teamId": "134841",
   "teamName": "New York Islanders",
-  "updatedAt": "2026-11-24T10:04:16.265Z",
+  "updatedAt": "2026-11-26T08:35:34.083Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020390",
-      "strEvent": "New York Islanders vs St. Louis Blues",
-      "strHomeTeam": "New York Islanders",
-      "strAwayTeam": "St. Louis Blues",
-      "dateEvent": "2026-11-25",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-26T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "UBS Arena",
-      "strStatus": "NS",
-      "strTVStation": "BN+, MSGSN, STLNHL",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020390",
-      "idHomeTeam": "134841",
-      "idAwayTeam": "134859"
-    },
     {
       "idEvent": "nhl-2026020412",
       "strEvent": "New York Islanders vs Winnipeg Jets",

@@ -1,26 +1,8 @@
 {
   "teamId": "134854",
   "teamName": "Chicago Blackhawks",
-  "updatedAt": "2026-11-25T21:49:19.214Z",
+  "updatedAt": "2026-11-26T08:35:34.083Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020399",
-      "strEvent": "Seattle Kraken vs Chicago Blackhawks",
-      "strHomeTeam": "Seattle Kraken",
-      "strAwayTeam": "Chicago Blackhawks",
-      "dateEvent": "2026-11-25",
-      "strTime": "02:40:00",
-      "strTimestamp": "2026-11-26T02:40:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Climate Pledge Arena",
-      "strStatus": "NS",
-      "strTVStation": "CHSN, KING, KONG, Prime Video",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020399",
-      "idHomeTeam": "140082",
-      "idAwayTeam": "134854"
-    },
     {
       "idEvent": "nhl-2026020411",
       "strEvent": "Chicago Blackhawks vs New York Rangers",

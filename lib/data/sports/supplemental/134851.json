@@ -1,26 +1,8 @@
 {
   "teamId": "134851",
   "teamName": "Winnipeg Jets",
-  "updatedAt": "2026-11-24T10:04:16.265Z",
+  "updatedAt": "2026-11-26T08:35:34.083Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020386",
-      "strEvent": "Boston Bruins vs Winnipeg Jets",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Winnipeg Jets",
-      "dateEvent": "2026-11-25",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-26T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NESN, TSN3",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020386",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "134851"
-    },
     {
       "idEvent": "nhl-2026020412",
       "strEvent": "New York Islanders vs Winnipeg Jets",

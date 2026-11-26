@@ -1,26 +1,8 @@
 {
   "teamId": "134836",
   "teamName": "Tampa Bay Lightning",
-  "updatedAt": "2026-11-23T07:52:04.080Z",
+  "updatedAt": "2026-11-26T08:35:34.083Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020388",
-      "strEvent": "Tampa Bay Lightning vs Carolina Hurricanes",
-      "strHomeTeam": "Tampa Bay Lightning",
-      "strAwayTeam": "Carolina Hurricanes",
-      "dateEvent": "2026-11-25",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-26T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Benchmark International Arena",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020388",
-      "idHomeTeam": "134836",
-      "idAwayTeam": "134838"
-    },
     {
       "idEvent": "nhl-2026020404",
       "strEvent": "Tampa Bay Lightning vs Ottawa Senators",

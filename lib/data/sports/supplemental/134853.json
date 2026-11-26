@@ -1,26 +1,8 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-11-24T10:04:16.265Z",
+  "updatedAt": "2026-11-26T08:35:34.083Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020398",
-      "strEvent": "Anaheim Ducks vs San Jose Sharks",
-      "strHomeTeam": "Anaheim Ducks",
-      "strAwayTeam": "San Jose Sharks",
-      "dateEvent": "2026-11-25",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-26T03:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Honda Center",
-      "strStatus": "NS",
-      "strTVStation": "FOXLA+, NBCSCA, Prime Video",
-      "updatedAt": "2026-10-15T21:31:03.866Z",
-      "source": "scraped",
-      "sourceEventId": "2026020398",
-      "idHomeTeam": "134846",
-      "idAwayTeam": "134853"
-    },
     {
       "idEvent": "nhl-2026020410",
       "strEvent": "San Jose Sharks vs Vegas Golden Knights",

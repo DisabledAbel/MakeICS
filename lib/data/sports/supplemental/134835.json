@@ -1,26 +1,8 @@
 {
   "teamId": "134835",
   "teamName": "Ottawa Senators",
-  "updatedAt": "2026-11-24T10:04:16.265Z",
+  "updatedAt": "2026-11-26T08:35:34.083Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020389",
-      "strEvent": "Florida Panthers vs Ottawa Senators",
-      "strHomeTeam": "Florida Panthers",
-      "strAwayTeam": "Ottawa Senators",
-      "dateEvent": "2026-11-25",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-26T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Amerant Bank Arena",
-      "strStatus": "NS",
-      "strTVStation": "RDSI, SCRIPPS, TSN5",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020389",
-      "idHomeTeam": "134833",
-      "idAwayTeam": "134835"
-    },
     {
       "idEvent": "nhl-2026020404",
       "strEvent": "Tampa Bay Lightning vs Ottawa Senators",

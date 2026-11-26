@@ -1,26 +1,8 @@
 {
   "teamId": "134844",
   "teamName": "Pittsburgh Penguins",
-  "updatedAt": "2026-11-25T21:49:19.214Z",
+  "updatedAt": "2026-11-26T08:35:34.083Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020391",
-      "strEvent": "Pittsburgh Penguins vs Calgary Flames",
-      "strHomeTeam": "Pittsburgh Penguins",
-      "strAwayTeam": "Calgary Flames",
-      "dateEvent": "2026-11-25",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-11-26T00:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "PPG Paints Arena",
-      "strStatus": "NS",
-      "strTVStation": "SN-PIT, SNW",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020391",
-      "idHomeTeam": "134844",
-      "idAwayTeam": "134848"
-    },
     {
       "idEvent": "nhl-2026020413",
       "strEvent": "Buffalo Sabres vs Pittsburgh Penguins",

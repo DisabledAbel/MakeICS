@@ -1,26 +1,8 @@
 {
   "teamId": "134858",
   "teamName": "Nashville Predators",
-  "updatedAt": "2026-11-22T07:04:03.663Z",
+  "updatedAt": "2026-11-26T08:35:34.083Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020395",
-      "strEvent": "Dallas Stars vs Nashville Predators",
-      "strHomeTeam": "Dallas Stars",
-      "strAwayTeam": "Nashville Predators",
-      "dateEvent": "2026-11-25",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-26T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "American Airlines Center",
-      "strStatus": "NS",
-      "strTVStation": "KDFI, Prime Video, SCRIPPS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020395",
-      "idHomeTeam": "134856",
-      "idAwayTeam": "134858"
-    },
     {
       "idEvent": "nhl-2026020402",
       "strEvent": "Nashville Predators vs Utah Mammoth",

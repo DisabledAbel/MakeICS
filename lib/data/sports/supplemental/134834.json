@@ -1,26 +1,8 @@
 {
   "teamId": "134834",
   "teamName": "Montreal Canadiens",
-  "updatedAt": "2026-11-24T10:04:16.265Z",
+  "updatedAt": "2026-11-26T08:35:34.083Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020397",
-      "strEvent": "Colorado Avalanche vs Montreal Canadiens",
-      "strHomeTeam": "Colorado Avalanche",
-      "strAwayTeam": "Montreal Canadiens",
-      "dateEvent": "2026-11-25",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-26T02:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Ball Arena",
-      "strStatus": "NS",
-      "strTVStation": "ALT, KTVD, RDS, TSN2",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020397",
-      "idHomeTeam": "134855",
-      "idAwayTeam": "134834"
-    },
     {
       "idEvent": "nhl-2026020415",
       "strEvent": "Vegas Golden Knights vs Montreal Canadiens",
