@@ -24899,6 +24899,52 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:scraped-espn-401909324",
+      "uid": "sportsdb-scraped-espn-401909324@makeics.local",
+      "source": "lib/data/sports/supplemental/134865.json",
+      "record": {
+        "idEvent": "scraped-espn-401909324",
+        "strEvent": "Golden State Warriors vs Sacramento Kings",
+        "strHomeTeam": "Golden State Warriors",
+        "strAwayTeam": "Sacramento Kings",
+        "dateEvent": "2026-11-25",
+        "strTime": "03:00:00",
+        "strTimestamp": "2026-11-26T03:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Chase Center",
+        "strStatus": "NS",
+        "strTVStation": null,
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134865",
+        "idAwayTeam": "134869"
+      }
+    },
+    {
+      "kind": "sports",
+      "identity": "sports:scraped-espn-401909325",
+      "uid": "sportsdb-scraped-espn-401909325@makeics.local",
+      "source": "lib/data/sports/supplemental/134879.json",
+      "record": {
+        "idEvent": "scraped-espn-401909325",
+        "strEvent": "Portland Trail Blazers vs San Antonio Spurs",
+        "strHomeTeam": "Portland Trail Blazers",
+        "strAwayTeam": "San Antonio Spurs",
+        "dateEvent": "2026-11-25",
+        "strTime": "03:00:00",
+        "strTimestamp": "2026-11-26T03:00:00Z",
+        "strLeague": "NBA",
+        "strVenue": "Moda Center",
+        "strStatus": "NS",
+        "strTVStation": "ESPN",
+        "updatedAt": "2026-10-10T06:13:46.235Z",
+        "source": "scraped",
+        "idHomeTeam": "134888",
+        "idAwayTeam": "134879"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:scraped-espn-401909834",
       "uid": "sportsdb-scraped-espn-401909834@makeics.local",
       "source": "lib/data/sports/supplemental/134880.json",

@@ -1,25 +1,8 @@
 {
   "teamId": "134869",
   "teamName": "Sacramento Kings",
-  "updatedAt": "2026-11-24T03:49:49.765Z",
+  "updatedAt": "2026-11-26T16:26:37.075Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909324",
-      "strEvent": "Golden State Warriors vs Sacramento Kings",
-      "strHomeTeam": "Golden State Warriors",
-      "strAwayTeam": "Sacramento Kings",
-      "dateEvent": "2026-11-25",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-26T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Chase Center",
-      "strStatus": "NS",
-      "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134865",
-      "idAwayTeam": "134869"
-    },
     {
       "idEvent": "scraped-espn-401910060",
       "strEvent": "Sacramento Kings vs Minnesota Timberwolves",

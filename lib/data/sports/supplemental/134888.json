@@ -1,25 +1,8 @@
 {
   "teamId": "134888",
   "teamName": "Portland Trail Blazers",
-  "updatedAt": "2026-11-24T03:49:49.765Z",
+  "updatedAt": "2026-11-26T16:26:37.075Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909325",
-      "strEvent": "Portland Trail Blazers vs San Antonio Spurs",
-      "strHomeTeam": "Portland Trail Blazers",
-      "strAwayTeam": "San Antonio Spurs",
-      "dateEvent": "2026-11-25",
-      "strTime": "03:00:00",
-      "strTimestamp": "2026-11-26T03:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Moda Center",
-      "strStatus": "NS",
-      "strTVStation": "ESPN",
-      "updatedAt": "2026-10-10T06:13:46.235Z",
-      "source": "scraped",
-      "idHomeTeam": "134888",
-      "idAwayTeam": "134879"
-    },
     {
       "idEvent": "scraped-espn-401909336",
       "strEvent": "Portland Trail Blazers vs Golden State Warriors",
