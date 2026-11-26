@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:20:22.722Z",
+  "generatedAt": "2026-11-26T14:47:43.115Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -8340,12 +8340,12 @@
       ],
       "people": [
         {
-          "id": "nm1557329",
-          "name": "Jessica Rothe"
-        },
-        {
           "id": "nm3994408",
           "name": "Jane Levy"
+        },
+        {
+          "id": "nm1557329",
+          "name": "Jessica Rothe"
         },
         {
           "id": "nm10867068",
@@ -8394,6 +8394,35 @@
         "Horror"
       ],
       "people": [],
+      "label": "Jan 15, 2027"
+    },
+    {
+      "id": "tt36770512",
+      "title": "Bunker",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2I3MDZhZmQtMzlhOS00NDI0LTkyYjUtNTg4YTE3OWJjOWQzXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 15 Jan 2027 00:00:00 GMT",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm0000849",
+          "name": "Javier Bardem"
+        },
+        {
+          "id": "nm0004851",
+          "name": "Penélope Cruz"
+        },
+        {
+          "id": "nm0334318",
+          "name": "Stephen Graham"
+        },
+        {
+          "id": "nm0200452",
+          "name": "Paul Dano"
+        }
+      ],
       "label": "Jan 15, 2027"
     },
     {
@@ -9427,6 +9456,36 @@
         {
           "id": "nm2381142",
           "name": "Amy De Bhrún"
+        }
+      ],
+      "label": "Mar 05, 2027"
+    },
+    {
+      "id": "tt36753615",
+      "title": "Bad Lieutenant: Tokyo",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTdkNzgxYjgtNmFmYi00ZjA3LWI4M2ItMDI1MzZmNzRiMGVjXkEyXkFqcGc@._V1_.jpg",
+      "releaseDate": "Fri, 05 Mar 2027 00:00:00 GMT",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "people": [
+        {
+          "id": "nm4141252",
+          "name": "Lily James"
+        },
+        {
+          "id": "nm0475165",
+          "name": "Jun Kunimura"
+        },
+        {
+          "id": "nm7122863",
+          "name": "Gionna Daddio"
+        },
+        {
+          "id": "nm1040419",
+          "name": "Shun Oguri"
         }
       ],
       "label": "Mar 05, 2027"
