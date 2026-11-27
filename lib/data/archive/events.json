@@ -99420,6 +99420,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-abbf352d-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-abbf352d-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134925.json",
+      "record": {
+        "idEvent": "sdv-nfl-abbf352d-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Pittsburgh Steelers vs Denver Broncos",
+        "strHomeTeam": "Pittsburgh Steelers",
+        "strAwayTeam": "Denver Broncos",
+        "dateEvent": "2026-11-27",
+        "strTime": "20:00:00Z",
+        "strTimestamp": "2026-11-27T20:00:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Acrisure Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134923.json",
