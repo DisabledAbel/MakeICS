@@ -99400,6 +99400,26 @@
     },
     {
       "kind": "sports",
+      "identity": "sports:sdv-nfl-abbf321b-4feb-11f1-abca-2c54536568a9",
+      "uid": "sportsdb-sdv-nfl-abbf321b-4feb-11f1-abca-2c54536568a9@makeics.local",
+      "source": "lib/data/sports/supplemental/134931.json",
+      "record": {
+        "idEvent": "sdv-nfl-abbf321b-4feb-11f1-abca-2c54536568a9",
+        "strEvent": "Buffalo Bills vs Kansas City Chiefs",
+        "strHomeTeam": "Buffalo Bills",
+        "strAwayTeam": "Kansas City Chiefs",
+        "dateEvent": "2026-11-27",
+        "strTime": "01:20:00Z",
+        "strTimestamp": "2026-11-27T01:20:00Z",
+        "strLeague": "NFL",
+        "strVenue": "Highmark Stadium",
+        "strTVStation": null,
+        "strStatus": "NS",
+        "source": "sportsdataverse"
+      }
+    },
+    {
+      "kind": "sports",
       "identity": "sports:sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9",
       "uid": "sportsdb-sdv-nfl-ac015cdc-4feb-11f1-abca-2c54536568a9@makeics.local",
       "source": "lib/data/sports/supplemental/134923.json",

@@ -1,24 +1,10 @@
 {
   "teamId": "134931",
   "teamName": "Kansas City Chiefs",
-  "updatedAt": "2026-11-26T21:34:43.740Z",
+  "updatedAt": "2026-11-27T08:37:33.765Z",
   "generatedAt": "2026-07-18T06:13:33.270Z",
   "generateAt": "2026-07-18T06:13:33.270Z",
   "events": [
-    {
-      "idEvent": "sdv-nfl-abbf321b-4feb-11f1-abca-2c54536568a9",
-      "strEvent": "Buffalo Bills vs Kansas City Chiefs",
-      "strHomeTeam": "Buffalo Bills",
-      "strAwayTeam": "Kansas City Chiefs",
-      "dateEvent": "2026-11-27",
-      "strTime": "01:20:00Z",
-      "strTimestamp": "2026-11-27T01:20:00Z",
-      "strLeague": "NFL",
-      "strVenue": "Highmark Stadium",
-      "strTVStation": null,
-      "strStatus": "NS",
-      "source": "sportsdataverse"
-    },
     {
       "idEvent": "sdv-nfl-abdfe9fb-4feb-11f1-abca-2c54536568a9",
       "strEvent": "Los Angeles Rams vs Kansas City Chiefs",
