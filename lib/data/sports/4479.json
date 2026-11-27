@@ -27095,7 +27095,7 @@
     },
     {
       "idEvent": "2598599",
-      "idAPIfootball": "23385",
+      "idAPIfootball": "25509",
       "strTimestamp": "2026-11-26T20:00:00",
       "strEvent": "Alabama State vs Tuskegee",
       "strEventAlternate": "Tuskegee @ Alabama State",
@@ -27120,7 +27120,7 @@
       "idHomeTeam": "136983",
       "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/vv7mkf1564356318.png",
       "idAwayTeam": "157097",
-      "strAwayTeamBadge": "",
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/ibfk251795461335.png",
       "idVenue": "0",
       "strVenue": "",
       "strCountry": "United States",
@@ -27134,7 +27134,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -27314,7 +27314,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "Q2",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },

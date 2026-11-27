@@ -6900,7 +6900,7 @@
       "strLeague": "UEFA Champions League",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
       "strSeason": "2026-2027",
-      "strDescriptionEN": "",
+      "strDescriptionEN": "Real Madrid host PSV Eindhoven at the Santiago Bernabéu on Matchday 5 of the UEFA Champions League league phase. Madrid will look to strengthen their position in the standings, while the Dutch side aim to secure valuable points in their pursuit of knockout-stage qualification.",
       "strHomeTeam": "Real Madrid",
       "strAwayTeam": "PSV Eindhoven",
       "intRound": "5",
@@ -6928,7 +6928,7 @@
       "strBanner": "",
       "strMap": null,
       "strTweet1": "",
-      "strVideo": "",
+      "strVideo": "https://www.youtube.com/watch?v=f6J5uTffqso",
       "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
@@ -7109,7 +7109,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -7154,7 +7154,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -7199,7 +7199,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -7244,7 +7244,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -7289,7 +7289,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -7334,7 +7334,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -7379,7 +7379,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -7424,7 +7424,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
@@ -7469,7 +7469,7 @@
       "strMap": null,
       "strTweet1": "",
       "strVideo": "",
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     },
