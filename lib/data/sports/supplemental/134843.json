@@ -1,26 +1,8 @@
 {
   "teamId": "134843",
   "teamName": "Philadelphia Flyers",
-  "updatedAt": "2026-11-26T08:35:34.083Z",
+  "updatedAt": "2026-11-27T21:27:01.813Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020405",
-      "strEvent": "Philadelphia Flyers vs Vancouver Canucks",
-      "strHomeTeam": "Philadelphia Flyers",
-      "strAwayTeam": "Vancouver Canucks",
-      "dateEvent": "2026-11-27",
-      "strTime": "20:00:00",
-      "strTimestamp": "2026-11-27T20:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Xfinity Mobile Arena",
-      "strStatus": "NS",
-      "strTVStation": "NBCSP, SN1, SNP",
-      "updatedAt": "2026-11-19T20:47:33.577Z",
-      "source": "scraped",
-      "sourceEventId": "2026020405",
-      "idHomeTeam": "134843",
-      "idAwayTeam": "134850"
-    },
     {
       "idEvent": "nhl-2026020423",
       "strEvent": "Philadelphia Flyers vs New York Islanders",

@@ -1,26 +1,8 @@
 {
   "teamId": "134855",
   "teamName": "Colorado Avalanche",
-  "updatedAt": "2026-11-26T08:35:34.083Z",
+  "updatedAt": "2026-11-27T21:27:01.813Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020408",
-      "strEvent": "Minnesota Wild vs Colorado Avalanche",
-      "strHomeTeam": "Minnesota Wild",
-      "strAwayTeam": "Colorado Avalanche",
-      "dateEvent": "2026-11-27",
-      "strTime": "21:00:00",
-      "strTimestamp": "2026-11-27T21:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Grand Casino Arena",
-      "strStatus": "NS",
-      "strTVStation": "ALT, MINNHL, TVAS, Wild+",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020408",
-      "idHomeTeam": "134857",
-      "idAwayTeam": "134855"
-    },
     {
       "idEvent": "nhl-2026020425",
       "strEvent": "Colorado Avalanche vs San Jose Sharks",

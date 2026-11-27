@@ -1,26 +1,8 @@
 {
   "teamId": "134837",
   "teamName": "Toronto Maple Leafs",
-  "updatedAt": "2026-11-24T10:04:16.265Z",
+  "updatedAt": "2026-11-27T21:27:01.813Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020400",
-      "strEvent": "Boston Bruins vs Toronto Maple Leafs",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Toronto Maple Leafs",
-      "dateEvent": "2026-11-27",
-      "strTime": "18:00:00",
-      "strTimestamp": "2026-11-27T18:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NESN, TSN4, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020400",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "134837"
-    },
     {
       "idEvent": "nhl-2026020420",
       "strEvent": "Pittsburgh Penguins vs Toronto Maple Leafs",

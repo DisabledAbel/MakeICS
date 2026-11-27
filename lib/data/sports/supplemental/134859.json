@@ -1,26 +1,8 @@
 {
   "teamId": "134859",
   "teamName": "St. Louis Blues",
-  "updatedAt": "2026-11-26T08:35:34.083Z",
+  "updatedAt": "2026-11-27T21:27:01.813Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020403",
-      "strEvent": "St. Louis Blues vs Dallas Stars",
-      "strHomeTeam": "St. Louis Blues",
-      "strAwayTeam": "Dallas Stars",
-      "dateEvent": "2026-11-27",
-      "strTime": "19:00:00",
-      "strTimestamp": "2026-11-27T19:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Enterprise Center",
-      "strStatus": "NS",
-      "strTVStation": "BN+, NHLN, Prime Video, SN+, STLNHL",
-      "updatedAt": "2026-10-19T22:28:16.593Z",
-      "source": "scraped",
-      "sourceEventId": "2026020403",
-      "idHomeTeam": "134859",
-      "idAwayTeam": "134856"
-    },
     {
       "idEvent": "nhl-2026020422",
       "strEvent": "St. Louis Blues vs Washington Capitals",

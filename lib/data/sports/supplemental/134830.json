@@ -1,26 +1,8 @@
 {
   "teamId": "134830",
   "teamName": "Boston Bruins",
-  "updatedAt": "2026-11-26T08:35:34.083Z",
+  "updatedAt": "2026-11-27T21:27:01.813Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020400",
-      "strEvent": "Boston Bruins vs Toronto Maple Leafs",
-      "strHomeTeam": "Boston Bruins",
-      "strAwayTeam": "Toronto Maple Leafs",
-      "dateEvent": "2026-11-27",
-      "strTime": "18:00:00",
-      "strTimestamp": "2026-11-27T18:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "TD Garden",
-      "strStatus": "NS",
-      "strTVStation": "NESN, TSN4, TVAS",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020400",
-      "idHomeTeam": "134830",
-      "idAwayTeam": "134837"
-    },
     {
       "idEvent": "nhl-2026020429",
       "strEvent": "Boston Bruins vs Vancouver Canucks",

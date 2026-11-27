@@ -1,26 +1,8 @@
 {
   "teamId": "134832",
   "teamName": "Detroit Red Wings",
-  "updatedAt": "2026-11-26T08:35:34.083Z",
+  "updatedAt": "2026-11-27T21:27:01.813Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020407",
-      "strEvent": "Columbus Blue Jackets vs Detroit Red Wings",
-      "strHomeTeam": "Columbus Blue Jackets",
-      "strAwayTeam": "Detroit Red Wings",
-      "dateEvent": "2026-11-27",
-      "strTime": "20:00:00",
-      "strTimestamp": "2026-11-27T20:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Nationwide Arena",
-      "strStatus": "NS",
-      "strTVStation": "CBJHN, CBJNHL, DSN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020407",
-      "idHomeTeam": "134839",
-      "idAwayTeam": "134832"
-    },
     {
       "idEvent": "nhl-2026020417",
       "strEvent": "Detroit Red Wings vs Nashville Predators",

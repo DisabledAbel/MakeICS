@@ -1,26 +1,8 @@
 {
   "teamId": "134846",
   "teamName": "Anaheim Ducks",
-  "updatedAt": "2026-11-26T08:35:34.083Z",
+  "updatedAt": "2026-11-27T21:27:01.813Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020409",
-      "strEvent": "Anaheim Ducks vs Los Angeles Kings",
-      "strHomeTeam": "Anaheim Ducks",
-      "strAwayTeam": "Los Angeles Kings",
-      "dateEvent": "2026-11-27",
-      "strTime": "21:00:00",
-      "strTimestamp": "2026-11-27T21:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "Honda Center",
-      "strStatus": "NS",
-      "strTVStation": "ABTV , FOXLA+, Prime Video",
-      "updatedAt": "2026-10-15T21:31:03.866Z",
-      "source": "scraped",
-      "sourceEventId": "2026020409",
-      "idHomeTeam": "134846",
-      "idAwayTeam": "134852"
-    },
     {
       "idEvent": "nhl-2026020426",
       "strEvent": "Los Angeles Kings vs Anaheim Ducks",

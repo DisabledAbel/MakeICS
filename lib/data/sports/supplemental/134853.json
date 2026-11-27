@@ -1,26 +1,8 @@
 {
   "teamId": "134853",
   "teamName": "San Jose Sharks",
-  "updatedAt": "2026-11-26T08:35:34.083Z",
+  "updatedAt": "2026-11-27T21:27:01.813Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020410",
-      "strEvent": "San Jose Sharks vs Vegas Golden Knights",
-      "strHomeTeam": "San Jose Sharks",
-      "strAwayTeam": "Vegas Golden Knights",
-      "dateEvent": "2026-11-27",
-      "strTime": "21:00:00",
-      "strTimestamp": "2026-11-27T21:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "SAP Center at San Jose",
-      "strStatus": "NS",
-      "strTVStation": "NBCSCA, SCRIPPS, SN",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020410",
-      "idHomeTeam": "134853",
-      "idAwayTeam": "135913"
-    },
     {
       "idEvent": "nhl-2026020425",
       "strEvent": "Colorado Avalanche vs San Jose Sharks",
