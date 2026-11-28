@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:45:36.723Z",
+  "generatedAt": "2026-11-28T13:57:02.372Z",
   "movies": [
     {
       "id": "tt32104007",
@@ -9306,8 +9306,8 @@
           "name": "Jobie James"
         },
         {
-          "id": "nm7639977",
-          "name": "Angel Rosario Jr."
+          "id": "nm1883803",
+          "name": "Jesse Garcia"
         }
       ],
       "label": "Feb 26, 2027"
@@ -9687,6 +9687,7 @@
       "releaseDate": "Fri, 26 Mar 2027 00:00:00 GMT",
       "genres": [
         "Action",
+        "Horror",
         "Thriller"
       ],
       "people": [
