@@ -1,25 +1,8 @@
 {
   "teamId": "134872",
   "teamName": "Detroit Pistons",
-  "updatedAt": "2026-11-25T01:55:47.347Z",
+  "updatedAt": "2026-11-28T01:07:54.776Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909327",
-      "strEvent": "Detroit Pistons vs Milwaukee Bucks",
-      "strHomeTeam": "Detroit Pistons",
-      "strAwayTeam": "Milwaukee Bucks",
-      "dateEvent": "2026-11-27",
-      "strTime": "00:30:00",
-      "strTimestamp": "2026-11-28T00:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Little Caesars Arena",
-      "strStatus": "NS",
-      "strTVStation": "MyMi",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134872",
-      "idAwayTeam": "134874"
-    },
     {
       "idEvent": "scraped-espn-401910055",
       "strEvent": "Detroit Pistons vs Orlando Magic",
