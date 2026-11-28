@@ -1,26 +1,8 @@
 {
   "teamId": "134831",
   "teamName": "Buffalo Sabres",
-  "updatedAt": "2026-11-26T08:35:34.083Z",
+  "updatedAt": "2026-11-28T08:01:57.112Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020413",
-      "strEvent": "Buffalo Sabres vs Pittsburgh Penguins",
-      "strHomeTeam": "Buffalo Sabres",
-      "strAwayTeam": "Pittsburgh Penguins",
-      "dateEvent": "2026-11-27",
-      "strTime": "01:00:00",
-      "strTimestamp": "2026-11-28T01:00:00Z",
-      "strLeague": "NHL",
-      "strVenue": "KeyBank Center",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN+, TNT, TVAS, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020413",
-      "idHomeTeam": "134831",
-      "idAwayTeam": "134844"
-    },
     {
       "idEvent": "nhl-2026020441",
       "strEvent": "Edmonton Oilers vs Buffalo Sabres",

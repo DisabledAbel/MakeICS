@@ -1,26 +1,8 @@
 {
   "teamId": "134842",
   "teamName": "New York Rangers",
-  "updatedAt": "2026-11-26T08:35:34.083Z",
+  "updatedAt": "2026-11-28T08:01:57.112Z",
   "events": [
-    {
-      "idEvent": "nhl-2026020411",
-      "strEvent": "Chicago Blackhawks vs New York Rangers",
-      "strHomeTeam": "Chicago Blackhawks",
-      "strAwayTeam": "New York Rangers",
-      "dateEvent": "2026-11-27",
-      "strTime": "22:30:00",
-      "strTimestamp": "2026-11-27T22:30:00Z",
-      "strLeague": "NHL",
-      "strVenue": "United Center",
-      "strStatus": "NS",
-      "strTVStation": "HBO MAX, SN+, TNT, truTV",
-      "updatedAt": "2026-10-01T23:56:52.194Z",
-      "source": "scraped",
-      "sourceEventId": "2026020411",
-      "idHomeTeam": "134854",
-      "idAwayTeam": "134842"
-    },
     {
       "idEvent": "nhl-2026020419",
       "strEvent": "New York Rangers vs Calgary Flames",
