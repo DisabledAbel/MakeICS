@@ -1,7 +1,7 @@
 {
   "teamId": "134884",
   "teamName": "Washington Wizards",
-  "updatedAt": "2026-11-26T01:35:57.870Z",
+  "updatedAt": "2026-11-28T15:05:27.490Z",
   "events": [
     {
       "idEvent": "scraped-espn-401910046",
@@ -53,6 +53,40 @@
       "source": "scraped",
       "idHomeTeam": "134882",
       "idAwayTeam": "134884"
+    },
+    {
+      "idEvent": "scraped-espn-401937099",
+      "strEvent": "New York Knicks vs Washington Wizards",
+      "strHomeTeam": "New York Knicks",
+      "strAwayTeam": "Washington Wizards",
+      "dateEvent": "2026-12-06",
+      "strTime": "23:00:00",
+      "strTimestamp": "2026-12-06T23:00:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Madison Square Garden",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134862",
+      "idAwayTeam": "134884"
+    },
+    {
+      "idEvent": "scraped-espn-401937109",
+      "strEvent": "Washington Wizards vs Indiana Pacers",
+      "strHomeTeam": "Washington Wizards",
+      "strAwayTeam": "Indiana Pacers",
+      "dateEvent": "2026-12-10",
+      "strTime": "00:00:00",
+      "strTimestamp": "2026-12-11T00:00:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Capital One Arena",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134884",
+      "idAwayTeam": "134873"
     },
     {
       "idEvent": "scraped-espn-401910091",

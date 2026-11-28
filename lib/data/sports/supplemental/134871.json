@@ -1,7 +1,7 @@
 {
   "teamId": "134871",
   "teamName": "Cleveland Cavaliers",
-  "updatedAt": "2026-11-26T01:35:57.870Z",
+  "updatedAt": "2026-11-28T15:05:27.490Z",
   "events": [
     {
       "idEvent": "scraped-espn-401910054",
@@ -52,6 +52,40 @@
       "updatedAt": "2026-10-10T06:13:46.235Z",
       "source": "scraped",
       "idHomeTeam": "134870",
+      "idAwayTeam": "134871"
+    },
+    {
+      "idEvent": "scraped-espn-401937098",
+      "strEvent": "Cleveland Cavaliers vs Orlando Magic",
+      "strHomeTeam": "Cleveland Cavaliers",
+      "strAwayTeam": "Orlando Magic",
+      "dateEvent": "2026-12-06",
+      "strTime": "23:00:00",
+      "strTimestamp": "2026-12-06T23:00:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Rocket Arena",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134871",
+      "idAwayTeam": "134883"
+    },
+    {
+      "idEvent": "scraped-espn-401937111",
+      "strEvent": "Miami Heat vs Cleveland Cavaliers",
+      "strHomeTeam": "Miami Heat",
+      "strAwayTeam": "Cleveland Cavaliers",
+      "dateEvent": "2026-12-10",
+      "strTime": "00:30:00",
+      "strTimestamp": "2026-12-11T00:30:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Kaseya Center",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134882",
       "idAwayTeam": "134871"
     },
     {

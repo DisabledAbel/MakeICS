@@ -1,7 +1,7 @@
 {
   "teamId": "134861",
   "teamName": "Brooklyn Nets",
-  "updatedAt": "2026-11-28T01:07:54.776Z",
+  "updatedAt": "2026-11-28T15:05:27.490Z",
   "events": [
     {
       "idEvent": "scraped-espn-401910047",
@@ -53,6 +53,40 @@
       "source": "scraped",
       "idHomeTeam": "134887",
       "idAwayTeam": "134861"
+    },
+    {
+      "idEvent": "scraped-espn-401937105",
+      "strEvent": "Chicago Bulls vs Brooklyn Nets",
+      "strHomeTeam": "Chicago Bulls",
+      "strAwayTeam": "Brooklyn Nets",
+      "dateEvent": "2026-12-07",
+      "strTime": "01:00:00",
+      "strTimestamp": "2026-12-08T01:00:00Z",
+      "strLeague": "NBA",
+      "strVenue": "United Center",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134870",
+      "idAwayTeam": "134861"
+    },
+    {
+      "idEvent": "scraped-espn-401937110",
+      "strEvent": "Brooklyn Nets vs New Orleans Pelicans",
+      "strHomeTeam": "Brooklyn Nets",
+      "strAwayTeam": "New Orleans Pelicans",
+      "dateEvent": "2026-12-10",
+      "strTime": "00:30:00",
+      "strTimestamp": "2026-12-11T00:30:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Barclays Center",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134861",
+      "idAwayTeam": "134878"
     },
     {
       "idEvent": "scraped-espn-401910098",

@@ -1,25 +1,8 @@
 {
   "teamId": "134877",
   "teamName": "Memphis Grizzlies",
-  "updatedAt": "2026-11-26T01:35:57.870Z",
+  "updatedAt": "2026-11-28T15:05:27.490Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909331",
-      "strEvent": "Minnesota Timberwolves vs Memphis Grizzlies",
-      "strHomeTeam": "Minnesota Timberwolves",
-      "strAwayTeam": "Memphis Grizzlies",
-      "dateEvent": "2026-11-27",
-      "strTime": "01:30:00",
-      "strTimestamp": "2026-11-28T01:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Target Center",
-      "strStatus": "NS",
-      "strTVStation": "DAZN MIN",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134886",
-      "idAwayTeam": "134877"
-    },
     {
       "idEvent": "scraped-espn-401910051",
       "strEvent": "Memphis Grizzlies vs Los Angeles Lakers",
@@ -69,6 +52,23 @@
       "updatedAt": "2026-10-22T03:25:05.748Z",
       "source": "scraped",
       "idHomeTeam": "134872",
+      "idAwayTeam": "134877"
+    },
+    {
+      "idEvent": "scraped-espn-401909453",
+      "strEvent": "Portland Trail Blazers vs Memphis Grizzlies",
+      "strHomeTeam": "Portland Trail Blazers",
+      "strAwayTeam": "Memphis Grizzlies",
+      "dateEvent": "2026-12-05",
+      "strTime": "03:00:00",
+      "strTimestamp": "2026-12-06T03:00:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Moda Center",
+      "strStatus": "NS",
+      "strTVStation": "Prime Video",
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134888",
       "idAwayTeam": "134877"
     },
     {

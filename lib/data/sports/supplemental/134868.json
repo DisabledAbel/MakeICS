@@ -1,25 +1,8 @@
 {
   "teamId": "134868",
   "teamName": "Phoenix Suns",
-  "updatedAt": "2026-11-26T01:35:57.870Z",
+  "updatedAt": "2026-11-28T15:05:27.490Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909332",
-      "strEvent": "Phoenix Suns vs Dallas Mavericks",
-      "strHomeTeam": "Phoenix Suns",
-      "strAwayTeam": "Dallas Mavericks",
-      "dateEvent": "2026-11-27",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-11-28T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Mortgage Matchup Center",
-      "strStatus": "NS",
-      "strTVStation": "Suns Live",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134868",
-      "idAwayTeam": "134875"
-    },
     {
       "idEvent": "scraped-espn-401910053",
       "strEvent": "Utah Jazz vs Phoenix Suns",
@@ -70,6 +53,40 @@
       "source": "scraped",
       "idHomeTeam": "134868",
       "idAwayTeam": "134869"
+    },
+    {
+      "idEvent": "scraped-espn-401937096",
+      "strEvent": "Houston Rockets vs Phoenix Suns",
+      "strHomeTeam": "Houston Rockets",
+      "strAwayTeam": "Phoenix Suns",
+      "dateEvent": "2026-12-06",
+      "strTime": "20:30:00",
+      "strTimestamp": "2026-12-06T20:30:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Toyota Center (Houston)",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134876",
+      "idAwayTeam": "134868"
+    },
+    {
+      "idEvent": "scraped-espn-401937113",
+      "strEvent": "Phoenix Suns vs Oklahoma City Thunder",
+      "strHomeTeam": "Phoenix Suns",
+      "strAwayTeam": "Oklahoma City Thunder",
+      "dateEvent": "2026-12-10",
+      "strTime": "02:00:00",
+      "strTimestamp": "2026-12-11T02:00:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Mortgage Matchup Center",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134868",
+      "idAwayTeam": "134887"
     },
     {
       "idEvent": "scraped-espn-401910095",

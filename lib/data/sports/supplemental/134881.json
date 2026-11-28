@@ -1,7 +1,7 @@
 {
   "teamId": "134881",
   "teamName": "Charlotte Hornets",
-  "updatedAt": "2026-11-26T01:35:57.870Z",
+  "updatedAt": "2026-11-28T15:05:27.490Z",
   "events": [
     {
       "idEvent": "scraped-espn-401910047",
@@ -53,6 +53,40 @@
       "source": "scraped",
       "idHomeTeam": "134860",
       "idAwayTeam": "134881"
+    },
+    {
+      "idEvent": "scraped-espn-401937104",
+      "strEvent": "Toronto Raptors vs Charlotte Hornets",
+      "strHomeTeam": "Toronto Raptors",
+      "strAwayTeam": "Charlotte Hornets",
+      "dateEvent": "2026-12-07",
+      "strTime": "00:30:00",
+      "strTimestamp": "2026-12-08T00:30:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Scotiabank Arena",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134864",
+      "idAwayTeam": "134881"
+    },
+    {
+      "idEvent": "scraped-espn-401937107",
+      "strEvent": "Charlotte Hornets vs New York Knicks",
+      "strHomeTeam": "Charlotte Hornets",
+      "strAwayTeam": "New York Knicks",
+      "dateEvent": "2026-12-10",
+      "strTime": "00:00:00",
+      "strTimestamp": "2026-12-11T00:00:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Spectrum Center",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134881",
+      "idAwayTeam": "134862"
     },
     {
       "idEvent": "scraped-espn-401910091",

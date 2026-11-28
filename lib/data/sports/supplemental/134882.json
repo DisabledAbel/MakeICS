@@ -1,7 +1,7 @@
 {
   "teamId": "134882",
   "teamName": "Miami Heat",
-  "updatedAt": "2026-11-28T01:07:54.776Z",
+  "updatedAt": "2026-11-28T15:05:27.490Z",
   "events": [
     {
       "idEvent": "scraped-espn-401910054",
@@ -53,6 +53,40 @@
       "source": "scraped",
       "idHomeTeam": "134882",
       "idAwayTeam": "134884"
+    },
+    {
+      "idEvent": "scraped-espn-401937103",
+      "strEvent": "Indiana Pacers vs Miami Heat",
+      "strHomeTeam": "Indiana Pacers",
+      "strAwayTeam": "Miami Heat",
+      "dateEvent": "2026-12-07",
+      "strTime": "00:00:00",
+      "strTimestamp": "2026-12-08T00:00:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Gainbridge Fieldhouse",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134873",
+      "idAwayTeam": "134882"
+    },
+    {
+      "idEvent": "scraped-espn-401937111",
+      "strEvent": "Miami Heat vs Cleveland Cavaliers",
+      "strHomeTeam": "Miami Heat",
+      "strAwayTeam": "Cleveland Cavaliers",
+      "dateEvent": "2026-12-10",
+      "strTime": "00:30:00",
+      "strTimestamp": "2026-12-11T00:30:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Kaseya Center",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134882",
+      "idAwayTeam": "134871"
     },
     {
       "idEvent": "scraped-espn-401910094",

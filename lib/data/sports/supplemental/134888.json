@@ -1,25 +1,8 @@
 {
   "teamId": "134888",
   "teamName": "Portland Trail Blazers",
-  "updatedAt": "2026-11-26T16:26:37.075Z",
+  "updatedAt": "2026-11-28T15:05:27.490Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909336",
-      "strEvent": "Portland Trail Blazers vs Golden State Warriors",
-      "strHomeTeam": "Portland Trail Blazers",
-      "strAwayTeam": "Golden State Warriors",
-      "dateEvent": "2026-11-27",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-28T02:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Moda Center",
-      "strStatus": "NS",
-      "strTVStation": "KUNP 16",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134888",
-      "idAwayTeam": "134865"
-    },
     {
       "idEvent": "scraped-espn-401910058",
       "strEvent": "Portland Trail Blazers vs New Orleans Pelicans",
@@ -70,6 +53,23 @@
       "source": "scraped",
       "idHomeTeam": "134888",
       "idAwayTeam": "134889"
+    },
+    {
+      "idEvent": "scraped-espn-401909453",
+      "strEvent": "Portland Trail Blazers vs Memphis Grizzlies",
+      "strHomeTeam": "Portland Trail Blazers",
+      "strAwayTeam": "Memphis Grizzlies",
+      "dateEvent": "2026-12-05",
+      "strTime": "03:00:00",
+      "strTimestamp": "2026-12-06T03:00:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Moda Center",
+      "strStatus": "NS",
+      "strTVStation": "Prime Video",
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134888",
+      "idAwayTeam": "134877"
     },
     {
       "idEvent": "scraped-espn-401910097",

@@ -1,25 +1,8 @@
 {
   "teamId": "134878",
   "teamName": "New Orleans Pelicans",
-  "updatedAt": "2026-11-24T03:49:49.765Z",
+  "updatedAt": "2026-11-28T15:05:27.490Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909335",
-      "strEvent": "Los Angeles Clippers vs New Orleans Pelicans",
-      "strHomeTeam": "Los Angeles Clippers",
-      "strAwayTeam": "New Orleans Pelicans",
-      "dateEvent": "2026-11-27",
-      "strTime": "02:30:00",
-      "strTimestamp": "2026-11-28T02:30:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Intuit Dome",
-      "strStatus": "NS",
-      "strTVStation": "ClipperVision",
-      "updatedAt": "2026-10-21T21:16:59.037Z",
-      "source": "scraped",
-      "idHomeTeam": "134866",
-      "idAwayTeam": "134878"
-    },
     {
       "idEvent": "scraped-espn-401910058",
       "strEvent": "Portland Trail Blazers vs New Orleans Pelicans",
@@ -70,6 +53,40 @@
       "source": "scraped",
       "idHomeTeam": "134878",
       "idAwayTeam": "134867"
+    },
+    {
+      "idEvent": "scraped-espn-401937106",
+      "strEvent": "New Orleans Pelicans vs Golden State Warriors",
+      "strHomeTeam": "New Orleans Pelicans",
+      "strAwayTeam": "Golden State Warriors",
+      "dateEvent": "2026-12-07",
+      "strTime": "01:00:00",
+      "strTimestamp": "2026-12-08T01:00:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Smoothie King Center",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134878",
+      "idAwayTeam": "134865"
+    },
+    {
+      "idEvent": "scraped-espn-401937110",
+      "strEvent": "Brooklyn Nets vs New Orleans Pelicans",
+      "strHomeTeam": "Brooklyn Nets",
+      "strAwayTeam": "New Orleans Pelicans",
+      "dateEvent": "2026-12-10",
+      "strTime": "00:30:00",
+      "strTimestamp": "2026-12-11T00:30:00Z",
+      "strLeague": "NBA",
+      "strVenue": "Barclays Center",
+      "strStatus": "NS",
+      "strTVStation": null,
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134861",
+      "idAwayTeam": "134878"
     },
     {
       "idEvent": "scraped-espn-401910103",

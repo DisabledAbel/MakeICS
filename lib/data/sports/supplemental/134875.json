@@ -1,25 +1,8 @@
 {
   "teamId": "134875",
   "teamName": "Dallas Mavericks",
-  "updatedAt": "2026-11-25T16:49:41.548Z",
+  "updatedAt": "2026-11-28T15:05:27.490Z",
   "events": [
-    {
-      "idEvent": "scraped-espn-401909332",
-      "strEvent": "Phoenix Suns vs Dallas Mavericks",
-      "strHomeTeam": "Phoenix Suns",
-      "strAwayTeam": "Dallas Mavericks",
-      "dateEvent": "2026-11-27",
-      "strTime": "02:00:00",
-      "strTimestamp": "2026-11-28T02:00:00Z",
-      "strLeague": "NBA",
-      "strVenue": "Mortgage Matchup Center",
-      "strStatus": "NS",
-      "strTVStation": "Suns Live",
-      "updatedAt": "2026-10-21T16:39:51.754Z",
-      "source": "scraped",
-      "idHomeTeam": "134868",
-      "idAwayTeam": "134875"
-    },
     {
       "idEvent": "scraped-espn-401910065",
       "strEvent": "Dallas Mavericks vs Boston Celtics",
@@ -53,6 +36,23 @@
       "source": "scraped",
       "idHomeTeam": "134875",
       "idAwayTeam": "134883"
+    },
+    {
+      "idEvent": "scraped-espn-401909451",
+      "strEvent": "Dallas Mavericks vs San Antonio Spurs",
+      "strHomeTeam": "Dallas Mavericks",
+      "strAwayTeam": "San Antonio Spurs",
+      "dateEvent": "2026-12-04",
+      "strTime": "02:30:00",
+      "strTimestamp": "2026-12-05T02:30:00Z",
+      "strLeague": "NBA",
+      "strVenue": "American Airlines Center",
+      "strStatus": "NS",
+      "strTVStation": "Prime Video",
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134875",
+      "idAwayTeam": "134879"
     },
     {
       "idEvent": "scraped-espn-401910109",

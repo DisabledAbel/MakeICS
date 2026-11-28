@@ -1,7 +1,7 @@
 {
   "teamId": "134880",
   "teamName": "Atlanta Hawks",
-  "updatedAt": "2026-11-28T01:07:54.776Z",
+  "updatedAt": "2026-11-28T15:05:27.490Z",
   "events": [
     {
       "idEvent": "scraped-espn-401910056",
@@ -42,17 +42,34 @@
       "strEvent": "Atlanta Hawks vs Indiana Pacers",
       "strHomeTeam": "Atlanta Hawks",
       "strAwayTeam": "Indiana Pacers",
-      "dateEvent": "2026-12-03",
-      "strTime": "00:00:00",
-      "strTimestamp": "2026-12-04T00:00:00Z",
+      "dateEvent": "2026-12-02",
+      "strTime": "01:00:00",
+      "strTimestamp": "2026-12-03T01:00:00Z",
       "strLeague": "NBA",
       "strVenue": "State Farm Arena",
       "strStatus": "NS",
       "strTVStation": null,
-      "updatedAt": "2026-10-10T06:13:46.235Z",
+      "updatedAt": "2026-11-28T15:05:27.490Z",
       "source": "scraped",
       "idHomeTeam": "134880",
       "idAwayTeam": "134873"
+    },
+    {
+      "idEvent": "scraped-espn-401909450",
+      "strEvent": "Atlanta Hawks vs Philadelphia 76ers",
+      "strHomeTeam": "Atlanta Hawks",
+      "strAwayTeam": "Philadelphia 76ers",
+      "dateEvent": "2026-12-04",
+      "strTime": "00:00:00",
+      "strTimestamp": "2026-12-05T00:00:00Z",
+      "strLeague": "NBA",
+      "strVenue": "State Farm Arena",
+      "strStatus": "NS",
+      "strTVStation": "Prime Video",
+      "updatedAt": "2026-11-28T15:05:27.490Z",
+      "source": "scraped",
+      "idHomeTeam": "134880",
+      "idAwayTeam": "134863"
     },
     {
       "idEvent": "scraped-espn-401910097",
